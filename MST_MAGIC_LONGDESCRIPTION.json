@@ -95,6 +95,14 @@
         "Heilt allmählich die LP eines Verbündeten.",
         "Regenera gradualmente la VIT de un aliado."
     ],
+    "10121": [
+        "Gradually regenerates HP for one ally.",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "10122": [
         "Gradually regenerates HP for one ally.",
         "持續恢復1名隊員的HP。",
@@ -171,7 +179,7 @@
         "Revives and fully restores one ally.",
         "使1名隊員從無法戰鬥狀態中完全復活。",
         "아군 1명을 전투불능 상태에서 모두 회복시킵니다.",
-        "Ressuscite et rend tous les PV d'un allié",
+        "Ressuscite et rend tous les PV d'un allié ",
         "Belebt einen Verbündeten wieder und heilt ihn vollständig.",
         "Resucita a un aliado K.O. y recupera toda su VIT"
     ],
@@ -219,7 +227,7 @@
         "Deals light damage to one enemy.",
         "對1名敵人發動光屬性攻擊。",
         "적 1명에게 빛속성 피해를 줍니다.",
-        "Inflige des dégâts de lumière sur un ennemi.",
+        "Inflige des dégâts de lumière sur un ennemi. ",
         "Fügt einem Gegner Lichtschaden zu.",
         "Inflige daño de luz a un enemigo."
     ],
@@ -227,7 +235,7 @@
         "Deals light damage to all enemies.",
         "對全體敵人發動光屬性攻擊。",
         "적 전체에 빛속성 피해를 줍니다.",
-        "Inflige des dégâts de lumière sur tous les ennemis.",
+        "Inflige des dégâts de lumière sur tous les ennemis. ",
         "Fügt allen Gegnern Lichtschaden zu.",
         "Inflige daño de luz a todos los enemigos."
     ],
@@ -235,7 +243,7 @@
         "Deals light damage to one enemy.",
         "對1名敵人發動光屬性攻擊。",
         "적 1명에게 빛속성 피해를 줍니다.",
-        "Inflige des dégâts de lumière sur un ennemi.",
+        "Inflige des dégâts de lumière sur un ennemi. ",
         "Fügt einem Gegner Lichtschaden zu.",
         "Inflige daño de luz a un enemigo."
     ],
@@ -243,7 +251,7 @@
         "Deals light damage to all enemies.",
         "對全體敵人發動光屬性攻擊。",
         "적 전체에 빛속성 피해를 줍니다.",
-        "Inflige des dégâts de lumière sur tous les ennemis.",
+        "Inflige des dégâts de lumière sur tous les ennemis. ",
         "Fügt allen Gegnern Lichtschaden zu.",
         "Inflige daño de luz a todos los enemigos."
     ],
@@ -259,7 +267,7 @@
         "Restores HP for all allies.",
         "恢復全體隊員的HP。",
         "아군 전체의 HP를 회복합니다.",
-        "Restaure les PV de tous les alliés.",
+        "Restaure les PV de tous les alliés. ",
         "Heilt LP aller Verbündeten.",
         "Recupera la VIT de todos los aliados."
     ],
@@ -326,6 +334,22 @@
         "Retire la réduction de la PSY à tous les alliés.",
         "Entfernt PSY-Verringerung für alle Verb.",
         "Elimina reducción de ESP a todos los aliados."
+    ],
+    "10380": [
+        "Gradually restores MP for one ally.",
+        "持續恢復1名隊員的MP。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "10390": [
+        "Cures poison, blind, sleep, silence, and petrification for one ally.",
+        "治療1名隊員的中毒失明睡眠沉默石化狀態。",
+        null,
+        null,
+        null,
+        null
     ],
     "20010": [
         "Deals fire damage to one enemy.",
@@ -751,6 +775,14 @@
         "Fügt allen Gegnern und Verbündeten direkten Dunkelschaden zu, der teilweise die ABW umgeht.",
         "Daño absoluto parcial oscuro a todos los enemigos y aliados."
     ],
+    "20550": [
+        "Deals ice damge to one enemy and power up with consecutive use.",
+        "對1名敵人發動冰屬性攻擊。連續使用時威力上升。",
+        null,
+        null,
+        null,
+        null
+    ],
     "30010": [
         "Chance of putting one enemy to sleep.",
         "一定機率對1名敵人施加睡眠效果。",
@@ -823,6 +855,14 @@
         "Erhöht ABW bei einem Verbündeten.",
         "Aumenta la DEF de un aliado."
     ],
+    "30091": [
+        "Boosts DEF for one ally.",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "30100": [
         "Chance of silencing one enemy.",
         "一定機率對對1名敵人施加沉默效果。",
@@ -862,6 +902,14 @@
         "Augmente la PSY d'un allié.",
         "Erhöht PSY bei einem Verbündeten.",
         "Aumenta el ESP de un aliado."
+    ],
+    "30141": [
+        "Boosts SPR for one ally.",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "30150": [
         "Reduces DEF for one enemy.",
@@ -1022,6 +1070,30 @@
         "Renvoie la magie lancée sur un allié.",
         "Reflektiert Magie, ein Verb.",
         "Refleja la magia dirigida a un aliado."
+    ],
+    "30380": [
+        "Reduces fire resistance for all enemies.",
+        "降低全體敵人火屬性耐性的數值。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "30400": [
+        "Reduces lightning resistance for all enemies.",
+        "降低全體敵人雷屬性耐性的數值。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "30440": [
+        "Reduces light resistance for all enemies.",
+        "降低全體敵人光屬性耐性的數值",
+        null,
+        null,
+        null,
+        null
     ],
     "70010": [
         "Deals lightning damage to all enemies.",
@@ -1283,7 +1355,7 @@
         "Deals light damage to all enemies.",
         "對全體敵人發動光屬性攻擊。",
         "적 전체에 빛속성 피해를 줍니다.",
-        "Inflige des dégâts de lumière sur tous les ennemis.",
+        "Inflige des dégâts de lumière sur tous les ennemis. ",
         "Fügt allen Gegnern Lichtschaden zu.",
         "Inflige daño de luz a todos los enemigos."
     ],
@@ -1291,7 +1363,7 @@
         "Deals light damage to all enemies.",
         "對全體敵人發動光屬性攻擊。",
         "적 전체에 빛속성 피해를 줍니다.",
-        "Inflige des dégâts de lumière sur tous les ennemis.",
+        "Inflige des dégâts de lumière sur tous les ennemis. ",
         "Fügt allen Gegnern Lichtschaden zu.",
         "Inflige daño de luz a todos los enemigos."
     ],
@@ -1357,7 +1429,7 @@
         "적 전체에 어둠속성 피해를 주고, 공격력, 방어력, 마력, 정신력을 감소시킵니다.",
         "Inflige des dégâts de ténèbres et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis.",
         "Fügt allen Gegnern Dunkelschaden zu und reduziert ihre ANG, ABW, MAG und PSY.",
-        "Inflige daño oscuro a todos los enemigos y reduce su ATQ/DEF/MAG/ESP."
+        "Inflige daño oscuro a todos los enemigos y reduce su ATQ/DEF/MAG/ESP.\n\r"
     ],
     "91000": [
         "Gradually regenerates HP for one ally.",
@@ -1379,7 +1451,7 @@
         "Automatically regenerate HP and MP during battle",
         "持續恢復自身HP/MP。",
         "전투 중 항상 HP와 MP를 회복합니다.",
-        "Régénère automatiquement les PV/PM en combat",
+        "Régénère automatiquement les PV/PM en combat ",
         "Stellt während des Kampfes automatisch LP und MP wieder her.",
         "Recupera la VIT y los PM durante el combate"
     ]
