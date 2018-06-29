@@ -1,0 +1,626 @@
+{
+    "0": [
+        "Use items",
+        "使用道具",
+        "아이템 사용",
+        "Avec objets",
+        "Gegenstände verwenden",
+        "Usa objetos"
+    ],
+    "1": [
+        "No items",
+        "未使用道具",
+        "아이템 미사용",
+        "Sans d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "2": [
+        "Use items (special)",
+        "使用道具(特定)",
+        "아이템(특정) 사용",
+        "Avec objets (spécial)",
+        "Gegenstände verwenden (spezial)",
+        "Usa objetos (especiales)"
+    ],
+    "3": [
+        "No items (special)",
+        "未使用道具(特定)",
+        "아이템(특정) 미사용",
+        "Sans objets (spécial)",
+        "Keine Gegenstände (spezial)",
+        "No uses objetos (especiales)"
+    ],
+    "4": [
+        "Finish with item",
+        "使用道具終結",
+        "아이템으로 처치",
+        "Finir avec un objet",
+        "Mit Gegenstand abschließen",
+        "Acaba con un objeto"
+    ],
+    "5": [
+        "Use magic",
+        "使用魔法",
+        "마법 사용",
+        "Avec magie",
+        "Benutze Magie",
+        "Usa magia"
+    ],
+    "6": [
+        "No magic",
+        "未使用魔法",
+        "마법 미사용",
+        "Sans magie",
+        "Keine Magie",
+        "No uses magia"
+    ],
+    "7": [
+        "Use magic (select ID)",
+        "使用魔法(指定ID)",
+        "마법(ID 지정) 사용",
+        "Avec magie  (choisir ID)",
+        "Benutze Magie (ID wählen)",
+        "Usa magia (selecciona ID)"
+    ],
+    "8": [
+        "No magic (select ID)",
+        "未使用魔法(指定ID)",
+        "마법(ID 지정) 미사용",
+        "Sans magie (choisir ID)",
+        "Keine Magie (ID wählen)",
+        "No uses magia (selecciona ID)"
+    ],
+    "9": [
+        "Use magic (select process ID)",
+        "使用魔法(指定process ID)",
+        "마법(처리 타입 지정) 사용",
+        "Avec magie (Choisir process ID)",
+        "Benutze Magie (Prozess-ID wählen)",
+        "Usa magia (selecciona ID de proceso)"
+    ],
+    "10": [
+        "No magic (select process ID)",
+        "未使用魔法(指定process ID)",
+        "마법(처리 타입 지정) 미사용",
+        "Sans magie (Choisir process ID)",
+        "Keine Magie  (Prozess-ID wählen)",
+        "No uses magia (selecciona ID de proceso)"
+    ],
+    "11": [
+        "Use magic (select skill type)",
+        "使用魔法(指定skill type)",
+        "마법(스킬 타입 지정) 사용",
+        "Avec magie (Choisir type d'aptitude)",
+        "Benutze Magie (Fertigkeitstyp wählen)",
+        "Usa magia (selecciona tipo de habilidad)"
+    ],
+    "12": [
+        "No magic (select skill type)",
+        "未使用魔法(指定skill type)",
+        "마법(스킬 타입 지정) 미사용",
+        "Sans magie (Choisir type d'aptitude)",
+        "Keine Magie (Fertigkeitstyp wählen)",
+        "No uses magia (selecciona tipo de habilidad)"
+    ],
+    "13": [
+        "Use magic (select type)",
+        "使用魔法(指定種類)",
+        "마법(종류 지정) 사용",
+        "Avec magie (choisir type)",
+        "Benutze Magie (Typ wählen)",
+        "Usa magia (selecciona tipo)"
+    ],
+    "14": [
+        "CHALLENGE_COND_MAGIC_KIND_USE_CLEAR_NOT",
+        "CHALLENGE_COND_MAGIC_KIND_USE_CLEAR_NOT",
+        "CHALLENGE_COND_MAGIC_KIND_USE_CLEAR_NOT",
+        "CHALLENGE_COND_MAGIC_KIND_USE_CLEAR_NOT",
+        "CHALLENGE_COND_MAGIC_KIND_USE_CLEAR_NOT",
+        "CHALLENGE_COND_MAGIC_KIND_USE_CLEAR_NOT"
+    ],
+    "15": [
+        "Finish with magic",
+        "使用魔法終結",
+        "마법으로 처치",
+        "Finir avec une magie",
+        "Mit Magie abschließen",
+        "Acaba con magia"
+    ],
+    "16": [
+        "Use LB",
+        "使用LB",
+        "LB 사용",
+        "Avec limite",
+        "LR nutzen",
+        "Usa EL"
+    ],
+    "17": [
+        "No LB",
+        "未使用LB",
+        "LB 미사용",
+        "Sans limite",
+        "Kein LR",
+        "No uses EL"
+    ],
+    "18": [
+        "Finish with LB",
+        "使用LB終結",
+        "LB로 처치",
+        "Finir avec une limite",
+        "Mit LR abschließen",
+        "Acaba con EL"
+    ],
+    "19": [
+        "Use ability",
+        "使用能力",
+        "어빌리티 사용",
+        "Avec aptitudes",
+        "Fertigkeit benutzen",
+        "Usa habilidad"
+    ],
+    "20": [
+        "No abilities",
+        "未使用能力",
+        "어빌리티 미사용",
+        "Sans aptitudes",
+        "Keine Fertigkeiten",
+        "No uses habilidades"
+    ],
+    "21": [
+        "Use ability (select ID)",
+        "使用能力(指定ID)",
+        "어빌리티(ID 지정) 사용",
+        "Avec aptitude (choisir ID)",
+        "Fertigkeit benutzen (ID wählen)",
+        "Usa habilidad (selecciona ID)"
+    ],
+    "22": [
+        "No ability (select ID)",
+        "未使用能力(指定ID)",
+        "어빌리티(ID 지정) 미사용",
+        "Sans aptitude (choisir ID)",
+        "Keine Fertigkeit (ID wählen)",
+        "No uses habilidades (selecciona ID)"
+    ],
+    "23": [
+        "Finish with ability",
+        "使用能力終結",
+        "어빌리티로 처치",
+        "Finir avec une aptitude",
+        "Mit Fertigkeit abschließen",
+        "Acaba con una habilidad"
+    ],
+    "24": [
+        "Use elemental attack",
+        "使用屬性攻擊",
+        "속성 공격 사용",
+        "Avec attaques élémentaires",
+        "Elementarangriff nutzen",
+        "Usa ataque elemental"
+    ],
+    "25": [
+        "No elemental attack",
+        "未使用屬性攻擊",
+        "속성 공격 미사용",
+        "Sans attaques élémentaires",
+        "Kein Elementarangriff",
+        "No uses ataque elemental"
+    ],
+    "26": [
+        "Use elemental attack (select element)",
+        "使用屬性攻擊(指定屬性)",
+        "속성 공격(속성 지정) 사용",
+        "Avec attaque élémentaire (choisir élément)",
+        "Elementarangriff nutzen (Element wählen)",
+        "Usa ataque elemental (selecciona elemento)"
+    ],
+    "27": [
+        "No elemental attack (select element)",
+        "未使用屬性攻擊(指定屬性)",
+        "속성 공격(속성 지정) 미사용",
+        "Sans attaque élémentaire (choisir élément)",
+        "Kein Elementarangriff (Element wählen)",
+        "No uses ataque elemental (selecciona elemento)"
+    ],
+    "28": [
+        "Use esper",
+        "使用幻獸",
+        "환수 사용",
+        "Avec chimère",
+        "Esper benutzen",
+        "Usa esper"
+    ],
+    "29": [
+        "No espers",
+        "未使用幻獸",
+        "환수 미사용",
+        "Sans chimères",
+        "Keine Esper",
+        "No uses espers"
+    ],
+    "30": [
+        "Use esper (select ID)",
+        "使用幻獸(指定ID)",
+        "환수(ID 지정) 사용",
+        "Avec chimère (choisir ID)",
+        "Esper benutzen (Element wählen)",
+        "Usa esper (selecciona ID)"
+    ],
+    "31": [
+        "No espers (select ID)",
+        "未使用幻獸(指定ID)",
+        "환수(ID 지정) 미사용",
+        "Sans chimère (choisir ID)",
+        "Keiner Esper (Element wählen)",
+        "No uses espers (selecciona ID)"
+    ],
+    "32": [
+        "Finish with esper",
+        "使用幻獸終結",
+        "환수로 처치",
+        "Finir avec une chimère",
+        "Mit Esper abschließen",
+        "Acaba con esper"
+    ],
+    "33": [
+        "No KO'd units",
+        "禁止兵員陣亡",
+        "유닛 사망 금지",
+        "Pas d'unités K.O.",
+        "Keine kampfunf. Einheiten",
+        "Sin unidades K.O."
+    ],
+    "34": [
+        "Select party size (larger)",
+        "指定隊伍人數(以上)",
+        "파티 인원 지정(보다 많음)",
+        "Choisir taille du groupe (plus grand)",
+        "Gruppengröße wählen (größer)",
+        "Selecciona tamaño de grupo (mayor que)"
+    ],
+    "35": [
+        "Select party size (smaller)",
+        "指定隊伍人數(以下)",
+        "파티 인원 지정(이하)",
+        "Choisir taille du groupe (plus petit)",
+        "Gruppengröße wählen (kleiner)",
+        "Selecciona tamaño de grupo (igual o menor)"
+    ],
+    "36": [
+        "Party members (select series)",
+        "隊伍兵員(指定系列)",
+        "파티 유닛(시리즈 지정)",
+        "Membres du groupe (choisir série)",
+        "Gruppenmitglieder (Reihe wählen)",
+        "Miembros de grupo (selecciona serie)"
+    ],
+    "37": [
+        "Forbidden party members (select series)",
+        "禁止隊伍兵員(指定系列)",
+        "금지 파티 유닛(시리즈 지정)",
+        "Membres du groupe interdits (choisir série)",
+        "Verbotene Gruppenmitglieder (Reihe wählen)",
+        "Unidades prohibidas (selecciona serie)"
+    ],
+    "38": [
+        "No continues",
+        "禁止接關",
+        "이어하기 금지",
+        "Sans continue",
+        "Kein Weitermachen",
+        "Sin continuar"
+    ],
+    "39": [
+        "Item usages (more)",
+        "道具使用次數(以上)",
+        "아이템 사용 횟수(보다 많음)",
+        "Usage objet (plus)",
+        "Gegenstand benutzen (mehr)",
+        "Uso de objetos (mayor que)"
+    ],
+    "40": [
+        "Item usages (less)",
+        "道具使用次數(以下)",
+        "아이템 사용 횟수(이하)",
+        "Usage objet (moins)",
+        "Gegenstand benutzen (weniger)",
+        "Uso de objetos (igual o menor)"
+    ],
+    "41": [
+        "Magic usages (more)",
+        "魔法使用次數(以上)",
+        "마법 사용 횟수(보다 많음)",
+        "Usage magie (plus)",
+        "Magie benutzen (mehr)",
+        "Uso de magia (mayor que)"
+    ],
+    "42": [
+        "Magic usages (less)",
+        "魔法使用次數(以下)",
+        "마법 사용 횟수(이하)",
+        "Usage magie (moins)",
+        "Magic benutzen (weniger)",
+        "Uso de magia (igual o menor)"
+    ],
+    "43": [
+        "Special ability usages (more)",
+        "特殊能力使用次數(以上)",
+        "특수 어빌리티 사용 횟수(보다 많음)",
+        "Usage spéciaux (plus)",
+        "Spezialfertigkeiten benutzen (mehr)",
+        "Uso de habilidad especial (mayor que)"
+    ],
+    "44": [
+        "Special ability usages (less)",
+        "特殊能力使用次數(以下)",
+        "특수 어빌리티 사용 횟수(이하)",
+        "Usage spéciaux (moins)",
+        "Spezialfertigkeiten benutzen (weniger)",
+        "Uso de habilidad especial (igual o menor)"
+    ],
+    "45": [
+        "Esper usages (more)",
+        "幻獸使用次數(以上)",
+        "환수 사용 횟수(보다 많음)",
+        "Usage chimère (plus)",
+        "Esper benutzen (mehr)",
+        "Uso de espers (mayor que)"
+    ],
+    "46": [
+        "Esper usages (less)",
+        "幻獸使用次數(以下)",
+        "환수 사용 횟수(이하)",
+        "Usage chimère (moins)",
+        "Esper benutzen (weniger)",
+        "Uso de espers (igual o menor)"
+    ],
+    "47": [
+        "Elemental attack usages (more)",
+        "屬性攻擊使用次數(以上)",
+        "속성 공격 사용 횟수(보다 많음)",
+        "Usage attaques élémentaires (plus)",
+        "Elementarangriff benutzen (mehr)",
+        "Uso de ataque elemental (mayor que)"
+    ],
+    "48": [
+        "Elemental attack usages (less)",
+        "屬性攻擊使用次數(以下)",
+        "속성 공격 사용 횟수(이하)",
+        "Usage attaques élémentaires (moins)",
+        "Elementarangriff benutzen (weniger)",
+        "Uso de ataque elemental (igual o menor)"
+    ],
+    "49": [
+        "LB usages (more)",
+        "LB使用次數(以上)",
+        "LB 사용 횟수(보다 많음)",
+        "Usage limite (plus)",
+        "LR benutzen (mehr)",
+        "Uso de EL (mayor que)"
+    ],
+    "50": [
+        "LB usages (less)",
+        "LB使用次數(以下)",
+        "LB 사용 횟수(이하)",
+        "Usage limite (moins)",
+        "LR benutzen (weniger)",
+        "Uso de EL (igual o menor)"
+    ],
+    "51": [
+        "Select item usage (more)",
+        "指定道具的使用次數(以上)",
+        "아이템 지정 사용 횟수(보다 많음)",
+        "Nbre utilisations des objets (plus)",
+        "Gegenstandsnutzung wählen (mehr)",
+        "Uso de objetos seleccionados (mayor que)"
+    ],
+    "52": [
+        "Select item usage (less)",
+        "指定道具的使用次數(以下)",
+        "아이템 지정 사용 횟수(이하)",
+        "Nbre utilisations des objets (moins)",
+        "Gegenstandsnutzung wählen (weniger)",
+        "Uso de objetos seleccionados (igual o menor)"
+    ],
+    "53": [
+        "Select magic usage (more)",
+        "指定魔法的使用次數(以上)",
+        "마법 지정 사용 횟수(보다 많음)",
+        "Nbre utilisations des magies (plus)",
+        "Magienutzung wählen (mehr)",
+        "Uso de magia seleccionada (mayor que)"
+    ],
+    "54": [
+        "Select magic usage (less)",
+        "指定魔法的使用次數(以下)",
+        "마법 지정 사용 횟수(이하)",
+        "Nbre utilisations des magies (moins)",
+        "Magienutzung wählen (weniger)",
+        "Uso de magia seleccionada (igual o menor)"
+    ],
+    "55": [
+        "Select special ability usage (more)",
+        "特殊指定能力的使用次數(以上)",
+        "특수 지정 어빌리티 사용 횟수(보다 많음)",
+        "Nbre utilisations des spéciaux (plus)",
+        "Spezialfertigkeitsnutzung (mehr)",
+        "Uso de habilidades seleccionadas (mayor que)"
+    ],
+    "56": [
+        "Select special ability usage (less)",
+        "特殊指定能力的使用次數(以下)",
+        "특수 지정 어빌리티 사용 횟수(이하)",
+        "Nbre utilisations des spéciaux (moins)",
+        "Spezialfertigkeitsnutzung (weniger)",
+        "Uso de habilidades seleccionadas (igual o menor)"
+    ],
+    "57": [
+        "Select esper usage (more)",
+        "指定幻獸的使用次數(以上)",
+        "환수 지정 사용 횟수(보다 많음)",
+        "Nbre utilisations des chimères (plus)",
+        "Espernutzung wählen (mehr)",
+        "Uso de espers seleccionados (mayor que)"
+    ],
+    "58": [
+        "Select esper usage (less)",
+        "指定幻獸的使用次數(以下)",
+        "환수 지정 사용 횟수(이하)",
+        "Nbre utilisations des chimères (moins)",
+        "Espernutzung wählen (weniger)",
+        "Uso de espers seleccionados (igual o menor)"
+    ],
+    "59": [
+        "Select elemental attack usage (more)",
+        "屬性指定攻擊使用次數(以上)",
+        "속성 지정 공격 사용 횟수(보다 많음)",
+        "Nbre utilisations des attaques élémentaires (plus)",
+        "Elementarangriffnutzung wählen (mehr)",
+        "Uso de ataques elementales seleccionados (mayor que)"
+    ],
+    "60": [
+        "Select elemental attack usage (less)",
+        "屬性指定攻擊使用次數(以下)",
+        "속성 지정 공격 사용 횟수(이하)",
+        "Nbre utilisations des attaques élémentaires (moins)",
+        "Elementarangriffnutzung wählen (weniger)",
+        "Uso de ataques elementales seleccionados (igual o menor)"
+    ],
+    "61": [
+        "Select LB usage (more)",
+        "指定LB使用次數(以上)",
+        "LB 지정 사용 횟수(보다 많음)",
+        "Nbre utilisations des limites (plus)",
+        "LR-Nutzung wählen (mehr)",
+        "Uso de EL seleccionado (mayor que)"
+    ],
+    "62": [
+        "Select LB usage (less)",
+        "指定LB使用次數(以下)",
+        "LB 지정 사용 횟수(이하)",
+        "Nbre utilisations des limites (moins)",
+        "LR-Nutzung wählen (weniger)",
+        "Uso de EL seleccionado (igual o menor)"
+    ],
+    "63": [
+        "Finish with ability (select ID)",
+        "使用能力終結(指定ID)",
+        "어빌리티(ID 지정)로 처치",
+        "Finir avec une aptitude (choisir ID)",
+        "Mit Fertigkeit abschließen (ID wählen)",
+        "Acaba con habilidad (selecciona ID)"
+    ],
+    "64": [
+        "Finish with magic (select ID)",
+        "使用魔法終結(指定ID)",
+        "마법(ID 지정)으로 처치",
+        "Finir avec une magie (choisir ID)",
+        "Mit Magie abschließen (ID wählen)",
+        "Acaba con magia (selecciona ID)"
+    ],
+    "65": [
+        "Finish with esper (select ID)",
+        "使用幻獸終結(指定ID)",
+        "환수(ID 지정)로 처치",
+        "Finir avec une chimère (choisir ID)",
+        "Mit Esper abschließen (ID wählen)",
+        "Acaba con esper (selecciona ID)"
+    ],
+    "66": [
+        "Finish with item (select ID)",
+        "使用道具終結(指定ID)",
+        "아이템(ID 지정)으로 처치",
+        "Finir avec un objet (choisir ID)",
+        "Mit Gegenstand abschließen (ID wählen)",
+        "Acaba con objeto (selecciona ID)"
+    ],
+    "67": [
+        "Finish with LB (select ID)",
+        "使用LB終結(指定ID)",
+        "LB(ID 지정)로 처치",
+        "Finir avec une limite (choisir ID)",
+        "Mit LR abschließen (ID wählen)",
+        "Acaba con EL (selecciona ID)"
+    ],
+    "68": [
+        "First clear",
+        "初次完成",
+        "첫 클리어",
+        "Première complétion",
+        "Erster Abschluss",
+        "Completa por primera vez"
+    ],
+    "69": [
+        "Rule",
+        "規則",
+        "규칙",
+        "Règle",
+        "Regeln",
+        "Regla"
+    ],
+    "70": [
+        "Use special ability (select process type)",
+        "使用特殊能力(指定process ID)",
+        "특수 어빌리티(처리 타입 지정) 사용",
+        "Avec aptitude spéciale (Choisir process ID)",
+        "Spezialfertigkeit nutzen (Prozesstyp wählen)",
+        "Uso de habilidad especial (selecciona tipo de proceso)"
+    ],
+    "71": [
+        "No special abilities (select process type)",
+        "未使用特殊能力(指定process ID)",
+        "특수 어빌리티(처리 타입 지정) 미사용",
+        "Sans aptitudes spéciales (Choisir process ID)",
+        "Keine Spezialfertigkeiten (Prozesstyp wählen)",
+        "No uses habilidades especiales (selecciona tipo de proceso)"
+    ],
+    "72": [
+        "Total turns (more)",
+        "總計回合數(以上)",
+        "총 턴 수(보다 많음)",
+        "Total tours (plus)",
+        "Gesamtrunden (mehr)",
+        "Turnos totales (mayor que)"
+    ],
+    "73": [
+        "Total turns (less)",
+        "總計回合數(以下)",
+        "총 턴 수(이하)",
+        "Total tours (moins)",
+        "Gesamtrunden (weniger)",
+        "Turnos totales (igual o menor)"
+    ],
+    "74": [
+        "Select wave turns (more)",
+        "指定WAVE回合數(以上)",
+        "지정 웨이브 턴 수(보다 많음)",
+        "Total vagues (plus)",
+        "Wählenrunden wählen (mehr)",
+        "Turnos de oleada seleccionada (mayor que)"
+    ],
+    "75": [
+        "Select wave turns (less)",
+        "指定WAVE回合數(以下)",
+        "지정 웨이브 턴 수(이하)",
+        "Total vagues (moins)",
+        "Wählenrunden wählen (weniger)",
+        "Turnos de oleada seleccionada (igual o menor)"
+    ],
+    "76": [
+        "Select turns (more)",
+        "指定回合數(以上)",
+        "지정 턴 수(보다 많음)",
+        "Choisir tours (plus)",
+        "Runden wählen (mehr)",
+        "Turnos seleccionados (mayor que)"
+    ],
+    "77": [
+        "Select turns (less)",
+        "指定回合數(以下)",
+        "지정 턴 수(이하)",
+        "Choisir tours (moins)",
+        "Runden wählen (weniger)",
+        "Turnos seleccionados (igual o menor)"
+    ]
+}
