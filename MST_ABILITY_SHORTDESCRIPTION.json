@@ -17287,14 +17287,6 @@
         "Regeneriert MP alle Verb. außer eigenen und stellt diese allmählich wieder her.",
         "Recupera los PM de todos los aliados menos del usuario y los PM se van recuperando automáticamente"
     ],
-    "221040": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "221050": [
         "Fill LB for all allies and gradually restore HP",
         "增加全體隊員極限技槽+持續恢復HP",
@@ -21679,6 +21671,46 @@
         null,
         "Posibilita proteger a un aliado aleatorio contra daño físico en guardia"
     ],
+    "226406": [
+        null,
+        "提高15%HPMP+提高20%防禦精神",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226410": [
+        null,
+        "攻擊1名敵人",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226411": [
+        null,
+        "1回合內減少對自身的傷害+暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226412": [
+        null,
+        "提高自身的精神+1回合內可使用「集聚全釋放」",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226413": [
+        null,
+        "攻擊1名敵人+降低魔力",
+        null,
+        null,
+        null,
+        null
+    ],
     "226414": [
         "Chance of temporarily guarding allies against magic damage",
         "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊",
@@ -21686,6 +21718,14 @@
         "Chance de prendre temporairement des dégâts magiques en état de garde à la place des alliés",
         null,
         "Posibilita proteger a aliados aleatorios de forma temporal contra daño mágico en guardia"
+    ],
+    "226415": [
+        null,
+        "HP降低到一定數值以下時提高精神",
+        null,
+        null,
+        null,
+        null
     ],
     "226416": [
         "Boost SPR and DEF by 30% and chance of guarding allies against magic damage",
@@ -21695,6 +21735,70 @@
         null,
         "Aumenta el ESP y la DEF un 30% y posibilita proteger a aliados aleatorios de forma temporal contra daño mágico en guardia"
     ],
+    "226417": [
+        null,
+        "提高50%HPMP+提高30%攻擊魔力防禦精神",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226418": [
+        null,
+        "每回合恢復HPMP",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226419": [
+        null,
+        "中毒失明石化無效+提高50%火土屬性耐性",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226420": [
+        null,
+        "提高10%設定幻獸時反映在兵員身上的狀態數值",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226421": [
+        null,
+        "受到魔法攻擊時一定機率增加自身的極限技槽",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226422": [
+        null,
+        "提高20%HP+提高40%精神+每回合增加極限技槽",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226423": [
+        null,
+        "提高20%裝備輕盾重盾時的防禦精神",
+        null,
+        null,
+        null,
+        null
+    ],
+    "226424": [
+        null,
+        "提高30%裝備輕盾重盾時的防禦精神",
+        null,
+        null,
+        null,
+        null
+    ],
     "226831": [
         "Chance of temporarily guarding allies against physical damage",
         null,
@@ -21702,6 +21806,38 @@
         null,
         null,
         "Posibilita proteger a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "227030": [
+        null,
+        "龍之化身",
+        null,
+        null,
+        null,
+        null
+    ],
+    "227031": [
+        null,
+        "超魔力覺醒",
+        null,
+        null,
+        null,
+        null
+    ],
+    "227032": [
+        null,
+        "里貝霍伊米",
+        null,
+        null,
+        null,
+        null
+    ],
+    "227033": [
+        null,
+        "美拉系訣竅",
+        null,
+        null,
+        null,
+        null
     ],
     "227102": [
         "(Once every 3 turns) Chance of temporarily guarding allies against physical damage",
@@ -24663,22 +24799,6 @@
         "Schaden für einen Gegner und mehr Schaden gegen Untote.",
         "Daña a un enemigo y causa daño adicional a muertos vivientes"
     ],
-    "502120": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "502130": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "502140": [
         "Damage one enemy with boosted damage against aquatic monsters",
         "攻擊1名敵人+提高對水生系魔物的傷害",
@@ -24687,22 +24807,6 @@
         "Schaden für einen Gegner und mehr Schaden gegen Wassermonster.",
         "Daña a un enemigo y causa daño adicional a monstruos acuáticos"
     ],
-    "502150": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "502160": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "502170": [
         "Damage one enemy",
         "攻擊1名敵人",
@@ -24710,22 +24814,6 @@
         "Dégâts sur un ennemi",
         "Schaden, ein Ziel",
         "Daña a un enemigo"
-    ],
-    "502180": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "502190": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
     ],
     "502200": [
         "Damage all enemies",
@@ -24742,14 +24830,6 @@
         "Dégâts sur tous les ennemis",
         "Schaden, alle Ziele",
         "Daña a todos los enemigos"
-    ],
-    "502220": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
     ],
     "502230": [
         "Damage all enemies",
@@ -24823,22 +24903,6 @@
         "Schaden, ein Ziel",
         "Daña a un enemigo"
     ],
-    "502320": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "502330": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "502340": [
         "Deal partial unmitigated damage to one enemy",
         "對1名敵人發動無視部分防禦的攻擊",
@@ -24854,14 +24918,6 @@
         "Dégâts en partie fixes sur un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu.",
         "Daño absoluto parcial a un enemigo"
-    ],
-    "502360": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
     ],
     "502370": [
         "Deal partial unmitigated damage to one enemy",
@@ -35103,342 +35159,6 @@
         "Schaden und LP stehlen, alle Ziele",
         "Drena VIT de todos los enemigos"
     ],
-    "900080": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900090": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900100": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900101": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900102": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900110": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900111": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900112": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900113": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900114": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900115": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900120": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900130": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900140": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900150": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900160": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900170": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900180": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900190": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900200": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900210": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900220": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900230": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900240": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900250": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900260": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900270": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900280": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900290": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900300": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900310": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900320": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900330": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900340": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900350": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900360": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900370": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900380": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900390": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900400": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900410": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900420": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "900430": [
         "Use white magic twice in one turn",
         "1回合內可使用2次白魔法",
@@ -35446,1110 +35166,6 @@
         "Permet d'utiliser la magie blanche deux fois en un tour",
         "Zweimal Weißmagie pro Runde",
         "Usa magia blanca dos veces en un turno"
-    ],
-    "900440": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900450": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900460": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900470": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900480": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900490": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900500": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900510": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900520": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900530": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900540": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900550": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900560": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900570": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900580": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900590": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900600": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900610": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900620": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900630": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900640": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900650": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900660": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900670": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900680": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900690": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900700": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900710": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900720": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900730": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900740": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900750": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900760": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900770": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900780": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900790": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900800": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900810": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900820": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900830": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900840": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900850": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900860": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900870": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900880": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900890": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900900": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900910": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900920": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900930": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900940": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900950": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900960": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900970": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900980": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "900990": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901000": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901010": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901020": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901030": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901040": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901050": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901060": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901070": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901080": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901090": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901100": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901110": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901120": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901130": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901140": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901150": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901160": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901170": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901180": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901190": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901200": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901210": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901220": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901230": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901240": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901250": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901260": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901270": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901280": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901290": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901300": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901310": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901320": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901330": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901340": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901350": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901360": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901370": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901380": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901390": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901400": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901410": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901420": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901430": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901440": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901450": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901460": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901470": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901480": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901490": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901500": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901510": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901520": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901530": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901540": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901550": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901560": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901570": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901580": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901590": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901600": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901610": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901620": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901630": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901640": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901650": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901660": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901670": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901680": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901690": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901700": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901710": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901720": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901730": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901740": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901750": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901760": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901770": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901780": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901790": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901800": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "901810": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
     ],
     "910001": [
         "Chance of taking physical damage for ally",
