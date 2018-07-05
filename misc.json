@@ -2067,6 +2067,14 @@
         "GAME OVER",
         "Fin de la partida"
     ],
+    "EQUIP_GROW_CONFIRM_POPUP_TITLE_GAMEOVER_BEFORE": [
+        "Previous Enhancements",
+        "上次的狀態",
+        "이전 상태",
+        null,
+        "Vorherige Verbesserungen",
+        "Mejoras anteriores"
+    ],
     "EQUIP_GROW_CONFIRM_POPUP_TITLE_GIVEUP": [
         "Give Up",
         "放棄確認",
@@ -2147,6 +2155,22 @@
         "Da deine <color=255:255:0>gesamte Gruppe kampfunfähig ist</color>, kannst du nicht zu dieser Etage fortschreiten, ohne einen Begleiter auszuwählen. Bitte kehre zurück oder wähle einen Begleiter aus.<br>Zur Etagenauswahl zurückkehren.",
         "No puedes ir a este piso sin haber seleccionado otros compañeros, ya que <color=255:255:0>todo tu equipo ha quedado K.O.</color>. Tienes la opción de retirarte o seleccionar acompañantes.<br>Regresando a la pantalla de selección de pisos."
     ],
+    "EQUIP_GROW_RARE_ABILITY_EXPLAIN": [
+        "Obtainable abilities are set according to equipment type. The drop rates depicted here represent an ability's chances of showing as one of the 3 obtainable options after clearing each floor.",
+        "每個裝備類別都有著各自能夠獲得的能力。機率列表所記載的能力出現機率為「樓層完成時所出現的3格能力選擇欄位中，該能力出現1格以上的機率」。",
+        "장비 타입 별로 획득 가능한 어빌리티가 설정되어 있습니다. 확률 표기는 플로어 완료 시 선택하는 3개의 칸 중, 1칸 이상 해당 어빌리티가 출현할 확률입니다.",
+        "Les aptitudes à obtenir sont définies en fonction du type de l'équipement. Le taux d'apparition indiqué représente les chances d'obtenir une aptitude parmi les 3 options offertes à la fin de chaque étage.",
+        "Erwerbbare Fertigkeiten werden je nach Ausrüstungstyp festgelegt. Die hier gezeigten Raten stellen die Wahrscheinlichkeit einer Fertigkeit dar, als eine der 3 erwerbbaren Möglichkeiten nach dem Abschließen einer Etage zu erscheinen.",
+        "Las habilidades que se pueden conseguir dependen del tipo de equipo. La tasa de aparición que se muestra aquí representa la probabilidad de que aparezca una habilidad dentro las 3 que se pueden conseguir tras completar cada piso."
+    ],
+    "EQUIP_GROW_REWARD_SUB_HEADER": [
+        "The equipment enhancement event Rewards",
+        "武具強化活動 達成報酬",
+        "장비 강화 이벤트 달성 보상",
+        "Récompenses de l'événement d'amélioration d'équipement",
+        "Ereignis zur Ausrüstungsverbesserung   Belohnungen",
+        "Recompensas de evento mejoraequipo"
+    ],
     "EQUIP_GROW_RULE_SUB_HEADER_TITLE": [
         "Event Rules",
         "活動規則",
@@ -2162,6 +2186,54 @@
         "Sélectionnez l'équipement à améliorer",
         "Ausrüstungsgegenstand zur Verbesserung auswählen",
         "Selecciona el objeto que quieres mejorar"
+    ],
+    "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_AFTER_ABILITY_TITLE": [
+        "Newly Obtained Abilities",
+        "新獲得的能力",
+        "신규 획득 어빌리티",
+        "Nouvelles aptitudes",
+        "Neu erworbene Fertigkeiten",
+        "Habilidades nuevas conseguidas"
+    ],
+    "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_CONFIRM_GET_AFTER": [
+        "Would you like to keep the newest abilities you obtained?",
+        "要得到新獲得的能力嗎？",
+        "신규 획득 어빌리티를 입수하시겠습니까?",
+        "Souhaitez-vous conserver les aptitudes que vous venez d'obtenir ?",
+        "Möchtest du die neusten von dir erworbenen Fertigkeiten behalten?",
+        "¿Quieres quedarte con las habilidades nuevas?"
+    ],
+    "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_CONFIRM_GET_BEFORE": [
+        "Would you like to dismiss the newest abilities you obtained and retire with the ones you had previously acquired?",
+        "要放棄新獲得的能力，恢復成上次獲得的能力並返回嗎？",
+        "신규 획득 어빌리티를 취소하고 이전 획득 어빌리티 상태로 귀환하시겠습니까?",
+        "Souhaitez-vous ignorer les dernières aptitudes obtenues en faveur de celles que vous aviez précédemment acquises ?",
+        "Möchtest du die neusten von dir erworbenen Fertigkeiten ablehnen und mit den Fertigkeiten zurückkehren, die du zuletzt erworben hattest?",
+        "¿Quieres descartar las habilidades nuevas y marcharte con las que ya has adquirido con anterioridad?"
+    ],
+    "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_DUNGEON_CLEAR_CONFIRM": [
+        "You have cleared the dungeon. You may choose whether to keep your newly obtained abilities, or if you'd like to keep the ones you had previously acquired.",
+        "已完成迷宮。請選擇要得到新獲得能力，或是恢復成上次獲得的能力。",
+        "완료하였습니다. 신규 획득 어빌리티를 입수할지, 이전 획득 어빌리티로 되돌릴지 선택하십시오.",
+        "Vous avez terminé le donjon. Vous pouvez choisir de conserver soit les aptitudes que vous venez d'obtenir, soit celles que vous aviez précédemment acquises.",
+        "Du hast den Dungeon abgeschlossen. Du darfst dich entscheiden, ob du deine neu erworbenen Fertigkeiten behalten möchtest, oder die wählst, die du zuletzt erworben hattest.",
+        "Has completado la mazmorra. Puedes elegir si quieres quedarte con las habilidades que acabas de conseguir o si prefieres mantener las que ya tienes."
+    ],
+    "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_RETURN_CONFIRM": [
+        "You will retire now. You may choose whether to keep your newly obtained abilities, or if you'd like to keep the ones you had previously acquired.",
+        "即將返回。可以選擇要得到新獲得能力，或是恢復成上次獲得的能力。",
+        "귀환합니다. 신규 획득한 어빌리티를 입수할지, 이전 획득 어빌리티로 되돌릴지 선택할 수 있습니다.",
+        "Vous êtes sur le point de sortir. Vous pouvez choisir de conserver soit les aptitudes que vous venez d'obtenir, soit celles que vous aviez précédemment acquises.",
+        "Kehre zurück. Du darfst dich entscheiden, ob du deine neu erworbenen Fertigkeiten behalten möchtest, oder die wählst, die du zuletzt erworben hattest.",
+        "En breves, te vas a retirar. Puedes elegir si quieres quedarte con las habilidades que acabas de conseguir o si prefieres mantener las que ya tienes."
+    ],
+    "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_BEFORE_ABILITY_TITLE": [
+        "Previously Obtained Abilities",
+        "上次獲得的能力",
+        "이전 획득 어빌리티",
+        "Aptitudes précédentes",
+        "Zuletzt erworbene Fertigkeiten",
+        "Habilidades conseguidas con anterioridad"
     ],
     "EQUIP_GROW_TOP_NONE_EQUIP_SETTING": [
         "Not Set",
@@ -7448,7 +7520,7 @@
         "未滿足條件。請確認<br><color=255:255:0>條件</color>並<color=255:255:0>變更隊伍</color>。",
         "조건이 충족되지 않았습니다.<br><color=255:255:0>조건</color>을 확인하시고 <color=255:255:0>파티를 변경</color>해 주십시오.",
         "Vous ne remplissez pas les conditions.<br>Veuillez vérifier à nouveau les <color=255:255:0>conditions</color> et <color=255:255:0>modifier votre groupe</color>.",
-        "Bedingungen wurden nicht erfüllt.<br>Bitte sieh dir die<color=255:255:0>Bedingungen</color> and <color=255:255:0>an und ändere deine Gruppe</color>.",
+        "Bedingungen wurden nicht erfüllt.<br>Bitte sieh dir die <color=255:255:0>Bedingungen</color> and <color=255:255:0>an und ändere deine Gruppe</color>.",
         "No reúnes las condiciones.<br>Por favor comprueba los <color=255:255:0>requisitos</color> y <color=255:255:0>cambia las unidades en tu grupo.</color>."
     ],
     "MISSION_COND_ORDER_UNIT": [
@@ -9490,158 +9562,6 @@
         "Une erreur s'est produite lors du chargement des données. Retournez à l'écran-titre ?<br>*Les données n'ayant pas pu être chargées seront re-téléchargées lors du redémarrage.",
         "Beim Laden der Daten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Daten, die nicht geladen werden konnten, werden bei Neustart erneut heruntergeladen.",
         "Ha ocurrido un error al cargar datos. Volviendo a la pantalla de título.<br>Los datos no cargados se volverán a descargar tras reiniciar."
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1001": [
-        "Grandshelt Isles",
-        "格蘭謝爾特群島",
-        "그랑셸트 제도",
-        "Îles de Grandshelt",
-        "Grandshelt-Inseln",
-        "Islas Grandshelt"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1002": [
-        "Lanzelt",
-        "蘭澤爾特大陸",
-        "랑제르트",
-        "Lanzelt",
-        "Landselt",
-        "Lanzelt"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1003": [
-        "Kolobos Isle",
-        "克羅伯斯島",
-        "코로보스 섬",
-        "Les Kolobos",
-        "Insel Kolobos",
-        "Isla Kolobos"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1004": [
-        "Dirnado",
-        "迪爾納特大陸",
-        "디르나드 대륙",
-        "Dirnado",
-        "Dirnado",
-        "Dirnado"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1005": [
-        "Olderion Federation",
-        "聯邦國家奧爾德里昂",
-        "올데리온 연방",
-        "Fédération d’Olderion",
-        "Republik Olderion",
-        "Federación Olderion"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1006": [
-        "Zoldaad Empire",
-        "佐爾達多帝國",
-        "졸다드 제국",
-        "Empire de Zoldaad",
-        "Zoldaad Reich",
-        "Imperio de Zoldaad"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1007": [
-        "Magi Nation Mysidia",
-        "魔道士國家密西迪亞",
-        "마도사 국가 미시디아",
-        "Nation magique de Mysidia",
-        "Magination Mysidia",
-        "País mágico de Mysidia"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1008": [
-        "Dark Continent Gronoa",
-        "暗黑大陸格羅諾亞",
-        "암흑대륙 골로노아",
-        "Continent obscur de Gronoa",
-        "Dunkler Kontinent Gronoa",
-        "Continente oscuro Gronoa"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1009": [
-        "Kingdom of Pharm",
-        "法爾姆王國",
-        "팔름 왕국",
-        "Royaume de Pharm",
-        "Königreich Pharm",
-        "Reino de Pharm"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1010": [
-        "Land of the Crystals",
-        "水晶大地",
-        "크리스탈의 대지",
-        "Terre des cristaux",
-        "Land der Kristalle",
-        "Tierras de los Cristales"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_1011": [
-        "Chaotic Darkness",
-        "混沌之暗",
-        "혼돈의 어둠",
-        "Obscurité chaotique",
-        "Dunkles Chaos",
-        "Oscuridad caótica"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2001": [
-        "2nd Season Chapter 1 Part 1",
-        "第二季 第一章 前篇",
-        "시즌2 1장 1부",
-        "2e saison Chapitre 1 Partie 1",
-        "Season 2 Kapitel 1 Teil 1",
-        "2.ª temporada - Capítulo 1 1.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2002": [
-        "2nd Season Chapter 1 Part 2",
-        "第二季 第一章 中篇",
-        "시즌2 1장 2부",
-        "2e saison Chapitre 1 Partie 2",
-        "Season 2 Kapitel 1 Teil 2",
-        "2.ª temporada - Capítulo 1 2.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2003": [
-        "2nd Season Chapter 1 Part 3",
-        "第二季 第一章 後篇",
-        "시즌2 1장 3부",
-        "2e saison Chapitre 1 Partie 3",
-        "Season 2 Kapitel 1 Teil 3",
-        "2.ª temporada - Capítulo 1 3.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2004": [
-        "2nd Season Chapter 2 Part 1",
-        "第二季 第二章 前篇",
-        "시즌2 2장 1부",
-        "2e saison Chapitre 2 Partie 1",
-        "Season 2 Kapitel 2 Teil 1",
-        "2.ª temporada - Capítulo 2 1.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2005": [
-        "2nd Season Chapter 2 Part 2",
-        "第二季 第二章 後篇",
-        "시즌2 2장 2부",
-        "2e saison Chapitre 2 Partie 2",
-        "Season 2 Kapitel 2 Teil 2",
-        "2.ª temporada - Capítulo 2 2.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2006": [
-        "2nd Season Chapter 3 Part 1",
-        "第二季 第三章 前篇",
-        "시즌2 3장 1부",
-        "2e saison Chapitre 3 Partie 1",
-        "Season 2 Kapitel 3 Teil 1",
-        "2.ª temporada - Capítulo 3 1.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2007": [
-        "2nd Season Chapter 3 Part 2",
-        "第二季 第三章 中篇",
-        "시즌2 3장 2부",
-        "2e saison Chapitre 3 Partie 2",
-        "Season 2 Kapitel 3 Teil 2",
-        "2.ª temporada - Capítulo 3 2.ª parte"
-    ],
-    "MST_PLAYBACK_CHAPTER_NAME_2008": [
-        "2nd Season Chapter 3 Part 3",
-        "第二季 第三章 後篇",
-        "시즌2 3장 3부",
-        "2e saison Chapitre 3 Partie 3",
-        "Season 2 Kapitel 3 Teil 3",
-        "2.ª temporada - Capítulo 3 3.ª parte"
     ],
     "MST_RB_ABILITY_GROUP_DES_1": [
         "Normal forbidden",
@@ -16187,14 +16107,6 @@
         "„Aktuelle Trophäen<br>Trophäenziel“",
         "Trofeos actuales<br>Objetivo del trofeo"
     ],
-    "The equipment enhancement event Rewards": [
-        "The equipment enhancement event Rewards",
-        null,
-        null,
-        "Récompenses de l'événement d'amélioration d'équipement",
-        "Ereignis zur Ausrüstungsverbesserung   Belohnungen",
-        "Recompensas de evento mejoraequipo"
-    ],
     "UNIT": [
         "Units",
         "兵員",
@@ -17307,14 +17219,6 @@
         "Deine Energie ist wiederhergestellt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tienes la energía al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
     ],
-    "equipment enhancement orbs": [
-        "equipment enhancement orbs",
-        null,
-        null,
-        "Orbes d'amélioration d'équipement",
-        "Juwelen für das Ereignis zur Ausrüstungsverbesserung",
-        "orbes mejoraequipo"
-    ],
     "expedition_pn": [
         "Your party has returned from their expedition. Play FINAL FANTASY BRAVE EXVIUS now!",
         "遠征隊已經歸來。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
@@ -17346,6 +17250,14 @@
         "Orbes d'arène",
         "Arenajuwelen",
         "orbes de Arena"
+    ],
+    "sgSHOP_ARMS_ORB": [
+        "equipment enhancement orbs",
+        "武具強化寶珠",
+        "장비 강화 구슬",
+        "Orbes d'amélioration d'équipement",
+        "Juwelen für das Ereignis zur Ausrüstungsverbesserung",
+        "orbes mejoraequipo"
     ],
     "sgSHOP_ERROR_ORB_RECOVERY": [
         "Your %s are at full capacity",

@@ -18529,7 +18529,7 @@
     ],
     "222600": [
         "Max out own LB gauge, leap into the air, then attack one enemy next turn",
-        "自身的極限技槽+脫離至空，下一回合對1名敵人進行落下攻擊",
+        "自身的極限技槽全滿+脫離至空，下一回合對1名敵人進行落下攻擊",
         "자신의 LB 게이지 최대+공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해",
         "Remplit la jauge de limite du lanceur, saute haut dans les airs et attaque un ennemi au tour suivant",
         "Eigener Limitmeter auf MAX + schwingt sich in die Lüfte und greift Gegner in folgender Runde an.",
@@ -20856,7 +20856,7 @@
         "Revive y recupera toda la VIT de un aliado"
     ],
     "225530": [
-        "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and remove stop for one ally",
+        "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and remove stop for all allies",
         "治癒1名隊員毒失明睡眠沉默麻痺混亂生病石化狀態+解除停止狀態",
         "아군 1명의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+스톱 해제",
         "Soigne un allié de poison, cécité, sommeil, silence, paralysie, confusion, maladie, pétrification et stop",
@@ -20904,7 +20904,7 @@
         "Daño de luz a todos los enemigos"
     ],
     "225590": [
-        "Nullify paralysis and boost HP and SPR when equipped with fists",
+        "Nullify paralysis and stop, and boost HP and SPR when equipped with fists",
         "麻痺無效+提高裝備格鬥武器時的HP精神",
         "마비 무효화+격투무기 장착 시 HP와 정신력 상승",
         "Annule paralysie et augmente les PV et la PSY quand les poings sont équipés",
@@ -20920,7 +20920,7 @@
         "Evita la muerte una vez si la VIT está sobre cierto punto"
     ],
     "225610": [
-        "Restore HP every turn and fill LB gauge",
+        "Restore HP/MP every turn and fill LB gauge",
         "每回合恢復HP+增加極限技槽",
         "매 턴마다 HP 회복+LB 게이지 증가",
         "Restaure les PV à chaque tour et remplit la jauge de limite",
@@ -21665,27 +21665,27 @@
     ],
     "226405": [
         "Chance of guarding allies against physical damage",
-        "暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊",
-        null,
+        "一定機率以「防禦」狀態代替隊員承受物理攻擊",
+        "일정 확률로 물리공격을 '방어' 상태로 대신 받음",
         "Chance de prendre des dégâts physiques en état de garde à la place des alliés",
-        null,
+        "Chance, Verb. gegen phys. Schaden zu verteidigen.",
         "Posibilita proteger a un aliado aleatorio contra daño físico en guardia"
     ],
     "226406": [
+        "Boost HP and MP by 15%, DEF and SPR by 20%",
         null,
-        "提高15%HPMP+提高20%防禦精神",
+        "HP와 MP 15% 상승+방어력과 정신력 20% 상승",
         null,
-        null,
-        null,
+        "Erhöht LP/MP um 15% und ABW/PSY um 20%.",
         null
     ],
     "226410": [
-        null,
+        "Damage one enemy",
         "攻擊1名敵人",
-        null,
-        null,
-        null,
-        null
+        "적 1명에게 피해",
+        "Dégâts sur un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Inflige daño a un enemigo"
     ],
     "226411": [
         null,
@@ -21704,12 +21704,12 @@
         null
     ],
     "226413": [
-        null,
+        "Damage and reduce MAG for one enemy",
         "攻擊1名敵人+降低魔力",
-        null,
-        null,
-        null,
-        null
+        "적 1명에게 피해+마력 감소",
+        "Dégâts et réduit la MAGIE d'un ennemi",
+        "Fügt einem Gegner Schaden zu und verringert seine MAG.",
+        "Daña y reduce la MAG de un enemigo"
     ],
     "226414": [
         "Chance of temporarily guarding allies against magic damage",
@@ -21806,6 +21806,14 @@
         null,
         null,
         "Posibilita proteger a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "226833": [
+        "Damage and reduce MAG for one enemy",
+        "攻擊1名敵人+降低魔力",
+        "적 1명에게 피해+마력 감소",
+        "Dégâts et réduit la MAGIE d'un ennemi",
+        "Fügt einem Gegner Schaden zu und verringert seine MAG.",
+        "Daña y reduce la MAG de un enemigo"
     ],
     "227030": [
         null,
@@ -44190,5 +44198,13 @@
         "Aug. l'ATT de 50% et les PV/DEF de 20% lorsqu'une épée ou une épée longue est équipée et la MAGIE de 50% et les PM/PSY de 20% lorsqu'une lance, un katana ou un marteau est équipé",
         "Erhöht ANG um 50% und ABW/LP um 20%, wenn mit Schwert oder Großschwert ausgerüstet, und MAG um 50%, sowie PSY/MP um 20%, wenn mit Katana, Hammer oder Speer ausgerüstet.",
         "Aumenta ATQ un 50% y DEF/VIT un 20% al llevar espada o espada grande, aumenta MAG un 50% y ESP/PM un 20% al llevar katana, martillo o lanza"
+    ],
+    "911179": [
+        "Boost MAG by 40% and DEF, SPR by 10%",
+        null,
+        null,
+        null,
+        null,
+        null
     ]
 }
