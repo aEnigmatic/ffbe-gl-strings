@@ -3416,12 +3416,12 @@
         "Aumenta la MAG y el ESP un 10%"
     ],
     "504226380": [
-        "Increase burst stone fill rate and boost ATK when equipped with a short sword, sword, large sword, or katana",
-        "提高極限技石對極限技槽的增加量+提高裝備短劍劍大劍刀時攻擊的數值",
-        "LB 게이지 효율 상승+단검, 검, 대검, 도 장착 시 공격력 상승",
-        "Augmente le taux de remplissage des pierres de limite et augmente l'ATT lorsqu'une épée normale, courte, longue ou un katana est équipé",
-        "Verstärkt den Effekt von Limitsteinen und erhöht ANG, wenn mit Kurzschwert, Schwert, Großschwert oder Katana ausgerüstet.",
-        "Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada larga o katana"
+        "Increase burst stone fill rate and boost ATK when equipped with a short sword, sword, large sword, or katana (Not stackable)",
+        "提高極限技石對極限技槽的增加量+提高裝備短劍劍大劍刀時攻擊的數值[無法重複裝備]",
+        "LB 게이지 효율 상승+단검, 검, 대검, 도 장착 시 공격력 상승 (중복 장착 불가)",
+        "Augmente le taux de remplissage des pierres de limite et augmente l'ATT lorsqu'une épée normale, courte, longue ou un katana est équipé (non cumulable)",
+        "Verstärkt den Effekt von Limitsteinen und erhöht ANG, wenn mit Kurzschwert, Schwert, Großschwert oder Katana ausgerüstet (Nicht stapelbar).",
+        "Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada larga o katana (no acumulable)"
     ],
     "504226406": [
         "Boost HP, MP by 15% and DEF, SPR by 20%",
@@ -4255,12 +4255,20 @@
         "Erhöht LP um 15%, regeneriert LP jede Runde und erhöht im Kampf erhaltene EXP.",
         "Aumenta la VIT un 15%, recupera VIT cada turno y potencia la EXP que se consigue durante el combate"
     ],
+    "1500000061": [
+        "Boost SPR and MP",
+        "提高精神MP",
+        "정신력과 MP 상승",
+        "Augmente la PSY et les PM",
+        "Erhöht PSY und MP.",
+        "Aumenta el ESP y los PM"
+    ],
     "1500000063": [
-        "Boost MAG by 40% and DEF, SPR by 10%﻿",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Boost MAG by 40% and DEF, SPR by 10%",
+        "提高40%魔力+提高10%防禦精神",
+        "마력 40% 상승+방어력과 정신력 10% 상승",
+        "Augmente la MAGIE de 40%, ainsi que la DEF et la PSY de 10%",
+        "Erhöht MAG um 40% und ABW/PSY um 10%.",
+        "Aumenta la MAG un 40%, y la DEF y el ESP un 10%"
     ]
 }

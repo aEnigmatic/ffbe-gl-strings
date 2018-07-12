@@ -16,12 +16,12 @@
         "VIT +20%"
     ],
     "100021": [
-        null,
-        null,
-        null,
-        null,
+        "HP +20%",
+        "HP+20%",
+        "HP+20%",
+        "PV +20%",
         "LP +20%",
-        null
+        "VIT +20%"
     ],
     "100030": [
         "HP +30%",
@@ -48,12 +48,12 @@
         "PM +20%"
     ],
     "100051": [
-        null,
-        null,
-        null,
-        null,
         "MP +20%",
-        null
+        "MP+20%",
+        "MP+20%",
+        "PM +20%",
+        "MP +20%",
+        "PM +20%"
     ],
     "100060": [
         "MP +30%",
@@ -66,7 +66,7 @@
     "100065": [
         null,
         null,
-        null,
+        "MP+40%",
         null,
         "MP +40%",
         null
@@ -88,12 +88,12 @@
         "ATQ +20%"
     ],
     "100081": [
-        null,
-        null,
-        null,
-        null,
+        "ATK +20%",
+        "攻擊+20%",
+        "공격력+20%",
+        "ATT+20%",
         "ANG +20%",
-        null
+        "ATQ +20%"
     ],
     "100090": [
         "ATK +30%",
@@ -135,6 +135,14 @@
         "MAG + 30 %",
         "MAG +30%"
     ],
+    "100125": [
+        "MAG +40%",
+        "魔力+40%",
+        "마력+40%",
+        "MAGIE +40%",
+        "MAG + 40 %",
+        "MAG +40%"
+    ],
     "100130": [
         "DEF +10%",
         "防禦+10%",
@@ -152,12 +160,12 @@
         "DEF +20%"
     ],
     "100141": [
-        null,
-        null,
-        null,
-        null,
+        "DEF +20%",
+        "防禦+20%",
+        "방어력+20%",
+        "DÉF +20%",
         "ABW +20%",
-        null
+        "DEF +20%"
     ],
     "100150": [
         "DEF +30%",
@@ -184,12 +192,12 @@
         "ESP +20%"
     ],
     "100171": [
-        null,
-        null,
-        null,
-        null,
+        "SPR +20%",
+        "精神+20%",
+        "정신력+20%",
         "PSY +20%",
-        null
+        "PSY +20%",
+        "ESP +20%"
     ],
     "100180": [
         "SPR +30%",
@@ -222,6 +230,14 @@
         "INV +30%",
         "BSW MAG + 30 %",
         "MAG INV +30%"
+    ],
+    "100220": [
+        "EVO MAG +40%",
+        "召喚魔法+40%",
+        "소환마법+40%",
+        "INV +40%",
+        "BSW MAG + 40 %",
+        "MAG INV +40%"
     ],
     "100710": [
         "Auto-Protect",
@@ -20770,7 +20786,7 @@
     "225400": [
         "Blade of Fury",
         "連鎖刃器",
-        "브리드 리액터",
+        "블레이드 리액터",
         "Lame réactive",
         "Klingenreaktor",
         "Hoja reactiva"
@@ -20826,7 +20842,7 @@
     "225470": [
         "Self-Taught Swordsmanship",
         "自創劍技",
-        "아류 검기",
+        "아류 검술",
         "Autodidacte",
         "Selbst erlernte Schwertkunst",
         "Autodidacta"
@@ -20906,7 +20922,7 @@
     "225570": [
         "Laser Beams",
         "光束",
-        "레이즈 데드",
+        "레이",
         "Orbes laser",
         "Strahl",
         "Orbes láser"
@@ -20954,7 +20970,7 @@
     "225630": [
         "Crimson Squall",
         "紅陣雨",
-        "지나가는 비",
+        "붉은 가을비",
         "Hurlement pourpre",
         "Purpurschauer",
         "Grito carmesí"
@@ -20962,7 +20978,7 @@
     "225640": [
         "Crescent Wings",
         "弦月",
-        "반달",
+        "조각달",
         "Ailes en croissant",
         "Flügel des Zorns",
         "Alas de media luna"
@@ -21010,7 +21026,7 @@
     "225700": [
         "Single-Shot",
         "一射絕命",
-        "일사천명",
+        "일사절명",
         "Tir pour tuer",
         "Schießen und Töten",
         "Tirar a matar"
@@ -21027,7 +21043,7 @@
         "Seed of Hope",
         "幸運兒",
         "포츈 베이비",
-        "Bébé chanceux",
+        "Graine d'espoir",
         "Glücksbaby",
         "Criatura afortunada"
     ],
@@ -21146,7 +21162,7 @@
     "225870": [
         "Defense Force of Kratus",
         "克拉特斯自衛團",
-        "크라스트 자경단",
+        "크라토스 자경단",
         "Auto-défense de Krast",
         "Kratos Bürgerwehr",
         "Vigilante de Krast"
@@ -21178,7 +21194,7 @@
     "225910": [
         "Metal Pipe Kinda Guy",
         "鐵管派",
-        "철파이프",
+        "쇠파이프 파",
         "Tuyau ferreux",
         "Stahlrohrfraktion",
         "Tubo férreo"
@@ -21344,12 +21360,12 @@
         "Magia arcana"
     ],
     "226120": [
-        "Erythrite Blade",
+        "Blades of Azure Crimson",
         "緋蒼之劍",
         "비창의 검",
-        "Lame d'érythrite",
+        "Lames azur carmin",
         "Purpurazurklingen",
-        "Espada de erythrita"
+        "Hojas azul enrojecido"
     ],
     "226130": [
         "Hero's Edge",
@@ -21448,7 +21464,7 @@
         "A prueba de rayos"
     ],
     "226250": [
-        "Song for Praise",
+        "Song of Praise",
         "稱讚的勞達",
         "칭찬의 라우다",
         "Chanson de louanges",
@@ -21552,7 +21568,7 @@
         "Intuición de bombardero"
     ],
     "226380": [
-        "Hero's Vow - Darkness",
+        "Hero's Vow - Dark",
         "英雄誓言·暗",
         "영웅의 맹세·어둠",
         "Vœu du héros - Ténèbres",
@@ -21679,45 +21695,181 @@
         "Flexibel",
         "Flexibilidad"
     ],
+    "226405": [
+        "Valorous Defense",
+        "勇猛防禦",
+        "용맹한 방어",
+        "Défense valeureuse",
+        "Tapfere Verteidigung",
+        "Defensa valerosa"
+    ],
+    "226406": [
+        "Vagrant Knight",
+        "彷徨騎士",
+        "방황의 기사",
+        "Chevalier vagabond",
+        "Wandernder Ritter",
+        "Caballero mendicante"
+    ],
+    "226410": [
+        "Rising Ray",
+        "上升射線",
+        "승천하는 광선",
+        "Rayon ascendant",
+        "Emporsteigender Strahl",
+        "Rayo creciente"
+    ],
+    "226411": [
+        "Spectral Field",
+        "光譜力場",
+        "빛의 방어막",
+        "Champ spectral",
+        "Spektralfeld",
+        "Campo espectral"
+    ],
     "226412": [
-        null,
+        "Complete Focus",
         "完全集聚",
-        null,
-        null,
-        null,
-        null
+        "완전한 집속",
+        "Concentration absolue",
+        "Perfekter Fokus",
+        "Concentración total"
+    ],
+    "226413": [
+        "Magical Distraction",
+        "魔术混擾",
+        "마법 소란",
+        "Distraction magique",
+        "Magische Ablenkung",
+        "Distracción mágica"
+    ],
+    "226414": [
+        "Energy Wall",
+        "能量墻",
+        "에너지 장벽",
+        "Mur d'énergie",
+        "Energiewall",
+        "Muro de energía"
+    ],
+    "226415": [
+        "Raging Blood of Aldore",
+        "勇猛阿爾多爾之血",
+        "맹렬한 알도르의 피",
+        "Sang d'Aldore déchaîné",
+        "Tobendes Blut von Aldore",
+        "Furia sanguínea de Aldore"
+    ],
+    "226416": [
+        "Guardian's Fighting Spirit",
+        "守護者的鬥氣",
+        "수호자의 투기",
+        "Combativité de gardien",
+        "Kampfgeist des Beschützers",
+        "Espíritu guardián"
+    ],
+    "226417": [
+        "Awakening Power",
+        "覺醒之力",
+        "각성하는 힘",
+        "Puissance d'éveil",
+        "Erwachende Macht",
+        "Despertar"
+    ],
+    "226418": [
+        "Blazing Technique",
+        "燃燒之技",
+        "타오르는 기술",
+        "Technique ardente",
+        "Flammende Technik",
+        "Técnica abrasadora"
+    ],
+    "226419": [
+        "Blazing Physique",
+        "燃燒之體",
+        "타오르는 육체",
+        "Physique ardent",
+        "Flammender Leib",
+        "Psique abrasadora"
+    ],
+    "226420": [
+        "Esper Covenant",
+        "幻獸的盟約者",
+        "환수의 맹약자",
+        "Pacte de chimère",
+        "Esperpaktierer",
+        "Pacto de esper"
+    ],
+    "226421": [
+        "Transformational Power",
+        "轉化之力",
+        "전성하는 자",
+        "Pouvoir métamorphe",
+        "Macht der Transformation",
+        "Poder transformador"
+    ],
+    "226422": [
+        "Protector of Lapis",
+        "拉比斯的守護者",
+        "라피스를 지키는 자",
+        "Protecteur de Lapis",
+        "Verteidiger von Lapis",
+        "Protector de Lapis"
+    ],
+    "226423": [
+        "Shield Expertise",
+        "盾之高手",
+        "방패의 고수",
+        "Maîtrise de bouclier",
+        "Schildmeister",
+        "Maestro del escudo"
+    ],
+    "226424": [
+        "Armor Expertise",
+        "鎧之高手",
+        "갑옷의 고수",
+        "Maîtrise d'armure",
+        "Rüstungsmeister",
+        "Maestro de la armadura"
+    ],
+    "226676": [
+        "Pure Heart",
+        "純潔之心",
+        "순수한 마음",
+        "Cœur pur",
+        "Reines Herz",
+        "Corazón puro"
     ],
     "226680": [
-        "Knightly Flash",
+        "Knight of the Aurora",
         "閃光騎士",
         "섬광의 기사",
-        null,
-        null,
-        null
+        "Chevalier de lumière",
+        "Ritterin des Lichts",
+        "Caballera de la aurora"
     ],
     "226681": [
-        "Lightning Clash",
+        "Lightning Strike",
         "雷光斬",
         "뇌광참",
-        null,
-        null,
-        null
+        "Lames foudroyantes",
+        "Donnerspalter",
+        "Corte fulmíneo"
     ],
     "226682": [
-        "Endless Drive",
+        "Endless Army",
         "無盡驅散",
         "엔드리스 드라이브",
-        null,
-        null,
-        null
+        "Symbiose infinie",
+        "Infinitmorph",
+        "Empatía infinita"
     ],
     "226683": [
-        "Brand of the L'Cie",
+        "L'Cie Brand",
         "路希的烙印",
         "르씨의 낙인",
-        null,
-        null,
-        null
+        "Marque des l'Cie",
+        "L'Cie-Stigma",
+        "Marca de lu'Cie"
     ],
     "226690": [
         "Cheerful Valor",
@@ -21779,9 +21931,9 @@
         "Full Moon",
         "滿月",
         "보름달",
-        null,
-        null,
-        null
+        "Pleine lune",
+        "Vollmond",
+        "Luna llena"
     ],
     "226701": [
         "Karma Blade",
@@ -21886,6 +22038,38 @@
         null,
         null,
         null
+    ],
+    "226911": [
+        "Recoil",
+        "衝擊波",
+        "블래스터",
+        "Ravageur",
+        "Rückstoß",
+        "Fulminador"
+    ],
+    "226939": [
+        "Charming",
+        "迷人",
+        "챠밍",
+        "Charme",
+        "Charme",
+        "Embrujo"
+    ],
+    "226982": [
+        "Complete Awakening",
+        "完全覺醒",
+        "완전 각성",
+        "Éveil complet",
+        "Vollständiges Erwachen",
+        "Despertar completo"
+    ],
+    "227004": [
+        "Sword Dance",
+        "劍之舞",
+        "칼춤",
+        "Danse d'épées",
+        "Schwerttanz",
+        "Danza macabra"
     ],
     "227090": [
         "Impetus",
@@ -22043,9 +22227,9 @@
         "Veteran",
         "身經百戰",
         "백전연마",
-        null,
-        null,
-        null
+        "Combattant aguerri",
+        "Kampfgestählt",
+        "Veterana de guerra"
     ],
     "227150": [
         "Buster Style+",
@@ -22166,6 +22350,22 @@
         null,
         null,
         null
+    ],
+    "227231": [
+        "Blood Weapon",
+        "嗜血武裝",
+        "피의 무기",
+        "Arme de sang",
+        "Blutwaffe",
+        "Arma sangrienta"
+    ],
+    "227246": [
+        "Soul Voice",
+        "靈魂歌手",
+        "영혼의 목소리",
+        "Voix de l'âme",
+        "Seelenstimme",
+        "Voz del alma"
     ],
     "227271": [
         null,
@@ -22334,6 +22534,70 @@
         "Danse de lumière",
         "Yang-Tanzform",
         "Danza de luces"
+    ],
+    "227420": [
+        "Lightning Strike",
+        "電閃雷鳴",
+        "라이트닝 버스터",
+        "Frappe électrique",
+        "Blitzstreich",
+        "Golpe atronador"
+    ],
+    "227429": [
+        "Morning Star",
+        "啟明星獻禮",
+        "루시퍼의 선물",
+        "Étoile du matin",
+        "Morgenstern",
+        "Estrella del alba"
+    ],
+    "227432": [
+        "The Stuff of Legend",
+        "傳奇騎士之力",
+        "전설적인 기사의 힘",
+        "Essence légendaire",
+        "Kraft des legendären Ritters",
+        "Esencia legendaria"
+    ],
+    "227441": [
+        "Aquatic Implosion",
+        "水波聚爆",
+        "아쿠아 임플로전",
+        "Explosion aquatique",
+        "Aquatische Implosion",
+        "Implosión acuática"
+    ],
+    "227450": [
+        "Tortoise Toss",
+        "龜甲猛擲",
+        "토토스 슬로우",
+        "Lancer de tortue",
+        "Schildkrötenwurf",
+        "Lanzamiento de tortuga"
+    ],
+    "227453": [
+        "Avoid Counter Attack",
+        "閃避反擊",
+        "회복 카운터",
+        "Éviter contre-attaque",
+        "Konterangriff ausweichen",
+        "Evitar contraataque"
+    ],
+    "227470": [
+        "Primeval Howl",
+        "蜥蜴嘶吼",
+        "하울링 리저드",
+        "Hurlement primitif",
+        "Urzeitliches Heulen",
+        "Aullido primitivo"
+    ],
+    "227476": [
+        "Carpet Bomb",
+        "撼地爆炸",
+        "랜드 보머",
+        "Tapis de bombes",
+        "Flächenbombe",
+        "Bombardeo de alfombra"
     ],
     "227500": [
         "Rapid Shot",
@@ -22647,6 +22911,94 @@
         null,
         null
     ],
+    "227700": [
+        "Holy",
+        "神聖",
+        "홀리",
+        "Sidéral",
+        "Sanctus",
+        "Sanctus"
+    ],
+    "227724": [
+        "Survival",
+        "野外求生",
+        "서바이벌",
+        "Survivalisme",
+        "Überleben",
+        "Supervivencia"
+    ],
+    "227741": [
+        "Mettle",
+        "毅力",
+        "근성",
+        "Volonté",
+        "Mumm",
+        "Aguante"
+    ],
+    "227786": [
+        "Dracoslayer",
+        "龍劍士",
+        "드래곤 슬레이어",
+        "Tueur de dragons",
+        "Drachenschlächter",
+        "Matadragones"
+    ],
+    "227793": [
+        "Rage",
+        "憤怒",
+        "분노",
+        "Rage",
+        "Wut",
+        "Cólera"
+    ],
+    "227843": [
+        "Cheerleader",
+        "士氣",
+        "기합",
+        "Application",
+        "Cheerleader",
+        "Kiai"
+    ],
+    "227855": [
+        "Nightmare",
+        "夢魘",
+        "악몽",
+        "Cauchemar",
+        "Albtraum",
+        "Pesadilla"
+    ],
+    "227862": [
+        "Ray of Hope",
+        "希望之光",
+        "희망의 빛",
+        "Rayon d'espoir",
+        "Strahl der Hoffnung",
+        "Rayo de esperanza"
+    ],
+    "227871": [
+        "Mind Break",
+        "潰智",
+        "마인드 브레이크",
+        "Brise-âme",
+        "Willensbrecher",
+        "Rompemente"
+    ],
+    "227872": [
+        "Grenade Bomb",
+        "手榴彈",
+        "그레네이드 봄",
+        "Bombe grenade",
+        "Granate",
+        "Granada"
+    ],
+    "227890": [
+        "Slot",
+        "老虎機",
+        "슬롯",
+        "Jackpot",
+        "Slot",
+        "Tragaperras"
+    ],
     "227931": [
         "Twisted Hero",
         "扭曲的英雄",
@@ -22863,37 +23215,117 @@
         null,
         null
     ],
-    "228190": [
-        "Dual Black Magic",
+    "228090": [
+        "Scarlet Healing",
+        "緋紅治癒",
+        "주홍빛 치유",
+        "Soin écarlate",
+        "Scharlachrote Heilung",
+        "Curación escarlata"
+    ],
+    "228091": [
+        "Soul Prominence",
+        "日珥",
+        "홍염의 영혼",
+        "Grandeur d'âme",
+        "Seelenlodern",
+        "Prominencia espiritual"
+    ],
+    "228092": [
+        "Earth Explosion",
+        "撼地爆裂",
+        "대지의 폭발",
+        "Explosion terrestre",
+        "Erdexplosion",
+        "Explosión de tierra"
+    ],
+    "228093": [
+        "Astral Guard",
+        "星之護衛",
+        "성좌의 방어",
+        "Garde astrale",
+        "Astralwache",
+        "Guardia astral"
+    ],
+    "228094": [
+        "Purification",
+        "洗淨",
+        "정제",
+        "Purification",
+        "Läuterung",
+        "Purificación"
+    ],
+    "228095": [
+        "Defender of Hope",
+        "希望的救世主",
+        "희망의 구세주",
+        "Défenseur de l'espoir",
+        "Ersehnter Retter",
+        "Defensor de la esperanza"
+    ],
+    "228096": [
+        "Intensifying Power",
+        "激化之力",
+        "격화하는 힘",
+        "Puissance intensifiée",
+        "Intensivierende Kraft",
+        "Poder intensificador"
+    ],
+    "228140": [
+        "Gather Ingredients",
         null,
         null,
         null,
         null,
         null
+    ],
+    "228141": [
+        "Sharpen Knife",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "228142": [
+        "Chop",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "228143": [
+        "Slice",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "228144": [
+        "Detoxification",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "228190": [
+        "Dual Black Magic",
+        "W黑魔法",
+        "연속 흑마법",
+        "Magie noire x2",
+        "Doppelmagie Schwarz",
+        "Magia negra doble"
     ],
     "228191": [
         "Dualcast",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228200": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228201": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "連續詠唱",
+        "연속 마법",
+        "Double sort",
+        "Doppelmagie",
+        "Magia doble"
     ],
     "228202": [
         "Special Magic - Jinki",
@@ -22903,509 +23335,21 @@
         null,
         null
     ],
-    "228203": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228204": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228210": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228211": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228212": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228213": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228214": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228215": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228216": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228217": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228218": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228219": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228220": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228221": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228222": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228223": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228224": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228225": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228226": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228227": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228228": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228229": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228230": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228231": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228232": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228233": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228234": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228240": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228241": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228242": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228243": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228244": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228245": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228246": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228247": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228248": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228249": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228250": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228251": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228252": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228253": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228254": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228255": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228260": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228261": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228262": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228263": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228264": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228265": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228266": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228270": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228271": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228272": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228273": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228274": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228275": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228276": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228277": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228280": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228281": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "228282": [
-        "#REF!",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "228283": [
         "Shuriken",
-        null,
-        null,
-        null,
-        null,
-        null
+        "手裏劍",
+        "수리검",
+        "Shuriken",
+        "Shuriken",
+        "Shuriken"
     ],
     "228368": [
         "Hawkeye",
-        null,
-        null,
-        null,
-        null,
-        null
+        "狙擊模式",
+        "스나이프 모드",
+        "Œil de faucon",
+        "Adlerauge",
+        "Francotirador"
     ],
     "228405": [
         "Super Wink",
@@ -23905,11 +23849,11 @@
     ],
     "300610": [
         "Mega Phoenix",
-        null,
-        null,
-        null,
-        null,
-        null
+        "百萬鳳凰尾巴",
+        "메가피닉스",
+        "Méga phénix",
+        "Mega-Phönix",
+        "Omnifénix"
     ],
     "400010": [
         "EXP x1.5",
@@ -24377,7 +24321,7 @@
     ],
     "417040": [
         "Auto-Refresh Lv. 1",
-        "自動再生Lv.1",
+        "自動精神振奮Lv.1",
         "자동 리프레쉬Lv.1",
         "Auto-Recharge niv. 1",
         "Auto-Erfrischung Lv. 1",
@@ -24385,7 +24329,7 @@
     ],
     "417050": [
         "Auto-Refresh Lv. 2",
-        "自動再生Lv.2",
+        "自動精神振奮Lv.2",
         "자동 리프레쉬Lv.2",
         "Auto-Recharge niv. 2",
         "Auto-Erfrischung Lv. 2",
@@ -25817,19 +25761,19 @@
     ],
     "501641": [
         "Slay",
-        null,
-        null,
-        null,
-        null,
-        null
+        "斬亡",
+        "쓰러뜨리기",
+        "Occire",
+        "Schlachten",
+        "Aniquilar"
     ],
     "501642": [
         "Slay",
-        null,
-        null,
-        null,
-        null,
-        null
+        "斬亡",
+        "쓰러뜨리기",
+        "Occire",
+        "Schlachten",
+        "Aniquilar"
     ],
     "501650": [
         "Cut Through",
@@ -25841,19 +25785,19 @@
     ],
     "501651": [
         "Cut Through",
-        null,
-        null,
-        null,
-        null,
-        null
+        "斬殺",
+        "깊이 베기",
+        "Trancher",
+        "Dreindreschen",
+        "Descuartizar"
     ],
     "501652": [
         "Cut Through",
-        null,
-        null,
-        null,
-        null,
-        null
+        "斬殺",
+        "깊이 베기",
+        "Trancher",
+        "Dreindreschen",
+        "Descuartizar"
     ],
     "501660": [
         "Schwert Dance",
@@ -26633,19 +26577,19 @@
     ],
     "502881": [
         "Fool's Ballad",
-        null,
-        null,
-        null,
-        null,
-        null
+        "愚者歌謠",
+        "어리석은 자의 발라드",
+        "Ballade de l'idiot",
+        "Narrenballade",
+        "Balada del necio"
     ],
     "502882": [
         "Fool's Ballad",
-        null,
-        null,
-        null,
-        null,
-        null
+        "愚者歌謠",
+        "어리석은 자의 발라드",
+        "Ballade de l'idiot",
+        "Narrenballade",
+        "Balada del necio"
     ],
     "502890": [
         "Ares Protection",
@@ -26665,19 +26609,19 @@
     ],
     "502901": [
         "War of the Gods",
-        null,
-        null,
-        null,
-        null,
-        null
+        "三章·神魔激戰",
+        "제 3장~신마격전~",
+        "Guerre des dieux",
+        "Krieg der Götter",
+        "Guerra entre dioses"
     ],
     "502902": [
         "War of the Gods",
-        null,
-        null,
-        null,
-        null,
-        null
+        "三章·神魔激戰",
+        "제 3장~신마격전~",
+        "Guerre des dieux",
+        "Krieg der Götter",
+        "Guerra entre dioses"
     ],
     "502910": [
         "Victory to the Brave",
@@ -26689,19 +26633,19 @@
     ],
     "502911": [
         "Victory to the Brave",
-        null,
-        null,
-        null,
-        null,
-        null
+        "最終章·勇者凱歌",
+        "최종장~용사의 개가~",
+        "Victoire des braves",
+        "Trumpf der Mutigen",
+        "Victoria del valeroso"
     ],
     "502912": [
         "Victory to the Brave",
-        null,
-        null,
-        null,
-        null,
-        null
+        "最終章·勇者凱歌",
+        "최종장~용사의 개가~",
+        "Victoire des braves",
+        "Trumpf der Mutigen",
+        "Victoria del valeroso"
     ],
     "502920": [
         "Objection",
@@ -26713,19 +26657,19 @@
     ],
     "502921": [
         "Objection",
-        null,
-        null,
-        null,
-        null,
-        null
+        "異議",
+        "오브젝션",
+        "Objection",
+        "Einspruch",
+        "Objección"
     ],
     "502922": [
         "Objection",
-        null,
-        null,
-        null,
-        null,
-        null
+        "異議",
+        "오브젝션",
+        "Objection",
+        "Einspruch",
+        "Objección"
     ],
     "502930": [
         "Blood Weapon",
@@ -30128,25 +30072,33 @@
         "Escudo explosivo"
     ],
     "507230": [
-        null,
+        "Unleashed Focus",
         "集聚全釋放",
-        null,
-        null,
-        null,
-        null
+        "집속 모두 해방",
+        "Concentration déchaînée",
+        "Vollentfesselter Fokus",
+        "Concentración desatada"
+    ],
+    "507231": [
+        "Transformational Power",
+        "轉化之力",
+        "전성하는 힘",
+        "Pouvoir métamorphe",
+        "Kraft der Transformation",
+        "Poder transformador"
     ],
     "507240": [
-        "Lightning Clash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Lightning Strike",
+        "雷光斬",
+        "뇌광참",
+        "Lames foudroyantes",
+        "Donnerspalter",
+        "Corte fulmíneo"
     ],
     "507250": [
         "Double Break",
-        null,
-        null,
+        "W破壞",
+        "W브레이크",
         null,
         null,
         null
@@ -30154,271 +30106,271 @@
     "507251": [
         "Morale Boost",
         null,
-        null,
+        "사기 충전",
         null,
         null,
         null
     ],
     "507260": [
         "Karma Blade",
-        null,
-        null,
+        "因果劍",
+        "인과의 검",
         null,
         null,
         null
     ],
     "507275": [
         "Extend",
-        null,
-        null,
-        null,
-        null,
-        null
+        "擴散",
+        "확산",
+        "Prolonger",
+        "Verlängern",
+        "Prórroga"
     ],
     "507291": [
         "Splendor of the Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
     ],
     "507292": [
         "Splendor of the Fire",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
     ],
     "507293": [
         "Splendor of the Water",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
     ],
     "507294": [
         "Splendor of the Earth",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
     ],
     "507295": [
         "Splendor of the Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
     ],
     "507296": [
         "Splendor of the Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
     ],
     "507297": [
         "Splendor of the Fire",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
     ],
     "507298": [
         "Splendor of the Fire",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
     ],
     "507299": [
         "Splendor of the Water",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
     ],
     "507300": [
         "Splendor of the Water",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
     ],
     "507301": [
         "Splendor of the Earth",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
     ],
     "507302": [
         "Splendor of the Earth",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
     ],
     "507303": [
         "Splendor of the Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
     ],
     "507304": [
         "Splendor of the Fire",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
     ],
     "507305": [
         "Splendor of the Water",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
     ],
     "507306": [
         "Splendor of the Earth",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
     ],
     "507307": [
         "Splendor of the Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
     ],
     "507308": [
         "Splendor of the Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
     ],
     "507309": [
         "Splendor of the Fire",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
     ],
     "507310": [
         "Splendor of the Fire",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
     ],
     "507311": [
         "Splendor of the Water",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
     ],
     "507312": [
         "Splendor of the Water",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
     ],
     "507313": [
         "Splendor of the Earth",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
     ],
     "507314": [
         "Splendor of the Earth",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
     ],
     "507340": [
         "Perfect Ultima Sword",
-        null,
-        null,
+        "完全究極劍",
+        "완전 알테마 검",
         null,
         null,
         null
     ],
     "507341": [
         "Captain of the Order",
-        null,
-        null,
+        "南天騎士團團長",
+        "남천 기사단 단장",
         null,
         null,
         null
     ],
     "507363": [
         "Starfall",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隕星",
+        "운석",
+        "Météorite",
+        "Sternenbruch",
+        "Meteorito"
     ],
     "507364": [
         "Starfall",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隕星",
+        "운석",
+        "Météorite",
+        "Sternenbruch",
+        "Meteorito"
     ],
     "507390": [
         "Delay Buster",
-        null,
-        null,
+        "遲緩攻擊",
+        "딜레이 어택",
         null,
         null,
         null
     ],
     "507432": [
         "Chocobo Dive",
-        null,
-        null,
-        null,
-        null,
-        null
+        "陸行鳥急衝",
+        "초코보 돌진",
+        "Plongeon chocobo",
+        "Chocobo-Sturz",
+        "Chocoboembestida"
     ],
     "507450": [
         "The Subservient",
         null,
-        null,
+        "이용당한 자",
         null,
         null,
         null
@@ -30441,59 +30393,59 @@
     ],
     "507501": [
         "Charming",
-        null,
-        null,
-        null,
-        null,
-        null
+        "迷人",
+        "챠밍",
+        "Charme",
+        "Charme",
+        "Embrujo"
     ],
     "507551": [
         "Kafrizzle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "美拉蓋亞",
+        "메라가이아",
+        "Gigaflamme",
+        "Schmurgel",
+        "Superataque ígneo"
     ],
     "507552": [
         "Kafrizzle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "美拉蓋亞",
+        "메라가이아",
+        "Gigaflamme",
+        "Schmurgel",
+        "Superataque ígneo"
     ],
     "507553": [
         "Kafrizzle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "美拉蓋亞",
+        "메라가이아",
+        "Gigaflamme",
+        "Schmurgel",
+        "Superataque ígneo"
     ],
     "507554": [
         "Kafrizzle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "美拉蓋亞",
+        "메라가이아",
+        "Gigaflamme",
+        "Schmurgel",
+        "Superataque ígneo"
     ],
     "507555": [
         "Kafrizzle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "美拉蓋亞",
+        "메라가이아",
+        "Gigaflamme",
+        "Schmurgel",
+        "Superataque ígneo"
     ],
     "507556": [
         "Kafrizzle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "美拉蓋亞",
+        "메라가이아",
+        "Gigaflamme",
+        "Schmurgel",
+        "Superataque ígneo"
     ],
     "507590": [
         "Auroral Uppercut",
@@ -30513,235 +30465,235 @@
     ],
     "507600": [
         "Vanguard Protector",
-        null,
-        null,
+        "先陣守護",
+        "선진의 수호",
         null,
         null,
         null
     ],
     "507601": [
         "Rear Protector",
-        null,
-        null,
+        "後陣守護",
+        "후결의 수호",
         null,
         null,
         null
     ],
     "507602": [
         "Resistance Crush",
-        null,
-        null,
+        "咬擊超狼破",
+        "교격초랑파",
         null,
         null,
         null
     ],
     "507603": [
         "Ramza Lugria",
-        null,
-        null,
+        "拉姆薩·魯古里亞",
+        "람자·루글리아",
         null,
         null,
         null
     ],
     "507610": [
         "Supreme Slayer",
-        null,
-        null,
+        "絕霸剛衝劍",
+        "절패강충검",
         null,
         null,
         null
     ],
     "507620": [
         "Sword of the Clear Mind",
-        null,
-        null,
+        "斬斷迷惘之劍",
+        "고민을 떨치는 검",
         null,
         null,
         null
     ],
     "507621": [
         "Seiken - Thunder Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・雷鳴劍",
+        "성검기·뇌명검",
+        "Lame Ste - Foudrolle",
+        "Heiliges Schwert - Schocker",
+        "Ira santa - Sable eléctrico"
     ],
     "507622": [
         "Seiken - Thunder Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・雷鳴劍",
+        "성검기·뇌명검",
+        "Lame Ste - Foudrolle",
+        "Heiliges Schwert - Schocker",
+        "Ira santa - Sable eléctrico"
     ],
     "507623": [
         "Seiken - Stock Break",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
     ],
     "507624": [
         "Seiken - Stock Break",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
     ],
     "507625": [
         "Seiken - Climhazzard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・天災",
+        "성검기·클라임 해저드",
+        "Lame Ste - Mortimer",
+        "Heiliges Schwert - Exekutionsschlag",
+        "Ira santa - Guillotina"
     ],
     "507626": [
         "Seiken - Climhazzard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・天災",
+        "성검기·클라임 해저드",
+        "Lame Ste - Mortimer",
+        "Heiliges Schwert - Exekutionsschlag",
+        "Ira santa - Guillotina"
     ],
     "507627": [
         "Seiken - Shock",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
     ],
     "507628": [
         "Seiken - Shock",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
     ],
     "507629": [
         "Seiken - Saint Bringer",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
     ],
     "507630": [
         "Seiken - Saint Bringer",
-        null,
-        null,
-        null,
-        null,
-        null
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
     ],
     "507631": [
         "Finale Rose",
-        null,
-        null,
+        "聖劍技・最終玫瑰",
+        "성검기·로즈 오브 피날레",
         null,
         null,
         null
     ],
     "507632": [
         "Finale Rose",
-        null,
-        null,
+        "聖劍技・最終玫瑰",
+        "성검기·로즈 오브 피날레",
         null,
         null,
         null
     ],
     "507650": [
         "Trigger Smash",
-        null,
-        null,
+        "粉碎扳機",
+        "스매시 트리거",
         null,
         null,
         null
     ],
     "507651": [
         "Double Limit",
-        null,
-        null,
+        "W極限",
+        "W 리미트",
         null,
         null,
         null
     ],
     "507670": [
         "Prayer of the Lost",
-        null,
-        null,
+        "瑪達因・沙里的祈禱",
+        "마다인 사리의 기도",
         null,
         null,
         null
     ],
     "507671": [
         "Inherited Knowledge",
-        null,
-        null,
+        "秘傳之術",
+        "전해진 비술",
         null,
         null,
         null
     ],
     "507680": [
         "Champion of Will",
-        null,
-        null,
+        "意志繼承者",
+        "의지를 계승하는 자",
         null,
         null,
         null
     ],
     "507682": [
         "Endless Waltz",
-        null,
-        null,
+        "無盡華爾滋",
+        "엔드리스 왈츠",
         null,
         null,
         null
     ],
     "507683": [
         "Endless Waltz",
-        null,
-        null,
+        "無盡華爾滋",
+        "엔드리스 왈츠",
         null,
         null,
         null
     ],
     "507684": [
         "Endless Waltz",
-        null,
-        null,
+        "無盡華爾滋",
+        "엔드리스 왈츠",
         null,
         null,
         null
     ],
     "507685": [
         "Endless Waltz",
-        null,
-        null,
+        "無盡華爾滋",
+        "엔드리스 왈츠",
         null,
         null,
         null
     ],
     "507712": [
         "Blood Weapon",
-        null,
-        null,
-        null,
-        null,
-        null
+        "嗜血武裝",
+        "피의 무기",
+        "Arme de sang",
+        "Blutwaffe",
+        "Arma sangrienta"
     ],
     "507732": [
         "Soul Voice",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈魂歌手",
+        "영혼의 목소리",
+        "Voix de l'âme",
+        "Seelenstimme",
+        "Voz del alma"
     ],
     "507741": [
         "Triple Blade",
@@ -30761,15 +30713,23 @@
     ],
     "507764": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507779": [
         "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "507780": [
         null,
+        "宿星：歲星",
         null,
         null,
         null,
@@ -30777,411 +30737,411 @@
     ],
     "507789": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507798": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507799": [
         "Unforgiven",
-        null,
-        null,
-        null,
-        null,
-        null
+        "秘藏思念",
+        "숨겨진 마음",
+        "Sans pardon",
+        "Erbarmungslos",
+        "Imperdonable"
     ],
     "507800": [
         "Misty Charge",
-        null,
-        null,
-        null,
-        null,
-        null
+        "朦朧二段",
+        "안개 2단",
+        "Charge brumeuse",
+        "Nebelladung",
+        "Carga de la bruma"
     ],
     "507801": [
         "Misty Charge",
-        null,
-        null,
-        null,
-        null,
-        null
+        "朦朧二段",
+        "안개 2단",
+        "Charge brumeuse",
+        "Nebelladung",
+        "Carga de la bruma"
     ],
     "507802": [
         "Misty Charge",
-        null,
-        null,
-        null,
-        null,
-        null
+        "朦朧二段",
+        "안개 2단",
+        "Charge brumeuse",
+        "Nebelladung",
+        "Carga de la bruma"
     ],
     "507803": [
         "Clone Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "分身劍",
+        "분신검",
+        "Lame clone",
+        "Klonklinge",
+        "Hoja clonada"
     ],
     "507804": [
         "Clone Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "分身劍",
+        "분신검",
+        "Lame clone",
+        "Klonklinge",
+        "Hoja clonada"
     ],
     "507805": [
         "Clone Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "分身劍",
+        "분신검",
+        "Lame clone",
+        "Klonklinge",
+        "Hoja clonada"
     ],
     "507806": [
         "Hayate Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "疾風劍",
+        "질풍검",
+        "Lame d'Hayate",
+        "Hayates Schwert",
+        "Hoja de Hayate"
     ],
     "507807": [
         "Hayate Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "疾風劍",
+        "질풍검",
+        "Lame d'Hayate",
+        "Hayates Schwert",
+        "Hoja de Hayate"
     ],
     "507808": [
         "Hayate Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "疾風劍",
+        "질풍검",
+        "Lame d'Hayate",
+        "Hayates Schwert",
+        "Hoja de Hayate"
     ],
     "507809": [
         "Samidare Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "五月雨斬",
+        "사미다레 베기",
+        "Entaille Samidare",
+        "Samidare-Hieb",
+        "Tajo Samidare"
     ],
     "507810": [
         "Samidare Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "五月雨斬",
+        "사미다레 베기",
+        "Entaille Samidare",
+        "Samidare-Hieb",
+        "Tajo Samidare"
     ],
     "507811": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507812": [
         "Misty Charge",
-        null,
-        null,
-        null,
-        null,
-        null
+        "朦朧二段",
+        "안개 2단",
+        "Charge brumeuse",
+        "Nebelladung",
+        "Carga de la bruma"
     ],
     "507813": [
         "Misty Charge",
-        null,
-        null,
-        null,
-        null,
-        null
+        "朦朧二段",
+        "안개 2단",
+        "Charge brumeuse",
+        "Nebelladung",
+        "Carga de la bruma"
     ],
     "507814": [
         "Misty Charge",
-        null,
-        null,
-        null,
-        null,
-        null
+        "朦朧二段",
+        "안개 2단",
+        "Charge brumeuse",
+        "Nebelladung",
+        "Carga de la bruma"
     ],
     "507815": [
         "Clone Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "分身劍",
+        "분신검",
+        "Lame clone",
+        "Klonklinge",
+        "Hoja clonada"
     ],
     "507816": [
         "Clone Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "分身劍",
+        "분신검",
+        "Lame clone",
+        "Klonklinge",
+        "Hoja clonada"
     ],
     "507817": [
         "Clone Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "分身劍",
+        "분신검",
+        "Lame clone",
+        "Klonklinge",
+        "Hoja clonada"
     ],
     "507818": [
         "Hayate Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "疾風劍",
+        "질풍검",
+        "Lame d'Hayate",
+        "Hayates Schwert",
+        "Hoja de Hayate"
     ],
     "507819": [
         "Hayate Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "疾風劍",
+        "질풍검",
+        "Lame d'Hayate",
+        "Hayates Schwert",
+        "Hoja de Hayate"
     ],
     "507820": [
         "Hayate Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "疾風劍",
+        "질풍검",
+        "Lame d'Hayate",
+        "Hayates Schwert",
+        "Hoja de Hayate"
     ],
     "507821": [
         "Samidare Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "五月雨斬",
+        "사미다레 베기",
+        "Entaille Samidare",
+        "Samidare-Hieb",
+        "Tajo Samidare"
     ],
     "507822": [
         "Samidare Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "五月雨斬",
+        "사미다레 베기",
+        "Entaille Samidare",
+        "Samidare-Hieb",
+        "Tajo Samidare"
     ],
     "507823": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507824": [
         "Hayabusa Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隼斬",
+        "하야부사 베기",
+        "Entaille Hayabusa",
+        "Hayabusa-Schnitt",
+        "Tajo de Hayabusa"
     ],
     "507825": [
         "Hayabusa Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隼斬",
+        "하야부사 베기",
+        "Entaille Hayabusa",
+        "Hayabusa-Schnitt",
+        "Tajo de Hayabusa"
     ],
     "507826": [
         "Hayabusa Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隼斬",
+        "하야부사 베기",
+        "Entaille Hayabusa",
+        "Hayabusa-Schnitt",
+        "Tajo de Hayabusa"
     ],
     "507827": [
         "Ill Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "小旋風",
+        "선풍",
+        "Vent néfaste",
+        "Wind Ill",
+        "Viento espiral"
     ],
     "507828": [
         "Ill Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "小旋風",
+        "선풍",
+        "Vent néfaste",
+        "Wind Ill",
+        "Viento espiral"
     ],
     "507829": [
         "Ill Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "小旋風",
+        "선풍",
+        "Vent néfaste",
+        "Wind Ill",
+        "Viento espiral"
     ],
     "507830": [
         "Sonic Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "音速劍",
+        "음속검",
+        "Lame sonique",
+        "Schallklinge",
+        "Hoja sónica"
     ],
     "507831": [
         "Sonic Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "音速劍",
+        "음속검",
+        "Lame sonique",
+        "Schallklinge",
+        "Hoja sónica"
     ],
     "507832": [
         "Sonic Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "音速劍",
+        "음속검",
+        "Lame sonique",
+        "Schallklinge",
+        "Hoja sónica"
     ],
     "507833": [
         "Vacuum Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "真空斬",
+        "진공 베기",
+        "Entaille du vide",
+        "Vakuum-Hieb",
+        "Corte de vacío"
     ],
     "507834": [
         "Vacuum Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "真空斬",
+        "진공 베기",
+        "Entaille du vide",
+        "Vakuum-Hieb",
+        "Corte de vacío"
     ],
     "507835": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507836": [
         "Hayabusa Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隼斬",
+        "하야부사 베기",
+        "Entaille Hayabusa",
+        "Hayabusa-Schnitt",
+        "Tajo de Hayabusa"
     ],
     "507837": [
         "Hayabusa Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隼斬",
+        "하야부사 베기",
+        "Entaille Hayabusa",
+        "Hayabusa-Schnitt",
+        "Tajo de Hayabusa"
     ],
     "507838": [
         "Hayabusa Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "隼斬",
+        "하야부사 베기",
+        "Entaille Hayabusa",
+        "Hayabusa-Schnitt",
+        "Tajo de Hayabusa"
     ],
     "507839": [
         "Ill Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "小旋風",
+        "선풍",
+        "Vent néfaste",
+        "Wind Ill",
+        "Viento espiral"
     ],
     "507840": [
         "Ill Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "小旋風",
+        "선풍",
+        "Vent néfaste",
+        "Wind Ill",
+        "Viento espiral"
     ],
     "507841": [
         "Ill Wind",
-        null,
-        null,
-        null,
-        null,
-        null
+        "小旋風",
+        "선풍",
+        "Vent néfaste",
+        "Wind Ill",
+        "Viento espiral"
     ],
     "507842": [
         "Sonic Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "音速劍",
+        "음속검",
+        "Lame sonique",
+        "Schallklinge",
+        "Hoja sónica"
     ],
     "507843": [
         "Sonic Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "音速劍",
+        "음속검",
+        "Lame sonique",
+        "Schallklinge",
+        "Hoja sónica"
     ],
     "507844": [
         "Sonic Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "音速劍",
+        "음속검",
+        "Lame sonique",
+        "Schallklinge",
+        "Hoja sónica"
     ],
     "507845": [
         "Vacuum Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "真空斬",
+        "진공 베기",
+        "Entaille du vide",
+        "Vakuum-Hieb",
+        "Corte de vacío"
     ],
     "507846": [
         "Vacuum Slash",
-        null,
-        null,
-        null,
-        null,
-        null
+        "真空斬",
+        "진공 베기",
+        "Entaille du vide",
+        "Vakuum-Hieb",
+        "Corte de vacío"
     ],
     "507847": [
         "Beam",
-        null,
-        null,
-        null,
-        null,
-        null
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
     ],
     "507860": [
         "Festive Girl",
@@ -31209,23 +31169,23 @@
     ],
     "507900": [
         "Absolute Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "絕對保護好",
+        "반드시 지킨다",
+        "Charge d'âme",
+        "Absoluter Verteidigung",
+        "Protección absoluta"
     ],
     "507901": [
         "Absolute Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "絕對保護好",
+        "반드시 지킨다",
+        "Charge d'âme",
+        "Absoluter Verteidigung",
+        "Protección absoluta"
     ],
     "507940": [
         "Rapid Shot",
-        null,
+        "快速射擊",
         "신속 사격",
         null,
         null,
@@ -31233,7 +31193,7 @@
     ],
     "507941": [
         "Trick Weapon",
-        null,
+        "詭計武器",
         "트릭 웨폰",
         null,
         null,
@@ -31241,7 +31201,7 @@
     ],
     "507942": [
         "Trick Weapon",
-        null,
+        "詭計武器",
         "트릭 웨폰",
         null,
         null,
@@ -31249,7 +31209,7 @@
     ],
     "507943": [
         "Trick Weapon",
-        null,
+        "詭計武器",
         "트릭 웨폰",
         null,
         null,
@@ -31257,7 +31217,7 @@
     ],
     "507944": [
         "Trick Weapon",
-        null,
+        "詭計武器",
         "트릭 웨폰",
         null,
         null,
@@ -31265,7 +31225,7 @@
     ],
     "507945": [
         "Trick Weapon",
-        null,
+        "詭計武器",
         "트릭 웨폰",
         null,
         null,
@@ -31273,7 +31233,7 @@
     ],
     "507990": [
         "Upheaval",
-        null,
+        "動亂",
         "업히벌",
         null,
         null,
@@ -31289,7 +31249,7 @@
     ],
     "508010": [
         "Prayers of the Children",
-        null,
+        "祈禱者的思念",
         "기도자의 마음",
         null,
         null,
@@ -31297,7 +31257,7 @@
     ],
     "508011": [
         "Bond of the Guardian",
-        null,
+        "護衛之絆",
         "가드와의 인연",
         null,
         null,
@@ -31305,7 +31265,7 @@
     ],
     "508012": [
         "Full Moon Saint",
-        null,
+        "月輪聖印",
         "월륜의 성인",
         null,
         null,
@@ -31313,40 +31273,72 @@
     ],
     "508013": [
         "Energy Blast",
-        null,
-        null,
-        null,
-        null,
-        null
+        "射擊能量",
+        "슈팅·파워",
+        "Écho",
+        "Solaris-Strahl",
+        "Lluvia de muerte"
     ],
     "508014": [
         "Energy Blast",
-        null,
-        null,
-        null,
-        null,
-        null
+        "射擊能量",
+        "슈팅·파워",
+        "Écho",
+        "Solaris-Strahl",
+        "Lluvia de muerte"
     ],
     "508015": [
         "Energy Ray",
-        null,
-        null,
-        null,
-        null,
-        null
+        "射擊光線",
+        "슈팅·레이",
+        "Hurlements",
+        "Laserstrahl",
+        "Rayo devastador"
     ],
     "508016": [
         "Energy Ray",
-        null,
-        null,
+        "射擊光線",
+        "슈팅·레이",
+        "Hurlements",
+        "Laserstrahl",
+        "Rayo devastador"
+    ],
+    "508020": [
+        "Flare Fury",
+        "T·核爆",
+        "T·플레어",
         null,
         null,
         null
     ],
-    "508020": [
-        "Flare Fury",
+    "508060": [
+        "Air Supremacy",
+        "空中霸權",
+        "에어 슈프리머시",
         null,
         null,
+        null
+    ],
+    "508070": [
+        "Raid Killer",
+        "突擊必殺",
+        "레이드 킬",
+        null,
+        null,
+        null
+    ],
+    "508071": [
+        "Raid Killer",
+        "突擊必殺",
+        "레이드 킬",
+        null,
+        null,
+        null
+    ],
+    "508072": [
+        "Raid Killer",
+        "突擊必殺",
+        "레이드 킬",
         null,
         null,
         null
@@ -31375,6 +31367,38 @@
         null,
         null
     ],
+    "508076": [
+        "Self Shot",
+        "自拍",
+        "셀피 샷",
+        null,
+        null,
+        null
+    ],
+    "508077": [
+        "Self Shot",
+        "自拍",
+        "셀피 샷",
+        null,
+        null,
+        null
+    ],
+    "508078": [
+        "Self Shot",
+        "自拍",
+        "셀피 샷",
+        null,
+        null,
+        null
+    ],
+    "508079": [
+        "Hunt for the Prize",
+        "大獎狩獵",
+        "프라이즈 헌트",
+        null,
+        null,
+        null
+    ],
     "508080": [
         "Crackshot",
         "粉碎強擊",
@@ -31387,14 +31411,102 @@
         "Snapshot",
         "快照技術",
         "스냅 샷",
+        "Photos de combat",
+        "Schnappschuss",
+        "Reportero de guerra"
+    ],
+    "508090": [
+        "Double Ability - Iris",
+        "W能力・伊莉絲",
+        "W어빌리티·아이리스",
+        "Double aptitude - Iris",
+        "Doppelfähigkeit - Iris",
+        "Habilidad doble - Iris"
+    ],
+    "508091": [
+        "Double Ability - Iris",
+        "W能力・伊莉絲",
+        "W어빌리티·아이리스",
+        "Double aptitude - Iris",
+        "Doppelfähigkeit - Iris",
+        "Habilidad doble - Iris"
+    ],
+    "508092": [
+        "Dragon Sealer",
+        "封龍的血族",
+        "용을 봉인한 일족",
+        "Scelleur de dragons",
+        "Drachenverbanner",
+        "Confinador de dragones"
+    ],
+    "508098": [
+        "King's Shield",
+        "王之盾",
+        "왕의 방패",
+        "Bouclier royal",
+        "Königsschild",
+        "Escudo real"
+    ],
+    "508100": [
+        "Holy",
+        "神聖",
+        "홀리",
+        "Sidéral",
+        "Sanctus",
+        "Sanctus"
+    ],
+    "508170": [
+        "Tome of Alchemy",
+        null,
+        null,
         null,
         null,
         null
+    ],
+    "508185": [
+        "Double Limit",
+        "W極限",
+        "W 리미트",
+        null,
+        null,
+        null
+    ],
+    "508192": [
+        "Lucky Girl",
+        "幸運少女",
+        "럭키 걸",
+        "Chanceuse",
+        "Frohes Mädchen",
+        "Chica afortunada"
+    ],
+    "508193": [
+        "Joker's Death",
+        "致命鬼牌",
+        "조커의 죽음",
+        "La Faucheuse",
+        "Narrentod",
+        "Funeral del Jóker"
     ],
     "508210": [
         null,
         "絕對忠義",
         "절대적인 충의",
+        null,
+        null,
+        null
+    ],
+    "508220": [
+        "War Prep",
+        "臨戰態勢",
+        "임전 태세",
+        null,
+        null,
+        null
+    ],
+    "508221": [
+        "Firm Resolution",
+        "必死的決心",
+        "결사의 각오",
         null,
         null,
         null
@@ -31407,6 +31519,62 @@
         null,
         null
     ],
+    "508223": [
+        "Future Entrust",
+        "託付未來",
+        "미래에 맡긴다",
+        null,
+        null,
+        null
+    ],
+    "508240": [
+        "Sorrow",
+        "悲哀",
+        "비애",
+        null,
+        null,
+        null
+    ],
+    "508241": [
+        "Twin Zap",
+        "雙重攻擊",
+        "트윈 잽",
+        null,
+        null,
+        null
+    ],
+    "508242": [
+        "Burning Hatred",
+        "憎惡的烈炎",
+        "타오르는 증오의 불꽃",
+        null,
+        null,
+        null
+    ],
+    "508250": [
+        "Wave of Catastrophe",
+        "堆積的災禍",
+        "거듭되는 재앙",
+        null,
+        null,
+        null
+    ],
+    "508251": [
+        "Daybreak Bell",
+        "黎明的曉鐘",
+        "여명의 새벽종",
+        null,
+        null,
+        null
+    ],
+    "508263": [
+        "Last Shot",
+        "最後一射",
+        "라스트 샷",
+        "Dernier tir",
+        "Letzter Schuss",
+        "Disparo final"
+    ],
     "508283": [
         "Dual Eidolon",
         "W幻獸",
@@ -31417,11 +31585,603 @@
     ],
     "508320": [
         "Tragic Ending",
-        null,
-        null,
+        "悲慘終結",
+        "비극적 결말",
         null,
         null,
         null
+    ],
+    "508360": [
+        "Astral Guard",
+        "星之護衛",
+        "성좌의 방어",
+        "Garde astrale",
+        "Astralwache",
+        "Guardia astral"
+    ],
+    "508361": [
+        "Purification",
+        "洗淨",
+        "정제",
+        "Purification",
+        "Läuterung",
+        "Purificación"
+    ],
+    "508362": [
+        "Defender of Hope",
+        "希望的救世主",
+        "희망의 구세주",
+        "Défenseur de l'espoir",
+        "Ersehnter Retter",
+        "Defensor de la esperanza"
+    ],
+    "508363": [
+        "Defender of Hope",
+        "希望的救世主",
+        "희망의 구세주",
+        "Défenseur de l'espoir",
+        "Ersehnter Retter",
+        "Defensor de la esperanza"
+    ],
+    "508371": [
+        null,
+        "女王懲罰",
+        null,
+        null,
+        "Strafe der Königin",
+        null
+    ],
+    "508372": [
+        null,
+        "芳香治癒",
+        null,
+        null,
+        "Heilendes Aroma",
+        null
+    ],
+    "508373": [
+        null,
+        "高傲女王",
+        null,
+        null,
+        "Noble Königin",
+        null
+    ],
+    "508380": [
+        null,
+        "地嵐之劍",
+        null,
+        null,
+        "Erdsturmklinge",
+        null
+    ],
+    "508381": [
+        null,
+        "地嵐之劍",
+        null,
+        null,
+        "Erdsturmklinge",
+        null
+    ],
+    "508382": [
+        null,
+        "沁魔之體",
+        null,
+        null,
+        "Magiedurchdrungenheit",
+        null
+    ],
+    "508383": [
+        null,
+        "好人做到底",
+        null,
+        null,
+        "Grenzenlose Gutmütigkeit",
+        null
+    ],
+    "508390": [
+        null,
+        "W流聖瀑",
+        null,
+        null,
+        "Doppel-Sakralwasserfall<br>",
+        null
+    ],
+    "508392": [
+        null,
+        "馬格納反擊",
+        null,
+        null,
+        "Magnakonter",
+        null
+    ],
+    "508400": [
+        "Gather Ingredients",
+        "狩獵食材",
+        null,
+        null,
+        "Zutaten Sammeln",
+        null
+    ],
+    "508401": [
+        null,
+        "高速狩獵食材",
+        null,
+        null,
+        "Rasches Zutaten Sammeln",
+        null
+    ],
+    "508402": [
+        null,
+        "油炸雙足飛龍翅",
+        null,
+        null,
+        "Frittierte Lindwurmflügelspitze",
+        null
+    ],
+    "508403": [
+        null,
+        "文也汁煎電魚",
+        null,
+        null,
+        "Blitzfisch Müllerinart",
+        null
+    ],
+    "508410": [
+        "Seiken - Stock Break",
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
+    ],
+    "508411": [
+        "Seiken - Stock Break",
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
+    ],
+    "508412": [
+        "Seiken - Stock Break",
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
+    ],
+    "508413": [
+        "Seiken - Stock Break",
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
+    ],
+    "508414": [
+        "Seiken - Saint Bringer",
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
+    ],
+    "508415": [
+        "Seiken - Saint Bringer",
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
+    ],
+    "508416": [
+        "Seiken - Saint Bringer",
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
+    ],
+    "508417": [
+        "Seiken - Saint Bringer",
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
+    ],
+    "508418": [
+        "Seiken - Shock",
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
+    ],
+    "508419": [
+        "Seiken - Shock",
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
+    ],
+    "508420": [
+        "Seiken - Shock",
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
+    ],
+    "508421": [
+        "Seiken - Shock",
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
+    ],
+    "508422": [
+        "Summoner Descendant",
+        "召喚士一族的後裔",
+        "소환사 일족의 후예",
+        "Descendante d'invocateur",
+        "Letzte Nachkommin",
+        "Descendiente de invocadoras"
+    ],
+    "508423": [
+        "Conceal Technique",
+        "隱形術",
+        "은형술",
+        "Technique de dissimulation",
+        "Verbergentechnik",
+        "Técnica de ocultación"
+    ],
+    "508424": [
+        "Reckless Awakening",
+        "蠻勇開眼",
+        "만용개안",
+        "Éveil impétueux",
+        "Unbekümmertes Erwachen",
+        "Despertar impetuoso"
+    ],
+    "508425": [
+        "Reckless Awakening",
+        "蠻勇開眼",
+        "만용개안",
+        "Éveil impétueux",
+        "Unbekümmertes Erwachen",
+        "Despertar impetuoso"
+    ],
+    "508426": [
+        "Princess of Power",
+        "一姬當千",
+        "일희당천",
+        "Princesse toute-puissante",
+        "Prinzessin der Macht",
+        "Princesa de poder"
+    ],
+    "508427": [
+        "Militant",
+        "武士大將",
+        "무변자",
+        "Militant",
+        "Militant",
+        "Militante"
+    ],
+    "508428": [
+        "Princess of Power",
+        "一姬當千",
+        "일희당천",
+        "Princesse toute-puissante",
+        "Prinzessin der Macht",
+        "Princesa de poder"
+    ],
+    "508430": [
+        null,
+        "究防掛墜",
+        null,
+        null,
+        "Anhänger des Verschärften Schutzes",
+        null
+    ],
+    "508440": [
+        null,
+        "山之守護",
+        null,
+        null,
+        "Bergschutz",
+        null
+    ],
+    "508441": [
+        null,
+        "空之守護",
+        null,
+        null,
+        "Himmelsschutz",
+        null
+    ],
+    "508442": [
+        null,
+        "白龍咆哮",
+        null,
+        null,
+        "Gebrüll des Weißdrachen",
+        null
+    ],
+    "508443": [
+        null,
+        "飛翔吧，姐妹。",
+        null,
+        null,
+        "Kannst du fliegen, Schwester?",
+        null
+    ],
+    "508450": [
+        null,
+        "瑪娜的一擊",
+        null,
+        null,
+        "Manaschlag",
+        null
+    ],
+    "508451": [
+        null,
+        "冒險之心",
+        null,
+        null,
+        "Abenteuerlustiger Geist",
+        null
+    ],
+    "508452": [
+        null,
+        "狂亂五段刺",
+        null,
+        null,
+        "Tollwütiger 5-Stufenschlag",
+        null
+    ],
+    "508453": [
+        null,
+        "螺旋斬",
+        null,
+        null,
+        "Spiralhieb",
+        null
+    ],
+    "508454": [
+        null,
+        "瑪娜之力",
+        null,
+        null,
+        "Macht des Mana",
+        null
+    ],
+    "508460": [
+        null,
+        "四鬥解放",
+        null,
+        null,
+        "Entfesselung der 4 Pforten",
+        null
+    ],
+    "508461": [
+        null,
+        "白虎衝擊波",
+        null,
+        null,
+        "Schockwelle des Weißen Tigers",
+        null
+    ],
+    "508462": [
+        null,
+        "謝德之印",
+        null,
+        null,
+        "Schattenschnitt",
+        null
+    ],
+    "508470": [
+        null,
+        "明星加護",
+        null,
+        null,
+        "Beistand des Morgensterns",
+        null
+    ],
+    "508471": [
+        null,
+        "芬里爾之災",
+        null,
+        null,
+        "Fenrirs Unheil",
+        null
+    ],
+    "508472": [
+        null,
+        "明星加護",
+        null,
+        null,
+        "Beistand des Morgensterns",
+        null
+    ],
+    "508480": [
+        null,
+        "凶器攻擊",
+        null,
+        null,
+        "Todbringende Attacke",
+        null
+    ],
+    "508481": [
+        "Shuriken",
+        "手裏劍",
+        "수리검",
+        "Shuriken",
+        "Shuriken",
+        "Shuriken"
+    ],
+    "508482": [
+        null,
+        "暗影者",
+        null,
+        null,
+        "Schattenschleicher",
+        null
+    ],
+    "508490": [
+        null,
+        "回頭覺",
+        null,
+        null,
+        "Nochmal Schlafen",
+        null
+    ],
+    "508491": [
+        null,
+        "超衝撞",
+        null,
+        null,
+        "Voller Körpereinsatz",
+        null
+    ],
+    "508500": [
+        null,
+        "芳香四溢",
+        null,
+        null,
+        "Überströmender Wohlgeruch",
+        null
+    ],
+    "508510": [
+        null,
+        "突擊模式",
+        null,
+        null,
+        "Angriffsmodus",
+        null
+    ],
+    "508511": [
+        null,
+        "衝鋒劍",
+        null,
+        null,
+        "Rasende Klinge",
+        null
+    ],
+    "508512": [
+        null,
+        "被水晶選中的人",
+        null,
+        null,
+        "Auserwählter des Kristalls",
+        null
+    ],
+    "508513": [
+        null,
+        "對抗之力",
+        null,
+        null,
+        "Macht der Konfrontation",
+        null
+    ],
+    "508520": [
+        null,
+        "絕劍·暮雨",
+        null,
+        null,
+        "Absolutes Schwert: Zwielichtiger Regen",
+        null
+    ],
+    "508521": [
+        null,
+        "連絕劍",
+        null,
+        null,
+        "Absolutes Schwert: Kombo",
+        null
+    ],
+    "508560": [
+        "Transformation",
+        "獸化",
+        "야수화",
+        "Métamorphose",
+        "Metamorphose",
+        "Metamorfosis"
+    ],
+    "508561": [
+        "Transformation",
+        "獸化",
+        "야수화",
+        "Métamorphose",
+        "Metamorphose",
+        "Metamorfosis"
+    ],
+    "508562": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508563": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508564": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508565": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508566": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508567": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508568": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
+    ],
+    "508569": [
+        "Level up! You have been reinvigorated!",
+        "升級了 你也成長了啊",
+        "레벨 업이요! 당신도 성장했군!",
+        "Je suis monté d'un niveau ! Et toi aussi !",
+        "Ich bin aufgestiegen! Und auch du bist stärker geworden!",
+        "¡He subido de nivel, y tú también!"
     ],
     "508572": [
         "Super Wink",
@@ -36775,6 +37535,70 @@
         "Gesegneter Kristall",
         "Guarda del cristal"
     ],
+    "706190": [
+        "Splendor of the Wind",
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
+    ],
+    "706200": [
+        "Splendor of the Wind",
+        "風之光輝",
+        "바람의 인도",
+        "Splendeur du vent",
+        "Windpracht",
+        "Esplendor de viento"
+    ],
+    "706210": [
+        "Splendor of the Fire",
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
+    ],
+    "706220": [
+        "Splendor of the Fire",
+        "火之光輝",
+        "불꽃의 인도",
+        "Splendeur du feu",
+        "Feuerpracht",
+        "Esplendor de fuego"
+    ],
+    "706230": [
+        "Splendor of the Water",
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
+    ],
+    "706240": [
+        "Splendor of the Water",
+        "水之光輝",
+        "물의 인도",
+        "Splendeur de l'eau",
+        "Wasserpracht",
+        "Esplendor de agua"
+    ],
+    "706250": [
+        "Splendor of the Earth",
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
+    ],
+    "706260": [
+        "Splendor of the Earth",
+        "土之光輝",
+        "땅의 인도",
+        "Splendeur de la terre",
+        "Erdpracht",
+        "Esplendor de tierra"
+    ],
     "706270": [
         "Maiden of Water",
         "水之巫女",
@@ -37526,6 +38350,1654 @@
         "Pluie de coups mog",
         "Mogry-Sperrfeuer",
         "Ráfaga moguri"
+    ],
+    "707174": [
+        "Twin Blade General",
+        "雙劍將軍",
+        "쌍검장군",
+        "Générale aux doubles lames",
+        "Zwillingsklingen-General",
+        "General Espada Doble"
+    ],
+    "707175": [
+        "Twin Blade General",
+        "雙劍將軍",
+        "쌍검장군",
+        "Générale aux doubles lames",
+        "Zwillingsklingen-General",
+        "General Espada Doble"
+    ],
+    "707176": [
+        "Arms Eraser",
+        "消除武器",
+        "무기 제거",
+        "Efface-arme",
+        "Waffenlöscher",
+        "Desvanecearmas"
+    ],
+    "707177": [
+        "Arms Eraser",
+        "消除武器",
+        "무기 제거",
+        "Efface-arme",
+        "Waffenlöscher",
+        "Desvanecearmas"
+    ],
+    "707178": [
+        "Armor Eraser",
+        "消除裝甲",
+        "아머 제거",
+        "Efface-armure",
+        "Rüstunglöscher",
+        "Desvanecearmadura"
+    ],
+    "707179": [
+        "Armor Eraser",
+        "消除裝甲",
+        "아머 제거",
+        "Efface-armure",
+        "Rüstunglöscher",
+        "Desvanecearmadura"
+    ],
+    "707180": [
+        "Full Break+",
+        "身心潰擊改",
+        "개량형 풀 브레이크",
+        "Brise-tout +",
+        "Allesbrecher+",
+        "Rompetodo+"
+    ],
+    "707181": [
+        "Full Break+",
+        "身心潰擊改",
+        "개량형 풀 브레이크",
+        "Brise-tout +",
+        "Allesbrecher+",
+        "Rompetodo+"
+    ],
+    "707182": [
+        "Sage Wisdom",
+        "賢者教誨",
+        "현자의 가르침",
+        "Savoir de sage",
+        "Hohe Weisheit",
+        "Enseñanzas de sabio"
+    ],
+    "707183": [
+        "Sage Wisdom",
+        "賢者教誨",
+        "현자의 가르침",
+        "Savoir de sage",
+        "Hohe Weisheit",
+        "Enseñanzas de sabio"
+    ],
+    "707184": [
+        "Dedication",
+        "奉獻",
+        "헌신",
+        "Dévouement",
+        "Hingabe",
+        "Dedicación"
+    ],
+    "707185": [
+        "Dedication",
+        "奉獻",
+        "헌신",
+        "Dévouement",
+        "Hingabe",
+        "Dedicación"
+    ],
+    "707186": [
+        "Stop Detach",
+        "停止分離",
+        "스톱 해제",
+        "Retire stop",
+        "Gelöster Stopp",
+        "Desvinculo de paro"
+    ],
+    "707187": [
+        "Stop Detach",
+        "停止分離",
+        "스톱 해제",
+        "Retire stop",
+        "Gelöster Stopp",
+        "Desvinculo de paro"
+    ],
+    "707188": [
+        "Withdraw",
+        "撤軍",
+        "철수",
+        "Retirer",
+        "Rückzug",
+        "Retirada"
+    ],
+    "707189": [
+        "Withdraw",
+        "撤軍",
+        "철수",
+        "Retirer",
+        "Rückzug",
+        "Retirada"
+    ],
+    "707190": [
+        "Open Heart",
+        "敞開心扉",
+        "열린 마음",
+        "Cœur ouvert",
+        "Offenes Herz",
+        "Corazón abierto"
+    ],
+    "707191": [
+        "Open Heart",
+        "敞開心扉",
+        "열린 마음",
+        "Cœur ouvert",
+        "Offenes Herz",
+        "Corazón abierto"
+    ],
+    "707192": [
+        "Fool's Ballad",
+        "愚者歌謠",
+        "어리석은 자의 발라드",
+        "Ballade de l'idiot",
+        "Narrenballade",
+        "Balada del necio"
+    ],
+    "707193": [
+        "Fool's Ballad",
+        "愚者歌謠",
+        "어리석은 자의 발라드",
+        "Ballade de l'idiot",
+        "Narrenballade",
+        "Balada del necio"
+    ],
+    "707194": [
+        "Pizzicato Tonic",
+        "撥奏主音",
+        "토닉 피치카토",
+        "Pizzicato tonique",
+        "Pizzicato-Tonikum",
+        "Pizzicato tónico"
+    ],
+    "707195": [
+        "Pizzicato Tonic",
+        "撥奏主音",
+        "토닉 피치카토",
+        "Pizzicato tonique",
+        "Pizzicato-Tonikum",
+        "Pizzicato tónico"
+    ],
+    "707196": [
+        "Life's Refrain",
+        "生命副歌",
+        "생명의 리프레인",
+        "Refrain de la vie",
+        "Refrain des Lebens",
+        "Refrán de la vida"
+    ],
+    "707197": [
+        "Life's Refrain",
+        "生命副歌",
+        "생명의 리프레인",
+        "Refrain de la vie",
+        "Refrain des Lebens",
+        "Refrán de la vida"
+    ],
+    "707198": [
+        "Strong Memory",
+        "見多識廣",
+        "박람강기",
+        "Souvenir prégnant",
+        "Starke Erinnerung",
+        "Recuerdos firmes"
+    ],
+    "707199": [
+        "Strong Memory",
+        "見多識廣",
+        "박람강기",
+        "Souvenir prégnant",
+        "Starke Erinnerung",
+        "Recuerdos firmes"
+    ],
+    "707200": [
+        "Objection",
+        "異議",
+        "오브젝션",
+        "Objection",
+        "Einspruch",
+        "Objección"
+    ],
+    "707201": [
+        "Objection",
+        "異議",
+        "오브젝션",
+        "Objection",
+        "Einspruch",
+        "Objección"
+    ],
+    "707202": [
+        "Medical Knowledge",
+        "醫學知識",
+        "의학 지식",
+        "Savoir médical",
+        "Medizinisches Wissen",
+        "Conocimiento médico"
+    ],
+    "707203": [
+        "Medical Knowledge",
+        "醫學知識",
+        "의학 지식",
+        "Savoir médical",
+        "Medizinisches Wissen",
+        "Conocimiento médico"
+    ],
+    "707204": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707205": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707206": [
+        null,
+        "勇猛劍士",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707207": [
+        null,
+        "勇猛劍士",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707208": [
+        null,
+        "宿星：歲星",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707209": [
+        null,
+        "宿星：歲星",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707210": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707211": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707212": [
+        "Unforgiven",
+        "秘藏思念",
+        "숨겨진 마음",
+        "Sans pardon",
+        "Erbarmungslos",
+        "Imperdonable"
+    ],
+    "707213": [
+        "Unforgiven",
+        "秘藏思念",
+        "숨겨진 마음",
+        "Sans pardon",
+        "Erbarmungslos",
+        "Imperdonable"
+    ],
+    "707214": [
+        null,
+        "宿星：辰星",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707215": [
+        null,
+        "宿星：辰星",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707216": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707217": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707218": [
+        null,
+        "龍捲颶風",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707219": [
+        null,
+        "龍捲颶風",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707220": [
+        null,
+        "宿星：太白",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707221": [
+        null,
+        "宿星：太白",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707222": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707223": [
+        "Beam",
+        "靈光一閃",
+        "번뜩",
+        "Rayon",
+        "Strahl",
+        "Ocurrencia"
+    ],
+    "707224": [
+        "The Emperor",
+        "皇帝",
+        "황제",
+        "L'Empereur",
+        "Der Imperator",
+        "El emperador"
+    ],
+    "707225": [
+        "The Emperor",
+        "皇帝",
+        "황제",
+        "L'Empereur",
+        "Der Imperator",
+        "El emperador"
+    ],
+    "707226": [
+        null,
+        "光球",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707227": [
+        null,
+        "光球",
+        null,
+        null,
+        null,
+        null
+    ],
+    "707228": [
+        "Climhazzard",
+        "罪惡烈斬",
+        "클라임 해저드",
+        "Péril ascendant",
+        "Climgefahr",
+        "Riesgo climático"
+    ],
+    "707229": [
+        "Climhazzard",
+        "罪惡烈斬",
+        "클라임 해저드",
+        "Péril ascendant",
+        "Climgefahr",
+        "Riesgo climático"
+    ],
+    "707230": [
+        "Meteor Rain",
+        "流星雨",
+        "메테오 레인",
+        "Pluie de météorites",
+        "Meteorregen",
+        "Lluvia meteorito"
+    ],
+    "707231": [
+        "Meteor Rain",
+        "流星雨",
+        "메테오 레인",
+        "Pluie de météorites",
+        "Meteorregen",
+        "Lluvia meteorito"
+    ],
+    "707232": [
+        "SOLDIER 1st Class",
+        "一等戰士",
+        "솔저 클래스 1st",
+        "SOLDAT 1re classe",
+        "Rang-1-SOLDAT",
+        "SOLDADO de 1ª clase"
+    ],
+    "707233": [
+        "SOLDIER 1st Class",
+        "一等戰士",
+        "솔저 클래스 1st",
+        "SOLDAT 1re classe",
+        "Rang-1-SOLDAT",
+        "SOLDADO de 1ª clase"
+    ],
+    "707234": [
+        "Ice Prism",
+        "冰之棱鏡",
+        "아이스 프리즘",
+        "Banquise",
+        "Eisprisma",
+        "Prisma de hielo"
+    ],
+    "707235": [
+        "Ice Prism",
+        "冰之棱鏡",
+        "아이스 프리즘",
+        "Banquise",
+        "Eisprisma",
+        "Prisma de hielo"
+    ],
+    "707236": [
+        "True Doublehand",
+        "真·雙手持",
+        "진·양손 들기",
+        "Deux mains X",
+        "Wahre Doppelhand",
+        "Manodoble X"
+    ],
+    "707237": [
+        "True Doublehand",
+        "真·雙手持",
+        "진·양손 들기",
+        "Deux mains X",
+        "Wahre Doppelhand",
+        "Manodoble X"
+    ],
+    "707238": [
+        "Clever Smile",
+        "伶俐微笑",
+        "영리한 미소",
+        "Sourire intelligent",
+        "Schlaues Lächeln",
+        "Sonrisa astuta"
+    ],
+    "707239": [
+        "Clever Smile",
+        "伶俐微笑",
+        "영리한 미소",
+        "Sourire intelligent",
+        "Schlaues Lächeln",
+        "Sonrisa astuta"
+    ],
+    "707240": [
+        "Frostbite",
+        "冰霜痛擊",
+        "동상",
+        "Gelure",
+        "Frostbiss",
+        "Frío quemador"
+    ],
+    "707241": [
+        "Frostbite",
+        "冰霜痛擊",
+        "동상",
+        "Gelure",
+        "Frostbiss",
+        "Frío quemador"
+    ],
+    "707242": [
+        "Royal Armlet",
+        "皇家臂環",
+        "왕의 방패",
+        "Gantelet royal",
+        "Königlicher Armreif",
+        "Lazo real"
+    ],
+    "707243": [
+        "Royal Armlet",
+        "皇家臂環",
+        "왕의 방패",
+        "Gantelet royal",
+        "Königlicher Armreif",
+        "Lazo real"
+    ],
+    "707244": [
+        "King's Shield",
+        "王之盾",
+        "왕의 방패",
+        "Bouclier royal",
+        "Königsschild",
+        "Escudo real"
+    ],
+    "707245": [
+        "King's Shield",
+        "王之盾",
+        "왕의 방패",
+        "Bouclier royal",
+        "Königsschild",
+        "Escudo real"
+    ],
+    "707246": [
+        "Intercept",
+        "衝刺防禦",
+        "대시 가드",
+        "Intercepter",
+        "Abfangjäger",
+        "Guardia vigorosa"
+    ],
+    "707247": [
+        "Intercept",
+        "衝刺防禦",
+        "대시 가드",
+        "Intercepter",
+        "Abfangjäger",
+        "Guardia vigorosa"
+    ],
+    "707248": [
+        "Sword Draw",
+        "拔刀術",
+        "거합도",
+        "Dégainer",
+        "Schwert ziehen",
+        "Desenvaine"
+    ],
+    "707249": [
+        "Sword Draw",
+        "拔刀術",
+        "거합도",
+        "Dégainer",
+        "Schwert ziehen",
+        "Desenvaine"
+    ],
+    "707250": [
+        "Slaughtering Blade",
+        "斬瞬刀",
+        "참순도",
+        "Lame sanguinaire",
+        "Schlachtklinge",
+        "Hoja sanguinaria"
+    ],
+    "707251": [
+        "Slaughtering Blade",
+        "斬瞬刀",
+        "참순도",
+        "Lame sanguinaire",
+        "Schlachtklinge",
+        "Hoja sanguinaria"
+    ],
+    "707252": [
+        "Tri-Guard",
+        "路希斯三強",
+        "루시스 3대 강호",
+        "Les 3 champions du Lucis",
+        "Die drei Stärksten von Lucis",
+        "Los 3 magníficos de Lucis"
+    ],
+    "707253": [
+        "Tri-Guard",
+        "路希斯三強",
+        "루시스 3대 강호",
+        "Les 3 champions du Lucis",
+        "Die drei Stärksten von Lucis",
+        "Los 3 magníficos de Lucis"
+    ],
+    "707254": [
+        "Give it your all!",
+        "要認真上了！",
+        "진짜로 간다!",
+        "J'y vais à fond",
+        "Mit Volldampf voraus!",
+        "¡Vamos a por todas!"
+    ],
+    "707255": [
+        "Give it your all!",
+        "要認真上了！",
+        "진짜로 간다!",
+        "J'y vais à fond",
+        "Mit Volldampf voraus!",
+        "¡Vamos a por todas!"
+    ],
+    "707256": [
+        "Get pumped everyone!",
+        "大家打起精神！",
+        "다들 기운 내!",
+        "Encore un petit effort !",
+        "Aufheitern",
+        "¡Venga chicos, ánimo!"
+    ],
+    "707257": [
+        "Get pumped everyone!",
+        "大家打起精神！",
+        "다들 기운 내!",
+        "Encore un petit effort !",
+        "Aufheitern",
+        "¡Venga chicos, ánimo!"
+    ],
+    "707258": [
+        "Hexa Thrust",
+        "六角突擊",
+        "헥사 드러스트",
+        "Hexaestoc",
+        "Sechserstoß",
+        "Hexaestoque"
+    ],
+    "707259": [
+        "Hexa Thrust",
+        "六角突擊",
+        "헥사 드러스트",
+        "Hexaestoc",
+        "Sechserstoß",
+        "Hexaestoque"
+    ],
+    "707262": [
+        "Dragon Sealer",
+        "封龍的血族",
+        "용을 봉인한 일족",
+        "Scelleur de dragons",
+        "Drachenverbanner",
+        "Confinador de dragones"
+    ],
+    "707263": [
+        "Dragon Sealer",
+        "封龍的血族",
+        "용을 봉인한 일족",
+        "Scelleur de dragons",
+        "Drachenverbanner",
+        "Confinador de dragones"
+    ],
+    "707264": [
+        "Super Heavenfall Spear",
+        "飛天滅龍槍・極",
+        "비천명룡창·극",
+        "Lance tombeciel+",
+        "Superhimmelsfallspeer",
+        "Lanza derrumbacielos+"
+    ],
+    "707265": [
+        "Super Heavenfall Spear",
+        "飛天滅龍槍・極",
+        "비천명룡창·극",
+        "Lance tombeciel+",
+        "Superhimmelsfallspeer",
+        "Lanza derrumbacielos+"
+    ],
+    "707266": [
+        "Priestly Visage",
+        "祭司的器量",
+        "사제의 기량",
+        "Figure cléricale",
+        "Priesterliches Gesicht",
+        "Dotes clericales"
+    ],
+    "707267": [
+        "Priestly Visage",
+        "祭司的器量",
+        "사제의 기량",
+        "Figure cléricale",
+        "Priesterliches Gesicht",
+        "Dotes clericales"
+    ],
+    "707268": [
+        "Drake Slay Ritual",
+        "屠龍儀式",
+        "용 살해의 비의",
+        "Rituel tuedragons",
+        "Drachenschlächter-Ritual",
+        "Ritual matadragones"
+    ],
+    "707269": [
+        "Drake Slay Ritual",
+        "屠龍儀式",
+        "용 살해의 비의",
+        "Rituel tuedragons",
+        "Drachenschlächter-Ritual",
+        "Ritual matadragones"
+    ],
+    "707270": [
+        "Drake Formation",
+        "龍陣",
+        "용진",
+        "Formation dragonnique",
+        "Drachenformation",
+        "Formación dracónida"
+    ],
+    "707271": [
+        "Drake Formation",
+        "龍陣",
+        "용진",
+        "Formation dragonnique",
+        "Drachenformation",
+        "Formación dracónida"
+    ],
+    "707272": [
+        "Triteleia Wall",
+        "紫燈花障壁",
+        "트리텔레이아 장벽",
+        "Mur triteleia",
+        "Triteleia-Mauer",
+        "Muro triteleia"
+    ],
+    "707273": [
+        "Triteleia Wall",
+        "紫燈花障壁",
+        "트리텔레이아 장벽",
+        "Mur triteleia",
+        "Triteleia-Mauer",
+        "Muro triteleia"
+    ],
+    "707274": [
+        "Spiritual Barrier",
+        "精神防壁",
+        "정신 방벽",
+        "Prière spirituelle",
+        "Spirituelle Barriere",
+        "Barrera espiritual"
+    ],
+    "707275": [
+        "Spiritual Barrier",
+        "精神防壁",
+        "정신 방벽",
+        "Prière spirituelle",
+        "Spirituelle Barriere",
+        "Barrera espiritual"
+    ],
+    "707276": [
+        "Magic Barrier",
+        "魔法誘壁",
+        "마법 장벽",
+        "Barrière magique",
+        "Magische Barriere",
+        "Barrera mágica"
+    ],
+    "707277": [
+        "Magic Barrier",
+        "魔法誘壁",
+        "마법 장벽",
+        "Barrière magique",
+        "Magische Barriere",
+        "Barrera mágica"
+    ],
+    "707278": [
+        "Dragon Blade Dance",
+        "龍刃之舞",
+        "용인의 춤",
+        "Danse de la lame dragonique",
+        "Tanz der Drachenklinge",
+        "Baile de la hoja draconiana"
+    ],
+    "707279": [
+        "Dragon Blade Dance",
+        "龍刃之舞",
+        "용인의 춤",
+        "Danse de la lame dragonique",
+        "Tanz der Drachenklinge",
+        "Baile de la hoja draconiana"
+    ],
+    "707280": [
+        "Dragon Magic Dance",
+        "龍魔之舞",
+        "용마의 춤",
+        "Danse de la magie dragonique",
+        "Tanz der Drachenmagie",
+        "Baile de la magia draconiana"
+    ],
+    "707281": [
+        "Dragon Magic Dance",
+        "龍魔之舞",
+        "용마의 춤",
+        "Danse de la magie dragonique",
+        "Tanz der Drachenmagie",
+        "Baile de la magia draconiana"
+    ],
+    "707282": [
+        "Drakes Fog Dance",
+        "招雲龍舞",
+        "초운의 용무",
+        "Danse du dragon des brumes",
+        "Drachennebeltanz",
+        "Baile del dragón de niebla"
+    ],
+    "707283": [
+        "Drakes Fog Dance",
+        "招雲龍舞",
+        "초운의 용무",
+        "Danse du dragon des brumes",
+        "Drachennebeltanz",
+        "Baile del dragón de niebla"
+    ],
+    "707284": [
+        "Seiken - Stock Break",
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
+    ],
+    "707285": [
+        "Seiken - Stock Break",
+        "聖劍技・破曉斬",
+        "성검기·스톡 브레이크",
+        "Lame Ste - Fente",
+        "Heiliges Schwert - Donnerklinge",
+        "Ira santa - Devastación"
+    ],
+    "707286": [
+        "Seiken - Saint Bringer",
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
+    ],
+    "707287": [
+        "Seiken - Saint Bringer",
+        "聖劍技・聖使",
+        "성검기·세인트 브링거",
+        "Lame Ste - Porteur de l'aube",
+        "Heiliges Schwert - Heilsbringer",
+        "Ira santa - Portador del alba"
+    ],
+    "707288": [
+        "Graceful Paladin",
+        "流麗聖騎士",
+        "유려한 성기사",
+        "Chevalier sacré élégant",
+        "Bedingungslose Loyalität",
+        "Hermosa paladina"
+    ],
+    "707289": [
+        "Graceful Paladin",
+        "流麗聖騎士",
+        "유려한 성기사",
+        "Chevalier sacré élégant",
+        "Bedingungslose Loyalität",
+        "Hermosa paladina"
+    ],
+    "707290": [
+        "Seiken - Shock",
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
+    ],
+    "707291": [
+        "Seiken - Shock",
+        "聖劍技・震擊",
+        "성검기·쇼크",
+        "Lame Ste - Choc",
+        "Heiliges Schwert - Atomisator",
+        "Ira santa - Shock"
+    ],
+    "707292": [
+        "Pluto Captain",
+        "冥王隊隊長",
+        "플루토 부대 대장",
+        "Capitaine Pluton",
+        "Kapitän des Pluto-Trupps",
+        "Capitán Pluto"
+    ],
+    "707293": [
+        "Pluto Captain",
+        "冥王隊隊長",
+        "플루토 부대 대장",
+        "Capitaine Pluton",
+        "Kapitän des Pluto-Trupps",
+        "Capitán Pluto"
+    ],
+    "707294": [
+        "Sword Art - Shock",
+        "騎士劍技・震擊",
+        "기사의 검기·충격타",
+        "Lame de Chev - Choc",
+        "Schwertkunst - Schocker",
+        "Ira santa - Shock"
+    ],
+    "707295": [
+        "Sword Art - Shock",
+        "騎士劍技・震擊",
+        "기사의 검기·충격타",
+        "Lame de Chev - Choc",
+        "Schwertkunst - Schocker",
+        "Ira santa - Shock"
+    ],
+    "707296": [
+        "Mog's Friendship",
+        "與莫古利的友情",
+        "모그와의 우정",
+        "Amitié de Moug",
+        "Mogus Freundschaft",
+        "Amistad de Mogu"
+    ],
+    "707297": [
+        "Mog's Friendship",
+        "與莫古利的友情",
+        "모그와의 우정",
+        "Amitié de Moug",
+        "Mogus Freundschaft",
+        "Amistad de Mogu"
+    ],
+    "707298": [
+        "Summoner Descendant",
+        "召喚士一族的後裔",
+        "소환사 일족의 후예",
+        "Descendante d'invocateur",
+        "Letzte Nachkommin",
+        "Descendiente de invocadoras"
+    ],
+    "707299": [
+        "Summoner Descendant",
+        "召喚士一族的後裔",
+        "소환사 일족의 후예",
+        "Descendante d'invocateur",
+        "Letzte Nachkommin",
+        "Descendiente de invocadoras"
+    ],
+    "707300": [
+        "Passion Performance",
+        "熱情吹奏",
+        "열정적인 움직임",
+        "Intervention passionnante",
+        "Leidenschaftliche Darbietung",
+        "Pasión teatral"
+    ],
+    "707301": [
+        "Passion Performance",
+        "熱情吹奏",
+        "열정적인 움직임",
+        "Intervention passionnante",
+        "Leidenschaftliche Darbietung",
+        "Pasión teatral"
+    ],
+    "707302": [
+        "Crypto Performance",
+        "秘密吹奏",
+        "비밀스러운 움직임",
+        "Crypto-intervention",
+        "Geheime Darbietung",
+        "Inspiración teatral"
+    ],
+    "707303": [
+        "Crypto Performance",
+        "秘密吹奏",
+        "비밀스러운 움직임",
+        "Crypto-intervention",
+        "Geheime Darbietung",
+        "Inspiración teatral"
+    ],
+    "707304": [
+        "Thundersplit Blade",
+        "絕雙雷裂刃",
+        "절쌍뇌열인",
+        "Lame tranchefoudre",
+        "Donnerspaltklinge",
+        "Cuchilla parterayo"
+    ],
+    "707305": [
+        "Thundersplit Blade",
+        "絕雙雷裂刃",
+        "절쌍뇌열인",
+        "Lame tranchefoudre",
+        "Donnerspaltklinge",
+        "Cuchilla parterayo"
+    ],
+    "707306": [
+        "Call of the Darkness",
+        "暗之呼聲",
+        "어둠 속의 목소리",
+        "Appel des ténèbres",
+        "Lockruf der Dunkelheit",
+        "Llamada de la tiniebla"
+    ],
+    "707307": [
+        "Call of the Darkness",
+        "暗之呼聲",
+        "어둠 속의 목소리",
+        "Appel des ténèbres",
+        "Lockruf der Dunkelheit",
+        "Llamada de la tiniebla"
+    ],
+    "707308": [
+        "Kunai Rain",
+        "苦無雨",
+        "수리검 강우",
+        "Pluie de kunai",
+        "Kunai-Regen",
+        "Lluvia de kunai"
+    ],
+    "707309": [
+        "Kunai Rain",
+        "苦無雨",
+        "수리검 강우",
+        "Pluie de kunai",
+        "Kunai-Regen",
+        "Lluvia de kunai"
+    ],
+    "707310": [
+        "Future Bearer",
+        "肩負未來者",
+        "미래를 이끄는 자",
+        "Porteur futur",
+        "Zukunftsträger",
+        "Portador del futuro"
+    ],
+    "707311": [
+        "Future Bearer",
+        "肩負未來者",
+        "미래를 이끄는 자",
+        "Porteur futur",
+        "Zukunftsträger",
+        "Portador del futuro"
+    ],
+    "707312": [
+        "Whirlwind Evasion 2",
+        "旋風遁・二式",
+        "질풍둔 2식",
+        "Évasion - Tornade II",
+        "Wirbelwindvermeidung 2",
+        "Evasión del remolino II"
+    ],
+    "707313": [
+        "Whirlwind Evasion 2",
+        "旋風遁・二式",
+        "질풍둔 2식",
+        "Évasion - Tornade II",
+        "Wirbelwindvermeidung 2",
+        "Evasión del remolino II"
+    ],
+    "707314": [
+        "Earthsplit Evasion 2",
+        "土割遁・二式",
+        "토할둔 2식",
+        "Évasion - Fissure terrestre II",
+        "Erdspaltenvermeidung 2",
+        "Evasión partetierra II"
+    ],
+    "707315": [
+        "Earthsplit Evasion 2",
+        "土割遁・二式",
+        "토할둔 2식",
+        "Évasion - Fissure terrestre II",
+        "Erdspaltenvermeidung 2",
+        "Evasión partetierra II"
+    ],
+    "707316": [
+        "Conceal Technique",
+        "隱形術",
+        "은형술",
+        "Technique de dissimulation",
+        "Verbergentechnik",
+        "Técnica de ocultación"
+    ],
+    "707317": [
+        "Conceal Technique",
+        "隱形術",
+        "은형술",
+        "Technique de dissimulation",
+        "Verbergentechnik",
+        "Técnica de ocultación"
+    ],
+    "707318": [
+        "Flame Type 2",
+        "火遁二式",
+        "화둔 2식",
+        "Flamme Type 2",
+        "Flamme Typ 2",
+        "Candela nivel 2"
+    ],
+    "707319": [
+        "Flame Type 2",
+        "火遁二式",
+        "화둔 2식",
+        "Flamme Type 2",
+        "Flamme Typ 2",
+        "Candela nivel 2"
+    ],
+    "707320": [
+        "Lightning 2",
+        "雷擊二式",
+        "뇌격 2식",
+        "Éclair II",
+        "Blitzschlag 2",
+        "Relámpago II"
+    ],
+    "707321": [
+        "Lightning 2",
+        "雷擊二式",
+        "뇌격 2식",
+        "Éclair II",
+        "Blitzschlag 2",
+        "Relámpago II"
+    ],
+    "707322": [
+        "Blade Carry",
+        "背負刀刃",
+        "도를 짊어진 자",
+        "Porte-lame",
+        "Klingenweite",
+        "Cuchilla a la espalda"
+    ],
+    "707323": [
+        "Blade Carry",
+        "背負刀刃",
+        "도를 짊어진 자",
+        "Porte-lame",
+        "Klingenweite",
+        "Cuchilla a la espalda"
+    ],
+    "707324": [
+        "Battle Princess's Descent",
+        "戰姬降臨",
+        "전희강림",
+        "Descendant de la lutteuse",
+        "Erbe der Kämpferprinzessin",
+        "Descenso de luchadora"
+    ],
+    "707325": [
+        "Battle Princess's Descent",
+        "戰姬降臨",
+        "전희강림",
+        "Descendant de la lutteuse",
+        "Erbe der Kämpferprinzessin",
+        "Descenso de luchadora"
+    ],
+    "707326": [
+        "Cry of the War Bird",
+        "軍鳥啼叫",
+        "전쟁의 새소리",
+        "Pleur de l'oiseau de guerre",
+        "Schrei des Kriegsvogels",
+        "Grito del ave de guerra"
+    ],
+    "707327": [
+        "Cry of the War Bird",
+        "軍鳥啼叫",
+        "전쟁의 새소리",
+        "Pleur de l'oiseau de guerre",
+        "Schrei des Kriegsvogels",
+        "Grito del ave de guerra"
+    ],
+    "707328": [
+        "Halberd Dance",
+        "薙刀艷舞",
+        "치도염무",
+        "Danse de hallebarde",
+        "Hellebardentanz",
+        "Danza de alabarda"
+    ],
+    "707329": [
+        "Halberd Dance",
+        "薙刀艷舞",
+        "치도염무",
+        "Danse de hallebarde",
+        "Hellebardentanz",
+        "Danza de alabarda"
+    ],
+    "707330": [
+        "Militant",
+        "武士大將",
+        "무변자",
+        "Militant",
+        "Militant",
+        "Militante"
+    ],
+    "707331": [
+        "Militant",
+        "武士大將",
+        "무변자",
+        "Militant",
+        "Militant",
+        "Militante"
+    ],
+    "707332": [
+        "Carnage Howl",
+        "修羅咆哮",
+        "수라의 포효",
+        "Hurlement enragé",
+        "Gemetzelgeheul",
+        "Rugido encarnizado"
+    ],
+    "707333": [
+        "Carnage Howl",
+        "修羅咆哮",
+        "수라의 포효",
+        "Hurlement enragé",
+        "Gemetzelgeheul",
+        "Rugido encarnizado"
+    ],
+    "707334": [
+        "Scuffle",
+        "大混戰",
+        "난투극",
+        "Rixe",
+        "Handgemenge",
+        "Refriega"
+    ],
+    "707335": [
+        "Scuffle",
+        "大混戰",
+        "난투극",
+        "Rixe",
+        "Handgemenge",
+        "Refriega"
+    ],
+    "707336": [
+        "Power Drain",
+        "力量降低",
+        "파워 감소",
+        "Drain de puissance",
+        "Kraftschwund",
+        "Drenaje de poder"
+    ],
+    "707337": [
+        "Power Drain",
+        "力量降低",
+        "파워 감소",
+        "Drain de puissance",
+        "Kraftschwund",
+        "Drenaje de poder"
+    ],
+    "707338": [
+        "Power Boost",
+        "力量提升",
+        "파워 상승",
+        "Boost de puissance",
+        "Kraftschub",
+        "Aumento de poder"
+    ],
+    "707339": [
+        "Power Boost",
+        "力量提升",
+        "파워 상승",
+        "Boost de puissance",
+        "Kraftschub",
+        "Aumento de poder"
+    ],
+    "707340": [
+        "Brisingamen",
+        "布裡希加曼",
+        "브리싱가멘",
+        "Brisingamen",
+        "Brisingamen",
+        "Brisingamen"
+    ],
+    "707341": [
+        "Brisingamen",
+        "布裡希加曼",
+        "브리싱가멘",
+        "Brisingamen",
+        "Brisingamen",
+        "Brisingamen"
+    ],
+    "707342": [
+        "Lamian Naga",
+        "美人蛇",
+        "라미안 나가",
+        "La Lamianaga",
+        "Naga von Lamia",
+        "Naga de Lamia"
+    ],
+    "707343": [
+        "Lamian Naga",
+        "美人蛇",
+        "라미안 나가",
+        "La Lamianaga",
+        "Naga von Lamia",
+        "Naga de Lamia"
+    ],
+    "707344": [
+        "Thousand Slashes",
+        "千枚斬",
+        "1,000장 베기",
+        "Mille entailles",
+        "Tausend Schnitte",
+        "Mil cortes"
+    ],
+    "707345": [
+        "Thousand Slashes",
+        "千枚斬",
+        "1,000장 베기",
+        "Mille entailles",
+        "Tausend Schnitte",
+        "Mil cortes"
+    ],
+    "707346": [
+        "Black Rain",
+        "黑雨",
+        "어둠의 비",
+        "Pluie noire",
+        "Schwarzer Regen",
+        "Lluvia negra"
+    ],
+    "707347": [
+        "Black Rain",
+        "黑雨",
+        "어둠의 비",
+        "Pluie noire",
+        "Schwarzer Regen",
+        "Lluvia negra"
+    ],
+    "707348": [
+        "Grenade Bomb",
+        "手榴彈",
+        "그레네이드 봄",
+        "Bombe grenade",
+        "Granate",
+        "Granada"
+    ],
+    "707349": [
+        "Grenade Bomb",
+        "手榴彈",
+        "그레네이드 봄",
+        "Bombe grenade",
+        "Granate",
+        "Granada"
+    ],
+    "707350": [
+        "Martial Arts Mastery",
+        "格鬥奧義",
+        "격투의 비법",
+        "Maîtrise des arts martiaux",
+        "Kampfkunstmeister",
+        "Maestría de puño"
+    ],
+    "707351": [
+        "Martial Arts Mastery",
+        "格鬥奧義",
+        "격투의 비법",
+        "Maîtrise des arts martiaux",
+        "Kampfkunstmeister",
+        "Maestría de puño"
+    ],
+    "707352": [
+        "Transformation",
+        "獸化",
+        "야수화",
+        "Métamorphose",
+        "Metamorphose",
+        "Metamorfosis"
+    ],
+    "707353": [
+        "Transformation",
+        "獸化",
+        "야수화",
+        "Métamorphose",
+        "Metamorphose",
+        "Metamorfosis"
+    ],
+    "707354": [
+        "Leaf Saber",
+        "綠葉軍刀",
+        "리프 세이버",
+        "Sabre de feuille",
+        "Blattsäbel",
+        "Sable de follaje"
+    ],
+    "707355": [
+        "Leaf Saber",
+        "綠葉軍刀",
+        "리프 세이버",
+        "Sabre de feuille",
+        "Blattsäbel",
+        "Sable de follaje"
+    ],
+    "707356": [
+        "Son of the Beast",
+        "獸人王的兒子",
+        "수인왕의 아들",
+        "Fils de la bête",
+        "Bestienprinz",
+        "Hijo de la bestia"
+    ],
+    "707357": [
+        "Son of the Beast",
+        "獸人王的兒子",
+        "수인왕의 아들",
+        "Fils de la bête",
+        "Bestienprinz",
+        "Hijo de la bestia"
+    ],
+    "707358": [
+        "Black Curse",
+        "黑色詛咒",
+        "어둠의 저주",
+        "Malédiction obscure",
+        "Schwarzer Fluch",
+        "Maldición tenebrosa"
+    ],
+    "707359": [
+        "Black Curse",
+        "黑色詛咒",
+        "어둠의 저주",
+        "Malédiction obscure",
+        "Schwarzer Fluch",
+        "Maldición tenebrosa"
+    ],
+    "707360": [
+        "Come Back",
+        "死而復生",
+        "살아서 돌아갈거야",
+        "De retour",
+        "Komm zurück!",
+        "De vuelta"
+    ],
+    "707361": [
+        "Come Back",
+        "死而復生",
+        "살아서 돌아갈거야",
+        "De retour",
+        "Komm zurück!",
+        "De vuelta"
+    ],
+    "707362": [
+        "Healing Light",
+        "治癒之光",
+        "힐 라이트",
+        "Lumière curative",
+        "Heilendes Licht",
+        "Luz curadora"
+    ],
+    "707363": [
+        "Healing Light",
+        "治癒之光",
+        "힐 라이트",
+        "Lumière curative",
+        "Heilendes Licht",
+        "Luz curadora"
+    ],
+    "707364": [
+        "Lvl Up - Warrior",
+        "升級·戰士形態",
+        "레벨 상승·전사 타입",
+        "Niv. sup. - Guerrier",
+        "St. Hoch - Krieger",
+        "Sube de nivel - Guerrero"
+    ],
+    "707365": [
+        "Lvl Up - Warrior",
+        "升級·戰士形態",
+        "레벨 상승·전사 타입",
+        "Niv. sup. - Guerrier",
+        "St. Hoch - Krieger",
+        "Sube de nivel - Guerrero"
+    ],
+    "707366": [
+        "Lvl Up - Monk",
+        "升級·武僧形態",
+        "레벨 상승·몽크 타입",
+        "Niv. sup. - Moine",
+        "St. Hoch - Mönch",
+        "Sube de nivel - Monje"
+    ],
+    "707367": [
+        "Lvl Up - Monk",
+        "升級·武僧形態",
+        "레벨 상승·몽크 타입",
+        "Niv. sup. - Moine",
+        "St. Hoch - Mönch",
+        "Sube de nivel - Monje"
+    ],
+    "707368": [
+        "Lvl Up - Mage",
+        "升級·魔道士形態",
+        "레벨 상승·마도사 타입",
+        "Niv. sup. - Mage",
+        "St. Hoch - Magier",
+        "Sube de nivel - Mago"
+    ],
+    "707369": [
+        "Lvl Up - Mage",
+        "升級·魔道士形態",
+        "레벨 상승·마도사 타입",
+        "Niv. sup. - Mage",
+        "St. Hoch - Magier",
+        "Sube de nivel - Mago"
+    ],
+    "707370": [
+        "Lvl Up - Sage",
+        "升級·賢者形態",
+        "레벨 상승·현자 타입",
+        "Niv. sup. - Sage",
+        "St. Hoch - Weiser",
+        "Sube de nivel - Sabio"
+    ],
+    "707371": [
+        "Lvl Up - Sage",
+        "升級·賢者形態",
+        "레벨 상승·현자 타입",
+        "Niv. sup. - Sage",
+        "St. Hoch - Weiser",
+        "Sube de nivel - Sabio"
+    ],
+    "707372": [
+        "Aide to the King",
+        "納特拉王的親信",
+        "나투라 왕의 측근",
+        "Garde du roi",
+        "Vertraute des Königs von Natura",
+        "Guardia del rey"
+    ],
+    "707373": [
+        "Aide to the King",
+        "納特拉王的親信",
+        "나투라 왕의 측근",
+        "Garde du roi",
+        "Vertraute des Königs von Natura",
+        "Guardia del rey"
+    ],
+    "707374": [
+        "Mageblade",
+        "魔操劍",
+        "마술검",
+        "Sabre magique",
+        "Spruchklinge",
+        "Sable mágico"
+    ],
+    "707375": [
+        "Mageblade",
+        "魔操劍",
+        "마술검",
+        "Sabre magique",
+        "Spruchklinge",
+        "Sable mágico"
+    ],
+    "707376": [
+        "Shibyra Technique",
+        "西維拉族的技能",
+        "시빌라 족의 기술",
+        "Technique de Shibyra",
+        "Technik der Shibyra",
+        "Técnica de Shibyra"
+    ],
+    "707377": [
+        "Shibyra Technique",
+        "西維拉族的技能",
+        "시빌라 족의 기술",
+        "Technique de Shibyra",
+        "Technik der Shibyra",
+        "Técnica de Shibyra"
+    ],
+    "707378": [
+        "Dirt Wall Technique",
+        "土壁忍法",
+        "토벽 인법",
+        "Mur de boue",
+        "Erdmauertechnik",
+        "Técnica de muro terrestre"
+    ],
+    "707379": [
+        "Dirt Wall Technique",
+        "土壁忍法",
+        "토벽 인법",
+        "Mur de boue",
+        "Erdmauertechnik",
+        "Técnica de muro terrestre"
+    ],
+    "707380": [
+        "Light Wall Technique",
+        "光壁忍法",
+        "광벽 인법",
+        "Mur de lumière",
+        "Lichtmauertechnik",
+        "Técnica de muro luminoso"
+    ],
+    "707381": [
+        "Light Wall Technique",
+        "光壁忍法",
+        "광벽 인법",
+        "Mur de lumière",
+        "Lichtmauertechnik",
+        "Técnica de muro luminoso"
     ],
     "707382": [
         "D Rising Lava",
@@ -48246,5 +50718,21 @@
         "Autorité",
         "Macht",
         "Autoridad"
+    ],
+    "911178": [
+        "Magical Recollection",
+        null,
+        "마법의 회상",
+        "Souvenir magique",
+        "Magische Rückbesinnung",
+        "Recuerdo mágico"
+    ],
+    "911179": [
+        "Scholarly Wisdom",
+        "學術智慧",
+        "학자의 지혜",
+        "Sagesse d'érudit",
+        "Gelehrsame Weisheit",
+        "Sabiduría del erudito"
     ]
 }

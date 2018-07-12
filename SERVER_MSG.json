@@ -1808,7 +1808,7 @@
         "Recompensa de niv. de amigo"
     ],
     "227": [
-        "You will recieve the following items for activating friend lvl %2\\$s on %1\\$s.",
+        "You will receive the following items for activating friend lvl %2\\$s on %1\\$s.",
         "%1\\$s中的好友Lv到達%2\\$s，以下道具為獎勵報酬。",
         "%1\\$s, 친구 레벨 %2\\$s의 효과 보상으로 아래와 같은 아이템을 지급합니다.",
         "Vous recevrez les objets suivants après avoir passé le niv. d'amitié %2\\$s sur %1\\$s.",
@@ -2054,6 +2054,102 @@
         "Impossible de récupérer les données de plusieurs unités.",
         "Konnte Informationen für mehrere Einheiten nicht abrufen.",
         "No se pudo recuperar la información de varias unidades."
+    ],
+    "260": [
+        "Failed to retrieve weapon ability data.",
+        "無法取得武器能力情報。",
+        "무기 어빌리티 정보를 가져올 수 없습니다.",
+        "Échec de la récupération des données d'aptitude d'arme.",
+        "Daten zu Waffenfertigkeiten konnten nicht abgerufen werden.",
+        "No se pudo recuperar la información sobre la habilidad del arma."
+    ],
+    "261": [
+        "The event period for \"\"Strengthen Your Weapons\"\" has ended.<br>To obtain your weapon enhancements, please restart the app.<br>Returning to title.",
+        "武具強化活動已結束。<br>為取得強化中的裝備資料，請由標題畫面再次進入遊戲。<br>返回標題畫面。",
+        "무구 강화 이벤트 기간이 종료되었습니다.<br>강화 중인 장비 데이터를 가져오기 위해, 타이틀 화면에서 게임을 재시작해 주십시오.<br>타이틀 화면으로 돌아갑니다.",
+        "La période de l'événement \"\"Améliorer vos armes\"\" est terminée.<br>Pour obtenir vos améliorations d'armes veuillez redémarrer l'application.<br>Retour à l'écran-titre.",
+        "Der Ereigniszeitraum für “Verstärke deine Waffen” ist abgelaufen.<br> Bitte starte die App erneut, um deine Waffenverstärkungen zu erhalten.<br>Zum Titelbildschirm zurückkehren.",
+        "El periodo del evento \"\"Refuerza tus armas\"\" ya ha terminado.<br>Para conseguir tus mejoras de armas, reinicia la app.<br>Regresando al juego..."
+    ],
+    "262": [
+        "An issue with the game is preventing enhanced weapons from being used in the Chamber of Arms.<br>Please unequip any enhanced weapons before undertaking a quest in this chamber. We ask for your patience until this issue is resolved.<br>Returning to title.",
+        "目前出現了在武具強化活動中強化的裝備無法在十二武具之間使用的狀況。<br>請避免裝備透過武具強化活動所強化的裝備。問題修復前，煩請您稍作等待。<br>返回標題畫面。",
+        "현재 십이무구의 틈새에서, 장비 강화 이벤트로 강화한 장비를 사용할 수 없는 현상이 발생하고 있습니다.<br>무구 강화 이벤트에서 강화한 장비를 장착하지 않으실 것을 부탁드립니다. 문제 해결까지 조금만 기다려 주십시오.<br>타이틀 화면으로 돌아갑니다.",
+        "Un problème empêche d'utiliser les armes améliorées dans la Chambre des armes.<br>Veuillez déséquiper toutes les armes améliorées équipées sur vos personnages avant de lancer une quête dans cette chambre. Nous vous demandons un peu de patience le temps que nous puissions régler le problème.<br>Retour à l'écran-titre.",
+        "Aufgrund eines technischen Problems können verstärkte Waffen gegenwärtig nicht in der Waffenkammer verwendet werden.<br> Bitte legt alle verstärkten Waffen ab, bevor ihr euch auf einen Auftrag in der Waffenkammer begebt. Bis das Problem behoben ist bitten wir um euer Verständnis.<br>Zum Titelbildschirm zurückkehren.",
+        "Un error del juego está impidiendo que se puedan usar armas mejoradas en la Cámara de las reliquias.<br>Por favor, no os equipéis ningún arma mejorada cuando queráis realizar una misión en esta cámara. Os pedimos paciencia mientras resolvemos esta incidencia.<br>Regresando al juego..."
+    ],
+    "263": [
+        "You are already enhancing other equipment.",
+        "已存在裝備強化中的道具。",
+        "이미 장비 강화 중인 아이템이 있습니다.",
+        "Un autre équipement est déjà en train d'être amélioré.",
+        "Du verstärkst bereits andere Ausrüstungsgegenstände.",
+        "Ya estás mejorando otro equipo."
+    ],
+    "264": [
+        "Units cannot be summoned because your unit inventory is full. Please clear some space before attempting to summon again.",
+        "持有兵員數已超出上限，無法進行召喚。請刪減持有兵員數。",
+        "유닛 보유 한도를 초과하여, 소환을 실행할 수 없습니다. 유닛 보유 수량을 조절해 주십시오.",
+        "Impossible d'invoquer d'autres unités car vous avez dépassé le nombre limite d'unités. Veuillez faire de l'espace dans votre inventaire avant de recommencer.",
+        "Du kannst keine Einheiten beschwören, weil dein Einheiteninventar voll ist. Bitte schaffe vor einem erneuten Beschwörungsversuch zunächst etwas Platz in deinem Inventar.",
+        "No se pueden invocar unidades porque tu inventario de unidades está lleno. Por favor, libera algo de espacio antes de intentar realizar una nueva invocación."
+    ],
+    "265": [
+        "Invalid mission data.",
+        "挑戰情報出現錯誤。",
+        "미션 정보가 올바르지 않습니다.",
+        "Données de mission invalides.",
+        "Ungültige Missionsdaten.",
+        "Información de misión inválida."
+    ],
+    "266": [
+        "Invalid ability data.",
+        "能力情報出現錯誤。",
+        "어빌리티 정보가 올바르지 않습니다.",
+        "Données d'aptitude invalides.",
+        "Ungültige Fertigkeitendaten.",
+        "Información de misión inválida."
+    ],
+    "267": [
+        "Invalid unit conversion data.",
+        "覺醒變換兵員情報出現錯誤。",
+        "각성 변환 유닛 정보가 올바르지 않습니다.",
+        "Données de conversion d'unité invalides.",
+        "Ungültige Einheiten-Konvertierungsdaten.",
+        "Información de conversión de unidad inválida."
+    ],
+    "268": [
+        "The conversion was canceled because a favorited unit was included.<br>The app will now close.",
+        "覺醒變換列表中含有已鎖定的兵員，處理已被取消。<br>應用程式即將關閉。",
+        "즐겨찾기에 등록된 유닛의 각성 변환을 시도하였으므로, 처리가 취소되었습니다.<br>일단 애플리케이션을 종료합니다.",
+        "La conversion d'unité a été annulée parce qu'une unité de vos favoris était présente.<br>L'application va fermer.",
+        "DieKonvertierungwurde abgebrochen, weil eine bevorzugte Einheit mit enthalten war.<br>Die App wird nun geschlossen.",
+        "Se canceló la conversión porque se incluyó una unidad marcada como favorita.<br>Cerrando la app..."
+    ],
+    "269": [
+        "Friend data has been updated.<br>Returning to title to retrieve newest data.",
+        "好友情報已更新。<br>為再次取得資料，將返回標題畫面。",
+        "친구 정보가 갱신되었습니다.<br>데이터를 다시 가져오기 위해, 타이틀 화면으로 돌아갑니다.",
+        "Les données d'amitié ont été mises à jour.<br>Retour à l'écran-titre pour récupérer les nouvelles données.",
+        "Die Freundesdaten wurden aktualisiert.<br>Zum Titelbildschirm zurückkehren, um aktuelle Daten abzurufen.",
+        "La información del amigo se ha actualizado.<br>Regresando al juego para recuperar la información más reciente."
+    ],
+    "270": [
+        "A material unit that won't contribute anything to the fusion has been included.<br>Please check your base and material units before proceeding.",
+        "合成素材中含有無法對基礎兵員進行任何強化的兵員。<br>請確認基礎兵員、素材兵員。",
+        "베이스 유닛에 합성해도, 아무 것도 획득할 수 없는 유닛이 재료에 포함되어 있습니다.<br>베이스 유닛, 재료 유닛을 확인해 주십시오.",
+        "Une unité utilisée en tant que matériau ne contribuant en rien à la fusion a été incluse.<br>Veuillez vérifier l'unité servant de base avant de continuer.",
+        "Eine Materialeinheit, die nichts zur Verbesserung in der Fusion beiträgt, ist mit enthalten.<br>Bitte überprüfe deine Basis- und Materialeinheiten, bevor du fortfährst.",
+        "Se ha incluido una unidad material que no puede contribuir en nada a la fusión.<br>Por favor, comprueba tus unidades materiales y base antes de continuar."
+    ],
+    "271": [
+        "◆ Friend List Refresh Restriction ◆<br> <br>The friend list refresh feature is currently being restricted to prevent data overload.<br>Please see the in-game news section for more details.<br>We thank you for your patience.<br> <br>The FFBE Team",
+        "◆好友情報更新限制◆<br> <br>目前由於負載對策的關係，好友情報更新將受到限制。<br>詳情請參閱應用程式內的公告。<br>FINAL FANTASY BRAVE EXVIUS 運營團隊",
+        "◆친구 정보 갱신 제한◆<br> <br>서버 과부화 해결을 위해, 친구 정보 갱신을 제한하였습니다.<br>자세한 내용은 애플리케이션 내 공지를 확인해 주십시오.<br>감사합니다.<br> <br>FINAL FANTASY BRAVE EXVIUS 운영팀",
+        "◆ Restriction de rafraîchissement de la liste d'amis ◆<br> <br>La fonction de rafraîchissement de la liste d'amis est actuellement réduite pour éviter une surcharge des serveurs.<br>Veuillez vous référer aux notifications en jeu pour plus de détails.<br>Nous vous remercions de votre patience.<br> <br>L'équipe de FFBE.",
+        "◆Einschränkung der Aktualisierung der Freundeslisten◆<br> <br>Zur VerhinderungeinerDatenüberlastungist die Funktion zur Aktualisierung der Freundesliste gegenwärtig eingeschränkt.<br>Details findest du unter „Neues“.<br>Vielen Dank für dein Verständnis.<br> <br>DasFFBE Team",
+        "◆ Restricciones en la actualización de la lista de amigos ◆<br> <br>La función para actualizar la lista de amigos ha sido restringida para evitar sobrecargas de datos.<br>Para conocer más información, visita la sección de noticias dentro del juego.<br>Os damos las gracias por vuestra paciencia.<br> <br>El equipo de FFBE"
     ],
     "500": [
         "No missions to unlock",

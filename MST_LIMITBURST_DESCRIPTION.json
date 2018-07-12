@@ -1383,6 +1383,14 @@
         "Reflektiert Rückmagie, alle Verb.",
         "Refleja la magia dirigida a los aliados"
     ],
+    "100005807": [
+        "Reflect back magic cast at all allies",
+        "反射對全體隊員使用的魔法",
+        "아군 전체가 받는 마법 반사",
+        "Renvoie la magie lancée sur tous les alliés",
+        "Reflektiert Rückmagie, alle Verb.",
+        "Refleja la magia dirigida a los aliados"
+    ],
     "100005905": [
         "Deal partial unmitigated damage to one enemy",
         "對1名敵人發動無視部分防禦的攻擊",
@@ -3319,6 +3327,30 @@
         "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos"
     ],
+    "100016503": [
+        "Damage and reduce DEF and SPR for one enemy",
+        "攻擊1名敵人+降低防禦精神",
+        "적 1명에게 피해+방어력과 정신력 감소",
+        "Dégâts et réduit la DEF et la PSY d'un ennemi",
+        "Schaden und ABW und PSY runter, ein Ziel",
+        "Daña y reduce la DEF y el ESP de un enemigo"
+    ],
+    "100016504": [
+        "Damage and reduce DEF and SPR for one enemy",
+        "攻擊1名敵人+降低防禦精神",
+        "적 1명에게 피해+방어력과 정신력 감소",
+        "Dégâts et réduit la DEF et la PSY d'un ennemi",
+        "Schaden und ABW und PSY runter, ein Ziel",
+        "Daña y reduce la DEF y el ESP de un enemigo"
+    ],
+    "100016505": [
+        "Damage and reduce DEF and SPR for one enemy",
+        "攻擊1名敵人+降低防禦精神",
+        "적 1명에게 피해+방어력과 정신력 감소",
+        "Dégâts et réduit la DEF et la PSY d'un ennemi",
+        "Schaden und ABW und PSY runter, ein Ziel",
+        "Daña y reduce la DEF y el ESP de un enemigo"
+    ],
     "100016605": [
         "Light and dark damage and chance of stopping all enemies",
         "對全體敵人發動光暗屬性攻擊+一定機率施加停止效果",
@@ -3592,6 +3624,14 @@
         "Daña y reduce la DEF de un enemigo"
     ],
     "203000206": [
+        "Damage and reduce DEF for one enemy",
+        "攻擊1名敵人+降低防禦",
+        "적 1명에게 피해+방어력 감소",
+        "Dégâts et réduit la DEF d'un ennemi",
+        "Schaden und ABW runter, ein Ziel",
+        "Daña y reduce la DEF de un enemigo"
+    ],
+    "203000207": [
         "Damage and reduce DEF for one enemy",
         "攻擊1名敵人+降低防禦",
         "적 1명에게 피해+방어력 감소",
@@ -5927,6 +5967,14 @@
         "Fügt allen Gegnern Blitzschaden zu + Chance auf Stille",
         "Daño de rayo y probabilidad de infligir silencio a todos los enemigos"
     ],
+    "253000207": [
+        "Lightning damage and chance of silencing all enemies",
+        "對全體敵人發動雷屬性攻擊+一定機率施加沉默效果",
+        "적 전체에 번개속성 피해+일정 확률로 침묵 부여",
+        "Dégâts de foudre et chances de réduire au silence tous les ennemis",
+        "Fügt allen Gegnern Blitzschaden zu + Chance auf Stille",
+        "Daño de rayo y probabilidad de infligir silencio a todos los enemigos"
+    ],
     "253000215": [
         "Damage and reduce ATK and MAG for one enemy",
         "攻擊1名敵人+降低攻擊魔力的數值",
@@ -7424,20 +7472,20 @@
         "Daño absoluto parcial de rayo a un enemigo y reduce el daño que reciben todos los enemigos durante un turno"
     ],
     "317000105": [
-        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies.",
-        "解除一名隊員的部分狀態效果+提高攻擊防禦魔力精神的數值+持續恢復HPMP",
-        "아군 1명의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
-        "Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM d'un allié",
-        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP eines Verb.",
-        "Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de un aliado"
+        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
+        "解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP",
+        "아군 전체의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
+        "Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM de tous les alliés",
+        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.",
+        "Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de todos los aliados"
     ],
     "317000106": [
-        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies.",
-        "解除一名隊員的部分狀態效果+提高攻擊防禦魔力精神的數值+持續恢復HPMP",
-        "아군 1명의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
-        "Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM d'un allié",
-        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP eines Verb.",
-        "Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de un aliado"
+        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
+        "解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP",
+        "아군 전체의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
+        "Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM de tous les alliés",
+        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.",
+        "Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de todos los aliados"
     ],
     "318000105": [
         "Deal partial unmitigated damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",

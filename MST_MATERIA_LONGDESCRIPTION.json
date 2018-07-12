@@ -3416,20 +3416,28 @@
         "Aumenta la MAG y el ESP un 10%."
     ],
     "504226380": [
-        "Increases fill rate of burst stones, and boosts ATK when equipped with a short sword, sword, large sword, or katana.",
-        "提高極限技石對極限技槽的增加量，並提高裝備短劍劍大劍刀時攻擊的數值。",
-        "LB 게이지 효율이 상승하고, 단검, 검, 대검, 도 장착 시 공격력이 상승합니다.",
-        "Augmente le taux de remplissage des pierres de limite et augmente l'ATT lorsqu'une épée normale, courte, longue ou un katana est équipé",
-        "Verstärkt den Effekt von Limitsteinen und erhöht ANG, wenn mit Kurzschwert, Schwert, Großschwert oder Katana ausgerüstet.",
-        "Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada larga o katana."
+        "Increases fill rate of burst stones, and boosts ATK when equipped with a short sword, sword, large sword, or katana. Not stackable.",
+        "提高極限技石對極限技槽的增加量，並提高裝備短劍劍大劍刀時攻擊的數值[無法重複裝備]。",
+        "LB 게이지 효율이 상승하고, 단검, 검, 대검, 도 장착 시 공격력이 상승합니다. (중복 장착 불가)",
+        "Augmente le taux de remplissage des pierres de limite et augmente l'ATT lorsqu'une épée normale, courte, longue ou un katana est équipé. Non cumulable.",
+        "Verstärkt den Effekt von Limitsteinen und erhöht ANG, wenn mit Kurzschwert, Schwert, Großschwert oder Katana ausgerüstet. (nicht stapelbar).",
+        "Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada larga o katana (no acumulable)."
     ],
     "504226406": [
-        "Boost HP, MP by 15% and DEF, SPR by 20%.",
+        "Boosts HP, MP by 15% and DEF, SPR by 20%.",
         "提高15%HPMP，並提高20%防禦精神。",
         "HP와 MP가 15% 상승하고, 방어력과 정신력이 20% 상승합니다.",
         "Augmente les PV et les PM de 15% ainsi que la DEF et la PSY de 20%",
         "Erhöht LP/MP um 15% und ABW/PSY um 20%.",
         "Aumenta la VIT y los PM un 15%, y la DEF y el ESP un 20%."
+    ],
+    "504226422": [
+        "Boosts HP by 20% and SPR by 40%, and fills the LB gauge every turn.",
+        "提高20%HP、40%精神，並且每回合自動增加極限技槽。",
+        "HP가 20%, 정신력이 40% 상승하고, 매 턴마다 LB 게이지가 증가합니다.",
+        "Augmente les PV de 20%, la PSY de 40% et remplit la jauge de limite à chaque tour",
+        "Erhöht LP um 20% und PSY um 40%, Limitmeter steigt in jeder Runde",
+        "Aumenta los VIT un 20% y la ESP un 40%, la barra de EL se llena cada turno."
     ],
     "504900400": [
         null,
@@ -4112,7 +4120,7 @@
         "Aumenta el ATQ y el ESP un 15% y reduce la posibilidad de ser atacado. Anula piedra (solo Lara Croft, Faraón Abel, Soleil divina y Aileen exploradora)."
     ],
     "1500000042": [
-        "Boost SPR by 20% and MP by 15%.",
+        "Boosts SPR by 20% and MP by 15%.",
         "提高20%精神的數值，並提高15%MP。",
         "정신력이 20% 상승하고, MP가 15% 상승합니다.",
         "Augmente la PSY de 20% et les PM de 15%.",
@@ -4144,7 +4152,7 @@
         "Aumenta el ATQ y el ESP al llevar un arma"
     ],
     "1500000046": [
-        "Boost MAG by 20% and MP by 15%.",
+        "Boosts MAG by 20% and MP by 15%.",
         "提高20%魔力的數值，並提高15%MP。",
         "마력이 20% 상승하고, MP가 15% 상승합니다.",
         "Augmente la MAGIE de 20% et les PM de 15%.",
@@ -4152,7 +4160,7 @@
         "Aumenta la MAG un 20% y los PM un 15%."
     ],
     "1500000047": [
-        "Boost magic damage dealt against demons. Not stackable.",
+        "Boosts magic damage dealt against demons. Not stackable.",
         "魔法攻擊時提高對惡魔系魔物的傷害[無法重複裝備]。",
         "마법공격 시 악마형 마물에게 주는 피해량이 상승합니다.(중복 장착 불가)",
         "Augmente les dégâts magiques infligés aux démons. Non cumulable.",
@@ -4246,5 +4254,21 @@
         "Augmente les PV de 15%, restaure les PV à chaque tour et augmente l'EXP obtenue en combat.",
         "Erhöht LP um 15%, regeneriert LP jede Runde und erhöht im Kampf erhaltene EXP.",
         "Aumenta la VIT un 15%, recupera VIT cada turno y potencia la EXP que se consigue durante el combate."
+    ],
+    "1500000061": [
+        "Boost SPR and MP.",
+        "提高精神MP。",
+        "정신력과 MP가 상승합니다.",
+        "Augmente la PSY et les PM.",
+        "Erhöht PSY und MP.",
+        "Aumenta el ESP y los PM."
+    ],
+    "1500000063": [
+        "Boosts MAG by 40% and DEF, SPR by 10%.",
+        "提高40%魔力，並提高10%防禦精神。",
+        "마력이 40% 상승하고, 방어력과 정신력이 10% 상승합니다.",
+        "Augmente la MAGIE de 40%, ainsi que la DEF et la PSY de 10%.",
+        "Erhöht MAG um 40% und ABW/PSY um 10%.",
+        "Aumenta la MAG un 40%, y la DEF y el ESP un 10%."
     ]
 }

@@ -1241,7 +1241,7 @@
     ],
     "CLSM_TITLE": [
         "Colosseum",
-        null,
+        "競技場",
         "투기장",
         "Colisée",
         "Kolosseum",
@@ -1992,7 +1992,7 @@
         "要強化此裝備品嗎？<br>※再次強化已經強化過的裝備品時，之前所獲得的能力將會在出發前往戰鬥時<color=255:255:0>重置</color>。",
         "이 장비를 강화하시겠습니까?<br>※강화 완료된 장비를 다시 강화할 경우, 이전에 획득한 어빌리티는 전투 출발 시 <color=255:255:0>초기화</color>됩니다.",
         "Améliorer cette pièce d'équipement ?<br>*Les aptitudes obtenues précédemment seront <color=255:255:0>réinitialisées</color> lors de votre départ si vous améliorez une pièce d'équipement ayant déjà été améliorée.",
-        "Willst du diese Ausrüstung verstärken?<br>※Solltest du eine bereits verstärkte Ausrüstung ein weiteres Mal verstärken wollen, werden die von dir erworbenen Fertigkeiten auf den Zustand beim Aufbruch in den Kampf<color=255:255:0>zurückgesetzt</color>.",
+        "Willst du diese Ausrüstung verstärken?<br>※Solltest du eine bereits verstärkte Ausrüstung ein weiteres Mal verstärken wollen, werden die von dir erworbenen Fertigkeiten auf den Zustand beim Aufbruch in den Kampf <color=255:255:0>zurückgesetzt</color>.",
         "¿Quieres mejorar este objeto?<br>*<color=255:255:0>Se restablecerán</color> las habilidades que se hayan conseguido con anterioridad en el momento de partir cuando se esté mejorando un objeto que ya haya sido mejorado."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GAMEOVER": [
@@ -2000,7 +2000,7 @@
         "非常遺憾，本次戰鬥所獲得的能力已經全部<color=255:255:0>重置</color>了。",
         "아쉽게도 이번 전투에서 획득한 어빌리티는 전부 <color=255:255:0>초기화</color>되었습니다.",
         "Toutes les aptitudes obtenues au cours de ce combat ont été <color=255:255:0>réinitialisées</color>.",
-        "Alle Fertigkeiten, die du in diesem Kampf erworben hast, wurden<color=255:255:0>zurückgesetzt</color>.",
+        "Alle Fertigkeiten, die du in diesem Kampf erworben hast, wurden <color=255:255:0>zurückgesetzt</color>.",
         "Se han <color=255:255:0>restablecido</color> todas las habilidades conseguidas a lo largo de la batalla."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GIVEUP": [
@@ -2016,7 +2016,7 @@
         "從迷宮中返回的話，<color=255:255:0>將會固定現在的強化狀態</color>。要從迷宮中返回嗎？",
         "던전에서 귀환하면 <color=255:255:0>현재 강화 상태로 확정됩니다</color>. 던전에서 귀환하시겠습니까?",
         "<color=255:255:0>Les améliorations actuelles seront définies</color> une fois que vous serez sorti(e) du donjon. Voulez-vous en sortir ?",
-        "Wenn du vom Dungeon zurückkehrst, wird der <color=255:255:0>derzeitige Zustand festlegt</color>. Aus dem Dungeon zurückkehren?",
+        "Wenn du vom Dungeon zurückkehrst, wird der <color=255:255:0>derzeitige Zustand festgelegt</color>. Aus dem Dungeon zurückkehren?",
         "<color=255:255:0>Las mejoras actuales estarán disponibles</color> cuando te retires de la mazmorra. ¿Quieres retirarte?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY": [
@@ -2071,7 +2071,7 @@
         "Previous Enhancements",
         "上次的狀態",
         "이전 상태",
-        null,
+        "Améliorations précédentes",
         "Vorherige Verbesserungen",
         "Mejoras anteriores"
     ],
@@ -9011,6 +9011,14 @@
         "Einheiten fusioniert",
         "Unidades fusionadas"
     ],
+    "MST_ARCHIVE_NAME_TOTAL_UNIT_RARE7_CLASS_UP": [
+        "Total 7★ Units Awoken",
+        "★7兵員覺醒次數",
+        "★7 유닛 각성 횟수",
+        "Total unités 7★ éveillées",
+        "Gesamte erweckte 7★ Einheiten",
+        "Unidades despertadas a ★7"
+    ],
     "MST_AWARD_TYPE_1": [
         "Achievements",
         "功績",
@@ -9180,6 +9188,14 @@
         "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
     ],
     "MST_BUNDLE_MESSAGE_854": [
+        "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
+        "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
+        "30일 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
+        "Merci d'avoir acheté le lot des 30 jours de connexion ! Vous avez reçu les récompenses suivantes pour le jour n°%s :",
+        "Vielen Dank, dass du das 30-Tage-Loginpaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
+        "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
+    ],
+    "MST_BUNDLE_MESSAGE_885": [
         "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
         "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
         "30일 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
@@ -12584,7 +12600,7 @@
         "達成中的挑戰在<color=255:0:0>區域地圖全部完成</color>後變成已達成狀態，可以獲得報酬。<br>一旦在中途<color=255:0:0>GAME OVER或放棄</color>，達成中的挑戰就會<color=255:0:0>回到未達成狀態</color>。<br> <br>區域地圖完成後，變為已達成狀態的挑戰報酬將會放到收信箱。",
         "달성 중인 미션은 <color=255:0:0>구역 맵을 모두 완료</color>하면 달성 완료 상태가 되며 보상을 획득할 수 있습니다.<br>진행 도중 <color=255:0:0>GAME OVER 또는 포기</color>할 경우, 미달성 상태로 돌아갑니다.</color><br> <br>구역 맵 완료 시 달성한 미션 보상은 구역 맵 완료와 함께 메시지함으로 지급됩니다.",
         "Les missions en cours s'affichent comme \"terminées\" une fois que <color=255:0:0>la zone est complétée</color> et vous recevrez les récompenses. Si vous perdez la partie ou que vous abandonnez, vos <color=255:0:0>missions ne changeront pas de statut. </color><br><br>Les récompenses obtenues après avoir terminé des missions sont envoyées dans votre messagerie.",
-        "Laufende Missionen werden nach Abschluss der gesamten <color=255:0:0>Gebietskarte als abgeschlossen markiert.</color>Anschließend erhältst du deine Belohnungen.  Bei <color=255:0:0>Game Over oder Aufgabe</color> vor Abschluss der Karte <color=255:0:0>wird die Mission wieder auf unvollständig gesetzt.</color><br>Belohnungen für abgeschlossene Missionen auf der Gebietskarte werden nach Abschluss des Gebiets an deinen Posteingang gesendet.",
+        "Laufende Missionen werden nach Abschluss der gesamten <color=255:0:0>Gebietskarte als abgeschlossen markiert.</color> Anschließend erhältst du deine Belohnungen. Bei <color=255:0:0>Game Over oder Aufgabe</color> vor Abschluss der Karte <color=255:0:0>wird die Mission wieder auf unvollständig gesetzt.</color><br>Belohnungen für abgeschlossene Missionen auf der Gebietskarte werden nach Abschluss des Gebiets an deinen Posteingang gesendet.",
         "Los objetivos en progreso aparecerán marcados una vez <color=255:0:0>hayas completado el mapa de área entero</color>, tras lo cual recibirás todas tus recompensas. Si <color=255:0:0>acaba la partida o te rindes</color> antes de completar el mapa,<color=255:0:0> tus objetivos volverán a quedar incompletos.</color><br>Las recompensas obtenidas en objetivos completados en el mapa de área serán enviadas a tu buzón."
     ],
     "RM_ENTRY_CONFIRM": [
@@ -15410,6 +15426,22 @@
         "Super",
         "Super",
         "Súper"
+    ],
+    "SUPER_AFFINITY_REWARD_MAIL_MSG": [
+        "Enjoy this present as a special reward for fusing your %s (%d★)!",
+        "作為 %s（★%d）合成時的特別報酬，將贈送以下道具！",
+        "%s (★%d) 합성 시 특별 보상으로 아래와 같응 아이템을 지급해 드립니다!",
+        "Profitez de ce cadeau pour avoir fait fusionner votre %s (%d★) !\"",
+        "Als besondere Belohnung für das Fusionieren von %s (%d★), erhältst du folgendes Geschenk!",
+        "¡Disfruta de este regalo como recompensa por fusionar tu %s (%d★)!"
+    ],
+    "SUPER_AFFINITY_REWARD_MAIL_TITLE": [
+        "Special reward for fusing your %s (%d★)!",
+        "%s（★%d）合成時的特別報酬！",
+        "%s (★%d) 합성 시 특별 보상!",
+        "Récompense spéciale pour avoir fait fusionner votre %s (%d★) !",
+        "Besondere Belohung für das Fusionieren von %s (%d★)!",
+        "¡Recompensa especial por fusionar tu %s (%d★)!"
     ],
     "SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TEXT": [
         "You can erase interrupted quest data and return to the home screen.<br>By erasing interrupted quest data, you will lose all <color=255:255:0>units, items, and gil</color> that you obtained during the quest.<br>During equipment enhancement events this will count as giving up, and <color=255:255:0>all acquired abilities</color> will be reset.<br><br>Do you wish to erase the data?",
