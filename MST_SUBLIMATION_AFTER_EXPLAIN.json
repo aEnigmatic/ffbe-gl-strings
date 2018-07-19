@@ -1871,6 +1871,22 @@
         "Erhöht den LP-Verbrauch (sehr hoch)<br>Erhöht die MP-Wiederherstellung (sehr hoch)<br><color=255:255:0>Erhöht den LP-Verbrauch (sehr hoch)</color><br><color=0:255:0>Erhöht die Anzahl aktiver Runden (mittel)</color>",
         "Aumenta el consumo de VIT (muchísimo)<br>Aumenta el poder de curación (muchísimo)<br><color=255:255:0>Aumenta el consumo de VIT (muchísimo)</color><br><color=0:255:0>Aumenta la duración (bastante)</color>"
     ],
+    "204101001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "204101002": [
+        "Boosts damage amount (great)<br><color=0:255:0>Reduces fire, ice, lightning, water, wind, earth, light and dark resistances</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "204120001": [
         "<color=0:255:0>Casts auto-regen during battle</color>",
         "<color=0:255:0>戰鬥中自動再生</color>",
@@ -4335,6 +4351,22 @@
         "Erhöht ANG<br><color=0:255:0>Steigert die ANG-Erhöhung (mittel)<br>Erhöht physischen Schaden gegen Steinmonster</color>",
         "Aumenta el ATQ<br><color=0:255:0>Mayor aumento de ATQ (bastante)<br>Aumenta el daño físico contra monstruos de piedra</color>"
     ],
+    "210100001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210100002": [
+        "Boosts damage amount (mid)<br>Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts earth resistance reduction (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "210310001": [
         "<color=0:255:0>Boosts damage amount (mid)</color>",
         "<color=0:255:0>提高傷害量(中)</color>",
@@ -4591,6 +4623,54 @@
         "Erhöht Schaden (hoch)<br><color=0:255:0>Steigert ABW- und PSY-Verringerung (gering)</color>",
         "Aumenta el daño (mucho)<br><color=0:255:0>Aumenta la resistencia a la reducción de DEF y ESP (poco)</color>"
     ],
+    "210790001": [
+        "<color=0:255:0>Boosts chance of enabling full charge stomp when receiving a physical or magic attack (low)</color><br><color=0:255:0>Boosts damage amount for full charge stomp (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210790002": [
+        "Boosts chance of enabling full charge stomp when receiving a physical or magic attack (low)<br>Boosts damage amount for full charge stomp (high)<br><color=0:255:0>Boosts chance of enabling full charge stomp when receiving a physical or magic attack (low)</color><br><color=0:255:0>Boosts damage amount for full charge stomp (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210880001": [
+        "<color=0:255:0>Change damage dealt to be based on DEF</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210880002": [
+        "Change damage dealt to be based on DEF<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Reduces damage taken for 3 turns for self</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210930001": [
+        "<color=0:255:0>Boosts damage reduction when active (mid)</color><br><color=0:255:0>Boosts chance of taking physical damage (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210930002": [
+        "Boosts damage reduction when active (mid)<br>Boosts chance of taking physical damage (low)<br><color=0:255:0>Boosts damage reduction when active (mid)</color><br><color=0:255:0>Boosts chance of taking physical damage (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "210960001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
         "<color=0:255:0>降低MP消耗(中)</color>",
@@ -4622,6 +4702,22 @@
         "Augmente les PM<br><color=0:255:0>Amplifie l'augmentation de la MAGIE (peu)</color>",
         "Erhöht MP<br><color=0:255:0>Steigert MAG-Erhöhung (gering)</color>",
         "Aumenta los PM<br><color=0:255:0>Mayor aumento de MAG (poco)</color>"
+    ],
+    "211110001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211110002": [
+        "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Temporarily boost physical damage dealt to beast, human, and dragon monsters for self</color>",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "211180001": [
         "<color=0:255:0>Boosts HP restoration amount (low)<br>Boosts MP restoration amount (mid)</color>",
@@ -4798,6 +4894,38 @@
         "Augmente les dégâts infligés (moyen)<br><color=0:255:0>Augmente les dégâts infligés après avoir utilisé Mirage</color>",
         "Erhöht den Schaden (mittel)<br><color=0:255:0>Erhöht den Schaden nach Trugbild</color>",
         "Aumenta el daño (bastante)<br><color=0:255:0>Aumenta el daño al usar espejismo</color>"
+    ],
+    "212230001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "212230002": [
+        "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "212300001": [
+        "<color=0:255:0>Boosts turns in effect (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "212300002": [
+        "Boosts turns in effect (mid)<br><color=0:255:0>Boosts turns in effect (great)</color><br><color=0:255:0>Boosts damage amount of swift current (great)</color><br><color=0:255:0>Boosts damage amount (high) and reduces mp consumed (high) for aqua prison</color><br><color=0:255:0>Boosts DEF and SPR increases (high), and add effect of reducing magic damage taken for three turns for elemental power</color>",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "213300001": [
         "<color=0:255:0>Boosts SPR increase (high)</color>",

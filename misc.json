@@ -1599,6 +1599,14 @@
         "Kristalltruhe der Erhabenheit",
         "Cofre de la majestuosidad"
     ],
+    "CTIONARY_NAME_1051110": [
+        "Aldore Bladed Soldier",
+        "阿爾多爾劍鬥兵",
+        "알도르 검투병",
+        "Soldat à épée d'Aldore",
+        "Aldore-Klingensoldat",
+        "Soldado con espada de Aldore"
+    ],
     "CURRENCY_NAME_1": [
         "Lapis"
     ],
@@ -1988,12 +1996,12 @@
         "Se han aplicado mejoras de equipo. Retirándose de la mazmorra."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_EQUIP_SELECT": [
-        "Enhance this piece of equipment?<br>*Previously obtained abilities will be <color=255:255:0>reset</color> upon departing when enhancing an already enhanced piece of equipment.",
-        "要強化此裝備品嗎？<br>※再次強化已經強化過的裝備品時，之前所獲得的能力將會在出發前往戰鬥時<color=255:255:0>重置</color>。",
-        "이 장비를 강화하시겠습니까?<br>※강화 완료된 장비를 다시 강화할 경우, 이전에 획득한 어빌리티는 전투 출발 시 <color=255:255:0>초기화</color>됩니다.",
-        "Améliorer cette pièce d'équipement ?<br>*Les aptitudes obtenues précédemment seront <color=255:255:0>réinitialisées</color> lors de votre départ si vous améliorez une pièce d'équipement ayant déjà été améliorée.",
-        "Willst du diese Ausrüstung verstärken?<br>※Solltest du eine bereits verstärkte Ausrüstung ein weiteres Mal verstärken wollen, werden die von dir erworbenen Fertigkeiten auf den Zustand beim Aufbruch in den Kampf <color=255:255:0>zurückgesetzt</color>.",
-        "¿Quieres mejorar este objeto?<br>*<color=255:255:0>Se restablecerán</color> las habilidades que se hayan conseguido con anterioridad en el momento de partir cuando se esté mejorando un objeto que ya haya sido mejorado."
+        "Enhance this piece of equipment?<br>Even if you fail to complete the dungeon, any abilities you obtained previously <color=255:255:0>will not be reset</color>. If already enhanced equipment is selected, <color=255:255:0>you will be able to choose</color> whether to leave the dungeon with the <color=0:128:0>newest abilities</color> you've obtained, or keep your <color=0:128:0>previous ability set</color> upon clearing the dungeon.",
+        "要強化此裝備品嗎？<br>就算失敗，之前獲得的狀態 <color=255:255:0>也不會被重置</color>。如果選擇已經強化過的裝備品，在完成或返回時，<color=255:255:0>可以選擇</color><color=0:128:0>新獲得狀態</color>或是<color=0:128:0>回到之前的狀態</color>。",
+        "이 장비를 강화하시겠습니까?<br>패배해도 이전의 획득 상태가 <color=255:255:0>초기화되지 않습니다.</color> 강화 완료된 장비를 선택할 경우, 완료 및 귀환 시에 <color=0:128:0>신규 획득</color>이나 <color=0:128:0>이전 상태로 되돌리기</color>를 선택할 수 있습니다.</color>",
+        "Améliorer cette pièce d'équipement ?<br>Même si vous ne parvenez pas à terminer ce donjon, les aptitudes précédemment obtenues <color=255:255:0>ne seront pas remises à zéro</color>. Si une pièce d'équipement déjà améliorée est sélectionnée, <color=255:255:0>vous aurez la possibilité</color> de sortir du donjon une fois celui-ci terminé et de conserver soit <color=0:128:0>vos aptitudes les plus récentes</color>, soit <color=0:128:0>vos aptitudes antérieures</color>.",
+        "Willst du diese Ausrüstung verbessern?<br>Auch wenn es dir misslingt, den Dungeon zu beenden, werden die Fertigkeiten, die du zuvor erworben hast <color=255:255:0>nicht zurückgesetzt</color>. Wenn bereits verbesserte Ausrüstung ausgewählt ist, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den von dir erworbenen<color=0:128:0>neusten Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset</color> behältst.",
+        "¿Quieres mejorar este objeto?<br>*<color=255:255:0>Aunque fracases al completar la mazmorra, las habilidades que hayas obtenido previamente <color=255:255:0>no se restablecerán</color>. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=0:128:0>abandonar la mazmorra con las nuevas habilidades obtenidas</color>, o <color=0:128:0>quedarte con las habilidades predefinidas</color>."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GAMEOVER": [
         "All abilities obtained during this battle have been <color=255:255:0>reset</color>.",
@@ -2012,12 +2020,12 @@
         "Si abandonas ahora, <color=255:255:0>no podrás usar lapis para recuperar estas habilidades</color>. Perderás todos los guiles y objetos que has conseguido, <color=255:255:0>además de perder todas las habilidades</color>.<br>¿Quieres abandonar?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_RETURN": [
-        "<color=255:255:0>Current enhancements will be set</color> once you retire from the dungeon. Do you wish to retire?",
-        "從迷宮中返回的話，<color=255:255:0>將會固定現在的強化狀態</color>。要從迷宮中返回嗎？",
-        "던전에서 귀환하면 <color=255:255:0>현재 강화 상태로 확정됩니다</color>. 던전에서 귀환하시겠습니까?",
-        "<color=255:255:0>Les améliorations actuelles seront définies</color> une fois que vous serez sorti(e) du donjon. Voulez-vous en sortir ?",
-        "Wenn du vom Dungeon zurückkehrst, wird der <color=255:255:0>derzeitige Zustand festgelegt</color>. Aus dem Dungeon zurückkehren?",
-        "<color=255:255:0>Las mejoras actuales estarán disponibles</color> cuando te retires de la mazmorra. ¿Quieres retirarte?"
+        "Current enhancements will be set once you retire from the dungeon. If already enhanced equipment was selected for this run, you will be able to choose whether to <color=255:255:0>leave the dungeon with the newest abilities you've obtained</color>, or <color=255:255:0>keep your previous ability set</color>. Do you wish to retire?",
+        "返回的話，將會固定現在的強化狀態。欲再次強化已強化過的裝備品時，<color=255:255:0>可以固定為現在的強化狀態</color>或是<color=255:255:0>返回再次強化前的狀態。</color>要從迷宮中返回嗎？",
+        "귀환하면 현재 강화 상태로 어빌리티가 확정됩니다. 강화 완료 장비를 다시 강화할 경우, <color=255:255:0>현재 강화 상태로 확정하기</color>나 <color=255:255:0>재강화 전 상태로 되돌릴 수 있습니다.</color> 던전에서 귀환하시겠습니까?",
+        "Les améliorations actuelles seront appliquées une fois que vous aurez quitté le donjon. Si une pièce d'équipement déjà améliorée a été sélectionnée au cours du donjon, vous aurez la possibilité de <color=255:255:0>quitter le donjon et de conserver les aptitudes plus récemment obtenues</color>ou de <color=255:255:0>conserver les aptitudes antérieures</color>. Voulez-vous quitter le donjon ?",
+        "Derzeitige Verbesserungen werden festgelegt, sobald du aus dem Dungeon zurückkehrst. Wenn für dieses Mal bereits verbesserte Ausrüstung ausgewählt wurde, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den <color=0:128:0>neusten, von dir erworbenen Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset behältst</color>. Aus dem Dungeon zurückkehren?",
+        "<color=255:255:0>Las mejoras actuales estarán disponibles</color> cuando te retires de la mazmorra. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=255:255:0>abandonar la mazmorra con las nuevas habilidades obtenidas</color>, o <color=255:255:0>quedarte con las habilidades predefinidas</color>.¿Quieres retirarte?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY": [
         "Equipment enhancements have been set. Retiring from the dungeon.",
@@ -2180,12 +2188,12 @@
         "Reglas del evento"
     ],
     "EQUIP_GROW_SELECT_EQUIP": [
-        "Select Equipment to Enhance",
+        "Select Equipment",
         "選擇強化裝備",
         "강화 장비 선택",
-        "Sélectionnez l'équipement à améliorer",
-        "Ausrüstungsgegenstand zur Verbesserung auswählen",
-        "Selecciona el objeto que quieres mejorar"
+        "Sélec. équipement",
+        "Ausrüstung wählen",
+        "Selecciona el objeto"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_AFTER_ABILITY_TITLE": [
         "Newly Obtained Abilities",
@@ -9297,7 +9305,7 @@
         "반투명 피나",
         "Fina presque transparente",
         "Durchsichtige Fina",
-        "Fina translúcida"
+        "Fina translúcida\n\r\ntranslúcida"
     ],
     "MST_CHARACTER_NAME_3": [
         "Fina",
@@ -9417,7 +9425,7 @@
         "마법 열쇠 30개",
         "Clé magique x30",
         "30 Zauberschlüssel",
-        "Llave mágica x 30"
+        "Llave mágica x 30\n\r\n0"
     ],
     "MST_LAND_NAME_11": [
         "Grandshelt",
@@ -9625,7 +9633,7 @@
         "상태이상 부여 계열 금지",
         "Altération d'état",
         "Zustandsveränderungen verboten",
-        "Estados alterados prohibidos"
+        "Estados alterados prohibidos\n\r\nprohibidos"
     ],
     "MST_RB_ABILITY_GROUP_DES_2": [
         "Fire magic/abilities forbidden",
@@ -9737,7 +9745,7 @@
         "상태이상 부여 계열",
         "Altération d'état",
         "Zustandsveränderungen",
-        "Estados alterados"
+        "Estados alterados\n\r\n alterados"
     ],
     "MST_RB_ABILITY_GROUP_NAME_2": [
         "Fire attacks",
@@ -9921,7 +9929,7 @@
         "상태 변경 어빌리티",
         "Aptitudes altérant l'état",
         "Statusfertigkeiten",
-        "Habilidades de cambio de estado"
+        "Habilidades de cambio de estado\n\r\n cambio de estado"
     ],
     "MST_RB_FORBIDDEN_INFO_NAME_3": [
         "Ice attacks",
@@ -11409,7 +11417,7 @@
         "사령형",
         "M. vivant",
         "Untoter",
-        "M. viviente"
+        "M. viviente\n\r\nviviente"
     ],
     "MST_TRIBE_NAME_2": [
         "Avian",
@@ -11537,7 +11545,7 @@
         "와~! 보물이다쿠포~!",
         "Génial ! Tu as réussi, kupo !",
         "Kuppo-tastisch! Du hast es geschafft!",
-        "¡Lo conseguiste, kupó!"
+        "¡Lo conseguiste, kupó!\n\r\niste, kupó!"
     ],
     "MST_TROPHY_METER_SERIF_2": [
         "Do your best to get the treasure, kupo!",
@@ -15430,7 +15438,7 @@
     "SUPER_AFFINITY_REWARD_MAIL_MSG": [
         "Enjoy this present as a special reward for fusing your %s (%d★)!",
         "作為 %s（★%d）合成時的特別報酬，將贈送以下道具！",
-        "%s (★%d) 합성 시 특별 보상으로 아래와 같응 아이템을 지급해 드립니다!",
+        "%s (★%d) 합성 시 특별 보상으로 아래와 같은 아이템을 지급해 드립니다!",
         "Profitez de ce cadeau pour avoir fait fusionner votre %s (%d★) !\"",
         "Als besondere Belohnung für das Fusionieren von %s (%d★), erhältst du folgendes Geschenk!",
         "¡Disfruta de este regalo como recompensa por fusionar tu %s (%d★)!"
@@ -16518,7 +16526,7 @@
     "UNIT_MIX_CONFIRM_RARE": [
         "<color=255:255:0>One or more <param=rare>★ or rarer non-enhancer units have been selected as material units. They will <color=255: 0: 0>disappear</color> upon fusion.<br>Fuse anyway?",
         "所選兵員中包含<color=255:255:0>★<param=rare>以上</color>的非強化素材兵員。<br>進行合成的話素材兵員將會<color=255:0:0>消失</color>。<br>是否要進行合成？",
-        "<color=255:255:0>★<param=rare> 이상의</color>강화 재료가 아닌 유닛이 재료 유닛으로 선택되었습니다.<br>합성하면 재료 유닛은 <color=255:0:0>소멸</color>됩니다.<br>합성하시겠습니까?",
+        "<color=255:255:0>★<param=rare> 이상의</color> 강화 재료가 아닌 유닛이 재료 유닛으로 선택되었습니다.<br>합성하면 재료 유닛은 <color=255:0:0>소멸</color>됩니다.<br>합성하시겠습니까?",
         "<color=255:255:0>Une ou plusieurs unités <param=rare>★ ou plus qui ne sont pas censées servir de matériaux de fusion ont été sélectionnées. Elles <color=255: 0: 0>disparaîtront</color> après la fusion.<br>Continuer ?",
         "<color=255:255:0>Eine oder mehr <param=rare>★ oder seltene, nicht verstärkende Einheiten wurden als Materialeinheiten ausgewählt. Sie <color=255: 0: 0>verschwinden</color> bei der Fusion.<br>Fusionieren?",
         "<color=255:255:0>Hay una o más unidades de <param=rare>★ o más seleccionadas como unidades materiales. <color=255: 0: 0>Desaparecerán</color> con la fusión.<br>¿Fusionar de todos modos?"
@@ -17036,12 +17044,12 @@
         "Gestionar grupo"
     ],
     "UNTIL": [
-        "Until",
+        null,
         "期限",
         "종료일시",
-        "Jusqu'au",
-        "Bis",
-        "Hasta"
+        null,
+        null,
+        null
     ],
     "USER_CREATE_CAUTION": [
         "Enter a player name of up to eight characters.",

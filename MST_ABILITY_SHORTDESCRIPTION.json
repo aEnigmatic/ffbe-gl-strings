@@ -10232,7 +10232,7 @@
         "Daño triple a un enemigo"
     ],
     "212200": [
-        "Leap into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 2 by one turn",
+        "Leap into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 2 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝二式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 2식' 낙하턴을 1턴으로 단축",
         "Saute dans les airs, attaque un ennemi au tour suivant et diminue le temps de descente de Piqué brise-échine style 2 d'un tour",
@@ -20034,7 +20034,7 @@
     "224490": [
         "Boost MAG when equipped with a rod or robe and enable dual wielding of single-handed weapons",
         "提高裝備魔棒法袍時的魔力+可以裝備2把單手武器",
-        "홀장, 로브 장착 시 마력 상승+한손용 무기 동시에 2개 장착 가능",
+        "홀장 또는 로브 장착 시 마력 상승+한손용 무기 동시에 2개 장착 가능",
         "Augmente la MAGIE lorsqu'un sceptre ou une robe est équipé et permet de manier à deux mains les armes à une main",
         "Erhöht MAG, wenn mit Rute oder Robe ausgerüstet und ermöglicht Führen von zwei einhändigen Waffen.",
         "Aumenta la MAG al llevar varas o túnica y puede llevar dos armas de una mano"
@@ -20763,7 +20763,7 @@
         "Damage one enemy and power up with consecutive use",
         "攻擊1名敵人+連續使用時威力上升",
         "적 1명에게 피해+연속 사용 시 피해량 상승",
-        "Dégâts sur un ennemi et augmentation de puissance en l'utilisant de façon répétée",
+        "Dégâts à un ennemi et augmentation de puissance en l'utilisant de façon répétée",
         "Fügt einem Gegner Schaden zu und wird bei jeder Anwendung stärker.",
         "Daño a un enemigo y aumenta la potencia con el uso consecutivo"
     ],
@@ -20803,9 +20803,9 @@
         "Boost HP by 20% and ATK by 30%",
         "提高20%HP、30%攻擊防禦",
         "HP 20%, 공격력과 방어력 30% 상승",
-        "Augmente les PV de 20 % et l'ATT de 30 %",
-        "Erhöht LP um 20% und ANG um 30%.",
-        "Aumenta la VIT un 20% y el ATQ un 30%"
+        "Augmente les PV de 20 %, l'ATT et la DEF de 30 %",
+        "Erhöht LP um 20%, ANG und ABW um 30%.",
+        "Aumenta la VIT un 20% y el ATQ y la DEF un 30%"
     ],
     "225460": [
         "Boost ATK and DEF when HP falls below a certain point",
@@ -20829,7 +20829,7 @@
         "1턴 동안 특정 어빌리티 2회 사용 가능",
         "Permet d'utiliser des aptitudes spéciales à deux reprises en un tour",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde.",
-        "Aprende varias habilidades que se pueden usar dos veces en un turno"
+        "Aprende varias habilidades que pueden usarse 2 veces en un turno"
     ],
     "225490": [
         "Restore HP for all allies",
@@ -20867,8 +20867,8 @@
         "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and remove stop for all allies",
         "治療全體隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態+解除停止狀態",
         "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+스톱 해제",
-        "Soigne tous les alliés de poison, cécité, sommeil, silence, paralysie, confusion, maladie, pétrification et stop",
-        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein + entfernt Stopp von einem Verb.",
+        "Soigne tous les alliés de poison, cécité, sommeil, silence, paralysie, confusion, maladie, pétrification et retire stop",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein + entfernt Stopp von allen Verb.",
         "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, elimina paro a todos los aliados"
     ],
     "225540": [
@@ -20915,8 +20915,8 @@
         "Nullify paralysis and stop, and boost HP and SPR when equipped with fists",
         "麻痺停止無效+提高裝備格鬥武器時的HP精神",
         "마비와 스톱 무효화+격투무기 장착 시 HP와 정신력 상승",
-        "Annule paralysie et augmente les PV et la PSY quand les poings sont équipés",
-        "Annulliert Lähmung und erhöht LP und PSY, wenn mit Faust ausgerüstet.",
+        "Annule paralysie, stop et augmente les PV et la PSY quand les poings sont équipés",
+        "Annulliert Lähmung/Stopp und erhöht LP/PSY, wenn mit Faust ausgerüstet.",
         "Anula parálisis y paro, y aumenta la VIT y el ESP al llevar puños"
     ],
     "225600": [
@@ -20925,14 +20925,14 @@
         "HP가 일정량 이상일 때 1회에 한해 전투불능 상태 견딤",
         "Chance d'éviter de tomber KO lorsque les PV sont au-dessus d'un certain seuil",
         "Entkommt ein Mal dem Tod, wenn LP über einem bestimmten Wert sind.",
-        "Evita la muerte una vez si la VIT está sobre cierto punto"
+        "Evita la muerte una vez si la VIT está sobre cierto nivel"
     ],
     "225610": [
         "Restore HP/MP every turn and fill LB gauge",
         "每回合恢復HPMP+增加極限技槽",
         "매 턴마다 HP와 MP 회복+LB 게이지 증가",
         "Restaure les PV et les PM à chaque tour et remplit la jauge de limite",
-        "Regeneriert jede Runde LP und füllt Limitmeter.",
+        "Regeneriert jede Runde LP/MP und füllt Limitmeter.",
         "Recupera PM/VIT cada turno y rellena la barra de EL"
     ],
     "225620": [
@@ -20997,7 +20997,7 @@
         "MP 20% 상승+카운터 계열 어빌리티 발동 확률 상승",
         "Augmente les PM de 20 % et augmente le taux d'activation des aptitudes de contre",
         "Erhöht MP um 20% und erhöht Aktivierungswahrscheinlichkeit von Konterfertigkeiten.",
-        "Aumenta los PM un 20% y aumenta la probabilidad de activación de contrahabilidades"
+        "Aumenta los PM un 20% y aumenta la probabilidad de activar contrahabilidades"
     ],
     "225700": [
         "Boost ATK when equipped with a bow",
@@ -21013,7 +21013,7 @@
         "독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승+전투 종료 시 자신의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
         "Augmente la résistance au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification, et soigne le lanceur de poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification après la bataille",
         "Erhöht Resistenzen Gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein + heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein für sich selbst nach einem Kampf.",
-        "Aumenta la res. a ven, ceg, sue, sil, par, con, enf y pie y cura ven, ceg, sue, sil, par, con, enf y pie del usuario durante el combate"
+        "Aumenta la res. contra ven, ceg, sue, sil, par, con, enf y pie, y cura ven, ceg, sue, sil, par, con, enf y pie del usuario durante el combate"
     ],
     "225720": [
         "Boost HP by 10% and poison, blind, sleep, silence paralysis, confusion, disease, and stone resistance",
@@ -21021,7 +21021,7 @@
         "HP 10% 상승+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승",
         "Augmente les PV de 10 % et la résistance au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification",
         "Erhöht LP um 10% und Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein.",
-        "Aumenta la VIT un 10% y la res. a ven, ceg, sue, sil, par, con, enf y pie"
+        "Aumenta la VIT un 10% y la res. contra ven, ceg, sue, sil, par, con, enf y pie"
     ],
     "225730": [
         "Damage one enemy",
@@ -21043,9 +21043,9 @@
         "Chance of instantly KO'ing or damaging one enemy",
         "對1名敵人施加致死一擊效果或傷害",
         "적 1명에게 일정 확률로 피해 또는 즉사 부여",
-        "Chance de mettre instantanément KO ou d'infliger des dégâts à un ennemi",
-        "Chance, einen Gegner sofort auszuschalten oder fügt einem Gegner Schaden zu.",
-        "Puede dejar K.O. al instante a un enemigo"
+        null,
+        null,
+        null
     ],
     "225760": [
         "Damage and reduce wind resistance for all enemies",
@@ -21832,19 +21832,19 @@
         "Daño absoluto parcial a todos los enemigos"
     ],
     "226623": [
-        "Deal partial unmitigated damage to one enemy",
-        "對1名敵人發動無視部分防禦的攻擊",
-        "적 1명에게 일부 방어 무시 피해",
-        "Dégâts en partie fixes sur un ennemi",
-        "Fügt einem Gegner teilweise direkten Schaden zu.",
-        "Daño absoluto parcial a un enemigo"
+        "Deal partial unmitigated damage to all enemies",
+        "對全體敵人發動無視部分防禦的攻擊",
+        "적 전체에 일부 방어 무시 피해",
+        "Dégâts en partie fixes sur tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a todos los enemigos"
     ],
     "226624": [
         "Fire damage and reduce fire resistance for one enemy",
-        "對1名敵人發動火屬性攻擊+降低火屬性耐性",
+        "對1名敵人發動火屬性的攻擊+降低火屬性耐性",
         "적 1명에게 불속성 피해+불속성 저항력 감소",
-        "Dégâts de feu et réduit la rés. au feu d'un ennemi",
-        "Feuerschaden u. Feuerres. runter, ein Gegner.",
+        "Dégâts de feu et réduit la résistance au feu d'un ennemi",
+        "Fügt einem Gegner Feuerschaden zu und reduziert seine Feuerresistenz.",
         "Daño de fuego y reduce la res. al fuego de un enemigo"
     ],
     "226625": [
@@ -21852,7 +21852,7 @@
         "對1名敵人發動雷屬性攻擊+降低雷屬性耐性",
         "적 1명에게 번개속성 피해+번개속성 저항력 감소",
         "Dégâts de foudre et réduit la résistance à la foudre d'un ennemi",
-        "Blitzschaden und reduzierte Blitzresistenz, ein Gegner.",
+        "Fügt einem Gegner Blitzschaden zu und reduziert seine Blitzresistenz.",
         "Daño de rayo y reduce la res. al rayo de un enemigo"
     ],
     "226626": [
@@ -21868,8 +21868,24 @@
         "對1名敵人發動光屬性攻擊+降低光屬性耐性",
         "적 1명에게 빛속성 피해+빛속성 저항력 감소",
         "Dégâts de lumière et réduit la résistance à la lumière d'un ennemi",
-        "Lichtschaden und Lichtres. runter, ein Gegner.",
+        "Fügt einem Gegner Lichtschaden zu und reduziert seine Lichtresistenz.",
         "Daño de luz y reduce la res. a la luz de un enemigo"
+    ],
+    "226628": [
+        "Remove MAG reduction from one ally, place removed MAG reduction on caster, and boost caster's ATK",
+        "解除1名隊員的降低魔力效果+賦予自身已解除的降低魔力效果+提高自身的攻擊",
+        "아군 1명의 마력 감소 효과 해제+해제한 마력 감소 효과를 자신에게 부여+자신의 공격력 상승",
+        "Dissipe les réductions de la MAGIE sur un allié pour la transmettre au lanceur et augmente son ATT.",
+        "Entfernt MAG-Verringerung von einem Verb. und fügt dem Anwender die entfernte MAG-Verringerung zu + erhöht ANG des Anwenders.",
+        "Anula la reducción de MAG de un aliado, le otorga dicha reducción al usuario y aumenta el ATQ de este"
+    ],
+    "226629": [
+        "(Once every 4 turns) Fill caster's LB gauge to max, remove some status reductions, fully restore HP and restore MP for caster",
+        "【4T可以使用1次】自身的極限技槽全滿+解除一部份降低狀態數值效果+完全恢復HP+恢復MP",
+        "[4턴에 1회 사용 가능] 자신의 LB 게이지 최대+일부 능력치 감소 효과 해제+HP 모두 회복+MP 회복",
+        "(Tous les 4 tours) Remplit la jauge de limite du lanceur au max., dissipe plusieurs réductions de statut et restaure tous ses PV/PM",
+        "(Ein Mal in 4 Runden) Füllt Limitmeter des Anwenders vollständig, entfernt einige Statusveränderungen, regeneriert LP vollständig und regeneriert MP des Anwenders.",
+        "(Una vez cada 4 turnos) Rellena toda la barra de EL del usuario, anula las reducciones de algunos estados y recupera los PM y toda la VIT del usuario"
     ],
     "226630": [
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
@@ -21879,13 +21895,21 @@
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
+    "226631": [
+        "Boost HP and DEF by 30%, and MP by 50%",
+        "提高30%HP防禦、50%MP",
+        "HP와 방어력 30% 상승+MP 50% 상승",
+        "Augmente les PV et la DEF de 30% et les PM de 50%",
+        "Erhöht LP/ABW um 30% und MP um 50%.",
+        "Aumenta la VIT y la DEF un 30%, y los PM un 50%"
+    ],
     "226632": [
         "Boost ATK when a single weapon is equipped in both hands",
         "雙手只裝備1把武器時提高攻擊",
         "양손의 장비가 무기 1개일 경우 공격력 상승",
         "Augmente l'ATT quand une seule arme est équipée (dans les mains)",
         "Erhöht ANG, wenn nur eine einzelne Waffe in beiden Händen ausgerüstet ist.",
-        "Aumenta ATQ al llevar una sola arma en las dos manos"
+        "Aumenta el ATQ al llevar una sola arma en las dos manos"
     ],
     "226633": [
         "Increase fill capacity of burst stones and LB gauge fills each turn",
@@ -21895,21 +21919,53 @@
         "Verstärkt den Effekt von Limitsteinen und Limitmeter steigt im Kampf jede Runde.",
         "Las piedras de estallido recuperarán más EL y la barra de EL se llena en cada turno"
     ],
+    "226634": [
+        "Boost SPR by 40% and nullify poison, blind, paralyze and petrify",
+        "提高40%精神+中毒失明麻痺石化無效",
+        "정신력 40% 상승+독, 암흑, 마비, 석화 무효화",
+        "Augmente la PSY de 40% et annule poison, cécité, paralysie et pétrification",
+        "Erhöht PSY um 40% und annulliert, Gift, Blind, Lähmung und Stein.",
+        "Aumenta el ESP un 40% y anula veneno, ceguera, parálisis y piedra"
+    ],
+    "226635": [
+        "Chance of boosting caster's ATK when receiving a physical or magic attack, and reduce damage taken by caster for 1 turn",
+        "受到物理、魔法攻擊時，一定機率提高自身的攻擊+1回合內減少對自身的傷害",
+        "물리, 마법공격을 받으면 일정 확률로 자신의 공격력 상승+자신이 받는 피해량 1턴 동안 감소",
+        "Confère une chance d'augmenter l'ATT du lanceur quand il subit une attaque physique ou magique, et réduit les dégâts qu'il subit pendant 1 tour",
+        "Chance, ANG des Anwenders zu erhöhen, wenn er mit einem phys. oder mag. Angriff attackiert wird + verringert 1 Runde lang von Anwender erlittenen Schaden.",
+        "Puede aumentar el ATQ del usuario al recibir un ataque físico o mágico y reduce el daño que recibe el usuario durante un turno"
+    ],
+    "226636": [
+        "Reduce magic damage taken each turn, boost LB gauge fill rate, and boost ATK by 30%",
+        "每回合減少魔法傷害+提高極限技石對極限技槽的增加量+提高30%攻擊",
+        "매 턴마다 마법 피해량 감소+LB 게이지 효율 상승+공격력 30% 상승",
+        "Réduit les dégâts magiques subis à chaque tour, augmente le taux de remplissage de la jauge de limite et augmente l'ATT de 30%",
+        "Verringert jede Runde erhaltenen mag. Schaden, Limitmeter steigt schneller + erhöht ANG um 30%.",
+        "Reduce el daño mágico que se recibe cada turno, las piedras de estallido recuperarán más EL y aumenta el ATQ un 30%"
+    ],
     "226637": [
-        "Parameters reflected when setting espers increase by 10%",
+        "Boost parameters when setting an esper by 10%",
         "提高10%設定幻獸時反映在兵員身上的狀態數值",
         "환수 장착 시 반영되는 능력치 10% 상승",
-        "Augmentation des caractéristiques des chimères invoquées de 10%",
-        "Beim Festlegen von Espern werden Werte um 10% erhöht.",
-        "Potencia a espers invocados un 10%"
+        "Augmente les caractéristiques d'une chimère de 10% lorsque celle-ci est attribuée à un personnage",
+        "Erhöht Werte bei Festlegung eines Espers um 10%.",
+        "Aumenta los parámetros un 10% al configurar un esper"
     ],
     "226638": [
-        "LB gauge fills each turn during battle",
+        "Fill LB gauge each turn",
         "戰鬥中每回合自動增加極限技槽",
         "매 턴마다 LB 게이지 증가",
-        "La jauge de limite se remplit à chaque tour",
-        "Limitmeter steigt langsam",
-        "La barra de EL se llena en cada turno"
+        "Remplit la jauge de limite à chaque tour",
+        "Füllt jede Runde Limitmeter.",
+        "Rellena la barra de EL cada turno"
+    ],
+    "226639": [
+        "Fill LB gauge each turn and boost LB damage",
+        "戰鬥中每回合自動增加極限技槽+提高極限技傷害",
+        "매 턴마다 LB 게이지 증가+LB 피해량 상승",
+        "Remplit la jauge de limite à chaque tour et augmente les dégâts de la limite",
+        "Füllt jede Runde Limitmeter und erhöht Schaden durch Limitrausch.",
+        "Rellena la barra de EL cada turno y aumenta el daño de EL"
     ],
     "226640": [
         "Use random ability",
@@ -21921,27 +21977,27 @@
     ],
     "226641": [
         "Use magic twice in one turn",
-        "1回合內可使用2次魔法",
+        "1回合內可以使用2次魔法",
         "마법을 1턴에 2회 사용 가능",
-        "Lance deux sorts en un tour",
-        "Zweimal Magie pro Runde",
-        "Usa magia dos veces en un turno"
+        "Permet d'utiliser la magie à deux reprises en un tour",
+        "Lässt Magie zwei Mal in einer Runde verwenden.",
+        "Usa magia dos veces en un mismo turno"
     ],
     "226642": [
         "Reduce ATK and MAG for all enemies",
         "降低全體敵人的攻擊魔力",
         "적 전체에 공격력과 마력 감소",
         "Réduit l'ATT et la MAGIE de tous les ennemis",
-        "ANG u. MAG runter, alle Ziele",
-        "Reduce ATQ/MAG de todos los enemigos"
+        "Verringert ANG und MAG aller Gegner.",
+        "Reduce el ATQ y la MAG de todos los enemigos"
     ],
     "226643": [
         "Reduce DEF and SPR for all enemies",
         "降低全體敵人的防禦精神",
         "적 전체에 방어력과 정신력 감소",
         "Réduit la DEF et la PSY de tous les ennemis",
-        "PSY und ABW runter, alle Ziele",
-        "Reduce DEF/ESP de todos los enemigos"
+        "Verringert ABW und PSY aller Gegner.",
+        "Reduce la DEF y el ESP de todos los enemigos"
     ],
     "226644": [
         "Damage one enemy and power up with consecutive use",
@@ -21951,13 +22007,29 @@
         "Fügt einem Gegner Schaden zu und wird bei jeder Anwendung stärker.",
         "Daño a un enemigo y aumenta la potencia con el uso consecutivo"
     ],
+    "226645": [
+        "(Once every 9 turns) Remove some status reductions for caster, boost MAG, boost caster's MAG and ATK once next turn, and enable triple for 3 turns",
+        "【9T可以使用1次】解除自身一部份降低狀態數值效果+提高魔力+下一回合減少1次魔法攻擊對自身造成的傷害+3回合內可以使用「三重」",
+        "[9턴에 1회 사용 가능] 자신의 일부 능력치 감소 효과 해제+마력 상승+다음 턴에 자신의 마법공격 피해량 1회 상승+3턴 통안 '트리플' 사용 가능",
+        "(Tous les 9 tours) Dissipe plusieurs réductions de statut infligées au lanceur, augmente la MAGIE, la MAGIE et l'ATT du lanceur au prochain tour et permet d'utiliser Triple pendant 3 tours",
+        "(Ein Mal in 9 Runden) Entfernt einige Statusveränderungen des Anwenders, erhöht MAG, erhöht ein Mal MAG/ANG des Anwenders in der folg. Runde und ermöglicht 3 Runden lang Tripel.",
+        "(Una vez cada 9 turnos) Anula las reducciones de algunos estados del usuario, aumenta la MAG, aumenta la MAG y el ATQ del usuario una vez al turno siguiente, y aprende Triple durante 3 turnos"
+    ],
     "226646": [
         "Chance of countering when receiving a physical or magic attack",
         "受到物理、魔法攻擊時一定機率進行反擊",
         "물리, 마법공격을 받으면 일정 확률로 반격",
         "Chance de contre-attaquer après avoir reçu une attaque physique ou magique",
         "Chance auf Konter bei physischem oder magischem Angriff.",
-        "Posibilidad de contraatacar al recibir ataque físico o mágico"
+        "Probabilidad de contraatacar al recibir un ataque físico o mágico"
+    ],
+    "226647": [
+        "Chance of restoring own HP and MP when receiving a physical or magic attack",
+        "受到物理、魔法攻擊時一定機率恢復自身HPMP",
+        "물리, 마법공격을 받으면 일정 확률로 자신의 HP와 MP 회복",
+        "Chance de restaurer les PV et les PM du lanceur après avoir subi une attaque physique ou magique",
+        "Chance, eigene LP/MP zu regenerieren, wenn mit physischem oder magischem Angriff attackiert",
+        "Puede recuperar la VIT y los PM propios al recibir un ataque físico o mágico"
     ],
     "226648": [
         "Boost drop rate of items from enemies",
@@ -21967,6 +22039,14 @@
         "Mehr Gegenstände von Gegnern",
         "Los enemigos dejan caer más objetos"
     ],
+    "226649": [
+        "Boost ATK and MAG by 50% when equipped with a throwing weapon",
+        "裝備投擲武器時提高50%攻擊魔力",
+        "투척무기 장착 시 공격력과 마력 50% 상승",
+        "Augmente l'ATT et la MAGIE de 50% quand une arme de jet est équipée",
+        "Erhöht ANG und MAG um 50%, wenn mit Wurfwaffe ausgerüstet.",
+        "Aumenta el ATQ y la MAG un 50% al llevar un objeto arrojadizo"
+    ],
     "226650": [
         "Nullify silence, paralysis, and confusion",
         "沉默麻痺混亂無效",
@@ -21975,21 +22055,77 @@
         "Annulliert Stille, Lähmung und Konfus.",
         "Anula silencio, parálisis y confusión"
     ],
+    "226651": [
+        "Boost MAG when a single weapon is equipped in both hands",
+        "雙手只裝備1把武器時提高魔力",
+        "양손의 장비가 무기 1개일 경우 마력 상승",
+        "Augmente la MAGIE quand une seule arme est équipée dans les deux mains",
+        "Erhöht MAG wenn in beiden Händen eine einzige Waffe ausgerüstet ist.",
+        "Aumenta la MAG al llevar una sola arma en las dos manos"
+    ],
+    "226652": [
+        "Boost HP and MP by 20%, and MAG by 40%",
+        "提高20%HPMP、40%魔力",
+        "HP와 MP 20% 상승+MP 40% 상승",
+        "Augmente les PV et les PM de 20%, et la MAGIE de 40%",
+        "Erhöht LP/MP um 20%, und MAG um 40%.",
+        "Aumenta la VIT y los PM un 20%, y la MAG un 40%"
+    ],
+    "226653": [
+        "Nullify poison, blind, sleep, silence, paralysis, confusion, disease, stone, boost charm resistance, boost fire, ice, lightning, and wind resistance by 60%",
+        "中毒失明睡眠沉默麻痺混亂生病石化無效+提高魅惑耐性+提高60%火冰雷風屬性耐性",
+        "독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 무효+매료 저항력 상승+불, 얼음, 번개, 바람속성 저항력 60% 상승",
+        "Annule poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification. Augmente la résistance au charme et à feu, glace, foudre et vent de 60%",
+        "Annulliert Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein und erhöht Resistenz gegen Bezaubern sowie Feuer-, Eis-, Blitz- und Windresistenz um 60%.",
+        "Anula veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, aumenta la resistencia contra embrujo, y la resistencia al fuego, hielo, rayo y viento un 60%"
+    ],
+    "226660": [
+        "Damage one enemy, enable mach kick for 1 turn, and change effects of punch rush and booya next turn",
+        "攻擊1名敵人+1回合內可以使用「馬赫踢」+下一回合「衝鋒拳」「頭槌激震」的效果改變",
+        "적 1명에게 피해+1턴 동안 '마하 킥' 사용 가능+다음 턴에 '러쉬 펀치', '헤드 쇼크' 효과 변화",
+        "Dégâts à un ennemi, permet d'utiliser Forcing pendant 1 tour et modifie les effets de Top Punch et de Feinte au prochain tour",
+        "Fügt einem Gegner Schaden zu, ermöglicht eine Runde lang Sonic-Kick + Ändert Effekte von Sturmfaust und Kopfstoß in der folgenden Runde.",
+        "Daña a un enemigo, aprende Patada lateral durante un turno, y cambia los efectos de Lluvia de puños y Rodillazo al turno siguiente"
+    ],
+    "226661": [
+        "Damage one enemy, enable heel drop for 1 turn, and change effects of punch rush and booya next turn",
+        "攻擊1名敵人+1回合內可以使用「落踝」+下一回合「衝鋒拳」「頭槌激震」的效果改變",
+        "적 1명에게 피해+1턴 동안 '발뒤꿈치 내려찍기' 사용 가능+다음 턴에 '러쉬 펀치', '헤드 쇼크' 효과 변화",
+        "Dégâts à un ennemi, permet d'utiliser Achille pendant 1 tour et modifie les effets de Top Punch et de Feinte au prochain tour",
+        "Fügt einem Gegner Schaden zu, ermöglicht eine Runde lang Ferskick + Ändert Effekte von Sturmfaust und Kopfstoß in der folgenden Runde.",
+        "Daña a un enemigo, aprende Golpe de talón durante un turno, y cambia los efectos de Lluvia de puños y Rodillazo al turno siguiente"
+    ],
+    "226662": [
+        "Boost HP by 20% and nullify paralysis",
+        "提高20%HP+麻痺無效",
+        "HP 20% 상승+마비 무효화",
+        "Augmente les PV de 20% et annule paralysie",
+        "Erhöht LP um 20% und annulliert Lähmung.",
+        "Aumenta la VIT un 20% y anula parálisis"
+    ],
     "226663": [
         "Boost SPR by 20% and restore MP every turn",
         "提高20%精神+每回合恢復MP",
         "정신력 20% 상승+매 턴마다 MP 회복",
-        "Augmente la PSY de 20% et restaure les PM à chaque tour",
-        "Erhöht PSY um 20 % und stellt jede Runde MP wieder her.",
-        "Aumenta ESP un 20% y regenera PM cada turno"
+        "Augmente la PSY de 20 % et restaure les PM à chaque tour",
+        "Erhöht PSY um 20% und regeneriert jede Runde MP.",
+        "Aumenta el ESP un 20% y recupera PM cada turno"
     ],
     "226664": [
         "Chance of evading physical attacks",
         "一定機率閃避物理攻擊",
         "일정 확률로 일부 물리공격 회피",
-        "Esquive parfois les attaques physiques",
-        "Chance, physischen Angriffen auszuweichen",
-        "Posibilita evadir ataques físicos"
+        "Chance d'esquiver une attaque physique",
+        "Chance, physischem Angriff auszuweichen.",
+        "Posibilidad de evitar un ataque físico"
+    ],
+    "226665": [
+        "Boost ATK by 30% when equipped with fists",
+        "裝備格鬥武器時提高30%攻擊",
+        "격투무기 장착 시 공격력 30% 상승",
+        "Augmente l'ATT de 30% quand des poings sont équipés",
+        "Erhöht ANG um 30%, wenn mit Faust ausgerüstet.",
+        "Aumenta el ATQ un 30% al llevar puños"
     ],
     "226670": [
         "Damage one enemy",
@@ -27776,7 +27912,7 @@
         "Posibilidad de reducir la res. a la luz de un enemigo al recibir un ataque físico"
     ],
     "501800": [
-        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 3 by one turn",
+        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 3 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝三式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 3식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs et att. un ennemi au tour suivant, puis réduit le temps d'attente de Piqué brise-échine style 3 d'un tour",
@@ -27792,7 +27928,7 @@
         "Salta y ataca a un enemigo en dos turnos"
     ],
     "501820": [
-        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 0 by one turn",
+        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 0 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝零式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 0식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs et att. un ennemi au tour suivant, puis réduit le temps d'attente de Piqué brise-échine style 0 d'un tour",
@@ -31352,7 +31488,7 @@
         "Recupera una cantidad del daño de luz recibido, aumenta el ATQ y la MAG cuando la VIT baja a cierto nivel, aumenta el ATQ y la MAG al llevar armadura P, y puede usar Destructor santo una vez al comienzo del combate"
     ],
     "506310": [
-        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 3 by one turn",
+        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 3 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝三式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 3식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs et attaque un ennemi au tour suivant, puis réduit le temps d'attente de piqué brise-échine style 3 d'un tour",
@@ -31368,7 +31504,7 @@
         "Salta y ataca a un enemigo dos turnos después"
     ],
     "506330": [
-        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 3 by one turn",
+        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 3 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝三式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 3식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs et attaque un ennemi au tour suivant, puis réduit le temps d'attente de piqué brise-échine style 3 d'un tour",
@@ -31384,7 +31520,7 @@
         "Salta y ataca a un enemigo dos turnos después"
     ],
     "506350": [
-        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 0 by one turn",
+        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 0 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝零式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 0식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs et attaque un ennemi au tour suivant, puis réduit le temps d'attente de piqué brise-échine style 0 d'un tour",
@@ -31400,7 +31536,7 @@
         "Salta y ataca a un enemigo en tres turnos"
     ],
     "506370": [
-        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 0 by one turn",
+        "Jump into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 0 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝零式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 0식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs et attaque un ennemi au tour suivant, puis réduit le temps d'attente de piqué brise-échine style 0 d'un tour",
@@ -31925,14 +32061,14 @@
         "1턴 동안 특정 어빌리티 2회 사용 가능",
         "Permet d'utiliser des aptitudes spéciales à deux reprises en un tour",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde.",
-        "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno"
+        "Aprende varias habilidades que pueden usarse 2 veces en un turno"
     ],
     "507030": [
         "Special abilities can be used two times in one turn (Unusable if you have two one-handed weapons equipped)",
         "1回合內可以使用2次特定能力（裝備兩把單手武器時，無法使用）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(한손용 무기 2개 장착 시 사용 불가)",
-        "Les aptitudes spéciales peuvent être utilisées deux fois en un tour (inutilisable si vous avez deux armes à une main équipées)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (nicht einsetzbar, wenn zwei einhändige Waffen ausgerüstet sind).",
+        "Las habilidades especiales se pueden usar dos veces en un turno (cuando no llevas dos armas de una mano)",
         "Las habilidades especiales se pueden usar dos veces en un turno (cuando no llevas dos armas de una mano)"
     ],
     "507040": [
@@ -31940,7 +32076,7 @@
         "中毒失明睡眠沉默麻痺混亂停止無效",
         "독, 암흑, 수면, 침묵, 마비, 혼란, 스톱 무효화",
         "Annule poison, cécité, sommeil, silence, paralysie, confusion et stop",
-        "Annulliert Gift, Blind, Schlaf, Stille, Lähmung, Konfus und Stopp.",
+        "Anulliert Gift, Blind, Schlaf, Stille, Lähmung, Konfus und Stopp.",
         "Anula ven, ceg, sue, sil, par, con y paro"
     ],
     "507050": [
@@ -32055,6 +32191,30 @@
         "Fügt allen Verb. Schaden zu.",
         "Daña a todos los aliados"
     ],
+    "507190": [
+        "(Once every 4 turns) Fill caster's LB gauge to max, remove some status reductions, fully restore HP and restore MP for caster",
+        "【4T可以使用1次】自身的極限技槽全滿+解除一部份降低狀態數值效果+完全恢復HP+完全恢復MP",
+        "[4턴에 1회 사용 가능] 자신의 LB 게이지 최대+일부 능력치 감소 효과 해제+HP 모두 회복+MP 회복",
+        "(Tous les 4 tours) Remplit la jauge de limite du lanceur au max., dissipe plusieurs réductions de statut et restaure tous ses PV/PM",
+        "(Ein Mal in 4 Runden) Füllt Limitmeter des Anwenders vollständig, entfernt einige Statusveränderungen, regeneriert LP vollständig und regeneriert MP des Anwenders.",
+        "(Una vez cada 4 turnos) Rellena toda la barra de EL del usuario, anula las reducciones de algunos estados y recupera los PM y toda la VIT del usuario"
+    ],
+    "507191": [
+        "Chance of boosting caster's ATK when receiving a physical or magic attack, and reduce damage taken by caster for 1 turn",
+        "受到物理、魔法攻擊時，一定機率提高自身的攻擊+1回合內減少對自身的傷害",
+        "물리, 마법공격을 받으면 일정 확률로 자신의 공격력 상승+자신이 받는 피해량 1턴 동안 감소",
+        "Confère une chance d'augmenter l'ATT du lanceur quand il subit une attaque physique ou magique, et réduit les dégâts qu'il subit pendant 1 tour",
+        "Chance, ANG des Anwenders zu erhöhen, wenn er mit einem phys. oder mag. Angriff attackiert wird + verringert 1 Runde lang von Anwender erlittenen Schaden.",
+        "Puede aumentar el ATQ del usuario al recibir un ataque físico o mágico y reduce el daño que recibe el usuario durante un turno"
+    ],
+    "507192": [
+        "Reduce magic damage taken each turn, boost LB gauge fill rate, and boost ATK by 30%",
+        "每回合減少魔法傷害+提高極限技石對極限技槽的增加量+提高30%攻擊",
+        "매 턴마다 마법 피해량 감소+LB 게이지 효율 상승+공격력 30% 상승",
+        "Réduit les dégâts magiques subis à chaque tour, augmente le taux de remplissage de la jauge de limite et augmente l'ATT de 30%",
+        "Verringert jede Runde erhaltenen mag. Schaden, Limitmeter steigt schneller + erhöht ANG um 30%.",
+        "Reduce el daño mágico que se recibe cada turno, las piedras de estallido recuperarán más EL y aumenta el ATQ un 30%"
+    ],
     "507193": [
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
@@ -32068,7 +32228,7 @@
         "攻擊全體敵人",
         "적 전체에 피해",
         "Dégâts sur tous les ennemis",
-        "Schaden, alle Ziele",
+        "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos"
     ],
     "507201": [
@@ -32076,16 +32236,32 @@
         "攻擊1名敵人",
         "적 1명에게 피해",
         "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
+        "Fügt einem Gegner Schaden zu.",
         "Daña a un enemigo"
+    ],
+    "507202": [
+        "Reduce damage taken by all allies for one turn",
+        "1回合內減少對全體隊員的傷害",
+        "1턴 동안 아군 전체가 받는 피해량 감소",
+        "Réduit les dégâts subis par tous les alliés pendant un tour",
+        "Verringert eine Runde lang von allen Verb. erlittenen Schaden.",
+        "Reduce el daño que reciben todos los aliados durante un turno"
     ],
     "507203": [
         "Use magic twice in one turn",
-        "1回合內可使用2次魔法",
+        "1回合內可以使用2次魔法",
         "마법을 1턴에 2회 사용 가능",
-        "Lance deux sorts en un tour",
-        "Zweimal Magie pro Runde",
-        "Usa magia dos veces en un turno"
+        "Permet d'utiliser la magie à deux reprises en un tour",
+        "Lässt Magie zwei Mal in einer Runde verwenden.",
+        "Usa magia dos veces en un mismo turno"
+    ],
+    "507204": [
+        "Use magic three times in one turn",
+        "1回合內可以使用3次魔法",
+        "마법을 1턴에 3회 사용 가능",
+        "Permet d'utiliser la magie à trois reprises en un tour",
+        "Lässt Magie drei Mal in einer Runde verwenden.",
+        "Usa magia tres veces en un mismo turno"
     ],
     "507205": [
         "Chance of countering when receiving a physical or magic attack",
@@ -32093,38 +32269,142 @@
         "물리, 마법공격을 받으면 일정 확률로 반격",
         "Chance de contre-attaquer après avoir reçu une attaque physique ou magique",
         "Chance auf Konter bei physischem oder magischem Angriff.",
-        "Posibilidad de contraatacar al recibir ataque físico o mágico"
+        "Probabilidad de contraatacar al recibir ataque físico o mágico"
+    ],
+    "507206": [
+        "Chance of restoring own HP and MP when receiving a physical or magic attack",
+        "受到物理、魔法攻擊時一定機率恢復自身的HPMP",
+        "물리, 마법공격을 받으면 일정 확률로 자신의 HP와 MP 회복",
+        "Chance de restaurer les PV et les PM du lanceur après avoir subi une attaque physique ou magique",
+        "Chance, eigene LP/MP zu regenerieren, wenn mit physischem oder magischem Angriff attackiert",
+        "Puede recuperar VIT y PM propios al recibir un ataque físico o mágico"
+    ],
+    "507207": [
+        "(Once every 9 turns) Remove some status reductions for caster, boost MAG, boost caster's MAG and ATK once next turn, and enable triple for 3 turns",
+        "【9T可以使用1次】解除自身一部份降低狀態數值效果+提高魔力+下一回合減少1次魔法攻擊對自身造成的傷害+3回合內可以使用「三重」",
+        "[9턴에 1회 사용 가능] 자신의 일부 능력치 감소 효과 해제+마력 상승+다음 턴에 자신의 마법공격 피해량 1회 상승+3턴 동안 '트리플' 사용 가능",
+        "(Tous les 9 tours) Dissipe plusieurs réductions de statut infligées au lanceur, augmente la MAGIE, la MAGIE et l'ATT du lanceur au prochain tour et permet d'utiliser Triple pendant 3 tours",
+        "(Ein Mal in 9 Runden) Entfernt einige Statusveränderungen des Anwenders, erhöht MAG, erhöht ein Mal MAG/ANG des Anwenders in der folg. Runde und ermöglicht 3 Runden lang Tripel.",
+        "(Una vez cada 9 turnos) Anula las reducciones de algunos estados del usuario, aumenta la MAG, aumenta la MAG y el ATQ del usuario una vez al turno siguiente, y aprende Triple durante 3 turnos"
+    ],
+    "507208": [
+        "Nullify poison, blind, sleep, silence, paralysis, confusion, disease, stone, boost charm resistance, boost fire, ice, lightning, and wind resistance by 60%",
+        "中毒失明睡眠沉默麻痺混亂生病石化無效+提高魅惑耐性+提高60%火冰雷風屬性耐性",
+        "독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 무효+매료 저항력 상승+불, 얼음, 번개, 바람속성 저항력 60% 상승",
+        "Annule poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification. Augmente la résistance au charme et à feu, glace, foudre et vent de 60%",
+        "Annulliert Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein und erhöht Resistenz gegen Bezaubern sowie Feuer-, Eis-, Blitz- und Windresistenz um 60%.",
+        "Anula veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, aumenta la resistencia contra embrujo, y la resistencia al fuego, hielo, rayo y viento un 60%"
+    ],
+    "507210": [
+        "Damage one enemy, enable heel drop for 1 turn, and change effects of punch rush and booya next turn",
+        "攻擊1名敵人+1回合內可以使用「落踝」+下一回合「衝鋒拳」「頭槌激震」的效果改變",
+        "적 1명에게 피해+1턴 동안 '발뒤꿈치 내려찍기' 사용 가능+다음 턴에 '러쉬 펀치', '헤드 쇼크' 효과 변화",
+        "Dégâts à un ennemi, permet d'utiliser Achille pendant 1 tour et modifie les effets de Top Punch et de Feinte au prochain tour",
+        "Fügt einem Gegner Schaden zu, ermöglicht eine Runde lang Ferskick + Ändert Effekte von Sturmfaust und Kopfstoß in der folgenden Runde.",
+        "Daña a un enemigo, aprende Golpe de talón durante un turno, y cambia los efectos de Lluvia de puños y Rodillazo al turno siguiente"
+    ],
+    "507211": [
+        "Damage one enemy, enable mach kick for 1 turn, and change effects of punch rush and booya next turn",
+        "攻擊1名敵人+1回合內可以使用「馬赫踢」+下一回合「衝鋒拳」「頭槌激震」的效果改變",
+        "적 1명에게 피해+1턴 동안 '마하 킥' 사용 가능+다음 턴에 '러쉬 펀치', '헤드 쇼크' 효과 변화",
+        "Dégâts à un ennemi, permet d'utiliser Forcing pendant 1 tour et modifie les effets de Top Punch et de Feinte au prochain tour",
+        "Fügt einem Gegner Schaden zu, ermöglicht eine Runde lang Sonic-Kick + Ändert Effekte von Sturmfaust und Kopfstoß in der folgenden Runde.",
+        "Daña a un enemigo, aprende Patada lateral durante un turno, y cambia los efectos de Lluvia de puños y Rodillazo al turno siguiente"
+    ],
+    "507212": [
+        "Damage one enemy and enable heel drop for one turn",
+        "攻擊1名敵人+1回合內可以使用「落踝」",
+        "적 1명에게 피해+1턴 동안 '발뒤꿈치 내려찍기' 사용 가능",
+        "Dégâts à un ennemi et permet d'utiliser Achille pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Ferskick.",
+        "Daña a un enemigo y aprende Golpe de talón durante un turno"
+    ],
+    "507213": [
+        "Damage one enemy and enable mach kick for one turn",
+        "攻擊1名敵人+1回合內可以使用「馬赫踢」",
+        "적 1명에게 피해+1턴 동안 '마하 킥' 사용 가능",
+        "Dégâts à un ennemi et permet d'utiliser Forcing pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Sonic-Kick.",
+        "Daña a un enemigo y aprende Patada lateral durante un turno"
+    ],
+    "507214": [
+        "Damage one enemy and enable dolphin blow for one turn",
+        "攻擊1名敵人+1回合內可以使用「海豚猛攻」",
+        "적 1명에게 피해+1턴 동안 '돌핀 블로우' 사용 가능",
+        "Dégâts à un ennemi et permet d'utiliser Coup de dauphin pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Delphin-Schlag.",
+        "Daña a un enemigo y aprende Ataque del delfín durante un turno"
+    ],
+    "507215": [
+        "Damage one enemy and enable burning rave for one turn",
+        "攻擊1名敵人+1回合內可以使用「燃燒咆哮」",
+        "적 1명에게 피해+1턴 동안 '버닝 레이브' 사용 가능",
+        "Dégâts à un ennemi et permet d'utiliser Fahrenheit pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Burning-Rave.",
+        "Daña a un enemigo y aprende Furia ardiente durante un turno"
+    ],
+    "507216": [
+        "Damage one enemy and enable meteor strike for one turn",
+        "攻擊1名敵人+1回合內可以使用「隕石撞擊」",
+        "적 1명에게 피해+1턴 동안 '메테오 스트라이크' 사용 가능",
+        "Dégâts à un ennemi et permet d'utiliser Apesanteur pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Meteor-Wurf.",
+        "Daña a un enemigo y aprende Titán durante un turno"
+    ],
+    "507217": [
+        "Damage one enemy and enable dolphin blow for one turn",
+        "攻擊1名敵人+1回合內可以使用「海豚猛攻」",
+        "적 1명에게 피해+1턴 동안 '돌핀 블로우' 사용 가능",
+        "Dégâts à un ennemi et permet d'utiliser Coup de dauphin pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Delphin-Schlag.",
+        "Daña a un enemigo y aprende Ataque del delfín durante un turno"
+    ],
+    "507218": [
+        "Water damage to one enemy and enable meteor barret for one turn",
+        "對1名敵人發動水屬性攻擊+1回合內可以使用「隕石子彈」",
+        "적 1명에게 물속성 피해+1턴 동안 '메테오 바렛' 사용 가능",
+        "Dégâts d'eau à un ennemi et permet d'utiliser Stratosphère pendant 1 tour",
+        "Fügt einem Gegner Wasserschaden zu und ermöglicht eine Runde lang Meteorbarrett.",
+        "Daña a un enemigo y aprende Bala humana durante un turno"
     ],
     "507219": [
         "Fire damage to all enemies",
         "對全體敵人發動火屬性攻擊",
         "적 전체에 불속성 피해",
-        "Dégâts de feu sur tous les ennemis",
-        "Feuerschaden, alle Ziele",
+        "Dégâts de feu à tous les ennemis",
+        "Fügt allen Gegnern Feuerschaden zu.",
         "Daño de fuego a todos los enemigos"
     ],
     "507220": [
         "Damage one enemy and fill own LB gauge",
         "攻擊1名敵人+提高自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
-        "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
-        "Daña a un enemigo y llena la barra de EL del usuario"
+        "Dégâts sur un ennemi et remplit la jauge de limite du lanceur",
+        "Schaden, ein Ziel und  füllt eigenen Limitmeter.",
+        "Daña a un enemigo y rellena la barra de EL del usuario o daña a todo el mundo"
     ],
     "507221": [
         "Damage and reduce ATK, DEF, MAG, and SPR for one enemy",
         "攻擊1名敵人+降低攻擊防禦魔力精神",
         "적 1명에게 피해+공격력, 방어력, 마력, 정신력 감소",
-        "Dégâts et réduit l'ATT, DEF, MAGIE et PSY d'un ennemi",
-        "Fügt einem Gegner Schaden zu und verringert seine ANG, ABW, MAG und PSY.",
-        "Daña y reduce ATQ/DEF/MAG/ESP de un enemigo"
+        "Dégâts et réduit l'ATT, la DEF, la MAGIE et la PSY d'un ennemi",
+        "Fügt einem Gegner Schaden zu und verringert seinen ANG, ABW, MAG und PSY.",
+        "Daña y reduce ATQ, DEF, MAG y ESP de un enemigo"
+    ],
+    "507222": [
+        "Water damage to one enemy and enable different beat for one turn",
+        "對1名敵人發動水屬性攻擊+1回合內可以使用「迥異打擊」",
+        "적 1명에게 물속성 피해+1턴 동안 '디퍼런트 비트' 사용 가능",
+        "Dégâts d'eau à un ennemi et permet d'utiliser Trapèze pendant 1 tour",
+        "Fügt einem Gegner Wasserschaden zu und ermöglicht eine Runde lang Different Beat.",
+        "Daño de agua a un enemigo y aprende Novamás durante un turno"
     ],
     "507223": [
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
         "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
+        "Fügt einem Gegner Schaden zu.",
         "Daña a un enemigo"
     ],
     "507230": [
@@ -39344,12 +39624,12 @@
         "Daña a todos los enemigos y aumenta la probabilidad de que el usuario sea atacado"
     ],
     "705940": [
-        "Damage all enemies, increase chance of being targeted, and reduce damage taken for 2 turns for self",
-        "攻擊全體敵人+暫時性容易被敵人攻擊+2回合內減少對自身的傷害",
-        "적 전체에 피해+자신이 일시적으로 적의 공격 대상이 될 확률 상승+2턴 동안 피해량 감소",
-        "Dégâts à tous les ennemis, augmente les chances d'être ciblé, et réduit les dégâts subis par le lanceur pendant 2 tours",
-        "Fügt allen Gegnern Schaden zu, erhöht Wahrsch. zum Ziel zu werden und verringert zwei Runden lange selbst erlittenen Schaden.",
-        "Daña a todos los enemigos, aumenta la probabilidad de ser atacado y reduce el daño que recibe el usuario durante 2 turnos"
+        "Damage all enemies, increase chance of being targeted, and reduce damage taken for 3 turns for self",
+        "攻擊全體敵人+暫時性容易被敵人攻擊+3回合內減少對自身的傷害",
+        "적 전체에 피해+자신이 일시적으로 적의 공격 대상이 될 확률 상승+3턴 동안 피해량 감소",
+        "Dégâts à tous les ennemis, augmente les chances d'être ciblé, et réduit les dégâts subis par le lanceur pendant 3 tours",
+        "Fügt allen Gegnern Schaden zu, erhöht Wahrsch. zum Ziel zu werden und verringert drei Runden lange selbst erlittenen Schaden.",
+        "Daña a todos los enemigos, aumenta la probabilidad de ser atacado y reduce el daño que recibe el usuario durante 3 turnos"
     ],
     "705950": [
         "Convert light damage received to HP restoration, and boost ATK and MAG when HP is below a certain level",
@@ -39416,7 +39696,7 @@
         "Recupera parte del daño de viento recibido, aumenta el daño físico contra bestias, acuáticos, humanos, pétreos y plantas, aumenta el ATQ cuando la VIT baja a cierto nivel y aumenta la VIT y el ATQ al llevar armadura P"
     ],
     "706030": [
-        "Leap into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 2 by one turn",
+        "Leap into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 2 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝三式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 2식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs, attaque un ennemi au tour suivant et diminue le temps de descente de Piqué brise-échine style 2 d'un tour",
@@ -39424,7 +39704,7 @@
         "Salta y ataca a un enemigo en el próximo turno, y reduce un turno el tiempo de caída del Rompespaldas 2"
     ],
     "706040": [
-        "Leap into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 2 by one turn",
+        "Leap into the air, then attack one enemy next turn, and then decrease drop time for spineshatter dive 2 to one turn",
         "脫離至空，下一回合對1名敵人進行落下攻擊+將「破碎衝三式」的落下回合數縮短至1回合",
         "공중으로 이탈한 후 다음 턴에 낙하하여 적 1명에게 피해+'척추 강타 2식'의 낙하 턴을 1턴으로 단축",
         "Saute dans les airs, attaque un ennemi au tour suivant et diminue le temps de descente de Piqué brise-échine style 2 d'un tour",
@@ -43457,7 +43737,7 @@
     ],
     "910258": [
         "Boost ATK, DEF, MAG, and SPR by 100% for one ally for 4 turns",
-        "4回合內提高1名隊員100%攻擊防禦魔力精神的",
+        "4回合內提高1名隊員100%攻擊防禦魔力精神",
         "4턴 동안 아군 1명의 공격력, 방어력, 마력, 정신력 100% 상승",
         "Augmente l'ATT, la DEF, la MAGIE et la PSY d'un allié de 100% pendant 4 tours",
         "Erhöht ANG, ABW, MAG und PSY um 100% für 4 Runden für einen Verbündeten.",
@@ -50534,5 +50814,13 @@
         "Augmente la MAGIE de 40%, ainsi que la DEF et la PSY de 10%",
         "Erhöht MAG um 40% und ABW/PSY um 10%.",
         "Aumenta la MAG un 40%, y la DEF y el ESP un 10%"
+    ],
+    "911180": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo"
     ]
 }
