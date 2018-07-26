@@ -15,14 +15,6 @@
         "Erhöht den Effekt über die Runden (gering)",
         "Aumenta la duración (bastante)"
     ],
-    "21706000": [
-        "Reduces MP consumed (mid)",
-        "降低MP消耗(中)",
-        "소비MP 감소(중)",
-        "Réduit les PM consommés (moyen)",
-        "Verringert verbrauchte MP (mittel)",
-        "Reduce el consumo de PM (bastante)"
-    ],
     "21706320": [
         "Boosts MP",
         "提高MP",
@@ -968,12 +960,12 @@
         "Reduce el consumo de PM (bastante)"
     ],
     "204040002": [
-        "Boosts damage increase (low)",
-        "提高傷害增加量(小)",
-        "피해 상승량 상승(소)",
-        "Amplifie l'augmentation des dégâts (peu)",
-        "Erhöht den Schaden (gering)",
-        "Aumenta el daño (poco)"
+        "Boosts ATK increase (low)",
+        "提高攻擊增加量(小)",
+        "공격력 상승량 상승(소)",
+        "Amplifie l'augmentation de l'ATT (peu)",
+        "Steigert ANG-Erhöhung (gering)",
+        "Mayor aumento de ATQ (poco)"
     ],
     "204050002": [
         "Boosts damage amount (great)",
@@ -993,7 +985,7 @@
     ],
     "204070002": [
         "Boosts DEF and SPR when active<br>Increases necessary HP (low)",
-        "提高發動時防禦精神的數值<br>增加發動條件的HP(小)",
+        "提高發動時防禦精神的數值<br>增加發動條件的HP值(小)",
         "발동 시 방어력과 정신력 상승<br>발동 조건의 HP수치 증가(소)",
         "Augmente la DEF et la PSY une fois activé<br>Augmente les PV nécessaires (peu)",
         "Erhöht ABW und PSY, wenn aktiv<br>Erhöht erforderte LP (gering)",
@@ -2297,19 +2289,19 @@
     ],
     "210010002": [
         "Boosts turns in effect (high)",
-        null,
-        null,
-        null,
-        null,
+        "提高效果回合數(大)",
+        "효과 턴 수 상승(대)",
+        "Augmente le nombre de tours des effets (beaucoup)",
+        "Erhöht Anzahl aktiver Runden (hoch)",
         "Aumenta la duración (mucho)"
     ],
     "210050002": [
-        "Boosts DEF ignored amount (high)<br>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance reduction amount for enabled Prishe special after using raging fists, berserk attack, or tornado kick",
-        null,
-        null,
-        null,
-        null,
-        "Ignora más DEF (mucho)<br>Mayor resistencia a la reducción de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad PARA X tras usar X, X o X"
+        "Boosts DEF ignored amount (high)<br>Adds fire, ice, lightning, water, wind, earth, light, and dark resistance reduction effect for enabled prishe special after using raging fists, berserk attack+, tornado kick+",
+        "提高無視防禦量(大)<br>在「乱擊」「羅剎擊+」「鬥魂旋風腳+」後使用「普利修特技」時，1回合內可使用「普利修特技」",
+        "방어력 무시량 상승(대)<br>'난격', '나찰격+', 또는 '투귀질풍각+' 발동 후 사용 가능한 '프리쉬 스페셜'에 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소 효과 부여",
+        "Augmente la quantité de DEF ignorée (beaucoup)<br>Ajoute l'effet de réduction de la résistance à feu, glace, foudre, eau, vent, terre, lumière, ténèbres à l'aptitude Spécialité de Prishe débloquée après avoir utilisé Poings de colère, Attaque furieuse + ou Coup de pied tornade +",
+        "Erhöht Wert ignorierter ABW<br>Fügt nach durch Anwendung von Faustwirbel, Berserker+ oder Tornadotritt+ aktiviertem Prishe-Spezial einen Effekt für die Verringerung von Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz hinzu",
+        "Ignora más DEF (mucho)<br>Mayor resistencia a la reducción de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad con Especial de Prishe tras usar Puños de la ira, Furia enloquecida+ o Patada tornado+"
     ],
     "210060002": [
         "Boosts MP",
@@ -2321,18 +2313,18 @@
     ],
     "210090002": [
         "Boosts HP<br>Boosts ATK when equipped with an axe",
-        null,
-        null,
-        null,
-        null,
+        "提高HP<br>提高裝備斧時的攻擊",
+        "HP 상승<br>도끼 장착 시 공격력 상승",
+        "Augmente les PV<br>Augmente l'ATT lorsqu'une hache est équipée",
+        "Erhöht LP<br>Erhöht ANG, wenn mit Axt ausgerüstet",
         "Aumenta la VIT<br>Aumenta el ATQ al llevar hacha"
     ],
     "210100002": [
         "Boosts damage amount (mid)<br>Reduces MP consumed (mid)",
-        null,
-        null,
-        null,
-        null,
+        "提高傷害量(中)<br>降低MP消耗(中)",
+        "피해량 상승(중)<br>소비 MP 감소(중)",
+        "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (moyen)",
+        "Erhöht Schaden (mittel)<br>Erhöht MP-Verbrauch (mittel)",
         "Aumenta el daño (bastante)<br>Reduce el consumo de PM (bastante)"
     ],
     "210310002": [
@@ -2463,7 +2455,31 @@
         "Erhöht Schaden (hoch)",
         "Aumenta el daño (mucho)"
     ],
+    "210700002": [
+        "Increases necessary HP (mid)",
+        "增加發動條件的HP值(中)",
+        "발동 조건의 HP 수치 증가(중)",
+        "Augmente les PV nécessaires (moyen)",
+        "Erhöht benötigte LP (mittel)",
+        "Aumenta la VIT necesaria (bastante)"
+    ],
     "210710002": [
+        "Boosts damage amount (mid)",
+        "提高傷害量(中)",
+        "피해량 상승(중)",
+        "Augmente les dégâts infligés (moyen)",
+        "Erhöht den Schaden (mittel)",
+        "Aumenta el daño (bastante)"
+    ],
+    "210770002": [
+        "Increases necessary HP (mid)",
+        "增加發動條件的HP值(中)",
+        "발동 조건의 HP 수치 증가(중)",
+        "Augmente les PV nécessaires (moyen)",
+        "Erhöht benötigte LP (mittel)",
+        "Aumenta la VIT necesaria (bastante)"
+    ],
+    "210780002": [
         "Boosts damage amount (mid)",
         "提高傷害量(中)",
         "피해량 상승(중)",
@@ -2473,27 +2489,35 @@
     ],
     "210790002": [
         "Boosts chance of enabling full charge stomp when receiving a physical or magic attack (low)<br>Boosts damage amount for full charge stomp (high)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高受到物理魔法攻擊時發動「超蓄力印章」的機率(小)<br>提高「超蓄力印章」的傷害量(大)",
+        "물리 또는 마법공격을 받으면 '전력 발구르기' 발동 확률 상승(소)<br>'전력 발구르기' 피해량 상승(대)",
+        "Augmente les chances de pouvoir utiliser Piétinement maximum après avoir reçu des dégâts physiques ou magiques (peu)<br>Augmente les dégâts de Piétinement maximum (beaucoup)",
+        "Erhöht Chance, Voller Stampfer zu ermöglichen, wenn mit phys. oder mag. Angriff attackiert (gering)<br>Erhöht Schaden für Voller Stampfer (hoch)",
+        "Mayor probabilidad de aprender Pisotón total al recibir daño físico o mágico (poco)<br>Aumenta el daño de Pisotón total (mucho)"
+    ],
+    "210870002": [
+        "Increases necessary HP (mid)",
+        "增加發動條件的HP值(中)",
+        "발동 조건의 HP 수치 증가(중)",
+        "Augmente les PV nécessaires (moyen)",
+        "Erhöht benötigte LP (mittel)",
+        "Aumenta la VIT necesaria (bastante)"
     ],
     "210880002": [
-        "Change damage dealt to be based on DEF",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Changes damage dealt to be based on DEF",
+        "改以自身「防禦」值來影響造成的傷害",
+        "자신의 능력치 중 '방어력'이 피해량에 영향을 부여",
+        "Les dégâts infligés sont basés sur la DEF du lanceur",
+        "Ändert Schaden abhängig von ABW",
+        "Modifica el daño infligido según la DEF"
     ],
     "210930002": [
         "Boosts damage reduction when active (mid)<br>Boosts chance of taking physical damage (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高發動時傷害減少率(中)<br>提高代替承受物理攻擊的機率(小)",
+        "발동 시 피해 감소량 상승(중)<br>물리공격을 대신 받을 확률 상승(소)",
+        "Amplifie la réduction de dégâts une fois activé (moyen)<br>Augmente les chances de subir des dégâts physiques (peu)",
+        "Erhöht Schadensverringerung, wenn aktiv (mittel)<br>Erhöht Chance, phys. Schaden zu erleiden (gering)",
+        "Aumenta la reducción de daño al activarse (bastante)<br>Aumenta la probabilidad de recibir daño físico (poco)"
     ],
     "210960002": [
         "Reduces MP consumed (mid)",
@@ -2623,6 +2647,30 @@
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
     ],
+    "212090002": [
+        "Boosts damage amount (mid)<br>Reduces MP consumed (mid)",
+        "提高傷害量(中)<br>降低MP消耗(中)",
+        "피해량 상승(중)<br>소비 MP 감소(중)",
+        "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (moyen)",
+        "Erhöht Schaden (mittel)<br>Verringert verbrauchte MP (mittel)",
+        "Aumenta el daño (bastante)<br>Reduce el consumo de PM (bastante)"
+    ],
+    "212130002": [
+        "Increases necessary HP (mid)",
+        "增加發動條件的HP值(中)",
+        "발동 조건의 HP 수치 증가(중)",
+        "Augmente les PV nécessaires (moyen)",
+        "Erhöht benötigte LP (mittel)",
+        "Aumenta la VIT necesaria (bastante)"
+    ],
+    "212170002": [
+        "Boosts damage increase (low)",
+        "提高傷害增加量(小)",
+        "피해 상승량 상승(소)",
+        "Amplifie l'augmentation des dégâts (peu)",
+        "Steigert die Schadenserhöhung (gering)",
+        "Aumenta el daño (poco)"
+    ],
     "212200002": [
         "Boosts damage amount (mid)",
         "提高傷害量(中)",
@@ -2655,13 +2703,37 @@
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
     ],
+    "212260002": [
+        "Increases necessary HP (mid)",
+        "增加發動條件的HP值(中)",
+        "발동 조건의 HP 수치 증가(중)",
+        "Augmente les PV nécessaires (moyen)",
+        "Erhöht benötigte LP (mittel)",
+        "Aumenta la VIT necesaria (bastante)"
+    ],
+    "212290002": [
+        "Reduces SPR",
+        "降低精神",
+        "정신력 감소",
+        "Réduit la PSY",
+        "Verringert PSY",
+        "Reduce el ESP"
+    ],
     "212300002": [
         "Boosts turns in effect (mid)",
         "提高效果回合數(中)",
         "효과 턴 수 상승(중)",
         "Augmente le nombre de tours des effets (moyen)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht die Anzahl aktiver Runden (mittel)",
         "Aumenta la duración (bastante)"
+    ],
+    "212310002": [
+        "Increases necessary HP (mid)",
+        "增加發動條件的HP值(中)",
+        "발동 조건의 HP 수치 증가(중)",
+        "Augmente les PV nécessaires (moyen)",
+        "Erhöht nötige LP (mittel)",
+        "Aumenta la VIT necesaria (bastante)"
     ],
     "213300002": [
         "Boosts SPR increase (high)",

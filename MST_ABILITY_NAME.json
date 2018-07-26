@@ -64,12 +64,12 @@
         "PM +30%"
     ],
     "100065": [
-        null,
-        null,
+        "MP +20%",
         "MP+40%",
-        null,
+        "MP+40%",
+        "PM +40%",
         "MP +40%",
-        null
+        "PM +40%"
     ],
     "100070": [
         "ATK +10%",
@@ -8442,7 +8442,7 @@
     "209950": [
         "Abominable Child",
         "禁忌之子",
-        "혐오스러운 아이",
+        "저주받은 아이",
         "Enfant abominable",
         "Unheilvolles Kind",
         "Niña maldita"
@@ -21164,7 +21164,7 @@
         "克拉特斯自衛團",
         "크라토스 자경단",
         "Milice de Kratus",
-        "Kratos’ Bürgerwehr",
+        "Kratus' Bürgerwehr",
         "Fuerza de Defensa de Kratus"
     ],
     "225880": [
@@ -21179,7 +21179,7 @@
         "Fortitude and Vigor",
         "質樸剛健",
         "질실강건",
-        "Force et vigueur",
+        "Courage et vigueur",
         "Voller Elan",
         "Fortaleza y vigor"
     ],
@@ -21194,7 +21194,7 @@
     "225910": [
         "Metal Pipe Kinda Guy",
         "鐵管派",
-        "쇠파이프 파",
+        "철파이프 파",
         "Expert du tuyau en fer",
         "Stahlrohrfraktion",
         "Tubo férreo"
@@ -21737,7 +21737,7 @@
     ],
     "226413": [
         "Magical Distraction",
-        "魔术混擾",
+        "魔術混擾",
         "마법 소란",
         "Distraction magique",
         "Magische Ablenkung",
@@ -22345,19 +22345,67 @@
     ],
     "226880": [
         "The Subservient",
-        null,
+        "被利用者",
         "이용당한 자",
-        null,
-        null,
-        null
+        "Le subordonné",
+        "Der Manipulierte",
+        "El subsirviente"
+    ],
+    "226881": [
+        "Dark Sword Arts",
+        "暗黑劍技",
+        "암흑의 검기",
+        "Art de l'épée noire",
+        "Düsterschwert",
+        "Esgrima oscura"
+    ],
+    "226882": [
+        "Original Arrival",
+        "回歸原點",
+        "원조 등장",
+        "Arrivée originale",
+        "Herkunft der Ankommenden",
+        "Llegada original"
     ],
     "226883": [
         "Praying Child's Dream",
         null,
         "기도자의 꿈",
         null,
-        null,
+        "Traum des betenden Kindes",
         null
+    ],
+    "226886": [
+        null,
+        "風之追憶",
+        "바람의 추억",
+        "Souvenir des vents",
+        "Erinnerung des Windes",
+        null
+    ],
+    "226890": [
+        "Rainbow Whip",
+        "彩虹鞭",
+        "무지개 채찍",
+        "Fouet arc-en-ciel",
+        "Regenbogenpeitsche",
+        "Látigo arcoíris"
+    ],
+    "226898": [
+        "Physical Force",
+        "物理之力",
+        "피지컬 포스",
+        "Force physique",
+        "Physische Kraft",
+        "Fuerza física"
+    ],
+    "226899": [
+        "Magical Force",
+        "魔法之力",
+        "매지컬 포스",
+        "Force magique",
+        "Magische Kraft",
+        "Poder mágico"
     ],
     "226911": [
         "Recoil",
@@ -28584,12 +28632,12 @@
         "Ultrapoción"
     ],
     "504920": [
-        "Tornado Kick",
-        "鬥魂旋風腳",
-        "투귀질풍각",
-        "Coup de pied tornade",
-        "Tornadotritt",
-        "Patada tornado"
+        "Tornado Kick+",
+        "鬥魂旋風腳+",
+        "투귀질풍각+",
+        "Coup de pied tornade +",
+        "Tornadotritt+",
+        "Patada tornado+"
     ],
     "504930": [
         "Tornado Kick",
@@ -28600,12 +28648,12 @@
         "Patada tornado"
     ],
     "504940": [
-        "Tornado Kick",
-        "鬥魂旋風腳",
-        "투귀질풍각",
-        "Coup de pied tornade",
-        "Tornadotritt",
-        "Patada tornado"
+        "Tornado Kick+",
+        "鬥魂旋風腳+",
+        "투귀질풍각+",
+        "Coup de pied tornade +",
+        "Tornadotritt+",
+        "Patada tornado+"
     ],
     "504950": [
         "Tornado Kick",
@@ -28632,12 +28680,12 @@
         "Especial de Prishe"
     ],
     "504980": [
-        "Will to Live",
-        "生命意志",
-        "생명의 의지",
-        "Volonté de vivre",
-        "Wille zu Leben",
-        "Voluntad para vivir"
+        "Will to Live+",
+        "生命意志+",
+        "생명의 의지+",
+        "Volonté de vivre +",
+        "Wille zu Leben+",
+        "Voluntad para vivir+"
     ],
     "504990": [
         "Will to Live",
@@ -28648,12 +28696,12 @@
         "Voluntad para vivir"
     ],
     "505000": [
-        "Will to Live",
-        "生命意志",
-        "생명의 의지",
-        "Volonté de vivre",
-        "Wille zu Leben",
-        "Voluntad para vivir"
+        "Will to Live+",
+        "生命意志+",
+        "생명의 의지+",
+        "Volonté de vivre +",
+        "Wille zu Leben+",
+        "Voluntad para vivir+"
     ],
     "505010": [
         "Will to Live",
@@ -29803,7 +29851,7 @@
         "Psycho Skewer",
         "瘋狂穿刺",
         "사이코스큐어",
-        "Psycho-brochette",
+        "Empalement psychotique",
         "Psycho-Spieß",
         "Pincho psicopático"
     ],
@@ -51280,11 +51328,35 @@
         "Sabiduría del erudito"
     ],
     "911180": [
-        "Air Raid",
-        "垂直空中襲擊",
-        "바티칼 에어레이드",
-        "Raid aérien",
-        "Vertikaler Luftschlag",
-        "Asalto aéreo"
+        "Heavy Stomp",
+        "沉重印章",
+        "무거운 발구르기",
+        "Piétinement",
+        "Schwerer Stampfer",
+        "Pisotón fuerte"
+    ],
+    "911181": [
+        "Heavy Stomp",
+        "沉重印章",
+        "무거운 발구르기",
+        "Piétinement",
+        "Schwerer Stampfer",
+        "Pisotón fuerte"
+    ],
+    "911182": [
+        "Power Stomp",
+        "全力重踏",
+        "힘의 발구르기",
+        "Choc brutal",
+        "Kraftstampfer",
+        "Pisotón potente"
+    ],
+    "911183": [
+        "Sprinkles of Love",
+        null,
+        null,
+        null,
+        null,
+        null
     ]
 }
