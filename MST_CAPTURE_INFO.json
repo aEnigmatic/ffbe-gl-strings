@@ -4552,7 +4552,7 @@
         "Un enemigo muy peligroso que puede infligir una gran cantidad de daño, usar ataques mágicos e incluso pedir refuerzos durante el combate. Mientras más se alargue el combate, más difícil se te pondrá la cosa, así que la clave de la victoria está en finalizar el combate lo más rápido posible. Por otra parte, si no eres capaz de golpear a todos los enemigos a la vez, ve a por el <color=255:255:0>capitán</color> primero y, luego, a por el resto."
     ],
     "774010101": [
-        "A formidable enemy that uses a powerful jump attack. Your attacks won't connect once <color=255:0:0>Kain</color> uses <color=255:255:0>jump</color>, so be wary of when you attack. He will also use items to cast magic, so equipping gears that offer resistance to ice attacks should make the battle easier.",
+        null,
         "擅長使用必殺跳躍攻擊的強敵。其使用了<color=255:255:0>跳躍</color>的話我方的攻擊會無法命中，因此戰鬥的時候要計算好攻擊的時機。另外，<color=255:0:0>凱因</color>還會使用道具發動魔法攻擊，因此提前準備好冰屬性耐性裝備的話會使戰鬥變得簡單。",
         "필살의 점프공격을 사용하는 난적. <color=255:255:0>점프</color>를 사용하면 공격이 맞게 되지 않게 되므로, 공격 타이밍을 잘 재며 싸움에 임하자. 또한 <color=255:0:0>카인</color>이 아이템을 사용하면 마법공격도 같이 사용하므로, 얼음속성 저항력을 갖춘 장비를 장착하고 있다면 전투가 한결 수월해질 것이다.",
         "Un ennemi terrifiant qui dispose d’une puissante attaque de saut. Prenez garde : si <color=255:0:0>Kain</color> utilise <color=255:255:0>Sauter</color>, il vous est alors impossible de l’attaquer. Il fera également appel à divers objets pour lancer des sorts, et il est conseillé d’équiper vos unités de sorte à améliorer leur résistance à la glace pour faciliter le combat.",
@@ -4808,12 +4808,12 @@
         "Una pareja formada por un <color=255:0:0>espadachín de élite</color> y un <color=255:0:0>artillero pesado de élite</color>. El <color=255:0:0>espadachín de élite</color> aumentará su resistencia al rayo y a la tierra cada cierto número de turnos. Por ello, si aumenta su resistencia al rayo, usa ataques de agua y, si aumenta su resistencia a la tierra, usa ataques de viento. Por su parte, el <color=255:0:0>artillero pesado de élite</color> usará ataques de fuego y agua, así que te vendría bien aumentar tu resistencia contra estos elementos."
     ],
     "780090301": [
-        "An enemy that uses magic, such as <color=255:255:0>waterga</color> and <color=255:255:0>aeroga</color>. It uses <color=255:255:0>poison mist</color> every number of turns to inflict poison on all members in your party. Beware, as it will use attacks that may instantly KO any poisoned units, so be sure you cure poisoned units as soon as possible. It will absorb HP if struck by certain attacks, but if its weak point is struck with light attacks, it will absorb MP instead, so be wary of when you want to attack its weak point.",
-        "會釋放<color=255:255:0>大流水</color>、<color=255:255:0>大勁風</color>等魔法的敵人。每隔一定回合會對全體使用<color=255:255:0>毒霧</color>，施加中毒狀態。之後會對中毒的兵員發動致死一擊，所以最優先治療中毒狀態的兵員吧。在受到特定攻擊時會吸收HP，弱點為光屬性攻擊，在受到光屬性攻擊時會吸收MP，必須看好時機進行攻擊。",
+        "An enemy that attacks with the spells <color=255:255:0>waterga</color> and <color=255:255:0>aeroga</color>. It will inflict poison on the entire team with <color=255:255:0>poison mist</color> after a set number of turns. After that, it will strike those units that were poisoned with instant KO attacks, so prioritize healing poisoned allies. It will absorb HP when being hit with special attacks and will absorb MP when hit with its weakness, light attacks, so timing is essential when exploiting its vulnerability.",
+        "會施放<color=255:255:0>大流水</color>、<color=255:255:0>大勁風</color>的敵人。每經過一定回合數，就會施放<color=255:255:0>毒霧</color>讓我方全體陷入中毒狀態。緊接著會對中毒的兵員發動即死攻擊，因此最優先治療中毒狀態吧。受到特定攻擊就會使用HP吸收，但如果受到弱點的光屬性攻擊時，反而會吸收MP，好好思考針對弱點進行攻擊的時機吧。",
         "<color=255:255:0>워터가</color>, <color=255:255:0>에어로가</color> 등의 마법을 사용하는 적, 일정 턴마다 <color=255:255:0>독안개</color>를 사용해 전체를 독 상태에 빠뜨린다. 그 뒤 독 상태에 빠진 유닛에게 즉사 공격을 사용하므로, 독을 우선적으로 회복하도록 하자. 특정 공격을 받으면 HP를 흡수하지만, 약점인 빛속성으로 공격받게 되면 MP를 흡수하므로 약점을 공격하는 타이밍을 잘 계산해 보자.",
-        "Un ennemi qui lance de nombreux sorts, dont <color=255:255:0>Eau X</color> et <color=255:255:0>Vent X</color>. Il utilise également <color=255:255:0>Brume empoisonnée</color> après un nombre fixe de tours et inflige poison à tous les membres de votre équipe. Prenez garde : ses attaques peuvent infliger un KO instantané aux unités empoisonnées. Il est vivement recommandé de guérir vos personnages affectés aussi vite que possible. Il a également la faculté d’absorber les dégâts de certaines attaques pour restaurer ses PV, mais si vous le frappez à l’aide d’attaques de foudre, son point faible, il absorbera alors des PM. Agissez donc avec prudence.",
+        "Un ennemi capable de lancer les sorts <color=255:255:0>Eau X</color> et <color=255:255:0>Vent X</color>. Il peut également infliger poison au groupe tout entier à l'aide de <color=255:255:0>Brume empoisonnée</color> après un nombre fixe de tours. Une fois cette attaque lancée, l'ennemi peut instantanément mettre KO les unités empoisonnées, de sorte qu'il est crucial de les soigner en priorité. Ce monstre a notamment la faculté d'absorber les PV quand il subit des attaques spéciales, et les PM lorsqu'il est frappé d'attaques de lumière, son point faible. Ainsi, il est essentiel d'attaquer au bon moment pour correctement exploiter sa vulnérabilité.",
         "Ein Gegner, der mit Magie wie <color=255:255:0>Aquaga</color> und <color=255:255:0>Aeroga</color> angreift. Er verwendet alle paar Züge <color=255:255:0>Giftnebel</color>, um deine gesamte Gruppe zu vergiften. Da er anschließend einen Angriff verwendet, mit dem er vergiftete Einheiten sofort kampfunfähig machen kann, hat das Heilen des Zustands Gift oberste Priorität. Er reagiert auf bestimmte Angriffe durch das Absorbieren der LP deiner Einheiten. Wenn du ihn aber mit Lichtangriffen attackierst, absorbiert er stattdessen die MP deiner Einheiten. Berücksichtige dies, wenn du seinen Schwachpunkt ausnutzen möchtest.",
-        "Un enemigo que usa magia como <color=255:255:0>Aqua++</color> y <color=255:255:0>Aero++</color>. También usará <color=255:255:0>Niebla venenosa</color> cada cierto número de turnos para infligir veneno a todas tus unidades. Por otra parte, ten cuidado porque posee ataques que pueden dejar K.O. al instante a cualquier unidad que tengas envenenada, así que no te olvides de curar a estas unidades lo antes posible. Además, si se le golpea con ciertos ataques, puede absorber VIT, aunque, si se le ataca con ataques de luz (su punto débil), absorberá PM. Por ello, ten cuidado cuando le ataques en su punto débil."
+        "Ein Gegner, der die magischen Angriffe <color=255:255:0>Aquaga</color> und <color=255:255:0>Aeroga</color> verwendet. Nach einer bestimmten Anzahl von Zügen greift er mit <color=255:255:0>Giftnebel</color> an, womit er deine gesamte Gruppe vergiften kann. Anschließend attackiert er deine vergifteten Einheiten mit einem Angriff, der diese sofort kampfunfähig macht. Du solltest dich deshalb zunächst darauf konzentrieren, den Zustand Gift zu heilen. Er absorbiert LP, wenn du ihn mit Spezialangriffen attackierst und er absorbiert MP, wenn du ihn mit Blitzangriffen attackierst, gegen die er schwach ist. Achte deshalb auf dein Timing, wenn du seine Schwäche ausnutzen möchtest."
     ],
     "780100301": [
         "An enemy that frequently uses ailments, such as silence, blind, and confusion to attack. The less the enemy's HP, the more it will attack with its ailments, so it is crucial to prepare your party against ailments. Be sure to attack its weakness with fire attacks.",
@@ -5140,23 +5140,23 @@
         "雖然不具有特別的威脅性，但是因為會使用火屬性魔法，如果隊伍中有精神與火屬性耐性較低的兵員，記得一邊注意該兵員的HP剩餘量，一邊進行戰鬥。",
         "특별히 위협적이진 않으나, 불속성 마법을 사용하기 때문에 정신력 및 불속성 저항력이 낮은 유닛이 있을 경우 남은 HP에 주의하며 싸우도록 하자.",
         "Cet adversaire, bien qu'il ne soit pas particulièrement dangereux, exige néanmoins l'emploi d'une certaine prudence, notamment à cause des sorts de feu qu'il peut lancer. Ainsi, il est sage de garder un œil sur vos unités dont la PSY et la résistance au feu laissent à désirer.",
-        null,
+        "Keine besonders große Bedrohung, da es aber Feuermagie verwendet, solltest du bei Einheiten mit niedriger PSY oder Feuerresistenz auf deine LP achten.",
         "No se trata de una gran amenaza, pero usará magia de fuego si tienes unidades con ESP bajo o poca resistencia al fuego. Por tanto, no pierdas de ojo tu VIT."
     ],
     "789010201": [
         "An enemy that is skilled in boosting parameters with magic. As it will grow stronger the longer the battle persists, quickly defeat them using weapons with the <color=255:255:0>man-eater</color> ability or espers.",
         "擅長狀態數值強化魔法的敵人。戰鬥時間越長，敵人的強化也會更加提升。利用附有<color=255:255:0>食人</color>效果的武器，或是裝備幻獸等手段盡快將其打倒吧。",
         "능력치 강화 마법이 특기인 적. 시간이 지나면 지날수록 적은 자신을 강화하기 때문에, <color=255:255:0>인간 킬러</color>가 부여된 무기나 환수 등을 장착하고 서둘러 쓰러뜨리자.",
-        "Un ennemi capable d'améliorer ses caractéristiques par le biais de la magie. De ce fait, il a tendance a gagner en puissance au fil du combat, et il est préférable de l'éliminer rapidement à l'aide de chimères ou grâce à l'aptitude <color=255:255:0>Tueur</color>.",
-        null,
+        "Un ennemi capable d'améliorer ses caractéristiques par le biais de la magie. De ce fait, il a tendance à gagner en puissance au fil du combat, et il est préférable de l'éliminer rapidement à l'aide de chimères ou grâce à l'aptitude <color=255:255:0>Tueur</color>.",
+        "Ein Gegner, der besonders geschickt seine Attribute mit Magie verstärken kann. Er wird dadurch umso stärker, je länger sich der Kampf hinzieht. Du solltest ihn deshalb schnell mittels Waffen mit der <color=255:255:0>Menschenfresser</color> Fertigkeit oder mit Espern besiegen.",
         "Un enemigo al que se le da muy bien potenciar sus parámetros con magia. Mientras más dure la batalla, más fuerte se irá haciendo. Por tanto, derrótalo lo antes posible con armas que cuenten con la habilidad <color=255:255:0>Comehombres</color> o espers."
     ],
     "789010301": [
         "An enemy that is skilled in fire magic and status ailment attacks. You will run into trouble if you do not have equipment that increases fire resistance and ways to heal status ailments such as <color=255:255:0>remedies</color>.",
         "擅長火屬性魔法與狀態異常攻擊的敵人。如果沒有準備好提高火屬性耐性的裝備，或是<color=255:255:0>萬能藥</color>等治療狀態異常的手段，可能就會在戰鬥中嚐到苦頭。",
         "불속성 마법과 상태이상 공격이 특기인 적. 불속성 저항력을 올려주는 장비와 <color=255:255:0>만능약</color> 등, 상태이상 회복 수단을 준비하고 싸우는 것이 좋다.",
-        "Un ennemi jugé expert en sorts de feu et en altérations d'état. Il est fortement recommandé de se préparer avant de l'affronter, notamment en se dotant de pièces d'équipement pouvant améliorer la résistance au feu, et en se munissant de <color=255:255:0>remèdes</color> ou d'autres méthodes permettant de dissiper les altérations d'état.",
-        null,
+        "Un ennemi expert en sorts de feu et en altérations d'état. Il est fortement recommandé de se préparer avant de l'affronter, notamment en se dotant de pièces d'équipement pouvant améliorer la résistance au feu, et en se munissant de <color=255:255:0>remèdes</color> ou d'autres méthodes permettant de dissiper les altérations d'état.",
+        "Ein Gegner, der besonders geschickt Feuermagie und Angriffe verwendet, die Zustandsveränderungen erteilen können.  Du solltest deshalb Ausrüstung verwenden, die die Feuerresistenz deiner Einheiten erhöht und Gegenmaßnahmen wie <color=255:255:0>Allheilmittel</color> bereithalten, mit denen du Zustandsveränderungen heilen kannst.",
         "Un enemigo curtido en la magia de fuego y los ataques que infligen estados alterados. Tendrás problemas si no cuentas con equipo que aumente tu resistencia al fuego u formas de curar estados alterados como, por ejemplo, <color=255:255:0>panaceas</color>."
     ],
     "789010401": [
@@ -5164,7 +5164,7 @@
         "擅長暗屬性魔法與狀態異常攻擊的敵人。雖然說只要利用提高暗屬性耐性的裝備來強化防禦，戰鬥就不會有太大問題，但是異常狀態攻擊非常的棘手，最好準備<color=255:255:0>萬能藥</color>或是擁有狀態異常耐性的裝備前往戰鬥。弱點是冰屬性，如果沒辦法準備足夠的耐性裝備，就利用屬性弱點一口氣將其擊倒吧。",
         "어둠속성 마법과 상태이상 공격이 특기인 적. 어둠속성 저항력을 올려주는 장비를 갖추고 싸움에 임하면 문제없지만, 상태이상 공격이 상당히 골치 아프므로 <color=255:255:0>만능약</color>이나 상태이상 저항력을 지닌 장비 등을 준비해 두면 좋다. 얼음속성이 약점이므로, 저항력을 지닌 장비가 충분하지 않을 경우 약점속성 공격으로 단숨에 쓰러뜨리자.",
         "Un ennemi jugé expert en sorts de ténèbres et en altérations d'état. Vos unités, si elles sont dotées de pièces d'équipement renforçant la résistance aux ténèbres, n'auront aucun problème à terrasser ce monstre. En revanche, il est conseillé de se munir d'un grand nombre de <color=255:255:0>remèdes</color> et d'autres méthodes permettant de combattre ses altérations d'état, car celles-ci sont d'une puissance redoutable. Vous pouvez également exploiter sa vulnérabilité à la glace pour tenter de mettre fin au combat rapidement.",
-        null,
+        "Ein Gegner, der besonders geschickt Dunkelmagie und Angriffe verwendet, die Zustandsveränderungen erteilen können.  Wenn du Ausrüstung dabei hast, die Dunkelresistenz erhöht, solltest du hier keine Probleme haben, aber die Angriffe, mit denen es Zustandsveränderungen erteilen kann, können durchaus ungemütlich werden. Du solltest dich deshalb mit <color=255:255:0>Allheilmitteln</color>  eindecken und Ausrüstung verwenden, die die Resistenzen gegen Zustandsveränderungen erhöht. Da er schwach gegenüber Eisangriffen ist, solltest du ihn schnell mit einem Eisangriff erledigen, falls deine Ausrüstung nicht über hinreichend hohe Resistenzen verfügt.",
         "Un enemigo curtido en la magia oscura y los ataques que infligen estados alterados. Luchar contra este enemigo no te causará demasiados problemas si cuentas con equipo que aumente tu resistencia a la oscuridad. Sin embargo, sus ataques que infligen estados alterados son bastante problemáticos, por lo que es una muy buena idea que lleves todas las <color=255:255:0>panaceas</color> que puedas, además de equipo que aumente tu resistencia a los estados alterados, etc. Por otra parte, el punto débil de este enemigo es el hielo, por lo que, si no ves claro que puedas resistir sus ataques, puedes intentar derribarlos a todos de un tirón con un ataque de hielo."
     ],
     "789010501": [
@@ -5172,15 +5172,15 @@
         "能夠進行恢復、魔法、物理攻擊並擁有高平衡度能力的強敵。雖然只要提高雷屬性耐性就能對抗他的魔法攻擊，但是因為物理攻擊的威力也相當高，最好準備能夠吸引敵人攻擊的防禦型兵員，一邊吸引敵人攻擊一邊進行戰鬥吧。",
         "회복, 마법, 물리공격 등 균형 잡힌 어빌리티를 사용하는 강적. 마법은 번개속성 저항력을 올려두면 문제없지만, 물리공격이 상당한 위력을 자랑하므로 공격 유도가 가능한 방어 담당 유닛을 편성하여 공격을 유인하며 싸우자.",
         "Un ennemi redoutable disposant d'un vaste arsenal d'aptitudes curatives, magiques et physiques. Ses sorts ne devraient vous poser aucun problème, à condition de renforcer votre résistance à la foudre. Prenez garde cependant : ses attaques physiques peuvent s'avérer dévastatrices. Assurez-vous d'employer les services d'un tank capable d'attirer l'attention de cet ennemi lors du combat.",
-        null,
+        "Ein mächtiger Gegner, der über ein ausgewogenes Arsenal von Heilfertigkeiten sowie magischen und physischen Fertigkeiten verfügt. Seine Magie sollte kein Problem darstellen, wenn du deine Blitzresistenz erhöhst, nimm dich aber vor seinen physischen Angriffen in Acht. Du solltest deshalb im Kampf eine Einheit als Tank verwenden, die alle Angriffe auf sich lenken kann.",
         "Un poderoso enemigo que cuenta con un arsenal de curas, magia y habilidades físicas bastante equilibrado. Su magia no te dará problemas si aumentas tu resistencia al rayo, pero, aun así, ten mucho cuidado con la potencia de sus ataques físicos. Además, asegúrate de contar con la ayuda de un tanque para atraer la atención del enemigo durante el combate."
     ],
     "789010601": [
         "A powerful enemy skilled in fire, lightning and wind magic. As it tends to use attacks that damage the whole party, if measures are not taken such as all respective resistances or damage cut, expect to take high amounts of damage. Equipping <color=255:255:0>demon killer</color> to your attack unit will aid in defeating this enemy.",
         "擅長火、雷、風屬性魔法的強敵。擁有許多的全體攻擊，如果沒有提高各種屬性耐性或是使用傷害減輕等手段，可是會受到重大創傷的。<color=255:255:0>斬魔</color>十分有效，讓攻擊兵員裝備此能力將其擊倒吧。",
         "불, 번개, 바람속성 마법이 특기인 강적. 전체공격을 여러 종류 사용하므로 각 속성에 대한 저항력이나 피해량 감소 등으로 대처하지 않으면 큰 피해를 입게 될 것이다. <color=255:255:0>악마 킬러</color>가 유효하므로, 공격 담당 유닛에게 장착해 두면 수월하게 쓰러뜨릴 수 있다.",
-        "Un puissant ennemi jugé expert en sorts de feu, de foudre et de vent. Il est conseillé d'appliquer certaines mesures défensives avant d'affronter cet adversaire, notamment en raison de sa tendance à attaquer le groupe tout entier. Préparez-vous donc à renforcer vos résistances ou à réduire ses dégâts. Équiper vos unités de <color=255:255:0>Tue-démons/color> pourrait également vous aider à le terrasser plus aisément.",
-        null,
+        "Un puissant ennemi expert en sorts de feu, de foudre et de vent. Il est conseillé d'appliquer certaines mesures défensives avant d'affronter cet adversaire, notamment en raison de sa tendance à attaquer le groupe tout entier. Préparez-vous donc à renforcer vos résistances ou à réduire ses dégâts. Équiper vos unités de <color=255:255:0>Tue-démons/color> pourrait également vous aider à le terrasser plus facilement.",
+        "Ein mächtiger Gegner, der besonders geschickt Feuer-, Blitz- und Windmagie verwenden kann. Da seine Angriffe dazu neigen, deine gesamte Gruppe zu treffen, musst du mit hohem Schaden rechnen, wenn du keine Gegenmaßnahmen wie das Erhöhen entsprechender Resistenzen oder Schadensreduzierung ergreifst. Rüste deine Angriffseinheiten mit <color=255:255:0>Dämonenkiller</color> aus und du solltest diesen Gegner einfacher besiegen können.",
         "Un poderoso enemigo que domina las magias de fuego, rayo y viento. Este enemigo tiende a usar ataques que dañan al grupo entero, por lo que, si no te las arreglas para aumentar tus resistencias o reducir el daño, sufrirás una cantidad enorme de daño. Asimismo, a la hora de derrotar al enemigo, sería idóneo que alguna de tus unidades contase con <color=255:255:0>Matademonios</color>."
     ],
     "790010101": [
@@ -5188,7 +5188,7 @@
         "擁有強力的狀態數值下降攻擊與HP恢復能力，是非常強力的敵人。如果利用防禦型兵員吸引敵人攻擊，就可以讓戰鬥變得比較容易，但是防禦型兵員也會更容易被擊倒，因此要多加注意。雖然只要超過一定回合數，HP恢復能力就不會再發動，但是如果想避免陷入長期戰鬥的話，多活用雷屬性攻擊或是<color=255:255:0>破械</color>來進行短期決戰吧。",
         "강력한 능력치 감소 공격과 HP 회복 어빌리티를 사용하는 강적. 방어 담당 유닛에게 공격을 유도시키면 전투가 수월해지지만, 그만큼 방어 담당 유닛이 전투 불능에 빠질 가능성이 높으므로 주의하도록 하자. HP 회복 어빌리티는 일정 횟수가 지나면 발동하지 않지만, 장기전을 피하고 싶다면 번개속성 공격이나 <color=255:255:0>기계 킬러</color>를 활용하여 단기전으로 끝내버리도록 하자.",
         "Un ennemi coriace capable d'infliger de puissants handicaps et de lancer plusieurs aptitudes curatives. Il est conseillé d'employer un tank pour attirer l'attention de cet adversaire, mais agissez avec prudence, car cette unité pourrait très bien finir KO. Sachez également qu'une fois un certain nombre de tours passés, l'ennemi cessera de se soigner. Il est cependant conseillé de rapidement mettre un terme au combat, notamment à l'aide d'attaques de foudre ou de l'aptitude <color=255:255:0>Tue-machines</color>.",
-        null,
+        "Ein hartnäckiger Gegner, dessen mächtige Angriffe die Werte deiner Einheiten senken können und der über LP-Heilfertigkeiten verfügt. Du kannst dir den Kampf etwas einfacher machen, wenn du eine Tank-Einheit verwendest, die seine Angriffe auf sich lenken kann. Sei aber vorsichtig, dass dein Tank dabei nicht kampfunfähig gemacht wird. Nach einer bestimmten Anzahl von Zügen wird es sich nicht länger selbst heilen. Du solltest den Kampf aber dennoch schnell mit Blitzangriffen oder <color=255:255:0>Getriebesand</color> beenden.",
         "Un enemigo duro de pelar que usa potentes ataques con penalizaciones. Además, cuenta con habilidades para curarse la VIT. Luchar contra este enemigo resulta más fácil cuando llevas un tanque en el equipo para que absorba el daño; sin embargo, hasta el tanque podría caer frente a este rival, así que ¡mucho cuidado! Por otra parte, el enemigo dejará de curarse a partir de un número determinado de turnos, aunque lo aconsejable es que acabes la batalla rápido con ataques de rayo o <color=255:255:0>Matamáquinas</color>."
     ],
     "790010201": [
@@ -5196,72 +5196,72 @@
         "不會特別施展什麼能力，但是擁有高HP與攻擊力，一邊注意HP一邊利用弱點的雷屬性進行攻擊吧。",
         "딱히 어빌리티를 사용하지는 않으나, 높은 HP와 공격력을 자랑하는 마물이므로 남은 HP를 관리하며 약점인 번개속성을 노려 싸움에 임하자.",
         "Bien que cet ennemi ne dispose d'aucune aptitude particulière, il possède un grand nombre de PV et emploie principalement des attaques physiques. Concentrez vos efforts sur vos propres PV et exploitez sa faiblesse à la foudre pour triompher.",
-        null,
+        "Dieser Gegner greift zwar ohne jegliche besondere Fertigkeiten an, hat aber hohe LP und starke physische Angriffe. Du solltest deshalb auf deine LP achten und seine Schwäche gegen Blitzangriffe zu deinem Vorteil nutzen.",
         "A pesar de que este enemigo no cuenta con habilidades especiales a la hora de atacar, sí que tiene una VIT bastante elevada y un buen set de ataques físicos. Por ello, concéntrate en tu VIT y en golpear con ataques de rayo (su punto débil)."
     ],
     "791010601": [
-        "This enemy is weak to lightning and light attacks, so equip units that’s have lightning or light magic or abilities and to make quick work of your foe.",
+        "This enemy is weak to lightning and light attacks, so equip units that have lightning or light magic or abilities to make quick work of your foe.",
+        "因為弱點是雷．光屬性攻擊，所以只要以擁有雷．光屬性攻擊魔法或能力的兵員來編成隊伍，就能夠輕鬆攻略唷。",
+        "번개속성과 빛속성 공격이 약점이므로, 번개 및 빛속성 공격과 어빌리티를 지닌 유닛을 편성하면 간단히 공략할 수 있다.",
+        "Cet ennemi étant vulnérable aux attaques de foudre et de lumière, il est conseillé d'équiper vos unités de sorts et d'aptitudes associés à ces éléments pour rapidement mettre fin au combat.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Dieser Gegner ist schwach gegenüber Blitz- und Lichtangriffen, weshalb du Einheiten mitnehmen solltest, die Blitz- oder Lichtmagie oder -fertigkeiten verwenden können, um ihn schnell zu erledigen."
     ],
     "791020701": [
-        "While there are no noteworthy abilities, as its ATK is strong, be sure to defeat this enemy quickly with its weakness to ice and wind abilities.",
+        "While it has no noteworthy abilities, as its attack power is strong, be sure to defeat this enemy quickly with its weakness to ice and wind abilities.",
+        "雖然不會使用什麼需要特別提出的能力，但是因為攻擊力偏高，所以利用弱點屬性的冰．風屬性能力來發動攻勢，盡快將其擊倒吧。",
+        "별다른 어빌리티는 사용하지 않으나 공격력이 상당하므로, 약점속성인 얼음과 바람속성 어빌리티로 공격하여 일찌감치 쓰러뜨려 버리자.",
+        "Bien que cet adversaire ne possède aucune aptitude particulière, il est doté d'une grande puissance d'attaque. Tâchez donc de l'éliminer rapidement en exploitant sa faiblesse au vent et à la glace.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Dieser Gegner hat zwar keine erwähnenswerten Fertigkeiten, aber da seine Angriffe stark sind, solltest du seine Schwäche gegen Eis- und Windangriffsfertigkeiten ausnutzen und ihn damit schnell erledigen."
     ],
     "791030701": [
-        "<color=255:0:0>Nalu</color>, an enemy that focuses on physical attacks. Due to the fact that it does not possess any powerful abilities, take your time when fighting this enemy. As it has no sleep resistance, having a unit that can use <color=255:255:0>sleep</color> will be beneficial.",
+        "<color=255:0:0>Nalu</color>, an enemy that focuses on physical attacks. Due to the fact that she does not possess any powerful abilities, take your time when fighting this enemy. As she has no sleep resistance, having a unit that can use <color=255:255:0>sleep</color> will prove beneficial.",
+        "以物理攻擊為中心的敵人<color=255:0:0>娜露</color>。沒有強力的能力，因此沉著冷靜的應戰吧。由於敵人沒有睡眠耐性，因此如果有能使用<color=255:255:0>催眠</color>等手段的兵員，就能讓戰況變得十分有利。",
+        "물리 공격을 중심적으로 사용하는 적, <color=255:0:0>나루</color>. 강력한 어빌리티는 없으므로 당황하지 말고 착실하게 싸워나가자. 수면 저항력이 없으므로, <color=255:255:0>슬리플</color> 등을 사용할 수 있는 유닛이 있으면 유리한 고지를 점할 수 있다.",
+        "<color=255:0:0>Nalu</color>, un ennemi qui fait principalement appel à des attaques physiques. Nalu possède un arsenal d'aptitudes ordinaires, ce qui devrait vous permettre de prendre votre temps lors du combat. L'absence totale de résistance au <color=255:255:0>sommeil</color> de cet adversaire pourrait également vous donner l'avantage.",
         null,
-        null,
-        null,
-        null,
-        null
+        "<color=255:0:0>Nalu</color> ist ein Gegner, der hauptsächlich physische Angriffe verwendet. Da dieser Gegner keine mächtigen Fertigkeiten hat, kannst du diesen Kampf ganz entspannt angehen. Er hat keinerlei Resistenzen gegen Schlaf, weshalb du dir im Kampf einen Vorteil verschaffen kannst, wenn du eine Einheit dabei hast, die <color=255:255:0>Schlaf</color> verwenden kann."
     ],
     "791040701": [
-        "While not very strong on its own, when they gather in numbers you will be outnumbered by their concentrated attacks. Make good use of physical or magical attacks that can strike all enemies to achieve a quick victory.",
+        "While not very strong on their own, when they gather in groups you will be outnumbered by their focused attacks. Make good use of physical or magical attacks that can strike all enemies to achieve a quick victory.",
+        "雖然單一個體的能力並不高，但是因為數量很多，如果受到集中攻擊將會逐漸陷入劣勢。利用全體魔法攻擊或是全體物理攻擊等手段，盡快分出勝負吧。",
+        "한 마리 한 마리의 능력은 대단치 않지만, 적의 수가 많으므로 집중 공격을 지속적으로 받게 되면 열세에 몰리게 된다. 전체 마법 공격이나 전체 물리 공격을 사용하여 일찌감치 끝내버리자.",
+        "Cette créature, qui est plutôt faible en combat singulier, peut cependant s'avérer dangereuse en groupe. Assurez-vous la victoire en faisant bon usage de vos attaques physiques et magiques pouvant frapper tous les ennemis à la fois.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Einzeln sind sie zwar nicht besonders stark, aber da sie in großer Zahl auftreten, können sie dich durch ihre konzentrierten Angriffe in Schwierigkeiten bringen. Mit physischen oder magischen Angriffen die alle Gegner treffen kannst du diesen Kampf schnell für dich entscheiden."
     ],
     "791050701": [
-        "<color=255:0:0>Nalu</color>, an enemy that focuses on physical attacks. It will use <color=255:255:0>blaster</color> an attack that will strike the entire party when its health drops below a certain point. This attack is not only powerful but can paralyze as well, so it is encouraged to have items or abilities to heal status ailments.",
+        "<color=255:0:0>Nalu</color>, an enemy that focuses on physical attacks. She will use <color=255:255:0>blaster</color> to strike the entire party when her health drops below a certain point. This attack is not only powerful but can paralyze as well, so it is encouraged to have items or abilities to heal status ailments.",
+        "以物理攻擊為中心的敵人<color=255:0:0>娜露</color>。HP降至一定程度以下的全體攻擊<color=255:255:0>衝擊波</color>非常強力，並且附帶麻痺效果，因此最好攜帶能恢復狀態異常的道具或能力。",
+        "물리 공격을 중심적으로 사용하는 적, <color=255:0:0>나루</color>. HP가 일정량 이하가 되면 사용하는 전체공격인 <color=255:255:0>충격파</color>는 강력한 동시에 일정 확률 마비 상태를 부여하므로, 상태이상을 회복할 수 있는 어빌리티나 아이템이 있으면 든든할 것이다.",
+        "<color=255:0:0>Nalu</color>, un ennemi qui fait principalement appel à des attaques physiques. Elle lance <color=255:255:0>Rayons</color> dès lors que ses PV tombent en dessous d'un certain seuil. Cette attaque est capable de frapper le groupe tout entier. Bien que peu puissante, cette aptitude peut également infliger paralysie, et il est recommandé de se munir d'objets et de sorts pouvant dissiper les altérations d'état.",
         null,
-        null,
-        null,
-        null,
-        null
+        "<color=255:0:0>Nalu</color> ist ein Gegner, der hauptsächlich physische Angriffe verwendet. Sobald seine LP unter einen gewissen Wert fallen, verwendet er <color=255:255:0>Blaster</color>, womit er deine gesamte Gruppe treffen kann. Dieser Angriff ist nicht nur stark sondern kann deine Einheiten auch paralysieren. Du solltest deshalb Gegenstände oder Fertigkeiten bereithalten, mit denen du Zustandsveränderungen aufheben kannst."
     ],
     "791060701": [
-        "An enemy that excels in fire magic. If a water or ice attack is used on <color=255:0:0>Flame Claw</color>, its fire attacks will be weakened the next turn. If you have units equipped that do not have high resistance, keep using water or ice type attacks to fight with ease.",
+        "An enemy that excels in fire magic. If a water or ice attack is used on the <color=255:0:0>flame claw</color>, its fire attacks will be weakened the next turn. If you have units equipped that do not have high resistance to this element, keep using water or ice type attacks to fight with ease.",
+        "擅長火屬性攻擊的敵人。如果對<color=255:0:0>烈焰爪</color>發動水屬性或冰屬性攻擊的話，下一個回合<color=255:0:0>烈焰爪</color>所使用的火屬性攻擊威力將會下降。如果擔心隊伍兵員的耐久力，每回合都使用水屬性或是冰屬性攻擊，就能夠安心進行戰鬥。",
+        "불속성 공격이 특기인 적. <color=255:0:0>화염의 발톱</color>에게 물속성 또는 얼음속성 공격을 사용하면, 다음 턴에 <color=255:0:0>화염의 발톱</color>이 사용하는 불속성 공격의 위력이 떨어진다. 편성한 유닛의 지구력이 불안할 경우, 매 턴마다 물속성 혹은 얼음속성 공격을 계속해서 사용한다면 안전하게 전투할 수 있을 것이다.",
+        "Un ennemi passé maître dans la magie de feu. Si  <color=255:0:0>Griffe-flamme</color> subit une attaque d'eau, ses aptitudes de feu se retrouveront affaiblies au prochain tour. Ainsi, si vous possédez dans votre groupe des unités aux résistances élémentaires faibles, il est conseillé de le frapper sans relâche d'attaques de glace ou d'eau pour vous faciliter la tâche.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein Gegner, der sich auf Feuerangriffe spezialisiert hat. Wenn du die <color=255:0:0>Flammenkralle</color> mit einem Wasser- oder Eisangriff attackierst, werden seine Feuerangriffe im darauf folgenden Zug schwächer. Falls du Einheiten dabei hast, die über keine hohen Resistenzen verfügen, solltest du jeden Zug kontinuierlich Wasser- und Eisangriffe verwenden, um den Kampf einfacher zu machen."
     ],
     "791070601": [
-        "An enemy that will use various attacks such as single unit physical attacks, full party magical attaks and status ailments. The entire party can be poisoned with <color=255:255:0>bioblaster</color> or confused with <color=255:255:0>confuser</color>, so be sure to equip a unit that can heal status ailments. Its <color=255:255:0>auto-gun</color> from <color=255:255:0>ammo loading</color> that it uses after its HP drops to a certain point is quite potent, so it is best to use abilities with damage cut or status buffing effects.",
+        "An enemy that will use various attacks such as single unit physical attacks, full party magical attacks, and status ailments. The entire party can be poisoned with <color=255:255:0>bio blaster</color> or confused with <color=255:255:0>confuser</color>, so be sure to equip a unit that can heal status ailments. Its <color=255:255:0>auto-gun</color> from <color=255:255:0>ammo reload</color> that it uses after its HP drops to a certain point is quite potent, so it is best to use abilities that reduce damage taken or status boosting effects.",
+        "單體物理、全體魔法攻擊或是施加狀態異常等，會使用各式各樣攻擊的敵人。<color=255:255:0>毒化射線</color>會對全體隊員附加中毒效果，<color=255:255:0>擾亂者</color>則會讓全體隊員陷入混亂，因此最好有能夠恢復狀態異常的兵員。HP醬到一定程度以下時，會使用從<color=255:255:0>彈藥裝填</color>開始的<color=255:255:0>機槍</color>連續攻擊，因為相當具有威脅性，如果能使用傷害減輕或狀態數值提升的能力，就能較為安心。",
+        "물리 공격, 전체 마법 공격이나 상태이상 부여 등 다양한 공격을 사용하는 적. <color=255:255:0>바이오 블래스터</color>로는 독을, <color=255:255:0>컨퓨저</color>로는 혼란을 파티 전체에 부여하므로, 상태이상을 회복할 수 있는 유닛이 있으면 든든할 것이다. HP가 일정량 이하로 떨어질 때마다 사용하는 <color=255:255:0>탄약 장전</color>의 <color=255:255:0>기관총</color> 연발은 위협적이므로, 피해량 삭감이나 능력치 상승효과가 있는 어빌리티를 사용하면 안심할 수 있다.",
+        "Un ennemi qui fait appel à un grand nombre d'attaques physiques à cible individuelle, d'attaques magiques groupées et d'altérations d'état. Il est notamment capable d'empoisonner le groupe tout entier avec <color=255:255:0>Nuage toxique</color>, ou encore d'infliger confusion à l'aide de  <color=255:255:0>Détraqueur</color>. Assurez-vous donc de disposer d'unités pouvant guérir les altérations d'état. L'<color=255:255:0>Arme automatique</color> conférée par l'aptitude <color=255:255:0>Recharge-balles</color>, qu'il utilise lorsque ses PV tombent en dessous d'un certain seuil, peut asséner des attaques dévastatrices. Par conséquent, il est conseillé d'employer des aptitudes pouvant réduire ses dégâts ou dissiper ses améliorations.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein Gegner, der verschiedene Angriffe verwendet, darunter physische Angriffe auf einzelne Einheiten, magische Angriffe, mit denen er deine gesamte Gruppe treffen kann und Angriffe, mit denen er Zustandsveränderungen erteilen kann. Mit <color=255:255:0>Bioblaster</color> kann er deine gesamte Gruppe vergiften und mit <color=255:255:0>Verwirrer</color> kann er deiner gesamten Gruppe den Zustand Konfus erteilen. Du solltest deshalb eine Einheit dabei haben, die Zustandsveränderungen heilen kann. Sobald seine LP unter einen gewissen Wert fallen, verwendet es zunächst die Fertigkeit <color=255:255:0>Munition Nachladen</color> und greift anschließend mit <color=255:255:0>Automatikgewehr</color>. Dieser Angriff ist überaus stark, weshalb du den gegnerischen Schaden reduzieren oder deine eigenen Attribute erhöhen solltest, um dich darauf vorbereiten."
     ],
     "791080701": [
-        "A tough enemy that uses single target fire, ice and lightning attacks, powerful magic attacks that hit the entire party as well as physical attacks that hit the entire party after being attack buffed. Do note that you will take massive damage if hit with the multi target physical attack, so use abilities that remove status effects when the enemy's power is buffed. Also, it will be much easier to strategize if you can use abilities that debuff stats, so make good use of units that are able to.",
+        "A tough enemy that uses single target fire, ice, and lightning attacks, powerful magic attacks that hit the entire party, as well as physical attacks that hit the entire party after boosting its own ATK. Do note that you will take massive damage if hit with its multi-target physical attacks, so use abilities that remove status effects when the enemy's power is boosted. Also, it will be much easier to strategize if you can use abilities that drain its stats, so make good use of units that have these.",
+        "火・冰・雷屬性的單體攻擊，或是強力的全體魔法攻擊、提升攻擊過後的全體物理攻擊都非常棘手。如果承受了攻擊提升狀態下全體物理攻擊，隊伍將會受到相當大的打擊，因此在敵人提高攻擊的時候，利用解除狀態數值效果的能力來應對吧。此外，如果使用降低狀態數值的能力，將會讓攻略變得更加容易，如果隊伍中存在著這種兵員，就積極的使用吧。",
+        "불, 얼음, 번개속성의 단체공격이나 강력한 전체 마법 공격, 공격력을 상승시킨 후 전체 물리 공격을 사용하는 무척이나 골치 아픈 적. 공격력 상승 상태로 전체 물리 공격을 받게 되면 큰 피해를 입게 되므로, 적이 공격력을 상승시킨 타이밍에 능력치 해제 어빌리티를 사용하도록 하자. 또한, 능력치 감소 효과가 있는 어빌리티를 사용하면 공략이 수월해지므로, 사용할 수 있는 유닛이 있다면 적극적으로 쓰는 것이 좋다.",
+        "Un ennemi tenace qui attaque principalement une cible unique à l'aide d'aptitudes de feu, de glace et de foudre. Il fait également appel à plusieurs sorts capables de frapper toutes vos unités, et peut enfin lancer des attaques physiques ayant le même effet s'il parvient à s'octroyer une amélioration. Attention : les dégâts infligés par son attaque physique à plusieurs cibles sont considérables. Munissez-vous d'aptitudes pouvant dissiper ses améliorations. Notez également que l'usage d'aptitudes pouvant réduire les attributs facilite amplement le combat. Pensez donc à employer des unités ayant accès à de telles attaques.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein extrem gefährlicher Gegner, der einzelne Einheiten mit Feuer-, Eis- und Blitzangriffen attackiert und mächtige magische Angriffe verwendet, mit denen er deine gesamte Gruppe treffen kann. Er verstärkt darüber hinaus seine Angriffswerte und greift danach dann deine gesamte Gruppe mit physischen Angriffen an. Diese Angriffe können gewaltigen Schaden anrichten, weshalb du Fertigkeiten zum Aufheben von Verstärkungen benutzen solltest, sobald der Gegner seine Angriffswerte verstärkt. Wenn du Einheiten dabei hast, die die Attribute des Gegners senken können, solltest du diese effektiv im Kampf einsetzen."
     ],
     "791090301": [
         "An enemy that uses the magic <color=255:255:0>waterga</color> and <color=255:255:0>aeroga</color>. It will inflict poison on the entire team with <color=255:255:0>poison mist</color> after a set number of turns. After that, it will strike those units that were poisoned with instant KO attacks, so prioritize healing poison statuses. It will absorb HP when being hit with special attacks and will absorb MP when hit with its weakness, light attacks, so timing is essential when exploiting its weakness.",
@@ -5273,59 +5273,59 @@
     ],
     "791100301": [
         "An enemy that frequently uses attacks that cause silence, blindness or confusion. It will ramp up its status ailment attacks when its health gets low, so a strategy for avoiding status ailments is needed. Challenge your foe making use of its weakness to fire attacks.",
+        "會頻繁使用沉默、失明、混亂等狀態異常攻擊的敵人。被削減體力後，會增加狀態異常攻擊的次數，因此一定要準備好充分的對策。多利用弱點的火屬性來發動攻勢吧。",
+        "침묵, 암흑, 혼란 상태이상 공격을 수시로 사용하는 적. 체력이 줄어들면 상태이상 공격 횟수가 늘어나므로, 상태이상에 대한 충분한 대책이 필요할 것이다. 약점인 불속성 공격으로 밀어붙이자.",
+        "Un ennemi qui emploie fréquemment des attaques pouvant infliger silence, cécité et confusion. Il a également tendance à user plus fréquemment de ses altérations d'état lorsque ses PV sont bas, ce qui exige de bien se préparer face à de telles attaques. Triomphez de cet adversaire en exploitant sa faiblesse au feu.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein Gegner, der häufig Angriffe verwendet, mit denen er die Zustandsveränderungen Stumm, Blind und Konfus erteilen kann. Sobald seine LP niedrig werden, attackiert er noch häufiger mit diesen Angriffen. Du solltest deshalb Gegenmaßnahmen für diese Zustandsveränderungen bereit halten. Nutze seine Schwäche gegen Feuerangriffe im Kampf zu deinem Vorteil aus."
     ],
     "791110301": [
-        "An enemy that employs various magic such as <color=255:255:0>waterga</color> and <color=255:255:0>meteor</color>. If your SPR is debuffed by <color=255:255:0>demonic threads</color>, magical damage will increase, so be sure to keep your HP and SPR high. You will be able to prevent its magical attacks for a few turns if you manage to silence it, but be careful of the changes in attack patterns.",
+        "An enemy that employs various types of magic, such as <color=255:255:0>waterga</color> and <color=255:255:0>meteor</color>. If it inflicts a drain on your SPR with its <color=255:255:0>demonic threads</color>, its magical damage will increase, so be sure to keep your HP and SPR high. You will be able to prevent its magical attacks for a few turns if you manage to silence it, but be careful of the changes in its attack patterns.",
+        "會施展<color=255:255:0>大流水</color>與<color=255:255:0>隕石</color>等各式各樣魔法的敵人。如果被<color=255:255:0>惡魔絲線</color>降低精神的話，受到的魔法傷害就會增加，所以盡量提高HP與精神吧。雖然讓其陷入沉默狀態，就能夠在數回合內封印住魔法攻擊，但是要注意敵人會因此改變行動模式。",
+        "<color=255:255:0>워터가</color>나 <color=255:255:0>메테오</color> 등 다양한 마법을 사용하는 적. <color=255:255:0>악마의 실</color>에 당해 정신력이 감소하면 마법에 의한 피해량이 증가하므로 HP와 정신력을 되도록 올려놓자. 침묵 상태에 빠뜨리면 몇 턴 동안은 마법을 사용하지 못할 것이다.",
+        "Un ennemi pouvant faire appel à divers sorts, dont <color=255:255:0>Eau X</color> et <color=255:255:0>Météore</color>. Si votre PSY est réduite par <color=255:255:0>Fils démoniaques</color>, les attaques magiques seront d'autant plus efficaces contre vous. Préparez-vous donc à bien maintenir vos PV et votre PSY. Vous pouvez empêcher l'ennemi de lancer ses attaques magiques pendant quelques tours si vous parvenez à lui infliger silence, mais prenez garde aux répercussions que cela peut avoir sur ses tactiques de combat.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein Gegner, der verschiedene magische Angriffe wie <color=255:255:0>Aquaga</color> und <color=255:255:0>Meteo</color> verwendet. Wenn deine PSY durch <color=255:255:0>Dämonenfäden</color> gesenkt werden, wird sich der magische Schaden erhöhen. Du solltest deine LP und PSY deshalb stets in einem hohen Bereich halten. Wenn es dir gelingt, ihm den Zustand Stumm zu erteilen, kannst du ihn für einige Züge daran hindern, seine magischen Angriffe zu verwenden. Nimm dich dann aber vor Änderungen in seinen Angriffsmustern in Acht."
     ],
     "791120301": [
-        "A formidible enemy that uses many physical attacks and buffs. If it uses <color=255:255:0>furiously enraged</color> or <color=255:255:0>angry heart</color>, it will use a powerful move on its next turn that will hit the entire party called<color=255:255:0>rampage</color>. <color=255:255:0>rampage</color> will not be used if you remove buffs from the <color=255:255:0>ettin</color> by <color=255:255:0>dispel</color>, but it will then use <color=255:255:0>pistol shot</color> to remove one unit from battle for a few turns.",
+        "A formidable enemy that uses many physical attacks and buffs. If it uses <color=255:255:0>furiously enraged</color> or <color=255:255:0>angry heart</color>, it will use a powerful move on its next turn that will hit the entire party called<color=255:255:0>rampage</color>. <color=255:255:0>Rampage</color> will not be used if you remove the <color=255:255:0>ettin's</color> status boosts with <color=255:255:0>dispel</color>, but it will then use <color=255:255:0>pistol shot</color> to remove one unit from battle for a few turns.",
+        "會經常使用物理攻擊與自身強化的強敵。如果發動<color=255:255:0>超級生氣</color>與<color=255:255:0>怒火中燒</color>的話，就會在下一回合使用強力的全體攻擊<color=255:255:0>橫衝直撞</color>。雖然使用<color=255:255:0>驅魔</color>等手段消除<color=255:0:0>艾汀</color>身上的強化，就不會使用<color=255:255:0>橫衝直撞</color>，但是相對的會使用<color=255:255:0>撞飛</color>，在數回合內將1名兵員移除戰鬥。",
+        "물리 공격과 자기강화를 사용하는 난적. <color=255:255:0>엄청 화가 났다</color>나 <color=255:255:0>노발대발</color>을 사용한 다음 턴에 강력한 전체공격인 <color=255:255:0>날뛰기</color>를 사용한다. <color=255:255:0>디스펠</color> 등으로 <color=255:0:0>에틴</color>의 강화를 해제하면 <color=255:255:0>날뛰기</color>는 사용하지 않지만, 대신 <color=255:255:0>튕겨내기</color>로 유닛 1명을 몇 턴 동안 전투에서 제외시킨다.",
+        "Un ennemi à la force prodigieuse qui fait appel à de nombreuses attaques physiques et autres handicaps. S'il lance <color=255:255:0>Furieusement enragé</color> ou <color=255:255:0>Cœur en colère</color>, il enchaînera au prochain tour avec <color=255:255:0>Massacrer</color> et attaquera le groupe tout entier. Sachez cependant que si vous utilisez <color=255:255:0>Dissipation</color> pour purger l'effet d'une de ces aptitudes sur <color=255:255:0>Ettin</color> il ne lancera pas <color=255:255:0>Massacrer</color>, mais fera alors appel à <color=255:255:0>Tir de pistolet</color> pour exclure une unité du combat pendant plusieurs tours.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein furchterregender Gegner, der viele physische Angriffe und Verstärkungen benutzt. Wenn er <color=255:255:0>Extrem erzürnt</color> oder <color=255:255:0>Zorniges Herz</color> verwendet, benutzt er im darauf folgenden Zug den mächtigen Angriff <color=255:255:0>Raserei</color>, mit dem er deine gesamte Gruppe treffen kann. Du kannst seine Verstärkung mit Fertigkeiten wie <color=255:255:0>Bann</color> zwar aufheben, so dass es <color=255:255:0>Raserei</color> nicht benutzen kann, es verwendet dann aber ersatzweise die Fertigkeit <color=255:255:0>Wegschnipsen</color>, mit der es eine deiner Einheiten für eine bestimmte Anzahl von Zügen aus dem Kampf entfernen kann."
     ],
     "791130301": [
-        "A troublesome enemy that absorbs HP and MP when it is hit with abilities. It will attempt to confuse the party using <color=255:255:0>confusing tentacle</color>, so it is best to have a strategy to combat status ailments. High defense and a weakness to water. Attack with water based magic such as <color=255:255:0>waterga</color> to fell this foe.",
+        "A troublesome enemy that absorbs HP and MP when it is hit with abilities. It will attempt to confuse the party using <color=255:255:0>confusing tentacle</color>, so it is best to have a strategy to combat status ailments. Although it has a strong defense, it is weak to water, so water based magic such as <color=255:255:0>waterga</color> can be used to fell this foe.",
+        "受到能力造成的攻擊時，就會吸收HP或MP的棘手敵人。為了避免因為<color=255:255:0>混亂觸手</color>陷入混亂狀態，最好準備好對抗狀態異常的對策。因為擁有高防禦力並且弱點是水屬性，所以利用<color=255:255:0>流水</color>等水屬性魔法來發動攻勢吧。",
+        "어빌리티로 공격받게 되면 HP와 MP를 흡수하는 골치아픈 적. <color=255:255:0>혼란 촉수</color>로 인한 혼란에 빠지지 않도록, 상태이상 공격에 대한 대책을 세우는 것이 좋다. 방어력이 높고, 물속성 공격이 약점이므로 <color=255:255:0>워터</color> 등의 물속성 마법으로 공격하도록 하자.",
+        "Un ennemi dangereux capable d'absorber les PV et les PM lorsqu'il subit certaines attaques. Il tentera notamment d'infliger confusion au groupe à l'aide de <color=255:255:0>Tentacule-confusion</color>, ce qui signifie qu'il est préférable de se munir de moyens permettant de dissiper les altérations d'état. Il possède une défense élevée, mais est vulnérable aux attaques d'eau. Il est donc conseillé d'employer des attaques liées à cet élément, comme <color=255:255:0>Eau X</color>, pour terrasser ce monstre.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Ein gefährlicher Gegner, der die LP und MP deiner Einheiten absorbiert, wenn du ihn mit Angriffsfertigkeiten attackierst. Du solltest dich angemessen vorbereiten, damit er nicht mit <color=255:255:0>Verwirrender Tentakel</color> deine Einheiten verwirren kann. Er hat zwar hohe ABW, ist aber schwach gegen Wasser, weshalb du ihn mit Wassermagie wie <color=255:255:0>Aqua</color> angreifen solltest."
     ],
     "791140301": [
-        "The enemy's <color=255:255:0>particle beam</color> that it shoots when its HP drops to a certain levels is very formidable; however, its lightning resistance drops every time it uses it, so it will also be temporarily vulnerable to lightning along with its weakness of water and light. Also, it will regularly use <color=255:255:0>sleeping gas</color>, so having a means to combat sleep is recommended.",
+        "The enemy's <color=255:255:0>particle beam</color> that it shoots when its HP drops to a certain level is very formidable; however, its lightning resistance drops every time it uses it, so it will also be temporarily vulnerable to lightning along with its weakness of water and light. Also, it will regularly use <color=255:255:0>sleeping gas</color>, so having a means to combat sleep is recommended.",
+        "雖然當HP每下降到一個程度就會施放的<color=255:255:0>超波動炮</color>有著相當高的威力，但是使用後會降低自身的雷屬性耐性，因此除了弱點的水與光外，雷屬性也能夠暫時性的發揮效果。此外，每間隔一定時間就會使用<color=255:255:0>催眠瓦斯</color>，必須做好睡眠狀態的對策。",
+        "HP가 일정량 이하로 떨어질 때마다 사용하는 <color=255:255:0>초파동포</color>의 위력은 강력하지만, 사용 직후에 자신의 번개속성 저항력이 감소하므로 약점인 물이나 빛 외에도, 번개속성 공격도 일시적으로 유효해진다. 또한, 일정 간격으로 <color=255:255:0>최면 가스</color>를 사용하므로, 수면에 대한 대책도 필수적으로 세워 두자.",
+        "L'attaque <color=255:255:0>Canon-particules</color> que l'ennemi emploie lorsque ses PV tombent en dessous de certains seuils peut infliger des dégâts considérables, mais réduit également sa résistance à la foudre à chaque utilisation. Cette faiblesse temporaire vient s'ajouter à sa vulnérabilité à l'eau et à la lumière. Tâchez aussi de vous méfier de son attaque <color=255:255:0>Somni-gaz</color>, qu'il lance régulièrement. Munissez-vous de moyens vous permettant de contrer le sommeil.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Dieser Gegner verwendet <color=255:255:0>Partikelstrahl</color>, sobald seine LP unter einen gewissen Wert sinken. Der Angriff ist zwar überaus mächtig, aber unmittelbar nach dem Angriff sinkt seine Resistenz gegen Blitzschaden. Nutze diese temporäre Schwäche zusammen mit seiner Schwäche gegen Wasser- und Lichtschaden zu deinem Vorteil aus aus. Da er außerdem alle paar Züge mit <color=255:255:0>Schlafgas</color> angreift, solltest du entsprechende Gegenmittel bereithalten."
     ],
     "791150301": [
-        "The <color=255:0:0>leanan-sidhe</color> will drain HP every turn as well as buff the <color=255:0:0>queen wasp</color>. The <color=255:0:0>leanan-sidhe</color> will make heavy use of fire magic such as <color=255:255:0>fira</color> and <color=255:255:0>firaga</color>, so it is best to increase your party's fire resistance. Your foe is strong, but strike them down with their weakness to ice attacks.",
+        "The <color=255:0:0>leanan-sidhe</color> will drain HP every turn as well as cast status boosting effects on the <color=255:0:0>queen wasp</color>. The <color=255:0:0>leanan-sidhe</color> will make heavy use of fire magic such as <color=255:255:0>fira</color> and <color=255:255:0>firaga</color>, so it is best to increase your party's fire resistance. Your foe is strong, but strike it down with its weakness to ice attacks.",
+        "每回合會吸收HP，並強化<color=255:0:0>女王蜂</color>的棘手<color=255:0:0>里南希</color>。<color=255:0:0>里南希</color>會經常使用<color=255:255:0>中火焰</color>或<color=255:255:0>大火焰</color>等火屬性魔法，盡量提高火屬性耐性才是上策。雖然是強力的敵人，但還是能利用弱點的冰屬性讓攻擊發揮效果。",
+        "매 턴마다 HP를 흡수하고, <color=255:0:0>퀸 와스프</color>를 강화해 주는 골치아픈 적 <color=255:0:0>랴논시</color>. <color=255:0:0>랴논시</color>는 <color=255:255:0>파이라</color>나 <color=255:255:0>파이가</color> 등의 불속성 마법을 사용하므로, 불속성 저항력을 올려두는 것이 좋다. 강한 적이지만 약점인 얼음속성 공격으로 밀어붙이면 한결 수월하게 전투할 수 있다.",
+        "Le <color=255:0:0>Leanan-Sidhe</color> siphonne vos PV à chaque tour et renforce également la <color=255:0:0>reine guêpe</color>. Le <color=255:0:0>Leanan-Sidhe</color> fait appel à un large arsenal d'attaques de feu, comme <color=255:255:0>Feu +</color> et <color=255:255:0>Feu X</color>, de sorte qu'il est conseillé de renforcer votre résistance à cet élément. Il s'agit d'un adversaire à ne pas sous-estimer, mais qu'il est néanmoins possible de vaincre en exploitant sa faiblesse à la glace.",
         null,
-        null,
-        null,
-        null,
-        null
+        "<color=255:0:0>Leanan-Sid</color> absorbiert jeden Zug LP von deinen Einheiten und verstärkt zudem die Attribute der <color=255:0:0>Königswespe</color>. Da <color=255:0:0>Leanan-Sid</color> häufig mit Feuermagie wie <color=255:255:0>Feura</color> und <color=255:255:0>Feuga</color> angreift, solltest du die Feuerresistenzen deiner Einheiten erhöhen. Er ist zwar ein starker Gegner, aber du kannst ihn erledigen, wenn du seine Schwäche gegen Eisangriffe ausnutzt."
     ],
     "791160301": [
-        "A tough enemy that acts more often the lower its HP gets. It is recommended to refrain from attacking all of them at once and instead attack them one at a time. Be aware of their attacks that cause paralysis and blind and be sure not to forget to have cures for each. Defeat your enemy with lightning attacks, its weakness.",
+        "A tough enemy that acts more often the lower its HP gets. It is recommended to refrain from attacking all of them at once and instead attack them one at a time. Be aware of their attacks that cause paralysis and blind, and be sure not to forget to bring items to remove each of those ailments. Defeat your enemy with lightning attacks, its weakness.",
+        "HP越低行動次數就會越多的棘手敵人。盡量避免全體攻擊，集中攻擊一的地方，盡量將被害控制在最小限度來進行戰鬥吧。由於敵人也會使用麻痺攻擊或失明攻擊，也別忘了做好狀態異常的對策。利用弱點的雷屬性能讓攻擊發揮效果。",
+        "HP가 줄어들면 줄어들수록 행동 횟수가 늘어나는 성가신 적. 전체공격은 피하고, 한 군데씩 대미지를 주며 쓰러뜨려 피해를 최소화하도록 하자. 마비와 암흑을 부여하기도 하므로, 상태이상에 대한 대책도 잊지 않도록 하자. 약점인 번개속성 공격이 유효할 것이다.",
+        "Un ennemi robuste qui prend de plus en plus l'initiative à mesure que ses PV descendent. Il est recommandé de ne pas attaquer plusieurs de ces créatures simultanément, et de se concentrer individuellement sur chacune d'entre elles. Méfiez-vous de leurs attaques pouvant infliger paralysie et cécité, et assurez-vous de vous munir de remèdes pour chacune de ces altérations. Terrassez cet adversaire à l'aide d'attaques de foudre, l'élément contre lequel il est faible.",
         null,
-        null,
-        null,
-        null,
-        null
+        "Gefährliche Gegner, die umso häufiger angreifen, je niedriger ihre LP sind. Um ihren Schaden im Kampf möglichst gering zu halten, solltest du sie nicht alle gleichzeitig angreifen und ihnen stattdessen jeweils einzeln Schaden zufügen. Da sie mit ihren Angriffen auch deine Einheiten paralysieren und blenden können, solltest du daran denken, entsprechende Gegenmittel für diese Zustandsveränderungen bereitzuhalten. Nutze ihre Schwäche gegen Blitzangriffe zu deinem Vorteil aus."
     ],
     "792010101": [
         "Because attack debuffs are quite troublesome, it is wise to use multiple attack units. Also, be wary of its powerful single unit fire magic. Have ample means to heal yourself.",

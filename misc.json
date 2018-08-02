@@ -1599,14 +1599,6 @@
         "Kristalltruhe der Erhabenheit",
         "Cofre de la majestuosidad"
     ],
-    "CTIONARY_NAME_1051110": [
-        "Aldore Bladed Soldier",
-        "阿爾多爾劍鬥兵",
-        "알도르 검투병",
-        "Soldat à épée d'Aldore",
-        "Aldore-Klingensoldat",
-        "Soldado con espada de Aldore"
-    ],
     "DAILY_QUEST_CLAIM_ALL_PROMPT": [
         "Claim all completed quest rewards?",
         "要領取所有任務完成報酬嗎？",
@@ -2394,7 +2386,7 @@
     "EQUIP_NG_REQUIRED_EQUIPMENT": [
         "Usable when equipping <color=255:255:0>item_name</color>.",
         "裝備<color=255:255:0>item_name</color>時可以使用",
-        "<color=255:255:0>item_name</color> 합성 시에 사용 가능",
+        "<color=255:255:0>item_name</color> 장착 시에 사용 가능",
         "Utilisable quand \"<color=255:255:0>item_name</color>\" est équipé(e).",
         "Benutzbar, wenn <color=255:255:0>item_name</color> ausgerüstet ist.",
         "Se puede usar al equiparse con <color=255:255:0>item_name</color>."
@@ -3342,6 +3334,22 @@
         "Profitez de vos bonus de connexion du 2e anniversaire, kupo !",
         "Genieße deine Belohnung zum 2-Jahres-Jubiläum Anmeldebonus, kupo!",
         "¡Disfruta de tu recompensa de bonificación de inicio de sesión de 2º aniversario, kupó!"
+    ],
+    "EXPLAIN_REWARD_1010": [
+        "Here are today's login rewards! And don't forget about the \"5% Rainbow Free Daily Summon,\" kupo!",
+        "今日登入報酬！別忘了「彩虹水晶機率5%(免費每日召喚)」，庫啵！",
+        "오늘의 출석 보상쿠포! '★5 확률 5% 무료 일일 소환'을 잊지마쿠포!",
+        "Voici vos récompenses de connexion pour aujourd'hui ! Et n'oubliez pas l'invocation arc-en-ciel quotidienne gratuite à 5%, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen! Und vergiss nicht die \"Kostenlose Tägliche 5% Regenbogen Beschwörung\", kupo!",
+        "¡Aquí tienes las recompensas de inicio de sesión de hoy! ¡Y no te olvides de la invocación arcoíris diaria gratuita de 5%, kupó!"
+    ],
+    "EXPLAIN_REWARD_1011": [
+        "Here are today's login rewards! And don't forget about the \"5% Rainbow Free Daily Summon,\" kupo!",
+        "今日登入報酬！別忘了「彩虹水晶機率5%(免費每日召喚)」，庫啵！",
+        "오늘의 출석 보상쿠포! '★5 확률 5% 무료 일일 소환'을 잊지마쿠포!",
+        "Voici vos récompenses de connexion pour aujourd'hui ! Et n'oubliez pas l'invocation arc-en-ciel quotidienne gratuite à 5%, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen! Und vergiss nicht die \"Kostenlose Tägliche 5% Regenbogen Beschwörung\", kupo!",
+        "¡Aquí tienes las recompensas de inicio de sesión de hoy! ¡Y no te olvides de la invocación arcoíris diaria gratuita de 5%, kupó!"
     ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
@@ -5855,6 +5863,22 @@
         "FINAL FANTASY BRAVE EXVIUS begeht sein zweijähriges Jubiläum! Bitte nimm diese Kleinigkeit als Zeichen unserer Dankbarkeit an!",
         "¡FINAL FANTASY BRAVE EXVIUS celebra su 2º aniversario! ¡Acepta esto como muestra de nuestro aprecio!"
     ],
+    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1010": [
+        "FFVIII Special Login Bonus Reward",
+        "FFVIII 特別登入獎勵",
+        "FFVIII 스페셜 출석 보상",
+        "Récompense du bonus de connexion spécial FFVIII",
+        "Spezieller FFVIII Anmeldebonus: Belohnung",
+        "Recompensa de bonificación especial de inicio de sesión de FFXVIII"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1011": [
+        "7★ Arrival Celebration Bonus Reward",
+        "★7 覺醒解放慶祝獎勵",
+        "★7 등장 기념 보상",
+        "Récompense du bonus de célébration de l'éveil 7★",
+        "7★Ankunft-Feierbonus: Belohnung",
+        "Recompensa de bonificación de celebración de llegada 7★"
+    ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
         "Special Daily Login",
         "每日特別登入",
@@ -5926,6 +5950,22 @@
         "Bonus de connexion du 2e anniversaire",
         "2-Jahres-Jubiläum Anmeldebonus",
         "Bonificación de inicio de sesión de 2º aniversario"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1010": [
+        "FFVIII Special Login Bonus",
+        "FFVIII 特別登入獎勵",
+        "FFVIII 스페셜 출석 보상",
+        "Bonus de connexion spécial FFVIII",
+        "Spezieller FFVIII Anmeldebonus",
+        "Bonificación especial de inicio de sesión de FFXVIII"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1011": [
+        "7★ Arrival Celebration Bonus",
+        "★7 覺醒解放慶祝獎勵",
+        "★7 등장 기념 보상",
+        "Bonus de célébration de l'éveil 7★",
+        "7★Ankunft-Feierbonus",
+        "Bonificación de celebración de llegada 7★"
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -10469,7 +10509,7 @@
         "<color=255:165:0><param=player_name></color> 님이 트러스트 마스터 '<color=255:255:0><param=reward_name></color>'을(를) 획득!",
         "<color=255:165:0><param=player_name></color> a obtenu la récompense de confiance absolue \"<color=255:255:0><param=reward_name></color>\" !",
         "<color=255:165:0><param=player_name></color> hat die Wahre-Treue-Belohnung \"<color=255:255:0><param=reward_name></color>\" erhalten!",
-        "<color=255:165:0>¡<param=player_name></color> consiguió la \"<color=255:255:0><param=reward_name> maestro fiel</color>\"!"
+        "<color=255:165:0>¡<param=player_name></color> consiguió la recompensa maestro fiel \"<color=255:255:0><param=reward_name></color>\"!"
     ],
     "MST_TICKERLOG_MSGFORMAT_3": [
         "<color=255:165:0><param=player_name></color> awakened <color=255:255:0><param=unit_name></color> to <color=255:255:0><param=rarity>★</color>!",
@@ -10502,6 +10542,14 @@
         "<color=255:165:0><param=player_name></color> a terminé <color=255:255:0><param=mission_name></color> !",
         "<color=255:165:0><param=player_name></color> hat <color=255:255:0><param=mission_name></color> abgeschlossen!",
         "<color=255:165:0>¡<param=player_name></color> completó <color=255:255:0><param=mission_name></color> !"
+    ],
+    "MST_TICKERLOG_MSGFORMAT_7": [
+        "<color=255:165:0><param=player_name></color> obtained the super trust master <color=255:255:0><param=reward_name></color>!",
+        "<color=255:165:0><param=player_name></color>獲得了超級信賴度滿點報酬「<color=255:255:0><param=reward_name></color>」！",
+        "<color=255:165:0><param=player_name></color> 님이 슈퍼 트러스트 마스터 '<color=255:255:0><param=reward_name></color>'을(를) 획득!",
+        "<color=255:165:0><param=player_name></color> a obtenu la récompense de super confiance absolue \"<color=255:255:0><param=reward_name></color>\" !",
+        "<color=255:165:0><param=player_name></color> hat die Super-Treue-Belohnung \"<color=255:255:0><param=reward_name></color>\" erhalten!",
+        "<color=255:165:0>¡<param=player_name></color> consiguió la recompensa supermaestro fiel \"<color=255:255:0><param=reward_name></color>\"!"
     ],
     "MST_TICKER_BEAST_BOARD": [
         "Use SP to enhance your esper.",
@@ -13899,14 +13947,14 @@
         "all magic types",
         null,
         null,
-        "Tous types de magie",
+        "tous types de magie",
         null,
         "todo tipo de magias"
     ],
     "SG_MAGIC_TYPE_BLACK": [
         "black magic",
         null,
-        null,
+        "Magie noire",
         "magie noire",
         null,
         "magia negra"
@@ -13914,7 +13962,7 @@
     "SG_MAGIC_TYPE_GREEN": [
         "green magic",
         null,
-        null,
+        "Magie verte",
         "magie verte",
         null,
         "magia verde"
@@ -13922,7 +13970,7 @@
     "SG_MAGIC_TYPE_WHITE": [
         "white magic",
         null,
-        null,
+        "Magie blanche",
         "magie blanche",
         null,
         "magia blanca"
@@ -15420,7 +15468,7 @@
         "超級",
         "슈퍼",
         "Super",
-        "Super",
+        "Super-",
         "Súper"
     ],
     "SUPER_AFFINITY_REWARD_MAIL_MSG": [
@@ -15438,6 +15486,14 @@
         "Récompense spéciale pour avoir fait fusionner votre %s (%d★) !",
         "Besondere Belohung für das Fusionieren von %s (%d★)!",
         "¡Recompensa especial por fusionar tu %s (%d★)!"
+    ],
+    "SUPER_UNIT_BONDS_MASTER_REWARD": [
+        "Super Trust Master Reward",
+        "超級信賴度滿點報酬",
+        "슈퍼 트러스트 마스터 보상",
+        "Récompense de Super confiance absolue",
+        "Super-Treue-Belohnung",
+        "Recompensa Supermaestro Fiel"
     ],
     "SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TEXT": [
         "You can erase interrupted quest data and return to the home screen.<br>By erasing interrupted quest data, you will lose all <color=255:255:0>units, items, and gil</color> that you obtained during the quest.<br>During equipment enhancement events this will count as giving up, and <color=255:255:0>all acquired abilities</color> will be reset.<br><br>Do you wish to erase the data?",
@@ -16181,7 +16237,7 @@
         "트러스트마스터 보상",
         "Récompense de confiance absolue",
         "Wahre-Treue-Belohnung",
-        "Recompensas Maestro Fiel"
+        "Recompensa Maestro Fiel"
     ],
     "UNIT_CLASSUP": [
         "Awaken Unit",
@@ -16448,20 +16504,20 @@
         "<color=255:255:0>¡Último aviso!</color>"
     ],
     "UNIT_MIX_CONFIRM_GOT_SPECIAL_REWARD": [
-        "You can receive a <color=255:255:0><param=unit_name></color> as a <color=255:255:0>special reward</color> only the first time you fuse an identical unit to your base 7★ unit.<br><br>The base unit has <color=255:255:0>already received</color> its <color=255:255:0>special reward</color>.<br>Proceed with fusion?",
-        "第一次使用與★7兵員同種類的兵員當作素材進行合成時，能夠獲得<color=0:255:0>特別報酬</color><color=255:255:0><param=unit_name></color>。<br> <br>欲強化之兵員<color=255:255:0>已經獲得</color><color=0:255:0>特別報酬</color>。<br>是否進行合成？",
-        "★7 유닛 중, 같은 종류의 유닛을 재료로 합성하면 첫 번째에 한하여 <color=0:255:0>특별 보상</color>으로 <color=255:255:0><param=unit_name></color>을(를) 획득할 수 있습니다.<br> <br>베이스 유닛은 이미 <color=0:255:0>특별 보상</color>을 <color=255:255:0>획득 완료</color>했습니다.<br> <br>이대로 합성을 진행하시겠습니까?",
-        "Vous pouvez recevoir \"<color=255:255:0><param=unit_name></color>\" en <color=255:255:0>récompense spéciale</color> uniquement pour votre première utilisation d'une unité identique à votre unité de base 7★ comme matériau de fusion.<br><br>L'unité de base a <color=255:255:0>déjà reçu</color> sa <color=255:255:0>récompense spéciale</color>.<br>Continuer malgré tout ?",
-        "Du kannst <color=255:255:0><param=unit_name></color> als eine <color=255:255:0>besondere Belohnung</color> nur beim ersten Mal erhalten, wenn du eine identische Einheit mit deiner 7★ Basiseinheit fusionierst.<br><br>Die Basiseinheit <color=255:255:0>hat bereits</color> ihre <color=255:255:0>besondere Belohnung</color> erhalten.<br>Mit der Fusion fortfahren?",
-        "Solo puedes conseguir <color=255:255:0><param=unit_name></color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>La unidad base <color=255:255:0>ya ha recibido</color> su <color=255:255:0>recompensa especial</color>.<br>¿Quieres continuar con la fusión?"
+        "You can receive a <color=255:255:0>Trust Moogle (All 50%)</color> as a <color=255:255:0>special reward</color> only the first time you fuse an identical unit to your base 7★ unit.<br><br>The base unit has <color=255:255:0>already received</color> its <color=255:255:0>special reward</color>.<br>Proceed with fusion?",
+        "第一次使用與★7兵員同種類的兵員當作素材進行合成時，能夠獲得<color=0:255:0>特別報酬</color><color=255:255:0>信賴度莫古利(All 50%)</color>。<br> <br>欲強化之兵員<color=255:255:0>已經獲得</color><color=0:255:0>特別報酬</color>。<br>是否進行合成？",
+        "★7 베이스 유닛과 동일한 종류의 유닛을 재료로 합성하면 첫 번째에 한해 <color=0:255:0>특별 보상</color>으로 <color=255:255:0>트러스트 모그리(All 50%)</color>을(를) 획득할 수 있습니다.<br> <br>베이스 유닛은 이미 <color=0:255:0>특별 보상</color>을 <color=255:255:0>획득</color>했습니다.<br> <br>이대로 합성을 진행하시겠습니까?",
+        "Vous pouvez recevoir un \"<color=255:255:0>Mog de confiance (Tout 50%)</color>\" en <color=255:255:0>récompense spéciale</color> uniquement pour votre première utilisation d'une unité identique à votre unité de base 7★ comme matériau de fusion.<br><br>L'unité de base a <color=255:255:0>déjà reçu</color> sa <color=255:255:0>récompense spéciale</color>.<br>Continuer malgré tout ?",
+        "Du kannst <color=255:255:0>Treuemogry (Alle 50%)</color> als eine <color=255:255:0>besondere Belohnung</color> nur beim ersten Mal erhalten, wenn du eine identische Einheit mit deiner 7★ Basiseinheit fusionierst.<br><br>Die Basiseinheit <color=255:255:0>hat bereits</color> ihre <color=255:255:0>besondere Belohnung</color> erhalten.<br>Mit der Fusion fortfahren?",
+        "Puedes conseguir <color=255:255:0>un moguri especial (50% a todos)</color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>La unidad base <color=255:255:0>ya ha recibido</color> su <color=255:255:0>recompensa especial</color>.<br>¿Quieres continuar con la fusión?"
     ],
     "UNIT_MIX_CONFIRM_IMPOSSIBLE_SPECIAL_REWARD": [
-        "You can receive a <color=255:255:0><param=unit_name></color> as a <color=255:255:0>special reward</color> only the first time you fuse an identical unit to your base 7★ unit.<br><br><color=255:255:0>This fusion is not eligible </color>for the <color=255:255:0>special reward</color> as you have not included the required materials.<br>Proceed with fusion?",
-        "第一次使用與★7兵員同種類的兵員當作素材進行合成時，能夠獲得<color=0:255:0>特別報酬</color><color=255:255:0><param=unit_name></color>。<br> <br>合成素材中沒有滿足獲得<color=0:255:0>特別報酬</color>條件的素材，因此<color=255:255:0>無法獲得</color>。<br>是否進行合成？",
-        "★7 유닛 중, 같은 종류의 유닛을 재료로 합성하면 첫 번째에 한하여 <color=0:255:0>특별 보상</color>으로 <color=255:255:0><param=unit_name></color>을(를) 획득할 수 있습니다. <br> <br><color=0:255:0>특별 보상</color> 획득 조건을 만족하는 재료가 포함되어 있지 않으므로 <color=255:255:0>획득하실 수 없습니다</color>. <br> <br>이대로 합성을 진행하시겠습니까?",
-        "Vous pouvez recevoir \"<color=255:255:0><param=unit_name></color>\" en <color=255:255:0>récompense spéciale</color> uniquement pour votre première utilisation d'une unité identique à votre unité de base 7★ comme matériau de fusion.<br><br><color=255:255:0>Vous ne pouvez pas recevoir</color> de <color=255:255:0>récompense spéciale</color>, car vous n'avez pas inclus les matériaux requis.<br>Continuer malgré tout ?",
-        "Du kannst <color=255:255:0><param=unit_name></color> als eine <color=255:255:0>besondere Belohnung</color> nur beim ersten Mal erhalten, wenn du eine identische Einheit mit deiner 7★ Basiseinheit fusionierst.<br><br>Der Erhalt einer <color=255:255:0>besonderen Belohnung</color> ist mit dieser Fusion <color=255:255:0>nicht möglich</color>, da die benötigten Materialien nicht enthalten sind.<br>Mit der Fusion fortfahren?",
-        "Solo puedes conseguir <color=255:255:0><param=unit_name></color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>Esta fusión no cuenta de cara a la <color=255:255:0>la recompensa especial</color> puesto que no incluye los materiales requeridos.<br>¿Quieres continuar con la fusión?"
+        "You can receive a <color=255:255:0>Trust Moogle (All 50%)</color> as a <color=255:255:0>special reward</color> only the first time you fuse an identical unit to your base 7★ unit.<br><br><color=255:255:0>This fusion is not eligible </color>for the <color=255:255:0>special reward</color> as you have not included the required materials.<br>Proceed with fusion?",
+        "第一次使用與★7兵員同種類的兵員當作素材進行合成時，能夠獲得<color=0:255:0>特別報酬</color><color=255:255:0>信賴度莫古利(All 50%)</color>。<br> <br>合成素材中沒有滿足獲得<color=0:255:0>特別報酬</color>條件的素材，因此<color=255:255:0>無法獲得</color>。<br>是否進行合成？",
+        "★7 베이스 유닛과 동일한 종류의 유닛을 재료로 합성하면 첫 번째에 한해 <color=0:255:0>특별 보상</color>으로 <color=255:255:0>트러스트 모그리(All 50%)</color>을(를) 획득할 수 있습니다. <br> <br>합성 진행 시 <color=0:255:0>특별 보상</color> 획득 조건을 만족하는 재료가 포함되어 있지 않아 <color=255:255:0>특별 보상을 획득할 수 없습니다</color>. <br> <br>이대로 합성을 진행하시겠습니까?",
+        "Vous pouvez recevoir un \"<color=255:255:0>Mog de confiance (Tout 50%)</color>\" en <color=255:255:0>récompense spéciale</color> uniquement pour votre première utilisation d'une unité identique à votre unité de base 7★ comme matériau de fusion.<br><br><color=255:255:0>Cette fusion ne vous permet pas de bénéficier</color> de la <color=255:255:0>récompense spéciale</color>, car vous n'avez pas inclus les matériaux requis.<br>Continuer malgré tout ?",
+        "Du kannst <color=255:255:0>Treuemogry (Alle 50%)</color> als eine <color=255:255:0>besondere Belohnung</color> nur beim ersten Mal erhalten, wenn du eine identische Einheit mit deiner 7★ Basiseinheit fusionierst.<br><br>Der Erhalt einer <color=255:255:0>besonderen Belohnung</color> ist mit dieser Fusion <color=255:255:0>nicht möglich</color>, da die benötigten Materialien nicht enthalten sind.<br>Mit der Fusion fortfahren?",
+        "Puedes conseguir <color=255:255:0>un moguri especial (50% a todos)</color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>Esta fusión no cuenta de cara a la <color=255:255:0>la recompensa especial</color> puesto que no incluye los materiales requeridos.<br>¿Quieres continuar con la fusión?"
     ],
     "UNIT_MIX_CONFIRM_MATERIAL_SUPER_TRUST_MASTER": [
         "A material unit has already obtained the super trust master reward, <color=255:165:0><param=trust_name></color>. Trust for <color=255:165:0><param=trust_name></color> <color=255:255:0>will not be obtained</color> from units that have already obtained it.<br><br>Proceed with fusion?",
@@ -16504,12 +16560,12 @@
         "<color=255:255:0>No se conseguirá</color> fidelidad para <color=0:255:0><param=trust_name></color> al no tener la unidad base capacidad para ello.<br><br>¿Quieres continuar con la fusión?"
     ],
     "UNIT_MIX_CONFIRM_POSSIBLE_SPECIAL_REWARD": [
-        "You can receive a <color=255:255:0><param=unit_name></color> as a <color=255:255:0>special reward</color> only the first time you fuse an identical unit to your base 7★ unit.<br><br>This fusion is eligible for the <color=255:255:0>special reward</color>.<br>Proceed with fusion?",
-        "第一次使用與★7兵員同種類的兵員當作素材進行合成時，能夠獲得<color=0:255:0>特別報酬</color><color=255:255:0><param=unit_name></color>。<br> <br><color=255:255:0>可以獲得</color><color=0:255:0>特別報酬</color>。<br>是否進行合成？",
-        "★7 유닛 중, 같은 종류의 유닛을 재료로 합성하면 첫 번째에 한하여 <color=0:255:0>특별 보상</color>으로 <color=255:255:0><param=unit_name></color>을(를) 획득할 수 있습니다. <br> <br><color=0:255:0>특별 보상</color>을 <color=255:255:0>획득할 수 있습니다</color>.<br> <br>이대로 합성을 진행하시겠습니까?",
-        "Vous pouvez recevoir \"<color=255:255:0><param=unit_name></color>\" en <color=255:255:0>récompense spéciale</color> uniquement pour votre première utilisation d'une unité identique à votre unité de base 7★ comme matériau de fusion.<br><br>Vous pouvez recevoir une <color=255:255:0>récompense spéciale</color>.<br>Continuer la fusion ?",
-        "Du kannst <color=255:255:0><param=unit_name></color> als eine <color=255:255:0>besondere Belohnung</color> nur beim ersten Mal erhalten, wenn du eine identische Einheit mit deiner 7★ Basiseinheit fusionierst.<br><br>Mit dieser Fusion ist der Erhalt einer<color=255:255:0>besonderen Belohnung</color> möglich.<br>Mit der Fusion fortfahren?",
-        "Solo puedes conseguir <color=255:255:0><param=unit_name></color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>Esta fusión cuenta para <color=255:255:0>la recompensa especial</color>.<br>¿Quieres continuar con la fusión?"
+        "You can receive a <color=255:255:0>Trust Moogle (All 50%)</color> as a <color=255:255:0>special reward</color> only the first time you fuse an identical unit to your base 7★ unit.<br><br>This fusion is eligible for the <color=255:255:0>special reward</color>.<br>Proceed with fusion?",
+        "第一次使用與★7兵員同種類的兵員當作素材進行合成時，能夠獲得<color=0:255:0>特別報酬</color><color=255:255:0>信賴度莫古利(All 50%) </color>。<br> <br><color=255:255:0>可以獲得</color><color=0:255:0>特別報酬</color>。<br>是否進行合成？",
+        "★7 베이스 유닛과 동일한 종류의 유닛을 재료로 합성하면 첫 번째에 한해 <color=0:255:0>특별 보상</color>으로 <color=255:255:0>트러스트 모그리(All 50%)</color>을(를) 획득할 수 있습니다. <br> <br>합성 진행 시 <color=0:255:0>특별 보상</color>을 <color=255:255:0>획득할 수 있습니다</color>.<br> <br>이대로 합성을 진행하시겠습니까?",
+        "Vous pouvez recevoir un \"<color=255:255:0>Mog de confiance (Tout 50%)</color>\" en <color=255:255:0>récompense spéciale</color> uniquement pour votre première utilisation d'une unité identique à votre unité de base 7★ comme matériau de fusion.<br><br>Cette fusion vous permet de bénéficier de la <color=255:255:0>récompense spéciale</color>.<br>Continuer la fusion ?",
+        "Du kannst <color=255:255:0>Treuemogry (Alle 50%)</color> als eine <color=255:255:0>besondere Belohnung</color> nur beim ersten Mal erhalten, wenn du eine identische Einheit mit deiner 7★ Basiseinheit fusionierst.<br><br>Mit dieser Fusion ist der Erhalt einer<color=255:255:0>besonderen Belohnung</color> möglich.<br>Mit der Fusion fortfahren?",
+        "Puedes conseguir <color=255:255:0>un moguri especial (50% a todos)</color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>Esta fusión cuenta para <color=255:255:0>la recompensa especial</color>.<br>¿Quieres continuar con la fusión?"
     ],
     "UNIT_MIX_CONFIRM_RARE": [
         "<color=255:255:0>One or more <param=rare>★ or rarer non-enhancer units have been selected as material units. They will <color=255: 0: 0>disappear</color> upon fusion.<br>Fuse anyway?",
@@ -16544,12 +16600,12 @@
         "<color=255:255:0>Materiales que excederán el valor de maestro fiel máximo</color> han sido incluídos.<br>Todos valores sobre el límite <color=255:255:0>serán borrados</color>. ¿Quieres continuar con la fusión?"
     ],
     "UNIT_MIX_GET_SPECIAL_REWARD": [
-        "Received <color=255:255:0><param=unit_name></color><br>as a special reward.<br>Rewards will be sent to your message box.",
-        "獲得了特別報酬<br><color=255:255:0><param=unit_name></color>。<br>報酬將以遊戲內信件寄送。",
-        "특별 보상으로<br><color=255:255:0><param=unit_name></color>을(를) 획득했습니다.<br>달성 보상은 메시지함으로 지급됩니다.",
-        "Récompense spéciale reçue : <color=255:255:0><param=unit_name></color><br>.<br>Les récompenses seront envoyées dans votre messagerie.",
-        "Du hast <color=255:255:0><param=unit_name></color><br> als besondere Belohnung erhalten.<br>Belohnungen werden in deinem Posteingang hinterlegt.",
-        "Se ha recibido <color=255:255:0><param=unit_name></color><br>una recompensa especial.<br>Las recompensas se enviarán al buzón."
+        "Received <color=255:255:0>Trust Moogle (All 50%)</color><br>as a special bonus.<br>Rewards will be sent to your message box.",
+        "獲得了特別報酬<br><color=255:255:0>信賴度莫古利(All 50%)</color>。<br>報酬將以遊戲內信件寄送。",
+        "특별 보상으로<br><color=255:255:0>트러스트 모그리(All 50%)</color>을(를) 획득했습니다.<br>보상은 메시지함으로 지급됩니다.",
+        "Récompense spéciale reçue : <color=255:255:0>Mog de confiance (Tout 50%)</color><br>.<br>Les récompenses seront envoyées dans votre messagerie.",
+        "Du hast <color=255:255:0>Treuemogry (ALLE 50%)</color><br> als besondere Belohnung erhalten.<br>Belohnungen werden in deinem Posteingang hinterlegt.",
+        "Se ha recibido <color=255:255:0>un moguri fiel (50% a todos)</color> como recompensa especial<br>.<br>Las recompensas se enviarán al buzón."
     ],
     "UNIT_MIX_LABEL": [
         "When Fused",
@@ -17246,14 +17302,6 @@
         "Votre groupe est de retour de son expédition. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Gruppe ist von ihrer Expedition zurückgekehrt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tu grupo ha regresado de su expedición. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
-    ],
-    "iant Gingerbread Man": [
-        "薑餅巨人",
-        "거대 진저맨",
-        "Bonhomme d'épices géant",
-        "Riesiger Lebkuchenmann",
-        "Hombre de jengibre gigante",
-        null
     ],
     "raid_pn": [
         "Your raid orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",

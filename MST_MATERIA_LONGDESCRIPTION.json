@@ -3440,12 +3440,12 @@
         "Aumenta los VIT un 20% y la ESP un 40%, la barra de EL se llena cada turno. (no acumulable)"
     ],
     "504226639": [
-        "Fill LB gauge each turn and boost LB damage.",
-        "每回合增加極限技槽，並提高極限技的威力。",
-        "매 턴마다 LB 게이지가 증가하고, LB의 피해량이 상승합니다.",
-        "Remplit la jauge de limite à chaque tour et augmente les dégâts de la limite.",
-        "Füllt jede Runde Limitmeter und erhöht Schaden durch Limitrausch.",
-        "Rellena la barra de EL cada turno y aumenta el daño de EL"
+        "Fill LB gauge each turn and boost LB damage. Not stackable.",
+        "每回合增加極限技槽，並提高極限技的威力[無法重複裝備]。",
+        "매 턴마다 LB 게이지가 증가하고, LB의 피해량이 상승합니다. (중복 장착 불가)",
+        "Remplit la jauge de limite à chaque tour et augmente les dégâts de la limite. Non cumulable.",
+        "Füllt jede Runde Limitmeter und erhöht Schaden durch Limitrausch (nicht stapelbar).",
+        "Rellena la barra de EL cada turno y aumenta el daño de EL (no acumulable)."
     ],
     "504226653": [
         "Nullify poison, blind, sleep, silence, paralysis, confusion, disease, stone, boost charm resistance, boost fire, ice, lightning, and wind resistance by 60%.",
@@ -3455,21 +3455,45 @@
         "Annulliert Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein und erhöht Resistenz gegen Bezaubern sowie Feuer-, Eis-, Blitz- und Windresistenz um 60%.",
         "Anula veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, aumenta la resistencia contra embrujo, y la resistencia al fuego, hielo, rayo y viento un 60%"
     ],
+    "504226880": [
+        "Damages caster every turn and boosts ATK by 80%. Not stackable.",
+        "每回合對自身造成傷害，並提高80%攻擊 [無法重複裝備]。",
+        "매 턴마다 자신에게 피해를 주고, 공격력이 80% 상승합니다. (중복 장착 불가)",
+        "Inflige des dégâts au lanceur à chaque tour et augmente l'ATT de 80%. Non cumulable.",
+        "Fügt dem Benutzer jede Runde Schaden zu und erhöht seinen ANG um 80% (nicht stapelbar),",
+        "Daña al usuario cada turno y aumenta el ATQ un 80%. (no acumulable)"
+    ],
+    "504226881": [
+        "Boosts ATK by 30% and boosts equipment ATK when armed with a one-handed weapon with the other hand empty. Not stackable.",
+        "提高30%攻擊，裝備單手武器且另一隻手空著的狀態下武具攻擊力提升 [無法重複裝備]。",
+        "공격력이 30% 상승하고, 한손용 무기를 한손에만 장착 시 장비의 공격력이 상승합니다. (중복 장착 불가)",
+        "Augmente les dégâts de 30% et augmente l'ATT de l'équipement lorsqu'une arme à une main est équipée et que l'autre est vide. Non cumulable.",
+        "Erhöht ANG um 30% und erhöht Ausrüstung-ANG, wenn mit einhändiger Waffe ausgerüstet und andere Hand leer ist. (nicht stapelbar),",
+        "Aumenta el ATQ un 30% y aumenta el ATQ del equipo al llevar un arma en una mano y nada en la otra. (no acumulable)"
+    ],
+    "504226882": [
+        "Boost fire, ice, lightning, water, wind, earth, light, and dark resistance by 30% and boost SPR by 50% when equipped with a staff. Not stackable.",
+        "提高30%火冰雷水風土光暗屬性耐性並提高裝備手杖時的精神 [無法重複裝備]。",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력이 30% 상승하고, 지팡이 장착 시 정신력이 50% 상승합니다. (중복 장착 불가)",
+        "Augmente la résistance à feu, glace, foudre, eau, vent, terre, lumière et ténèbres de 30% et augmente la PSY de 50% lorsqu'un bâton est équipé. Non cumulable.",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- sowie Dunkelresistenz um 30% und PSY um 50%, wenn mit Stab ausgerüstet (nicht stapelbar),",
+        "Aumenta la resistencia al fuego, hielo, rayo, agua, viento, luz y oscuridad un 30%, y aumenta el ESP un 50% al llevar bastón. (no acumulable)"
+    ],
     "504226898": [
-        "Boost HP and ATK by 10%",
+        "Boost HP and ATK by 10%.",
         "提高10%HP、攻擊。",
-        "HP와 공격력 10% 상승",
-        "Augmente les PV et l'ATT de 10%",
-        "Erhöht LP und ANG um 10 %",
-        "Aumenta la VIT y el ATQ un 10%"
+        "HP와 공격력이 10% 상승합니다.",
+        "Augmente les PV et l'ATT de 10%.",
+        "Erhöht LP und ANG um 10 %.",
+        "Aumenta la VIT y el ATQ un 10%."
     ],
     "504226899": [
-        "Boost MP and MAG by 10%",
+        "Boost MP and MAG by 10%.",
         "提高10%MP、魔力。",
-        "MP와 마력 10% 상승",
-        "Augmente les PM et la MAGIE de 10%",
-        "Erhöht MP und MAG um 10 %",
-        "Aumenta los PM y la MAG un 10%"
+        "MP와 마력이 10% 상승합니다.",
+        "Augmente les PM et la MAGIE de 10%.",
+        "Erhöht MP und MAG um 10 %.",
+        "Aumenta los PM y la MAG un 10%,"
     ],
     "504900400": [
         null,
@@ -4176,7 +4200,7 @@
         "Aumenta el ATQ un 30% y la DEF un 15%."
     ],
     "1500000045": [
-        "Boosts ATK and SPR when equipped with a gun",
+        "Boosts ATK and SPR when equipped with a gun.",
         "提高裝備槍時的攻擊精神。",
         "총 장착 시 공격력과 정신력이 상승합니다.",
         "Augmente l'ATT et la PSY lorsqu'un pistolet est équipé",
