@@ -11093,7 +11093,7 @@
         "번개속성 저항력+30%",
         "Rés. à la foudre +30%",
         "Blitzresistenz +30%",
-        "Resistencia al rayo +50%"
+        "Resistencia al rayo +30%"
     ],
     "213270": [
         "DEF +5%",
@@ -22711,6 +22711,22 @@
         "Regenbogenpeitsche",
         "Látigo arcoíris"
     ],
+    "226896": [
+        "Lightning Resistance +20%",
+        "雷屬性耐性+30%",
+        "번개속성 저항력+20%",
+        "Rés. à la foudre +20%",
+        "Blitzresistenz +20%",
+        "Resistencia al rayo +20%"
+    ],
+    "226897": [
+        "Demon Killer+",
+        "斬魔改",
+        "개량형 악마 킬러",
+        "Tue-démons +",
+        "Dämonenkiller+",
+        "Matademonios+"
+    ],
     "226898": [
         "Physical Force",
         "物理之力",
@@ -22727,29 +22743,413 @@
         "Magische Kraft",
         "Poder mágico"
     ],
+    "226900": [
+        "Swift Hunter",
+        "神速獵人",
+        "신속의 사냥꾼",
+        "Chasseur vif",
+        "Pfeilschneller Jäger",
+        "Cazador raudo"
+    ],
+    "226901": [
+        "Whip Mastery",
+        "鞭術奧義",
+        "채찍의 비법",
+        "Maîtrise des fouets",
+        "Peitschenmeister",
+        "Dominio del látigo"
+    ],
     "226902": [
         "Brave Lancer",
-        null,
-        null,
-        null,
-        null,
+        "勇氣長槍",
+        "용감한 창술사",
+        "Lancier téméraire",
+        "Mutiger Lancier",
         "Lancero valiente"
     ],
+    "226910": [
+        "Panther Strike",
+        "餓豹擊",
+        "아표격",
+        "Frappe-panthère",
+        "Pantherhieb",
+        "Golpe de pantera"
+    ],
     "226911": [
-        "Recoil",
+        "Blaster",
         "衝擊波",
         "충격파",
-        "Ravageur",
-        "Rückstoß",
-        "Fulminador"
+        "Rayons",
+        "Blaster",
+        "Electroplasma"
+    ],
+    "226912": [
+        "Lightning Spear Jab",
+        "雷槍一迅",
+        "뇌창일신",
+        "Coup de lance de foudre",
+        "Blitzspeerstich",
+        "Lanzada de rayo"
+    ],
+    "226913": [
+        "Thunder Spear",
+        "雷鳴槍",
+        "뇌명창",
+        "Lance-tonnerre",
+        "Donnerspeer",
+        "Lanza de rayo"
+    ],
+    "226914": [
+        "Blessings of the Forest",
+        "靜森之加護",
+        "고요한 숲의 가호",
+        "Bénédiction de la Forêt",
+        "Gnade des Waldes",
+        "Bendición del bosque"
+    ],
+    "226915": [
+        "Wild Battlecry",
+        "野性怒吼",
+        "야성의 포효",
+        "Cri de guerre sauvage",
+        "Wilder Kampfschrei",
+        "Grito de guerra salvaje"
+    ],
+    "226916": [
+        "Thunder Fang",
+        "槍牙襲雷",
+        "창아습뢰",
+        "Croc foudroyant",
+        "Donnerzahn",
+        "Colmillo de rayo"
+    ],
+    "226917": [
+        "Lightning Spear Mastery",
+        "雷槍奧義",
+        "뇌창의 비법",
+        "Maîtrise de la lance de foudre",
+        "Blitzspeermeister",
+        "Dominio de la lanza de rayo"
+    ],
+    "226918": [
+        "Hunting Expertise",
+        "狩獵技術",
+        "수렵 기술",
+        "Chasseur expert",
+        "Jagdtechnik",
+        "Experto cazador"
+    ],
+    "226919": [
+        "Fearless",
+        "無畏",
+        "두려움을 모르는",
+        "Sans peur",
+        "Furchtlos",
+        "Antimiedo"
+    ],
+    "226920": [
+        "Wild Instincts",
+        "野生之本能",
+        "야생의 본능",
+        "Instincts sauvages",
+        "Unzähmbarer Trieb",
+        "Instintos salvajes"
+    ],
+    "226921": [
+        "Self-taught Spear Art",
+        "自創槍術",
+        "아류 창술",
+        "Art de la lance autodidacte",
+        "Selbst erlernte Speerkunst",
+        "Arte autodidacta de la lanza"
+    ],
+    "226922": [
+        "Spear Stance",
+        "貫穿體勢",
+        "창관의 자세",
+        "Pose à la lance",
+        "Speerstoß-Stellung",
+        "Posición de lanzada"
+    ],
+    "226923": [
+        "Bond with Est",
+        "與艾斯特的羈絆",
+        "에스트와의 인연",
+        "Lien avec Est",
+        "Bindung mit Est",
+        "Vínculo con Est"
+    ],
+    "226924": [
+        "Forest Wanderer",
+        "馳騁森林之人",
+        "숲을 달리는 자",
+        "Vagabond forestier",
+        "Waldläufer",
+        "Deambulador del bosque"
+    ],
+    "226930": [
+        "Sharp Throw",
+        "銳物投擲",
+        "첨예 투척",
+        "Lancer millimétré",
+        "Schlagwurf",
+        "Lanzamiento súbito"
+    ],
+    "226931": [
+        "Destructive Beating",
+        "破壞節拍",
+        "파괴의 장단",
+        "Raclée destructrice",
+        "Zerstörungstakt",
+        "Paliza destructora"
+    ],
+    "226932": [
+        "Full Power Throw",
+        "全力投擲",
+        "전력 투척",
+        "Lancer pleine puissance",
+        "Kraftwurf",
+        "Lanzamiento superpotente"
+    ],
+    "226933": [
+        "Shadow Down",
+        "暗影降臨",
+        "그림자 강림",
+        "Ténèbres descendantes",
+        "Schattenschwund",
+        "Bajasombras"
+    ],
+    "226934": [
+        "Hide Shadow",
+        "陰影躲藏",
+        "그림자 은폐",
+        "Ténèbres cachées",
+        "Schattenversteck",
+        "Ocultar sombra"
+    ],
+    "226935": [
+        "Captivating Gaze",
+        "圓圓眼珠",
+        "사랑스러운 눈동자",
+        "Regard captivant",
+        "Kulleraugen",
+        "Mirada cautivadora"
+    ],
+    "226936": [
+        "Hardboiled",
+        "硬漢",
+        "하드보일드",
+        "Dur à cuire",
+        "Hartgesotten",
+        "Endurecido"
+    ],
+    "226937": [
+        "Former Conman",
+        "原黑道人物",
+        "전 비밀공작원",
+        "Ancien escroc",
+        "Ex-Profigauner",
+        "Extimador"
+    ],
+    "226938": [
+        "Charm Pays Off",
+        "可愛的代價",
+        "귀여움의 대가",
+        "Charme infaillible",
+        "Charmanter Preis",
+        "¡El encanto tiene sus ventajas!"
     ],
     "226939": [
         "Cutie-pie",
-        "迷人",
+        "小可愛",
         "깜찍",
         "Tout-mimi",
-        "Charme",
-        "Preciosidad"
+        "Zauberhaft",
+        "Cariñito"
+    ],
+    "226940": [
+        "Fluffy Fur",
+        "軟軟絨毛",
+        "복슬복슬 털뭉치",
+        "Fourrure légère",
+        "Weiches Fell",
+        "Pelaje algodonado"
+    ],
+    "226941": [
+        "Twin Shooter",
+        "雙手射手",
+        "이중 사격수",
+        "Double tir",
+        "Zwillingsschuss",
+        "Disparador gemelo"
+    ],
+    "226942": [
+        "Veteran Thrower",
+        "老練投手",
+        "베테랑 투척수",
+        "Lanceur vétéran",
+        "Wurfveteran",
+        "Lanzador veterano"
+    ],
+    "226950": [
+        "Sexy Whip",
+        "性感鞭",
+        "요염한 채찍",
+        "Fouet sexy",
+        "Sexy Peitsche",
+        "Latigazo sensual"
+    ],
+    "226951": [
+        "Sadistic",
+        "虐待狂",
+        "새디스틱",
+        "Sadique",
+        "Sadist",
+        "Sadismo"
+    ],
+    "226952": [
+        "Earthy Makeup",
+        "大地妝",
+        "대지의 메이크업",
+        "Maquillage basique",
+        "Erdschminke",
+        "Maquillaje terrenal"
+    ],
+    "226953": [
+        "Binding Whip",
+        "捆綁鞭",
+        "속박의 채찍",
+        "Fouet entravant",
+        "Fesselpeitsche",
+        "Latigazo inmovilizador"
+    ],
+    "226954": [
+        "Violent Tail",
+        "暴力馬尾",
+        "난폭한 꼬리",
+        "Coup de queue violent",
+        "Gewaltschweif",
+        "Cola violenta"
+    ],
+    "226955": [
+        "Noisy Parade",
+        "喧鬧遊行",
+        "소란한 행진",
+        "Parade bruyante",
+        "Laute Parade",
+        "Desfile ruidoso"
+    ],
+    "226956": [
+        "Shut up already!",
+        "你好煩啊！",
+        "짜증 난다고!",
+        "Tais-toi donc !",
+        "Du nervst!",
+        "¡¿Pero por qué no te callas?!"
+    ],
+    "226957": [
+        "Whip Adept",
+        "用鞭高手",
+        "채찍의 명수",
+        "Amateur de fouets",
+        "Peitschenvirtuose",
+        "Experto del látigo"
+    ],
+    "226958": [
+        "Impish Smile",
+        "小惡魔的微笑",
+        "작은 악마의 미소",
+        "Sourire espiègle",
+        "Teuflisches Lächeln",
+        "Sonrisa de irreverencia"
+    ],
+    "226959": [
+        "Counter Whip",
+        "反擊鞭",
+        "반격의 채찍",
+        "Contre-fouet",
+        "Konterpeitsche",
+        "Contralatigazo"
+    ],
+    "226960": [
+        "Girly Makeup",
+        "辣妹妝",
+        "걸 메이크업",
+        "Maquillage féminin",
+        "Teenieschminke",
+        "Maquillaje femenino"
+    ],
+    "226970": [
+        "Quick Blade",
+        "快劍",
+        "재빠른 칼날",
+        "Lame vive",
+        "Flotte Klinge",
+        "Cuchillada rápida"
+    ],
+    "226971": [
+        "Spark Blade",
+        "電光劍",
+        "전격의 칼날",
+        "Lame étincelante",
+        "Funkenklinge",
+        "Cuchillada centelleante"
+    ],
+    "226972": [
+        "Thunder Coat",
+        "防雷服",
+        "번개의 코트",
+        "Manteau de foudre",
+        "Donnermantel",
+        "Abrigo del rayo"
+    ],
+    "226973": [
+        "Overcharged Bolt",
+        "過載閃電",
+        "과충전 뇌격",
+        "Éclair surchargé",
+        "Berstender Blitz",
+        "Rayo sobrecargado"
+    ],
+    "226974": [
+        "Earth Splitter",
+        "裂地",
+        "대지 분열",
+        "Fend-la-Terre",
+        "Erdbrecher",
+        "Dividetierras"
+    ],
+    "226975": [
+        "Rubber Coat",
+        "絕緣服",
+        "러버 코트",
+        "Manteau de caoutchouc",
+        "Gummimantel",
+        "Abrigo de goma"
+    ],
+    "226976": [
+        "Veteran Mercenary",
+        "身經百戰的傭兵",
+        "역전의 용병",
+        "Mercenaire vétéran",
+        "Altgedienter Söldner",
+        "Mercenario veterano"
+    ],
+    "226977": [
+        "Counter Bolt",
+        "反擊閃電",
+        "반격의 번개",
+        "Contre-éclair",
+        "Konterblitz",
+        "Contrarrayo"
+    ],
+    "226978": [
+        "Mercenary Tactics",
+        "傭兵戰法",
+        "용병의 전투법",
+        "Tactique de mercenaire",
+        "Söldnertaktik",
+        "Tácticas de mercenario"
     ],
     "226982": [
         "Complete Awakening",
@@ -31535,21 +31935,93 @@
         "Mogry-Walzer",
         "Vals moguri"
     ],
+    "507490": [
+        "Thunder Fang",
+        "槍牙襲雷",
+        "창아습뢰",
+        "Croc foudroyant",
+        "Donnerzahn",
+        "Colmillo de rayo"
+    ],
     "507500": [
-        null,
+        "Glorious Wind",
         "風靈暴怒",
-        null,
-        null,
-        null,
-        null
+        "영광의 바람",
+        "Vent glorieux",
+        "Ruhmreicher Wind",
+        "Viento de gloria"
     ],
     "507501": [
         "Cutie-pie",
-        "迷人",
+        "小可愛",
         "깜찍",
         "Tout-mimi",
-        "Charme",
-        "Preciosidad"
+        "Zauberhaft",
+        "Cariñito"
+    ],
+    "507502": [
+        "Former Conman",
+        "原黑道人物",
+        "전 비밀공작원",
+        "Ancien escroc",
+        "Ex-Profigauner",
+        "Extimador"
+    ],
+    "507510": [
+        "Now we're talkin'!",
+        "來感覺了！！",
+        "감이 오는데!!",
+        "Exactement c'qui m'fallait !",
+        "Jetzt kommen wir der Sache näher!",
+        "¡Ahora sí!"
+    ],
+    "507511": [
+        "Hyped Up!",
+        "情緒MAX！！！",
+        "텐션 MAX!!!",
+        "À 100 % !",
+        "Bombenstimmung!",
+        "¡A tope!"
+    ],
+    "507512": [
+        "Impish Smile",
+        "小惡魔的微笑",
+        "작은 악마의 미소",
+        "Sourire espiègle",
+        "Teuflisches Lächeln",
+        "Sonrisa de irreverencia"
+    ],
+    "507513": [
+        "Girly Makeup",
+        "辣妹妝",
+        "걸 메이크업",
+        "Maquillage féminin",
+        "Teenieschminke",
+        "Maquillaje femenino"
+    ],
+    "507514": [
+        "Violent Tail",
+        "暴力馬尾",
+        "난폭한 꼬리",
+        "Coup de queue violent",
+        "Gewaltschweif",
+        "Cola violenta"
+    ],
+    "507515": [
+        "Violent Tail",
+        "暴力馬尾",
+        "난폭한 꼬리",
+        "Coup de queue violent",
+        "Gewaltschweif",
+        "Cola violenta"
+    ],
+    "507520": [
+        "Counter Bolt",
+        "反擊閃電",
+        "반격의 번개",
+        "Contre-éclair",
+        "Konterblitz",
+        "Contrarrayo"
     ],
     "507551": [
         "Kafrizzle",
@@ -33830,6 +34302,38 @@
         "Charme de protection",
         "Unbetörter Schutz",
         "Protección inembrujable"
+    ],
+    "600530": [
+        "Demon Evocation",
+        "惡魔召喚強化",
+        "악마 소환강화",
+        "Appel de démon",
+        "Dämonische Anrufung",
+        null
+    ],
+    "600540": [
+        "Wind Sprite Evocation",
+        "風精召喚強化",
+        "바람 정령 소환강화",
+        "Appel de lutin du vent",
+        null,
+        null
+    ],
+    "600590": [
+        null,
+        "光雷之幕",
+        null,
+        null,
+        null,
+        null
+    ],
+    "600600": [
+        null,
+        "機械城炮",
+        null,
+        null,
+        null,
+        null
     ],
     "700010": [
         "Cheer",
@@ -52086,5 +52590,13 @@
         "Canonisation",
         "Vari",
         "Hada"
+    ],
+    "911249": [
+        "Rider's Instinct",
+        "騎士本能",
+        "라이더의 본능",
+        "Instinct de cavalier",
+        "Reiterinstinkt",
+        "Instinto de jinete"
     ]
 }

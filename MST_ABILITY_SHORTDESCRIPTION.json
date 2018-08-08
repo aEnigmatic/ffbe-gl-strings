@@ -12569,7 +12569,7 @@
     ],
     "215120": [
         "Chance of countering with a critical hit when receiving a physical attack",
-        "受到物理、魔法攻擊時一定機率降低敵人冰屬性耐性的數值",
+        "受到物理攻擊時一定機率進行暴擊反擊",
         "물리공격을 받으면 일정 확률로 크리티컬 반격",
         "Chance de contre-attaquer en coup critique après avoir reçu une att. phy.",
         "Chance, physischen Angriff eines Gegners mit kritischem Treffer zu kontern.",
@@ -20833,7 +20833,7 @@
     ],
     "225490": [
         "Restore HP for all allies",
-        "完全恢復全體隊員的HP",
+        "恢復全體隊員的HP",
         "아군 전체의 HP 회복",
         "Restaure les PV de tous les alliés",
         "Regeneriert LP für alle Verb.",
@@ -22680,7 +22680,7 @@
         "Daña al usuario cada turno y aumenta el ATQ un 80%"
     ],
     "226881": [
-        "Boost ATK by 30% and boosts equipment ATK when armed with a one-handed weapon with the other hand empty",
+        "Boost ATK by 30% and boost equipment ATK when armed with a one-handed weapon with the other hand empty",
         "提高30%攻擊+裝備單手武器且另一隻手空著的狀態下武具攻擊力提升",
         "공격력 30% 상승+한손용 무기를 한손에만 장착 시 장비의 공격력 상승",
         "Augmente les dégâts de 30% et augmente l'ATT de l'équipement lorsqu'une arme à une main est équipée et que l'autre est vide.",
@@ -22711,6 +22711,22 @@
         "Fügt allen Gegnern Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelschaden zu.",
         "Daño de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad a todos los enemigos"
     ],
+    "226896": [
+        "Boost lightning resistance by 20%",
+        "提高20%雷屬性耐性",
+        "번개속성 저항력 20% 상승",
+        "Augmente la résistance à la foudre de 20%",
+        "Erhöht Blitzresistenz um 20%.",
+        "Aumenta la res. al rayo un 20%"
+    ],
+    "226897": [
+        "Boost physical and magic damage against demons",
+        "物理、魔法攻擊時提高對惡魔系魔物的傷害",
+        "물리, 마법 공격 시 악마형 마물에게 주는 피해량 상승",
+        "Augmente les dégâts physiques et magiques infligés aux démons",
+        "Erhöht phys. sowie mag. Schaden gegen Dämonen.",
+        "Aumenta el daño físico y mágico contra demonios"
+    ],
     "226898": [
         "Boost HP and ATK by 10%",
         "提高10%HP、攻擊",
@@ -22729,43 +22745,51 @@
     ],
     "226900": [
         "Boost ATK by 25%, and boost equipment ATK when a single weapon is equipped in both hands",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高25%攻擊+雙手只裝備1把武器時武具攻擊力提升",
+        "공격력 25% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승",
+        "Augmente l'ATT de 25% et augmente l'ATT de l'équipement lorsqu'une arme est équipée dans les deux mains",
+        "Erhöht ANG um 25% und Ausrüstung-ANG, wenn nur eine einzelne Waffe in beiden Händen ausgerüstet ist.",
+        "Aumenta el ATQ un 25% y aumenta el ATQ del equipo al llevar una sola arma en las dos manos."
     ],
     "226901": [
         "Boost ATK when equipped with a whip",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高裝備鞭時的攻擊",
+        "채찍 장착 시 공격력 상승",
+        "Augmente l'ATT lorsqu'un fouet est équipé",
+        "Erhöht ANG, wenn mit Peitsche ausgerüstet.",
+        "Aumenta el ATQ al llevar látigo."
+    ],
+    "226902": [
+        "Boost ATK when equipped with a spear",
+        "提高裝備長槍時的攻擊",
+        "창 장착 시 공격력 상승",
+        "Augmente l'ATT lorsqu'une lance est équipée",
+        "Erhöht ANG, wenn mit Speer ausgerüstet.",
+        "Aumenta el ATQ al llevar lanza."
     ],
     "226910": [
         "Boost physical damage dealt to beast monsters for self and damage one enemy",
-        "賦予自身受到物理攻擊時提高對獸系魔物的傷害時+攻擊1名敵人",
+        "賦予自身受到物理攻擊時提高對獸系魔物的傷害+攻擊1名敵人",
         "자신의 물리 공격 시 야수형 마물에 대한 피해량 상승 효과 부여+적 1명에게 피해",
         "Augmente les dégâts physiques infligés aux bêtes pour le lanceur et dégâts sur un ennemi",
-        null,
-        null
+        "Erhöht eigenen phys. Schaden gegen Bestien und fügt einem Gegner Schaden zu.",
+        "Aumenta el daño físico del usuario contra monstruos y daña a un enemigo."
     ],
     "226911": [
         "Damage and chance of paralyzing, petrifying all enemies",
         "攻擊全體敵人+一定機率施加麻痺石化效果",
         "적 전체에 피해+일정 확률로 마비와 석화 부여",
         "Dégâts et chance de paralyser et pétrifier tous les ennemis",
-        null,
-        null
+        "Fügt allen Gegnern Schaden zu und Chance auf Lähmung und Stein.",
+        "Daña con probabilidad de paralizar, inflige piedra a todos los enemigos."
     ],
     "226912": [
         "Lightning damage to one enemy and add lightning element to own physical attack",
         "對1名敵人發動雷屬性攻擊+將自身的物理攻擊賦予雷屬性",
         "적 1명에게 번개속성 피해+자신의 물리 공격에 번개속성 부여",
         "Dégâts de foudre sur un ennemi et ajoute l'élément foudre aux attaques physiques du lanceur",
-        "Fügt einem Gegner Blitzschaden zu und Blitzelement für eigenen phy. Angriff.",
-        "Daño de rayo a un enemigo y añade elemento rayo a los ataques físicos propios"
+        "Fügt einem Gegner Blitzschaden zu und gibt eigenem phys. Angriff Blitzelement.",
+        "Daño de rayo a un enemigo y añade elemento rayo a los ataques físicos propios."
     ],
     "226913": [
         "Deal partial unmitigated damage and reduce lightning resistance for one enemy",
@@ -22773,231 +22797,231 @@
         "적 1명에게 일부 방어 무시 피해+번개속성 저항력 감소",
         "Inflige des dégâts en partie fixes et réduit la résistance à la foudre d'un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu und verringert seine Blitzresistenz.",
-        "Daño absoluto parcial y reduce la res. al rayo de un enemigo"
+        "Daño parcial absoluto y reduce la res. al rayo de un enemigo."
     ],
     "226914": [
         "Restore own HP, and remove ATK and DEF reductions and boost ATK and DEF for self",
         "恢復自身HP+解除降低攻擊防禦效果+提高攻擊防禦",
         "자신의 HP 회복+공격력과 방어력 감소 효과 해제+공격력과 방어력 상승",
         "Restaure les PV du lanceur, retire les réductions de la DEF et de l'ATT et augmente l'ATT et la DEF pour le lanceur",
-        null,
-        null
+        "Regeneriert eigene LP, entfernt eigene ANG- und ABW-Verringerungen und erhöht ANG und ABW.",
+        "Recupera VIT propia, elimina las reducciones de ATQ y DEF, y aumenta el ATQ y la DEF del usuario."
     ],
     "226915": [
         "Boost ATK and lightning resistance for all allies",
         "提高全體隊員的攻擊、雷屬性耐性",
         "아군 전체의 공격력과 번개속성 저항력 상승",
         "Augmente l'ATT et la résistance à la foudre pour tous les alliés",
-        null,
-        null
+        "Erhöht ANG und Blitzresistenz aller Verb.",
+        "Aumenta el ATQ y la res. al rayo de todos los aliados."
     ],
     "226916": [
         "(One use every 3 turns) Lightning damage to all enemies",
         "【每3回合可使用1次】對全體敵人發動雷屬性攻擊",
         "[3턴에 1회 사용 가능] 적 전체에 번개속성 피해",
         "(Une fois tous les 3 tours) Dégâts de foudre sur tous les ennemis",
-        null,
-        null
+        "(Einmal alle 3 Runden) Fügt allen Feinden Blitzschaden zu.",
+        "(Un uso cada 3 turnos) Daño de rayo a todos los enemigos."
     ],
     "226917": [
         "Boost lightning resistance by 30% and boost ATK by 50% when equipped with a spear",
         "提高30%雷屬性耐性+提高50%裝備長槍時的攻擊",
         "번개속성 저항력 30% 상승+창 장착 시 공격력 50% 상승",
         "Augmente la résistance à la foudre de 30% et augmente l'ATT de 50% lorsqu'une lance est équipée",
-        null,
-        null
+        "Erhöht Blitzresistenz um 30% und ANG um 50%, wenn mit Speer ausgerüstet.",
+        "Aumenta la res. al rayo un 30% y aumenta el ATQ un 50% al llevar lanza."
     ],
     "226918": [
         "Boost ATK by 30% and boost physical damage dealt to beast, bug, and plant monsters",
         "提高30%攻擊+物理攻擊時提高對獸蟲植物系魔物的傷害",
         "공격력 30% 상승+물리 공격 시 야수, 곤충, 식물형 마물에게 부여하는 피해량 상승",
         "Augmente l'ATT de 30% et augmente les dégâts physiques infligés aux bêtes, aux insectes et aux plantes",
-        null,
-        null
+        "Erhöht ANG um 30% und eigenen phys. Schaden gegen Bestien, Insekten und Pflanzen.",
+        "Aumenta el ATQ un 30% y aumenta el daño físico contra bestias, insectos y plantas."
     ],
     "226919": [
         "Nullify poison, blind, paralysis, and disease and restore HP each turn",
         "中毒失明麻痺生病無效+每回合恢復HP",
         "독, 암흑, 마비, 질병 무효화+매 턴마다 HP 회복",
         "Annule poison, cécité, paralysie, maladie et restaure les PV à chaque tour",
-        null,
-        null
+        "Annulliert Gift, Blind, Lähmung, Virus und stellt jede Runde LP wieder her.",
+        "Anula, veneno, ceguera, parálisis y enfermedad, y recupera VIT cada turno."
     ],
     "226920": [
         "Boost LB gauge fill rate",
         "提高極限技石對極限技槽的增加量",
         "LB 게이지 효율 상승",
         "La jauge de limite se remplit plus vite",
-        "Verstärkt Effekt von Limitsteinen.",
-        "La barra de EL se llena más rápido"
+        "Limitmeter füllt sich schneller.",
+        "La barra de EL se rellena más rápido."
     ],
     "226921": [
         "Boost equipment ATK when a single weapon is equipped in both hands",
         "雙手只裝備1把武器時武具攻擊力提升",
         "양손의 장비가 무기 1개일 경우 장비의 공격력 상승",
         "Augmente l'ATT de l'équipement lorsqu'une arme à une main est équipée dans chaque main",
-        null,
-        null
+        "Erhöht Ausrüstung-ANG, wenn nur eine einzelne Waffe in beiden Händen ausgerüstet ist.",
+        "Aumenta el ATQ del equipo al llevar una sola arma en las dos manos."
     ],
     "226922": [
         "Boost ATK by 25% and boost equipment ATK when a single weapon is equipped in both hands",
         "提高25%攻擊+雙手只裝備1把武器時武具攻擊力提升",
         "공격력 25% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승",
         "Augmente l'ATT de 25% et augmente l'ATT de l'équipement lorsqu'une arme à une main est équipée dans chaque main",
-        null,
-        null
+        "Erhöht ANG um 25% und Ausrüstung-ANG, wenn nur eine einzelne Waffe in beiden Händen ausgerüstet ist.",
+        "Aumenta el ATQ un 25% y aumenta el ATQ del equipo al llevar una sola arma en las dos manos."
     ],
     "226923": [
         "Boost damage of certain abilities",
         "提高特定能力的傷害",
         "특정 어빌리티의 위력 상승",
         "Augmente les dégâts de certaines aptitudes",
-        null,
-        null
+        "Erhöht Schaden bestimmter Fertigkeiten.",
+        "Aumenta el daño de ciertas habilidades."
     ],
     "226924": [
         "Boost DEF by 30% and boost physical damage dealt to beast, bug, and plant monsters",
         "提高30%防禦+物理攻擊時提高對獸蟲植物系魔物的傷害",
         "방어력 30% 상승+물리 공격 시 야수, 곤충, 식물형 마물에게 부여하는 피해량 상승",
         "Augmente la DEF de 30% et augmente les dégâts physiques infligés aux bêtes, aux insectes et aux plantes",
-        null,
-        null
+        "Erhöht ABW um 30% und eigenen phys. Schaden gegen Bestien, Insekten und Pflanzen.",
+        "Aumenta la DEF un 30% y aumenta el daño físico contra bestias, insectos y plantas."
     ],
     "226930": [
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
         "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
-        "Daña a un enemigo"
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo."
     ],
     "226931": [
         "Damage all enemies",
         "攻擊全體敵人",
         "적 전체에 피해",
         "Dégâts sur tous les ennemis",
-        "Schaden, alle Ziele",
-        "Daña a todos los enemigos"
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos."
     ],
     "226932": [
         "Boost own ATK and damage all enemies next turn",
         "提高自身的攻擊+下一回合對全體敵人發動攻擊",
         "자신의 공격력 상승+다음 턴에 적 전체에 피해",
         "Augmente l'ATT du lanceur et dégâts sur tous les ennemis au tour suivant",
-        null,
-        null
+        "Erhöht eigenen ANG und fügt allen Gegnern in der folgenden Runde Schaden zu.",
+        "Aumenta el ATQ del usuario y daña a todos los enemigos al turno siguiente."
     ],
     "226933": [
         "Chance of poisoning, blinding, or paralyzing all enemies and damage all enemies next turn",
         "一定機率對全體敵人施加中毒失明麻痺效果+下一回合對全體敵人發動攻擊",
         "적 전체에 일정 확률로 독, 암흑, 마비 부여+다음 턴에 적 전체에 피해",
         "Chance d'infliger poison, cécité ou paralysie à tous les ennemis et dégâts sur tous les ennemis au tour suivant",
-        null,
-        null
+        "Chance, allen Gegnern Gift, Blind oder Lähmung zuzufügen und fügt ihnen in der folgenden Runde Schaden zu.",
+        "Probabilidad de infligir veneno, ceguera o parálisis a todos los enemigos, y daña a todos los enemigos al turno siguiente."
     ],
     "226934": [
         "Reduce ATK and MAG and chance of blinding all enemies, and caster can dodge some physical attacks two times",
         "降低全體敵人的攻擊魔力+一定機率施加失明效果+賦予自身可閃避2次部分物理攻擊的效果",
         "적 전체에 공격력과 마력 감소+일정 확률로 암흑 부여+자신에게 일부 물리 공격 2회 회피 효과 부여",
         "Réduit l'ATT et la MAGIE, chance d'aveugler tous les ennemis, et le lanceur peut esquiver certaines attaques physiques à deux reprises",
-        null,
-        null
+        "Verringert ANG und MAG aller Gegner, Chance auf Blind und Benutzer kann einigen phys. Angriffen zweimal ausweichen.",
+        "Reduce el ATQ y la MAG, puede infligir ceguera a todos los enemigos, y el usuario puede esquivar algunos ataques físicos dos veces."
     ],
     "226935": [
         "Reduce ATK and MAG and chance of charming one enemy",
         "降低1名敵人的攻擊魔力+一定機率施加魅惑效果",
         "적 1명의 공격력과 마력 감소+일정 확률로 매혹 부여",
         "Réduit l'ATT et la MAGIE et chance de charmer un ennemi",
-        null,
-        null
+        "Verringert ANG und MAG eines Gegners und Chance, ihn zu bezaubern.",
+        "Reduce el ATQ y la MAG, y puede infligir embrujo a un enemigo."
     ],
     "226936": [
         "Boost HP by 20% and ATK by 10%",
         "提高20%HP、10%攻擊",
         "HP 20%, 공격력 10% 상승",
         "Augmente les PV de 20% et l'ATT de 10%",
-        "Erhöht LP um 20%, ANG um 10%",
-        "Aumenta VIT un 20% y ATQ un 10%"
+        "Erhöht LP um 20% und ANG um 10%.",
+        "Aumenta la VIT un 20% y aumenta el ATQ un 10%."
     ],
     "226937": [
         "Add chance of dodging some physical attacks, and caster can dodge some physical attacks one time at the beginning of battle or after being revived",
         "一定機率可閃避部分物理攻擊+戰鬥開始時和從無法戰鬥狀態中復活時賦予自身可閃避1次部分物理攻擊的效果",
         "일정 확률로 일부 물리 공격 회피+전투 시작 시 및 전투불능 상태에서 회복했을 때 자신에게 일부 물리 공격 1회 회피 효과 부여",
         "Ajoute une chance d'esquiver certaines attaques physiques et le lanceur peut esquiver certaines attaques une fois au début du combat après avoir été ressuscité",
-        null,
-        null
+        "Chance, physischen Angriffen auszuweichen und Benutzer kann zu Beginn des Kampfes oder nach Wiederbelebung einigen phys. Angriffen ausweichen.",
+        "Probabilidad de esquivar algunos ataques físicos y el usuario puede esquivar algunos ataques físicos una vez al inicio del combate o tras ser revivido."
     ],
     "226938": [
         "Increase chance of being targeted",
         "容易被敵人攻擊",
         "적의 공격 대상이 될 확률 상승",
         "Augmente les chances d'être ciblé",
-        "Wird häufiger angegriffen",
-        "Más probabilidad de ser atacado"
+        "Erhöht kurzzeitig die Wahrscheinlichkeit zum Ziel zu werden.",
+        "Aumenta la probabilidad de ser atacado."
     ],
     "226939": [
         "Chance of reducing enemy's ATK when receiving a physical attack",
         "受到物理攻擊時一定機率降低敵人的攻擊",
         "물리 공격을 받으면 일정 확률로 적의 공격력 감소",
         "Chance de réduire l'ATT de l'ennemi après avoir subi une attaque physique",
-        null,
-        null
+        "Chance, den ANG eines Gegners zu verringern, wenn Benutzer mit phys. Angriff attackiert wird.",
+        "Probabilidad de reducir el ATQ del enemigo al recibir un ataque físico."
     ],
     "226940": [
         "Nullify blind and stone, and boost ice resistance by 30%",
         "失明石化無效+提高30%冰屬性耐性",
         "암흑과 석화 무효화+얼음속성 저항력 30% 상승",
         "Annule cécité et pétrification. Augmente la résistance à la glace de 30%",
-        null,
-        null
+        "Annulliert Blind, Stein und erhöht Eisresistenz um 30%.",
+        "Anula ceguera y piedra, y aumenta la res. al hielo un 30%."
     ],
     "226941": [
         "Can equip any two throwing weapons or guns",
-        "可以裝備2個單手投擲武器、火槍",
+        "可以裝備2把單手投擲武器、火槍",
         "한손용의 투척무기, 총을 2개 장착 가능",
         "Permet d'équiper deux objets de jet ou deux pistolets",
         "Erlaubt einer Einheit, zwei Wurfgegenstände oder Schusswaffen zu tragen.",
-        "Puede llevar dos objetos arrojadizos o pistolas"
+        "Puede equiparse con dos armas arrojadizas o pistolas."
     ],
     "226942": [
         "Boost equipment ATK when armed with two one-handed weapons",
-        "裝備2個單手武器時武具攻擊力提升",
+        "裝備2把單手武器時武具攻擊力提升",
         "한손용 무기를 2개 장착 시 장비의 공격력 상승",
         "Augmente l'ATT de l'équipement lorsqu'une arme à une main est équipée dans chaque main",
-        null,
-        null
+        "Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet.",
+        "Aumenta el ATQ del equipo al llevar dos armas de una mano."
     ],
     "226950": [
         "Damage and chance of charming one enemy",
         "攻擊1名敵人+一定機率施加魅惑效果",
         "적 1명에게 피해+일정 확률로 매혹 부여",
         "Dégâts et chance de charmer un ennemi",
-        null,
-        null
+        "Fügt einem Gegner Schaden zu und Chance, ihn zu bezaubern.",
+        "Daña y puede infligir embrujo a un enemigo."
     ],
     "226951": [
         "Damage and chance of paralyzing all enemies",
         "攻擊全體敵人+一定機率施加麻痺效果",
         "적 전체에 피해+일정 확률로 마비 부여",
         "Dégâts et chance de paralyser tous les ennemis",
-        null,
-        null
+        "Fügt allen Gegnern Schaden zu und Chance, sie zu lähmen.",
+        "Daña y puede infligir parálisis a todos los enemigos."
     ],
     "226952": [
         "Earth damage one enemy and add earth element to own physical attack",
         "對1名敵人發動土屬性攻擊+將自身的物理攻擊賦予土屬性",
         "적 1명에게 땅속성 피해+자신의 물리 공격에 땅속성 부여",
         "Dégâts de terre sur un ennemi et ajoute l'élément terre aux attaques physiques du lanceur",
-        "Fügt einem Gegner Erdschaden zu und Erdelement für eigenen phy. Angriff.",
-        "Daño de tierra a un enemigo y añade elemento tierra a los ataques físicos propios"
+        "Fügt einem Gegner Erdschaden zu und gibt eigenem phys. Angriff Erdelement.",
+        "Daño de tierra a un enemigo y añade elemento tierra a los ataques físicos propios."
     ],
     "226953": [
         "Damage and reduce DEF for one enemy",
         "攻擊1名敵人+降低防禦",
         "적 1명에게 피해+방어력 감소",
         "Dégâts et réduit la DEF d'un ennemi",
-        "Schaden und ABW runter, ein Ziel",
-        "Daña y reduce DEF de un enemigo"
+        "Fügt einem Gegner Schaden zu und verringert seine ABW.",
+        "Daña y reduce la DEF de un enemigo."
     ],
     "226954": [
         "Deal partial unmitigated damage to one enemy",
@@ -23005,127 +23029,127 @@
         "적 1명에게 일부 방어 무시 피해",
         "Inflige des dégâts en partie fixes sur un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu.",
-        "Daño absoluto parcial a un enemigo"
+        "Daño parcial absoluto a un enemigo."
     ],
     "226955": [
-        "Boost own ATK and boost DEF and SPR  for all allies except self",
+        "Boost own ATK and boost DEF and SPR for all allies except self",
         "提高自身的攻擊+提高除自身以外全體隊員的防禦精神",
         "자신의 공격력 상승+자신을 제외한 아군 전체의 방어력과 정신력 상승",
         "Augmente l'ATT du lanceur et augmente la DEF et la PSY de tous les alliés sauf le lanceur",
-        null,
-        null
+        "Erhöht eigenen ANG und erhöht die ABW und PSY aller Verbündeten, aber nicht eigene.",
+        "Aumenta el ATQ del usuario y aumenta la DEF y el ESP de todos los aliados."
     ],
     "226956": [
         "Damage and reduce ATK and DEF for one enemy, and enable \"Now we're talkin'!\" for one turn",
         "攻擊1名敵人+降低攻擊防禦+1回合內可使用「來感覺了！！」",
         "적 1명에게 피해+공격력과 방어력 감소+1턴 동안 '감이 오는데!!' 사용 가능",
         "Dégâts et réduit l'ATT et la DEF d'un ennemi, et permet d'utiliser \"Exactement c'qui m'fallait !\" pendant un tour",
-        null,
-        null
+        "Fügt einem Gegner Schaden zu, verringert seinen ANG und ABW und ermöglicht eine Runde lang \"Jetzt kommen wir der Sache näher!!\"",
+        "Daña y reduce el ATQ y la DEF de un enemigo, aprende ¡Ahora sí! durante un turno."
     ],
     "226957": [
         "Boost ATK by 30% when equipped with a whip",
         "提高30%裝備鞭時的攻擊",
         "채찍 장착 시 공격력 30% 상승",
         "Augmente l'ATT de 30% lorsqu'un fouet est équipé",
-        null,
-        null
+        "Erhöht ANG um 30%, wenn mit Peitsche ausgerüstet.",
+        "Aumenta el ATQ un 30% al llevar látigo."
     ],
     "226958": [
         "Chance of charming when receiving a physical or magic attack",
         "受到物理、魔法攻擊時一定機率施加魅惑效果",
         "물리, 마법 공격을 받으면 일정 확률로 매혹 부여",
         "Chance de charmer après avoir subi une attaque physique ou magique",
-        null,
-        null
+        "Chance, Gegner zu bezaubern, wenn Benutzer mit phys. oder mag. Angriff attackiert wird.",
+        "Probabilidad de infligir embrujo al recibir un ataque físico o mágico."
     ],
     "226959": [
         "Chance of countering when receiving a physical or magic attack",
         "受到物理、魔法攻擊時一定機率進行反擊",
         "물리, 마법 공격을 받으면 일정 확률로 반격",
         "Chance de contre-attaquer après avoir subi une attaque physique ou magique",
-        null,
-        null
+        "Chance, phys. oder mag. Angriffe zu kontern.",
+        "Probabilidad de contraatacar al recibir un ataque físico o mágico."
     ],
     "226960": [
         "Nullify poison and charm",
         "中毒魅惑無效",
         "독과 매혹 무효화",
         "Annule poison et charme",
-        null,
-        null
+        "Annulliert Gift und Bezaubern.",
+        "Anula veneno y embrujo."
     ],
     "226970": [
         "Damage one enemy 2 times",
         "對1名敵人發動2次攻擊",
         "적 1명에게 2회 피해",
         "Dégâts sur un ennemi à 2 reprises",
-        null,
-        null
+        "Fügt einem Gegner zwei Mal Schaden zu.",
+        "Daña a un enemigo dos veces."
     ],
     "226971": [
         "Lightning damage and chance of paralyzing one enemy",
         "對1名敵人發動雷屬性攻擊+一定機率施加麻痺效果",
         "적 1명에게 번개속성 피해+일정 확률로 마비 부여",
         "Dégâts de foudre et chance de paralyser un ennemi",
-        null,
-        null
+        "Fügt einem Gegner Blitzschaden zu und Chance, ihn zu lähmen.",
+        "Daño de rayo y puede infligir parálisis a un enemigo."
     ],
     "226972": [
         "Boost ATK and lightning resistance for all allies",
         "提高全體隊員的攻擊、雷屬性耐性",
         "아군 전체의 공격력과 번개속성 저항력 상승",
         "Augmente l'ATT et la résistance à la foudre pour tous les alliés",
-        null,
-        null
+        "Erhöht ANG und Blitzresistenz aller Verb.",
+        "Aumenta el ATQ y la res. al rayo de todos los aliados."
     ],
     "226973": [
         "Lightning damage on self and unmitigated lightning damage to one enemy",
         "對自身發動雷屬性攻擊+對1名敵人發動雷屬性無視部分防禦的攻擊",
         "자신에게 번개속성 피해+적 1명에게 번개속성 일부 방어 무시 피해",
         "Dégâts de foudre sur le lanceur et dégâts fixes de foudre sur un ennemi",
-        null,
-        null
+        "Fügt dem Benutzer Blitzschaden und einem Gegner teilweise direkten Blitzschaden zu.",
+        "Daño de rayo al usuario y daño parcial absoluto de rayo a un enemigo."
     ],
     "226974": [
         "Lightning damage and reduce earth resistance for all enemies",
         "對全體敵人發動雷屬性攻擊+降低土屬性耐性",
         "적 전체에 번개속성 피해+땅속성 저항력 감소",
         "Dégâts de foudre et réduit la résistance à la terre de tous les ennemis",
-        null,
-        null
+        "Fügt allen Gegnern Blitzschaden zu und verringert ihre Blitzresistenz.",
+        "Daño de rayo y reduce la res. a la tierra de todos los enemigos."
     ],
     "226975": [
         "Boost lightning resistance by 50%",
         "提高50%雷屬性耐性",
         "번개속성 저항력 50% 상승",
         "Augmente la résistance à la foudre de 50%",
-        null,
-        null
+        "Erhöht Blitzresistenz um 50%.",
+        "Aumenta la res. al rayo un 50%."
     ],
     "226976": [
         "Boost HP and ATK by 20%",
         "提高20%HP攻擊",
         "HP와 공격력 20% 상승",
         "Augmente les PV et l'ATT de 20%",
-        null,
-        null
+        "Erhöht LP und ANG um 20%.",
+        "Aumenta la VIT y el ATQ un 20%."
     ],
     "226977": [
         "Chance of countering with a lightning attack when receiving a physical attack",
         "受到物理攻擊時一定機率以雷屬性進行反擊",
         "물리 공격을 받으면 일정 확률로 번개속성 반격",
         "Chance de contre-attaquer avec une attaque de foudre après avoir subi une attaque physique",
-        null,
-        null
+        "Chance, mit Blitzangriff zu kontern, wenn Benutzer mit phys. Angriff attackiert wird.",
+        "Probabilidad de contraatacar con un ataque de rayo al recibir un ataque físico."
     ],
     "226978": [
         "Boost ATK and DEF when HP falls below a certain point",
         "HP降低到一定數值以下時，提高攻擊防禦",
         "HP가 일정량 이하일 때 공격력과 방어력 상승",
         "Augmente l'ATT et la DEF lorsque les PV descendent en dessous d'un certain seuil",
-        null,
-        null
+        "Erhöht ANG und ABW, wenn die LP unter einen bestimmten Wert fallen.",
+        "Aumenta el ATQ y la DEF cuando la VIT cae por debajo de cierto nivel."
     ],
     "226981": [
         "Deal partial unmitigated damage to one enemy",
@@ -32796,7 +32820,7 @@
         "1回合內可以使用2次特定能力（裝備兩把單手武器時，無法使用）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(한손용 무기 2개 장착 시 사용 불가)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (nicht einsetzbar, wenn zwei einhändige Waffen ausgerüstet sind).",
-        "Las habilidades especiales se pueden usar dos veces en un turno (cuando no llevas dos armas de una mano)",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (nicht einsetzbar, wenn zwei einhändige Waffen ausgerüstet sind).",
         "Las habilidades especiales se pueden usar dos veces en un turno (cuando no llevas dos armas de una mano)"
     ],
     "507040": [
@@ -33463,6 +33487,14 @@
         "Stellt eigene LP und MP wieder her.",
         "Recupera VIT y PM propios"
     ],
+    "507490": [
+        "(One use every 3 turns) Lightning damage to all enemies",
+        "【每3回合可使用1次】對全體敵人發動雷屬性攻擊",
+        "[3턴에 1회 사용 가능] 적 전체에 번개속성 피해",
+        "(Une fois tous les 3 tours) Dégâts de foudre sur tous les ennemis",
+        "(Einmal alle 3 Runden) Fügt allen Feinden Blitzschaden zu.",
+        "(Un uso cada 3 turnos) Daño de rayo a todos los enemigos."
+    ],
     "507500": [
         "Damage and reduce wind resistance for all enemies",
         "攻擊全體敵人+降低風屬性耐性",
@@ -33471,29 +33503,77 @@
         "Fügt allen Gegnern Schaden zu und verringert ihre Windresistenz.",
         "Daña y reduce la res. al viento de todos los enemigos"
     ],
+    "507501": [
+        "Chance of reducing enemy's ATK when receiving a physical attack",
+        "受到物理攻擊時一定機率降低敵人的攻擊",
+        "물리 공격을 받으면 일정 확률로 적의 공격력 감소",
+        "Chance de réduire l'ATT de l'ennemi après avoir subi une attaque physique",
+        "Chance, den ANG eines Gegners zu verringern, wenn Benutzer mit phys. Angriff attackiert wird.",
+        "Probabilidad de reducir el ATQ del enemigo al recibir un ataque físico."
+    ],
+    "507502": [
+        "Add chance of dodging some physical attacks, and caster can dodge some physical attacks one time at the beginning of battle or after being revived",
+        "一定機率可閃避部分物理攻擊+戰鬥開始時和從無法戰鬥狀態中復活時賦予自身可閃避1次部分物理攻擊的效果",
+        "일정 확률로 일부 물리 공격 회피+전투 시작 시 및 전투불능 상태에서 회복했을 때 자신에게 일부 물리 공격 1회 회피 효과 부여",
+        "Ajoute une chance d'esquiver certaines attaques physiques et le lanceur peut esquiver certaines attaques une fois au début du combat après avoir été ressuscité",
+        "Chance, physischen Angriffen auszuweichen und Benutzer kann zu Beginn des Kampfes oder nach Wiederbelebung einigen phys. Angriffen ausweichen.",
+        "Probabilidad de esquivar algunos ataques físicos y el usuario puede esquivar algunos ataques físicos una vez al inicio del combate o tras ser revivido."
+    ],
     "507510": [
-        "Damage and reduce ATK and DEF for one enemy, and enable \"Now we're talkin'!\" for one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Damage one enemy, boost ATK for caster, add earth element to physical attack for self, and enable \"Hyped up!\" for 1 turn",
+        "攻擊1名敵人+提高自身的攻擊+將自身的物理攻擊賦予土屬性+1回合內可使用「情緒MAX！！！」",
+        "적 1명에게 피해+자신의 공격력 상승+물리 공격에 땅속성 부여+1턴 동안 '텐션 MAX!!!' 사용 가능",
+        "Dégâts à un ennemi, augmente l'ATT du lanceur, ajoute l'élément terre aux attaques physiques du lanceur et permet d'utiliser  \"À 100 % !\" pendant 1 tour",
+        "Fügt einem Gegner Schaden zu, erhöht ANG des Benutzers, fügt eigenem phys. Angriff Erdelement zu und ermöglicht eine Runde lang \"Bombenstimmung!\".",
+        "Daña a un enemigo, aumenta el ATQ del usuario y añade elemento tierra a sus ataques físicos, y aprende ¡A tope! durante un turno"
+    ],
+    "507511": [
+        "Damage and reduce earth resistance for one enemy, and boost damage dealt by violent tail next turn",
+        "攻擊1名敵人+降低土屬性耐性+下一回合提高「暴力馬尾」的威力",
+        "적 1명에게 피해+땅속성 저항력 감소+다음 턴에 '난폭한 꼬리'의 위력 상승",
+        "Dégâts, réduit la résistance à la terre d'un ennemi et augmente les dégâts infligés par \"Coup de queue violent\" au tour suivant",
+        "Fügt einem Gegner Schaden zu und verringert seine Erdresistenz + erhöht durch Gewaltschweif hinzugefügten Schaden.",
+        "Daña y reduce la resistencia a la tierra de un enemigo, y aumenta el daño que se inflige con Cola violenta al turno siguiente"
+    ],
+    "507512": [
+        "Chance of charming when receiving a physical or magic attack",
+        "受到物理、魔法攻擊時一定機率施加魅惑效果",
+        "물리, 마법 공격을 받으면 일정 확률로 매혹 부여",
+        "Chance de charmer après avoir subi une attaque physique ou magique",
+        "Chance, Gegner zu bezaubern, wenn Benutzer mit phys. oder mag. Angriff attackiert wird.",
+        "Probabilidad de infligir embrujo al recibir un ataque físico o mágico."
+    ],
+    "507513": [
+        "Nullify poison and charm",
+        "中毒魅惑無效",
+        "독과 매혹 무효화",
+        "Annule poison et charme",
+        "Annulliert Gift und Bezaubern.",
+        "Anula veneno y embrujo."
     ],
     "507514": [
         "Deal partial unmitigated damage to one enemy",
         "對1名敵人發動無視部分防禦的攻擊",
         "적 1명에게 일부 방어 무시 피해",
-        "Dégâts en partie fixes sur un ennemi",
+        "Inflige des dégâts en partie fixes sur un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu.",
-        "Daño absoluto parcial a un enemigo"
+        "Daño parcial absoluto a un enemigo."
     ],
     "507515": [
         "Deal partial unmitigated damage to one enemy",
         "對1名敵人發動無視部分防禦的攻擊",
         "적 1명에게 일부 방어 무시 피해",
-        "Dégâts en partie fixes sur un ennemi",
+        "Inflige des dégâts en partie fixes sur un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu.",
-        "Daño absoluto parcial a un enemigo"
+        "Daño parcial absoluto a un enemigo."
+    ],
+    "507520": [
+        "Chance of countering with a lightning attack when receiving a physical attack",
+        "受到物理攻擊時一定機率以雷屬性進行反擊",
+        "물리 공격을 받으면 일정 확률로 번개속성 반격",
+        "Chance de contre-attaquer avec une attaque de foudre après avoir subi une attaque physique",
+        "Chance, mit Blitzangriff zu kontern, wenn Benutzer mit phys. Angriff attackiert wird.",
+        "Probabilidad de contraatacar con un ataque de rayo al recibir un ataque físico."
     ],
     "507550": [
         null,
@@ -35775,6 +35855,38 @@
         "Erhöht Bezaubern-Resistenz aller Verb.",
         "Aumenta la res. al embrujo de todos los aliados"
     ],
+    "600530": [
+        "Boost evocation damage for Diabolos",
+        "提高「迪亞波羅斯」召喚魔法的威力",
+        "'디아볼로스' 소환 마법 사용 시 피해량 상승",
+        "Augmente les dégâts d'invocation de Diabolos",
+        "Erhöht Rufen-Schaden für Diabolos.",
+        "Aumenta el daño de invocación de Diablo"
+    ],
+    "600540": [
+        "Boost evocation damage for Tetra Sylphid",
+        "提高「四方風精靈」召喚魔法的威力",
+        "'테트라 실피드' 소환 마법 사용 시 피해량 상승",
+        "Augmente les dégâts d'invocation de Tétra-Sylphides",
+        "Erhöht Rufen-Schaden für Tetra Sylphid.",
+        "Aumenta el daño de invocación de Tetra Sílfide"
+    ],
+    "600550": [
+        "Boost evocation damage for Odin",
+        "提高「奧汀」召喚魔法的威力",
+        "'오딘' 소환 마법 사용 시 피해량 상승",
+        "Augmente les dégâts d'invocation de Odin",
+        "Erhöht Rufen-Schaden für Odin.",
+        "Aumenta el daño de invocación de Odin"
+    ],
+    "600560": [
+        "Boost evocation damage for Phoenix",
+        "提高「地獄鳳凰」召喚魔法的威力",
+        "'피닉스' 소환 마법 사용 시 피해량 상승",
+        "Augmente les dégâts d'invocation de Phénix",
+        "Erhöht Rufen-Schaden für Phönix.",
+        "Aumenta el daño de invocación de Fénix"
+    ],
     "600570": [
         "Gradually regenerate HP for all allies",
         "持續恢復全體隊員的HP",
@@ -35798,6 +35910,14 @@
         "Augmente la rés. foudre/lumière de 50%",
         "Blitz und Lichtres. hoch, alle Verb.",
         "Mayor res. a la luz y al rayo de todos los aliados"
+    ],
+    "600640": [
+        "Boost evocation damage for Leviathan",
+        "提高「利維坦」召喚魔法的威力",
+        "'리바이어선' 소환 마법 사용 시 피해량 상승",
+        "Augmente les dégâts d'invocation de Léviathan",
+        "Erhöht Rufen-Schaden für Leviathan.",
+        "Aumenta el daño de invocación de Leviatán"
     ],
     "600650": [
         "Boost water and dark resistance for all allies",
@@ -41745,7 +41865,7 @@
     ],
     "707234": [
         "Chance of countering with a critical hit when receiving a physical attack",
-        "受到物理、魔法攻擊時一定機率降低敵人冰屬性耐性的數值",
+        "受到物理攻擊時一定機率進行暴擊反擊",
         "물리공격을 받으면 일정 확률로 크리티컬 반격",
         "Chance de contre-attaquer en coup critique après avoir reçu une att. phy.",
         "Chance, physischen Angriff eines Gegners mit kritischem Treffer zu kontern.",
@@ -51862,5 +51982,13 @@
         "(Tous les 6 tours) Dissipe plusieurs réductions d'altérations d'état infligées au lanceur, augmente la MAGIE. Augmente les dégâts magiques du lanceur au prochain tour et permet d'utiliser Triple pendant 3 tours",
         "(Ein Mal in 6 Runden) Entfernt einige Statusveränderungen des Anwenders, erhöht MAG, erhöht einmal mag. Schaden des Anwenders in der folg. Runde und ermöglicht 3 Runden lang Tripel.",
         "(Un uso cada 6 turnos) Anula las reducciones de algunos estados del usuario, aumenta la MAG, aumenta el daño mágico del usuario una vez al turno siguiente, y aprende Triple durante 3 turnos"
+    ],
+    "911249": [
+        "Boost ATK and HP by 20%, and fill LB gauge every turn during battle",
+        "提高20%攻擊HP+戰鬥中每回合自動增加極限技槽",
+        "공격력과 HP 20% 상승+전투 중 매 턴마다 LB 게이지 증가",
+        "Augmente l'ATT et les PV de 20% et augmente la jauge de limite à chaque tour",
+        "Erhöht ANG und LP um 20% und füllt jede Runde eines Kampfes Limitmeter.",
+        "Aumenta el ATQ y la VIT un 20%, y rellena la barra de EL cada turno durante el combate"
     ]
 }
