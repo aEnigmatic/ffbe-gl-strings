@@ -1993,7 +1993,7 @@
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GIVEUP": [
         "If you give up now, <color=255:255:0>you cannot use lapis to take any abilities with you</color>. You will lose all gil and items obtained, <color=255:255:0>as well as any and all abilities you have acquired</color>.<br>Do you wish to give up?",
-        "放棄時，<color=255:255:0>將無法使用寶石將其帶回</color>。將會失去獲得的ＧＩＬ與道具，<color=255:255:0>獲得中的能力將會全部失去</color>。<br>要放棄嗎？",
+        "放棄的話，<color=255:255:0>將無法使用寶石將其帶回</color>。將會失去獲得的ＧＩＬ與道具，<color=255:255:0>獲得中的能力將會全部失去</color>。<br>要放棄嗎？",
         "포기하면 <color=255:255:0>라피스를 이용한 획득은 불가능합니다</color>. 획득한 길, 아이템을 모두 잃고, <color=255:255:0>획득 중인 어빌리티를 모두 잃게 됩니다</color>.<br>포기하시겠습니까?",
         "Si vous abandonnez maintenant, <color=255:255:0>vous ne pourrez pas utiliser vos lapis pour prendre les aptitudes avec vous.</color>. Vous perdrez tous vos gils ainsi que les objets obtenus, <color=255:255:0>en plus des aptitudes que vous avez acquises</color>.<br>Voulez-vous abandonner ?",
         "Wenn du jetzt aufgibst, <color=255:255:0>kannst du keine Lapis verwenden, um Fertigkeiten mitzunehmen</color>. Du wirst sowohl sämtliche erhaltenen Gil und Gegenstände als auch <color=255:255:0>alle erhaltenen Fertigkeiten</color> verlieren.<br>Möchtest du aufgeben?",
@@ -8047,6 +8047,14 @@
         "<schmacht>",
         "Se le cayeron los hombros..."
     ],
+    "MST_ABILITY_PARAM_MSG_226935": [
+        "The enemy seems touched...",
+        "怦然心動...",
+        "두근…",
+        "L'ennemi à l'air ému",
+        "Der Gegner ist tief bewegt...",
+        "El enemigo se ve conmovido..."
+    ],
     "MST_ABILITY_PARAM_MSG_226950": [
         "The enemy is slouching...",
         "心花怒放...",
@@ -9570,10 +9578,10 @@
     "MST_LAND_NAME_35": [
         "Visectrum",
         "維瑟庫特拉姆",
-        null,
-        null,
-        null,
-        null
+        "뷔섹트럼",
+        "Visectrum",
+        "Visektrum",
+        "Visectrum"
     ],
     "MST_LIMITBURST_PARAM_MSG_100005304": [
         "The enemy is slouching...",
@@ -11409,11 +11417,11 @@
     ],
     "MST_TOWNSTORE_COMMENT_2": [
         "I'm willing to buy whatever you're selling!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "要賣東西是嗎？",
+        "매입하시려는 거군요!",
+        "J'achèterai tout ce que vous avez à vendre !",
+        "Ich kaufe alles an, das du zu verkaufen hast!",
+        "¡Te compro todo lo que me quieras vender!"
     ],
     "MST_TOWNSTORE_COMMENT_3": [
         "Come back and see me once you've collected some 2nd Anniversary Medals, kupo!",
@@ -11734,6 +11742,14 @@
         "???",
         "???",
         "???"
+    ],
+    "NARY_NAME_1051310": [
+        "Aldore Gunner",
+        "阿爾多爾砲兵",
+        "알도르 포병",
+        "Mitrailleur d'Aldore",
+        "Aldore-Schütze",
+        "Artillero de Aldore"
     ],
     "NEED_GIL": [
         "Gil needed",
@@ -16040,12 +16056,12 @@
         "Período de validez"
     ],
     "TRANSFER_CODE_ISSUE_DONE_EXPIRE_UNTIL": [
-        null,
+        "Until",
         "為止",
         "까지",
-        null,
-        null,
-        null
+        "Jusqu'au",
+        "Bis",
+        "Hasta"
     ],
     "TRANSFER_CODE_ISSUE_DONE_PASSWORD": [
         "Password",
@@ -17255,6 +17271,14 @@
         "<color=255:255:0>Alle Hauptszenario</color>-Missionsabschlussdaten wurden <color=255:255:0>zurückgesetzt</color>.",
         "Todos los datos de objetivos completados en<color=255:255:0>la historia principal</color> han sido <color=255:255:0>restablecidos</color>."
     ],
+    "Y und annulliert Bezaubern.": [
+        "Aumenta el ESP y anula embrujo.",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "YEAR": [
         "year",
         "年",
@@ -17295,6 +17319,14 @@
         "Deine Energie ist wiederhergestellt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tienes la energía al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
     ],
+    "et la PSY de tous les ennemis.": [
+        "Fügt allen Gegnern Dunkelschaden zu und reduziert ihre ANG, ABW, MAG und PSY.",
+        "Inflige daño oscuro a todos los enemigos y reduce su ATQ/DEF/MAG/ESP.",
+        null,
+        null,
+        null,
+        null
+    ],
     "expedition_pn": [
         "Your party has returned from their expedition. Play FINAL FANTASY BRAVE EXVIUS now!",
         "遠征隊已經歸來。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
@@ -17302,6 +17334,30 @@
         "Votre groupe est de retour de son expédition. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Gruppe ist von ihrer Expedition zurückgekehrt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tu grupo ha regresado de su expedición. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
+    ],
+    "gerbread Man": [
+        "薑餅巨人",
+        "거대 진저맨",
+        "Bonhomme d'épices géant",
+        "Riesiger Lebkuchenmann",
+        "Hombre de jengibre gigante",
+        null
+    ],
+    "ión)\n\r\n<br>6.000 (Bonus)": [
+        "12.000 + <br>6.000 (bonificación)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "r=255:0:0>+ 3,600</color> (bonus)": [
+        "12,000個+ <br>6,000個<color=255:0:0>+ 3,600個</color>（獎勵）",
+        "12000개+<br>6000개<color=255:0:0>+ 3600개</color>(보너스)",
+        "12,000 +<br> 6,000<color=255:0:0>+ 3,600</color> (bonus)",
+        "12.000 + <br>6.000<color=255:0:0>+ 3.600</color> (Bonus)",
+        "12.000 + <br>6.000<color=255:0:0>+ 3.600</color> (bonificación)",
+        null
     ],
     "raid_pn": [
         "Your raid orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",
@@ -17358,5 +17414,13 @@
         "Orbes de raid",
         "Raubzugsjuwelen",
         "orbes de Banda"
+    ],
+    "ythos": [
+        "Mito invencible",
+        null,
+        null,
+        null,
+        null,
+        null
     ]
 }

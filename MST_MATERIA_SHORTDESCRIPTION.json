@@ -703,6 +703,14 @@
         "Kann Kurzschwerter benutzen",
         "Permite a la unidad equipar espadas cortas."
     ],
+    "504100770": [
+        "Can equip robes",
+        "可以裝備法袍",
+        "로브 장착 가능",
+        "Permet d'équiper des tuniques",
+        "Lässt Roben ausrüsten.",
+        "Permite equiparse con túnicas."
+    ],
     "504100780": [
         "Can equip large swords",
         "可以裝備大劍",
@@ -3247,6 +3255,14 @@
         "Erhöht eigene LP/MP, reduziert dafür ABW/PSY und verursacht Schlaf beim Benutzer selbst.",
         "Recupera VIT y PM, reduce DEF y ESP y duerme al usuario"
     ],
+    "504222190": [
+        "Boost physical and magic damage dealt to plant monsters",
+        "物理、魔法攻擊時提高對植物系魔物的傷害",
+        "물리, 마법공격 시 식물형 마물에게 부여하는 피해량 상승",
+        "Augmente les dégâts magiques et physiques infligés aux monstres de type plante",
+        null,
+        "Aumenta el daño físico y mágico contra plantas"
+    ],
     "504222860": [
         "Boost fire resistance by 20%, boost ATK when equipped with a sword, and boost HP and ATK when equipped with light armor",
         "提高20%火屬性耐性的數值+提高裝備劍時攻擊的數值+提高裝備輕鎧甲時HP攻擊的數值",
@@ -3478,6 +3494,22 @@
         "Augmente la résistance à feu, glace, foudre, eau, vent, terre, lumière et ténèbres de 30% et augmente la PSY de 50% lorsqu'un bâton est équipé (non cumulable)",
         "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- sowie Dunkelresistenz um 30% und PSY um 50%, wenn mit Stab ausgerüstet (Nicht stapelbar).",
         "Aumenta la resistencia al fuego, hielo, rayo, agua, viento, luz y oscuridad un 30%, y aumenta el ESP un 50% al llevar bastón (no acumulable)"
+    ],
+    "504226894": [
+        "Reduce lightning resistance by 75% and boost DEF and SPR by 40%",
+        "降低75%雷屬性耐性+提高40%防禦精神",
+        "번개속성 저항력 75% 감소+방어력과 정신력 40% 상승",
+        "Réduit la résistance à la foudre de 75% et augmente la DEF et la PSY de 40%",
+        null,
+        "Reduce la res. al rayo un 75% y aumenta la DEF y el ESP un 40%"
+    ],
+    "504226895": [
+        "(One use every 2 turns) Deal partial unmitigated damage to all enemies and reduce DEF and SPR",
+        "【每2回合可使用1次】對全體敵人發動無視部分防禦的攻擊+降低防禦精神",
+        "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
+        "(Une fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
+        null,
+        "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
     ],
     "504226896": [
         "Boost lightning resistance by 20%",
@@ -4358,13 +4390,5 @@
         "Augmente la MAGIE de 40%, ainsi que la DEF et la PSY de 10%",
         "Erhöht MAG um 40% und ABW/PSY um 10%.",
         "Aumenta la MAG un 40%, y la DEF y el ESP un 10%"
-    ],
-    "1500000067": [
-        "Boost ATK and HP by 20%, and fill LB gauge every turn during battle",
-        "提高20%攻擊HP+戰鬥中每回合自動增加極限技槽",
-        "공격력과 HP 20% 상승+전투 중 매 턴마다 LB 게이지 증가",
-        "Augmente l'ATT et les PV de 20% et augmente la jauge de limite à chaque tour",
-        "Erhöht ANG und LP um 20% und füllt jede Runde eines Kampfes Limitmeter.",
-        "Aumenta el ATQ y la VIT un 20%, y rellena la barra de EL cada turno durante el combate"
     ]
 }

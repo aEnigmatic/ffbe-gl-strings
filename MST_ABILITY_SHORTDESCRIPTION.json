@@ -279,6 +279,14 @@
         "Kann Kurzschwerter benutzen",
         "Permite equipar espadas cortas"
     ],
+    "100770": [
+        "Can equip robes",
+        "可以裝備法袍",
+        "로브 장착 가능",
+        "Permet d'équiper des tuniques",
+        "Lässt Roben ausrüsten.",
+        "Permite equiparse con túnicas."
+    ],
     "100780": [
         "Can equip large swords",
         "可以裝備大劍",
@@ -722,7 +730,7 @@
     "101490": [
         "Regenerate HP when guarding",
         "防禦時帶有再生效果",
-        "방어' 상태일 때 서서히 HP 회복",
+        "'방어' 상태일 때 서서히 HP 회복",
         "Regagne des PV en position de défense",
         "Heilt LP beim Verteidigen",
         "Regenera la VIT al estar en guardia"
@@ -3152,7 +3160,7 @@
         "Aumenta la VIT un 5%"
     ],
     "203260": [
-        "Boost physical and magic damage against human monsters",
+        "Boost physical and magic damage against humans",
         "物理、魔法攻擊時提高對人系魔物的傷害",
         "물리, 마법 공격 시 인간형 마물에 대한 피해량 상승",
         "Augmente les dégâts physiques et magiques sur les monstres de type humanoïde",
@@ -14643,7 +14651,7 @@
         "Restore MP for caster and caster can dodge some physical attacks two times",
         "恢復發動者的MP+賦予可防住2次物理攻擊的效果",
         "자신의 MP 회복+일부 물리공격 2회 회피 효과 부여",
-        "Dégâts de foudre sur un ennemi",
+        "Restaure les PM du lanceur et l'utilisateur peut esquiver certaines attaques physiques à deux reprises",
         "Füllt MP auf für Benutzer und Ausweichen vor zwei physischen Angriffen.",
         "Recupera los PM del usuario y este puede esquivar 2 ataques físicos"
     ],
@@ -22711,6 +22719,22 @@
         "Fügt allen Gegnern Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelschaden zu.",
         "Daño de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad a todos los enemigos"
     ],
+    "226894": [
+        "Reduce lightning resistance by 75% and boost DEF and SPR by 40%",
+        "降低75%雷屬性耐性+提高40%防禦精神",
+        "번개속성 저항력 75% 감소+방어력과 정신력 40% 상승",
+        null,
+        "Réduit la résistance à la foudre de 75% et augmente la DEF et la PSY de 40%",
+        "Reduce la res. al rayo un 75% y aumenta la DEF y el ESP un 40%"
+    ],
+    "226895": [
+        "(One use every 2 turns) Deal partial unmitigated damage to all enemies and reduce DEF and SPR",
+        "【每2回合可使用1次】對全體敵人發動無視部分防禦的攻擊+降低防禦精神",
+        "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
+        null,
+        "(1 fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
+        "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
+    ],
     "226896": [
         "Boost lightning resistance by 20%",
         "提高20%雷屬性耐性",
@@ -23990,6 +24014,22 @@
         "Inflige des dégâts en partie fixes et réduit la rés. aux ténèbres d'un ennemi",
         "Fügt Gegner teilweise direkten Schaden zu und reduziert Dunkelresistenz für einen Gegner.",
         "Daño absoluto parcial a un enemigo y reduce su res. a la oscuridad"
+    ],
+    "227400": [
+        null,
+        "魔法攻擊時提高對機械系魔物的傷害",
+        "마법 공격 시 기계형 마물에게 부여하는 피해량 상승",
+        null,
+        null,
+        null
+    ],
+    "227401": [
+        null,
+        "一定機率代替隊員承受魔法攻擊",
+        "일정 확률로 마법 공격을 대신 받음",
+        null,
+        null,
+        null
     ],
     "227422": [
         "Deal partial unmitigated damage to one enemy",
@@ -33463,6 +33503,14 @@
         "Fügt dem Benutzer jede Runde Schaden zu und erhöht seinen ANG um 80%.",
         "Daña al usuario cada turno y aumenta el ATQ un 80%"
     ],
+    "507470": [
+        "(One use every 2 turns) Deal partial unmitigated damage to all enemies and reduce DEF and SPR",
+        "【每2回合可使用1次】對全體敵人發動無視部分防禦的攻擊+降低防禦精神",
+        "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
+        null,
+        "(1 fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
+        "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
+    ],
     "507480": [
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
@@ -35911,6 +35959,14 @@
         "Blitz und Lichtres. hoch, alle Verb.",
         "Mayor res. a la luz y al rayo de todos los aliados"
     ],
+    "600600": [
+        null,
+        "下一回合對全體敵人發動光屬性攻擊",
+        "다음 턴에 적 전체에 빛속성 피해",
+        null,
+        null,
+        null
+    ],
     "600640": [
         "Boost evocation damage for Leviathan",
         "提高「利維坦」召喚魔法的威力",
@@ -36976,7 +37032,7 @@
         "Las piedras de estallido recuperarán más EL, la barra de EL se llena en cada turno y MAG aumenta un 40%"
     ],
     "701330": [
-        "Boost physical and magic damage against human monsters",
+        "Boost physical and magic damage against humans",
         "物理、魔法攻擊時提高對人形系魔物的傷害",
         "물리, 마법공격 시 인간형 마물에게 주는 피해량 상승",
         "Augmente les dégâts physiques et magiques contre les humains",
@@ -36984,7 +37040,7 @@
         "Aumenta el daño físico y mágico contra humanos"
     ],
     "701340": [
-        "Boost physical and magic damage against human monsters",
+        "Boost physical and magic damage against humans",
         "物理、魔法攻擊時提高對人形系魔物的傷害",
         "물리, 마법공격 시 인간형 마물에게 주는 피해량 상승",
         "Augmente les dégâts physiques et magiques contre les humains",
@@ -40896,20 +40952,20 @@
         "Regenera los PM de todos los aliados poco a poco"
     ],
     "706310": [
-        "Nullify paralysis and stone, and boost MP by 20%",
-        "麻痺石化無效+提高20%MP",
-        "마비와 석화 무효화+MP 20% 상승",
-        "Annule paralysie et pétrification, et augmente les PM de 20 %",
-        "Annulliert Lähmung und Stein + erhöht MP um 20%.",
-        "Anula par y pie, aumenta PM un 20%"
+        "Nullify paralysis and stone, and boost MP by 30%",
+        "麻痺石化無效+提高30%MP",
+        "마비와 석화 무효화+MP 30% 상승",
+        "Annule paralysie et pétrification, et augmente les PM de 30 %",
+        "Annulliert Lähmung und Stein + erhöht MP um 30%.",
+        "Anula par y pie, aumenta PM un 30%"
     ],
     "706320": [
-        "Nullify paralysis and stone, and boost HP by 30%, MP by 20%, and lightning resistance by 50%",
-        "麻痺石化無效+提高30%HP、20%MP、50%雷屬性耐性",
-        "마비와 석화 무효화+HP 30%, MP 20%, 번개속성 저항력 50% 상승",
+        "Nullify paralysis and stone, and boost HP by 30%, MP by 30%, and lightning resistance by 50%",
+        "麻痺石化無效+提高30%HP、30%MP、50%雷屬性耐性",
+        "마비와 석화 무효화+HP 30%, MP 30%, 번개속성 저항력 50% 상승",
         "Annule paralysie et pétrification, augmente les PM de 30 % et la résistance à la foudre de 50 %",
-        "Annulliert Lähmung und Stein + erhöht LP um 30%, MP um 20% und Blitzresistenz um 50%.",
-        "Anula par y pie, aumenta VIT un 30%, PM un 20% y la res. al rayo un 50%"
+        "Annulliert Lähmung und Stein + erhöht LP um 30%, MP um 30% und Blitzresistenz um 50%.",
+        "Anula par y pie, aumenta VIT un 30%, PM un 30% y la res. al rayo un 50%"
     ],
     "706330": [
         "Damage and reduce lightning resistance for one enemy",
@@ -43034,7 +43090,7 @@
     "910028": [
         "Deal damage and inflict one enemy with disease",
         "攻擊1名敵人+生病",
-        "적 1명에게 피해+질병",
+        "적 1명에게 피해+질병 부여",
         "Inflige des dégâts et maladie à un ennemi",
         "Fügt einem Gegner Schaden und Virus zu",
         "Inflige daño y enfermedad a todos los enemigos"
@@ -49338,7 +49394,7 @@
     "910830": [
         "Activate unspoken affection when Ang is in party and not KO'd",
         "昂在隊伍內並為可戰鬥狀態時才能發動「無聲愛意」",
-        "앙'이 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '암묵의 애정' 발동",
+        "'앙'이 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '암묵의 애정' 발동",
         "Active Affection secrète lorsqu'Ang est dans le groupe et pas KO",
         "Aktiviert Stumme Zuneigung, wenn Ang in der Gruppe und nicht kampfunfähig.",
         "Activa Afecto tácito cuando Ang está en el equipo (sin estar K.O.)"
@@ -49642,7 +49698,7 @@
     "910868": [
         "Activate loyal love when Yan is in party and not KO'd",
         "燕在隊伍內並為可戰鬥狀態時才能發動「誠實的愛」",
-        "옌'이 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '참된 사랑' 발동",
+        "'옌'이 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '참된 사랑' 발동",
         "Active Amour loyal lorsque Yan est dans le groupe et pas KO",
         "Aktiviert Loyale Liebe, wenn Yan in der Gruppe und nicht kampfunfähig.",
         "Activa Amor fiel cuando Yan está en el equipo (sin estar K.O.)"
@@ -51990,5 +52046,13 @@
         "Augmente l'ATT et les PV de 20% et augmente la jauge de limite à chaque tour",
         "Erhöht ANG und LP um 20% und füllt jede Runde eines Kampfes Limitmeter.",
         "Aumenta el ATQ y la VIT un 20%, y rellena la barra de EL cada turno durante el combate"
+    ],
+    "911252": [
+        "Damage for 1/2 HP and add lightning element to physical attack for one ally",
+        "將1名隊員的物理攻擊賦予雷屬性",
+        "아군 1명의 물리공격에 번개속성 부여",
+        "Ajoute l'élément lumière aux attaques physiques d'un allié",
+        "Fügt Blitzelement für physischen Angriff eines Verb. hinzu",
+        "Añade elemento rayo a ataques físicos de un aliado"
     ]
 }
