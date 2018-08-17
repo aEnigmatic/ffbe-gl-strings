@@ -2996,7 +2996,7 @@
         "物理、魔法攻擊時提高對人形魔物的傷害  [無法重複裝備]",
         "물리, 마법공격 시 인간형 마물에게 주는 피해량 상승 [중복 장착 불가]",
         "Augmente les dégâts physiques et magiques sur les monstres de type humanoïde (non cumulable)",
-        "Erhöht Schaden gegen Menschen (Nicht stapelbar).",
+        "Erhöht phys. und mag. Schaden gegen Menschen (Nicht stapelbar).",
         "Aumenta el daño físico y mágico contra humanos (no acumulable)"
     ],
     "504219930": [
@@ -3260,7 +3260,7 @@
         "物理、魔法攻擊時提高對植物系魔物的傷害",
         "물리, 마법공격 시 식물형 마물에게 부여하는 피해량 상승",
         "Augmente les dégâts magiques et physiques infligés aux monstres de type plante",
-        null,
+        "Erhöht physischen und magischen Schaden gegenüber Pflanzenmonstern",
         "Aumenta el daño físico y mágico contra plantas"
     ],
     "504222860": [
@@ -3500,7 +3500,7 @@
         "降低75%雷屬性耐性+提高40%防禦精神",
         "번개속성 저항력 75% 감소+방어력과 정신력 40% 상승",
         "Réduit la résistance à la foudre de 75% et augmente la DEF et la PSY de 40%",
-        null,
+        "Verringert Blitzresistenz um 75% und erhöht ABW und PSY um 40%",
         "Reduce la res. al rayo un 75% y aumenta la DEF y el ESP un 40%"
     ],
     "504226895": [
@@ -3508,7 +3508,7 @@
         "【每2回合可使用1次】對全體敵人發動無視部分防禦的攻擊+降低防禦精神",
         "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
         "(Une fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
-        null,
+        "(Alle 2 Runden 1 Mal benutzbar) Fügt allen Gegner teilweise direkten Schaden zu und verringert ABW und PSY",
         "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
     ],
     "504226896": [
@@ -3558,6 +3558,14 @@
         "Augmente l'ATT lorsqu'une lance est équipée",
         "Erhöht ANG, wenn mit Speer ausgerüstet.",
         "Aumenta el ATQ al llevar lanza."
+    ],
+    "504400110": [
+        "Halve chance of encounters",
+        "遇敵率減半",
+        "적 발견 확률 반감",
+        "Réduit de moitié le taux de combats aléatoire",
+        "Zufallsbegegnungen halbiert",
+        "Reduce a la mitad los encuentros"
     ],
     "504900400": [
         null,
@@ -4390,5 +4398,13 @@
         "Augmente la MAGIE de 40%, ainsi que la DEF et la PSY de 10%",
         "Erhöht MAG um 40% und ABW/PSY um 10%.",
         "Aumenta la MAG un 40%, y la DEF y el ESP un 10%"
+    ],
+    "1500000067": [
+        "Boost ATK and HP by 20%, and fill LB gauge every turn during battle",
+        "提高20%攻擊HP+戰鬥中每回合自動增加極限技槽",
+        "공격력과 HP 20% 상승+전투 중 매 턴마다 LB 게이지 증가",
+        "Augmente l'ATT et les PV de 20% et augmente la jauge de limite à chaque tour",
+        "Erhöht ANG und LP um 20% und füllt jede Runde eines Kampfes Limitmeter.",
+        "Aumenta el ATQ y la VIT un 20%, y rellena la barra de EL cada turno durante el combate"
     ]
 }

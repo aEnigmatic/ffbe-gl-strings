@@ -3164,7 +3164,7 @@
         "物理、魔法攻擊時提高對人系魔物的傷害",
         "물리, 마법 공격 시 인간형 마물에 대한 피해량 상승",
         "Augmente les dégâts physiques et magiques sur les monstres de type humanoïde",
-        "Erhöht Schaden gegen Menschen",
+        "Erhöht phys. und mag. Schaden gegen Menschen",
         "Aumenta el daño físico y mágico a humanos"
     ],
     "203270": [
@@ -10532,7 +10532,7 @@
         "提高20%風屬性耐性+提高裝備長槍時的攻擊",
         "바람속성 저항력 20% 상승+창 장착 시 공격력 상승",
         "Aug. la rés. au vent de 20% et l'ATT lorsqu'une lance est équipée",
-        "Erhöht Windresistenz um 50% und ANG, wenn mit einem Speer ausgerüstet.",
+        "Erhöht Windresistenz um 20% und ANG, wenn mit einem Speer ausgerüstet.",
         "Aumenta la res. al viento un 20% y el ATQ al llevar una lanza"
     ],
     "212570": [
@@ -20040,7 +20040,7 @@
         "Anula sueño, enfermedad y piedra"
     ],
     "224490": [
-        "Boost MAG when equipped with a rod or robe and enable dual wielding of single-handed weapons",
+        "Boost MAG when equipped with a rod or robe and unit can equip two of any one-handed weapon",
         "提高裝備魔棒法袍時的魔力+可以裝備2把單手武器",
         "홀장 또는 로브 장착 시 마력 상승+한손용 무기 동시에 2개 장착 가능",
         "Augmente la MAGIE lorsqu'un sceptre ou une robe sont équipés et permet d'utiliser Deux mains avec des armes à une main",
@@ -20168,7 +20168,7 @@
         "Daña y probabilidad de parar a todos los enemigos"
     ],
     "224650": [
-        "Damage remove some status effects from one enemy",
+        "Damage and remove some status effects from one enemy",
         "攻擊1名敵人+解除部分狀態效果",
         "적 1명에게 피해+일부 능력치 효과 해제",
         "Inflige des dégâts et retire certains bonus d'un ennemi",
@@ -22723,16 +22723,16 @@
         "Reduce lightning resistance by 75% and boost DEF and SPR by 40%",
         "降低75%雷屬性耐性+提高40%防禦精神",
         "번개속성 저항력 75% 감소+방어력과 정신력 40% 상승",
-        null,
         "Réduit la résistance à la foudre de 75% et augmente la DEF et la PSY de 40%",
+        "Verringert Blitzresistenz um 75% und erhöht ABW und PSY um 40%",
         "Reduce la res. al rayo un 75% y aumenta la DEF y el ESP un 40%"
     ],
     "226895": [
         "(One use every 2 turns) Deal partial unmitigated damage to all enemies and reduce DEF and SPR",
         "【每2回合可使用1次】對全體敵人發動無視部分防禦的攻擊+降低防禦精神",
         "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
-        null,
-        "(1 fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
+        "(Une fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
+        "(Einmal in 2 Runden) Fügt allen Gegner teilweise direkten Schaden zu und verringert ABW und PSY",
         "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
     ],
     "226896": [
@@ -33507,8 +33507,8 @@
         "(One use every 2 turns) Deal partial unmitigated damage to all enemies and reduce DEF and SPR",
         "【每2回合可使用1次】對全體敵人發動無視部分防禦的攻擊+降低防禦精神",
         "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
+        "(Une fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
         null,
-        "(1 fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
         "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
     ],
     "507480": [
@@ -37036,7 +37036,7 @@
         "物理、魔法攻擊時提高對人形系魔物的傷害",
         "물리, 마법공격 시 인간형 마물에게 주는 피해량 상승",
         "Augmente les dégâts physiques et magiques contre les humains",
-        "Erhöht Schaden gegen Menschen",
+        "Erhöht phys. und mag. Schaden gegen Menschen",
         "Aumenta el daño físico y mágico contra humanos"
     ],
     "701340": [
@@ -37044,7 +37044,7 @@
         "物理、魔法攻擊時提高對人形系魔物的傷害",
         "물리, 마법공격 시 인간형 마물에게 주는 피해량 상승",
         "Augmente les dégâts physiques et magiques contre les humains",
-        "Erhöht Schaden gegen Menschen",
+        "Erhöht phys. und mag. Schaden gegen Menschen",
         "Aumenta el daño físico y mágico contra humanos"
     ],
     "701350": [
@@ -40928,12 +40928,12 @@
         "Aumenta la res. al agua un 100% y recupera VIT cada turno"
     ],
     "706280": [
-        "Boost HP and SPR by 15%, water resistance by 100%, and restore HP and MP every turn",
-        "提高15%HP、精神、100%水屬性耐性+每回合恢復HPMP",
-        "HP와 정신력 15% 상승+물속성 저항력 100% 상승+매 턴마다 HP와 MP 회복",
-        "Augmente les PV et la PSY de 15 %, la résistance de l'eau de 100 % et restaure les PV et les PM à chaque tour",
+        "Boost HP and SPR by 30%, water resistance by 100%, and restore HP and MP every turn",
+        "提高30%HP、精神、100%水屬性耐性+每回合恢復HPMP",
+        "HP와 정신력 30% 상승+물속성 저항력 100% 상승+매 턴마다 HP와 MP 회복",
+        "Augmente les PV et la PSY de 30 %, la résistance de l'eau de 100 % et restaure les PV et les PM à chaque tour",
         "Erhöht Wasserresistenz um 100% und regeneriert jede Runde LP.",
-        "Aumenta VIT y ESP un 15%, aumenta la res. al agua un 100% y recupera VIT y PM cada turno"
+        "Aumenta VIT y ESP un 30%, aumenta la res. al agua un 100% y recupera VIT y PM cada turno"
     ],
     "706290": [
         "Gradually regenerate MP for all allies",
