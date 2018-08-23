@@ -5393,11 +5393,19 @@
     ],
     "211000305": [
         "Restore HP and boost DEF and SPR for all allies",
-        "恢復全體隊員的HP+提高防禦精神的數值",
+        "恢復全體隊員的HP+提高防禦精神",
         "아군 전체의 HP 회복+방어력과 정신력 상승",
         "Restaure les PV et augmente la DEF et la PSY de tous les alliés",
         "Regeneriert LP und erhöht ABW und PSY aller Verb.",
         "Recupera VIT y aumenta DEF y ESP de todos los aliados"
+    ],
+    "211000306": [
+        "Restore HP and boost DEF and SPR for all allies",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "211000405": [
         "Deal partial unmitigated damage and reduce DEF and SPR for one enemy",
@@ -5414,6 +5422,78 @@
         "Inflige des dégâts en partie fixes et réduit la DEF et la PSY pour un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert ABW und PSY für einen Gegner.",
         "Daño absoluto parcial y reduce DEF y ESP de un enemigo"
+    ],
+    "211000805": [
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211000806": [
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 2 turns",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211000807": [
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 3 turns",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211000905": [
+        "Chance of instantly KO'ing one enemy or deal partial unmitigated damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211000906": [
+        "Chance of instantly KO'ing one enemy or deal partial unmitigated damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211000907": [
+        "Chance of instantly KO'ing one enemy or deal partial unmitigated damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211001004": [
+        "Reduce damage taken for three turns, and boost DEF and SPR and gradually restore HP and MP for all allies while singing",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211001005": [
+        "Reduce damage taken for three turns, and boost DEF and SPR and gradually restore HP and MP for all allies while singing",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "211001006": [
+        "Reduce damage taken for three turns, and boost DEF and SPR and gradually restore HP and MP for all allies while singing",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "212000103": [
         "Damage all enemies",
@@ -7175,6 +7255,14 @@
         "Fügt allen Gegnern Schaden zu und fügt zuf. Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
         "Daña e inflige ven, ceg, sue, sil, par, con, enf o piedra de forma aleatoria a todos los enemigos"
     ],
+    "306000107": [
+        "Damage and inflict poison, blind, sleep, silence, paralysis, confusion, disease, or stone on random on all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "306000204": [
         "Fire damage and chance of silencing all enemies",
         "對全體敵人發動火屬性攻擊+一定機率施加沉默效果",
@@ -7302,6 +7390,126 @@
         "Augmente la rés. à pois., céc., som., sil., para., conf., mala. pétri.et augmente les chances d'être ciblé",
         "Erhöhte Resistenz gegen Gift, Blind, Schlaf, Stille,Lähmung, Konfus, Virus und Stein und wird häufiger angegriffen.",
         "Aumenta res. a ven, ceg, sil, par, con, enf y pie, y más probabilidad de ser atacado"
+    ],
+    "306000905": [
+        "Critical damage to one enemy",
+        "對1名敵人發動暴擊攻擊",
+        "적 1명에게 크리티컬 피해",
+        null,
+        "Fügt einem Gegner kritischen Schaden zu.",
+        "Daño crítico a un enemigo"
+    ],
+    "306000906": [
+        "Critical damage to one enemy",
+        "對1名敵人發動暴擊攻擊",
+        "적 1명에게 크리티컬 피해",
+        null,
+        "Fügt einem Gegner kritischen Schaden zu.",
+        "Daño crítico a un enemigo"
+    ],
+    "306000907": [
+        "Critical damage to one enemy",
+        "對1名敵人發動暴擊攻擊",
+        "적 1명에게 크리티컬 피해",
+        null,
+        "Fügt einem Gegner kritischen Schaden zu.",
+        "Daño crítico a un enemigo"
+    ],
+    "306001005": [
+        "Ice damage to all enemies",
+        "對全體敵人發動冰屬性攻擊",
+        "적 전체에 얼음속성 피해",
+        null,
+        "Fügt allen Gegnern Eisschaden zu.",
+        "Daño de hielo a todos los enemigos"
+    ],
+    "306001006": [
+        "Ice damage to all enemies",
+        "對全體敵人發動冰屬性攻擊",
+        "적 전체에 얼음속성 피해",
+        null,
+        "Fügt allen Gegnern Eisschaden zu.",
+        "Daño de hielo a todos los enemigos"
+    ],
+    "306001007": [
+        "Ice damage to all enemies",
+        "對全體敵人發動冰屬性攻擊",
+        "적 전체에 얼음속성 피해",
+        null,
+        "Fügt allen Gegnern Eisschaden zu.",
+        "Daño de hielo a todos los enemigos"
+    ],
+    "306001104": [
+        "Damage and remove some status effects from all enemies",
+        "攻擊全體敵人+解除部分狀態效果",
+        "적 전체에 피해+일부 능력치 효과 해제",
+        null,
+        "Fügt allen Gegnern Schaden zu und entfernt einige Statuseffekte.",
+        "Daña y anula todos los estados alterados de todos los enemigos"
+    ],
+    "306001105": [
+        "Damage and remove some status effects from all enemies",
+        "攻擊全體敵人+解除部分狀態效果",
+        "적 전체에 피해+일부 능력치 효과 해제",
+        null,
+        "Fügt allen Gegnern Schaden zu und entfernt einige Statuseffekte.",
+        "Daña y anula todos los estados alterados de todos los enemigos"
+    ],
+    "306001106": [
+        "Damage and remove some status effects from all enemies",
+        "攻擊全體敵人+解除部分狀態效果",
+        "적 전체에 피해+일부 능력치 효과 해제",
+        null,
+        "Fügt allen Gegnern Schaden zu und entfernt einige Statuseffekte.",
+        "Daña y anula todos los estados alterados de todos los enemigos"
+    ],
+    "306001204": [
+        "Lightning damage to one enemy",
+        "對1名敵人發動雷屬性攻擊",
+        "적 1명에게 번개속성 피해",
+        null,
+        "Fügt einem Gegner Blitzschaden zu.",
+        "Daño de rayo a un enemigo"
+    ],
+    "306001205": [
+        "Lightning damage to one enemy",
+        "對1名敵人發動雷屬性攻擊",
+        "적 1명에게 번개속성 피해",
+        null,
+        "Fügt einem Gegner Blitzschaden zu.",
+        "Daño de rayo a un enemigo"
+    ],
+    "306001206": [
+        "Lightning damage to one enemy",
+        "對1名敵人發動雷屬性攻擊",
+        "적 1명에게 번개속성 피해",
+        null,
+        "Fügt einem Gegner Blitzschaden zu.",
+        "Daño de rayo a un enemigo"
+    ],
+    "306001303": [
+        "Boost caster's magic damage once next turn",
+        "下一回合提高1次自身魔法攻擊的威力",
+        "다음 턴에 자신의 마법 공격 피해량 1회 상승",
+        null,
+        "Erhöht eignen mag. Schaden in der folgenden Runde.",
+        "Aumenta el daño mágico del usuario una vez al turno siguiente"
+    ],
+    "306001304": [
+        "Boost caster's magic damage once next turn",
+        "下一回合提高1次自身魔法攻擊的威力",
+        "다음 턴에 자신의 마법 공격 피해량 1회 상승",
+        null,
+        "Erhöht eignen mag. Schaden in der folgenden Runde.",
+        "Aumenta el daño mágico del usuario una vez al turno siguiente"
+    ],
+    "306001305": [
+        "Boost caster's magic damage once next turn",
+        "下一回合提高1次自身魔法攻擊的威力",
+        "다음 턴에 자신의 마법 공격 피해량 1회 상승",
+        null,
+        "Erhöht eignen mag. Schaden in der folgenden Runde.",
+        "Aumenta el daño mágico del usuario una vez al turno siguiente"
     ],
     "309000105": [
         "Deal partial unmitigated damage to one enemy",
@@ -8681,99 +8889,99 @@
     ],
     "401004905": [
         "Deal damage and reduce lightning resistance for one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊1名敵人+降低雷屬性耐性",
+        "적 1명에게 피해+번개속성 저항력 감소",
+        "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
+        "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
+        "Daña y reduce la resistencia al rayo de un enemigo"
     ],
     "401004906": [
         "Deal damage and reduce lightning resistance for one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊1名敵人+降低雷屬性耐性",
+        "적 1명에게 피해+번개속성 저항력 감소",
+        "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
+        "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
+        "Daña y reduce la resistencia al rayo de un enemigo"
     ],
     "401004907": [
         "Deal damage and reduce lightning resistance for one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊1名敵人+降低雷屬性耐性",
+        "적 1명에게 피해+번개속성 저항력 감소",
+        "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
+        "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
+        "Daña y reduce la resistencia al rayo de un enemigo"
     ],
     "401005005": [
         "Deal damage to all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos"
     ],
     "401005006": [
         "Deal damage to all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos"
     ],
     "401005007": [
         "Deal damage to all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos"
     ],
     "401005104": [
         "Deal lightning damage and reduce ATK and DEF for all enemies for 3 turns, and boost own ATK for 3 turns",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對全體敵人發動雷屬性攻擊+3回合內降低攻擊防禦+3回合內提高自身的攻擊",
+        "적 전체에 번개속성 피해+3턴 동안 공격력과 방어력 감소+자신의 공격력 상승",
+        "Inflige des dégâts de foudre et réduit l'ATT et la DEF de tous les ennemis pendant 3 tours et augmente l'ATT du lanceur pendant 3 tours",
+        "Fügt allen Gegnern Blitzschaden zu, verringert 3 Runden lange ihre ANG und ABW und erhöht für 3 Runden eigenen ANG.",
+        "Inflige daño de rayo y reduce el ATQ y la DEF de todos los enemigos durante 3 turnos, aumenta el ATQ del usuario durante 3 turnos"
     ],
     "401005105": [
         "Deal lightning damage and reduce ATK and DEF for all enemies for 3 turns, and boost own ATK for 3 turns",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對全體敵人發動雷屬性攻擊+3回合內降低攻擊防禦+3回合內提高自身的攻擊",
+        "적 전체에 번개속성 피해+3턴 동안 공격력과 방어력 감소+자신의 공격력 상승",
+        "Inflige des dégâts de foudre et réduit l'ATT et la DEF de tous les ennemis pendant 3 tours et augmente l'ATT du lanceur pendant 3 tours",
+        "Fügt allen Gegnern Blitzschaden zu, verringert 3 Runden lange ihre ANG und ABW und erhöht für 3 Runden eigenen ANG.",
+        "Inflige daño de rayo y reduce el ATQ y la DEF de todos los enemigos durante 3 turnos, aumenta el ATQ del usuario durante 3 turnos"
     ],
     "401005106": [
         "Deal lightning damage and reduce ATK and DEF for all enemies for 3 turns, and boost own ATK for 3 turns",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對全體敵人發動雷屬性攻擊+3回合內降低攻擊防禦+3回合內提高自身的攻擊",
+        "적 전체에 번개속성 피해+3턴 동안 공격력과 방어력 감소+자신의 공격력 상승",
+        "Inflige des dégâts de foudre et réduit l'ATT et la DEF de tous les ennemis pendant 3 tours et augmente l'ATT du lanceur pendant 3 tours",
+        "Fügt allen Gegnern Blitzschaden zu, verringert 3 Runden lange ihre ANG und ABW und erhöht für 3 Runden eigenen ANG.",
+        "Inflige daño de rayo y reduce el ATQ y la DEF de todos los enemigos durante 3 turnos, aumenta el ATQ del usuario durante 3 turnos"
     ],
     "401005203": [
         "Increase ATK, MAG, DEF and SPR for all allies, and decrease ATK, MAG, DEF and SPR for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的攻擊魔力防禦精神+降低全體敵人的攻擊魔力防禦精神",
+        "아군 전체의 공격력, 마력, 방어력, 정신력 상승+적 전체의 공격력, 마력, 방어력, 정신력 감소",
+        "Augmente l'ATT, la MAGIE, la DEF et la PSY de tous les alliés et diminue l'ATT, la MAGIE, la DEF et la PSY de tous les ennemis",
+        "Erhöht ANG, MAG, ABW und PSY aller Verbündeter und verringert ANG, MAG, ABW und PSY aller Gegner.",
+        "Aumenta ATQ, MAG, DEF y ESP de todos los aliados, y reduce ATQ, MAG, DEF y ESP de todos los enemigos"
     ],
     "401005204": [
         "Increase ATK, MAG, DEF and SPR for all allies, and decrease ATK, MAG, DEF and SPR for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的攻擊魔力防禦精神+降低全體敵人的攻擊魔力防禦精神",
+        "아군 전체의 공격력, 마력, 방어력, 정신력 상승+적 전체의 공격력, 마력, 방어력, 정신력 감소",
+        "Augmente l'ATT, la MAGIE, la DEF et la PSY de tous les alliés et diminue l'ATT, la MAGIE, la DEF et la PSY de tous les ennemis",
+        "Erhöht ANG, MAG, ABW und PSY aller Verbündeter und verringert ANG, MAG, ABW und PSY aller Gegner.",
+        "Aumenta ATQ, MAG, DEF y ESP de todos los aliados, y reduce ATQ, MAG, DEF y ESP de todos los enemigos"
     ],
     "401005205": [
         "Increase ATK, MAG, DEF and SPR for all allies, and decrease ATK, MAG, DEF and SPR for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的攻擊魔力防禦精神+降低全體敵人的攻擊魔力防禦精神",
+        "아군 전체의 공격력, 마력, 방어력, 정신력 상승+적 전체의 공격력, 마력, 방어력, 정신력 감소",
+        "Augmente l'ATT, la MAGIE, la DEF et la PSY de tous les alliés et diminue l'ATT, la MAGIE, la DEF et la PSY de tous les ennemis",
+        "Erhöht ANG, MAG, ABW und PSY aller Verbündeter und verringert ANG, MAG, ABW und PSY aller Gegner.",
+        "Aumenta ATQ, MAG, DEF y ESP de todos los aliados, y reduce ATQ, MAG, DEF y ESP de todos los enemigos"
     ],
     "900000027": [
         "Damage and chance of stopping and reduce DEF for all enemies and fully restore own HP",
