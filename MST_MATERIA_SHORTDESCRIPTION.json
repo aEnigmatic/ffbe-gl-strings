@@ -3269,7 +3269,7 @@
         "불속성 저항력 20% 상승+검 장착 시 공격력 상승+경갑 장착 시 HP와 공격력 상승",
         "Augmente la rés. au feu de 20%, l'ATT lorsqu'une épée est équipée ainsi que les PV et l'ATT lorsqu'une armure légère est équipée",
         "Erhöht Feuerresistenz um 20%. Erhöht ANG, wenn mit Schwert, und LP/ANG, wenn mit leichter Rüstung ausgerüstet.",
-        "Aumenta la res. al fuego un 20%, aumenta el ATQ al llevar una espada y aumenta la VIT y el ATQ al llevar una armadura pesada"
+        "Aumenta la res. al fuego un 20%, aumenta el ATQ al llevar una espada y aumenta la VIT y el ATQ al llevar una armadura ligera"
     ],
     "504222870": [
         "Decrease chance of being targeted and boost ATK when equipped with a short sword",
@@ -3401,7 +3401,7 @@
     ],
     "504225930": [
         "Boost physical and magic damage dealt to beasts, insects, avian monsters, humans, and plants",
-        "物理、魔法攻擊時提高對野獸、鳥、人形、蟲、植物系魔物的傷害",
+        "物理、魔法攻擊時提高對獸、鳥、人、蟲、植物系魔物的傷害",
         "물리, 마법공격 시 야수, 조류, 인간, 곤충, 식물형 마물에게 주는 피해량 상승",
         "Augmente les dégâts physiques et magiques infligés aux bêtes, aux oiseaux, aux insectes, aux humains, et aux monstres de type plante.",
         "Erhöht phys. und mag. Schaden gegen Bestien, Vögel, Menschen, Insekten und Pflanzen.",
@@ -3584,12 +3584,12 @@
         null
     ],
     "504227209": [
-        "Boost MAG when equipped with a staff and restore MP every turn (Not stackable)",
+        "Boost MAG when equipped with a rod and restore MP every turn (Not stackable)",
         "提高裝備魔棒時的魔力+每回合恢復MP [無法重複裝備]",
         "홀장 장착 시 마력 상승+매 턴마다 MP 회복 (중복 장착 불가)",
         "Augmente la MAGIE lorsqu'un sceptre est équipé et restaure des PM à chaque tour (non cumulable)",
-        "Erhöht MAG wenn mit Stab ausgerüstet und stellt bei jedem Zug MP wieder her (Nicht stapelbar).",
-        "Aumenta la MAG al llevar vara y recupera PM cada turno (no acumulable)"
+        "Erhöht MAG wenn mit Rute ausgerüstet und stellt bei jedem Zug MP wieder her (Nicht stapelbar).",
+        "Aumenta la MAG al llevar una vara y recupera PM cada turno (no acumulable)"
     ],
     "504227237": [
         "Boost ATK when equipped with a sword or helm (Not stackable)",
@@ -3614,6 +3614,30 @@
         "Augmente la DEF et la PSY de 10 %",
         "Erhöht ABW und PSY um 10%.",
         "Aumenta la DEF y el ESP un 10%"
+    ],
+    "504227410": [
+        "Boost DEF and SPR by 30%, and chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone when receiving a physical attack",
+        "提高30%防禦精神+受到物理攻擊時一定機率施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "방어력과 정신력 30% 상승+물리 공격을 받으면 일정 확률로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
+        "Augmente la DEF et la PSY de 30% et confère une chance de contre-attaquer avec poison, cécité, sommeil, silence, paralysie, confusion, maladie ou pétrification quand vous subissez une attaque physique",
+        null,
+        "Aumenta la DEF y el ESP un 30% y puede infligir ven, ceg, sue, sil, par, con, enf o pie al recibir un ataque físico"
+    ],
+    "504227411": [
+        "Remove some status effects and inflict random ailment on all enemies",
+        "解除全體敵人的部分狀態效果+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "적 전체의 일부 능력치 효과 해제+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
+        "Dissipe certains effets de statut et inflige une altération d'état aléatoire à tous les ennemis",
+        null,
+        "Anula algunos estados alterados e inflige uno al azar a todos los enemigos"
+    ],
+    "504227926": [
+        "Boost fire, ice, and lightning resistance by 30%",
+        "提高30%火冰雷屬性耐性",
+        "불, 얼음, 번개속성 저항력 30% 상승",
+        null,
+        null,
+        "Aumenta la res. al fuego, hielo y rayo un 30%"
     ],
     "504400110": [
         "Halve chance of encounters",

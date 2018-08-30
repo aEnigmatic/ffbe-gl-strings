@@ -130,7 +130,7 @@
     "101003500": [
         "Revive all allies from being KO'd.",
         null,
-        null,
+        "아군 전체의 전투불능 상태 모두 회복",
         null,
         "Belebt alle Verbündeten wieder und regeneriert ihre LP vollständig.",
         null
@@ -138,7 +138,7 @@
     "101003600": [
         "Revive and full restore one ally.",
         null,
-        null,
+        "전투불능 상태인 아군 1명을 모두 회복",
         null,
         null,
         null
@@ -146,7 +146,7 @@
     "101003700": [
         "Dispels all effects on a unit.",
         null,
-        null,
+        "아군 1명의 일부 능력치 감소 효과 해제",
         null,
         null,
         null
@@ -154,7 +154,7 @@
     "101003800": [
         "Restore a moderate amount of MP to one ally.",
         null,
-        null,
+        "아군 1명의 MP 회복",
         null,
         null,
         null
@@ -162,7 +162,7 @@
     "101003900": [
         "Reduce damage taken by all allies for three turns.",
         null,
-        null,
+        "3턴 동안 아군 전체가 받는 피해량 감소",
         null,
         null,
         null
@@ -530,7 +530,7 @@
     "105006400": [
         "Boost ATK and gradually restore HP for all allies.",
         null,
-        null,
+        "아군 전체의 공격력 상승+HP 서서히 회복",
         null,
         null,
         null
@@ -538,7 +538,7 @@
     "105006500": [
         "Cast reflect on one ally.",
         null,
-        null,
+        "아군1명에게 리플렉트 효과 부여",
         null,
         null,
         null
@@ -546,7 +546,7 @@
     "105006600": [
         "A flag that brings in blessed winds.",
         null,
-        null,
+        "축복의 바람을 불러오는 깃발",
         null,
         null,
         null
@@ -554,7 +554,7 @@
     "105006700": [
         "A small gavel that lowers a target's ability.",
         null,
-        null,
+        "대상의 능력을 떨어뜨리는 작은 망치",
         null,
         null,
         null
@@ -562,7 +562,7 @@
     "105006800": [
         "A small gavel that lowers a target's ability.",
         null,
-        null,
+        "대상의 능력을 떨어뜨리는 작은 망치",
         null,
         null,
         null
@@ -570,7 +570,7 @@
     "105006900": [
         "Fill LB gauge by a small amount for one ally.",
         null,
-        null,
+        "아군의 LB 게이지를 소폭 증가시키는 약",
         null,
         null,
         null
@@ -698,7 +698,7 @@
     "106211150": [
         "A ticket that can be used to get specific units.",
         null,
-        null,
+        "특정 유닛과 교환할 수 있는 티켓",
         null,
         null,
         null
@@ -1050,7 +1050,7 @@
     "106304300": [
         "A coin etched with the image of King Mog.",
         null,
-        null,
+        "모그리 왕이 그려진 아름다운 코인",
         null,
         null,
         null
@@ -1064,25 +1064,25 @@
         "Una carta que se usa en un juego bastante popular de un mundo lejano."
     ],
     "106304500": [
-        "A coin that serves as proof of one's battle against the Lord of the Underworld from a faraway world.",
+        "A coin that serves as proof of one's battle against the Lord of the Underworld.",
         null,
-        null,
+        "지옥의 황제와 싸운 증거로서 손에 넣을 수 있는 코인",
         null,
         null,
         null
     ],
     "106304600": [
         "A crystal that came from another world.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "來自異界的水晶",
+        "이계에서 유입된 크리스탈",
+        "Un cristal venu d'un autre monde.",
+        "Ein Kristall aus einer anderen Welt.",
+        "Un cristal de otro mundo."
     ],
     "106304700": [
         "A coin that serves as proof of one's battle against an amalgamated beast from a faraway world.",
         "用來證明挑戰過合成魔獸的硬幣",
-        "이계에서 나타난 합성 마수와 싸운 증거로서 손에 넣을 수 있는 코인.",
+        "합성 마수와 싸운 증거로서 손에 넣을 수 있는 코인",
         "Une pièce qui atteste d'une bataille livrée contre une bête chimérique d'un monde lointain.",
         "Eine Münze, die als Beweis für den Kampf mit einer aus vielen Teilen zusammengesetzten Bestie dient.",
         "Una moneda que sirve como prueba de que se luchó contra una bestia fusionada de un mundo lejano."
@@ -1090,7 +1090,7 @@
     "106304800": [
         "A beautiful, transparent bottle.",
         null,
-        null,
+        "아름답고 투명한 빈 병",
         null,
         null,
         null
@@ -1098,7 +1098,7 @@
     "106304900": [
         "A coin that serves as proof of one's battle against the king of a lost kingdom from a faraway world.",
         null,
-        null,
+        "망국의 왕과 싸운 증거로서 손에 넣을 수 있는 코인",
         null,
         null,
         null
@@ -1106,7 +1106,7 @@
     "106305000": [
         "An icicle that will never melt that came from a faraway world.",
         null,
-        null,
+        "이계에서 유입된 녹지 않는 고드름",
         null,
         null,
         null
@@ -1114,7 +1114,7 @@
     "106305100": [
         "A coin that serves as proof of one's battle against a divine beast from a faraway world.",
         null,
-        null,
+        "신수와 싸운 증거로서 손에 넣을 수 있는 코인",
         null,
         null,
         null
@@ -1122,7 +1122,7 @@
     "106305200": [
         "A tag from a faraway world that proves a person's existence.",
         null,
-        null,
+        "고인의 삶의 증거가 되는 이계의 태그",
         null,
         null,
         null
@@ -1130,7 +1130,7 @@
     "106305300": [
         "A coin proving one has faced a powerful enemy.",
         null,
-        null,
+        "강력한 특정 보스에게 용감무쌍하게 맞선 자의 증명",
         null,
         null,
         null
@@ -1138,7 +1138,7 @@
     "106305400": [
         "A fang that holds the power of earth.",
         null,
-        null,
+        "땅의 힘이 깃든 송곳니",
         null,
         null,
         null
@@ -1937,56 +1937,56 @@
     ],
     "109302000": [
         "A fragment of a yellow slab shaped like a fan.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "扇形的黃色石板碎片",
+        "부채꼴 모양의 노란 석판 조각",
+        "Un fragment d'un bloc jaune en forme d'éventail.",
+        "Das fächerförmige Fragment einer gelben Schiefertafel.",
+        "Un fragmento de losa amarilla con forma de abanico."
     ],
     "109302010": [
         "A fragment of a yellow slab shaped like a fan.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "扇形的黃色石板碎片",
+        "부채꼴 모양의 노란 석판 조각",
+        "Un fragment d'un bloc jaune en forme d'éventail.",
+        "Das fächerförmige Fragment einer gelben Schiefertafel.",
+        "Un fragmento de losa amarilla con forma de abanico."
     ],
     "109302020": [
         "A fragment of a yellow slab shaped like a fan.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "扇形的黃色石板碎片",
+        "부채꼴 모양의 노란 석판 조각",
+        "Un fragment d'un bloc jaune en forme d'éventail.",
+        "Das fächerförmige Fragment einer gelben Schiefertafel.",
+        "Un fragmento de losa amarilla con forma de abanico."
     ],
     "109302030": [
         "A fragment of a yellow slab shaped like a fan.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "扇形的黃色石板碎片",
+        "부채꼴 모양의 노란 석판 조각",
+        "Un fragment d'un bloc jaune en forme d'éventail.",
+        "Das fächerförmige Fragment einer gelben Schiefertafel.",
+        "Un fragmento de losa amarilla con forma de abanico."
     ],
     "109302040": [
         "A fragment of a yellow slab shaped like a fan.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "扇形的黃色石板碎片",
+        "부채꼴 모양의 노란 석판 조각",
+        "Un fragment d'un bloc jaune en forme d'éventail.",
+        "Das fächerförmige Fragment einer gelben Schiefertafel.",
+        "Un fragmento de losa amarilla con forma de abanico."
     ],
     "109302050": [
         "A fragment of a yellow slab shaped like a fan.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "扇形的黃色石板碎片",
+        "부채꼴 모양의 노란 석판 조각",
+        "Un fragment d'un bloc jaune en forme d'éventail.",
+        "Das fächerförmige Fragment einer gelben Schiefertafel.",
+        "Un fragmento de losa amarilla con forma de abanico."
     ],
     "110000100": [
         "A map of the Farplane sought by King Mog.",
         null,
-        null,
+        "모그리 왕이 찾고 있는 이계의 지도",
         null,
         null,
         null
@@ -1994,7 +1994,7 @@
     "110000200": [
         "A map of the Farplane sought by King Mog.",
         null,
-        null,
+        "모그리 왕이 찾고 있는 이계의 지도",
         null,
         null,
         null
@@ -2002,7 +2002,7 @@
     "110000300": [
         "A map of the Farplane sought by King Mog.",
         null,
-        null,
+        "모그리 왕이 찾고 있는 이계의 지도",
         null,
         null,
         null
@@ -2010,7 +2010,7 @@
     "110000400": [
         "A map of the Farplane sought by King Mog.",
         null,
-        null,
+        "모그리 왕이 찾고 있는 이계의 지도",
         null,
         null,
         null
@@ -2018,7 +2018,7 @@
     "110000500": [
         "A map of the Farplane sought by King Mog.",
         null,
-        null,
+        "모그리 왕이 찾고 있는 이계의 지도",
         null,
         null,
         null
@@ -2434,7 +2434,7 @@
     "203000600": [
         "An ore containing very hard crystals.",
         null,
-        null,
+        "초고경도의 결정을 포함한 광물",
         null,
         null,
         null
@@ -3496,49 +3496,49 @@
         "Material de una banda llamada \"¡Derrotemos a Jie Revorse!\""
     ],
     "221000100": [
-        "A raid material  obtained from the Estark's Challenge raid.",
+        "A raid material obtained from the Estark's Challenge raid.",
         null,
-        null,
+        "'에스타크 챌린지' 레이드 재료",
         null,
         null,
         null
     ],
     "221000200": [
-        "A raid material  obtained from the Estark's Challenge raid.",
+        "A raid material obtained from the Estark's Challenge raid.",
         null,
-        null,
+        "'에스타크 챌린지' 레이드 재료",
         null,
         null,
         null
     ],
     "221000300": [
-        "A raid material  obtained from the Estark's Challenge raid.",
+        "A raid material obtained from the Estark's Challenge raid.",
         null,
-        null,
+        "'에스타크 챌린지' 레이드 재료",
         null,
         null,
         null
     ],
     "221000400": [
-        "A raid material  obtained from the Estark's Challenge raid.",
+        "A raid material obtained from the Estark's Challenge raid.",
         null,
-        null,
+        "'에스타크 챌린지' 레이드 재료",
         null,
         null,
         null
     ],
     "221000500": [
-        "A raid material  obtained from the Estark's Challenge raid.",
+        "A raid material obtained from the Estark's Challenge raid.",
         null,
-        null,
+        "'에스타크 챌린지' 레이드 재료",
         null,
         null,
         null
     ],
     "221000600": [
-        "A raid material  obtained from the Estark's Challenge raid.",
+        "A raid material obtained from the Estark's Challenge raid.",
         null,
-        null,
+        "'에스타크 챌린지' 레이드 재료",
         null,
         null,
         null
@@ -3546,7 +3546,7 @@
     "221000700": [
         "FFBE Raid - Dracotaur Lancer raid material.",
         null,
-        null,
+        "'제2회 유닛 일러스트 콘테스트 레이드' 레이드 재료",
         "Matériau du raid FFBE - Lancier dracotaure",
         null,
         null
@@ -3554,7 +3554,7 @@
     "221000800": [
         "FFBE Raid - Dracotaur Lancer raid material.",
         null,
-        null,
+        "'제2회 유닛 일러스트 콘테스트 레이드' 레이드 재료",
         "Matériau du raid FFBE - Lancier dracotaure",
         null,
         null
@@ -3562,7 +3562,7 @@
     "221000900": [
         "FFBE Raid - Dracotaur Lancer raid material.",
         null,
-        null,
+        "'제2회 유닛 일러스트 콘테스트 레이드' 레이드 재료",
         "Matériau du raid FFBE - Lancier dracotaure",
         null,
         null
@@ -3570,7 +3570,7 @@
     "221001000": [
         "FFBE Raid - Dracotaur Lancer raid material.",
         null,
-        null,
+        "'제2회 유닛 일러스트 콘테스트 레이드' 레이드 재료",
         "Matériau du raid FFBE - Lancier dracotaure",
         null,
         null
@@ -3578,7 +3578,7 @@
     "221001100": [
         "FFBE Raid - Dracotaur Lancer raid material.",
         null,
-        null,
+        "'제2회 유닛 일러스트 콘테스트 레이드' 레이드 재료",
         "Matériau du raid FFBE - Lancier dracotaure",
         null,
         null
@@ -3586,7 +3586,7 @@
     "222000100": [
         "A raid material obtained from the Lost City of Dipan raid.",
         null,
-        null,
+        "'잃어버린 도시 디판' 레이드 재료",
         null,
         null,
         null
@@ -3594,7 +3594,7 @@
     "222000200": [
         "A raid material obtained from the Lost City of Dipan raid.",
         null,
-        null,
+        "'잃어버린 도시 디판' 레이드 재료",
         null,
         null,
         null
@@ -3602,7 +3602,7 @@
     "222000300": [
         "A raid material obtained from the Lost City of Dipan raid.",
         null,
-        null,
+        "'잃어버린 도시 디판' 레이드 재료",
         null,
         null,
         null
@@ -3610,7 +3610,7 @@
     "222000400": [
         "A raid material obtained from the Lost City of Dipan raid.",
         null,
-        null,
+        "'잃어버린 도시 디판' 레이드 재료",
         null,
         null,
         null
@@ -3618,7 +3618,7 @@
     "222000500": [
         "A raid material obtained from the Lost City of Dipan raid.",
         null,
-        null,
+        "'잃어버린 도시 디판' 레이드 재료",
         null,
         null,
         null
@@ -3626,7 +3626,7 @@
     "223000100": [
         "A raid material obtained from The Divine Beast raid.",
         null,
-        null,
+        "'성스러운 신수' 레이드 재료",
         null,
         null,
         null
@@ -3634,7 +3634,7 @@
     "223000200": [
         "A raid material obtained from The Divine Beast raid.",
         null,
-        null,
+        "'성스러운 신수' 레이드 재료",
         null,
         null,
         null
@@ -3642,7 +3642,7 @@
     "223000300": [
         "A raid material obtained from The Divine Beast raid.",
         null,
-        null,
+        "'성스러운 신수' 레이드 재료",
         null,
         null,
         null
@@ -3650,7 +3650,7 @@
     "223000400": [
         "A raid material obtained from The Divine Beast raid.",
         null,
-        null,
+        "'성스러운 신수' 레이드 재료",
         null,
         null,
         null
@@ -3658,7 +3658,7 @@
     "223000500": [
         "A raid material obtained from The Divine Beast raid.",
         null,
-        null,
+        "'성스러운 신수' 레이드 재료",
         null,
         null,
         null
@@ -3666,7 +3666,7 @@
     "224000100": [
         "A raid material obtained from the Tomb of the Silversmith raid.",
         null,
-        null,
+        "'은세공사의 유적' 레이드 재료",
         null,
         null,
         null
@@ -3674,7 +3674,7 @@
     "224000200": [
         "A raid material obtained from the Tomb of the Silversmith raid.",
         null,
-        null,
+        "'은세공사의 유적' 레이드 재료",
         null,
         null,
         null
@@ -3682,7 +3682,7 @@
     "224000300": [
         "A raid material obtained from the Tomb of the Silversmith raid.",
         null,
-        null,
+        "'은세공사의 유적' 레이드 재료",
         null,
         null,
         null
@@ -3690,7 +3690,7 @@
     "224000400": [
         "A raid material obtained from the Tomb of the Silversmith raid.",
         null,
-        null,
+        "'은세공사의 유적' 레이드 재료",
         null,
         null,
         null
@@ -3698,7 +3698,7 @@
     "224000500": [
         "A raid material obtained from the Tomb of the Silversmith raid.",
         null,
-        null,
+        "'은세공사의 유적' 레이드 재료",
         null,
         null,
         null

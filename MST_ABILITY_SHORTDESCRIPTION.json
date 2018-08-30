@@ -8724,7 +8724,7 @@
         "對1名敵人發動無視部分防禦的攻擊+將自身的物理攻擊賦予雷屬性",
         "적 1명에게 일부 방어 무시 피해+자신의 물리공격에 번개속성 부여",
         "Inflige des dégâts en partie fixe sur un ennemi et ajoute l'élément foudre aux attaques physiques du lanceur",
-        "Fügt einem Gegner Blitzschaden zu und Eiselement für eigenen phy. Angriff.",
+        "Fügt einem Gegner Blitzschaden zu und Blitzelement für eigenen phys. Angriff.",
         "Daño absoluto parcial a un enemigo y añade elemento rayo a ataques físicos propios"
     ],
     "210320": [
@@ -11736,12 +11736,12 @@
         "Aumenta el ATQ propio y las piedras de estallido recuperarán más EL"
     ],
     "214070": [
-        "Restore own HP and MP",
-        "恢復自身的HP、MP",
-        "자신의 HP와 MP 회복",
-        "Restaure les PV et PM du lanceur",
-        "Stellt eigene LP und MP wieder her.",
-        "Recupera VIT y PM propios"
+        "Restore HP and MP and cure poison and blind for caster",
+        "恢復發動者的HPMP和中毒與失明狀態",
+        "자신의 HP, MP, 독, 암흑 회복",
+        "Rend PV et PM à l'utilisateur et retire poison et cécité",
+        "Heilt MP und LP und Blenden/ Gift bei Benutzer",
+        "Recupera VIT/PM y cura veneno/ceguera"
     ],
     "214080": [
         "Boost ATK and DEF when equipped with clothes",
@@ -13076,7 +13076,7 @@
         "提高全體隊員的防禦精神",
         "아군 전체의 방어력과 정신력 상승",
         "Augmente la DEF et la PSY de tous les alliés",
-        "Verringert ABW und PSY aller Gegner.",
+        "Verringert APSY und ABW hoch, alle Ziele",
         "Aumenta DEF y ESP de todos los aliados"
     ],
     "215750": [
@@ -16027,8 +16027,8 @@
         "Fully restore HP and cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for one ally",
         "完全恢復1名隊員的HP+治療1名隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態",
         "아군 1명의 HP 모두 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
-        "Restaure complètement les PV et soigne poi., céc., som., sil., para., conf., mala. et pétri pour tous les alliés",
-        "Stellt LP ganz wieder her und heilt Gift, Blenden, Schlaf, Stille,Lähmung, Konfus, Virus und Stein, ein Verb.",
+        "Restaure tous les PV d'un allié et soigne poi., céc., som., sil., para., conf., mala. et pétri pour tous",
+        "Stellt LP eines Verb. vollständig wieder her und heilt Gift, Blenden, Schlaf, Stille,Lähmung, Konfus, Virus und Stein",
         "Recupera toda la VIT y cura ven, ceg, sue, sil, par, con, enf y pie a un aliado"
     ],
     "219450": [
@@ -17568,12 +17568,12 @@
         "Daña y puede confundir a todos los enemigos"
     ],
     "221380": [
-        "Reduce ATK for all enemies and temporarily increase chance of being targeted for self",
+        "Reduce ATK and MAG for all enemies and temporarily increase chance of being targeted for self",
         "降低全體敵人的攻擊魔力+暫時性容易被敵人攻擊",
         "적 전체에 공격력과 마력 감소+일시적으로 적의 공격 대상이 될 확률 상승",
-        "Réduit l'ATT de tous les ennemis et aug. temp. les chances du lanceur d'être ciblé",
-        "Reduziert ANG aller Gegner und erhöht kurzfristig eigene Wahrsch. zum Ziel zu werden.",
-        "Reduce el ATQ de todos los enemigos y aumenta la posibilidad de ser atacado temporalmente"
+        "Réduit l'ATT et la MAGIE de tous les ennemis et aug. temp. les chances du lanceur d'être ciblé",
+        "Reduziert ANG und MAG aller Gegner und erhöht kurzfristig eigene Wahrsch. zum Ziel zu werden.",
+        "Reduce el ATQ y la MAG de todos los enemigos y aumenta la posibilidad de ser atacado temporalmente"
     ],
     "221390": [
         "Deal partial unmitigated damage to one enemy",
@@ -18741,7 +18741,7 @@
         "불속성 저항력 20% 상승+검 장착 시 공격력 상승+경갑 장착 시 HP와 공격력 상승",
         "Augmente la résistance au feu de 20 % et augmente l'ATT lorsqu'une épée est équipée, et augmente les PV et l'ATT quand une armure légère est équipée",
         "Erhöht Feuerresistenz um 20%, ANG, wenn mit Schwert ausgerüstet und erhöht LP/ANG, wenn mit leichter Rüstung ausgerüstet.",
-        "Aumenta la res. al fuego un 20%, aumenta el ATQ al llevar espada y aumenta la VIT y el ATQ al llevar armadura L"
+        "Aumenta la res. al fuego un 20%, aumenta el ATQ al llevar espada y aumenta la VIT y el ATQ al llevar armadura ligera"
     ],
     "222870": [
         "Decrease chance of being targeted and boost ATK when equipped with a short sword",
@@ -18917,7 +18917,7 @@
         "불속성 저항력 50% 상승+경갑 장착 시 공격력과 방어력 상승",
         "Augmente la résistance au feu de 50 %, et l'ATT et la DEF lorsqu'une armure légère est équipée",
         "Erhöht Feuerresistenz um 50% und ANG/ABW, wenn mit leichter Rüstung ausgerüstet.",
-        "Aumenta la res. al fuego un 50% y el ATQ y la DEF al llevar armadura L"
+        "Aumenta la res. al fuego un 50% y el ATQ y la DEF al llevar armadura ligera"
     ],
     "223090": [
         "Nullify confusion and charm",
@@ -21185,7 +21185,7 @@
     ],
     "225920": [
         "Chance of instantly KO'ing or deal partial unmitigated damage and chance of poisoning or inflicting disease on one enemy",
-        "一定機率對1名敵人施加致死一擊效果或發動無視部分防禦的攻擊+一定機率施加毒生病的效果",
+        "一定機率對1名敵人施加致死一擊效果或發動無視部分防禦的攻擊+一定機率施加中毒或生病的效果",
         "적 1명에게 일정 확률로 즉사 부여 또는 일부 방어 무시 피해+일정 확률로 독 또는 질병 부여",
         "Chance de mettre instantanément KO ou d'infliger des dégâts en partie fixes à un ennemi et d'empoisonner ou d'infliger maladie à un ennemi",
         "Chance, einen Gegner sofort auszuschalten, oder fügt ihm teilweise direkten Schaden zu + Chance auf Gift oder Virus.",
@@ -21193,7 +21193,7 @@
     ],
     "225930": [
         "Boost physical and magic damage dealt to beasts, insects, avian monsters, humans, and plants",
-        "物理、魔法攻擊時提高對野獸、鳥、人形、蟲、植物系魔物的傷害",
+        "物理、魔法攻擊時提高對獸、鳥、人、蟲、植物系魔物的傷害",
         "물리, 마법공격 시 야수, 조류, 인간, 곤충, 식물형 마물에게 주는 피해량 상승",
         "Augmente les dégâts physiques et magiques infligés aux bêtes, aux oiseaux, aux insectes, aux humains, et aux monstres de type plante.",
         "Erhöht phys. und mag. Schaden gegen Bestien, Vögel, Menschen, Insekten und Pflanzen.",
@@ -21813,7 +21813,7 @@
         "경갑과 중갑 장착 시 방어력과 정신력 30% 상승",
         "Augmente la DEF et la PSY de 30% lors qu'une armure légère ou lourde est équipée",
         "Erhöht ABW und PSY um 30%, wenn ein leichte oder schwere Rüstung ausgerüstet wird.",
-        "Aumenta la DEF y el ESP un 30% al llevar escudo ligero o pesado"
+        "Aumenta la DEF y el ESP un 30% al llevar armadura ligera o pesada"
     ],
     "226620": [
         "Damage one enemy",
@@ -23201,7 +23201,7 @@
     ],
     "226982": [
         "Reduce damage taken for caster for three turns",
-        "3回合內減少對發動者的傷害",
+        "3回合內減少對自身的傷害",
         "3턴 동안 자신이 받는 피해량 감소",
         "Réduit les dégâts reçus par le lanceur pendant trois tours",
         "Reduziert für drei Runde den Schaden, den der Benutzer erleidet",
@@ -23332,7 +23332,7 @@
         null,
         null,
         null,
-        null,
+        "Fügt allen Gegnern zwei Mal Schaden zu + Chance auf Lähmung",
         null
     ],
     "227003": [
@@ -23482,7 +23482,7 @@
     "227040": [
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
-        "특정 어빌리티를 1턴에 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "1턴에 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
         "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
@@ -23869,7 +23869,7 @@
         "MP 50%, 마력과 정신력 30% 상승",
         "Augmente les PM de 50 %, et la MAGIE et la PSY de 30 %",
         "Erhöht MAG um 40% und Chance, eigenen Limitmeter zu füllen, wenn mit phys. oder mag. Angriff getroffen.",
-        "Aumenta los PM un 50 y la MAG y el ESP un 30%"
+        "Aumenta los PM un 50% y la MAG y el ESP un 30%"
     ],
     "227202": [
         "Restore MP every turn and LB gauge fills each turn",
@@ -23928,11 +23928,11 @@
         "Aumenta la MAG un 40% y la probabilidad de rellenar la barra de EL del usuario al recibir un ataque físico o mágico"
     ],
     "227209": [
-        "Restore MP every turn and boost MAG by 80% when equipped with a staff",
+        "Restore MP every turn and boost MAG by 80% when equipped with a rod",
         "每回合恢復MP+提高80%裝備魔棒時的魔力",
         "매 턴마다 MP 회복+홀장 장착 시 마력 80% 상승",
         "Restaure des PM à chaque tour et augmente la MAGIE de 80 % lorsqu'un sceptre est équipé",
-        "Stellt jede Runde MP wieder her und erhöht MAG um 80%, wenn mit Stab ausgerüstet.",
+        "Stellt jede Runde MP wieder her und erhöht MAG um 80%, wenn mit Rute ausgerüstet.",
         "Recupera PM cada turno y aumenta la MAG un 80% al llevar una vara"
     ],
     "227220": [
@@ -24017,7 +24017,7 @@
     ],
     "227230": [
         "Consume own HP to damage one enemy",
-        "消耗自身的的HP對1名敵人發動攻擊",
+        "消耗自身的HP對1名敵人發動攻擊",
         "자신의 HP를 소비하여 적 1명에게 피해",
         "Consume les PV du lanceur pour infliger des dégâts à un ennemi",
         "Verbraucht LP des Benutzers um einem Gegner Schaden zuzufügen.",
@@ -24255,6 +24255,22 @@
         "Erhöht Lichtresistenz um 30%.",
         "Aumenta la resistencia a la luz un 30%"
     ],
+    "227280": [
+        "Damage one enemy and deal partial unmitigated damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "227281": [
+        "Damage one enemy and then all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "227282": [
         "Damage and reduce fire resistance for one enemy",
         "攻擊1名敵人+降低火屬性耐性",
@@ -24302,6 +24318,14 @@
         "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "227292": [
+        "(One use every 5 turns) Deal partial unmitigated damage to one enemy and then to all enemies, and reduce fire and lightning resistance for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "227300": [
         "Temporarily guard select ally against physical and magic damage and boost own SPR",
@@ -24366,6 +24390,22 @@
         "Esquive parfois les attaques physiques",
         "Chance, physischen Angriffen auszuweichen",
         "Posibilita evadir ataques físicos"
+    ],
+    "227316": [
+        "Boost ATK by 30% when equipped with a large sword",
+        "提高30%裝備大劍時的攻擊",
+        "대검 장착 시 공격력 30% 상승",
+        "Augmente l'ATT de 30% lorsqu'une épée longue est équipée",
+        "Erhöht ANG um 30%, wenn mit Großschwert ausgerüstet.",
+        "Aumenta el ATQ un 30% al llevar espada larga"
+    ],
+    "227317": [
+        "Boost ATK by 15% when equipped with a large sword",
+        "提高50%裝備大劍時的攻擊",
+        "대검 장착 시 공격력 15% 상승",
+        "Augmente l'ATT de 15% lorsqu'une épée longue est équipée",
+        "Erhöht ANG um 15%, wenn mit Großschwert ausgerüstet.",
+        "Aumenta el ATQ un 15% al llevar espada larga"
     ],
     "227340": [
         "Boost MP and MAG by 20% and light and dark resistance by 5%",
@@ -24528,20 +24568,36 @@
         "Daño absoluto parcial a un enemigo y reduce su res. a la oscuridad"
     ],
     "227400": [
-        null,
+        "Boost magic damage against machina monsters",
         "魔法攻擊時提高對機械系魔物的傷害",
-        "마법 공격 시 기계형 마물에게 부여하는 피해량 상승",
-        null,
-        null,
-        null
+        "마법공격 시 기계형 마물에게 주는 피해량 상승",
+        "Augmente les dégâts magiques contre les machines",
+        "Erhöht mag. Schaden gegen Maschinen.",
+        "Aumenta el daño mágico contra máquinas"
     ],
     "227401": [
-        null,
+        "Chance of taking magic damage for one ally",
         "一定機率代替隊員承受魔法攻擊",
-        "일정 확률로 마법 공격을 대신 받음",
+        "일정 확률로 마법공격을 대신 받음",
+        "Chance de prendre des dégâts magiques pour un allié",
+        "Chance, mag. Schaden anstelle von ein Verb. zu nehmen.",
+        "Posibilita recibir daño mágico por un aliado"
+    ],
+    "227410": [
+        "Boost DEF and SPR by 30%, and chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone when receiving a physical attack",
+        "提高30%防禦精神+受到物理攻擊時一定機率施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "방어력과 정신력 30% 상승+물리 공격을 받으면 일정 확률로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
+        "Augmente la DEF et la PSY de 30% et confère une chance de contre-attaquer avec poison, cécité, sommeil, silence, paralysie, confusion, maladie ou pétrification quand vous subissez une attaque physique",
         null,
+        "Aumenta la DEF y el ESP un 30% y puede infligir ven, ceg, sue, sil, par, con, enf o pie al recibir un ataque físico"
+    ],
+    "227411": [
+        "Remove some status effects and inflict random ailment on all enemies",
+        "解除全體敵人的部分狀態效果+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "적 전체의 일부 능력치 효과 해제+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
+        "Dissipe certains effets de statut et inflige une altération d'état aléatoire à tous les ennemis",
         null,
-        null
+        "Anula algunos estados alterados e inflige uno al azar a todos los enemigos"
     ],
     "227422": [
         "Deal partial unmitigated damage to one enemy",
@@ -25606,6 +25662,22 @@
         "Augmente le taux de coups critiques",
         "Erhöht die Chance auf kritische Treffer",
         "Aumenta la probabilidad de crítico"
+    ],
+    "227925": [
+        "Boost HP by 10% and DEF by 30% when equipped with heavy armor",
+        "裝備重鎧甲時提高10%HP、30%防禦",
+        "중갑 장착 시 HP 10%, 방어력 30% 상승",
+        "Augmente les PV de 10% et la DEF de 30% quand une armure lourde est équipée",
+        null,
+        "Aumenta la VIT un 10% y la DEF un 30% al llevar armadura pesada"
+    ],
+    "227926": [
+        "Boost fire, ice, and lightning resistance by 30%",
+        "提高30%火冰雷屬性耐性",
+        "불, 얼음, 번개속성 저항력 30% 상승",
+        "Augmente la résistance au feu, à la glace et à la foudre de 30%",
+        null,
+        "Aumenta la res. al fuego, hielo y rayo un 30%"
     ],
     "227935": [
         "Boost damage for jump attacks",
@@ -33835,7 +33907,7 @@
         "Wind damage one enemy, boost earth resistance for all allies, and add wind element to own physical attack",
         "對1名敵人發動風屬性攻擊+提高全體隊員的土屬性耐性+將自身的物理攻擊賦予風屬性",
         "적 1명에게 바람속성 피해+아군 전체의 땅속성 저항력 상승+자신의 물리 공격에 바람속성 부여",
-        null,
+        "Dégâts de vent à un ennemi, augmente la résistance à la terre de tous les alliés et ajoute l'élément vent aux attaques physiques du lanceur",
         "Fügt einem Gegner Windschaden zu, erhöht die Erdresistenz aller Verb. und fügt eigenem phys. Angriff Windelement hinzu.",
         "Daño de viento a un enemigo, aumenta la res. a la tierra de todos los aliados y añade elemento viento a los ataques físicos propios"
     ],
@@ -33843,7 +33915,7 @@
         "Wind damage and reduce wind resistance for one enemy, add wind element to own physical attack, boost earth resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動風屬性攻擊+降低風屬性耐性+將自身的物理攻擊賦予風屬性+提高全體隊員的土屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 바람속성 피해+바람속성 저항력 감소+자신의 물리 공격에 바람속성 부여+아군 전체의 땅속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de vent et réduit la résistance au vent d'un ennemi, ajoute l'élément vent aux attaques physiques du lanceur, augmente la résistance à la terre de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Windschaden zu, verringert seine Windresistenz, erhöht die Erdresistenz aller Verb., fügt eigenem phys. Angriff Windelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de viento y reduce la res. al viento de un enemigo, añade elemento viento a los ataques físicos propios, aumenta la res. a la tierra de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33851,7 +33923,7 @@
         "Fire damage one enemy, boost water resistance for all allies, and add fire element to own physical attack",
         "對1名敵人發動火屬性攻擊+提高全體隊員的水屬性耐性+將自身的物理攻擊賦予火屬性",
         "적 1명에게 불속성 피해+아군 전체의 물속성 저항력 상승+자신의 물리 공격에 불속성 부여",
-        null,
+        "Dégâts de feu à un ennemi, augmente la résistance à l'eau de tous les alliés et ajoute l'élément feu aux attaques physiques du lanceur",
         "Fügt einem Gegner Feuerschaden zu, erhöht die Wasserresistenz aller Verb. und fügt eigenem phys. Angriff Feuerelement hinzu.",
         "Daño de fuego a un enemigo, aumenta la res. al agua de los aliados y añade elemento fuego a los ataques físicos propios"
     ],
@@ -33859,7 +33931,7 @@
         "Fire damage and reduce fire resistance for one enemy, add fire element to own physical attack, boost water resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動火屬性攻擊+降低火屬性耐性+將自身的物理攻擊賦予火屬性+提高全體隊員的水屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 불속성 피해+불속성 저항력 감소+자신의 물리 공격에 불속성 부여+아군 전체의 물속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de feu et réduit la résistance au feu d'un ennemi, ajoute l'élément feu aux attaques physiques du lanceur, augmente la résistance à l'eau de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Feuerschaden zu, verringert seine Feuerresistenz, erhöht die Wasserresistenz aller Verb., fügt eigenem phys. Angriff Feuerelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de fuego y reduce la res. al fuego de un enemigo, añade elemento fuego a los ataques físicos propios, aumenta la res. al agua de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33867,7 +33939,7 @@
         "Water damage one enemy, boost fire resistance for all allies, and add water element to own physical attack",
         "對1名敵人發動水屬性攻擊+提高全體隊員的火屬性耐性+將自身的物理攻擊賦予水屬性",
         "적 1명에게 물속성 피해+아군 전체의 불속성 저항력 상승+자신의 물리 공격에 물속성 부여",
-        null,
+        "Dégâts d'eau à un ennemi, augmente la résistance au feu de tous les alliés et ajoute l'élément eau aux attaques physiques du lanceur",
         "Fügt einem Gegner Wasserschaden zu, erhöht die Feuerresistenz aller Verb. und fügt eigenem phys. Angriff Wasserelement hinzu.",
         "Daño de agua a un enemigo, aumenta la res. al fuego de los aliados y añade elemento agua a los ataques físicos propios"
     ],
@@ -33875,7 +33947,7 @@
         "Water damage and reduce water resistance for one enemy, add water element to own physical attack, boost fire resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動水屬性攻擊+降低水屬性耐性+將自身的物理攻擊賦予水屬性+提高全體隊員的火屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 물속성 피해+물속성 저항력 감소+자신의 물리 공격에 물속성 부여+아군 전체의 불속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts d'eau et réduit la résistance à l'eau d'un ennemi, ajoute l'élément eau aux attaques physiques du lanceur, augmente la résistance au feu de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Wasserschaden zu, verringert seine Wasserresistenz, erhöht die Feuerresistenz aller Verb., fügt eigenem phys. Angriff Wasserelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de agua y reduce la res. al agua de un enemigo, añade elemento agua a los ataques físicos propios, aumenta la res. al fuego de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33883,7 +33955,7 @@
         "Earth damage one enemy, boost wind resistance for all allies, and add earth element to own physical attack",
         "對1名敵人發動土屬性攻擊+提高全體隊員的風屬性耐性+將自身的物理攻擊賦予土屬性",
         "적 1명에게 땅속성 피해+아군 전체의 바람속성 저항력 상승+자신의 물리 공격에 땅속성 부여",
-        null,
+        "Dégâts de terre à un ennemi, augmente la résistance au vent de tous les alliés et ajoute l'élément terre aux attaques physiques du lanceur",
         "Fügt einem Gegner Erdschaden zu, erhöht die Windresistenz aller Verb. und fügt eigenem phys. Angriff Erdelement hinzu.",
         "Daño de tierra a un enemigo, aumenta la res. al viento de los aliados y añade elemento tierra a los ataques físicos propios"
     ],
@@ -33891,7 +33963,7 @@
         "Earth damage and reduce earth resistance for one enemy, add earth element to own physical attack, boost wind resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動土屬性攻擊+降低土屬性耐性+將自身的物理攻擊賦予土屬性+提高全體隊員的風屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 땅속성 피해+땅속성 저항력 감소+자신의 물리 공격에 땅속성 부여+아군 전체의 바람속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de terre et réduit la résistance à la terre d'un ennemi, ajoute l'élément terre aux attaques physiques du lanceur, augmente la résistance au vent de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Erdschaden zu, verringert seine Erdresistenz, erhöht die Windresistenz aller Verb., fügt eigenem phys. Angriff Erdelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de tierra y reduce la res. a la tierra de un enemigo, añade elemento tierra a los ataques físicos propios, aumenta la res. al viento de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33931,7 +34003,7 @@
         "Wind damage one enemy, boost earth resistance for all allies, and add wind element to own physical attack",
         "對1名敵人發動風屬性攻擊+提高全體隊員的土屬性耐性+將自身的物理攻擊賦予風屬性",
         "적 1명에게 바람속성 피해+아군 전체의 땅속성 저항력 상승+자신의 물리 공격에 바람속성 부여",
-        null,
+        "Dégâts de vent à un ennemi, augmente la résistance à la terre de tous les alliés et ajoute l'élément vent aux attaques physiques du lanceur",
         "Fügt einem Gegner Windschaden zu, erhöht die Erdresistenz aller Verb. und fügt eigenem phys. Angriff Windelement hinzu.",
         "Daño de viento a un enemigo, aumenta la res. a la tierra de todos los aliados y añade elemento viento a los ataques físicos propios"
     ],
@@ -33939,7 +34011,7 @@
         "Wind damage and reduce wind resistance for one enemy, add wind element to own physical attack, boost earth resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動風屬性攻擊+降低風屬性耐性+將自身的物理攻擊賦予風屬性+提高全體隊員的土屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 바람속성 피해+바람속성 저항력 감소+자신의 물리 공격에 바람속성 부여+아군 전체의 땅속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de vent et réduit la résistance au vent d'un ennemi, ajoute l'élément vent aux attaques physiques du lanceur, augmente la résistance à la terre de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Windschaden zu, verringert seine Windresistenz, erhöht die Erdresistenz aller Verb., fügt eigenem phys. Angriff Windelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de viento y reduce la res. al viento de un enemigo, añade elemento viento a los ataques físicos propios, aumenta la res. a la tierra de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33947,7 +34019,7 @@
         "Fire damage one enemy, boost water resistance for all allies, and add fire element to own physical attack",
         "對1名敵人發動火屬性攻擊+提高全體隊員的水屬性耐性+將自身的物理攻擊賦予火屬性",
         "적 1명에게 불속성 피해+아군 전체의 물속성 저항력 상승+자신의 물리 공격에 불속성 부여",
-        null,
+        "Dégâts de feu à un ennemi, augmente la résistance à l'eau de tous les alliés et ajoute l'élément feu aux attaques physiques du lanceur",
         "Fügt einem Gegner Feuerschaden zu, erhöht die Wasserresistenz aller Verb. und fügt eigenem phys. Angriff Feuerelement hinzu.",
         "Daño de fuego a un enemigo, aumenta la res. al agua de los aliados y añade elemento fuego a los ataques físicos propios"
     ],
@@ -33955,7 +34027,7 @@
         "Fire damage and reduce fire resistance for one enemy, add fire element to own physical attack, boost water resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動火屬性攻擊+降低火屬性耐性+將自身的物理攻擊賦予火屬性+提高全體隊員的水屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 불속성 피해+불속성 저항력 감소+자신의 물리 공격에 불속성 부여+아군 전체의 물속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de feu et réduit la résistance au feu d'un ennemi, ajoute l'élément feu aux attaques physiques du lanceur, augmente la résistance à l'eau de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Feuerschaden zu, verringert seine Feuerresistenz, erhöht die Wasserresistenz aller Verb., fügt eigenem phys. Angriff Feuerelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de fuego y reduce la res. al fuego de un enemigo, añade elemento fuego a los ataques físicos propios, aumenta la res. al agua de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33963,7 +34035,7 @@
         "Water damage one enemy, boost fire resistance for all allies, and add water element to own physical attack",
         "對1名敵人發動水屬性攻擊+提高全體隊員的火屬性耐性+將自身的物理攻擊賦予水屬性",
         "적 1명에게 물속성 피해+아군 전체의 불속성 저항력 상승+자신의 물리 공격에 물속성 부여",
-        null,
+        "Dégâts d'eau à un ennemi, augmente la résistance au feu de tous les alliés et ajoute l'élément eau aux attaques physiques du lanceur",
         "Fügt einem Gegner Wasserschaden zu, erhöht die Feuerresistenz aller Verb. und fügt eigenem phys. Angriff Wasserelement hinzu.",
         "Daño de agua a un enemigo, aumenta la res. al fuego de los aliados y añade elemento agua a los ataques físicos propios"
     ],
@@ -33971,7 +34043,7 @@
         "Water damage and reduce water resistance for one enemy, add water element to own physical attack, boost fire resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動水屬性攻擊+降低水屬性耐性+將自身的物理攻擊賦予水屬性+提高全體隊員的火屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 물속성 피해+물속성 저항력 감소+자신의 물리 공격에 물속성 부여+아군 전체의 불속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts d'eau et réduit la résistance à l'eau d'un ennemi, ajoute l'élément eau aux attaques physiques du lanceur, augmente la résistance au feu de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Wasserschaden zu, verringert seine Wasserresistenz, erhöht die Feuerresistenz aller Verb., fügt eigenem phys. Angriff Wasserelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de agua y reduce la res. al agua de un enemigo, añade elemento agua a los ataques físicos propios, aumenta la res. al fuego de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -33979,7 +34051,7 @@
         "Earth damage one enemy, boost wind resistance for all allies, and add earth element to own physical attack",
         "對1名敵人發動土屬性攻擊+提高全體隊員的風屬性耐性+將自身的物理攻擊賦予土屬性",
         "적 1명에게 땅속성 피해+아군 전체의 바람속성 저항력 상승+자신의 물리 공격에 땅속성 부여",
-        null,
+        "Dégâts de terre à un ennemi, augmente la résistance au vent de tous les alliés et ajoute l'élément terre aux attaques physiques du lanceur",
         "Fügt einem Gegner Erdschaden zu, erhöht die Windresistenz aller Verb. und fügt eigenem phys. Angriff Erdelement hinzu.",
         "Daño de tierra a un enemigo, aumenta la res. al viento de los aliados y añade elemento tierra a los ataques físicos propios"
     ],
@@ -33987,7 +34059,7 @@
         "Earth damage and reduce earth resistance for one enemy, add earth element to own physical attack, boost wind resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動土屬性攻擊+降低土屬性耐性+將自身的物理攻擊賦予土屬性+提高全體隊員的風屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 땅속성 피해+땅속성 저항력 감소+자신의 물리 공격에 땅속성 부여+아군 전체의 바람속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de terre et réduit la résistance à la terre d'un ennemi, ajoute l'élément terre aux attaques physiques du lanceur, augmente la résistance au vent de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Erdschaden zu, verringert seine Erdresistenz, erhöht die Windresistenz aller Verb., fügt eigenem phys. Angriff Erdelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de tierra y reduce la res. a la tierra de un enemigo, añade elemento tierra a los ataques físicos propios, aumenta la res. al viento de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -34362,7 +34434,7 @@
     "507560": [
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
-        "특정 어빌리티를 1턴에 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "1턴에 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
         "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
@@ -34713,7 +34785,7 @@
     ],
     "507728": [
         "Temporarily add chance of counterattacking when an ally receives a physical attack for all allies",
-        "對全體隊員發動暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊的效果",
+        "對除自身以外的全體隊員施加暫時性受到物理攻擊時一定機率發動反擊的效果",
         "아군 전체에 일시적으로 자신을 제외한 아군이 물리 공격을 받으면 일정 확률로 반격하는 효과 부여",
         "Permet temporairement à tous les alliés d'avoir une chance de contre-attaquer quand un allié subit une attaque physique",
         "Kurzzeitige Chance alle Verb. auf Konter, wenn ein Verbündeter von einem physischen Angriff attackiert wird.",
@@ -34721,7 +34793,7 @@
     ],
     "507729": [
         "Temporarily add chance of counterattacking when an ally receives a physical attack for all allies",
-        "對全體隊員發動暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊",
+        "對除自身以外的全體隊員施加暫時性受到物理攻擊時一定機率發動反擊的效果",
         "아군 전체에 일시적으로 자신을 제외한 아군이 물리 공격을 받으면 일정 확률로 반격하는 효과 부여",
         "Permet temporairement à tous les alliés d'avoir une chance de contre-attaquer quand un allié subit une attaque physique",
         "Fügt temporär Chance auf einen Gegenangriff hinzu, wenn ein Verbündeter von einem physischen Angriff getroffen wird, alle Verb.",
@@ -34766,6 +34838,14 @@
         "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "507742": [
+        "(One use every 5 turns) Deal partial unmitigated damage to one enemy and then to all enemies, and reduce fire and lightning resistance for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "507750": [
         "Damage one enemy with boosted damage against reapers",
@@ -35462,6 +35542,14 @@
         "Chance de prendre temporairement des dégâts physiques à la place des alliés en état de garde",
         "Chance, Verb. kurzzeitig gegen phys. Schaden zu verteidigen.",
         "Posibilita proteger a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "507910": [
+        "Boost DEF and SPR by 30%, and chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone when receiving a physical attack",
+        "提高30%防禦精神+受到物理攻擊時一定機率施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "방어력과 정신력 30% 상승+물리 공격을 받으면 일정 확률로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
+        "Augmente la DEF et la PSY de 30% et confère une chance de contre-attaquer avec poison, cécité, sommeil, silence, paralysie, confusion, maladie ou pétrification quand vous subissez une attaque physique",
+        null,
+        "Aumenta la DEF y el ESP un 30% y puede infligir ven, ceg, sue, sil, par, con, enf o pie al recibir un ataque físico"
     ],
     "507921": [
         "Damage all enemies two times",
@@ -36752,12 +36840,12 @@
         "Mayor res. a la luz y al rayo de todos los aliados"
     ],
     "600600": [
-        null,
+        "Light damage to all enemies next turn",
         "下一回合對全體敵人發動光屬性攻擊",
         "다음 턴에 적 전체에 빛속성 피해",
-        null,
-        null,
-        null
+        "Dégâts de lumière sur tous les ennemis au tour suivant",
+        "Fügt allen Gegnern in der folgenden Runde Lichtschaden zu.",
+        "Daño de luz a todos los enemigos al turno sig."
     ],
     "600640": [
         "Boost evocation damage for Leviathan",
@@ -41709,13 +41797,13 @@
         "LB 게이지 효율 상승+독, 수면, 혼란, 질병 저항력 상승+검, 투구, 경갑 장착 시 공격력, 방어력, 정신력 상승",
         "Les pierres remplissent la jauge de limite, augmente la résistance au poison, sommeil, confusion et maladie, et augmente l'ATT, la DEF et la PSY quand une épée, un casque ou une armure légère est équipé",
         "Verstärkt Effekt von Limitsteinen und erhöht Resistenz gegen Gift, Schlaf, Konfus und Virus + erhöht ANG, ABW und PSY, wenn mit Schwert, Helm oder leichter Rüstung ausgerüstet.",
-        "Las piedras de estallido recuperan más EL, aumenta la res. al ven, sue, con y enf y aumenta ATQ/DEF/ESP al llevar espada, casco o armadura L"
+        "Las piedras de estallido recuperan más EL, aumenta la res. al ven, sue, con y enf y aumenta ATQ/DEF/ESP al llevar espada, casco o armadura ligera"
     ],
     "706190": [
         "Wind damage one enemy, boost earth resistance for all allies, and add wind element to own physical attack",
         "對1名敵人發動風屬性攻擊+提高全體隊員的土屬性耐性+將自身的物理攻擊賦予風屬性",
         "적 1명에게 바람속성 피해+아군 전체의 땅속성 저항력 상승+자신의 물리 공격에 바람속성 부여",
-        null,
+        "Dégâts de vent sur un ennemi, augmente la résistance à la terre de tous les alliés et ajoute l'élément vent aux attaques physiques du lanceur",
         "Fügt einem Gegner Windschaden zu, erhöht die Erdresistenz aller Verb. und fügt eigenem phys. Angriff Windelement hinzu.",
         "Daño de viento a un enemigo, aumenta la res. a la tierra de todos los aliados y añade elemento viento a los ataques físicos propios"
     ],
@@ -41723,7 +41811,7 @@
         "Wind damage and reduce wind resistance for one enemy, add wind element to own physical attack, boost earth resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動風屬性攻擊+降低風屬性耐性+將自身的物理攻擊賦予風屬性+提高全體隊員的土屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 바람속성 피해+바람속성 저항력 감소+자신의 물리 공격에 바람속성 부여+아군 전체의 땅속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de vent et réduit la résistance au vent d'un ennemi, ajoute l'élément vent aux attaques physiques du lanceur, augmente la résistance à la terre de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Windschaden zu, verringert seine Windresistenz, erhöht die Erdresistenz aller Verb., fügt eigenem phys. Angriff Windelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de viento y reduce la res. al viento de un enemigo, añade elemento viento a los ataques físicos propios, aumenta la res. a la tierra de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -41731,7 +41819,7 @@
         "Fire damage one enemy, boost water resistance for all allies, and add fire element to own physical attack",
         "對1名敵人發動火屬性攻擊+提高全體隊員的水屬性耐性+將自身的物理攻擊賦予火屬性",
         "적 1명에게 불속성 피해+아군 전체의 물속성 저항력 상승+자신의 물리 공격에 불속성 부여",
-        null,
+        "Dégâts de feu à un ennemi, augmente la résistance à l'eau de tous les alliés et ajoute l'élément feu aux attaques physiques du lanceur",
         "Fügt einem Gegner Feuerschaden zu, erhöht die Wasserresistenz aller Verb. und fügt eigenem phys. Angriff Feuerelement hinzu.",
         "Daño de fuego a un enemigo, aumenta la res. al agua de los aliados y añade elemento fuego a los ataques físicos propios"
     ],
@@ -41739,7 +41827,7 @@
         "Fire damage and reduce fire resistance for one enemy, add fire element to own physical attack, boost water resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動火屬性攻擊+降低火屬性耐性+將自身的物理攻擊賦予火屬性+提高全體隊員的水屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 불속성 피해+불속성 저항력 감소+자신의 물리 공격에 불속성 부여+아군 전체의 물속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de feu et réduit la résistance au feu d'un ennemi, ajoute l'élément feu aux attaques physiques du lanceur, augmente la résistance à l'eau de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Feuerschaden zu, verringert seine Feuerresistenz, erhöht die Wasserresistenz aller Verb., fügt eigenem phys. Angriff Feuerelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de fuego y reduce la res. al fuego de un enemigo, añade elemento fuego a los ataques físicos propios, aumenta la res. al agua de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -41747,7 +41835,7 @@
         "Water damage one enemy, boost fire resistance for all allies, and add water element to own physical attack",
         "對1名敵人發動水屬性攻擊+提高全體隊員的火屬性耐性+將自身的物理攻擊賦予水屬性",
         "적 1명에게 물속성 피해+아군 전체의 불속성 저항력 상승+자신의 물리 공격에 물속성 부여",
-        null,
+        "Dégâts d'eau à un ennemi, augmente la résistance au feu de tous les alliés et ajoute l'élément eau aux attaques physiques du lanceur",
         "Fügt einem Gegner Wasserschaden zu, erhöht die Feuerresistenz aller Verb. und fügt eigenem phys. Angriff Wasserelement hinzu.",
         "Daño de agua a un enemigo, aumenta la res. al fuego de los aliados y añade elemento agua a los ataques físicos propios"
     ],
@@ -41755,7 +41843,7 @@
         "Water damage and reduce water resistance for one enemy, add water element to own physical attack, boost fire resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動水屬性攻擊+降低水屬性耐性+將自身的物理攻擊賦予水屬性+提高全體隊員的火屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 물속성 피해+물속성 저항력 감소+자신의 물리 공격에 물속성 부여+아군 전체의 불속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts d'eau et réduit la résistance à l'eau d'un ennemi, ajoute l'élément eau aux attaques physiques du lanceur, augmente la résistance au feu de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Wasserschaden zu, verringert seine Wasserresistenz, erhöht die Feuerresistenz aller Verb., fügt eigenem phys. Angriff Wasserelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de agua y reduce la res. al agua de un enemigo, añade elemento agua a los ataques físicos propios, aumenta la res. al fuego de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -41763,7 +41851,7 @@
         "Earth damage one enemy, boost wind resistance for all allies, and add earth element to own physical attack",
         "對1名敵人發動土屬性攻擊+提高全體隊員的風屬性耐性+將自身的物理攻擊賦予土屬性",
         "적 1명에게 땅속성 피해+아군 전체의 바람속성 저항력 상승+자신의 물리 공격에 땅속성 부여",
-        null,
+        "Dégâts de terre à un ennemi, augmente la résistance au vent de tous les alliés et ajoute l'élément terre aux attaques physiques du lanceur",
         "Fügt einem Gegner Erdschaden zu, erhöht die Windresistenz aller Verb. und fügt eigenem phys. Angriff Erdelement hinzu.",
         "Daño de tierra a un enemigo, aumenta la res. al viento de los aliados y añade elemento tierra a los ataques físicos propios"
     ],
@@ -41771,7 +41859,7 @@
         "Earth damage and reduce earth resistance for one enemy, add earth element to own physical attack, boost wind resistance for all allies, and boost damage dealt by onion slice and onion cutter next turn",
         "對1名敵人發動土屬性攻擊+降低土屬性耐性+將自身的物理攻擊賦予土屬性+提高全體隊員的風屬性耐性+下一回合提高「洋蔥刺」和 「洋蔥斬」的傷害",
         "적 1명에게 땅속성 피해+땅속성 저항력 감소+자신의 물리 공격에 땅속성 부여+아군 전체의 바람속성 저항력 상승+다음 턴에 '양파 슬라이스'와 '양파 칼날' 피해량 상승",
-        null,
+        "Dégâts de terre et réduit la résistance à la terre d'un ennemi, ajoute l'élément terre aux attaques physiques du lanceur, augmente la résistance au vent de tous les alliés et augmente les dégâts infligés par Tranche-oignon et Coupe-oignon au prochain tour",
         "Fügt einem Gegner Erdschaden zu, verringert seine Erdresistenz, erhöht die Windresistenz aller Verb., fügt eigenem phys. Angriff Erdelement hinzu und erhöht den Schaden von „Zwiebelschnitt“ und „Zwiebelschneider“ in der folgenden Runde.",
         "Daño de tierra y reduce la res. a la tierra de un enemigo, añade elemento tierra a los ataques físicos propios, aumenta la res. al viento de todos los aliados y aumenta el daño que inflige Corte cebolla y Cortador cebolla al turno siguiente"
     ],
@@ -41819,7 +41907,7 @@
         "Nullify paralysis and stone, and boost HP by 30%, MP by 30%, and lightning resistance by 50%",
         "麻痺石化無效+提高30%HP、30%MP、50%雷屬性耐性",
         "마비와 석화 무효화+HP 30%, MP 30%, 번개속성 저항력 50% 상승",
-        "Annule paralysie et pétrification, augmente les PM de 30 % et la résistance à la foudre de 50 %",
+        "Annule paralysie et pétrification, augmente les PV/PM de 30 % et la résistance à la foudre de 50 %",
         "Annulliert Lähmung und Stein + erhöht LP um 30%, MP um 30% und Blitzresistenz um 50%.",
         "Anula parálisis y piedra, aumenta la VIT y los PM un 30%, y la res. al rayo un 50%"
     ],
@@ -42363,8 +42451,8 @@
         "Restore MP, and reduce damage taken by all allies for four turns",
         "恢復MP+4回合內減少對全體隊員的傷害",
         "MP 회복+4턴 동안 아군 전체가 받는 피해량 감소",
-        "Réduit les dégâts subis par tous les alliés pendant quatre tours",
-        "Verringert vier Runden lang von allen Verb. erlittenen Schaden.",
+        "Restaure les PM et réduit les dégâts subis par tous les alliés pendant quatre tours",
+        "Regeneriert MP und verringert vier Runden lang von allen Verb. erlittenen Schaden.",
         "Recupera los PM y reduce el daño que reciben todos los aliados durante 4 turnos"
     ],
     "707010": [
@@ -42579,7 +42667,7 @@
         "Boost SPR by 80% when equipped with a staff",
         "提高80%裝備手杖時的精神",
         "지팡이 장착 시 정신력 80% 상승",
-        null,
+        "Augmente la PSY de 80% quand un bâton est équipé",
         "Erhöht PSY um 80%, wenn mit Stab ausgerüstet.",
         "Aumenta el ESP un 80% al llevar bastón"
     ],
@@ -42587,7 +42675,7 @@
         "LB gauge fills each turn and boost SPR by 100% when equipped with a staff",
         "每回合增加極限技槽+提高100%裝備手杖時的精神",
         "매 턴마다 LB 게이지 증가+지팡이 장착 시 정신력 100% 상승",
-        null,
+        "Remplit la jauge de limite à chaque tour et augmente la PSY de 100% quand un bâton est équipé",
         "Füllt jede Runde den Limitmeter und erhöht PSY um 100%, wenn mit Stab ausgerüstet.",
         "La barra de EL se llena más rápido cada turno y aumenta el ESP un 100% al llevar bastón"
     ],
@@ -42595,23 +42683,23 @@
         "Restore HP and MP for all allies except self and fill LB gauge",
         "恢復除自身以外全體隊員的HPMP+增加極限技槽",
         "자신을 제외한 아군 전체의 HP와 MP 회복+LB 게이지 증가",
-        null,
-        "Stellt LP und MP aller Verb. wieder her, außer die eigenen und füllt den Limitmeter",
+        "Restaure les PV/PM de tous les alliés sauf le lanceur, et remplit la jauge de limite",
+        "Regeneriert LP und MP aller Verb., außer die eigenen und füllt den Limitmeter",
         "Recupera la VIT y los PM de todos los aliados (excepto del usuario) y rellena la barra de EL"
     ],
     "707185": [
         "Restore HP and MP for all allies except self and fill LB gauge",
         "恢復除自身以外全體隊員的HPMP+增加極限技槽",
         "자신을 제외한 아군 전체의 HP와 MP 회복+LB 게이지 증가",
-        null,
-        "Stellt LP und MP aller Verb. wieder her, außer die eigenen und füllt den Limitmeter",
+        "Restaure les PV/PM de tous les alliés sauf le lanceur, et remplit la jauge de limite",
+        "Regeneriert LP und MP aller Verb., außer die eigenen und füllt den Limitmeter",
         "Recupera la VIT y los PM de todos los aliados (excepto del usuario) y rellena la barra de EL"
     ],
     "707186": [
         "Remove stop and boost stop resistance for all allies",
         "解除全體隊員的停止狀態+提高停止耐性",
         "아군 전체의 스톱 해제+스톱 저항력 상승",
-        null,
+        "Retire stop et augmente la résistance à stop de tous les alliés",
         "Entfernt Stopp für alle Verb. und erhöht ihre Stopp-Resistenz.",
         "Anula paro y aumenta la res. contra paro de todos los aliados"
     ],
@@ -42619,7 +42707,7 @@
         "Remove stop and boost stop resistance for all allies",
         "解除全體隊員的停止狀態+提高停止耐性",
         "아군 전체의 스톱 해제+스톱 저항력 상승",
-        null,
+        "Retire stop et augmente la résistance à stop de tous les alliés",
         "Entfernt Stopp für alle Verb. und erhöht ihre Stopp-Resistenz.",
         "Anula paro y aumenta la res. contra paro de todos los aliados"
     ],
@@ -42633,11 +42721,11 @@
     ],
     "707189": [
         "Boost DEF for all allies",
-        "對全體隊員施加物防護",
+        "提高全體隊員防禦",
         "아군 전체의 방어력 상승",
-        "Lance Bouclier sur toute l'équipe",
-        "Setzt Protes auf alle Verb. ein",
-        "Conjura Coraza sobre todo el grupo"
+        "Augmente la DEF de tous les alliés",
+        "ABW hoch, alle Verb.",
+        "Aumenta DEF de todos los aliados"
     ],
     "707190": [
         "Reduce MAG and boost SPR for all allies",
@@ -43824,7 +43912,7 @@
         "Reduce drásticamente la posibilidad de ser atacado"
     ],
     "910007": [
-        "Drain HP from one enemy.",
+        "Drain HP from one enemy",
         "吸收1名敵人的HP",
         "적 1명의 HP 흡수",
         "Aspire les PC d'un ennemi",
@@ -48725,7 +48813,7 @@
         "검과 총 장착 시 공격력 상승+경갑 장착 시 방어력 상승+인간형 마물에게 주는 피해량 상승",
         "Augmente l'ATT lorsqu'une épée ou un pistolet est équipé, augmente la DEF lorsqu'une armure lourde est équipée et augmente les dégâts physiques contre les humains",
         "Erhöht ANG, wenn mit Schwert oder Schusswaffe ausgerüstet und erhöht ABW, wenn mit leichter Rüstung ausgerüstet, erhöht phys. Schaden gegen Menschen.",
-        "Aumenta ATQ al llevar una espada o pistola, aumenta DEF al llevar una armadura L y aumenta el daño físico contra humanos"
+        "Aumenta ATQ al llevar una espada o pistola, aumenta DEF al llevar una armadura ligera y aumenta el daño físico contra humanos"
     ],
     "910633": [
         "Reduce ATK, DEF and add chance of blinding or confusing all enemies",
@@ -53537,7 +53625,7 @@
     ],
     "911236": [
         "Boost HP by 20% and DEF by 30%, and restore HP and MP each turn",
-        "提高20%HP、30%防禦+每回合恢露HPMP",
+        "提高20%HP、30%防禦+每回合恢復HPMP",
         "HP 20%, 방어력 30% 상승+매 턴마다 HP와 MP 회복",
         "Augmente les PV de 20%, la DEF de 30% et restaure les PV et les PM à chaque tour",
         "Erhöht LP um 20% sowie ABW um 30% und regeneriert jede Runde LP/MP.",
@@ -53647,12 +53735,20 @@
         "Erhöht ANG und LP um 20% und füllt jede Runde eines Kampfes Limitmeter.",
         "Aumenta el ATQ y la VIT un 20%, y rellena la barra de EL cada turno durante el combate"
     ],
+    "911251": [
+        "Activates the kill switch",
+        "啟動殺戮開關",
+        "킬 스위치 활성화",
+        "Active l'Interrup-tueur",
+        "Aktiviert den Notausschalter",
+        "Activa el interruptor de emergencia"
+    ],
     "911252": [
         "Damage for 1/2 HP and add lightning element to physical attack for one ally",
         "對1名隊員造成現有HP1/2的傷害+將1名隊員的物理攻擊賦予雷屬性",
         "아군 1명에게 현재 HP의 1/2 피해+아군 1명의 물리 공격에 번개속성 부여",
-        "Ajoute l'élément lumière aux attaques physiques d'un allié",
-        "Halbiert LP eines Gegners und fügt dem phys. Angriff eines Verb. Blitzelement hinzu.",
+        "Réduit les PV de moitié et ajoute l'élément foudre aux attaques physiques d'un allié",
+        "Halbiert LP eines Verb. und fügt seinem phys. Angriff Blitzelement hinzu.",
         "Reduce a la mitad la VIT y añade elemento rayo a ataques físicos de un aliado"
     ]
 }
