@@ -2131,9 +2131,9 @@
         "Deal partial unmitigated water/wind damage and randomly inflict poison, blind, sleep, silence, paralysis, confusion, disease, and stone on all enemies",
         "對全體敵人發動水風屬性無視部分魔法防禦的攻擊+隨機施加毒失明睡眠沉默麻痺混亂生病石化的效果",
         "적 전체에 물, 바람속성 일부 마법 방어 무시 피해+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
-        "Inflige des dégâts en partie fixes et une altération d'état au hasard à tous les ennemis",
-        "Fügt teilweise Wasserschaden zu und zuf. Zustand, alle Ziele",
-        "Daño absoluto parcial de agua y estado alterado al azar a enemigos"
+        "Inflige des dégâts d'eau/de vent en partie fixes et inflige au hasard poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Wasser- und Windschaden zu und fügt ihnen zufällig Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
+        "Inflige daño absoluto parcial de agua o viento, e inflige veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra al azar a todos los enemigos"
     ],
     "504208510": [
         "Boost MAG when equipped with rod (Not stackable)",
@@ -2253,7 +2253,7 @@
         "HP 20% 상승+대검 장착 시 공격력 상승 [중복 장착 불가]",
         "Augmente les PV de 20% et l'ATT lorsqu'une épée longue est équipée (non cumulable)",
         "Erhöht ANG um 20% und LP, wenn mit Langschwert ausgerüstet. (Nicht stapelbar)",
-        "Aumenta la VIT un 20% y aumenta el ATQ al llevar una espada larga. (no acumulable)"
+        "Aumenta la VIT un 20% y aumenta el ATQ al llevar una espada grande. (no acumulable)"
     ],
     "504210490": [
         "Reduce damage taken by an ally for two turns",
@@ -2301,7 +2301,7 @@
         "대검, 중갑 장착 시 공격력 상승 [중복 장착 불가]",
         "Augmente l'ATT lorsqu'une épée longue ou une armure lourde est équipée (non cumulable)",
         "Erhöht ANG, wenn mit Großschwert oder schwerer Rüstung ausgerüstet. (Nicht stapelbar)",
-        "Aumenta el ATQ al llevar una espada larga o una armadura pesada. (no acumulable)"
+        "Aumenta el ATQ al llevar una espada grande o una armadura pesada. (no acumulable)"
     ],
     "504210800": [
         "Boost ATK when equipped with an axe or heavy armor (Not stackable)",
@@ -2489,7 +2489,7 @@
     ],
     "504213170": [
         "Boost water resistance by 20%",
-        "提高20%水屬性耐性的數值",
+        "提高20%水屬性耐性",
         "물속성 저항력 20% 상승",
         "Augmente ma rés. à l'eau de 20%",
         "Erhöht Wasserresistenz um 20%.",
@@ -2589,7 +2589,7 @@
         "한손용 무기 2개 장착 가능+단검, 검, 대검, 도 장착 시 공격력 상승",
         "Permet d'équiper deux armes à une main, et augmente l'ATT lorsqu'une épée normale, courte ou longue ou un katana est équipé",
         "Einheit kann zwei einhändige Schusswaffen führen und erhöht ANG, wenn ein Kurzschwert, Schwert, Langschwert oder Katana ausgerüstet ist.",
-        "Pemite que la unidad se equipe con dos armas de una mano y aumenta el ATQ al llevar una espada, espada corta, espada larga o katana."
+        "Pemite que la unidad se equipe con dos armas de una mano y aumenta el ATQ al llevar una espada, espada corta, espada grande o katana."
     ],
     "504213980": [
         "Use white magic twice in one turn",
@@ -3393,7 +3393,7 @@
     ],
     "504225890": [
         "Boost ATK by 40% and boost DEF every turn",
-        "提高40%攻擊的數值、每回合提高防禦的數值",
+        "提高40%攻擊、每回合提高防禦",
         "공격력 40% 상승+전투 중 매 턴마다 방어력 상승",
         "Augmente l'ATT de 40% et la DEF à chaque tour",
         "Erhöht ANG um 40% und erhöht ABW jede Runde.",
@@ -3409,7 +3409,7 @@
     ],
     "504226031": [
         "Boost DEF by 40% and restore HP every turn",
-        "提高40%防禦的數值+每回合自動恢復HP",
+        "提高40%防禦+每回合恢復HP",
         "방어력 40% 상승+매 턴마다 HP 회복",
         "Augmente la DEF de 40% et restaure les PV à chaque tour",
         "Erhöht ABW um 40% und regeneriert jede Runde LP.",
@@ -3417,7 +3417,7 @@
     ],
     "504226041": [
         "Boost ATK and DEF by 10%",
-        "提高10%攻擊防禦的數值",
+        "提高10%攻擊防禦",
         "공격력과 방어력 10% 상승",
         "Augmente l'ATT et la DEF de 10%",
         "Erhöht ANG und ABW um 10%.",
@@ -3425,7 +3425,7 @@
     ],
     "504226050": [
         "Boost MAG and SPR by 10%",
-        "提高10%魔力精神的數值",
+        "提高10%魔力精神",
         "마력과 정신력 10% 상승",
         "Augmente la MAGIE et la PSY de 10%",
         "Erhöht MAG und PSY um 10%.",
@@ -3433,11 +3433,11 @@
     ],
     "504226380": [
         "Increase burst stone fill rate and boost ATK when equipped with a short sword, sword, large sword, or katana (Not stackable)",
-        "提高極限技石對極限技槽的增加量+提高裝備短劍劍大劍刀時攻擊的數值[無法重複裝備]",
+        "提高極限技石對極限技槽的增加量+提高裝備短劍劍大劍刀時的攻擊[無法重複裝備]",
         "LB 게이지 효율 상승+단검, 검, 대검, 도 장착 시 공격력 상승 (중복 장착 불가)",
         "Augmente le taux de remplissage des pierres de limite et augmente l'ATT lorsqu'une épée normale, courte, longue ou un katana est équipé (non cumulable)",
         "Verstärkt den Effekt von Limitsteinen und erhöht ANG, wenn mit Kurzschwert, Schwert, Großschwert oder Katana ausgerüstet (Nicht stapelbar).",
-        "Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada larga o katana (no acumulable)"
+        "Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada grande o katana (no acumulable)"
     ],
     "504226406": [
         "Boost HP, MP by 15% and DEF, SPR by 20%",
@@ -3495,6 +3495,30 @@
         "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- sowie Dunkelresistenz um 30% und PSY um 50%, wenn mit Stab ausgerüstet (Nicht stapelbar).",
         "Aumenta la resistencia al fuego, hielo, rayo, agua, viento, luz y oscuridad un 30%, y aumenta el ESP un 50% al llevar bastón (no acumulable)"
     ],
+    "504226883": [
+        "Boost parameters when setting an esper by 50%, and increases burst stone fill rate (Not Stackable)",
+        "提高50%設定幻獸時反映在兵員身上的狀態數值+提高極限技石對極限技槽的增加量 [無法重複裝備]",
+        "환수 장착 시 반영되는 능력치 50% 상승+LB 게이지 효율 상승 (중복 장착 불가)",
+        "Augmente les caractéristiques de 50% quand une chimère est associée, et augmente le taux de remplissage des pierres de limite (non cumulable)",
+        "Erhöht Werte bei Festlegung eines Espers um 50% und erhöht Effekt von Limitsteinen (Nicht stapelbar).",
+        "Aumenta los parámetros un 50% al configurar un esper y las piedras de estallido recuperan más EL (no acumulable)"
+    ],
+    "504226892": [
+        "Boost HP by 10%, MAG by 60%, and fire resistance by 50% (Not Stackable)",
+        "提高10%HP、60%魔力、50%火屬性耐性 [無法重複裝備]",
+        "HP 10%, 마력 60%, 불속성 저항력 50% 상승 (중복 장착 불가)",
+        "Augmente les PV de 10%, la MAGIE de 60% et la résistance au feu de 50% (non cumulable)",
+        "Erhöht LP um 10%, MAG um 60% und Feuerresistenz um 50% (Nicht stapelbar).",
+        "Aumenta la VIT un 10%, la MAG un 60% y la resistencia al fuego un 50% (no acumulable)"
+    ],
+    "504226893": [
+        "Boost physical damage against reapers, and boost ATK when equipped with a sword (Not Stackable)",
+        "提高裝備劍時的攻擊+物理攻擊時提高對死靈系魔物的傷害[無法重複裝備]",
+        "물리 공격 시 사령형 마물에게 부여하는 피해량 상승+검 장착 시 공격력 상승 (중복 장착 불가)",
+        "Augmente les dégâts physiques contre les morts-vivants, et augmente l'ATT quand une épée est équipée (non cumulable)",
+        "Erhöht physischen Schaden gegen Geister und erhöht ANG wenn mit einem Schwert ausgerüstet (Nicht stapelbar).",
+        "Aumenta el daño físico contra muertos vivientes y el ATQ al llevar espada (no acumulable)"
+    ],
     "504226894": [
         "Reduce lightning resistance by 75% and boost DEF and SPR by 40%",
         "降低75%雷屬性耐性+提高40%防禦精神",
@@ -3509,7 +3533,7 @@
         "[2턴에 1회 사용 가능] 적 전체에 일부 방어 무시 피해+방어력과 정신력 감소",
         "(Une fois tous les 2 tours) Inflige des dégâts en partie fixes à tous les ennemis et réduit la DEF et la PSY",
         "(Einmal in 2 Runden) Fügt allen Gegner teilweise direkten Schaden zu und verringert ihre ABW und PSY.",
-        "(Un uso cada 2 turnos) Inflige daño parcial absoluto a todos los enemigos y reduce la DEF y el ESP"
+        "(Un uso cada 2 turnos) Inflige daño absoluto parcial a todos los enemigos y reduce la DEF y el ESP"
     ],
     "504226896": [
         "Boost lightning resistance by 20%",
@@ -3615,6 +3639,14 @@
         "Erhöht ABW und PSY um 10%.",
         "Aumenta la DEF y el ESP un 10%"
     ],
+    "504227271": [
+        "Boost HP, ATK, and DEF by 30%, and physical damage against humans (Not stackable)",
+        "提高30%HP、攻擊防禦+物理攻擊時提高對人系魔物的傷害 [無法重複裝備]",
+        "HP, 공격력, 방어력 30% 상승+물리 공격 시 인간형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
+        "Augmente les PV, l'ATT et la DEF de 30%, et augmente les dégâts physiques contre les humains (non cumulable)",
+        "Erhöht LP, ANG und ABW um 30% und erhöht physischen Schaden gegen Menschen (Nicht stapelbar).",
+        "Aumenta VIT, ATQ y DEF un 30%, y el daño físico contra humanos (no acumulable)"
+    ],
     "504227273": [
         "Boost ATK by 50% when equipped with a large sword, and boost equipment ATK when only weapons are equipped in one or both hands",
         null,
@@ -3632,12 +3664,12 @@
         "Aumenta la DEF y el ESP un 30% y puede infligir ven, ceg, sue, sil, par, con, enf o pie al recibir un ataque físico"
     ],
     "504227411": [
-        "Remove some status effects and inflict random ailment on all enemies",
+        "Remove some status effects and randomly inflict poison, blind, sleep, silence, paralysis, confusion, disease, and stone on all enemies",
         "解除全體敵人的部分狀態效果+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체의 일부 능력치 효과 해제+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
-        "Dissipe certains effets de statut et inflige une altération d'état aléatoire à tous les ennemis",
-        "Entfernt einige Statuseffekte aller Gegner und fügt ihnen zuf. Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
-        "Anula algunos estados alterados e inflige uno al azar a todos los enemigos"
+        "Dissipe certains effets de statut et inflige au hasard poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification à tous les ennemis",
+        "Entfernt einige Statuseffekte aller Gegner und fügt ihnen zufällig Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
+        "Anula algunos estados alterados e Inflige al azar ven, ceg, sue, sil, par, con, enf o pie a un enemigo"
     ],
     "504227527": [
         "Boost HP, DEF, and SPR by 30%, and boost equipment ATK when a single weapon is equipped in both hands",
@@ -4535,6 +4567,14 @@
         "Erhöht PSY und MP.",
         "Aumenta el ESP y los PM"
     ],
+    "1500000062": [
+        "Boost HP and SPR by 10%",
+        "提高10%HP、精神",
+        "HP와 정신력 10% 상승",
+        "Augmente les PV et la PSY de 10%",
+        "Erhöht HP und PSY um 10%.",
+        "Aumenta la VIT y el ESP un 10%"
+    ],
     "1500000063": [
         "Boost MAG by 40% and DEF, SPR by 10%",
         "提高40%魔力+提高10%防禦精神",
@@ -4574,5 +4614,13 @@
         "Augmente l'ATT et les PV de 20% et augmente la jauge de limite à chaque tour",
         "Erhöht ANG und LP um 20% und füllt jede Runde eines Kampfes Limitmeter.",
         "Aumenta el ATQ y la VIT un 20%, y rellena la barra de EL cada turno durante el combate"
+    ],
+    "1500000068": [
+        "Boost damage for jump attacks, and boost ATK by 50% and DEF, HP, and MP by 20% when equipped with a spear (Not Stackable)",
+        "提高跳躍系能力的傷害數值+裝備長槍時提高50%攻擊、20%防禦HPMP[無法重複裝備]",
+        "점프 계열 어빌리티 피해량 상승+창 장착 시 공격력 50%, 방어력, HP, MP 20% 상승  (중복 장착 불가)",
+        "Augmente les dégâts des attaques à saut, augmente l'ATT de 50% et la DEF, les PV et PM de 20% quand une lance est équipée (pas cumulable)",
+        "Erhöht Schaden für Sprungangriffe und erhöht ANG um 50% und ABW, LP und MP um 20%, wenn mit Speer ausgerüstet (Nicht stapelbar).",
+        "Aumenta el daño de los ataques de salto, el ATQ un 50% y la DEF, VIT y PM un 20% al llevar lanza (no acumulable)"
     ]
 }

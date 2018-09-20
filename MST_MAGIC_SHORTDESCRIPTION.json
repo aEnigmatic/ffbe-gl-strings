@@ -138,7 +138,7 @@
     "10126": [
         "Cast regen on one ally",
         null,
-        null,
+        "아군 1명의 HP 서서히 회복",
         null,
         null,
         null
@@ -146,7 +146,7 @@
     "10127": [
         "Cast regen on one ally",
         null,
-        null,
+        "아군 1명의 HP 서서히 회복",
         null,
         null,
         null
@@ -154,7 +154,7 @@
     "10128": [
         "Cast regen on one ally",
         null,
-        null,
+        "아군 1명의 HP 서서히 회복",
         null,
         null,
         null
@@ -162,7 +162,7 @@
     "10129": [
         "Cast regen on one ally",
         null,
-        null,
+        "아군 1명의 HP 서서히 회복",
         null,
         null,
         null
@@ -725,7 +725,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "20440": [
         "Deal partial unmitigated magic damage to all enemies",
@@ -733,7 +733,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "20450": [
         "Dark damage to one enemy",
@@ -773,7 +773,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "20500": [
         "Fire damage one enemy and boost own MAG",
@@ -946,7 +946,7 @@
     "20760": [
         "Water damage one enemy and power up with consecutive use",
         null,
-        null,
+        "적 1명에게 물속성 피해+연속 사용 시 피해량 상승",
         null,
         null,
         null
@@ -954,7 +954,7 @@
     "20770": [
         "Chance to petrify one enemy",
         null,
-        null,
+        "적 1명에게 일정 확률로 석화 부여",
         null,
         null,
         null
@@ -962,7 +962,7 @@
     "20780": [
         "Chance to petrify all enemies",
         null,
-        null,
+        "적 전체에 일정 확률로 석화 부여",
         null,
         null,
         null
@@ -1266,7 +1266,7 @@
     "30213": [
         "Boost ATK, DEF and SPR, and restore HP every turn for one ally",
         null,
-        null,
+        "아군 1명의 공격력, 방어력, 정신력 상승+전투 중 매 턴마다 HP 회복",
         null,
         null,
         null
@@ -1274,7 +1274,7 @@
     "30214": [
         "Boost ATK, DEF, MAG and SPR, and restore HP every turn for one ally",
         null,
-        null,
+        "아군 1명의 공격력, 방어력, 마력, 정신력 상승+전투 중 매 턴마다 매 턴마다 HP 회복",
         null,
         null,
         null
@@ -1371,7 +1371,7 @@
         "Reflect back magic cast at one ally",
         "反射對1名隊員使用的魔法",
         "아군 1명을 향한 마법공격 반사",
-        "Renvoie la magie noire lancée sur un allié",
+        "Renvoie la magie lancée sur un allié",
         "Reflektiert Schwarzmagie, ein Verb.",
         "Refleja la magia dirigida a un aliado."
     ],
@@ -1427,7 +1427,7 @@
         "Restore HP for all allies",
         "恢復全體隊員的HP",
         "아군 전체의 HP 회복",
-        "Restore les PV de tous les alliés",
+        "Restaure les PV de tous les alliés",
         "Heilt LP, alle Verb.",
         "Recupera la VIT de todos los aliados."
     ],
@@ -1435,7 +1435,7 @@
         "Restore HP for all allies",
         "恢復全體隊員的HP",
         "아군 전체의 HP 회복",
-        "Restore les PV de tous les alliés",
+        "Restaure les PV de tous les alliés",
         "Heilt LP, alle Verb.",
         "Recupera la VIT de todos los aliados."
     ],
@@ -1443,7 +1443,7 @@
         "Restore HP for all allies",
         "恢復全體隊員的HP",
         "아군 전체의 HP 회복",
-        "Restore les PV de tous les alliés",
+        "Restaure les PV de tous les alliés",
         "Heilt LP, alle Verb.",
         "Recupera la VIT de todos los aliados."
     ],
@@ -1451,7 +1451,7 @@
         "Restore HP for all allies",
         "恢復全體隊員的HP",
         "아군 전체의 HP 회복",
-        "Restore les PV de tous les alliés",
+        "Restaure les PV de tous les alliés",
         "Heilt LP, alle Verb.",
         "Recupera la VIT de todos los aliados."
     ],
@@ -1509,7 +1509,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "70140": [
         "Deal partial unmitigated magic damage to all enemies",
@@ -1517,7 +1517,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "70150": [
         "Revive and full restore one ally",
@@ -1573,7 +1573,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "70220": [
         "Deal partial unmitigated magic damage to all enemies",
@@ -1581,7 +1581,7 @@
         "적 전체에 일부 마법방어 무시 피해",
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Ziele",
-        "Daño parcial absoluto mágico a todos los enemigos."
+        "Daño absoluto parcial mágico a todos los enemigos."
     ],
     "70230": [
         "Reflect back magic cast at one ally",

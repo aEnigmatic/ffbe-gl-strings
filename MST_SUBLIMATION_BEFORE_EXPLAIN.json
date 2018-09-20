@@ -12,7 +12,7 @@
         "提高效果回合數(中)",
         "효과 턴 수 상승(중)",
         "Augmente le nombre de tours des effets (moyen)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (bastante)"
     ],
     "21706460": [
@@ -28,24 +28,8 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
-    ],
-    "21706520": [
-        "Boosts damage amount (mid)",
-        "提高傷害量(中)",
-        "피해량 상승(중)",
-        "Augmente les dégâts infligés (moyen)",
-        "Erhöht den Schaden (mittel)",
-        "Aumenta el daño (bastante)"
-    ],
-    "21706540": [
-        "Boosts damage amount (mid)",
-        "提高傷害量(中)",
-        "피해량 상승(중)",
-        "Augmente les dégâts infligés (moyen)",
-        "Erhöht den Schaden (mittel)",
-        "Aumenta el daño (bastante)"
     ],
     "100080002": [
         "Boosts ATK when equipped with a katana",
@@ -69,7 +53,7 @@
         "환수 소환 시 환수 능력치 상승량 상승(중)",
         "Amplifie l'augmentation des paramètres lorsqu'une chimère est appelée (moyen)",
         "Steigert die erhöhten Werte gerufener Esper (mittel)<br>",
-        "Aumenta las estadísticas de los espers evocados (bastante)"
+        "Aumenta los parámetros de los espers evocados (bastante)"
     ],
     "100750002": [
         "Boosts LB gauge increase each turn (great)",
@@ -172,7 +156,7 @@
         "提高恢復量(中)<br>降低MP消耗量 (小)",
         "회복량 상승(중)<br>소비 MP 감소(소)",
         "Augmente le pouvoir de soin (moyen)<br>Réduit les PM consommés (peu)",
-        "Erhöht die Energiewiederherstellung (mittel)<br>Reduziert den MP-Verbrauch (gering)",
+        "Erhöht den Regenerationseffekt (mittel)<br>Reduziert den MP-Verbrauch (gering)",
         "Aumenta el poder de curación (bastante)<br>Reduce el consumo de PM (poco)"
     ],
     "101801002": [
@@ -621,7 +605,7 @@
         "물리공격을 '방어' 상태로 대신 받을 확률 상승(소<br>)<br>공격을 대신 받을 때 사용자가 받는 피해 감소량 상승(소)<br>빛속성 저항력 상승",
         "Augmente les chances de protéger les autres en étant en garde (peu)<br>Augmente la réduction des dégâts en protégeant les autres (peu)<br>Augmente la résistance à la lumière",
         "Erhöht Chance, andere beim Verteidigen zu beschützen (gering)<br>Mildert Schaden beim Beschützen anderer (gering)<br>Erhöht Lichtresistenz",
-        "Mayor probabilidad de defender a aliados en modo defensivo (bajo)<br>Menor probabilidad de recibir daños mientras se protege a aliados (bajo)<br>Aumenta la resistencia a la luz"
+        "Mayor probabilidad de proteger a aliados en guardia (bajo)<br>Menor probabilidad de recibir daños mientras se protege a aliados (bajo)<br>Aumenta la resistencia a la luz"
     ],
     "202860002": [
         "Boosts damage increase (mid)",
@@ -836,7 +820,7 @@
         "提高恢復量(大)",
         "회복량 상승(대)",
         "Augmente le pouvoir de soin (beaucoup)",
-        "Erhöht die Energiewiederherstellung (hoch)",
+        "Erhöht den Regenerationseffekt (hoch)",
         "Aumenta el poder de curación (mucho)"
     ],
     "203530002": [
@@ -1276,7 +1260,7 @@
         "提高恢復量(小)",
         "회복량 상승(소)",
         "Augmente le pouvoir de soin (peu)",
-        "Erhöht die Energiewiederherstellung (gering)",
+        "Erhöht den Regenerationseffekt (gering)",
         "Aumenta el poder de curación (poco)"
     ],
     "205110002": [
@@ -1420,7 +1404,7 @@
         "提高效果回合數(中)",
         "효과 턴 수 상승(중)",
         "Augmente le nombre de tours des effets (moyen)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (bastante)"
     ],
     "205900002": [
@@ -1508,7 +1492,7 @@
         "提高恢復量(特大)",
         "회복량 상승(특대)",
         "Augmente le pouvoir de soin (super)",
-        "Erhöht die Energiewiederherstellung (sehr hoch)",
+        "Erhöht den Regenerationseffekt (sehr hoch)",
         "Aumenta el poder de curación (muchísimo)"
     ],
     "206250002": [
@@ -1535,6 +1519,30 @@
         "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (bastante)"
     ],
+    "206360002": [
+        "Boosts recovery amount (low)",
+        "提高恢復量(小)",
+        "회복량 상승(소)",
+        "Augmente le pouvoir de soin (peu)",
+        "Erhöht den Regenerationseffekt (gering)",
+        "Aumenta el poder de curación (poco)"
+    ],
+    "206400002": [
+        "Boosts damage amount (mid)",
+        "提高傷害量(中)",
+        "피해량 상승(중)",
+        "Augmente les dégâts infligés (moyen)",
+        "Erhöht den Schaden (mittel)",
+        "Aumenta el daño (bastante)"
+    ],
+    "206440002": [
+        "Boosts damage amount (mid)",
+        "提高傷害量(中)",
+        "피해량 상승(중)",
+        "Augmente les dégâts infligés (moyen)",
+        "Erhöht den Schaden (mittel)",
+        "Aumenta el daño (bastante)"
+    ],
     "206480002": [
         "Boosts damage reduction when active (low)",
         "提高發動時傷害減少率(小)",
@@ -1548,7 +1556,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "206500002": [
@@ -1556,7 +1564,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "206510002": [
@@ -1564,7 +1572,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "206530002": [
@@ -1604,7 +1612,7 @@
         "提高恢復量(小)",
         "회복량 상승(소)",
         "Augmente le pouvoir de soin (peu)",
-        "Erhöht die Energiewiederherstellung (gering)",
+        "Erhöht den Regenerationseffekt (gering)",
         "Aumenta el poder de curación (poco)"
     ],
     "206660002": [
@@ -1668,7 +1676,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "207070002": [
@@ -2108,7 +2116,7 @@
         "提高效果回合數(中)",
         "효과 턴 수 상승(중)",
         "Augmente le nombre de tours des effets (moyen)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (bastante)"
     ],
     "209370002": [
@@ -2644,7 +2652,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "211970002": [
@@ -2900,8 +2908,16 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
+    ],
+    "213850002": [
+        "Boosts HP and MP",
+        "提高HPMP",
+        "HP와 MP 상승",
+        "Augmente les PV et les PM",
+        "Erhöht LP und MP",
+        "Aumenta la VIT y los PM"
     ],
     "213920002": [
         "Boosts resistance to stop",
@@ -2926,6 +2942,30 @@
         "Amplifie l'augmentation de la PSY (beaucoup)",
         "Steigert PSY-Erhöhung (hoch)",
         "Mayor aumento de ESP (mucho)"
+    ],
+    "214070002": [
+        "Cures disease",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214080002": [
+        "Boosts HP<br>Boosts physical damage dealt to reaper monsters",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214090002": [
+        "Boosts MP<br>Boosts physical damage dealt to reaper monsters",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "214110002": [
         "Boosts damage amount (great)",
@@ -2999,12 +3039,28 @@
         "Erhöht den Schaden (gering)",
         "Aumenta el daño (poco)"
     ],
+    "215250002": [
+        "Gradually restores MP",
+        "持續恢復MP",
+        "MP 서서히 회복",
+        "Restaure progressivement les PM",
+        "Stellt MP allmählich wieder her",
+        "Recupera PM poco a poco"
+    ],
+    "215260002": [
+        "Boosts DEF and SPR",
+        "提高防禦精神的數值",
+        "방어력과 정신력 상승",
+        "Augmente la DEF et la PSY",
+        "Erhöht ABW und PSY",
+        "Aumenta la DEF y el ESP"
+    ],
     "216100002": [
         "Boosts turns in effect (low)",
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "216210002": [
@@ -3030,6 +3086,22 @@
         "Augmente les dégâts infligés (moyen)",
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
+    ],
+    "216680002": [
+        "Boosts chance of taking magic damage (low)<br>Boosts maximum damage reduction when active (mid)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "216720002": [
+        "Boosts chance of activation (mid)<br>Boosts damage reduction when active (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "216930002": [
         "Boosts damage amount (mid)",
@@ -3180,7 +3252,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "217980002": [
@@ -3252,7 +3324,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "220160002": [
@@ -3268,7 +3340,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "220340002": [
@@ -3276,7 +3348,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "220380002": [
@@ -3332,7 +3404,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "220970002": [
@@ -3340,7 +3412,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "221500002": [
@@ -3350,6 +3422,14 @@
         "Réduit les PM consommés (moyen)",
         "Verringert verbrauchte MP (mittel)",
         "Reduce el consumo de PM (bastante)"
+    ],
+    "224150002": [
+        "Boosts MP increase (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "226391002": [
         "Boosts damage amount (low)",
@@ -3364,7 +3444,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "301301002": [
@@ -3860,7 +3940,7 @@
         "提高恢復量(中)",
         "회복량 상승 (중)",
         "Augmente le pouvoir de soin (moyen)",
-        "Erhöht Energiewiederherstellung (mittel)",
+        "Erhöht den Regenerationseffekt (mittel)",
         "Aumenta el poder de curación (bastante)"
     ],
     "910197002": [
@@ -3948,7 +4028,7 @@
         "提高效果回合數(小)",
         "효과 턴 수 상승(소)",
         "Augmente le nombre de tours des effets (peu)",
-        "Erhöht den Effekt über die Runden (gering)",
+        "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
     "910270002": [
@@ -3972,7 +4052,7 @@
         "提高恢復量(小)",
         "회복량 상승(소)",
         "Augmente le pouvoir de soin (peu)",
-        "Erhöht die Energiewiederherstellung (gering)",
+        "Erhöht den Regenerationseffekt (gering)",
         "Aumenta el poder de curación (poco)"
     ],
     "910318002": [
