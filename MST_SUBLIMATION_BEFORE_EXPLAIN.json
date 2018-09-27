@@ -941,7 +941,7 @@
         "공격력 감소 저항력 상승",
         "Augmente la résistance à la réduction de l'ATT",
         "Erhöht Resistenz gegen ANG-Verringerung",
-        "Mayor resistencia a la reducción de ATQ"
+        "Mayor reducción a la resistencia de ATQ"
     ],
     "204070002": [
         "Boosts DEF and SPR when active<br>Increases necessary HP (low)",
@@ -2285,7 +2285,7 @@
         "방어력 무시량 상승(대)<br>'난격', '나찰격+', 또는 '투귀질풍각+' 발동 후 사용 가능한 '프리쉬 스페셜'에 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소 효과 부여",
         "Augmente la quantité de DEF ignorée (beaucoup)<br>Ajoute l'effet de réduction de la résistance à feu, glace, foudre, eau, vent, terre, lumière, ténèbres à l'aptitude Spécialité de Prishe débloquée après avoir utilisé Poings de colère, Attaque furieuse + ou Coup de pied tornade +",
         "Erhöht Wert ignorierter ABW<br>Fügt nach durch Anwendung von Faustwirbel, Berserker+ oder Tornadotritt+ aktiviertem Prishe-Spezial einen Effekt für die Verringerung von Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz hinzu",
-        "Ignora más DEF (mucho)<br>Mayor resistencia a la reducción de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad con Especial de Prishe tras usar Puños de la ira, Furia enloquecida+ o Patada tornado+"
+        "Ignora más DEF (mucho)<br>Mayor reducción a la resistencia de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad con Especial de Prishe tras usar Puños de la ira, Furia enloquecida+ o Patada tornado+"
     ],
     "210060002": [
         "Boosts MP",
@@ -2945,27 +2945,27 @@
     ],
     "214070002": [
         "Cures disease",
-        null,
-        null,
-        null,
-        null,
-        null
+        "治療生病狀態",
+        "질병 회복",
+        "Soigne maladie",
+        "Heilt Virus",
+        "Cura enfermedad"
     ],
     "214080002": [
-        "Boosts HP<br>Boosts physical damage dealt to reaper monsters",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Boosts HP<br>Boosts physical damage dealt to reapers",
+        "提高HP<br>物理攻擊時提高對死靈系魔物的傷害",
+        "HP 상승<br>물리 공격 시 사령형 마물에게 부여하는 피해량 상승",
+        "Augmente les PV<br>Augmente les dégâts physiques infligés aux morts-vivants",
+        "Erhöht LP<br>Erhöht phys. Schaden gegen Untote",
+        "Aumenta la VIT<br>Aumenta el daño físico del usuario contra muertos vivientes"
     ],
     "214090002": [
-        "Boosts MP<br>Boosts physical damage dealt to reaper monsters",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Boosts MP<br>Boosts physical damage dealt to reapers",
+        "提高MP<br>物理攻擊時提高對死靈系魔物的傷害",
+        "MP 상승<br>물리 공격 시 사령형 마물에게 부여하는 피해량 상승",
+        "Augmente les PM<br>Augmente les dégâts physiques infligés aux morts-vivants",
+        "Erhöht LP<br>Erhöht phys. Schaden gegen Untote",
+        "Aumenta la VIT<br>Aumenta el daño físico del usuario contra muertos vivientes"
     ],
     "214110002": [
         "Boosts damage amount (great)",
@@ -2998,6 +2998,14 @@
         "Augmente les dégâts infligés (super)",
         "Erhöht den Schaden (sehr hoch)",
         "Aumenta el daño (muchísimo)"
+    ],
+    "214210002": [
+        "Boosts ATK and MAG increases (high)",
+        "提高攻擊魔力增加量(大)",
+        "공격력과 마력 상승량 상승(대)",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (beaucoup)",
+        "Steigert ANG- und MAG-Erhöhungen (hoch)",
+        "Mayor aumento de ATQ y MAG (mucho)"
     ],
     "214540002": [
         "Boosts ATK increase (high)",
@@ -3039,17 +3047,25 @@
         "Erhöht den Schaden (gering)",
         "Aumenta el daño (poco)"
     ],
+    "215230002": [
+        "Boosts ATK, DEF, MAG, and SPR increases from enabled war of the gods after using a special ability (low)",
+        "提高發動特定能力後可使用的「三章·神魔激戰」攻擊防禦魔力精神增加量(小)",
+        "특정 어빌리티 발동 후 사용 가능한 '제3장~신마격전~'의 공격력, 방어력, 마력, 정신력 상승량 상승(소)",
+        "Amplifie l'augmentation de l'ATT, la DEF, la MAGIE, la PSY en utilisant Guerre des dieux, aptitude débloquée après avoir utilisé une aptitude spéciale (peu)",
+        "Steigert durch Krieg der Götter ermöglichte ANG-, ABW-, MAG- und PSY-Erhöhungen nach Anwendung einer Spezialfertigkeit (gering)",
+        "Mayor aumento de ATQ, DEF, MAG y ESP tras aprender Guerra entre dioses al usar una habilidad especial (poco)"
+    ],
     "215250002": [
         "Gradually restores MP",
         "持續恢復MP",
         "MP 서서히 회복",
         "Restaure progressivement les PM",
         "Stellt MP allmählich wieder her",
-        "Recupera PM poco a poco"
+        "Recupera los PM gradualmente"
     ],
     "215260002": [
         "Boosts DEF and SPR",
-        "提高防禦精神的數值",
+        "提高防禦精神",
         "방어력과 정신력 상승",
         "Augmente la DEF et la PSY",
         "Erhöht ABW und PSY",
@@ -3087,21 +3103,37 @@
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
     ],
+    "216500002": [
+        "Boosts SPR<br>Restores MP every turn",
+        "提高精神<br>每回合恢復MP",
+        "정신력 상승<br>매 턴마다 MP 회복",
+        "Augmente la PSY<br>Restaure les PM à chaque tour",
+        "Erhöht PSY<br>Regeneriert jede Runde MP",
+        "Aumenta el ESP<br>Recupera PM cada turno"
+    ],
     "216680002": [
         "Boosts chance of taking magic damage (low)<br>Boosts maximum damage reduction when active (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高發動機率(中)<br>提高發動時傷害減少率(小)",
+        "마법 피해 부여 확률 상승(소)<br>발동 시 피해량 감소율 상승(중)",
+        "Augmente les chances de subir des dégâts magiques (peu)<br>Augmente la réduction des dégâts maximum une fois activé (moyen)",
+        "Erhöht Chance, mag. Schaden zu erleiden (gering)<br>Erhöht max. Schadensreduzierung, wenn aktiv (mittel)",
+        "Aumenta la probabilidad de recibir daño mágico (poco)<br>Mayor porcentaje de reducción máxima de daño al activarse (bastante)"
+    ],
+    "216710002": [
+        "Boosts SPR increase (low)",
+        "提高精神增加量(小)",
+        "정신력 상승량 상승(소)",
+        "Amplifie l'augmentation de la PSY (peu)",
+        "Steigert PSY-Erhöhung (gering)",
+        "Mayor aumento de ESP (poco)"
     ],
     "216720002": [
         "Boosts chance of activation (mid)<br>Boosts damage reduction when active (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高發動機率(中)<br>提高發動時傷害減少率(小)",
+        "발동 확률 상승(중)<br>발동 시 피해 감소량 상승(소)",
+        "Augmente les chances d'activation (moyen)<br>Amplifie la réduction des dégâts une fois activé (peu)",
+        "Erhöht Chance auf Aktivierung (gering)<br>Erhöht Schadensreduzierung, wenn aktiv (gering)",
+        "Aumenta la probabilidad de activarse (bastante)<br>Mayor porcentaje de reducción de daño al activarse (poco)"
     ],
     "216930002": [
         "Boosts damage amount (mid)",
@@ -3232,12 +3264,12 @@
         "Aumenta el daño (bastante)"
     ],
     "217820002": [
-        "Boosts MAG and SPR increases (mid)",
-        "提高魔力精神增加量(中)",
-        "마력과 정신력 상승량 상승(중)",
-        "Amplifie l'augmentation de la MAGIE et de la PSY (moyen)",
-        "Erhöht MAG und PSY (mittel)",
-        "Mayor aumento de MAG (bastante)"
+        "Boosts ATK and MAG increases (mid)",
+        "提高攻撃魔力增加量(中)",
+        "마력과 공격력 상승량 상승(중)",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)",
+        "Erhöht ANG und MAG (mittel)",
+        "Mayor aumento de ATQ y MAG (bastante)"
     ],
     "217840002": [
         "Boosts damage amount (mid)",
@@ -3423,13 +3455,21 @@
         "Verringert verbrauchte MP (mittel)",
         "Reduce el consumo de PM (bastante)"
     ],
+    "224140002": [
+        "Decreases turns in effect for DEF and SPR reductions (low)",
+        "降低防禦精神減少效果回合數(小)",
+        "방어력과 정신력 감소 효과 턴 수 감소(소)",
+        "Diminue le nombre de tours des effets pour les réductions de la DEF et de la PSY (peu)",
+        "Verringert Anzahl aktiver Runden für ABW- und PSY-Verringerungen (gering)",
+        "Disminuye la duración de las reducciones de DEF y ESP (poco)"
+    ],
     "224150002": [
         "Boosts MP increase (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高MP增加量(小)",
+        "MP 상승량 상승(소)",
+        "Amplifie l'augmentation des PM (peu)",
+        "Steigert MP-Erhöhung (gering)",
+        "Mayor aumento de PM (poco)"
     ],
     "226391002": [
         "Boosts damage amount (low)",
@@ -3541,7 +3581,7 @@
         "피해량 상승(소)<br>얼음속성 저항력 감소량 상승(소)",
         "Augmente les dégâts infligés (peu)<br>Augmente la résistance à la glace (peu)",
         "Erhöht Schaden (gering)<br>Erhöht Eisresistenz-Verringerung (gering)",
-        "Aumenta el daño (poco)<br>Mayor resistencia a la reducción de hielo (poco)"
+        "Aumenta el daño (poco)<br>Mayor reducción a la resistencia de hielo (poco)"
     ],
     "910011002": [
         "Boosts SPR increase (low)<br>Decrease chance of being targeted",
@@ -3837,7 +3877,7 @@
         "피해량 상승(중)<br>방어력 감소량 상승(소)<br>번개속성 저항력 감소량 상승(중)",
         "Augmente les dégâts infligés (moyen)<br>Amplifie la diminution de la DEF (peu)<br>Amplifie la réduction de la résistance à la foudre (moyen)",
         "Erhöht den Schaden (mittel)<br>Steigert ABW-Verringerung (gering)<br>Steigert Verringerung von Blitzresistenz (mittel)",
-        "Aumenta el daño (bastante)<br>Mayor reducción de DEF (poco)<br>Mayor resistencia a la reducción de rayo (bastante)"
+        "Aumenta el daño (bastante)<br>Mayor reducción de DEF (poco)<br>Mayor reducción a la resistencia de rayo (bastante)"
     ],
     "910125002": [
         "Boosts ATK increase (high)",
@@ -4133,7 +4173,7 @@
         "피해량 상승(중)<br>바람속성 저항력 감소량 상승(소)",
         "Augmente les dégâts infligés (moyen)<br>Amplifie la réduction de la résistance au vent (peu)",
         "Erhöht Schaden (mittel)<br>Erhöht Verringerung von Windresistenz (gering)",
-        "Aumenta el daño (bastante)<br>Mayor resistencia a la reducción de viento (poco)"
+        "Aumenta el daño (bastante)<br>Mayor reducción a la resistencia de viento (poco)"
     ],
     "910740002": [
         "Boosts magic damage reduction (low)<br>Boosts SPR increase (mid)",
@@ -4189,6 +4229,6 @@
         "얼음, 물속성 저항력 감소량 상승(대)",
         "Amplifie la réduction de la résistance à la glace et à l'eau (beaucoup)",
         "Steigert Verringerungen von Eis- und Wasserresistenz (hoch)<br>",
-        "Mayor resistencia a la reducción de hielo y agua (mucho)"
+        "Mayor reducción a la resistencia de hielo y agua (mucho)"
     ]
 }

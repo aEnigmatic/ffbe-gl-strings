@@ -1415,6 +1415,14 @@
         "Fügt einem Gegner teilweise direkten Schaden zu.",
         "Daño absoluto parcial a un enemigo"
     ],
+    "100005907": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Dégâts en partie fixes sur un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo"
+    ],
     "100006003": [
         "Damage one enemy and cast berserk on caster",
         "攻擊1名敵人+對發動者施加狂暴效果",
@@ -1847,6 +1855,14 @@
         "Dunkelschaden u. ABW runter, alle Gegner.",
         "Daño oscuro y reduce DEF de todos los enemigos"
     ],
+    "100007707": [
+        "Dark damage and reduce DEF for all enemies",
+        "對全體敵人發動暗屬性攻擊+降低防禦",
+        "적 전체에 어둠속성 피해+방어력 감소",
+        "Dégâts des ténèbres et réduit la DEF de tous les ennemis",
+        "Dunkelschaden u. ABW runter, alle Gegner.",
+        "Daño oscuro y reduce DEF de todos los enemigos"
+    ],
     "100007804": [
         "Wind damage and reduce wind resistance for one enemy",
         "對1名敵人發動風屬性攻擊+降低風屬性耐性",
@@ -1911,6 +1927,14 @@
         "Teilweise direkter Feuerschaden, alle Ziele",
         "Daño absoluto parcial de fuego a todos los enemigos"
     ],
+    "100008007": [
+        "Deal partial unmitigated fire damage to all enemies",
+        "對全體敵人發動火屬性無視部分防禦的攻擊",
+        "적 전체에 불속성 일부 방어 무시 피해",
+        "Inflige des dégâts de feu en partie fixes sur tous les ennemis",
+        "Teilweise direkter Feuerschaden, alle Ziele",
+        "Daño absoluto parcial de fuego a todos los enemigos"
+    ],
     "100008104": [
         "Deal partial unmitigated damage to all enemies and reduce damage taken by all allies for one turn",
         "對全體敵人發動無視部分防禦的攻擊+1回合內減少對全體隊員的傷害",
@@ -1944,6 +1968,14 @@
         "Daño de luz y reduce DEF y ESP de todos los enemigos"
     ],
     "100008206": [
+        "Light damage and reduce DEF and SPR for all enemies",
+        "對全體敵人發動光屬性攻擊+降低防禦精神",
+        "적 전체에 빛속성 피해+방어력과 정신력 감소",
+        "Dégâts de lumière et réduit la DEF et la PSY de tous les ennemis",
+        "Lichtschaden, ABW und PSY runter, alle Gegner.",
+        "Daño de luz y reduce DEF y ESP de todos los enemigos"
+    ],
+    "100008207": [
         "Light damage and reduce DEF and SPR for all enemies",
         "對全體敵人發動光屬性攻擊+降低防禦精神",
         "적 전체에 빛속성 피해+방어력과 정신력 감소",
@@ -5527,6 +5559,14 @@
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert ABW und PSY für einen Gegner.",
         "Daño absoluto parcial y reduce DEF y ESP de un enemigo"
     ],
+    "211000407": [
+        "Deal partial unmitigated damage and reduce DEF and SPR for one enemy",
+        "對1名敵人發動無視部分防禦的攻擊+降低防禦精神",
+        "적 1명에게 일부 방어 무시 피해+방어력과 정신력 감소",
+        "Inflige des dégâts en partie fixes et réduit la DEF et la PSY pour un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu und reduziert ABW und PSY für einen Gegner.",
+        "Daño absoluto parcial y reduce DEF y ESP de un enemigo"
+    ],
     "211000805": [
         "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for one turn",
         "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+1回合內可使用「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
@@ -6848,6 +6888,14 @@
         "Daño mágico absoluto parcial a los enemigos"
     ],
     "254000906": [
+        "Deal partial unmitigated magic damage to all enemies",
+        "對全體敵人發動無視部份魔法防禦的攻擊",
+        "적 전체에 일부 마법방어 무시 피해",
+        "Dégâts magiques en partie fixes sur tous les ennemis",
+        "Teilweise direkter Magieschaden, alle Ziele",
+        "Daño mágico absoluto parcial a los enemigos"
+    ],
+    "254000907": [
         "Deal partial unmitigated magic damage to all enemies",
         "對全體敵人發動無視部份魔法防禦的攻擊",
         "적 전체에 일부 마법방어 무시 피해",
@@ -9078,6 +9126,54 @@
         "Dégâts à un ennemi et augmente toutes les résistances élémentaires de tous les alliés pendant 3 tours",
         "Fügt einem Gegner Schaden zu und erhöht 3 Runden lang alle Elementarres. aller Verb.",
         "Daña a un enemigo y aumenta la resistencia de los aliados a todos los elementos durante 3 turnos"
+    ],
+    "401004405": [
+        "Damage and reduce all elemental resistances for all enemies",
+        "攻擊全體敵人+降低全屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
+        "Dégâts et réduit toutes les résistances élémentaires de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und verringert alle ihrer Elementarresistenzen.",
+        "Daña y reduce la resistencia a todos los elementos de todos los enemigos"
+    ],
+    "401004406": [
+        "Damage and reduce all elemental resistances for all enemies for 3 turns, and enable predict - downpour, predict - sandstorm, predict - flash-freeze, and predict - heat wave for 2 turns",
+        "攻擊全體敵人+3回合內降低全屬性耐性+2回合內可使用「預言-暴雨」「預言-沙暴」「預言-急凍」「預言-熱浪」",
+        "적 전체에 피해+3턴 동안 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소+2턴 동안 '예측·폭우', '예측·모래 폭풍', '예측·급속 냉동', '예측·열파' 사용 가능'",
+        "Dégâts, réduit toutes les résistances élémentaires de tous les ennemis pendant 3 tours et permet d'utiliser Présage - Averse, Présage - Sirocco, Présage - Blizzard et Présage - Canicule pendant 2 tours",
+        "Fügt allen Gegnern Schaden zu, verringert alle ihrer Elementarresistenzen für 3 Runden und ermöglicht Weissagung - Regenguss, Weissagung - Sandsturm, Weissagung - Schockfrost und Weissagung - Hitzewelle für 2 Runden.",
+        "Daña y reduce la resistencia a todos los elementos de todos los enemigos durante 3 turnos, y aprende Predicción - Aguacero, Predicción - Tormenta de arena, Predicción - Destello helado y Predicción - Ola de calor durante 2 turnos"
+    ],
+    "401004407": [
+        "Damage and reduce all elemental resistances for all enemies, and enable predict - downpour, predict - sandstorm, predict - flash-freeze, and predict - heat wave for 3 turns",
+        "攻擊全體敵人+降低全屬性耐性+3回合內可使用「預言-暴雨」「預言-沙暴」「預言-急凍」「預言-熱浪」",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소+3턴 동안 '예측·폭우', '예측·모래 폭풍', '예측·급속 냉동', '예측·열파' 사용 가능'",
+        "Dégâts, réduit toutes les résistances élémentaires de tous les ennemis et permet d'utiliser Présage - Averse, Présage - Sirocco, Présage - Blizzard et Présage - Canicule pendant 3 tours",
+        "Fügt allen Gegnern Schaden zu, verringert alle ihrer Elementarresistenzen und ermöglicht Weissagung - Regenguss, Weissagung - Sandsturm, Weissagung - Schockfrost und Weissagung - Hitzewelle für 3 Runden.",
+        "Daña y reduce la resistencia a todos los elementos de todos los enemigos, y aprende Predicción - Aguacero, Predicción - Tormenta de arena, Predicción - Destello helado y Predicción - Ola de calor durante 3 turnos"
+    ],
+    "401004605": [
+        "Damage all enemies, boost ATK and MAG for all allies for 3 turns, and enable raucous storm for 1 turn",
+        "攻擊全體敵人+3回合內提高全體隊員的攻擊魔力+1回合內可使用「嘶吼風暴」",
+        "적 전체에 피해+3턴 동안 아군 전체의 공격력과 마력 상승+1턴 동안 '거센 폭풍' 사용 가능",
+        "Dégâts à tous les ennemis, augmente l'ATT et la MAGIE de tous les alliés pendant 3 tours et permet d'utiliser Orage retentissant pendant 1 tour",
+        "Fügt allen Gegnern Schaden zu, erhöht ANG und MAG aller Verbündeten für 3 Runden und ermöglicht Dröhnender Sturm für 1 Runde.",
+        "Daño a todos los enemigos, aumenta el ATQ y la MAG de todos los aliados durante 3 turnos, y aprende Tormenta torrencial durante un turno"
+    ],
+    "401004606": [
+        "Damage all enemies, boost ATK and MAG for all allies for 3 turns, and enable raucous storm for 1 turn",
+        "攻擊全體敵人+3回合內提高全體隊員的攻擊魔力+1回合內可使用「嘶吼風暴」",
+        "적 전체에 피해+3턴 동안 아군 전체의 공격력과 마력 상승+1턴 동안 '거센 폭풍' 사용 가능",
+        "Dégâts à tous les ennemis, augmente l'ATT et la MAGIE de tous les alliés pendant 3 tours et permet d'utiliser Orage retentissant pendant 1 tour",
+        "Fügt allen Gegnern Schaden zu, erhöht ANG und MAG aller Verbündeten für 3 Runden und ermöglicht Dröhnender Sturm für 1 Runde.",
+        "Daño a todos los enemigos, aumenta el ATQ y la MAG de todos los aliados durante 3 turnos, y aprende Tormenta torrencial durante un turno"
+    ],
+    "401004607": [
+        "Damage all enemies, boost ATK and MAG for all allies for 3 turns, and enable raucous storm for 1 turn",
+        "攻擊全體敵人+3回合內提高全體隊員的攻擊魔力+1回合內可使用「嘶吼風暴」",
+        "적 전체에 피해+3턴 동안 아군 전체의 공격력과 마력 상승+1턴 동안 '거센 폭풍' 사용 가능",
+        "Dégâts à tous les ennemis, augmente l'ATT et la MAGIE de tous les alliés pendant 3 tours et permet d'utiliser Orage retentissant pendant 1 tour",
+        "Fügt allen Gegnern Schaden zu, erhöht ANG und MAG aller Verbündeten für 3 Runden und ermöglicht Dröhnender Sturm für 1 Runde.",
+        "Daño a todos los enemigos, aumenta el ATQ y la MAG de todos los aliados durante 3 turnos, y aprende Tormenta torrencial durante un turno"
     ],
     "401004905": [
         "Deal damage and reduce lightning resistance for one enemy",
