@@ -509,7 +509,7 @@
         "적 1명에게 피해+연속 사용 시 피해량 상승",
         "Dégâts sur un ennemi et bonus de force après utilisation consécutive",
         "Verursacht steig. Schaden, ein Ziel",
-        "Inflige daño a un enemigo. El daño infligido aumenta con cada uso."
+        "Inflige daño mágico a un enemigo y aumenta el daño con cada uso"
     ],
     "20171": [
         "Magic damage one enemy and power up with consecutive use",
@@ -517,7 +517,7 @@
         "적 1명에게 피해+연속 사용 시 위력 상승",
         "Dégâts sur un ennemi et bonus de force après utilisation consécutive",
         "Fügt einem Gegner mag. Schaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño a un enemigo. El daño infligido aumenta con cada uso."
+        "Inflige daño mágico a un enemigo y aumenta el daño con cada uso"
     ],
     "20180": [
         "Dark damage and chance of poisoning all enemies",
@@ -613,7 +613,7 @@
         "적 전체에 불속성 피해+연속 사용 시 위력 상승",
         "Dégâts de feu sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern Feuerschaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño de fuego a todos los enemigos. El daño infligido aumenta con cada uso."
+        "Inflige daño de fuego a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20300": [
         "Ice damage to all enemies and power up with consecutive use",
@@ -621,7 +621,7 @@
         "적 전체에 얼음속성 피해+연속 사용 시 위력 상승",
         "Dégâts de glace sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern Eisschaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño de hielo a todos los enemigos. El daño infligido aumenta con cada uso."
+        "Inflige daño de hielo a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20310": [
         "Lightning damage to all enemies and power up with consecutive use",
@@ -629,7 +629,7 @@
         "적 전체에 번개속성 피해+연속 사용 시 위력 상승",
         "Dégâts de foudre sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern Blitzschaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño de rayo a todos los enemigos. El daño infligido aumenta con cada uso."
+        "Inflige daño de rayo a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20320": [
         "Water damage to all enemies and power up with consecutive use",
@@ -637,7 +637,7 @@
         "적 전체에 물속성 피해+연속 사용 시 위력 상승",
         "Dégâts d'eau sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern Wasserschaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño de agua a todos los enemigos. El daño infligido aumenta con cada uso."
+        "Inflige daño de agua a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20330": [
         "Wind damage to all enemies and power up with consecutive use",
@@ -645,7 +645,7 @@
         "적 전체에 바람속성 피해+연속 사용 시 위력 상승",
         "Dégâts de vent sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern Windschaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño de viento a todos los enemigos. El daño infligido aumenta con cada uso."
+        "Inflige daño de viento a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20340": [
         "Earth damage to all enemies and power up with consecutive use",
@@ -653,7 +653,7 @@
         "적 전체에 땅속성 피해+연속 사용 시 위력 상승",
         "Dégâts de terre sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern  Erdschaden zu, der bei jeder Benutzung steigt.",
-        "Inflige daño de tierra a todos los enemigos. El daño infligido aumenta con cada uso."
+        "Inflige daño de tierra a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20350": [
         "Fire damage and reduce water resistance for one enemy",
@@ -813,7 +813,7 @@
         "적 1명에게 얼음속성 피해+연속 사용 시 피해량 상승",
         "Dégâts de glace sur un ennemi et bonus de force si utilisé de manière consécutive",
         "Fügt einem Gegner Eisschaden zu und wird bei jedem Gebrauch stärker.",
-        "Daño de hielo a un enemigo y aumenta potencia con el uso consecutivo"
+        "Daño de hielo a un enemigo y aumenta el daño con cada uso"
     ],
     "20560": [
         "Damage all enemies",
@@ -829,7 +829,7 @@
         "적 1명에게 땅속성 피해+연속 사용 시 위력 상승",
         "Dégâts de terre à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt einem Gegner Erdschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de tierra a un enemigo y aumenta la potencia con el uso consecutivo"
+        "Daño de tierra a un enemigo y aumenta el daño con cada uso"
     ],
     "20580": [
         "Water damage one enemy and power up with consecutive use",
@@ -837,7 +837,7 @@
         "적 1명에게 물속성 피해+연속 사용 시 위력 상승",
         "Dégâts d'eau à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt einem Gegner Wasserschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de agua a un enemigo y aumenta la potencia con el uso consecutivo"
+        "Daño de agua a un enemigo y aumenta el daño con cada uso"
     ],
     "20590": [
         "Wind damage one enemy and power up with consecutive use",
@@ -845,7 +845,7 @@
         "적 1명에게 바람속성 피해+연속 사용 시 위력 상승",
         "Dégâts de vent à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt einem Gegner Windschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de viento a un enemigo y aumenta la potencia con el uso consecutivo"
+        "Daño de viento a un enemigo y aumenta el daño con cada uso"
     ],
     "20600": [
         "Fire damage one enemy and power up with consecutive use",
@@ -853,7 +853,7 @@
         "적 1명에게 불속성 피해+연속 사용 시 위력 상승",
         "Dégâts de feu à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt einem Gegner Feuerschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de fuego a un enemigo y aumenta la potencia con el uso consecutivo"
+        "Daño de fuego a un enemigo y aumenta el daño con cada uso"
     ],
     "20610": [
         "Ice damage one enemy and power up with consecutive use",
@@ -861,7 +861,7 @@
         "적 1명에게 얼음속성 피해+연속 사용 시 위력 상승",
         "Dégâts de glace à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt einem Gegner Eisschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de hielo a un enemigo y aumenta la potencia con el uso consecutivo"
+        "Daño de hielo a un enemigo y aumenta el daño con cada uso"
     ],
     "20620": [
         "Lightning damage one enemy and power up with consecutive use",
@@ -869,7 +869,7 @@
         "적 1명에게 번개속성 피해+연속 사용 시 위력 상승",
         "Dégâts de foudre à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt einem Gegner Blitzschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de rayo a un enemigo y aumenta la potencia con el uso consecutivo"
+        "Daño de rayo a un enemigo y aumenta el daño con cada uso"
     ],
     "20630": [
         "Earth damage to all enemies and power up with consecutive use",
@@ -877,7 +877,7 @@
         "적 전체에 땅속성 피해+연속 사용 시 위력 상승",
         "Dégâts de terre à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt allen Gegnern Erdschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de tierra a todos los enemigos y aumenta la potencia con el uso consecutivo"
+        "Daño de tierra a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20640": [
         "Water damage to all enemies and power up with consecutive use",
@@ -885,7 +885,7 @@
         "적 전체에 물속성 피해+연속 사용 시 위력 상승",
         "Dégâts d'eau à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt allen Gegnern Wasserschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de agua a todos los enemigos y aumenta la potencia con el uso consecutivo"
+        "Daño de agua a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20650": [
         "Wind damage to all enemies and power up with consecutive use",
@@ -893,7 +893,7 @@
         "적 전체에 바람속성 피해+연속 사용 시 위력 상승",
         "Dégâts de vent à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt allen Gegnern Windschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de viento a todos los enemigos y aumenta la potencia con el uso consecutivo"
+        "Daño de viento a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20660": [
         "Fire damage to all enemies and power up with consecutive use",
@@ -901,7 +901,7 @@
         "적 전체에 불속성 피해+연속 사용 시 위력 상승",
         "Dégâts de feu à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt allen Gegnern Feuerschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de fuego a todos los enemigos y aumenta la potencia con el uso consecutivo"
+        "Daño de fuego a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20670": [
         "Ice damage to all enemies and power up with consecutive use",
@@ -909,7 +909,7 @@
         "적 전체에 얼음속성 피해+연속 사용 시 위력 상승",
         "Dégâts de glace à un ennemi et gagne en puissance à chaque attaque consécutive",
         "Fügt allen Gegnern Eisschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de hielo a todos los enemigos y aumenta la potencia con el uso consecutivo"
+        "Daño de hielo a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20680": [
         "Lightning damage to all enemies and power up with consecutive use",
@@ -917,7 +917,7 @@
         "적 전체에 번개속성 피해+연속 사용 시 위력 상승",
         "Dégâts de foudre à tous les ennemis et gagne en puissance à chaque attaque consécutive",
         "Fügt allen Gegnern Blitzschaden zu und wird bei jeder Anwendung stärker.",
-        "Daño de rayo a todos los enemigos y aumenta la potencia con el uso consecutivo"
+        "Daño de rayo a todos los enemigos y aumenta el daño con cada uso"
     ],
     "20690": [
         "Dark damage and reduce ATK for one enemy",
@@ -1421,7 +1421,7 @@
         "적 전체에 번개속성 피해+연속 사용 시 위력 상승",
         "Dégâts de foudre sur tous les ennemis et bonus de force après utilisation consécutive",
         "Fügt allen Gegnern  Blitzschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de rayo a todos los enemigos y aumenta la potencia."
+        "Daño de rayo a todos los enemigos y aumenta el daño con cada uso"
     ],
     "70030": [
         "Restore HP for all allies",
@@ -1549,7 +1549,7 @@
         "적 전체에 바람속성 피해+위력 상승",
         "Dégâts de vent sur tous les ennemis et bonus de force",
         "Windschaden u. Stärkung, alle Ziele",
-        "Daño de viento a todos los enemigos y aumenta la potencia."
+        "Daño de viento a todos los enemigos y aumenta el daño con cada uso"
     ],
     "70190": [
         "Water damage to all enemies",
@@ -1565,7 +1565,7 @@
         "적 전체에 물속성 피해+위력 상승",
         "Dégâts d'eau sur tous les ennemis et bonus de force",
         "Wasserschaden u. Stärkung, alle Ziele",
-        "Daño de agua a todos los enemigos y aumenta la potencia."
+        "Daño de agua a todos los enemigos y aumenta el daño con cada uso"
     ],
     "70210": [
         "Deal partial unmitigated magic damage to all enemies",
@@ -1870,5 +1870,13 @@
         "Augmente la résistance à la foudre de tous les alliés",
         "Blitzres. hoch, alle Verb.",
         "Aumenta la resistencia al rayo de todos los aliados."
+    ],
+    "91014": [
+        "Wind damage one enemy and power up with consecutive use",
+        "對1名敵人發動風屬性攻擊+連續使用時威力上升",
+        "적 1명에게 바람속성 피해+연속 사용 시 위력 상승",
+        "Dégâts de vent à un ennemi et gagne en puissance à chaque attaque consécutive",
+        "Fügt einem Gegner Windschaden zu und wird bei jeder Anwendung stärker.",
+        "Daño de viento a un enemigo y aumenta el daño con cada uso"
     ]
 }

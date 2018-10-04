@@ -1916,7 +1916,7 @@
         "提高40%攻擊數值，HP低於一定量時提高防禦精神的數值。",
         "공격력이 40% 상승하고, HP가 일정량 이하일 때 방어력과 정신력이 상승합니다.",
         "Augmente l'ATT de 40% et la DEF et la PSY quand les PV descendent en dessous d'un certain seuil",
-        "ABW, ANG und PSY um 40 % hoch bei geringen LP.",
+        "Erhöht ANG um 40 % und ABW, PSY hoch bei geringen LP",
         "Aumenta el ATQ un 40% y DEF/ESP al bajar su VIT hasta cierto punto"
     ],
     "504206080": [
@@ -3351,6 +3351,14 @@
         "Erhöht LP, MP und Dunkelresistenz um 5%.",
         "Aumenta la VIT, los PM y la resistencia a la oscuridad un 5%."
     ],
+    "504224890": [
+        "Boost physical and magic damage against insects. Not stackable.",
+        "物理、魔法攻擊時提高對蟲系魔物的傷害。無法重複裝備。",
+        "물리, 마법 공격 시 곤충형 마물에게 부여하는 피해량이 상승합니다. 중복 장착 불가.",
+        "Augmente les dégâts physiques et magiques contre les insectes. Pas cumulable.",
+        "Erhöht physischen und magischen Schaden gegen Insekten (Nicht stapelbar).",
+        "Aumenta el daño físico y mágico contra insectos (no acumulable)"
+    ],
     "504224900": [
         "Reduces ice resistance by 50%, increases limit burst gauge every turn, and boosts fire resistance by 30%.",
         "降低50%冰屬性耐性，並且每回合增加極限技槽，同時提高30%火屬性耐性。",
@@ -3584,7 +3592,7 @@
         "Aumenta el ATQ al llevar lanza."
     ],
     "504226903": [
-        "Boost physical and magic damage against insects, and boost ATK by 30% when equipped with a sword and MAG by 30% when equipped with a rod.",
+        "Boosts physical and magic damage against insects, and boosts ATK by 30% when equipped with a sword and MAG by 30% when equipped with a rod.",
         "物理、魔法攻擊時提高對蟲系魔物的傷害，提高裝備劍時的攻擊，並提高裝備魔棒時的魔力。",
         "물리, 마법 공격 시 곤충형 마물에게 부여하는 피해량이 상승하고, 검 장착 시 공격력이 30%, 홀장 장착 시 마력이 30% 상승합니다.",
         "Augmente les dégâts physiques et magiques contre les monstres de type insecte. Augmente l'ATT de 30% quand une épée est équipée, et augmente la MAGIE de 30% quand un sceptre est équipé",
@@ -3656,7 +3664,7 @@
         "Aumenta VIT, ATQ y DEF un 30%, y el daño físico contra humanos (no acumulable)."
     ],
     "504227273": [
-        "Boosts ATK by 50% when equipped with a large sword, and boosts equipment ATK when only weapons are equipped in one or both hands.",
+        "Boosts ATK by 50% when equipped with a large sword, and boosts equipment ATK when only weapons are equipped in one or both hands. Not Stackable.",
         null,
         null,
         null,
@@ -3665,11 +3673,11 @@
     ],
     "504227389": [
         "Boost ATK by 40% and dark resistance by 50%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高40%攻擊、50%暗屬性耐性。",
+        "공격력이 40%, 어둠속성 저항력이 50% 상승합니다.",
+        "Augmente l'ATT de 40% et la résistance aux ténèbres de 50%",
+        "Erhöht ANG um 40% und Dunkelresistenz zum 50%.",
+        "Aumenta el ATQ un 40% y la resistencia a la oscuridad un 50%"
     ],
     "504227410": [
         "Boosts DEF and SPR by 30%, and chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone when receiving a physical attack.",
@@ -3687,6 +3695,22 @@
         "Entfernt einige Statuseffekte aller Gegner und fügt ihnen zufällig Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
         "Anula algunos estados alterados e Inflige al azar ven, ceg, sue, sil, par, con, enf o pie a un enemigo."
     ],
+    "504227413": [
+        "Boost HP, MP, and fire resistance by 5%",
+        "提高5%HPMP、火屬性耐性。",
+        "HP, MP, 불속성 저항력이 5% 상승합니다.",
+        "Augmente les PV, les PM et la résistance au feu de 5%",
+        "Erhöht LP, MP und Feuerresistenz um 5%.",
+        "Aumenta la VIT, los PM y la resistencia al fuego un 5%"
+    ],
+    "504227414": [
+        "Boost HP, MP, and water resistance by 5%",
+        "提高5%HPMP、水屬性耐性。",
+        "HP, MP, 물속성 저항력이 5% 상승합니다.",
+        "Augmente les PV, les PM et la résistance à l'eau de 5%",
+        "Erhöht LP, MP und Wasserresistenz um 5%.",
+        "Aumenta la VIT, los PM y la resistencia al agua un 5%"
+    ],
     "504227527": [
         "Boosts HP, DEF, and SPR by 30%, and boosts equipment ATK when a single weapon is equipped in both hands.",
         null,
@@ -3698,6 +3722,22 @@
     "504227625": [
         "Boosts equipment ATK when a single weapon is equipped in both hands, and boosts ATK when equipped with a spear.",
         null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "504227666": [
+        "Reduces dark resistance by 30%, and boosts SPR by 60% and LB gauge fill rate. Not stackable.",
+        "降低30%暗屬性耐性，提高60%精神，並提高極限技石對急限技槽的增加量[無法重複裝備]。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "504227682": [
+        "Boosts ATK by 40% and nullifies paralysis and stone.",
+        "提高40%攻擊，麻痺石化無效。",
         null,
         null,
         null,
@@ -3729,19 +3769,19 @@
     ],
     "504228390": [
         "Boosts MAG by 30% and magic damage against humans.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高30%魔力，魔法攻擊時提高對人系魔物的傷害。",
+        "마력이 30% 상승하고, 마법 공격 시 인간형 마물에게 부여하는 피해량이 상승합니다.",
+        "Augmente la MAGIE de 30% et les dégâts magiques contre les humains",
+        "Erhöht MAG um 30% und magischen Schaden gegen Menschen.",
+        "Aumenta la MAG un 30% y el daño mágico contra humanos"
     ],
     "504228391": [
-        "Reduces ice resistance and adds chance of blinding, paralyzing, confusing, or petrifying all enemies.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Reduces ice resistance and chance of blinding, paralyzing, confusing, or petrifying all enemies.",
+        "一定機率對全體敵人施加失明麻痺混亂石化效果，並降低冰屬性耐性。",
+        "적 전체에 일정 확률로 암흑, 마비, 혼란, 석화를 부여하고, 얼음속성 저항력을 감소시킵니다.",
+        "Réduit la résistance à la glace et chance d'infliger cécité, paralysie, confusion ou pétrification à tous les ennemis",
+        "Verringert Eisresistenz und Chance, allen Gegnern Blind, Lähmung, Konfus oder Stein zu erteilen.",
+        "Reduce la resistencia al hielo y puede infligir ceguera, parálisis, confusión o piedra a todos los enemigos"
     ],
     "504228586": [
         "Boosts equipment ATK when a single weapon is equipped in both hands, and boosts physical damage against demon monsters.",

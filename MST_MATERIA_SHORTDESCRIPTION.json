@@ -269,7 +269,7 @@
         "적 1명에게 피해+연속 사용 시 피해량 상승",
         "Dégâts sur un ennemi et bonus de force avec un usage consécutif",
         "Verursacht steigenden Schaden, ein Ziel",
-        "Inflige daño a un enemigo y aumenta el poder con el uso."
+        "Inflige daño mágico a un enemigo y aumenta el daño con cada uso."
     ],
     "504020180": [
         "Dark damage and poison all enemies",
@@ -1916,7 +1916,7 @@
         "提高40%攻擊+HP低於一定量時提高防禦精神的數值",
         "공격력 40% 상승+HP가 일정량 이하일 때 방어력과 정신력 상승",
         "Augmente l'ATT de 40% et la DEF et la PSY quand les PV descendent en dessous d'un certain seuil",
-        "ABW, ANG und PSY um 40 % hoch bei geringen LP",
+        "Erhöht ANG um 40 % und ABW, PSY hoch bei geringen LP",
         "Aumenta el ATQ un 40% y DEF/ESP al bajar su VIT hasta cierto punto"
     ],
     "504206080": [
@@ -3353,18 +3353,18 @@
     ],
     "504224890": [
         "Boost physical and magic damage against insects (Not stackable)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "物理、魔法攻擊時提高對蟲系魔物的傷害[無法重複裝備]",
+        "물리, 마법 공격 시 곤충형 마물에게 부여하는 피해량 상승 [중복 장착 불가]",
+        "Augmente les dégâts physiques et magiques contre les insectes (pas cumulable)",
+        "Erhöht physischen und magischen Schaden gegen Insekten (Nicht stapelbar).",
+        "Aumenta el daño físico y mágico contra insectos (no acumulable)"
     ],
     "504224900": [
         "Reduce ice resistance by 50%, fill LB gauge every turn, and boost fire resistance by 30%",
         "降低50%冰屬性耐性+每回合增加極限技槽+提高30%火屬性耐性",
         "얼음속성 저항력 50% 감소+매 턴마다 LB 게이지 증가+불속성 저항력 30% 상승",
         "Réduit la rés. à la glace de 50% et augmente la jauge de limite à chaque tour, et la rés. au feu de 30%",
-        "Erhöht Eisresistenz um 50%, Limitmeter steigt jede Runde und erhöht Feuerresistenz um 30%.",
+        "Verringert Eisresistenz um 50%, Limitmeter steigt jede Runde und erhöht Feuerresistenz um 30%.",
         "Reduce la res. al hielo un 50%, la barra de EL se llena más rápido y aumenta la res. al fuego un 30%"
     ],
     "504224910": [
@@ -3591,12 +3591,20 @@
         "Erhöht ANG, wenn mit Speer ausgerüstet.",
         "Aumenta el ATQ al llevar lanza."
     ],
+    "504226903": [
+        "Boost physical and magic damage against insects, boost ATK when equipped with a sword and MAG when equipped with a rod",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "504226980": [
         "Fill LB gauge every turn and boost ATK when equipped with a sword (Not stackable)",
         "提高裝備劍時的攻擊+每回合增加極限技槽 [無法重複裝備]",
         "매 턴마다 LB 게이지 증가+검 장착 시 공격력 상승 (중복 장착 불가)",
         "Remplit la jauge de limite à chaque tour et augmente l'ATT quand une épée est équipée (non cumulable)",
-        "Füllt jede Runde Limitleiste und erhöht ANG um 50%, wenn mit einem Schwert ausgerüstet (Nicht stapelbar).",
+        "Füllt jede Runde Limitleiste und erhöht ANG, wenn mit einem Schwert ausgerüstet (Nicht stapelbar).",
         "Rellena la barra de EL cada turno y aumenta el ATQ al llevar espada (no acumulable)"
     ],
     "504227020": [
@@ -3608,7 +3616,7 @@
         "Aumenta el daño físico y mágico contra bestias y pájaros (no acumulable)"
     ],
     "504227076": [
-        "Boost MP by 10% and dark resistance by 15%.",
+        "Boost MP by 10% and dark resistance by 15%",
         "提高10%MP+提高15%暗屬性耐性",
         "MP 10% 상승+어둠속성 저항력 15% 상승",
         "Augmente les PM de 10% et la résistance aux ténèbres de 15%",
@@ -3656,7 +3664,7 @@
         "Aumenta VIT, ATQ y DEF un 30%, y el daño físico contra humanos (no acumulable)"
     ],
     "504227273": [
-        "Boost ATK by 50% when equipped with a large sword, and boost equipment ATK when only weapons are equipped in one or both hands",
+        "Boost ATK by 50% when equipped with a large sword, and boost equipment ATK when only weapons are equipped in one or both hands (Not stackable)",
         null,
         null,
         null,
@@ -3665,11 +3673,11 @@
     ],
     "504227389": [
         "Boost ATK by 40% and dark resistance by 50%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高40%攻擊、50%暗屬性耐性",
+        "공격력 40%, 어둠속성 저항력 50% 상승",
+        "Augmente l'ATT de 40% et la résistance aux ténèbres de 50%",
+        "Erhöht ANG um 40% und Dunkelresistenz zum 50%.",
+        "Aumenta el ATQ un 40% y la resistencia a la oscuridad un 50%"
     ],
     "504227410": [
         "Boost DEF and SPR by 30%, and chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone when receiving a physical attack",
@@ -3687,6 +3695,22 @@
         "Entfernt einige Statuseffekte aller Gegner und fügt ihnen zufällig Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
         "Anula algunos estados alterados e Inflige al azar ven, ceg, sue, sil, par, con, enf o pie a un enemigo"
     ],
+    "504227413": [
+        "Boost HP, MP, and fire resistance by 5%",
+        "提高5%HPMP、火屬性耐性",
+        "HP, MP, 불속성 저항력 5% 상승",
+        "Augmente les PV, les PM et la résistance au feu de 5%",
+        "Erhöht LP, MP und Feuerresistenz um 5%.",
+        "Aumenta la VIT, los PM y la resistencia al fuego un 5%"
+    ],
+    "504227414": [
+        "Boost HP, MP, and water resistance by 5%",
+        "提高5%HPMP、水屬性耐性",
+        "HP, MP, 물속성 저항력 5% 상승",
+        "Augmente les PV, les PM et la résistance à l'eau de 5%",
+        "Erhöht LP, MP und Wasserresistenz um 5%.",
+        "Aumenta la VIT, los PM y la resistencia al agua un 5%"
+    ],
     "504227527": [
         "Boost HP, DEF, and SPR by 30%, and boost equipment ATK when a single weapon is equipped in both hands",
         null,
@@ -3698,6 +3722,22 @@
     "504227625": [
         "Boost equipment ATK when a single weapon is equipped in both hands, and boost ATK when equipped with a spear",
         null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "504227666": [
+        "Reduce dark resistance by 30%, and boost SPR by 60% and LB gauge fill rate (Not stackable)",
+        "降低30%暗屬性耐性+提高60%精神+提高極限技石對極限技槽的增加量[無法重複裝備]",
+        null,
+        null,
+        null,
+        null
+    ],
+    "504227682": [
+        "Boost ATK by 40% and nullify paralysis and stone",
+        "提高40%攻擊+麻痺石化無效",
         null,
         null,
         null,
@@ -3729,19 +3769,19 @@
     ],
     "504228390": [
         "Boost MAG by 30% and magic damage against humans",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高30%魔力+魔法攻擊時提高對人系魔物的傷害",
+        "마력 30% 상승+마법 공격 시 인간형 마물에게 부여하는 피해량 상승",
+        "Augmente la MAGIE de 30% et les dégâts magiques contre les humains",
+        "Erhöht MAG um 30% und magischen Schaden gegen Menschen.",
+        "Aumenta la MAG un 30% y el daño mágico contra humanos"
     ],
     "504228391": [
         "Reduce ice resistance and chance of blinding, paralyzing, confusing, or petrifying all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "一定機率對全體敵人施加失明麻痺混亂石化效果+降低冰屬性耐性",
+        "적 전체에 일정 확률로 암흑, 마비, 혼란, 석화 부여+얼음속성 저항력 감소",
+        "Réduit la résistance à la glace et chance d'infliger cécité, paralysie, confusion ou pétrification à tous les ennemis",
+        "Verringert Eisresistenz und Chance, allen Gegnern Blind, Lähmung, Konfus oder Stein zu erteilen.",
+        "Reduce la resistencia al hielo y puede infligir ceguera, parálisis, confusión o piedra a todos los enemigos"
     ],
     "504228586": [
         "Boost equipment ATK when a single weapon is equipped in both hands, and boost physical damage against demon monsters",
