@@ -1,12 +1,4 @@
 {
-    "1": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "2": [
         "Fire attacks",
         "火屬性攻擊",
@@ -112,28 +104,12 @@
         "Estados alterados"
     ],
     "15": [
-        "Black Magic",
-        "黑魔法",
-        "흑마법",
-        "Magie noire",
-        "Schwarzmagie",
-        "Magia negra"
-    ],
-    "16": [
-        "White Magic",
-        "白魔法",
-        "백마법",
-        "Magie blanche",
-        "Weißmagie",
-        "Magia blanca"
-    ],
-    "17": [
-        "Recovery abilities",
-        "恢復",
-        "회복 어빌리티",
-        "Aptitudes de récupération",
-        "Heilungsfertigkeiten",
-        "Habilidades de recuperación"
+        "Multiple use abilities",
+        "多次能力",
+        "복수 횟수 어빌리티",
+        "Aptitudes à usages multiples",
+        null,
+        null
     ],
     "20": [
         "Area effect abilities",
@@ -159,12 +135,44 @@
         "Elementarangriffe",
         "Ataques elementales"
     ],
-    "23": [
+    "50": [
+        "Black Magic",
+        "黑魔法",
+        "흑마법",
+        "Magie noire",
+        "Schwarzmagie",
+        "Magia negra"
+    ],
+    "51": [
+        "White Magic",
+        "白魔法",
+        "백마법",
+        "Magie blanche",
+        "Weißmagie",
+        "Magia blanca"
+    ],
+    "52": [
+        "Recovery abilities",
+        "恢復",
+        "회복 어빌리티",
+        "Aptitudes de récupération",
+        "Heilungsfertigkeiten",
+        "Habilidades de recuperación"
+    ],
+    "53": [
         "Status altering abilities",
         "強化・弱化狀態",
         "상태 변경 어빌리티",
         "Aptitudes altérant l'état",
         "Statusfertigkeiten",
         "Habilidades de cambio de estado"
+    ],
+    "99": [
+        "Permanently forbidden abilities",
+        "僅限共通禁止能力",
+        "공통 금지 어빌리티",
+        "Aptitudes bannies à jamais",
+        null,
+        "Habilidades prohibidas permanentemente"
     ]
 }

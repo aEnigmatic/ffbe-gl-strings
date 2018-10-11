@@ -1057,7 +1057,7 @@
     ],
     "504200230": [
         "Deal partial unmitigated damage to one enemy",
-        "對1名敵人發動無視防禦的攻擊",
+        "對1名敵人發動無視部分防禦的攻擊",
         "적 1명에게 방어 무시 피해",
         "Dégâts en partie fixes sur un ennemi",
         "Teilweise direkter Schaden, ein Ziel",
@@ -3355,7 +3355,7 @@
         "Boost physical and magic damage against insects (Not stackable)",
         "物理、魔法攻擊時提高對蟲系魔物的傷害[無法重複裝備]",
         "물리, 마법 공격 시 곤충형 마물에게 부여하는 피해량 상승 [중복 장착 불가]",
-        "Augmente les dégâts physiques et magiques contre les insectes (pas cumulable)",
+        "Dégâts phys. et mag. accrus contre les insectes (pas cumulable)",
         "Erhöht physischen und magischen Schaden gegen Insekten (Nicht stapelbar).",
         "Aumenta el daño físico y mágico contra insectos (no acumulable)"
     ],
@@ -3665,11 +3665,19 @@
     ],
     "504227273": [
         "Boost ATK by 50% when equipped with a large sword, and boost equipment ATK when only weapons are equipped in one or both hands (Not stackable)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高裝備大劍時的攻擊+雙手只裝備武器時武具攻擊力提升 [無法重複裝備]",
+        "대검 장착 시 공격력 50% 상승+한손 또는 양손의 장비가 무기뿐일 경우 장비의 공격력 상승(중복 장착 불가)",
+        "Augmente l'ATT de 50% lorsqu'une épée longue est équipée et augmente l'ATT de l'équipement lorsque seules des armes sont équipée dans une main ou dans les deux (non cumulable)",
+        "Erhöht ANG um 50% wenn mit Großschwert ausgerüstet und erhöht Ausrüstung-ANG, wenn nur Waffen in einer oder beiden Händen ausgerüstet sind (Nicht stapelbar).",
+        "Aumenta el ATQ un 50% al llevar espada larga, y aumenta el ATQ del equipo al llevar armas en una o las dos manos (no acumulable)"
+    ],
+    "504227274": [
+        "Boost HP, MP, and SPR by 15%, parameters of espers evoked by 30%",
+        "提高15%HPMP精神+發動召喚魔法時提高30%幻獸狀態",
+        "HP, MP, 정신력 15% 상승+소환마법 사용 시 환수의 능력치 30% 상승",
+        "Augmente les PV, PM et la PSY de 15% ainsi que les caractéristiques des chimères appelées de 30%",
+        "Erhöht LP, MP und PSY um 15% und erhöht Werte gerufener Esper um 30%.",
+        "Aumenta VIT, PM y ESP un 15%, y aumenta un 30% los parámetros de los espers invocados"
     ],
     "504227389": [
         "Boost ATK by 40% and dark resistance by 50%",
@@ -3730,18 +3738,18 @@
     "504227666": [
         "Reduce dark resistance by 30%, and boost SPR by 60% and LB gauge fill rate (Not stackable)",
         "降低30%暗屬性耐性+提高60%精神+提高極限技石對極限技槽的增加量[無法重複裝備]",
-        null,
-        null,
-        null,
-        null
+        "어둠속성 저항력 30% 감소+정신력 60% 상승+LB 게이지 효율 상승(중복 장착 불가)",
+        "Réduit la résistance aux ténèbres de 30%, augmente la PSY de 60% et augmente le taux de remplissage de la jauge de limite. Non cumulable.",
+        "Verringert Dunkelresistenz um 30%, erhöht PSY um 60% und Limitmeter steigt schneller (Nicht stapelbar).",
+        "Reduce la resistencia a la oscuridad un 30%, aumenta el ESP un 60% y la barra de EL se llena más rápido (no acumulable)"
     ],
     "504227682": [
         "Boost ATK by 40% and nullify paralysis and stone",
         "提高40%攻擊+麻痺石化無效",
-        null,
-        null,
-        null,
-        null
+        "공격력 40% 상승+마비와 석화 무효화",
+        "Augmente l'ATT de 40% et annule paralysie et pétrification",
+        "Erhöht ANG um 40% und annulliert Lähmung sowie Stein.",
+        "Aumenta el ATQ un 40% y anula parálisis y piedra"
     ],
     "504227926": [
         "Boost fire, ice, and lightning resistance by 30%",
@@ -4694,5 +4702,13 @@
         "Augmente les dégâts des attaques à saut, augmente l'ATT de 50% et la DEF, les PV et PM de 20% quand une lance est équipée (pas cumulable)",
         "Erhöht Schaden für Sprungangriffe und erhöht ANG um 50% und ABW, LP und MP um 20%, wenn mit Speer ausgerüstet (Nicht stapelbar).",
         "Aumenta el daño de los ataques de salto, el ATQ un 50% y la DEF, VIT y PM un 20% al llevar lanza (no acumulable)"
+    ],
+    "1500000069": [
+        "Boost HP, DEF, and SPR by 30%, and fire, ice, lightning, water, wind, earth, light, and dark resistance by 20% (Not Stackable)",
+        "提高30%HP防禦精神+提高20%火冰雷水風土光暗耐性 [無法重複裝備]",
+        "HP, 방어력, 정신력 30% 상승+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 20% 상승(중복 장착 불가)",
+        "Augmente les PV, la DEF et la PSY de 30% ainsi que la résistance à feu, glace foudre, eau, vent, terre lumière et ténèbres de 20% (non cumulable)",
+        "Erhöht LP, ABW und PSY um 30% und Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz um 20% (Nicht stapelbar).",
+        "Aumenta VIT, DEF y ESP un 30%, y la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad un 20% (no acumulable)"
     ]
 }

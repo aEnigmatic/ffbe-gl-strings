@@ -31,6 +31,238 @@
         "Fertigkeit",
         "Habilidad"
     ],
+    "ABILITY_DETAIL_ACCESSORY": [
+        "Accessory",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_ATKTYPE_LIST": [
+        "ATK@MAG@ATK/MAG@Other",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_BADSTATE_LIST": [
+        "Poison@Blind@Sleep@Silence@Paralysis@Confusion@Disease@Stone@Stop@Charm@Berserk",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_BODY_LIST": [
+        "Clothes@Light Armor@Heavy Armor@Robe",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_ELEMENT_LIST": [
+        "Fire@Ice@Lightning@Water@Wind@Earth@Light@Dark",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_HEAD_LIST": [
+        "Hat@Helm",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_HIT_UNKNOWN": [
+        "Depends on unit",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_RANGE_ALL": [
+        "All",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_RANGE_RANDOM": [
+        "Random",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_RANGE_SOLO": [
+        "Single",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SHIELD_LIST": [
+        "Light Shield@Heavy Shield",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_CATEGORY_LB": [
+        "[LB]",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_CATEGORY_MAGIC": [
+        "[MAGIC]",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_CATEGORY_SPECIAL": [
+        "[SPECIAL]",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_TYPE_ATTACK": [
+        "Attack Type",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_TYPE_DEFENSE": [
+        "Defense Type",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_TYPE_HEAL": [
+        "Recovery Type",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_TYPE_OTHER": [
+        "Other",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_SKILL_TYPE_SUPPORT": [
+        "Support Type",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_STATUS_LIST": [
+        "ATK@DEF@MAG@SPR@HP@MP",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_ALL": [
+        "Enemies/Allies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_MY_PARTY": [
+        "Ally",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_OTHER_PARTY": [
+        "Enemy",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_OWN": [
+        "Self",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_SELECT": [
+        "Ally",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_WITHOUT_OWN_ALL": [
+        "All Allies but Self",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TARGET_WITHOUT_OWN_SOLO": [
+        "Single Ally",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_TRIBE_LIST": [
+        "Beast@Avian@Aquatic@Human@Machina@Dragon@Fairy@Insect@Stone@Plant@Reaper",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "ABILITY_DETAIL_WEAPON_LIST": [
+        "Short Sword@Sword@Large Sword@Staff@Rod@Bow@Axe@Hammer@Spear@Instrument@Whip@Throwing Weapon@Gun@Mace@Fists",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "ABILITY_NOTHING": [
         "No usable abilities to display.",
         "沒有可使用的特殊",
@@ -9783,166 +10015,6 @@
         "Alle Werte +30 %",
         "Todos las estadísticas +30%"
     ],
-    "MST_RB_FORBIDDEN_INFO_NAME_10": [
-        "Parameter boosts",
-        "狀態提升系",
-        "능력치 상승 계열",
-        "Augmentation des paramètres",
-        "Werte-Erhöhung",
-        "Potenciadores"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_11": [
-        "Parameter reductions",
-        "狀態降低系",
-        "능력치 감소 계열",
-        "Diminution des paramètres",
-        "Werte-Senkung",
-        "Debilitadores"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_12": [
-        "Physical attack combos",
-        "物理連擊系",
-        "연속 물리공격 계열",
-        "Combos de dégâts physiques",
-        "Physische Angriffkombos",
-        "Ataques múltiples"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_13": [
-        "Magic attack combos",
-        "魔法連擊系",
-        "연속 마법공격 계열",
-        "Combos de dégâts magiques",
-        "Magische Angriffkombos",
-        "Magia múltiple"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_14": [
-        "Status ailments",
-        "施加異常狀態系",
-        "상태이상 부여 계열",
-        "Altération d'état",
-        "Zustandsveränderungen",
-        "Estados alterados"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_15": [
-        "Black Magic",
-        "黑魔法",
-        "흑마법",
-        "Magie noire",
-        "Schwarzmagie",
-        "Magia negra"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_16": [
-        "White Magic",
-        "白魔法",
-        "백마법",
-        "Magie blanche",
-        "Weißmagie",
-        "Magia blanca"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_17": [
-        "Recovery abilities",
-        "恢復",
-        "회복 어빌리티",
-        "Aptitudes de récupération",
-        "Heilungsfertigkeiten",
-        "Habilidades de recuperación"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_2": [
-        "Fire attacks",
-        "火屬性攻擊",
-        "불속성 공격",
-        "Attaque de feu",
-        "Feuerangriffe",
-        "Elemento fuego"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_20": [
-        "Area effect abilities",
-        "範圍效果",
-        "광역 어빌리티",
-        "Aptitudes à effet de zone",
-        "Bereichsfertigkeiten",
-        "Habilidades de grupo"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_21": [
-        "Physical damage abilities",
-        "物理攻擊",
-        "물리피해 어빌리티",
-        "Aptitudes de dégâts physiques",
-        "Physische Angriffsfertigkeiten",
-        "Habilidades de daño físico"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_22": [
-        "Elemental attacks",
-        "屬性攻擊",
-        "속성 공격 어빌리티",
-        "Aptitudes élémentaires",
-        "Elementarangriffe",
-        "Ataques elementales"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_23": [
-        "Status altering abilities",
-        "強化・弱化狀態",
-        "상태 변경 어빌리티",
-        "Aptitudes altérant l'état",
-        "Statusfertigkeiten",
-        "Habilidades de cambio de estado"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_3": [
-        "Ice attacks",
-        "冰屬性攻擊",
-        "얼음속성 공격",
-        "Attaque de glace",
-        "Eisangriffe",
-        "Elemento hielo"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_4": [
-        "Lightning attacks",
-        "雷屬性攻擊",
-        "번개속성 공격",
-        "Attaque de foudre",
-        "Blitzangriffe",
-        "Elemento rayo"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_5": [
-        "Water attacks",
-        "水屬性攻擊",
-        "물속성 공격",
-        "Attaque d'eau",
-        "Wasserangriffe",
-        "Elemento agua"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_6": [
-        "Wind attacks",
-        "風屬性攻擊",
-        "바람속성 공격",
-        "Attaque de vent",
-        "Windangriffe",
-        "Elemento viento"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_7": [
-        "Earth attacks",
-        "土屬性攻擊",
-        "땅속성 공격",
-        "Attaque de terre",
-        "Erdangriffe",
-        "Elemento tierra"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_8": [
-        "Light attacks",
-        "光屬性攻擊",
-        "빛속성 공격",
-        "Attaque de lumière",
-        "Lichtangriffe",
-        "Elemento luz"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_9": [
-        "Dark attacks",
-        "暗屬性攻擊",
-        "어둠속성 공격",
-        "Attaque de ténèbres",
-        "Dunkelangriffe",
-        "Elemento oscuridad"
-    ],
     "MST_RB_SS_BONUS_INFO_NAME": [
         "Series Bonus",
         "系列獎勵",
@@ -11839,6 +11911,38 @@
         "Saison auswählen",
         "Selección de temporada"
     ],
+    "PLAYER_EMBLEM_SELECT_EXPLAIN": [
+        "You can obtain <color=255:0:0>emblems</color> by receiving trophies viewable through MENU> Trophies> General, kupo!<br>Show off your <color=255:0:0>emblems</color> by setting them to display next to your name, kupo!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PLAYER_EMBLEM_SELECT_NONE_SETTING_LIST_ITEM": [
+        "Select None",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PLAYER_EMBLEM_SELECT_SUB_HEADER_TITLE": [
+        "Set Emblem",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PLAYER_EMBLEM_SELECT_UNACQUIRED": [
+        "Unobtained",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "PLAY_REWARD_TEXT": [
         "Thanks for playing!<br>As a special thanks we've sent<br>100 lapis to your message box!",
         "感謝您的遊玩！<br>謝禮100寶石<br>已經寄送至收信箱中。",
@@ -12167,6 +12271,22 @@
         "Saisoninformationen konnten nicht abgerufen werden.<br>Rückkehr zum Titelbildschirm.",
         "No se han encontrado datos de temporada.<br>Volviendo a la pantalla del título."
     ],
+    "RB_LS_REWARD_MAIL_MSG": [
+        "This is the reward for your participating in this month's battle arena.<br>The following items are now yours",
+        "這是您本月參加鬥技場戰鬥的報酬。<br>以下為您的獎勵道具。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "RB_LS_REWARD_MAIL_TITLE": [
+        "Battle Arena Monthly Ranking Rewards!",
+        "鬥技場戰鬥 每月排名報酬！",
+        null,
+        null,
+        null,
+        null
+    ],
     "RB_NOTICE_UPDATE": [
         "Data has been updated.<br>Returning to title screen.",
         "資料更新。<br>將返回標題畫面。",
@@ -12214,6 +12334,14 @@
         "Place %s",
         "Platz %s",
         "Puesto %sº"
+    ],
+    "RB_RANKING_PERIOD": [
+        "Event Period :",
+        "活動期間：",
+        "이벤트 기간:",
+        "Durée de l'événement :",
+        null,
+        "Periodo de evento:"
     ],
     "RB_RANKING_RANK": [
         "Place %s",
@@ -12319,6 +12447,14 @@
         "Verbotene Fertigkeiten:",
         "No se permite:"
     ],
+    "RB_RULE_INFO_BONUS": [
+        "Bonus+",
+        "獎勵+",
+        "보너스+",
+        "Bonus +",
+        null,
+        "Bonificación+"
+    ],
     "RB_RULE_INFO_DETAIL_FORBIDDEN_INFO": [
         "The abilities below cannot be used.",
         "以下能力無法在戰鬥中使用。",
@@ -12383,6 +12519,22 @@
         "Teilnahmebelohnung",
         "Recompensa por participar"
     ],
+    "RB_SEASON_EVENT_REWARD_MAIL_MSG": [
+        "This is the reward for your participating in this season's battle arena.<br>The following items are now yours.",
+        "這是您本季參加鬥技場戰鬥的報酬。<br>以下為您的獎勵道具。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "RB_SEASON_EVENT_REWARD_MAIL_TITLE": [
+        "Battle Arena Season Ranking Reward!",
+        "鬥技場戰鬥 季排名報酬！",
+        null,
+        null,
+        null,
+        null
+    ],
     "RB_SELECTRIVAL_CONFIRM": [
         "Select an opponent.<br><color=255:0:0>You cannot go back once you've made your selection.",
         "決定對戰對手。<br><color=255:0:0>一旦決定不得更改。",
@@ -12438,6 +12590,22 @@
         "Récomp. de participation à l'Arène !",
         "Kampfarena-Teilnahmebelohnung!",
         "¡Recompensa por entrar en la Arena!"
+    ],
+    "RB_SS_REWARD_MAIL_MSG": [
+        "This is the reward for your participating in this week's battle arena.<br>The following items are now yours.",
+        "這是您本週參加鬥技場戰鬥的報酬。<br>以下為您的獎勵道具。",
+        null,
+        null,
+        null,
+        null
+    ],
+    "RB_SS_REWARD_MAIL_TITLE": [
+        "Battle Arena Weekly Ranking Reward!",
+        "鬥技場戰鬥 每週排名報酬！",
+        null,
+        null,
+        null,
+        null
     ],
     "RB_TITLE": [
         "Arena",
@@ -17131,6 +17299,14 @@
         null,
         "期限",
         "종료일시",
+        null,
+        null,
+        null
+    ],
+    "UPDATE_POLICY_CONFIRM": [
+        "The new Term of Use has been updated.",
+        null,
+        null,
         null,
         null,
         null
