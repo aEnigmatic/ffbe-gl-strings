@@ -575,6 +575,14 @@
         "Füllt die Limitrauschleiste eines Verbündeten ein wenig.",
         "Rellena un poco la barra de EL de un aliado."
     ],
+    "105007000": [
+        "A small gavel that lowers a target's ability.",
+        "降低目標能力的小槌",
+        "대상의 능력을 저하시키는 작은 망치",
+        "Un petit marteau qui réduit la puissance d'une aptitude de la cible.",
+        "Ein kleiner Richterhammer, der die Fertigkeiten eines Ziels senkt.",
+        "Un martillo pequeño que empeora las habilidades del objetivo."
+    ],
     "106000100": [
         "Restore HP and MP for all allies",
         "恢復全體隊員的HP和MP",
@@ -702,6 +710,30 @@
         "Un ticket qui peut être échangé contre une unité donnée.",
         "Eine Karte, mit der man bestimmte Einheiten bekommen kann.",
         "Un tícket que puede usarse para conseguir unidades concretas."
+    ],
+    "106211160": [
+        "An exchange ticket that can be used to get specific units",
+        "用於交換特定兵員的票券",
+        "특정 유닛과 교환할 수 있는 교환권",
+        "Un petit marteau qui réduit la puissance d'une aptitude de la cible.",
+        null,
+        "Un tícket de intercambio que se puede usar para conseguir unidades específicas."
+    ],
+    "106211170": [
+        "Limited Summon Ticket for Event [Zanarkand Ruins]",
+        "活動『札納爾坎德遺跡』的限定召喚卷",
+        "이벤트 '자나르칸드 유적' 한정 소환티켓",
+        null,
+        null,
+        "Tícket de invocación limitado para evento [ruinas de Zanarkand]"
+    ],
+    "106211180": [
+        "An exchange ticket that can be used to get specific units",
+        "用於交換特定兵員的票券",
+        "특정 유닛과 교환할 수 있는 교환권",
+        null,
+        null,
+        "Un tícket de intercambio que se puede usar para conseguir unidades específicas."
     ],
     "106300100": [
         "A divine shard that contains great power",
@@ -1098,10 +1130,10 @@
     "106304900": [
         "A coin that serves as proof of one's battle against the king of a lost kingdom from a faraway world.",
         "能夠證明與亡國之王戰鬥過的硬幣",
-        "망국의 왕과 싸운 증거로서 손에 넣을 수 있는 코인",
-        "Un jeton qui témoigne du combat livré contre le roi d'un royaume perdu, dans un monde fort lointain.",
+        "망국의 왕과 싸운 증표로서 손에 넣을 수 있는 코인",
+        "Une pièce attestant du combat contre le souverain d'un royaume perdu dans un monde lointain.",
         "Eine Münze, die beweist, dass du gegen einen König eines verlorenen Königreichs einer weit entfernten Welt gekämpft hast.",
-        "Una moneda que sirve como prueba del enfrentamiento contra el rey de un mundo lejano."
+        "Una moneda que sirve como prueba del enfrentamiento contra el soberano de un reino perdido en tierras lejanas."
     ],
     "106305000": [
         "An icicle that will never melt that came from a faraway world.",
@@ -1142,6 +1174,30 @@
         "Un éclat habité du pouvoir de la terre.",
         "Ein Reißzahn, dem die Kraft der Erde innewohnt.",
         "Un colmillo que encierra el poder de la tierra."
+    ],
+    "106305500": [
+        "A coin that serves as proof of one's battle against a giant gear.",
+        "能夠證明與大型機甲戰鬥過的硬幣",
+        "대형 기어와 싸운 증거로서 손에 넣을 수 있는 코인",
+        null,
+        null,
+        "Una moneda que sirve como prueba de la batalla contra un equipamiento gigante."
+    ],
+    "106305600": [
+        "A sphere with nothing recorded on it.",
+        "沒有記錄任何東西的球體",
+        "아무것도 기록되어 있지 않은 스피어",
+        null,
+        null,
+        "Una esfera que no lleva nada grabado."
+    ],
+    "106305700": [
+        "A coin that serves as proof of one's battle against a Farplane organic weapon.",
+        "能夠證明與異界的生體兵器戰鬥過的硬幣",
+        "이계의 생체 병기와 싸운 증거로서 손에 넣을 수 있는 코인",
+        null,
+        null,
+        "Una moneda que sirve como prueba de la batalla contra un arma orgánica del Etéreo."
     ],
     "107000100": [
         "A shard of a magic stone that grants power to espers",
@@ -2016,6 +2072,14 @@
         "Un mapa del Etéreo que busca el Rey moguri."
     ],
     "110000500": [
+        "A map of the Farplane sought by King Mog.",
+        "莫古利王尋找的異界地圖",
+        "모그리 왕이 찾고 있는 이계의 지도",
+        "Une carte de l'Au-delà recherchée par le roi Mog.",
+        "Eine Karte des Abyssums, nach der König Mogry sucht.",
+        "Un mapa del Etéreo que busca el Rey moguri."
+    ],
+    "110000600": [
         "A map of the Farplane sought by King Mog.",
         "莫古利王尋找的異界地圖",
         "모그리 왕이 찾고 있는 이계의 지도",
@@ -3586,41 +3650,41 @@
     "222000100": [
         "A raid material obtained from the Lost City of Dipan raid.",
         "「滅亡都市迪龎」共鬥素材",
-        "'잃어버린 도시 디판' 레이드 재료",
-        "Un matériau de raid issu de l'événement « Dipan, la ville perdue ».",
-        "Ein Raubzugmaterial aus dem Raubzug „Verlorene Stadt Dipan“.",
+        "망실의 도시 디판' 레이드 재료",
+        "Un matériau récupéré au cours d'une incursion sur la cité perdue de Dipan.",
+        "Ein Raubzugsmaterial aus dem Raubzug „Die Verlorene Stadt Dipan“.",
         "Material de banda que se obtiene en el evento de banda Ciudad perdida de Dipan."
     ],
     "222000200": [
         "A raid material obtained from the Lost City of Dipan raid.",
         "「滅亡都市迪龎」共鬥素材",
-        "'잃어버린 도시 디판' 레이드 재료",
-        "Un matériau de raid issu de l'événement « Dipan, la ville perdue ».",
-        "Ein Raubzugmaterial aus dem Raubzug „Verlorene Stadt Dipan“.",
+        "망실의 도시 디판' 레이드 재료",
+        "Un matériau récupéré au cours d'une incursion sur la cité perdue de Dipan.",
+        "Ein Raubzugsmaterial aus dem Raubzug „Die Verlorene Stadt Dipan“.",
         "Material de banda que se obtiene en el evento de banda Ciudad perdida de Dipan."
     ],
     "222000300": [
         "A raid material obtained from the Lost City of Dipan raid.",
         "「滅亡都市迪龎」共鬥素材",
-        "'잃어버린 도시 디판' 레이드 재료",
-        "Un matériau de raid issu de l'événement « Dipan, la ville perdue ».",
-        "Ein Raubzugmaterial aus dem Raubzug „Verlorene Stadt Dipan“.",
+        "망실의 도시 디판' 레이드 재료",
+        "Un matériau récupéré au cours d'une incursion sur la cité perdue de Dipan.",
+        "Ein Raubzugsmaterial aus dem Raubzug „Die Verlorene Stadt Dipan“.",
         "Material de banda que se obtiene en el evento de banda Ciudad perdida de Dipan."
     ],
     "222000400": [
         "A raid material obtained from the Lost City of Dipan raid.",
         "「滅亡都市迪龎」共鬥素材",
-        "'잃어버린 도시 디판' 레이드 재료",
-        "Un matériau de raid issu de l'événement « Dipan, la ville perdue ».",
-        "Ein Raubzugmaterial aus dem Raubzug „Verlorene Stadt Dipan“.",
+        "망실의 도시 디판' 레이드 재료",
+        "Un matériau récupéré au cours d'une incursion sur la cité perdue de Dipan.",
+        "Ein Raubzugsmaterial aus dem Raubzug „Die Verlorene Stadt Dipan“.",
         "Material de banda que se obtiene en el evento de banda Ciudad perdida de Dipan."
     ],
     "222000500": [
         "A raid material obtained from the Lost City of Dipan raid.",
         "「滅亡都市迪龎」共鬥素材",
-        "'잃어버린 도시 디판' 레이드 재료",
-        "Un matériau de raid issu de l'événement « Dipan, la ville perdue ».",
-        "Ein Raubzugmaterial aus dem Raubzug „Verlorene Stadt Dipan“.",
+        "망실의 도시 디판' 레이드 재료",
+        "Un matériau récupéré au cours d'une incursion sur la cité perdue de Dipan.",
+        "Ein Raubzugsmaterial aus dem Raubzug „Die Verlorene Stadt Dipan“.",
         "Material de banda que se obtiene en el evento de banda Ciudad perdida de Dipan."
     ],
     "223000100": [
@@ -3702,6 +3766,86 @@
         "Un matériau de raid issu de l'événement « Le Tombeau de l'Orfèvre ».",
         "Ein Raubzugmaterial aus dem Raubzug „Grab des Silberschmieds“.",
         "Material de banda que se obtiene en el evento de banda Tumba del platero."
+    ],
+    "225000100": [
+        "Elements' Formation Raid Material",
+        "「元素構成」共鬥素材",
+        "'엘리먼츠 포메이션' 레이드 재료",
+        null,
+        null,
+        "Material de banda de Formación elemental"
+    ],
+    "225000200": [
+        "Elements' Formation Raid Material",
+        "「元素構成」共鬥素材",
+        "'엘리먼츠 포메이션' 레이드 재료",
+        null,
+        null,
+        "Material de banda de Formación elemental"
+    ],
+    "225000300": [
+        "Elements' Formation Raid Material",
+        "「元素構成」共鬥素材",
+        "'엘리먼츠 포메이션' 레이드 재료",
+        null,
+        null,
+        "Material de banda de Formación elemental"
+    ],
+    "225000400": [
+        "Elements' Formation Raid Material",
+        "「元素構成」共鬥素材",
+        "'엘리먼츠 포메이션' 레이드 재료",
+        null,
+        null,
+        "Material de banda de Formación elemental"
+    ],
+    "225000500": [
+        "Elements' Formation Raid Material",
+        "「元素構成」共鬥素材",
+        "'엘리먼츠 포메이션' 레이드 재료",
+        null,
+        null,
+        "Material de banda de Formación elemental"
+    ],
+    "226000100": [
+        "A green ring brought from the Farplane.",
+        "來自異界的神秘物質綠色戒指",
+        "이계에서 유입된 초록색 반지",
+        null,
+        null,
+        "Un anillo verde traído del Etéreo.<br>"
+    ],
+    "226000200": [
+        "First and Last Raid Material",
+        "「始於其人，終於其人」共鬥素材",
+        "'모든 것의 시작이자 끝이 되는 자' 레이드 재료",
+        null,
+        null,
+        "Material de banda de El primero y el último"
+    ],
+    "226000300": [
+        "First and Last Raid Material",
+        "「始於其人，終於其人」共鬥素材",
+        "'모든 것의 시작이자 끝이 되는 자' 레이드 재료",
+        null,
+        null,
+        "Material de banda de El primero y el último"
+    ],
+    "226000400": [
+        "First and Last Raid Material",
+        "「始於其人，終於其人」共鬥素材",
+        "'모든 것의 시작이자 끝이 되는 자' 레이드 재료",
+        null,
+        null,
+        "Material de banda de El primero y el último"
+    ],
+    "226000500": [
+        "First and Last Raid Material",
+        "「始於其人，終於其人」共鬥素材",
+        "'모든 것의 시작이자 끝이 되는 자' 레이드 재료",
+        null,
+        null,
+        "Material de banda de El primero y el último"
     ],
     "270000100": [
         "Ability awakening material",
@@ -5143,6 +5287,78 @@
         "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
         "Una piedra con el color del arcoíris que alberga un misterioso poder."
     ],
+    "300000920": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000930": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000940": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000950": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000960": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000970": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000980": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300000990": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "300001000": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
     "310000010": [
         "A rainbow colored stone that holds a mysterious power.",
         "寄宿著不可思議力量的虹色石頭",
@@ -5240,6 +5456,22 @@
         "Una piedra con el color del arcoíris que alberga un misterioso poder."
     ],
     "310000130": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "310000140": [
+        "A rainbow colored stone that holds a mysterious power.",
+        "寄宿著不可思議力量的虹色石頭",
+        "신비한 힘이 깃든 무지개색 돌",
+        "Une pierre aux couleurs de l'arc-en-ciel qui possède un mystérieux pouvoir.",
+        "Ein regenbogenfarbener Stein, dem eine geheimnisvolle Kraft innewohnt.",
+        "Una piedra con el color del arcoíris que alberga un misterioso poder."
+    ],
+    "310000150": [
         "A rainbow colored stone that holds a mysterious power.",
         "寄宿著不可思議力量的虹色石頭",
         "신비한 힘이 깃든 무지개색 돌",
@@ -6391,6 +6623,14 @@
         "Ein Raubzugsmaterial aus dem FFBE Raubzug \"Die Dunkelheit erwacht\".",
         "Material de evento de banda de FFBE - El despertar de la Oscuridad."
     ],
+    "1209000913": [
+        "Use to perform one Halloween Event summon.",
+        "用召喚券進行1次萬聖節活動召喚。",
+        "할로윈 이벤트 소환에 사용할 수 있는 티켓.",
+        "Utilisez-le pour invoquer sur la bannière d'Halloween 2018.",
+        "Wird benutzt um eine Halloween Ereignisbeschwörung durchzuführen.",
+        "Úsalo para realizar una invocación durante el evento de Halloween."
+    ],
     "1209000915": [
         "A delicious candy used to fully restore one ally's HP and MP",
         "一種能夠完全恢復1名隊員HPMP的美味糖果",
@@ -6406,6 +6646,14 @@
         "Collectez 5 exemplaires de ces tickets pour les échanger contre une unité 5★ de FFXV",
         "Sammle 5 und tausche sie gegen eine 5★ Einheit aus FFXV.",
         "Consigue 5 tíckets e intercámbialos por una unidad de 5★  de FFXV"
+    ],
+    "1209000917": [
+        "A mini bottle that was originally used by Mog King for a concoction, but was stolen by the Vampire Lord.",
+        "原本是莫古利王用來調和的迷你小瓶，後來被吸血鬼領主偷走了。",
+        "본래 모그리 왕이 조합을 할 때 사용하던 작은 병이었으나, 어느 날 뱀파이어 백작에게 도둑맞았다.",
+        "Une petite bouteille qui était utilisée à l'origine par le roi Mog pour ses concoctions, mais qui a été volée par Strygea",
+        "Ein winziges Fläschlein, das König Mogry ursprünglich für ein Gebräu verwendete, nun aber von Nosferatu gestohlen wurde.",
+        "Una minibotella que, inicialmente, la usaba el rey moguri para un brebaje hasta que se la robó el señor vampiro."
     ],
     "1300000005": [
         "Use to perform a 10+1 summon",
