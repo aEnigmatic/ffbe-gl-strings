@@ -1,12 +1,4 @@
 {
-    "20400002": [
-        "Boosts damage amount (low)",
-        "提高傷害量(小)",
-        "피해량 상승(소)",
-        "Augmente les dégâts infligés (peu)",
-        "Erhöht den Schaden (gering)",
-        "Aumenta el daño (poco)"
-    ],
     "21705860": [
         "Boosts turns in effect (mid)",
         "提高效果回合數(中)",
@@ -14,6 +6,14 @@
         "Augmente le nombre de tours des effets (moyen)",
         "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (bastante)"
+    ],
+    "21706440": [
+        "Boosts DEF and SPR",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "21706460": [
         "Boosts damage amount (mid)",
@@ -31,9 +31,17 @@
         "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
     ],
+    "21706500": [
+        "Boosts DEF and SPR",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "100080002": [
         "Boosts ATK when equipped with a katana",
-        "提高裝備刀時攻擊的數值",
+        "裝備刀時提高攻擊",
         "도 장착 시 공격력 상승",
         "Augmente l'ATT lorsqu'un katana est équipé",
         "Erhöht ANG, wenn mit Katana ausgerüstet",
@@ -585,7 +593,7 @@
     ],
     "202800002": [
         "Reduces dark resistance<br>Boosts HP consumed (mid)",
-        "降低暗屬性耐性的數值<br>提高HP消耗(中)",
+        "降低暗屬性耐性<br>提高HP消耗(中)",
         "어둠속성 저항력 감소<br>소비HP량 상승(중)",
         "Réduit la rés. aux ténèbres (moyen)<br>Augmente les PV consommés (moyen)",
         "Erhöht Dunkelresistenz <br>Erhöht den LP-Verbrauch (mittel)",
@@ -593,7 +601,7 @@
     ],
     "202830002": [
         "Boosts SPR",
-        "提高精神的數值",
+        "提高精神",
         "정신력 상승",
         "Augmente la PSY",
         "Erhöht PSY",
@@ -601,7 +609,7 @@
     ],
     "202840002": [
         "Boosts chance of protecting others while guarding (low)<br>Boosts damage mitigation when protecting others (low)<br>Boosts light resistance",
-        "提高幫其他隊員抵擋攻擊的機率 (小)<br>減少幫其他隊員抵擋攻擊時受到的傷害(小)<br>提高光屬性耐性的數值",
+        "提高幫其他隊員抵擋攻擊的機率 (小)<br>減少幫其他隊員抵擋攻擊時受到的傷害(小)<br>提高光屬性耐性",
         "물리공격을 '방어' 상태로 대신 받을 확률 상승(소<br>)<br>공격을 대신 받을 때 사용자가 받는 피해 감소량 상승(소)<br>빛속성 저항력 상승",
         "Augmente les chances de protéger les autres en étant en garde (peu)<br>Augmente la réduction des dégâts en protégeant les autres (peu)<br>Augmente la résistance à la lumière",
         "Erhöht Chance, andere beim Verteidigen zu beschützen (gering)<br>Mildert Schaden beim Beschützen anderer (gering)<br>Erhöht Lichtresistenz",
@@ -633,7 +641,7 @@
     ],
     "202940002": [
         "Reduces dark resistance",
-        "降低暗屬性耐性的數值",
+        "降低暗屬性耐性",
         "어둠속성 저항력 감소",
         "Réduit la rés. aux ténèbres",
         "Verringert Dunkelresistenz",
@@ -897,7 +905,7 @@
     ],
     "203980002": [
         "Boosts ATK when equipped with short sword or spear",
-        "提高裝備短劍或長槍時攻擊的數值",
+        "裝備短劍長槍時提高攻擊",
         "단검, 창 장착시 공격력 상승",
         "Augmente l'ATT lorsqu'une épée courte ou une lance est équipée",
         "Erhöht ANG, wenn mit Kurzschwert oder Speer ausgerüstet.",
@@ -910,6 +918,14 @@
         "Augmente le nombre de coups (peu)",
         "Erhöht die Trefferzahl (gering)",
         "Mayor número de golpes (poco)"
+    ],
+    "204001002": [
+        "Boosts damage amount (low)",
+        "提高傷害量(小)",
+        "피해량 상승(소)",
+        "Augmente les dégâts infligés (peu)",
+        "Erhöht Schaden (gering)",
+        "Aumenta el daño (poco)"
     ],
     "204020002": [
         "Reduces MP consumed (mid)",
@@ -945,7 +961,7 @@
     ],
     "204070002": [
         "Boosts DEF and SPR when active<br>Increases necessary HP (low)",
-        "提高發動時防禦精神的數值<br>增加發動條件的HP值(小)",
+        "發動時提高防禦精神<br>增加發動條件的HP值(小)",
         "발동 시 방어력과 정신력 상승<br>발동 조건의 HP수치 증가(소)",
         "Augmente la DEF et la PSY une fois activé<br>Augmente les PV nécessaires (peu)",
         "Erhöht ABW und PSY, wenn aktiv<br>Erhöht erforderte LP (gering)",
@@ -1033,7 +1049,7 @@
     ],
     "204360002": [
         "Reduces MP consumed (mid)<br>Reduces MAG and SPR",
-        "降低MP消耗(中)<br>降低魔力精神的數值",
+        "降低MP消耗(中)<br>降低魔力精神",
         "소비 MP 감소(중)<br>마력과 정신력 감소",
         "Réduit les PM consommés (moyen)<br>Réduit la MAGIE et la PSY",
         "Verringert verbrauchte MP (mittel)<br>Verringert MAG und PSY",
@@ -1105,7 +1121,7 @@
     ],
     "204580002": [
         "Boosts fire resistance",
-        "提高火屬性耐性的數值",
+        "提高火屬性耐性",
         "불속성 저항력 상승",
         "Augmente la rés. au feu",
         "Erhöht Feuerresistenz",
@@ -1169,7 +1185,7 @@
     ],
     "204770002": [
         "Boosts ATK increase (mid)<br>Reduces DEF for all enemies",
-        "提高攻擊增加量(中)<br>降低全體敵人防禦的數值",
+        "提高攻擊增加量(中)<br>降低全體敵人的防禦",
         "공격력 상승량 상승(중)<br>적 전체의 방어력 감소",
         "Amplifie l'augmentation de l'ATT (moyen)<br>Réduit la DEF de tous les ennemis",
         "Steigert ANG-Erhöhung (mittel)<br>Reduziert ABW für alle Gegner",
@@ -1177,7 +1193,7 @@
     ],
     "204780002": [
         "Boosts MAG increase (mid)<br>Reduces SPR for all enemies",
-        "提高魔力增加量(中)<br>降低全體敵人精神的數值",
+        "提高魔力增加量(中)<br>降低全體敵人的精神",
         "마력 상승량 상승(중)<br>적 전체의 정신력 감소",
         "Amplifie l'augmentation de la MAGIE (moyen)<br>Réduit la PSY de tous les ennemis",
         "Steigert MAG-Erhöhung (mittel)<br>Reduziert SPR für alle Gegner",
@@ -1185,7 +1201,7 @@
     ],
     "204790002": [
         "Boosts DEF increase (mid)<br>Reduces ATK for all enemies",
-        "提高防禦增加量(中)<br>降低全體敵人攻擊的數值",
+        "提高防禦增加量(中)<br>降低全體敵人的攻擊",
         "방어력 상승량 상승(중)<br>적 전체의 공격력 감소",
         "Amplifie l'augmentation de la DEF (moyen)<br>Réduit l'ATT de tous les ennemis",
         "Steigert ABW-Erhöhung (mittel)<br>Reduziert ANG für alle Gegner",
@@ -1193,7 +1209,7 @@
     ],
     "204800002": [
         "Boosts SPR increase (mid)<br>Reduces MAG for all enemies",
-        "提高精神增加量(中)<br>降低全體敵人魔力的數值",
+        "提高精神增加量(中)<br>降低全體敵人的魔力",
         "정신력 상승량 상승(중)<br>적 전체의 마력 감소",
         "Amplifie l'augmentation de la PSY (moyen)<br>Réduit la MAGIE de tous les ennemis",
         "Steigert PSY-Erhöhung (mittel)<br>Reduziert MAG für alle Gegner",
@@ -1209,7 +1225,7 @@
     ],
     "204980002": [
         "Reduces fire resistance",
-        "降低火屬性耐性的數值",
+        "降低火屬性耐性",
         "불속성 저항력 감소",
         "Réduit la résistance au feu",
         "Senkt Feuerresistenz",
@@ -1361,7 +1377,7 @@
     ],
     "205590002": [
         "Reduces lightning resistance",
-        "降低雷屬性耐性的數值",
+        "降低雷屬性耐性",
         "번개속성 저항력 감소",
         "Réduit la résistance à la foudre",
         "Senkt Blitzresistenz",
@@ -1377,7 +1393,7 @@
     ],
     "205670002": [
         "Boosts ATK",
-        "提高攻擊的數值",
+        "提高攻擊",
         "공격력 상승",
         "Augmente l'ATT",
         "Erhöht ANG",
@@ -1433,7 +1449,7 @@
     ],
     "206040002": [
         "Boosts ATK",
-        "提高攻擊的數值",
+        "提高攻擊",
         "공격력 상승",
         "Augmente l'ATT",
         "Erhöht ANG",
@@ -1465,7 +1481,7 @@
     ],
     "206150002": [
         "Boosts ATK every turn",
-        "提高每回合攻擊的數值",
+        "每回合提高攻擊",
         "매 턴마다 공격력 상승",
         "Augmente l'ATT à chaque tour",
         "Erhöht ANG in jeder Runde",
@@ -1497,7 +1513,7 @@
     ],
     "206250002": [
         "Boosts fire resistance (mid)",
-        "提高火屬性耐性的數值(中)",
+        "提高火屬性耐性(中)",
         "불속성 저항력 상승(중)",
         "Augmente la rés. au feu (moyen)",
         "Erhöht Feuerresistenz (mittel)",
@@ -1585,7 +1601,7 @@
     ],
     "206540002": [
         "Boosts dark resistance when active",
-        "發動時提高暗屬性耐性的數值",
+        "發動時提高暗屬性耐性",
         "발동 시 어둠속성 저항력 상승",
         "Augmente la rés. aux ténèbres une fois activé",
         "Erhöht Dunkelresistenz, wenn aktiv",
@@ -1593,7 +1609,7 @@
     ],
     "206600002": [
         "Boosts SPR",
-        "提高精神的數值",
+        "提高精神",
         "정신력 상승",
         "Augmente la PSY",
         "Erhöht PSY",
@@ -1601,7 +1617,7 @@
     ],
     "206610002": [
         "Boosts HP<br>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance",
-        "提高HP<br>提高火冰雷水風土光暗屬性耐性的數值",
+        "提高HP<br>提高火冰雷水風土光暗屬性耐性",
         "HP 상승<br>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승",
         "Augmente les PV<br>Augmente la rés. à feu / glace / foudre / eau / vent / terre / lumière / ténèbres",
         "Erhöht LP<br>Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz",
@@ -1721,7 +1737,7 @@
     ],
     "207150002": [
         "Boosts SPR when equipped with heavy armor or a heavy shield",
-        "提高裝備重盾重鎧時精神的數值",
+        "裝備重盾重鎧時提高精神",
         "무거운 방패와 중갑 장착 시 정신력 상승",
         "Augmente la PSY lorsqu'une armure lourde ou un bouclier lourd est équipé",
         "Erhöht PSY, wenn mit leichtem oder schwerem Schild ausgerüstet",
@@ -1737,7 +1753,7 @@
     ],
     "207170002": [
         "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (mid)",
-        "提高火冰雷水風土光暗屬性耐性的數值(中)",
+        "提高火冰雷水風土光暗屬性耐性(中)",
         "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속석 저항력 상승(중)",
         "Augmente la rés. à feu / glace / foudre / eau / vent / terre / lumière / ténèbres (moyen)",
         "Erhöht Res. gegen Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel (mittel)",
@@ -2049,7 +2065,7 @@
     ],
     "208920002": [
         "Boosts SPR",
-        "提高精神的數值",
+        "提高精神",
         "정신력 상승",
         "Augmente la PSY",
         "Erhöht PSY",
@@ -2073,7 +2089,7 @@
     ],
     "209030002": [
         "Boosts ATK when equipped with fists<br>Boosts MP when equipped with a light shield",
-        "提高裝備格鬥武器時攻擊的數值<br>提高裝備輕盾時MP的數值",
+        "裝備格鬥武器時提高攻擊<br>裝備輕盾時提高MP",
         "격투무기 장착 시 공격력 상승<br>가벼운 방패 장착 시 MP 상승",
         "Augmente l'ATT lorsque des poings sont équipés<br>Augmente les PM lorsqu'un bouclier léger est équipé",
         "Erhöht ANG, wenn mit Fäusten ausgerüstet<br>Erhöht MP, wenn mit leichtem Schild ausgerüstet",
@@ -2095,9 +2111,17 @@
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
     ],
+    "209260002": [
+        "Boosts lightning resistance reduction (low)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "209300002": [
         "Boosts MP when equipped with a sword",
-        "提高裝備劍時的MP",
+        "裝備劍時提高MP",
         "검 장착 시 MP 상승",
         "Augmente les PM lorsqu'une épée est équipée",
         "Erhöht MP, wenn mit einem Schwert ausgerüstet (mittel)",
@@ -2129,7 +2153,7 @@
     ],
     "209390002": [
         "Boosts SPR when equipped with heavy armor",
-        "提高裝備重鎧甲時的精神",
+        "裝備重鎧甲時提高精神",
         "중갑 장착 시 정신력 상승",
         "Augmente la PSY quand une armure lourde est équipée",
         "Erhöht PSY, wenn mit leichtem oder schwerem Schild ausgerüstet",
@@ -2161,7 +2185,7 @@
     ],
     "209530002": [
         "Boosts ATK when equipped with a large sword or katana",
-        "提高裝備大劍刀時的攻擊",
+        "裝備大劍刀時提高攻擊",
         "대검 또는 도 장착 시 공격력 상승",
         "Amplifie l'augmentation de l'ATT lorsqu'une épée longue ou un katana est équipé",
         "Erhöht ANG, wenn mit Großschwert oder Katana ausgerüstet",
@@ -2169,7 +2193,7 @@
     ],
     "209560002": [
         "Boosts DEF and SPR when equipped with an instrument",
-        "提高裝備樂器時防禦精神的數值",
+        "裝備樂器時提高防禦精神",
         "악기 장착 시 방어력과 정신력 상승",
         "Augmente la DEF et la PSY lorsqu'un instrument est équipé",
         "Erhöht ABW und PSY, wenn ein Instrument ausgerüstet ist",
@@ -2185,7 +2209,7 @@
     ],
     "209640002": [
         "Boosts ATK, DEF, MAG, and SPR",
-        "提高攻擊防禦魔力精神的數值",
+        "提高攻擊防禦魔力精神",
         "공격력, 방어력, 마력, 정신력 상승",
         "Augmente ATT/DEF/MAGIE/PSY",
         "Erhöht ANG, ABW, MAG u. PSY",
@@ -2193,7 +2217,7 @@
     ],
     "209660002": [
         "Boosts lightning resistance",
-        "提高雷屬性耐性的數值",
+        "提高雷屬性耐性",
         "번개속성 저항력 상승",
         "Augmente la résistance à la foudre",
         "Erhöht Blitzresistenz",
@@ -2201,7 +2225,7 @@
     ],
     "209670002": [
         "Boosts ATK when equipped with a sword",
-        "提高裝備劍時攻擊的數值",
+        "裝備劍時提高攻擊",
         "검 장착 시 공격력 상승",
         "Augmente l'ATT lorsqu'une épée est équipée",
         "Erhöht ANG, wenn mit Schwert ausgerüstet",
@@ -2225,7 +2249,7 @@
     ],
     "209780002": [
         "Boosts drop rate of items from enemies<br>Boosts ATK when equipped with a gun",
-        "提高敵人的道具掉落率<br>提高裝備火槍時攻擊的數值",
+        "提高敵人的道具掉落率<br>裝備火槍時提高攻擊",
         "적의 아이템 드랍률 상승<br>총 장착 시 공격력 상승",
         "Augmente le taux d'objets laissés par les ennemis<br>",
         "Mehr Gegenstände von Gegnern<br>Erhöht ANG, wenn mit Schusswaffe ausger.",
@@ -2241,7 +2265,7 @@
     ],
     "209840002": [
         "Boosts ATK<br>Increases LB gauge",
-        "提高攻擊的數值<br>增加極限技槽",
+        "提高攻擊<br>增加極限技槽",
         "공격력 상승<br>LB 게이지 증가",
         "Augmente l'ATT<br>Remplit la jauge de limite à chaque tour",
         "Erhöht ANG<br>Erhöht Limitmeter",
@@ -2265,7 +2289,7 @@
     ],
     "209930002": [
         "Boosts ATK",
-        "提高攻擊的數值",
+        "提高攻擊",
         "공격력 상승",
         "Augmente l'ATT",
         "Erhöht ANG",
@@ -2297,7 +2321,7 @@
     ],
     "210090002": [
         "Boosts HP<br>Boosts ATK when equipped with an axe",
-        "提高HP<br>提高裝備斧時的攻擊",
+        "提高HP<br>裝備斧時提高攻擊",
         "HP 상승<br>도끼 장착 시 공격력 상승",
         "Augmente les PV<br>Augmente l'ATT lorsqu'une hache est équipée",
         "Erhöht LP<br>Erhöht ANG, wenn mit Axt ausgerüstet",
@@ -2310,6 +2334,14 @@
         "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (moyen)",
         "Erhöht Schaden (mittel)<br>Erhöht MP-Verbrauch (mittel)",
         "Aumenta el daño (bastante)<br>Reduce el consumo de PM (bastante)"
+    ],
+    "210300002": [
+        "Boosts lightning resistance reduction (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "210310002": [
         "Boosts damage amount (mid)",
@@ -2327,9 +2359,17 @@
         "Erhöht ANG<br>Verstärkt den Effekt von Limit-Steinen",
         "Aumenta el ATQ<br>Las piedras de estallido recuperan más EL"
     ],
+    "210330002": [
+        "Boosts chance of countering (low)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "210350002": [
         "Boosts ATK increase when equipped with heavy armor (mid)",
-        "提高裝備重鎧甲時的攻擊增加量(中)",
+        "裝備重鎧甲時提高攻擊增加量(中)",
         "중갑 장착 시 공격력 상승량 상승(중)",
         "Amplifie l'augmentation de l'ATT lorsqu'une armure lourde est équipée (moyen)",
         "Steigert ANG-Erhöhung, wenn mit schwerer Rüstung ausgerüstet (mittel)",
@@ -2369,7 +2409,7 @@
     ],
     "210450002": [
         "Boosts ATK when equipped with large sword",
-        "提高裝備大劍時攻擊的數值",
+        "裝備大劍時提高攻擊",
         "대검 장착 시 공격력 상승",
         "Augmente l'ATT lorsqu'une épée longue est équipée",
         "Erhöht ANG, wenn mit Großschwert ausgerüstet",
@@ -2407,6 +2447,22 @@
         "Erhöht Schaden (mittel)",
         "Aumenta el daño (bastante)"
     ],
+    "210530002": [
+        "Boosts MAG when equipped with a hat",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "210540002": [
+        "Boosts SPR when equipped with a helm",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "210570002": [
         "Boosts DEF and SPR increases (low)<br>Reduces damage taken for five turns for one ally",
         "提高防禦精神增加量(小)<br>5回合內減少對1名隊員的傷害",
@@ -2430,6 +2486,14 @@
         "Augmente les dégâts infligés (moyen)",
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
+    ],
+    "210620002": [
+        "Boosts ATK and MAG increases (great)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "210630002": [
         "Boosts damage amount (high)",
@@ -2641,7 +2705,7 @@
     ],
     "211800002": [
         "Boosts DEF and SPR",
-        "提高防禦精神的數值",
+        "提高防禦精神",
         "방어력과 정신력 상승",
         "Augmente la DEF et la PSY",
         "Erhöht ABW und PSY",
@@ -2657,7 +2721,7 @@
     ],
     "211970002": [
         "Boosts DEF and SPR",
-        "提高防禦精神的數值",
+        "提高防禦精神",
         "방어력과 정신력 상승",
         "Augmente la DEF et la PSY",
         "Erhöht ABW und PSY",
@@ -3007,6 +3071,38 @@
         "Steigert ANG- und MAG-Erhöhungen (hoch)",
         "Mayor aumento de ATQ y MAG (mucho)"
     ],
+    "214390002": [
+        "Boosts HP and ATK increases (low)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214490002": [
+        "Boosts ATK and SPR increases (low)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214500002": [
+        "Boosts chance of activating (mid)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214510002": [
+        "Boosts chance of enabling hayate blade when using misty charge or clone blade (great)<br>Boosts damage dealt by hayate blade (great)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "214540002": [
         "Boosts ATK increase (high)",
         "提高攻擊增加量(大)",
@@ -3023,6 +3119,14 @@
         "Erhöht den Schaden (gering)",
         "Aumenta el daño (poco)"
     ],
+    "214690002": [
+        "Boosts ATK increase (mid)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "214820002": [
         "Boosts damage amount (low)",
         "提高傷害量(小)",
@@ -3038,6 +3142,30 @@
         "Réduit les PM consommés (moyen)",
         "Verringert verbrauchte MP (mittel)",
         "Reduce el consumo de PM (bastante)"
+    ],
+    "214900002": [
+        "Decreases ATK reduction (high)",
+        "降低攻擊減少量(大)",
+        "공격력 감소량 감소(대)",
+        "Diminue la réduction de l'ATT (beaucoup)",
+        "Verringert ANG-Verringerung (hoch)",
+        "Disminuye la reducción de ATQ (mucho)"
+    ],
+    "214910002": [
+        "Decreases MAG reduction (high)",
+        "降低魔力減少量(大)",
+        "마력 감소량 감소(대)",
+        "Diminue la réduction de la MAGIE (beaucoup)",
+        "Verringert MAG-Verringerung (hoch)",
+        "Disminuye la reducción de MAG (mucho)"
+    ],
+    "215000002": [
+        "Boosts ATK increase (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "215030002": [
         "Boosts damage amount (low)",
@@ -3071,6 +3199,30 @@
         "Erhöht ABW und PSY",
         "Aumenta la DEF y el ESP"
     ],
+    "215330002": [
+        "Reduces ATK",
+        "降低攻擊",
+        "공격력 감소",
+        "Réduit l'ATT",
+        "Verringert ANG",
+        "Reduce el ATQ"
+    ],
+    "215340002": [
+        "Boosts MP<br>Restores HP each turn",
+        "提高MP<br>每回合恢復HP",
+        "MP 상승<br>매 턴마다 HP 회복",
+        "Augmente les PM<br>Restaure les PV à chaque tour",
+        "Erhöht MP<br>Stellt jede Runde LP wieder her",
+        "Aumenta los PM<br>Recupera la VIT cada turno"
+    ],
+    "215350002": [
+        "Boosts chance of countering (low)<br>Boosts damage amount of counter attack (mid)",
+        "提高反擊機率(小)<br>提高反擊傷害量(中)",
+        "반격 확률 상승(소)<br>반격 피해량 상승(중)",
+        "Augmente les chances de contre<br>Augmente les dégâts des contre-attaques (moyen)",
+        "Erhöht Wahrscheinlichkeit, zu kontern (gering)<br>Erhöht den Schaden von Konterangriffen (mittel)",
+        "Aumenta la probabilidad de contratacar (poco)<br>Aumenta el daño al contratacar (bastante)"
+    ],
     "216100002": [
         "Boosts turns in effect (low)",
         "提高效果回合數(小)",
@@ -3086,6 +3238,22 @@
         "Augmente les dégâts infligés (peu)",
         "Erhöht den Schaden (gering)",
         "Aumenta el daño (poco)"
+    ],
+    "216220002": [
+        "Boosts ATK",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "216260002": [
+        "Boosts ATK increase (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "216450002": [
         "Boosts damage amount (low)",
@@ -3110,6 +3278,14 @@
         "Augmente la PSY<br>Restaure les PM à chaque tour",
         "Erhöht PSY<br>Regeneriert jede Runde MP",
         "Aumenta el ESP<br>Recupera PM cada turno"
+    ],
+    "216630002": [
+        "Boosts ATK and SPR increases (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "216680002": [
         "Boosts chance of taking magic damage (low)<br>Boosts maximum damage reduction when active (mid)",
@@ -3145,7 +3321,7 @@
     ],
     "216940002": [
         "Boosts HP<br>Boosts ATK when equipped with fists",
-        "提高HP<br>提高格鬥武器裝備時攻擊的數值",
+        "提高HP<br>裝備格鬥武器時提高攻擊",
         "HP 상승<br> 격투무기 장착 시 공격력 상승",
         "Augmente les PV<br>Augmente l'ATT quand des poings sont équipés",
         "Erhöht LP<br>Erhöht ANG wenn mit Faust ausgerüstet",
@@ -3185,7 +3361,7 @@
     ],
     "217160002": [
         "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (mid)",
-        "提高火冰雷水風土光暗屬性耐性的數值(中)",
+        "提高火冰雷水風土光暗屬性耐性(中)",
         "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속석 저항력 상승(중)",
         "Augmente la rés. à feu / glace / foudre / eau / vent / terre / lumière / ténèbres (moyen)",
         "Erhöht Res. gegen Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel (mittel)",
@@ -3198,6 +3374,14 @@
         "Augmente les dégâts infligés (peu)",
         "Erhöht den Schaden (gering)",
         "Aumenta el daño (poco)"
+    ],
+    "217260002": [
+        "Boosts HP and DEF increases (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "217400002": [
         "Boosts maximum number of ailments inflicted (low)",
@@ -3217,7 +3401,7 @@
     ],
     "217450002": [
         "Boosts ATK when equipped with a short sword or throwing weapon",
-        "提高裝備短劍投擲武器時攻擊的數值",
+        "裝備短劍投擲武器時提高攻擊",
         "단검, 투척무기 장착 시 공격력 상승",
         "Augmente l'ATT lorsqu'une épée courte ou une arme de jet est équipée",
         "Erhöht ANG, wenn mit Kurzschwert oder Wurfwaffe ausgerüstet",
@@ -3247,9 +3431,17 @@
         "Erhöht nötige LP (mittel)",
         "Aumenta la VIT necesaria (bastante)"
     ],
+    "217660002": [
+        "Boosts HP restoration amount (low)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "217670002": [
         "Boosts damage amount (low)<br>Reduces fire resistance",
-        "提高傷害量(小)<br>降低火屬性耐性的數值",
+        "提高傷害量(小)<br>降低火屬性耐性",
         "피해량 상승(소)<br>불속성 저항력 감소",
         "Augmente les dégâts infligés (peu)<br>Réduit la résistance au feu",
         "Erhöht Schaden (gering)<br>Verringert Feuerresistenz",
@@ -3262,6 +3454,14 @@
         "Augmente les dégâts infligés (moyen)",
         "Erhöht den Schaden (mittel)",
         "Aumenta el daño (bastante)"
+    ],
+    "217800002": [
+        "Boosts ATK and MAG",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "217820002": [
         "Boosts ATK and MAG increases (mid)",
@@ -3337,11 +3537,19 @@
     ],
     "219410002": [
         "Boosts DEF and SPR every turn",
-        "每回合提高防禦精神的數值",
+        "每回合提高防禦精神",
         "매 턴마다 방어력과 정신력 상승",
         "Augmente la DEF et la PSY à chaque tour",
         "Erhöht ABW und PSY jede Runde",
         "Aumenta la DEF y el ESP cada turno"
+    ],
+    "219980002": [
+        "Boosts chance of activation (low)<br>Boosts ATK increase (low)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "220010002": [
         "Boosts damage amount (great)",
@@ -3351,6 +3559,22 @@
         "Erhöht den Schaden (sehr hoch)",
         "Aumenta el daño (muchísimo)"
     ],
+    "220020002": [
+        "Boosts restoration amount (great)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220050002": [
+        "Boosts ATK increases (great)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "220100002": [
         "Boosts turns in effect (low)",
         "提高效果回合數(小)",
@@ -3358,6 +3582,14 @@
         "Augmente le nombre de tours des effets (peu)",
         "Erhöht Anzahl aktiver Runden (gering)",
         "Aumenta la duración (poco)"
+    ],
+    "220120002": [
+        "Boosts restoration rate when being revived (high)",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "220160002": [
         "Boosts ATK increase (high)",
@@ -3489,7 +3721,7 @@
     ],
     "301301002": [
         "Boosts lightning resistance (mid)",
-        "提高雷屬性耐性的數值(中)",
+        "提高雷屬性耐性(中)",
         "번개속성 저항력 상승(중)",
         "Augmente la rés. à la foudre (moyen)",
         "Erhöht Blitzresistenz (mittel)",
@@ -3529,7 +3761,7 @@
     ],
     "400120002": [
         "Boosts ATK",
-        "提高攻擊的數值",
+        "提高攻擊",
         "공격력 상승",
         "Augmente l'ATT",
         "Erhöht ANG",
@@ -3665,7 +3897,7 @@
     ],
     "910035002": [
         "Boosts SPR when equipped with armor or a robe",
-        "提高裝備鎧甲或法袍時精神的數值",
+        "裝備鎧甲法袍時提高精神",
         "갑옷 또는 로브 장착 시 정신력 상승",
         "Augmente la PSY lorsqu'une armure ou une tunique sont équipées",
         "Erhöht PSY, wenn mit Rüstung oder Robe ausgerüstet.",
@@ -3673,7 +3905,7 @@
     ],
     "910037002": [
         "Boosts MAG and DEF increases (low)<br>Boosts SPR when equipped with a shield",
-        "提高魔力防禦的增加量(小)<br>提高裝備盾時精神的數值",
+        "提高魔力防禦的增加量(小)<br>裝備盾時提高精神",
         "마력과 정신력 상승량 상승(소)<br>방패 장착 시 정신력 상승",
         "Amplifie l'augmentation de la MAGIE et de la DEF (peu)<br>Augmente la PSY lorsqu'un bouclier est équipé",
         "Steigert MAG- und ABW-Erhöhungen (gering)<br>Erhöht PSY, wenn mit Schild ausgerüstet",
@@ -3681,7 +3913,7 @@
     ],
     "910039002": [
         "Boosts MAG, DEF and SPR",
-        "提高魔力防禦精神的數值",
+        "提高魔力防禦精神",
         "마력, 방어력, 정신력 상승",
         "Augmente la MAGIE, la DEF et la PSY",
         "Erhöht MAG, ABW und PSY",
@@ -3689,7 +3921,7 @@
     ],
     "910040002": [
         "Boosts damage amount (high)<br>Reduces ice resistance",
-        "提高傷害量(大)<br>降低冰屬性耐性的數值",
+        "提高傷害量(大)<br>降低冰屬性耐性",
         "피해량 상승(대)<br>얼음속성 저항력 감소",
         "Augmente les dégâts infligés (beaucoup)<br>Réduit la résistance à la glace",
         "Erhöht Schaden (hoch)<br>Verringert Eisresistenz",
@@ -3825,7 +4057,7 @@
     ],
     "910098002": [
         "Boosts light resistance increase (high)<br>Boosts ATK",
-        "提高光屬性耐性增加量(大)<br>提高攻擊的數值",
+        "提高光屬性耐性增加量(大)<br>提高攻擊",
         "빛속성 저항력 상승량 상승(대)<br>공격력 상승",
         "Amplifie l'augmentation de la résistance à la lumière (beaucoup)<br> Augmente l'ATT",
         "Steigert Erhöhung von Lichtresistenz (hoch)<br>Erhöht ANG",
@@ -3865,7 +4097,7 @@
     ],
     "910112002": [
         "Boosts damage amount (mid)<br>Reduces dark resistance",
-        "提高傷害量(中)<br>降低暗屬性耐性的數值",
+        "提高傷害量(中)<br>降低暗屬性耐性",
         "피해량 상승(중)<br>어둠속성 저항력 감소",
         "Augmente les dégâts infligés (moyen)<br>Réduit la rés. aux ténèbres",
         "Erhöht Schaden (mittel)<br>Verringert Dunkelresistenz",
@@ -3969,7 +4201,7 @@
     ],
     "910178002": [
         "Boosts SPR<br>Boosts DEF increase (low)<br>Boosts chance of restoring MP (low)<br>Boosts MP restored when active (mid)",
-        "提高精神的數值<br>提高防禦增加量(小)<br>提高MP恢復機率(小)<br>發動時提高MP恢復量(中)",
+        "提高精神<br>提高防禦增加量(小)<br>提高MP恢復機率(小)<br>發動時提高MP恢復量(中)",
         "정신력 상승<br>방어력 상승량 상승(소)<br>MP 회복 확률 상승(소)<br>활성화 시 MP 회복량 상승(중)",
         "Augmente la PSY<br>Amplifie l'augmentation de la DEF (peu)<br>Augmente les chances de restaurer les PM (peu)<br>Augmente les PM restaurés une fois activé (moyen)",
         "Erhöhte PSY<br>Steigert ABW-Erhöhung(gering)<br>Erhöht Chance, MP wiederherzustellen (gering)<br>Erhöht wiederhergestellte MP, wenn aktiv (mittel)",
@@ -4097,7 +4329,7 @@
     ],
     "910318002": [
         "Boosts SPR with equipped with a robe",
-        "提高裝備法袍時的精神",
+        "裝備法袍時提高精神",
         "로브 장착 시 정신력 상승",
         "Augmente la PSY lorsqu'une tunique est équipée",
         "Erhöht PSY, wenn mit Robe ausgerüstet",
@@ -4105,7 +4337,7 @@
     ],
     "910319002": [
         "Boosts DEF and SPR with equipped with a heavy shield",
-        "提高裝備重盾時的防禦精神",
+        "裝備重盾時提高防禦精神",
         "무거운 방패 장착 시 방어력과 정신력 상승",
         "Augmente la DEF et la PSY lorsqu'un bouclier lourd est équipé",
         "Erhöht ABW und PSY wenn mit schwerem Schild ausgerüstet",
@@ -4119,6 +4351,78 @@
         "Erhöht ANG, ABW, MAG und PSY (mittel)",
         "Mayor aumento de ATQ/DEF/MAG/ESP (bastante)"
     ],
+    "910419002": [
+        "Boosts water resistance",
+        "提高水屬性耐性",
+        "물속성 저항력 상승",
+        "Augmente la résistance à l'eau",
+        "Erhöht Wasserresistenz",
+        "Aumenta la resistencia al agua"
+    ],
+    "910421002": [
+        "Boosts water resistance for all allies",
+        "提高全體隊員的水屬性耐性",
+        "아군 전체의 물속성 저항력 상승",
+        "Augmente la résistance à l'eau de tous les alliés",
+        "Erhöht Wasserresistenz für alle Verbündeten",
+        "Aumenta la resistencia al agua de todos los aliados"
+    ],
+    "910422002": [
+        "Boosts HP restoration amount (great)",
+        "提高HP恢復量(特大)",
+        "HP 회복량 상승(특대)",
+        "Augmente le taux de restauration des PV (super)",
+        "Erhöht Wert regenerierter LP (sehr hoch)",
+        "Aumenta la recuperación de VIT (muchísimo)"
+    ],
+    "910425002": [
+        "Boosts MAG and SPR increases (mid)<br>Boosts turns in effect (low)",
+        "提高魔力精神增加量(中)<br>提高效果回合數(小)",
+        "마력과 정신력 상승량 상승(중)<br>효과 턴 수 상승(소)",
+        "Amplifie l'augmentation de la MAGIE et de la PSY (moyen)<br>Augmente le nombre de tours des effets (peu)",
+        "Steigert MAG- und PSY-Erhöhungen (mittel)",
+        "Mayor aumento de MAG y ESP (bastante)<br>Aumenta la duración (poco)"
+    ],
+    "910431002": [
+        "Boosts SPR<br>Boosts resistance to confusion",
+        "提高精神<br>提高混亂耐性",
+        "정신력 상승<br>혼란 저항력 상승",
+        "Augmente la PSY<br>Augmente la résistance à confusion",
+        "Erhöht PSY<br>Erhöht Resistenz gegen Konfus",
+        "Aumenta el ESP<br>Aumenta la resistencia contra confusión"
+    ],
+    "910434002": [
+        "Removes the need to use flurry, aeroja, or tornado on previous turn for boosted damage<br>Increases MP consumed (great)",
+        "移除提高傷害時需在前一回合使用「瞬風」、「強勁風」、「龍捲風」的條件<br>提高MP消耗(特大)",
+        "이전 턴에 '질풍', '에어로쟈' 또는 '토네이도'를 사용하지 않아도 피해량 상승<br>소비 MP 증가(특대)",
+        "Plus besoin d'utiliser Déluge, Vent max ou Tornade au tour précédent pour augmenter les dégâts<br>Augmente les PM consommés (super)",
+        "Für erhöhten Schaden muss in der vorherigen Runde nicht mehr Windstoß, Aeroka oder Tornado benutzt werden.<br>Erhöht verbrauchte MP (sehr hoch)",
+        "No es necesario usar Ráfaga, Aero+++ o Tornado el turno anterior para potenciar el daño<br>Aumenta el consumo de PM (muchísimo)"
+    ],
+    "910437002": [
+        "Boosts MAG and MP when equipped with a rod",
+        "裝備魔棒時提高魔力MP",
+        "홀장 장착 시 마력과 MP 상승",
+        "Augmente la MAGIE et les PM lorsqu'un sceptre est équipé",
+        "Erhöht MAG und MP wenn mit einer Rute ausgerüstet",
+        "Aumenta la MAG y los PM al llevar a vara"
+    ],
+    "910440002": [
+        "Boosts damage of fira and firaga (great)",
+        "提高「中火焰」「大火焰」的傷害(特大)",
+        "'파이라'와 '파이가' 피해량 상승(특대)",
+        "Augmente les dégâts de Feu + et Feu X (super)",
+        "Erhöht Schaden von Feura und Feuga (sehr hoch)",
+        "Aumenta el daño de Piro+ y Piro++ (muchísimo)"
+    ],
+    "910442002": [
+        "Boosts SPR",
+        "提高精神",
+        "정신력 상승",
+        "Augmente la PSY",
+        "Erhöht PSY",
+        "Aumenta el ESP"
+    ],
     "910452002": [
         "Boosts DEF increase (low)<br>Boosts HP",
         "提高防禦增加量(小)<br>提高HP",
@@ -4127,13 +4431,85 @@
         "Steigert ABW-Erhöhung (gering)<br>Erhöht LP",
         "Mayor aumento de DEF (poco)<br>Aumenta la VIT"
     ],
+    "910462002": [
+        "Boosts DEF when equipped with a gun<br>Boosts ATK when equipped with a sword",
+        "裝備火槍時提高防禦<br>裝備劍時提高攻擊",
+        "총 장착 시 방어력 상승<br>검 장착 시 공격력 상승",
+        "Augmente la DEF lorsqu'une arme à feu est équipée<br>Augmente l'ATT lorsqu'une épée est équipée",
+        "Erhöht ABW wenn mit einer Schusswaffe ausgerüstet<br>Erhöht ANG wenn mit einem Schwert ausgerüstet",
+        "Aumenta la DEF al llevar pistola<br>Aumenta el ATQ al llevar espada"
+    ],
+    "910463002": [
+        "Boosts ATK and DEF for caster",
+        "提高自身的攻擊防禦",
+        "자신의 공격력과 방어력 상승",
+        "Augmente l'ATT et la DEF du lanceur",
+        "Erhöht ANG und ABW für Benutzer",
+        "Aumenta el ATQ y la DEF del usuario"
+    ],
+    "910469002": [
+        "Boosts damage amount (high)",
+        "提高傷害量(大)",
+        "피해량 상승(대)",
+        "Augmente les dégâts infligés (beaucoup)",
+        "Erhöht Schaden (hoch)",
+        "Aumenta el daño (mucho)"
+    ],
     "910470002": [
         "Boosts ATK when equipped with a hammer",
-        "提高裝備鎚子時攻擊的數值",
+        "裝備鎚子時提高攻擊",
         "망치 장착 시 공격력 상승",
         "Augmente l'ATT lorsqu'un marteau est équipé",
         "Erhöht ANG, wenn mit Hammer ausgerüstet",
         "Aumenta el ATQ al llevar martillo"
+    ],
+    "910520002": [
+        "Boosts damage amount (mid)",
+        "提高傷害量(中)",
+        "피해량 상승(중)",
+        "Augmente les dégâts infligés (moyen)",
+        "Erhöht Schaden (mittel)",
+        "Aumenta el daño (bastante)"
+    ],
+    "910526002": [
+        "Boosts damage amount (mid)<br>Reduces MP consumed (low)",
+        "提高傷害量(中)<br>降低MP消耗(小)",
+        "피해량 상승(중)<br>소비 MP 감소(소)",
+        "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (peu)",
+        "Erhöht Schaden (mittel)<br>Verringert verbrauchte MP (gering)",
+        "<br>Aumenta el daño (bastante)<br>Reduce el consumo de PM (poco)</color>"
+    ],
+    "910527002": [
+        "Boosts MAG increase when equipped with a fire weapon (low)<br>Boosts HP increase when equipped with a dark weapon (low)<br>Boosts MP when equipped with a fire weapon<br>Boosts MP when equipped with a dark weapon",
+        "裝備火屬性武器時提高魔力增加量(小)<br>裝備暗屬性武器時提高HP增加量(小)<br>裝備火屬性武器時提高MP<br>裝備暗屬性武器時提高MP",
+        "불속성 무기 장착 시 마력 상승량 상승(소)<br>어둠속성 무기 장착 시 HP 상승량 상승(소)<br>불속성 무기 장착 시 MP 상승<br>어둠속성 무기 장착 시 MP 상승",
+        "Amplifie l'augmentation de la MAGIE lorsqu'une arme à feu est équipée (peu)<br>Amplifie l'augmentation des PV lorsqu'une arme de ténèbres est équipée (peu)<br>Amplifie l'augmentation des PM lorsqu'une arme à feu est équipée<br>Amplifie l'augmentation des PM lorsqu'une arme de ténèbres est équipée",
+        "Steigert MAG-Erhöhung wenn mit einer Feuerwaffe ausgerüstet (gering)<br>Steigert LP-Erhöhung wenn mit einer Dunkelwaffe ausgerüstet (gering)<br>Erhöht MP wenn mit einer Feuerwaffe ausgerüstet<br>Erhöht MP wenn mit einer Dunkelwaffe ausgerüstet",
+        "Mayor aumento de MAG al llevar un arma de fuego (poco)<br>Mayor aumento de VIT al llevar un arma oscura (poco)<br>Aumenta los PM al llevar un arma de fuego<br>Aumenta los PM al llevar un arma oscura"
+    ],
+    "910531002": [
+        "Boosts MP when equipped with a hat",
+        "裝備帽子時提高MP",
+        "모자 장착 시 MP 상승",
+        "Augmente les PM lorsqu'un chapeau est équipé",
+        "Erhöht MP wenn mit einem Hut ausgerüstet",
+        "Aumenta los PM al llevar sombrero"
+    ],
+    "910534002": [
+        "Boosts turns in effect (low)",
+        "提高效果回合數(小)",
+        "효과 턴 수 상승(소)",
+        "Augmente le nombre de tours des effets (peu)",
+        "Erhöht Anzahl aktiver Runden (gering)",
+        "Aumenta la duración (poco)"
+    ],
+    "910536002": [
+        "Boosts DEF and SPR for one ally",
+        "提高1名隊員的防禦精神",
+        "아군 1명의 방어력과 정신력 상승",
+        "Augmente la DEF et la PSY pour un allié",
+        "Erhöht ABW und PSY für einen Verbündeten",
+        "Aumenta la DEF y el ESP de un aliado"
     ],
     "910720002": [
         "Boosts light resistance increase (mid)<br>Boosts ATK and DEF increases (high)",

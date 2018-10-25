@@ -48,7 +48,7 @@
         "ATQ@MAG@ATQ/MAG@Otros"
     ],
     "ABILITY_DETAIL_BADSTATE_LIST": [
-        "Poison@Blind@Sleep@Silence@Paralysis@Confusion@Disease@Stone@Stop@Charm@Berserk",
+        "poison@blind@sleep@silence@paralysis@confusion@disease@stone@stop@charm@berserk",
         "中毒@失明@睡眠@沉默@麻痺@混亂@生病@石化@停止@魅惑@狂暴",
         "독@암흑@수면@침묵@마비@혼란@질병@석화@스톱@매혹@광폭화",
         "Poison@Cécité@Sommeil@Silence@Paralysie@Confusion@Maladie@Pétrification@Stop@Charme@Furie",
@@ -56,7 +56,7 @@
         "Veneno@Ceguera@Sueño@Silencio@Parálisis@Confusión@Enfermedad@Piedra@Paro@Embrujo@Locura"
     ],
     "ABILITY_DETAIL_BODY_LIST": [
-        "Clothes@Light Armor@Heavy Armor@Robe",
+        "clothes@light armor@heavy armor@robe",
         "衣服@輕鎧甲@重鎧甲@法袍",
         "옷@경갑@중갑@로브",
         "Vêtements@Armure légère@Armure lourde@Robe",
@@ -64,7 +64,7 @@
         "Ropa@Armadura ligera@Armadura pesada@Túnica"
     ],
     "ABILITY_DETAIL_ELEMENT_LIST": [
-        "Fire@Ice@Lightning@Water@Wind@Earth@Light@Dark",
+        "fire@ice@lightning@water@wind@earth@light@dark",
         "火@冰@雷@水@風@土@光@暗",
         "불@얼음@번개@물@바람@땅빛@어둠",
         "Feu@Glace@Foudre@Eau@Vent@Terre@Lumière@Ténèbres",
@@ -72,7 +72,7 @@
         "Fuego@Hielo@Rayo@Agua@Viento@Tierra@Luz@Oscuridad"
     ],
     "ABILITY_DETAIL_HEAD_LIST": [
-        "Hat@Helm",
+        "hat@helm",
         "帽子@頭盔",
         "모자@투구",
         "Chapeau@Casque",
@@ -112,7 +112,7 @@
         "Único"
     ],
     "ABILITY_DETAIL_SHIELD_LIST": [
-        "Light Shield@Heavy Shield",
+        "light shield@heavy shield",
         "輕盾@重盾",
         "경방패@중방패",
         "Bouclier léger@Bouclier lourd",
@@ -248,7 +248,7 @@
         "Único aliado"
     ],
     "ABILITY_DETAIL_TRIBE_LIST": [
-        "Beast@Avian@Aquatic@Human@Machina@Dragon@Fairy@Insect@Stone@Plant@Reaper",
+        "beast@avian@aquatic@demon@human@machina@dragon@fairy@insect@stone@plant@reaper",
         "獸@鳥@水生@惡魔@人@機械@龍@精靈@蟲@岩石@植物@死靈",
         "야수@조류@수중@악마@인간@기계@드래곤@정령@곤충@암석@식물@사령",
         "Bête@Oiseau@Aqua@Démon@Humain@Machine@Dragon@Lutin@Insecte@Pierre@Plante@Mort-vivant",
@@ -256,7 +256,7 @@
         "Bestia@Ave@Acuático@Demonio@Humano@Máquina@Dragón@Espíritu@Insecto@Piedra@Plantoide@M. viviente"
     ],
     "ABILITY_DETAIL_WEAPON_LIST": [
-        "Short Sword@Sword@Large Sword@Staff@Rod@Bow@Axe@Hammer@Spear@Instrument@Whip@Throwing Weapon@Gun@Mace@Fists",
+        "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fists",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
         "Épée courte@Épée@Épée longue@Katana@Bâton@Sceptre@Arc@Hache@Marteau@Lance@Instrument@Fouet@Arme de jet@Arme à feu@Masse@Poings",
@@ -566,6 +566,14 @@
         "Coffre de l'éveil en argent",
         "Silberne Truhe des Erweckens",
         "Cofre de plata del despertar"
+    ],
+    "AWAKENING_PRISM_CONVERT_WARNING": [
+        "Convert unit to awakening material?<br><br>Currently you only have one copy of this unit in your inventory. Converting this unit into an awakening material will cause you to lose the base unit needed for its 7★ awakening, and you will not be able to awaken it to 7★ until you acquire another copy of this particular unit.",
+        null,
+        "유닛을 각성 재료로 변환하시겠습니까?<br><br>현재 파티에 해당 유닛이 1개뿐입니다. 해당 유닛을 각성 재료로 변환할 경우 ★7 각성에 필요한 베이스 유닛을 잃게 되며, ★7 각성을 원하는 경우 해당 유닛을 다시 획득해야 합니다.   <br>",
+        null,
+        null,
+        null
     ],
     "AWARD": [
         "Trophies",
@@ -9299,17 +9307,17 @@
         "Nemeses",
         null,
         "강적",
-        null,
-        "Némesis",
-        null
+        "Boss",
+        "Nemesis<br>",
+        "Némesis"
     ],
     "MST_AWARD_TYPE_6": [
         "Misc.",
         null,
         "종합",
-        null,
-        "Varios",
-        null
+        "Divers",
+        "Versch.",
+        "Varios"
     ],
     "MST_BEAST_NAME_1": [
         "Siren",
@@ -9377,11 +9385,19 @@
     ],
     "MST_BEAST_NAME_17": [
         "Anima",
-        null,
-        null,
-        null,
-        null,
-        null
+        "暴怒靈獸",
+        "아니마",
+        "Anima",
+        "Anima",
+        "Ánima"
+    ],
+    "MST_BEAST_NAME_18": [
+        "Ashura",
+        "阿修羅",
+        "아수라",
+        "Ashura",
+        "Ashura",
+        "Ashura"
     ],
     "MST_BEAST_NAME_2": [
         "Ifrit",
@@ -9825,7 +9841,7 @@
     ],
     "MST_LAND_NAME_36": [
         "Magistellus",
-        null,
+        "馬基斯特爾斯",
         "마기스텔스",
         "Magistellus",
         null,
@@ -9833,7 +9849,7 @@
     ],
     "MST_LAND_NAME_37": [
         "Rubiena",
-        null,
+        "魯比艾納",
         "루비에나",
         "Rubiena",
         null,
@@ -10233,7 +10249,7 @@
     ],
     "MST_RB_SS_REWARD_MOG_5": [
         "The Trust Moogle's trust master value is 5% for all units.",
-        "信賴度莫古利的信賴值為ALL15%。",
+        "信賴度莫古利的信賴值為ALL5%。",
         "트러스트 모그리의 트러스트는 ALL 5%입니다.",
         "La valeur de confiance absolue du mog de confiance est de 5% pour toutes les unités.",
         "Der Wahre-Treue-Wert des Treuemogrys ist 5% für alle Einheiten.",
