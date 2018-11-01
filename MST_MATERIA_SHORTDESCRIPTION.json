@@ -3720,7 +3720,7 @@
         "Aumenta la VIT, los PM y la resistencia al agua un 5%"
     ],
     "504227527": [
-        "Boost HP, DEF, and SPR by 30%, and boost equipment ATK when a single weapon is equipped in both hands",
+        "Boost HP, DEF, and SPR by 30%, and boost equipment ATK when a single weapon is equipped in both hands (Not Stackable)",
         null,
         null,
         null,
@@ -3783,8 +3783,16 @@
         "Erhöht Feuer-, Eis- und Blitzresistenz um 30%.",
         "Aumenta la res. al fuego, hielo y rayo un 30%"
     ],
+    "504228151": [
+        "Boost HP by 30%, DEF by 20%, and wind resistance by 30%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "504228152": [
-        "Boost MP by 10%, and boost equipment MAG when a single weapon is equipped in both hands",
+        "Boost MP by 10%, and boost equipment MAG when a single weapon is equipped in both hands (Not stackable)",
         null,
         null,
         null,
@@ -3799,45 +3807,53 @@
         null,
         null
     ],
-    "504228324": [
-        "Boost own ATK, DEF, MAG and SPR at the beginning of battle or after being revived, boost ATK when equipped with a sword, and boost HP and ATK when equipped with clothes (Not stackable)",
+    "504228299": [
+        "Reduce dark resistance by 30%, and boost SPR by 60% and LB gauge fill rate (Not stackable)",
         null,
         null,
         null,
         null,
         null
+    ],
+    "504228324": [
+        "Boost own ATK, DEF, MAG and SPR at the beginning of battle or after being revived, boost ATK when equipped with a sword, and boost HP and ATK when equipped with clothes (Not stackable)",
+        "戰鬥開始時和從無法戰鬥狀態中復活時提高自身的攻擊防禦魔力精神+裝備劍時提高攻擊+裝備衣服時提高HP攻擊[無法重複裝備]",
+        "전투 시작 시 및 전투불능 상태에서 회복했을 때 자신의 공격력, 방어력, 마력, 정신력 상승+검 장착 시 공격력 상승+옷 장착 시 HP와 공격력 상승(중복 장착 불가)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur au début du combat ou après avoir ressuscité. Augmente l'ATT lorsqu'une épée est équipée et augmente les PV et l'ATT lorsque des vêtements sont équipés (Non cumulable)",
+        "Erhöht ANG, ABW, MAG und PSY des Benutzers zu Beginn eines Kampfes oder nach Wiederbelebung, erhöht ANG wenn mit einem Schwert ausgerüstet und erhöht LP und ANG wenn mit Kleidung ausgerüstet (Nicht stapelbar).",
+        "Aumenta ATQ, DEF, MAG y ESP del usuario al comienzo del combate o tras revivir, aumenta el ATQ al llevar espada y aumenta la VIT y el ATQ al llevar ropa (no acumulable)"
     ],
     "504228356": [
         "Boost MAG by 40% and fire resistance by 50%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高40%魔力、50%火屬性耐性",
+        "마력 40%, 불속성 저항력 50% 상승",
+        "Augmente la MAGIE de 40% et la résistance au feu de 50%",
+        "Erhöht MAG um 40% und Feuerresistenz um 50%.",
+        "Aumenta la MAG un 40% y la resistencia al fuego un 50%"
     ],
     "504228371": [
         "Boost ATK and MAG by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%攻擊魔力",
+        "공격력과 마력 20% 상승",
+        "Augmente l'ATT et la MAGIE de 20%",
+        "Erhöht ANG und MAG um 20%.",
+        "Aumenta el ATQ y la MAG un 20%"
     ],
     "504228380": [
         "Boost HP by 10%, ATK and MAG by 5%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高10%HP、5%攻擊魔力",
+        "HP 10%, 공격력과 마력 5% 상승",
+        "Augmente les PV de 10%, l'ATT et la MAGIE de 5%",
+        "Erhöht LP um 10% und ANG und MAG um 5%.",
+        "Aumenta la VIT un 10% y el ATQ y la MAG un 5%"
     ],
     "504228381": [
         "Boost HP by 10%, DEF and SPR by 5%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高10%HP、5%防禦精神",
+        "HP 10%, 방어력과 정신력 5% 상승",
+        "Augmente les PV de 10%, la DEF et la PSY de 5%",
+        "Erhöht LP um 10% und ABW und PSY um 5%.",
+        "Aumenta la VIT un 10% y la DEF y el ESP un 5%"
     ],
     "504228390": [
         "Boost MAG by 30% and magic damage against humans",
@@ -4809,7 +4825,7 @@
     ],
     "1500000074": [
         "Boost ATK when equipped with a fist or clothes (Not stackable)",
-        "提高裝備格鬥武器衣服時的攻擊 [無法重複裝備]",
+        "裝備格鬥武器衣服時提高攻擊 [無法重複裝備]",
         "격투무기 또는 옷 장착 시 공격력 상승(중복 장착 불가)",
         "Augmente l'ATT lorsque des poings ou des vêtements sont équipés (non cumulable)",
         "Erhöht ANG wenn mit Faust oder Kleidung ausgerüstet (Nicht stapelbar).",
