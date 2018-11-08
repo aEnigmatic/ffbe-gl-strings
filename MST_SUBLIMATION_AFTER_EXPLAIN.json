@@ -4389,7 +4389,7 @@
         "<color=0:255:0>대검 또는 도 장착 시 공격력 상승</color>",
         "<color=0:255:0>Augmente l'ATT lorsqu'une épée longue ou un katana est équipé</color>",
         "<color=0:255:0>Erhöht ANG, wenn mit Großschwert oder Katana ausgerüstet</color>",
-        "<color=0:255:0>Aumenta el ATQ al llevar espada larga o katana</color>"
+        "<color=0:255:0>Aumenta el ATQ al llevar espada grande o katana</color>"
     ],
     "209530002": [
         "Boosts ATK when equipped with a large sword or katana<br><color=0:255:0>Boosts ATK increase when equipped with a large sword or katana (high)</color>",
@@ -4397,7 +4397,7 @@
         "대검 또는 도 장착 시 공격력 상승<br><color=0:255:0>대검 또는 도 장착 시 공격력 상승량 상승(대)</color>",
         "Augmente l'ATT lorsqu'une épée longue ou un katana est équipé<br><color=0:255:0>Amplifie l'augmentation de l'ATT lorsqu'une épée longue ou un katana est équipé (beaucoup)</color>",
         "Erhöht ANG, wenn mit Großschwert oder Katana ausgerüstet<br><color=0:255:0>Steigert ANG-Erhöhung, wenn mit Großschwert oder Katana ausgerüstet (hoch)</color>",
-        "Aumenta el ATQ al llevar espada larga o katana<br><color=0:255:0>Aumenta el ATQ al llevar espada larga o katana (mucho)</color>"
+        "Aumenta el ATQ al llevar espada grande o katana<br><color=0:255:0>Aumenta el ATQ al llevar espada grande o katana (mucho)</color>"
     ],
     "209560001": [
         "<color=0:255:0>Boosts DEF and SPR when equipped with an instrument</color>",
@@ -4837,7 +4837,7 @@
         "<color=0:255:0>대검 장착 시 공격력 상승</color>",
         "<color=0:255:0>Augmente l'ATT lorsqu'une épée longue est équipée</color>",
         "<color=0:255:0>Erhöht ANG, wenn mit Großschwert ausgerüstet</color>",
-        "<color=0:255:0>Aumenta el ATQ al llevar espada larga</color>"
+        "<color=0:255:0>Aumenta el ATQ al llevar espada grande</color>"
     ],
     "210450002": [
         "Boosts ATK when equipped with large sword<br><color=0:255:0>Boosts ATK increase (high)</color>",
@@ -4845,7 +4845,7 @@
         "대검 장착 시 공격력 상승<br><color=0:255:0>공격력 상승량 상승(대)</color>",
         "Augmente l'ATT lorsqu'une épée longue est équipée<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
         "Erhöht ANG, wenn mit Großschwert ausgerüstet<br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
-        "Aumenta el ATQ al llevar espada larga<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
+        "Aumenta el ATQ al llevar espada grande<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "210470001": [
         "<color=0:255:0>Boosts damage amount (great)</color>",
@@ -5232,7 +5232,7 @@
         "Aumenta el daño(muchísimo)<br><color=0:255:0>Aumenta el número de golpes (bastante)</color>"
     ],
     "211340001": [
-        "<color=0:255:0>Boosts ATK increases (high)</color>",
+        "<color=0:255:0>Boosts ATK increase (high)</color>",
         null,
         null,
         null,
@@ -6192,7 +6192,15 @@
         null
     ],
     "214510001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts chance of activating hayate blade when using misty charge or clone blade (great)<br>Boosts damage dealt by hayate blade (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214510002": [
+        "Boosts chance of activating hayate blade when using misty charge or clone blade (great)<br>Boosts damage dealt by hayate blade (great)<br><color=0:255:0> after using hayate blade「疾風剣」発動後「かすみ二段」「分身剣」「疾風剣」使用時に「五月雨斬り」が発動する確率をアップ(特大)<br>「五月雨斬り」のダメージ量をアップ(特大)</color>",
         null,
         null,
         null,
@@ -6232,7 +6240,7 @@
         null
     ],
     "214650001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Chance of activating sonic blade when using hayabusa slash or ill wind (great)<br>Boosts damage dealt by sonic blade (great)</color>",
         null,
         null,
         null,
@@ -6240,7 +6248,7 @@
         null
     ],
     "214670001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage amount (low)</color>",
         null,
         null,
         null,
@@ -6248,7 +6256,7 @@
         null
     ],
     "214670002": [
-        "<br><color=0:255:0>",
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage increase (low)<br>Boosts chance of blinding (great)</color>",
         null,
         null,
         null,
@@ -6256,7 +6264,7 @@
         null
     ],
     "214680001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts MP, MAG and SPR</color>",
         null,
         null,
         null,
@@ -6264,7 +6272,7 @@
         null
     ],
     "214680002": [
-        "<br><color=0:255:0>",
+        "Boosts MP, MAG and SPR<br><color=0:255:0>Boosts HP, MP, ATK, DEF, MAG, and SPR increases (low)</color>",
         null,
         null,
         null,
@@ -6288,7 +6296,7 @@
         null
     ],
     "214820001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage amount (low)</color>",
         null,
         null,
         null,
@@ -6296,7 +6304,7 @@
         null
     ],
     "214820002": [
-        "<br><color=0:255:0>",
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage increase (low)</color>",
         null,
         null,
         null,
@@ -6304,7 +6312,7 @@
         null
     ],
     "214830001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Reduces MP consumed (mid)</color>",
         null,
         null,
         null,
@@ -6312,7 +6320,7 @@
         null
     ],
     "214830002": [
-        "<br><color=0:255:0>",
+        "Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (low)</color>",
         null,
         null,
         null,
@@ -6368,7 +6376,15 @@
         "Disminuye la reducción de MAG (mucho)<br><color=0:255:0>Disminuye la reducción de MAG (mucho)</color><br><color=0:255:0>Mayor aumento de ESP (poco)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
     ],
     "215000001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts ATK increase (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "215000002": [
+        "Boosts ATK increase (low)<br><color=0:255:0>Boosts ATK increase</color>",
         null,
         null,
         null,
@@ -6376,7 +6392,7 @@
         null
     ],
     "215030001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage amount (low)</color>",
         null,
         null,
         null,
@@ -6384,7 +6400,15 @@
         null
     ],
     "215040001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts ATK and MAG reductions (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "215040002": [
+        "Boosts ATK and MAG reductions (low)<br><color=0:255:0>Boosts turns in effect (low)</color>",
         null,
         null,
         null,
@@ -6504,7 +6528,15 @@
         "Aumenta la probabilidad de contratacar (poco)<br>Aumenta el daño al contratacar (bastante)<br><color=0:255:0>Aumenta la probabilidad de contratacar (poco)</color><br><color=0:255:0>Probabilidad de aprender Libro de almacenamiento durante 3 turnos al recibir un ataque físico o mágico</color>"
     ],
     "216100001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "216100002": [
+        "Boosts turns in effect (low)",
         null,
         null,
         null,
@@ -6528,7 +6560,7 @@
         null
     ],
     "216210001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage amount (low)</color>",
         null,
         null,
         null,
@@ -6544,7 +6576,7 @@
         null
     ],
     "216260001": [
-        "<color=0:255:0>Boosts ATK increases (low)</color>",
+        "<color=0:255:0>Boosts ATK increase (low)</color>",
         null,
         null,
         null,
@@ -6600,7 +6632,7 @@
         "Aumenta el ESP<br>Recupera PM cada turno<br><color=0:255:0>Aumenta los PM<br>Posibilidad de aumentar el daño físico del usuario contra dragones al recibir un ataque físico</color>"
     ],
     "216570001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)</color>",
         null,
         null,
         null,
@@ -6608,7 +6640,15 @@
         null
     ],
     "216580001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage increase against dragons (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "216580002": [
+        "Boosts damage increase against dragons (low)<br><color=0:255:0>Boosts damage increase against dragons (low)</color>",
         null,
         null,
         null,
@@ -6743,6 +6783,22 @@
         "<color=0:255:0>Erhöht Schaden (mittel)</color>",
         "<color=0:255:0>Aumenta el daño (bastante)</color>"
     ],
+    "217080001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217080002": [
+        "Boosts damage amount (low)<br><color=0:255:0>Reduces ATK and MAG</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "217090001": [
         "<color=0:255:0>Boosts damage amount (mid)</color>",
         "<color=0:255:0>提高傷害量(中)</color>",
@@ -6750,6 +6806,30 @@
         "<color=0:255:0>Augmente les dégâts infligés (moyen)</color>",
         "<color=0:255:0>Erhöht Schaden (mittel)</color>",
         "<color=0:255:0>Aumenta el daño (bastante)</color>"
+    ],
+    "217100001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217240001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217240002": [
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "217260001": [
         "<color=0:255:0>Boosts HP and DEF increases (low)</color>",
@@ -6863,6 +6943,14 @@
         "Erhöht nötige LP (mittel)<br><color=0:255:0>Erhöht MAG und PSY (mittel)</color>",
         "Aumenta la VIT necesaria<br><color=0:255:0>Mayor aumento de MAG y ESP</color>"
     ],
+    "217660001": [
+        "<color=0:255:0>Boosts HP restoration amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "217670001": [
         "<color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Reduces fire resistance</color>",
         "<color=0:255:0>提高傷害量 (小)</color><br><color=0:255:0>降低火屬性耐性</color><br>",
@@ -6878,6 +6966,134 @@
         "Augmente les dégâts infligés (peu)<br>Réduit la résistance au feu<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Amplifie la réduction de la résistance au feu (beaucoup)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "Erhöht Schaden (gering)<br>Verringert Feuerresistenz<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Steigert Verringerung von Feuerresistenz</color><br><color=0:255:0>Verringert verbrauchte MP (gering)</color>",
         "Aumenta el daño (poco)<br>Reduce la resistencia al fuego<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Mayor reducción a la resistencia de fuego (mucho)</color><br><color=0:255:0>Reduce el consumo de PM (poco)</color>"
+    ],
+    "217680001": [
+        "<color=0:255:0>Boosts LB gauge fill rate (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217700001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217800001": [
+        "<color=0:255:0>Boosts ATK and MAG</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217820001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217840001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217850001": [
+        "<color=0:255:0>Boosts DEF and SPR increases (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217920001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217920002": [
+        "Boosts turns in effect (low)<br><color=0:255:0>Boosts chance of activation (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "217980001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218000001": [
+        "<color=0:255:0>Boosts LB gauge fill rate (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218130001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218140001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218140002": [
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218190001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218200001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "218250001": [
+        "<color=0:255:0>Boosts MP</color>",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "219410001": [
         "<color=0:255:0>Boosts DEF and SPR every turn</color>",
@@ -6895,8 +7111,48 @@
         "Erhöht jede Runde ABW und PSY<br><color=0:255:0>Stellt jede Runde MP wieder her</color>",
         "Aumenta DEF y ESP cada turno<br><color=0:255:0>Recupera PM cada turno</color>"
     ],
+    "220010001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220010002": [
+        "Boosts damage amount (high)<br><color=0:255:0>Boosts MP restoration amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220020001": [
+        "<color=0:255:0>Boosts HP restoration amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220020002": [
+        "Boosts HP restoration amount (great)<br><color=0:255:0>Boosts HP restoration amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "220050001": [
-        "<color=0:255:0>Boosts ATK increases (great)</color>",
+        "<color=0:255:0>Boosts ATK increase (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220100001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
         null,
         null,
         null,
@@ -6904,7 +7160,135 @@
         null
     ],
     "220160001": [
-        "<color=0:255:0>Boosts ATK increases (high)</color>",
+        "<color=0:255:0>Boosts ATK increase (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220190001": [
+        "<color=0:255:0>Boosts LB gauge fill rate (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220330001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220340001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220380001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220380002": [
+        "Boosts damage amount (great)<br><color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220420001": [
+        "<color=0:255:0>Boosts MAG and SPR increases (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220420002": [
+        "Boosts MAG and SPR increases (mid)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220470001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220510001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220510002": [
+        "Boosts damage amount (high)<br><color=0:255:0>Boosts MP restoration amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220560001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220750001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220870001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (mid)",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220960001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220970001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "220970002": [
+        "Boosts turns in effect (low)<br><color=0:255:0>光属性耐性上昇量をアップ(中)<br>ダメージ軽減率をアップ(小)</color>",
         null,
         null,
         null,
@@ -6969,6 +7353,38 @@
     ],
     "225220001": [
         "<color=0:255:0>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "226391001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "226391002": [
+        "Boosts damage amount (low)<br><color=0:255:0>ダメージ量をアップ(小)<br>火土属性耐性減少量をアップ(中)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "226392001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "226393001": [
+        "<color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases (low)</color>",
         null,
         null,
         null,
@@ -8125,7 +8541,7 @@
         "공격력 상승량 상승(소)<br>마력 상승량 상승(소)<br><color=0:255:0>공격력 상승량 상승(소)</color><br><color=0:255:0>마력 상승량 상승(소)</color><br><color=0:255:0>검 또는 대검 장착 시 방어력과 HP 상승</color><br><color=0:255:0>도, 망치, 또는 창 장착 시 정신력과 MP 상승</color>",
         "Amplifie l'augmentation de l'ATT (peu)<br>Amplifie l'augmentation de la MAGIE (peu)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (peu)</color><br><color=0:255:0>Amplifie l'augmentation de la MAGIE (peu)</color><br><color=0:255:0>Augmente la DEF et les PV quand une épée ou une longue épée est équipée</color><br><color=0:255:0>Augmente la PSY et les PM quand une lance, un katana ou un marteau est équipé</color>",
         "Steigert ANG-Erhöhung (gering)<br>Steigert MAG-Erhöhung (gering)<br><color=0:255:0>Steigert ANG-Erhöhung (gering)</color><br><color=0:255:0>Steigert MAG-Erhöhung (gering)</color><br><color=0:255:0>Erhöht ABW und LP, wenn mit Schwert oder Großschwert ausgerüstet</color><br><color=0:255:0>Erhöht PSY und MP, wenn mit Katana, Hammer oder Speer ausgerüstet</color>",
-        "Mayor aumento de ATQ (poco)<br>Mayor aumento de MAG (poco)<br><color=0:255:0>Mayor aumento de ATQ (poco)</color><br><color=0:255:0>Mayor aumento de MAG (poco)</color><br><color=0:255:0>Aumenta la DEF y la VIT al llevar espada o espada larga</color><br><color=0:255:0>Aumenta el ESP y los PM al llevar katana, martillo o lanza</color>"
+        "Mayor aumento de ATQ (poco)<br>Mayor aumento de MAG (poco)<br><color=0:255:0>Mayor aumento de ATQ (poco)</color><br><color=0:255:0>Mayor aumento de MAG (poco)</color><br><color=0:255:0>Aumenta la DEF y la VIT al llevar espada o espada grande</color><br><color=0:255:0>Aumenta el ESP y los PM al llevar katana, martillo o lanza</color>"
     ],
     "910265001": [
         "<color=0:255:0>Boosts turns in effect (low)</color>",

@@ -2635,7 +2635,7 @@
         "Boost ATK when a single weapon is equipped in both hands (Not stackable)",
         "雙手只裝備1把武器時提高攻擊 [無法重複裝備]",
         "양손의 장비가 무기 1개일 경우 공격력 상승 [중복 장착 불가]",
-        "Augmente l'ATT quand une seule arme est équipée (dans les mains) (pas cumulable)",
+        "Augmente l'ATT lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht ANG, wenn eine einhändige Waffe beidhändig ausger. ist. (Nicht stapelbar)",
         "Aumenta el ATQ al equipar una sola arma en las dos manos. (no acumulable)"
     ],
@@ -3571,7 +3571,7 @@
         "Boost ATK by 25%, and boost equipment ATK when a single weapon is equipped in both hands (Not stackable)",
         "提高25%攻擊+雙手只裝備1把武器時武具攻擊提升 [無法重複裝備]",
         "공격력 25% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승 (중복 장착 불가)",
-        "Augmente l'ATT de 25% et augmente l'ATT de l'équipement lorsqu'une arme est équipée dans les deux mains (non cumulable)",
+        "Augmente l'ATT de 25% et augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht ANG um 25% und Ausrüstung-ANG, wenn nur eine einzelne Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
         "Aumenta el ATQ un 25% y aumenta el ATQ del equipo al llevar una sola arma en las dos manos (no acumulable)"
     ],
@@ -3655,6 +3655,14 @@
         "Erhöht ABW und PSY um 10%.",
         "Aumenta la DEF y el ESP un 10%"
     ],
+    "504227270": [
+        "Boost dark resistance by 30% and boost physical and magic damage against demons (Not Stackable)",
+        "提高30%暗屬性耐性+物理、魔法攻擊時提高對惡魔系魔物的傷害",
+        "어둠속성 저항력 30% 상승+물리, 마법 공격 시 악마형 마물에게 부여하는 피해량 상승",
+        "Augmente la résistance aux ténèbres de 30% et augmente les dégâts physiques et magiques infligés aux démons",
+        "Erhöht Dunkelresistenz um 30% und erhöht physischen und magischen Schaden gegen Dämonen.",
+        "Aumenta la resistencia a la oscuridad un 30% y el daño físico y mágico contra demonios"
+    ],
     "504227271": [
         "Boost HP, ATK, and DEF by 30%, and physical damage against humans (Not stackable)",
         "提高30%HP、攻擊防禦+物理攻擊時提高對人系魔物的傷害 [無法重複裝備]",
@@ -3663,13 +3671,21 @@
         "Erhöht LP, ANG und ABW um 30% und erhöht physischen Schaden gegen Menschen (Nicht stapelbar).",
         "Aumenta VIT, ATQ y DEF un 30%, y el daño físico contra humanos (no acumulable)"
     ],
+    "504227272": [
+        "Boost HP, MP, ATK, DEF, MAG, and SPR by 20%, fire, ice, lightning, water, wind, and earth resistance by 20%, and fill LB gauge every turn",
+        "提高20%HPMP、攻擊防禦魔力精神+提高20%火冰雷水風土屬性耐性+每回合增加極限技槽",
+        "HP, MP, 공격력, 방어력, 마력, 정신력 20% 상승+불, 얼음, 번개, 물, 바람, 땅속성 저항력 20% 상승+전투 중 매 턴마다 LB 게이지 증가",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 20%, la résistance à feu, glace, foudre, eau, vent et terre de 20% et remplit la jauge de limite à chaque tour",
+        "Erhöht LP, MP, ANG, ABW, MAG und PSY um 20%, Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz um 20% und füllt jede Runde Limitmeter.",
+        null
+    ],
     "504227273": [
         "Boost ATK by 50% when equipped with a large sword, and boost equipment ATK when only weapons are equipped in one or both hands (Not stackable)",
         "裝備大劍時提高攻擊+雙手只裝備武器時武具攻擊提升 [無法重複裝備]",
         "대검 장착 시 공격력 50% 상승+한손 또는 양손의 장비가 무기뿐일 경우 장비의 공격력 상승(중복 장착 불가)",
         "Augmente l'ATT de 50% lorsqu'une épée longue est équipée et augmente l'ATT de l'équipement lorsque seules des armes sont équipée dans une main ou dans les deux (non cumulable)",
         "Erhöht ANG um 50% wenn mit Großschwert ausgerüstet und erhöht Ausrüstung-ANG, wenn nur Waffen in einer oder beiden Händen ausgerüstet sind (Nicht stapelbar).",
-        "Aumenta el ATQ un 50% al llevar espada larga, y aumenta el ATQ del equipo al llevar armas en una o las dos manos (no acumulable)"
+        "Aumenta el ATQ un 50% al llevar espada grande, y aumenta el ATQ del equipo al llevar armas en una o las dos manos (no acumulable)"
     ],
     "504227274": [
         "Boost HP, MP, and SPR by 15%, parameters of espers evoked by 30%",
@@ -3678,6 +3694,14 @@
         "Augmente les PV, PM et la PSY de 15% ainsi que les caractéristiques des chimères appelées de 30%",
         "Erhöht LP, MP und PSY um 15% und erhöht Werte gerufener Esper um 30%.",
         "Aumenta VIT, PM y ESP un 15%, y aumenta un 30% los parámetros de los espers invocados"
+    ],
+    "504227318": [
+        "Boost MAG by 40% and nullify poison and paralysis",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "504227389": [
         "Boost ATK by 40% and dark resistance by 50%",
@@ -3719,12 +3743,28 @@
         "Erhöht LP, MP und Wasserresistenz um 5%.",
         "Aumenta la VIT, los PM y la resistencia al agua un 5%"
     ],
+    "504227506": [
+        "Boost ATK when equipped with a gun and boost physical damage against machina monsters (Not Stackable)",
+        "裝備火槍時提高攻擊+物理攻擊時提高對機械系魔物傷害的效果",
+        "총 장착 시 공격력 상승+물리 공격 시 기계형 마물에게 부여하는 피해량 상승",
+        "Augmente l'ATT lorsqu'un pistolet est équipé et augmente les dégâts physiques infligés aux machines",
+        "Erhöht ANG wenn mit Schusswaffe ausgerüstet und erhöht physischen Schaden gegen Maschinenmonster.",
+        null
+    ],
     "504227527": [
         "Boost HP, DEF, and SPR by 30%, and boost equipment ATK when a single weapon is equipped in both hands (Not Stackable)",
-        null,
-        null,
-        null,
-        null,
+        "提高30%HP防禦精神+雙手只裝備1把武器時武具攻擊提升",
+        "HP, 방어력, 정신력 30% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승",
+        "Augmente les PV, la DEF et la PSY de 30%, et augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains  (non cumulable)",
+        "Erhöht LP, ABW und PSY um 30% und erhöht Ausrüstung-ANG wenn eine einzige Waffe in beiden Händen ausgerüstet ist.",
+        null
+    ],
+    "504227555": [
+        "Boost HP by 50% and DEF by 30%, and boost DEF when HP falls below a certain point (Not stackable)",
+        "提高50%HP、30%防禦+HP降至一定值以下時提高防禦(不可重複裝備)",
+        "HP 50%, 방어력 30% 상승+HP가 일정량 이하일 때 방어력 상승",
+        "Augmente les PV de 50%, la DEF de 30% et augmente la DEF quand les PV tombent en dessous d'un certain seuil (non cumulable)",
+        "Erhöht LP um 50% und ABW um 30% und erhöht ABW wenn die LP unter einen gewissen Wert fallen (Nicht stapelbar).",
         null
     ],
     "504227625": [
@@ -3785,19 +3825,19 @@
     ],
     "504228151": [
         "Boost HP by 30%, DEF by 20%, and wind resistance by 30%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高30%HP、20%防禦、30%風屬性耐性",
+        "HP 30%, 방어력 20%, 바람속성 저항력 30% 상승",
+        "Augmente les PV de 30%, la DEF de 20% et la résistance au vent de 30%",
+        "Erhöht LP um 30%, ABW um 20% und Windresistenz um 30%.",
+        "Aumenta la VIT un 30%, la DEF un 20% y la resistencia al viento un 30%"
     ],
     "504228152": [
         "Boost MP by 10%, and boost equipment MAG when a single weapon is equipped in both hands (Not stackable)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高10%MP+雙手只裝備1把武器時武具魔力提升(不可重複裝備)",
+        "MP 10% 상승+양손의 장비가 무기 1개일 경우 장비의 마력 상승(중복 장착 불가)",
+        "Augmente les PM de 10% et augmente la MAGIE de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
+        "Erhöht MP um 10% und erhöht Ausrüstung-MAG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
+        "Aumenta los PM un 10% y aumenta la MAG del equipo al llevar un arma de una mano en las dos manos (no acumulable)"
     ],
     "504228287": [
         "Boost ATK and MAG by 30%, and boost equipment ATK and MAG when armed with two one-handed weapons",
@@ -4555,7 +4595,7 @@
         "Boost HP, fill LB gauge each turn, increase chance of countering, and boost ATK when a single weapon is equipped in both hands (Not stackable)",
         "提高HP+每回合增加極限技槽+提高反擊機率+雙手只裝備1把武器時提高攻擊 [無法重複裝備]",
         "HP 상승+매 턴마다 LB 게이지 증가+카운터 확률 증가+양손의 장비가 무기 1개일 경우 공격력 상승 (중복 장착 불가)",
-        "Augmente les PV, remplit la jauge de limite à chaque tour, augmente les chances de contre-attaquer et améliore l'ATT quand une seule arme est équipée dans les deux mains (non cumulable)",
+        "Augmente les PV, remplit la jauge de limite à chaque tour, augmente les chances de contre-attaquer et améliore l'ATT lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht LP, füllt jede Runde Limitmeter, erhöht Chance auf Konter und erhöht ANG, wenn mit einhändiger Waffe ausgerüstet und andere Hand leer (nicht stapelbar).",
         "Aumenta la VIT, rellena la barra de EL cada turno, puede aumentar la posibilidad de contraatacar y aumenta el ATQ al llevar una sola arma en las dos manos (no acumulable)"
     ],
@@ -4795,7 +4835,7 @@
         "Boost HP by 30%, and boost equipment ATK and equipment DEF when a single weapon is equipped in both hands (Not Stackable)",
         "提高30%HP+雙手只裝備1把武器時武具攻擊和防禦提升 [無法重複裝備]",
         "HP 30% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력과 방어력 상승(중복 장착 불가)",
-        "Augmente les PV de 30%, et augmente l'ATT et la DEF de l'équipement quand seulement une arme à une main est équipée dans les mains (non cumulable)",
+        "Augmente les PV de 30%, et augmente l'ATT et la DEF de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht LP um 30% und erhöht Ausrüstung-ANG und Ausrüstung-ABW, wenn eine einhändige Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
         "Aumenta la VIT un 30% y aumenta el ATQ y la DEF del equipo al llevar una sola arma en las dos manos (no acumulable)"
     ],
@@ -4803,7 +4843,7 @@
         "Boost HP and MP by 20%, and boost equipment MAG and equipment SPR when a single weapon is equipped in both hands (Not Stackable)",
         "提高20%HPMP+雙手只裝備1把武器時武具魔力和精神提升 [無法重複裝備]",
         "HP와 MP 20% 상승+양손의 장비가 무기 1개일 경우 장비의 마력과 정신력 상승(중복 장착 불가)",
-        "Augmente les PV et PM de 20%, et la MAGIE et la PSY de l'équipement quand seulement une arme à une main est équipée dans les mains (non cumulable)",
+        "Augmente les PV et PM de 20%, et la MAGIE et la PSY de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht LP und MP um 20% und erhöht Ausrüstung-MAG und Ausrüstung-PSY wenn eine einzelne Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
         "Aumenta la VIT y los PM un 20%, y aumenta MAG y el ESP del equipo al llevar una sola arma en las dos manos (no acumulable)"
     ],
