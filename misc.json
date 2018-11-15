@@ -3194,10 +3194,10 @@
     "EXPD_PARTY_ALERT_POPUP": [
         "Your party is not filled up. Do you want to continue?",
         null,
+        "파티가 채워지지 않았습니다. 계속 진행하시겠습니까?",
         null,
         null,
-        null,
-        null
+        "Tu equipo no está completo. ¿Quieres continuar?"
     ],
     "EXPD_PARTY_CONFIRM": [
         "<color=255:0:0>Selected units include units in a party.</color><br><br>A party with units in an expedition will not be able to depart on story or vortex missions.<br><br>Continue?",
@@ -3378,10 +3378,10 @@
     "EXPD_REFRESH_POPUP_MSG4": [
         "Swap out all normal expeditions for %d new expedition?<br>( TM Expedition count will not be refreshed. )",
         null,
+        "모든 일반 탐험을 신규 %d개 탐험과 교체하시겠습니까?<br>트러스트 마스터 탐험 횟수는 초기화되지 않습니다.",
         null,
         null,
-        null,
-        null
+        "¿Quieres intercambiar tus expediciones por %d nueva(s)?<br>(No se restablecerá el número de expediciones de maestro fiel)."
     ],
     "EXPD_REFRESH_POPUP_PROMPT_BUY": [
         "You do not have enough lapis.<br>Do you want to buy some lapis?",
@@ -3474,82 +3474,82 @@
     "EXPD_TMR_ALERT_POPUP": [
         "You have units with 100% Trust Master in your party.<br>Automatically remove them now?",
         null,
+        "파티에 100% 트러스트 마스터를 획득한 유닛이 있습니다.<br>자동적으로 삭제하시겠습니까?",
         null,
         null,
-        null,
-        null
+        "Tienes unidades con 100% de maestro fiel en tu equipo.<br>¿Quieres eliminarlas automáticamente?"
     ],
     "EXPD_TM_EXPEDITION_3STAR": [
         "3* Base Unit",
         null,
+        "★3 베이스 유닛",
         null,
         null,
-        null,
-        null
+        "Unidad base de 3*"
     ],
     "EXPD_TM_EXPEDITION_4STAR": [
         "4* Base Unit",
         null,
+        "★4 베이스 유닛",
         null,
         null,
-        null,
-        null
+        "Unidad base de 4*"
     ],
     "EXPD_TM_EXPEDITION_5STAR": [
         "5* Base Unit",
         null,
+        "★5 베이스 유닛",
         null,
         null,
-        null,
-        null
+        "Unidad base de 5*"
     ],
     "EXPD_TM_EXPEDITION_ACCELERATION_WARNING": [
         "<color=255;255;0>TM Expedition cannot be accelerated.</color>",
         null,
+        "<color=255;255;0>트러스트 마스터 탐험은 시간을 단축할 수 없습니다.</color>",
         null,
         null,
-        null,
-        null
+        "<color=255;255;0>No se puede acelerar la expedición de maestro fiel.</color>"
     ],
     "EXPD_TM_EXPEDITION_ATTEMPTS": [
         "Daily Attempts: %/%",
         null,
+        "일 시도 횟수: %/%회",
         null,
         null,
-        null,
-        null
+        "Intentos diarios: %/%"
     ],
     "EXPD_TM_EXPEDITION_Duration": [
         "Duration: %h",
         null,
+        "소요 시간: %h시간",
         null,
         null,
-        null,
-        null
+        "Duración: %h"
     ],
     "EXPD_TM_EXPEDITION_RESET_TIME": [
         "Resets in %h",
         null,
+        "%h시간 후 초기화",
         null,
         null,
-        null,
-        null
+        "Se restablecerá en %h"
     ],
     "EXPD_TM_EXPEDITION_SORT": [
         "Trust Value",
         null,
+        "트러스트치",
         null,
         null,
-        null,
-        null
+        "Fidelidad"
     ],
     "EXPD_TM_EXPEDITION_SPECIAL_DESCRIPTION": [
         "Explore the moogle cave!",
         null,
+        "모그리 동굴을 탐험하세요!",
         null,
         null,
-        null,
-        null
+        "¡Explora la cueva del moguri!"
     ],
     "EXPD_TOP_COUNTER_LABEL": [
         "Expedition:",
@@ -4880,12 +4880,12 @@
         "Queda <param=num>/<param=max>"
     ],
     "GACHA_DETAIL_LIMIT_END": [
-        "Until 00:59 PDT",
+        "Until 23:59 PST",
         "至 15:59 (台灣時間)為止",
         "16:59(한국시간)까지",
-        "Jusqu'à 09:59 CEST",
-        "Bis 09:59 CEST",
-        "Plazo: 09:59 (CEST)"
+        "Jusqu'à 08:59 CET",
+        "Bis 08:59 MEZ",
+        "Plazo: 08:59 (CET)"
     ],
     "GACHA_DETAIL_LIMIT_SPAN": [
         "<param=startday> to <param=endday>",
@@ -12450,98 +12450,98 @@
     "Pop_Up_Account_Binding": [
         "Account Binding",
         null,
+        "계정 연동",
         null,
         null,
-        null,
-        null
+        "Vinculación de la cuenta"
     ],
     "Pop_Up_Account_Binding_About_To_Bind": [
         "You are about to connect your game account with [Facebook/Google].<br> You have a total of (Number of binding left) attempt(s) left. Once you run out of binding attempt(s), you won't be able to bind your game account to [Facebook/Google] anymore.<br>Do you want to proceed?",
         null,
+        "게임 계정을 [Facebook/Google] 계정에 연동하려고 합니다.<br>연동 시도 가능 횟수가 총 (Number of binding left)회 남았습니다. 최대 연동 시도 가능 횟수를 초과하면 게임 계정을 더이상 [Facebook/Google] 계정에 연동할 수 없습니다.<br>계속 진행하시겠습니까?",
         null,
         null,
-        null,
-        null
+        "Estás a punto de conectar tu cuenta del juego con [Facebook/Google].<br>Número de intentos restantes: (Number of binding left). Cuando se agoten, ya no podrás vincular tu cuenta del juego con [Facebook/Google].<br>¿Quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Choose_Account": [
         "Choose account to bind",
         null,
+        "연동할 계정을 선택하세요.",
         null,
         null,
-        null,
-        null
+        "Elige la cuenta que vas a vincular"
     ],
     "Pop_Up_Account_Binding_Choose_Connection": [
         "Choose account to connect",
         null,
+        "연동할 계정을 선택하세요.",
         null,
         null,
-        null,
-        null
+        "Elige la cuenta con la que conectarte"
     ],
     "Pop_Up_Account_Binding_Choose_Following": [
         "Choose one of the following options",
         null,
+        "아래의 옵션 중 하나를 선택하세요.",
         null,
         null,
-        null,
-        null
+        "Elige una de las siguientes opciones"
     ],
     "Pop_Up_Account_Binding_Choose_None": [
         "You have decided to not connect to any account.<br>If you choose a social media account to connect to, your progress will not be lost when switching to a new device.<br>Do you want to proceed?",
         null,
+        "어떠한 계정에도 게임 연동을 하지 않는 것을 선택하셨습니다. <br>연동할 소셜 미디어 계정을 선택할 경우, 신규 기기로 전환 시 게임 정보가 손실되지 않습니다. <br>계속 진행하시겠습니까?",
         null,
         null,
-        null,
-        null
+        "Has elegido no conectarte con ninguna cuenta.<br>Si eliges una de tus redes sociales para conectarte, no perderás tu progreso al cambiar de dispositivo.<br>¿Quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Currently_Logged_Into": [
         "Currently logged into: (Name of Social Media)",
         null,
+        "현재 연동되어 있는 계정: (Name of Social Media)",
         null,
         null,
-        null,
-        null
+        "Sesión iniciada en: (nombre de la red social)"
     ],
     "Pop_Up_Account_Binding_First_Time_Pop_up": [
         "You can now choose to bind your account to other social media accounts such as <color=0:0:255>Facebook</color> or <color=0:0:255>Google</color>.",
         null,
+        "<color=0:0:255>Facebook</color> 또는 <color=0:0:255>Google</color>과 같은 소셜 미디어 계정을 선택하여 게임 계정을 연동시킬 수 있습니다.",
         null,
         null,
-        null,
-        null
+        "Ahora puedes vincular tu cuenta con otras redes sociales, como <color=0:0:255>Facebook</color> o <color=0:0:255>Google</color>."
     ],
     "Pop_Up_Account_Binding_Limit_Warning": [
         "* There are a limited number of binding attempts for each social media account. Once you run out of binding attempts, you won't be able to bind your game account to any social media accounts.",
         null,
+        "<br>※ 소셜 미디어 계정마다 최대 연동 시도 가능 횟수가 있습니다. 연동 시도 가능 횟수를 초과하면 게임 계정을 어떤 소셜 미디어 계정에도 연동시킬 수 없습니다.<br>",
         null,
         null,
-        null,
-        null
+        "*El número de intentos de vinculación de cada cuenta es limitado. Cuando se agoten, no podrás vincular tu cuenta del juego con ninguna de tus redes sociales."
     ],
     "Pop_Up_Account_Binding_Succeeded": [
         "Binding Successful!",
         null,
+        "계정 연동 성공!",
         null,
         null,
-        null,
-        null
+        "¡Tus cuentas se han vinculado correctamente!"
     ],
     "Pop_Up_Account_Binding_Unbind": [
         "You are about to unbind [Facebook/Google] from your game account.<br>Unbinding will remove the social media account linking and the respective friends permanently from your game account.<br>If no other account is linked, your game account will be tied to current device.<br>Do you REALLY want to proceed?",
         null,
+        "게임 계정을 [Facebook/Google] 계정에 연동하지 않으려고 합니다.<br>연동을 하지 않으면, 연동되어 있는 소셜 미디어 계정과 각 친구 목록이 영구히 삭제됩니다.<br>다른 어떤 계정에도 연동되어 있지 않으면, 게임 계정은 현재 기기에 저장됩니다. <br>정말 계속 진행하시겠습니까?",
         null,
         null,
-        null,
-        null
+        "Vas a desvincular tu cuenta [Facebook/Google] de tu cuenta del juego.<br>Al hacerlo, toda la información y amigos que tengas en esta red social se eliminarán de forma permanente.<br>Si no has vinculado otra cuenta, solo podrás acceder al juego desde este dispositivo<br>.¿SEGURO que quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Used_Up": [
         "You have used up all your binding attempts for [Facebook/Google].<br>You will not be able to bind your game to [Facebook/Google] anymore.",
         null,
+        "[Facebook/Google] 계정 연동 시도 가능 횟수를 초과했습니다.<br>게임 계정을 더이상 [Facebook/Google] 계정에 연동할 수 없습니다.",
         null,
         null,
-        null,
-        null
+        "Has agotado todos los intentos de vinculación con [Facebook/Google].<br>Ya no podrás vincular tu cuenta del juego con [Facebook/Google]."
     ],
     "Pop_Up_General_Button_No": [
         "NO",
