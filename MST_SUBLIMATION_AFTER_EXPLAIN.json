@@ -127,6 +127,22 @@
         "Steigert die erhöhten Werte gerufener Esper (mittel)<br><color=0:255:0>Steigert die erhöhten Werte gerufener Esper (mittel)</color>",
         "Aumenta los parámetros de los espers evocados (bastante)<br><color=0:255:0>Aumenta las estadísticas de los espers evocados (bastante)</color>"
     ],
+    "100730003": [
+        "<color=0:255:0>Boosts HP restoration amount (great)</color>",
+        "<color=0:255:0>提高HP恢復量(特大)</color>",
+        "<color=0:255:0>HP 회복량 상승(특대)</color>",
+        "<color=0:255:0>Augmente le taux de restauration des PV (super)</color>",
+        "<color=0:255:0>Erhöht den Wert regenerierter LP (sehr hoch)</color>",
+        "<color=0:255:0>Aumenta la recuperación de VIT (muchísimo)</color>"
+    ],
+    "100730004": [
+        "Boosts HP restoration amount (great)<br><color=0:255:0>Boosts HP restoration amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "100750001": [
         "<color=0:255:0>Boosts LB gauge increase each turn (great)</color>",
         "<color=0:255:0>提高極限技槽增加量(特大)</color>",
@@ -4808,7 +4824,7 @@
         "<color=0:255:0>Mayor aumento de MAG y ESP (mucho)</color><br><color=0:255:0>Reduce el consumo de PM (muchísimo)</color>"
     ],
     "210420002": [
-        "Boosts MAG and SPR increases (high)<br>Reduces MP consumed (great)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color><br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistances increase (low)</color>",
+        "Boosts MAG and SPR increases (high)<br>Reduces MP consumed (great)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color><br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)</color>",
         "提高魔力精神增加量(大)<br>降低MP消耗(特大)<br><color=0:255:0>提高魔力精神增加量(中)</color><br><color=0:255:0>提高火冰雷水風土光暗屬性耐性增加量(小)</color>",
         "마력과 정신력 상승량 상승(대)<br>소비 MP 감소(특대)<br><color=0:255:0>마력과 정신력 상승량 상승(중)</color><br><color=0:255:0>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승량 상승(소)</color>",
         "Amplifie l'augmentation de la MAGIE et de la PSY (beaucoup)<br>Réduit les PM consommés (super)<br><color=0:255:0>Amplifie l'augmentation de la MAGIE et de la PSY (moyen)</color><br><color=0:255:0>Amplifie l'augmentation de la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres (peu)</color>",
@@ -6529,14 +6545,14 @@
     ],
     "216100001": [
         "<color=0:255:0>Boosts turns in effect (low)</color>",
-        null,
-        null,
-        null,
-        null,
-        null
+        "<color=0:255:0>提高效果回合數(小)</color>",
+        "<color=0:255:0>효과 턴 수 상승(소)</color>",
+        "<color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Aumenta la duración (poco)</color>"
     ],
     "216100002": [
-        "Boosts turns in effect (low)",
+        "Boosts turns in effect (low)<color=0:255:0>Boosts damage reduction when active (high)</color><br><color=0:255:0>Boosts resistance to ATK, DEF, MAG, and SPR reductions for caster</color>",
         null,
         null,
         null,
@@ -6544,7 +6560,15 @@
         null
     ],
     "216110001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts maximum damage reduction when active (mid)</color><br><color=0:255:0>Boosts chance of taking physical damage (low)</color>",
+        "<color=0:255:0>提高發動時造成的最大傷害減少量(中)</color><br><color=0:255:0>提高承受物理攻擊的機率(小)</color>",
+        "<color=0:255:0>발동 시 최대 피해 감소량 상승(중)</color><br><color=0:255:0>물리공격을 대신 받을 확률 상승(소)</color>",
+        "<color=0:255:0>Augmente la réduction des dégâts maximum une fois activé (moyen)</color><br><color=0:255:0>Augmente les chances de prendre des dégâts physiques (peu)</color>",
+        "<color=0:255:0>Erhöht maximale Schadensverringerung, wenn aktiv (mittel)</color><br><color=0:255:0>Erhöht Chance, phys. Schaden zu erleiden (gering)</color>",
+        "<color=0:255:0>Mayor porcentaje de reducción máxima de daño al activarse (bastante)</color><br><color=0:255:0>Aumenta la probabilidad de recibir daño físico (poco)</color>"
+    ],
+    "216110002": [
+        "Boosts maximum damage reduction when active (mid)<br>Boosts chance of taking physical damage (low)<br><color=0:255:0>Boosts maximum damage reduction when active (mid)</color><br><color=0:255:0>Boosts chance of taking physical damage (high)</color>",
         null,
         null,
         null,
@@ -6552,7 +6576,15 @@
         null
     ],
     "216160001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts HP, DEF, and SPR increases (low)</color><br><color=0:255:0>Nullifies sleep and confusion</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "216160002": [
+        "Boosts HP, DEF, and SPR increases (low)<br>Nullifies sleep and confusion<br><color=0:255:0>Boosts HP, DEF, and SPR increases (low)</color><br><color=0:255:0>Nullifies paralysis, stone, and stop</color>",
         null,
         null,
         null,
@@ -6561,6 +6593,14 @@
     ],
     "216210001": [
         "<color=0:255:0>Boosts damage amount (low)</color>",
+        "<color=0:255:0>提高傷害量(小)</color>",
+        "<color=0:255:0>피해량 상승(소)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (peu)</color>",
+        "<color=0:255:0>Erhöht Schaden (gering)</color>",
+        "<color=0:255:0>Aumenta el daño (poco)</color>"
+    ],
+    "216210002": [
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts LB gauge fill rate (great)</color>",
         null,
         null,
         null,
@@ -6568,15 +6608,23 @@
         null
     ],
     "216220001": [
-        "<color=0:255:0>",
-        null,
-        null,
-        null,
-        null,
-        null
+        "<color=0:255:0>Boosts ATK</color>",
+        "<color=0:255:0>提高攻擊</color>",
+        "<color=0:255:0>공격력 상승</color>",
+        "<color=0:255:0>Augmente l'ATT</color>",
+        "<color=0:255:0>Erhöht ANG</color>",
+        "<color=0:255:0>Aumenta el ATQ</color>"
     ],
     "216260001": [
         "<color=0:255:0>Boosts ATK increase (low)</color>",
+        "<color=0:255:0>提高攻擊增加量(小)</color>",
+        "<color=0:255:0>공격력 상승량 상승(소)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (peu)</color>",
+        "<color=0:255:0>Steigert die ANG-Erhöhung (gering)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (poco)</color>"
+    ],
+    "216260002": [
+        "Boosts ATK increase (low)<br><color=0:255:0>Boosts ATK increase (high)</color><br><color=0:255:0>Boosts LB damage</color>",
         null,
         null,
         null,
@@ -6633,6 +6681,14 @@
     ],
     "216570001": [
         "<color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)</color>",
+        "<color=0:255:0>提高火冰雷水風土光暗屬性耐性增加量(小)</color>",
+        "<color=0:255:0>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승량 상승(소)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres (peu)</color>",
+        "<color=0:255:0>Steigert Resistenzerhöhungen für Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel (gering)</color>",
+        "<color=0:255:0>Mayor aumento de la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (poco)</color>"
+    ],
+    "216570002": [
+        "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)<br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (mid)</color><br><color=0:255:0>Boosts damage reduction rate (low)</color><br><color=255:255:0>Increases MP consumed (high)</color>",
         null,
         null,
         null,
@@ -6648,7 +6704,7 @@
         null
     ],
     "216580002": [
-        "Boosts damage increase against dragons (low)<br><color=0:255:0>Boosts damage increase against dragons (low)</color>",
+        "Boosts damage increase against dragons (low)<br><color=0:255:0>Boosts damage increase against dragons (low)</color><br><color=0:255:0>Boosts ATK and MAG for all allies</color><br><color=255:255:0>Increases MP consumed (high)</color>",
         null,
         null,
         null,
@@ -6664,7 +6720,7 @@
         null
     ],
     "216630002": [
-        "Boosts ATK and SPR increases (low)<br><color=0:255:0>Boosts ATK and SPR increases (mid)</color>",
+        "Boosts ATK and SPR increases (low)<br><color=0:255:0>Boosts ATK and SPR increases (mid)</color><br><color=0:255:0>Boosts HP</color><br><color=0:255:0>Boosts MP</color>",
         null,
         null,
         null,
@@ -6720,7 +6776,15 @@
         "Aumenta la probabilidad de activarse (bastante)<br>Mayor porcentaje de reducción de daño al activarse (poco)<br><color=0:255:0>Aumenta la probabilidad de activarse (bastante)</color><br><color=0:255:0>Mayor porcentaje de reducción de daño al activarse (poco)</color>"
     ],
     "216780001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts HP restoration amount (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "216780002": [
+        "Boosts HP restoration amount (high)<br><color=0:255:0>Boosts HP restoration amount (high)</color><br><color=0:255:0>Boosts ice, lightning and wind resistance increases (mid)</color>",
         null,
         null,
         null,
@@ -7296,7 +7360,15 @@
         null
     ],
     "221500001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Reduces MP consumed (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "221500002": [
+        "Reduces MP consumed (mid)<br><color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Restores MP for all allies</color>",
         null,
         null,
         null,
@@ -7304,7 +7376,15 @@
         null
     ],
     "221530001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts turns in effect for double ability - Iris (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "221530002": [
+        "Boosts turns in effect for double ability - Iris (low)<br><color=0:255:0>Boosts turns in effect for double ability - Iris (low)</color><br><color=0:255:0>Boosts damage reduction rate (low)</color>",
         null,
         null,
         null,
@@ -7344,7 +7424,15 @@
         "Mayor aumento de PM (poco)<br><color=0:255:0>Mayor aumento de MAG (mucho)</color>"
     ],
     "225210001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage increase against dragons (low)</color><br><color=0:255:0>Boosts ATK</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "225210002": [
+        "Boosts damage increase against dragons (low)<br>Boosts ATK<br><color=0:255:0>Boosts damage increase against dragons (mid)</color><br><color=0:255:0>Boosts ATK increase (great)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
         null,
         null,
         null,
@@ -7352,7 +7440,15 @@
         null
     ],
     "225220001": [
-        "<color=0:255:0>",
+        "<color=0:255:0>Boosts damage increase against dragons (low)</color><br><color=0:255:0>Boosts MAG</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "225220002": [
+        "Boosts damage increase against dragons (low)<br>Boosts MAG<br><color=0:255:0>Boosts damage increase against dragons (mid)</color><br><color=0:255:0>Boosts MAG increase (great)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
         null,
         null,
         null,

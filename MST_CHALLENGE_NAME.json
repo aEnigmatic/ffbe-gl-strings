@@ -1941,7 +1941,7 @@
         "블리자라를 사용해 완료",
         "Utilisez Glace +",
         "Benutze „Eisra“",
-        "Usa Hielo"
+        "Usa Hielo+"
     ],
     "11206032": [
         "Clear without an ally being KO'd",
@@ -4405,7 +4405,7 @@
         "블리자라를 사용해 완료",
         "Utilisez Glace +",
         "Benutze „Eisra“",
-        "Usa Hielo"
+        "Usa Hielo+"
     ],
     "11356012": [
         "Use 3 or more limit bursts",
@@ -22245,7 +22245,7 @@
         "동굴의 바하무트의 환영을 마법으로 처치",
         "Terrassez Bahamut obscur dans la cave avec de la magie",
         "Besiege Schattenbahamut in der Höhle mit Magie",
-        "Derrota a la visión de bahamut en la cueva"
+        "Derrota a la visión de bahamut en la cueva con magia"
     ],
     "19204010": [
         "Complete the quest",
@@ -22416,7 +22416,7 @@
         "Completa la misión"
     ],
     "19208021": [
-        "Use tent",
+        "Use a tent",
         "使用「帳篷」",
         "천막을 사용해 완료",
         "Utilisez Tente foudroyant",
@@ -34893,7 +34893,7 @@
         "임금님과 놀기를 사용하여 완료",
         "Utilisez Jeu royal",
         "Nutze Königsspiel",
-        "Usa jugando con reyes"
+        "Usa Jugando con reyes"
     ],
     "73401043": [
         "Clear without an ally being KO'd",
@@ -41242,7 +41242,7 @@
     "75601102": [
         "Use super wink",
         "使用「超級媚眼」",
-        "슈퍼 윙을 사용해 완료",
+        "슈퍼 윙크를 사용해 완료",
         "Utilisez Super clin d'œil",
         "Benutze Superzwinkern",
         "Usa Superguiño"
@@ -41250,7 +41250,7 @@
     "75601103": [
         "Use dangerous rose",
         "使用「D·危險玫瑰」",
-        "D의 위험한 장미를 사용해 완료",
+        "D·위험한 장미를 사용해 완료",
         "Utilisez Rose dangereuse",
         "Benutze Gefährliche Rose",
         "Usa Rosa letal"
@@ -46027,7 +46027,7 @@
         "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua 3 veces o más"
     ],
@@ -47731,7 +47731,7 @@
         "Deal fire and light damage 3 times or more each to an enemy",
         "對敵人造成至少3次火・光屬性傷害",
         "불·빛속성으로 각 3회 이상 적에게 피해를 줌",
-        "Infligez des dégâts de feu et de foudre à 3 reprises ou plus de chaque",
+        "Infligez des dégâts de feu et de lumière à 3 reprises ou plus de chaque",
         "Füge jeweils mind. 3 Mal Feuer- und Lichtschaden zu",
         "Inflige daño de fuego y luz 3 veces o más (cada uno)"
     ],
@@ -49403,7 +49403,7 @@
         "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua 3 veces o más"
     ],
@@ -63744,10 +63744,10 @@
         "No uses Continuar"
     ],
     "81705040": [
-        "Deal water damage 3 times or more",
+        "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua 3 veces o más"
     ],
@@ -67151,6 +67151,166 @@
         "Besiege ID samt Gruppe in 10 Runden",
         null
     ],
+    "84301010": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "84301011": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "84301012": [
+        "Clear within 5 turns",
+        "在5回合以內完成",
+        "5턴 이내에 완료",
+        "Terminez en 5 tours max.",
+        "Gewinne innerhalb von 5 Runden",
+        "Gana en 5 turnos o menos"
+    ],
+    "84301013": [
+        "Use magic",
+        "使用魔法",
+        "마법을 사용해 완료",
+        "Utilisez la magie",
+        "Benutze Magie",
+        "Usa magia"
+    ],
+    "84301020": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "84301021": [
+        "Use black magic",
+        "使用「黑魔法」",
+        "흑마법을 사용해 완료",
+        "Utilisez la magie noire",
+        "Benutze Schwarzmagie",
+        "Usa magia negra"
+    ],
+    "84301022": [
+        "Clear within 5 turns",
+        "在5回合以內完成",
+        "5턴 이내에 완료",
+        "Terminez en 5 tours max.",
+        "Gewinne innerhalb von 5 Runden",
+        "Gana en 5 turnos o menos"
+    ],
+    "84301023": [
+        "No limit bursts",
+        "不使用極限技",
+        "LB를 사용하지 않고 완료",
+        "Ne pas utiliser de limite",
+        "Kein Limitrausch",
+        "No uses Estallido Límite"
+    ],
+    "84301030": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "84301031": [
+        "Use magic 3 or more times",
+        "使用至少3次魔法",
+        "마법을 3회 이상 사용",
+        "Utilisez la magie 3 fois ou plus",
+        "Benutze mind. 3 Mal Magie",
+        "Usa magia 3 veces o más"
+    ],
+    "84301032": [
+        "Clear within 5 turns",
+        "在5回合以內完成",
+        "5턴 이내에 완료",
+        "Terminez en 5 tours max.",
+        "Gewinne innerhalb von 5 Runden",
+        "Gana en 5 turnos o menos"
+    ],
+    "84301033": [
+        "Use no more than 5 items",
+        "使用道具次數在5次以內",
+        "아이템 사용 횟수 5회 이내",
+        "N'utilisez pas plus de 5 objets",
+        "Benutze max. 5 Gegenstände",
+        "Usa 5 objetos o menos"
+    ],
+    "84301040": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "84301041": [
+        "Evoke an esper",
+        "召喚幻獸",
+        "환수를 소환해 완료",
+        "Appelez une chimère",
+        "Beschwöre einen Esper",
+        "Evoca a un esper"
+    ],
+    "84301042": [
+        "Use 2 or more limit bursts",
+        "使用至少2次極限技",
+        "LB를 2회 이상 사용",
+        "Utilisez 2 limites ou plus",
+        "Benutze mind. 2 Mal einen Limitrausch",
+        "Usa 2 Estallidos Límite o más"
+    ],
+    "84301043": [
+        "Use no more than 3 items",
+        "使用道具次數在3次以內",
+        "아이템 사용 횟수 3회 이내",
+        "N'utilisez pas plus de 3 objets",
+        "Benutze höchstens 3 Gegenstände",
+        "Usa 3 objetos o menos"
+    ],
+    "84401010": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "84401011": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "84401012": [
+        "Defeat the Engels within 10 turns",
+        "在10回合以內終結「恩格斯」戰",
+        "엥겔스 전투 10턴 이내에 완료",
+        "Éliminez l'Engels en 10 tours max.",
+        "Besiege die Engels innerhalb von 10 Runden",
+        "Derrota al engels en 10 turnos o menos"
+    ],
+    "84401013": [
+        "Party of 5 or less (Companion included)",
+        "隊伍人數最多5人（包括同行者）",
+        "파티 인원수 5명 이하(동행자 포함)",
+        "Groupe de 5 ou moins (partenaire inclus)",
+        "Gruppe von höchstens 5 (einschl. Begleiter)",
+        "Grupo de 5 o menos (compañero incluido)"
+    ],
     "89801010": [
         "Complete the quest",
         "完成任務",
@@ -67715,7 +67875,7 @@
         "Defeat Nunki with a limit burst",
         "使用極限技終結「努奇」",
         "눈키를 LB로 처치",
-        "Vaincre le groupe de Nunki avec une limite",
+        "Vaincre Nunki avec une limite",
         "Besiege Nunki mit einem Limitrausch",
         "Derrota a Nunki con un EL"
     ],
@@ -71640,7 +71800,7 @@
         "Completa la misión"
     ],
     "90007041": [
-        "Use tent",
+        "Use a tent",
         "使用「帳篷」",
         "천막을 사용해 완료",
         "Utilisez Tente foudroyant",
@@ -71648,7 +71808,7 @@
         "Usa Tienda de lona"
     ],
     "90007042": [
-        "Use hi-potion",
+        "Use a hi-potion",
         "使用「高級治療劑」",
         "하이 포션을 사용해 완료",
         "Utilisez Potion + foudroyant",
@@ -72416,7 +72576,7 @@
         "Ariana peligrosa en el grupo"
     ],
     "90009042": [
-        "Use Mesmerize",
+        "Use mesmerize",
         "使用「迷惑」",
         "매혹을 사용해 완료",
         "Utilisez Hypnotiser",
@@ -76571,7 +76731,7 @@
         "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua 3 veces o más"
     ],
@@ -82075,7 +82235,7 @@
         "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua 3 veces o más"
     ],
@@ -82651,7 +82811,7 @@
         "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua 3 veces o más"
     ],
@@ -90347,7 +90507,7 @@
         "Evoke Anima",
         "召喚「暴怒靈獸」",
         "아니마를 소환하여 완료",
-        null,
+        "Appelez Anima",
         "Beschwöre Anima",
         "Evoca a Anima"
     ],
@@ -90907,7 +91067,7 @@
         "Deal water damage 3 times or more to an enemy",
         "對敵人造成至少3次水屬性傷害",
         "물속성으로 3회 이상 적에게 피해를 줌",
-        "Terrassez des dégâts d'eau à 3 reprises ou plus",
+        "Infligez des dégâts d'eau à 3 reprises ou plus à un ennemi",
         "Füge einem Gegner mind. 3 Mal Wasserschaden zu",
         "Inflige daño de agua a un enemigo 3 veces o más"
     ],
@@ -91200,12 +91360,12 @@
         "Inflige daño de viento a un enemigo"
     ],
     "115204042": [
-        null,
+        "Defeat the Aldore Emperor with magic",
         "使用魔法終結「阿爾多爾皇帝」",
         "알도르 황제를 마법으로 처치",
-        null,
+        "Terrassez le Empereur d'Aldore avec de la magie",
         "Besiege Imperator von Aldore mit Magie",
-        null
+        "Derrota al Emperador de Aldore con magia"
     ],
     "115204043": [
         "Clear without an ally being KO'd",
@@ -91328,12 +91488,12 @@
         "No uses magia"
     ],
     "115205042": [
-        null,
+        "Defeat Powerful Swordsman's party within 5 turns",
         "在5回合以內終結「身手高強的劍士」戰",
         "실력자 검사 전투 5턴 이내에 완료",
-        null,
+        "Terrassez le groupe de Épéiste redoutable en 5 tours max",
         "Besiege Brillianter Schwertkämpfer samt Gruppe in 5 Runden",
-        null
+        "Derrota al grupo de Espadachín poderoso en 5 turnos o menos"
     ],
     "115205043": [
         "Clear without an ally being KO'd",
@@ -91456,12 +91616,12 @@
         "Realiza un combo de 6 o más golpes en un turno"
     ],
     "115206042": [
-        null,
+        "Defeat Elite Assault Soldier's party within 3 turns",
         "在3回合以內終結「精銳突擊兵」戰",
         "정예 돌격병 전투 3턴 이내에 완료",
-        null,
+        "Terrassez le groupe de Soldat d'assaut d'élite en 3 tours max",
         "Besiege Elite-Sturmsoldat samt Gruppe in 3 Runden",
-        null
+        "Derrota al grupo de Asaltador de élite en 3 turnos o menos"
     ],
     "115206043": [
         "Clear without an ally being KO'd",
@@ -91584,12 +91744,12 @@
         "Usa 2 Estallidos Límite o más"
     ],
     "115207042": [
-        null,
+        "Defeat the Norandel with a limit burst",
         "使用極限技終結「諾蘭德拉」",
         "노란데라를 LB로 처치",
-        null,
+        "Terrassez le Norandel avec une limite",
         "Besiege Nolandella mit einem Limitrausch",
-        null
+        "Derrota al Norandel con un EL"
     ],
     "115207043": [
         "Clear without an ally being KO'd",
@@ -91776,12 +91936,12 @@
         "Inflige daño de rayo 3 veces o más"
     ],
     "115208052": [
-        null,
+        "Defeat the Himalia with magic",
         "使用魔法終結「希瑪利亞」",
         "히말리아를 마법으로 처치",
-        null,
+        "Terrassez le Himalia avec de la magie",
         "Besiege Himalia mit Magie",
-        null
+        "Derrota al Himalia con magia"
     ],
     "115208053": [
         "Clear without an ally being KO'd",
@@ -91808,12 +91968,12 @@
         "No uses magia curativa"
     ],
     "115209012": [
-        null,
+        "Defeat Akstar with magic",
         "使用魔法終結「阿克斯特」",
         "엑스타를 마법으로 처치",
-        null,
+        "Terrassez Akstar avec de la magie",
         "Besiege Axter mit Magie",
-        null
+        "Derrota a Akstar con magia"
     ],
     "115209013": [
         "Clear without an ally being KO'd",
@@ -91835,17 +91995,17 @@
         "Get a chain of 9 or more in 1 turn",
         "1回合內發動至少9CHAIN",
         "1턴에 9CHAIN 이상 발생하여 완료",
-        null,
+        "Effectuez un combo de 9 coups ou plus en un tour",
         "Erreiche in einer Runde eine Kette von mind. 9",
-        null
+        "Realiza un combo de 9 o más golpes en un turno"
     ],
     "115209022": [
-        null,
+        "Defeat Akstar with a limit burst",
         "使用極限技終結「阿克斯特」",
         "엑스타를 LB로 처치",
-        null,
+        "Terrassez Akstar avec une limite",
         "Besiege Axter mit einem Limitrausch",
-        null
+        "Derrota a Akstar con un EL"
     ],
     "115209023": [
         "Clear without an ally being KO'd",
