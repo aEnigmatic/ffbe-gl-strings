@@ -2223,6 +2223,14 @@
         "Annuliert teilweise Magie für eine Runde",
         "Anula parcialmente el daño mágico durante un turno"
     ],
+    "504209540": [
+        "Boost ATK when equipped with a gun (Not Stackable)",
+        "裝備火槍時提高攻擊[無法重複裝備]",
+        "총 장착 시 공격력 상승(중복 장착 불가)",
+        "Augmente l'ATT lorsqu'un pistolet est équipé (Non cumulable)",
+        "Erhöht ANG, wenn mit einer Schusswaffe ausgerüstet. (Nicht stapelbar).",
+        "Aumenta el ATQ al llevar pistola (no acumulable)"
+    ],
     "504209550": [
         "Boost earth resistance by 15%",
         "提高15%土屬性耐性",
@@ -3793,11 +3801,11 @@
     ],
     "504227701": [
         "Boost ATK by 30% and physical damage against humans",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高30%攻擊+物理攻擊時提高對人形系魔物的傷害",
+        "공격력 30% 상승+물리 공격 시 인간형 마물에게 부여하는 피해량 상승",
+        "Augmente l'ATT de 30% et les dégâts physiques contre les montres de type humain",
+        "Erhöht ANG um 30 % und physischen gegen Menschen.",
+        "Aumenta ATQ un 30% y el daño físico contra humanos"
     ],
     "504227712": [
         "Boost ATK and SPR when equipped with a sword",
@@ -3920,12 +3928,12 @@
         "Reduce la resistencia al hielo y puede infligir ceguera, parálisis, confusión o piedra a todos los enemigos"
     ],
     "504228416": [
-        "Boost HP and earth resistance by 30%, DEF and SPR by 20%, and LB gauge fill rate",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Boost HP and earth resistance by 30%, DEF and SPR by 20%, and boost LB gauge fill rate (Not Stackable)",
+        "提高30%HP、土屬性耐性+提高20%防禦精神+提高極限技石對極限技槽的增加量[無法重複裝備]",
+        "HP와 땅속성 저항력 30%, 방어력과 정신력 20% 상승+LB 게이지 효율 상승(중복 장착 불가)",
+        "Augmente les PV et la résistance à la terre de 30 %, la DEF et la PSY de 20 %, et augmente la vitesse de remplissage de la jauge de limite (Non cumulable)",
+        "Erhöht LP und Erdresistenz um 30%, ABW und PSY um 20% + Limitmeter füllen sich schneller. (Nicht stapelbar).",
+        "Aumenta la VIT y la resistencia a la tierra un 30%, aumenta la DEF y el ESP un 20% y la barra de EL se rellena más rápido (no acumulable)"
     ],
     "504228586": [
         "Boost equipment ATK when a single weapon is equipped in both hands, and boost physical damage against demon monsters",
@@ -3959,234 +3967,10 @@
         "Zufallsbegegnungen halbiert",
         "Reduce a la mitad los encuentros"
     ],
-    "504900120": [
-        null,
-        null,
-        "마력 모으기50%상승",
-        null,
-        null,
-        null
-    ],
-    "504900130": [
-        null,
-        null,
-        "마력 모으기10～100％상승방어력50％감소",
-        null,
-        null,
-        null
-    ],
-    "504900140": [
-        null,
-        null,
-        "デバフ저항력付与全50",
-        null,
-        null,
-        null
-    ],
-    "504900150": [
-        null,
-        null,
-        "デバフ저항력付与全100",
-        null,
-        null,
-        null
-    ],
-    "504900160": [
-        null,
-        null,
-        "デバフ저항력付与ATK100",
-        null,
-        null,
-        null
-    ],
-    "504900170": [
-        null,
-        null,
-        "デバフ저항력付与DEF100",
-        null,
-        null,
-        null
-    ],
-    "504900180": [
-        null,
-        null,
-        "デバフ저항력付与INT100",
-        null,
-        null,
-        null
-    ],
-    "504900190": [
-        null,
-        null,
-        "デバフ저항력付与MIND100",
-        null,
-        null,
-        null
-    ],
-    "504900200": [
-        null,
-        null,
-        "デバフ저항력付与stop100",
-        null,
-        null,
-        null
-    ],
-    "504900210": [
-        null,
-        null,
-        "デバフ저항력付与매혹100",
-        null,
-        null,
-        null
-    ],
-    "504900220": [
-        null,
-        null,
-        "2턴불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성100",
-        null,
-        null,
-        null
-    ],
-    "504900230": [
-        null,
-        null,
-        "1턴 동안불속성100",
-        null,
-        null,
-        null
-    ],
-    "504900240": [
-        null,
-        null,
-        "2턴얼음속성100",
-        null,
-        null,
-        null
-    ],
-    "504900250": [
-        null,
-        null,
-        "3턴 동안번개속성100",
-        null,
-        null,
-        null
-    ],
-    "504900260": [
-        null,
-        null,
-        "4턴물속성100",
-        null,
-        null,
-        null
-    ],
-    "504900270": [
-        null,
-        null,
-        "1턴 동안바람속성100",
-        null,
-        null,
-        null
-    ],
-    "504900280": [
-        null,
-        null,
-        "2턴땅속성100",
-        null,
-        null,
-        null
-    ],
-    "504900290": [
-        null,
-        null,
-        "3턴 동안빛속성100",
-        null,
-        null,
-        null
-    ],
-    "504900300": [
-        null,
-        null,
-        "4턴어둠속성100",
-        null,
-        null,
-        null
-    ],
-    "504900310": [
-        null,
-        null,
-        "3턴 동안불속성50",
-        null,
-        null,
-        null
-    ],
-    "504900320": [
-        null,
-        null,
-        "3턴 동안얼음속성50",
-        null,
-        null,
-        null
-    ],
-    "504900330": [
-        null,
-        null,
-        "3턴 동안번개속성50",
-        null,
-        null,
-        null
-    ],
-    "504900340": [
-        null,
-        null,
-        "3턴 동안물속성50",
-        null,
-        null,
-        null
-    ],
-    "504900350": [
-        null,
-        null,
-        "3턴 동안바람속성50",
-        null,
-        null,
-        null
-    ],
-    "504900360": [
-        null,
-        null,
-        "3턴 동안땅속성50",
-        null,
-        null,
-        null
-    ],
-    "504900370": [
-        null,
-        null,
-        "3턴 동안빛속성50",
-        null,
-        null,
-        null
-    ],
-    "504900380": [
-        null,
-        null,
-        "3턴 동안어둠속성50",
-        null,
-        null,
-        null
-    ],
-    "504900390": [
-        null,
-        null,
-        "3턴 동안불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성50",
-        null,
-        null,
-        null
-    ],
     "504900400": [
         null,
         null,
-        "파이자",
+        null,
         null,
         null,
         "Daño de fuego a todos y aumenta la potencia"
@@ -4194,7 +3978,7 @@
     "504900410": [
         null,
         null,
-        "블리자쟈",
+        null,
         null,
         null,
         "Daño de hielo a todos y aumenta la potencia"
@@ -4202,7 +3986,7 @@
     "504900420": [
         null,
         null,
-        "선더쟈",
+        null,
         null,
         null,
         "Daño de rayo a todos y aumenta la potencia"
@@ -4210,7 +3994,7 @@
     "504900430": [
         null,
         null,
-        "워터쟈",
+        null,
         null,
         null,
         "Daño de agua a todos y aumenta la potencia"
@@ -4218,7 +4002,7 @@
     "504900440": [
         null,
         null,
-        "에어로쟈",
+        null,
         null,
         null,
         "Daño de viento a todos y aumenta la potencia"
@@ -4226,7 +4010,7 @@
     "504900450": [
         null,
         null,
-        "스톤쟈",
+        null,
         null,
         null,
         "Daño de tierra a todos y aumenta la potencia"
@@ -4234,7 +4018,7 @@
     "504900460": [
         null,
         null,
-        "잔잔한 거울반격",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -4242,295 +4026,23 @@
     "504900470": [
         null,
         null,
-        "ラスウェルLv100",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
-    ],
-    "504900480": [
-        null,
-        null,
-        "이도류_도끼のみ",
-        null,
-        null,
-        null
-    ],
-    "504900490": [
-        null,
-        null,
-        "이도류_지팡이&도끼",
-        null,
-        null,
-        null
-    ],
-    "504900500": [
-        null,
-        null,
-        "W 백마법",
-        null,
-        null,
-        null
-    ],
-    "504900510": [
-        null,
-        null,
-        "分岐발동",
-        null,
-        null,
-        null
-    ],
-    "504900520": [
-        null,
-        null,
-        "専用어빌리티사용 가능",
-        null,
-        null,
-        null
-    ],
-    "504900530": [
-        null,
-        null,
-        "W어빌리티",
-        null,
-        null,
-        null
-    ],
-    "504900540": [
-        null,
-        null,
-        "난사×7",
-        null,
-        null,
-        null
-    ],
-    "504900550": [
-        null,
-        null,
-        "W全種마법",
-        null,
-        null,
-        null
-    ],
-    "504900560": [
-        null,
-        null,
-        "種族물리付与_야수",
-        null,
-        null,
-        null
-    ],
-    "504900570": [
-        null,
-        null,
-        "種族물리付与_조류",
-        null,
-        null,
-        null
-    ],
-    "504900580": [
-        null,
-        null,
-        "種族물리付与_물",
-        null,
-        null,
-        null
-    ],
-    "504900590": [
-        null,
-        null,
-        "種族물리付与_悪",
-        null,
-        null,
-        null
-    ],
-    "504900600": [
-        null,
-        null,
-        "種族물리付与_인간",
-        null,
-        null,
-        null
-    ],
-    "504900610": [
-        null,
-        null,
-        "種族물리付与_機",
-        null,
-        null,
-        null
-    ],
-    "504900620": [
-        null,
-        null,
-        "種族물리付与_龍",
-        null,
-        null,
-        null
-    ],
-    "504900630": [
-        null,
-        null,
-        "種族물리付与_精霊",
-        null,
-        null,
-        null
-    ],
-    "504900640": [
-        null,
-        null,
-        "分岐발동_잔잔한 거울",
-        null,
-        null,
-        null
-    ],
-    "504900650": [
-        null,
-        null,
-        "分岐成功_잔잔한 거울",
-        null,
-        null,
-        null
-    ],
-    "504900660": [
-        null,
-        null,
-        "分岐실패_잔잔한 거울",
-        null,
-        null,
-        null
-    ],
-    "504900670": [
-        null,
-        null,
-        "種族마법付与_야수",
-        null,
-        null,
-        null
-    ],
-    "504900680": [
-        null,
-        null,
-        "種族마법付与_조류",
-        null,
-        null,
-        null
-    ],
-    "504900690": [
-        null,
-        null,
-        "種族마법付与_물",
-        null,
-        null,
-        null
-    ],
-    "504900700": [
-        null,
-        null,
-        "種族마법付与_悪",
-        null,
-        null,
-        null
-    ],
-    "504900710": [
-        null,
-        null,
-        "種族마법付与_인간",
-        null,
-        null,
-        null
-    ],
-    "504900720": [
-        null,
-        null,
-        "種族마법付与_機",
-        null,
-        null,
-        null
-    ],
-    "504900730": [
-        null,
-        null,
-        "種族마법付与_龍",
-        null,
-        null,
-        null
-    ],
-    "504900740": [
-        null,
-        null,
-        "種族마법付与_精霊",
-        null,
-        null,
-        null
-    ],
-    "504900750": [
-        null,
-        null,
-        "専用어빌리티사용 가능_白黒緑마법",
-        null,
-        null,
-        null
-    ],
-    "504900760": [
-        null,
-        null,
-        "専用어빌리티사용 가능_어빌리티2種",
-        null,
-        null,
-        null
-    ],
-    "504900770": [
-        null,
-        null,
-        "専用어빌리티사용 가능_마법&어빌리티",
-        null,
-        null,
-        null
-    ],
-    "504900780": [
-        null,
-        null,
-        "専用어빌리티사용 가능_専用어빌리티B付与",
-        null,
-        null,
-        null
-    ],
-    "504900790": [
-        null,
-        null,
-        "専用어빌리티사용 가능_分岐발동잔잔한 거울",
-        null,
-        null,
-        null
-    ],
-    "504900800": [
-        null,
-        null,
-        "分岐발동_잔잔한 거울MP検証",
-        null,
-        null,
-        null
     ],
     "504900810": [
         null,
         null,
-        "専用어빌리티사용 가능_아군特殊（세이프티 가드）",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
     ],
-    "504900820": [
-        null,
-        null,
-        "専用어빌리티사용 가능_아군마법（프로테스）",
-        null,
-        null,
-        null
-    ],
     "504900830": [
         null,
         null,
-        "専用어빌리티사용 가능_専用어빌리티사용 가능세이프티 가드）",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -4538,391 +4050,15 @@
     "504900840": [
         null,
         null,
-        "分岐발동_바이오分岐바이오가or드레인",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
     ],
-    "504900850": [
-        null,
-        null,
-        "分岐발동_케알分岐케알가or기도",
-        null,
-        null,
-        null
-    ],
-    "504900860": [
-        null,
-        null,
-        "分岐발동_페이스分岐정신통일or프로테가",
-        null,
-        null,
-        null
-    ],
-    "504900870": [
-        null,
-        null,
-        "分岐발동_천둥&선더 검分岐선더가 검or칼등 치기",
-        null,
-        null,
-        null
-    ],
-    "504900880": [
-        null,
-        null,
-        "分岐발동_반격分岐전방위 베기or줄행랑",
-        null,
-        null,
-        null
-    ],
-    "504900890": [
-        null,
-        null,
-        "속성흡수_불",
-        null,
-        null,
-        null
-    ],
-    "504900900": [
-        null,
-        null,
-        "속성흡수_얼음",
-        null,
-        null,
-        null
-    ],
-    "504900910": [
-        null,
-        null,
-        "속성흡수_번개",
-        null,
-        null,
-        null
-    ],
-    "504900920": [
-        null,
-        null,
-        "속성흡수_물",
-        null,
-        null,
-        null
-    ],
-    "504900930": [
-        null,
-        null,
-        "속성흡수_바람",
-        null,
-        null,
-        null
-    ],
-    "504900940": [
-        null,
-        null,
-        "속성흡수_땅",
-        null,
-        null,
-        null
-    ],
-    "504900950": [
-        null,
-        null,
-        "속성흡수_빛",
-        null,
-        null,
-        null
-    ],
-    "504900960": [
-        null,
-        null,
-        "속성흡수_어둠",
-        null,
-        null,
-        null
-    ],
-    "504900970": [
-        null,
-        null,
-        "P_複数회마법발동_白마법2회",
-        null,
-        null,
-        null
-    ],
-    "504900980": [
-        null,
-        null,
-        "P_複数회어빌리티발동3회",
-        null,
-        null,
-        null
-    ],
-    "504900990": [
-        null,
-        null,
-        "種族물리付与_곤충",
-        null,
-        null,
-        null
-    ],
-    "504901000": [
-        null,
-        null,
-        "種族물리付与_암석",
-        null,
-        null,
-        null
-    ],
-    "504901010": [
-        null,
-        null,
-        "種族물리付与_식물",
-        null,
-        null,
-        null
-    ],
-    "504901020": [
-        null,
-        null,
-        "種族물리付与_死",
-        null,
-        null,
-        null
-    ],
-    "504901030": [
-        null,
-        null,
-        "種族물리付与_全部",
-        null,
-        null,
-        null
-    ],
-    "504901040": [
-        null,
-        null,
-        "種族물리付与_야수물조류",
-        null,
-        null,
-        null
-    ],
-    "504901050": [
-        null,
-        null,
-        "種族마법付与_곤충",
-        null,
-        null,
-        null
-    ],
-    "504901060": [
-        null,
-        null,
-        "種族마법付与_암석",
-        null,
-        null,
-        null
-    ],
-    "504901070": [
-        null,
-        null,
-        "種族마법付与_식물",
-        null,
-        null,
-        null
-    ],
-    "504901080": [
-        null,
-        null,
-        "種族마법付与_死",
-        null,
-        null,
-        null
-    ],
-    "504901090": [
-        null,
-        null,
-        "種族마법付与_全部",
-        null,
-        null,
-        null
-    ],
-    "504901100": [
-        null,
-        null,
-        "種族마법付与_야수물조류",
-        null,
-        null,
-        null
-    ],
-    "504901110": [
-        null,
-        null,
-        "P_마법회피_無속성100%",
-        null,
-        null,
-        null
-    ],
-    "504901120": [
-        null,
-        null,
-        "P_마법회피_불100%",
-        null,
-        null,
-        null
-    ],
-    "504901130": [
-        null,
-        null,
-        "P_마법회피_얼음100%",
-        null,
-        null,
-        null
-    ],
-    "504901140": [
-        null,
-        null,
-        "P_마법회피_얼음50%",
-        null,
-        null,
-        null
-    ],
-    "504901150": [
-        null,
-        null,
-        "P_마법회피_번개100%",
-        null,
-        null,
-        null
-    ],
-    "504901160": [
-        null,
-        null,
-        "P_마법회피_물100%",
-        null,
-        null,
-        null
-    ],
-    "504901170": [
-        null,
-        null,
-        "P_마법회피_바람100%",
-        null,
-        null,
-        null
-    ],
-    "504901180": [
-        null,
-        null,
-        "P_마법회피_땅100%",
-        null,
-        null,
-        null
-    ],
-    "504901190": [
-        null,
-        null,
-        "P_마법회피_빛100%",
-        null,
-        null,
-        null
-    ],
-    "504901200": [
-        null,
-        null,
-        "P_마법회피_어둠100%",
-        null,
-        null,
-        null
-    ],
-    "504901210": [
-        null,
-        null,
-        "P_마법회피_불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성100%",
-        null,
-        null,
-        null
-    ],
-    "504901220": [
-        null,
-        null,
-        "P_마법회피_불번개50%",
-        null,
-        null,
-        null
-    ],
-    "504901230": [
-        null,
-        null,
-        "P_마법회피_불번개100%",
-        null,
-        null,
-        null
-    ],
-    "504901240": [
-        null,
-        null,
-        "専用어빌리티사용 가능_어빌리티5種無制限턴永久",
-        null,
-        null,
-        null
-    ],
-    "504901250": [
-        null,
-        null,
-        "専用어빌리티사용 가능_어빌리티5種無制限턴3",
-        null,
-        null,
-        null
-    ],
-    "504901260": [
-        null,
-        null,
-        "専用어빌리티사용 가능_어빌리티5種無制限턴9999",
-        null,
-        null,
-        null
-    ],
-    "504901270": [
-        null,
-        null,
-        "専用어빌리티사용 가능_어빌리티5種회数3턴 동안3",
-        null,
-        null,
-        null
-    ],
-    "504901280": [
-        null,
-        null,
-        "専用어빌리티사용 가능_어빌리티5種회数9999턴9999",
-        null,
-        null,
-        null
-    ],
-    "504901290": [
-        null,
-        null,
-        "敵&아군エフェクトチェック",
-        null,
-        null,
-        null
-    ],
-    "504901300": [
-        null,
-        null,
-        "A_DEF상승물리 공격",
-        null,
-        null,
-        null
-    ],
-    "504901310": [
-        null,
-        null,
-        "A_MIND상승마법 공격",
-        null,
-        null,
-        null
-    ],
     "504901320": [
         null,
         null,
-        "A_현재HP물리 공격",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -4930,7 +4066,7 @@
     "504901330": [
         null,
         null,
-        "A_현재MP마법 공격",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -4938,7 +4074,7 @@
     "504901340": [
         null,
         null,
-        "다크",
+        null,
         null,
         null,
         "Daño oscuro a todos los enemigos"
@@ -4946,7 +4082,7 @@
     "504901350": [
         null,
         null,
-        "다크라",
+        null,
         null,
         null,
         "Daño oscuro a todos los enemigos"
@@ -4954,63 +4090,15 @@
     "504901360": [
         null,
         null,
-        "다크가",
+        null,
         null,
         null,
         "Daño oscuro a todos los enemigos"
     ],
-    "504901370": [
-        null,
-        null,
-        "A_DEF상승물리 공격_100係数120",
-        null,
-        null,
-        null
-    ],
-    "504901380": [
-        null,
-        null,
-        "A_DEF상승물리 공격_변환100係数160",
-        null,
-        null,
-        null
-    ],
-    "504901390": [
-        null,
-        null,
-        "A_DEF상승물리 공격_변환50係数120",
-        null,
-        null,
-        null
-    ],
-    "504901400": [
-        null,
-        null,
-        "A_MIND상승마법 공격_변환100係数120",
-        null,
-        null,
-        null
-    ],
-    "504901410": [
-        null,
-        null,
-        "A_MIND상승마법 공격_변환100係数160",
-        null,
-        null,
-        null
-    ],
-    "504901420": [
-        null,
-        null,
-        "A_MIND상승마법 공격_변환50係数120",
-        null,
-        null,
-        null
-    ],
     "504901430": [
         null,
         null,
-        "A_현재HP변환ATK물리 공격_係数120 변환100%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5018,7 +4106,7 @@
     "504901440": [
         null,
         null,
-        "A_현재HP변환ATK물리 공격_係数160 변환50%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5026,7 +4114,7 @@
     "504901450": [
         null,
         null,
-        "A_현재HP변환ATK물리 공격_係数160 변환100%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5034,7 +4122,7 @@
     "504901460": [
         null,
         null,
-        "A_현재HP변환ATK물리 공격_係数180 변환100%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5042,7 +4130,7 @@
     "504901470": [
         null,
         null,
-        "A_현재HP변환ATK물리 공격_係数180 변환100%上限200",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5050,7 +4138,7 @@
     "504901480": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数120 변환100%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5058,7 +4146,7 @@
     "504901490": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数160 변환50%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5066,7 +4154,7 @@
     "504901500": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数160 변환100%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5074,7 +4162,7 @@
     "504901510": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数180 변환100%上限9999",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5082,7 +4170,7 @@
     "504901520": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数180 변환100%上限200",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5090,7 +4178,7 @@
     "504901530": [
         null,
         null,
-        "토네이도",
+        null,
         null,
         null,
         "Daño de viento a uno y reduce la res. al hielo"
@@ -5098,7 +4186,7 @@
     "504901540": [
         null,
         null,
-        "A_어빌리티ID指定_ランダム발동→A_현재HP변환ATK물리 공격",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5106,7 +4194,7 @@
     "504901550": [
         null,
         null,
-        "물리반격+A_현재HP변환ATK물리 공격",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5114,7 +4202,7 @@
     "504901560": [
         null,
         null,
-        "마법 맞받아치기+A_현재HP변환ATK물리 공격",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5122,7 +4210,7 @@
     "504901570": [
         null,
         null,
-        "현재HP변환ATK물리 공격+A_HP흡수",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5130,7 +4218,7 @@
     "504901580": [
         null,
         null,
-        "현재HP변환ATK물리 공격_係数120 변환50%上限13000",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5138,7 +4226,7 @@
     "504901590": [
         null,
         null,
-        "현재HP변환ATK물리 공격_係数120 변환100%上限13000",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5146,7 +4234,7 @@
     "504901600": [
         null,
         null,
-        "현재HP변환ATK물리 공격_係数120 변환200%上限13000",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5154,7 +4242,7 @@
     "504901610": [
         null,
         null,
-        "현재HP변환ATK물리 공격_係数1 변환100%上限25000",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5162,7 +4250,7 @@
     "504901620": [
         null,
         null,
-        "현재HP변환ATK물리 공격_係数180 변환100%上限1000",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5170,7 +4258,7 @@
     "504901630": [
         null,
         null,
-        "현재HP변환ATK물리 공격_係数180 변환50%上限400",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5178,7 +4266,7 @@
     "504901640": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数120 변환10%上限900",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5186,7 +4274,7 @@
     "504901650": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数120 변환50%上限900",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
@@ -5194,119 +4282,15 @@
     "504901660": [
         null,
         null,
-        "A_현재MP변환INT마법 공격_係数120 변환100%上限900",
+        null,
         null,
         null,
         "Deja K.O. al instante a un enemigo"
     ],
-    "504901670": [
-        null,
-        null,
-        "専用어빌리티사용 가능_A_현재MP변환ATK물리 공격",
-        null,
-        null,
-        null
-    ],
-    "504901680": [
-        null,
-        null,
-        "分岐발동_바이오分岐현재MP변환or드레인",
-        null,
-        null,
-        null
-    ],
-    "504901690": [
-        null,
-        null,
-        "어빌리티ランダム+MP변환물리",
-        null,
-        null,
-        null
-    ],
-    "504901700": [
-        null,
-        null,
-        "DEF상승물리 공격_변환100係数160（上限値500）",
-        null,
-        null,
-        null
-    ],
-    "504901710": [
-        null,
-        null,
-        "DEF상승물리 공격_변환100係数160（上限値100）",
-        null,
-        null,
-        null
-    ],
-    "504901720": [
-        null,
-        null,
-        "MIND상승마법 공격_변환100係数120（上限値500）",
-        null,
-        null,
-        null
-    ],
-    "504901730": [
-        null,
-        null,
-        "MIND상승마법 공격_변환100係数120（上限値100）",
-        null,
-        null,
-        null
-    ],
-    "504901740": [
-        null,
-        null,
-        "専用어빌리티사용 가능_DEF상승물리",
-        null,
-        null,
-        null
-    ],
-    "504901750": [
-        null,
-        null,
-        "分岐발동_바이오分岐DEF상승물리or드레인",
-        null,
-        null,
-        null
-    ],
-    "504901760": [
-        null,
-        null,
-        "어빌리티ランダム+DEF상승물리",
-        null,
-        null,
-        null
-    ],
-    "504901770": [
-        null,
-        null,
-        "専用어빌리티사용 가능_MIND상승마법",
-        null,
-        null,
-        null
-    ],
-    "504901780": [
-        null,
-        null,
-        "分岐발동_바이오分岐MIND상승마법or드레인",
-        null,
-        null,
-        null
-    ],
-    "504901790": [
-        null,
-        null,
-        "어빌리티ランダム+MIND상승마법",
-        null,
-        null,
-        null
-    ],
     "504901800": [
         null,
         null,
-        "점프",
+        null,
         null,
         null,
         "Salta y ataca en el próximo turno"
@@ -5314,58 +4298,10 @@
     "504901810": [
         null,
         null,
-        "발차기",
+        null,
         null,
         null,
         "Daña a todos los enemigos"
-    ],
-    "504901820": [
-        null,
-        null,
-        "물리반격+DEF상승물리",
-        null,
-        null,
-        null
-    ],
-    "504901830": [
-        null,
-        null,
-        "마법 맞받아치기+DEF상승물리",
-        null,
-        null,
-        null
-    ],
-    "504901840": [
-        null,
-        null,
-        "물리반격+MIND상승마법",
-        null,
-        null,
-        null
-    ],
-    "504901850": [
-        null,
-        null,
-        "마법 맞받아치기+MIND상승마법",
-        null,
-        null,
-        null
-    ],
-    "504901860": [
-        null,
-        null,
-        "물리반격+현재MP변환",
-        null,
-        null,
-        null
-    ],
-    "504901870": [
-        null,
-        null,
-        "마법 맞받아치기+현재MP변환",
-        null,
-        null,
-        null
     ],
     "504901880": [
         "Lightning damage to one enemy and reduce earth resistance",

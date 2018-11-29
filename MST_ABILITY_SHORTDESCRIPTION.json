@@ -281,7 +281,7 @@
     ],
     "100750": [
         "LB gauge fills every turn",
-        "戰鬥中每回合自動增加極限技槽",
+        "每回合增加極限技槽",
         "매 턴마다 LB 게이지 증가",
         "La jauge de limite se remplit à chaque tour",
         "Limitmeter steigt langsam",
@@ -1989,7 +1989,7 @@
         "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 20% 상승",
         "Augmente la résistance à feu, glace, foudre, eau, vent, terre, lumière et ténèbres de 20%",
         "Erhöht Feuer-, Eis-, Blitz, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz um 20%.",
-        "Reduce la resistencia al fuego, hielo, rayo, agua, tierra, luz y oscuridad un 20%"
+        "Aumenta la resistencia al fuego, hielo, rayo, agua, tierra, luz y oscuridad un 20%"
     ],
     "201760": [
         "Cause limit gauge to fill more quickly",
@@ -3139,7 +3139,7 @@
         "Damage and chance of paralyzing one enemy",
         "攻擊1名敵人+一定機率施加麻痺效果",
         "적 1명에게 피해+일정 확률로 마비 부여",
-        "Dégâts et paralyse un ennemi",
+        "Dégâts et chance de paralyser un ennemi",
         "Fügt einem Gegner Schaden zu + Chance auf Lähmung",
         "Daña y paraliza a un enemigo"
     ],
@@ -4721,7 +4721,7 @@
     ],
     "205220": [
         "Boost ATK when equipped with fists, spear, hammer, or axe",
-        "裝備格鬥武器鎚子斧時提高攻擊",
+        "裝備格鬥武器長槍鎚子斧時提高攻擊",
         "격투무기, 창, 망치 또는 도끼 장착 시 공격력 상승",
         "Augmente l'ATT lorsque des poings, des lances, des marteaux ou des haches sont équipés",
         "Erhöht ANG, wenn mit Nahkampfw, Speer, Hammer oder Axt ausger.",
@@ -9592,7 +9592,7 @@
         "Daño absoluto parcial a todos los enemigos y reduce su ATQ, DEF, MAG y ESP"
     ],
     "211360": [
-        "Boost physical and magic damage against dragon monsters",
+        "Boost physical and magic damage against dragons",
         "物理、魔法攻擊時提高對龍系魔物的傷害",
         "물리, 마법 공격 시 드래곤형 마물에게 부여하는 피해량 상승",
         "Augmente les dégâts physiques et magiques contre les dragons",
@@ -14628,7 +14628,7 @@
         "恢復全體隊員的HP+增加召喚槽",
         "아군 전체의 HP 회복+소환 게이지 증가",
         "Restaure les PV de tous les alliés et remplit la jauge d'invocation",
-        "Stellt LP für alle Verb. wieder her und füllt Beschwörungsleiste",
+        "Stellt LP für alle Verb. wieder her und füllt Rufleiste",
         "Recupera VIT de todos los aliados y rellena la barra de invocación"
     ],
     "217670": [
@@ -14644,7 +14644,7 @@
         "提高極限技石對全體隊員極限技槽的增加量+增加召喚槽",
         "아군 전체의 LB 게이지 효율 상승+소환 게이지 증가",
         "Augmente le taux de remplissage de la jauge de limite de tous les alliés et remplit la jauge d'invocation",
-        "Limitmeter und Beschwörungsleiste steigt im Kampf, alle Verb.",
+        "Limitmeter und Rufleiste steigt im Kampf, alle Verb.",
         "La barra de EL de los aliados se llena más rápido y rellena la barra de invocación"
     ],
     "217690": [
@@ -14652,7 +14652,7 @@
         "增加召喚槽",
         "소환 게이지 증가",
         "Remplit la jauge d'invocation",
-        "Füllt Beschwörungsleiste.",
+        "Füllt Rufleiste.",
         "Rellena la barra de invocación"
     ],
     "217700": [
@@ -15011,7 +15011,7 @@
         "Boost ATK and MAG by 20%",
         "提高20%攻擊魔力",
         "공격력과 마력 20% 상승",
-        "Augmente l'ATT et la DEF de 20%",
+        "Augmente l'ATT et la MAG de 20%",
         "Erhöht ANG und MAG um 20%.",
         "Aumenta ATQ y MAG un 20%"
     ],
@@ -16608,7 +16608,7 @@
         "Aumenta la VIT un 20% y el ATQ un 30%"
     ],
     "220150": [
-        "Boost magic damage dealt to fairies",
+        "Boost magic damage against fairies",
         "魔法攻擊時提高對精靈系魔物的傷害",
         "마법 공격 시 정령형 마물에게 부여하는 피해량 상승",
         "Augmente les dégâts magiques infligés aux monstres de type esprit",
@@ -16676,7 +16676,7 @@
         "消耗自身極限技槽攻擊全體敵人",
         "자신의 LB 게이지를 소비하여 적 전체에 피해",
         "Consomme la jauge de limite pour infliger des dégâts à tous les ennemis",
-        "Verbraucht eigenen Limitmeter, um allen Gegnern Schaden zuzufügen.",
+        "Verbraucht eigenes Limitmeter, um allen Gegnern Schaden zuzufügen.",
         "Consume EL propia para dañar a todos los enemigos"
     ],
     "220240": [
@@ -16692,7 +16692,7 @@
         "對1名敵人發動光屬性攻擊+提高自身極限技槽",
         "적 1명에게 빛속성 피해+자신의 LB 게이지 증가",
         "Dégâts de lumière sur un ennemi et augmente la jauge de limite du lanceur",
-        "Fügt einem Gegner Lichtschaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Lichtschaden zu und füllt eigenes Limitmeter.",
         "Daño de luz a un enemigo y aumenta la barra de EL del usuario"
     ],
     "220260": [
@@ -17460,7 +17460,7 @@
         "脫離至空，提高自身極限技槽+下一回合對1名敵人進行落下攻擊",
         "공중으로 이탈 후 자신의 LB 게이지 증가+다음 턴에 낙하하여 적 1명에게 피해",
         "Saute haut dans les airs, remplit la jauge de limite du lanceur et attaque un ennemi au tour suivant",
-        "Schwingt sich in die Lüfte, füllt eigenen Limitmeter und greift Gegner in der folgenden Runde an.",
+        "Schwingt sich in die Lüfte, füllt eigenes Limitmeter und greift Gegner in der folgenden Runde an.",
         "Salta, rellena la barra de EL y ataca al siguiente turno"
     ],
     "221240": [
@@ -18012,7 +18012,7 @@
         "攻擊1名敵人+提高自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y llena la barra de EL del usuario"
     ],
     "221930": [
@@ -18492,7 +18492,7 @@
         "攻擊1名敵人+增加自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y llena la barra de EL del usuario"
     ],
     "222530": [
@@ -18740,7 +18740,7 @@
         "受到魔法攻擊時恢復自身的MP+受到物理攻擊時一定機率增加自身的極限技槽",
         "마법 공격을 받으면 자신의 MP 회복+물리 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Restaure les PM du lanceur après avoir reçu une attaque magique et chance d'augmenter la jauge de limite du lanceur après avoir reçu une attaque physique",
-        "Regeneriert eigene MP, wenn mit mag. Angriff attackiert + Chance, eigenen Limitmeter zu füllen, wenn mit phys. Angriff attackiert.",
+        "Regeneriert eigene MP, wenn mit mag. Angriff attackiert + Chance, eigenes Limitmeter zu füllen, wenn mit phys. Angriff attackiert.",
         "Recupera los PM propios al recibir un ataque mágico y puede rellenar la barra de EL del usuario al recibir un ataque físico"
     ],
     "222860": [
@@ -18836,7 +18836,7 @@
         "增加自身極限技槽+提高極限技石對極限技槽的增加量+下一回合變化為「冷靜原力」",
         "자신의 LB 게이지 증가+LB 게이지 효율 상승+다음 턴에 '쿨 포스'로 변화",
         "Remplit la jauge de limite du lanceur, les pierres remplissent la jauge de limite plus vite et se change en Force tranquille au tour suivant",
-        "Erhöht eigenen Limitmeter, erhöht den Effekt von Limitsteinen und wechselt in folgender Runde zu Kalte Kraft.",
+        "Erhöht eigenes Limitmeter, erhöht den Effekt von Limitsteinen und wechselt in folgender Runde zu Kalte Kraft.",
         "La barra de EL se llena más rápido, las piedras de estallido recuperan más EL y cambia a Fuerza refrescante el turno siguiente"
     ],
     "222980": [
@@ -19540,7 +19540,7 @@
         "提高自身以外1名隊員降低攻擊防禦魔力精神耐性+消耗自身極限技槽並增加該隊員的極限技槽",
         "자신을 제외한 아군 1명의 공격력, 방어력, 마력, 정신력 감소 저항력 상승+자신의 LB 게이지를 소비하여 LB 게이지 증가",
         "Augmente la résistance à la réduction d'ATT, DEF, MAGIE et PSY de tous les alliés sauf du lanceur, et consomme la jauge de limite du lanceur pour remplir celle d'un allié",
-        "Erhöht Resistenz gegen ANG-, ABW-, MAG- und PSY-Verringerung und verbraucht eigenen Limitmeter um den eines anderen Verb. zu füllen.",
+        "Erhöht Resistenz gegen ANG-, ABW-, MAG- und PSY-Verringerung und verbraucht eigenes Limitmeter um den eines anderen Verb. zu füllen.",
         "Aumenta la res. a la reducción de ATQ/DEF/MAG/ESP, consume la barra de EL del usuario para rellenar la de un aliado"
     ],
     "223860": [
@@ -19692,7 +19692,7 @@
         "增加全體隊員極限技槽",
         "아군 전체의 LB 게이지 증가",
         "Remplit la jauge de limite de tous les alliés",
-        "Füllt Limitleiste aller Verb.",
+        "Füllt Limitmeter aller Verb.",
         "Rellena la barra de EL de todos los aliados"
     ],
     "224050": [
@@ -19716,7 +19716,7 @@
         "攻擊全體敵人+增加自身極限技槽",
         "적 전체에 피해+자신의 LB 게이지 증가",
         "Dégâts à tous les ennemis et remplit la jauge de limite du lanceur",
-        "Fügt allen Gegnern Schaden zu und füllt eigene Limitleiste.",
+        "Fügt allen Gegnern Schaden zu und füllt eigene Limitmeter.",
         "Daña a todos los enemigos y rellena la barra de EL del usuario"
     ],
     "224080": [
@@ -19996,7 +19996,7 @@
         "受到物理、魔法攻擊時一定機率增加自身極限技槽",
         "물리, 마법 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Chance de remplir la jauge de limite du lanceur après avoir subi une attaque physique ou magique",
-        "Chance, eigenen Limitmeter zu füllen, wenn mit. phys. oder mag. Angriff attackiert.",
+        "Chance, eigenes Limitmeter zu füllen, wenn mit. phys. oder mag. Angriff attackiert.",
         "Puede rellenar la barra de EL al recibir un ataque físico o mágico"
     ],
     "224430": [
@@ -20108,7 +20108,7 @@
         "提高自身極限技槽+恢復HPMP+將物理攻擊賦予暗屬性",
         "자신의 LB 게이지 증가+HP와 MP 회복+물리 공격에 어둠속성 부여",
         "Remplit la jauge de limite du lanceur, restaure les PV et PM et ajoute l'élément ténèbres aux attaques physiques du lanceur",
-        "Füllt eigenen Limitmeter, regeneriert LP/MP und fügt eigenem phys. Angriff Dunkelelement hinzu.",
+        "Füllt eigenes Limitmeter, regeneriert LP/MP und fügt eigenem phys. Angriff Dunkelelement hinzu.",
         "Rellena la barra de EL del usuario, recupera VIT y PM y añade elemento oscuro a los ataques físicos propios"
     ],
     "224570": [
@@ -20628,7 +20628,7 @@
         "賦予1名隊員物理攻擊時提高對龍系魔物傷害的效果+增加極限技槽",
         "아군 1명에게 물리 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여+LB 게이지 증가",
         "Augmente les dégâts physiques contre les monstres de type dragon et remplit la jauge de limite d'un allié",
-        "Erhöht phys. Schaden eines Verb. gegen Drachen und füllt seinen Limitmeter.",
+        "Erhöht phys. Schaden eines Verb. gegen Drachen und füllt sein Limitmeter.",
         "Aumenta el daño físico contra dragones y rellena la barra de EL de un aliado"
     ],
     "225220": [
@@ -20636,7 +20636,7 @@
         "賦予1名隊員魔法攻擊時提高對龍系魔物傷害的效果+增加極限技槽",
         "아군 1명에게 마법 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여+LB 게이지 증가",
         "Augmente les dégâts magiques contre les dragons et remplit la jauge de limite",
-        "Erhöht mag. Schaden eines Verb. gegen Drachen und füllt seinen Limitmeter.",
+        "Erhöht mag. Schaden eines Verb. gegen Drachen und füllt sein Limitmeter.",
         "Aumenta el daño mágico contra un dragón y la barra de EL se llena más rápido"
     ],
     "225230": [
@@ -20996,7 +20996,7 @@
         "消耗自身極限技槽提高自身的攻擊防禦魔力精神",
         "자신의 LB 게이지를 소비하여 공격력, 방어력, 마력, 정신력 상승",
         "Consomme la jauge de limite du lanceur pour augmenter l'ATT, la DEF, la MAGIE et la PSY",
-        "Verbraucht eigenen Limitmeter, um ANG, ABW, MAG und PSY zu erhöhen.",
+        "Verbraucht eigenes Limitmeter, um ANG, ABW, MAG und PSY zu erhöhen.",
         "Consume la barra de EL del usuario para aumentar ATQ/DEF/MAG/ESP"
     ],
     "225680": [
@@ -21404,7 +21404,7 @@
         "對1名敵人發動火屬性攻擊+提高自身極限技槽",
         "적 1명에게 불속성 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts de feu à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Feuerschaden zu un füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Feuerschaden zu un füllt eigenes Limitmeter.",
         "Daño de fuego a un enemigo y rellena la barra de EL del usuario"
     ],
     "226190": [
@@ -21412,7 +21412,7 @@
         "消耗自身極限技槽提高自身的攻擊防禦魔力精神+減輕對自身的傷害+持續恢復HPMP",
         "자신의 LB 게이지를 소비하여 자신의 공격력, 방어력, 마력, 정신력 상승+자신이 받는 피해량 감소+HP와 MP 서서히 회복",
         "Consomme la jauge de limite du lanceur pour augmenter son ATT, DEF, MAGIE et PSY, réduit les dégâts subis par le lanceur et restaure progressivement ses PV et PM",
-        "Verbraucht eigenen LImitmeter, um eigenen ANG, ABW, MAG und PSY zu erhöhten + reduziert selbst erhaltenen Schaden und regeneriert allmählich LP/MP.",
+        "Verbraucht eigenes Limitmeter, um eigenen ANG, ABW, MAG und PSY zu erhöhten + reduziert selbst erhaltenen Schaden und regeneriert allmählich LP/MP.",
         "Consume la barra de EL propia para aumentar ATQ/DEF/MAG/ESP del usuario, reducir el daño que se recibe y recuperar poco a poco la VIT  y los PM"
     ],
     "226200": [
@@ -21524,7 +21524,7 @@
         "提高自身極限技槽+1回合內可使用「超強力火藥充填」「強力炮彈」",
         "자신의 LB 게이지 증가+1턴 동안 '초강력 화약 충전', '강력 포탄' 사용 가능",
         "Remplit la jauge de limite du lanceur et active Superecharge et Balle puissante pour un tour",
-        "Füllt eigenen Limitmeter und ermöglicht eine Runde lang Super-Nachladen und Kraftprojektil.",
+        "Füllt eigenes Limitmeter und ermöglicht eine Runde lang Super-Nachladen und Kraftprojektil.",
         "Llena la barra de EL del usuario y aprende Superrecarga y Escudo potente durante un turno"
     ],
     "226340": [
@@ -21796,7 +21796,7 @@
         "受到魔法攻擊時一定機率增加自身極限技槽",
         "마법 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Chance de remplir la jauge de limite du lanceur après avoir subi une attaque magique",
-        "Chance, eigenen Limitmeter zu füllen, wenn Einheit mit mag. Angriff attackiert wird.",
+        "Chance, eigenes Limitmeter zu füllen, wenn Einheit mit mag. Angriff attackiert wird.",
         "Puede rellenar la barra de EL del usuario al recibir un ataque mágico"
     ],
     "226422": [
@@ -22292,7 +22292,7 @@
         "提高極限技石對極限技槽的增加量+裝備劍時提高15%HPMP、50%攻擊",
         "LB 게이지 효율 상승+검 장착 시 HP와 MP 15%, 공격력 50% 상승",
         "Augmente le taux de remplissage de la jauge de limite, augmente les PV et les PM de 15% et l'ATT de 50% lorsqu'une épée est équipée",
-        "Der Limitmeter füllt sich schneller, erhöht LP/MP um 15% und erhöht ANG um 50%, wenn mit Schwert ausgerüstet.",
+        "Limitmeter füllt sich schneller, erhöht LP/MP um 15% und erhöht ANG um 50%, wenn mit Schwert ausgerüstet.",
         "La barra de EL se llena más rápido, aumenta la VIT y los PM un 15% y el ATQ un 50% al llevar espada"
     ],
     "226700": [
@@ -22340,7 +22340,7 @@
         "消耗自身極限技槽恢復1名隊員HPMP+1回合內減少對自身的傷害",
         "자신의 LB 게이지를 소비하여 아군 1명의 HP와 MP 회복+1턴 동안 피해량 감소",
         "Consomme la jauge de limite du lanceur pour restaurer les PV et les PM à un allié et réduit les dégâts subis pendant un tour",
-        "Verbraucht eigenen Limitmeter, um LP und MP eines Verb. zu regenerieren und verringert eine Runde lang erlittenen Schaden.",
+        "Verbraucht eigenes Limitmeter, um LP und MP eines Verb. zu regenerieren und verringert eine Runde lang erlittenen Schaden.",
         "Consume la barra de EL para recuperar VIT y PM de un aliado y reduce el daño que recibe durante un turno"
     ],
     "226713": [
@@ -22588,7 +22588,7 @@
         "攻擊全體敵人+增加自身極限技槽",
         "적 전체에 피해+자신의 LB 게이지 증가",
         "Dégâts à tous les ennemis et remplit la jauge de limite du lanceur",
-        "Fügt allen Gegnern Schaden zu und füllt eigene Limitleiste.",
+        "Fügt allen Gegnern Schaden zu und füllt eigene Limitmeter.",
         "Daña a todos los enemigos y rellena la barra de EL del usuario"
     ],
     "226773": [
@@ -22692,7 +22692,7 @@
         "消耗自身極限技槽恢復自身以外1名隊員的極限技槽+提高攻擊",
         "자신의 LB 게이지를 소비하여 자신을 제외한 아군 1명의 게이지 회복+공격력 상승",
         "Consomme la jauge de limite du lanceur pour remplir celle d'un allié et augmente l'ATT",
-        "Verbraucht die Limitleiste des Benutzers, um die Limitleiste eines anderen Verbündeten zu füllen und erhöht ANG.",
+        "Verbraucht die Limitmeter des Benutzers, um die Limitmeter eines anderen Verbündeten zu füllen und erhöht ANG.",
         "Consume la barra de EL del usuario para rellenar la de un aliado, aumenta el ATQ"
     ],
     "226803": [
@@ -22700,7 +22700,7 @@
         "消耗自身極限技槽恢復自身以外1名隊員的極限技槽+提高魔力",
         "자신의 LB 게이지를 소비하여 자신을 제외한 아군 1명의 게이지 회복+마력 상승",
         "Consomme la jauge de limite du lanceur pour remplir celle d'un allié et augmente la MAGIE",
-        "Verbraucht die Limitleiste des Benutzers, um die Limitleiste eines anderen Verbündeten zu füllen und erhöht MAG.",
+        "Verbraucht die Limitmeter des Benutzers, um die Limitmeter eines anderen Verbündeten zu füllen und erhöht MAG.",
         "Consume la barra de EL del usuario para rellenar la de un aliado, aumenta la MAG"
     ],
     "226804": [
@@ -22748,7 +22748,7 @@
         "消耗自身極限技槽恢復全體隊員的MP",
         "자신의 LB 게이지를 소비하여 아군 전체의 MP 회복",
         "Consomme la jauge de limite du lanceur pour restaurer les PM de tous les alliés",
-        "Verbraucht eigenen Limitmeter, um MP aller Verbündeten zu regenerieren.",
+        "Verbraucht eigenes Limitmeter, um MP aller Verbündeten zu regenerieren.",
         "Consume la barra de EL propia para recuperar PM para los aliados"
     ],
     "226815": [
@@ -23572,7 +23572,7 @@
         "每回合增加極限技槽+裝備劍時提高60%攻擊",
         "매 턴마다 LB 게이지 증가+검 장착 시 공격력 60% 상승",
         "Remplit la jauge de limite à chaque tour et augmente l'ATT de 60% quand une épée est équipée",
-        "Füllt jede Runde Limitleiste und erhöht ANG um 60%, wenn mit einem Schwert ausgerüstet.",
+        "Füllt jede Runde Limitmeter und erhöht ANG um 60%, wenn mit einem Schwert ausgerüstet.",
         "Rellena la barra de EL cada turno y aumenta el ATQ un 60% al llevar espada"
     ],
     "226981": [
@@ -24524,7 +24524,7 @@
         "消耗自身極限技槽對1名敵人發動光屬性攻擊+降低火光屬性耐性",
         "자신의 LB 게이지를 소비하여 적 1명에게 빛속성 피해+불과 빛속성 저항력 감소",
         "Consomme la jauge de limite du lanceur pour infliger des dégâts de lumière et réduire les résistances au feu et à la lumière d'un ennemi",
-        "Verbraucht eigenen Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Feuer- sowie Lichtresistenz zu verringern.",
+        "Verbraucht eigenes Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Feuer- sowie Lichtresistenz zu verringern.",
         "Consume la barra de EL del usuario para infligir daño de luz y reducir la resistencia al fuego y a la luz de un enemigo"
     ],
     "227193": [
@@ -24532,7 +24532,7 @@
         "消耗自身極限技槽對1名敵人發動暗屬性攻擊+降低土暗屬性耐性",
         "자신의 LB 게이지를 소비하여 적 1명에게 어둠속성 피해+땅과 어둠속성 저항력 감소",
         "Consomme la jauge de limite du lanceur pour infliger des dégâts de ténèbres et réduire les résistances à la terre et aux ténèbres d'un ennemi",
-        "Verbraucht eigenen Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Erd- sowie Dunkelresistenz zu verringern.",
+        "Verbraucht eigenes Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Erd- sowie Dunkelresistenz zu verringern.",
         "Consume la barra de EL del usuario para infligir daño oscuro y reducir la res. a la tierra y la oscuridad de un enemigo"
     ],
     "227194": [
@@ -24540,7 +24540,7 @@
         "消耗自身極限技槽對1名敵人發動雷屬性攻擊+降低雷風屬性耐性",
         "자신의 LB 게이지를 소비하여 적 1명에게 번개속성 피해+번개와 바람속성 저항력 감소",
         "Consomme la jauge de limite du lanceur pour infliger des dégâts de foudre et réduire les résistances à la foudre et au vent d'un ennemi",
-        "Verbraucht eigenen Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Blitz- sowie Windresistenz zu verringern.",
+        "Verbraucht eigenes Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Blitz- sowie Windresistenz zu verringern.",
         "Consume la barra de EL del usuario para infligir daño de rayo y reducir la resistencia al rayo y al viento de un enemigo"
     ],
     "227195": [
@@ -24548,7 +24548,7 @@
         "消耗自身極限技槽對1名敵人發動水屬性攻擊+降低冰水屬性耐性",
         "자신의 LB 게이지를 소비하여 적 1명에게 물속성 피해+얼음과 물속성 저항력 감소",
         "Consomme la jauge de limite du lanceur pour infliger des dégâts d'eau et réduire les résistances à la glace et à l'eau d'un ennemi",
-        "Verbraucht eigenen Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Eis- sowie Wasserresistenz zu verringern.",
+        "Verbraucht eigenes Limitmeter, um einem Gegner Lichtschaden zuzufügen und seine Eis- sowie Wasserresistenz zu verringern.",
         "Consume la barra de EL del usuario para infligir daño de agua y reducir la resistencia al agua y al hielo de un enemigo"
     ],
     "227196": [
@@ -24652,7 +24652,7 @@
         "提高40%魔力+受到物理、魔法攻擊時一定機率增加自身極限技槽",
         "마력 40% 상승+물리 또는 마법 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Augmente la MAGIE de 40 % et chance de remplir la jauge de limite du lanceur après avoir reçu une attaque physique ou magique",
-        "Erhöht MAG um 40% und Chance, eigenen Limitmeter zu füllen, wenn mit phys. oder mag. Angriff getroffen.",
+        "Erhöht MAG um 40% und Chance, eigenes Limitmeter zu füllen, wenn mit phys. oder mag. Angriff getroffen.",
         "Aumenta la MAG un 40% y la probabilidad de rellenar la barra de EL del usuario al recibir un ataque físico o mágico"
     ],
     "227209": [
@@ -26212,7 +26212,7 @@
         "【每4回合可使用1次】消耗自身極限技槽恢復全體隊員的MP",
         "[4턴에 1회 사용 가능] 자신의 LB 게이지를 소비하여 아군 전체의 MP 회복",
         "(Une fois tous les 4 tours) Consomme la jauge de limite du lanceur pour restaurer les PM de tous les alliés",
-        "(Einmal in 4 Runden) Verbraucht eigenen Limitmeter um für alle Verbündete MP wiederherzustellen.",
+        "(Einmal in 4 Runden) Verbraucht eigenes Limitmeter um für alle Verbündete MP wiederherzustellen.",
         "(Un uso cada 4 turnos) Consume la barra de EL del usuario para recuperar los PM de todos los aliados"
     ],
     "227534": [
@@ -26364,7 +26364,7 @@
         "【每8回合可使用1次】消耗自身的極限技槽和HP+恢復除自己以外全體隊員的HPMP+提高攻擊防禦魔力精神+增加極限技槽",
         "[8턴에 1회 사용 가능] 자신의 LB 게이지와 HP를 소비하여 자신을 제외한 아군 전체의 HP와 MP 회복+공격력, 방어력, 마력, 정신력 상승+LB 게이지 증가",
         "(Une fois tous les 8 tours) Consomme la jauge de limite et les PV du lanceur pour restaurer les PV et PM, augmenter l'ATT, la DEF, la MAGIE et la PSY et remplir la jauge de limite de tous les autres alliés",
-        "(Einmal in 8 Runden) Verbraucht eigenen Limitmeter und LP, um bei allen Verbündeten außer Benutzer LP und MP wiederherzustellen, ANG, ABW, MAG und PSY zu erhöhen und Limitmeter zu füllen.",
+        "(Einmal in 8 Runden) Verbraucht eigenes Limitmeter und LP, um bei allen Verbündeten außer Benutzer LP und MP wiederherzustellen, ANG, ABW, MAG und PSY zu erhöhen und Limitmeter zu füllen.",
         "(Un uso cada 8 turnos) Consume la barra de EL del usuario y la VIT para recuperar VIT y PM, aumenta ATQ, DEF, MAG y ESP y rellena la barra de EL de todos los aliados excepto la del usuario"
     ],
     "227591": [
@@ -26783,6 +26783,14 @@
         "Erhöht Feuer-, Eis-, Blitz, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz um 10%..",
         "Aumenta un 10% la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad"
     ],
+    "227700": [
+        "Add chance of countering with light damage to an enemy when receiving a physical attack",
+        "受到物理攻擊時一定機率對1名敵人發動光屬性反擊",
+        "물리 공격을 받으면 일정 확률로 적 1명에게 빛속성 반격",
+        "Chance d'infliger une contre-attaque de lumière à un ennemi après avoir reçu une attaque physique",
+        "Chance, Sanctus zu aktivieren, wenn mit phys. Angriff attackiert.",
+        "Probabilidad de contraatacar a un enemigo con daño de luz al recibir un ataque físico"
+    ],
     "227701": [
         "Boost ATK by 30% and physical damage against humans",
         "提高30%攻擊+物理攻擊時提高對人形系魔物的傷害",
@@ -26900,7 +26908,7 @@
         "提高敵人的道具掉落率",
         "물리 공격을 받으면 일정 확률로 반격+적의 방어력 감소+자신의 LB 게이지 증가",
         "Chance de contre-attaquer les attaques physiques, réduit la DEF et remplit la jauge de limite du lanceur",
-        "Chance, physische Angriffe zu kontern, verringert gegnerische ABW und füllt eigenen Limitmeter.",
+        "Chance, physische Angriffe zu kontern, verringert gegnerische ABW und füllt eigenes Limitmeter.",
         "Probabilidad de devolver ataques físicos, reduce la DEF del enemigo y rellena la barra de EL del usuario"
     ],
     "227732": [
@@ -26956,7 +26964,7 @@
         "攻擊1名敵人+提高自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y rellena la barra de EL del usuario"
     ],
     "227739": [
@@ -27516,7 +27524,7 @@
         "攻擊全體敵人+增加自身極限技槽",
         "적 전체에 피해+자신의 LB 게이지 증가",
         "Dégâts à tous les ennemis et remplit la jauge de limite du lanceur",
-        "Fügt allen Gegnern Schaden zu und füllt eigene Limitleiste.",
+        "Fügt allen Gegnern Schaden zu und füllt eigene Limitmeter.",
         "Daña a todos los enemigos y rellena la barra de EL del usuario"
     ],
     "227836": [
@@ -27702,6 +27710,22 @@
         "Augmente le taux de coups critiques",
         "Erhöht die Chance auf kritische Treffer",
         "Aumenta la probabilidad de crítico"
+    ],
+    "227910": [
+        "Boost physical and magic damage against aquatic monsters",
+        "物理魔法攻擊時提高對水生系魔物的傷害",
+        "물리, 마법 공격 시 수중형 마물에게 부여하는 피해량 상승",
+        "Augmente les dégâts magiques et physiques infligés aux monstres de type aquatique",
+        "Erhöht mag. und physischen Schaden gegen Wassermonster.",
+        "Aumenta el daño mágico y físico contra monstruos acuáticos"
+    ],
+    "227920": [
+        "Boost physical and magic damage against fairies",
+        "物理魔法攻擊時提高對精靈系魔物的傷害",
+        "물리, 마법 공격 시 정령형 마물에게 부여하는 피해량 상승",
+        "Augmente les dégâts magiques et physiques infligés aux monstres de type esprit",
+        "Erhöht mag. und physischen Schaden gegen Feen.",
+        "Aumenta el daño mágico y físico contra espíritus"
     ],
     "227925": [
         "Boost HP by 10% and DEF by 30% when equipped with heavy armor",
@@ -27972,7 +27996,7 @@
         "消耗自身極限技槽恢復全體隊員的HPMP",
         "자신의 LB 게이지를 소비하여 아군 전체의 HP와 MP 회복",
         "Consomme la jauge de limite du lanceur pour rendre des PV et des PM à tous les alliés",
-        "Verbraucht eigenen Limitmeter, um LP/MP aller Verb. Zu regenerieren.",
+        "Verbraucht eigenes Limitmeter, um LP/MP aller Verb. Zu regenerieren.",
         "Consume la barra de EL del usuario para restaurar VIT y PM a todos los aliados"
     ],
     "228091": [
@@ -28012,7 +28036,7 @@
         "停止無效+提高20%設定幻獸時反映在兵員身上的狀態數值+受到物理攻擊時一定機率增加自身的極限技槽",
         "스톱 무효화+환수 장착 시 반영되는 능력치 20% 상승+물리 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Annule stop, augmente les stats de 20 % quand une chimère est attribuée, et chance de remplir la jauge de limite du lanceur lorsqu'il subit une attaque physique",
-        "Annuliert Stopp, erhöht Werte bei Festlegung eines Espers um 20% und füllt eigenen Limitmeter, wenn Anwender phys. Schaden zugefügt wird.",
+        "Annuliert Stopp, erhöht Werte bei Festlegung eines Espers um 20% und füllt eigenes Limitmeter, wenn Anwender phys. Schaden zugefügt wird.",
         "Anula paro, aumenta los parámetros un 20% al configurar un esper y probabilidad de llenar la barra de EL del usuario al recibir un ataque físico"
     ],
     "228096": [
@@ -28508,7 +28532,7 @@
         "攻擊1名敵人+提高自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y llena la barra de EL del usuario"
     ],
     "228264": [
@@ -29055,53 +29079,165 @@
         "Verringert Eisresistenz und Chance, allen Gegnern Blind, Lähmung, Konfus oder Stein zu erteilen.",
         "Reduce la resistencia al hielo y puede infligir ceguera, parálisis, confusión o piedra a todos los enemigos"
     ],
+    "228400": [
+        "Chance of charming all enemies, temporarily increase chance of being targeted for self, reduce physical damage taken by self for 2 turns, and change to gorgeous pose next turn",
+        "一定機率對全體敵人施加魅惑效果+暫時性容易被敵人攻擊+2回合內減少對自身的傷害+下一回合變化為「俊美姿勢」",
+        "적 전체에 일정 확률로 매혹 부여+자신이 일시적으로 적의 공격 대상이 될 확률 상승+2턴 동안 자신이 받는 물리 피해량 감소+다음 턴에 '뷰티풀 포즈'로 변화",
+        "Chance de charmer tous les ennemis, augmente temporairement les chances du lanceur d'être ciblé, réduit les dégâts physiques subis par le lanceur pendant 2 tours, et se change en Pose distinguée au tour suivant.",
+        "Chance, alle Gegner zu bezaubern, erhöht für Anwender kurzzeitig die Wahrscheinlichkeit zum Ziel zu werden, erlittener phys. Schaden wird 2 Runden lang verringert + wechselt in der folgenden Runde zu Herrliche Haltung.",
+        "Probabilidad de infligir embrujo a todos los enemigos, aumenta temporalmente la probabilidad de ser atacado, reduce el daño recibido durante 2 turnos y cambia los efectos de Postura divina al turno siguiente"
+    ],
     "228401": [
         "Chance of charming all enemies and chance of temporarily guarding allies against physical damage",
-        null,
-        null,
-        null,
-        null,
+        "一定機率對全體敵人施加魅惑效果+暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊",
+        "적 전체에 일정 확률로 매혹 부여+일시적으로 일정 확률 아군을 향한 물리 공격을 '방어' 상태로 대신 받음",
+        "Chance de charmer tous les ennemis et de prendre temporairement des dégâts physiques à la place des alliés en état de garde",
+        "Chance, alle Gegner zu bezaubern und kurzzeitig Chance, Verb. gegen phys. Angriff zu verteidigen.",
         "Puede infligir embrujo a todos los enemigos y probabilidad de proteger temporalmente a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "228402": [
+        "Damage, reduce DEF, and chance of charming one enemy",
+        "攻擊1名敵人+降低防禦+一定機率施加魅惑效果",
+        "적 1명에게 피해+방어력 감소+일정 확률로 매혹 부여",
+        "Inflige des dégâts, réduit la DEF et chance de charmer un ennemi",
+        "Fügt einem Gegner Schaden zu, verringert seine ABW + Chance, ihn zu bezaubern.",
+        "Daña, reduce DEF y puede infligir embrujo a un enemigo"
+    ],
+    "228403": [
+        "Damage, reduce SPR, and chance of charming one enemy",
+        "攻擊1名敵人+降低精神+一定機率施加魅惑效果",
+        "적 1명에게 피해+정신력 감소+일정 확률로 매혹 부여",
+        "Inflige des dégâts, réduit la PSY et chance de charmer un ennemi",
+        "Fügt einem Gegner Schaden zu, verringert seine PSY + Chance, ihn zu bezaubern.",
+        "Daña, reduce ESP y puede infligir embrujo a un enemigo"
+    ],
+    "228404": [
+        "Damage, reduce ATK, DEF, MAG, and SPR, and chance of charming one enemy",
+        "攻擊1名敵人+降低攻擊防禦魔力精神+一定機率施加魅惑效果",
+        "적 1명에게 피해+공격력, 방어력, 마력, 정신력 감소+일정 확률로 매혹 부여",
+        "Inflige des dégâts, réduit l'ATT, la DEF, la MAGIE et la PSY, et chance de charmer un ennemi",
+        "Fügt einem Gegner Schaden zu + verringert seinen ANG/ABW/MAG/PSY + Chance, ihn zu bezaubern.",
+        "Daña, reduce ATQ, DEF, MAG y ESP, y puede infligir embrujo a un enemigo"
     ],
     "228405": [
         "(One use every 3 turns) Chance of charming all enemies and chance of temporarily guarding allies against magic damage",
-        null,
-        null,
-        null,
-        null,
+        "【每3回合可使用1次】一定機率對全體敵人施加魅惑效果+暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊",
+        "[3턴에 1회 사용 가능] 적 전체에 일정 확률로 매혹 부여+일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음",
+        "(Une fois tous les 3 tours) Chance de charmer tous les ennemis et de prendre temporairement des dégâts magiques à la place des alliés en état de garde",
+        "(Einmal in 3 Runden) Chance, alle Gegner zu bezaubern und kurzzeitig Chance, Verb. gegen mag. Angriff zu verteidigen.",
         "(Un uso cada 3 turnos) Puede infligir embrujo a todos los enemigos y probabilidad de proteger temporalmente a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "228406": [
+        "(One use every 7 turns) Reduce magic damage taken by self for 1 turn and chance of charming all enemies",
+        "【每7回合可使用1次】一定機率對全體敵人施加魅惑效果+1回合內減少對自身的魔法傷害",
+        "[7턴에 1회 사용 가능] 적 전체에 일정 확률로 매혹 부여+1턴 동안 자신이 받는 마법 피해량 감소",
+        "(Une fois tous les 7 tours) Chance de charmer tous les ennemis et réduit les dégâts magiques subis par le lanceur pendant un tour",
+        "(Einmal in 7 Runden) Chance, alle Gegner zu bezaubern und verringert eine Runde lang von Benutzer erlittenen Schaden.",
+        "(Un uso cada 7 turnos) Reduce el daño mágico que se recibe durante un turno y puede infligir embrujo a todos los enemigos"
+    ],
+    "228407": [
+        "(One use every 2 turns) Damage and reduce earth resistance for one enemy",
+        "【每2回合可使用1次】攻擊攻擊1名敵人+降低土屬性耐性",
+        "[2턴에 1회 사용 가능] 적 1명에게 피해+땅속성 저항력 감소",
+        "(Une fois tous les 2 tours) Inflige des dégâts et réduit la résistance à la terre d'un ennemi",
+        "(Einmal in 2 Runden) Fügt einem Gegner Schaden zu + verringert seine Erdresistenz.",
+        "(Un uso cada 2 turnos) Daña y reduce la resistencia a la tierra de un enemigo"
+    ],
+    "228408": [
+        "(One use every 6 turns) Reduce physical damage taken by self for 1 turn",
+        "【每6回合可使用1次】1回合內減少對自身的物理傷害",
+        "[6턴에 1회 사용 가능] 1턴 동안 자신이 받는 물리 피해량 감소",
+        "(Une fois tous les 6 tours) Réduit les dégâts physiques subis par le lanceur pendant un tour",
+        "(Einmal in 6 Runden) Verringert eine Runde lang von Benutzer erlittenen Schaden.",
+        "(Un uso cada 6 turnos) Reduce el daño físico que recibe el usuario durante un turno"
     ],
     "228409": [
         "Chance of guarding allies against physical damage",
         "一定機率以「防禦」狀態代替隊員承受物理攻擊",
         "일정 확률로 아군을 향한 물리 공격을 '방어' 상태로 대신 받음",
-        "Chance de prendre des dégâts physiques en état de garde à la place des alliés",
+        "Chance de prendre des dégâts physiques à la place des alliés en état de garde",
         "Chance, Verb. gegen phys. Schaden zu verteidigen.",
         "Probabilidad de proteger a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "228410": [
+        "Boost HP 30%, DEF and SPR 20%, and nullify charm",
+        "提高30%HP+提高20%防禦精神+魅惑無效",
+        "HP 30%, 방어력과 정신력 20% 상승+매혹 무효화",
+        "Augmente les PV de 30 %, la DEF et la PSY de 20 %, et annule charme",
+        "Erhöht LP um 30%, ABW/PSY um 20% und annulliert Bezaubern.",
+        "Aumenta la VIT un 30%, la DEF y el ESP un 20% y anula embrujo"
     ],
     "228411": [
         "Chance of restoring own HP and MP after receiving a magic attack",
         "受到魔法攻擊時一定機率恢復自身HPMP",
         "마법 공격을 받으면 일정 확률로 자신의 HP와 MP 회복",
-        "Chance de restaurer ses propres PV et PM après avoir reçu une attaque physique",
+        "Chance de restaurer ses propres PV et PM après avoir reçu une attaque magique",
         "Chance, bei magischem Angriff LP und MP zu heilen",
-        "Posibilita recuperar VIT y PM propios al recibir un ataque mágico"
+        "Probabilidad de recuperar VIT y PM propios al recibir un ataque mágico"
+    ],
+    "228412": [
+        "Boost earth resistance by 50%, and boost SPR when equipped with a light shield or DEF when equipped with a heavy shield",
+        "提高50%土屬性耐性+裝備輕盾時提高精神+裝備重盾時提高防禦",
+        "땅속성 저항력 50% 상승+경방패 장착 시 정신력 상승+중방패 장착 시 방어력 상승",
+        "Augmente la résistance à la terre de 50 % et augmente la PSY lorsqu'un bouclier léger est équipé ou la DEF lorsqu'un bouclier lourd est équipé",
+        "Erhöht Erdresistenz um 50% + erhöht PSY, wenn mit leichtem Schild ausgerüstet und ABW, wenn mit schwerem Schild ausgerüstet.",
+        "Aumenta la resistencia a la tierra un 50% y aumenta el ESP al llevar escudo ligero o la DEF al llevar escudo pesado"
+    ],
+    "228413": [
+        "Boost DEF by 20% and nullify confusion and stone",
+        "提高20%防禦+混亂石化無效",
+        "방어력 20% 상승+혼란과 석화 무효화",
+        "Augmente la DEF de 20 % et annule confusion et pétrification",
+        "Erhöht ABW um 20% und annulliert Verwirrung sowie Stein.",
+        "Aumenta la DEF un 20% y anula confusión y piedra"
+    ],
+    "228414": [
+        "Boost HP and DEF 30%, one-time chance of escaping death when HP is above a certain point, and boost DEF and SPR when HP is below a certain point",
+        "提高30%HP防禦+HP高於一定量時一定機率避免陷入無法戰鬥狀態僅1次+HP低於一定量時提高防禦精神",
+        "HP, 방어력 30% 상승+HP가 일정량 이상일 때 일정 확률로 1회에 한해 전투불능 상태 견딤+HP가 일정량 이하일 때 방어력과 정신력 상승",
+        "Augmente les PV et la DEF de 30 %, chance d'éviter de tomber KO une seule fois lorsque les PV sont au-dessus d'un certain seuil, et augmente la DEF et la PSY lorsque les PV sont en dessous d'un certain seuil",
+        "Erhöht LP und ABW um 30% und Chance, dem Tod zu entkommen, solange LP über einem bestimmten Wert sind + erhöht LP und ABW, wenn LP unter einen bestimmten Wert fallen.",
+        "Aumenta la VIT y la DEF un 30%, añade la posibilidad de evitar quedar K.O. una vez cuando la VIT se encuentra por encima de cierto nivel y aumenta la DEF y el ESP cuando la VIT se encuentra por debajo de cierto nivel"
+    ],
+    "228415": [
+        "Boost HP and SPR when equipped with light armor or HP and DEF when equipped with heavy armor, and boost LB gauge fill rate",
+        "提高極限技石對極限技槽的增加量+裝備輕鎧甲時提高HP精神+裝備重鎧甲時提高HP防禦",
+        "LB 게이지 효율 상승+경갑 장착 시 HP와 정신력 상승+중갑 장착 시 HP와 방어력 상승",
+        "Augmente les PV et la PSY lorsqu'une armure légère est équipée ou les PV et la DEF lorsqu'une armure lourde est équipée, et augmente la vitesse de remplissage de la jauge de limite",
+        "Limitmeter füllen sich schneller + erhöht LP sowie PSY, wenn mit leichter Rüstung ausgerüstet und erhöht LP und ABW, wenn mit schwerer Rüstung ausgerüstet.",
+        "Aumenta la VIT y el ESP al llevar armadura ligera o la VIT y la DEF al llevar armadura pesada, y la barra de EL se rellena más rápido"
     ],
     "228416": [
-        "Boost HP and earth resistance by 30%, DEF and SPR by 20%, and LB gauge fill rate",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Boost HP and earth resistance by 30%, DEF and SPR by 20%, and boost LB gauge fill rate",
+        "提高30%HP土屬性耐性+提高20%防禦精神+提高極限技石對極限技槽的增加量",
+        "HP와 땅속성 저항력 30%, 방어력과 정신력 20% 상승+LB 게이지 효율 상승",
+        "Augmente les PV et la résistance à la terre de 30 %, la DEF et la PSY de 20 %, et augmente la vitesse de remplissage de la jauge de limite",
+        "Erhöht LP und Erdresistenz um 30%, ABW und PSY um 20% + Limitmeter füllen sich schneller.",
+        "Aumenta la VIT y la resistencia a la tierra un 30%, aumenta la DEF y el ESP un 20% y la barra de EL se rellena más rápido"
     ],
     "228417": [
         "Damage all enemies",
         "攻擊全體敵人",
         "적 전체에 피해",
-        "Dégâts sur tous les ennemis",
-        "Fügt allen Gegnern Schaden zu",
+        "Inflige des dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos"
+    ],
+    "228420": [
+        "Deal partial unmitigated damage to one enemy and fill own LB gauge",
+        "對1名敵人發動無視部分防禦的攻擊+增加自身的極限技槽",
+        "적 1명에게 일부 방어 무시 피해+자신의 LB 게이지 증가",
+        "Inflige des dégâts en partie fixes à un ennemi et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner teilweise direkten Schaden zu und füllt Limitmeter des Benutzers.",
+        "Inflige daño absoluto parcial a un enemigo y rellena la barra de EL propia"
+    ],
+    "228421": [
+        "Critical damage to one enemy and boost LB gauge fill rate",
+        "對1名敵人發動暴擊攻擊+提高極限技石對自身極限技槽的增加量",
+        "적 1명에게 크리티컬 피해+자신의 LB 게이지 효율 상승",
+        "Inflige des dégâts critiques à un ennemi et augmente la vitesse de remplissage de la jauge de limite",
+        "Fügt einem Gegner krit. Schaden zu + eigener Limitmeter füllt sich schneller.",
+        "Daño crítico a un enemigo y la barra de EL se rellena más rápido"
     ],
     "228422": [
         "Chance of instantly KO'ing or damaging one enemy",
@@ -29111,93 +29247,189 @@
         "Chance, einen Gegner sofort auszuschalten oder ihm zu schaden.",
         "Probabilidad de dejar K.O. al instante o dañar a un enemigo"
     ],
+    "228423": [
+        "Boost own ATK, fill LB gauge, and change to my fair lady gunner next turn",
+        "提高自身的攻擊+增加極限技槽+下一回合變化為「女槍手」",
+        "자신의 공격력 상승+LB 게이지 증가+다음 턴에 '총잡이 숙녀'로 변화",
+        "Augmente l'ATT du lanceur, remplit la jauge de limite, et se change en La belle et le flingue au tour suivant",
+        "Erhöht ANG des Anwenders und füllt seinen Limitmeter + wechselt in der folgenden Runde zu Holde Schützin",
+        "Aumenta el ATQ del usuario, rellena la barra de EL y cambia a Mi querida pistolera al turno siguiente"
+    ],
+    "228424": [
+        "Deal critical damage and reduce ATK and DEF for one enemy",
+        "對1名敵人發動暴擊攻擊+降低攻擊防禦",
+        "적 1명에게 크리티컬 피해+공격력과 방어력 감소",
+        "Inflige des dégâts critiques et réduit l'ATT et la DEF d'un ennemi",
+        "Fügt einem Gegner krit. Schaden zu und verringert seinen ANG/ABW",
+        "Inflige daño crítico y reduce el ATQ y la DEF de un enemigo"
+    ],
+    "228425": [
+        "Deal critical damage and reduce MAG and SPR for one enemy",
+        "對1名敵人發動暴擊攻擊+降低魔力精神",
+        "적 1명에게 크리티컬 피해+마력과 정신력 감소",
+        "Inflige des dégâts critiques et réduit la MAGIE et la PSY d'un ennemi",
+        "Fügt einem Gegner krit. Schaden zu und verringert seinen MAG/PSY.",
+        "Inflige daño crítico y reduce la MAG y el ESP de un enemigo"
+    ],
+    "228426": [
+        "Nullify blind, and boost ATK when equipped with a gun",
+        "失明無效+裝備火槍時提高攻擊",
+        "암흑 무효화+총 장착 시 공격력 상승",
+        "Annule cécité et augmente l'ATT lorsqu'un pistolet est équipé",
+        "Annulliert Blind + erhöht ANG, wenn mit einer Schusswaffe ausgerüstet.",
+        "Anula ceguera y aumenta el ATQ al llevar pistola"
+    ],
+    "228427": [
+        "Boost HP and ATK by 20% and decrease chance of being targeted",
+        "提高20%HP攻擊+不易被敵人攻擊",
+        "HP와 공격력 20% 상승+적의 공격 대상이 될 확률 감소",
+        "Augmente les PV et l'ATT de 20 % et diminue les chances d'être ciblé",
+        "Erhöht LP und ANG um 20% + verringert die Wahrscheinlichkeit, zum Ziel zu werden.",
+        "Aumenta la VIT y el ATQ un 20%, y reduce probabilidad de ser atacado"
+    ],
+    "228428": [
+        "Restore MP each turn and fill LB gauge",
+        "每回合恢復MP+增加極限技槽",
+        "전투 중 매 턴마다 MP 회복+LB 게이지 증가",
+        "Restaure les PM à chaque tour et remplit la jauge de limite",
+        "Regeneriert jede Runde MP + füllt Limitmeter.",
+        "Recupera PM cada turno y rellena la barra de EL"
+    ],
     "228430": [
-        "Water damage to all enemies and power up",
-        "對全體敵人發動水屬性攻擊+威力上升",
+        "Water damage to all enemies and power up with consecutive use",
+        "對全體敵人發動水屬性攻擊+連續使用時威力上升",
         "적 전체에 물속성 피해+연속 사용 시 위력 상승",
-        "Dégâts d'eau sur tous les ennemis et bonus de force",
+        "Inflige des dégâts d'eau à tous les ennemis et gagne en puissance après une utilisation consécutive.",
         "Wasserschaden u. erhöhter Schaden, alle Ziele",
-        "Daño de agua a todos los enemigos y aumenta el poder"
+        "Daño de agua a todos los enemigos y aumenta el daño con cada uso"
     ],
     "228431": [
         "Water damage and reduce water resistance for one enemy",
         "對1名敵人發動水屬性攻擊+降低水屬性耐性",
         "적 1명에게 물속성 피해+물속성 저항력 감소",
-        "Dégâts d'eau et réduit la résistance à l'eau d'un ennemi",
+        "Inflige des dégâts d'eau et réduit la résistance à l'eau d'un ennemi",
         "Fügt einem Gegner Wasserschaden zu und verringert seine Wasserresistenz.",
         "Daño de agua y reduce la resistencia al agua de un enemigo"
+    ],
+    "228432": [
+        "Boost own MAG and enable aristocratic catena for one turn",
+        "提高自身的魔力+1回合內可使用「貴族連續」",
+        "자신의 마력 상승+1턴 동안 '귀족적 연쇄' 사용 가능",
+        "Augmente la MAGIE du lanceur et permet d'activer Suite aristocratique pendant un tour",
+        "Erhöht eigene MAG + ermöglicht eine Runde lang Anwendung von Aristokratenkette",
+        "Aumenta la MAG del usuario y aprende Cadena aristocrática durante un turno"
+    ],
+    "228433": [
+        "Boost SPR and water resistance for all allies",
+        "提高全體隊員的精神、水屬性耐性",
+        "아군 전체의 정신력과 물속성 저항력 상승",
+        "Augmente la PSY et la résistance à l'eau de tous les alliés",
+        "Erhöht PSY und Wasserresistenz aller Verb.",
+        "Aumenta la el ESP y la resistencia al agua de todos los aliados"
     ],
     "228434": [
         "Boost MP by 20% and MAG by 30%",
         "提高20%MP、30%魔力",
         "MP 20%, 마력 30% 상승",
-        "Augmente les PM de 20% et la MAGIE de 30%",
-        "Erhöht MP um 20 %, MAG um 30 %",
+        "Augmente les PM de 20 % et la MAGIE de 30 %",
+        "Erhöht MP um 20 % und MAG um 30 %.",
         "Aumenta los PM un 20% y la MAG un 30%"
+    ],
+    "228435": [
+        "Nullify silence and restore MP each turn",
+        "沉默無效+每回合恢復MP",
+        "침묵 무효화+전투 중 매 턴마다 MP 회복",
+        "Annule silence et restaure les PM à chaque tour",
+        "Annulliert Stille + regeneriert jede Runde MP.",
+        "Anula silencio y recupera PM cada turno"
+    ],
+    "228436": [
+        "Boost MAG when equipped with a whip",
+        "裝備鞭時提高魔力",
+        "채찍 장착 시 마력 상승",
+        "Augmente la MAGIE lorsqu'un fouet est équipé",
+        "Erhöht MAG, wenn mit Peitsche ausgerüstet.",
+        "Aumenta la MAG al llevar látigo"
     ],
     "228437": [
         "Deal partial unmitigated fire damage to one enemy",
         "對1名敵人發動火屬性無視部分防禦的攻擊",
         "적 1명에게 불속성 일부 방어 무시 피해",
         "Inflige des dégâts de feu en partie fixes à un ennemi",
-        "Teilweise direkter Feuerschaden, ein Ziel.",
+        "Fügt einem Gegner teilweise direkten Feuerschaden zu.",
         "Daño absoluto parcial de fuego a un enemigo"
     ],
     "228438": [
         "Wind damage to one enemy",
         "對1名敵人發動風屬性攻擊",
         "적 1명에게 바람속성 피해",
-        "Dégâts de vent sur un ennemi",
-        "Windschaden, ein Ziel",
+        "Inflige des dégâts de vent à un ennemi",
+        "Fügt einem Gegner Windschaden zu.<br>",
         "Daño de viento a un enemigo"
     ],
     "228439": [
         "Damage and chance of poisoning one enemy",
         "攻擊1名敵人+一定機率施加中毒效果",
         "적 1명에게 피해+일정 확률로 독 부여",
-        "Dégâts et empoisonne un ennemi",
-        "Schaden und Gift, ein Ziel",
-        "Daña y envenena a un enemigo"
+        "Inflige des dégâts et empoisonne un ennemi",
+        "Fügt einem Gegner Schaden zu + Chance auf Gift.",
+        "Daña y probabilidad de infligir veneno a un enemigo"
     ],
     "228440": [
         "Damage and chance of stopping all enemies",
         "攻擊全體敵人+一定機率施加停止效果",
         "적 전체에 피해+일정 확률로 스톱 부여",
-        "Dégâts et chance d'infliger stop à tous les ennemis",
+        "Inflige des dégâts et chance d'infliger stop à tous les ennemis",
         "Fügt allen Gegnern Schaden zu + Chance auf Stopp.",
-        "Inflige daño y probabilidad de parar a todos los enemigos"
+        "Daña y probabilidad de infligir paro a todos los enemigos"
     ],
     "228441": [
         "Restore HP for one ally",
         "恢復1名隊員的HP",
         "아군 1명의 HP 회복",
-        "Soigne un allié",
-        "Heilt LP, ein Verb.",
+        "Restaure les PV d'un allié",
+        "Regeneriert LP eines Verb.<br>",
         "Recupera la VIT de un aliado"
     ],
     "228442": [
         "Restore MP for one ally",
         "恢復1名隊員的MP",
         "아군 1명의 MP 회복",
-        "Régénère moyennement les PM d'un allié",
-        "Heilt MP eines Verbündeten",
-        "Recupera bastante los PM a un aliado"
+        "Restaure les PM d'un allié",
+        "Heilt MP eines Verb.",
+        "Recupera los PM de un aliado"
     ],
     "228443": [
         "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for one ally",
         "治療1名隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態",
         "아군 1명의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
-        "Soigne pois., céc., som., sil., para., conf., mala. et pétri pour un allié",
-        "Heilt Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus/ Virus/ Stein, ein Verb",
+        "Soigne un allié de poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein für einen Verb.",
         "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a un aliado"
     ],
     "228444": [
         "Remove ATK, DEF, MAG, and SPR reductions for one ally",
         "解除1名隊員降低攻擊防禦魔力精神的效果",
         "아군 1명의 공격력, 방어력, 마력, 정신력 감소 효과 해제",
-        "Retire la réduction de l'ATT, la DEF, La MAGIE et la PSY d'un allié",
+        "Dissipe les réductions d'ATT, DEF, MAGIE et PSY d'un allié",
         "Entfernt Verringerung für ANG, ABW, MAG und PSY für einen Verb.",
-        "Elimina reducción de ATQ, DEF, MAG y ESP en un aliado"
+        "Elimina reducción de ATQ, DEF, MAG y ESP de un aliado"
+    ],
+    "228445": [
+        "Boost wind resistance by 30%, and boost ATK when equipped with a sword",
+        "提高30%風屬性耐性+裝備劍時提高攻擊",
+        "바람속성 저항력 30% 상승+검 장착 시 공격력 상승",
+        "Augmente la résistance au vent de 30 % et augmente l'ATT lorsqu'une épée est équipée",
+        "Erhöht Windresistenz um 30% + erhöht ANG, wenn mit Schwer ausgerüstet.",
+        "Aumenta la resistencia al viento un 30% y aumenta el ATQ al llevar espada"
+    ],
+    "228446": [
+        "Boost fire resistance by 50%",
+        "提高50%火屬性耐性",
+        "불속성 저항력 50% 상승",
+        "Augmente la résistance au feu de 50 %",
+        "Erhöht Feuerresistenz um 50%.",
+        "Aumenta la resistencia al fuego un 50%"
     ],
     "228460": [
         "Light damage to one enemy",
@@ -29644,7 +29876,7 @@
         "恢復自身HPMP+增加極限技槽",
         "자신의 HP와 MP 회복+LB 게이지 증가",
         "Restaure les PV et les PM, et remplit la jauge de limite",
-        "Regeneriert LP und MP und füllt eigenen Limitmeter.",
+        "Regeneriert LP und MP und füllt eigenes Limitmeter.",
         "Recupera VIT y PM, y rellena la barra de EL del usuario"
     ],
     "230045": [
@@ -35380,7 +35612,7 @@
         "受到魔法攻擊時恢復自身MP+受到物理攻擊時一定機率提高自身極限技槽",
         "마법 공격을 받으면 자신의 MP 회복+물리 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Restaure les PM du lanceur après avoir reçu une attaque magique et chance d'augmenter la jauge de limite du lanceur après avoir reçu une attaque physique",
-        "Regeneriert eigene MP, wenn mit mag. Angriff attackiert + Chance, eigenen Limitmeter zu füllen, wenn mit phys. Angriff attackiert.",
+        "Regeneriert eigene MP, wenn mit mag. Angriff attackiert + Chance, eigenes Limitmeter zu füllen, wenn mit phys. Angriff attackiert.",
         "Recupera los PM propios al recibir un ataque mágico y puede rellenar la barra de EL del usuario al recibir un ataque físico"
     ],
     "505750": [
@@ -35396,7 +35628,7 @@
         "提高自身極限技槽+提高極限技石對極限技槽的增加量+下一回合變化為「冷靜原力」",
         "자신의 LB 게이지 증가+LB 게이지 효율 상승+다음 턴에 '쿨 포스'로 변화",
         "Remplit la jauge de limite du lanceur, les pierres remplissent la jauge de limite plus vite et se change en Force tranquille au tour suivant",
-        "Erhöht eigenen Limitmeter, verstärkt Effekt von Limitsteinen und wechselt in der folgenden Runde zu Kalte Kraft.",
+        "Erhöht eigenes Limitmeter, verstärkt Effekt von Limitsteinen und wechselt in der folgenden Runde zu Kalte Kraft.",
         "Aumenta la barra de EL propia, las piedras de estallido recuperan más EL y cambia a Fuerza refrescante al turno sig."
     ],
     "505770": [
@@ -35404,7 +35636,7 @@
         "提高自身極限技槽+提高自身降低攻擊的耐性",
         "자신의 LB 게이지 증가+공격력 감소 저항력 상승",
         "Remplit la jauge de limite du lanceur et augmente la résistance à la réduction d'ATT",
-        "Füllt eigenen Limitmeter erhöht Resistenz gegen ANG-Verringerung.",
+        "Füllt eigenes Limitmeter erhöht Resistenz gegen ANG-Verringerung.",
         "Rellena la barra de EL propia y aumenta la res. a la reducción de ATQ"
     ],
     "505780": [
@@ -36180,7 +36412,7 @@
         "受到物理、魔法攻擊時一定機率增加自身極限技槽",
         "물리, 마법 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Chance de remplir la jauge de limite du lanceur après avoir subi une attaque physique ou magique",
-        "Chance, eigenen Limitmeter zu füllen, wenn Einheit mit phys. oder mag. Angriff attackiert wird.",
+        "Chance, eigenes Limitmeter zu füllen, wenn Einheit mit phys. oder mag. Angriff attackiert wird.",
         "Puede rellenar la barra de EL del usuario al recibir un ataque físico o mágico"
     ],
     "506750": [
@@ -36468,7 +36700,7 @@
         "提高自身極限技槽+1回合內可以使用「激烈強力火藥充填」「超強力炮彈」",
         "자신의 LB 게이지 증가+1턴 동안 '극강력 화약 충전', '강력 포탄' 사용 가능",
         "Remplit la jauge de limite du lanceur et active Recharge dévastatrice et Super balle pour un tour",
-        "Füllt eigenen Limitmeter und ermöglicht eine Runde lang Verheerendes Nachladen und Super Kraftprojektil.",
+        "Füllt eigenes Limitmeter und ermöglicht eine Runde lang Verheerendes Nachladen und Super Kraftprojektil.",
         "Rellena la barra de EL del usuario y aprende Recarga devastadora y Superescudo durante un turno"
     ],
     "507110": [
@@ -36476,7 +36708,7 @@
         "提高自身極限技槽+1回合內可以使用「禁斷的火藥充填」「激烈強力炮彈」",
         "자신의 LB 게이지 증가+1턴 동안 '금단의 화약 충전', '격렬 강력 포탄' 사용 가능",
         "Remplit la jauge de limite du lanceur et active Recharge interdite et Balle dévastatrice pour un tour",
-        "Füllt eigenen Limitmeter und ermöglicht eine Runde lang Verbotenes Nachladen und Verheerendes Kraftprojektil.",
+        "Füllt eigenes Limitmeter und ermöglicht eine Runde lang Verbotenes Nachladen und Verheerendes Kraftprojektil.",
         "Rellena la barra de EL del usuario y aprende Recarga prohibida y Escudo potente durante un turno"
     ],
     "507120": [
@@ -36484,7 +36716,7 @@
         "提高自身極限技槽+1回合內可以使用「填充火藥過多的大爆炸彈」",
         "자신의 LB 게이지 증가+1턴 동안 '화약 오버 대폭발탄' 사용 가능",
         "Remplit la jauge de limite du lanceur et active Balle explosive pour un tour",
-        "Füllt eigenen Limitmeter und ermöglicht eine Runde lang Übervolles Sprenggeschoss.",
+        "Füllt eigenes Limitmeter und ermöglicht eine Runde lang Übervolles Sprenggeschoss.",
         "Rellena la barra de EL del usuario y aprende Escudo explosivo durante un turno"
     ],
     "507130": [
@@ -36516,7 +36748,7 @@
         "攻擊全體敵人+提高自身極限技槽或攻擊全體隊員",
         "적 전체에 피해+자신의 LB 게이지 증가 또는 아군 전체에 피해",
         "Inflige des dégâts à tous les ennemis et remplit la jauge de limite du lanceur ou inflige des dégâts à tout le monde",
-        "Fügt allen Gegnern Schaden zu + füllt eigenen Limitmeter oder fügt allen Verb. Schaden zu.",
+        "Fügt allen Gegnern Schaden zu + füllt eigenes Limitmeter oder fügt allen Verb. Schaden zu.",
         "Daña a todos los enemigos y rellena la barra de EL del usuario o daña a todos los aliados"
     ],
     "507170": [
@@ -36524,7 +36756,7 @@
         "攻擊全體敵人+提高自身極限技槽",
         "적 전체에 피해+자신의 LB 게이지 증가",
         "Dégâts à tous les ennemis et remplit la jauge de limite du lanceur",
-        "Fügt allen Gegnern Schaden zu und  füllt eigenen Limitmeter.",
+        "Fügt allen Gegnern Schaden zu und  füllt eigenes Limitmeter.",
         "Daña a todos los enemigos y rellena la barra de EL del usuario o daña a todo el mundo"
     ],
     "507180": [
@@ -36724,7 +36956,7 @@
         "攻擊1名敵人+提高自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Dégâts sur un ennemi et remplit la jauge de limite du lanceur",
-        "Schaden, ein Ziel und  füllt eigenen Limitmeter.",
+        "Schaden, ein Ziel und  füllt eigenes Limitmeter.",
         "Daña a un enemigo y rellena la barra de EL del usuario o daña a todo el mundo"
     ],
     "507221": [
@@ -36764,7 +36996,7 @@
         "提高自身極限技槽",
         "자신의 LB 게이지 증가",
         "Remplit la jauge de limite du lanceur",
-        "Füllt eigenen Limitmeter.",
+        "Füllt eigenes Limitmeter.",
         "Llena la barra de EL del usuario"
     ],
     "507240": [
@@ -37204,7 +37436,7 @@
         "【每4回合可使用1次】對自身造成致死一擊的效果+召喚槽最大值",
         "[4턴에 1회 사용 가능] 자신에게 즉사 부여+소환 게이지 최대치로 증가",
         "(Une fois tous les 4 tours) Met le lanceur instantanément KO pour mettre la jauge d'appel de chimère au maximum",
-        "(Einmal in 4 Runden) Schaltet sofort Benutzer aus und füllt Beschwörungsleiste vollständig.",
+        "(Einmal in 4 Runden) Schaltet sofort Benutzer aus und füllt Rufleiste vollständig.",
         "(Un uso cada 4 turnos) Inflige K.O. instantáneo al usuario y rellena la barra de invocación al máximo"
     ],
     "507390": [
@@ -37820,7 +38052,7 @@
         "【每6回合可使用1次】增加自身的極限技槽+提高攻擊防禦魔力精神+持續恢復HPMP+3回合內可使用「零距離變移破解」「覺醒幻影劍」",
         "[6턴에 1회 사용 가능] 자신의 LB 게이지 증가+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복+3턴 동안 '영거리 시프트 브레이크', '각성 팬텀 소드' 사용 가능",
         "(Une fois tous les 6 tours) Remplit la jauge de limite du lanceur, l'ATT, la DEF, la MAGIE, la PSY, restaure progressivement ses PV et PM et permet d'utiliser Assauts éclipse critiques et Arsenal fantôme éveillé pendant 3 tours",
-        "(Einmal in 6 Runden) Füllt eigenen Limitmeter, erhöht eigene ANG, ABW, MAG und PSY, stellt allmählich eigene LP und MP wieder her und ermöglicht Direkt-Warp sowie Erwachte Königswaffen für 3 Runden.",
+        "(Einmal in 6 Runden) Füllt eigenes Limitmeter, erhöht eigene ANG, ABW, MAG und PSY, stellt allmählich eigene LP und MP wieder her und ermöglicht Direkt-Warp sowie Erwachte Königswaffen für 3 Runden.",
         "(Un uso cada 6 turnos) Rellena la barra de EL del usuario, aumenta ATQ, DEF, MAG y ESP del usuario, recupera poco a poco la VIT y los PM del usuario y aprende Quemarropa y Despertar del coro espectral durante 3 turnos"
     ],
     "507681": [
@@ -37828,7 +38060,7 @@
         "消耗自身極限技槽攻擊1名敵人3～8次",
         "자신의 LB 게이지를 소비하여 적 1명에게 3~8회 피해",
         "Consomme la jauge de limite du lanceur pour infliger des dégâts à un ennemi de 3 à 8 reprises",
-        "Verbraucht eigenen Limitmeter, um einem Gegner 3 bis 8 Mal Schaden zuzufügen.",
+        "Verbraucht eigenes Limitmeter, um einem Gegner 3 bis 8 Mal Schaden zuzufügen.",
         "Consume la barra de EL del usuario para dañar a un enemigo de 3 a 8 veces"
     ],
     "507682": [
@@ -37876,7 +38108,7 @@
         "提高40%魔力+受到物理、魔法攻擊時一定機率增加自身極限技槽",
         "마력 40% 상승+물리, 마법 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Augmente la MAGIE de 40 % et chance de remplir la jauge de limite du lanceur quand il subit une attaque physique ou magique",
-        "Erhöht MAG um 40% und Chance, eigenen Limitmeter zu füllen, wenn von physischen oder magischen Angriff getroffen.",
+        "Erhöht MAG um 40% und Chance, eigenes Limitmeter zu füllen, wenn von physischen oder magischen Angriff getroffen.",
         "Aumenta la MAG un 40% y la probabilidad de rellenar la barra de EL del usuario al recibir un ataque físico o mágico"
     ],
     "507692": [
@@ -39188,7 +39420,7 @@
         "【每4回合可使用1次】消耗自身極限技槽恢復全體隊員的MP",
         "[4턴에 1회 사용 가능] 자신의 LB 게이지를 소비하여 아군 전체의 MP 회복",
         "(Une fois tous les 4 tours) Consomme la jauge de limite du lanceur pour restaurer les PM de tous les alliés",
-        "(Einmal in 4 Runden) Verbraucht eigenen Limitmeter um für alle Verbündete MP zu regenerieren.",
+        "(Einmal in 4 Runden) Verbraucht eigenes Limitmeter um für alle Verbündete MP zu regenerieren.",
         "(Un uso cada 4 turnos) Consume la barra de EL del usuario para recuperar los PM de todos los aliados"
     ],
     "507977": [
@@ -39284,7 +39516,7 @@
         "【每8回合可使用1次】消耗自身的極限技槽和HP+恢復除自己以外全體隊員的HPMP+提高攻擊防禦魔力精神+增加極限技槽",
         "[8턴에 1회 사용 가능] 자신의 LB 게이지와 HP를 소비하여 자신을 제외한 아군 전체의 HP와 MP 회복+공격력, 방어력, 마력, 정신력 상승+LB 게이지 증가",
         "(Une fois tous les 8 tours) Consomme la jauge de limite et les PV du lanceur pour restaurer les PV et PM, augmenter l'ATT, la DEF, la MAGIE et la PSY et remplir la jauge de limite de tous les autres alliés",
-        "(Einmal in 8 Runden) Verbraucht eigenen Limitmeter und LP, um bei allen Verbündeten außer Benutzer LP und MP wiederherzustellen, ANG, ABW, MAG und PSY zu erhöhen und Limitmeter zu füllen.",
+        "(Einmal in 8 Runden) Verbraucht eigenes Limitmeter und LP, um bei allen Verbündeten außer Benutzer LP und MP wiederherzustellen, ANG, ABW, MAG und PSY zu erhöhen und Limitmeter zu füllen.",
         "(Un uso cada 8 turnos) Consume la barra de EL del usuario y la VIT para recuperar VIT y PM, aumenta ATQ, DEF, MAG y ESP y rellena la barra de EL de todos los aliados excepto la del usuario"
     ],
     "508073": [
@@ -39391,6 +39623,22 @@
         "Chance, allen Gegnern Stopp zu erteilen, wenn Benutzer mit magischen Angriff attackiert wird.",
         "Probabilidad de infligir paro a todos los enemigos tras recibir un ataque mágico"
     ],
+    "508098": [
+        "Nullify stop and boost HP, DEF and SPR when equipped with a light shield or heavy shield",
+        "停止無效+裝備輕盾重盾時提高HP防禦精神",
+        "스톱 무효화+경방패 또는 중방패 장착 시 HP, 방어력, 정신력 상승",
+        "Annule stop et augmente les PV, la DEF et la PSY lorsqu'un bouclier léger ou un bouclier lourd est équipé",
+        "Annulliert Stopp und erhöht LP, ABW sowie PSY, wenn mit einem leichten oder schweren Schild ausgerüstet.",
+        "Anula paro y aumenta la VIT, la DEF y el ESP al llevar escudo ligero o pesado"
+    ],
+    "508100": [
+        "Add chance of countering with light damage to an enemy when receiving a physical attack",
+        "受到物理攻擊時一定機率對1名敵人發動光屬性反擊",
+        "물리 공격을 받으면 일정 확률로 적 1명에게 빛속성 반격",
+        "Chance d'infliger une contre-attaque de lumière à un ennemi après avoir reçu une attaque physique",
+        "Chance, Sanctus zu aktivieren, wenn mit phys. Angriff attackiert.",
+        "Probabilidad de contraatacar a un enemigo con daño de luz al recibir un ataque físico"
+    ],
     "508110": [
         "Caster can dodge some physical attacks once at the beginning of battle or after being revived",
         "戰鬥開始時和從無法戰鬥狀態中復活時賦予自身可閃避1次部分物理攻擊的效果",
@@ -39436,7 +39684,7 @@
         "受到物理攻擊時一定機率發動反擊+降低敵人的防禦+增加自身的極限技槽",
         "물리 공격을 받으면 일정 확률로 반격+적의 방어력 감소+자신의 LB 게이지 증가",
         "Chance de contre-attaquer les attaques physiques, réduit la DEF et remplit la jauge de limite du lanceur",
-        "Chance, physische Angriffe zu kontern, verringert gegnerische ABW und füllt eigenen Limitmeter.",
+        "Chance, physische Angriffe zu kontern, verringert gegnerische ABW und füllt eigenes Limitmeter.",
         "Probabilidad de devolver ataques físicos, reduce la DEF del enemigo y rellena la barra de EL del usuario"
     ],
     "508120": [
@@ -39519,12 +39767,20 @@
         "Chance, MAG des Benutzers zu erhöhen, wenn Benutzer von physischen oder magischen Angriff getroffen wird und erhöht Limitmeter.",
         "Probabilidad de aumentar la MAG del usuario al recibir un ataque físico o mágico y rellena la barra de EL"
     ],
+    "508160": [
+        null,
+        null,
+        null,
+        null,
+        "(Einmal in 5 Runden) Erhöht ANG des Benutzers, regeneriert allmählich LP/MP, Limitmeter füllt sich schneller und ermöglicht einmal Anwendung von Overdrive Plus.",
+        null
+    ],
     "508161": [
         "Damage one enemy and fill own LB gauge",
         "攻擊1名敵人+提高自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y llena la barra de EL del usuario"
     ],
     "508170": [
@@ -39740,7 +39996,7 @@
         "停止無效+提高20%設定幻獸時反映在兵員身上的狀態數值+受到物理攻擊時一定機率增加自身的極限技槽",
         "스톱 무효화+환수 장착 시 반영되는 능력치 20% 상승+물리 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Annule stop, augmente les stats de 20 % quand une chimère est attribuée, et chance de remplir la jauge de limite du lanceur lorsqu'il subit une attaque physique",
-        "Annuliert Stopp, erhöht Werte bei Festlegung eines Espers um 20% und füllt eigenen Limitmeter, wenn dir phys. Schaden zugefügt wird.",
+        "Annuliert Stopp, erhöht Werte bei Festlegung eines Espers um 20% und füllt eigenes Limitmeter, wenn dir phys. Schaden zugefügt wird.",
         "Anula paro, aumenta los parámetros un 20% al configurar un esper y probabilidad de llenar la barra de EL del usuario al recibir un ataque físico"
     ],
     "508363": [
@@ -39748,7 +40004,7 @@
         "停止無效+提高20%設定幻獸時反映在兵員身上的狀態數值+受到物理攻擊時一定機率增加自身的極限技槽",
         "스톱 무효화+환수 장착 시 반영되는 능력치 20% 상승+물리 공격을 받으면 일정 확률로 자신의 LB 게이지 증가",
         "Annule stop, augmente les stats de 20 % quand une chimère est attribuée, et chance de remplir la jauge de limite du lanceur lorsqu'il subit une attaque physique",
-        "Annuliert Stopp, erhöht Werte bei Festlegung eines Espers um 20% und füllt eigenen Limitmeter, wenn Anwender phys. Schaden zugefügt wird.",
+        "Annuliert Stopp, erhöht Werte bei Festlegung eines Espers um 20% und füllt eigenes Limitmeter, wenn Anwender phys. Schaden zugefügt wird.",
         "Anula paro, aumenta los parámetros un 20% al configurar un esper y probabilidad de llenar la barra de EL del usuario al recibir un ataque físico"
     ],
     "508371": [
@@ -40132,7 +40388,7 @@
         "受到物理攻擊時一定機率進行反擊+增加自身的極限技槽",
         "물리 공격을 받으면 일정 확률로 반격+자신의 LB 게이지 증가",
         "Chance de contre-attaquer après une attaque physique et remplit la jauge de limite du lanceur",
-        "Füllt eigenen Limitmeter und Chance, physische Angriffe zu kontern.",
+        "Füllt eigenes Limitmeter und Chance, physische Angriffe zu kontern.",
         "Rellena la barra de EL del usuario y puede devolver ataques físicos"
     ],
     "508540": [
@@ -40327,29 +40583,85 @@
         "Das Limitmeter füllt sich schneller",
         "La barra de EL se llenará más rápido"
     ],
+    "508570": [
+        "Chance of charming all enemies, temporarily increase chance of being targeted for self, reduce physical damage taken by self for 2 turns, and change to gorgeous pose next turn",
+        "一定機率對全體敵人施加魅惑效果+暫時性容易被敵人攻擊+2回合內減少對自身的傷害+下一回合變化為「俊美姿勢」",
+        "적 전체에 일정 확률로 매혹 부여+자신이 일시적으로 적의 공격 대상이 될 확률 상승+2턴 동안 자신이 받는 물리 피해량 감소+다음 턴에 '뷰티풀 포즈'로 변화",
+        "Chance de charmer tous les ennemis, augmente temporairement les chances du lanceur d'être ciblé, réduit les dégâts physiques subis par le lanceur pendant 2 tours, et se change en Pose distinguée au tour suivant.",
+        "Chance, alle Gegner zu bezaubern, erhöht für Anwender kurzzeitig die Wahrscheinlichkeit zum Ziel zu werden, erlittener phys. Schaden wird 2 Runden lang verringert + wechselt in der folgenden Runde zu Herrliche Haltung.",
+        "Probabilidad de infligir embrujo a todos los enemigos, aumenta temporalmente la probabilidad de ser atacado, reduce el daño recibido durante 2 turnos y cambia los efectos de Postura divina al turno siguiente"
+    ],
     "508571": [
-        "Chance of charming all enemies, chance of temporarily guarding allies against physical damage, and allow caster to escape three attacks",
-        null,
-        null,
-        null,
-        null,
-        "Puede infligir embrujo a todos los enemigos, probabilidad de proteger temporalmente a un aliado aleatorio contra daño físico en guardia y el usuario puede evadir 3 ataques"
+        "Chance of charming all enemies, chance of temporarily guarding allies against physical damage, and allow caster to escape three physical attacks",
+        "一定機率對全體敵人施加魅惑效果+暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊+賦予自身可閃避3次部分物理攻擊的效果",
+        "적 전체에 일정 확률로 매혹 부여+일시적으로 일정 확률 아군을 향한 물리 공격을 '방어' 상태로 대신 받음+자신에게 일부 물리 공격 3회 회피 효과 부여",
+        "Chance de charmer tous les ennemis et de prendre temporairement des dégâts physiques à la place des alliés en état de garde. De plus, permet au lanceur d'esquiver certaines attaques physiques à trois reprises.",
+        "Chance, alle Gegner zu bezaubern und kurzzeitig Chance, Verb. gegen phys. Angriff zu verteidigen + ermöglicht Anwender, einigen Angriffen 3 Mal ausweichen zu können.",
+        "Puede infligir embrujo a todos los enemigos, probabilidad de proteger temporalmente a aliados contra daño físico en guardia y el usuario puede evadir 3 ataques"
     ],
     "508572": [
         "(One use every 3 turns) Chance of charming all enemies and chance of temporarily guarding allies against magic damage",
-        null,
-        null,
-        null,
-        null,
-        "(Un uso cada 3 turnos) Puede infligir embrujo a todos los enemigos, probabilidad de proteger temporalmente a un aliado aleatorio contra daño mágico en guardia"
+        "【每3回合可使用1次】一定機率對全體敵人施加魅惑效果+暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊",
+        "[3턴에 1회 사용 가능] 적 전체에 일정 확률로 매혹 부여+일시적으로 일정 확률 마법 공격을 '방어'상태로 대신 받음",
+        "(Une fois tous les 3 tours) Chance de charmer tous les ennemis et de prendre temporairement des dégâts magiques à la place des alliés en état de garde",
+        "(Einmal in 3 Runden) Chance, alle Gegner zu bezaubern und kurzzeitig Chance, Verb. gegen mag. Angriff zu verteidigen.",
+        "(Un uso cada 3 turnos) Puede infligir embrujo a todos los enemigos y probabilidad de proteger temporalmente a un aliado aleatorio contra daño físico en guardia"
+    ],
+    "508573": [
+        "(One use every 7 turns) Reduce magic damage taken by self for 1 turn and chance of charming all enemies",
+        "【每7回合可使用1次】一定機率對全體敵人施加魅惑效果+1回合內減少對自身的魔法傷害",
+        "[7턴에 1회 사용 가능] 적 전체에 일정 확률로 매혹 부여+1턴 동안 자신이 받는 마법 피해량 감소",
+        "(Une fois tous les 7 tours) Chance de charmer tous les ennemis et réduit les dégâts magiques subis par le lanceur pendant un tour",
+        "(Einmal in 7 Runden) Chance, alle Gegner zu bezaubern und verringert eine Runde lang von Benutzer erlittenen Schaden.",
+        "(Un uso cada 7 turnos) Reduce el daño mágico que se recibe durante un turno y puede infligir embrujo a todos los enemigos"
+    ],
+    "508574": [
+        "(One use every 2 turns) Damage and reduce earth resistance for one enemy",
+        "【每2回合可使用1次】攻擊1名敵人+降低土屬性耐性",
+        "[2턴에 1회 사용 가능] 적 1명에게 피해+땅속성 저항력 감소",
+        "(Une fois tous les 2 tours) Inflige des dégâts et réduit la résistance à la terre d'un ennemi",
+        "(Einmal in 2 Runden) Fügt einem Gegner Schaden zu + verringert seine Erdresistenz.",
+        "(Un uso cada 2 turnos) Daña y reduce la resistencia a la tierra de un enemigo"
+    ],
+    "508575": [
+        "(One use every 6 turns) Reduce physical damage taken by self for 1 turn",
+        "【每6回合可使用1次】1回合內減少對自身的物理傷害",
+        "[6턴에 1회 사용 가능] 1턴 동안 자신이 받는 물리 피해량 감소",
+        "(Une fois tous les 6 tours) Réduit les dégâts physiques subis par le lanceur pendant un tour",
+        "(Einmal in 6 Runden) Verringert eine Runde lang von Benutzer erlittenen Schaden.",
+        "(Un uso cada 6 turnos) Reduce el daño físico que recibe el usuario durante un turno"
+    ],
+    "508576": [
+        "Boost HP 30%, DEF and SPR 20%, and nullify charm",
+        "提高30%HP+提高20%防禦精神+魅惑無效",
+        "HP 30%, 방어력과 정신력 20% 상승+매혹 무효화",
+        "Augmente les PV de 30 %, la DEF et la PSY de 20 %, et annule charme",
+        "Erhöht LP um 30%, ABW sowie PSY um 20% und annulliert Bezaubern.",
+        "Aumenta la VIT un 30%, la DEF y el ESP un 20% y anula embrujo"
     ],
     "508577": [
         "Chance of restoring own HP and MP after receiving a magic attack",
         "受到魔法攻擊時一定機率恢復自身HPMP",
         "마법 공격을 받으면 일정 확률로 자신의 HP와 MP 회복",
-        "Chance de restaurer ses propres PV et PM après avoir reçu une attaque physique",
+        "Chance de restaurer ses propres PV et PM après avoir reçu une attaque magique",
         "Chance, bei magischem Angriff LP und MP zu heilen",
-        "Posibilita recuperar VIT y PM propios al recibir un ataque mágico"
+        "Probabilidad de recuperar VIT y PM propios al recibir un ataque mágico"
+    ],
+    "508580": [
+        "Boost own ATK, fill LB gauge, and change to my fair lady gunner next turn",
+        "提高自身的攻擊+增加極限技槽+下一回合變化為「女槍手」",
+        "자신의 공격력 상승+LB 게이지 증가+다음 턴에 '총잡이 숙녀'로 변화",
+        "Augmente l'ATT du lanceur, remplit la jauge de limite, et se change en La belle et le flingue au tour suivant",
+        "Erhöht ANG des Anwenders und füllt seinen Limitmeter + wechselt in der folgenden Runde zu Holde Schützin",
+        "Aumenta el ATQ del usuario, rellena la barra de EL y cambia a Mi querida pistolera al turno siguiente"
+    ],
+    "508581": [
+        "Deal partial unmitigated damage to all enemies and fill own LB gauge",
+        "對全體敵人發動無視部分防禦的攻擊+增加自身的極限技槽",
+        "적 전체에 일부 방어 무시 피해+자신의 LB 게이지 증가",
+        "Inflige des dégâts en partie fixes sur tous les ennemis et remplit la jauge de limite du lanceur",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und füllt eigenen Limitmeter.",
+        "Inflige daño absoluto parcial a todos los enemigos y rellena la barra de EL del usuario"
     ],
     "508591": [
         "Enable specific abilities to be used twice in one turn",
@@ -40770,7 +41082,7 @@
     "600360": [
         "Boost evocation damage for Ifrit",
         "提高「伊弗利特」召喚魔法的威力",
-        "이프리트' 소환 마법 사용 시 피해량 상승",
+        "'이프리트' 소환 마법 사용 시 피해량 상승",
         "Augmente les dégâts d'invocation d'Ifrit",
         "Erhöht Rufen-Schaden für Ifrit.",
         "Aumenta el daño de invocación de Ifrit"
@@ -40794,7 +41106,7 @@
     "600390": [
         "Boost evocation damage for Shiva",
         "提高「濕婆」召喚魔法的威力",
-        "시바' 소환 마법 사용 시 피해량 상승",
+        "'시바' 소환 마법 사용 시 피해량 상승",
         "Augmente les dégâts d'invocation de Shiva",
         "Erhöht Rufen-Schaden für Shiva.",
         "Aumenta el daño de invocación de Shiva"
@@ -40842,7 +41154,7 @@
     "600450": [
         "Boost evocation damage for Ramuh",
         "提高「拉姆」召喚魔法的威力",
-        "라무' 소환 마법 사용 시 피해량 상승",
+        "'라무' 소환 마법 사용 시 피해량 상승",
         "Augmente les dégâts d'invocation de Ramuh",
         "Erhöht Rufen-Schaden für Ramuh.",
         "Aumenta el daño de invocación de Lamú"
@@ -40866,7 +41178,7 @@
     "600480": [
         "Boost evocation damage for Titan",
         "提高「泰坦」召喚魔法的威力",
-        "타이탄' 소환 마법 사용 시 피해량 상승",
+        "'타이탄' 소환 마법 사용 시 피해량 상승",
         "Augmente les dégâts d'invocation de Titan",
         "Erhöht Rufen-Schaden für Titan.",
         "Aumenta el daño de invocación de Titán"
@@ -43772,7 +44084,7 @@
         "提高極限技石對極限技槽的增加量+每回合提高攻擊，增加極限技槽",
         "LB 게이지 효율 상승+매 턴마다 공격력 상승+LB 게이지 증가",
         "Augmente le taux de remplissage des pierres de limite, augmente l'ATT à chaque tour, et remplit la jauge de limite",
-        "Verstärkt den Effekt von Limitsteinen, erhöht jede Runde ANG und füllt Limitleiste.",
+        "Verstärkt den Effekt von Limitsteinen, erhöht jede Runde ANG und füllt Limitmeter.",
         "Las piedras de estallido recuperan más EL, aumenta ATQ con cada turno y rellena la  barra de EL"
     ],
     "703510": [
@@ -44596,7 +44908,7 @@
         "對全體敵人發動風光屬性攻擊",
         "적 전체에 바람과 빛속성 피해",
         "Dégâts Vent/Lumière sur tous les ennemis",
-        "Wind- und Blitzschaden, alle Gegner.",
+        "Wind- und Lichtschaden, alle Gegner.",
         "Daño de viento y luz a todos los enemigos"
     ],
     "704540": [
@@ -44604,7 +44916,7 @@
         "對全體敵人發動風光屬性攻擊",
         "적 전체에 바람과 빛속성 피해",
         "Dégâts Vent/Lumière sur tous les ennemis",
-        "Wind- und Blitzschaden, alle Gegner.",
+        "Wind- und Lichtschaden, alle Gegner.",
         "Daño de viento y luz a todos los enemigos"
     ],
     "704550": [
@@ -46172,7 +46484,7 @@
         "攻擊1名敵人+提高全體隊員的攻擊防禦魔力精神+提高自身極限技槽+1回合內可以使用「零距離變移破解」",
         "적 1명에게 피해+아군 전체의 공격력, 방어력, 마력, 정신력 상승+자신의 LB 게이지 증가+1턴 동안 '영거리 시프트 브레이크' 사용 가능",
         "Dégâts à un ennemi et augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, remplit la jauge de limite du lanceur, et active Tir à bout portant et Assaut éclipse pendant un tour",
-        "Fügt einem Gegner Schaden zu und erhöht ANG, ABW, MAG und PSY aller Verbündeten + füllt eigenen Limitmeter und ermöglicht eine Runde lang Direkt-Warp.",
+        "Fügt einem Gegner Schaden zu und erhöht ANG, ABW, MAG und PSY aller Verbündeten + füllt eigenes Limitmeter und ermöglicht eine Runde lang Direkt-Warp.",
         "Daña a un enemigo, aumenta ATQ, DEF, MAG y ESP de todos los aliados, rellena la barra de EL del usuario y aprende Quemarropa durante un turno"
     ],
     "706510": [
@@ -47160,36 +47472,36 @@
         "Daño crítico y reduce la resistencia al hielo de un enemigo"
     ],
     "707242": [
-        "Temporarily guard select ally against physical and magic damage and boost own DEF and SPR",
-        null,
-        null,
-        null,
-        null,
-        "Protege temporalmente a un aliado determinado contra daño físico o mágico en guardia y aumenta la DEF y el ESP del usuario"
+        "Temporarily guard chosen ally against physical and magic damage and boost own DEF and SPR",
+        "暫時性以「防禦」狀態代替1名指定隊員承受物理、魔法攻擊+提高自身的防禦精神",
+        "일시적으로 지정 아군 1명을 향한 물리, 마법 공격을 '방어' 상태로 대신 받음+자신의 방어력과 정신력 상승",
+        "Protège temporairement un allié choisi contre les dégâts physiques et magiques et augmente la DEF et la PSY du lanceur",
+        "Beschützt ausgewählten Verb. kurzzeitig vor phys. und mag. Schaden und erhöht ABW/PSY des Benutzers.",
+        "Protege temporalmente a un aliado determinado contra daño físico y mágico en guardia, y aumenta la DEF y el ESP del usuario"
     ],
     "707243": [
-        "Temporarily guard select ally against physical and magic damage and boost own DEF and SPR, and resistance to ATK, DEF, MAG, and SPR reductions",
-        null,
-        null,
-        null,
-        null,
-        "Protege temporalmente a un aliado determinado contra daño físico o mágico en guardia y aumenta la DEF y el ESP del usuario"
+        "Temporarily guard chosen ally against physical and magic damage and boost own DEF, SPR, and resistance to ATK, DEF, MAG, and SPR reductions",
+        "暫時性以「防禦」狀態代替1名指定隊員承受物理、魔法攻擊+提高自身的防禦精神+提高降低攻擊防禦魔力精神的耐性",
+        "일시적으로 지정 아군 1명을 향한 물리, 마법 공격을 '방어' 상태로 대신 받음+자신의 방어력과 정신력 상승+공격력, 방어력, 마력, 정신력 감소 저항력 상승",
+        "Protège temporairement un allié choisi contre les dégâts physiques et magiques et augmente la DEF et la PSY du lanceur et la résistance à la réduction de l'ATT, la DEF, la MAGIE et la PSY",
+        "Beschützt ausgewählten Verb. kurzzeitig vor phys. und mag. Schaden, erhöht ABW/PSY sowie Resistenzen des Benutzers gegen ANG-, ABW-, MAG- und PSY-Verringerungen.",
+        "Protege temporalmente a un aliado determinado contra daño físico y mágico en guardia, aumenta la DEF y el ESP del usuario, y mayor reducción a la resistencia de ATQ, DEF, MAG y ESP"
     ],
     "707244": [
         "Nullify sleep and confusion, and boost HP, DEF, and SPR by 40% when equipped with a light or heavy shield",
-        null,
-        null,
-        null,
-        null,
-        null
+        "睡眠混亂無效+裝備輕盾重盾時提高40%HP防禦精神",
+        "수면과 혼란 무효화+경방패 또는 중방패 장착 시 HP, 방어력, 정신력 40% 상승",
+        "Annule sommeil et confusion et augmente les PV, la DEF et la PSY de 40% lorsqu'un bouclier léger ou lourd est équipé",
+        "Annulliert Schlaf und Konfus + erhöht LP, ABW und PSY um 40%, wenn mit einem leichten oder schweren Schild ausgerüstet.",
+        "Anula sueño y confusión y aumenta la VIT, la DEF y el ESP un 40% al llevar escudo ligero o pesado"
     ],
     "707245": [
-        "Nullify sleep, paralysis, confusion, stone, and charm, and boost HP, DEF, and SPR by 50% when equipped with a light or heavy shield",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Nullify sleep, paralysis, confusion, stone, and stop, and boost HP, DEF, and SPR by 50% when equipped with a light or heavy shield",
+        "睡眠麻痺混亂石化停止無效+裝備輕盾重盾時提高50%HP防禦精神",
+        "수면, 마비, 혼란, 석화, 스톱 무효화+경방패 또는 중방패 장착 시 HP, 방어력, 정신력 50% 상승",
+        "Annule sommeil, paralysie, confusion, pétrification et stop, et augmente les PV, la DEF et la PSY de 50% lorsqu'un bouclier léger ou lourd est équipé",
+        "Annulliert Schlaf, Lähmung, Konfus, Stein und Stopp + erhöht LP, ABW und PSY um 50%, wenn mit einem leichten oder schweren Schild ausgerüstet.",
+        "Anula sueño, parálisis, confusión, piedra y paro, y aumenta la VIT, la DEF y el ESP un 50% al llevar escudo ligero o pesado"
     ],
     "707246": [
         "Chance of guarding allies against physical damage",
@@ -47217,11 +47529,11 @@
     ],
     "707249": [
         "Boost equipment ATK when armed with a one-handed weapon with the other hand empty, and boost LB damage",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備單手武器且另一隻手空著的狀態下武具攻擊提升+提高極限技的傷害",
+        "한손용 무기를 한손에만 장착 시 장비의 공격력 상승+LB 피해량 상승",
+        "Augmente l'ATT de l'équipement lorsqu'une arme à une main est équipée est que l'autre est vide et augmente les dégâts de la limite",
+        "Erhöht Ausrüstung-ANG, wenn mit einhändiger Waffe ausgerüstet und andere Hand leer + erhöht Schaden durch Limitrausch.",
+        "Aumenta el ATQ del equipo al llevar un arma de una sola mano y nada en la otra, y aumenta el daño del EL"
     ],
     "707250": [
         "Damage one enemy and cause limit gauge to fill more quickly",
@@ -47239,6 +47551,38 @@
         "Schaden für einen Gegner und das Limitmeter füllt sich schneller.",
         "Daña a un enemigo y la barra de EL se llena más rápido"
     ],
+    "707252": [
+        "Boost HP and ATK by 20%, SPR by 10%",
+        "提高20%HP攻擊、10%精神",
+        "HP와 공격력 20%, 정신력 10% 상승",
+        "Augmente les PV et l'ATT de 20%, et la PSY de 10%",
+        "Erhöht LP und ANG um 20% sowie PSY um 10%.",
+        "Aumenta la VIT y el ATQ un 20% y el ESP un 10%"
+    ],
+    "707253": [
+        "Boost HP and MP by 30%, ATK by 20% and SPR by 10%",
+        "提高30%HPMP、20%攻擊、10%精神",
+        "HP와 MP 30%, 공격력 20%, 정신력 10% 상승",
+        "Augmente les PV et les PM de 30%, l'ATT de 20% et la PSY de 10%",
+        "Erhöht LP und MP um 30%, ANG um 20% sowie PSY um 10%.",
+        "Aumenta la VIT y los PM un 30%, el ATQ un 20% y el ESP un 10%"
+    ],
+    "707254": [
+        "Enable double ability - Iris for five turns and reduce damage taken by self for one turn",
+        "5回合內可以使用「W能力・伊莉絲」+1回合內減少對自身的傷害",
+        "5턴 동안 'W어빌리티·아이리스' 사용 가능+1턴 동안 자신이 받는 피해량 감소",
+        "Active Double aptitude - Iris pendant cinq tours et réduit les dégâts subis par le lanceur pendant un tour",
+        "Ermöglicht für fünf Runden Doppelfähigkeit - Iris und reduziert eine Runde lang selbst erhaltenen Schaden.",
+        "Aprende Habilidad doble - Iris durante 5 turnos y reduce el daño que recibe el usuario durante un turno"
+    ],
+    "707255": [
+        "Enable double ability - Iris for six turns and reduce damage taken by self for one turn",
+        "6回合內可以使用「W能力・伊莉絲」+1回合內減少對自身的傷害",
+        "6턴 동안 'W어빌리티·아이리스' 사용 가능+1턴 동안 자신이 받는 피해량 감소",
+        "Active Double aptitude - Iris pendant six tours et réduit les dégâts subis par le lanceur pendant un tour",
+        "Ermöglicht für sechs Runden Doppelfähigkeit - Iris und reduziert eine Runde lang selbst erhaltenen Schaden.",
+        "Aprende Habilidad doble - Iris durante 6 turnos y reduce el daño que recibe el usuario durante un turno"
+    ],
     "707256": [
         "Restore HP for all allies",
         "恢復全體隊員的HP",
@@ -47249,11 +47593,11 @@
     ],
     "707257": [
         "Restore HP and MP for all allies",
-        "恢復全體隊員的HP",
-        "아군 전체의 HP 회복",
-        "Soigne tous les alliés",
-        "Heilt LP, alle Verb.",
-        "Recupera la VIT de todos los aliados"
+        "恢復全體隊員的HPMP",
+        "아군 전체의 HP와 MP 회복",
+        "Restaure les PV et les PM de tous les alliés",
+        "Stellt alle LP und MP aller Verbündeten wieder her.",
+        "Recupera la VIT y los PM de todos los aliados"
     ],
     "707258": [
         "Deal partial unmitigated damage and reduce ice resistance for one enemy",
@@ -47305,19 +47649,19 @@
     ],
     "707266": [
         "Boost ATK and SPR by 35% when equipped with a mace",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備權杖時提高35%攻擊精神",
+        "메이스 장착 시 공격력과 정신력 35% 상승",
+        "Augmente l'ATT et la PSY de 35% lorsqu'une masse est équipée",
+        "Erhöht ANG und PSY um 35%, wenn mit einer Keule ausgerüstet.",
+        "Aumenta el ATQ y el ESP un 35% al llevar maza"
     ],
     "707267": [
         "Boost HP and MP by 20%, and boost ATK and SPR by 50% when equipped with a mace",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%HPMP+裝備權杖時提高50%攻擊精神",
+        "HP와 MP 20% 상승+메이스 장착 시 공격력과 정신력 50% 상승",
+        "Augmente les PV  et les PM de 20% et augmente l'ATT et la PSY de 50% lorsqu'une masse est équipée",
+        "Erhöht LP und MP um 20% + erhöht ANG und PSY um 50%, wenn mit einer Keule ausgerüstet.",
+        "Aumenta la VIT y los PM un 20% y el ATQ y el ESP un 50% al llevar maza"
     ],
     "707268": [
         "Boost physical and magic damage against dragons for all allies",
@@ -47329,17 +47673,17 @@
     ],
     "707269": [
         "Boost ATK and MAG, and physical and magic damage against dragons for all allies",
-        "賦予全體隊員物理、魔法攻擊時提高對龍系魔物傷害的效果",
-        "아군 전체에 물리, 마법 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여",
-        "Augmente les dégâts physiques et magiques contre les dragons de tous les alliés",
+        "提高攻擊魔力+賦予全體隊員物理、魔法攻擊時提高對龍系魔物傷害的效果",
+        "공격력과 마력 상승+아군 전체에 물리, 마법 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여",
+        "Augmente l'ATT, la MAGIE et les dégâts physiques et magiques contre les dragons pour tous les alliés",
         "Erhöht physischen und magischen Schaden gegen Drachen, alle Verb.",
-        "Aumenta el daño físico y mágico contra dragones de todos los aliados"
+        "Aumenta el ATQ, la MAG y el daño físico y mágico contra dragones de todos los aliados"
     ],
     "707270": [
         "Boost fire, ice, lightning, water, wind, earth, light, and dark resistance and reduce damage taken for five turns for all allies",
         "提高全體隊員的火冰雷水風土光暗屬性耐性+5回合內減少對全體隊員的傷害",
         "아군 전체의 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승+5턴 동안 피해량 감소",
-        "Augmente la rés. Feu/glace/foudre/eau/vent/terre/lumière/ténèbres  et réduit les dégâts reçus pendant 5 tours pour tous les alliés",
+        "Augmente la résistance à feu, glace, foudre, eau, vent, terre, lumière, ténèbres  et réduit les dégâts reçus pendant cinq tours pour tous les alliés",
         "Erhöhte Resistenz gegen Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel und weniger Schaden für 5 Runden, alle Verb.",
         "Aumenta la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad y reduce el daño que reciben todos los aliados durante 5 turnos"
     ],
@@ -47347,7 +47691,7 @@
         "Boost fire, ice, lightning, water, wind, earth, light, and dark resistance and reduce damage taken for five turns for all allies",
         "提高全體隊員的火冰雷水風土光暗屬性耐性+5回合內減少對全體隊員的傷害",
         "아군 전체의 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승+5턴 동안 피해량 감소",
-        "Augmente la rés. Feu/glace/foudre/eau/vent/terre/lumière/ténèbres  et réduit les dégâts reçus pendant 5 tours pour tous les alliés",
+        "Augmente la résistance à feu, glace, foudre, eau, vent, terre, lumière, ténèbres  et réduit les dégâts reçus pendant cinq tours pour tous les alliés",
         "Erhöhte Resistenz gegen Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel und weniger Schaden für 5 Runden, alle Verb.",
         "Aumenta la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad y reduce el daño que reciben todos los aliados durante 5 turnos"
     ],
@@ -47355,7 +47699,7 @@
         "Chance of temporarily guarding allies against magic damage",
         "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊",
         "일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음",
-        "Chance de prendre des dégâts magiques à la place des alliés en état de garde",
+        "Chance de prendre temporairement des dégâts magiques à la place des alliés en état de garde",
         "Chance, Verb. kurzfristig gegen mag. Schaden zu verteidigen.",
         "Probabilidad de proteger temporalmente a los aliados contra daño mágico en guardia"
     ],
@@ -47363,7 +47707,7 @@
         "Chance of temporarily guarding allies against magic damage",
         "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊",
         "일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음",
-        "Chance de prendre des dégâts magiques à la place des alliés en état de garde",
+        "Chance de prendre temporairement des dégâts magiques à la place des alliés en état de garde",
         "Chance, Verb. kurzfristig gegen mag. Schaden zu verteidigen.",
         "Probabilidad de proteger temporalmente a los aliados contra daño mágico en guardia"
     ],
@@ -47398,6 +47742,38 @@
         "Chance de prendre des dégâts magiques à la place des alliés en état de garde",
         "Chance, Verb. gegen mag. Schaden zu verteidigen.",
         "Probabilidad de proteger a un aliado aleatorio contra daño mágico en guardia"
+    ],
+    "707278": [
+        "Boost physical damage against dragon monsters and fill LB gauge and boost ATK for one ally",
+        "賦予1名隊員物理攻擊時提高對龍系魔物傷害的效果+增加極限技槽+提高攻擊",
+        "아군 1명에게 물리 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여+LB 게이지 증가+공격력 상승",
+        "Augmente les dégâts physiques contre les monstres de type dragon, augmente l'ATT et remplit la jauge de limite pour un allié",
+        "Erhöht phys. Schaden eines Verb. gegen Drachen und füllt sein Limitmeter.",
+        "Aumenta el daño físico contra dragones, rellena la barra de EL y aumenta el ATQ de un aliado"
+    ],
+    "707279": [
+        "Boost physical damage against dragon monsters and fill LB gauge and boost ATK for one ally",
+        "賦予1名隊員物理攻擊時提高對龍系魔物傷害的效果+增加極限技槽+提高攻擊",
+        "아군 1명에게 물리 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여+LB 게이지 증가+공격력 상승",
+        "Augmente les dégâts physiques contre les monstres de type dragon, augmente l'ATT et remplit la jauge de limite pour un allié",
+        "Erhöht phys. Schaden eines Verb. gegen Drachen, füllt sein Limitmeter und erhöht seine ANG.",
+        "Aumenta el daño físico contra dragones, rellena la barra de EL y aumenta el ATQ de un aliado"
+    ],
+    "707280": [
+        "Boost magic damage against dragon monsters and fill LB gauge and boost MAG for one ally",
+        "賦予1名隊員魔法攻擊時提高對龍系魔物傷害的效果+增加極限技槽+提高魔力",
+        "아군 1명에게 마법 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여+LB 게이지 증가+마력 상승",
+        "Augmente les dégâts magiques contre les monstres de type dragon, augmente la MAGIE et remplit la jauge de limite pour un allié",
+        "Erhöht phys. Schaden eines Verb. gegen Drachen, füllt sein Limitmeter und erhöht seine MAG.",
+        "Aumenta el daño mágico contra dragones, rellena la barra de EL y aumenta la MAG de un aliado"
+    ],
+    "707281": [
+        "Boost magic damage against dragon monsters and fill LB gauge and boost MAG for one ally",
+        "賦予1名隊員魔法攻擊時提高對龍系魔物傷害的效果+增加極限技槽+提高魔力",
+        "아군 1명에게 마법 공격 시 드래곤형 마물에 대한 피해량 상승 효과 부여+LB 게이지 증가+마력 상승",
+        "Augmente les dégâts magiques contre les monstres de type dragon, augmente la MAGIE et remplit la jauge de limite pour un allié",
+        "Erhöht phys. Schaden eines Verb. gegen Drachen, füllt sein Limitmeter und erhöht seine MAG.",
+        "Aumenta el daño mágico contra dragones, rellena la barra de EL y aumenta la MAG de un aliado"
     ],
     "707282": [
         "Restore HP and boost ice, lightning and wind resistance for all allies.",
@@ -47484,7 +47860,7 @@
         "提高極限技石對全體隊員極限技槽的增加量+增加召喚槽",
         "아군 전체의 LB 게이지 효율 상승+소환 게이지 증가",
         "Augmente le taux de remplissage de la jauge de limite de tous les alliés et remplit la jauge d'invocation",
-        "Limitmeter und Beschwörungsleiste steigt im Kampf, alle Verb.",
+        "Limitmeter und Rufleiste steigt im Kampf, alle Verb.",
         "La barra de EL de los aliados se llena más rápido y rellena la barra de invocación"
     ],
     "707301": [
@@ -47492,7 +47868,7 @@
         "提高極限技石對全體隊員極限技槽的增加量+增加召喚槽",
         "아군 전체의 LB 게이지 효율 상승+소환 게이지 증가",
         "Augmente le taux de remplissage de la jauge de limite de tous les alliés et remplit la jauge d'invocation",
-        "Limitmeter und Beschwörungsleiste steigt im Kampf, alle Verb.",
+        "Limitmeter und Rufleiste steigt im Kampf, alle Verb.",
         "La barra de EL de los aliados se llena más rápido y rellena la barra de invocación"
     ],
     "707302": [
@@ -47500,7 +47876,7 @@
         "恢復全體隊員的HP+增加召喚槽",
         "아군 전체의 HP 회복+소환 게이지 증가",
         "Restaure les PV de tous les alliés et remplit la jauge d'invocation",
-        "Stellt LP für alle Verb. wieder her und füllt Beschwörungsleiste",
+        "Stellt LP für alle Verb. wieder her und füllt Rufleiste",
         "Recupera VIT de todos los aliados y rellena la barra de invocación"
     ],
     "707303": [
@@ -47508,7 +47884,7 @@
         "恢復全體隊員的HP+增加召喚槽",
         "아군 전체의 HP 회복+소환 게이지 증가",
         "Restaure les PV de tous les alliés et remplit la jauge d'invocation",
-        "Stellt LP für alle Verb. wieder her und füllt Beschwörungsleiste",
+        "Stellt LP für alle Verb. wieder her und füllt Rufleiste",
         "Recupera VIT de todos los aliados y rellena la barra de invocación"
     ],
     "707304": [
@@ -47740,7 +48116,7 @@
         "攻擊1名敵人3次",
         "적 1명에게 3회 피해",
         "Dégâts à trois reprises sur un ennemi",
-        "Drei Mal Schaden, ein Ziel",
+        "Fügt einem Gegner 3 Mal Schaden zu.",
         "Ataca 3 veces a un enemigo"
     ],
     "707346": [
@@ -50088,7 +50464,7 @@
         "Posibilita evadir ataques físicos y aumenta la resistencia al viento un 50%, esquiva un ataque físico al comienzo del combate y posibilita reducir la resistencia al viento de un enemigo un 75%"
     ],
     "910257": [
-        "Boost SPR by 30% when equipped with a helmet and DEF by 30% when equipped with light or heavy armor",
+        "Boost SPR by 30% when equipped with a helm and DEF by 30% when equipped with light or heavy armor",
         "裝備頭盔時提高30%精神+裝備鎧甲時提高30%防禦",
         "투구 장착 시 정신력 30% 상승+경갑 또는 중갑 장착 시 방어력 30% 상승",
         "Augmente la DEF lorsqu'une armure est équipée et augmente la PSY lorsqu'un casque est équipé",
@@ -50444,7 +50820,7 @@
         "提高防禦+完全填滿極限技槽",
         "방어력 상승+LB 게이지 모두 회복",
         "Augmente la DEF et remplit totalement la barre de limite",
-        "Erhöht ABW und füllt Limitleiste.",
+        "Erhöht ABW und füllt Limitmeter.",
         "Aumenta DEF y rellena la barra de EL"
     ],
     "910302": [
@@ -54356,7 +54732,7 @@
         "攻擊1名敵人+增加自身極限技槽",
         "적 1명에게 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts à un ennemi et augmente la vitesse de remplissage de la jauge de limite",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y rellena la barra de EL del usuario"
     ],
     "910793": [
@@ -54372,7 +54748,7 @@
         "對全體敵人發動火屬性攻擊+增加自身極限技槽",
         "적 전체에 불속성 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts de feu à tous les ennemis et remplit la jauge de limite du lanceur",
-        "Fügt allen Gegnern Feuerschaden zu und füllt eigenen Limitmeter.",
+        "Fügt allen Gegnern Feuerschaden zu und füllt eigenes Limitmeter.",
         "Inflige daño de fuego a todos los enemigos y rellena la barra de EL del usuario"
     ],
     "910795": [
@@ -54380,7 +54756,7 @@
         "提高全體隊員麻痺耐性+增加自身極限技槽",
         "아군 전체의 마비 저항력 상승+자신의 LB 게이지 증가",
         "Augmente la résistance à la paralysie pour tous les alliés, et remplit la jauge de limite du lanceur",
-        "Erhöht Lähmungsresistenz für alle Verbündete, füllt eigenen Limitmeter.",
+        "Erhöht Lähmungsresistenz für alle Verbündete, füllt eigenes Limitmeter.",
         "Aumenta la res. contra parálisis de todos los aliados y rellena la barra de EL del usuario"
     ],
     "910796": [
@@ -54388,7 +54764,7 @@
         "一定機率閃避物理攻擊+使用「分身」+增加自身極限技槽",
         "일정 확률로 일부 물리 공격 회피+'분신술' 사용+자신의 LB 게이지 증가",
         "Augmente les chances d'esquiver les attaques physiques et de lancer Mirage. Remplit la jauge de limite du lanceur",
-        "Erhöht Chance, phys. Angriffen auszuweichen + Trugbild + füllt eigenen Limitmeter.",
+        "Erhöht Chance, phys. Angriffen auszuweichen + Trugbild + füllt eigenes Limitmeter.",
         "Puede esquivar ataques físicos, lanzar Espejismo y rellenar la barra de EL del usuario"
     ],
     "910797": [
@@ -54404,7 +54780,7 @@
         "自身可閃避2次物理攻擊+受到物理攻擊時一定機率發動反擊+增加自身極限技槽",
         "자신에게 물리 공격 2회 회피 효과 부여+물리 공격을 받으면 일정 확률로 반격+자신의 LB 게이지 증가",
         "Le lanceur peut esquiver deux attaques physiques, chance de contre-attaquer après avoir reçus des dégâts physiques et remplit la jauge de limite du lanceur",
-        "Benutzer kann phys. Angriffen zwei Mal ausweichen + Chance, phys. Angriffe zu kontern + füllt eigenen Limitmeter.",
+        "Benutzer kann phys. Angriffen zwei Mal ausweichen + Chance, phys. Angriffe zu kontern + füllt eigenes Limitmeter.",
         "El usuario puede esquivar ataques físicos dos veces, puede contraatacar al recibir un ataque físico y se rellena su barra de EL"
     ],
     "910799": [
@@ -54420,7 +54796,7 @@
         "對1名敵人發動無視部分防禦的攻擊+增加自身極限技槽",
         "적 1명에게 일부 방어 무시 피해+자신의 LB 게이지 증가",
         "Inflige des dégâts en partie fixes sur un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner direkten Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner direkten Schaden zu und füllt eigenes Limitmeter.",
         "Daño absoluto parcial a un enemigo y rellena la barra de EL del usuario"
     ],
     "910801": [
@@ -54436,7 +54812,7 @@
         "自身可閃避2次物理攻擊+增加自身極限技槽",
         "자신에게 물리 공격 2회 회피 효과 부여+자신의 LB 게이지 증가",
         "Le lanceur peut esquiver certaines attaques physiques à deux reprises et remplit sa jauge de limite",
-        "Benutzer kann zwei physischen Angriffen ausweichen und füllt eigenen Limitmeter.",
+        "Benutzer kann zwei physischen Angriffen ausweichen und füllt eigenes Limitmeter.",
         "El usuario puede esquivar algunos ataques físicos dos veces y se rellena su barra de EL"
     ],
     "910803": [
@@ -54592,7 +54968,7 @@
         "Consume VIT del usuario para recuperar VIT del resto de aliados"
     ],
     "910822": [
-        "Adds chance of countering magic and physical attacks with unbreakable physique",
+        "Add chance of countering magic and physical attacks with unbreakable physique",
         "受到魔法、物理攻擊時一定機率發動「強壯體魄」",
         "마법, 물리 공격을 받으면 일정 확률로 '강인한 육체'를 사용하여 반격",
         "Ajoute une chance de contrer les attaques physiques et magiques avec Physique inébranlable",
@@ -56244,7 +56620,7 @@
         "消耗自身HP+恢復自身MP+提高自身極限技槽",
         "자신의 HP를 소비하여 자신의 MP 회복+자신의 LB 게이지 증가",
         "Consume les PV du lanceur pour restaurer ses PM et sa jauge de limite.",
-        "Überträgt eigene LP auf eigene MP und füllt eigenen Limitmeter.",
+        "Überträgt eigene LP auf eigene MP und füllt eigenes Limitmeter.",
         "Consume VIT propia para recuperar los PM y la barra de EL del usuario"
     ],
     "911030": [
@@ -56268,7 +56644,7 @@
         "對1名敵人發動水屬性攻擊+提高自身極限技槽",
         "적 1명에게 물속성 피해+자신의 LB 게이지 증가",
         "Dégâts d'eau sur un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Wasserschaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Wasserschaden zu und füllt eigenes Limitmeter.",
         "Daño de agua a un enemigo y aumenta la barra de EL del usuario"
     ],
     "911033": [
@@ -56276,7 +56652,7 @@
         "對1名敵人發動水屬性攻擊+提高自身極限技槽",
         "적 1명에게 물속성 피해+자신의 LB 게이지 증가",
         "Dégâts d'eau sur un ennemi et remplit la jauge de limite du lanceur",
-        "Fügt einem Gegner Wasserschaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Wasserschaden zu und füllt eigenes Limitmeter.",
         "Daño de agua a un enemigo y aumenta la barra de EL del usuario"
     ],
     "911034": [
@@ -56404,7 +56780,7 @@
         "對1名敵人發動魔法攻擊+提高自身極限技槽+連續使用時威力提升",
         "적 1명에게 마법 피해+자신의 LB 게이지 증가+연속 사용 시 위력 상승",
         "Dégâts magiques sur un ennemi, remplit la jauge de limite du lanceur et augmente en puissance après une utilisation consécutive",
-        "Fügt einem Gegner Magieschaden zu, füllt eigenen Limitmeter und wird bei konsekutiver Anwendung stärker.",
+        "Fügt einem Gegner Magieschaden zu, füllt eigenes Limitmeter und wird bei konsekutiver Anwendung stärker.",
         "Daño mágico a un enemigo, rellena la barra de EL del usuario y aumenta la potencia con el uso consecutivo"
     ],
     "911050": [
@@ -56412,7 +56788,7 @@
         "對1名敵人發動魔法攻擊+提高自身極限技槽+連續使用時威力提升",
         "적 1명에게 마법 피해+자신의 LB 게이지 증가+연속 사용 시 위력 상승",
         "Dégâts magiques sur un ennemi, remplit la jauge de limite du lanceur et augmente en puissance après une utilisation consécutive",
-        "Fügt einem Gegner Magieschaden zu, füllt eigenen Limitmeter und wird bei konsekutiver Anwendung stärker.",
+        "Fügt einem Gegner Magieschaden zu, füllt eigenes Limitmeter und wird bei konsekutiver Anwendung stärker.",
         "Daño mágico a un enemigo, rellena la barra de EL del usuario y aumenta la potencia con el uso consecutivo"
     ],
     "911051": [
@@ -58124,7 +58500,7 @@
         "攻擊全體敵人+增加自身極限技槽",
         "적 전체에 피해+자신의 LB 게이지 증가",
         "Dégâts à tous les ennemis et remplit la jauge de limite du lanceur",
-        "Fügt allen Gegnern Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt allen Gegnern Schaden zu und füllt eigenes Limitmeter.",
         "Daña a todos los enemigos y rellena la barra de EL del usuario"
     ],
     "911265": [
@@ -58148,7 +58524,7 @@
         "攻擊1名敵人+提高極限技石對自身極限技槽的增加量",
         "적 1명에게 피해+자신의 LB 게이지 효율 상승",
         "Dégâts à un ennemi et augmente le taux de remplissage de la jauge de limite du lanceur",
-        "Fügt einem Gegner Schaden zu und füllt eigenen Limitmeter.",
+        "Fügt einem Gegner Schaden zu und füllt eigenes Limitmeter.",
         "Daña a un enemigo y la barra de EL se rellena más rápido"
     ],
     "911268": [
@@ -58452,7 +58828,7 @@
         "1回合內可以使用2次「救生員」系能力",
         "1턴 동안 '안전 요원' 계열 스킬 2회 사용 가능",
         "Permet d'utiliser les aptitudes de type \"Sauveteur\" à deux reprises en un tour",
-        "Benutzer Rettungsschwimmer-Fertigkeiten zwei Mal in einer Runde.",
+        "Benutze Rettungsschwimmer-Fertigkeiten zwei Mal in einer Runde.",
         "Permite usar las habilidades Salvavidas dos veces en el mismo turno"
     ],
     "911306": [
@@ -58816,7 +59192,7 @@
         "Aumenta el MAG un 15% y los PM un 15%"
     ],
     "911351": [
-        "Regenerate MP each turn during battle",
+        "Restore MP every turn",
         "每回合恢復MP",
         "매 턴마다 MP 회복",
         "Auto-Recharge pendant le combat",
@@ -59228,7 +59604,7 @@
         "【每6回合可使用1次】提高魔力+下一回合提高1次自身魔法攻擊的威力+反射對全體隊員使用的黑魔法+下一回合提高「斬斷」的傷害",
         "[6턴에 1회 사용 가능] 마력 상승+다음 턴에 자신의 마법 피해량 1회 상승+아군 전체를 향한 마법 공격 반사+다음 턴에 '천둥'의 피해량 상승",
         "(Une fois tous les 6 tours) Augmente la MAGIE, augmente les dégâts magiques du lanceur une fois au tour suivant, renvoie la magie noire lancée sur tous les alliés, et augmente les dégâts infligés par Bourrasque électrique au tour suivant",
-        "(Einmal in 6 Runden) Erhöht MAG, erhöht den von Benutzer zugefügten magischen Schaden einmal in der nächsten Runde, reflektiert Schwarzmagie bei allen Verbündeten und erhöht in der nächsten Runde den von Blitzwind zugefügten Schaden.",
+        "(Einmal in 6 Runden) Erhöht MAG, erhöht den von Benutzer zugefügten magischen Schaden einmal in der nächsten Runde, reflektiert alle auf Verb. gewirkte Magie und erhöht in der nächsten Runde den von Blitzwind zugefügten Schaden.",
         "(Un uso cada 6 turnos) Aumenta la MAG, aumenta el daño mágico del usuario una vez al turno siguiente, refleja la magia dirigida contra todos los aliados y aumenta el daño que se inflige con Arrasar al turno siguiente"
     ],
     "911403": [
@@ -59236,7 +59612,7 @@
         "【每6回合可使用1次】提高魔力+下一回合提高1次自身魔法攻擊的威力+反射對全體隊員使用的黑魔法+下一回合提高「斬斷」的傷害",
         "[6턴에 1회 사용 가능] 마력 상승+다음 턴에 자신의 마법 피해량 1회 상승+아군 전체를 향한 마법 공격 반사+다음 턴에 '천둥'의 피해량 상승",
         "(Une fois tous les 6 tours) Augmente la MAGIE, augmente les dégâts magiques du lanceur une fois au tour suivant, renvoie la magie noire lancée sur tous les alliés, et augmente les dégâts infligés par Bourrasque électrique au tour suivant",
-        "(Einmal in 6 Runden) Erhöht MAG, erhöht den von Benutzer zugefügten magischen Schaden einmal in der nächsten Runde, reflektiert Schwarzmagie bei allen Verbündeten und erhöht in der nächsten Runde den von Blitzwind zugefügten Schaden.",
+        "(Einmal in 6 Runden) Erhöht MAG, erhöht den von Benutzer zugefügten magischen Schaden einmal in der nächsten Runde, reflektiert alle auf Verb. gewirkte Magie und erhöht in der nächsten Runde den von Blitzwind zugefügten Schaden.",
         "(Un uso cada 6 turnos) Aumenta la MAG, aumenta el daño mágico del usuario una vez al turno siguiente, refleja la magia dirigida contra todos los aliados y aumenta el daño que se inflige con Arrasar al turno siguiente"
     ],
     "911404": [
@@ -59524,7 +59900,7 @@
         "【每5回合可使用1次】對自身造成傷害+提高攻擊防禦魔力精神+增加自身極限技槽",
         "[5턴에 1회 사용 가능] 자신에게 피해+공격력, 방어력, 마력, 정신력 상승+LB 게이지 증가",
         "(Une fois tous les 5 tours) Dégâts et augmente l'ATT, la DEF, la MAGIE et la PSY et remplit la jauge de limite du lanceur",
-        "(Einmal in 5 Runden) Fügt Benutzer Schaden zu und erhöht dessen ANG, ABW, MAG und PSY und füllt seinen Limitmeter.",
+        "(Einmal in 5 Runden) Fügt Benutzer Schaden zu und erhöht dessen ANG, ABW, MAG und PSY und füllt sein Limitmeter.",
         "(Un uso cada 5 turnos) Inflige daño, aumenta ATQ, DEF, MAG y ESP y rellena la barra de EL del usuario"
     ],
     "911440": [
@@ -59532,7 +59908,7 @@
         "【每5回合可使用1次】對自身造成傷害+提高攻擊防禦魔力精神+增加自身極限技槽",
         "[5턴에 1회 사용 가능] 자신에게 피해+공격력, 방어력, 마력, 정신력 상승+LB 게이지 증가",
         "(Une fois tous les 5 tours) Dégâts et augmente l'ATT, la DEF, la MAGIE et la PSY et remplit la jauge de limite du lanceur",
-        "(Einmal in 5 Runden) Fügt Benutzer Schaden zu und erhöht dessen ANG, ABW, MAG und PSY und füllt seinen Limitmeter.",
+        "(Einmal in 5 Runden) Fügt Benutzer Schaden zu und erhöht dessen ANG, ABW, MAG und PSY und füllt sein Limitmeter.",
         "(Un uso cada 5 turnos) Inflige daño, aumenta ATQ, DEF, MAG y ESP y rellena la barra de EL del usuario"
     ],
     "911441": [
@@ -59708,7 +60084,7 @@
         "【每5回合可使用1次】4回合內消耗自身的極限技槽減少對全體隊員的傷害+3回合內可使用「冷血糖果大師」",
         "[5턴에 1회 사용 가능] 4턴 동안 자신의 LB 게이지를 소비하여 아군 전체가 받는 피해량 감소+3턴 동안 '죽음의 캔디 마스터' 사용 가능",
         "(Une fois tous les 5 tours) Consomme la jauge de limite pour réduire les dégâts subis par tous les alliés pendant 4 tours, et permet d'utiliser Sombre maître des sucreries pendant trois tours",
-        "(Einmal in 5 Runden) Verbraucht eigenen Limitmeter, um den von allen Verbündeten erlittenen Schaden für vier Runden zu verringern und ermöglicht Grimmiger Süßwarenmeister für drei Runden.",
+        "(Einmal in 5 Runden) Verbraucht eigenes Limitmeter, um den von allen Verbündeten erlittenen Schaden für vier Runden zu verringern und ermöglicht Grimmiger Süßwarenmeister für drei Runden.",
         "(Un uso cada 5 turnos) Consume la barra de EL del usuario para reducir el daño que reciben todos los aliados durante 4 turnos y aprende Terror - Reina de las golosinas durante 3 turnos"
     ],
     "911463": [
@@ -59716,7 +60092,7 @@
         "【每5回合可使用1次】4回合內消耗自身的極限技槽減少對全體隊員的傷害+3回合內可使用「冷血糖果大師」",
         "[5턴에 1회 사용 가능] 4턴 동안 자신의 LB 게이지를 소비하여 아군 전체가 받는 피해량 감소+3턴 동안 '죽음의 캔디 마스터' 사용 가능",
         "(Une fois tous les 5 tours) Consomme la jauge de limite pour réduire les dégâts subis par tous les alliés pendant 4 tours, et permet d'utiliser Sombre maître des sucreries pendant trois tours",
-        "(Einmal in 5 Runden) Verbraucht eigenen Limitmeter, um den von allen Verbündeten erlittenen Schaden für vier Runden zu verringern und ermöglicht Grimmiger Süßwarenmeister für drei Runden.",
+        "(Einmal in 5 Runden) Verbraucht eigenes Limitmeter, um den von allen Verbündeten erlittenen Schaden für vier Runden zu verringern und ermöglicht Grimmiger Süßwarenmeister für drei Runden.",
         "(Un uso cada 5 turnos) Consume la barra de EL del usuario para reducir el daño que reciben todos los aliados durante 4 turnos y aprende Terror - Reina de las golosinas durante 3 turnos"
     ],
     "911464": [
@@ -60620,7 +60996,7 @@
         "消耗自身的極限技槽暫時性容易被敵人攻擊+賦予屏障效果+自身受到物理攻擊時一定機率賦予反擊效果",
         "자신의 LB 게이지를 소비하여 일시적으로 적의 공격 대상이 될 확률 상승+배리어 부여+자신에게 물리 공격을 받으면 일정 확률로 반격하는 효과 부여",
         "Consomme la jauge de limite du lanceur pour augmenter temporairement les chances d'être ciblé, active une barrière et chance que le lanceur contre-attaque après avoir reçu une attaque physique",
-        "Verbraucht eigenen Limitmeter, um kurzfristig die Chance zu erhöhen, zum Ziel zu werden, aktiviert Barriere + Chance auf Konter, wenn Benutzer von einem physischen Angriff attackiert wird.",
+        "Verbraucht eigenes Limitmeter, um kurzfristig die Chance zu erhöhen, zum Ziel zu werden, aktiviert Barriere + Chance auf Konter, wenn Benutzer von einem physischen Angriff attackiert wird.",
         "Consume la barra de EL del usuario para aumentar temporalmente la probabilidad de ser atacado, activa Barrera y el usuario puede contraatacar al recibir un ataque físico"
     ],
     "911577": [

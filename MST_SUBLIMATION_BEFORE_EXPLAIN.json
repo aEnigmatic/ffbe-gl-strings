@@ -65,11 +65,11 @@
     ],
     "100730004": [
         "Boosts HP restoration amount (great)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高HP恢復量(特大)",
+        "HP 회복량 상승(특대)",
+        "Augmente le taux de restauration des PV (super)",
+        "Erhöht Wert regenerierter LP (sehr hoch)",
+        "Aumenta la recuperación de VIT (muchísimo)"
     ],
     "100750002": [
         "Boosts LB gauge increase each turn (great)",
@@ -481,7 +481,7 @@
     ],
     "202280002": [
         "Boosts damage amount (high)<br>Targets all enemies<br>Temporarily increases chance of being targeted for self<br>Increases MP consumed (high)",
-        "提高傷害量(大)<br>目標變更為全體敵人<br>暫時提高自身被攻擊的機率<br>提高MP消耗量(大)",
+        "提高傷害量(大)<br>目標變更為全體敵人<br>暫時提高自身被攻擊的機率<br>提高MP消耗(大)",
         "피해량 상승(대)<br>적 전체에 피해<br>자신이 일시적으로 적의 공격 대상이 될 확률 상승<br>소비 MP 증가(대)",
         "Augmente les dégâts infligés (beaucoup)<br>Cible tous les ennemis<br>Augmente temporairement les chances du lanceur d'être ciblé<br>Augmente les PM consommés (beaucoup)",
         "Erhöht Schaden (hoch)<br>Greift alle Gegner an<br>Erhöht kurzfristig die Wahrscheinlichkeit selbst zum Ziel zu werden<br>Erhöht MP-Verbrauch (hoch)",
@@ -2745,7 +2745,7 @@
     ],
     "211990002": [
         "Boosts damage reduction when active (low)",
-        "提高發動時傷害減少量(小)",
+        "提高發動時傷害減少率(小)",
         "발동 시 피해 감소량 상승(소)",
         "Amplifie la réduction des dégâts une fois activé (peu)",
         "Erhöht Schadensreduzierung, wenn aktiv (gering)",
@@ -3281,19 +3281,19 @@
     ],
     "216110002": [
         "Boosts maximum damage reduction when active (mid)<br>Boosts chance of taking physical damage (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高發動時的最大傷害減少量(中)<br>提高承受物理攻擊的機率(小)",
+        "발동 시 최대 피해 감소량 상승(중)<br>물리 공격을 대신 받을 확률 상승(소)",
+        "Augmente la réduction des dégâts maximum une fois activé (moyen)<br>Augmente les chances de subir des dégâts physiques (peu)",
+        "Erhöht maximale Schadensverringerung, wenn aktiv (mittel)<br>Erhöht Chance, phys. Schaden zu erleiden (gering)",
+        "Mayor porcentaje de reducción máxima de daño al activarse (bastante)<br>Aumenta la probabilidad de recibir daño físico (poco)"
     ],
     "216160002": [
         "Boosts HP, DEF, and SPR increases (low)<br>Nullifies sleep and confusion",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高HP防禦精神增加量(小)<br>睡眠混亂無效",
+        "HP, 방어력, 정신력 상승량 상승(소)<br>수면과 혼란 무효화",
+        "Amplifie l'augmentation des PV, de la DEF et de la PSY (peu)<br>Annule sommeil et confusion",
+        "Steigert LP, ABW und PSY-Erhöhungen (gering)<br>Annulliert Schlaf und Konfus<br>",
+        "Mayor aumento de VIT, DEF y ESP (poco)<br>Anula sueño y confusión"
     ],
     "216210002": [
         "Boosts damage amount (low)",
@@ -3305,19 +3305,19 @@
     ],
     "216220002": [
         "Boosts ATK",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊",
+        "공격력 상승",
+        "Augmente l'ATT",
+        "Erhöht ANG",
+        "Aumenta el ATQ"
     ],
     "216260002": [
         "Boosts ATK increase (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊增加量(小)",
+        "공격력 상승량 상승(소)",
+        "Amplifie l'augmentation de l'ATT (peu)",
+        "Steigert ANG-Erhöhung (gering)",
+        "Mayor aumento de ATQ (poco)"
     ],
     "216450002": [
         "Boosts damage amount (low)",
@@ -3345,31 +3345,31 @@
     ],
     "216570002": [
         "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高火冰雷水風土光暗屬性耐性增加量(小)",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승량 상승(소)",
+        "Amplifie l'augmentation de la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres (peu)",
+        "Steigert Erhöhungen von Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (gering)",
+        "Mayor aumento de resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (poco)"
     ],
     "216580002": [
         "Boosts damage increase against dragons (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高對龍系魔物的傷害增加量(小)",
+        "드래곤형 마물에게 부여하는 피해 상승량 상승(소)",
+        "Amplifie l'augmentation des dégâts infligés aux dragons (peu)",
+        "Steigert Schadenserhöhung gegen Drachen (gering)",
+        "Aumenta el daño contra dragones (poco)"
     ],
     "216630002": [
         "Boosts ATK and SPR increases (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊精神增加量(小)",
+        "공격력과 정신력 상승량 상승(소)",
+        "Amplifie l'augmentation de l'ATT et de la PSY (peu)",
+        "Steigert ANG- und PSY-Erhöhungen (gering)",
+        "Mayor aumento de ATQ y ESP (poco)"
     ],
     "216680002": [
         "Boosts chance of taking magic damage (low)<br>Boosts maximum damage reduction when active (mid)",
-        "提高發動機率(中)<br>提高發動時傷害減少率(小)",
+        "提高發動機率(中)<br>提高發動時的最大傷害減少量(小)",
         "마법 피해 부여 확률 상승(소)<br>발동 시 피해량 감소율 상승(중)",
         "Augmente les chances de subir des dégâts magiques (peu)<br>Augmente la réduction des dégâts maximum une fois activé (moyen)",
         "Erhöht Chance, mag. Schaden zu erleiden (gering)<br>Erhöht max. Schadensreduzierung, wenn aktiv (mittel)",
@@ -3393,11 +3393,11 @@
     ],
     "216780002": [
         "Boosts HP restoration amount (high)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高HP恢復量(大)",
+        "HP 회복량 상승(대)",
+        "Augmente le nombre de PV restaurés (beaucoup)",
+        "Erhöht Wert regenerierter LP (hoch)",
+        "Aumenta la recuperación de VIT (mucho)"
     ],
     "216930002": [
         "Boosts damage amount (mid)",
@@ -3849,11 +3849,11 @@
     ],
     "221530002": [
         "Boosts turns in effect for double ability - Iris (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高「W能力・伊莉絲」的效果回合數(小)",
+        "'W어빌리티·아이리스'의 효과 턴 수 상승(소)",
+        "Augmente le nombre de tours des effets pour Double aptitude - Iris (peu)",
+        "Erhöht Anzahl aktiver Runden für Doppelfähigkeit - Iris (gering)",
+        "Aumenta la duración de Habilidad doble - Iris (poco)"
     ],
     "224140002": [
         "Decreases turns in effect for DEF and SPR reductions (low)",
@@ -3873,19 +3873,19 @@
     ],
     "225210002": [
         "Boosts damage increase against dragons (low)<br>Boosts ATK",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高對龍系魔物的傷害增加量(小)<br>提高攻擊",
+        "드래곤형 마물에게 부여하는 피해 상승량 상승(소)<br>공격력 상승",
+        "Amplifie l'augmentation des dégâts infligés aux dragons (peu)<br>Augmente l'ATT",
+        "Steigert Schadenserhöhung gegen Drachen (gering)<br>Erhöht ANG",
+        "Aumenta el daño contra dragones (poco)<br>Aumenta el ATQ"
     ],
     "225220002": [
         "Boosts damage increase against dragons (low)<br>Boosts MAG",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高對龍系魔物的傷害增加量(小)<br>提高魔力",
+        "드래곤형 마물에게 부여하는 피해 상승량 상승(소)<br>마력 상승",
+        "Amplifie l'augmentation des dégâts infligés aux dragons (peu)<br>Augmente la MAGIE",
+        "Steigert Schadenserhöhung gegen Drachen (gering)<br>Erhöht MAG",
+        "Aumenta el daño contra dragones (poco)<br>Aumenta la MAG"
     ],
     "226391002": [
         "Boosts damage amount (low)",
@@ -4505,7 +4505,7 @@
     ],
     "910275002": [
         "Boosts ATK, DEF, MAG and SPR increases (mid)<br>Increases MP consumed (mid)",
-        "提高攻擊防禦魔力精神增加量(中)<br>提高MP消耗量(中)",
+        "提高攻擊防禦魔力精神增加量(中)<br>提高MP消耗(中)",
         "공격력, 방어력, 마력, 정신력 상승량 상승(중)<br>소비 MP 증가(중)",
         "Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)<br>Augmente les PM consommés (moyen)",
         "Steigert ANG-, ABW-, MAG- und PSY-Erhöhungen (mittel)<br>Erhöht MP-Verbrauch (mittel)",
@@ -4769,7 +4769,7 @@
     ],
     "910748002": [
         "Boosts maximum damage reduction when active (mid)<br>Boosts chance of taking physical damage (low)",
-        "提高發動時造成的最大傷害減少量(中)<br>提高承受物理攻擊的機率(小)",
+        "提高發動時的最大傷害減少量(中)<br>提高承受物理攻擊的機率(小)",
         "발동 시 최대 피해 감소량 상승(중)<br>물리공격을 대신 받을 확률 상승(소)",
         "Augmente la réduction des dégâts maximum une fois activé (moyen)<br>Augmente les chances de prendre des dégâts physiques (peu)",
         "Erhöht maximale Schadensverringerung, wenn aktiv (mittel)<br>Erhöht Chance, phys. Schaden zu erleiden (gering)",

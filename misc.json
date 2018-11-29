@@ -687,6 +687,30 @@
         "Du kannst ein beliebiges <color=255:0:0>Emblem</color>, das du als Errungenschaftsbelohnung erhältst, neben deinem Namen anzeigen lassen, kupo!<br><color=255:0:0>Embleme</color> können mit dem Emblembutton auf dem Bildschirm zur Spielerinfo eingestellt werden, kupo!",
         "¡Puedes seleccionar cualquier <color=255:0:0>emblema</color> que consigas como premio por haber alcanzado un logro para que aparezca junto a tu nombre y así poder presumir con otros jugadores, kupó! <br>¡Podrás seleccionar los <color=255:0:0>emblemas</color> desde la pantalla Info. del jugador, al pinchar en el botón Seleccionar emblema, kupó!"
     ],
+    "Account_login_Facebook": [
+        "Facebook",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Account_login_Google": [
+        "Google",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Account_login_None": [
+        "None",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "BADST_ADD": [
         "Status Ailments",
         "追加狀態異常",
@@ -3735,6 +3759,14 @@
         "Hier sind deine heutigen Anmeldebelohnungen! Vergiss nicht deine kostenlose Lapis zu beschwören, kupo!",
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de realizar una invocación para conseguir lapis gratis, kupó!"
     ],
+    "EXPLAIN_REWARD_1017": [
+        "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Summon Tickets, kupo!",
+        null,
+        "오늘의 출석 보상! 팬 페스타 2018 소환티켓을 사용해봐쿠포!",
+        null,
+        null,
+        null
+    ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
         "獲得素材",
@@ -6303,6 +6335,14 @@
         "NieR:Automata Ereignisbelohnungen",
         "Recompensas del evento de NieR:Automata"
     ],
+    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1017": [
+        "Fan Festa 2018 Event Rewards",
+        null,
+        "팬 페스타 2018 이벤트 보상",
+        null,
+        null,
+        null
+    ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
         "Special Daily Login",
         "每日特別登入",
@@ -6430,6 +6470,14 @@
         "Bonus de connexion de NieR:Automata",
         "NieR:Automata Anmeldebonus",
         "Bonificación de inicio de sesión de NieR:Automata"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1017": [
+        "Fan Festa 2018 Login Bonus",
+        null,
+        "팬 페스타 2018 출석 보상",
+        null,
+        null,
+        null
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -8279,6 +8327,14 @@
         "Maximale Arenajuwelen bereits erreicht.",
         "No puedes restablecer los orbes de Arena por encima de su valor máximo."
     ],
+    "MSG_ARMS_NO_FIXED": [
+        null,
+        null,
+        "장비 강화 중인 장비는 진화하실 수 없습니다.<br>장비 강화를 완료하신 후 진화하여 주십시오.",
+        null,
+        null,
+        null
+    ],
     "MSG_BUNDLE_PURCHASE_CONFIRM": [
         "Are you sure you want to buy this bundle?",
         "是否購買此綁售？",
@@ -8326,6 +8382,46 @@
         "Récompenses d'expédition",
         "Expeditionsbelohnungen",
         "Recompensas de expedición"
+    ],
+    "MSG_INCORRECT_CAMPAIN_NO_PROBLEM": [
+        null,
+        null,
+        "시리얼 코드가 올바르게 인증되었습니다.<br>메시지함을 통해 보상 아이템을 수령해 주십시오.",
+        null,
+        null,
+        null
+    ],
+    "MSG_INCORRECT_CAMPAIN_ONLY_ONCE": [
+        null,
+        null,
+        "시리얼 코드 인증에 실패했습니다.<br>유사한 이벤트에<br>다른 시리얼 코드가 입력되었습니다.",
+        null,
+        null,
+        null
+    ],
+    "MSG_INCORRECT_CAMPAIN_OUT_OF_PERIOD": [
+        null,
+        null,
+        "시리얼 코드 인증에 실패했습니다.<br>입력하신 시리얼 코드는 유효 기간이 지났기 때문에 사용하실 수 없습니다.<br>시리얼 코드를 확인해 주십시오.",
+        null,
+        null,
+        null
+    ],
+    "MSG_INCORRECT_EXCHANGE_PRIZE": [
+        null,
+        null,
+        "아이템 교환 정보가 올바르지 않습니다.",
+        null,
+        null,
+        null
+    ],
+    "MSG_INCORRECT_MODEL_CHANGE_UPDATEDATE": [
+        null,
+        null,
+        "이어받기 도중 유저 정보가 갱신되어 데이터를 이어받지 못했습니다.<br>이어받기를 다시 시도해 주십시오.",
+        null,
+        null,
+        null
     ],
     "MSG_INVALID_ACHIEVEMENT_REWARD": [
         "The achievement reward is invalid.",
@@ -12567,6 +12663,14 @@
         "Du hast jegliche deiner Verknüpfungsversuche für [Facebook/Google] aufgebraucht.<br>Du wirst dein Spiel nicht mehr mit [Facebook/Google] verknüpfen können.",
         "Has agotado todos los intentos de vinculación con [Facebook/Google].<br>Ya no podrás vincular tu cuenta del juego con [Facebook/Google]."
     ],
+    "Pop_Up_Account_Relogin_Failed": [
+        "Unable to re-login to <param=login_service>.<br><br>Please try to login again from the Title screen.",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "Pop_Up_General_Button_No": [
         "NO",
         "否",
@@ -16374,6 +16478,14 @@
         "L'ennemi frappe en premier !",
         "Der Feind beginnt!",
         "¡El enemigo ataca primero!"
+    ],
+    "TER_NAME_900010538": [
+        "Golden Bomb",
+        "黃金炸彈",
+        "골든 봄",
+        "Bombo doré",
+        "Goldbomber",
+        "Bom dorado"
     ],
     "TITLE_CONFIRM_APP_EXIT": [
         "Exit the game?",

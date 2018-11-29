@@ -220,7 +220,7 @@
         "召喚魔法+10%",
         "소환마법+10%",
         "INV +10%",
-        "BSW MAG + 10 %",
+        "RUF MAG + 10 %",
         "MAG INV  +10%"
     ],
     "100200": [
@@ -228,7 +228,7 @@
         "召喚魔法+20%",
         "소환마법+20%",
         "INV +20%",
-        "BSW MAG + 20 %",
+        "RUF MAG + 20 %",
         "MAG INV +20%"
     ],
     "100210": [
@@ -236,7 +236,7 @@
         "召喚魔法+30%",
         "소환마법+30%",
         "INV +30%",
-        "BSW MAG + 30 %",
+        "RUF MAG + 30 %",
         "MAG INV +30%"
     ],
     "100220": [
@@ -244,7 +244,7 @@
         "召喚魔法+40%",
         "소환마법+40%",
         "INV +40%",
-        "BSW MAG + 40 %",
+        "RUF MAG + 40 %",
         "MAG INV +40%"
     ],
     "100710": [
@@ -488,10 +488,10 @@
         "Matapájaros"
     ],
     "101100": [
-        "Spirit Slayer",
+        "Spirit Killer",
         "荼靈",
         "정령 킬러",
-        "Tue-esprit",
+        "Tue-esprits",
         "Geisttöter",
         "Mataespíritus"
     ],
@@ -13690,7 +13690,7 @@
     "216490": [
         "Super Heavenfall Spear",
         "飛天滅龍槍・極",
-        "비천명룡창·극",
+        "비천멸룡창·극",
         "Lance tombeciel+",
         "Superhimmelsfallspeer",
         "Lanza derrumbacielos+"
@@ -14010,7 +14010,7 @@
     "216890": [
         "Heavenfall Spear",
         "飛天滅龍槍",
-        "비천명룡창",
+        "비천멸룡창",
         "Lance tombeciel",
         "Himmelsfallspeer",
         "Lanza derrumbacielos"
@@ -19532,7 +19532,7 @@
         "召喚魔法+15%",
         "소환마법+15%",
         "MAG INVO +15%",
-        "BSW MAG + 15 %",
+        "RUF MAG + 15 %",
         "MAG INV +15%"
     ],
     "223820": [
@@ -24371,7 +24371,7 @@
         "Buster Style+",
         "破壞者姿態改",
         "개량형 버스터 폼",
-        null,
+        "Posture de destructeur +",
         null,
         null
     ],
@@ -24379,7 +24379,7 @@
         "Trigger Smash",
         "粉碎扳機",
         "스매시 트리거",
-        null,
+        "Horion",
         null,
         null
     ],
@@ -24387,7 +24387,7 @@
         "Double Limit",
         "W極限",
         "W 리미트",
-        null,
+        "Double transcendance",
         null,
         null
     ],
@@ -24395,7 +24395,7 @@
         "Memories of Friends",
         "友人的記憶",
         "친구의 기억",
-        null,
+        "Souvenirs d'amis",
         null,
         null
     ],
@@ -25320,7 +25320,7 @@
         "Hoja inmisericorde"
     ],
     "227320": [
-        "Present - HP",
+        "Gift of HP",
         "禮物·HP",
         null,
         null,
@@ -25328,7 +25328,7 @@
         null
     ],
     "227321": [
-        "Present - MP",
+        "Gift of MP",
         "禮物·MP",
         null,
         null,
@@ -25952,7 +25952,7 @@
         null
     ],
     "227428": [
-        "Knight of the Holy Sword",
+        "Holy Sword Knight",
         "聖劍騎士",
         null,
         null,
@@ -26216,7 +26216,7 @@
         "Bombardeo de alfombra"
     ],
     "227477": [
-        "A Coward's Courage",
+        "Fraidy-Cat's Fortitude",
         "膽小鬼的勇氣",
         null,
         null,
@@ -26722,7 +26722,7 @@
     "227570": [
         "Prayers of the Children",
         "祈禱者的思念",
-        "기도자의 마음",
+        "기도자의 소망",
         null,
         null,
         null
@@ -26730,7 +26730,7 @@
     "227571": [
         "Bond of the Guardian",
         "護衛之絆",
-        "가드와의 인연",
+        "가드와의 유대",
         null,
         null,
         null
@@ -26738,7 +26738,7 @@
     "227572": [
         "Full Moon Saint",
         "月輪聖印",
-        "월륜의 성인",
+        "성스러운 달의 인장",
         null,
         null,
         null
@@ -26746,7 +26746,7 @@
     "227573": [
         "Unbroken Promise",
         "繼承的遺志",
-        "이어받은 유지",
+        "이어받은 의지",
         null,
         null,
         null
@@ -26786,7 +26786,7 @@
     "227583": [
         "Mars Sigil",
         "火星聖印",
-        "화성의 성인",
+        "성스러운 화성의 인장",
         null,
         null,
         null
@@ -26802,7 +26802,7 @@
     "227585": [
         "Third Pilgrimage",
         "第三次的旅途",
-        "세 번째 여행",
+        "세 번째 여행길",
         null,
         null,
         null
@@ -26810,7 +26810,7 @@
     "227586": [
         "Booster Cactuar",
         "增壓‧仙人掌",
-        "사보텐 부스트",
+        "부스트 사보텐",
         null,
         null,
         null
@@ -27410,10 +27410,10 @@
     "227701": [
         "Brave Soul",
         "勇者之魂",
-        null,
-        null,
-        null,
-        null
+        "용사의 혼",
+        "Âme de héros",
+        "Heldenseele",
+        "Alma de héroe"
     ],
     "227710": [
         "Star Guard",
@@ -28489,7 +28489,7 @@
     ],
     "227894": [
         "Stuffed Mog",
-        "胖莫古力",
+        "胖莫古利",
         null,
         null,
         null,
@@ -28560,20 +28560,20 @@
         null
     ],
     "227910": [
-        "New Aquan Killer",
+        "Aquan Killer+",
         "枯水改",
-        null,
-        null,
-        null,
-        null
+        "개량형 수중생물 킬러",
+        "Tue-aquatiques +",
+        "Aquankiller+",
+        "Mataacuáticos+"
     ],
     "227920": [
-        "New Spirit Slayer",
+        "Spirit Killer+",
         "荼靈改",
-        null,
-        null,
-        null,
-        null
+        "개량형 정령 킬러",
+        "Tue-esprits +",
+        "Geisttöter+",
+        "Mataespíritus+"
     ],
     "227925": [
         "Extremely Heavy Armor",
@@ -28603,7 +28603,7 @@
         "Twisted Hero",
         "扭曲的英雄",
         "일그러진 영웅",
-        null,
+        "Sinistre héros",
         null,
         null
     ],
@@ -28616,7 +28616,7 @@
         null
     ],
     "227933": [
-        "Stand Under Burden",
+        "Bearer of Burden",
         "肩負責任之人",
         null,
         null,
@@ -28656,7 +28656,7 @@
         "Kukris de Nyx"
     ],
     "227938": [
-        "Innocent Defense",
+        "Reflexive Defense",
         "無心護法",
         null,
         null,
@@ -28664,7 +28664,7 @@
         null
     ],
     "227939": [
-        "Aqua Divinity",
+        "Aquatic Divinity",
         "水之神算",
         null,
         null,
@@ -29024,7 +29024,7 @@
         null
     ],
     "228014": [
-        "Powerful Child",
+        "Potent Child",
         "堅強幼子",
         null,
         null,
@@ -29048,7 +29048,7 @@
         null
     ],
     "228021": [
-        "Accumulation Blow",
+        "Accumulating Blow",
         "積累打擊",
         null,
         null,
@@ -29160,7 +29160,7 @@
         null
     ],
     "228043": [
-        "Great Mage's Authority",
+        "Great Mage Authority",
         "大魔道士的威光",
         null,
         null,
@@ -29195,7 +29195,7 @@
         "Tragic Ending",
         "悲慘終結",
         "비극적 결말",
-        null,
+        "Fin tragique",
         null,
         null
     ],
@@ -29203,7 +29203,7 @@
         "Immanence",
         "震天動地",
         "진천동지",
-        null,
+        "Désastre",
         null,
         null
     ],
@@ -29211,7 +29211,7 @@
         "Light Eclipse",
         "蝕光",
         "빛의 잠식",
-        null,
+        "Éclipse de lumière",
         null,
         null
     ],
@@ -29219,7 +29219,7 @@
         "Descent into Darkness",
         "墮暗",
         "암흑 타락",
-        null,
+        "Descente aux ténèbres",
         null,
         null
     ],
@@ -29227,7 +29227,7 @@
         "Sword of the Hero",
         "英雄長刀",
         "영웅의 대명검",
-        null,
+        "Épée du héros",
         null,
         null
     ],
@@ -29235,7 +29235,7 @@
         "Blade Perfection",
         "刀法極致",
         "도술의 경지",
-        null,
+        "Perfection tranchante",
         null,
         null
     ],
@@ -29243,7 +29243,7 @@
         "Transcending Knowledge",
         "超越常識的力量",
         "인지를 초월한 힘",
-        null,
+        "Pouvoir inconcevable",
         null,
         null
     ],
@@ -29304,7 +29304,7 @@
         null
     ],
     "228070": [
-        null,
+        "Phantom Barrier Formation",
         "幻城結界陣",
         null,
         null,
@@ -29312,7 +29312,7 @@
         null
     ],
     "228071": [
-        null,
+        "Samurai Spirit Formation",
         "士魂踴躍陣",
         null,
         null,
@@ -29320,7 +29320,7 @@
         null
     ],
     "228072": [
-        null,
+        "Military Glory Formation",
         "武威發揚陣",
         null,
         null,
@@ -29328,7 +29328,7 @@
         null
     ],
     "228073": [
-        null,
+        "Liquid Infusion",
         "水刃計",
         null,
         null,
@@ -29336,7 +29336,7 @@
         null
     ],
     "228074": [
-        null,
+        "Defense Force Stratagem",
         "護軍策略",
         null,
         null,
@@ -29344,7 +29344,7 @@
         null
     ],
     "228075": [
-        null,
+        "Morale Boost",
         "激勵軍配",
         null,
         null,
@@ -29368,7 +29368,7 @@
         null
     ],
     "228082": [
-        null,
+        "Blue Flame Edge",
         "破炎蒼劍",
         null,
         null,
@@ -29376,7 +29376,7 @@
         null
     ],
     "228083": [
-        null,
+        "Crimson Frost Edge",
         "裂冰緋劍",
         null,
         null,
@@ -29384,7 +29384,7 @@
         null
     ],
     "228084": [
-        null,
+        "Double-Edged Research",
         "雙刃極致",
         null,
         null,
@@ -29392,7 +29392,7 @@
         null
     ],
     "228085": [
-        null,
+        "Kingdom's Hero",
         "王國傑士",
         null,
         null,
@@ -29400,7 +29400,7 @@
         null
     ],
     "228086": [
-        null,
+        "Forsaken Armor",
         "棄甲英雄",
         null,
         null,
@@ -29920,7 +29920,7 @@
         null
     ],
     "228212": [
-        null,
+        "Fang Sharpener",
         "磨爪",
         null,
         null,
@@ -29936,7 +29936,7 @@
         null
     ],
     "228214": [
-        null,
+        "Bodily Guard",
         "身體庇護",
         null,
         null,
@@ -29944,7 +29944,7 @@
         null
     ],
     "228215": [
-        null,
+        "Wing Guard",
         "翅膀庇護",
         null,
         null,
@@ -29952,7 +29952,7 @@
         null
     ],
     "228216": [
-        null,
+        "Sword Gnaw",
         "咬劍",
         null,
         null,
@@ -29960,7 +29960,7 @@
         null
     ],
     "228217": [
-        null,
+        "Staff Gnaw",
         "咬杖",
         null,
         null,
@@ -29968,7 +29968,7 @@
         null
     ],
     "228218": [
-        null,
+        "Sharing Power",
         "分享之力",
         null,
         null,
@@ -29976,7 +29976,7 @@
         null
     ],
     "228219": [
-        null,
+        "Mountain Invocation",
         "山之守護",
         null,
         null,
@@ -29984,7 +29984,7 @@
         null
     ],
     "228220": [
-        null,
+        "Sky Invocation",
         "空之守護",
         null,
         null,
@@ -29992,7 +29992,7 @@
         null
     ],
     "228221": [
-        null,
+        "White Dragon Roar",
         "白龍咆哮",
         null,
         null,
@@ -30000,7 +30000,7 @@
         null
     ],
     "228222": [
-        null,
+        "Fang Cleft",
         "爪裂",
         null,
         null,
@@ -30008,7 +30008,7 @@
         null
     ],
     "228223": [
-        null,
+        "Dragon Fledgling",
         "幼年白龍",
         null,
         null,
@@ -30016,7 +30016,7 @@
         null
     ],
     "228224": [
-        null,
+        "Mana Spirit Banquet",
         "精靈們的祝宴",
         null,
         null,
@@ -30024,7 +30024,7 @@
         null
     ],
     "228225": [
-        null,
+        "Acrobatic Flight",
         "特技飛行",
         null,
         null,
@@ -30032,7 +30032,7 @@
         null
     ],
     "228226": [
-        null,
+        "For Everyone",
         "為了大家",
         null,
         null,
@@ -30040,7 +30040,7 @@
         null
     ],
     "228227": [
-        null,
+        "Daughter of the Winged",
         "有翼者的女兒",
         null,
         null,
@@ -30056,7 +30056,7 @@
         null
     ],
     "228229": [
-        null,
+        "Mythical Beast Encounter",
         "與幻獸的邂逅",
         null,
         null,
@@ -30064,7 +30064,7 @@
         null
     ],
     "228230": [
-        null,
+        "King Truffle's Protection",
         "特呂弗王之加護",
         null,
         null,
@@ -30072,7 +30072,7 @@
         null
     ],
     "228231": [
-        "Invoke the Mountains & Sky",
+        "Mountain & Sky Invocation",
         "山與天空的守護精靈",
         null,
         null,
@@ -30240,7 +30240,7 @@
         null
     ],
     "228261": [
-        null,
+        "Azure Dragon Fist",
         "青龍殺陣拳",
         null,
         null,
@@ -30248,7 +30248,7 @@
         null
     ],
     "228262": [
-        null,
+        "Black Tortoise Sweep",
         "玄武百裂腳",
         null,
         null,
@@ -30464,7 +30464,7 @@
         null
     ],
     "228296": [
-        "Sleep Flower Aficionado",
+        "Sleep Flower Lover",
         "喜好沉睡之花",
         null,
         null,
@@ -30504,7 +30504,7 @@
         null
     ],
     "228301": [
-        "Permeating Fragrance",
+        "Effusive Fragrance",
         "芳香四溢",
         null,
         null,
@@ -30944,356 +30944,356 @@
         "Ojo de muñeca"
     ],
     "228400": [
-        "I'm such a stud!",
+        "I'm gorgeous!",
         "吾之俊美",
-        null,
-        null,
-        null,
-        null
+        "아이 엠 뷰티풀",
+        "Je suis magnifique !",
+        "Ich bin dein Adonis!",
+        "¡Lo más guapo!"
     ],
     "228401": [
         "Stylish Form",
         "時尚外形",
-        null,
-        null,
-        null,
-        null
+        "스타일리쉬 폼",
+        "Summum de l'élégance",
+        "Stylische Form",
+        "Forma estilosa"
     ],
     "228402": [
         "Block Charm",
         "D·防禦魅惑",
-        null,
-        null,
-        null,
-        null
+        "D·방어적 매혹",
+        "Charme du physique",
+        "Entwaffnender Charme",
+        "Bloquear embrujo"
     ],
     "228403": [
         "Mind Charm",
         "D·精神魅惑",
-        null,
-        null,
-        null,
-        null
+        "D·정신적 매혹",
+        "Charme de l'esprit",
+        "Geistiger Charme",
+        "Embrujo mental"
     ],
     "228404": [
         "Full Break Charm",
         "D·身心潰擊魅惑",
-        null,
-        null,
-        null,
-        null
+        "D·풀 브레이크적 매혹",
+        "Charme dévastateur",
+        "Vernichtender Charme",
+        "Embrujo rompetodo"
     ],
     "228405": [
         "Super Wink",
         "超級媚眼",
-        null,
+        "슈퍼 윙크",
         "Super clin d'œil",
         "Superzwinkern",
-        null
+        "Superguiño"
     ],
     "228406": [
         "Sexy Smile",
         "性感微笑",
-        null,
-        null,
-        null,
-        null
+        "섹시 스마일",
+        "Sourire ravageur",
+        "Sexy Lächeln",
+        "Sonrisa sensual"
     ],
     "228407": [
         "Earthbound",
         "地縛",
-        null,
-        null,
-        null,
-        null
+        "지상의 속박",
+        "Terre-à-terre",
+        "Erdgebunden",
+        "Vínculo terrenal"
     ],
     "228408": [
         "Glorious Guard",
         "輝煌防禦",
-        null,
-        null,
-        null,
-        null
+        "영광의 수호",
+        "Garde glorieuse",
+        "Glorreiche Garde",
+        "Guardia gloriosa"
     ],
     "228409": [
         "Noble Stance",
         "高貴立場",
-        null,
-        null,
-        null,
-        null
+        "고귀한 입장",
+        "Port altier",
+        "Nobler Stand",
+        "Postura nobiliaria"
     ],
     "228410": [
         "Noblesse Oblige",
         "貴族義務",
-        null,
-        null,
-        null,
-        null
+        "노블레스 오블리제",
+        "Noblesse oblige",
+        "Adel verpflichtet",
+        "Deber de noble"
     ],
     "228411": [
-        "Thrive In Adversity",
+        "He Who Thrives In Adversity",
         "逆境中閃耀的男人",
-        null,
-        null,
-        null,
-        null
+        "역경 속에서도 빛나는 남자",
+        "Épanouissement dans l'adversité",
+        "Der in Notlagen wild Aufblühende",
+        "El que vence ante la adversidad"
     ],
     "228412": [
-        "Edel Schild",
+        "Edelschild",
         "以太護盾",
-        null,
-        null,
-        null,
-        null
+        "귀족의 방패",
+        "Edelschild",
+        "Edelschild",
+        "Edelschild"
     ],
     "228413": [
-        "Sibling Lessons",
+        "Sibling's Teachings",
         "兄姐的教誨",
-        null,
-        null,
-        null,
-        null
+        "형과 누나의 가르침",
+        "Enseignement fraternel",
+        "Geschwisterliche Weisheit",
+        "Enseñanzas de hermanos"
     ],
     "228414": [
         "Man of Many Rivals",
         "尋找對手之人",
-        null,
-        null,
-        null,
-        null
+        "라이벌을 가진 자",
+        "Rivalité",
+        "Rivalensammler<br>",
+        "Hombre de muchos enemigos"
     ],
     "228415": [
         "Brilliant Rose",
         "傑出玫瑰",
-        null,
-        null,
-        null,
-        null
+        "찬란한 장미",
+        "Rose étincelante",
+        "Brilliante Rose",
+        "Rosa resplandeciente"
     ],
     "228416": [
         "Hero's Vow - Earth",
         "英雄誓言·土",
-        null,
-        null,
-        null,
-        null
+        "영웅의 맹세·땅",
+        "Vœu du héros - Terre",
+        "Heldenschwur - Erde",
+        "Juramento heroico - Tierra"
     ],
     "228417": [
         "Dangerous Rose",
         "D·危險玫瑰",
-        null,
+        "D·위험한 장미",
         "Rose dangereuse",
         "Gefährliche Rose",
-        null
+        "Rosa peligrosa"
     ],
     "228420": [
         "Smartshot",
         "迅捷射擊",
-        null,
-        null,
-        null,
-        null
+        "스마트 샷",
+        "Tir de précision",
+        "Gripsschuss",
+        "Tiro inteligente"
     ],
     "228421": [
         "Machine Gun Parasol",
         "陽傘機槍",
-        null,
-        null,
-        null,
-        null
+        "머신건 파라솔",
+        "Parapluie mitrailleur",
+        "Maschinengewehrschirm",
+        "Parametralletas"
     ],
     "228422": [
         "One-Shot Kill",
         "一槍斃命",
-        null,
-        null,
-        null,
-        null
+        "원 샷 킬",
+        "Mort subite",
+        "Eine Kugel, ein Abschuss",
+        "Disparo mortal"
     ],
     "228423": [
         "Open Parasol",
         "開傘",
-        null,
-        null,
-        null,
-        null
+        "오픈 파라솔",
+        "Ombrelle déployée",
+        "Schirm öffnen",
+        "Abreparasoles"
     ],
     "228424": [
         "Arm Snipe",
         "狙臂",
-        null,
-        null,
-        null,
-        null
+        "무장 저격",
+        "Tir au bras",
+        "Armschuss",
+        "Disparo al brazo"
     ],
     "228425": [
         "Head Snipe",
         "狙頭",
-        null,
-        null,
-        null,
-        null
+        "머리 저격",
+        "Tir à la tête",
+        "Kopfschuss",
+        "Disparo a la cabeza"
     ],
     "228426": [
         "Aristocratic Duty",
         "貴族的責任",
-        null,
-        null,
-        null,
-        null
+        "귀족의 책임",
+        "Devoir aristocratique",
+        "Adlige Verantwortungen",
+        "Deber de aristócrata"
     ],
     "228427": [
         "Graceful Posture",
         "優美站姿",
-        null,
-        null,
-        null,
-        null
+        "아름다운 자세",
+        "Posture gracieuse",
+        "Anmutige Pose",
+        "Postura elegante"
     ],
     "228428": [
         "Elegant Lady",
         "優雅貴婦人",
-        null,
-        null,
-        null,
-        null
+        "엘레강트한 귀부인",
+        "Dame élégante",
+        "Elegante Dame",
+        "Mujer elegante"
     ],
     "228430": [
         "Aqua Authority",
         "水之權能",
-        null,
-        null,
-        null,
-        null
+        "물의 권세",
+        "Autorité aquatique",
+        "Aquatische Autorität",
+        "Autoridad acuática"
     ],
     "228431": [
         "Aqua Philosophy",
         "水之哲理",
-        null,
-        null,
-        null,
-        null
+        "물의 철학",
+        "Philosophie aquatique",
+        "Aquatische Philosophie",
+        "Filosofía acuática"
     ],
     "228432": [
         "Exquisite Silence",
         "無言美貌",
-        null,
-        null,
-        null,
-        null
+        "아름다운 침묵",
+        "Silence exquis",
+        "Anmutiges Schweigen",
+        "Silencio exquisito"
     ],
     "228433": [
         "Moisture Mind",
         "潤澤之心",
-        null,
-        null,
-        null,
-        null
+        "윤택한 정신",
+        "Caractère bien trempé",
+        "Nasser Geist",
+        "Humedad mental"
     ],
     "228434": [
         "Scintillating Wit",
         "才華橫溢",
-        null,
-        null,
-        null,
-        null
+        "넘쳐나는 총명함",
+        "Esprit brillant",
+        "Überschäumende Weisheit",
+        "Astucia fulgurante"
     ],
     "228435": [
         "Piercing Heart",
         "貫徹決心",
-        null,
-        null,
-        null,
-        null
+        "관철하는 마음",
+        "Cœur perçant",
+        "Durchbohrtes Herz",
+        "Corazón atravesado"
     ],
     "228436": [
         "Elegant Whip",
         "優雅之鞭",
-        null,
-        null,
-        null,
-        null
+        "엘레강트한 채찍",
+        "Fouet élégant",
+        "Eleganter Peitschenhieb",
+        "Látigo elegante"
     ],
     "228437": [
         "Scarlet Stitch",
         "猩紅刺繡",
-        null,
-        null,
-        null,
-        null
+        "진홍의 바느질",
+        "Point écarlate",
+        "Scharlachrote Hexe",
+        "Puntada escarlata"
     ],
     "228438": [
         "Broom Arts - Off you go.",
         "掃技·請抬腳",
-        null,
-        null,
-        null,
-        null
+        "청소의 기예·돌아가 주십시오",
+        "Art du balai - Ouste",
+        "Besenkunst - Und fort mit dir.",
+        "Arte de limpieza - Allá vas"
     ],
     "228439": [
         "Tea Arts - It's poison o'clock.",
         "茶技·毒素時間",
-        null,
-        null,
-        null,
-        null
+        "다도의 기예·독 드실 시간입니다",
+        "Art du thé - C'est l'heure du poison",
+        "Teekunst - Gleich schlägt's Zyankali.",
+        "Arte del té - Las veneno en punto"
     ],
     "228440": [
         "Blade Arts - One moment, please.",
         "劍技·稍等片刻",
-        null,
-        null,
-        null,
-        null
+        "검의 기예·잠시 기다려 주십시오",
+        "Art de l'épée - Un instant, je vous prie",
+        "Schwertkunst - Einen Moment, bitte.",
+        "Arte del sable - Un momento, por favor"
     ],
     "228441": [
         "HP Hospitality",
         "HP招待",
-        null,
-        null,
-        null,
-        null
+        "HP 접대",
+        "Hospitalité PV",
+        "LP Gastfreundschaft",
+        "Hospitalidad de VIT"
     ],
     "228442": [
         "MP Hospitality",
         "MP招待",
-        null,
-        null,
-        null,
-        null
+        "MP 접대",
+        "Hospitalité PM",
+        "MP Gastfreundschaft",
+        "Hospitalidad de PM"
     ],
     "228443": [
         "Impeccably Clean",
         "一塵不染",
-        null,
-        null,
-        null,
-        null
+        "완벽한 청소",
+        "Nettoyage impeccable",
+        "Blitzblank",
+        "Como una patena"
     ],
     "228444": [
         "Tea Time",
         "下午茶",
-        null,
-        null,
-        null,
-        null
+        "티 타임",
+        "Heure du thé",
+        "Tea Time",
+        "Hora del té"
     ],
     "228445": [
         "Sword Maiden",
         "持劍少女",
-        null,
-        null,
-        null,
-        null
+        "소녀 검사",
+        "Épée sur un plateau",
+        "Schwertjungfer",
+        "Doncella espadachina"
     ],
     "228446": [
         "Tend to the Fire",
         "生火",
-        null,
-        null,
-        null,
-        null
+        "메이크 파이어",
+        "Feu ravivé",
+        "Feuer anfachen",
+        "Encárgate del fuego"
     ],
     "228450": [
         "Fimbulwinter",
@@ -31480,7 +31480,7 @@
         null
     ],
     "228494": [
-        "Defensive Method",
+        "Reduction Creed",
         "護壁之法",
         null,
         null,
@@ -31488,7 +31488,7 @@
         null
     ],
     "228495": [
-        "Destructive Method",
+        "Assault Creed",
         "討滅之法",
         null,
         null,
@@ -31496,7 +31496,7 @@
         null
     ],
     "228496": [
-        "Magical Method",
+        "Sorcery Creed",
         "升魔之法",
         null,
         null,
@@ -31504,7 +31504,7 @@
         null
     ],
     "228497": [
-        "Robust Method",
+        "Barrier Creed",
         "堅牢之法",
         null,
         null,
@@ -31512,7 +31512,7 @@
         null
     ],
     "228498": [
-        "Spiritual Method",
+        "Spirit Creed",
         "煉精之法",
         null,
         null,
@@ -31520,7 +31520,7 @@
         null
     ],
     "228499": [
-        null,
+        "Rejuvenation Arcana",
         "蘇生奧秘",
         null,
         null,
@@ -31528,7 +31528,7 @@
         null
     ],
     "228500": [
-        null,
+        "Time Gazer",
         "凝望星霜者",
         null,
         null,
@@ -31536,7 +31536,7 @@
         null
     ],
     "228501": [
-        null,
+        "Royal Virtue",
         "王族威德",
         null,
         null,
@@ -31544,7 +31544,7 @@
         null
     ],
     "228502": [
-        "Consecutive Method",
+        "Consecutive Creeds",
         "連結法",
         null,
         null,
@@ -31552,7 +31552,7 @@
         null
     ],
     "228503": [
-        null,
+        "Anti-Force Creed",
         "斷刃之法",
         null,
         null,
@@ -31560,7 +31560,7 @@
         null
     ],
     "228504": [
-        null,
+        "Anti-Magic Creed",
         "斷魔之法",
         null,
         null,
@@ -31568,7 +31568,7 @@
         null
     ],
     "228505": [
-        null,
+        "Light & Dark Barrier",
         "光暗結界",
         null,
         null,
@@ -31576,7 +31576,7 @@
         null
     ],
     "228506": [
-        null,
+        "Eath & Wind Barrier",
         "土風結界",
         null,
         null,
@@ -31584,7 +31584,7 @@
         null
     ],
     "228507": [
-        null,
+        "Martyr Code",
         "捨身授力之法",
         null,
         null,
@@ -31592,7 +31592,7 @@
         null
     ],
     "228508": [
-        null,
+        "Dissipation Slam",
         "解咒抹掌",
         null,
         null,
@@ -31600,7 +31600,7 @@
         null
     ],
     "228509": [
-        null,
+        "Tooth for a Tooth Creed",
         "逆攻之法",
         null,
         null,
@@ -31608,7 +31608,7 @@
         null
     ],
     "228510": [
-        null,
+        "Eye for an Eye Creed",
         "轉守之法",
         null,
         null,
@@ -31616,7 +31616,7 @@
         null
     ],
     "228511": [
-        null,
+        "Sage of Old",
         "古賢人",
         null,
         null,
@@ -31632,7 +31632,7 @@
         null
     ],
     "228513": [
-        null,
+        "Beast Creed",
         "獸擊法",
         null,
         null,
@@ -31640,7 +31640,7 @@
         null
     ],
     "228514": [
-        null,
+        "Demon Creed",
         "祓魔法",
         null,
         null,
@@ -31648,7 +31648,7 @@
         null
     ],
     "228515": [
-        null,
+        "Exhilaration Creed",
         "侵命勵戰之法",
         null,
         null,
@@ -31656,7 +31656,7 @@
         null
     ],
     "228516": [
-        null,
+        "Resistance Creed",
         "極遮之法",
         null,
         null,
@@ -31688,7 +31688,7 @@
         null
     ],
     "228522": [
-        null,
+        "Burning Reprisal",
         "反擊灼刀",
         null,
         null,
@@ -31696,7 +31696,7 @@
         null
     ],
     "228523": [
-        null,
+        "Boiling Blood",
         "熱烈血潮",
         null,
         null,
@@ -31704,7 +31704,7 @@
         null
     ],
     "228524": [
-        null,
+        "Searing Cleft",
         "炎熱斬",
         null,
         null,
@@ -31712,7 +31712,7 @@
         null
     ],
     "228525": [
-        null,
+        "Double Strike",
         "二連刺",
         null,
         null,
@@ -31736,7 +31736,7 @@
         null
     ],
     "228528": [
-        null,
+        "Full-Body Lunge",
         "渾身刺",
         null,
         null,
@@ -31744,7 +31744,7 @@
         null
     ],
     "228529": [
-        null,
+        "Hellflame Flash",
         "業炎閃",
         null,
         null,
@@ -32544,7 +32544,7 @@
         null
     ],
     "228694": [
-        "Return of the Holy Mother",
+        "Holy Mother's Return",
         null,
         null,
         null,
@@ -34336,7 +34336,7 @@
         null
     ],
     "228999": [
-        "An Eye for an Eye",
+        "Two Can Play That Game",
         null,
         null,
         null,
@@ -34464,7 +34464,7 @@
         null
     ],
     "229024": [
-        "Anti-Physics Armor",
+        "Anti-Force Armor",
         null,
         null,
         null,
@@ -34552,7 +34552,7 @@
         null
     ],
     "229041": [
-        "Enigmatic Doc",
+        "Enigmatic Doctor",
         null,
         null,
         null,
@@ -43291,7 +43291,7 @@
         "Trigger Smash",
         "粉碎扳機",
         "스매시 트리거",
-        null,
+        "Horion",
         null,
         null
     ],
@@ -43299,7 +43299,7 @@
         "Double Limit",
         "W極限",
         "W 리미트",
-        null,
+        "Double transcendance",
         null,
         null
     ],
@@ -45154,7 +45154,7 @@
     "508193": [
         "Joker's Death",
         "致命鬼牌",
-        "조커의 죽음",
+        "조커 데스",
         "La Faucheuse",
         "Narrentod",
         "Funeral del Jóker"
@@ -45208,7 +45208,7 @@
         null
     ],
     "508211": [
-        "Innocent Defense",
+        "Reflexive Defense",
         null,
         null,
         null,
@@ -45488,7 +45488,7 @@
         null
     ],
     "508313": [
-        "T Black Magic",
+        "Triple Black Magic",
         null,
         null,
         null,
@@ -45521,6 +45521,54 @@
     ],
     "508331": [
         "Martial Arts - Burning Heart",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508340": [
+        "Phantom Barrier Formation",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508341": [
+        "Samurai Spirit Formation",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508342": [
+        "Military Glory Formation",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508343": [
+        "Morale Boost",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508350": [
+        "Blue Flame Edge",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508351": [
+        "Crimson Frost Edge",
         null,
         null,
         null,
@@ -45824,7 +45872,7 @@
         null
     ],
     "508440": [
-        "Invoke the Mountains",
+        "Mountain Invocation",
         "山之守護",
         null,
         null,
@@ -45832,7 +45880,7 @@
         null
     ],
     "508441": [
-        "Invoke the Sky",
+        "Sky Invocation",
         "空之守護",
         null,
         null,
@@ -46320,87 +46368,143 @@
         "¡He subido de nivel, y tú también!"
     ],
     "508570": [
-        "I'm such a stud!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "I'm gorgeous!",
+        "吾之俊美",
+        "아이 엠 뷰티풀",
+        "Je suis magnifique !",
+        "Ich bin dein Adonis!",
+        "¡Lo más guapo!"
     ],
     "508571": [
         "Gorgeous Pose",
-        null,
-        null,
-        null,
-        null,
-        null
+        "俊美姿勢",
+        "뷰티풀 포즈",
+        "Pose distinguée",
+        "Herrliche Haltung",
+        "Postura divina"
     ],
     "508572": [
         "Super Wink",
-        null,
-        null,
-        null,
-        null,
-        null
+        "超級媚眼",
+        "슈퍼 윙크",
+        "Super clin d'œil",
+        "Superzwinkern",
+        "Superguiño"
     ],
     "508573": [
         "Sexy Smile",
-        null,
-        null,
-        null,
-        null,
-        null
+        "性感微笑",
+        "섹시 스마일",
+        "Sourire ravageur",
+        "Sexy Lächeln",
+        "Sonrisa sensual"
     ],
     "508574": [
         "Earthbound",
-        null,
-        null,
-        null,
-        null,
-        null
+        "地縛",
+        "지상의 속박",
+        "Terre-à-terre",
+        "Erdgebunden",
+        "Vínculo terrenal"
     ],
     "508575": [
         "Glorious Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "輝煌防禦",
+        "영광의 수호",
+        "Garde glorieuse",
+        "Glorreiche Garde",
+        "Guardia gloriosa"
     ],
     "508576": [
         "Noblesse Oblige",
-        null,
-        null,
-        null,
-        null,
-        null
+        "貴族義務",
+        "노블레스 오블리제",
+        "Noblesse oblige",
+        "Adel verpflichtet",
+        "Deber de noble"
     ],
     "508577": [
-        "Thrive In Adversity",
-        null,
-        null,
-        null,
-        null,
-        null
+        "He Who Thrives In Adversity",
+        "逆境中閃耀的男人",
+        "역경 속에서도 빛나는 남자",
+        "Épanouissement dans l'adversité",
+        "Der in Notlagen wild Aufblühende",
+        "El que vence ante la adversidad"
     ],
     "508580": [
         "Open Parasol",
-        null,
-        null,
-        null,
-        null,
-        null
+        "開傘",
+        "오픈 파라솔",
+        "Ombrelle déployée",
+        "Sonnenschirm öffnen",
+        "Abreparasoles"
     ],
     "508581": [
         "My Fair Lady Gunner",
+        "女槍手",
+        "총잡이 숙녀",
+        "La belle et le flingue",
+        "Holde Schützin<br>",
+        "Mi querida pistolera"
+    ],
+    "508591": [
+        "Aristocratic Catena",
+        "貴族連續",
+        "귀족적 연쇄",
+        "Suite aristocratique",
+        "Adelskette<br>",
+        "Cadena aristocrática"
+    ],
+    "508600": [
+        "Time Gazer",
         null,
         null,
         null,
         null,
         null
     ],
-    "508591": [
-        "Aristocratic Catena",
+    "508601": [
+        "Consecutive Creeds",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508602": [
+        "Exhilaration Creed",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508603": [
+        "Homecoming Creed",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508604": [
+        "Debilitation Creed",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508605": [
+        "Resistance Creed",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508610": [
+        "Burning Reprisal",
         null,
         null,
         null,
@@ -46457,6 +46561,14 @@
     ],
     "508633": [
         "Double Dark Blade",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "508634": [
+        "Dark Essence",
         null,
         null,
         null,
@@ -48103,12 +48215,44 @@
         "Maschinelles Belagerungsgeschütz",
         "Castillo de máquinas: cañón"
     ],
+    "600610": [
+        "Wide Caliber Artillery",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "600620": [
+        "Sacred Castle Guard",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "600630": [
+        "Sacred Castle Summon",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "600640": [
+        "Water God Evocation",
+        "水神召喚強化",
+        "물의 신 소환강화",
+        "Appel dieu de l'eau",
+        "Wassergottes-Anrufung",
+        "Invocar rey del agua"
+    ],
     "600650": [
         "Darkest Depths",
         "水底之暗",
         "물밑의 어둠",
         "Sombres abysses",
-        "Finstre Tiefen<br>",
+        "Finstre Tiefen",
         "Tinieblas abismales"
     ],
     "600651": [
@@ -54570,7 +54714,7 @@
     "707264": [
         "Super Heavenfall Spear",
         "飛天滅龍槍・極",
-        "비천명룡창·극",
+        "비천멸룡창·극",
         "Lance tombeciel+",
         "Superhimmelsfallspeer",
         "Lanza derrumbacielos+"
@@ -54578,7 +54722,7 @@
     "707265": [
         "Super Heavenfall Spear",
         "飛天滅龍槍・極",
-        "비천명룡창·극",
+        "비천멸룡창·극",
         "Lance tombeciel+",
         "Superhimmelsfallspeer",
         "Lanza derrumbacielos+"
@@ -58189,7 +58333,7 @@
         "점화",
         "Départ de feu",
         "Feuer",
-        "Prender"
+        "Ignición"
     ],
     "910005": [
         "Demon's Revenge",
@@ -58691,7 +58835,7 @@
         "Firewall: Power↑",
         "增強ＨＳ威力",
         "HS 위력 증대",
-        "Virevolte renforcée",
+        "Mur de feu : Puissance ↑",
         "Feuerwall St. 2",
         "Parapeto letal"
     ],
@@ -59660,7 +59804,7 @@
         "召喚魔法+40%",
         "소환마법+40%",
         "INV +40%",
-        "BSW MAG + 40 %",
+        "RUF MAG + 40 %",
         "MAG INV +40%"
     ],
     "910190": [
@@ -59668,7 +59812,7 @@
         "召喚魔法+50%",
         "소환마법+50%",
         "INV +50%",
-        "BSW MAG + 50 %",
+        "RUF MAG + 50 %",
         "MAG INV +50%"
     ],
     "910191": [
@@ -62173,7 +62317,7 @@
         "점화",
         "Départ de feu",
         "Feuer",
-        "Prender"
+        "Ignición"
     ],
     "910505": [
         "Ignite",
@@ -62181,7 +62325,7 @@
         "점화",
         "Départ de feu",
         "Feuer",
-        "Prender"
+        "Ignición"
     ],
     "910506": [
         "Demon's Wrath",
