@@ -26343,6 +26343,38 @@
         "Limitmeter füllt sich schneller und erhöht Werte bei Festlegung eines Espers um 10%.",
         "La barra de EL se rellena más rápido y aumenta los parámetros al configurar un esper al 10%"
     ],
+    "227570": [
+        null,
+        null,
+        null,
+        "(Une fois tous les 5 tours) Restaure les PV de tous les alliés, remplit la jauge d'invocation, augmente les dégâts infligés par Hurlements et Écho au tour suivant",
+        null,
+        null
+    ],
+    "227571": [
+        null,
+        null,
+        null,
+        "(Une fois tous les 4 tours) Active une barrière pour tous les alliés",
+        null,
+        null
+    ],
+    "227572": [
+        null,
+        null,
+        null,
+        "Augmente les PV, les PM, la DEF et la PSY de 20%, remplit la jauge d'invocation à chaque tour et change les effets de la limite",
+        null,
+        null
+    ],
+    "227573": [
+        null,
+        null,
+        null,
+        "Augmente la MAGIE, la PSY et les caractéristiques des chimères appelées de 30% et augmente les dégâts de certaines aptitudes",
+        null,
+        null
+    ],
     "227574": [
         "Boost parameters of espers evoked by 20%",
         "發動召喚魔法時提高20%幻獸狀態",
@@ -26351,11 +26383,59 @@
         "Erhöht Werte gerufener Esper um 20 %",
         "Potencia un 20% los parámetros de los espers invocados"
     ],
+    "227580": [
+        null,
+        null,
+        null,
+        "Augmente la résistance à l'eau de tous les alliés et réduit la résistance à l'eau de tous les ennemis",
+        null,
+        null
+    ],
+    "227581": [
+        null,
+        null,
+        null,
+        "Consomme la jauge de limite du lanceur pour restaurer les PM de tous les alliés",
+        null,
+        null
+    ],
+    "227582": [
+        null,
+        null,
+        null,
+        "(Une fois tous les 5 tours) Inflige des dégâts de feu en partie fixes et réduit la résistance à l'eau d'un ennemi et remplit la jauge de limite",
+        null,
+        null
+    ],
+    "227583": [
+        null,
+        null,
+        null,
+        "Augmente la MAGIE de 50%, restaure les PV et les PM à chaque tour, remplit la jauge de limite et augmente l'ATT, la DEF et la PSY",
+        null,
+        null
+    ],
+    "227584": [
+        null,
+        null,
+        null,
+        "Augmente les dégâts de certaines aptitudes",
+        null,
+        null
+    ],
     "227585": [
         "Boost HP and MP by 20%, boost LB damage, and boost equipment MAG when only weapons are equipped in one or both hands",
         null,
         null,
+        "Augmente les PV et les PM de 20%, augmente la jauge de limite, et augmente la MAGIE de l'équipement quand seules les armes sont équipées dans une ou les deux mains",
         null,
+        null
+    ],
+    "227586": [
+        null,
+        null,
+        null,
+        "Augmente la MAGIE de 60%, la PSY de 20% et la résistance à l'eau de 50%",
         null,
         null
     ],
@@ -29137,7 +29217,7 @@
     ],
     "228407": [
         "(One use every 2 turns) Damage and reduce earth resistance for one enemy",
-        "【每2回合可使用1次】攻擊攻擊1名敵人+降低土屬性耐性",
+        "【每2回合可使用1次】攻擊1名敵人+降低土屬性耐性",
         "[2턴에 1회 사용 가능] 적 1명에게 피해+땅속성 저항력 감소",
         "(Une fois tous les 2 tours) Inflige des dégâts et réduit la résistance à la terre d'un ennemi",
         "(Einmal in 2 Runden) Fügt einem Gegner Schaden zu + verringert seine Erdresistenz.",
@@ -39463,6 +39543,30 @@
         "Fügt einem Gegner teilweise direkten Schaden zu.",
         "Daño absoluto parcial a un enemigo"
     ],
+    "508010": [
+        null,
+        null,
+        null,
+        "(Une fois tous les 5 tours) Restaure les PV de tous les alliés, remplit la jauge d'invocation, augmente les dégâts infligés par Hurlements et Écho au tour suivant",
+        null,
+        null
+    ],
+    "508011": [
+        null,
+        null,
+        null,
+        "(Une fois tous les 4 tours) Active une barrière pour tous les alliés",
+        null,
+        null
+    ],
+    "508012": [
+        null,
+        null,
+        null,
+        "Augmente les PV, les PM, la DEF et la PSY de 20%, remplit la jauge d'invocation à chaque tour et change les effets de la limite",
+        null,
+        null
+    ],
     "508013": [
         "Consume evocation gauge to damage one enemy",
         "消耗召喚槽攻擊1名敵人",
@@ -39494,6 +39598,14 @@
         "Consume la barre d'invocation pour infliger des dégâts à tous les ennemis",
         "Verbraucht Rufleiste für Schaden gegen alle Gegner.",
         "Consume la barra de invocación para dañar a todos los enemigos"
+    ],
+    "508020": [
+        null,
+        null,
+        null,
+        "(Une fois tous les 5 tours) Inflige des dégâts de feu en partie fixes et réduit la résistance à l'eau d'un ennemi et remplit la jauge de limite",
+        null,
+        null
     ],
     "508030": [
         "(One use every 5 turns) Remove MAG reduction and boost lightning resistance for caster, and enable quick pentacombo for one turn",
@@ -50808,7 +50920,7 @@
         "Aumenta el daño contra máquinas"
     ],
     "910300": [
-        "KO's an ally to restore HP and MP and enable inherited memories for one turn",
+        "KO an ally to restore HP and MP and enable inherited memories for one turn",
         "使1名隊員陷入無法戰鬥狀態+恢復自身HPMP+1回合內可以使用「被繼承的記憶」",
         "아군  1명을 희생하여 HP와 MP 회복+1턴 동안 '이어받은 기억' 어빌리티 사용 가능",
         "Sacrifie un allié pour récupérer des PV/PM. Permet d'utiliser \"Souvenirs hérités\" pendant un tour",
@@ -59283,7 +59395,7 @@
         "Boost LB gauge fill rate, LB damage, and equipment MAG when only weapons are equipped in one or both hands",
         "提高極限技石對極限技槽的增加量+提高極限技槽傷害量+雙手只裝備武器時武具魔力提升",
         "LB 게이지 효율 상승+한손 또는 양손의 장비가 무기뿐일 경우 LB 피해량과 장비의 마력 상승",
-        "Augmente le taux de remplissage de la limite et la MAGIE de l'équipement quand seules les armes sont équipées dans un ou les deux mains",
+        "Augmente le taux de remplissage de la limite et la MAGIE de l'équipement quand seules les armes sont équipées dans une ou les deux mains",
         "Limitmeter füllt sich schneller und erhöht Schaden von Limitrausch und Ausrüstung-MAG, wenn in einer oder beiden Händen nur Waffen ausgerüstet sind.",
         "La barra de EL se rellena más rápido, aumenta el daño de EL y la MAG del equipo al llevar armas en una o las dos manos"
     ],
@@ -61375,6 +61487,14 @@
         "Erhöht LP, ANG, ABW um 20% und Ausrüstung-ANG wenn eine einzige Waffe in beiden Händen ausgerüstet ist.",
         "Aumenta la VIT, el ATQ y la DEF un 20% y el ATQ del equipo al llevar una sola arma en las dos manos"
     ],
+    "911624": [
+        "Boost drop rate of rare items from enemies",
+        "提高敵人掉落稀有道具的機率",
+        "적의 레어 아이템 드롭률 상승",
+        "Augmente le taux d'apparition des objets rares après avoir terrassé des ennemis",
+        "Erhöht die Dropwahrscheinlichkeit seltener Gegenstände durch Gegner.",
+        "Aumenta la tasa de aparición de objetos poco comunes que dejan caer los enemigos"
+    ],
     "911625": [
         "Enable specific abilities to be used three times in one turn",
         "1回合內可以使用3次特定能力",
@@ -61511,6 +61631,230 @@
         "Benutze bestimmte Fertigkeiten zwei Mal in einer Runde.",
         "Puede usar algunas habilidades dos veces en un turno"
     ],
+    "911642": [
+        "Deal light damage to all enemies and add light element to physical attack for self",
+        "對全體敵人發動光屬性攻擊+將自身的物理攻擊賦予光屬性",
+        "적 전체에 빛속성 피해+자신의 물리 공격에 빛속성 부여",
+        "Inflige des dégâts de lumière à tous les ennemis et ajoute l'élément lumière aux attaques physiques du lanceur",
+        "Fügt allen Gegnern Lichtschaden zu und fügt physischen Angriffen des Benutzers Lichtelement hinzu.",
+        "Daño de luz a todos los enemigos y añade elemento luz al ataque físico del usuario"
+    ],
+    "911643": [
+        "Damage and remove some status effects from one enemy",
+        "攻擊1名敵人+解除部分狀態效果",
+        "적 1명에게 피해+일부 능력치 효과 해제",
+        "Dégâts et retire certains effets de statut à un ennemi",
+        "Fügt einem Gegner Schaden zu und entfernt einige seiner Statuseffekte.",
+        "Daña y anula algunos estados alterados de un enemigo"
+    ],
+    "911644": [
+        "Nullify blind, sleep, paralysis, confusion, and stone",
+        "失明睡眠麻痺混亂石化無效",
+        "암흑, 수면, 마비, 혼란, 석화 무효화",
+        "Annule cécité, sommeil, paralysie, confusion et pétrification",
+        "Annulliert Blind, Schlaf, Lähmung, Konfus und Stein.",
+        "Anula ceguera, sueño, parálisis, confusión y piedra"
+    ],
+    "911645": [
+        "Damage one enemy and restore MP for self",
+        "攻擊1名敵人+恢復自身MP",
+        "적 1명에게 피해+자신의 MP 회복",
+        "Dégâts à un ennemi et restaure les PM du lanceur",
+        "Fügt einem Gegner Schaden zu und regeneriert MP des Benutzers.",
+        "Daña a un enemigo y recupera los PM del usuario"
+    ],
+    "911646": [
+        "Use flash abilities twice in one turn",
+        "1回合內可使用2次閃光系能力",
+        "1턴 동안 '섬광' 계열 어빌리티 2회 사용 가능",
+        "Permet d'utiliser les aptitudes de type \"Flash\" à deux reprises en un tour",
+        "Benutze Blitz-Fertigkeiten zwei Mal in einer Runde.",
+        "Puede usar las habilidades Destello dos veces en un turno"
+    ],
+    "911647": [
+        "Boost equipment ATK and MAG when a single weapon is equipped in both hands",
+        "雙手只裝備1把武器時武具攻擊魔力提升",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력과 마력 상승",
+        "Augmente l'ATT et la MAGIE de l'équipement lorsqu'une arme est tenue avec les deux mains",
+        "Erhöht Ausrüstung-ANG und -MAG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist.",
+        "Aumenta el ATQ y la MAG del equipo al llevar una sola arma en las dos manos"
+    ],
+    "911648": [
+        "Restore HP for self and enable triple flash for one turn",
+        "恢復自身HP+1回合內可使用「三重閃光」",
+        "자신의 HP회복+1턴 동안 '삼중 섬광' 사용 가능",
+        "Restaure les PV du lanceur et permet d'utiliser \"Triple Flash\" pendant un tour",
+        "Regeneriert LP des Benutzers und ermöglicht Dreifachblitz für eine Runde.",
+        "Recupera la VIT del usuario y aprende Megadestello durante un turno"
+    ],
+    "911649": [
+        "Chance of evading physical and magic attacks",
+        "一定機率閃避物理、魔法攻擊",
+        "일정 확률로 물리, 마법 공격 회피",
+        "Chance d'esquiver les attaques physiques et magiques",
+        "Chance, physischen und magischen Angriffen auszuweichen.",
+        "Probabilidad de evadir ataques físicos y mágicos"
+    ],
+    "911650": [
+        "Boost ATK and MAG for self",
+        "提高自身的攻擊魔力",
+        "자신의 공격력과 마력 상승",
+        "Augmente l'ATT et la MAGIE du lanceur",
+        "Erhöht ANG und MAG des Benutzers.",
+        "Aumenta el ATQ y la MAG del usuario"
+    ],
+    "911651": [
+        "Damage and chance of blinding or confusing all enemies",
+        "攻擊全體敵人+一定機率施加失明混亂效果",
+        "적 전체에 피해+일정 확률로 암흑 또는 혼란 부여",
+        "Dégâts et chance d'infliger cécité et confusion à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und Chance, ihnen Blind oder Konfus zu erteilen.",
+        "Daña y puede infligir ceguera o confusión a todos los enemigos"
+    ],
+    "911652": [
+        "Boost ATK and HP for self",
+        "提高自身的HP攻擊",
+        "자신의 공격력과 HP 상승",
+        "Augmente l'ATT et les PV du lanceur",
+        "Erhöht ANG und LP des Benutzers.",
+        "Aumenta el ATQ y la VIT del usuario"
+    ],
+    "911653": [
+        "Boost damage dealt against reapers and demons",
+        "提高對死靈惡魔系魔物的傷害",
+        "사령과 악마형 마물에게 부여하는 피해량 상승",
+        "Amplifie les dégâts infligés aux morts-vivants et aux démons",
+        "Erhöht Schaden gegen Untote und Dämonen.",
+        "Aumenta el daño contra muertos vivientes y demonios"
+    ],
+    "911654": [
+        "Damage to all enemies",
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daño a todos los enemigos"
+    ],
+    "911655": [
+        "Chance of countering physical and magic attacks with wrath of the light",
+        "受到魔法攻擊時一定機率以光之震怒進行反擊",
+        "물리, 마법 공격을 받으면 일정 확률로 '빛의 분노'를 사용하여 반격",
+        "Chance de contre-attaquer après avoir subi une attaque physique ou magique avec Courroux de la Lumière",
+        "Chance, physische und magische Angriffe mit Zorn des Lichts zu kontern.",
+        "Probabilidad de devolver ataques físicos y mágicos con Cólera de luz"
+    ],
+    "911656": [
+        "Boost ATK and MAG when a single weapon is equipped in both hands, boost ATK and MAG and LB gauge fill rate, and enable triple flash for one turn",
+        "雙手只裝備1把武器時提高攻擊魔力+提高攻擊魔力+提高極限技石對極限技槽的增加量+1回合內可使用「三重閃光」",
+        "양손의 장비가 무기 1개일 경우 공격력과 마력 상승+공격력과 마력, LB 게이지 효율 상승+1턴 동안 '삼중 섬광' 사용 가능",
+        "Augmente l'ATT et la MAGIE lorsqu'une arme est tenue avec les deux mains, augmente l'ATT et la MAGIE, le taux de remplissage de la jauge de limite, et permet d'utiliser Triple Flash pendant un tour",
+        "Erhöht ANG und MAG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist, erhöht ANG und MAG und Limitmeter füllt sich schneller und ermöglicht Dreifachblitz für eine Runde.",
+        "Aumenta el ATQ y la MAG al llevar una sola arma en las dos manos, aumenta el ATQ y la MAG, la barra de EL se rellena más rápido y aprende Megadestello durante un turno"
+    ],
+    "911657": [
+        "Light damage and reduce light resistance for one enemy",
+        "對1名敵人發動光屬性攻擊+降低光屬性耐性",
+        "적 1명에게 빛속성 피해+빛속성 저항력 감소",
+        "Dégâts de lumière et réduit la résistance à la lumière d'un ennemi",
+        "Fügt einem Gegner Lichtschaden zu und verringert dessen Lichtresistenz.",
+        "Daño de luz y reduce la resistencia a la luz de un enemigo"
+    ],
+    "911658": [
+        "Boost MAG and enable aurora storm when Fryevia is in party and not KO'd at the start of each turn (aurora storm - deal ice and light damage to all enemies)",
+        "每回合戰鬥開始時提高魔力+弗雷比亞在隊伍內並為可戰鬥狀態時才能發動「極光風暴」(極光風暴 - 對全體敵人發動冰光屬性攻擊)",
+        "매 턴 시작 시마다 '프레이비아'가 파티에 포함되어 있고 전투불능 상태가 아닌 경우 마력 상승+'극광의 폭풍' 사용 가능(극광의 폭풍: 적 전체에 얼음과 빛속성 피해)",
+        "Augmente la MAGIE et permet d'utiliser Tempête de l'Aurore lorsque Fryevia est dans le groupe et qu'elle n'est pas KO au début du tour (Tempête de l'Aurore : inflige des dégâts de glace et de lumière à tous les ennemis)",
+        "Erhöht MAG und ermöglicht Aurora-Sturm, wenn sich Fryevia in der Gruppe befindet und am ende jeder Runde nicht kampfunfähig ist. (Aurora-Sturm - Fügt allen Gegnern Eis- und Lichtschaden zu)",
+        "Aumenta la MAG y aprende Tormenta del alba cuando Fryevia se encuentra en el equipo sin estar K.O. al comienzo de cada turno (Tormenta del alba: daño de hielo y luz a todos los enemigos)"
+    ],
+    "911659": [
+        "(One use every 6 turns) Boost ATK and MAG and enable triple flash for 3 turns, and restore HP for self",
+        "【每6回合可使用1次】提高攻擊魔力+3回合內可使用「三重閃光」+恢復自身HP",
+        "[6턴에 1회 사용 가능] 공격력과 마력 상승+3턴 동안 '삼중 섬광' 사용 가능+자신의 HP 회복",
+        "(Une fois tous les 6 tours) Augmente l'ATT et la MAGIE et permet d'utiliser Triple Flash pendant 3 tours, et restaure les PV du lanceur",
+        "(Einmal in 6 Runden) Erhöht ANG und MAG und ermöglicht Dreifachblitz für 3 Runden und regeneriert LP des Benutzers.",
+        "(Un uso cada 6 turnos) Aumenta el ATQ y la MAG, aprende Megadestello durante 3 turnos y recupera la VIT del usuario"
+    ],
+    "911660": [
+        "(One use every 4 turns) Deal light damage to all enemies",
+        "【每4回合可使用1次】對全體敵人發動光屬性攻擊",
+        "[4턴에 1회 사용 가능] 적 전체에 빛속성 피해",
+        "(Une fois tous les 4 tours) Inflige des dégâts de lumière à tous les ennemis",
+        "(Einmal in 4 Runden) Fügt allen Gegnern Lichtschaden zu.",
+        "(Un uso cada 4 turnos) Daño de luz a todos los enemigos"
+    ],
+    "911661": [
+        "Boost SPR by 20% and light resistance by 30%",
+        "提高20%精神+提高30%光屬性耐性",
+        "정신력 20%, 빛속성 저항력 30% 상승",
+        "Augmente la PSY de 20% et la résistance à la lumière de 30%",
+        "Erhöht PSY um 20% und Lichtresistenz um 30%.",
+        "Aumenta el ESP un 20% y la resistencia a la luz un 30%"
+    ],
+    "911662": [
+        "Boost equipment ATK and MAG when a single weapon is equipped in both hands and damage of certain abilities",
+        "雙手只裝備1把武器時武具攻擊魔力提升+提高特定能力的傷害",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력과 마력 상승+특정 어빌리티의 피해량 상승",
+        "Augmente l'ATT et la MAGIE de l'équipement lorsqu'une arme est tenue avec les deux mains et les dégâts de certaines aptitudes",
+        "Erhöht Ausrüstung-ANG und -MAG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist und erhöht den Schaden bestimmter Fertigkeiten.",
+        "Aumenta el ATQ y la MAG del equipo al llevar una sola arma en las dos manos y aumenta el daño de ciertas habilidades"
+    ],
+    "911663": [
+        "Enable aurora storm for one turn",
+        "1回合內可使用「極光風暴」",
+        "1턴 동안 '극광의 폭풍' 사용 가능",
+        "Permet d'utiliser Tempête de l'Aurore pendant un tour",
+        "Ermöglicht Aurora-Sturm für eine Runde.",
+        "El usuario aprende Tormenta del alba durante un turno"
+    ],
+    "911664": [
+        "Use flash abilities three times in one turn",
+        "1回合內可使用3次閃光系能力",
+        "1턴 동안 '섬광' 계열 어빌리티 3회 사용 가능",
+        "Permet d'utiliser les aptitudes de type \"Flash\" à trois reprises en un tour",
+        "Benutze Blitz-Fertigkeiten drei Mal in einer Runde.",
+        "Puede usar las habilidades Destello 3 veces en un turno"
+    ],
+    "911665": [
+        "Deal ice and light damage to all enemies",
+        "對全體敵人發動冰光屬性攻擊",
+        "적 전체에 얼음과 빛속성 피해",
+        "Inflige des dégâts de glace et de lumière à tous les ennemis",
+        "Fügt allen Gegnern Eis- und Lichtschaden zu.",
+        "Daño de hielo y luz a todos los enemigos"
+    ],
+    "911666": [
+        "Use flash abilities three times in one turn",
+        "1回合內可使用3次閃光系能力",
+        "1턴 동안 '섬광' 계열 어빌리티 3회 사용 가능",
+        "Permet d'utiliser les aptitudes de type \"Flash\" à trois reprises en un tour",
+        "Benutze Blitz-Fertigkeiten drei Mal in einer Runde.",
+        "Puede usar las habilidades Destello 3 veces en un turno"
+    ],
+    "911667": [
+        "Use flash abilities three times in one turn",
+        "1回合內可使用3次閃光系能力",
+        "1턴 동안 '섬광' 계열 어빌리티 3회 사용 가능",
+        "Permet d'utiliser les aptitudes de type \"Flash\" à trois reprises en un tour",
+        "Benutze Blitz-Fertigkeiten drei Mal in einer Runde.",
+        "Puede usar las habilidades Destello 3 veces en un turno"
+    ],
+    "911668": [
+        "Use flash abilities twice in one turn",
+        "1回合內可使用2次閃光系能力",
+        "1턴 동안 '섬광' 계열 어빌리티 2회 사용 가능",
+        "Permet d'utiliser les aptitudes de type \"Flash\" à deux reprises en un tour",
+        "Benutze Blitz-Fertigkeiten zwei Mal in einer Runde.",
+        "Puede usar las habilidades Destello 2 veces en un turno"
+    ],
+    "911669": [
+        "Boost ATK and MAG for self and enable triple flash for one turn",
+        "提高自身攻擊魔力+1回合內可使用「三重閃光」",
+        "자신의 공격력과 마력 상승+1턴 동안 '삼중 섬광' 사용 가능",
+        "Augmente l'ATT et la MAGIE du lanceur et permet d'utiliser Triple Flash pendant un tour",
+        "Erhöht ANG und MAG für Benutzer und ermöglicht Dreifachblitz für eine Runde.",
+        "Aumenta el ATQ y la MAG del usuario y aprende Megadestello durante un turno"
+    ],
     "911670": [
         "Restore HP each turn",
         "每回合恢復HP",
@@ -61526,5 +61870,37 @@
         "Récup auto en combat",
         "Auto-Regena im Kampf",
         "AutoRevitalia en combate"
+    ],
+    "911672": [
+        "(One use every 6 turns) Boost ATK and MAG and enable triple flash for 3 turns, and restore HP for self",
+        "【每6回合可使用1次】提高攻擊魔力+3回合內可使用「三重閃光」+恢復自身HP",
+        "[6턴에 1회 사용 가능] 공격력과 마력 상승+3턴 동안 '삼중 섬광' 사용 가능+자신의 HP 회복",
+        "(Une fois tous les 6 tours) Augmente l'ATT et la MAGIE et permet d'utiliser Triple Flash pendant 3 tours, et restaure les PV du lanceur",
+        "(Einmal in 6 Runden) Erhöht ANG und MAG und ermöglicht Dreifachblitz für 3 Runden und regeneriert LP des Benutzers.",
+        "(Un uso cada 6 turnos) Aumenta el ATQ y la MAG, aprende Megadestello durante 3 turnos y recupera la VIT del usuario"
+    ],
+    "911673": [
+        "(One use every 4 turns) Deal light damage to all enemies",
+        "【每4回合可使用1次】對全體敵人發動光屬性攻擊",
+        "[4턴에 1회 사용 가능] 적 전체에 빛속성 피해",
+        "(Une fois tous les 4 tours) Inflige des dégâts de lumière à tous les ennemis",
+        "(Einmal in 4 Runden) Fügt allen Gegnern Lichtschaden zu.",
+        "(Un uso cada 4 turnos) Daño de luz a todos los enemigos"
+    ],
+    "911693": [
+        "Enable aurora storm when Aurora Fryevia is in party and not KO'd at the start of each turn (aurora storm - deal ice and light damage to all enemies)",
+        "每回合戰鬥開始時極光弗雷比亞在隊伍內並為可戰鬥狀態時才能發動「極光風暴」(極光風暴 - 對全體敵人發動冰光屬性攻擊)",
+        "매 턴 시작 시마다 '오로라 프레이비아'가 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '극광의 폭풍' 사용 가능 (극광의 폭풍: 적 전체에 얼음과 빛속성 피해)",
+        "Permet d'utiliser Tempête de l'Aurore lorsque Fryevia est dans le groupe et qu'elle n'est pas KO au début du tour (Tempête de l'Aurore : inflige des dégâts de glace et de lumière à tous les ennemis)",
+        "Ermöglicht Aurora-Sturm, wenn sich Aurora Fryevia in der Gruppe befindet und am Anfang jeder Runde nicht kampfunfähig ist (Aurora-Sturm - Fügt allen Gegnern Eis- und Lichtschaden zu).",
+        "Aprende Tormenta del alba cuando Aurora Fryevia se encuentra en el equipo sin estar K.O. al comienzo de cada turno (Tormenta del alba: daño de hielo y luz a todos los enemigos)"
+    ],
+    "911694": [
+        "Enable aurora storm for one turn to caster",
+        "1回合內自身可使用「極光風暴」",
+        "1턴 동안 자신이 '극광의 폭풍' 사용 가능",
+        "Permet au lanceur d'utiliser Tempête de l'Aurore pendant un tour",
+        "Ermöglicht dem Anwender eine Runde lang Aurora-Sturm.",
+        "El usuario aprende Tormenta del alba durante un turno"
     ]
 }

@@ -689,7 +689,7 @@
     ],
     "Account_login_Facebook": [
         "Facebook",
-        null,
+        "Facebook",
         null,
         null,
         null,
@@ -697,7 +697,7 @@
     ],
     "Account_login_Google": [
         "Google",
-        null,
+        "Google",
         null,
         null,
         null,
@@ -3761,11 +3761,11 @@
     ],
     "EXPLAIN_REWARD_1017": [
         "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Summon Tickets, kupo!",
-        null,
+        "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典召喚券，庫啵！",
         "오늘의 출석 보상! 팬 페스타 2018 소환티켓을 사용해봐쿠포!",
-        null,
-        null,
-        null
+        "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets d'invocation de la Fan Festa 2018, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Beschwörungskarten zu benutzen, kupo!",
+        "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de invocación de la Fan Festa 2018, kupó!"
     ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
@@ -6337,11 +6337,11 @@
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_MSG_1017": [
         "Fan Festa 2018 Event Rewards",
-        null,
+        "2018 粉絲慶典活動獎勵",
         "팬 페스타 2018 이벤트 보상",
-        null,
-        null,
-        null
+        "Récompenses d'événement de la Fan Festa 2018",
+        "Fan Festa 2018 Ereignisbelohnungen",
+        "Recompensas del evento Fan Festa 2018"
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
         "Special Daily Login",
@@ -6473,11 +6473,11 @@
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1017": [
         "Fan Festa 2018 Login Bonus",
-        null,
+        "2018 粉絲慶典登入獎勵",
         "팬 페스타 2018 출석 보상",
-        null,
-        null,
-        null
+        "Bonus de connexion de la Fan Festa 2018",
+        "Fan Festa 2018 Anmeldebonus",
+        "Bonificación de inicio de sesión de la Fan Festa 2018"
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -8328,12 +8328,12 @@
         "No puedes restablecer los orbes de Arena por encima de su valor máximo."
     ],
     "MSG_ARMS_NO_FIXED": [
-        null,
-        null,
-        "장비 강화 중인 장비는 진화하실 수 없습니다.<br>장비 강화를 완료하신 후 진화하여 주십시오.",
-        null,
-        null,
-        null
+        "Equipment cannot be upgraded while it is being enhanced. Please upgrade it after enhancement has been completed.",
+        "武具強化中的武具無法進化。<br>請在完成武具強化後，再次進行進化。",
+        "강화 중인 장비는 진화시킬 수 없습니다.<br>장비 강화를 완료하신 후 진화를 진행해주시기 바랍니다.",
+        "Impossible de faire évoluer un équipement en cours d'amélioration. Veuillez attendre que l'amélioration soit finalisée avant de procéder à l'évolution.",
+        "Ausrüstung kann nicht erweckt werden, während sie verstärkt wird. Bitte erwecke sie, nachdem die Verstärkung abgeschlossen wurde.",
+        "No se puede subir el nivel del equipo mientras se mejora. Espera a que termine la mejora para subirlo de nivel."
     ],
     "MSG_BUNDLE_PURCHASE_CONFIRM": [
         "Are you sure you want to buy this bundle?",
@@ -8384,44 +8384,44 @@
         "Recompensas de expedición"
     ],
     "MSG_INCORRECT_CAMPAIN_NO_PROBLEM": [
-        null,
-        null,
-        "시리얼 코드가 올바르게 인증되었습니다.<br>메시지함을 통해 보상 아이템을 수령해 주십시오.",
-        null,
-        null,
-        null
+        "Serial code authenticated. Please claim your reward from your mailbox.",
+        "序號認證錯誤。<br>請由收信箱中領取報酬道具。",
+        "시리얼 코드가 인증 되었습니다.<br>메시지함을 통해 보상을 수령해 주십시오.",
+        "Authentification réussie. Veuillez récupérer votre récompense dans votre messagerie.",
+        "Die Seriennummer wurde authentifiziert. Bitte hole deine Belohnung aus deinem Posteingang ab.",
+        "Se ha autenticado el código de serie. Reclama tu recompensa en el buzón."
     ],
     "MSG_INCORRECT_CAMPAIN_ONLY_ONCE": [
-        null,
-        null,
-        "시리얼 코드 인증에 실패했습니다.<br>유사한 이벤트에<br>다른 시리얼 코드가 입력되었습니다.",
-        null,
-        null,
-        null
+        "Serial code could not be authenticated. A separate code has already been entered for this campaign.",
+        "序號認證失敗。<br>在相同活動中<br>已輸入其他序號。",
+        "시리얼 코드 인증에 실패했습니다.<br>해당 이벤트에<br>다른 시리얼 코드가 입력되었습니다.",
+        "L'authentification a échoué, car un code de série différent a déjà été enregistré pour cette campagne.",
+        "Die Seriennummer konnte nicht authentifiziert werden. Eine andere Nummer wurde bereits für diese Kampagne eingegeben.",
+        "No se ha podido autenticar el código de serie. Ya se ha introducido otro código para esta campaña."
     ],
     "MSG_INCORRECT_CAMPAIN_OUT_OF_PERIOD": [
-        null,
-        null,
-        "시리얼 코드 인증에 실패했습니다.<br>입력하신 시리얼 코드는 유효 기간이 지났기 때문에 사용하실 수 없습니다.<br>시리얼 코드를 확인해 주십시오.",
-        null,
-        null,
-        null
+        "Serial code could not be authenticated. The code you have entered has already expired. Please check the code again.",
+        "序號認證失敗。<br>您所輸入的序號為有效期間之外，因此無法使用。<br>請再次確認序號。",
+        "시리얼 코드 인증에 실패했습니다.<br>입력하신 시리얼 코드는 유효 기간이 만료되었습니다.<br>시리얼 코드를 다시 확인해 주십시오.",
+        "L'authentification a échoué, car le code de série entré a dépassé sa période de validité. Veuillez vérifier le code de série à nouveau.",
+        "Die Seriennummer konnte nicht authentifiziert werden. Die von dir eingegebene Nummer ist bereits abgelaufen. Bitte überprüfe die Nummer noch einmal.",
+        "No se ha podido autenticar el código de serie. El código introducido ha caducado. Compruébalo otra vez."
     ],
     "MSG_INCORRECT_EXCHANGE_PRIZE": [
-        null,
-        null,
+        "Invalid item exchange data.",
+        "道具交換情報錯誤。",
         "아이템 교환 정보가 올바르지 않습니다.",
-        null,
-        null,
-        null
+        "Données d'échange d'objets invalides.",
+        "Ungültige Gegenstand-Tauschdaten.",
+        "Datos de intercambio de objetos no válidos."
     ],
     "MSG_INCORRECT_MODEL_CHANGE_UPDATEDATE": [
-        null,
-        null,
+        "Due to a user information update during the transfer, the data transfer could not be completed. Please try again.",
+        "由於在繼承資料期間玩家情報發生變更，因此無法繼續進行繼承。請再次執行繼承資料。",
         "이어받기 도중 유저 정보가 갱신되어 데이터를 이어받지 못했습니다.<br>이어받기를 다시 시도해 주십시오.",
-        null,
-        null,
-        null
+        "Le transfert des données a échoué, car les données utilisateur ont été modifiées au cours du transfert. Veuillez réessayer.",
+        "Aufgrund eines Updates der Benutzerinformationen während des Transfers konnte der Datentransfer nicht abgeschlossen werden. Bitte versuche es erneut.",
+        "Debido a una actualización de la información de usuario durante la transferencia, no se ha podido completar la transferencia de datos. Inténtalo de nuevo más tarde."
     ],
     "MSG_INVALID_ACHIEVEMENT_REWARD": [
         "The achievement reward is invalid.",
@@ -10162,7 +10162,7 @@
     "MST_RB_ABILITY_GROUP_DES_12": [
         "Physical combos forbidden",
         "物理連擊系禁止",
-        "연속 물리공격 계열 금지",
+        "연속 물리 공격 계열 금지",
         "Combos de dégâts physiques",
         "Physische Kombos verboten",
         "Ataques múltiples prohibidos"
@@ -10170,7 +10170,7 @@
     "MST_RB_ABILITY_GROUP_DES_13": [
         "Magic combos forbidden",
         "魔法連擊系禁止",
-        "연속 마법공격 계열 금지",
+        "연속 마법 공격 계열 금지",
         "Combos de dégâts magiques",
         "Magiekombos verboten",
         "Magia múltiple prohibidas"
@@ -10274,7 +10274,7 @@
     "MST_RB_ABILITY_GROUP_NAME_12": [
         "Physical attack combos",
         "物理連擊系",
-        "연속 물리공격 계열",
+        "연속 물리 공격 계열",
         "Combos de dégâts physiques",
         "Physische Angriffkombos",
         "Ataques múltiples"
@@ -10282,7 +10282,7 @@
     "MST_RB_ABILITY_GROUP_NAME_13": [
         "Magic attack combos",
         "魔法連擊系",
-        "연속 마법공격 계열",
+        "연속 마법 공격 계열",
         "Combos de dégâts magiques",
         "Magische Angriffkombos",
         "Magia múltiple"
@@ -17992,12 +17992,12 @@
         "Gestionar grupo"
     ],
     "UNTIL": [
-        null,
-        "期限",
-        "종료일시",
-        null,
-        null,
-        null
+        "Until <param=endday>",
+        "<param=endday> 為止",
+        "<param=endday>까지",
+        "Jusqu'au <param=endday>",
+        "Bis <param=endday>",
+        "Hasta <param=endday>"
     ],
     "UPDATE_POLICY_CONFIRM": [
         "Terms of Use have been updated.<br>Please read and accept them once more.",
