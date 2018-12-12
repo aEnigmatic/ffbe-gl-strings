@@ -2229,7 +2229,7 @@
         "총 장착 시 공격력이 상승합니다. (중복 장착 불가)",
         "Augmente l'ATT lorsqu'un pistolet est équipé. Non cumulable.",
         "Erhöht ANG, wenn mit einer Schusswaffe ausgerüstet. (Nicht stapelbar).",
-        "Aumenta el ATQ al llevar pistola (no acumulable)."
+        "Aumenta el ATQ al llevar arma de fuego (no acumulable)."
     ],
     "504209550": [
         "Boosts earth resistance by 15%.",
@@ -2761,10 +2761,10 @@
     ],
     "504216520": [
         "Boosts ATK when equipped with a spear or helm. Not stackable.",
-        "裝備長槍頭盔時，提高攻擊。[無法重複裝備]",
-        "창 또는 투구를 장착하면 공격력이 상승합니다. (중복 장착 불가)",
+        "裝備長槍頭盔時提高攻擊。(無法重複裝備)",
+        "창 또는 투구 장착 시 공격력이 상승합니다. (중복 장착 불가)",
         "Augmente l'ATT lorsqu'un casque ou une lance est équipé. Pas cumulable.",
-        "Erhöht ANG, wenn mit Speer oder Helm ausgerüstet. Nicht stapelbar.",
+        "Erhöht ANG, wenn mit einem Speer oder Helm ausgerüstet. Nicht stapelbar.",
         "Aumenta el ATQ al llevar una lanza o casco. No acumulable."
     ],
     "504216730": [
@@ -3757,7 +3757,7 @@
         "총을 장착하면 공격력이 상승하고, 물리 공격 시 기계형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
         "Augmente l'ATT lorsqu'un pistolet est équipé et augmente les dégâts physiques infligés aux machines. Non cumulable.",
         "Erhöht ANG wenn mit Schusswaffe ausgerüstet und erhöht physischen Schaden gegen Maschinenmonster. (nicht stapelbar).",
-        "Aumenta el ATQ al llevar a pistola y aumenta el daño físico contra máquinas (no acumulable)."
+        "Aumenta el ATQ al llevar arma de fuego y aumenta el daño físico contra máquinas (no acumulable)."
     ],
     "504227527": [
         "Boosts HP, DEF, and SPR by 30%, and boosts equipment ATK when a single weapon is equipped in both hands. Not stackable.",
@@ -3775,21 +3775,29 @@
         "Erhöht LP um 50% und ABW um 30% und erhöht ABW wenn die LP unter einen gewissen Wert fallen. (nicht stapelbar).",
         "Aumenta la VIT un 50% y la DEF un 30%, y aumenta la DEF cuando la VIT cae por debajo de cierto nivel (no acumulable)."
     ],
+    "504227586": [
+        "Boost MAG by 60%, SPR by 20% and water resistance by 50%. Not Stackable.",
+        "提高60%魔力、20%精神、50%水屬性耐性。(不可重複裝備)",
+        "마력이 60%, 정신력이 20%, 물속성 저항력이 50% 상승합니다. (중복 장착 불가)",
+        "Augmente la MAGIE de 60%, la PSY de 20% et la résistance à l'eau de 50%. Non cumulable.",
+        "Erhöht MAG um 60%, PSY um 20% und Wasserresistenz um 50%. Nicht stapelbar.",
+        "Aumenta la MAG un 60%, el ESP un 20% y la resistencia al agua un 50% (no acumulable)"
+    ],
+    "504227605": [
+        "Restore HP and MP, fill LB gauge, and boost ATK, DEF, MAG, and SPR every turn during battle",
+        "恢復HPMP+增加極限技槽+每回合自動提高攻擊防禦魔力精神",
+        "전투 중 매 턴마다 HP와 MP 회복+LB 게이지 증가+공격력, 방어력, 마력, 정신력 상승",
+        "Restaure les PV et PM à chaque tour, remplit la jauge de limite et augmente l'ATT, la DEF, la MAGIE et la PSY",
+        "Regeneriert LP und MP, füllt Limitmeter und erhöht jede Runde ANG, ABW, MAG und PSY.",
+        "Recupera VIT y PM, rellena la barra de EL y aumenta ATQ, DEF, MAG, y ESP cada turno durante el combate"
+    ],
     "504227625": [
         "Boosts equipment ATK when a single weapon is equipped in both hands, and boosts ATK when equipped with a spear. Not Stackable.",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "504227640": [
-        "Restores HP and MP, fills LB gauge, and boosts ATK, DEF, MAG, and SPR every turn during battle",
-        null,
-        null,
-        null,
-        null,
-        null
+        "雙手只裝備1把武器時提高攻擊，裝備長槍時提高攻擊。[無法重複裝備]",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력이 상승하고, 창 장착 시 공격력이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains et augmente l'ATT de 30% lorsqu'une lance est équipée. Non cumulable.",
+        "Erhöht Ausrüstung-ANG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist und erhöht ANG wenn mit einem Speer ausgerüstet. (nicht stapelbar).",
+        "Aumenta el ATQ del equipo al llevar una sola arma en las dos manos y aumenta el ATQ al llevar lanza (no acumulable)."
     ],
     "504227666": [
         "Reduces dark resistance by 30%, and boosts SPR by 60% and LB gauge fill rate. Not stackable.",
@@ -3846,6 +3854,14 @@
         "Augmente la résistance au feu, à la glace et à la lumière de 30%.",
         "Erhöht Feuer-, Eis- und Blitzresistenz um 30%.",
         "Aumenta la resistencia al fuego, hielo y rayo un 30%."
+    ],
+    "504227930": [
+        "Boosts HP by 50%, boost SPR by 30%, and adds chance of restoring own MP when receiving a magic attack. Not stackable.",
+        "提高50%HP、30%精神，受到魔法攻擊時一定機率恢復自身的MP。",
+        "HP가 50%, 정신력이 30% 상승하고, 마법 공격을 받으면 일정 확률로 자신의 MP를 회복합니다. (중복 장착 불가)",
+        "Augmente les PV de 50%, la PSY de 30%, et confère une chance de restaurer les PM du lanceur après avoir subi une attaque magique. Non cumulable.",
+        "Erhöht LP um 50%, erhöht PSY um 30% + Chance, eigene MP zu regenerieren, wenn von mag. Angriff attackiert (Nicht stapelbar).",
+        "Aumenta la VIT un 50%, el ESP un 30% y probabilidad de recuperar los PM propios al recibir un ataque mágico (no acumulable)."
     ],
     "504228151": [
         "Boosts HP by 30%, DEF by 20%, and wind resistance by 30%.",
@@ -4829,7 +4845,7 @@
         "한손용 무기 2개 장착 시 장비의 공격력이 상승하고, 총, 검, 격투무기 또는 투척무기 장착 시 공격력이 상승합니다. (중복 장착 불가)",
         "Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées, augmente l'ATT lorsqu'une arme à feu, une épée, des poings ou des armes de jets sont équipés. Non cumulable.",
         "Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet und erhöht ANG, wenn mit Schusswaffe, Schwert, Faust, oder Wurfwaffen ausgestattet. (nicht stapelbar).",
-        "Aumenta el ATQ del equipo al llevar dos armas de una mano, y aumenta el ATQ al llevar pistola, espada, puños o arma arrojadiza (no acumulable)."
+        "Aumenta el ATQ del equipo al llevar dos armas de una sola mano, y aumenta el ATQ al llevar arma de fuego, espada, puños o arma arrojadiza (no acumulable)."
     ],
     "1500000065": [
         "Boost HP by 20% and DEF by 30%, and restore HP and MP each turn.",
@@ -4958,5 +4974,21 @@
         "Augmente l'ATT lorsque des vêtements sont équipés, l'ATT quand un katana est équipé et les dégâts physiques contre les humains et les démons. Non cumulable.",
         "Erhöht ANG wenn mit Kleidung ausrüstet, ANG wenn mit einem Katana ausgerüstet und erhöht physischen Schaden gegen Menschen und Dämonen. Nicht stapelbar.",
         "Aumenta el ATQ al llevar ropa o al llevar katana y aumenta el daño físico contra humanos y demonios (no acumulable)."
+    ],
+    "1500000081": [
+        "Boosts MP and SPR by 15%, and enables distress signal. Popstar Katy only.",
+        "提高15%MP精神，並可使用「求救信號」。【流行音樂巨星凱蒂專用】",
+        "MP와 정신력이 15% 상승하고, '위험 신호'를 사용할 수 있게 됩니다. (팝스타 케이티 전용)",
+        "Augmente les PM et la PSY de 15% et permet d'utiliser Signal de détresse. (Uniquement pour Popstar Katy)",
+        "Erhöht MP sowie PSY um 15% und ermöglicht Notsignal. (Nur Popstar Katy)",
+        "Aumenta los PM y el ESP un 15%, y aprende Señal de socorro. (exclusiva de Estrella del pop Katy)"
+    ],
+    "1500000082": [
+        "Boosts MAG and SPR when equipped with an instrument. Not stackable.",
+        "裝備樂器時，提高魔力精神。[無法重複裝備]",
+        "악기 장착 시 마력과 정신력이 상승합니다. (중복 장착 불가)",
+        "Augmente la MAGIE et la PSY lorsqu'un instrument est équipé. Non cumulable.",
+        "Erhöht MAG und PSY, wenn mit einem Instrument ausgerüstet (nicht stapelbar).",
+        "Aumenta la MAG y el ESP al llevar un instrumento (no acumulable)."
     ]
 }

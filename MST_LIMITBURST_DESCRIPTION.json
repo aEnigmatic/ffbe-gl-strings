@@ -2799,6 +2799,14 @@
         "Fügt allen Gegnern Schaden zu, reduziert ihre Licht- und Dunkelresistenz und belebt ein Mal automatisch alle Verb. wieder.",
         "Daña y reduce la res. a la luz y oscuridad de todos los enemigos, revive automáticamente a todos los aliados una vez"
     ],
+    "100011807": [
+        "Damage and reduce light and dark resistance for all enemies, and automatically revive all allies one time",
+        "攻擊全體敵人+降低光暗屬性耐性+賦予全體隊員進入無法戰鬥狀態時自動復活1次的效果",
+        "적 전체에 피해+빛과 어둠속성 저항력 감소+아군 전체의 전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige dégâts à tous les ennemis, réduit leur résistance à la lumière et aux ténèbres, et lance une fois Auto-réveil sur tous les alliés",
+        "Fügt allen Gegnern Schaden zu und verringert ihre Licht- und Dunkelresistenz + belebt alle Verb. automatisch einmal wieder.",
+        "Daña y reduce la resistencia a la luz y a la oscuridad de todos los enemigos y revive automáticamente a todos los aliados una vez"
+    ],
     "100011905": [
         "Damage and reduce ATK, DEF, MAG and SPR for all enemies",
         "攻擊全體敵人+降低攻擊防禦魔力精神",
@@ -2958,6 +2966,14 @@
         "Dégâts sur un ennemi et permet d'utiliser Sabre magique + pendant deux tours",
         "Fügt einem Gegner Schaden zu und ermöglicht zwei Runden lang Überlegene Spruchklinge.",
         "Daña a un enemigo y aprende Sable mágico+ durante 2 turnos"
+    ],
+    "100012607": [
+        "Damage one enemy and enable superior mageblade for a certain amount of turns",
+        "攻擊1名敵人+一定回合內可使用「翔·魔操劍」",
+        "적 1명에게 피해+일정 턴 동안 '마술검·비상' 사용 가능",
+        "Dégâts sur un ennemi et permet d'utiliser Sabre magique + pendant un certain nombre de tours",
+        "Fügt einem Gegner Schaden zu und ermöglicht Überlegene Spruchklinge für eine bestimmte Anzahl an Runden.",
+        "Daña a un enemigo y aprende Sable mágico+ durante un número determinado de turnos"
     ],
     "100012704": [
         "Damage one enemy and reduce damage taken for two turns for all allies",
@@ -5695,6 +5711,14 @@
         "ABW und PSY hoch, alle Verb. und stellt allmählich LP wieder her, Wiederbeleben.",
         "Recupera VIT y revive, aumenta VIT poco a poco y aumenta DEF y ESP de todos los aliados"
     ],
+    "210000207": [
+        "Restore HP, revive, gradually restore HP, and boost DEF and SPR for all allies",
+        "恢復全體隊員的HP+復活無法戰鬥狀態+持續恢復HP+提高防禦精神",
+        "아군 전체의 HP 회복+전투불능 상태 회복+HP 서서히 회복+방어력과 정신력 상승",
+        "Restaure les PV, ressuscite, restaure progressivement les PV, et augmente la DEF et la PSY de tous les alliés",
+        "ABW und PSY hoch, alle Verb. und stellt allmählich LP wieder her, Wiederbeleben.",
+        "Recupera VIT y revive, aumenta VIT poco a poco y aumenta DEF y ESP de todos los aliados"
+    ],
     "210000303": [
         "Damage one enemy",
         "攻擊1名敵人",
@@ -5742,6 +5766,14 @@
         "Dégâts magiques en partie fixes sur tous les ennemis",
         "Teilweise direkter Magieschaden, alle Gegner.",
         "Daño absoluto parcial mágico a todos los enemigos"
+    ],
+    "210000407": [
+        "Deal partial unmitigated magic damage to all enemies",
+        "對全體敵人發動無視部份魔法防禦的攻擊",
+        "적 전체에 일부 마법 방어 무시 피해",
+        "Dégâts magiques en partie fixes sur tous les ennemis",
+        "Teilweise direkter Magieschaden, alle Ziele",
+        "Daño mágico absoluto parcial a los enemigos"
     ],
     "210000704": [
         "Boost DEF and SPR for all allies and automatically revive all allies one time",
@@ -6150,6 +6182,14 @@
         "Dégâts de feu sur un ennemi et le lanceur peut éviter des attaques physiques trois fois",
         "Fügt einem Gegner Feuerschaden + Benutzer kann einigen phys. Angriffen drei Mal ausweichen.",
         "Daño de fuego a un enemigo y el usuario puede esquivar ataques físicos 3 veces"
+    ],
+    "212000907": [
+        "Fire damage one enemy and caster can dodge some physical attacks three times",
+        "對1名敵人發動火屬性攻擊+賦予自身可閃避3次部分物理攻擊的效果",
+        "적 1명에게 불속성 피해+자신에게 일부 물리 공격 3회 회피 효과 부여",
+        "Inflige des dégâts de feu à un ennemi et permet au lanceur d'esquiver certaines attaques physiques à trois reprises",
+        "Fügt einem Gegner Feuerschaden zu und der Anwender kann phys. Angriffen 3 Mal ausweichen.",
+        "Daño de fuego a un enemigo y el usuario puede esquivar algunos ataques físicos 3 veces"
     ],
     "212001004": [
         "Boost DEF and SPR for all allies",
@@ -6655,6 +6695,14 @@
         "Fügt einem Gegner teilweise direkten Schaden zu.",
         "Daño absoluto parcial a un enemigo"
     ],
+    "215000607": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo"
+    ],
     "215000705": [
         "Damage and inflict random status ailment on all enemies",
         "攻擊全體敵人+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
@@ -6675,9 +6723,9 @@
         "Damage and inflict random status ailment on all enemies",
         "攻擊全體敵人+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체에 피해+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
-        "Inflige une altération d'état au hasard à tous les ennemis",
+        "Dégâts et inflige une altération d'état au hasard à tous les ennemis",
         "Fügt allen Gegnern Schaden zu und fügt ihnen eine zuf. Statusveränderung zu.",
-        "Daña e inflige estados alterados aleatorios a todos los enemigos"
+        "Daña e inflige un estado alterado aleatorio a todos los enemigos"
     ],
     "215001004": [
         "Add boost to caster's physical damage against reapers, and deal dark damage and reduce DEF and SPR for all enemies",
@@ -10127,6 +10175,30 @@
         "Erhöht ANG des Benutzers und fügt einem Gegner Schaden zu.",
         "Aumenta el ATQ y daña a un enemigo"
     ],
+    "401006305": [
+        "Damage and reduce SPR for all enemies for three turns",
+        "攻擊全體敵人+3回合內降低全體敵人的精神",
+        "적 전체에 피해+3턴 동안 정신력 감소",
+        "Dégâts et réduit la PSY de tous les ennemis pendant trois tours",
+        "Fügt allen Gegnern Schaden zu und verringtert 3 Runden lang ihre PSY.",
+        "Daña y reduce el ESP de todos los enemigos durante 3 turnos"
+    ],
+    "401006306": [
+        "Damage and reduce SPR for all enemies for three turns",
+        "攻擊全體敵人+3回合內降低全體敵人的精神",
+        "적 전체에 피해+3턴 동안 정신력 감소",
+        "Dégâts et réduit la PSY de tous les ennemis pendant trois tours",
+        "Fügt allen Gegnern Schaden zu und verringtert 3 Runden lang ihre PSY.",
+        "Daña y reduce el ESP de todos los enemigos durante 3 turnos"
+    ],
+    "401006307": [
+        "Damage and reduce SPR for all enemies for three turns",
+        "攻擊全體敵人+3回合內降低全體敵人的精神",
+        "적 전체에 피해+3턴 동안 정신력 감소",
+        "Dégâts et réduit la PSY de tous les ennemis pendant trois tours",
+        "Fügt allen Gegnern Schaden zu und verringtert 3 Runden lang ihre PSY.",
+        "Daña y reduce el ESP de todos los enemigos durante 3 turnos"
+    ],
     "401006405": [
         "Damage all enemies and enable triple flash for 2 turns",
         "攻擊全體敵人+2回合內可使用「三重閃光」",
@@ -10246,6 +10318,22 @@
         "Inflige des dégâts en partie fixes et réduit la DEF de tous les ennemis. Augmente temporairement les chances d'être ciblé et réduit les dégâts subis par le lanceur pendant 1 tour",
         "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre ABW, erhöht für Benutzer kurzzeitig Chance, selbst zum Ziel zu werden und verringert den vom Benutzer erlittenen Schaden für eine Runde.",
         "Daño absoluto parcial y reduce la DEF de todos los enemigos, aumenta temporalmente la probabilidad de ser atacado y reduce el daño que recibe usuario durante un turno"
+    ],
+    "900000137": [
+        "Restore HP, revive, gradually restore HP and MP, and boost DEF and SPR for all allies",
+        "恢復全體隊員的HPMP+復活無法戰鬥狀態+持續恢復HP+提高防禦精神",
+        "아군 전체의 HP 회복+전투불능 상태 회복+HP, MP 서서히 회복+방어력과 정신력 상승",
+        "Restaure les PV, ressuscite, restaure progressivement les PV/PM, et augmente la DEF et la PSY de tous les alliés",
+        "ABW und PSY hoch, alle Verb. und stellt allmählich LP und MP wieder her, Wiederbeleben.",
+        "Recupera VIT y revive, aumenta VIT y PM poco a poco y aumenta DEF y ESP de todos los aliados"
+    ],
+    "900000147": [
+        "Damage and inflict random status ailment on all enemies, and enable crackshot for one turn",
+        "攻擊全體敵人+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果+1回合內可使用「粉碎強擊」",
+        "적 전체에 피해+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여+1턴 동안 '브레이크 블로우' 사용 가능",
+        "Dégâts, inflige une altération d'état au hasard à tous les ennemis et permet d'utiliser Tir vicieux pendant un tour",
+        "Fügt allen Gegnern Schaden zu und fügt ihnen eine zuf. Statusveränderung zu + ermöglicht eine Runde lang Triumphschuss.",
+        "Daña e inflige un estado alterado aleatorio a todos los enemigos y aprende Subyugación durante un turno"
     ],
     "900000157": [
         "Boost ATK, DEF, MAG, and SPR for caster and enable secret sword art - excalibur, secret sword art - muramasa, secret sword art - zantetsuken, and secret sword art - genji blade for 4 turns",
