@@ -5279,6 +5279,14 @@
         "Fügt einem Gegner teilweise direkten Schaden zu.",
         "Daño absoluto parcial a un enemigo"
     ],
+    "207000107": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes sur un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo"
+    ],
     "207001005": [
         "Deal partial unmitigated damage and reduce light and dark resistance for all enemies",
         "對全體敵人發動部分無視防禦的攻擊+降低光暗屬性耐性",
@@ -7680,12 +7688,20 @@
         "Aumenta la MAG y la DEF de todos los aliados"
     ],
     "302000706": [
-        "Boost MAG and DEF for all allies, and restore MP for all allies",
+        "Boost MAG and DEF and restore MP for all allies",
         "提高全體隊員的魔法防禦+恢復MP",
         "아군 전체의 마력과 방어력 상승+MP 회복",
         "Augmente la MAGIE, la DEF et restaure les PM de tous les alliés",
         "MAg und ABW hoch und stellt alle MP wieder her, alle Verb.",
         "Aumenta la MAG/DEF y recupera los PM de todos los aliados"
+    ],
+    "302000707": [
+        "Boost MAG, DEF, and SPR and restore MP for all allies",
+        "提高全體隊員的魔力防禦精神+恢復MP",
+        "아군 전체의 마력, 방어력, 정신력 상승+MP 회복",
+        "Augmente la MAGIE, la DEF et la PSY, et restaure les PM de tous les alliés",
+        "Erhöht MAG, ABW und PSY + regeneriert MP aller Verbündeten.",
+        "Aumenta la MAG, la DEF y el ESP y recupera los PM de todos los aliados"
     ],
     "302000804": [
         "Restore HP and cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies",
@@ -9472,7 +9488,7 @@
         "Reduce el daño que reciben todos los aliados y reduce la res. al fuego y al viento de todos los enemigos"
     ],
     "401002605": [
-        "Ice damage to all enemies, add ice element to physical attacks to all allies for two turns",
+        "Ice damage to all enemies and add ice element to physical attacks to all allies for two turns",
         "對全體敵人發動冰屬性攻擊+2回合內將全體隊員的物理攻擊賦予水屬性",
         "적 전체에 얼음속성 피해+2턴 동안 아군 전체의 물리 공격에 얼음속성 부여",
         "Dégâts de glace sur tous les ennemis et ajoute l'élément glace aux attaques physiques de tous les alliés pendant deux tours",
@@ -9480,28 +9496,44 @@
         "Daño de hielo a todos los enemigos, añade elemento hielo a todos los ataques físicos de los aliados durante 2 turnos"
     ],
     "401002606": [
-        "Ice damage to all enemies, add ice element to physical attacks to all allies for two turns",
+        "Ice damage to all enemies and add ice element to physical attacks to all allies for two turns",
         "對全體敵人發動冰屬性攻擊+2回合內將全體隊員的物理攻擊賦予水屬性",
         "적 전체에 얼음속성 피해+2턴 동안 아군 전체의 물리 공격에 얼음속성 부여",
         "Dégâts de glace sur tous les ennemis et ajoute l'élément glace aux attaques physiques de tous les alliés pendant deux tours",
         "Fügt allen Gegnern Eisschaden zu, und gibt den phy. Angriffen aller Verb. Eiselement.",
         "Daño de hielo a todos los enemigos, añade elemento hielo a todos los ataques físicos de los aliados durante 2 turnos"
     ],
+    "401002607": [
+        "Deal ice damage to all enemies and add ice element to physical attacks to all allies for two turns",
+        "對全體敵人發動冰屬性攻擊+2回合內將全體隊員的物理攻擊賦予水屬性",
+        "적 전체에 얼음속성 피해+2턴 동안 아군 전체의 물리 공격에 얼음속성 부여",
+        "Inflige des dégâts de glace à tous les ennemis et ajoute l'élément glace aux attaques physiques de tous les alliés pendant deux tours",
+        "Fügt allen Gegnern Eisschaden zu, und gibt den physischen Angriffen aller Verbündeten zwei Runden lang Eiselement.",
+        "Daño de hielo a todos los enemigos y añade elemento hielo al ataque físico de todos los aliados durante 2 turnos"
+    ],
     "401002705": [
-        "Stop and inflict random status ailment on all enemies",
+        "Chance of stopping or inflicting random status ailments on all enemies",
         "對全體敵人施加停止效果+隨機施加狀態異常效果",
-        "적 전체에 일정 확률로 스톱 부여+무작위로 능력치 이상 부여",
+        "적 전체에 일정 확률로 스톱 부여+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
         "Stoppe et inflige une altération d'état aléatoire à tous les ennemis",
         "Stoppt alle Gegner und fügt ihnen eine zufällige Zustandsveränderung zu.",
         "Para e inflige estados alterados aleatorios a todos los enemigos"
     ],
     "401002706": [
-        "Stop and inflict random status ailment on all enemies and enable wicked eye for two turns",
+        "Chance of stopping or inflicting random status ailments on all enemies, and enable wicked eye for two turns",
         "對全體敵人施加停止效果+隨機施加狀態異常效果+2回合內發動「邪眼」",
-        "적 전체에 일정 확률로 스톱 부여+무작위로 능력치 이상 부여+2턴 동안 '사악한 눈' 발동",
+        "적 전체에 일정 확률로 스톱 부여+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여+2턴 동안 '사악한 눈' 사용 가능",
         "Stoppe, inflige une altération d'état aléatoire à tous les ennemis et permet d'utiliser \"Mauvais œil\"",
         "Stoppt alle Gegner, fügt ihnen eine zufällige Zustandsveränderung zu und ermöglicht zwei Runden lange Böser Blick.",
         "Para e inflige estados alterados aleatorios a todos los enemigos"
+    ],
+    "401002707": [
+        "Damage and chance of stopping or inflicting random status ailments to all enemies, and enable cursed eye for two turns",
+        "攻擊全體敵人+一定機率施加停止或隨機賦予異常狀態+2回合內可使用「詛咒之眼」",
+        "적 전체에 피해+일정 확률로 스톱 부여+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여+2턴 동안 '저주받은 눈' 사용 가능",
+        "Dégâts, chance d'infliger stop ou une altération d'état au hasard à tous les ennemis, et permet d'utiliser Œil maudit pendant deux tours",
+        "Fügt allen Gegnern Schaden zu + Chance, sie zu stoppen oder ihnen einen zufälligen Zustand zuzufügen und ermöglicht zwei Runden lang Verfluchtes Auge.",
+        "Daña, probabilidad de dejar de infligir estados alterados al azar a todos los enemigos y aprende Ojo maldito durante 2 turnos"
     ],
     "401002804": [
         "Damage all enemies and boost LB gauge fill rate for all allies",
@@ -10175,6 +10207,54 @@
         "Erhöht ANG des Benutzers und fügt einem Gegner Schaden zu.",
         "Aumenta el ATQ y daña a un enemigo"
     ],
+    "401006105": [
+        "Damage and reduce fire and earth resistance and ATK and MAG for all enemies",
+        "攻擊全體敵人+降低火土屬性耐性、攻擊魔力",
+        "적 전체에 피해+공격력, 마력, 불과 땅속성 저항력 감소",
+        "Dégâts et réduit l'ATT, la MAGIE, la résistance au feu et la résistance à la terre de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu + verringert ihre Feuer- und Erdresistenz und ihre ANG und MAG.",
+        "Daña y reduce la resistencia al fuego y a la tierra, y el ATQ y la MAG de todos los enemigos"
+    ],
+    "401006106": [
+        "Damage and reduce fire and earth resistance and ATK and MAG for all enemies",
+        "攻擊全體敵人+降低火土屬性耐性、攻擊魔力",
+        "적 전체에 피해+공격력, 마력, 불과 땅속성 저항력 감소",
+        "Dégâts et réduit l'ATT, la MAGIE, la résistance au feu et la résistance à la terre de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu + verringert ihre Feuer- und Erdresistenz und ihre ANG und MAG.",
+        "Daña y reduce la resistencia al fuego y a la tierra, y el ATQ y la MAG de todos los enemigos"
+    ],
+    "401006107": [
+        "Damage and reduce fire and earth resistance and ATK and MAG for all enemies",
+        "攻擊全體敵人+降低火土屬性耐性、攻擊魔力",
+        "적 전체에 피해+공격력, 마력, 불과 땅속성 저항력 감소",
+        "Dégâts et réduit l'ATT, la MAGIE, la résistance au feu et la résistance à la terre de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu + verringert ihre Feuer- und Erdresistenz und ihre ANG und MAG.",
+        "Daña y reduce la resistencia al fuego y a la tierra, y el ATQ y la MAG de todos los enemigos"
+    ],
+    "401006205": [
+        "Deal partial unmitigated magic damage to all enemies, restore HP and MP for all allies, and enable turbulent trouble for one turn",
+        "對全體敵人發動無視部分魔法防禦的攻擊+恢復全體隊員的HPMP+1回合內可使用「不斷冒出的麻煩」",
+        "적 전체에 일부 마법 방어 무시 피해+아군 전체의 HP와 MP 회복+1턴 동안 '말썽 속출' 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, restaure les PV et les PM de tous les alliés, et permet d'utiliser Problèmes hors de contrôle pendant un tour",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu, regeneriert LP und MP aller Verbündeten und ermöglicht Turbulenter Trubel für eine Runde.",
+        "Daño absoluto parcial mágico a todos los enemigos, recupera la VIT y los PM de todos los aliados, y aprende Aprieto nebuloso durante un turno"
+    ],
+    "401006206": [
+        "Deal partial unmitigated magic damage to all enemies, restore HP and MP for all allies, and enable turbulent trouble for one turn",
+        "對全體敵人發動無視部分魔法防禦的攻擊+恢復全體隊員的HPMP+1回合內可使用「不斷冒出的麻煩」",
+        "적 전체에 일부 마법 방어 무시 피해+아군 전체의 HP와 MP 회복+1턴 동안 '말썽 속출' 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, restaure les PV et les PM de tous les alliés, et permet d'utiliser Problèmes hors de contrôle pendant un tour",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu, regeneriert LP und MP aller Verbündeten und ermöglicht Turbulenter Trubel für eine Runde.",
+        "Daño absoluto parcial mágico a todos los enemigos, recupera la VIT y los PM de todos los aliados, y aprende Aprieto nebuloso durante un turno"
+    ],
+    "401006207": [
+        "Deal partial unmitigated magic damage to all enemies, restore HP and MP for all allies, and enable turbulent trouble for two turns",
+        "對全體敵人發動無視部分魔法防禦的攻擊+恢復全體隊員的HPMP+2回合內可使用「不斷冒出的麻煩」",
+        "적 전체에 일부 마법 방어 무시 피해+아군 전체의 HP와 MP 회복+2턴 동안 '말썽 속출' 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, restaure les PV et les PM de tous les alliés, et permet d'utiliser Problèmes hors de contrôle pendant un tour",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu, regeneriert LP und MP aller Verbündeten und ermöglicht Turbulenter Trubel für zwei Runden.",
+        "Daño absoluto parcial mágico a todos los enemigos, recupera la VIT y los PM de todos los aliados, y aprende Aprieto nebuloso durante 2 turnos"
+    ],
     "401006305": [
         "Damage and reduce SPR for all enemies for three turns",
         "攻擊全體敵人+3回合內降低全體敵人的精神",
@@ -10438,5 +10518,13 @@
         "Inflige des dégâts en partie fixes, réduit la rés. au feu et à la glace d'un ennemi et permet d'utiliser Flash pourpre - Final, Floraison fatale et Ère carmin pendant deux à cinq tours",
         "Fügt einem Gegner teilweise direkten Schaden zu und verringert Feuer- und Eisres. für einen Gegner, ermöglicht Flimmerklinge - Final, fatale Blüte und und Purpurne Ära für zwei bis fünf Runden.",
         "Daño absoluto parcial, reduce la resistencia al fuego y al hielo de un enemigo, aprende Destello de hoja - Final, Floración fatal y Era carmesí durante 2-5 turnos, y aprende Tranquilidad absoluta durante 2 turnos"
+    ],
+    "950000005": [
+        "Deal ice damage to all enemies, add ice element to physical attacks to all allies for two turns, and enable multi-frost for one turn",
+        "對全體敵人發動冰屬性攻擊+2回合內將全體隊員的物理攻擊賦予冰屬+1回合內可使用「巨量冰霜」",
+        "적 전체에 얼음속성 피해+2턴 동안 아군 전체의 물리 공격에 얼음속성 부여+1턴 동안 '다중 서리' 사용 가능",
+        "Inflige des dégâts de glace à tous les ennemis, ajoute l'élément glace aux attaques physiques de tous les alliés pendant deux tours, et permet d'utiliser Multi-gel pendant un tour",
+        "Fügt allen Gegnern Eisschaden zu, gibt den physischen Angriffen aller Verb. zwei Runden lang Eiselement und ermöglicht eine Runde lang Multi-Frost.",
+        "Daño de hielo a todos los enemigos, añade elemento hielo al ataque físico de todos los aliados durante 2 turnos y aprende Congelación múltiple durante un turno"
     ]
 }
