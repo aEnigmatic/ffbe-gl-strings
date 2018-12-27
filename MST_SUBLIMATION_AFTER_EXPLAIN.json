@@ -11,7 +11,7 @@
         "Boosts turns in effect (mid)<br><color=0:255:0>Boosts ATK and MAG increases (mid)</color>",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)",
         null,
         null
     ],
@@ -285,7 +285,7 @@
         "공격력 상승량 상승(대)<br><color=0:255:0>공격력 상승량 상승(대)</color><br><color=0:255:0>무기를 한 개만 장착 시 공격력 상승</color>",
         "Amplifie l'augmentation de l'ATT (beaucoup)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color><br><color=0:255:0>Augmente l'ATT lorsqu'une arme à une main est équipée dans chaque main</color>",
         "Steigert ANG-Erhöhung (hoch)<br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color><br><color=0:255:0>Erhöht ANG, wenn Einhandwaffe beidhändig ausgerüstet wird</color>",
-        "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color><br><color=0:255:0>Aumenta el ATQ al llevar un arma de una mano en las dos manos.</color>"
+        "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color><br><color=0:255:0>Aumenta el ATQ al llevar un arma de una sola mano en las dos manos.</color>"
     ],
     "101430001": [
         "<color=0:255:0>Boosts poison, blind, sleep, silence, paralysis, confusion, disease, and stone resistance</color>",
@@ -2813,7 +2813,7 @@
         "공격력 상승<br><color=0:255:0>활, 하프를 제외한 한손용 무기 동시에 2개 장착 가능</color>",
         "Augmente l'ATT<br><color=0:255:0>Permet à une arme à une main de pouvoir utiliser Deux armes</color>",
         "Erhöht ANG<br><color=0:255:0>Ermöglicht beidhändig für einhändige Waffen</color>",
-        "Aumenta el ATQ<br><color=0:255:0>Permite equiparse con dos armas de una mano</color>"
+        "Aumenta el ATQ<br><color=0:255:0>Permite equiparse con dos armas de una sola mano</color>"
     ],
     "205690001": [
         "<color=0:255:0>Boosts damage amount (mid)</color>",
@@ -4640,7 +4640,7 @@
         "Aumenta la duración (mucho)<br><color=0:255:0>Aumenta la duración (mucho)</color>"
     ],
     "210050001": [
-        "<color=0:255:0>Boosts DEF ignored amount (high)</color><br><color=0:255:0>Adds fire, ice, lightning, water, wind, earth, light, and dark resistance reduction effect for enabled Prishe special after using raging fists, berserk attack+ or tornado kick+</color>",
+        "<color=0:255:0>Boosts DEF ignored amount (high)</color><br><color=0:255:0>Adds fire, ice, lightning, water, wind, earth, light, and dark resistance reduction effect for enabled ability - Prishe special</color>",
         "<color=0:255:0>提高無視防禦量(大)</color><br><color=0:255:0>在「乱撃」「羅剎擊+」「鬥魂旋風腳+」後使用的「普利修特技」附加降低火冰雷水風土光暗屬性耐性的效果</color>",
         "<color=0:255:0>방어 무시 피해량 상승(대)</color><br><color=0:255:0>'난격', '나찰격+', 또는 '투귀질풍각+' 발동 후 사용 가능한 '프리쉬 스페셜'에 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소 효과 부여</color>",
         "<color=0:255:0>Augmente la quantité de DEF ignorée (beaucoup)</color><br><color=0:255:0>Ajoute l'effet de réduction de la résistance à feu, glace, foudre, eau, vent, terre, lumière, ténèbres à l'aptitude Spécialité de Prishe débloquée après avoir utilisé Poings de colère, Attaque furieuse + ou Coup de pied tornade +</color>",
@@ -4648,7 +4648,7 @@
         "<color=0:255:0>Ignora más la DEF (mucho)</color><br><color=0:255:0>Mayor reducción a la resistencia de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad con Especial de Prishe tras usar Puños de la ira, Furia enloquecida+ o Patada tornado+</color>"
     ],
     "210050002": [
-        "Boosts DEF ignored amount (high)<br>Adds fire, ice, lightning, water, wind, earth, light, and dark resistance reduction effect for enabled prishe special after using raging fists, berserk attack+ or tornado kick+<br><color=0:255:0>Enables prishe special for one turn after using enabled prishe special from using raging fists, berserk attack+ or tornado kick+</color>",
+        "Boosts DEF ignored amount (high)<br>Adds fire, ice, lightning, water, wind, earth, light, and dark resistance reduction effect for enabled ability - prishe special<br><color=0:255:0>Enables prishe special for one turn after using enabled ability - prishe special</color>",
         "提高無視防禦量(大)<br>使用「乱擊」「羅剎擊+」「鬥魂旋風腳+」後，可使用「普利修特技」並附加降低火冰雷水風土光暗屬性耐性的效果<br><color=0:255:0>在「乱擊」「羅剎擊+」「鬥魂旋風腳+」後使用「普利修特技」時，1回合內可使用「普利修特技」</color>",
         "방어 무시 피해량 상승(대)<br>'난격', '나찰격+', 또는 '투귀질풍각+' 발동 후 사용 가능한 '프리쉬 스페셜'에 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소 효과 부여<br><color=0:255:0>'난격', '나찰격+', '투귀질풍각+' 발동 후 사용 가능한 '프리쉬 스페셜' 발동 후 1턴 동안 '프리쉬 스페셜' 사용 가능</color>",
         "Augmente la quantité de DEF ignorée (beaucoup)<br>Ajoute l'effet de réduction de la résistance à feu, glace, foudre, eau, vent, terre, lumière, ténèbres à l'aptitude Spécialité de Prishe débloquée après avoir utilisé Poings de colère, Attaque furieuse + ou Coup de pied tornade +<br><color=0:255:0>Permet d'utiliser Spécialité de Prishe à nouveau pendant un tour après l'avoir déjà utilisé suite à l'utilisation de Poings de colère, Attaque furieuse + ou Coup de pied tornade +</color>",
@@ -5011,7 +5011,7 @@
         "<color=0:255:0>Boosts ATK and MAG increases (great)</color>",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (super)",
         null,
         null
     ],
@@ -5019,7 +5019,7 @@
         "Boosts ATK and MAG increases (great)<br><color=0:255:0> Temporarily guards allies against physical and magic damage</color>",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (super)",
         null,
         null
     ],
@@ -6448,7 +6448,7 @@
         null
     ],
     "215230001": [
-        "<color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases from enabled war of the gods after using a special ability (low)</color>",
+        "<color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases from enabled ability - war of the gods (low)</color>",
         "<color=0:255:0>提高發動特定能力後可使用的「三章·神魔激戰」攻擊防禦魔力精神增加量(小)</color>",
         "<color=0:255:0>특정 어빌리티 발동 후 사용 가능한 '제3장~신마격전~'의 공격력, 방어력, 마력, 정신력 상승량 상승(소)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT, la DEF, la MAGIE, la PSY en utilisant Guerre des dieux, aptitude débloquée après avoir utilisé une aptitude spéciale (peu)</color>",
@@ -6456,7 +6456,7 @@
         "<color=0:255:0>Mayor aumento de ATQ, DEF, MAG y ESP tras aprender Guerra entre dioses al usar una habilidad especial (poco)</color>"
     ],
     "215230002": [
-        "Boosts ATK, DEF, MAG, and SPR increases from enabled war of the gods after using a special ability (low)<br><color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases from enabled victory to the brave after using a special ability (mid)<br>Boosts ATK, DEF, MAG, and SPR reductions from enabled victory to the brave after using a special ability (low)</color>",
+        "Boosts ATK, DEF, MAG, and SPR increases from enabled ability - war of the gods (low)<br><color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases from enabled ability - victory to the brave (mid)<br>Boosts ATK, DEF, MAG, and SPR reductions from enabled ability - victory to the brave (low)</color>",
         "提高發動特定能力後可使用的「三章·神魔激戰」攻擊防禦魔力精神增加量(小)<br><color=0:255:0>提高發動特定能力後可使用的「最終章·勇者凱歌」攻擊防禦魔力精神增加量(中)<br>提高發動特定能力後可使用的「最終章·勇者凱歌」攻擊防禦魔力精神減少量(小)</color>",
         "특정 어빌리티 발동 후 사용 가능한 '제3장~신마격전~'의 공격력, 방어력, 마력, 정신력 상승량 상승(소)<br><color=0:255:0>특정 어빌리티 발동 후 사용 가능한 '최종장~용사의 개가~'의 공격력, 방어력, 마력, 정신력 상승량 상승(중)<br>특정 어빌리티 발동 후 사용 가능한 '최종장~용사의 개가~'의 공격력, 방어력, 마력, 정신력 감소량 상승(소)</color>",
         "Amplifie l'augmentation de l'ATT, la DEF, la MAGIE, la PSY en utilisant Guerre des dieux, aptitude débloquée après avoir utilisé une aptitude spéciale (peu)<br><color=0:255:0>Amplifie l'augmentation de l'ATT, la DEF, la MAGIE, la PSY en utilisant Victoire des braves, aptitude débloquée après avoir utilisé une aptitude spéciale (moyen)<br>Amplifie la réduction de l'ATT, la DEF, la MAGIE, la PSY en utilisant Victoire des braves, aptitude débloquée après avoir utilisé une aptitude spéciale (peu)</color>",
@@ -6883,7 +6883,7 @@
         "<color=0:255:0>Boosts ATK and MAG increases (low)</color>",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (peu)",
         null,
         null
     ],
@@ -7067,7 +7067,7 @@
         "<color=0:255:0>Boosts ATK and MAG increases (mid)</color>",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)",
         null,
         null
     ],
@@ -7083,7 +7083,7 @@
         "<color=0:255:0>Boosts DEF and SPR increases (high)</color>",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de la DEF et de la PSY (beaucoup)",
         null,
         null
     ],
@@ -7339,7 +7339,7 @@
         "<color=0:255:0>Boosts ATK and MAG increases (mid)",
         null,
         null,
-        null,
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)",
         null,
         null
     ],
@@ -7589,7 +7589,7 @@
         "공격력 상승<br><color=0:255:0>한손용 단검, 채찍, 메이스, 또는 격투무기 동시에 2개 장착 가능</color>",
         "Augmente l'ATT<br><color=0:255:0>Permet d'équiper deux armes à une main : épées courtes, fouets, masses, ou poings</color>",
         "Boosts ATK<br><color=0:255:0>Kann zwei Exemplare beliebiger Kurzzschwerter, Peitschen, Keulen oder Fäuste ausrüsten</color>",
-        "Aumenta el ATQ<br><color=0:255:0>Pueden equiparse dos espadas de una mano, látigos, mazas o puños</color>"
+        "Aumenta el ATQ<br><color=0:255:0>Permite equiparse con dos espadas, látigos, mazas o puños de una sola mano</color>"
     ],
     "910003001": [
         "<color=0:255:0>Boosts ATK increase when active (high)</color><br><color=0:255:0>Boosts DEF when active</color>",
@@ -7701,7 +7701,7 @@
         "정신력 상승량 상승(소)<br>적의 공격 대상이 될 확률 감소<br><color=0:255:0>정신력과 MP 상승량 상승(중)</color><br><color=0:255:0>무기를 한 개만 장착 시 정신력 상승</color>",
         "Amplifie l'augmentation de la PSY (peu)<br>Diminue les chances d'être ciblé<br><color=0:255:0>Amplifie l'augmentation de la PSY et des PM (moyen)</color><br><color=0:255:0>Augmente la PSY lorsqu'une arme est équipée dans chaque main</color>",
         "Steigert PSY-Erhöhung (gering)<br>Die Einheit wird seltener angegriffen<br><color=0:255:0>Steigert PSY- und MP-Erhöhung (mittel)</color><br><color=0:255:0>Erhöht PSY, wenn Einhandwaffe beidhändig ausgerüstet wird</color>",
-        "Mayor aumento de ESP (poco)<br>Reduce la posibilidad de ser atacado<br><color=0:255:0>Mayor aumento de ESP y PM (bastante)</color><br><color=0:255:0>Aumenta el ESP cuando se lleva un arma de una mano en las dos manos</color>"
+        "Mayor aumento de ESP (poco)<br>Reduce la posibilidad de ser atacado<br><color=0:255:0>Mayor aumento de ESP y PM (bastante)</color><br><color=0:255:0>Aumenta el ESP al llevar un arma de una sola mano en las dos manos</color>"
     ],
     "910012001": [
         "<color=0:255:0>Deals damage two times</color><br><color=0:255:0>Deals additional magic damage</color>",
@@ -8611,7 +8611,7 @@
         "Boosts damage amount (low)<br>Boosts consecutive use damage (low)<br>Fills own LB gauge<br><color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Boosts consecutive use damage (low)</color><br><color=0:255:0>Boosts maximum damage from consecutive use (high)</color><br><color=0:255:0>Boosts LB gauge increase (low)</color>",
         "提高傷害量(小)<br>連續使用提高傷害(小)<br>提高自身極限技槽<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>連續使用提高傷害(小)</color><br><color=0:255:0>提高連續使用時造成的最大傷害(大)</color><br><color=0:255:0>提高極限技槽增加量(小)</color>",
         "피해량 상승(소)<br>연속 사용 시 피해량 상승(소)<br>자신의 LB 게이지 증가<br><color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>연속 사용 시 피해량 상승(소)</color><br><color=0:255:0>연속 사용 시 최대 피해량 상승(대)</color><br><color=0:255:0>LB 게이지 증가량 상승(소)</color>",
-        "Augmente les dégâts infligés (peu)<br>Augmente les dégâts avec un usage consécutif (peu)<br>Remplit la jauge de limite du lanceur<br><color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Augmente les dégâts avec un usage consécutif (peu)</color><br><color=0:255:0>Augmente les dégâts avec un usage consécutif (beaucoup)</color><br><color=0:255:0>Amplifie l'augmentation de la jauge de limite (peu)</color>",
+        "Augmente les dégâts infligés (peu)<br>Augmente les dégâts avec un usage consécutif (peu)<br>Remplit la jauge de limite du lanceur<br><color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Augmente les dégâts avec un usage consécutif (peu)</color><br><color=0:255:0>Augmente les dégâts maximums avec un usage consécutif (beaucoup)</color><br><color=0:255:0>Amplifie l'augmentation de la jauge de limite (peu)</color>",
         "Erhöht Schaden (gering)<br>Erhöht Schaden mit jeder Anwendung (gering)<br>Füllt eigenen Limitmeter<br><color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Erhöht Schaden mit jeder Anwendung (gering)</color><br><color=0:255:0>Erhöht Maximalschaden mit jeder Anwendung (hoch)</color><br><color=0:255:0>Steigerung von Limitmetererhöhung (gering)</color>",
         "Aumenta el daño (poco)<br>Aumenta el daño con el uso consecutivo (poco)<br>Rellena la barra de EL del usuario<br><color=0:255:0>Aumenta el daño (poco)</color><br><color=0:255:0>Aumenta el daño con el uso consecutivo (poco)</color><br><color=0:255:0>Aumenta el daño máximo con el uso consecutivo (mucho)</color><br><color=0:255:0>Mayor aumento de la barra de EL (poco)</color>"
     ],
@@ -9081,227 +9081,227 @@
     ],
     "910614001": [
         "<color=0:255:0>Boosts HP</color>",
-        null,
+        "<color=0:255:0>提高HP</color>",
         "<color=0:255:0>HP 상승</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente les PV</color>",
+        "<color=0:255:0>Erhöht LP</color>",
+        "<color=0:255:0>Aumenta la VIT</color>"
     ],
     "910614002": [
         "Boosts HP<br><color=0:255:0>Boosts chance of evading some physical attacks (low)</color><br><color=0:255:0>Restores MP every turn</color>",
-        null,
+        "提高HP<br><color=0:255:0>提高閃避部分物理攻擊的機率(小)</color><br><color=0:255:0>每回合恢復MP</color>",
         "HP 상승<br><color=0:255:0>일부 물리 공격 회피 확률 상승(소)</color><br><color=0:255:0>매 턴마다 MP 회복</color>",
-        null,
-        null,
-        null
+        "Augmente les PV<br><color=0:255:0>Augmente les chances d'esquiver certaines attaques physiques (peu)</color><br><color=0:255:0>Restaure les PM à chaque tour</color>",
+        "Erhöht LP<br><color=0:255:0>Erhöht Wahrscheinlichkeit, einigen phys. Angriffen auszuweichen (gering)</color><br><color=0:255:0>Regeneriert jede Runde MP</color>",
+        "Aumenta la VIT<br><color=0:255:0>Probabilidad de esquivar algunos ataques físicos (poco)</color><br><color=0:255:0>Recupera PM cada turno</color>"
     ],
     "910616001": [
         "<color=0:255:0>Boosts DEF reduction (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
-        null,
+        "<color=0:255:0>提高防禦減少量(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
         "<color=0:255:0>방어력 감소량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente la réduction de la DEF (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Erhöht ABW-Verringerung (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Mayor reducción de DEF (bastante)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
     ],
     "910616002": [
         "Boosts DEF reduction (mid)<br>Boosts turns in effect (low)<br><color=0:255:0>Boosts DEF reduction (low)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts LB gauge increase (low)</color>",
-        null,
+        "提高防禦減少量(中)<br>提高效果回合數(小)<br><color=0:255:0>提高防禦減少量(小)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高極限技槽增加量(小)</color>",
         "방어력 감소량 상승(중)<br>효과 턴 수 상승(소)<br><color=0:255:0>방어력 감소량 상승(소)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>LB 게이지 증가량 상승(소)</color>",
-        null,
-        null,
-        null
+        "Augmente la réduction de la DEF (moyen)<br>Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Augmente la réduction de la DEF (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Amplifie l'augmentation de la jauge de limite (peu)</color>",
+        "Erhöht ABW-Verringerung (mittel)<br>Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Erhöht ABW-Verringerung (gering)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Steigerung von Limitmetererhöhung (gering)</color>",
+        "Mayor reducción de DEF (bastante)<br>Aumenta la duración (poco)<br><color=0:255:0>Mayor reducción de DEF (poco)</color><br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>La barra de EL se llena más rápido (poco)</color>"
     ],
     "910617001": [
         "<color=0:255:0>Boosts SPR reduction (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
-        null,
+        "<color=0:255:0>提高精神減少量(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
         "<color=0:255:0>정신력 감소량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente la réduction de la PSY (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Erhöht PSY-Verringerung (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Mayor reducción de ESP (bastante)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
     ],
     "910617002": [
         "Boosts SPR reduction (mid)<br>Boosts turns in effect (low)<br><color=0:255:0>Boosts SPR reduction (low)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts LB gauge increase (low)</color>",
-        null,
+        "提高精神減少量(中)<br>提高效果回合數(小)<br><color=0:255:0>提高精神減少量(小)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高極限技槽增加量(小)</color>",
         "정신력 감소량 상승(중)<br>효과 턴 수 상승(소)<br><color=0:255:0>정신력 감소량 상승(소)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>LB 게이지 증가량 상승(소)</color>",
-        null,
-        null,
-        null
+        "Augmente la réduction de la PSY (moyen)<br>Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Augmente la réduction de la PSY (peu)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Amplifie l'augmentation de la jauge de limite (peu)</color>",
+        "Erhöht PSY-Verringerung (mittel)<br>Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Erhöht PSY-Verringerung (gering)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Steigerung von Limitmetererhöhung (gering)</color>",
+        "Mayor reducción de ESP (bastante)<br>Aumenta la duración (poco)<br><color=0:255:0>Mayor reducción de ESP (poco)</color><br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>La barra de EL se llena más rápido (poco)</color>"
     ],
     "910620001": [
         "<color=0:255:0>Boosts ATK reduction (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
-        null,
+        "<color=0:255:0>提高攻擊減少量(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
         "<color=0:255:0>공격력 감소량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente la réduction de l'ATT (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Erhöht ANG-Verringerung (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Mayor reducción de ATQ (bastante)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
     ],
     "910620002": [
         "Boosts ATK reduction (mid)<br>Boosts turns in effect (low)<br><color=0:255:0>Boosts ATK reduction (low)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts LB gauge increase (low)</color>",
-        null,
+        "提高攻擊減少量(中)<br>提高效果回合數(小)<br><color=0:255:0>提高攻擊減少量(小)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高極限技槽增加量(小)</color>",
         "공격력 감소량 상승(중)<br>효과 턴 수 상승(소)<br><color=0:255:0>공격력 감소량 상승(소)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>LB 게이지 증가량 상승(소)</color>",
-        null,
-        null,
-        null
+        "Augmente la réduction de l'ATT (peu)<br>Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Augmente la réduction de l'ATT (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Amplifie l'augmentation de la jauge de limite (peu)</color>",
+        "Erhöht ANG-Verringerung (mittel)<br>Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Erhöht ANG-Verringerung (gering)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Steigerung von Limitmetererhöhung (gering)</color>",
+        "Mayor reducción de ATQ (bastante)<br>Aumenta la duración (poco)<br><color=0:255:0>Mayor reducción de ATQ (poco)</color><br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>La barra de EL se llena más rápido (poco)</color>"
     ],
     "910621001": [
         "<color=0:255:0>Boosts MAG reduction (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
-        null,
+        "<color=0:255:0>提高魔力減少量(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
         "<color=0:255:0>마력 감소량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente la réduction de la MAGIE (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Erhöht MAG-Verringerung (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Mayor reducción de MAG (bastante)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
     ],
     "910621002": [
         "Boosts MAG reduction (mid)<br>Boosts turns in effect (low)<br><color=0:255:0>Boosts MAG reduction (low)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts LB gauge increase (low)</color>",
-        null,
+        "提高魔力減少量(中)<br>提高效果回合數(小)<br><color=0:255:0>提高魔力減少量(小)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高極限技槽增加量(小)</color>",
         "마력 감소량 상승(중)<br>효과 턴 수 상승(소)<br><color=0:255:0>마력 감소량 상승(소)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>LB 게이지 증가량 상승(소)</color>",
-        null,
-        null,
-        null
+        "Augmente la réduction de la MAGIE (moyen)<br>Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Augmente la réduction de la MAGIE (peu)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Amplifie l'augmentation de la jauge de limite (peu)</color>",
+        "Erhöht MAG-Verringerung (mittel)<br>Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Erhöht MAG-Verringerung (gering)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Steigerung von Limitmetererhöhung (gering)</color>",
+        "Mayor reducción de MAG (bastante)<br>Aumenta la duración (poco)<br><color=0:255:0>Mayor reducción de MAG (poco)</color><br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>La barra de EL se llena más rápido (poco)</color>"
     ],
     "910639001": [
         "<color=0:255:0>Boosts HP and MAG increases (low)</color><br><color=0:255:0>Boosts MP</color>",
-        null,
+        "<color=0:255:0>提高HP魔力增加量(小)</color><br><color=0:255:0>提高MP</color>",
         "<color=0:255:0>HP와 마력 상승량 상승(소)</color><br><color=0:255:0>MP 상승</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Amplifie l'augmentation des PV et la MAGIE (peu)</color><br><color=0:255:0>Augmente les PM</color>",
+        "<color=0:255:0>Steigert LP- und MAG-Erhöhungen (gering)</color><br><color=0:255:0>Erhöht MP</color>",
+        "<color=0:255:0>Mayor aumento de VIT y MAG (poco)</color><br><color=0:255:0>Aumenta los PM</color>"
     ],
     "910639002": [
         "Boosts HP and MAG increases (low)<br>Boosts MP<br><color=0:255:0>Boosts HP and MAG increases (mid)</color><br><color=0:255:0>Boosts MP increase (low)</color>",
-        null,
+        "提高HP魔力增加量(小)<br>提高MP<br><color=0:255:0>提高HP魔力增加量(中)</color><br><color=0:255:0>提高MP增加量(小)</color>",
         "HP와 마력 상승량 상승(소)<br>MP 상승<br><color=0:255:0>HP와 마력 상승량 상승(중)</color><br><color=0:255:0>MP 상승량 상승(소)</color>",
-        null,
-        null,
-        null
+        "Amplifie l'augmentation des PV et de la MAGIE (peu)<br>Augmente les PM<br><color=0:255:0>Amplifie l'augmentation des PV et de la MAGIE (moyen)</color><br><color=0:255:0>Amplifie l'augmentation des PM (peu)</color>",
+        "Steigert LP- und MAG-Erhöhungen (gering)<br>Erhöht MP<br><color=0:255:0>Steigert LP/ und MAG-Erhöhungen (mittel)</color><br><color=0:255:0>Steigert MP-Erhöhung (gering)</color>",
+        "Mayor aumento de VIT y MAG (poco)<br>Aumenta los PM<br><color=0:255:0>Mayor aumento de VIT y MAG (bastante)</color><br><color=0:255:0>Mayor aumento de PM (poco)</color>"
     ],
     "910652001": [
         "<color=0:255:0>Boosts maximum damage from consecutive use (great)</color>",
-        null,
+        "<color=0:255:0>提高連續使用時造成的最大傷害(特大)</color>",
         "<color=0:255:0>연속 사용 시 최대 피해량 상승(특대)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente les dégâts maximums avec un usage consécutif (super)</color>",
+        "<color=0:255:0>Erhöht Maximalschaden mit jeder Anwendung (sehr hoch)</color>",
+        "<color=0:255:0>Aumenta el daño máximo con el uso consecutivo (muchísimo)</color>"
     ],
     "910652002": [
         "Boosts maximum damage from consecutive use (great)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts maximum damage from consecutive use (great)</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        null,
+        "提高連續使用時造成的最大傷害(特大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高連續使用時造成的最大傷害(特大)</color><br><color=255:255:0>提高MP消耗(大)</color>",
         "연속 사용 시 최대 피해량 상승(특대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>연속 사용 시 최대 피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(대)</color>",
-        null,
-        null,
-        null
+        "Augmente les dégâts maximums avec un usage consécutif (super)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Augmente les dégâts maximums avec un usage consécutif (super)</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
+        "Erhöht Maximalschaden mit jeder Anwendung (sehr hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Erhöht Maximalschaden mit jeder Anwendung (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
+        "Aumenta el daño máximo con el uso consecutivo (muchísimo)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Aumenta el daño máximo con el uso consecutivo (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (mucho)</color>"
     ],
     "910653001": [
-        "<color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts damage amount of snow burial (high)</color>",
-        null,
+        "<color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts damage amount of enabled ability - snow burial (high)</color>",
+        "<color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高使用「冰雪葬」後的傷害量(大)</color>",
         "<color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>'설장'의 피해량 상승(대)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Augmente les dégâts infligés par l'aptitude : Cercueil de neige (beaucoup)</color>",
+        "<color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Erhöht Schaden aktiver Fertigkeit - Schneebegräbnis (hoch)</color>",
+        "<color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>Aumenta el daño al aprender Entierro de nieve (mucho)</color>"
     ],
     "910653002": [
-        "Boosts turns in effect (low)<br>Boosts damage amount of snow burial (high)<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts damage amount of snow burial (high)</color>",
-        null,
+        "Boosts turns in effect (low)<br>Boosts damage amount of enabled ability - snow burial (high)<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts damage amount of enabled ability - snow burial (high)</color>",
+        "提高效果回合數(小)<br>提高使用「冰雪葬」後的傷害量(大)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高使用「冰雪葬」後的傷害量(大)</color>",
         "효과 턴 수 상승(소)<br>'설장'의 피해량 상승(대)<br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>'설장'의 피해량 상승(대)</color>",
-        null,
-        null,
-        null
+        "Augmente le nombre de tours des effets (peu)<br>Augmente les dégâts infligés par l'aptitude : Cercueil de neige (beaucoup)<br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Augmente les dégâts infligés par l'aptitude : Cercueil de neige (beaucoup)</color>",
+        "Erhöht Anzahl aktiver Runden (gering)<br>Erhöht Schaden aktiver Fertigkeit - Schneebegräbnis (hoch)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Erhöht Schaden aktiver Fertigkeit - Schneebegräbnis (hoch)</color>",
+        "Aumenta la duración (poco)<br>Aumenta el daño al aprender Entierro de nieve (mucho)<br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>Aumenta el daño al aprender Entierro de nieve (mucho)</color>"
     ],
     "910662001": [
         "<color=0:255:0>Boosts ATK increase (high)</color>",
-        null,
+        "<color=0:255:0>提高攻擊增加量(大)</color>",
         "<color=0:255:0>공격력 상승량 상승(대)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "910662002": [
         "Boosts ATK increase (high)<br><color=0:255:0>Boosts damage increase (great)</color><br><color=0:255:0>Boosts HP when equipped with a gun</color>",
-        null,
+        "提高攻擊增加量(大)<br><color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>裝備火槍時提高HP</color>",
         "공격력 상승량 상승(대)<br><color=0:255:0>피해 상승량 상승(특대)</color><br><color=0:255:0>총 장착 시 HP 상승</color>",
-        null,
-        null,
-        null
+        "Amplifie l'augmentation de l'ATT (beaucoup)<br><color=0:255:0>Amplifie l'augmentation des dégâts (super)</color><br><color=0:255:0>Augmente les PV lorsqu'un pistolet est équipé</color>",
+        "Steigert ANG-Erhöhung (hoch)<br><color=0:255:0>Steigert Schadenserhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht LP, wenn mit einer Schusswaffe ausgerüstet</color>",
+        "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Aumenta la VIT al llevar arma de fuego</color>"
     ],
     "910676001": [
         "<color=0:255:0>Boosts ATK increase (mid)</color>",
-        null,
+        "<color=0:255:0>提高攻擊增加量(中)</color>",
         "<color=0:255:0>공격력 상승량 상승(중)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
     ],
     "910676002": [
         "Boosts ATK increase (mid)<br><color=0:255:0>Boosts damage increase (great)</color><br><color=0:255:0>Boosts DEF when equipped with a bow</color>",
-        null,
+        "提高攻擊增加量(中)<br><color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>裝備弓時提高防禦</color>",
         "공격력 상승량 상승(중)<br><color=0:255:0>피해 상승량 상승(특대)</color><br><color=0:255:0>활 장착 시 방어력 상승</color>",
-        null,
-        null,
-        null
+        "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Amplifie l'augmentation des dégâts (super)</color><br><color=0:255:0>Augmente la DEF lorsqu'un arc est équipé</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert Schadenserhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht ABW, wenn mit einem Bogen ausgerüstet</color>",
+        "Mayor aumento de ATQ (bastante)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Aumenta la DEF al llevar arco</color>"
     ],
     "910677001": [
         "<color=0:255:0>Boosts damage amount (high)</color>",
-        null,
+        "<color=0:255:0>提高傷害量(大)</color>",
         "<color=0:255:0>피해량 상승(대)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente les dégâts infligés (beaucoup)</color>",
+        "<color=0:255:0>Erhöht Schaden (hoch)</color>",
+        "<color=0:255:0>Aumenta el daño (mucho)</color>"
     ],
     "910677002": [
         "Boosts damage amount (high)<br><color=0:255:0>Boosts damage amount (high)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        null,
+        "提高傷害量(大)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>降低MP消耗(小)</color>",
         "피해량 상승(대)<br><color=0:255:0>피해량 상승(대)</color><br><color=0:255:0>소비 MP 감소(소)</color>",
-        null,
-        null,
-        null
+        "Augmente les dégâts infligés (beaucoup)<br><color=0:255:0>Augmente les dégâts infligés (beaucoup)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
+        "Erhöht Schaden (hoch)<br><color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Verringert verbrauchte MP (gering)</color>",
+        "Aumenta el daño (mucho)<br><color=0:255:0>Aumenta el daño (mucho)</color><br><color=0:255:0>Reduce el consumo de PM (poco)</color>"
     ],
     "910680001": [
         "<color=0:255:0>Boosts MP when equipped with an instrument</color>",
-        null,
+        "<color=0:255:0>裝備樂器時提高MP</color>",
         "<color=0:255:0>악기 장착 시 MP 상승</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Augmente les PM lorsqu'un instrument est équipé</color>",
+        "<color=0:255:0>Erhöht MP wenn mit einem Instrument ausgerüstet</color>",
+        "<color=0:255:0>Aumenta los PM al llevar un instrumento</color>"
     ],
     "910680002": [
         "Boosts MP when equipped with an instrument<br><color=0:255:0>Boosts HP when equipped with an instrument</color><br><color=0:255:0>Nullifies silence</color>",
-        null,
+        "裝備樂器時提高MP<br><color=0:255:0>裝備樂器時提高HP</color><br><color=0:255:0>沉默無效</color>",
         "악기 장착 시 MP 상승<br><color=0:255:0>악기 장착 시 HP 상승</color><br><color=0:255:0>침묵 무효화</color>",
-        null,
-        null,
-        null
+        "Augmente les PM lorsqu'un instrument est équipé<br><color=0:255:0>Augmente les PV lorsqu'un instrument est équipé</color><br><color=0:255:0>Dissipe silence</color>",
+        "Erhöht MP wenn mit einem Instrument ausgerüstet<br><color=0:255:0>Erhöht LP wenn mit einem Instrument ausgerüstet</color><br><color=0:255:0>Annulliert Stumm</color>",
+        "Aumenta los PM al llevar un instrumento<br><color=0:255:0>Aumenta la VIT al llevar un instrumento</color><br><color=0:255:0>Anula silencio</color>"
     ],
     "910681001": [
         "<color=0:255:0>Boosts ATK and MAG increases (great)</color>",
-        null,
+        "<color=0:255:0>提高攻擊魔力增加量(特大)</color>",
         "<color=0:255:0>공격력과 마력 상승량 상승(특대)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (super)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Erhöhungen (sehr hoch)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ y MAG (muchísimo)</color>"
     ],
     "910681002": [
         "Boosts ATK and MAG increases (great)<br><color=0:255:0>Boosts ATK and MAG increases (low)</color><br><color=0:255:0>Boosts DEF and SPR for all allies while singing</color>",
-        null,
+        "提高攻擊魔力增加量(特大)<br><color=0:255:0>提高攻擊魔力增加量(小)</color><br><color=0:255:0>歌唱期間提高全體隊員的防禦精神</color>",
         "공격력과 마력 상승량 상승(특대)<br><color=0:255:0>공격력과 마력 상승량 상승(소)</color><br><color=0:255:0>노래하는 동안 아군 전체의 방어력과 정신력 상승</color>",
-        null,
-        null,
-        null
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (super)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (peu)</color><br><color=0:255:0>Augmente la DEF et la PSY de tous les alliés en chantant</color>",
+        "Steigert ANG- und MAG-Erhöhungen (sehr hoch)<br><color=0:255:0>Steigert ANG- und MAG-Erhöhungen (gering)</color><br><color=0:255:0>Erhöht während des Singens ABW und PSY aller Verbündeten</color>",
+        "Mayor aumento de ATQ y MAG (muchísimo)<br><color=0:255:0>Mayor aumento de ATQ y MAG (poco)</color><br><color=0:255:0>Aumenta la DEF y el ESP de todos los aliados al cantar</color>"
     ],
     "910682001": [
         "<color=0:255:0>Boosts DEF and SPR increases (great)</color>",
-        null,
+        "<color=0:255:0>提高防禦精神增加量(特大)</color>",
         "<color=0:255:0>방어력과 정신력 상승량 상승 (특대)</color>",
-        null,
-        null,
-        null
+        "<color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (super)</color>",
+        "<color=0:255:0>Steigert ABW- und PSY-Erhöhungen (sehr hoch)</color>",
+        "<color=0:255:0>Mayor aumento de DEF y ESP (muchísimo)</color>"
     ],
     "910682002": [
         "Boosts DEF and SPR increases (great)<br><color=0:255:0>Boosts DEF and SPR increases (low)</color><br><color=0:255:0>Boosts ATK and MAG for all allies while singing</color>",
-        null,
+        "提高防禦精神增加量(特大)<br><color=0:255:0>提高防禦精神增加量(小)</color><br><color=0:255:0>歌唱期間提高全體隊員的攻擊魔力</color>",
         "방어력과 정신력 상승량 상승(특대)<br><color=0:255:0>방어력과 정신력 상승량 상승(소)</color><br><color=0:255:0>노래하는 동안 아군 전체의 공격력과 마력 상승</color>",
-        null,
-        null,
-        null
+        "Amplifie l'augmentation de la DEF et de la PSY (super)<br><color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (peu)</color><br><color=0:255:0>Augmente l'ATT et la MAGIE de tous les alliés en chantant</color>",
+        "Steigert ABW- und PSY-Erhöhungen (sehr hoch)<br><color=0:255:0>Steigert ABW- und PSY-Erhöhungen (gering)</color><br><color=0:255:0>Erhöht während des Singens ANG und MAG aller Verbündeten</color>",
+        "Mayor aumento de DEF y ESP (muchísimo)<br><color=0:255:0>Mayor aumento de DEF y ESP (poco)</color><br><color=0:255:0>Aumenta el ATQ y la MAG de todos los aliados al cantar</color>"
     ],
     "910720001": [
         "<color=0:255:0>Boosts light resistance increase (mid)</color><br><color=0:255:0>Boosts ATK and DEF increases (high)</color>",

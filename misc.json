@@ -2875,7 +2875,7 @@
         "An error occurred while loading map data. Returning to title.<br>*If the error is not resolved, try tapping the <color=255:255:0>Restore</color> button then the <color=255:255:0>Re-download Data</color> button in the lower right of the title screen.",
         "讀取地圖資料時發生錯誤，將返回標題畫面。<br> <br>※無法排除錯誤時，請嘗試點擊標題畫面右下角的<color=255:255:0>「修復」</color>並點選<color=255:255:0>「重新下載資料」</color>。",
         "맵 데이터를 불러오는 도중 오류가 발생하여 타이틀 화면으로 돌아갑니다.<br><br>※오류가 해결되지 않을 경우 타이틀 화면 우측 하단의 <color=255:255:0>'복구하기' </color> 버튼을 터치하여<color=255:255:0>'데이터 다시 받기'</color>를 시도해 주십시오.",
-        "Une erreur s'est produite lors du chargement des données de la carte. Retour à l'écran-titre.<br>*Si l'erreur n'est toujours pas résolue, essayez de toucher les boutons <color=255:255:0>Restaurer</color> puis <color=255:255:0>Re-télécharger les données</color> en bas à droit de l'écran-titre.",
+        "Une erreur s'est produite lors du chargement des données de la carte. Retour à l'écran-titre.<br>*Si l'erreur n'est toujours pas résolue, essayez de toucher les boutons <color=255:255:0>Restaurer</color> puis <color=255:255:0>Re-télécharger les données</color> en bas à droite de l'écran-titre.",
         "Beim Laden der Kartendaten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Tippe auf <color=255:255:0>Wiederherstellen</color> und dann rechts unten auf dem Titelbildschirm auf <color=255:255:0>Daten erneut herunterladen</color>, wenn sich das Problem nicht von selbst löst.",
         "Se produjo un error mientras se cargaba el mapa. Regresando al juego.<br>*Si el error no se ha resuelto, puedes tocar el botón <color=255:255:0>Restaurar</color> y luego en el botón <color=255:255:0>Volver a descargar datos</color> en la parte inferior derecha de la pantalla."
     ],
@@ -3774,6 +3774,14 @@
         "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets d'invocation de la Fan Festa 2018, kupo !",
         "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Beschwörungskarten zu benutzen, kupo!",
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de invocación de la Fan Festa 2018, kupó!"
+    ],
+    "EXPLAIN_REWARD_1018": [
+        "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
+        "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
+        "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
+        "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets sélectionneurs de la Fan Festa 2018, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
+        "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
     ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
@@ -6351,6 +6359,14 @@
         "Fan Festa 2018 Ereignisbelohnungen",
         "Recompensas del evento Fan Festa 2018"
     ],
+    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1018": [
+        "New Year Event Rewards",
+        "新年活動獎勵",
+        "새해맞이 이벤트 보상",
+        "Récompenses de la nouvelle année",
+        "Neujahr-Ereignisbelohnungen",
+        "Recompensas de evento de Año Nuevo"
+    ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
         "Special Daily Login",
         "每日特別登入",
@@ -6486,6 +6502,14 @@
         "Bonus de connexion de la Fan Festa 2018",
         "Fan Festa 2018 Anmeldebonus",
         "Bonificación de inicio de sesión de la Fan Festa 2018"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1018": [
+        "New Year Login Bonus",
+        "新年登入獎勵",
+        "새해맞이 출석 보상",
+        "Bonus de connexion de la nouvelle année",
+        "Neujahr-Anmeldebonus",
+        "Bonificación de inicio de sesión de Año Nuevo"
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -12002,7 +12026,7 @@
     "MST_TOWNSTORE_COMMENT_1": [
         "How about your gift bows for something from my collection, kupo!",
         "用「禮物蝴蝶結」<br>交換我的收藏品庫啵！",
-        "'선물 포장 리본'를 <br>내 수집품과 교환쿠포!",
+        "'선물 포장 리본'을 <br>내 수집품과 교환쿠포!",
         "Ça te dirait d'échanger tes Ruban cadeau contre un objet de ma collection, kupo ?",
         "Tausch doch deine \"Geschenkschleife\" gegen was aus meiner Sammlung, kupo!",
         "¿Me cambias Lazo de regalo por algo de mi tienda, kupó?"
@@ -12018,7 +12042,7 @@
     "MST_TOWNSTORE_COMMENT_3": [
         "Come back and see me once you've collected some gift bows, kupo!",
         "收集「禮物蝴蝶結」，<br>再來找我庫啵！",
-        "'선물 포장 리본'가 모이면<br>또 가져와쿠포~!",
+        "'선물 포장 리본'이 모이면<br>또 가져와쿠포~!",
         "Reviens quand tu auras plus de Ruban cadeau, kupo !",
         "Komm wieder wenn du mehr \"Geschenkschleife\" gesammelt hast, kupo!",
         "¡Vuelve pronto con más Lazo de regalo, kupó!"

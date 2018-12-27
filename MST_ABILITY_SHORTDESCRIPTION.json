@@ -2947,7 +2947,7 @@
         "Boost LB gauge fill rate",
         "提高極限技石對極限技槽的增加量",
         "LB 게이지 효율 상승",
-        "Augmente la quantité de limite récupérée grâce aux pierres de combat",
+        "Augmente la vitesse de remplissage de la jauge de limite",
         "Verstärkt den Effekt von Limitsteinen",
         "Las piedras de estallido recuperarán más EL"
     ],
@@ -5499,7 +5499,7 @@
         "Deal partial unmitigated damage and reduce earth resistance for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低土屬性耐性",
         "적 1명에게 일부 방어 무시 피해+땅속성 저항력 감소",
-        "Dégâts fixes et réduit la résistance à la terre d'un ennemi",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la terre d'un ennemi",
         "Fügt 1 Gegner teilw. dir. Schaden zu und reduziert Erdr. für einen Gegner.",
         "Daño absoluto parcial y reduce res. a la tierra a uno"
     ],
@@ -5507,7 +5507,7 @@
         "Deal partial unmitigated damage to one enemy and boost LB gauge fill rate",
         "對1名敵人發動無視部分防禦的攻擊+提高極限技石對自身極限技槽的增加量",
         "적 1명에게 일부 방어 무시 피해+LB 게이지 효율 상승",
-        "Dégâts en partie fixes sur un ennemi et la jauge de limite se remplit plus rapidement",
+        "Inflige des dégâts en partie fixes à un ennemi et augmente le taux de remplissage de la jauge de limite",
         "Fügt 1 Gegner teilw. dir. Schaden zu und das Limitm. füllt sich schneller.",
         "Daño absoluto parcial a uno y la barra de EL se llena más rápido"
     ],
@@ -5515,7 +5515,7 @@
         "Deal partial unmitigated damage to one enemy and add earth element to physical attack for self",
         "對1名敵人發動無視部分防禦的攻擊+將自身的物理攻擊賦予土屬性",
         "적 1명에게 일부 방어 무시 피해+자신의 물리 공격에 땅속성 부여",
-        "Dégâts en partie fixes et ajoute l'élément terre aux attaques physiques pour le lanceur",
+        "Inflige des dégâts en partie fixes à un ennemi et ajoute l'élément terre aux attaques physiques du lanceur",
         "Fügt 1 Gegner teilw. dir. Schaden zu und Erdel. für eigenen Angriff.",
         "Daño absoluto parcial a uno y se infunde con elemento tierra"
     ],
@@ -9155,7 +9155,7 @@
         "Deal partial unmitigated damage and reduce earth resistance for one enemy, and add earth element to physical attack for self",
         "對1名敵人發動無視部分防禦的攻擊+降低土屬性耐性+將自身的物理攻擊賦予土屬性",
         "적 1명에게 일부 방어 무시 피해+땅속성 저항력 감소+자신의 공격에 땅속성 부여",
-        "Inflige des dégâts en partie fixes et réduit la rés. À la terre d'un ennemi et ajoute l'élément terre aux attaques physiques du lanceur",
+        "Inflige des dégâts en partie fixes, réduit la rés. à la terre d'un ennemi, et ajoute l'élément terre aux attaques physiques du lanceur",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert Erdresistenz und fügt Erdelement eigenem physischen Angriff hinzu.",
         "Daño absoluto parcial a un enemigo y reduce su res. a la tierra, añade elemento tierra a los ataques físicos propios"
     ],
@@ -17667,7 +17667,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -19168,12 +19168,12 @@
         "Aumenta la EXP que se obtiene en los combates y recupera la VIT y los PM del usuario al caminar"
     ],
     "223390": [
-        "Fill evocation gauge, boost own ATK, DEF, MAG, and SPR, and enable esper bomb explosion to be used once",
+        "Fill evocation gauge, boost own ATK, DEF, MAG, and SPR, and enable eidolon bomb explosion to be used once",
         "增加召喚槽+提高自身的攻擊防禦魔力精神+可以使用1次「幻獸炸彈的自爆」",
         "소환 게이지 증가+자신의 공격력, 방어력, 마력, 정신력 상승+'환수 봄의 자폭' 1회 사용 가능",
-        "Remplit la jauge d'invocation, augmente l'ATT, DEF, MAGIE et PSY du lanceur et permet d'utiliser une fois Explosion chimérique",
-        "Füllt Rufleiste, erhöht eigene ANG, ABW, MAG und PSY + ermöglicht einmalige Anwendung von Esper-Bombenexplosion.",
-        "Rellena la barra de invocación, aumenta ATQ, DEF, MAG y ESP propios, y puede usar Explosión de bomba esper una vez"
+        "Remplit la jauge d'invocation, augmente l'ATT, DEF, MAGIE et PSY du lanceur et permet d'utiliser une fois Éon : Explosion de Bombo",
+        "Füllt Rufleiste, erhöht eigene ANG, ABW, MAG und PSY + ermöglicht einmalige Anwendung von Beschwörbarer Bomber: Explosion.",
+        "Rellena la barra de invocación, aumenta ATQ, DEF, MAG y ESP propios, y puede usar Eidolón: explosión bom una vez"
     ],
     "223400": [
         "Consume evocation gauge to damage one enemy",
@@ -19235,7 +19235,7 @@
         "Deal partial unmitigated damage and reduce wind resistance for one enemy, and caster can dodge some physical attacks two times",
         "對1名敵人發動無視部分防禦的攻擊+降低風屬性耐性+賦予自身可閃避2次部分物理攻擊的效果",
         "적 1명에게 일부 방어 무시 피해+바람속성 저항력 감소+자신에게 일부 물리공격 2회 회피 효과 부여",
-        "Dégâts en partie fixes à un ennemi, le lanceur peut esquiver deux fois certaines attaques physiques et réduit la résistance au vent d'un ennemi.",
+        "Inflige des dégâts en partie fixes à un ennemi, réduit sa résistance au vent, et permet au lanceur d'esquiver deux fois certaines attaques physiques",
         "Fügt einem Gegner teilweise direkten Schaden zu und verringert seine Windresistenz + Benutzer kann einigen phys. Angriffen zwei Mal ausweichen.",
         "Inflige daño absoluto parcial a un enemigo y el usuario puede esquivar ataques físicos dos veces y reduce la resistencia al viento de un enemigo"
     ],
@@ -19323,7 +19323,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -20099,7 +20099,7 @@
         "Deal partial unmitigated damage and reduce light and dark resistance for all enemies",
         "對全體敵人發動無視部分魔法防禦的攻擊+降低光暗屬性耐性",
         "적 전체에 일부 마법 방어 무시 피해+빛과 어둠속성 저항력 감소",
-        "Dégâts en partie fixes et réduit la résistance à la lumière et aux ténèbres de tous les ennemis",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la lumière et aux ténèbres de tous les ennemis",
         "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Licht- und Dunkelresistenz.",
         "Daño absoluto parcial y reduce la res. a la luz y a la oscuridad de todos los enemigos"
     ],
@@ -20243,7 +20243,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -21907,7 +21907,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -22275,7 +22275,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spécifiques à deux reprises en un tour (activable une fois chacune quel que soit les caractéristiques de l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je einmal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -22475,7 +22475,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Permite usar determinadas habilidades 2 veces en un mismo turno (cada una se activa una vez sin importar las condiciones del equipo)"
     ],
@@ -22972,7 +22972,7 @@
         "提高極限技傷害量+物理攻擊時提高對獸鳥水生系魔物的傷害+提高跳躍系能力的傷害",
         "LB 피해량 상승+물리 공격 시 야수, 조류, 수중형 마물에게 부여하는 피해량 상승+점프 계열 어빌리티 피해량 상승",
         "Augmente les dégâts de la limite, les dégâts physiques infligés aux bêtes, aux oiseaux et aux monstres aquatique, et augmente les dégâts des attaques sautées",
-        "Erhöht Schaden von Limitrausch, erhöht physischen Schaden gegen Bestien, Vögel und Wassermonster und erhöht Schaden von Sprungangriffen.",
+        "Erhöht Schaden durch Limitrausch, erhöht physischen Schaden gegen Bestien, Vögel und Wassermonster und erhöht Schaden von Sprungangriffen.",
         "Aumenta el daño del EL, aumenta el daño físico contra bestias, aves y monstruos acuáticos, y aumenta el daño de ataques con salto"
     ],
     "226870": [
@@ -23867,7 +23867,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -24188,7 +24188,7 @@
         "提高極限技石對極限技槽的增加量+提高極限技的傷害量+提高特定能力的傷害",
         "LB 게이지 효율 상승+LB 게이지 피해량 상승+특정 어빌리티의 피해량 상승",
         "Augmente le taux de remplissage de la jauge de limite, les dégâts de la limite et augmente les dégâts de certaines aptitudes",
-        "Limitmeter füllt sich schneller, erhöht Schaden von Limitrausch und erhöht Schaden bestimmter Fertigkeiten.",
+        "Limitmeter füllt sich schneller, erhöht Schaden durch Limitrausch und erhöht Schaden bestimmter Fertigkeiten.",
         "Llena la barra de EL más rápido, aumenta el daño del EL y el de determinadas habilidades"
     ],
     "227110": [
@@ -24355,7 +24355,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -24492,7 +24492,7 @@
         "提高30%HP+提高極限技的傷害量",
         "HP 30% 상승+LB 피해량 상승",
         "Augmente les PV de 30% et augmente les dégâts de la limite",
-        "Erhöht LP um 30% und erhöht Schaden von Limitrausch.",
+        "Erhöht LP um 30% und erhöht Schaden durch Limitrausch.",
         "Aumenta la VIT un 30% y aumenta el daño del EL"
     ],
     "227184": [
@@ -25107,7 +25107,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -25115,7 +25115,7 @@
         "Enable specific abilities to be used three times in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用3次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 3회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -26347,7 +26347,7 @@
         "(One use every 5 turns) Boost ATK, restore HP and MP, and caster can dodge some physical attacks two times, and enable absolute mirror of equity for two turns to caster",
         "【每5回合可使用1次】提高攻擊+恢復HPMP+賦予自身可閃避2次部分物理攻擊的效果+2回合內自身可使用「極·明鏡」",
         "[5턴에 1회 사용 가능] 공격력 상승+HP와 MP 회복+자신에게 일부 물리 공격 2회 회피 효과 부여+2턴 동안 '극·명경' 사용 가능",
-        "(Une fois tous les 5 tours) Augmente l'ATT et restaure les PV et PM. Permet au lanceur d'esquiver certaines attaques physiques à deux reprises et d'utiliser Sérénité Ultime pendant 2 tours",
+        "(Une fois tous les 5 tours) Augmente l'ATT et restaure les PV et PM. Permet au lanceur d'esquiver certaines attaques physiques à deux reprises et d'utiliser Sérénité absolue pendant 2 tours",
         "(Einmal in 5 Runden) Erhöht ANG, regeneriert LP und MP, lässt Benutzer einigen physischen Angriffen zwei Mal ausweichen und ermöglicht zwei Runden lang Vollkommene Kata.",
         "(Un uso cada 5 turnos) Aumenta el ATQ, recupera la VIT y los PM, el usuario puede esquivar algunos ataques físicos 2 veces y aprende Tranquilidad absoluta durante 2 turnos"
     ],
@@ -26516,7 +26516,7 @@
         "提高極限技石對極限技槽的增加量+提高極限技的傷害+雙手只裝備武器時武具魔力提升",
         "LB 게이지 효율 상승+LB 피해량 상승+한손 또는 양손의 장비가 무기뿐일 경우 장비의 마력 상승",
         "Augmente le taux de remplissage des pierres de limite, augmente les dégâts de la limite et augmente la MAGIE de l'équipement quand les armes seules sont équipées dans une ou les deux mains",
-        "Verstärkt den Effekt von Limitsteinen, erhöht Schaden von Limitrausch und erhöht Ausrüstung-MAG wenn nur Waffen in einer oder beiden Händen ausgerüstet sind.",
+        "Verstärkt den Effekt von Limitsteinen, erhöht Schaden durch Limitrausch und erhöht Ausrüstung-MAG wenn nur Waffen in einer oder beiden Händen ausgerüstet sind.",
         "Las piedras de estallido recuperan más EL, la barra de EL se rellena más rápido y aumenta la MAG del equipo al llevar armas en una o las dos manos"
     ],
     "227595": [
@@ -27092,7 +27092,7 @@
         "提高極限技的傷害",
         "LB 피해량 상승",
         "Augmente les dégâts de la limite",
-        "Erhöht Schaden von Limitrausch.",
+        "Erhöht Schaden durch Limitrausch.",
         "Aumenta el daño del EL"
     ],
     "227712": [
@@ -27291,7 +27291,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -27299,7 +27299,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -27324,7 +27324,7 @@
         "提高30%HPMP+提高極限技的傷害+每回合恢復HPMP",
         "HP와 MP 30% 상승+LB 피해량 상승+매 턴마다 HP와 MP 회복",
         "Augmente les PV et les PM de 30%, les dégâts de la limite et restaure les PV et les PM à chaque tour",
-        "Erhöht LP und MP um 30%, erhöht Schaden von Limitrausch und regeneriert jede Runde LP und MP.",
+        "Erhöht LP und MP um 30%, erhöht Schaden durch Limitrausch und regeneriert jede Runde LP und MP.",
         "Aumenta la VIT y los PM un 30%, aumenta el daño del EL, y recupera la VIT y los PM cada turno"
     ],
     "227749": [
@@ -27411,7 +27411,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -27468,7 +27468,7 @@
         "提高30%魔力+提高反擊系能力的發動機率+提高極限技的傷害+提高特定能力的傷害",
         "마력 30% 상승+반격 계열 어빌리티 발동 확률 상승+LB 피해량 상승+특정 어빌리티의 피해량 상승",
         "Augmente la MAGIE de 30%, le taux d'activation des aptitudes de contre-attaque, les dégâts de la limite, et augmente les dégâts de certaines aptitudes",
-        "Erhöht MAG um 30%, erhöht Aktivierungswahrscheinlichkeit von Konterfertigkeiten, erhöht Schaden von Limitrausch und erhöht Schaden von bestimmten Fertigkeiten.",
+        "Erhöht MAG um 30%, erhöht Aktivierungswahrscheinlichkeit von Konterfertigkeiten, erhöht Schaden durch Limitrausch und erhöht Schaden von bestimmten Fertigkeiten.",
         "Aumenta la MAG un 30%, aumenta la probabilidad de activar contrahabilidades, aumenta el daño del EL y aumenta el daño de ciertas habilidades"
     ],
     "227774": [
@@ -27547,7 +27547,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -27580,7 +27580,7 @@
         "提高20%HP攻擊精神+提高極限技的傷害",
         "HP, 공격력, 정신력 20% 상승+LB 피해량 상승",
         "Augmente les PV, l'ATT et la PSY de 20% et augmente les dégâts de la limite",
-        "Erhöht LP, ANG und PSY um 20% und erhöht Schaden von Limitrausch.",
+        "Erhöht LP, ANG und PSY um 20% und erhöht Schaden durch Limitrausch.",
         "Aumenta VIT, ATQ y ESP un 20% y aumenta el daño del EL"
     ],
     "227792": [
@@ -27675,7 +27675,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -28059,7 +28059,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -28131,7 +28131,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation)",
         "Aprende determinadas habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -28203,7 +28203,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -28835,7 +28835,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -29147,7 +29147,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende determinadas habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -29995,7 +29995,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -30214,6 +30214,350 @@
         "(Une fois tous les 3 tours) Inflige des dégâts à un ennemi et augmente les dégâts physiques du lanceur contre les machines pendant deux tours",
         "(Einmal in 3 Runden) Fügt einem Gegner Schaden zu und erhöht physischen Schaden gegen Maschinen für zwei Runden für Benutzer.",
         "(Un uso cada 3 turnos) Daña a un enemigo y aumenta el daño físico que recibe el usuario contra máquinas durante 2 turnos"
+    ],
+    "230830": [
+        "Boost EXP obtained from battle",
+        "提高任務獲得的經驗值",
+        "전투에서 획득하는 경험치 상승",
+        "Augmente l'EXP obtenue en combat",
+        "Erhöht im Kampf erhaltene EXP.",
+        "Aumenta la EXP que se consigue en los combates"
+    ],
+    "230831": [
+        "Boost fire, ice, lightning, water, wind, earth, light, and dark resistance by 10%, restore MP every turn, and boost equipment ATK when armed with two one-handed weapons",
+        "提高10%火冰雷水風土光暗屬性耐性+每回合恢復MP+裝備2把單手武器時武具攻擊提升",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 10% 상승+매 턴마다 MP 회복+한손용 무기 2개 장착 시 장비의 공격력 상승",
+        "Augmente la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres de 10%, restaure les PM à chaque tour, et augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht-, und Dunkelresistenz um 10%, regeneriert jede Runde MP und erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet.",
+        "Aumenta un 10% la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad, recupera PM cada turno y aumenta el ATQ del equipo al llevar dos armas de una sola mano"
+    ],
+    "230832": [
+        "Boost ATK by 70%, and boost equipment ATK when armed with two one-handed weapons",
+        "提高70%攻擊+裝備2把單手武器時武具攻擊提升",
+        "공격력 70% 상승+한손용 무기 2개 장착 시 장비의 공격력 상승",
+        "Augmente l'ATT de 70% et augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées",
+        "Erhöht ANG um 70% und erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet.",
+        "Aumenta el ATQ un 70% y aumenta el ATQ del equipo al llevar dos armas de una sola mano"
+    ],
+    "230833": [
+        "Boost equipment ATK when a single weapon is equipped in both hands",
+        "雙手只裝備1把武器時武具攻擊提升",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력 상승",
+        "Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains",
+        "Erhöht Ausrüstung-ANG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist.",
+        "Aumenta el ATQ del equipo al llevar una sola arma en las dos manos"
+    ],
+    "230840": [
+        "Boost HP by 10%, chance of evading physical attacks, and nullify sleep, silence, and confusion",
+        "提高10%HP+一定機率閃避部分物理攻擊+睡眠沉默混亂無效",
+        "HP 10% 상승+일정 확률로 일부 물리 공격 회피+수면, 침묵, 혼란 무효화",
+        "Augmente les PV de 10%, confère une chance d'esquiver les attaques physiques, et dissipe sommeil, silence et confusion",
+        "Erhöht LP um 10%, Chance, physischen Angriffen auszuweichen und annulliert Schlaf, Stumm und Konfus.",
+        "Aumenta la VIT un 10%, puede evadir ataques físicos y anula sueño, silencio y confusión"
+    ],
+    "230841": [
+        "Boost MP by 10%, and restore MP and fill LB gauge every turn",
+        "提高10%MP+每回合恢復MP+提高極限技槽",
+        "MP 10% 상승+매 턴마다 MP 회복+LB 게이지 증가",
+        "Augmente les PM de 10%, restaure les PM à chaque tour, et remplit la jauge de limite à chaque tour",
+        "Erhöht MP um 10%, regeneriert MP und füllt jede Runde Limitmeter.",
+        "Aumenta los PM un 10%, recupera PM y rellena la barra de EL cada turno"
+    ],
+    "230842": [
+        "Damage one enemy and fill own LB gauge",
+        "攻擊1名敵人+增加自身的極限技槽",
+        "적 1명에게 피해+자신의 LB 게이지 증가",
+        "Inflige des dégâts à un ennemi et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner Schaden zu und füllt Limitmeter des Benutzers.",
+        "Daña a un enemigo y rellena la barra de EL del usuario"
+    ],
+    "230843": [
+        "Damage and chance of confusing all enemies",
+        "攻擊全體敵人+一定機率施加混亂效果",
+        "적 전체에 피해+일정 확률로 혼란 부여",
+        "Dégâts et chance de rendre confus tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und Chance, ihnen Konfus zu erteilen.",
+        "Daña y puede infligir confusión a todos los enemigos"
+    ],
+    "230844": [
+        "Damage and reduce DEF for one enemy",
+        "攻擊1名敵人+降低防禦",
+        "적 1명에게 피해+방어력 감소",
+        "Inflige des dégâts et réduit la DEF d'un ennemi",
+        "Fügt einem Gegner Schaden zu und reduziert seine ABW.",
+        "Daña y reduce la DEF de un enemigo"
+    ],
+    "230845": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Dégâts sur un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo"
+    ],
+    "230846": [
+        "Boost ATK and DEF by 20%, boost equipment ATK when a single weapon is equipped in both hands, and boost LB gauge fill rate",
+        "提高20%攻擊防禦+雙手只裝備1把武器時武具攻擊提升+提高極限技石對極限技槽的增加量",
+        "공격력과 방어력 20% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승+LB 게이지 효율 상승",
+        "Augmente l'ATT et la DEF de 20%, augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains, et augmente le taux de remplissage de la jauge de limite",
+        "Erhöht ANG und ABW um 20%, erhöht Ausrüstung-ANG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist und Limitmeter füllt sich schneller.",
+        "Aumenta el ATQ y la DEF un 20%, aumenta el ATQ del equipo al llevar una sola arma en las dos manos y la barra de EL se llena más rápido"
+    ],
+    "230847": [
+        "Boost ATK and SPR by 20%, and chance of escaping death when HP is above a certain point",
+        "提高20%攻擊精神+HP高於一定量時一定機率避免陷入無法戰鬥狀態",
+        "공격력과 정신력 20% 상승+HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤",
+        "Augmente l'ATT et la PSY de 20%, et confère une chance d'éviter de tomber KO lorsque les PV sont au dessus d'un certain seuil",
+        "Erhöht ANG und PSY um 20% und Chance, dem Tod zu entkommen, wenn sich LP über einem gewissen Wert befinden.",
+        "Aumenta el ATQ y el ESP un 20%, y añade la posibilidad de evitar quedar K.O. cuando la VIT se encuentra por encima de cierto nivel"
+    ],
+    "230848": [
+        "Boost HP, MP, ATK, DEF, MAG, and SPR by 20%, unit can equip two of any one-handed weapon, and boost equipment ATK when armed with two one-handed weapons",
+        "提高20%HPMP、攻擊防禦魔力精神+可以裝備2把單手武器+裝備2把單手武器時武具攻擊提升",
+        "HP, MP, 공격력, 방어력, 마력, 정신력 20% 상승+한손용 무기 2개 장착 가능+한손용 무기 2개 장착 시 장비의 공격력 상승",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 20%, permet d'équiper deux armes à une main, et augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées",
+        "Erhöht LP, MP, ANG, ABW, MAG und PSY um 20%, Benutzer kann zwei beliebige einhändige Waffen ausrüsten und erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 20%, permite equiparse con dos armas de una sola mano y aumenta el ATQ del equipo al llevar dos armas de una sola mano"
+    ],
+    "230849": [
+        "Damage one enemy two times",
+        "對1名敵人發動2次攻擊",
+        "적 1명에게 2회 피해",
+        "Inflige des dégâts à un ennemi deux fois de suite",
+        "Fügt einem Gegner zwei Mal Schaden zu.",
+        "Daña a un enemigo 2 veces"
+    ],
+    "230850": [
+        "Damage all enemies and boost ATK for caster",
+        "攻擊全體敵人+提高自身的攻擊",
+        "적 전체에 피해+자신의 공격력 상승",
+        "Inflige des dégâts à tous les ennemis et augmente l'ATT du lanceur",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG des Benutzers.",
+        "Daña a todos los enemigos y aumenta el ATQ del usuario"
+    ],
+    "230851": [
+        "Deal partial unmitigated damage to one enemy two times",
+        "對1名敵人發動2次發動無視部分防禦的攻擊",
+        "적 1명에게 2회 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi deux fois de suite",
+        "Fügt einem Gegner zwei Mal teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo 2 veces"
+    ],
+    "230852": [
+        "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
+        "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
+        "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
+        "Aprende determinadas habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "230853": [
+        "Boost HP, MP, and ATK by 20%, and boost ATK, DEF, MAG, and SPR by 20% when equipped with a keyblade",
+        "提高20%HPMP、20%攻擊+裝備「鑰刃」時提高20%攻擊防禦魔力精神",
+        "HP, MP, 공격력 20% 상승+'키블레이드' 장착 시 공격력, 방어력, 마력, 정신력 20% 상승",
+        "Augmente les PV, les PM et l'ATT de 20%, et augmente l'ATT, la DEF, la MAGIE et la PSY de 20% lorsqu'une Keyblade est équipée",
+        "Erhöht LP, MP und ANG um 20% und erhöht ANG, ABW, MAG und PSY um 20% wenn mit einem Schlüsselschwert ausgerüstet.",
+        "Aumenta la VIT, los PM y el ATQ un 20%, y aumenta ATQ, DEF, MAG y ESP un 20% al llevar llave espada"
+    ],
+    "230854": [
+        "Boost ATK by 30%, boost equipment ATK when a single weapon is equipped in both hands, and boost ATK when HP falls below a certain point",
+        "提高30%攻擊+雙手只裝備1把武器時武具攻擊提升+HP降低到一定數值以下時提高攻擊",
+        "공격력 30% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승+HP가 일정량 이하일 때 공격력 상승",
+        "Augmente l'ATT de 30%, augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains, et augmente l'ATT lorsque les PV descendent en dessous d'un certain seuil",
+        "Erhöht ANG um 30%, erhöht Ausrüstung-ANG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist und erhöht ANG wenn LP unter einen gewissen Wert sinken.",
+        "Aumenta el ATQ un 30%, aumenta el ATQ del equipo al llevar una sola arma en las dos manos y aumenta el ATQ cuando la VIT cae por debajo de cierto nivel"
+    ],
+    "230855": [
+        "Boost equipment ATK when armed with two one-handed weapons, boost LB damage, and boost damage of certain abilities",
+        "裝備2把單手武器時武具攻擊提升+提高極限技的傷害+提高特定能力的傷害",
+        "한손용 무기 2개 장착 시 장비의 공격력 상승+LB 피해량 상승+특정 어빌리티의 피해량 상승",
+        "Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées, augmente les dégâts de la limite, et augmente les dégâts de certaines aptitudes",
+        "Erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet, erhöht Schaden durch Limitrausch und erhöht den Schaden bestimmter Fertigkeiten.",
+        "Aumenta el ATQ del equipo al llevar dos armas de una sola mano, aumenta el daño del EL y aumenta el daño de ciertas habilidades"
+    ],
+    "230856": [
+        "(One use every 6 turns) Boost own ATK, and enable triple command for three turns",
+        "【每6回合可使用1次】提高自身的攻擊+3回合內可使用「T指令」",
+        "[6턴에 1회 사용 가능] 자신의 공격력 상승+3턴 동안 'T 커맨드' 사용 가능",
+        "(Une fois tous les 6 tours) Augmente l'ATT du lanceur et permet d'utiliser Triple commande pendant 3 tours",
+        "(Einmal in 6 Runden) Erhöht ANG des Benutzers und ermöglicht Dreifachkommando für drei Runden.",
+        "(Un uso cada 6 turnos) Aumenta el ATQ del usuario y aprende Comando triple durante 3 turnos"
+    ],
+    "230857": [
+        "Damage one enemy and power up with consecutive use",
+        "攻擊1名敵人+連續使用時威力上升",
+        "적 1명에게 피해+연속 사용 시 위력 상승",
+        "Dégâts sur un ennemi, et gagne en puissance à chaque utilisation consécutive",
+        "Fügt einem Gegner Schaden zu und wird mit jeder Anwendung stärker.",
+        "Daña a un enemigo y aumenta el daño con cada uso"
+    ],
+    "230858": [
+        "Damage and reduce DEF and SPR for all enemies",
+        "攻擊全體敵人+降低防禦精神",
+        "적 전체에 피해+방어력과 정신력 감소",
+        "Inflige des dégâts, et réduit la DEF et la PSY de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ABW und PSY.",
+        "Daña y reduce la DEF y el ESP de todos los enemigos"
+    ],
+    "230860": [
+        "Boost ATK by 20%, and chance of escaping death when HP is above a certain point",
+        "提高20%攻擊+HP高於一定量時一定機率避免陷入無法戰鬥狀態",
+        "공격력 20% 상승+HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤",
+        "Augmente l'ATT de 20%, et confère une chance d'éviter de tomber KO lorsque les PV sont au dessus d'un certain seuil",
+        "Erhöht ANG um 20% + Chance, dem Tod zu entkommen, wenn LP unter einem bestimmten Wert sind.",
+        "Aumenta el ATQ un 20% y añade la posibilidad de evitar quedar K.O. cuando la VIT se encuentra por encima de cierto nivel"
+    ],
+    "230861": [
+        "Boost HP and MP by 30%, and boost ATK, DEF, MAG, SPR by 10%",
+        "提高30%HPMP+提高10%攻擊防禦魔力精神",
+        "HP와 MP 30%, 공격력, 방어력, 마력, 정신력 10% 상승",
+        "Augmente les PV et les PM de 30%, ainsi que l'ATT, la DEF, la MAGIE et la PSY de 10%",
+        "Erhöht LP und MP um 30% + erhöht ANG, ABW, MAG und PSY um 10%.",
+        "Aumenta la VIT y los PM un 30%, y aumenta ATQ, DEF, MAG y ESP un 10%"
+    ],
+    "230862": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Dégâts sur un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo"
+    ],
+    "230863": [
+        "Damage and chance of paralyzing one enemy",
+        "攻擊1名敵人+一定機率施加麻痺效果",
+        "적 1명에게 피해+일정 확률로 마비 부여",
+        "Dégâts et chance de paralyser un ennemi",
+        "Fügt einem Gegner Schaden zu + Chance auf Lähmung.",
+        "Daña y puede infligir parálisis a un enemigo"
+    ],
+    "230864": [
+        "Damage all enemies",
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Dégâts sur tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos"
+    ],
+    "230865": [
+        "Deal partial unmitigated damage to one enemy, and boost damage of certain abilities",
+        "對1名敵人發動無視部分防禦的攻擊+提高特定能力的傷害",
+        "적 1명에게 일부 방어 무시 피해+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts en partie fixes à un ennemi et augmente les dégâts de certaines aptitudes",
+        "Fügt einem Gegner teilweise direkten Schaden zu + erhöht Schaden bestimmter Fertigkeiten.",
+        "Daño absoluto parcial a un enemigo y aumenta el daño de ciertas habilidades"
+    ],
+    "230866": [
+        "Fill LB gauge each turn, boost equipment ATK when a single weapon is equipped in both hands, and boost ATK by 30% when equipped with a large sword",
+        "每回合增加極限技槽+雙手只裝備1把武器時武具攻擊提升+裝備大劍時提高30%攻擊",
+        "매 턴마다 LB 게이지 증가+양손의 장비가 무기 1개일 경우 장비의 공격력 상승+대검 장착 시 공격력 30% 상승",
+        "Remplit la jauge de limite à chaque tour, augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains, et augmente l'ATT de 30% lorsqu'une épée longue est équipée",
+        "Füllt jede Runde Limitmeter, erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist und erhöht ANG um 30% wenn mit Großschwert ausgerüstet.",
+        "Rellena la barra de EL cada turno, aumenta el ATQ del equipo al llevar una sola arma en las dos manos y aumenta el ATQ un 30% al llevar espada grande"
+    ],
+    "230867": [
+        "Nullify blind, sleep, confusion, and disease, and boost ATK and restore MP every turn",
+        "失明睡眠混亂生病無效+每回合提高攻擊+恢復MP",
+        "암흑, 수면, 혼란, 질병 무효화+매 턴마다 공격력 상승+MP 회복",
+        "Dissipe cécité, sommeil, confusion et maladie, augmente l'ATT à chaque tour, et restaure les PM à chaque tour",
+        "Annulliert Blind, Schlaf, Konfus und Virus, erhöht ANG und regeneriert jede Runde MP.",
+        "Anula ceguera, sueño, confusión y enfermedad, aumenta el ATQ y recupera PM cada turno"
+    ],
+    "230868": [
+        "Chance of boosting damage of certain abilities when receiving a physical or magic attack",
+        "受到物理、魔法攻擊時一定機率提高特定能力的傷害",
+        "물리, 마법 공격을 받으면 일정 확률로 특정 어빌리티의 피해량 상승",
+        "Chance d'augmenter les dégâts de certaines aptitudes après avoir reçu une attaque physique ou magique",
+        "Chance, den Schaden bestimmter Fertigkeiten zu erhöhen, wenn Benutzer von physischen oder magischen Angriff getroffen wird.",
+        "Probabilidad de aumentar el daño de ciertas habilidades al recibir un ataque físico o mágico"
+    ],
+    "230869": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo"
+    ],
+    "230870": [
+        "Deal partial unmitigated damage to all enemies",
+        "對全體敵人發動無視部分防禦的攻擊",
+        "적 전체에 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a todos los enemigos"
+    ],
+    "230871": [
+        "Deal partial unmitigated damage and gradual damage to one enemy, and gradually restore own MP",
+        "對1名敵人發動無視部分防禦的攻擊+持續攻擊+持續恢復自身的MP",
+        "적 1명에게 일부 방어 무시 피해+서서히 피해+자신의 MP 서서히 회복",
+        "Inflige des dégâts en partie fixes et des dégâts progressifs à un ennemi, et restaure progressivement les PM du lanceur",
+        "Fügt einem Gegner teilweise direkten Schaden und allmählich Schaden zu + regeneriert allmählich eigene MP.",
+        "Daño absoluto parcial y daño gradual a un enemigo, y recupera los PM del usuario poco a poco"
+    ],
+    "230872": [
+        "Deal partial unmitigated damage to one enemy and then all enemies",
+        "對1名敵人發動無視部分防禦的攻擊+對全體敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해+적 전체에 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi, puis à tous les ennemis",
+        "Fügt erst einem Gegnern und dann allen Gegnern teilweise direkten Schaden zu.",
+        "Daño absoluto parcial a un enemigo y, luego, a todos los enemigos"
+    ],
+    "230873": [
+        "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
+        "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
+        "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
+        "Aprende determinadas habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "230874": [
+        "Boost ATK by 40%, and boost LB damage",
+        "提高40%攻擊+提高極限技的傷害",
+        "공격력 40% 상승+LB 피해량 상승",
+        "Augmente l'ATT de 40% et augmente les dégâts de la limite",
+        "Erhöht ANG um 40% und erhöht erhöht Schaden durch Limitrausch.",
+        "Aumenta el ATQ un 40% y aumenta el daño del EL"
+    ],
+    "230875": [
+        "Boost ATK by 30%, and boost equipment ATK when a single weapon is equipped in both hands",
+        "提高30%攻擊+雙手只裝備1把武器時武具攻擊提升",
+        "공격력 30% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력 상승",
+        "Augmente l'ATT de 30% et augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains",
+        "Erhöht ANG um 30% und erhöht Ausrüstung-ANG wenn eine einzelne Waffe in beiden Händen ausgerüstet ist.",
+        "Aumenta el ATQ un 30% y aumenta el ATQ del equipo al llevar una sola arma en las dos manos"
+    ],
+    "230876": [
+        "Boost HP, DEF, and SPR by 20%, and boost damage of certain abilities",
+        "提高30%HP、防禦精神+提高特定能力的傷害",
+        "HP, 방어력, 정신력 20% 상승+특정 어빌리티의 피해량 상승",
+        "Augmente les PV, la DEF et la PSY de 20%, et augmente les dégâts de certaines aptitudes",
+        "Erhöht LP, ABW und PSY um 20% und erhöht den Schaden bestimmter Fertigkeiten.",
+        "Aumenta la VIT, la DEF y el ESP un 20%, y aumenta el daño de ciertas habilidades"
+    ],
+    "230877": [
+        "(One use every 5 turns) Boost own ATK, remove ATK reductions, and enable cross-slash+ for three turns",
+        "【每5回合可使用1次】提高自身的攻擊+解除降低攻擊的效果+3回合內可使用「兇斬 改」",
+        "[5턴에 1회 사용 가능] 자신의 공격력 상승+공격력 감소 효과 해제+3턴 동안 '개량형 흉베기' 사용 가능",
+        "(Une fois tous les 5 tours) Augmente l'ATT du lanceur, dissipe les réductions d'ATT, et permet d'utiliser Taillade croisée + pendant 3 tours",
+        "(Einmal in 5 Runden) Erhöht ANG des Benutzers, entfernt alle ANG-Verringerungen und ermöglicht Kreuzhieb+ für drei Runden.",
+        "(Un uso cada 5 turnos) Aumenta el ATQ del usuario, elimina la reducción de ATQ y aprende Látigo-cruzado+ durante 3 turnos"
+    ],
+    "230878": [
+        "(One use every 4 turns) Deal partial unmitigated damage to one enemy",
+        "【每4回合可使用1次】對1名敵人發動無視部分防禦的攻擊",
+        "[4턴에 1회 사용 가능] 적 1명에게 일부 방어 무시 피해",
+        "(Une fois tous les 4 tours) Inflige des dégâts en partie fixes à un ennemi",
+        "(Einmal in 4 Runden) Fügt einem Gegner teilweise direkten Schaden zu.",
+        "(Un uso cada 4 turnos) Daño absoluto parcial a un enemigo"
+    ],
+    "230879": [
+        "Damage one enemy and then all enemies",
+        "攻擊1名敵人+攻擊全體敵人",
+        "적 1명에게 피해+적 전체에 피해",
+        "Dégâts sur un ennemi, puis sur tous les ennemis",
+        "Fügt erst einem und dann allen Gegnern Schaden zu.",
+        "Daña a un enemigo y, luego, a todos los enemigos"
     ],
     "300010": [
         "A small amount of fire damage to one enemy",
@@ -30895,6 +31239,14 @@
         "Erhöht LP um 30%",
         "Aumenta la VIT un 30%"
     ],
+    "410040": [
+        "Boost HP by 40%",
+        "提高40%HP",
+        "HP 40% 상승",
+        "Augmente les PV de 40 %",
+        "Erhöht LP um 40%",
+        "Aumenta la VIT un 40%"
+    ],
     "410101": [
         "Boost MP by 1%",
         "提高1%MP",
@@ -30959,6 +31311,14 @@
         "Erhöht MP um 30%",
         "Aumenta los PM un 30%"
     ],
+    "410140": [
+        "Boost MP by 40%",
+        "提高40%MP",
+        "MP 40% 상승",
+        "Augmente les PM de 40 %",
+        "Erhöht MP um 40%",
+        "Aumenta los PM un 40%"
+    ],
     "410201": [
         "Boost ATK by 1%",
         "提高1%攻擊",
@@ -31022,6 +31382,14 @@
         "Augmente l'ATT de 30 %",
         "Erhöht ANG um 30%",
         "Aumenta el ATQ un 30%"
+    ],
+    "410240": [
+        "Boost ATK by 40%",
+        "提高40%攻擊",
+        "공격력 40% 상승",
+        "Augmente l'ATT de 40 %",
+        "Erhöht ANG um 40%",
+        "Aumenta el ATQ un 40%"
     ],
     "410301": [
         "Boost DEF by 1%",
@@ -31374,6 +31742,70 @@
         "Augmente les PV et les PM de 15 %",
         "Erhöht LP und MP um 15%",
         "Aumenta la VIT y los PM un 15%"
+    ],
+    "450870": [
+        "Boost HP and ATK by 20%",
+        "提高20%HP攻擊",
+        "HP와 공격력 20% 상승",
+        "Augmente les PV et l'ATT de 20 %",
+        "Erhöht LP und ANG um 20%",
+        "Aumenta la VIT y el ATQ un 20%"
+    ],
+    "450880": [
+        "Boost MP and MAG by 20%",
+        "提高20%MP魔力",
+        "MP와 마력 20% 상승",
+        "Augmente les PM et la MAGIE de 20 %",
+        "Erhöht MP und MAG um 20%",
+        "Aumenta los PM y la MAG un 20%"
+    ],
+    "450890": [
+        "Boost ATK and MAG by 35%",
+        "提高35%攻擊魔力",
+        "공격력과 마력 35% 상승",
+        "Augmente l'ATT et la MAGIE de 35 %",
+        "Erhöht ANG und MAG um 35%",
+        "Aumenta el ATQ y la MAG un 35%"
+    ],
+    "450900": [
+        "Boost HP and DEF by 20%",
+        "提高20%HP防禦",
+        "HP와 방어력 20% 상승",
+        "Augmente les PV et la DEF de 20 %",
+        "Erhöht LP und ABW um 20%",
+        "Aumenta la VIT y la DEF un 20%"
+    ],
+    "450910": [
+        "Boost HP and MP by 20%",
+        "提高20%HPMP",
+        "HP와 MP 20%상승",
+        "Augmente les PV et les PM de 20 %",
+        "Erhöht LP und MP um 20%",
+        "Aumenta la VIT y los PM un 20%"
+    ],
+    "450920": [
+        "Boost LB gauge fill rate",
+        "提高極限技石對極限技槽的增加量",
+        "LB 게이지 효율 상승",
+        "Augmente la quantité de limite récupérée grâce aux pierres de combat",
+        "Verstärkt den Effekt von Limitsteinen",
+        "Las piedras de estallido recuperarán más EL"
+    ],
+    "450930": [
+        "Boost MP and SPR by 20%",
+        "提高20%MP精神",
+        "MP와 정신력 20% 상승",
+        "Augmente les PM et la PSY de 20 %",
+        "Erhöht MP und PSY um 20%",
+        "Aumenta los PM y el ESP un 20%"
+    ],
+    "450940": [
+        "Boost HP and SPR by 20%",
+        "提高20%HP精神",
+        "HP와 정신력 20% 상승",
+        "Augmente les PV et la PSY de 20 %",
+        "Erhöht LP und PSY um 20%",
+        "Aumenta la VIT y el ESP un 20%"
     ],
     "500010": [
         "Damage to all enemies and allies",
@@ -32315,7 +32747,7 @@
         "Damage and reduce DEF, SPR, and earth resistance for all enemies",
         "攻擊全體敵人+降低防禦精神、土屬性耐性",
         "적 전체에 피해+방어력, 정신력, 땅속성 저항력 감소",
-        "Dégâts et réduit la DEF, PSY et la rés. à la terre de tous les ennemis",
+        "Dégâts et réduit la DEF, la PSY et la rés. à la terre de tous les ennemis",
         "Schaden und reduzierte ABW und PSY, Erdres. runter, alle Ziele",
         "Daña y reduce la DEF, ESP y res. a la tierra de todos los enemigos"
     ],
@@ -32323,7 +32755,7 @@
         "Deal partial unmitigated damage and reduce DEF, SPR, and earth resistance for all enemies",
         "對全體敵人發動無視部分防禦的攻擊+降低防禦精神、土屬性耐性",
         "적 전체에 일부 방어 무시 피해+방어력, 정신력, 땅속성 저항력 감소",
-        "Inflige des dégâts fixes et réduit DEF, PSY, et la rés. à la terre pour tous les ennemis",
+        "Inflige des dégâts en partie fixes et réduit la DEF, la PSY et la rés. à la terre de tous les ennemis",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert ABW und PSY, Erdres. für einen Gegner.",
         "Daño absoluto parcial y reduce la DEF, ESP y res. a la tierra de todos los enemigos"
     ],
@@ -34907,7 +35339,7 @@
         "Damage and reduce DEF, SPR, and earth resistance for all enemies",
         "攻擊全體敵人+降低防禦精神、土屬性耐性",
         "적 전체에 피해+방어력, 정신력, 땅속성 저항력 감소",
-        "Dégâts et réduit la DEF, PSY et la rés. à la terre de tous les ennemis",
+        "Dégâts et réduit la DEF, la PSY et la rés. à la terre de tous les ennemis",
         "Schaden und reduzierte ABW und PSY, Erdres. runter, alle Ziele",
         "Daña y reduce DEF, ESP y la res. a la tierra de los enemigos"
     ],
@@ -34915,7 +35347,7 @@
         "Deal partial unmitigated damage and reduce DEF, SPR, and earth resistance for all enemies",
         "對全體敵人發動無視部分防禦的攻擊+降低防禦精神、土屬性耐性",
         "적 전체에 일부 방어 무시 피해+방어력, 정신력, 땅속성 저항력 감소",
-        "Inflige des dégâts fixes et réduit DEF, PSY, et la rés. à la terre pour tous les ennemis",
+        "Inflige des dégâts en partie fixes et réduit la DEF, la PSY et la rés. à la terre de tous les ennemis",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert ABW und PSY, Erdres. für einen Gegner.",
         "Daño absoluto parcial y reduce DEF, ESP y la res. a la tierra de los enemigos"
     ],
@@ -34939,7 +35371,7 @@
         "Damage and reduce DEF, SPR, and earth resistance for all enemies",
         "攻擊全體敵人+降低防禦精神、土屬性耐性",
         "적 전체에 피해+방어력, 정신력, 땅속성 저항력 감소",
-        "Dégâts et réduit la DEF, PSY et la rés. à la terre de tous les ennemis",
+        "Dégâts et réduit la DEF, la PSY et la rés. à la terre de tous les ennemis",
         "Schaden und reduzierte ABW und PSY, Erdres. runter, alle Ziele",
         "Daña y reduce DEF, ESP y la res. a la tierra de los enemigos"
     ],
@@ -34947,7 +35379,7 @@
         "Deal partial unmitigated damage and reduce DEF, SPR, and earth resistance for all enemies",
         "對全體敵人發動無視部分防禦的攻擊+降低防禦精神、土屬性耐性",
         "적 전체에 일부 방어 무시 피해+방어력, 정신력, 땅속성 저항력 감소",
-        "Inflige des dégâts fixes et réduit DEF, PSY, et la rés. à la terre pour tous les ennemis",
+        "Inflige des dégâts en partie fixes et réduit la DEF, la PSY et la rés. à la terre de tous les ennemis",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert ABW und PSY, Erdres. für einen Gegner.",
         "Daño absoluto parcial y reduce DEF, ESP y la res. a la tierra de los enemigos"
     ],
@@ -34955,7 +35387,7 @@
         "Deal partial unmitigated damage to all enemies",
         "對全體敵人發動無視部分防禦的攻擊",
         "적 전체에 일부 방어 무시 피해",
-        "Dégâts en partie fixes sur tous les ennemis",
+        "Inflige des dégâts en partie fixes à tous les ennemis",
         "Teilweise direkter Schaden, alle Ziele",
         "Daño absoluto parcial a todos los enemigos"
     ],
@@ -34979,7 +35411,7 @@
         "Deal partial unmitigated damage and reduce earth resistance for all enemies",
         "對全體敵人發動無視部分防禦的攻擊+降低土屬性耐性",
         "적 전체에 일부 방어 무시 피해+땅속성 저항력 감소",
-        "Dégâts en partie fixes et réduit la rés. à la terre de tous les ennemis",
+        "Inflige des dégâts en partie fixes et réduit la rés. à la terre de tous les ennemis",
         "Fügt teilweise direkten Schaden zu und reduziert Erdresistenz, alle Ziele.",
         "Daño absoluto parcial y reduce la res. a la tierra de los enemigos"
     ],
@@ -35419,7 +35851,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -35659,7 +36091,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -35795,7 +36227,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -35859,7 +36291,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -35883,7 +36315,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -36219,7 +36651,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -36363,7 +36795,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -36795,7 +37227,7 @@
         "Enable specific abilities to be used three times in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用3次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 3회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -36811,7 +37243,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -37123,7 +37555,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -37339,7 +37771,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (s'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -37635,7 +38067,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "특정 어빌리티를 1턴에 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -37779,7 +38211,7 @@
         "Enable specific abilities to be used three times in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用3次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 3회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -37787,7 +38219,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -37907,7 +38339,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -38115,7 +38547,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -38347,7 +38779,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -38667,7 +39099,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -38675,7 +39107,7 @@
         "Enable specific abilities to be used three times in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用3次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 3회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -39795,7 +40227,7 @@
         "(One use every 5 turns) Boost ATK, restore HP and MP, and caster can dodge some physical attacks two times, and enable absolute mirror of equity for two turns to caster",
         "【每5回合可使用1次】提高攻擊+恢復HPMP+賦予自身可閃避2次部分物理攻擊的效果+2回合內自身可使用「極·明鏡」",
         "[5턴에 1회 사용 가능] 공격력 상승+HP와 MP 회복+자신에게 일부 물리 공격 2회 회피 효과 부여+2턴 동안 '극·명경' 사용 가능",
-        "(Une fois tous les 5 tours) Augmente l'ATT et restaure les PV et PM. Permet au lanceur d'esquiver certaines attaques physiques à deux reprises et d'utiliser Sérénité Ultime pendant 2 tours",
+        "(Une fois tous les 5 tours) Augmente l'ATT et restaure les PV et PM. Permet au lanceur d'esquiver certaines attaques physiques à deux reprises et d'utiliser Sérénité absolue pendant 2 tours",
         "(Einmal in 5 Runden) Erhöht ANG, regeneriert LP und MP, lässt Benutzer einigen physischen Angriffen zwei Mal ausweichen und ermöglicht zwei Runden lang Vollkommene Kata.",
         "(Un uso cada 5 turnos) Aumenta el ATQ, recupera la VIT y los PM, el usuario puede esquivar algunos ataques físicos 2 veces y aprende Tranquilidad absoluta durante 2 turnos"
     ],
@@ -40139,7 +40571,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40147,7 +40579,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40179,7 +40611,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40203,7 +40635,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40235,7 +40667,7 @@
         "Enable 3 specific abilities (Not stackable, activate one time each regardless of equipment conditions)",
         "可以從特定能力中選擇3個使用（無法重複、無視裝備狀態，只會各發動1次）",
         "특정 어빌리티 중 3개 사용 가능(중복 사용 불가, 장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, activable une fois chacune, quel que soit l'équipement)",
+        "Permet d'utiliser 3 aptitudes spécifiques (non cumulable, s'active une seule fois quel que soit l'équipement)",
         "Ermöglicht Anwendung von 3 bestimmten Fertigkeiten (Nicht stapelbar, aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende 3 habilidades concretas (no acumulable, se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40275,7 +40707,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40355,7 +40787,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que pueden usarse 2 veces en un mismo turno (cada una se activa una vez sin importar las condiciones del equipo)"
     ],
@@ -40387,7 +40819,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende determinadas habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40411,7 +40843,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40747,7 +41179,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40811,7 +41243,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende determinadas habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -40819,7 +41251,7 @@
         "Enable specific abilities to be used three times in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用3次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 3회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser trois fois des aptitudes spéciales en un seul tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende determinadas habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -41203,7 +41635,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser des aptitudes spéciales deux fois en un tour (S'active à chaque fois quel que soit l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende varias habilidades que se pueden usar 2 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)"
     ],
@@ -41294,6 +41726,78 @@
         "(Une fois tous les 3 tours) Inflige des dégâts à un ennemi et augmente les dégâts physiques du lanceur contre les machines pendant deux tours",
         "(Einmal in 3 Runden) Fügt einem Gegner Schaden zu und erhöht physischen Schaden gegen Maschinen für zwei Runden für Benutzer.",
         "(Un uso cada 3 turnos) Daña a un enemigo y aumenta el daño físico que recibe el usuario contra máquinas durante 2 turnos"
+    ],
+    "509730": [
+        "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
+        "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
+        "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
+        "Aprende determinadas habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "509731": [
+        "(One use every 6 turns) Boost own ATK, and enable triple command for three turns",
+        "【每6回合可使用1次】提高自身的攻擊+3回合內可使用「T指令」",
+        "[6턴에 1회 사용 가능] 자신의 공격력 상승+3턴 동안 'T 커맨드' 사용 가능",
+        "(Une fois tous les 6 tours) Augmente l'ATT du lanceur et permet d'utiliser Triple commande pendant 3 tours",
+        "(Einmal in 6 Runden) Erhöht ANG des Benutzers und ermöglicht Dreifachkommando für drei Runden.",
+        "(Un uso cada 6 turnos) Aumenta el ATQ del usuario y aprende Comando triple durante 3 turnos"
+    ],
+    "509732": [
+        "Enable specific abilities to be used three times in one turn (Activate one time each regardless of equipment conditions)",
+        "1回合內可以使用3次特定能力（無視裝備狀態，只會各發動1次）",
+        "1턴 동안 특정 어빌리티 3회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)",
+        "Ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
+        "Aprende determinadas habilidades que se pueden usar 3 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "509740": [
+        "Nullify blind, sleep, confusion, and disease, and boost ATK and restore MP every turn",
+        "失明睡眠混亂生病無效+每回合提高攻擊+恢復MP",
+        "암흑, 수면, 혼란, 질병 무효화+매 턴마다 공격력 상승+MP 회복",
+        "Dissipe cécité, sommeil, confusion et maladie, augmente l'ATT à chaque tour, et restaure les PM à chaque tour",
+        "Annulliert Blind, Schlaf, Konfus und Virus, erhöht ANG und regeneriert jede Runde MP.",
+        "Anula ceguera, sueño, confusión y enfermedad, aumenta el ATQ y recupera PM cada turno"
+    ],
+    "509741": [
+        "Chance of boosting damage of certain abilities when receiving a physical or magic attack",
+        "受到物理、魔法攻擊時一定機率提高特定能力的傷害",
+        "물리, 마법 공격을 받으면 일정 확률로 특정 어빌리티의 피해량 상승",
+        "Chance d'augmenter les dégâts de certaines aptitudes après avoir reçu une attaque physique ou magique",
+        "Chance, den Schaden bestimmter Fertigkeiten zu erhöhen, wenn Benutzer von physischen oder magischen Angriff getroffen wird.",
+        "Probabilidad de aumentar el daño de ciertas habilidades al recibir un ataque físico o mágico"
+    ],
+    "509742": [
+        "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
+        "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
+        "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
+        "Aprende determinadas habilidades que se pueden usar 2 veces en un turno (se activa una vez cada una sin importar las condiciones del equipo)"
+    ],
+    "509743": [
+        "(One use every 5 turns) Boost own ATK, remove ATK reductions, and enable cross-slash+ for three turns",
+        "【每5回合可使用1次】提高自身的攻擊+解除降低攻擊的效果+3回合內可使用「兇斬 改」",
+        "[5턴에 1회 사용 가능] 자신의 공격력 상승+공격력 감소 효과 해제+3턴 동안 '개량형 흉베기' 사용 가능",
+        "(Une fois tous les 5 tours) Augmente l'ATT du lanceur, dissipe les réductions d'ATT, et permet d'utiliser Taillade croisée + pendant 3 tours",
+        "(Einmal in 5 Runden) Erhöht ANG des Benutzers, entfernt alle ANG-Verringerungen und ermöglicht Kreuzhieb+ für drei Runden.",
+        "(Un uso cada 5 turnos) Aumenta el ATQ del usuario, elimina la reducción de ATQ y aprende Látigo-cruzado+ durante 3 turnos"
+    ],
+    "509744": [
+        "Damage and chance of paralyzing all enemies",
+        "攻擊全體敵人+一定機率施加麻痺效果",
+        "적 전체에 피해+일정 확률로 마비 부여",
+        "Dégâts et chance de paralyser tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und Chance, ihnen Lähmung zu erteilen.",
+        "Daña y puede infligir parálisis a todos los enemigos"
+    ],
+    "509745": [
+        "(One use every 4 turns) Deal partial unmitigated damage to one enemy",
+        "【每4回合可使用1次】對1名敵人發動無視部分防禦的攻擊",
+        "[4턴에 1회 사용 가능] 적 1명에게 일부 방어 무시 피해",
+        "(Une fois tous les 4 tours) Inflige des dégâts en partie fixes à un ennemi",
+        "(Einmal in 4 Runden) Fügt einem Gegner teilweise direkten Schaden zu.",
+        "(Un uso cada 4 turnos) Daño absoluto parcial a un enemigo"
     ],
     "600010": [
         "Damage and chance of paralyzing one enemy",
@@ -43835,7 +44339,7 @@
         "Deal partial unmitigated damage and reduce earth resistance for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低土屬性耐性",
         "적 1명에게 일부 방어 무시 피해+땅속성 저항력 감소",
-        "Dégâts fixes et réduit la résistance à la terre d'un ennemi",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la terre d'un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert Erdresistenz für einen Gegner.",
         "Daño absoluto parcial y reduce la res. a la tierra de un enemigo"
     ],
@@ -43843,7 +44347,7 @@
         "Deal partial unmitigated damage and reduce earth resistance for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低土屬性耐性",
         "적 1명에게 일부 방어 무시 피해+땅속성 저항력 감소",
-        "Dégâts fixes et réduit la résistance à la terre d'un ennemi",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la terre d'un ennemi",
         "Fügt einem Gegner teilweise direkten Schaden zu und reduziert Erdresistenz für einen Gegner.",
         "Daño absoluto parcial y reduce la res. a la tierra de un enemigo"
     ],
@@ -43851,7 +44355,7 @@
         "Boost SPR when equipped with a bow",
         "裝備弓時提高精神",
         "활 장착 시 정신력 상승",
-        "Aug. la PSY lorsqu'un arc est équipé",
+        "Augmente la PSY lorsqu'un arc est équipé",
         "Erhöht PSY, wenn mit Bogen ausgerüstet.",
         "Aumenta el ESP al llevar arco"
     ],
@@ -44723,7 +45227,7 @@
         "Deal partial unmitigated damage to one enemy, and after using arm shot or leg shot, change to head shot next turn",
         "對1名敵人發動無視部分防禦的攻擊+使用「狙腕」「狙足」後，下一回合變化為「射擊頭部」",
         "적 1명에게 일부 방어 무시 피해+'팔 노리기', '발 노리기' 사용 후 다음 턴에 '헤드샷'으로 변화",
-        "Inflige des dégâts en partie fixes à un ennemi, après avoir utilisé Tir dans le bras ou Tir dans le pied se change en Tir dans la tête au tour suivant",
+        "Inflige des dégâts en partie fixes à un ennemi et, après avoir utilisé Tir dans le bras ou Tir dans le pied, se change en Tir dans la tête au tour suivant",
         "Fügt einem Gegner teilweise direkten Schaden zu, wechselt nach Arm- oder Beinschuss in nächster Runde zu Kopfschuss.",
         "Daño absoluto parcial a un enemigo y, tras usar Tiro al brazo o Tiro al pie, cambia a Tiro a la cabeza al sig. turno"
     ],
@@ -54121,7 +54625,7 @@
     ],
     "910653": [
         "Boost MAG and SPR for caster, enable snow burial for three turns, and enable absolute zero and snow burial to be used twice for three turns",
-        "提高自身的魔力精神+3回合內獲得「冰雪葬」效果+3回合內可以使用2次「極限零凍」「冰雪葬」",
+        "提高自身的魔力精神+3回合內可使用「冰雪葬」效果+3回合內可以使用2次「極限零凍」「冰雪葬」",
         "자신의 마력과 정신력 상승+3턴 동안 '설장' 사용 가능+3턴 동안 '절대영도'와 '설장' 2회 사용 가능",
         "Augmente la MAGIE et la PSY du lanceur, permet d'utiliser \"Cercueil de neige\" pendant trois tours, permet d'utiliser \"Zéro absolu\" et \"Cercueil de neige\" à deux reprises pendant trois tours",
         "Erhöht MAG und PSY für Benutzer, verleiht ihm drei Runden lang Schneebegräbnis, ermöglicht zweimalige Benutzung von Absoluter Nullpunkt und Schneebegräbnis innerhalb von drei Runden.",
@@ -57307,7 +57811,7 @@
         "Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)",
         "1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）",
         "1턴 동안 특정 어빌리티 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)",
-        "Permet d'utiliser les aptitudes spéciales à deux reprises en un seul tour (chacune s'active une fois peu importe les conditions de l'équipement)",
+        "Permet d'utiliser des aptitudes spécifiques deux fois en un tour (s'active une seule fois, quel que soit l'équipement)",
         "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).",
         "Aprende habilidades específicas que se pueden usar 2 veces en un mismo turno (se activan una vez cada una sin importar las condiciones específicas del equipo)"
     ],
@@ -59780,7 +60284,7 @@
         "提高極限技石對極限技槽的增加量+提高極限技槽傷害量+雙手只裝備武器時武具魔力提升",
         "LB 게이지 효율 상승+한손 또는 양손의 장비가 무기뿐일 경우 LB 피해량과 장비의 마력 상승",
         "Augmente le taux de remplissage de la limite et la MAGIE de l'équipement quand seules les armes sont équipées dans une ou les deux mains",
-        "Limitmeter füllt sich schneller und erhöht Schaden von Limitrausch und Ausrüstung-MAG, wenn in einer oder beiden Händen nur Waffen ausgerüstet sind.",
+        "Limitmeter füllt sich schneller und erhöht Schaden durch Limitrausch und Ausrüstung-MAG, wenn in einer oder beiden Händen nur Waffen ausgerüstet sind.",
         "La barra de EL se rellena más rápido, aumenta el daño de EL y la MAG del equipo al llevar armas en una o las dos manos"
     ],
     "911363": [
@@ -59948,7 +60452,7 @@
         "提高物理、魔法攻擊時對鳥系和惡魔系的傷害+提高極限技和特定能力的傷害",
         "조류와 악마형 마물에게 부여하는 물리, 마법 피해량 상승+LB와 일부 어빌리티의 피해량 상승",
         "Augmente les dégâts physiques et magiques contre les démons et les oiseaux, et augmente les dégâts de la limite et de certaines aptitudes",
-        "Erhöht physischen und magischen Schaden gegen Vögel und Dämonen für Benutzer und erhöht Schaden von Limiträuschen und bestimmten Fertigkeiten.",
+        "Erhöht physischen und magischen Schaden gegen Vögel und Dämonen für Benutzer und erhöht Schaden durch Limitrausch und bestimmten Fertigkeiten.",
         "Aumenta el daño mágico y físico contra pájaros y demonios, y aumenta el daño de que inflige EL y ciertas habilidades"
     ],
     "911384": [
@@ -59980,7 +60484,7 @@
         "提高30%魔力精神+提高100%風屬性耐性+混亂無效+提高極限技與特定能力的傷害",
         "혼란 무효화+마력과 정신력 30% 상승+바람속성 저항력 100% 상승+LB와 특정 어빌리티의 피해량 상승",
         "Annule confusion, augmente la MAGIE et la PSY de 30%, la résistance au vent de 100% et augmente les dégâts de la limite et de certaines aptitudes",
-        "Annulliert Konfus, erhöht MAG und PSY um 30% und Windresistenz um 100% und erhöht den Schaden von Limiträuschen und bestimmten Fertigkeiten.",
+        "Annulliert Konfus, erhöht MAG und PSY um 30% und Windresistenz um 100% und erhöht den Schaden durch Limitrausch und bestimmten Fertigkeiten.",
         "Anula confusión, aumenta la MAG y el ESP un 30%, la resistencia al viento un 100% y el daño de EL de algunas habilidades"
     ],
     "911388": [
@@ -61052,7 +61556,7 @@
         "提高30%MP攻擊+提高極限技的傷害量+裝備2個單手武器時武具攻擊提升",
         "MP와 공격력 30% 상승+LB 피해량 상승+한손용 무기 2개 장착 시 장비의 공격력 상승",
         "Augmente les PM et l'ATT de 30%, les dégâts de la limite et l'ATT de l'équipement lorsque deux armes à une main sont équipées",
-        "Erhöht MP und ANG um 30%, erhöht Schaden von Limiträuschen und erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet.",
+        "Erhöht MP und ANG um 30%, erhöht Schaden durch Limitrausch und erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet.",
         "Aumenta los PM y el ATQ un 30%, el daño del EL y el ATQ del equipo al llevar dos armas de una sola mano"
     ],
     "911522": [
@@ -62727,6 +63231,14 @@
         "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos"
     ],
+    "911732": [
+        "Boost ice and fire resistance by 20%",
+        "提高20%冰火屬性耐性",
+        "얼음과 불속성 저항력 20% 상승",
+        "Augmente la résistance au feu et à la glace de 20%",
+        "Erhöht Eis- und Feuerresistenz um 20%.",
+        "Aumenta la resistencia al hielo y al fuego un 20%"
+    ],
     "911733": [
         "Deal wind damage to one enemy, and boost wind resistance for all allies",
         "對1名敵人發動風屬性攻擊+提高全體隊員的風屬性耐性",
@@ -63179,7 +63691,7 @@
         "Boost HP and MAG by 50%, and MP by 20%",
         "提高50%HP魔力+提高20%MP",
         "HP와 마력 50%, MP 20% 상승",
-        "Augmente les PV et la MAGIE de 30%, et les PM de 10%",
+        "Augmente les PV et la MAGIE de 50%, et les PM de 20%",
         "Erhöht LP und MAG um 50% und MP um 20%.",
         "Aumenta la VIT y la MAG un 50% y los PM un 20%"
     ],
@@ -63385,7 +63897,7 @@
     ],
     "911815": [
         "Boost HP and MP by 30%, chance of evading some physical and magic attacks, and restore MP every turn",
-        "提高30%HPMP+一定機率可閃避部分物理、魔法攻擊+每回合恢復MP",
+        "提高30%HPMP+一定機率閃避部分物理、魔法攻擊+每回合恢復MP",
         "HP와 MP 30% 상승+일정 확률로 물리, 마법 공격 회피+전투 중 매 턴마다 MP 회복",
         "Augmente les PV et les PM de 30%, confère une chance d'esquiver les attaques physiques et magiques, et restaure les PM à chaque tour",
         "Erhöht LP und MP um 30%, Wahrscheinlichkeit, phys. sowie mag. Angriffen auszuweichen + stellt jede Runde MP wieder her.",
@@ -63476,7 +63988,7 @@
         "【每6回合可使用1次】提高精神+解除攻擊防禦魔力精神降低效果+5回合內可使用「惡兆 - 不進攻液體瓶」<br>「惡兆 - 不防禦液體瓶」+3回合內可使用「巫術+」",
         "[6턴에 1회 사용 가능] 정신력 상승+공격력, 방어력, 마력, 정신력 감소 효과 해제+5턴 동안 '징크스 - 공격/마력 약화 항아리', '징크스 - 방어/정신 약화 항아리' 사용 가능+3턴 동안 '술수+' 사용 가능",
         "(Une fois tous les 6 tours) Augmente la PSY, dissipe les réductions d'ATT, de DEF, de MAGIE et de PSY, permet d'utiliser Maléfice - Pot anti-attaque et Maléfice - Pot anti-défense pendant 5 tours, et permet d'utiliser Sorcellerie + pendant 3 tours",
-        "(Einmal in 6 Runden) Erhöht PSY, entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, ermöglicht fünf Runden lang Verhexen - Anti-Angriff-Gefäß und Verhexen - Anti-Verteidigung-Gefäß und ermöglicht drei Runden lang Hexerei+ für drei Runden.",
+        "(Einmal in 6 Runden) Erhöht PSY, entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, ermöglicht fünf Runden lang Verhexen - Anti-Angriff-Gefäß und Verhexen - Anti-Verteidigung-Gefäß und ermöglicht drei Runden lang Hexerei+.",
         "(Un uso cada 6 turnos) Aumenta el ESP, elimina la reducción de ATQ, DEF, MAG y ESP, aprende Gafe - Tarro antitransgresión y Gafe - Tarro antidefensa durante 5 turnos, y aprende Brujería+ durante 3 turnos"
     ],
     "911827": [
@@ -63611,7 +64123,7 @@
         "Boost ATK, DEF, MAG, and SPR for all allies while singing, and gradually restore MP",
         "歌唱期間提高全體隊員的攻擊防禦魔力精神+歌唱期間持續恢復全體隊員MP",
         "노래하는 동안 아군 전체의 공격력, 방어력, 마력, 정신력 상승+MP 서서히 회복",
-        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous et restaure progressivement les PM de tous les alliés  en chantant",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous et restaure progressivement les PM de tous les alliés en chantant",
         "Erhöht während des Singens ANG, ABW, MAG und PSY für alle Verb. und regeneriert während des Singens allmählich die MP aller Verb.",
         "Aumenta ATQ, DEF, MAG y ESP de todos los aliados y regenera los PM de todos los aliados poco a poco al cantar"
     ],
