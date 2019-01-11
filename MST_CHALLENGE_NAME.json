@@ -41280,7 +41280,7 @@
         null
     ],
     "75601113": [
-        "Use water of fluidity",
+        "Use flowing waters",
         "使用「流動之水」",
         "유동의 물을 사용하여 완료",
         null,
@@ -58795,7 +58795,7 @@
         "Defeat the Headbomber with magic",
         "使用魔法終結「頭槌企鵝」",
         "헤드 봄버를 마법으로 처치",
-        "Terrassez le Headbomber avec de la magie",
+        "Terrassez le Ébouriffeur avec de la magie",
         "Besiege Kopfbomber mit Magie",
         "Derrota al bombardero con magia"
     ],
@@ -58828,7 +58828,7 @@
         "使用極限技終結「藍龍」",
         "블루 드래곤을 LB로 처치",
         "Terrassez le Dragon bleu avec une limite",
-        "Besiege Blaudrache mit einem Limitrausch",
+        "Besiege Blauer Drache mit einem Limitrausch",
         "Derrota al dragón azul con un EL"
     ],
     "80401053": [
@@ -58860,7 +58860,7 @@
         "使用幻獸終結「藍龍」",
         "블루 드래곤을 환수로 처치",
         "Terrassez le Dragon bleu avec une chimère",
-        "Besiege Blaudrache mit einem Esper",
+        "Besiege Blauer Drache mit einem Esper",
         "Derrota al dragón azul con un esper"
     ],
     "80401063": [
@@ -58899,9 +58899,9 @@
         "Defeat Schizo with a limit burst",
         "使用極限技終結「雙頭」",
         "트윈 헤드를 LB로 처치",
-        "Terrassez Schizo avec une limite",
-        "Besiege Schizo mit einem Limitrausch",
-        "Derrota a Schizo con un EL"
+        "Terrassez le Dragon bicéphale avec une limite",
+        "Besiege Doppelkopf mit einem Limitrausch",
+        "Derrota a Bidra con un EL"
     ],
     "80501020": [
         "Complete the quest",
@@ -58923,9 +58923,9 @@
         "Defeat Schizo's party within 10 turns",
         "在10回合以內終結「雙頭」戰",
         "트윈 헤드 전투 10턴 이내에 완료",
-        "Terrassez Schizo en 10 tours max.",
-        "Besiege Schizo samt Gruppe in 10 Runden",
-        "Derrota al grupo del Schizo en 10 turnos o menos"
+        "Terrassez le groupe du Dragon bicéphale en 10 tours max.",
+        "Besiege Doppelkopf samt Gruppe in 10 Runden",
+        "Derrota al grupo de Bidra en 10 turnos o menos"
     ],
     "80501023": [
         "Clear without an ally being KO'd",
@@ -63424,7 +63424,7 @@
         "Ningún aliado ha quedado K.O."
     ],
     "81702082": [
-        "Defeat a/the crazed amoeba with magic",
+        "Defeat the crazed amoeba with magic",
         "使用魔法終結「瘋狂的變形蟲」",
         "매드 아메바를 마법으로 처치",
         null,
@@ -63552,7 +63552,7 @@
         "Usa 2 Estallidos Límite o más"
     ],
     "81703082": [
-        "Defeat a/the bloody shark with a limit burst",
+        "Defeat the bloody shark with a limit burst",
         "使用極限技終結「鮮血鯊」",
         "블러디 샤크를 LB로 처치",
         null,
@@ -63680,7 +63680,7 @@
         "Realiza un combo de 6 o más golpes en un turno"
     ],
     "81704072": [
-        "Defeat a/the jackalto with magic",
+        "Defeat the jackalto with magic",
         "使用魔法終結「傑克爾圖」",
         "자크르투를 마법으로 처치",
         null,
@@ -79087,6 +79087,486 @@
         "Besiege Schelmischer Erzmagier mit Magie",
         "Derrota a la archimaga maliciosa con magia"
     ],
+    "95401010": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401011": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401012": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401013": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401020": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401021": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401022": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401023": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401030": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401031": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401032": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401033": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401040": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401041": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401042": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401043": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401050": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401051": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401052": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401053": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401060": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401061": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401062": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401063": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401070": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401071": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401072": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401073": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401080": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401081": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401082": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401083": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401090": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401091": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401092": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401093": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401100": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401101": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401102": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401103": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401110": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401111": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401112": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401113": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401120": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401121": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401122": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401123": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401130": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401131": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401132": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401133": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401140": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401141": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401142": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401143": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
+    "95401150": [
+        "Complete the quest",
+        "完成任務",
+        "퀘스트를 완료",
+        "Terminez la quête",
+        "Schließe den Auftrag ab",
+        "Completa la misión"
+    ],
+    "95401151": [
+        "No items",
+        "不使用道具",
+        "아이템을 사용하지 않고 완료",
+        "Ne pas utiliser d'objets",
+        "Keine Gegenstände",
+        "No uses objetos"
+    ],
+    "95401152": [
+        "Clear without an ally being KO'd",
+        "戰鬥時無隊員陷入無法戰鬥狀態",
+        "한 명도 전투불능 상태가 되지 않고 완료",
+        "Aucun allié ne doit tomber K.O.",
+        "Schließe ab ohne einen kampfunf. Verb.",
+        "Ningún aliado ha quedado K.O."
+    ],
+    "95401153": [
+        "No continues",
+        "戰鬥時無全軍覆沒",
+        "이어하기 없이 완료",
+        "Ne pas utiliser Continuer",
+        "Kein Weitermachen",
+        "No uses Continuar"
+    ],
     "111101010": [
         "Complete the quest",
         "完成任務",
@@ -93989,7 +94469,7 @@
         "십육성투사 파이사리스를 LB로 처치",
         "Terrassez Physalis de l'étoile Pi avec une limite",
         "Besiege Pi-Stern-Physalis mit einem Limitrausch",
-        "Derrota al alquequenje de la estrella Pi con un EL"
+        "Derrota a Physalis de la estrella Pi con un EL"
     ],
     "116105053": [
         "Clear without an ally being KO'd",

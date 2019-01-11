@@ -2226,7 +2226,7 @@
     "504209540": [
         "Boost ATK when equipped with a gun (Not Stackable)",
         "裝備火槍時提高攻擊[無法重複裝備]",
-        "총 장착 시 공격력 상승(중복 장착 불가)",
+        "총 장착 시 공격력 상승 (중복 장착 불가)",
         "Augmente l'ATT lorsqu'un pistolet est équipé (Non cumulable)",
         "Erhöht ANG, wenn mit einer Schusswaffe ausgerüstet. (Nicht stapelbar).",
         "Aumenta el ATQ al llevar arma de fuego (no acumulable)"
@@ -2643,8 +2643,8 @@
         "Boost equipment ATK when a single weapon is equipped in both hands (Not stackable)",
         "雙手只裝備1把武器時提高攻擊 [無法重複裝備]",
         "양손의 장비가 무기 1개일 경우 장비의 공격력 상승 (중복 장착 불가)",
-        "Augmente l'ATT lorsqu'une arme est tenue avec les deux mains (non cumulable)",
-        "Erhöht ANG, wenn eine einhändige Waffe beidhändig ausger. ist. (Nicht stapelbar)",
+        "Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains (Non cumulable)",
+        "Erhöht Ausrüstung-ANG, wenn eine einhändige Waffe beidhändig ausger. ist. (Nicht stapelbar)",
         "Aumenta el ATQ al equipar una sola arma en las dos manos. (no acumulable)"
     ],
     "504215170": [
@@ -3847,6 +3847,38 @@
         "Zeigt Info eines Gegners.",
         "Mira la información de un enemigo"
     ],
+    "504227847": [
+        "Boost ATK when equipped with fists or a hat (Not stackable)",
+        "裝備格鬥武器帽子時攻擊提升[無法重複裝備]",
+        "격투무기 또는 모자 장착 시 공격력 상승 (중복 장착 불가)",
+        "Augmente l'ATT  lorsqu'un chapeau ou des poings sont équipés (Non cumulable)",
+        "Erhöht ANG, wenn mit Fäusten oder einem Hut ausgerüstet (nicht stapelbar).",
+        "Aumenta el ATQ al llevar puños o sombrero (no acumulable)"
+    ],
+    "504227865": [
+        "Reduce SPR by 10% and boost ATK by 60% (Not stackable)",
+        "降低10%精神+提高60%攻擊[無法重複裝備]",
+        "정신력 10% 감소+공격력 60% 상승 (중복 장착 불가)",
+        "Réduit la PSY de 10% et augmente l'ATT de 60% (Non cumulable)",
+        "Verringert PSY um 10% und erhöht ANG um 60% (nicht stapelbar).",
+        "Reduce el ESP un 10% y aumenta el ATQ un 60% (no acumulable)"
+    ],
+    "504227902": [
+        "Boost ATK by 10% and physical damage against dragons",
+        "提高10%攻擊+物理攻擊時提高對龍系魔物的傷害",
+        "공격력 10% 상승+물리 공격 시 드래곤형 마물에게 부여하는 피해량 상승",
+        "Augmente l'ATT de 10% et les dégâts physiques contre les dragons",
+        "Erhöht ANG um 10% und phys. Schaden gegen Drachen.",
+        "Aumenta el ATQ un 10% y el daño físico contra dragones"
+    ],
+    "504227903": [
+        "Boost MAG by 10% and magic damage against dragons",
+        "提高10%魔力+魔法攻擊時提高對龍系魔物的傷害",
+        "마력 10% 상승+마법 공격 시 드래곤형 마물에게 부여하는 피해량 상승",
+        "Augmente la MAGIE de 10% et les dégâts magiques contre les dragons",
+        "Erhöht MAG um 10% und mag. Schaden gegen Drachen.",
+        "Aumenta la MAG un 10% y el daño mágico contra dragones"
+    ],
     "504227926": [
         "Boost fire, ice, and lightning resistance by 30%",
         "提高30%火冰雷屬性耐性",
@@ -3863,6 +3895,14 @@
         "Erhöht LP um 50%, erhöht PSY um 30% + Chance, eigene MP zu regenerieren, wenn von mag. Angriff attackiert (nicht stapelbar).",
         "Aumenta la VIT un 50%, el ESP un 30% y probabilidad de recuperar los PM propios al recibir un ataque mágico (no acumulable)"
     ],
+    "504227931": [
+        "Boost ATK, DEF, MAG, and SPR when equipped with a katana (Not Stackable)",
+        "裝備刀時提高攻擊防禦魔力精神[無法重複裝備]",
+        "도 장착 시 공격력, 방어력, 마력, 정신력 상승 (중복 장착 불가)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY lorsqu'un katana est équipé (Non cumulable)",
+        "Erhöht ANG, ABW, MAG und PSY, wenn mit einem Katana ausgerüstet (nicht stapelbar).",
+        "Aumenta ATQ, DEF, MAG y ESP al llevar katana (no acumulable)"
+    ],
     "504228151": [
         "Boost HP by 30%, DEF by 20%, and wind resistance by 30%",
         "提高30%HP、20%防禦、30%風屬性耐性",
@@ -3874,7 +3914,7 @@
     "504228152": [
         "Boost MP by 10%, and boost equipment MAG when a single weapon is equipped in both hands (Not stackable)",
         "提高10%MP+雙手只裝備1把武器時武具魔力提升(不可重複裝備)",
-        "MP 10% 상승+양손의 장비가 무기 1개일 경우 장비의 마력 상승(중복 장착 불가)",
+        "MP 10% 상승+양손의 장비가 무기 1개일 경우 장비의 마력 상승 (중복 장착 불가)",
         "Augmente les PM de 10% et augmente la MAGIE de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht MP um 10% und erhöht Ausrüstung-MAG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
         "Aumenta los PM un 10% y aumenta la MAG del equipo al llevar un arma de una sola mano en las dos manos (no acumulable)"
@@ -3898,7 +3938,7 @@
     "504228324": [
         "Boost own ATK, DEF, MAG and SPR at the beginning of battle or after being revived, boost ATK when equipped with a sword, and boost HP and ATK when equipped with clothes (Not stackable)",
         "戰鬥開始時和從無法戰鬥狀態中復活時提高自身的攻擊防禦魔力精神+裝備劍時提高攻擊+裝備衣服時提高HP攻擊[無法重複裝備]",
-        "전투 시작 시 및 전투불능 상태에서 회복했을 때 자신의 공격력, 방어력, 마력, 정신력 상승+검 장착 시 공격력 상승+옷 장착 시 HP와 공격력 상승(중복 장착 불가)",
+        "전투 시작 시 및 전투불능 상태에서 회복했을 때 자신의 공격력, 방어력, 마력, 정신력 상승+검 장착 시 공격력 상승+옷 장착 시 HP와 공격력 상승 (중복 장착 불가)",
         "Augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur au début du combat ou après avoir ressuscité. Augmente l'ATT lorsqu'une épée est équipée et augmente les PV et l'ATT lorsque des vêtements sont équipés (Non cumulable)",
         "Erhöht ANG, ABW, MAG und PSY des Benutzers zu Beginn eines Kampfes oder nach Wiederbelebung, erhöht ANG wenn mit einem Schwert ausgerüstet und erhöht LP und ANG wenn mit Kleidung ausgerüstet (Nicht stapelbar).",
         "Aumenta ATQ, DEF, MAG y ESP del usuario al comienzo del combate o tras revivir, aumenta el ATQ al llevar espada y aumenta la VIT y el ATQ al llevar ropa (no acumulable)"
@@ -3954,13 +3994,29 @@
     "504228416": [
         "Boost HP and earth resistance by 30%, DEF and SPR by 20%, and boost LB gauge fill rate (Not Stackable)",
         "提高30%HP、土屬性耐性+提高20%防禦精神+提高極限技石對極限技槽的增加量[無法重複裝備]",
-        "HP와 땅속성 저항력 30%, 방어력과 정신력 20% 상승+LB 게이지 효율 상승(중복 장착 불가)",
+        "HP와 땅속성 저항력 30%, 방어력과 정신력 20% 상승+LB 게이지 효율 상승 (중복 장착 불가)",
         "Augmente les PV et la résistance à la terre de 30 %, la DEF et la PSY de 20 %, et augmente la vitesse de remplissage de la jauge de limite (Non cumulable)",
         "Erhöht LP und Erdresistenz um 30%, ABW und PSY um 20% + Limitmeter füllen sich schneller. (Nicht stapelbar).",
         "Aumenta la VIT y la resistencia a la tierra un 30%, aumenta la DEF y el ESP un 20% y la barra de EL se rellena más rápido (no acumulable)"
     ],
     "504228586": [
         "Boost equipment ATK when a single weapon is equipped in both hands, and boost physical damage against demon monsters",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "504228637": [
+        "Boost MP and SPR by 30%, boost LB gauge fill rate, and restore MP every turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "504228658": [
+        "Boost ATK by 40% and boost physical damage against plants",
         null,
         null,
         null,
@@ -3986,7 +4042,7 @@
     "504230832": [
         "Boost ATK by 70%, and boost equipment ATK when armed with two one-handed weapons (Not stackable)",
         "提高70%攻擊+裝備2把單手武器時武具攻擊提升(不可重複裝備)",
-        "공격력 70% 상승+한손용 무기 2개 장착 시 장비의 공격력 상승(중복 장착 불가)",
+        "공격력 70% 상승+한손용 무기 2개 장착 시 장비의 공격력 상승 (중복 장착 불가)",
         "Augmente l'ATT de 70% et augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées (Non cumulable)",
         "Erhöht ANG um 70% und erhöht Ausrüstung-ANG wenn mit zwei einhändigen Waffen ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ un 70% y aumenta el ATQ del equipo al llevar dos armas de una sola mano (no acumulable)"
@@ -4762,7 +4818,7 @@
     "1500000052": [
         "Boost ATK and physical damage against machina monsters, and enable rebellion for Just Cause 3 units (Not Stackable)",
         "提高攻擊+物理攻擊時提高對機械系魔物的傷害+Just Cause 3兵員可以使用「叛亂」[無法重複裝備]",
-        "공격력 상승+물리공격 시 기계형 마물에 대한 피해량 상승+Just Cause 3 유닛 한정 '반란' 사용 가능  (중복 장착 불가)",
+        "공격력 상승+물리공격 시 기계형 마물에 대한 피해량 상승+Just Cause 3 유닛 한정 '반란' 사용 가능 (중복 장착 불가)",
         "Augmente l'ATT et les dégâts physiques infligés aux monstres de type machine, et permet d'utiliser Rébellion pour les unités de Just Cause 3 (pas cumulable)",
         "Erhöht ANG und physischen Schaden gegen Maschinenmonster und ermöglicht Rebellion für Just Cause 3 Einheiten  (Nicht stapelbar).",
         "Aumenta el ATQ y el daño físico contra máquinas, y las unidades de Just Cause 3 aprenden Rebelión  (no acumulable)"
@@ -4858,7 +4914,7 @@
     "1500000064": [
         "Boost equipment ATK when armed with two one-handed weapons, and boost ATK when equipped with a gun, sword, fist, or throwing weapon (Not Stackable)",
         "裝備2把單手武器時武具攻擊提升+裝備火槍劍格鬥武器投擲武器時提高攻擊[無法重複裝備]",
-        "한손용 무기 2개 장착 시 장비의 공격력 상승+총, 검, 격투무기 또는 투척무기 장착 시 공격력 상승  (중복 장착 불가)",
+        "한손용 무기 2개 장착 시 장비의 공격력 상승+총, 검, 격투무기 또는 투척무기 장착 시 공격력 상승 (중복 장착 불가)",
         "Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées, augmente l'ATT lorsqu'une arme à feu, une épée, des poings ou des armes de jets sont équipés (pas cumulable)",
         "Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet und erhöht ANG, wenn mit Schusswaffe, Schwert, Faust, oder Wurfwaffen ausgestattet  (Nicht stapelbar).",
         "Aumenta el ATQ del equipo al llevar dos armas de una sola mano, y aumenta el ATQ al llevar arma de fuego, espada, puños o arma arrojadiza  (no acumulable)"
@@ -4898,7 +4954,7 @@
     "1500000069": [
         "Boost HP, DEF, and SPR by 30%, and fire, ice, lightning, water, wind, earth, light, and dark resistance by 20% (Not Stackable)",
         "提高30%HP防禦精神+提高20%火冰雷水風土光暗耐性 [無法重複裝備]",
-        "HP, 방어력, 정신력 30% 상승+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 20% 상승(중복 장착 불가)",
+        "HP, 방어력, 정신력 30% 상승+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 20% 상승 (중복 장착 불가)",
         "Augmente les PV, la DEF et la PSY de 30% ainsi que la résistance à feu, glace foudre, eau, vent, terre lumière et ténèbres de 20% (non cumulable)",
         "Erhöht LP, ABW und PSY um 30% und Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz um 20% (Nicht stapelbar).",
         "Aumenta VIT, DEF y ESP un 30%, y la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad un 20% (no acumulable)"
@@ -4906,7 +4962,7 @@
     "1500000070": [
         "Boost HP by 30%, and boost equipment ATK and equipment DEF when a single weapon is equipped in both hands (Not Stackable)",
         "提高30%HP+雙手只裝備1把武器時武具攻擊和防禦提升 [無法重複裝備]",
-        "HP 30% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력과 방어력 상승(중복 장착 불가)",
+        "HP 30% 상승+양손의 장비가 무기 1개일 경우 장비의 공격력과 방어력 상승 (중복 장착 불가)",
         "Augmente les PV de 30%, et augmente l'ATT et la DEF de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht LP um 30% und erhöht Ausrüstung-ANG und Ausrüstung-ABW, wenn eine einhändige Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
         "Aumenta la VIT un 30% y aumenta el ATQ y la DEF del equipo al llevar una sola arma en las dos manos (no acumulable)"
@@ -4914,7 +4970,7 @@
     "1500000071": [
         "Boost HP and MP by 20%, and boost equipment MAG and equipment SPR when a single weapon is equipped in both hands (Not Stackable)",
         "提高20%HPMP+雙手只裝備1把武器時武具魔力和精神提升 [無法重複裝備]",
-        "HP와 MP 20% 상승+양손의 장비가 무기 1개일 경우 장비의 마력과 정신력 상승(중복 장착 불가)",
+        "HP와 MP 20% 상승+양손의 장비가 무기 1개일 경우 장비의 마력과 정신력 상승 (중복 장착 불가)",
         "Augmente les PV et PM de 20%, et la MAGIE et la PSY de l'équipement lorsqu'une arme est tenue avec les deux mains (non cumulable)",
         "Erhöht LP und MP um 20% und erhöht Ausrüstung-MAG und Ausrüstung-PSY wenn eine einzelne Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
         "Aumenta la VIT y los PM un 20%, y aumenta MAG y el ESP del equipo al llevar una sola arma en las dos manos (no acumulable)"
@@ -4930,7 +4986,7 @@
     "1500000073": [
         "Boost HP by 30% and fire and dark resistance by 50%, and boost DEF and SPR when equipped with a mace (Not stackable)",
         "提高30%HP+提高50%火暗屬性耐性+裝備權杖時提高防禦精神 [無法重複裝備]",
-        "HP 30% 상승+불과 어둠속성 저항력 50% 상승+메이스 장착 시 방어력과 정신력 상승(중복 장착 불가)",
+        "HP 30% 상승+불과 어둠속성 저항력 50% 상승+메이스 장착 시 방어력과 정신력 상승 (중복 장착 불가)",
         "Augmente les PV de 30%, la résistance au feu et aux ténèbres de 50% et la DEF et la PSY lorsqu'une masse est équipée (non cumulable)",
         "Erhöht LP um 30%, Feuer- und Dunkelresistenz um 50% und erhöht ABW und PSY wenn mit einer Keule ausgerüstet (Nicht stapelbar).",
         "Aumenta la VIT un 30% y la resistencia al fuego y a la oscuridad un 50%, también aumenta la DEF y el ESP al llevar maza (no acumulable)"
@@ -4938,7 +4994,7 @@
     "1500000074": [
         "Boost ATK when equipped with a fist or clothes (Not stackable)",
         "裝備格鬥武器衣服時提高攻擊 [無法重複裝備]",
-        "격투무기 또는 옷 장착 시 공격력 상승(중복 장착 불가)",
+        "격투무기 또는 옷 장착 시 공격력 상승 (중복 장착 불가)",
         "Augmente l'ATT lorsque des poings ou des vêtements sont équipés (non cumulable)",
         "Erhöht ANG wenn mit Faust oder Kleidung ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ al llevar puños o ropa (no acumulable)"

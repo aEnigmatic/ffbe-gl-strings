@@ -503,6 +503,54 @@
         "Eine neue Version dieser App ist verfügbar.",
         "Hay una nueva versión de la aplicación disponible."
     ],
+    "ARENA_ENERGY_LAPIS_A": [
+        "You can use lapis to <color=red>fully restore your arena orbs</color>.<br>Proceed?",
+        "您可以花費寶石 <color=red>完全恢復鬥技場寶珠</color>。要繼續嗎？",
+        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>결투장 구슬을 모두 회복</color><br>할 수 있습니다.<br>회복하시겠습니까?",
+        null,
+        "Du kannst Lapis benutzen,<color=red>um deine Arenajuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        null
+    ],
+    "ARENA_ENERGY_LAPIS_C": [
+        "You can use lapis to <color=red>fully restore your colosseum orbs</color>.<br>Proceed?",
+        "您可以花費寶石 <color=red>完全恢復競技場寶珠</color>。要繼續嗎？",
+        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>회복하시겠습니까?",
+        null,
+        "Du kannst Lapis benutzen,<color=red>um deine Kolosseumsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        null
+    ],
+    "ARENA_ENERGY_LAPIS_R": [
+        "You can use lapis to <color=red>fully restore your raid orbs</color>.<br>Proceed?",
+        "您可以花費寶石 <color=red>完全恢復共鬥寶珠</color>。要繼續嗎？",
+        "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
+        null,
+        "Du kannst Lapis benutzen,<color=red>um deine Raubzugsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        null
+    ],
+    "ARENA_ENERGY_RECOVERY": [
+        "Energy Recovery",
+        "體力恢復",
+        "체력 회복",
+        null,
+        "Energie Wiederherstellen",
+        null
+    ],
+    "ARENA_ENERGY_RESTORE": [
+        "Use lapis or an item<br>to restore energy?",
+        "要使用寶石或道具<br>恢復體力嗎？",
+        "라피스 또는 아이템을 사용하여<br>체력을 회복하시겠습니까?",
+        null,
+        "Lapis oder einen Gegenstand benutzen,<br>um Energie wiederherzustellen?",
+        null
+    ],
+    "ARENA_ENERGY_RESTORE_E": [
+        "Use % energy recovery item(s) to restore % orb(s)?",
+        "要使用 % 個恢復道具來恢復 % 個寶珠嗎？",
+        "% 체력 회복 아이템을 사용하여 구슬을 % 회복하시겠습니까?",
+        null,
+        null,
+        null
+    ],
     "ARENA_FRIEND_ADD_CONFIRM": [
         "Send a friend request to your opponent?",
         "要向這次的對手申請好友嗎？",
@@ -510,6 +558,30 @@
         "Envoyer une demande d'ami à votre adversaire ?",
         "Freundschaftsanfrage an deinen Gegner senden?",
         "¿Quieres solicitar amistad a tu oponente?"
+    ],
+    "ARENA_INSUFFICIENT_A": [
+        "Insufficient Arena Orbs",
+        "鬥技場寶珠不足",
+        "격투장 구슬 부족",
+        null,
+        "Ungenügend Arenajuwelen",
+        null
+    ],
+    "ARENA_INSUFFICIENT_C": [
+        "Insufficient Colosseum Orbs",
+        "競技場寶珠不足",
+        "투기장 구슬 부족",
+        null,
+        "Ungenügend Kolosseumsjuwelen",
+        null
+    ],
+    "ARENA_INSUFFICIENT_R": [
+        "Insufficient Raid Orbs",
+        "共鬥寶珠不足",
+        "레이드 구슬 부족",
+        null,
+        "Ungenügend Raubzugsjuwelen",
+        null
     ],
     "ARENA_PARTY_EDIT": [
         "Manage Arena Party",
@@ -718,6 +790,14 @@
         "Aucune connexion",
         "Keines",
         "Ninguna"
+    ],
+    "Arena_Orb_Countdown_Full": [
+        "Fully Charged",
+        "完全恢復",
+        "모두 충전",
+        "Entièrement rechargé",
+        "Voll aufgeladen",
+        "Cargado al máximo"
     ],
     "BADST_ADD": [
         "Status Ailments",
@@ -1969,19 +2049,19 @@
     ],
     "DLC_SCREENSIZE_STORAGE": [
         "Your phone doesn't have enough storage.",
-        null,
-        null,
-        null,
-        null,
+        "使用裝置的剩餘空間不足。",
+        "휴대폰의 저장 공간이 부족합니다.",
+        "Votre téléphone ne possède pas assez d'espace disponible.",
+        "Dein Gerät hat nicht genug Speicherplatz.",
         "Tu teléfono no tiene memoria suficiente disponible."
     ],
     "DLC_SCREENSIZE_WIFI": [
-        "FINAL FANTASY BRAVE EXVIUS needs to download an additional <param=size> MB of data.<br>It is strongly recommended that you connect to a Wi-Fi network to avoid incurring significant data charges.<br><br>Proceed with download?",
-        null,
-        null,
-        null,
-        null,
-        "FINAL FANTASY BRAVE EXVIUS necesita descargar <param=size> MB de datos adicionales.<br>Te recomendamos que te conectes a una red Wi-Fi para evitar sobrecostes por sobrepasar tu límite de datos móviles.<br><br>¿Quieres continuar con la descarga?"
+        "FINAL FANTASY BRAVE EXVIUS needs to download an additional <param=size> of data.<br>It is strongly recommended that you connect to a Wi-Fi network to avoid incurring significant data charges.<br><br>Proceed with download?",
+        "《FINAL FANTASY BRAVE EXVIUS》需要額外下載<param=size>的資料。<br>建議您連接WiFi網路，以免花費大量的傳輸費用。<br><br>要繼續下載嗎？",
+        "FINAL FANTASY BRAVE EXVIUS 앱 실행을 위해 추가 <param=size> 데이터를 다운로드해야 합니다.<br>과도한 데이터 요금이 발생하지 않도록 Wi-Fi 환경에서 다운로드를 권장합니다.<br><br>다운로드를 진행하시겠습니까?",
+        "Pour fonctionner correctement FINAL FANTASY BRAVE EXVIUS a besoin de télécharger <param=size> de données supplémentaires. Nous vous recommandons fortement l'usage d'un réseau Wifi afin d'éviter de vous servir de votre forfait data.<br><br>Voulez-vous quand même procéder au téléchargement ?",
+        "FINAL FANTASY BRAVE EXVIUS muss eine zusätzliche Datenmenge von <param=size> herunterladen.<br>Es wird dringend empfohlen, sich mit dem WLAN zu verbinden, um hohe Datengebühren zu vermeiden.<br><br>Mit Download fortfahren?",
+        "FINAL FANTASY BRAVE EXVIUS necesita descargar <param=size> de datos adicionales.<br>Te recomendamos que te conectes a una red Wi-Fi para evitar sobrecostes por sobrepasar tu límite de datos móviles.<br><br>¿Quieres continuar con la descarga?"
     ],
     "DMG_RANK_BATTLE_GIVEUP": [
         "A record will not be kept if you give up.<br>Do you wish to proceed?",
@@ -3792,6 +3872,14 @@
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de invocación de la Fan Festa 2018, kupó!"
     ],
     "EXPLAIN_REWARD_1018": [
+        "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
+        "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
+        "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
+        "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets sélectionneurs de la Fan Festa 2018, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
+        "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
+    ],
+    "EXPLAIN_REWARD_1019": [
         "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
         "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
         "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
@@ -8799,6 +8887,14 @@
         "Siege",
         "Victorias"
     ],
+    "MST_ARCHIVE_NAME_AWARD_ADVENT_CLEAR_CNT": [
+        "Total ELT Battles Cleared in Chamber of the Fallen",
+        "「降臨之間」覺醒級完成數",
+        "'강림의 틈' 각성급 완료 횟수",
+        "Total de combats EX! terminés dans la Chambre de l'avènement",
+        "Kämpfe in Waffenkammer Gewonnen",
+        "Total de combates ÉLI completados en la Cámara de los Caídos"
+    ],
     "MST_ARCHIVE_NAME_AWARD_ARENA_TROPHY_CNT": [
         "Arena - Total Trophies Acquired",
         null,
@@ -8815,6 +8911,14 @@
         "Kolosseum - Summe der erlangten Trophäen",
         "Coliseo - Total de trofeos conseguidos"
     ],
+    "MST_ARCHIVE_NAME_AWARD_ENEMY_TROPHY_CNT": [
+        "Nemeses - Total Trophies Acquired",
+        "「強敵」獎盃獲得數",
+        "'강적' 트로피 획득 수",
+        "Boss - Total de trophées acquis",
+        "Nemesis - Trophäensammlung",
+        "Némesis - Total de trofeos conseguidos"
+    ],
     "MST_ARCHIVE_NAME_AWARD_EXPLOIT_TROPHY_CNT": [
         "Achievements - Total Trophies Acquired",
         null,
@@ -8823,6 +8927,22 @@
         "Errungenschaften - Summe der erlangten Trophäen",
         "Logros - Total de trofeos conseguidos"
     ],
+    "MST_ARCHIVE_NAME_AWARD_GENUINE_ADVENT_CLEAR_CNT": [
+        "Total ELT Battles Cleared in Chamber of the Indignant",
+        "「真降臨之間」覺醒級完成數",
+        "'진강림의 틈' 각성급 완료 횟수",
+        "Total de combats EX! terminés dans la Chambre du mépris",
+        "ELI Kämpfe in Kammer der Verachtung Gewonnen",
+        "Total de combates ÉLI completados en la Cámara de los Indignados"
+    ],
+    "MST_ARCHIVE_NAME_AWARD_OMEGA_CHALLENGE_CNT": [
+        "Total Missions Cleared in Ancient Hellbringer - ELT",
+        "「兇殘至極的古代兵器・覺醒級」挑戰達成數",
+        "'흉포한 고대 병기·각성급' 챌린지 달성 횟수",
+        "Total de missions terminées dans Arme ancestrale des Enfers - EX!",
+        "Missionen in Uralte Höllenmaschine - ELI Beendet",
+        "Total de misiones completadas en El viejo invocainfiernos - ÉLI"
+    ],
     "MST_ARCHIVE_NAME_AWARD_QUEST_TROPHY_CNT": [
         "Quests - Total Trophies Acquired",
         null,
@@ -8830,6 +8950,14 @@
         "Quêtes - Nombre total de trophées obtenus",
         "Aufträge - Summe der erlangten Trophäen",
         "Misiones - Total de trofeos conseguidos"
+    ],
+    "MST_ARCHIVE_NAME_AWARD_TWELVE_ARMS_CLEAR_CNT": [
+        "Total Battles Cleared in Chamber of Arms",
+        "「十二武具之間」完成數",
+        "'십이무구의 틈새' 완료 횟수",
+        "Total de combats terminés dans la Chambre des armes",
+        "Kämpfe in Waffenkammer Gewonnen",
+        "Total de combates completados en la Cámara de las Reliquias"
     ],
     "MST_ARCHIVE_NAME_CLSM_BATTLE_CNT": [
         "Total Colosseum Battles",
@@ -12632,12 +12760,12 @@
         "Vinculación de la cuenta"
     ],
     "Pop_Up_Account_Binding_About_To_Bind": [
-        "You are about to connect your game account with [Facebook/Google].<br> You have a total of (Number of binding left) attempt(s) left. Once you run out of binding attempt(s), you won't be able to bind your game account to [Facebook/Google] anymore.<br>Do you want to proceed?",
-        "遊戲帳號即將連接至[Facebook/Google]帳號。<br>剩餘綁定次數(Number of binding left)次。如果綁定次數使用完畢，將無法再綁定遊戲帳號至[Facebook/Google]帳號。<br>要繼續嗎？",
-        "게임 계정을 [Facebook/Google] 계정에 연동하려고 합니다.<br>연동 시도 가능 횟수가 총 (Number of binding left)회 남았습니다. 최대 연동 시도 가능 횟수를 초과하면 게임 계정을 더이상 [Facebook/Google] 계정에 연동할 수 없습니다.<br>계속 진행하시겠습니까?",
-        "Vous êtes sur le point de connecter votre compte de jeu à [Facebook/Google]. Il vous reste (Number of binding left) tentative(s) d'association. Dans l'éventualité où vous épuiseriez toutes vos tentatives d'association, vous serez dans l'incapacité d'associer votre compte de jeu à [Facebook/Google].<br>Continuer ?",
-        "Du bist gerade dabei, dein Spielekonto mit [Facebook/Google] zu verknüpfen.<br> Du  hast insgesamt noch (Number of binding left) Versuch(e) übrig. Sobald du nicht mehr genügend Verknüpfungsversuche übrig hast, wirst du dein Spielekonto nicht mehr mit [Facebook/Google] verknüpfen können.<br>Willst du fortfahren?",
-        "Estás a punto de conectar tu cuenta del juego con [Facebook/Google].<br>Número de intentos restantes: (Number of binding left). Cuando se agoten, ya no podrás vincular tu cuenta del juego con [Facebook/Google].<br>¿Quieres continuar?"
+        "You are about to connect your game account to <color=255:255:0><param=login_service></color>.<br><br>You have a total of <param=num_attempt> attempt(s) left. Once you run out of binding attempt(s), you will no longer be able to bind your game account to <color=255:255:0><param=login_service></color> anymore.<br><br>Do you want to proceed?",
+        "遊戲帳號即將連接至<color=255:255:0><param=login_service></color>帳號。<br>剩餘綁定次數<param=num_attempt>次。如果綁定次數使用完畢，將無法再綁定遊戲帳號至<color=255:255:0><param=login_service></color>帳號。<br>要繼續嗎？",
+        "게임 계정을 <color=255:255:0><param=login_service></color> 계정에 연동하려고 합니다.<br><br>연동 시도 가능 횟수가 총 <param=num_attempt>회 남았습니다. 최대 연동 시도 가능 횟수를 초과하면 게임 계정을 더이상 <color=255:255:0><param=login_service></color> 계정에 연동할 수 없습니다.<br><br>계속 진행하시겠습니까?",
+        "Vous êtes sur le point de connecter votre compte de jeu à <color=255:255:0><param=login_service></color>.<br><br>Il vous reste <param=num_attempt> tentative(s) d'association. Dans l'éventualité où vous épuiseriez toutes vos tentatives d'association, vous serez dans l'incapacité d'associer votre compte de jeu à <color=255:255:0><param=login_service></color>.<br><br>Continuer ?",
+        "Du bist gerade dabei, dein Spielekonto mit <color=255:255:0><param=login_service></color> zu verknüpfen.<br><br>Du  hast insgesamt noch <param=num_attempt> Versuch(e) übrig. Sobald du nicht mehr genügend Verknüpfungsversuche übrig hast, wirst du dein Spielekonto nicht mehr mit <color=255:255:0><param=login_service></color> verknüpfen können.<br><br>Willst du fortfahren?",
+        "Estás a punto de conectar tu cuenta del juego con <color=255:255:0><param=login_service></color>.<br><br>Número de intentos restantes: <param=num_attempt>. Cuando se agoten, ya no podrás vincular tu cuenta del juego con <color=255:255:0><param=login_service></color>.<br><br>¿Quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Choose_Account": [
         "Choose account to bind",
@@ -12672,15 +12800,39 @@
         "Has elegido no conectarte con ninguna cuenta.<br>Si eliges una de tus redes sociales para conectarte, no perderás tu progreso al cambiar de dispositivo.<br>¿Quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Currently_Logged_Into": [
-        "Currently logged into: (Name of Social Media)",
-        "目前登錄：(Name of Social Media)",
-        "현재 연동되어 있는 계정: (Name of Social Media)",
-        "Compte connnecté actuellement : (Name of Social Media)",
-        "Derzeit angemeldet bei: (Name of Social Media)",
-        "Sesión iniciada en: (nombre de la red social)"
+        "Currently logged into: <param=login_service>",
+        "目前登錄：<param=login_service>",
+        "현재 연동되어 있는 계정: <param=login_service>",
+        "Compte connnecté actuellement : <param=login_service>",
+        "Derzeit angemeldet bei: <param=login_service>",
+        "Sesión iniciada en: <param=login_service>"
+    ],
+    "Pop_Up_Account_Binding_Error_Invalid_Account": [
+        "Invalid account type: <param=id>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Pop_Up_Account_Binding_Error_No_Account_Selected": [
+        "No login account selected",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Pop_Up_Account_Binding_Error_Unknown": [
+        "Unknown error",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "Pop_Up_Account_Binding_First_Time_Pop_up": [
-        "You can now choose to bind your account to other social media accounts such as <color=0:0:255>Facebook</color> or <color=0:0:255>Google</color>.",
+        "You can choose to bind your game account to social media accounts such as <color=0:0:255>Facebook</color> or <color=0:0:255>Google</color>.",
         "現在可以選擇將遊戲帳號綁定至其他社群帳號，例如<color=0:0:255>Facebook</color>  或 <color=0:0:255>Google</color>。",
         "<color=0:0:255>Facebook</color> 또는 <color=0:0:255>Google</color>과 같은 소셜 미디어 계정을 선택하여 게임 계정을 연동시킬 수 있습니다.",
         "Vous pouvez désormais associer votre compte à d'autres comptes de réseaux sociaux, comme <color=0:0:255>Facebook</color> ou <color=0:0:255>Google</color>.",
@@ -12688,12 +12840,20 @@
         "Ahora puedes vincular tu cuenta con otras redes sociales, como <color=0:0:255>Facebook</color> o <color=0:0:255>Google</color>."
     ],
     "Pop_Up_Account_Binding_Limit_Warning": [
-        "* There are a limited number of binding attempts for each social media account. Once you run out of binding attempts, you won't be able to bind your game account to any social media accounts.",
+        "*There is a single binding attempt for each social media account type. Once you run out of binding attempts, you won't be able to bind your game account to any other social media accounts.",
         "* 嘗試綁定社群帳號有次數限制。一旦綁定帳號完成，將無法再綁定其它社群帳號。",
         "<br>※ 소셜 미디어 계정마다 최대 연동 시도 가능 횟수가 있습니다. 연동 시도 가능 횟수를 초과하면 게임 계정을 어떤 소셜 미디어 계정에도 연동시킬 수 없습니다.<br>",
         "*Un nombre limité de tentatives d'association peut être effectué pour chaque compte de réseau social. Une fois cette limite atteinte, vous serez dans l'incapacité d'associer votre compte de jeu à un compte de réseau social, quel qu'il soit.",
         "* Für jedes Social-Media-Konto stehen dir eine begrenzte Anzahl an Verknüpfungsversuchen zur Verfügung. Sobald du nicht mehr genügend Verknüpfungsversuche hast, wirst du dein Spielekonto nicht mehr mit anderen Social-Media-Accounts verknüpfen können.",
         "*El número de intentos de vinculación de cada cuenta es limitado. Cuando se agoten, no podrás vincular tu cuenta del juego con ninguna de tus redes sociales."
+    ],
+    "Pop_Up_Account_Binding_Login_Failed": [
+        "Unable to log in to <param=login_service><br>Reason: <param=reason>",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "Pop_Up_Account_Binding_Succeeded": [
         "Binding Successful!",
@@ -12704,20 +12864,20 @@
         "¡Tus cuentas se han vinculado correctamente!"
     ],
     "Pop_Up_Account_Binding_Unbind": [
-        "You are about to unbind [Facebook/Google] from your game account.<br>Unbinding will remove the social media account linking and the respective friends permanently from your game account.<br>If no other account is linked, your game account will be tied to current device.<br>Do you REALLY want to proceed?",
-        "即將解除[Facebook/Google]帳號的綁定。<br>解除帳號綁定，將會永久刪除遊戲帳號內的社群帳號連接以及好友。<br>如果未連接其他帳號，遊戲帳號將被保留於目前使用的裝置上。<br>真的要繼續嗎？",
-        "게임 계정을 [Facebook/Google] 계정에 연동하지 않으려고 합니다.<br>연동을 하지 않으면, 연동되어 있는 소셜 미디어 계정과 각 친구 목록이 영구히 삭제됩니다.<br>다른 어떤 계정에도 연동되어 있지 않으면, 게임 계정은 현재 기기에 저장됩니다. <br>정말 계속 진행하시겠습니까?",
-        "Vous êtes sur le point de désassocier [Facebook/Google] de votre compte de jeu.<br>Cette action aura pour effet de supprimer définitivement tout lien entre votre compte de jeu et les réseaux sociaux concernés, y compris les amis importés depuis ces réseaux sociaux.<br>Si aucun autre compte n'est associé, votre compte de jeu sera restreint à votre appareil actuel.<br>Voulez-vous continuer ?",
-        "Du bist dabei, die Verknüpfiung deines Spielekontos mit [Facebook/Google] zu lösen.<br>Das Lösen der Verknüpfung wird die Verbindung mit dem Social-Media-Konto und die jeweiligen Freunde dauerhaft von deinem Spielekonto entfernen.<br>Wenn kein anderes Konto verbunden ist, wird dein Spielekonto mit deinem derzeitigen Gerät verbunden.<br>Willst du WIRKLICH fortfahren?",
-        "Vas a desvincular tu cuenta [Facebook/Google] de tu cuenta del juego.<br>Al hacerlo, toda la información y amigos que tengas en esta red social se eliminarán de forma permanente.<br>Si no has vinculado otra cuenta, solo podrás acceder al juego desde este dispositivo<br>.¿SEGURO que quieres continuar?"
+        "You are about to unbind <color=255:255:0><param=login_service></color> from your game account.<br><br>Unbinding will permanently remove the social media account linked and its respective friend list from your game account.<br><br>If no other account is linked, your game account will only be tied to current device.<br><br>Are you <color=255:255:0>SURE</color> you wish to proceed?",
+        "即將解除<color=255:255:0><param=login_service></color>帳號的綁定。<br><br>解除帳號綁定，將會永久刪除遊戲帳號內的社群帳號連接以及好友。<br><br>如果未連接其他帳號，遊戲帳號將被保留於目前使用的裝置上。<br><br>真的要繼續嗎？",
+        "게임 계정을 <color=255:255:0><param=login_service></color> 계정에 연동하지 않으려고 합니다.<br><br>연동을 하지 않으면, 연동되어 있는 소셜 미디어 계정과 각 친구 목록이 영구히 삭제됩니다.<br><br>다른 어떤 계정에도 연동되어 있지 않으면, 게임 계정은 현재 기기에 저장됩니다. <br><br>정말 계속 진행하시겠습니까?",
+        "Vous êtes sur le point de désassocier <color=255:255:0><param=login_service></color> de votre compte de jeu.<br><br>Cette action aura pour effet de supprimer définitivement tout lien entre votre compte de jeu et les réseaux sociaux concernés, y compris les amis importés depuis ces réseaux sociaux.<br><br>Si aucun autre compte n'est associé, votre compte de jeu sera restreint à votre appareil actuel.<br><br>Voulez-vous continuer ?",
+        "Du bist dabei, die Verknüpfiung deines Spielekontos mit <color=255:255:0><param=login_service></color> zu lösen.<br><br>Das Lösen der Verknüpfung wird die Verbindung mit dem Social-Media-Konto und die jeweiligen Freunde dauerhaft von deinem Spielekonto entfernen.<br><br>Wenn kein anderes Konto verbunden ist, wird dein Spielekonto mit deinem derzeitigen Gerät verbunden.<br><br>Willst du <color=255:255:0>WIRKLICH</color> fortfahren?",
+        "Vas a desvincular tu cuenta <color=255:255:0><param=login_service></color> de tu cuenta del juego.<br><br>Al hacerlo, toda la información y amigos que tengas en esta red social se eliminarán de forma permanente.<br><br>Si no has vinculado otra cuenta, solo podrás acceder al juego desde este dispositivo.<br><br>¿SEGURO que quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Used_Up": [
-        "You have used up all your binding attempts for [Facebook/Google].<br>You will not be able to bind your game to [Facebook/Google] anymore.",
-        "已完成[Facebook/Google]帳號綁定。<br>無法再綁定其它[Facebook/Google]帳號。",
-        "[Facebook/Google] 계정 연동 시도 가능 횟수를 초과했습니다.<br>게임 계정을 더이상 [Facebook/Google] 계정에 연동할 수 없습니다.",
-        "Vous avez épuisé toutes vos tentatives d'association pour [Facebook/Google].<br>Il vous est désormais impossible d'associer votre compte de jeu à [Facebook/Google].",
-        "Du hast jegliche deiner Verknüpfungsversuche für [Facebook/Google] aufgebraucht.<br>Du wirst dein Spiel nicht mehr mit [Facebook/Google] verknüpfen können.",
-        "Has agotado todos los intentos de vinculación con [Facebook/Google].<br>Ya no podrás vincular tu cuenta del juego con [Facebook/Google]."
+        "You have used up all your binding attempts for <color=255:255:0><param=login_service></color>. You will not be able to bind your game to <color=255:255:0><param=login_service></color> any longer.",
+        "已完成<color=255:255:0><param=login_service></color>帳號綁定。無法再綁定其它<color=255:255:0><param=login_service></color>帳號。",
+        "<color=255:255:0><param=login_service></color> 계정 연동 시도 가능 횟수를 초과했습니다. 게임 계정을 더이상 <color=255:255:0><param=login_service></color> 계정에 연동할 수 없습니다.",
+        "Vous avez épuisé toutes vos tentatives d'association pour <color=255:255:0><param=login_service></color>. Il vous est désormais impossible d'associer votre compte de jeu à <color=255:255:0><param=login_service></color>.",
+        "Du hast jegliche deiner Verknüpfungsversuche für <color=255:255:0><param=login_service></color> aufgebraucht. Du wirst dein Spiel nicht mehr mit <color=255:255:0><param=login_service></color> verknüpfen können.",
+        "Has agotado todos los intentos de vinculación con <color=255:255:0><param=login_service></color>. Ya no podrás vincular tu cuenta del juego con <color=255:255:0><param=login_service></color>."
     ],
     "Pop_Up_Account_Relogin_Failed": [
         "Unable to re-login to <param=login_service>.<br><br>Please try to login again from the Title screen.",
@@ -13881,10 +14041,10 @@
     ],
     "SG_BUNDLE_OBTAINED": [
         "Obtained",
-        null,
-        null,
-        null,
-        null,
+        "獲得",
+        "획득",
+        "Obtenu",
+        "Erhalten",
         "Conseguido"
     ],
     "SG_BUNDLE_SPECIALPROMO_HEADER": [
@@ -13905,11 +14065,11 @@
     ],
     "SG_BUNDLE_TAP_DETAILS": [
         "*Tap the item to see more details.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "*點擊該項目以查看詳情。",
+        "*자세한 내용을 보시려면 아이템을 터치하세요.",
+        "* Touchez l'objet pour plus d'informations.",
+        "*Tippe auf den Gegenstand, um weitere Details einzusehen.",
+        "*Toca el objeto para más información."
     ],
     "SG_BUNDLE_TIME": [
         "%.2d:%.2d hr",
@@ -13921,10 +14081,10 @@
     ],
     "SG_BUNDLE_WELCOME_TEXT": [
         "Remember to log in for 8 days to get your next milestone reward!",
-        null,
-        null,
-        null,
-        null,
+        "記得累積登入8天，獲得下一個里程碑獎勵！",
+        "8일 동안 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
+        "N'oubliez pas de vous connecter pendant 8 jours pour obtenir votre prochaine récompense d'étape !",
+        "Denke daran, dich 8 Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
         "¡Acuérdate de iniciar sesión durante 8 días para conseguir tu nueva recompensa de récord!"
     ],
     "SG_CLSM_HINT_BTN": [
@@ -14520,7 +14680,7 @@
         "Energía"
     ],
     "SG_EXISTACCOUNT_ALERT_MSG": [
-        "<param=SG_current_playerLevel> <color=255:255:0><param=SG_current_playername></color><br>Would you like to sync existing game<br>data avaliable to this device?",
+        "<param=SG_current_playerLevel> <color=255:255:0><param=SG_current_playername></color><br>Would you like to sync existing game<br>data available to this device?",
         "<param=SG_current_playerLevel> <color=255:255:0><param=SG_current_playername></color><br>是否要在此裝置上同步遊戲資料？",
         "<param=SG_current_playerLevel><color=255:255:0><param=SG_current_playername></color><br>기존의 계정 데이터와<br>이 단말기를 동기화하시겠습니까?",
         "<param=SG_current_playerLevel> <color=255:255:0><param=SG_current_playername></color><br>Souhaitez-vous synchroniser les données<br>de jeu existantes à cet appareil ?",
@@ -17158,6 +17318,14 @@
         "\"Trophées actuels<br>Trophée visé\"",
         "„Aktuelle Trophäen<br>Trophäenziel“",
         "Trofeos actuales<br>Objetivo del trofeo"
+    ],
+    "TUTORIAL_DOWNLOAD_SIZE": [
+        "Download size: <param=size>",
+        "下載大小：<param=size>",
+        "다운로드 크기: <param=size>",
+        "Taille de téléchargement: <param=size>",
+        "Downloadgröße: <param=size>",
+        "Descargar tamaño: <param=size>"
     ],
     "UNIT": [
         "Units",
