@@ -25548,7 +25548,7 @@
         "提高30%攻擊魔力+失明無效",
         "공격력과 마력 30% 상승+암흑 무효화",
         "Augmente l'ATT et la MAGIE de 30% et annule cécité",
-        "Erhöht ANG und MAG um 30% und annulliert Blond.",
+        "Erhöht und MAG um 30% und Annulliert Blind.",
         "Aumenta el ATQ y la MAG un 30% y anula ceguera"
     ],
     "227380": [
@@ -28501,7 +28501,7 @@
         null,
         null,
         null,
-        null
+        "Aumenta PM y ESP un 20%, hace que la barra de EL se rellene más rápido y aumenta el ATQ del equipo al llevar armas en una o las dos manos"
     ],
     "228030": [
         "Enable specific abilities to be used twice in one turn",
@@ -29014,6 +29014,22 @@
         "Augmente les PM de 10% et augmente la MAGIE de l'équipement lorsqu'une arme est tenue avec les deux mains",
         "Erhöht MP um 10% und erhöht Ausrüstung-MAG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist.",
         "Aumenta los PM un 10% y aumenta la MAG del equipo al llevar una sola arma en ambas manos"
+    ],
+    "228160": [
+        "Boost ATK by 30% when equipped with a katana or bow",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "228161": [
+        "Boost ATK and MAG by 20%, and boost LB gauge fill rate",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "228182": [
         "Nullify instant KOs",
@@ -30369,307 +30385,307 @@
     ],
     "228620": [
         "Enable specific abilities to be used twice in one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "1回合內可以使用2次特定能力",
+        "1턴 동안 특정 어빌리티 2회 사용 가능",
+        "Permet d'utiliser des aptitudes spéciales à deux reprises en un tour",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde.",
+        "Aprende determinadas habilidades que se pueden usar dos veces en un turno"
     ],
     "228621": [
         "Consume own LB gauge to boost water magic damage dealt by one ally",
-        null,
-        null,
-        null,
-        null,
-        null
+        "消耗自身極限技槽、提高1名隊員的水屬性魔法傷害",
+        "자신의 LB 게이지를 소비하여 아군 1명의 물속성 마법 피해량 상승",
+        "Consomme la jauge de limite du lanceur pour augmenter les dégâts magiques d'eau infligés par un allié",
+        "Verbraucht Limitmeter des Benutzers, um den von einem Verbündeten ausgeteilten Wasserschaden zu erhöhen.",
+        "Consume la barra de EL del usuario para aumentar el daño mágico de agua que recibe un aliado"
     ],
     "228622": [
         "Restore HP and gradually restore MP for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "恢復全體隊員的HP+持續恢復MP",
+        "아군 전체의 HP 회복+MP 서서히 회복",
+        "Restaure les PV et restaure progressivement les PM de tous les alliés",
+        "Regeneriert bei allen Verbündeten allmählich LP und MP.",
+        "Recupera VIT y recupera gradualmente los PM de todos los aliados"
     ],
     "228623": [
         "Consume own LB gauge to restore MP for one ally",
-        null,
-        null,
-        null,
-        null,
-        null
+        "消耗自身的極限技槽、恢復1名隊員的MP",
+        "자신의 LB 게이지를 소비하여 아군 1명의 MP 회복",
+        "Consomme la jauge de limite du lanceur pour restaurer les PM de tous les alliés",
+        "Verbraucht Limitmeter des Benutzers, um MP bei einem Verbündeten zu regenerieren.",
+        "Consume la barra de EL del usuario para recuperar los PM de un aliado"
     ],
     "228624": [
         "Restore MP and boost water resistance for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "恢復全體隊員的MP+提高水屬性耐性",
+        "아군 전체의 MP 회복+물속성 저항력 상승",
+        "Restaure les PM et augmente la résistance à l'eau de tous les alliés",
+        "Regeneriert MP und erhöht Wasserresistenz für alle Verbündeten.",
+        "Recupera PM y aumenta la resistencia al agua de todos los aliados"
     ],
     "228625": [
         "Drain MP and reduce water resistance for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "吸收全體敵人的MP+降低水屬性耐性",
+        "적 전체의 MP 흡수+물속성 저항력 감소",
+        "Aspire les PM et réduit la résistance à l'eau de tous les ennemis",
+        "Stiehlt MP von allen Gegnern und verringert ihre Wasserresistenz.",
+        "Drena los PM y reduce la resistencia al agua de todos los enemigos"
     ],
     "228626": [
         "Boost resistance to poison, blind, sleep, silence, stop, and reductions to DEF and SPR for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的中毒失明睡眠沉默耐性、停止耐性、降低防禦精神的耐性",
+        "아군 전체의 독, 암흑, 수면, 침묵 저항력, 스톱 저항력, 방어력과 정신력 감소 저항력 상승",
+        "Augmente la résistance à poison, cécité, sommeil, silence, stop, et aux réductions de DEF et de PSY pour tous les alliés",
+        "Erhöht Resistenz gegen Gift, Blind, Schlaf, Stumm, Stopp und Resistenz gegen Verringerungen von ABW und PSY bei allen Verbündeten.",
+        "Aumenta la resistencia a veneno, ceguera, sueño, silencio, paro y la reducción a la resistencia de DEF y ESP de todos los aliados"
     ],
     "228627": [
         "Boost resistance to paralysis, confusion, disease, stone, charm, and reductions to ATK and MAG for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的麻痺混亂生病石化耐性、魅惑耐性、降低攻擊魔力的耐性",
+        "아군 전체의 마비, 혼란, 질병, 석화 저항력, 매혹 저항력, 공격력과 마력 감소 저항력 상승",
+        "Augmente la résistance à paralysie, confusion, maladie, pétrification, charme, et aux réductions d'ATT et de MAGIE pour tous les alliés",
+        "Erhöht Resistenz gegen Lähmung, Konfus, Virus, Stein, Bezaubern und Resistenz gegen Verringerungen von ANG und MAG bei allen Verbündeten.",
+        "Aumenta la resistencia a parálisis, confusión, enfermedad, piedra, embrujo y la reducción de ATQ y MAG de todos los aliados"
     ],
     "228628": [
         "(One use every 2 turns) Restore HP and reduce physical damage taken for one turn for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "【每2回合可使用1次】恢復全體隊員的HP+1回合內減輕物理傷害",
+        "[2턴에 1회 사용 가능] 아군 전체의 HP 회복+1턴 동안 물리 피해량 감소",
+        "(Une fois tous les 2 tours) Restaure les PV et réduit les dégâts physiques subis par tous les alliés pendant un tour",
+        "(Einmal in 2 Runden) Regeneriert LP für alle Verbündete und verringert den von ihnen erlittenen physischen Schaden für eine Runde.",
+        "(Un uso cada 2 turnos) Recupera VIT y reduce el daño físico que reciben todos los aliados durante un turno"
     ],
     "228629": [
         "(One use every 2 turns) Restore HP and reduce magic damage taken for one turn for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "【每2回合可使用1次】恢復全體隊員的HP+1回合內減輕魔法傷害",
+        "[2턴에 1회 사용 가능] 아군 전체의 HP 회복+1턴 동안 마법 피해량 감소",
+        "(Une fois tous les 2 tours) Restaure les HP et réduit les dégâts magiques subis par tous les alliés pendant un tour",
+        "(Einmal in 2 Runden) Regeneriert LP für alle Verbündete und verringert eine Runde lang den von ihnen erlittenen magischen Schaden.",
+        "(Un uso cada 2 turnos) Recupera VIT y reduce el daño mágico que reciben todos los aliados durante un turno"
     ],
     "228630": [
         "(One use every 5 turns) Consume own LB gauge to restore HP and reduce damage taken for one turn for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "【每5回合可使用1次】消費自身的極限技槽、恢復全體隊員的HP+1回合內減輕傷害",
+        "[5턴에 1회 사용 가능] 자신의 LB 게이지를 소비하여 아군 전체의 HP 회복+1턴 동안 피해량 감소",
+        "(Une fois tous les 5 tours) Consomme la jauge de limite du lanceur pour restaurer les PV et réduire les dégâts subis par tous les alliés pendant un tour",
+        "(Einmal in 5 Runden) Verbraucht Limitmeter des Benutzers, um bei allen Verbündeten LP zu regenerieren und den von ihnen erlittenen Schaden eine Runde lang zu verringern.",
+        "(Un uso cada 5 turnos) Consume la barra de EL del usuario para recuperar VIT y reduce el daño que reciben todos los aliados durante un turno"
     ],
     "228631": [
         "Consume own LB gauge to restore MP for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "消耗自身的極限技槽、恢復全體隊員的MP",
+        "자신의 LB 게이지를 소비하여 아군 전체의 MP 회복",
+        "Consomme la jauge de limite du lanceur pour restaurer les PM de tous les alliés",
+        "Verbraucht Limitmeter des Benutzers, um bei allen Verbündeten MP zu regenerieren.",
+        "Consume la barra de EL del usuario para recuperar los PM de todos los aliados"
     ],
     "228632": [
         "Boost HP by 10%, MP by 20%,  and restore MP every turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高10%HP、20%MP+每回合恢復MP",
+        "HP 10%, MP 20% 상승+전투 중 매 턴마다 MP 회복",
+        "Augmente les PV de 10%, les PM de 20%, et restaure les PM à chaque tour",
+        "Erhöht LP um 10%, MP um 20% und regeneriert jede Runde MP.",
+        "Aumenta la VIT un 10%, los PM un 20% y recupera PM cada turno"
     ],
     "228633": [
         "Boost SPR and water resistance by 50% when equipped with a staff",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備手杖時提高50%精神、水屬性耐性",
+        "지팡이 장착 시 정신력과 물속성 저항력 50% 상승",
+        "Augmente la PSY et la résistance à l'eau de 50% lorsqu'un bâton est équipé",
+        "Erhöht PSY und Wasserresistenz um 50% wenn mit Stab ausgerüstet.",
+        "Aumenta el ESP y la resistencia al agua un 50% al llevar bastón"
     ],
     "228634": [
         "Chance of curing poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies when receiving a physical or magic attack",
-        null,
-        null,
-        null,
-        null,
-        null
+        "受到物理、魔法攻擊時一定機率治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態",
+        "물리, 마법 공격을 받으면 일정 확률로 아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
+        "Chance de soigner poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés après avoir subi une attaque physique ou magique",
+        "Chance, Gift, Blind, Schlaf, Stumm, Lähmung, Konfus, Virus und Stein bei allen Verbündeten zu heilen, wenn Benutzer von physischen oder magischen Angriff getroffen wird.",
+        "Probabilidad de curar veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a todos los aliados al recibir un ataque físico o mágico"
     ],
     "228635": [
         "Boost DEF and SPR by 50% and boost LB gauge fill rate",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高50%防禦精神+提高極限技石對極限技槽的增加量",
+        "방어력과 정신력 50% 상승+LB 게이지 효율 상승",
+        "Augmente la DEF et la PSY de 50% et augmente le taux de remplissage de la jauge de limite",
+        "Erhöht ABW und PSY um 50% und Limitmeter füllt sich schneller.",
+        "Aumenta la DEF y el ESP un 50% y la barra de EL se llena más rápido"
     ],
     "228636": [
         "Boost HP, MP, DEF, and SPR by 20%, nullify poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and LB gauge fills every turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%HPMP防禦精神+中毒失明睡眠沉默麻痺混亂生病石化無效+每回合增加極限技槽",
+        "HP, MP, 방어력, 정신력 20% 상승+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 무효화+매 턴마다 LB 게이지 증가",
+        "Augmente les PV, les PM, la DEF et la PSY de 20%, annule poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification, et remplit la jauge de limite à chaque tour",
+        "Erhöht LP, MP, ABW und PSY um 20%, annulliert Gift, Blind, Schlaf, Stumm, Lähmung, Konfus, Virus und Stein und Limitmeter füllt sich jede Runde.",
+        "Aumenta VIT, PM, DEF y ESP un 20%, anula veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, y la barra de EL se rellena cada turno"
     ],
     "228637": [
         "Boost MP and SPR by 30%, boost LB gauge fill rate, and restore MP every turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高30%MP精神+提高極限技石對極限技槽的增加量+每回合恢復MP",
+        "MP와 정신력 30% 상승+LB 게이지 효율 상승+전투 중 매 턴마다 MP 회복",
+        "Augmente les PM et la PSY de 30%, augmente le taux de remplissage de la jauge de limite, et restaure les PM à chaque tour",
+        "Erhöht MP und PSY um 30%, Limitmeter füllt sich schneller und regeneriert jede Runde MP.",
+        "Aumenta los PM y el ESP un 30%, la barra de EL se llena más rápido y recupera PM cada turno"
     ],
     "228640": [
         "Reduce damage taken by self for one turn and enable dance of vigor, dance of frailty, and ritual prayer for one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "1回合內減少對自身的傷害+1回合內可使用「強化之舞」「弱化之舞」「獻上祝詞」",
+        "1턴 동안 자신이 받는 피해량 감소+1턴 동안 '강화의 춤', '약화의 춤', '축사 주상' 사용 가능",
+        "Réduit les dégâts subis par le lanceur pendant un tour et permet d'utiliser Danse de la vigueur, Danse de la fragilité et Prière rituelle pendant un tour",
+        "Verringert den von Benutzer erlittenen Schaden für eine Runde und ermöglicht Tanz der Stärke, Tanz der Schwäche und Rituelles Gebet für eine Runde.",
+        "Reduce el daño que recibe el usuario durante un turno y aprende Danza de la energía, Danza de la flaqueza y Oración ritual durante un turno"
     ],
     "228641": [
         "Damage and chance of blinding one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊1名敵人+一定機率施加失明效果",
+        "적 1명에게 피해+일정 확률로 암흑 부여",
+        "Dégâts et chance d'infliger cécité à un ennemi",
+        "Fügt einem Gegner Schaden zu + Chance auf Blind.",
+        "Daña y puede infligir ceguera a un enemigo"
     ],
     "228642": [
         "Deal partial unmitigated magic damage and chance of blinding all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對全體敵人發動無視部分魔法防禦的攻擊+一定機率施加失明效果",
+        "적 전체에 일부 마법 방어 무시 피해+일정 확률로 암흑 부여",
+        "Dégâts magiques en partie fixes et chance d'infliger cécité à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu + Chance auf Blind.",
+        "Daño absoluto parcial mágico y probabilidad de infligir ceguera a todos los enemigos"
     ],
     "228643": [
         "Boost MP and MAG by 30% when equipped with a rod",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備魔棒時提高30%MP、魔力",
+        "홀장 장착 시 MP와 마력 30% 상승",
+        "Augmente les PM et la MAGIE de 30% lorsqu'un sceptre est équipé",
+        "Erhöht MP und MAG um 30% wenn mit einer Rute ausgerüstet.",
+        "Aumenta los PM y la MAG un 30% al llevar vara"
     ],
     "228644": [
         "Nullify paralysis and stone, and boost wind and earth resistance by 30%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "麻痺石化無效+提高30%風土屬性耐性",
+        "마비와 석화 무효화+바람과 땅속성 저항력 30% 상승",
+        "Annule paralysie et pétrification, et augmente la résistance au vent et à la terre de 30%",
+        "Annulliert Lähmung sowie Stein + erhöht Wind- und Erdresistenz um 30%.",
+        "Anula parálisis y piedra, y aumenta la resistencia al viento y a la tierra un 30%"
     ],
     "228650": [
         "Ice damage to one enemy, and boost fire resistance for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對1名敵人發動冰屬性攻擊+提高全體隊員的火屬性耐性",
+        "적 1명에게 얼음속성 피해+아군 전체의 불속성 저항력 상승",
+        "Inflige des dégâts de glace à un ennemi, et augmente la résistance au feu de tous les alliés",
+        "Fügt einem Gegner Eisschaden zu und erhöht Feuerresistenz bei allen Verbündeten.",
+        "Daño de hielo a un enemigo y aumenta la resistencia al fuego de todos los aliados"
     ],
     "228651": [
         "Dark damage to one enemy, and boost light resistance for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對1名敵人發動暗屬性攻擊+提高全體隊員的光屬性耐性",
+        "적 1명에게 어둠속성 피해+아군 전체의 빛속성 저항력 상승",
+        "Inflige des dégâts de ténèbres à un ennemi, et augmente la résistance à la lumière de tous les alliés",
+        "Fügt einem Gegner Dunkelschaden zu und erhöht Lichtresistenz bei allen Verbündeten.",
+        "Daño oscuro a un enemigo y aumenta la resistencia a la luz de todos los aliados"
     ],
     "228652": [
         "Deal partial unmitigated damage and reduce ice and dark resistance for one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對1名敵人發動無視部分防禦的攻擊+降低冰暗屬性耐性",
+        "적 1명에게 일부 방어 무시 피해+얼음과 어둠속성 저항력 감소",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la glace et aux ténèbres d'un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu und verringert dessen Eis- und Dunkelresistenz.",
+        "Daño absoluto parcial y reduce la resistencia al hielo y a la oscuridad de un enemigo"
     ],
     "228653": [
         "Chance of instantly KO'ing or damaging one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "一定機率對1名敵人施加致死一擊效果或傷害",
+        "적 1명에게 피해 또는 일정 확률로 즉사 부여",
+        "Chance de mettre instantanément KO ou d'infliger des dégâts à un ennemi",
+        "Chance, einen Gegner sofort zu besiegen oder ihm Schaden zuzufügen.",
+        "Probabilidad de dejar K.O. al instante o de dañar a un enemigo"
     ],
     "228654": [
         "Damage one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Dégâts à un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo"
     ],
     "228655": [
         "Boost ATK by 50% when equipped with a throwing weapon",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備投擲武器時提高50%攻擊",
+        "투척무기 장착 시 공격력 50%상승",
+        "Augmente l'ATT de 50% lorsqu'une arme de jet est équipée",
+        "Erhöht ANG um 50% wenn mit einer Wurfwaffe ausgerüstet.",
+        "Aumenta el ATQ un 50% al llevar arma arrojadiza"
     ],
     "228656": [
         "Boost HP by 20% and chance of evading physical attacks",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%HP+一定機率閃避部分物理攻擊",
+        "HP 20% 상승+일정 확률로 일부 물리 공격 회피",
+        "Augmente les PV de 20% et les chances d'esquiver les attaques physiques",
+        "Erhöht LP um 20% und Chance, physischen Angriffen auszuweichen.",
+        "Aumenta la VIT un 20% y probabilidad de evadir ataques físicos"
     ],
     "228657": [
         "Nullify confusion and restore MP every turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "混亂無效+每回合恢復MP",
+        "혼란 무효화+전투 중 매 턴마다 MP 회복",
+        "Annule confusion et restaure les PM à chaque tour",
+        "Annulliert Konfus und regeneriert jede Runde MP.",
+        "Anula confusión y recupera PM cada turno"
     ],
     "228658": [
         "Boost ATK by 40% and boost physical damage against plants",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高40%攻擊+物理攻擊時提高對植物系魔物的傷害",
+        "공격력 40% 상승+물리 공격 시 식물형 마물에게 부여하는 피해량 상승",
+        "Augmente l'ATT de 40% et les dégâts physiques infligés aux plantes",
+        "Erhöht ANG um 40% und erhöht physischen Schaden gegen Pflanzen.",
+        "Aumenta el ATQ un 40% y el daño físico contra plantas"
     ],
     "228660": [
         "Damage one enemy and change aqua fist and torrent fist to draconic aqua fist and raging torrent fist next turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "攻擊1名敵人+下一回合「水拳」「流拳」變化為「龍水拳」「激流拳」",
+        "적 1명에게 피해+다음 턴에 '수권', '유권'이 '용수권', '격류권'으로 변화",
+        "Inflige des dégâts à un ennemi, puis change Poing d'eau et Poing des torrents en Poing du dragon d'eau et Poing des torrents déchaînés au tour suivant",
+        "Fügt einem Gegner Schaden zu und ändert in der folgenden Runde Wasserfaust und Strömungsfaust zu Wasserfaust des Drachen und Tobende Strömungsfaust.",
+        "Daña a un enemigo y transforma Puño de agua y Puño en cascada en Puño de agua dragontino y Puño en cascada violenta al turno siguiente"
     ],
     "228661": [
         "Water damage to one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對1名敵人發動水屬性攻擊",
+        "적 1명에게 물속성 피해",
+        "Dégâts d'eau sur un ennemi",
+        "Fügt einem Gegner Wasserschaden zu.",
+        "Daño de agua a un enemigo"
     ],
     "228662": [
         "Reduce water resistance for one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低1名敵人的水屬性耐性",
+        "적 1명의 물속성 저항력 감소",
+        "Réduit la résistance à l'eau d'un ennemi",
+        "Verringert Wasserresistenz bei einem Gegner.",
+        "Reduce la resistencia al agua de un enemigo"
     ],
     "228663": [
         "Boost HP by 20% and water resistance by 30%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%HP、30%水屬性耐性",
+        "HP 20%, 물속성 저항력 30% 상승",
+        "Augmente les PV de 20% et la résistance à l'eau de 30%",
+        "Erhöht LP um 20% und Wasserresistenz um 30%.",
+        "Aumenta la VIT un 20% y la resistencia al agua un 30%"
     ],
     "228670": [
         "Restore MP every turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "每回合恢復MP",
+        "전투 중 매 턴마다 MP 회복",
+        "Restaure les PM à chaque tour",
+        "Regeneriert jede Runde MP.",
+        "Recupera PM cada turno"
     ],
     "228671": [
         "Boost water resistance by 50%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高50%水屬性耐性",
+        "물속성 저항력 50%상승",
+        "Augmente la résistance à l'eau de 50%",
+        "Erhöht Wasserresistenz um 50%.",
+        "Aumenta la resistencia al agua un 50%"
     ],
     "228850": [
         "Boost EXP obtained from battle",
@@ -30678,6 +30694,14 @@
         "Augmente l'EXP obtenue au combat",
         "Erhöht im Kampf erhaltene EXP.",
         "Aumenta la EXP que se consigue en los combates"
+    ],
+    "228915": [
+        "Enable bushido triple arts for one turn at the beginning of battle, change LB effects, boost ATK and DEF when HP falls below a certain point, and boost equipment ATK when a single weapon is equipped in both hands",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "230010": [
         "Boost ATK by 40% when equipped with a sword, katana, or spear, boost physical and magic damage against humans, and enable or not to [B]e",
@@ -42289,171 +42313,171 @@
     ],
     "508640": [
         "Enable specific abilities to be used twice in one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "1回合內可以使用2次特定能力",
+        "1턴 동안 특정 어빌리티 2회 사용 가능",
+        "Permet d'utiliser des aptitudes spéciales à deux reprises en un tour",
+        "Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde.",
+        "Aprende determinadas habilidades que se pueden usar dos veces en un turno"
     ],
     "508641": [
         "(One use every 2 turns) Restore HP and reduce physical damage taken for one turn for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "【每2回合可使用1次】恢復全體隊員的HP+1回合內減輕物理傷害",
+        "[2턴에 1회 사용 가능] 아군 전체의 HP 회복+1턴 동안 물리 피해량 감소",
+        "(Une fois tous les 2 tours) Restaure les PV et réduit les dégâts physiques subis par tous les alliés pendant un tour",
+        "(Einmal in 2 Runden) Regeneriert LP für alle Verbündete und verringert den von ihnen erlittenen physischen Schaden für eine Runde.",
+        "(Un uso cada 2 turnos) Recupera VIT y reduce el daño físico que reciben todos los aliados durante un turno"
     ],
     "508642": [
         "(One use every 2 turns) Restore HP and reduce magic damage taken for one turn for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "【每2回合可使用1次】恢復全體隊員的HP+1回合內減輕魔法傷害",
+        "[2턴에 1회 사용 가능] 아군 전체의 HP 회복+1턴 동안 마법 피해량 감소",
+        "(Une fois tous les 2 tours) Restaure les PV et réduit les dégâts magiques subis par tous les alliés pendant un tour",
+        "(Einmal in 2 Runden) Regeneriert LP für alle Verbündete und verringert den von ihnen erlittenen magischen Schaden für eine Runde.",
+        "(Un uso cada 2 turnos) Recupera VIT y reduce el daño mágico que reciben todos los aliados durante un turno"
     ],
     "508643": [
         "(One use every 5 turns) Consume own LB gauge to restore HP and reduce damage taken for one turn for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "【每5回合可使用1次】消耗自身的極限技槽、恢復全體隊員的HP+1回合內減輕傷害",
+        "[5턴에 1회 사용 가능] 자신의 LB 게이지를 소비하여 아군 전체의 HP 회복+1턴 동안 피해량 감소",
+        "(Une fois tous les 5 tours) Consomme la jauge de limite du lanceur pour restaurer les PV et réduire les dégâts subis par tous les alliés pendant un tour",
+        "(Einmal in 5 Runden) Verbraucht Limitmeter des Benutzers, um bei allen Verbündeten LP zu regenerieren und den von ihnen erlittenen Schaden für eine Runde zu verringern.",
+        "(Un uso cada 5 turnos) Consume la barra de EL del usuario para recuperar VIT y reduce el daño que reciben todos los aliados durante un turno"
     ],
     "508644": [
         "Chance of curing poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies when receiving a physical or magic attack",
-        null,
-        null,
-        null,
-        null,
-        null
+        "受到物理、魔法攻擊時一定機率治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態",
+        "물리, 마법 공격을 받으면 일정 확률로 아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
+        "Chance de soigner poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés après avoir subi une attaque physique ou magique",
+        "Chance, Gift, Blind, Schlaf, Stumm, Lähmung, Konfus, Virus und Stein bei allen Verbündeten zu heilen, wenn Benutzer von physischen oder magischen Angriff getroffen wird.",
+        "Probabilidad de curar veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a todos los aliados al recibir un ataque físico o mágico"
     ],
     "508650": [
         "Boost ATK, DEF, MAG, and SPR for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的攻擊防禦魔力精神",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés",
+        "Erhöht ANG, ABW, MAG und PSY bei allen Verbündeten.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados"
     ],
     "508651": [
         "Reduce ATK, DEF, MAG, and SPR for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低全體敵人的攻擊防禦魔力精神",
+        "적 전체에 공격력, 방어력, 마력, 정신력 감소",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis",
+        "Verringert ANG, ABW, MAG und PSY bei allen Gegnern.",
+        "Reduce ATQ, DEF, MAG y ESP de todos los enemigos"
     ],
     "508652": [
         "Reduce damage taken by self for one turn and enable oracle of victory, oracle of defeat, and barrier hymn for one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "1回合內減輕對自身的傷害+1回合內可使用「勝利的神諭」「敗北的神諭」「防壁讚歌」",
+        "1턴 동안 자신이 받는 피해량 감소+1턴 동안 '승리의 신탁', '패배의 신탁', '대벽의 찬가' 사용 가능",
+        "Réduit les dégâts subis par le lanceur pendant un tour et permet d'utiliser Oracle de la victoire, Oracle de la défaite et Cantique protecteur pendant un tour",
+        "Verringert den von Benutzer erlittenen Schaden für eine Runde und ermöglicht Orakel des Triumphs, Orakel der Niederlage und Barrierenhymne für eine Runde.",
+        "Reduce el daño que recibe el usuario durante un turno y aprende Oráculo de la victoria, Oráculo de la derrota y Cántico protector durante un turno"
     ],
     "508653": [
         "Boost ATK, DEF, MAG, and SPR for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體敵人的攻擊防禦魔力精神",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés",
+        "Erhöht ANG, ABW, MAG und PSY bei allen Verbündeten.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados"
     ],
     "508654": [
         "Reduce ATK, DEF, MAG, and SPR for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低全體敵人的攻擊防禦魔力精神",
+        "적 전체에 공격력, 방어력, 마력, 정신력 감소",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis",
+        "Verringert ANG, ABW, MAG und PSY bei allen Gegnern.",
+        "Reduce ATQ, DEF, MAG y ESP de todos los enemigos"
     ],
     "508655": [
         "Reduce damage taken by self for one turn and enable victorious anthem, dirge of the vanquished, and miraculous prayer for one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "1回合內減輕對自身的傷害+1回合內可使用「勝者的讚美歌」「敗者的葬送曲」「奇蹟祈願」",
+        "1턴 동안 자신이 받는 피해량 감소+1턴 동안 '승자의 찬미가', '패자의 장송곡', '기적 기원' 사용 가능",
+        "Réduit les dégâts subis par le lanceur pendant un tour et permet d'utiliser Hymne victorieux, Requiem des vaincus et Prière miraculeuse pendant un tour",
+        "Verringert den von Benutzer erlittenen Schaden für eine Runde und ermöglicht Lobgesang der Sieger, Trauermarsch der Verlierer und Wundersames Gebet für eine Runde.",
+        "Reduce el daño que recibe el usuario durante un turno y aprende Himno de la victoria, Réquiem de los derrotados y Oración milagrosa durante un turno"
     ],
     "508656": [
         "Boost ATK, DEF, MAG, and SPR for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高全體隊員的攻擊防禦魔力精神",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés",
+        "Erhöht ANG, ABW, MAG und PSY bei allen Verbündeten.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados"
     ],
     "508657": [
         "Reduce ATK, DEF, MAG, and SPR for all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低全體敵人的攻擊防禦魔力精神",
+        "적 전체에 공격력, 방어력, 마력, 정신력 감소",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis",
+        "Verringert ANG, ABW, MAG und PSY bei allen Gegnern.",
+        "Reduce ATQ, DEF, MAG y ESP de todos los enemigos"
     ],
     "508658": [
         "Reduce damage taken by self for one turn and enable extraordinary phenomenon for one turn",
-        null,
-        null,
-        null,
-        null,
-        null
+        "1回合內減輕對自身的傷害+1回合內可使用「天變地異」",
+        "1턴 동안 자신이 받는 피해량 감소+1턴 동안 '천재지변' 사용 가능",
+        "Réduit les dégâts subis par le lanceur pendant un tour et permet d'utiliser Phénomène extraordinaire pendant un tour",
+        "Verringert den von Benutzer erlittenen Schaden für eine Runde und ermöglicht Kataklysmus für eine Runde.",
+        "Reduce el daño que recibe el usuario durante un turno y aprende Fenómeno extraordinario durante un turno"
     ],
     "508659": [
         "Reduce ATK, DEF, MAG, and SPR for all enemies, and boost ATK, DEF, MAG, and SPR for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低全體敵人的攻擊防禦魔力精神+提高全體隊員的攻擊防禦魔力精神",
+        "적 전체에 공격력, 방어력, 마력, 정신력 감소+아군 전체의 공격력, 방어력, 마력, 정신력 상승",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis et augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés",
+        "Verringert ANG, ABW, MAG und PSY bei allen Gegnern und erhöht ANG, ABW, MAG und PSY bei allen Verbündeten.",
+        "Reduce ATQ, DEF, MAG y ESP de todos los enemigos y aumenta ATQ, DEF, MAG y ESP de todos los aliados"
     ],
     "508660": [
         "Water damage to one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對1名敵人發動水屬性攻擊",
+        "적 1명에게 물속성 피해",
+        "Dégâts d'eau sur un ennemi",
+        "Fügt einem Gegner Wasserschaden zu.",
+        "Daño de agua a un enemigo"
     ],
     "508661": [
         "Deal partial unmitigated water damage to one enemy and enable occult - draconic aqua fist to be used once",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對1名敵人發動水屬性無視部分防禦的攻擊+可使用1次「奧義·龍王水拳」",
+        "적 1명에게 물속성 일부 방어 무시 피해+'오의·용왕수권' 1회 사용 가능",
+        "Inflige des dégâts d'eau en partie fixes à un ennemi et permet d'utiliser Arcane secrète du dragon d'eau une fois",
+        "Fügt einem Gegner teilweise direkten Wasserschaden zu und ermöglicht einmalige Anwendung von Okkult - Wasserfaust des Drachen.",
+        "Daño absoluto parcial de agua a un enemigo y aprende Misterios del puño de agua dragontino una vez"
     ],
     "508662": [
         "Deal partial unmitigated water damage to all enemies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "對全體敵人發動水屬性無視部分防禦的攻擊",
+        "적 전체에 물속성 일부 방어 무시 피해",
+        "Inflige des dégâts d'eau en partie fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Wasserschaden zu.",
+        "Daño absoluto parcial de agua a todos los enemigos"
     ],
     "508663": [
         "Reduce water resistance for one enemy",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低1名敵人的水屬性耐性",
+        "적 1명의 물속성 저항력 감소",
+        "Réduit la résistance à l'eau d'un ennemi",
+        "Verringert Wasserresistenz eines Gegners.",
+        "Reduce la resistencia al agua de un enemigo"
     ],
     "508664": [
         "Reduce water resistance for all enemies, and enable arcane - raging torrent fist to be used once",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低全體敵人的水屬性耐性+可使用1次「秘義·激鬥流拳」",
+        "적 전체에 물속성 저항력 감소+'비의·격투류권' 1회 사용 가능",
+        "Réduit la résistance à l'eau de tous les ennemis et permet d'utiliser Art secret des torrents déchaînés une fois",
+        "Verringert Wasserresistenz bei allen Gegnern und ermöglicht einmalige Anwendung von Arkankunst - Tobende Strömungsfaust.",
+        "Reduce la resistencia al agua de todos los enemigos y aprende Arte secreto del puño en cascada violenta una vez"
     ],
     "508665": [
         "Reduce water resistance for all enemies, and cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies",
-        null,
-        null,
-        null,
-        null,
-        null
+        "降低全體敵人的水屬性耐性+治療全體隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態",
+        "적 전체에 물속성 저항력 감소+아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
+        "Réduit la résistance à l'eau de tous les ennemis et soigne poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés",
+        "Verringert Wasserresistenz bei allen Gegnern und heilt Gift, Blind, Schlaf, Stumm, Lähmung, Konfus, Virus und Stein bei allen Verbündeten.",
+        "Reduce la resistencia al agua de todos los enemigos y cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a todos los aliados"
     ],
     "509310": [
         "Boost DEF by 20%, reduce physical damage taken every turn, and boost damage of certain abilities",
@@ -49735,6 +49759,22 @@
         "Blitzschaden, ein Ziel",
         "Daño de rayo a un enemigo"
     ],
+    "707306": [
+        "Boost ATK and MAG by 20%, boost ATK by 60% when equipped with a katana, and boost MAG by 30% when equipped with a throwing weapon",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "707307": [
+        "Boost ATK and MAG by 20%, boost MAG by 60% when equipped with a short sword, boost ATK by 60% when equipped with a katana, and boost ATK and MAG by 30% when equipped with a throwing weapon",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "707308": [
         "Damage and reduce lightning resistance for all enemies",
         "攻擊全體敵人+降低雷屬性攻擊",
@@ -56984,7 +57024,7 @@
         "Reduce DEF y res. al viento de un enemigo"
     ],
     "910845": [
-        "Boost all elemental resistances, and SPR when equipped with a light shield",
+        "Boost fire, ice, lightning, water, wind, earth, light, and dark resistance by 20%, and boost SPR when equipped with a light shield",
         "提高全屬性耐性+裝備輕盾時提高精神",
         "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승+경방패 장착 시 정신력 상승",
         "Augmente toutes les résistances élémentaires et la PSY lorsqu'un bouclier léger est équipé",
@@ -61954,7 +61994,7 @@
     "911467": [
         "Boost HP by 30% and fire and dark resistance by 50%, and boost DEF and SPR when equipped with a mace",
         "提高30%HP+提高50%火暗屬性耐性+裝備權杖時提高防禦精神",
-        "HP 30% 상승+불과 어둠속성 저항력 50% 상승+메이스 장착 시 방어력과 정신력 50% 상승",
+        "HP 30% 상승+불과 어둠속성 저항력 50% 상승+메이스 장착 시 방어력과 정신력 상승",
         "Augmente les PV de 30%, la résistance au feu et aux ténèbres de 50% et la DEF et la PSY lorsqu'une masse est équipée.",
         "Erhöht LP um 30%, Feuer- und Dunkelresistenz um 50% und erhöht ABW und PSY wenn mit einer Keule ausgerüstet.",
         "Aumenta la VIT un 30% y la resistencia al fuego y a la oscuridad un 50%, también aumenta la DEF y el ESP al llevar maza"
@@ -62213,7 +62253,7 @@
         "단검, 검, 도끼 또는 격투무기 장착 시 공격력 상승[루시우스 전용]",
         "Augmente l'ATT lorsqu'une épée courte, une épée, une hache ou des poings sont équipés (Lucius uniquement)",
         "Erhöht ANG wenn mit Kurzschwert, Schwert, Axt oder Faust ausgerüstet (Nur Lucius).",
-        "Aumenta el ATQ al llevar espada corta, espada, hacha o puños (solo Lucius)"
+        "Aumenta el ATQ al llevar espada corta, espada, hacha o puños (exclusiva de Lucius)"
     ],
     "911500": [
         "Chance of evading physical and magic attacks (Lilith only)",
@@ -62221,7 +62261,7 @@
         "일정 확률로 물리, 마법 공격 회피[릴리스 전용]",
         "Chance d'esquiver des attaques physiques et magiques (Lilith uniquement)",
         "Chance, physischen und magischen Angriffen auszuweichen (Nur Lilith).",
-        "Probabilidad de evadir ataques físicos y mágicos (solo Lilith)"
+        "Probabilidad de evadir ataques físicos y mágicos (exclusiva de Lilith)"
     ],
     "911501": [
         "Boost HP, DEF, and SPR by 6%",
@@ -62685,7 +62725,7 @@
         "도 장착 시 공격력 상승 [엘레스페리스 전용]",
         "Augmente l'ATT quand un katana est équipé (Ellesperis uniquement)",
         "Erhöht ANG wenn mit Katana ausgerüstet (Nur Ellesperis).",
-        "Aumenta el ATQ al llevar katana (solo Ellesperis)"
+        "Aumenta el ATQ al llevar katana (exclusiva de Ellesperis)"
     ],
     "911559": [
         "Boost HP by 15% (Beryl only)",
@@ -62693,7 +62733,7 @@
         "HP 15% 상승 [베릴 전용]",
         "Augmente les PV de 15% (Beryl uniquement)",
         "Erhöht LP um 15% (Nur Beryl).",
-        "Aumenta la VIT un 15% (solo Beryl)"
+        "Aumenta la VIT un 15% (exclusiva de Beryl)"
     ],
     "911560": [
         "Boost SPR when equipped with a robe",
@@ -62733,7 +62773,7 @@
         "양손의 장비가 무기 1개일 경우 마력 상승 [베릴 전용]",
         "Augmente la MAGIE de l'équipement lorsqu'une arme est tenue avec les deux mains (Beryl uniquement)",
         "Erhöht Ausrüstung-MAG wenn eine einzige Waffe in beiden Händen ausgerüstet ist (Nur Beryl).",
-        "Aumenta la MAG del equipo al llevar una sola arma en las dos manos (solo Beryl)"
+        "Aumenta la MAG del equipo al llevar una sola arma en las dos manos (exclusiva de Beryl)"
     ],
     "911565": [
         "Chance of countering magic and physical attacks with shadow counter",
@@ -63629,7 +63669,7 @@
         "소환마법 20% 상승 (팝스타 케이티 전용)",
         "Augmente la magie d'invocation de 20% (Popstar Katy uniquement)",
         "Erhöht Rufen-Magie um 20% (nur Popstar Katy)",
-        "Aumenta la magia de invocación un 20% (solo Estrella del pop Katy)"
+        "Aumenta la magia de invocación un 20% (exclusiva de Estrella del pop Katy)"
     ],
     "911678": [
         "Deal fire damage and chance of blinding all enemies",
@@ -65038,5 +65078,461 @@
         "Augmente l'ATT, la DEF et la PSY lorsqu'un arc est équipé et augmente les dégâts physiques contre les démons",
         "Erhöht ANG, ABW und PSY, wenn mit einem Bogen ausgerüstet und erhöht phys. Schaden gegen Dämonen.",
         "Aumenta el ATQ, la DEF y el ESP al llevar arco y aumenta el daño físico contra demonios"
+    ],
+    "911854": [
+        "Restore MP every turn and boost chance of countering (Sophia only)",
+        null,
+        null,
+        null,
+        null,
+        "Recupera PM en cada turno y aumenta la probabilidad de contratacar (exclusiva de Sophia)"
+    ],
+    "911855": [
+        "Boost MAG by 50% and MP by 20% (Sophia only)",
+        null,
+        null,
+        null,
+        null,
+        "Aumenta la MAG un 50% y los PM un 20% (exclusiva de Sophia)"
+    ],
+    "911856": [
+        "View info and reduce DEF and SPR for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911857": [
+        "Deal fire magic damage and reduce fire resistance for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911858": [
+        "Deal ice magic damage and reduce ice resistance for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911859": [
+        "Deal lightning magic damage and reduce lightning resistance for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911860": [
+        "Deal earth magic damage and reduce earth resistance for one enemy",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911861": [
+        "Boost HP and MP by 20%, restore HP and MP and fill LB gauge every turn during battle",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911862": [
+        "Boost HP and MP by 20%, restore HP and MP and fill LB gauge every turn during battle",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911863": [
+        "Chance of countering with lucky star after receiving a physical or magic attack",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911864": [
+        "Nullify sleep, paralysis, and stop",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911865": [
+        "Nullify sleep, paralysis, and stop",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911866": [
+        "Deal earth magic damage and chance of petrifying all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911867": [
+        "Deal lightning magic damage and chance of paralyzing all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911868": [
+        "Chance of countering with first aid after receiving a physical or magic attack",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911869": [
+        "Boost MP by 20% and MAG by 30%, and boost HP and SPR when equipped with a robe",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911870": [
+        "Deal ice magic damage and chance of stopping all enemies",
+        null,
+        null,
+        null,
+        null,
+        "Inflige daño mágico de hielo y probabilidad de parar a todos los enemigos"
+    ],
+    "911871": [
+        "Boost MAG and SPR when equipped with a rod, and boost equipment MAG when a single weapon is equipped in both hands",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911872": [
+        "Boost MP by 20% and MAG and SPR by 30%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911873": [
+        "Deal fire magic damage, and gradually damage all enemies every turn for three turns",
+        null,
+        null,
+        null,
+        null,
+        "Inflige daño mágico de fuego y daña a todos los enemigos poco a poco cada turno durante tres turnos"
+    ],
+    "911874": [
+        "Use certain abilities twice in one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911875": [
+        "Use certain abilities twice in one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911876": [
+        "Use certain abilities three times in one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911877": [
+        "Use certain abilities three times in one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911878": [
+        "Drain HP and MP from all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911879": [
+        "Deal earth damage to all enemies and power up with consecutive use",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911880": [
+        "(One use every 4 turns) Deal damage, restore MP, and boost MAG for caster",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911881": [
+        "(One use every 4 turns) Deal damage, restore MP, and boost MAG for caster",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911882": [
+        "(One use every 4 turns) Reduce fire and dark resistance and deal fire and dark magic damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        "(Un uso cada 4 turnos) Reduce la resistencia al fuego y a la oscuridad e inflige daño mágico de fuego y oscuridad a todos los enemigos"
+    ],
+    "911883": [
+        "(One use every 4 turns) Reduce fire and dark resistance and deal fire and dark magic damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        "(Un uso cada 4 turnos) Reduce la resistencia al fuego y a la oscuridad e inflige daño mágico de fuego y oscuridad a todos los enemigos"
+    ],
+    "911884": [
+        "Deal fire damage to all enemies and power up with consecutive use",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911885": [
+        "Deal dark damage to all enemies and power up with consecutive use",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911886": [
+        "Boost MP by 20% and MAG by 30%, boost equipment MAG when a single weapon is equipped in both hands, and boost damage of certain abilities",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911887": [
+        "Fill LB gauge for caster",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911888": [
+        "Restore HP and MP for caster",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911889": [
+        "Fill LB gauge every turn and boost ATK when equipped with a sword",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911890": [
+        "Boost HP, MP and ATK by 20%, LB damage, and LB gauge fill rate",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911891": [
+        "Enable specific abilities to be used twice in one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911892": [
+        "Enable specific abilities to be used twice in one turn",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911893": [
+        "Damage all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911894": [
+        "Damage one enemy and power up with consecutive use",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911895": [
+        "Boost drop rate of items and rare items from enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911896": [
+        "(One use every 4 turns) Damage all enemies and boost damage of certain abilities",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911897": [
+        "(One use every 4 turns) Damage all enemies and boost damage of certain abilities",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911898": [
+        "Restore MP every turn, boost ATK by 50%, and boost equipment ATK when armed with two one-handed weapons or a single weapon is equipped in both hands",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911899": [
+        "Restore MP and fill LB gauge every turn, and nullify poison, blind, sleep, silence, paralysis, confusion, disease, and stone",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911900": [
+        "Boost MP and SPR by 40% and LB fill rate, and decrease chance of being targeted",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911901": [
+        "Revive and fully restore all allies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911902": [
+        "Reduce damage taken for all allies for three turns",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911903": [
+        "Gradually restore HP and MP for all allies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911904": [
+        "Boost LB gauge fill rate for all allies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911905": [
+        "(One use every 4 turns) Magic damage and chance of stopping all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911906": [
+        "(One use every 4 turns) Magic damage and chance of stopping all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911907": [
+        "Light damage to all enemies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911908": [
+        "(One use every 6 turns) Automatically revive one time and boost DEF and SPR for three turns for all allies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911909": [
+        "(One use every 6 turns) Automatically revive one time and boost DEF and SPR for three turns for all allies",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "911910": [
+        "Boost HP, MP, DEF, MAG by 20% and SPR by 50%",
+        null,
+        null,
+        null,
+        null,
+        null
     ]
 }

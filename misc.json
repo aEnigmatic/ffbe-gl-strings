@@ -327,6 +327,14 @@
         "Fertigkeiten verkaufen",
         "Vender habilidades"
     ],
+    "AC_SORT_TYPE_NAME": [
+        "Ability Name",
+        "能力名稱",
+        "어빌리티명",
+        "Aptitude (nom)",
+        "Fertigkeitenname",
+        "Nombre de la habilidad"
+    ],
     "AD": [
         null,
         "公曆",
@@ -506,50 +514,50 @@
     "ARENA_ENERGY_LAPIS_A": [
         "You can use lapis to <color=red>fully restore your arena orbs</color>.<br>Proceed?",
         "您可以花費寶石 <color=red>完全恢復鬥技場寶珠</color>。要繼續嗎？",
-        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>결투장 구슬을 모두 회복</color><br>할 수 있습니다.<br>회복하시겠습니까?",
-        null,
+        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>결투장 구슬을 모두 회복</color><br>할 수 있습니다.<br>계속하시겠습니까?",
+        "Vous pouvez utiliser des lapis pour <color=red>restaurer entièrement vos orbes d'Arène</color>.<br>Continuer ?",
         "Du kannst Lapis benutzen,<color=red>um deine Arenajuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
-        null
+        "Puedes usar lapis para <color=red>restaurar todos tus orbes de Arena</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_LAPIS_C": [
         "You can use lapis to <color=red>fully restore your colosseum orbs</color>.<br>Proceed?",
         "您可以花費寶石 <color=red>完全恢復競技場寶珠</color>。要繼續嗎？",
-        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>회복하시겠습니까?",
-        null,
+        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>계속하시겠습니까?",
+        "Vous pouvez utiliser des lapis pour <color=red>restaurer entièrement vos orbes de Colisée</color>.<br>Continuer ?",
         "Du kannst Lapis benutzen,<color=red>um deine Kolosseumsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
-        null
+        "Puedes usar lapis para <color=red>restaurar todos tus orbes del Coliseo</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_LAPIS_R": [
         "You can use lapis to <color=red>fully restore your raid orbs</color>.<br>Proceed?",
         "您可以花費寶石 <color=red>完全恢復共鬥寶珠</color>。要繼續嗎？",
-        "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
-        null,
+        "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>계속하시겠습니까?",
+        "Vous pouvez utiliser des lapis pour <color=red>restaurer entièrement vos orbes de Raid</color>.<br>Continuer ?",
         "Du kannst Lapis benutzen,<color=red>um deine Raubzugsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
-        null
+        "Puedes usar lapis para <color=red>restaurar todos tus orbes de Banda</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_RECOVERY": [
         "Energy Recovery",
         "體力恢復",
         "체력 회복",
-        null,
+        "Récupération d'endurance",
         "Energie Wiederherstellen",
-        null
+        "Recuperarción de energía"
     ],
     "ARENA_ENERGY_RESTORE": [
         "Use lapis or an item<br>to restore energy?",
         "要使用寶石或道具<br>恢復體力嗎？",
         "라피스 또는 아이템을 사용하여<br>체력을 회복하시겠습니까?",
-        null,
+        "Voulez-vous utiliser des lapis ou un objet<br>pour restaurer votre endurance ?",
         "Lapis oder einen Gegenstand benutzen,<br>um Energie wiederherzustellen?",
-        null
+        "¿Quieres usar lapis o un objeto<br>para recuperar energía?"
     ],
     "ARENA_ENERGY_RESTORE_E": [
         "Use % energy recovery item(s) to restore % orb(s)?",
         "要使用 % 個恢復道具來恢復 % 個寶珠嗎？",
         "% 체력 회복 아이템을 사용하여 구슬을 % 회복하시겠습니까?",
-        null,
-        null,
-        null
+        "Utiliser % objet(s) de restauration pour récupérer % orbe(s) ?",
+        "% Gegenstand/Gegenstände zur Energiewiederherstellung benutzen, um % Juwel(en) wiederherzustellen?",
+        "¿Quieres restaurar % orbe(s) utilizando % objeto(s) de recuperación?"
     ],
     "ARENA_FRIEND_ADD_CONFIRM": [
         "Send a friend request to your opponent?",
@@ -562,26 +570,26 @@
     "ARENA_INSUFFICIENT_A": [
         "Insufficient Arena Orbs",
         "鬥技場寶珠不足",
-        "격투장 구슬 부족",
-        null,
+        "결투장 구슬 부족",
+        "Orbes d'Arène insuffisants",
         "Ungenügend Arenajuwelen",
-        null
+        "Orbes de Arena insuficientes"
     ],
     "ARENA_INSUFFICIENT_C": [
         "Insufficient Colosseum Orbs",
         "競技場寶珠不足",
         "투기장 구슬 부족",
-        null,
+        "Orbes de Colisée insuffisants",
         "Ungenügend Kolosseumsjuwelen",
-        null
+        "Orbes del Coliseo insuficientes"
     ],
     "ARENA_INSUFFICIENT_R": [
         "Insufficient Raid Orbs",
         "共鬥寶珠不足",
         "레이드 구슬 부족",
-        null,
+        "Orbes de raid insuffisants",
         "Ungenügend Raubzugsjuwelen",
-        null
+        "Orbes de Banda insuficientes"
     ],
     "ARENA_PARTY_EDIT": [
         "Manage Arena Party",
@@ -1198,6 +1206,14 @@
         "Les mineurs nécessitent une autorisation<br>parentale afin d'acheter des lapis.<br><br>Si vous avez au moins 18 ans<br>ou que vous avez  la permission de vos parents,<br>appuyez sur Acheter.",
         "Minderjährige benötigen eine elterliche Erlaubnis,<br>um Lapis zu kaufen.<br><br>Wenn du über 20 Jahre alt bist<br>oder die Erlaubnis deiner Eltern hast,<br>klicke bitte auf Kaufen.",
         "Es necesario que los menores cuenten con<br>consentimiento paterno para comprar lapis.<br><br>Si eres mayor de 18 años<br>o tienes permiso de tus padres,<br>toca Comprar."
+    ],
+    "BUY_COIN_END_APPLIED_MSG": [
+        "There was an interruption while processing your last order, but the purchase has been completed and your lapis has been properly credited.",
+        "前一次的購入手續雖然被中斷了，但是購入程序已經完成。<br>寶石已經正常寄送，請確認。",
+        "이전 주문 처리가 중단되었으나 구매는 완료되었습니다.<br>라피스는 정상적으로 지급되었으니 확인을 부탁드립니다.<br>",
+        "Votre dernière commande a été interrompue, mais votre achat a bien été finalisé et vos lapis ont bien été crédités.",
+        "Bei der Verarbeitung deiner letzten Bestellung kam es zu einer Unterbrechung, dein Kauf wurde jedoch abgeschlossen und deine Lapis korrekt angerechnet.",
+        "Hemos tenido algunas dificultades al tramitar tu última compra, pero la transacción se ha realizado correctamente y hemos abonado los lapis adquiridos en tu cuenta."
     ],
     "BUY_COIN_END_CANCEL_MSG": [
         "Purchase canceled.",
@@ -2883,8 +2899,8 @@
         "Item Name",
         "道具名稱",
         "아이템명",
-        "Nom objet",
-        "Gegenstand-Name",
+        "Objet (nom)",
+        "Gegenstandsname",
         "Nombre del objeto"
     ],
     "EQUIP_SORT_TYPE_TYPE": [
@@ -2990,6 +3006,22 @@
         "Vous ne pouvez pas obtenir de matériaux supplémentaires.<br><br>Veuillez augmenter le nombre maximum de matériaux disponibles, ou bien vendre les matériaux en trop.",
         "Du kannst keine weiteren Materialien tragen. <br><br>Erhöhe die Kapazität oder verkaufe Materialien.",
         "No puedes llevar más materiales.<br><br>Aumenta tu capacidad o vende materiales."
+    ],
+    "ERROR_NORMAL_UNIT_OVER_MSG": [
+        "<color=255:255:0>Unit capacity</color> has been reached.<br>Please either increase your capacity, or fuse or sell unneeded units.",
+        "<color=255:255:0>持有兵員</color>到達了上限。<br>請擴張兵員欄，也可以將<color=255:255:0>兵員</color>進行合成<br>或販售。",
+        "<color=255:255:0>보유 가능한 유닛 수량</color>이 가득 찼습니다.<br>칸을 확장하거나, <color=255:255:0>유닛</color>을 합성<br>또는 판매하십시오.",
+        "Vous avez atteint le <color=255:255:0>nombre maximum d'unités</color>.<br>Veuillez en augmenter la limite, fusionner ou vendre celles dont vous n'avez plus l'utilité.",
+        "<color=255:255:0>Einheitenkapazität</color> wurde erreicht.<br>Bitte erhöhe entweder deine Kapazität, oder fusioniere bzw. verkaufe Einheiten, die du nicht länger benötigst.",
+        "Has alcanzado el <color=255:255:0>límite de unidades</color>.<br>Aumenta tu capacidad o fusiona o vende unidades que no necesites."
+    ],
+    "ERROR_OTHER_UNIT_OVER_MSG": [
+        "<color=255:255:0>Fusion/Sale unit capacity</color> has been reached. Please either increase your capacity, or fuse or sell unneeded units.",
+        "<color=255:255:0>強化・販售兵員的持有數</color>到達了上限。請將<color=255:255:0>兵員</color>進行合成或販售。",
+        "<color=255:255:0>보유 가능한 강화용·판매용 유닛 수량</color>이 가득 찼습니다.<color=255:255:0>유닛</color>을 합성 또는 판매하십시오.",
+        "<color=255:255:0>Vous avez atteint le <color=255:255:0>nombre maximum de fusion/vente d'unités</color>. Veuillez en augmenter la limite, fusionner ou vendre celles dont vous n'avez plus l'utilité.",
+        "<color=255:255:0>Einheitenkapazität für Verbesserung/Verkauf</color> wurde erreicht. Bitte erhöhe entweder deine Kapazität, oder fusioniere bzw. verkaufe Einheiten, die du nicht länger benötigst.",
+        "Has alcanzado el <color=255:255:0>límite de unidades para fusionar/vender</color>. Aumenta tu capacidad o fusiona o vende unidades que no necesites."
     ],
     "ERROR_SHORTAGE_AP_BUY_LAPIS": [
         "You can use <param=num> lapis to <color=255:0:0>fully restore your energy</color>.<br>Do you want to buy some?",
@@ -3511,6 +3543,14 @@
         "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?br>(Der Zähler für Wahre-Treue-Expeditionen wird nicht aktualisiert.)",
         "¿Quieres intercambiar tus expediciones por %d nueva(s)?<br>(No se restablecerá el número de expediciones de maestro fiel)."
     ],
+    "EXPD_REFRESH_POPUP_MSG5": [
+        "Swap out all normal expeditions for %d new expedition?<br>( Moogle Cave expedition count will not be refreshed. )",
+        "是否要將所有一般探險替換為%d個新遠征？<br>（莫古利洞窟遠征計算並不會刷新。）",
+        "모든 일반 탐험을 신규 %d개 탐험과 교체하시겠습니까?<br>모그리 동굴 탐험 횟수는 초기화되지 않습니다.",
+        "Changez toutes les expéditions normales pour %d nouvelles expéditions ?<br>(Le nombre d'expéditions dans la caverne mog ne sera pas rafraîchi.)",
+        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?br>(Der Zähler für Erkundung der Mogryhöhle wird nicht aktualisiert.)",
+        "¿Quieres intercambiar tus expediciones por %d nueva(s)?<br>(No se restablecerá el número de expediciones a la cueva del moguri)."
+    ],
     "EXPD_REFRESH_POPUP_PROMPT_BUY": [
         "You do not have enough lapis.<br>Do you want to buy some lapis?",
         "您未擁有足夠的寶石。<br>要購買ㄧ些寶石嗎？",
@@ -3632,36 +3672,36 @@
         "Unidad base de 5*"
     ],
     "EXPD_TM_EXPEDITION_ACCELERATION_WARNING": [
-        "<color=255;255;0>TM Expedition cannot be accelerated.</color>",
-        "<color=255;255;0>信賴遠征無法加速。</color>",
-        "<color=255;255;0>트러스트 마스터 탐험은 시간을 단축할 수 없습니다.</color>",
-        "<color=255;255;0>L'expédition de confiance absolue ne peut être accélérée.</color>",
-        "<color=255;255;0>Wahre-Treue-Expeditionen können nicht beschleunigt werden.</color>",
-        "<color=255;255;0>No se puede acelerar la expedición de maestro fiel.</color>"
+        "<color=255:255:0>Moogle Cave Expedition cannot be accelerated.</color>",
+        "<color=255:255:0>莫古利洞窟遠征無法加速。</color>",
+        "<color=255:255:0>모그리 동굴 탐험 시간을 단축할 수 없습니다.</color>",
+        "<color=255:255:0>L'expédition dans la caverne mog ne peut être accélérée.</color>",
+        "<color=255:255:0>Erkundung der Mogryhöhle können nicht beschleunigt werden.</color>",
+        "<color=255:255:0>No se puede acelerar la expedición a la cueva del moguri.</color>"
     ],
     "EXPD_TM_EXPEDITION_ATTEMPTS": [
-        "Daily Attempts: %/%",
-        "每日執行次數：%/%",
-        "일 시도 횟수: %/%회",
-        "Tentatives quotidiennes : %/%",
-        "Tägliche Versuche: %/%",
-        "Intentos diarios: %/%"
+        "Daily Attempts: %d/%d",
+        "每日執行次數：%d/%d",
+        "일 시도 횟수: %d/%d회",
+        "Tentatives quotidiennes : %d/%d",
+        "Tägliche Versuche: %d/%d",
+        "Intentos diarios: %d/%d"
     ],
     "EXPD_TM_EXPEDITION_Duration": [
-        "Duration: %h",
-        "持續：%h小時",
-        "소요 시간: %h시간",
-        "Durée : %h",
-        "Dauer: %h",
-        "Duración: %h"
+        "Duration: %s",
+        "持續：%s小時",
+        "소요 시간: %s시간",
+        "Durée : %s",
+        "Dauer: %s",
+        "Duración: %s"
     ],
     "EXPD_TM_EXPEDITION_RESET_TIME": [
-        "Resets in %h",
-        "%h小時後重置",
-        "%h시간 후 초기화",
-        "Remise à zéro dans %h",
-        "Wird zurückgesetzt in %h",
-        "Se restablecerá en %h"
+        "Resets in %s",
+        "%s小時後重置",
+        "%s시간 후 초기화",
+        "Remise à zéro dans %s",
+        "Wird zurückgesetzt in %s",
+        "Se restablecerá en %s"
     ],
     "EXPD_TM_EXPEDITION_SORT": [
         "Trust Value",
@@ -3872,14 +3912,6 @@
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de invocación de la Fan Festa 2018, kupó!"
     ],
     "EXPLAIN_REWARD_1018": [
-        "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
-        "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
-        "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
-        "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets sélectionneurs de la Fan Festa 2018, kupo !",
-        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
-        "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
-    ],
-    "EXPLAIN_REWARD_1019": [
         "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
         "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
         "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
@@ -5734,6 +5766,14 @@
         "\"</color>)\"",
         "„</color>)“",
         "</color>)"
+    ],
+    "ITEM_EXCHANGE_SUBHEADER": [
+        "Item Exchange",
+        "道具交換",
+        "아이템 교환",
+        "Échange d'objets",
+        "Gegenstandstausch",
+        "Intercambio de objetos"
     ],
     "ITEM_FILTER_TITLE_EQUIP_POSSIBLE": [
         "Equippable",
@@ -12809,27 +12849,27 @@
     ],
     "Pop_Up_Account_Binding_Error_Invalid_Account": [
         "Invalid account type: <param=id>",
-        null,
-        null,
-        null,
-        null,
+        "無效帳號類型：<param=id>",
+        "유효하지 않은 계정 유형: <param=id>",
+        "Type de compte non valide : <param=id>",
+        "Ungültiger Kontotyp: <param=id>",
         null
     ],
     "Pop_Up_Account_Binding_Error_No_Account_Selected": [
         "No login account selected",
-        null,
-        null,
-        null,
-        null,
-        null
+        "未選擇登入帳號",
+        "로그인 계정이 선택되지 않았습니다.",
+        "Aucun compte sélectionné",
+        "Kein Konto zur Anmeldung ausgewählt",
+        "No has seleccionado ninguna cuenta"
     ],
     "Pop_Up_Account_Binding_Error_Unknown": [
         "Unknown error",
-        null,
-        null,
-        null,
-        null,
-        null
+        "未知錯誤",
+        "알 수 없는 오류",
+        "Erreur inconnue",
+        "Unbekannter Fehler",
+        "Error desconocido"
     ],
     "Pop_Up_Account_Binding_First_Time_Pop_up": [
         "You can choose to bind your game account to social media accounts such as <color=0:0:255>Facebook</color> or <color=0:0:255>Google</color>.",
@@ -12849,11 +12889,11 @@
     ],
     "Pop_Up_Account_Binding_Login_Failed": [
         "Unable to log in to <param=login_service><br>Reason: <param=reason>",
-        null,
-        null,
-        null,
-        null,
-        null
+        "無法登入<param=login_service><br>原因：<param=reason>",
+        "<param=login_service>(으)로 로그인 할 수 없습니다.<br>이유: <param=reason>",
+        "Impossible de se connecter à <param=login_service><br>Raison : <param=reason>",
+        "Anmeldung bei <param=login_service> nicht möglich.<br>Grund: <param=reason>",
+        "No se ha podido acceder a <param=login_service><br>Motivo: <param=reason>"
     ],
     "Pop_Up_Account_Binding_Succeeded": [
         "Binding Successful!",
@@ -13431,6 +13471,14 @@
         "<color=255:0:0>Einheiten, die nicht als Gruppenmitglieder eingestellt werden können</color> wurden ausgewählt.<br>Bitte überarbeite eine Guppe.",
         "Se han incluido <color=255:0:0>unidades que no pueden usarse en equipo</color>.<br>Vuelve a formar tu equipo."
     ],
+    "RB_SELECTRIVAL_BAN_UNIT_INCLUDED2": [
+        "Certain units cannot be used in the current arena. Parties which contain an unusable unit cannot be saved as your main party. <br>Please change to a different party.",
+        "在舉辦中的鬥技場設定了無法編輯的兵員。含有無法編輯兵員的隊伍，無法儲存為主要隊伍。<br>請變更隊伍成員。",
+        "현재 개최 중인 결투장에서 편성이 불가능한 유닛이 설정되어 있습니다. 편성 불가능한 유닛이 포함되어 있는 파티는 메인 파티로 저장할 수 없습니다.<br>다른 파티로 변경해 주십시오.",
+        "Certaines unités ne peuvent pas être utilisées dans cette arène. Les groupes contenant une unité inutilisable ne peuvent pas être sauvegardés comme groupe principal. <br>Veuillez sélectionner un groupe différent.",
+        "Einige Einheiten können in der aktuellen Arena nicht verwendet werden. Gruppen, die eine nicht benutzbare Einheit enthalten, könne nicht als Hauptgruppe gespeichert werden. <br>Bitte ändere deine Gruppe.",
+        "Algunas unidades no pueden usarse por el momento en la Arena. Tu grupo principal no puede incluir ninguna unidad que no pueda usarse en la Arena. <br>Elige otro grupo."
+    ],
     "RB_SELECTRIVAL_CONFIRM": [
         "Select an opponent.<br><color=255:0:0>You cannot go back once you've made your selection.",
         "決定對戰對手。<br><color=255:0:0>一旦決定不得更改。",
@@ -13622,6 +13670,14 @@
         "Reprendre la quête",
         "Auftrag neu starten",
         "Resumir misión"
+    ],
+    "RESTART_MISSION_DATA_NOT_FOUND": [
+        "Interrupted quest data not found.<br>Start game from the home screen?",
+        "無法找到任務中斷的資訊。<br>是否要從首頁畫面開始遊戲？",
+        "퀘스트 중단 데이터를 찾을 수 없습니다.<br>홈 화면에서 게임을 다시 시작하시겠습니까?",
+        "Données de quête interrompue introuvables.<br>Voulez-vous lancer le jeu depuis l'écran d'accueil ?",
+        "Unterbrochene Auftragsdaten wurden nicht gefunden.<br>Spiel vom Hauptbildschirm starten?",
+        "No se han encontrado los datos corruptos de la misión.<br>¿Volver al menú principal?"
     ],
     "RESTART_RM_CONFIRM_TEXT": [
         "There is interrupted story event quest data.<br>Resume quest?",
@@ -16547,7 +16603,7 @@
         "<color=255:255:0>Free for the first time</color>, you can <color=255:255:0>reset an esper's training board</color> and return spent SP so that you can retrain your esper.<br>*Reset <color=255:255:0>SP will be added<br>to your total.</color><br>Proceed with reset?",
         "<color=255:255:0>首次無需花費寶石，</color>可將幻獸成長時<br>花費ＳＰ獲得的<color=255:255:0>板，全數<br>重置</color>，並再次<br>進行育成。<br>※重置部分的<color=255:255:0>ＳＰ將全數<br>歸還</color>至持有欄。<br> <br>確定要重置育成板嗎？",
         "<color=255:255:0>첫 초기화 시 라피스를 소모하지 않고</color><br>환수 성장에서 SP를 소모하여<br>획득한 <color=255:255:0>판넬을 모두<br>초기화</color>한 뒤<br>처음부터 다시 육성할 수 있습니다.<br>※초기화한 모든 SP는<br><color=255:255:0> 보유 칸으로 반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
-        "Vous pouvez <color=255:255:0>réinitialiser le panneau d'entraînement</color> d'une chimère<color=255:255:0>gratuitement la première fois</color> et récupérer les PC dépensés afin de pouvoir l'entraîner à nouveau.<br>*Les<color=255:255:0> PC réinitialisés seront ajoutés<br>à votre total.</color><br>Voulez-vous continuer ?",
+        "Vous pouvez <color=255:255:0>réinitialiser le panneau d'entraînement</color> d'une chimère <color=255:255:0>gratuitement la première fois</color> et récupérer les PC dépensés afin de pouvoir l'entraîner à nouveau.<br>*Les<color=255:255:0> PC réinitialisés seront ajoutés<br>à votre total.</color><br>Voulez-vous continuer ?",
         "<color=255:255:0>Beim ersten Mal kostenlos</color>. Du kannst <color=255:255:0>die Trainingsliste eines Espers zurücksetzen</color>und verbrauchte SP wiederherstellen, um deine Esper erneut zu trainieren.<br>*Zurücksetzen <color=255:255:0>der SP wird dem Gesamtbetrag hinzugefügt<br>.</color><br>Mit Zurücksetzen fortfahren?",
         "<color=255:255:0>Como la primera vez es gratis,</color> puedes <br><color=255:255:0>reiniciar completamente el tablero de entrenamiento de tu esper</color><br>y recuperar todos los PA ya usados para entrenarlo de nuevo.<br>*Los PA restablecidos <color=255:255:0>se  añadirán<br>a tu total.</color><br>¿Quieres restablecer los PA?"
     ],
@@ -17542,6 +17598,78 @@
         "Cette unité ne peut pas équiper d'aptitude.",
         "Diese Einheit kann keine Fertigkeiten ausrüsten.",
         "Sin habilidades."
+    ],
+    "UNIT_EXCHANGE_BALANCE": [
+        "Currently held",
+        "現在的持有數",
+        "현재 보유 수량",
+        "Unités possédées",
+        "Derzeit in Besitz",
+        "Unidades adquiridas"
+    ],
+    "UNIT_EXCHANGE_CONFIRM": [
+        "The following units will be exchanged for <param=item_name>.<br>Once exchanged for <param=item_name>, <color=255:255:0>units cannot be reverted to their original state</color>.<br>Do you wish to proceed?",
+        "將以下兵員變換成<param=item_name>。<br>變換成<param=item_name>的話，就<color=255:255:0>無法恢復成兵員</color>。<br>確定要進行變換嗎？",
+        "다음의 유닛을 <param=item_name>으로(로) 변환합니다.<br><param=item_name>으로(로) 변환할 경우, <color=255:255:0>유닛으로 되돌릴 수 없습니다</color>.<br>계속하시겠습니까?",
+        "Les unités suivantes peuvent être échangées contre : <param=item_name>.<br>Une fois échangée contre l'objet suivant : <param=item_name>, <color=255:255:0>les unités ne peuvent pas revenir à leur état originel</color>.<br>Voulez-vous quand même continuer ?",
+        "Die folgenden Einheiten werden gegen <param=item_name> ausgetauscht.<br>Wenn sie einmal gegen <param=item_name> getauscht wurden, <color=255:255:0>können Einheiten nicht mehr in ihren ursprünglichen Zustand zurückversetzt werden</color>.<br>Möchtest du fortfahren?",
+        "Las siguientes unidades se intercambiarán por <param=item_name>.<br>Una vez las intercambies por <param=item_name>, <color=255:255:0>no podrás volver atrás</color>.<br>¿Seguro que quieres continuar?"
+    ],
+    "UNIT_EXCHANGE_CONFIRM_BALANCE_LIMIT": [
+        "Unable to perform exchange, as <color=255:255:0><param=item_name></color> capacity has been reached.<br> <br><param=item_name> capacity:",
+        "<color=255:255:0><param=item_name></color>超出了持有數的上限，因此無法進行變換。<br> <br><param=item_name>的持有數上限：",
+        "<color=255:255:0><param=item_name></color>의 보유 한도를 초과하여 변환할 수 없습니다.<br> <br><param=item_name>의 보유 한도:",
+        "Impossible de procéder à l'échange car le nombre maximal de l'objet suivant : <color=255:255:0><param=item_name></color> a été atteint.<br> <br>Nombre maximal de l'objet <param=item_name> :",
+        "Austausch kann nicht durchgeführt werden, da die Kapazität von <color=255:255:0><param=item_name></color> erreicht wurde.<br> <br><param=item_name> Kapazität:",
+        "No se puede proceder al intercambio porque has alcanzado el límite de <color=255:255:0><param=item_name></color>.<br> <br>Capacidad disponible para <param=item_name>:"
+    ],
+    "UNIT_EXCHANGE_CONFIRM_DONE": [
+        "Exchanged units for <param=item_count> <param=item_name>.",
+        "將兵員變換成<br><param=item_name><param=item_count>枚了。",
+        "유닛을<br><param=item_name><param=item_count>으로(로) 변환했습니다.",
+        "Unité échangée pour <param=item_count> <param=item_name>.",
+        "Einheiten wurden gegen <param=item_count> <param=item_name> eingetauscht.",
+        "Se han intercambiado las unidades por <param=item_count> <param=item_name>."
+    ],
+    "UNIT_EXCHANGE_CONFIRM_FINAL": [
+        "Once exchanged for <param=item_name>, <color=255:255:0>units cannot be reverted to their original state</color>.<br> <br>Are you sure you want to proceed? (Final confirmation)",
+        "變換成<param=item_name>的話，就<color=255:255:0>無法恢復成兵員</color>。<br> <br>確定要進行變換嗎？（最後確認）",
+        "<param=item_name>으로(로) 변환할 경우, <color=255:255:0>유닛으로 되돌릴 수 없습니다</color>.<br> <br>정말 계속하시겠습니까? (최종 확인)",
+        "Une fois échangée contre l'objet suivant : <param=item_name>, <color=255:255:0>les unités ne peuvent pas revenir à leur état originel</color>.<br>Êtes-vous vraiment certain de vouloir continuer ? (Dernier avertissement)",
+        "Wenn sie einmal gegen <param=item_name> getauscht wurden, <color=255:255:0>können Einheiten nicht mehr in ihren ursprünglichen Zustand zurückversetzt werden</color>.<br>Möchtest du fortfahren?",
+        "Una vez las intercambies por <param=item_name>, <color=255:255:0>no podrás volver atrás</color>.<br> <br>¿Seguro que quieres continuar? (Confirmación definitiva)"
+    ],
+    "UNIT_EXCHANGE_CONFIRM_SUPER_TRUST_MASTER": [
+        "A unit which has <color=255:255:0>not yet obtained its super trust master</color> has been selected. Once exchanged for <param=item_name>, <color=255:255:0>units cannot be reverted to their original state</color>.<br> <br>Do you wish to proceed?",
+        "選擇了<color=255:255:0>未取得超級信賴度滿點報酬</color>的兵員。變換成<param=item_name>的話，就<color=255:255:0>無法恢復成兵員</color>。<br> <br>確定要進行變換嗎？",
+        "<color=255:255:0>슈퍼 트러스트 마스터 미획득 상태의</color> 유닛을 선택하셨습니다. <param=item_name>으로(로) 변환할 경우, <color=255:255:0>유닛으로 되돌릴 수 없습니다</color>.<br> <br>계속하시겠습니까?",
+        "Une unité n'ayant <color=255:255:0>pas encore obtenu sa récompense de super confiance absolue</color> a été sélectionnée. Une fois échangée contre l'objet suivant : <param=item_name>, <color=255:255:0>les unités ne peuvent pas revenir à leur état originel</color>.<br>Voulez-vous quand même continuer ?",
+        "Eine Einheit, <color=255:255:0>die ihre Super-Treue noch nicht erhalten hat,</color> wurde ausgewählt. Wenn sie einmal gegen <param=item_name> getauscht wurden, <color=255:255:0>können Einheiten nicht mehr in ihren ursprünglichen Zustand zurückversetzt werden</color>.<br>Möchtest du fortfahren?",
+        "Has seleccionado una unidad <color=255:255:0>que aún no ha conseguido su supermaestro fiel</color>. Cuando las intercambies por <param=item_name>, <color=255:255:0>no podrás volver atrás</color>.<br><br>¿Seguro que quieres continuar?"
+    ],
+    "UNIT_EXCHANGE_NOTHING": [
+        "No exchangeable units available.",
+        "未持有可進行變換的兵員",
+        "변환 가능한 유닛이 없습니다",
+        "Aucune unité échangeable disponible.",
+        "Keine austauschbaren Einheiten verfügbar.",
+        "No tienes ninguna unidad que puedas intercambiar."
+    ],
+    "UNIT_EXCHANGE_OBTAIN": [
+        "Receive",
+        "獲得",
+        "획득",
+        "Recevoir",
+        "Erhalten",
+        "Recibir"
+    ],
+    "UNIT_EXCHANGE_SUBHEADER": [
+        "Select Units",
+        "選擇變換兵員",
+        "변환 유닛 선택",
+        "Sélectionner unités",
+        "Einheiten auswählen",
+        "Elegir unidades"
     ],
     "UNIT_FILTER_NOTHING": [
         "No displayable units.",

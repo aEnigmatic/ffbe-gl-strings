@@ -4896,7 +4896,7 @@
         "Mayor aumento de ATQ (poco)<br><color=0:255:0>Mayor aumento de ATQ (poco)<br>Aumenta el daño contra humanos (mucho)</color>"
     ],
     "210510001": [
-        "<color=0:255:0>Nullify charm</color>",
+        "<color=0:255:0>Nullifies charm</color>",
         "<color=0:255:0>魅惑無效</color>",
         "<color=0:255:0>매혹 무효화</color>",
         "<color=0:255:0>Annule charme</color>",
@@ -4904,7 +4904,7 @@
         "<color=0:255:0>Anula embrujo</color>"
     ],
     "210510002": [
-        "Nullify charm<br><color=0:255:0>Boost fire, ice, lightning, water, wind, earth, light, and dark resistance</color>",
+        "Nullifies charm<br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance</color>",
         "魅惑無效<br><color=0:255:0>提高火冰雷水風土光暗屬性耐性</color>",
         "매혹 무효화<br><color=0:255:0>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승</color>",
         "Annule charme<br><color=0:255:0>Augmente la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres</color>",
@@ -7127,8 +7127,16 @@
         null,
         null
     ],
+    "218130002": [
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts lightning resistance reduction (low)</color><br><color=0:255:0>Boosts turns in effect (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "218140001": [
-        "<color=0:255:0>Boosts damage amount (low)</color>",
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
         null,
         null,
         null,
@@ -7136,7 +7144,7 @@
         null
     ],
     "218140002": [
-        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (low)</color>",
+        "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (high)</color>",
         null,
         null,
         null,
@@ -9494,5 +9502,69 @@
         "Amplifie la réduction de la résistance à la glace et à l'eau (beaucoup)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente le nombre de tours de l'effet de Concentration magique (peu)</color>",
         "Steigert Verringerungen von Eis- und Wasserresistenz (hoch)<br><color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für Fokusmagie (gering)</color>",
         "Mayor reducción a la resistencia de hielo y agua (mucho)<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Aumenta la duración de Concentrar magia (poco)</color>"
+    ],
+    "910832001": [
+        "<color=0:255:0>Boosts HP restoration amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910832002": [
+        "Boosts HP restoration amount (great)<br><color=0:255:0>Boosts HP restoration amount (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910833001": [
+        "<color=0:255:0>Boosts burst stones fill rate increase (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910833002": [
+        "Boosts burst stones fill rate increase (low)<br><color=0:255:0>Boosts burst stones fill rate increase (low)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910837001": [
+        "<color=0:255:0>Boosts MP restoration amount (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910837002": [
+        "Boosts MP restoration amount (mid)<br><color=0:255:0>Boosts MP restoration amount (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910845001": [
+        "<color=0:255:0>Boosts DEF when equipped with a light shield</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910845002": [
+        "Boosts DEF when equipped with a light shield<br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)</color><br><color=0:255:0>Boosts HP and MP when equipped with a light shield</color>",
+        null,
+        null,
+        null,
+        null,
+        null
     ]
 }
