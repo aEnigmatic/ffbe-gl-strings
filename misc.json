@@ -2778,7 +2778,7 @@
     "EQUIP_NG_REQUIRED_EQUIPMENT": [
         "Usable when equipping <color=255:255:0>item_name</color>.",
         "裝備<color=255:255:0>item_name</color>時可以使用",
-        "<color=255:255:0>item_name</color> 장착 시에 사용 가능",
+        "<color=255:255:0>item_name</color> 장착 시 사용 가능",
         "Utilisable quand \"<color=255:255:0>item_name</color>\" est équipé(e).",
         "Benutzbar, wenn <color=255:255:0>item_name</color> ausgerüstet ist.",
         "Se puede usar al equiparse con <color=255:255:0>item_name</color>."
@@ -3547,8 +3547,8 @@
         "Swap out all normal expeditions for %d new expedition?<br>( Moogle Cave expedition count will not be refreshed. )",
         "是否要將所有一般探險替換為%d個新遠征？<br>（莫古利洞窟遠征計算並不會刷新。）",
         "모든 일반 탐험을 신규 %d개 탐험과 교체하시겠습니까?<br>모그리 동굴 탐험 횟수는 초기화되지 않습니다.",
-        "Changez toutes les expéditions normales pour %d nouvelles expéditions ?<br>(Le nombre d'expéditions dans la caverne mog ne sera pas rafraîchi.)",
-        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?br>(Der Zähler für Erkundung der Mogryhöhle wird nicht aktualisiert.)",
+        "Changez toutes les expéditions normales pour %d nouvelles expéditions ?<br>(Le nombre d'expéditions dans la caverne mog ne sera pas rafraîchi.)",
+        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?br>(Der Zähler für Expedition in die Mogryhöhle wird nicht aktualisiert.)",
         "¿Quieres intercambiar tus expediciones por %d nueva(s)?<br>(No se restablecerá el número de expediciones a la cueva del moguri)."
     ],
     "EXPD_REFRESH_POPUP_PROMPT_BUY": [
@@ -3647,7 +3647,7 @@
         "In deiner Gruppe befinden sich Einheiten mit 100% Wahrer Treue.<br>Betroffene Einheiten automatisch entfernen?",
         "Tienes unidades con 100% de maestro fiel en tu equipo.<br>¿Quieres eliminarlas automáticamente?"
     ],
-    "EXPD_TM_EXPEDITION_3STAR": [
+    "EXPD_TM_3STAR": [
         "3* Base Unit",
         "★3起始兵員",
         "★3 베이스 유닛",
@@ -3655,7 +3655,7 @@
         "3* Basiseinheit",
         "Unidad base de 3*"
     ],
-    "EXPD_TM_EXPEDITION_4STAR": [
+    "EXPD_TM_4STAR": [
         "4* Base Unit",
         "★4起始兵員",
         "★4 베이스 유닛",
@@ -3663,7 +3663,7 @@
         "4* Basiseinheit",
         "Unidad base de 4*"
     ],
-    "EXPD_TM_EXPEDITION_5STAR": [
+    "EXPD_TM_5STAR": [
         "5* Base Unit",
         "★5起始兵員",
         "★5 베이스 유닛",
@@ -3671,15 +3671,15 @@
         "5* Basiseinheit",
         "Unidad base de 5*"
     ],
-    "EXPD_TM_EXPEDITION_ACCELERATION_WARNING": [
+    "EXPD_TM_ACCELERATION_WARNING": [
         "<color=255:255:0>Moogle Cave Expedition cannot be accelerated.</color>",
         "<color=255:255:0>莫古利洞窟遠征無法加速。</color>",
         "<color=255:255:0>모그리 동굴 탐험 시간을 단축할 수 없습니다.</color>",
         "<color=255:255:0>L'expédition dans la caverne mog ne peut être accélérée.</color>",
-        "<color=255:255:0>Erkundung der Mogryhöhle können nicht beschleunigt werden.</color>",
+        "<color=255:255:0>Expedition in die Mogryhöhle kann nicht beschleunigt werden.</color>",
         "<color=255:255:0>No se puede acelerar la expedición a la cueva del moguri.</color>"
     ],
-    "EXPD_TM_EXPEDITION_ATTEMPTS": [
+    "EXPD_TM_ATTEMPTS": [
         "Daily Attempts: %d/%d",
         "每日執行次數：%d/%d",
         "일 시도 횟수: %d/%d회",
@@ -3687,7 +3687,7 @@
         "Tägliche Versuche: %d/%d",
         "Intentos diarios: %d/%d"
     ],
-    "EXPD_TM_EXPEDITION_Duration": [
+    "EXPD_TM_DURATION": [
         "Duration: %s",
         "持續：%s小時",
         "소요 시간: %s시간",
@@ -3695,7 +3695,7 @@
         "Dauer: %s",
         "Duración: %s"
     ],
-    "EXPD_TM_EXPEDITION_RESET_TIME": [
+    "EXPD_TM_RESET_TIME": [
         "Resets in %s",
         "%s小時後重置",
         "%s시간 후 초기화",
@@ -3703,7 +3703,7 @@
         "Wird zurückgesetzt in %s",
         "Se restablecerá en %s"
     ],
-    "EXPD_TM_EXPEDITION_SORT": [
+    "EXPD_TM_SORT": [
         "Trust Value",
         "信賴度值",
         "트러스트치",
@@ -3711,7 +3711,7 @@
         "Treuewert",
         "Fidelidad"
     ],
-    "EXPD_TM_EXPEDITION_SPECIAL_DESCRIPTION": [
+    "EXPD_TM_SPECIAL_DESCRIPTION": [
         "Explore the moogle cave!",
         "探索莫古利洞窟！",
         "모그리 동굴을 탐험하세요!",
@@ -3912,6 +3912,14 @@
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de invocación de la Fan Festa 2018, kupó!"
     ],
     "EXPLAIN_REWARD_1018": [
+        "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
+        "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
+        "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
+        "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets sélectionneurs de la Fan Festa 2018, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
+        "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
+    ],
+    "EXPLAIN_REWARD_1019": [
         "Here are today's login rewards. Don't forget to use your Fan Festa 2018 Select Tickets, kupo!",
         "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
         "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
@@ -5992,20 +6000,20 @@
         "日本語"
     ],
     "LANGUAGE_KOREAN": [
-        "한국어",
-        "한국어",
+        "Korean",
+        "韓語",
         "한국어",
         "한국어",
         "한국어",
         "한국어"
     ],
     "LANGUAGE_NOTICE": [
-        "Do you want to download the %s language? Estimated download size: %d MB.",
-        "是否要下載%s語言包？<br>下載檔案大小：約%dMB.",
-        "%s 언어팩을 다운로드 하시겠습니까? 다운로드 용량: %d MB",
-        "Voulez-vous télécharger le contenu du jeu en %s ? Taille estimée du téléchargement : %d Mo.",
-        "Möchtest du die Sprache %s herunterladen? Geschätzte Download-Größe: %d MB.",
-        "¿Quieres descargar el idioma %s? Espacio requerido aproximado: %d MB."
+        "Do you want to download the %s language?",
+        "是否要下載%s語言包？",
+        "%s 언어팩을 다운로드 하시겠습니까?",
+        "Voulez-vous télécharger le contenu du jeu en %s ?",
+        "Möchtest du die Sprache %s herunterladen?",
+        "¿Quieres descargar el idioma %s?"
     ],
     "LANGUAGE_PORTUGESE": [
         "Português",
@@ -6511,6 +6519,14 @@
         "Neujahr-Ereignisbelohnungen",
         "Recompensas de evento de Año Nuevo"
     ],
+    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1019": [
+        "STAR OCEAN: ANAMNESIS Event Rewards",
+        "STAR OCEAN: ANAMNESIS 活動獎勵",
+        "STAR OCEAN: ANAMNESIS 이벤트 보상",
+        "Récompenses de la STAR OCEAN: ANAMNESIS",
+        "STAR OCEAN: ANAMNESIS Ereignisbelohnungen",
+        "Recompensas del evento de STAR OCEAN: ANAMNESIS"
+    ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
         "Special Daily Login",
         "每日特別登入",
@@ -6654,6 +6670,14 @@
         "Bonus de connexion de la nouvelle année",
         "Neujahr-Anmeldebonus",
         "Bonificación de inicio de sesión de Año Nuevo"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1019": [
+        "STAR OCEAN: ANAMNESIS Login Bonus",
+        "STAR OCEAN: ANAMNESIS 登入獎勵",
+        "STAR OCEAN: ANAMNESIS 출석 보상",
+        "Bonus de connexion de la STAR OCEAN: ANAMNESIS",
+        "STAR OCEAN: ANAMNESIS Anmeldebonus",
+        "Bonificación de inicio de sesión de STAR OCEAN: ANAMNESIS"
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -12216,12 +12240,12 @@
         "¿Me cambias Lazo de regalo por algo de mi tienda, kupó?"
     ],
     "MST_TOWNSTORE_COMMENT_2": [
-        null,
-        null,
+        "What are you looking to sell?",
+        "想賣什麼呢？",
         "뭘 팔고 싶은데?",
-        null,
-        null,
-        null
+        "Tu cherches à vendre quelque chose ?",
+        "Was möchtest du verkaufen?",
+        "¿Qué quieres vender?"
     ],
     "MST_TOWNSTORE_COMMENT_3": [
         "Come back and see me once you've collected some gift bows, kupo!",
@@ -12800,12 +12824,12 @@
         "Vinculación de la cuenta"
     ],
     "Pop_Up_Account_Binding_About_To_Bind": [
-        "You are about to connect your game account to <color=255:255:0><param=login_service></color>.<br><br>You have a total of <param=num_attempt> attempt(s) left. Once you run out of binding attempt(s), you will no longer be able to bind your game account to <color=255:255:0><param=login_service></color> anymore.<br><br>Do you want to proceed?",
-        "遊戲帳號即將連接至<color=255:255:0><param=login_service></color>帳號。<br>剩餘綁定次數<param=num_attempt>次。如果綁定次數使用完畢，將無法再綁定遊戲帳號至<color=255:255:0><param=login_service></color>帳號。<br>要繼續嗎？",
-        "게임 계정을 <color=255:255:0><param=login_service></color> 계정에 연동하려고 합니다.<br><br>연동 시도 가능 횟수가 총 <param=num_attempt>회 남았습니다. 최대 연동 시도 가능 횟수를 초과하면 게임 계정을 더이상 <color=255:255:0><param=login_service></color> 계정에 연동할 수 없습니다.<br><br>계속 진행하시겠습니까?",
-        "Vous êtes sur le point de connecter votre compte de jeu à <color=255:255:0><param=login_service></color>.<br><br>Il vous reste <param=num_attempt> tentative(s) d'association. Dans l'éventualité où vous épuiseriez toutes vos tentatives d'association, vous serez dans l'incapacité d'associer votre compte de jeu à <color=255:255:0><param=login_service></color>.<br><br>Continuer ?",
-        "Du bist gerade dabei, dein Spielekonto mit <color=255:255:0><param=login_service></color> zu verknüpfen.<br><br>Du  hast insgesamt noch <param=num_attempt> Versuch(e) übrig. Sobald du nicht mehr genügend Verknüpfungsversuche übrig hast, wirst du dein Spielekonto nicht mehr mit <color=255:255:0><param=login_service></color> verknüpfen können.<br><br>Willst du fortfahren?",
-        "Estás a punto de conectar tu cuenta del juego con <color=255:255:0><param=login_service></color>.<br><br>Número de intentos restantes: <param=num_attempt>. Cuando se agoten, ya no podrás vincular tu cuenta del juego con <color=255:255:0><param=login_service></color>.<br><br>¿Quieres continuar?"
+        "You are about to connect your game account to <color=255:255:0><param=login_service></color>.<br><br>You have a total of <param=num_attempt> attempt(s) left. Once you run out of binding attempt(s), you will no longer be able to bind your game account to <color=255:255:0><param=login_service></color>.<br><br> <color=255:0:0>Please take a screenshot of these details before proceeding.</color><br><br>Account Name: <color=255:255:0><param=player_name></color><br>ID: <color=255:255:0><param=friend_id></color><br>Inquiry Code: <color=255:255:0><param=enquiry_id></color><br><br>Do you want to proceed?",
+        "遊戲帳號即將連接至<color=255:255:0><param=login_service></color>帳號。<br>剩餘綁定次數<param=num_attempt>次。如果綁定次數使用完畢，將無法再綁定遊戲帳號至<color=255:255:0><param=login_service></color>帳號。<br><br> <color=255:0:0>在前往下一步之前，請先拍攝此畫面的詳細資訊截圖。</color><br><br>帳號名稱：<color=255:255:0><param=player_name></color><br>ID：<color=255:255:0><param=friend_id></color><br>諮詢代碼：<color=255:255:0><param=enquiry_id></color><br><br>要繼續嗎？",
+        "게임 계정을 <color=255:255:0><param=login_service></color> 계정에 연동하려고 합니다.<br><br>연동 시도 가능 횟수가 총 <param=num_attempt>회 남았습니다. 최대 연동 시도 가능 횟수를 초과하면 게임 계정을 더이상 <color=255:255:0><param=login_service></color> 계정에 연동할 수 없습니다.<br><br><color=255:0:0>계정 연동을 하기 전에 아래의 정보가 기재된 스크린샷을 보관해두시기 바랍니다.</color><br><br>닉네임: <color=255:255:0><param=player_name></color><br>본인 ID: <color=255:255:0><param=friend_id></color><br>문의 코드: <color=255:255:0><param=enquiry_id></color><br><br>계속 진행하시겠습니까?",
+        "Vous êtes sur le point de connecter votre compte de jeu à <color=255:255:0><param=login_service></color>.<br><br>Il vous reste <param=num_attempt> tentative(s) d'association. Dans l'éventualité où vous épuiseriez toutes vos tentatives d'association, vous serez dans l'incapacité d'associer votre compte de jeu à <color=255:255:0><param=login_service></color>.<br><br><color=255:0:0>Veuillez prendre une capture d'écran de ces informations avant de continuer.</color><br><br>Nom du compte : <color=255:255:0><param=player_name></color><br>Identifiant : <color=255:255:0><param=friend_id></color><br>Code client : <color=255:255:0><param=enquiry_id></color><br><br>Continuer ?",
+        "Du bist gerade dabei, dein Spielekonto mit <color=255:255:0><param=login_service></color> zu verknüpfen.<br><br>Du  hast insgesamt noch <param=num_attempt> Versuch(e) übrig. Sobald du nicht mehr genügend Verknüpfungsversuche übrig hast, wirst du dein Spielekonto nicht mehr mit <color=255:255:0><param=login_service></color> verknüpfen können.<br><br> <color=255:0:0>Bitte fertige einen Screenshot von den folgenden Details an, bevor du fortfährst.</color><br><br>Kontoname: <color=255:255:0><param=player_name></color><br>ID: <color=255:255:0><param=friend_id></color><br>Anfrage-ID: <color=255:255:0><param=enquiry_id></color><br><br>Willst du fortfahren?",
+        "Estás a punto de conectar tu cuenta del juego con <color=255:255:0><param=login_service></color>.<br><br>Número de intentos restantes: <param=num_attempt>. Cuando se agoten, ya no podrás vincular tu cuenta del juego con <color=255:255:0><param=login_service></color>.<br><br> <color=255:0:0>Antes de continuar, por favor, haz una captura de pantalla en la que aparezca la siguiente información.</color><br><br>Nombre de cuenta: <color=255:255:0><param=player_name></color><br>ID: <color=255:255:0><param=friend_id></color><br>ID de consulta: <color=255:255:0><param=enquiry_id></color><br><br>¿Quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Choose_Account": [
         "Choose account to bind",
@@ -12843,7 +12867,7 @@
         "Currently logged into: <param=login_service>",
         "目前登錄：<param=login_service>",
         "현재 연동되어 있는 계정: <param=login_service>",
-        "Compte connnecté actuellement : <param=login_service>",
+        "Compte connnecté actuellement : <param=login_service>",
         "Derzeit angemeldet bei: <param=login_service>",
         "Sesión iniciada en: <param=login_service>"
     ],
@@ -12853,7 +12877,7 @@
         "유효하지 않은 계정 유형: <param=id>",
         "Type de compte non valide : <param=id>",
         "Ungültiger Kontotyp: <param=id>",
-        null
+        "Tipo de cuenta no válida: <param=id>"
     ],
     "Pop_Up_Account_Binding_Error_No_Account_Selected": [
         "No login account selected",
@@ -12904,12 +12928,12 @@
         "¡Tus cuentas se han vinculado correctamente!"
     ],
     "Pop_Up_Account_Binding_Unbind": [
-        "You are about to unbind <color=255:255:0><param=login_service></color> from your game account.<br><br>Unbinding will permanently remove the social media account linked and its respective friend list from your game account.<br><br>If no other account is linked, your game account will only be tied to current device.<br><br>Are you <color=255:255:0>SURE</color> you wish to proceed?",
-        "即將解除<color=255:255:0><param=login_service></color>帳號的綁定。<br><br>解除帳號綁定，將會永久刪除遊戲帳號內的社群帳號連接以及好友。<br><br>如果未連接其他帳號，遊戲帳號將被保留於目前使用的裝置上。<br><br>真的要繼續嗎？",
-        "게임 계정을 <color=255:255:0><param=login_service></color> 계정에 연동하지 않으려고 합니다.<br><br>연동을 하지 않으면, 연동되어 있는 소셜 미디어 계정과 각 친구 목록이 영구히 삭제됩니다.<br><br>다른 어떤 계정에도 연동되어 있지 않으면, 게임 계정은 현재 기기에 저장됩니다. <br><br>정말 계속 진행하시겠습니까?",
-        "Vous êtes sur le point de désassocier <color=255:255:0><param=login_service></color> de votre compte de jeu.<br><br>Cette action aura pour effet de supprimer définitivement tout lien entre votre compte de jeu et les réseaux sociaux concernés, y compris les amis importés depuis ces réseaux sociaux.<br><br>Si aucun autre compte n'est associé, votre compte de jeu sera restreint à votre appareil actuel.<br><br>Voulez-vous continuer ?",
-        "Du bist dabei, die Verknüpfiung deines Spielekontos mit <color=255:255:0><param=login_service></color> zu lösen.<br><br>Das Lösen der Verknüpfung wird die Verbindung mit dem Social-Media-Konto und die jeweiligen Freunde dauerhaft von deinem Spielekonto entfernen.<br><br>Wenn kein anderes Konto verbunden ist, wird dein Spielekonto mit deinem derzeitigen Gerät verbunden.<br><br>Willst du <color=255:255:0>WIRKLICH</color> fortfahren?",
-        "Vas a desvincular tu cuenta <color=255:255:0><param=login_service></color> de tu cuenta del juego.<br><br>Al hacerlo, toda la información y amigos que tengas en esta red social se eliminarán de forma permanente.<br><br>Si no has vinculado otra cuenta, solo podrás acceder al juego desde este dispositivo.<br><br>¿SEGURO que quieres continuar?"
+        "You are about to unbind <color=255:255:0><param=login_service></color> from your game account.<br><br>Unbinding will permanently remove the social media account linked and its respective friend list from your game account.<br><br>If no other account is linked, your game account will be tied to your current device. <br><br><color=255:0:0>Please take a screenshot of these details before proceeding.</color><br><br>Account Name: <color=255:255:0><param=player_name></color><br>ID: <color=255:255:0><param=friend_id></color><br>Inquiry Code: <color=255:255:0><param=enquiry_id></color><br><br>Are you <color=255:255:0>SURE</color> you wish to proceed?",
+        "即將解除<color=255:255:0><param=login_service></color>帳號的綁定。<br><br>解除帳號綁定，將會永久刪除遊戲帳號內的社群帳號連接以及好友。<br><br>如果未連接其他帳號，遊戲帳號將被保留於目前使用的裝置上。<br><br>帳號名稱：<color=255:255:0><param=player_name></color><br>ID：<color=255:255:0><param=friend_id></color><br>諮詢代碼：<color=255:255:0><param=enquiry_id></color><br><br><br><color=255:255:0>確定</color>要繼續嗎？",
+        "게임 계정을 <color=255:255:0><param=login_service></color> 계정에 연동하지 않으려고 합니다.<br><br>연동을 하지 않으면, 연동되어 있는 소셜 미디어 계정과 각 친구 목록이 영구히 삭제됩니다.<br><br>다른 어떤 계정에도 연동되어 있지 않으면, 게임 계정은 현재 기기에 저장됩니다. <br><br> <color=255:0:0>계정 연동을 하기 전에 아래의 정보가 기재된 스크린샷을 보관해두시기 바랍니다.</color><br><br>닉네임: <color=255:255:0><param=player_name></color><br>본인 ID: <color=255:255:0><param=friend_id></color><br>문의 코드: <color=255:255:0><param=enquiry_id></color><br><br>계속 진행하시겠습니까?",
+        "Vous êtes sur le point de désassocier <color=255:255:0><param=login_service></color> de votre compte de jeu.<br><br>Cette action aura pour effet de supprimer définitivement tout lien entre votre compte de jeu et les réseaux sociaux concernés, y compris les amis importés depuis ces réseaux sociaux.<br><br>Si aucun autre compte n'est associé, votre compte de jeu sera restreint à votre appareil actuel.<br><br><color=255:0:0>Veuillez prendre une capture d'écran de ces informations avant de continuer.</color><br><br>Nom du compte : <color=255:255:0><param=player_name></color><br>Identifiant : <color=255:255:0><param=friend_id></color><br>Code client : <color=255:255:0><param=enquiry_id></color><br><br><br>Voulez-vous continuer ?",
+        "Du bist dabei, die Verknüpfung deines Spielekontos mit <color=255:255:0><param=login_service></color> zu lösen.<br><br>Das Lösen der Verknüpfung wird die Verbindung mit dem Social-Media-Konto und die jeweiligen Freunde dauerhaft von deinem Spielekonto entfernen.<br><br>Wenn kein anderes Konto verbunden ist, wird dein Spielekonto mit deinem derzeitigen Gerät verbunden.<br><br>Kontoname: <color=255:255:0><param=player_name></color><br>ID: <color=255:255:0><param=friend_id></color><br>Anfrage-ID: <color=255:255:0><param=enquiry_id></color><br><br>Willst du <color=255:255:0>WIRKLICH</color> fortfahren?",
+        "Vas a desvincular tu cuenta <color=255:255:0><param=login_service></color> de tu cuenta del juego.<br><br>Al hacerlo, toda la información y amigos que tengas de esta red social se eliminarán de forma permanente en el juego.<br><br>Si no has vinculado otra cuenta, solo podrás acceder al juego desde este dispositivo. <br><br><color=255:0:0>Antes de continuar, por favor, haz una captura de pantalla en la que aparezca la siguiente información.</color><br><br>Nombre de cuenta: <color=255:255:0><param=player_name></color><br>ID: <color=255:255:0><param=friend_id></color><br>ID de consulta: <color=255:255:0><param=enquiry_id></color><br><br><color=255:255:0>¿SEGURO</color> que quieres continuar?"
     ],
     "Pop_Up_Account_Binding_Used_Up": [
         "You have used up all your binding attempts for <color=255:255:0><param=login_service></color>. You will not be able to bind your game to <color=255:255:0><param=login_service></color> any longer.",
@@ -13677,7 +13701,7 @@
         "퀘스트 중단 데이터를 찾을 수 없습니다.<br>홈 화면에서 게임을 다시 시작하시겠습니까?",
         "Données de quête interrompue introuvables.<br>Voulez-vous lancer le jeu depuis l'écran d'accueil ?",
         "Unterbrochene Auftragsdaten wurden nicht gefunden.<br>Spiel vom Hauptbildschirm starten?",
-        "No se han encontrado los datos corruptos de la misión.<br>¿Volver al menú principal?"
+        "No se han encontrado los datos de la misión pausada.<br>¿Volver al menú principal?"
     ],
     "RESTART_RM_CONFIRM_TEXT": [
         "There is interrupted story event quest data.<br>Resume quest?",
@@ -16693,7 +16717,7 @@
         "퀘스트 중단 정보 삭제",
         "Effacer les données de quête interrompue",
         "Daten zur Auftragsunterbrechung löschen",
-        "Eliminar datos corruptos de la misión"
+        "Eliminar datos de la misión pausada"
     ],
     "SUSPEND_DELETE_MISSION_CONFIRM_TEXT": [
         "You can erase interrupted quest data and return to the home screen.<br>By erasing interrupted quest data, you will lose all <color=255:255:0>units, items, and gil</color> that you obtained during the quest.<br><br>Do you wish to erase the data.",

@@ -6312,7 +6312,7 @@
         null
     ],
     "214820001": [
-        "<color=0:255:0>Boosts damage amount (low)</color>",
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
         null,
         null,
         null,
@@ -6320,7 +6320,7 @@
         null
     ],
     "214820002": [
-        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage increase (low)</color>",
+        "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (high)</color>",
         null,
         null,
         null,
@@ -6344,7 +6344,7 @@
         null
     ],
     "214850001": [
-        "<color=0:255:0>Boosts HP, MP, ATK, DEF, MAG, SPR increases (low)</color>",
+        "<color=0:255:0>Boosts HP, MP, ATK, DEF, MAG, and SPR increases (low)</color>",
         null,
         null,
         null,
@@ -6352,7 +6352,39 @@
         null
     ],
     "214850002": [
-        "Boosts HP, MP, ATK, DEF, MAG, SPR increases (low)<br><color=0:255:0>Boosts ATK when equipped with a large sword</color>",
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR increases (low)<br><color=0:255:0>Boosts ATK when equipped with a large sword</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214870001": [
+        "<color=0:255:0>Nullifies poison and sleep</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214870002": [
+        "Nullifies poison and sleep<br><color=0:255:0>Nullifies silence and stone</color><br><color=0:255:0>Boosts HP</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214880001": [
+        "<color=0:255:0>Boosts chance of countering (low)</color><br><color=0:255:0>Boosts counter damage (great)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214880002": [
+        "Boosts chance of countering (low)<br>Boosts counter damage (great)<br><color=0:255:0>Boosts chance of countering (low)</color><br><color=0:255:0>Boosts counter damage (great)</color>",
         null,
         null,
         null,
@@ -6391,8 +6423,24 @@
         "Verringert MAG-Verringerung (hoch)<br><color=0:255:0>Verringert MAG-Verringerung (hoch)</color><br><color=0:255:0><br>Steigert PSY-Erhöhungen (gering)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
         "Disminuye la reducción de MAG (mucho)<br><color=0:255:0>Disminuye la reducción de MAG (mucho)</color><br><color=0:255:0>Mayor aumento de ESP (poco)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
     ],
+    "214980001": [
+        "<color=0:255:0>Boosts LB gauge fill rate</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "214980002": [
+        "Boosts LB gauge fill rate<br><color=0:255:0>Boosts ATK</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "215000001": [
-        "<color=0:255:0>Boosts ATK increase (low)</color>",
+        "<color=0:255:0>Boosts ATK increase (mid)</color>",
         null,
         null,
         null,
@@ -6400,7 +6448,7 @@
         null
     ],
     "215000002": [
-        "Boosts ATK increase (low)<br><color=0:255:0>Boosts ATK increase</color>",
+        "Boosts ATK increase (mid)<br><color=0:255:0>Boosts ATK increase (mid)</color>",
         null,
         null,
         null,
@@ -6408,7 +6456,15 @@
         null
     ],
     "215030001": [
-        "<color=0:255:0>Boosts damage amount (low)</color>",
+        "<color=0:255:0>Boosts damage amount (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "215030002": [
+        "Boosts damage amount (high)<br><color=0:255:0>Boosts damage amount (high)</color><br><color=0:255:0>Boosts ice resistance reduction (high)</color>",
         null,
         null,
         null,
@@ -6424,7 +6480,7 @@
         null
     ],
     "215040002": [
-        "Boosts ATK and MAG reductions (low)<br><color=0:255:0>Boosts turns in effect (low)</color>",
+        "Boosts ATK and MAG reductions (low)<br><color=0:255:0>Boosts ATK and MAG reductions (low)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
         null,
         null,
         null,
@@ -6432,7 +6488,7 @@
         null
     ],
     "215120001": [
-        "<color=0:255:0>Boosts chance of countering (low)</color>",
+        "<color=0:255:0>Boosts chance of countering (low)</color><br><color=0:255:0>Boosts DEF</color>",
         null,
         null,
         null,
@@ -6440,7 +6496,7 @@
         null
     ],
     "215120002": [
-        "Boosts chance of countering (low)<br><color=0:255:0>Boosts chance of countering (low)<br>Boosts ice resistance</color>",
+        "Boosts chance of countering (low)<br>Boosts DEF<br><color=0:255:0>Boosts chance of countering (low)</color><br><color=0:255:0>Boosts SPR and HP</color><br><color=0:255:0>Boosts ice resistance</color>",
         null,
         null,
         null,
@@ -7190,6 +7246,54 @@
         "Augmente la DEF et la PSY à chaque tour<br><color=0:255:0>Restaure les PM à chaque tour</color>",
         "Erhöht jede Runde ABW und PSY<br><color=0:255:0>Stellt jede Runde MP wieder her</color>",
         "Aumenta DEF y ESP cada turno<br><color=0:255:0>Recupera PM cada turno</color>"
+    ],
+    "219510001": [
+        "<color=0:255:0>Boosts ATK reduction (low)</color><br><color=0:255:0>Boosts DEF increase (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "219510002": [
+        "Boosts ATK reduction (low)<br>Boosts DEF increase (mid)<br><color=0:255:0>Boosts DEF increase (mid)</color><br><color=0:255:0>Boosts turns in effect (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "219520001": [
+        "<color=0:255:0>Add ATK boost effect to enabled abilities - brute smith, anti-mech smith, stone break smith, and exorcist smith</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "219520002": [
+        "Add ATK boost effect to enabled abilities - brute smith, anti-mech smith, stone break smith, and exorcist smith<br><color=0:255:0>Boost enabled duration (mid) of enabled abilities - brute smith, anti-mech smith, stone break smith, and exorcist smith</color><br><color=0:255:0>Boost ATK increase (great) and turns in effect (mid) of enabled abilities - brute smith, anti-mech smith, stone break smith, and exorcist smith</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "219590001": [
+        "<color=0:255:0>Boosts MP and DEF increases (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "219590002": [
+        "Boosts MP and DEF increases (low)<br><color=0:255:0>Boosts MP and DEF increases (low)</color><br><color=0:255:0>Boosts HP</color>",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "220010001": [
         "<color=0:255:0>Boosts damage amount (great)</color>",
@@ -9503,6 +9607,70 @@
         "Steigert Verringerungen von Eis- und Wasserresistenz (hoch)<br><color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für Fokusmagie (gering)</color>",
         "Mayor reducción a la resistencia de hielo y agua (mucho)<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Aumenta la duración de Concentrar magia (poco)</color>"
     ],
+    "910814001": [
+        "<color=0:255:0>Boosts SPR increase (low)</color><br><color=0:255:0>Increases necessary HP (mid)</color><br><color=0:255:0>Boosts SPR increase when active (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910814002": [
+        "Boosts SPR increase (low)<br>Increases necessary HP (mid)<br>Boosts SPR increase when active (mid)<br><color=0:255:0>Boosts SPR increase (low)</color><br><color=0:255:0>Increases necessary HP (low)</color><br><color=0:255:0>Boosts SPR increase when active (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910815001": [
+        "<color=0:255:0>Boosts ATK and DEF increases (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910815002": [
+        "Boosts ATK and DEF increases (mid)<br><color=0:255:0>Boosts ATK and DEF increases (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910818001": [
+        "<color=0:255:0>Boosts SPR when equipped with a robe</color><br><color=0:255:0>Boosts DEF when equipped with heavy armor</color><br><color=0:255:0>Boosts DEF and SPR when equipped with clothes</color><br><color=0:255:0>Boosts DEF and SPR when equipped with light armor</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910818002": [
+        "Boosts SPR when equipped with a robe<br>Boosts DEF when equipped with heavy armor<br>Boosts DEF and SPR when equipped with clothes<br>Boosts DEF and SPR when equipped with light armor<br><color=0:255:0>Boosts HP increase (low)</color><br><color=0:255:0>Boosts SPR increase when equipped with clothes or a robe (high)</color><br><color=0:255:0>Boosts DEF increase when equipped with light or heavy armor (high)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910824001": [
+        "<color=0:255:0>Boosts MAG and SPR increases (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910824002": [
+        "Boosts MAG and SPR increases (mid)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "910832001": [
         "<color=0:255:0>Boosts HP restoration amount (great)</color>",
         null,
@@ -9561,6 +9729,70 @@
     ],
     "910845002": [
         "Boosts DEF when equipped with a light shield<br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)</color><br><color=0:255:0>Boosts HP and MP when equipped with a light shield</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910850001": [
+        "<color=0:255:0>Boosts ATK increase (low)</color><br><color=0:255:0>Nullifies paralysis</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910850002": [
+        "Boosts ATK increase (low)<br>Nullifies paralysis<br><color=0:255:0>Boosts ATK increase (low)</color><br><color=0:255:0>Nullifies confusion</color><br><color=0:255:0>Boosts physical damage against dragons and avian monsters</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910859001": [
+        "<color=0:255:0>Boosts ATK increase (mid)</color><br><color=0:255:0>Boosts MAG, DEF, and SPR increases (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910859002": [
+        "Boosts ATK increase (mid)<br>Boosts MAG, DEF, and SPR increases (low)<br><color=0:255:0>Boosts ATK increase (great)</color><br><color=0:255:0>Boosts MAG, DEF, and SPR increases (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910863001": [
+        "<color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Boosts DEF and SPR reductions (low)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910863002": [
+        "Boosts damage amount (low)<br>Boosts DEF and SPR reductions (low)<br><color=0:255:0>Damage dealt becomes partial unmitigated damage</color><br><color=0:255:0>Boosts DEF and SPR reductions (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910864001": [
+        "<color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Boosts fire resistance reduction (mid)</color>",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "910864002": [
+        "Boosts damage amount (low)<br>Boosts fire resistance reduction (mid)<br><color=0:255:0>Damage dealt becomes partial unmitigated damage</color><br><color=0:255:0>Boosts fire resistance reduction (low)</color>",
         null,
         null,
         null,
