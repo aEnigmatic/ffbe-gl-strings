@@ -43,9 +43,9 @@
         "Accessory",
         "首飾",
         "장신구",
+        "accessoire",
         "Accessoire",
-        "Accessoire",
-        "Accesorio"
+        "accesorio"
     ],
     "ABILITY_DETAIL_ATKTYPE_LIST": [
         "ATK@MAG@ATK/MAG@Other",
@@ -61,31 +61,31 @@
         "독@암흑@수면@침묵@마비@혼란@질병@석화@스톱@매혹@광폭화",
         "Poison@Cécité@Sommeil@Silence@Paralysie@Confusion@Maladie@Pétrification@Stop@Charme@Furie",
         "Gift@Blind@Schlaf@Stille@Lähmung@Konfus@Virus@Stein@Stopp@Bezaubern@Berserker",
-        "Veneno@Ceguera@Sueño@Silencio@Parálisis@Confusión@Enfermedad@Piedra@Paro@Embrujo@Locura"
+        "veneno@ceguera@sueño@silencio@parálisis@confusión@enfermedad@piedra@paro@embrujo@locura"
     ],
     "ABILITY_DETAIL_BODY_LIST": [
         "clothes@light armor@heavy armor@robe",
         "衣服@輕鎧甲@重鎧甲@法袍",
         "옷@경갑@중갑@로브",
-        "Vêtements@Armure légère@Armure lourde@Robe",
+        "vêtements@armure légère@armure lourde@robe",
         "Kleidung@Leichte Rüstung@Schwere Rüstung@Robe",
-        "Ropa@Armadura ligera@Armadura pesada@Túnica"
+        "ropa@armadura ligera@armadura pesada@túnica"
     ],
     "ABILITY_DETAIL_ELEMENT_LIST": [
         "fire@ice@lightning@water@wind@earth@light@dark",
         "火@冰@雷@水@風@土@光@暗",
-        "불@얼음@번개@물@바람@땅빛@어둠",
-        "Feu@Glace@Foudre@Eau@Vent@Terre@Lumière@Ténèbres",
+        "불@얼음@번개@물@바람@땅@빛@어둠",
+        "feu@glace@foudre@eau@vent@terre@lumière@ténèbres",
         "Feuer@Eis@Blitz@Wasser@Wind@Erde@Licht@Dunkel",
-        "Fuego@Hielo@Rayo@Agua@Viento@Tierra@Luz@Oscuridad"
+        "fuego@hielo@rayo@agua@viento@tierra@luz@oscuridad"
     ],
     "ABILITY_DETAIL_HEAD_LIST": [
         "hat@helm",
         "帽子@頭盔",
         "모자@투구",
-        "Chapeau@Casque",
+        "chapeau@casque",
         "Hut@Helm",
-        "Sombrero@Yelmo"
+        "sombrero@yelmo"
     ],
     "ABILITY_DETAIL_HIT_UNKNOWN": [
         "Depends on unit",
@@ -99,39 +99,39 @@
         "All",
         "全體",
         "전체",
-        "Tous",
+        "(tous)",
         "Alle",
-        "Todos"
+        "(todos)"
     ],
     "ABILITY_DETAIL_RANGE_RANDOM": [
         "Random",
         "隨機",
-        "무작위",
-        "Aléatoire",
+        "무작위로",
+        "aléatoire",
         "Zufällig",
-        "Aleatorio"
+        "aleatorio"
     ],
     "ABILITY_DETAIL_RANGE_SOLO": [
         "Single",
         "1名",
         "1명",
-        "Unique",
+        "(1 seul)",
         "Einzeln",
-        "Único"
+        "(solo 1)"
     ],
     "ABILITY_DETAIL_SHIELD_LIST": [
         "light shield@heavy shield",
         "輕盾@重盾",
         "경방패@중방패",
-        "Bouclier léger@Bouclier lourd",
+        "bouclier léger@bouclier lourd",
         "Leichter Schild@Schwerer Schild",
-        "Escudo ligero@Escudo pesado"
+        "escudo ligero@escudo pesado"
     ],
     "ABILITY_DETAIL_SKILL_CATEGORY_LB": [
         "[LB]",
         "[極限技]",
         "[LB]",
-        "[L]",
+        "[LIMITE]",
         "[LB]",
         "[EL]"
     ],
@@ -157,7 +157,7 @@
         "공격형",
         "Type offensif",
         "Typ: Angriff",
-        "Tipo de ataque"
+        "Tipo ataque"
     ],
     "ABILITY_DETAIL_SKILL_TYPE_DEFENSE": [
         "Defense Type",
@@ -165,7 +165,7 @@
         "방어형",
         "Type défensif",
         "Typ: Verteidigung",
-        "Tipo de defensa"
+        "Tipo defensa"
     ],
     "ABILITY_DETAIL_SKILL_TYPE_HEAL": [
         "Recovery Type",
@@ -173,7 +173,7 @@
         "회복형",
         "Type soin",
         "Typ: Heilung",
-        "Tipo de recuperación"
+        "Tipo recuperación"
     ],
     "ABILITY_DETAIL_SKILL_TYPE_OTHER": [
         "Other",
@@ -189,13 +189,13 @@
         "지원형",
         "Type soutien",
         "Typ: Unterstützung",
-        "Tipo de apoyo"
+        "Tipo apoyo"
     ],
     "ABILITY_DETAIL_STATUS_LIST": [
         "ATK@DEF@MAG@SPR@HP@MP",
         "攻擊@防禦@魔力@精神@HP@MP",
         "공격력@방어력@마력@정신력@HP@MP",
-        "ATT@DEF@MAGIE@PSY@PV@PM",
+        "l'ATT@la DEF@la MAGIE@la PSY@les PV@les PM",
         "ANG@ABW@MAG@PSY@LP@MP",
         "ATQ@DEF@MAG@ESP@VIT@PM"
     ],
@@ -203,73 +203,73 @@
         "Enemies/Allies",
         "敵人/隊員",
         "적과 아군",
-        "Ennemis/Alliés",
+        "ennemis et alliés",
         "Gegner/Verbündete",
-        "Enemigos/aliados"
+        "enemigos y aliados"
     ],
     "ABILITY_DETAIL_TARGET_MY_PARTY": [
         "Ally",
         "隊員",
         "아군",
-        "Allié",
+        "allié(s)",
         "Verbündeter",
-        "Aliado"
+        "aliado(s)"
     ],
     "ABILITY_DETAIL_TARGET_OTHER_PARTY": [
         "Enemy",
         "敵人",
         "적",
-        "Ennemi",
+        "ennemi(s)",
         "Gegner",
-        "Enemigo"
+        "enemigo(s)"
     ],
     "ABILITY_DETAIL_TARGET_OWN": [
         "Self",
         "自身",
         "자신",
-        "Le lanceur",
+        "le lanceur",
         "Selbst",
-        "El usuario"
+        "el usuario"
     ],
     "ABILITY_DETAIL_TARGET_SELECT": [
         "Ally",
         "隊員",
         "아군",
-        "Allié",
+        "allié(s)",
         "Verbündeter",
-        "Aliado"
+        "aliado(s)"
     ],
     "ABILITY_DETAIL_TARGET_WITHOUT_OWN_ALL": [
         "All Allies but Self",
         "除自身以外的全體隊員",
         "자신을 제외한 아군 전체",
-        "Tous les alliés sauf le lanceur",
+        "tous les alliés sauf le lanceur",
         "Alle Verbündete außer selbst",
-        "Todos los aliados excepto el usuario"
+        "todos los aliados excepto el usuario"
     ],
     "ABILITY_DETAIL_TARGET_WITHOUT_OWN_SOLO": [
         "Single Ally",
         "1名隊員",
         "아군 1명",
-        "Allié unique",
+        "un allié",
         "Einzelner Verbündeter",
-        "Único aliado"
+        "un aliado"
     ],
     "ABILITY_DETAIL_TRIBE_LIST": [
         "beast@avian@aquatic@demon@human@machina@dragon@fairy@insect@stone@plant@reaper",
         "獸@鳥@水生@惡魔@人@機械@龍@精靈@蟲@岩石@植物@死靈",
         "야수@조류@수중@악마@인간@기계@드래곤@정령@곤충@암석@식물@사령",
-        "Bête@Oiseau@Aqua@Démon@Humain@Machine@Dragon@Lutin@Insecte@Pierre@Plante@Mort-vivant",
+        "bêtes@oiseaux@aquatiques@démons@humains@machines@dragons@esprits@insectes@pierres@plantes@morts-vivants",
         "Bestie@Vogel@Wasser@Dämon@Mensch@Maschine@Drache@Fee@Insekt@Steie@Pflanze@Untoter",
-        "Bestia@Ave@Acuático@Demonio@Humano@Máquina@Dragón@Espíritu@Insecto@Piedra@Plantoide@M. viviente"
+        "bestia@ave@acuático@demonio@humano@máquina@dragón@espíritu@insecto@pétreo@plantoide@m. viviente"
     ],
     "ABILITY_DETAIL_WEAPON_LIST": [
         "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fists",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
-        "Épée courte@Épée@Épée longue@Katana@Bâton@Sceptre@Arc@Hache@Marteau@Lance@Instrument@Fouet@Arme de jet@Arme à feu@Masse@Poings",
+        "épée courte@épée@épée longue@katana@bâton@sceptre@arc@hache@marteau@lance@instrument@fouet@arme de jet@arme à feu@masse@poings",
         "Kurzschwert@Schwert@Großschwert@Katana@Stab@Rute@Bogen@Axt@Hammer@Speer@Instrument@Peitsche@Wurfwaffe@Schusswaffe@Keule@Faust",
-        "Espada corta@Espada@Espada grande@Katana@Bastón@Vara@Arco@Hacha@Martillo@Lanza@Instrumento@Látigo@Arma arrojadiza@Pistola@Maza@Puños"
+        "espada corta@espada@espada grande@katana@bastón@vara@arco@hacha@martillo@lanza@un instrumento@látigo@un arma arrojadiza@pistola@maza@puños"
     ],
     "ABILITY_NOTHING": [
         "No usable abilities to display.",
@@ -512,28 +512,28 @@
         "Hay una nueva versión de la aplicación disponible."
     ],
     "ARENA_ENERGY_LAPIS_A": [
-        "You can use lapis to <color=red>fully restore your arena orbs</color>.<br>Proceed?",
-        "您可以花費寶石 <color=red>完全恢復鬥技場寶珠</color>。要繼續嗎？",
+        "You can use lapis to <color=255:0:0>fully restore your arena orbs</color>.<br>Proceed?",
+        "您可以花費寶石 <color=255:0:0>完全恢復鬥技場寶珠</color>。要繼續嗎？",
         "라피스를 <param=coin>개 사용하여<br><color=255:0:0>결투장 구슬을 모두 회복</color><br>할 수 있습니다.<br>계속하시겠습니까?",
-        "Vous pouvez utiliser des lapis pour <color=red>restaurer entièrement vos orbes d'Arène</color>.<br>Continuer ?",
-        "Du kannst Lapis benutzen,<color=red>um deine Arenajuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
-        "Puedes usar lapis para <color=red>restaurar todos tus orbes de Arena</color>.<br>¿Continuar?"
+        "Vous pouvez utiliser des lapis pour <color=255:0:0>restaurer entièrement vos orbes d'Arène</color>.<br>Continuer ?",
+        "Du kannst Lapis benutzen,<color=255:0:0>um deine Arenajuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        "Puedes usar lapis para <color=255:0:0>restaurar todos tus orbes de Arena</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_LAPIS_C": [
-        "You can use lapis to <color=red>fully restore your colosseum orbs</color>.<br>Proceed?",
-        "您可以花費寶石 <color=red>完全恢復競技場寶珠</color>。要繼續嗎？",
+        "You can use lapis to <color=255:0:0>fully restore your colosseum orbs</color>.<br>Proceed?",
+        "您可以花費寶石 <color=255:0:0>完全恢復競技場寶珠</color>。要繼續嗎？",
         "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>계속하시겠습니까?",
-        "Vous pouvez utiliser des lapis pour <color=red>restaurer entièrement vos orbes de Colisée</color>.<br>Continuer ?",
-        "Du kannst Lapis benutzen,<color=red>um deine Kolosseumsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
-        "Puedes usar lapis para <color=red>restaurar todos tus orbes del Coliseo</color>.<br>¿Continuar?"
+        "Vous pouvez utiliser des lapis pour <color=255:0:0>restaurer entièrement vos orbes de Colisée</color>.<br>Continuer ?",
+        "Du kannst Lapis benutzen,<color=255:0:0>um deine Kolosseumsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        "Puedes usar lapis para <color=255:0:0>restaurar todos tus orbes del Coliseo</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_LAPIS_R": [
-        "You can use lapis to <color=red>fully restore your raid orbs</color>.<br>Proceed?",
-        "您可以花費寶石 <color=red>完全恢復共鬥寶珠</color>。要繼續嗎？",
+        "You can use lapis to <color=255:0:0>fully restore your raid orbs</color>.<br>Proceed?",
+        "您可以花費寶石 <color=255:0:0>完全恢復共鬥寶珠</color>。要繼續嗎？",
         "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>계속하시겠습니까?",
-        "Vous pouvez utiliser des lapis pour <color=red>restaurer entièrement vos orbes de Raid</color>.<br>Continuer ?",
-        "Du kannst Lapis benutzen,<color=red>um deine Raubzugsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
-        "Puedes usar lapis para <color=red>restaurar todos tus orbes de Banda</color>.<br>¿Continuar?"
+        "Vous pouvez utiliser des lapis pour <color=255:0:0>restaurer entièrement vos orbes de Raid</color>.<br>Continuer ?",
+        "Du kannst Lapis benutzen,<color=255:0:0>um deine Raubzugsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        "Puedes usar lapis para <color=255:0:0>restaurar todos tus orbes de Banda</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_RECOVERY": [
         "Energy Recovery",
@@ -552,12 +552,12 @@
         "¿Quieres usar lapis o un objeto<br>para recuperar energía?"
     ],
     "ARENA_ENERGY_RESTORE_E": [
-        "Use % energy recovery item(s) to restore % orb(s)?",
-        "要使用 % 個恢復道具來恢復 % 個寶珠嗎？",
-        "% 체력 회복 아이템을 사용하여 구슬을 % 회복하시겠습니까?",
-        "Utiliser % objet(s) de restauration pour récupérer % orbe(s) ?",
-        "% Gegenstand/Gegenstände zur Energiewiederherstellung benutzen, um % Juwel(en) wiederherzustellen?",
-        "¿Quieres restaurar % orbe(s) utilizando % objeto(s) de recuperación?"
+        "Use <param=num> energy recovery item(s) to restore <param=recover> orb(s)?",
+        "要使用 <param=num> 個恢復道具來恢復 <param=recover> 個寶珠嗎？",
+        "<param=num> 체력 회복 아이템을 사용하여 구슬을 <param=recover> 회복하시겠습니까?",
+        "Utiliser <param=num> objet(s) de restauration pour récupérer <param=recover> orbe(s) ?",
+        "<param=num> Gegenstand/Gegenstände zur Energiewiederherstellung benutzen, um <param=recover> Juwel(en) wiederherzustellen?",
+        "¿Quieres restaurar <param=num> orbe(s) utilizando <param=recover> objeto(s) de recuperación?"
     ],
     "ARENA_FRIEND_ADD_CONFIRM": [
         "Send a friend request to your opponent?",
@@ -2436,7 +2436,7 @@
         "強化的裝備",
         "강화할 장비",
         "Équipement à améliorer",
-        "Zu verbessernde  Ausrüstung",
+        "Zu verbessernde Ausrüstung",
         "Equipo para mejorar"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_TITLE_GAMEOVER": [
@@ -12479,6 +12479,14 @@
         "Nicht mehr weit, kupo!",
         "¡Solo un poco más, kupó!"
     ],
+    "MST_TRUSTCOIN_EXCHANGE_EXPLAIN_1": [
+        "A prism moogle that can be fused with a 3★ trust master specific moogle to obtain said specific trust master reward when its trust value reaches 100%",
+        "當使用擁有特定信賴度的★3信賴度莫古利進行合成，並在信賴度達到100%時，能夠獲得信賴度滿點報酬的兵員",
+        "고유의 트러스트를 보유한 트러스트 모그리 ★3을 합성하여 트러스트치 100%가 되었을 경우, 트러스트 마스터 보상을 받을 수 있는 유닛",
+        "Un prismog peut être fusionné à un mog 3★ à récompense de confiance absolue spécifique pour obtenir ladite récompense lorsque sa confiance aura atteint les 100%",
+        "Ein Prismamogry kann mit einem Wahre-Treue-spezifischen 3★ Treuemogry fusioniert werden, um diese Wahre-Treue-Belohnung zu erhalten, wenn sein Treuewert 100% erreicht.",
+        "Un moguri prismático que se puede fusionar con un moguri específico de maestro fiel de 3★ para obtener su recompensa maestro fiel correspondiente cuando su fidelidad alcanza el 100%."
+    ],
     "MULTIPLE": [
         "x",
         "x",
@@ -12898,18 +12906,18 @@
     "Pop_Up_Account_Binding_First_Time_Pop_up": [
         "You can choose to bind your game account to social media accounts such as <color=0:0:255>Facebook</color> or <color=0:0:255>Google</color>.",
         "現在可以選擇將遊戲帳號綁定至其他社群帳號，例如<color=0:0:255>Facebook</color>  或 <color=0:0:255>Google</color>。",
-        "<color=0:0:255>Facebook</color> 또는 <color=0:0:255>Google</color>과 같은 소셜 미디어 계정을 선택하여 게임 계정을 연동시킬 수 있습니다.",
-        "Vous pouvez désormais associer votre compte à d'autres comptes de réseaux sociaux, comme <color=0:0:255>Facebook</color> ou <color=0:0:255>Google</color>.",
-        "Du kannst dich nun dazu entscheiden, dein Konto mit anderen Sozialkanäle, wie zum Beispiel <color=0:0:255>Facebook</color> oder<color=0:0:255>Google</color> zu verknüpfen.",
-        "Ahora puedes vincular tu cuenta con otras redes sociales, como <color=0:0:255>Facebook</color> o <color=0:0:255>Google</color>."
+        "게임 계정을 <color=0:0:255>Facebook</color> 또는 <color=0:0:255>Google</color>과 같은 소셜 미디어 계정에 연동시킬 수 있습니다.",
+        "Vous pouvez désormais associer votre compte de jeu à vos comptes de réseaux sociaux, comme <color=0:0:255>Facebook</color> ou <color=0:0:255>Google</color>.",
+        "Du kannst dich nun dazu entscheiden, dein Spielerkonto mit anderen Social Media-Konten, wie zum Beispiel <color=0:0:255>Facebook</color> oder<color=0:0:255>Google</color> zu verknüpfen.",
+        "Ahora puedes vincular tu cuenta del juego con otras redes sociales, como <color=0:0:255>Facebook</color> o <color=0:0:255>Google</color>."
     ],
     "Pop_Up_Account_Binding_Limit_Warning": [
-        "*There is a single binding attempt for each social media account type. Once you run out of binding attempts, you won't be able to bind your game account to any other social media accounts.",
-        "* 嘗試綁定社群帳號有次數限制。一旦綁定帳號完成，將無法再綁定其它社群帳號。",
-        "<br>※ 소셜 미디어 계정마다 최대 연동 시도 가능 횟수가 있습니다. 연동 시도 가능 횟수를 초과하면 게임 계정을 어떤 소셜 미디어 계정에도 연동시킬 수 없습니다.<br>",
-        "*Un nombre limité de tentatives d'association peut être effectué pour chaque compte de réseau social. Une fois cette limite atteinte, vous serez dans l'incapacité d'associer votre compte de jeu à un compte de réseau social, quel qu'il soit.",
-        "* Für jedes Social-Media-Konto stehen dir eine begrenzte Anzahl an Verknüpfungsversuchen zur Verfügung. Sobald du nicht mehr genügend Verknüpfungsversuche hast, wirst du dein Spielekonto nicht mehr mit anderen Social-Media-Accounts verknüpfen können.",
-        "*El número de intentos de vinculación de cada cuenta es limitado. Cuando se agoten, no podrás vincular tu cuenta del juego con ninguna de tus redes sociales."
+        "*There are a limited number of binding attempts for each social media account type. Once you run out of binding attempts, you won't be able to bind your game account to any other social media accounts.",
+        "*各類型社群帳號皆設有綁定次數限制。一旦綁定次數使用完畢，將無法再次綁定任何社群帳號。",
+        "※ 소셜 미디어 계정마다 최대 연동 시도 가능 횟수가 있습니다. 연동 시도 가능 횟수를 초과하면 게임 계정을 어떤 소셜 미디어 계정에도 연동시킬 수 없습니다.",
+        "*Un nombre limité de tentatives peut être effectué pour chaque type de réseau social. Une fois cette limite atteinte, vous serez dans l'incapacité d'associer vos données de jeu à un compte de réseau social, quel qu'il soit.",
+        "*Die möglichen Verknüpfungsversuche für jedes Social Media-Konto sind begrenzt. Sobald dir keine Versuche mehr zur Verfügung stehen, wirst du nicht mehr in der Lage sein, dich mit Social Media-Konten zu verknüpfen.",
+        "*El número de intentos de vinculación de la cuenta es limitado. Cuando se agoten, no podrás vincular tu cuenta del juego con ninguna de tus redes sociales."
     ],
     "Pop_Up_Account_Binding_Login_Failed": [
         "Unable to log in to <param=login_service><br>Reason: <param=reason>",
@@ -13669,7 +13677,7 @@
         "장비 강화 이벤트의 퀘스트 중단 정보가 있습니다.<br>퀘스트를 재개하시겠습니까?",
         "Présence de données de quête d'amélioration d'équipement interrompue.<br>Reprendre la quête ?",
         "Daten zur unterbrochenen Ausrüstunsverbesserungsquest liegen vor.<br>Auftrag fortsetzen?",
-        "Hay datos corruptos en la misión de mejora de equipo.<br>¿Quieres reiniciarla?"
+        "Se ha interrumpido la misión de mejora de equipo.<br>¿Quieres reiniciarla?"
     ],
     "RESTART_EQUIP_GROW_CONFIRM_TITLE": [
         "Quest Restart",
@@ -14272,12 +14280,12 @@
         "Reanudar"
     ],
     "SG_DAILY_LOGIN_ACQUIRED_REWARD": [
-        "acquired %s x %d",
-        "獲得%s x %d",
-        "%s x %d 획득",
-        "Obtenu :  %s x %d",
-        "%sx %d erhalten",
-        "Conseguiste %s x%d"
+        "Acquired",
+        "獲得",
+        "획득",
+        "Obtenu",
+        "erhalten",
+        "Conseguiste"
     ],
     "SG_DAILY_LOGIN_CHECK_INBOX": [
         "Check your inbox to claim your rewards",
@@ -14304,12 +14312,12 @@
         "Las recompensas diarias se restablecerán a medianoche (PST)."
     ],
     "SG_DAILY_LOGIN_DAY_REWARD": [
-        "Day %d reward",
-        "%d 日報酬",
-        "%d일 보상",
-        "Récompense jour %d",
-        "Belohnung für Tag %d",
-        "Recompensa de día %d"
+        "Today's reward",
+        "報酬",
+        "보상",
+        "Récompense",
+        "Belohnung",
+        "Recompensa"
     ],
     "SG_DAILY_LOGIN_INBOX_MESSAGE": [
         "Day x reward. Acquired y gil.",
@@ -14772,7 +14780,7 @@
         "沒有遊戲資料",
         "기존 계정 데이터",
         "Données de compte existantes",
-        "Vorhandene Account-Daten",
+        "Vorhandene Kontodaten",
         "Datos de cuenta existentes"
     ],
     "SG_EXP": [
@@ -15292,7 +15300,7 @@
         "已用現存資料與此裝置進行同步。",
         "기존 데이터와 단말기를 동기화했습니다.",
         "Les données de compte existantes ont bien été synchronisées.",
-        "Vorhandene Account-Daten erfolgreich synchronisiert.",
+        "Vorhandene Kontodaten erfolgreich synchronisiert.",
         "Datos de la cuenta sincronizados correctamente."
     ],
     "SG_PDATAPOPUP_ALERT_TITLE": [
@@ -18644,7 +18652,7 @@
         "武具強化寶珠",
         "장비 강화 구슬",
         "Orbes d'amélioration d'équipement",
-        "Juwelen für das Ereignis zur Ausrüstungsverbesserung",
+        "Juwelen zur Ausrüstungsverbesserung",
         "orbes mejoraequipo"
     ],
     "sgSHOP_ERROR_ORB_RECOVERY": [

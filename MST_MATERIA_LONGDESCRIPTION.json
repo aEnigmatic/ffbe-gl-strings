@@ -1452,7 +1452,7 @@
         "治療自身中毒、失明和沉默的狀態。【阿格莉亞絲·加夫加利安專用】",
         "자신의 독, 암흑, 침묵 을 회복합니다. (아그리아스·가프가리온 전용)",
         "Soigne le lanceur de poison, cécité et silence.  (Uniquement pour Agrias et Gaffgarion)",
-        "Heilt beim Benutzer Gift, Blenden und „Stille. (Nur Agrias und Gaffgarion)",
+        "Heilt beim Benutzer Gift, Blind und Stille. (Nur Agrias und Gaffgarion)",
         "Elimina veneno, ceguera y silencio del usuario (exclusiva de Agrias y Gaffgarion)"
     ],
     "504202380": [
@@ -3716,7 +3716,7 @@
         "提高40%攻擊、50%暗屬性耐性。",
         "공격력이 40%, 어둠속성 저항력이 50% 상승합니다.",
         "Augmente l'ATT de 40% et la résistance aux ténèbres de 50%",
-        "Erhöht ANG um 40% und Dunkelresistenz zum 50%.",
+        "Erhöht ANG um 40% und Dunkelresistenz um 50%.",
         "Aumenta el ATQ un 40% y la resistencia a la oscuridad un 50%."
     ],
     "504227410": [
@@ -3924,7 +3924,7 @@
         "提高20%攻擊魔力，並提高極限技石對極限技槽的增加量。",
         "공격력과 마력이 20% 상승하고, LB 게이지 효율이 상승합니다.",
         "Augmente l'ATT et la MAGIE de 20%, et augmente le taux de remplissage de la jauge de limite.",
-        null,
+        "Erhöht ANG und MAG um 20% und Limitmeter füllt sich schneller.",
         "Aumenta el ATQ y la MAG un 20% y la barra de EL se rellena más rápido."
     ],
     "504228287": [
@@ -4022,6 +4022,62 @@
         "Augmente l'ATT de 40% et les dégâts physiques infligés aux plantes de 50%. Non cumulable",
         "Erhöht ANG um 40% und erhöht physischen Schaden gegen Pflanzen um 50%.",
         "Aumenta el ATQ un 40% y el daño físico contra plantas un 50% (no acumulable)"
+    ],
+    "504228860": [
+        "Boosts HP and MP by 20%, and boosts ATK by 50% when equipped with a large sword.",
+        "提高20%HPMP，裝備大劍時提高50%攻擊。",
+        "HP와 MP가 20% 상승하고, 대검 장착 시 공격력이 50% 상승합니다.",
+        "Augmente les PV et les PM de 20%, et augmente l'ATT de 50% lorsqu'une épée longue est équipée.",
+        "Erhöht LP und MP um 20% und erhöht ANG um 50%, wenn mit einem Großschwert ausgerüstet.",
+        "Aumenta la VIT y los PM un 20%, y el ATQ un 50% al llevar espada grande."
+    ],
+    "504228861": [
+        "Nullifies confusion, disease, and stone, and boosts ATK by 60% when equipped with a katana.",
+        "混亂生病石化無效，裝備刀時提高60%攻擊。",
+        "혼란, 질병, 석화를 무효화하고, 도 장착 시 공격력이 60% 상승합니다.",
+        "Annule confusion, maladie et pétrification, et augmente l'ATT de 60% lorsqu'un katana est équipé.",
+        "Annulliert Konfus, Virus und Stein und erhöht ANG um 60%, wenn mit einem Katana ausgerüstet.",
+        "Anula confusión, enfermedad y piedra, y aumenta el ATQ un 60% al llevar katana."
+    ],
+    "504228862": [
+        "Boosts MAG by 40%, and boosts parameters of espers evoked by 10%.",
+        "提高40%魔力，發動召喚魔法時提高10%幻獸狀態。",
+        "마력이 40% 상승하고, 소환마법 사용 시 환수 능력치가 10% 상승합니다.",
+        "Augmente la MAGIE de 40% et les caractéristiques des chimères appelées de 10%.",
+        "Erhöht MAG um 40% und erhöht Werte gerufener Esper um 10%.",
+        "Aumenta la MAG un 40% y potencia los parámetros de los espers invocados un 10%."
+    ],
+    "504228865": [
+        "Boosts ATK by 10%, and boosts physical damage against demons.",
+        "提高10%攻擊，物理攻擊時提高對惡魔系魔物的傷害。",
+        "공격력이 10% 상승하고, 물리 공격 시 악마형 마물에게 부여하는 피해량이 상승합니다.",
+        "Augmente l'ATT de 10% ainsi que les dégâts physiques contre les démons.",
+        "Erhöht ANG um 10% und erhöht physischen Schaden gegen Dämonen.",
+        "Aumenta el ATQ un 10% y el daño físico contra demonios."
+    ],
+    "504228866": [
+        "Boosts MAG by 10%, and boosts magic damage against demons.",
+        "提高10%魔力，魔法攻擊時提高對惡魔系魔物的傷害。",
+        "마력이 10% 상승하고, 물리 공격 시 악마형 마물에게 부여하는 피해량이 상승합니다.",
+        "Augmente la MAGIE de 10% ainsi que les dégâts magiques contre les démons.",
+        "Erhöht MAG um 10% und erhöht magischen Schaden gegen Dämonen.",
+        "Aumenta la MAG un 10% y el daño mágico contra demonios."
+    ],
+    "504228870": [
+        "Boosts MAG and SPR by 30% when equipped with a robe.",
+        "裝備法袍時提高30%魔力精神。",
+        "로브 장착 시 마력과 정신력이 30% 상승합니다.",
+        "Augmente la MAGIE et la PSY de 30% lorsqu'une tunique est équipée.",
+        "Erhöht MAG und PSY um 30%, wenn mit einer Robe ausgerüstet.",
+        "Aumenta la MAG y el ESP un 30% al llevar túnica."
+    ],
+    "504229221": [
+        "Boosts damage for jump attacks.",
+        "提高跳躍系能力的傷害。",
+        "점프 계열 어빌리티의 피해량이 상승합니다.",
+        "Augmente les dégâts des aptitudes de saut",
+        "Mehr Schaden bei Sprungattacken.",
+        "Aumenta el daño de los ataques de salto."
     ],
     "504230010": [
         "Boosts ATK by 40% when equipped with a sword, katana, or spear, boosts physical and magic damage against humans, and enables or not to [B]e. Not stackable.",

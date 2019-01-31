@@ -72,7 +72,7 @@
         "Aumenta la recuperación de VIT (muchísimo)"
     ],
     "100750002": [
-        "Boosts LB gauge increase each turn (great)",
+        "Fills LB gauge each turn during battle (great)",
         "每回合提高極限技槽增加量(特大)",
         "매 턴마다 LB 게이지 증가량 상승(특대)",
         "Augmente la vitesse de remplissage de la jauge de limite à chaque tour (super)",
@@ -104,7 +104,7 @@
         "Aumenta el contraataque (muchísimo)<br>Aumenta la posibilidad de crítico"
     ],
     "101240002": [
-        "Boosts fill rate of burst stones (mid)",
+        "Boosts LB gauge fill rate (mid)",
         "提高極限技石對極限技槽的增加量(中)",
         "LB 게이지 효율 증가(중)",
         "Augmente le taux de remplissages des pierres de limite (moyen)",
@@ -1756,7 +1756,7 @@
         "提高傷害量(中)",
         "피해량 상승(중)",
         "Augmente les dégâts infligés (moyen)",
-        "Erhöht den Schaden (mittel)",
+        "Erhöht Schaden (mittel)",
         "Aumenta el daño (bastante)"
     ],
     "207170002": [
@@ -2360,7 +2360,7 @@
         "Aumenta el daño (bastante)"
     ],
     "210320002": [
-        "Boosts ATK<br>Boosts fill rate of burst stones",
+        "Boosts ATK<br>Boosts LB gauge fill rate",
         "提高攻擊<br>提高極限技石對極限技槽的增加量",
         "공격력 상승<br>LB 게이지 효율 증가",
         "Augmente l'ATT<br>Augmente le taux de remplissages des pierres de limite",
@@ -2880,7 +2880,7 @@
         "Aumenta el daño (bastante)"
     ],
     "212540002": [
-        "Boosts burst stones fill rate increase (low)",
+        "Boosts LB gauge fill rate (low)",
         "提高極限技石對極限技槽的增加量(小)",
         "LB 게이지 효율 상승량 상승(소)",
         "Amplifie l'augmentation du taux de remplissage des pierres de limite (peu)",
@@ -2952,7 +2952,7 @@
         "Aumenta la duración (bastante)"
     ],
     "213600002": [
-        "Boosts burst stones fill rate increase (low)",
+        "Boosts LB gauge fill rate (low)",
         "提高極限技石對極限技槽的增加量(小)",
         "LB 게이지 효율 상승량 상승(소)",
         "Amplifie l'augmentation du taux de remplissage des pierres de limite (peu)",
@@ -3153,11 +3153,11 @@
     ],
     "214820002": [
         "Boosts damage amount (mid)",
-        "提高傷害量(小)",
-        "피해량 상승(소)",
-        "Augmente les dégâts infligés (peu)",
-        "Erhöht den Schaden (gering)",
-        "Aumenta el daño (poco)"
+        "提高傷害量(中)",
+        "피해량 상승(중)",
+        "Augmente les dégâts infligés (moyen)",
+        "Erhöht Schaden (mittel)",
+        "Aumenta el daño (bastante)"
     ],
     "214830002": [
         "Reduces MP consumed (mid)",
@@ -3169,27 +3169,27 @@
     ],
     "214850002": [
         "Boosts HP, MP, ATK, DEF, MAG, and SPR increases (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高HPMP攻擊防禦魔力精神增加量(小)",
+        "HP, MP, 공격력, 방어력, 마력, 정신력 상승량 상승(소)",
+        "Amplifie l'augmentation des PV/PM et de l'ATT, la DEF, la MAGIE et la PSY (peu)",
+        "Steigert LP-, MP-, ANG-, ABW-, MAG- und PSY-Erhöhungen (gering)",
+        "Mayor aumento de VIT, PM, ATQ, DEF, MAG y ESP (poco)"
     ],
     "214870002": [
         "Nullifies poison and sleep",
-        null,
-        null,
-        null,
-        null,
-        null
+        "中毒睡眠無效",
+        "독과 수면 무효화",
+        "Annule poison et sommeil",
+        "Annulliert Gift und Schlaf",
+        "Anula veneno y sueño"
     ],
     "214880002": [
         "Boosts chance of countering (low)<br>Boosts counter damage (great)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高反擊機率(小)<br>提高反擊傷害(特大)",
+        "반격 확률 상승(소)<br>반격 피해량 상승(특대)",
+        "Augmente les chances de contre-attaquer (peu)<br>Augmente les dégâts infligés par les contre-attaques (super)",
+        "Erhöht Wahrscheinlichkeit, zu kontern (gering)<br>Erhöht Konterschaden (sehr hoch)",
+        "Aumenta la probabilidad de contratacar (poco)<br>Aumenta el contraataque (muchísimo)"
     ],
     "214900002": [
         "Decreases ATK reduction (high)",
@@ -3209,43 +3209,43 @@
     ],
     "214980002": [
         "Boosts LB gauge fill rate (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高極限技槽對極限技石的增加量(小)",
+        "LB 게이지 효율 상승(소)",
+        "Augmente le taux de remplissage de la jauge de limite (peu)",
+        "Limitmeter füllt sich schneller (gering)",
+        "Las piedras de estallido recuperarán más EL (poco)"
     ],
     "215000002": [
         "Boosts ATK increase (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊增加量(中)",
+        "공격력 상승량 상승(중)",
+        "Amplifie l'augmentation de l'ATT (moyen)",
+        "Steigert ANG-Erhöhungen (mittel)",
+        "Mayor aumento de ATQ (bastante)"
     ],
     "215030002": [
         "Boosts damage amount (high)",
-        "提高傷害量(小)",
-        "피해량 상승(소)",
-        "Augmente les dégâts infligés (peu)",
-        "Erhöht den Schaden (gering)",
-        "Aumenta el daño (poco)"
+        "提高傷害量(大)",
+        "피해량 상승(대)",
+        "Augmente les dégâts infligés (beaucoup)",
+        "Erhöht Schaden (hoch)",
+        "Aumenta el daño (mucho)"
     ],
     "215040002": [
         "Boosts ATK and MAG reductions (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊魔力減少量(小)",
+        "공격력과 마력 감소량 상승(소)",
+        "Amplifie la réduction de l'ATT et de la MAGIE (peu)",
+        "Steigert ANG- und MAG-Verringerungen (gering)",
+        "Aumenta las reducciones de ATQ y MAG (poco)"
     ],
     "215120002": [
         "Boosts chance of countering (low)<br>Boosts DEF",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高反擊機率(小)<br>提高防禦",
+        "반격 확률 상승(소)<br>방어력 상승",
+        "Augmente les chances de contre-attaquer (peu)<br>Augmente la DEF",
+        "Erhöht Wahrscheinlichkeit, zu kontern (gering)<br>Erhöht ABW",
+        "Aumenta la probabilidad de contratacar (poco)<br>Aumenta la DEF"
     ],
     "215230002": [
         "Boosts ATK, DEF, MAG, and SPR increases from enabled ability - war of the gods (low)",
@@ -3649,11 +3649,19 @@
     ],
     "218140002": [
         "Boosts damage amount (mid)",
-        "提高傷害量(小)",
+        "提高傷害量(中)",
         "피해량 상승(소)",
         "Augmente les dégâts infligés (peu)",
         "Erhöht den Schaden (gering)",
         "Aumenta el daño (poco)"
+    ],
+    "218150002": [
+        "Boosts ATK when equipped with a katana<br>Boosts MAG when equipped with a throwing weapon",
+        "裝備刀時提高攻擊<br>裝備投擲武器時提高魔力",
+        "도 장착 시 공격력 상승<br>투척무기 장착 시 마력 상승",
+        "Augmente l'ATT lorsqu'un katana est équipé<br>Augmente la MAGIE lorsqu'une arme de jet est équipée",
+        "Erhöht ANG, wenn mit einem Katana ausgerüstet<br>Erhöht MAG, wenn mit einer Wurfwaffe ausgerüstet",
+        "Aumenta el ATQ al llevar katana<br>Aumenta la MAG al llevar un arma arrojadiza"
     ],
     "218190002": [
         "Boosts damage amount (great)",
@@ -3689,27 +3697,27 @@
     ],
     "219510002": [
         "Boosts ATK reduction (low)<br>Boosts DEF increase (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊減少量(小)<br>提高防禦增加量(中)",
+        "공격력 감소량 상승(소)<br>방어력 상승량 상승(중)",
+        "Amplifie la réduction de l'ATT (peu)<br>Amplifie l'augmentation de la DEF (moyen)",
+        "Steigert ANG-Verringerungen (gering)<br>Steigert ABW-Erhöhungen (mittel)",
+        "Mayor reducción de ATQ (poco)<br>Mayor aumento de DEF (bastante)"
     ],
     "219520002": [
         "Add ATK boost effect to enabled abilities - brute smith, anti-mech smith, stone break smith, and exorcist smith",
-        null,
-        null,
-        null,
-        null,
-        null
+        "可使用的「震獸鍛冶法」「機壞鍛冶法」「岩碎鍛冶法」「除靈鍛冶法」附加攻擊提升的效果",
+        "사용 가능 어빌리티 '진수 대장술', '기괴 대장술', '암쇄 대장술', '제령 대장술'에 공격력 상승 효과 추가",
+        "Ajoute une augmentation de l'ATT aux aptitudes suivantes : Forgeron brutal, Forgeron antiméca, Forgeron brise-roc et Forgeron exorciste",
+        "Fügt ermöglichten Fertigkeiten ANG-Steigerungseffekt hinzu - Grobschmied, Anti-Mech-Schmied, Steinbrechschmied und Exorzistschmied",
+        "Añade efecto potenciador de ATQ a las habilidades aprendidas: Herrero bruto, Herrero antimec, Herrero rompepiedras y Herrero exorcista"
     ],
     "219590002": [
         "Boosts MP and DEF increases (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高MP防禦增加量(小)",
+        "MP와 방어력 상승량 상승(소)",
+        "Amplifie l'augmentation des PM et de l'ATT (peu)",
+        "Steigert MP- und ABW-Erhöhungen (gering)",
+        "Mayor aumento de PM y DEF (poco)"
     ],
     "219980002": [
         "Boosts chance of activation (low)<br>Boosts ATK increase (low)",
@@ -4961,98 +4969,98 @@
     ],
     "910814002": [
         "Boosts SPR increase (low)<br>Increases necessary HP (mid)<br>Boosts SPR increase when active (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高精神增加量(小)<br>增加發動條件的HP值(中)<br>發動時提高精神增加量(中)",
+        "정신력 상승량 상승(소)<br>발동 조건의 HP 수치 증가(중)<br>발동 시 정신력 상승량 상승(중)",
+        "Amplifie l'augmentation de la PSY (peu)<br>Augmente les PV requis (moyen)<br>Amplifie l'augmentation de la PSY lorsque l'aptitude est active (moyen)",
+        "Steigert PSY-Erhöhungen (gering)<br>Erhöht benötigte LP (mittel)<br>Steigert PSY-Erhöhungen wenn aktiv (mittel)",
+        "Mayor aumento de ESP (poco)<br>Aumenta la VIT necesaria (bastante)<br>Mayor aumento de ESP al activarse (bastante)"
     ],
     "910815002": [
         "Boosts ATK and DEF increases (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊防禦增加量(中)",
+        "공격력과 방어력 상승량 상승(중)",
+        "Amplifie l'augmentation de l'ATT et de la DEF (moyen)",
+        "Steigert ANG- und ABW-Erhöhungen (mittel)",
+        "Mayor aumento de ATQ y DEF (bastante)"
     ],
     "910818002": [
         "Boosts SPR when equipped with a robe<br>Boosts DEF when equipped with heavy armor<br>Boosts DEF and SPR when equipped with clothes<br>Boosts DEF and SPR when equipped with light armor",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備法袍時提高精神<br>裝備重鎧甲時提高防禦<br>裝備衣服時提高防禦精神<br>裝備輕鎧甲時提高防禦精神",
+        "로브 장착 시 정신력 상승<br>중갑 장착 시 방어력 상승<br>옷 장착 시 방어력과 정신력 상승<br>경갑 장착 시 방어력과 정신력 상승",
+        "Augmente la PSY lorsqu'une tunique est équipée<br>Augmente la DEF lorsqu'une armure lourde est équipée<br>Augmente la DEF et la PSY lorsque des vêtements sont équipés<br>Augmente la DEF et la PSY lorsqu'une armure légère est équipée",
+        "Erhöht PSY, wenn mit einer Robe ausgerüstet<br>Erhöht ABW, wenn mit schwerer Rüstung ausgerüstet<br>Erhöht ABW und PSY, wenn mit Kleidung ausgerüstet<br>Erhöht ABW und PSY, wenn mit leichter Rüstung ausgerüstet",
+        "Aumenta el ESP al llevar túnica<br>Aumenta la DEF al llevar armadura pesada<br>Aumenta la DEF y el ESP al llevar ropa<br>Aumenta la DEF y el ESP al llevar armadura ligera"
     ],
     "910824002": [
         "Boosts MAG and SPR increases (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高魔力精神增加量(中)",
+        "마력과 정신력 상승량 상승(중)",
+        "Amplifie l'augmentation de la MAGIE et de la PSY (moyen)",
+        "Steigert MAG- und PSY-Erhöhungen (mittel)",
+        "Mayor aumento de MAG y ESP (bastante)"
     ],
     "910832002": [
         "Boosts HP restoration amount (great)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高HP恢復量(特大)",
+        "HP 회복량 상승(특대)",
+        "Augmente le taux de restauration des PV (super)",
+        "Erhöht Wert regenerierter LP (sehr hoch)",
+        "Aumenta la recuperación de VIT (muchísimo)"
     ],
     "910833002": [
-        "Boosts burst stones fill rate increase (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Boosts LB gauge fill rate (low)",
+        "提高極限技石對極限技槽的增加量(小)",
+        "LB 게이지 효율 상승(소)",
+        "Augmente le taux de remplissage de la jauge de limite (peu)",
+        "Limitmeter füllt sich schneller (gering)",
+        "Las piedras de estallido recuperarán más EL (poco)"
     ],
     "910837002": [
         "Boosts MP restoration amount (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高MP恢復量(中)",
+        "MP 회복량 상승(중)",
+        "Augmente le taux de restauration des PM (moyen)",
+        "Erhöht Wert regenerierter MP (mittel)",
+        "Aumenta la recuperación de PM (bastante)"
     ],
     "910845002": [
         "Boosts DEF when equipped with a light shield",
-        null,
-        null,
-        null,
-        null,
-        null
+        "裝備輕盾時提高防禦",
+        "경방패 장착 시 방어력 상승",
+        "Augmente la DEF quand un bouclier léger est équipé",
+        "Erhöht ABW, wenn mit einem leichten Schild ausgerüstet",
+        "Aumenta la DEF al llevar escudo ligero"
     ],
     "910850002": [
         "Boosts ATK increase (low)<br>Nullifies paralysis",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊增加量(小)<br>麻痺無效",
+        "공격력 상승량 상승(소)<br>마비 무효화",
+        "Amplifie l'augmentation de l'ATT (peu)<br>Annule paralysie",
+        "Steigert ANG-Erhöhungen (gering)<br>Annuliert Lähmung",
+        "Mayor aumento de ATQ (poco)<br>Anula parálisis"
     ],
     "910859002": [
         "Boosts ATK increase (mid)<br>Boosts MAG, DEF, and SPR increases (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高攻擊增加量(中)<br>提高魔力防禦精神增加量(小)",
+        "공격력 상승량 상승(중)<br>마력, 방어력, 정신력 상승량 상승(소)",
+        "Amplifie l'augmentation de l'ATT (moyen)<br>Amplifie l'augmentation de la DEF, la MAGIE et la PSY (peu)",
+        "Steigert ANG-Erhöhungen (mittel)<br>Steigert MAG-, ABW- und PSY-Erhöhungen (gering)",
+        "Mayor aumento de ATQ (bastante)<br>Mayor aumento de MAG, DEF y ESP (poco)"
     ],
     "910863002": [
         "Boosts damage amount (low)<br>Boosts DEF and SPR reductions (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高傷害量(小)<br>提高防禦精神減少量(小)",
+        "피해량 상승(소)<br>방어력과 정신력 감소량 상승(소)",
+        "Augmente les dégâts infligés (peu)<br>Amplifie la réduction de la DEF et de la PSY (peu)",
+        "Erhöht Schaden (gering)<br>Erhöht ABW- und PSY-Verringerungen (gering)",
+        "Aumenta el daño (poco)<br>Mayor reducción de DEF y ESP (poco)"
     ],
     "910864002": [
         "Boosts damage amount (low)<br>Boosts fire resistance reduction (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高傷害量(小)<br>提高火屬性耐性減少量(中)",
+        "피해량 상승(소)<br>불속성 저항력 감소량 상승(중)",
+        "Augmente les dégâts infligés (peu)<br>Amplifie la réduction de la résistance au feu (moyen)",
+        "Erhöht Schaden (gering)<br>Erhöht Verringerungen von Feuerresistenz (mittel)",
+        "Aumenta el daño (poco)<br>Mayor resistencia a la reducción de fuego (bastante)"
     ]
 }

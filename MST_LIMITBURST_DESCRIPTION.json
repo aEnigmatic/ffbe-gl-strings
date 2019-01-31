@@ -1396,7 +1396,7 @@
         "反射對全體隊員使用的魔法",
         "아군 전체가 받는 마법 반사",
         "Renvoie la magie lancée sur tous les alliés",
-        "Reflektiert alle auf Verb. gewirkt Magie.",
+        "Reflektiert alle auf Verb. gewirkte Magie.",
         "Refleja la magia dirigida a todos los aliados"
     ],
     "100005905": [
@@ -2681,7 +2681,7 @@
     ],
     "100011305": [
         "Deal lightning damage and chance of paralyzing and stopping all enemies, and enable purgatory fire slash and thunder strike stance for two turns",
-        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+2回合內可以使用「煉獄剎燒斬」、「轟雷擊衝陣」",
+        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+2回合內可以使用「煉獄剎燒斬」、「轟雷衝擊陣」",
         "적 전체에 번개속성 피해+일정 확률로 마비와 스톱 부여+2턴 동안 '연옥찰소참', '굉뇌격충진' 사용 가능",
         "Dégâts de foudre et chance de paralyser et stopper tous les ennemis et permet d'utiliser Flammes du purgatoire et Posture électrocoup pendant deux tours",
         "Blitzschaden und Chance, alle Gegner zu lähmen oder zu stoppen, ermöglicht zwei Runden Flammenschlag des Purgatoriums und Gewitterschlag-Kata.",
@@ -2689,7 +2689,7 @@
     ],
     "100011306": [
         "Deal lightning damage and chance of paralyzing and stopping all enemies, and enable purgatory fire slash and thunder strike stance for two turns",
-        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+2回合內可以使用「煉獄剎燒斬」、「轟雷擊衝陣」",
+        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+2回合內可以使用「煉獄剎燒斬」、「轟雷衝擊陣」",
         "적 전체에 번개속성 피해+일정 확률로 마비와 스톱 부여+2턴 동안 '연옥찰소참', '굉뇌격충진' 사용 가능",
         "Dégâts de foudre et chance de paralyser et stopper tous les ennemis et permet d'utiliser Flammes du purgatoire et Posture électrocoup pendant deux tours",
         "Blitzschaden und Chance, alle Gegner zu lähmen zu stoppen, ermöglicht zwei Runden Flammenschlag des Purgatoriums und Gewitterschlag-Kata.",
@@ -2697,7 +2697,7 @@
     ],
     "100011307": [
         "Lightning damage and chance of paralyzing and stopping all enemies, and enable purgatory fire slash and thunder strike stance for two turns",
-        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+2回合內可以使用「煉獄剎燒斬」、「轟雷擊衝陣」",
+        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+2回合內可以使用「煉獄剎燒斬」、「轟雷衝擊陣」",
         "적 전체에 번개속성 피해+일정 확률로 마비와 스톱 부여+2턴 동안 '연옥찰소참', '굉뇌격충진' 사용 가능",
         "Inflige des dégâts de foudre à tous les ennemis avec une chance de leur infliger paralysie et stop, et permet d'utiliser Flammes du purgatoire et Posture électrocoup pendant deux tours",
         "Fügt allen Gegnern Blitzschaden zu und Chance, sie zu lähmen und zu stoppen und ermöglicht Flammenschlag des Purgatoriums und Gewitterschlag-Kata für zwei Runden.",
@@ -6063,6 +6063,30 @@
         "Teilweise direkter Magieschaden, alle Ziele",
         "Daño mágico absoluto parcial a los enemigos"
     ],
+    "210000605": [
+        "Deal partial unmitigated damage and reduce fire and wind resistance for all enemies",
+        "對全體敵人發動無視部分防禦的攻擊+降低火風屬性耐性",
+        "적 전체에 일부 방어 무시 피해+불과 바람속성 저항력 감소",
+        "Inflige des dégâts en partie fixes, et réduit la résistance au feu et au vent de tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuer- und Windresistenz.",
+        "Inflige daño absoluto parcial y reduce la resistencia al fuego de todos los enemigos"
+    ],
+    "210000606": [
+        "Deal partial unmitigated damage and reduce fire and wind resistance for all enemies",
+        "對全體敵人發動無視部分防禦的攻擊+降低火風屬性耐性",
+        "적 전체에 일부 방어 무시 피해+불과 바람속성 저항력 감소",
+        "Inflige des dégâts en partie fixes, et réduit la résistance au feu et au vent de tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuer- und Windresistenz.",
+        "Inflige daño absoluto parcial y reduce la resistencia al fuego de todos los enemigos"
+    ],
+    "210000607": [
+        "Deal partial unmitigated damage and reduce fire and wind resistance for all enemies",
+        "對全體敵人發動無視部分防禦的攻擊+降低火風屬性耐性",
+        "적 전체에 일부 방어 무시 피해+불과 바람속성 저항력 감소",
+        "Inflige des dégâts en partie fixes, et réduit la résistance au feu et au vent de tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuer- und Windresistenz.",
+        "Inflige daño absoluto parcial y reduce la resistencia al fuego de todos los enemigos"
+    ],
     "210000704": [
         "Boost DEF and SPR for all allies and automatically revive all allies one time",
         "提高全體隊員的防禦精神+賦予全體隊員從無法戰鬥狀態中自動復活1次",
@@ -6110,6 +6134,78 @@
         "Dégâts sur tous les ennemis, et augmente les dégâts magiques du lanceur contre les morts-vivants",
         "Schaden für alle Gegner und erhöht Magieschaden gegen Untote von Benutzer.",
         "Daña a todos los enemigos y aumenta el daño mágico del usuario contra muertos vivientes"
+    ],
+    "210001005": [
+        "Damage all enemies and enable triple quickstrike for three turns",
+        "攻擊全體敵人+3回合內可使用「速攻×3」",
+        "적 전체에 피해+3턴 동안 '속공x3' 사용 가능",
+        "Inflige des dégâts à tous les ennemis et permet d'utiliser Triple choc pendant trois tours",
+        "Fügt allen Gegnern Schaden zu und ermöglicht drei Runden lang Tripel-Schnellattacke.",
+        "Daña a todos los enemigos y aprende Golpe rápido triple durante 3 turnos"
+    ],
+    "210001006": [
+        "Damage all enemies and enable triple quickstrike for three turns",
+        "攻擊全體敵人+3回合內可使用「速攻×3」",
+        "적 전체에 피해+3턴 동안 '속공x3' 사용 가능",
+        "Inflige des dégâts à tous les ennemis et permet d'utiliser Triple choc pendant trois tours",
+        "Fügt allen Gegnern Schaden zu und ermöglicht drei Runden lang Tripel-Schnellattacke.",
+        "Daña a todos los enemigos y aprende Golpe rápido triple durante 3 turnos"
+    ],
+    "210001007": [
+        "Damage all enemies and enable triple quickstrike for three turns",
+        "攻擊全體敵人+3回合內可使用「速攻×3」",
+        "적 전체에 피해+3턴 동안 '속공x3' 사용 가능",
+        "Inflige des dégâts à tous les ennemis et permet d'utiliser Triple choc pendant trois tours",
+        "Fügt allen Gegnern Schaden zu und ermöglicht drei Runden lang Tripel-Schnellattacke.",
+        "Daña a todos los enemigos y aprende Golpe rápido triple durante 3 turnos"
+    ],
+    "210001503": [
+        "Boost ATK and LB gauge fill rate for all allies, and temporarily add chance of counterattacking when an ally receives a physical attack",
+        "提高全體隊員的攻擊+提高極限技石對極限技槽的增加量+暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊",
+        "아군 전체의 공격력 상승+LB 게이지 효율 상승+일시적으로 자신을 제외한 아군이 물리 공격을 받으면 일정 확률로 반격 효과 부여",
+        "Augmente l'ATT et le taux de remplissage de la jauge de limite pour tous les alliés, et leur confère temporairement une chance de contre-attaquer lorsqu'un allié subit une attaque physique",
+        "Erhöht ANG, Limitmeter füllt sich schneller für alle Verbündeten und kurzzeitige Chance zu kontern, wenn ein Verbündeter von einem physischen Angriff getroffen wird.",
+        "Aumenta el ATQ, la barra de EL de todos los aliados se rellena más rápido y añade temporalmente la probabilidad de contraatacar cuando el aliado recibe un ataque físico"
+    ],
+    "210001504": [
+        "Boost ATK and LB gauge fill rate for all allies, and temporarily add chance of counterattacking when an ally receives a physical attack",
+        "提高全體隊員的攻擊+提高極限技石對極限技槽的增加量+暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊",
+        "아군 전체의 공격력 상승+LB 게이지 효율 상승+일시적으로 자신을 제외한 아군이 물리 공격을 받으면 일정 확률로 반격 효과 부여",
+        "Augmente l'ATT et le taux de remplissage de la jauge de limite pour tous les alliés, et leur confère temporairement une chance de contre-attaquer lorsqu'un allié subit une attaque physique",
+        "Erhöht ANG, Limitmeter füllt sich schneller für alle Verbündeten und kurzzeitige Chance zu kontern, wenn ein Verbündeter von einem physischen Angriff getroffen wird.",
+        "Aumenta el ATQ, la barra de EL de todos los aliados se rellena más rápido y añade temporalmente la probabilidad de contraatacar cuando el aliado recibe un ataque físico"
+    ],
+    "210001505": [
+        "Boost ATK and LB gauge fill rate for all allies, and temporarily add chance of counterattacking when an ally receives a physical attack",
+        "提高全體隊員的攻擊+提高極限技石對極限技槽的增加量+暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊",
+        "아군 전체의 공격력 상승+LB 게이지 효율 상승+일시적으로 자신을 제외한 아군이 물리 공격을 받으면 일정 확률로 반격 효과 부여",
+        "Augmente l'ATT et le taux de remplissage de la jauge de limite pour tous les alliés, et leur confère temporairement une chance de contre-attaquer lorsqu'un allié subit une attaque physique",
+        "Erhöht ANG, Limitmeter füllt sich schneller für alle Verbündeten und kurzzeitige Chance zu kontern, wenn ein Verbündeter von einem physischen Angriff getroffen wird.",
+        "Aumenta el ATQ, la barra de EL de todos los aliados se rellena más rápido y añade temporalmente la probabilidad de contraatacar cuando el aliado recibe un ataque físico"
+    ],
+    "210001904": [
+        "Damage all enemies and fill evocation gauge",
+        "攻擊全體敵人+增加召喚槽",
+        "적 전체에 피해+소환 게이지 증가",
+        "Inflige des dégâts à tous les ennemis et remplit la jauge d'appel",
+        "Fügt allen Gegnern Schaden zu und füllt Rufleiste.",
+        "Daña a todos los enemigos y rellena la barra de invocación"
+    ],
+    "210001905": [
+        "Damage all enemies and fill evocation gauge",
+        "攻擊全體敵人+增加召喚槽",
+        "적 전체에 피해+소환 게이지 증가",
+        "Inflige des dégâts à tous les ennemis et remplit la jauge d'appel",
+        "Fügt allen Gegnern Schaden zu und füllt Rufleiste.",
+        "Daña a todos los enemigos y rellena la barra de invocación"
+    ],
+    "210001906": [
+        "Damage all enemies and fill evocation gauge",
+        "攻擊全體敵人+增加召喚槽",
+        "적 전체에 피해+소환 게이지 증가",
+        "Inflige des dégâts à tous les ennemis et remplit la jauge d'appel",
+        "Fügt allen Gegnern Schaden zu und füllt Rufleiste.",
+        "Daña a todos los enemigos y rellena la barra de invocación"
     ],
     "211000103": [
         "Fire and lightning damage to all enemies",
@@ -8508,7 +8604,7 @@
         "攻擊全體敵人+解除部分狀態效果",
         "적 전체에 피해+일부 능력치 효과 해제",
         "Inflige des dégâts et retire certaines altérations d'état à tous les ennemis",
-        "Fügt allen Gegner Schaden zu und entfernt einige seiner Statuseffekte.",
+        "Fügt allen Gegnern Schaden zu und entfernt einige ihrer Statuseffekte.",
         "Daña y elimina algunos estados alterados de los enemigos"
     ],
     "306001105": [
@@ -8516,7 +8612,7 @@
         "攻擊全體敵人+解除部分狀態效果",
         "적 전체에 피해+일부 능력치 효과 해제",
         "Inflige des dégâts et retire certaines altérations d'état à tous les ennemis",
-        "Fügt allen Gegner Schaden zu und entfernt einige seiner Statuseffekte.",
+        "Fügt allen Gegnern Schaden zu und entfernt einige ihrer Statuseffekte.",
         "Daña y elimina algunos estados alterados de los enemigos"
     ],
     "306001106": [
@@ -8524,7 +8620,7 @@
         "攻擊全體敵人+解除部分狀態效果",
         "적 전체에 피해+일부 능력치 효과 해제",
         "Inflige des dégâts et retire certaines altérations d'état à tous les ennemis",
-        "Fügt allen Gegner Schaden zu und entfernt einige seiner Statuseffekte.",
+        "Fügt allen Gegnern Schaden zu und entfernt einige ihrer Statuseffekte.",
         "Daña y elimina algunos estados alterados de los enemigos"
     ],
     "306001204": [
@@ -10364,7 +10460,7 @@
         "對全體敵人發動雷屬性攻擊+3回合內降低攻擊防禦+3回合內提高自身的攻擊",
         "적 전체에 번개속성 피해+3턴 동안 공격력과 방어력 감소+자신의 공격력 상승",
         "Inflige des dégâts de foudre et réduit l'ATT et la DEF de tous les ennemis pendant 3 tours et augmente l'ATT du lanceur pendant 3 tours",
-        "Fügt allen Gegnern Blitzschaden zu, verringert 3 Runden lange ihre ANG und ABW und erhöht für 3 Runden eigenen ANG.",
+        "Fügt allen Gegnern Blitzschaden zu, verringert ihre ANG und ABW für 3 Runden und erhöht ANG des Benutzers für 3 Runden.",
         "Inflige daño de rayo y reduce el ATQ y la DEF de todos los enemigos durante 3 turnos, aumenta el ATQ del usuario durante 3 turnos"
     ],
     "401005105": [
@@ -10825,7 +10921,7 @@
     ],
     "900000207": [
         "Deal lightning damage and chance of paralyzing and stopping all enemies, and enable true purgatory fire slash, true thunder strike stance, and shadow dragon roar for three turns",
-        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+3回合內可使用「真‧煉獄剎燒斬」「真‧轟雷擊衝陣」「暗龍咆絕破」",
+        "對全體敵人發動雷屬性攻擊+一定機率施加麻痺停止效果+3回合內可使用「真‧煉獄剎燒斬」「真‧轟雷衝擊陣」「暗龍咆絕破」",
         "적 전체에 번개속성 피해+일정 확률로 마비와 스톱 부여+3턴 동안 '진·연옥찰소참', '진·굉뇌격출진', '흑룡포절파' 사용 가능",
         "Inflige des dégâts de foudre à tous les ennemis avec une chance de leur infliger paralysie et stop, et permet d'utiliser Flammes du purgatoire ultimes, Posture électrocoup ultime et Rugissement du dragon des ombres pendant trois tours",
         "Fügt allen Gegnern Blitzschaden zu und Chance, sie zu lähmen und zu stoppen und ermöglicht Wahrer Flammenschlag des Purgatoriums, Wahre Gewitterschlag-Kata und Gebrüll des Schattendrachen für drei Runden.",
@@ -10870,6 +10966,14 @@
         "Réduit la résistance à la glace, inflige des dégâts de glace à tous les ennemis, augmente l'ATT et la MAGIE du lanceur et permet d'utiliser Triple Zekken et Zekken - Pluie du crépuscule pendant un tour",
         "Fügt allen Gegnern Eisschaden zu und verringert ihre Eisresistenz, erhöht ANG und MAG des Benutzers und ermöglicht Dreifach-Zekken und Zekken - Regen im Zwielicht für eine Runde.",
         "Reduce la resistencia al hielo e inflige daño de hielo a todos los enemigos, aumenta el ATQ y la MAG del usuario y aprende Zekken triple y Zekken - Lluvia del crepúsculo durante un turno"
+    ],
+    "900000317": [
+        "Deal partial unmitigated damage and reduce ATK, DEF, MAG, SPR, fire and wind resistance for all enemies",
+        "對全體敵人發動無視部分防禦的攻擊+降低攻擊防禦魔力精神、火風屬性耐性",
+        "적 전체에 일부 방어 무시 피해+공격력, 방어력, 마력, 정신력, 불과 바람속성 저항력 감소",
+        "Inflige des dégâts en partie fixes, et réduit l'ATT, la DEF, la MAGIE, la PSY, la résistance au feu et la résistance au vent de tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre ANG, ABW, MAG und PSY sowie Feuer- und Windresistenz.",
+        "Inflige daño absoluto parcial y reduce el ATQ, la DEF, la MAG, el ESP y la resistencia al fuego y el viento de todos los enemigos"
     ],
     "900000320": [
         "Deal partial unmitigated damage and reduce ATK, DEF, MAG, SPR for all enemies, and reduce damage taken for caster",

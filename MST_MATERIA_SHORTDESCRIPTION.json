@@ -2612,7 +2612,7 @@
         "戰鬥中每回合自動恢復HPMP+增加極限技槽",
         "전투 중 매 턴마다 HP와 MP 회복+LB 게이지 증가",
         "Restaure PV/PM et remplit la jauge de limite à chaque tour pendant le combat",
-        "Stellt alle LP und MP, Limitmeter steigt langsam.",
+        "Regeneriert während des Kampfes jede Runde LP und MP und füllt Limitmeter.",
         "Recupera VIT y PM durante cada turno y recupera la barra de LB de cada uno."
     ],
     "504214360": [
@@ -3628,7 +3628,7 @@
         "提高10%MP+提高15%暗屬性耐性",
         "MPを10%, 어둠속성 저항력 15% 상승",
         "Augmente les PM de 10% et la résistance aux ténèbres de 15%",
-        "Erhöht MP und 10% und Dunkelresistenz um 15%.",
+        "Erhöht MP um 10% und Dunkelresistenz um 15%.",
         "Aumenta los PM un 10% y la resistencia a la oscuridad un 15%."
     ],
     "504227209": [
@@ -3716,7 +3716,7 @@
         "提高40%攻擊、50%暗屬性耐性",
         "공격력 40%, 어둠속성 저항력 50% 상승",
         "Augmente l'ATT de 40% et la résistance aux ténèbres de 50%",
-        "Erhöht ANG um 40% und Dunkelresistenz zum 50%.",
+        "Erhöht ANG um 40% und Dunkelresistenz um 50%.",
         "Aumenta el ATQ un 40% y la resistencia a la oscuridad un 50%"
     ],
     "504227410": [
@@ -3924,7 +3924,7 @@
         "提高20%攻擊魔力+提高極限技石對極限技槽的增加量",
         "공격력과 마력 20% 상승+LB 게이지 효율 상승",
         "Augmente l'ATT et la MAGIE de 20%, et augmente le taux de remplissage de la jauge de limite",
-        null,
+        "Erhöht ANG und MAG um 20% und Limitmeter füllt sich schneller.",
         "Aumenta el ATQ y la MAG un 20% y la barra de EL se rellena más rápido"
     ],
     "504228287": [
@@ -4030,6 +4030,54 @@
         "Augmente l'ATT de 40% et les dégâts physiques infligés aux plantes (Non cumulable)",
         "Erhöht ANG um 40% und erhöht physischen Schaden gegen Pflanzen (Nicht stapelbar).",
         "Aumenta el ATQ un 40% y el daño físico contra plantas (no acumulable)"
+    ],
+    "504228860": [
+        "Boost HP and MP by 20%, and boost ATK by 50% when equipped with a large sword",
+        "提高20%HPMP+裝備大劍時提高50%攻擊",
+        "HP와 MP 20% 상승+대검 장착 시 공격력 50% 상승",
+        "Augmente les PV et les PM de 20%, et augmente l'ATT de 50% lorsqu'une épée longue est équipée",
+        "Erhöht LP und MP um 20% und erhöht ANG um 50%, wenn mit einem Großschwert ausgerüstet.",
+        "Aumenta la VIT y los PM un 20%, y aumenta el ATQ un 50% al llevar espada grande"
+    ],
+    "504228861": [
+        "Nullify confusion, disease, and stone, and boost ATK by 60% when equipped with a katana",
+        "混亂生病石化無效+裝備刀時提高60%攻擊",
+        "혼란, 질병, 석화 무효화+도 장착 시 공격력 60% 상승",
+        "Annule confusion, maladie et pétrification, et augmente l'ATT de 60% lorsqu'un katana est équipé",
+        "Annulliert Konfus, Virus und Stein und erhöht ANG um 60%, wenn mit einem Katana ausgerüstet.",
+        "Anula confusión, enfermedad y piedra, y aumenta el ATQ un 60% al llevar katana"
+    ],
+    "504228862": [
+        "Boost MAG by 40%, and boost parameters of espers evoked by 10%",
+        "提高40%魔力+發動召喚魔法時提高10%幻獸狀態",
+        "마력 40% 상승+소환마법 사용 시 환수 능력치 10% 상승",
+        "Augmente la MAGIE de 40% et les caractéristiques des chimères appelées de 10%",
+        "Erhöht MAG um 40% und erhöht Werte gerufener Esper um 10%.",
+        "Aumenta la MAG un 40% y potencia los parámetros de los espers invocados un 10%"
+    ],
+    "504228865": [
+        "Boost ATK by 10%, and boost physical damage against demons",
+        "提高10%攻擊+物理攻擊時提高對惡魔系魔物的傷害",
+        "공격력 10% 상승+물리 공격 시 악마형 마물에게 부여하는 피해량 상승",
+        "Augmente l'ATT de 10% ainsi que les dégâts physiques contre les démons",
+        "Erhöht ANG um 10% und erhöht physischen Schaden gegen Dämonen.",
+        "Aumenta el ATQ un 10% y el daño físico contra demonios"
+    ],
+    "504228866": [
+        "Boost MAG by 10%, and boost magic damage against demons",
+        "提高10%魔力+魔法攻擊時提高對惡魔系魔物的傷害",
+        "마력 10% 상승+마법 공격 시 악마형 마물에게 부여하는 피해량 상승",
+        "Augmente la MAGIE de 10% ainsi que les dégâts magiques contre les démons",
+        "Erhöht MAG um 10% und erhöht magischen Schaden gegen Dämonen.",
+        "Aumenta la MAG un 10% y el daño mágico contra demonios"
+    ],
+    "504229221": [
+        "Boost damage for jump attacks",
+        "提高跳躍系能力的傷害數值",
+        "점프 계열 어빌리티 피해량 상승",
+        "Augmente les dégâts des aptitudes de saut",
+        "Erhöht Schaden von Sprungangriffen.",
+        "Aumenta el ataque de las habilidades de salto."
     ],
     "504230010": [
         "Boost ATK by 40% when equipped with a sword, katana, or spear, boost physical and magic damage against humans, and enable or not to [B]e (Not stackable)",
@@ -4940,7 +4988,7 @@
         "裝備重鎧甲時提高防禦+睡眠麻痺混亂石化無效[無法重複裝備]",
         "중갑 장착 시 방어력 상승+수면, 마비, 혼란, 석화 무효화  (중복 장착 불가)",
         "Augmente la DEF lorsqu'une armure lourde est équipée et annule sommeil, paralysie, confusion et pétrification (pas cumulable)",
-        "Erhöht ABW, wenn mit schwerer Rüstung ausgestattet und annulliert Schlaf, Lähmung, Konfus und Stein  (Nicht stapelbar).",
+        "Erhöht ABW, wenn mit schwerer Rüstung ausgerüstet und annulliert Schlaf, Lähmung, Konfus und Stein (Nicht stapelbar).",
         "Aumenta la DEF al llevar armadura pesada, y anula sueño, parálisis, confusión y piedra  (no acumulable)"
     ],
     "1500000067": [
