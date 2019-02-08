@@ -139,33 +139,33 @@
         "Regen (Lvl 1)",
         "再生(Lv.1)",
         "리제네(Lv.1)",
-        null,
-        null,
-        null
+        "Récup",
+        "Regena (St. 1)",
+        "Revitalia (Nv. 1)"
     ],
     "10127": [
         "Regen (Lvl 2)",
         "再生(Lv.2)",
         "리제네(Lv.2)",
-        null,
-        null,
-        null
+        "Récup",
+        "Regena (St. 2)",
+        "Revitalia (Nv. 2)"
     ],
     "10128": [
         "Regen (Lvl 3)",
         "再生(Lv.3)",
         "리제네(Lv.3)",
-        null,
-        null,
-        null
+        "Récup",
+        "Regena (St. 3)",
+        "Revitalia (Nv. 3)"
     ],
     "10129": [
         "Regen (Lvl 4)",
         "再生(Lv.4)",
         "리제네(Lv.4)",
-        null,
-        null,
-        null
+        "Récup",
+        "Regena (St. 4)",
+        "Revitalia (Nv. 4)"
     ],
     "10130": [
         "Dispel",
@@ -1051,49 +1051,49 @@
         "Protect (Lvl 1)",
         "物防護(Lv.1)",
         "프로테스(Lv.1)",
-        null,
-        null,
-        null
+        "Bouclier",
+        "Protes (St. 1)",
+        "Coraza (Nv. 1)"
     ],
     "30093": [
         "Protect (Lvl 2)",
         "物防護(Lv.2)",
         "프로테스(Lv.2)",
-        null,
-        null,
-        null
+        "Bouclier",
+        "Protes (St. 2)",
+        "Coraza (Nv. 2)"
     ],
     "30094": [
         "Protect (Lvl 3)",
         "物防護(Lv.3)",
         "프로테스(Lv.3)",
-        null,
-        null,
-        null
+        "Bouclier",
+        "Protes (St. 3)",
+        "Coraza (Nv. 3)"
     ],
     "30095": [
         "Protect (Lvl 4)",
         "物防護(Lv.4)",
         "프로테스(Lv.4)",
-        null,
-        null,
-        null
+        "Bouclier",
+        "Protes (St. 4)",
+        "Coraza (Nv. 4)"
     ],
     "30096": [
         "Protect (Lvl 5)",
         "物防護(Lv.5)",
         "프로테스(Lv.5)",
-        null,
-        null,
-        null
+        "Bouclier",
+        "Protes (St. 5)",
+        "Coraza (Nv. 5)"
     ],
     "30097": [
         "Protect (Basch)",
         "物防護(巴修用)",
         "프로테스(바슈 용)",
-        null,
-        null,
-        null
+        "Bouclier",
+        "Protes (St. 6)",
+        "Coraza (Nv. 6)"
     ],
     "30100": [
         "Silence",
@@ -1147,49 +1147,49 @@
         "Shell (Lvl 1)",
         "魔防護(Lv.1)",
         "셸(Lv.1)",
-        null,
-        null,
-        null
+        "Barrière",
+        "Vallum (St. 1)",
+        "Escudo (Nv. 1)"
     ],
     "30143": [
         "Shell (Lvl 2)",
         "魔防護(Lv.2)",
         "셸(Lv.2)",
-        null,
-        null,
-        null
+        "Barrière",
+        "Vallum (St. 2)",
+        "Escudo (Nv. 2)"
     ],
     "30144": [
         "Shell (Lvl 3)",
         "魔防護(Lv.3)",
         "셸(Lv.3)",
-        null,
-        null,
-        null
+        "Barrière",
+        "Vallum (St. 3)",
+        "Escudo (Nv. 3)"
     ],
     "30145": [
         "Shell (Lvl 4)",
         "魔防護(Lv.4)",
         "셸(Lv.4)",
-        null,
-        null,
-        null
+        "Barrière",
+        "Vallum (St. 4)",
+        "Escudo (Nv. 4)"
     ],
     "30146": [
         "Shell (Lvl 5)",
         "魔防護(Lv.5)",
         "셸(Lv.5)",
-        null,
-        null,
-        null
+        "Barrière",
+        "Vallum (St. 5)",
+        "Escudo (Nv. 5)"
     ],
     "30147": [
         "Protect (Basch)",
         "魔防護(巴修用)",
         "셸(바슈 용)",
-        null,
-        null,
-        null
+        "Barrière",
+        "Vallum (St. 6)",
+        "Escudo (Basch)"
     ],
     "30150": [
         "Deprotect",
@@ -1268,8 +1268,8 @@
         "勇氣(火星聖印用)",
         "브레이브(화성의 성인 용)",
         "Bravoure (Décuplo constant)",
-        "Courage (Konstanter Energieschub)",
-        "Bravura (Doble potencia interminable)"
+        "Courage (Mars-Siegel)",
+        "Bravura (Emblema de Marte)"
     ],
     "30214": [
         "Brave (White Lotus)",
@@ -1910,5 +1910,13 @@
         "Récup (auto)",
         "Regena (auto)",
         "Revitalia (Auto)"
+    ],
+    "91018": [
+        "Regen (Seasoned Adventurer)",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia"
     ]
 }

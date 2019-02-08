@@ -1,12 +1,4 @@
 {
-    "(auto)": [
-        "Revitalia (Auto)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "ABILITY": [
         "ability",
         "能力",
@@ -59,7 +51,7 @@
         "poison@blind@sleep@silence@paralysis@confusion@disease@stone@stop@charm@berserk",
         "中毒@失明@睡眠@沉默@麻痺@混亂@生病@石化@停止@魅惑@狂暴",
         "독@암흑@수면@침묵@마비@혼란@질병@석화@스톱@매혹@광폭화",
-        "Poison@Cécité@Sommeil@Silence@Paralysie@Confusion@Maladie@Pétrification@Stop@Charme@Furie",
+        "\"poison\"@\"cécité\"@\"sommeil\"@\"silence\"@\"paralysie\"@\"confusion\"@\"maladie\"@\"pétrification\"@\"stop\"@\"charme\"@\"furie\"",
         "Gift@Blind@Schlaf@Stille@Lähmung@Konfus@Virus@Stein@Stopp@Bezaubern@Berserker",
         "veneno@ceguera@sueño@silencio@parálisis@confusión@enfermedad@piedra@paro@embrujo@locura"
     ],
@@ -67,7 +59,7 @@
         "clothes@light armor@heavy armor@robe",
         "衣服@輕鎧甲@重鎧甲@法袍",
         "옷@경갑@중갑@로브",
-        "vêtements@armure légère@armure lourde@robe",
+        "\"vêtements\"@\"armure légère\"@\"armure lourde\"@\"robe\"",
         "Kleidung@Leichte Rüstung@Schwere Rüstung@Robe",
         "ropa@armadura ligera@armadura pesada@túnica"
     ],
@@ -83,7 +75,7 @@
         "hat@helm",
         "帽子@頭盔",
         "모자@투구",
-        "chapeau@casque",
+        "\"chapeau\"@\"casque\"",
         "Hut@Helm",
         "sombrero@yelmo"
     ],
@@ -96,15 +88,15 @@
         "En función de la unidad"
     ],
     "ABILITY_DETAIL_RANGE_ALL": [
-        "All",
+        "all",
         "全體",
         "전체",
         "(tous)",
-        "Alle",
+        "(Alle)",
         "(todos)"
     ],
     "ABILITY_DETAIL_RANGE_RANDOM": [
-        "Random",
+        "random",
         "隨機",
         "무작위로",
         "aléatoire",
@@ -112,18 +104,18 @@
         "aleatorio"
     ],
     "ABILITY_DETAIL_RANGE_SOLO": [
-        "Single",
+        "single",
         "1名",
         "1명",
         "(1 seul)",
-        "Einzeln",
+        "(Einzeln)",
         "(solo 1)"
     ],
     "ABILITY_DETAIL_SHIELD_LIST": [
         "light shield@heavy shield",
         "輕盾@重盾",
         "경방패@중방패",
-        "bouclier léger@bouclier lourd",
+        "\"bouclier léger\"@\"bouclier lourd\"",
         "Leichter Schild@Schwerer Schild",
         "escudo ligero@escudo pesado"
     ],
@@ -200,7 +192,7 @@
         "ATQ@DEF@MAG@ESP@VIT@PM"
     ],
     "ABILITY_DETAIL_TARGET_ALL": [
-        "Enemies/Allies",
+        "enemies/allies",
         "敵人/隊員",
         "적과 아군",
         "ennemis et alliés",
@@ -208,47 +200,47 @@
         "enemigos y aliados"
     ],
     "ABILITY_DETAIL_TARGET_MY_PARTY": [
-        "Ally",
+        "ally",
         "隊員",
         "아군",
         "allié(s)",
-        "Verbündeter",
+        "Verb.",
         "aliado(s)"
     ],
     "ABILITY_DETAIL_TARGET_OTHER_PARTY": [
-        "Enemy",
+        "enemy",
         "敵人",
         "적",
         "ennemi(s)",
         "Gegner",
-        "enemigo(s)"
+        "enemigo"
     ],
     "ABILITY_DETAIL_TARGET_OWN": [
-        "Self",
+        "unit (self)",
         "自身",
         "자신",
         "le lanceur",
-        "Selbst",
-        "el usuario"
+        "Benutzer",
+        "la propia unidad"
     ],
     "ABILITY_DETAIL_TARGET_SELECT": [
-        "Ally",
+        "ally",
         "隊員",
         "아군",
         "allié(s)",
-        "Verbündeter",
+        "Verb.",
         "aliado(s)"
     ],
     "ABILITY_DETAIL_TARGET_WITHOUT_OWN_ALL": [
-        "All Allies but Self",
+        "all allies but unit (self)",
         "除自身以外的全體隊員",
         "자신을 제외한 아군 전체",
         "tous les alliés sauf le lanceur",
-        "Alle Verbündete außer selbst",
+        "Verb. (alle außer Benutzer)",
         "todos los aliados excepto el usuario"
     ],
     "ABILITY_DETAIL_TARGET_WITHOUT_OWN_SOLO": [
-        "Single Ally",
+        "single ally",
         "1名隊員",
         "아군 1명",
         "un allié",
@@ -259,7 +251,7 @@
         "beast@avian@aquatic@demon@human@machina@dragon@fairy@insect@stone@plant@reaper",
         "獸@鳥@水生@惡魔@人@機械@龍@精靈@蟲@岩石@植物@死靈",
         "야수@조류@수중@악마@인간@기계@드래곤@정령@곤충@암석@식물@사령",
-        "bêtes@oiseaux@aquatiques@démons@humains@machines@dragons@esprits@insectes@pierres@plantes@morts-vivants",
+        "\"bêtes\"@\"oiseaux\"@\"aquatiques\"@\"démons\"@\"humains\"@\"machines\"@\"dragons\"@\"esprits\"@\"insectes\"@\"pierres\"@\"plantes\"@\"morts-vivants\"",
         "Bestie@Vogel@Wasser@Dämon@Mensch@Maschine@Drache@Fee@Insekt@Steie@Pflanze@Untoter",
         "bestia@ave@acuático@demonio@humano@máquina@dragón@espíritu@insecto@pétreo@plantoide@m. viviente"
     ],
@@ -267,7 +259,7 @@
         "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fists",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
-        "épée courte@épée@épée longue@katana@bâton@sceptre@arc@hache@marteau@lance@instrument@fouet@arme de jet@arme à feu@masse@poings",
+        "\"épée courte\"@\"épée\"@\"épée longue\"@\"katana\"@\"bâton\"@\"sceptre\"@\"arc\"@\"hache\"@\"marteau\"@\"lance\"@\"instrument\"@\"fouet\"@\"arme de jet\"@\"arme à feu\"@\"masse\"@\"poings\"",
         "Kurzschwert@Schwert@Großschwert@Katana@Stab@Rute@Bogen@Axt@Hammer@Speer@Instrument@Peitsche@Wurfwaffe@Schusswaffe@Keule@Faust",
         "espada corta@espada@espada grande@katana@bastón@vara@arco@hacha@martillo@lanza@un instrumento@látigo@un arma arrojadiza@pistola@maza@puños"
     ],
@@ -3927,6 +3919,14 @@
         "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
     ],
+    "EXPLAIN_REWARD_1020": [
+        "Here are today's login rewards. Don't forget to use your STAR OCEAN: ANAMNESIS Tickets, kupo!",
+        "這些是今天的登入獎勵，別忘了使用STAR OCEAN: ANAMNESIS召喚券，庫啵！",
+        "오늘의 출석 보상! STAR OCEAN: ANAMNESIS 티켓을 사용해봐쿠포!",
+        "Voici vos récompenses de connexion pour aujourd'hui. N'oubliez pas d'utiliser vos tickets STAR OCEAN : ANAMNESIS, kupo !",
+        "Hier sind deine täglichen Anmeldebelohnungen. Vergiss nicht, deine STAR OCEAN: ANAMNESIS Karten zu benutzen, kupo!",
+        "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de STAR OCEAN: ANAMNESIS, kupó!"
+    ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
         "獲得素材",
@@ -6527,6 +6527,14 @@
         "STAR OCEAN: ANAMNESIS Ereignisbelohnungen",
         "Recompensas del evento de STAR OCEAN: ANAMNESIS"
     ],
+    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1020": [
+        "Lunar New Year Event Rewards",
+        "農曆新年活動獎勵",
+        "설날맞이 이벤트 보상",
+        "Récompenses événement du Nouvel An lunaire",
+        "Neues Mondjahr Ereignisbelohnungen",
+        "Recompensas del evento del Año Nuevo Lunar"
+    ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
         "Special Daily Login",
         "每日特別登入",
@@ -6678,6 +6686,14 @@
         "Bonus de connexion de la STAR OCEAN: ANAMNESIS",
         "STAR OCEAN: ANAMNESIS Anmeldebonus",
         "Bonificación de inicio de sesión de STAR OCEAN: ANAMNESIS"
+    ],
+    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1020": [
+        "Lunar New Year Login Bonus",
+        "農曆新年登入獎勵",
+        "설날맞이 출석 보상",
+        "Bonus de connexion du Nouvel An lunaire",
+        "Neues Mondjahr Anmeldebonus",
+        "Bonificación de inicio de sesión del Año Nuevo Lunar"
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -11140,7 +11156,7 @@
         "武具強化活動寶珠恢復藥",
         "무기 강화 이벤트 구슬 회복",
         "Potion de récupération d'orbe d'événement d'amélioration d'armes",
-        "Trank zur Wiederherstellung von Juwelen f. Ereignis zur Ausrüstungsverbesserung",
+        "Trank z. Wiederherstellung von Ausrüstungsverbesserung-Juwelen",
         "Poción de recuperación de orbe de evento para mejora de equipo"
     ],
     "MST_SHOP_NAME_30": [
@@ -12269,7 +12285,7 @@
         "암석형",
         "Pierre",
         "Stein",
-        "Piedra"
+        "Pétreo"
     ],
     "MST_TRIBE_NAME_11": [
         "Plant",
@@ -14128,7 +14144,7 @@
         "Próxima recompensa en:"
     ],
     "SG_BUNDLE_OBTAINED": [
-        "Obtained",
+        "Obtained %s",
         "獲得",
         "획득",
         "Obtenu",
@@ -14152,7 +14168,7 @@
         "Subscripción:"
     ],
     "SG_BUNDLE_TAP_DETAILS": [
-        "*Tap the item to see more details.",
+        "*Tap and hold the item to see more details.",
         "*點擊該項目以查看詳情。",
         "*자세한 내용을 보시려면 아이템을 터치하세요.",
         "* Touchez l'objet pour plus d'informations.",
@@ -14168,12 +14184,12 @@
         "%.2d:%.2d horas"
     ],
     "SG_BUNDLE_WELCOME_TEXT": [
-        "Remember to log in for 8 days to get your next milestone reward!",
-        "記得累積登入8天，獲得下一個里程碑獎勵！",
-        "8일 동안 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
-        "N'oubliez pas de vous connecter pendant 8 jours pour obtenir votre prochaine récompense d'étape !",
-        "Denke daran, dich 8 Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
-        "¡Acuérdate de iniciar sesión durante 8 días para conseguir tu nueva recompensa de récord!"
+        "Remember to log in for %s days to get your next milestone reward!",
+        "記得累積登入%天，獲得下一個里程碑獎勵！",
+        "%일 동안 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
+        "N'oubliez pas de vous connecter pendant % jours pour obtenir votre prochaine récompense d'étape !",
+        "Denke daran, dich % Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
+        "¡Acuérdate de iniciar sesión durante % días para conseguir tu nueva recompensa de récord!"
     ],
     "SG_CLSM_HINT_BTN": [
         "Reward Info",
@@ -18598,6 +18614,14 @@
         "Carte d'embarquement de Zalgabaath",
         "Zalgabaaths Bordkarte",
         "Tarjeta de embarque de Zargabaath"
+    ],
+    "MST_QUEST_NAME_1042001": [
+        "Gears for Reparations",
+        "修理用的齒輪",
+        "수리용 톱니바퀴",
+        "Gears pour réparations",
+        "Zahnräder für die Reparatur",
+        "Herramientas de reparación"
     ],
     "arena_pn": [
         "Your arena orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",
