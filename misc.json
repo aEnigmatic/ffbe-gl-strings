@@ -16,7 +16,7 @@
         "¡Haz que tus unidades superen sus límites con estas habilidades!<br>¡Recibirás los objetos en tu buzón, kupó!"
     ],
     "ABILITY_CHEST_BUNDLE_TITLE": [
-        "Mythril Chest of Ability<br>",
+        "Mythril Chest of Ability",
         "能力秘銀寶箱",
         "어빌리티 미스릴 보물상자",
         "Coffre d'aptitudes en mithril",
@@ -199,6 +199,22 @@
         "Gegner/Verbündete",
         "enemigos y aliados"
     ],
+    "ABILITY_DETAIL_TARGET_ALL_RANGE_ALL": [
+        "all enemies/allies",
+        "全體敵人/隊員",
+        "적/아군 전체",
+        "tous les ennemis ou alliés",
+        "Gegner/Verb. (Alle)",
+        "todos los enemigos/aliados"
+    ],
+    "ABILITY_DETAIL_TARGET_ALL_RANGE_SOLO": [
+        "single enemy/ally",
+        "1名敵人/隊員",
+        "적/아군 1명",
+        "un ennemi ou allié",
+        "Gegner/Verb. (Einzeln)",
+        "un enemigo o aliado"
+    ],
     "ABILITY_DETAIL_TARGET_MY_PARTY": [
         "ally",
         "隊員",
@@ -206,6 +222,22 @@
         "allié(s)",
         "Verb.",
         "aliado(s)"
+    ],
+    "ABILITY_DETAIL_TARGET_MY_PARTY_RANGE_ALL": [
+        "all allies",
+        "全體隊員",
+        "아군 전체",
+        "tous les alliés",
+        "Verb. (Alle)",
+        "todos los aliados"
+    ],
+    "ABILITY_DETAIL_TARGET_MY_PARTY_RANGE_SOLO": [
+        "single ally",
+        "1名隊員",
+        "아군 1명",
+        "un allié",
+        "Verb. (Einzeln)",
+        "un aliado"
     ],
     "ABILITY_DETAIL_TARGET_OTHER_PARTY": [
         "enemy",
@@ -215,6 +247,22 @@
         "Gegner",
         "enemigo"
     ],
+    "ABILITY_DETAIL_TARGET_OTHER_PARTY_RANGE_ALL": [
+        "all enemies",
+        "全體敵人",
+        "적 전체",
+        "tous les ennemis",
+        "Gegner (Alle)",
+        "todos los enemigos"
+    ],
+    "ABILITY_DETAIL_TARGET_OTHER_PARTY_RANGE_SOLO": [
+        "single enemy",
+        "1名敵人",
+        "적 1명",
+        "un ennemi",
+        "Gegner (Einzeln)",
+        "un enemigo"
+    ],
     "ABILITY_DETAIL_TARGET_OWN": [
         "unit (self)",
         "自身",
@@ -222,6 +270,30 @@
         "le lanceur",
         "Benutzer",
         "la propia unidad"
+    ],
+    "ABILITY_DETAIL_TARGET_RANDOM_ALL": [
+        "random single enemy/ally",
+        "隨機1名敵人/隊員",
+        "무작위 적/아군 1명",
+        "un ennemi ou allié au hasard",
+        "zuf. Gegner/Verb. (Einzeln)",
+        "un enemigo o aliado al azar"
+    ],
+    "ABILITY_DETAIL_TARGET_RANDOM_MY_PARTY": [
+        "random single ally",
+        "隨機1名隊員",
+        "무작위 아군 1명",
+        "un allié au hasard",
+        "zuf. Verb. (Einzeln)",
+        "un aliado al azar"
+    ],
+    "ABILITY_DETAIL_TARGET_RANDOM_OTHER_PARTY": [
+        "random single enemy",
+        "隨機1名敵人",
+        "무작위 적 1명",
+        "un ennemi au hasard",
+        "zuf. Gegner (Einzeln)",
+        "un enemigo al azar"
     ],
     "ABILITY_DETAIL_TARGET_SELECT": [
         "ally",
@@ -368,15 +440,15 @@
         "Cofre de adamantino próspero"
     ],
     "ADAMANTITE_CHEST_OF_RENEWAL_BUNDLE_DESC": [
-        "Celebrate FFBE's 1st Anniversary in full force with the powers of renewal! Grab this double value, one time only special offer during this period only!<br>",
+        "Celebrate FFBE's 1st Anniversary in full force with the powers of renewal! Grab this double value, one time only special offer during this period only!",
         "以復甦的力量歡慶FFBE一週年到來！把握機會，抓住這個期間內限購1次、價值2倍的特惠商品！",
-        "새로운 힘이 충만한 봄을 맞아 구매 가격의 두 배 효과를 내는 세트상품 출시쿠포! 단 한 번뿐인 기회를 잡아봐쿠포!<br>",
+        "새로운 힘이 충만한 봄을 맞아 구매 가격의 두 배 효과를 내는 세트상품 출시쿠포! 단 한 번뿐인 기회를 잡아봐쿠포!",
         "Célébrez le printemps en faisant le plein de forces avec le pouvoir du renouveau ! Ne manquez pas cette offre qui contient le double de sa valeur, uniquement disponible durant cette période de l'année !",
         "Feiert den Frühling in ganzer Pracht mit der Kraft der Erneuerung! Holt euch euch dieses einmalige Doppelspezialangebot nur in diesem Zeitraum!",
         "¡Celebra la primavera en todo su esplendor con un poder renovador! ¡Hazte con esta oferta única especial de valor doble por tiempo limitado!"
     ],
     "ADAMANTITE_CHEST_OF_RENEWAL_BUNDLE_TITLE": [
-        "Adamantite Chest of Renewal<br>",
+        "Adamantite Chest of Renewal",
         "復甦堅鋼石寶箱",
         "새로운 힘의 금강 보물상자",
         "Coffre en adamantine du renouveau",
@@ -384,7 +456,7 @@
         "Cofre de adamantino renovador"
     ],
     "ADAMANTITE_CHEST_OF_SUMMONING_DESC": [
-        "Fortune favors the bold! The summoning portal awaits, kupo!<br>",
+        "Fortune favors the bold! The summoning portal awaits, kupo!",
         "好運只會造訪有勇氣的人！快來試著召喚吧庫啵！",
         "행운은 용기 있는 자의 것! 자, 소환해봐쿠포!",
         "Le destin sourit aux audacieux ! Le portail des invocations vous attend, kupo !",
@@ -392,7 +464,7 @@
         "¡La fortuna sonríe a los valientes! ¡Prueba este lote y nos vemos en el portal de invocación, kupó!"
     ],
     "ADAMANTITE_CHEST_OF_SUMMONING_TITLE": [
-        "Adamantite Chest of Summoning<br>",
+        "Adamantite Chest of Summoning",
         "召喚堅鋼石寶箱",
         "소환의 금강 보물상자",
         "Coffre d'invocation en adamantine",
@@ -416,12 +488,12 @@
         "Cobre de adamantino navideño"
     ],
     "AG_CHARITY_BUNDLE_DESC": [
-        "This bundle is in response to the incident which took place in Manchester. <br> All profits will be donated to the victims and their families.",
-        "此禮包為曼徹斯特事件的慈善禮包。<br> 收益將會全數捐贈給受害者與家屬。",
+        "This bundle is in response to the incident which took place in Manchester.  All profits will be donated to the victims and their families.",
+        "此禮包為曼徹斯特事件的慈善禮包。 收益將會全數捐贈給受害者與家屬。",
         "이 세트상품은 상품 판매로 발생하는 수익을 맨체스터 사건의 피해자와 그 가족들에게 기부하는 상품입니다.",
         "Ce lot est une réponse à l'incident qui s'est produit à Manchester. Tous les gains générés par ce lot seront reversés aux victimes et à leurs familles.",
         "Dieses Paket ist in Reaktion auf den Vorfall in Manchester entstanden, um für die Opfer und ihre Familien zu spenden.",
-        "Este lote está hecho en respuesta al incidente sucedido en Manchester.<br> Todas las ganancias obtenidas por este lote serán donadas a las víctimas y sus familiares."
+        "Este lote está hecho en respuesta al incidente sucedido en Manchester. Todas las ganancias obtenidas por este lote serán donadas a las víctimas y sus familiares."
     ],
     "AG_CHARITY_BUNDLE_TITLE": [
         "Manchester Charity Bundle",
@@ -480,7 +552,7 @@
         "No trocable"
     ],
     "ANNIVERSARY_CELEBRATION_BUNDLE_DESC": [
-        "Celebrate our 1st anniversary with this limited time only anniversary bundle!<br>",
+        "Celebrate our 1st anniversary with this limited time only anniversary bundle!",
         "購買期間限定的週年禮包，慶祝一週年的到來！",
         "한정 기간 동안 판매되는 1주년 기념 세트상품!",
         "Célébrez notre 1er anniversaire avec ce lot disponible pendant une durée limitée !",
@@ -502,6 +574,22 @@
         "Une nouvelle version de l'application est disponible.",
         "Eine neue Version dieser App ist verfügbar.",
         "Hay una nueva versión de la aplicación disponible."
+    ],
+    "ARENA_ARENA_MAX_ENERGY": [
+        "Your Arena Orbs are already full.",
+        "鬥技場寶珠已滿。",
+        "결투장 구슬이 이미 다 찼습니다.",
+        null,
+        null,
+        "Tus orbes de Arena ya están al máximo."
+    ],
+    "ARENA_COLOSSEUM_MAX_ENERGY": [
+        "Your Colosseum Orbs are already full.",
+        "競技場寶珠已滿。",
+        "투기장 구슬이 이미 다 찼습니다.",
+        null,
+        null,
+        "Tus orbes del Coliseo ya están al máximo."
     ],
     "ARENA_ENERGY_LAPIS_A": [
         "You can use lapis to <color=255:0:0>fully restore your arena orbs</color>.<br>Proceed?",
@@ -591,6 +679,22 @@
         "Arenagruppe verwalten",
         "Gestión de grupo de Arena"
     ],
+    "ARENA_RAID_MAX_ENERGY": [
+        "Your Raid Orbs are already full.",
+        "共鬥寶珠已滿。",
+        "레이드 구슬이 이미 다 찼습니다.",
+        null,
+        null,
+        "Tus orbes de Banda ya están al máximo."
+    ],
+    "ARENA_RAID_ORBS_AVAIL": [
+        "You already have Raid Orbs",
+        "已有共鬥寶珠。",
+        "레이드 구슬을 이미 보유하고 있습니다.",
+        null,
+        null,
+        "Ya tienes orbes de Banda"
+    ],
     "ARENA_REWARD_BOARD_TITLE": [
         "Arena Rewards",
         "鬥技場報酬",
@@ -648,12 +752,12 @@
         "Cofre de plata del despertar"
     ],
     "AWAKENING_PRISM_CONVERT_WARNING": [
-        "Convert unit to awakening material?<br><br>Currently you only have one copy of this unit in your inventory. Converting this unit into an awakening material will cause you to lose the base unit needed for its 7★ awakening, and you will not be able to awaken it to 7★ until you acquire another copy of this particular unit.",
-        "將兵員轉換為覺醒素材？<br><br>目前您只擁有1名該兵員。若將此兵員轉換為覺醒素材，將會使你失去覺醒至★7時所需要的基本兵員，因此您將無法覺醒該兵員至★7，直到再次獲得1名相同兵員為止。",
-        "유닛을 각성 재료로 변환하시겠습니까?<br><br>현재 파티에 해당 유닛이 1개뿐입니다. 해당 유닛을 각성 재료로 변환할 경우 ★7 각성에 필요한 베이스 유닛을 잃게 되며, ★7 각성을 원하는 경우 해당 유닛을 다시 획득해야 합니다.   <br>",
-        "Convertir une unité en matériau d'éveil<br><br>Vous ne possédez actuellement qu'un seul exemplaire de cette unité dans votre inventaire. Convertir cette unité en matériau d'éveil entraînera la perte de l'unité de base nécessaire à l'éveil 7 étoiles et vous ne pourrez plus l'éveiller jusqu'à ce que vous obteniez un autre exemplaire de cette unité.",
-        "Einheit zu Erweckungsmaterial konvertieren?<br><br>Du besitzt derzeit nur ein Exemplar dieser Einheit in deinem Inventar. Wenn du diese Einheit in Erweckungsmaterial konvertierst, wirst du deine Basiseinheit für seine 7★ Erweckung verlieren und sie nicht zu ihrer 7★ Form erwecken können, bevor du ein weiteres Exemplar dieser Einheit erhältst.",
-        "¿Seguro que quieres convertir esta unidad en material de despertar?<br><br>Ahora mismo, solo tienes una copia de esta unidad en el inventario. Si conviertes esta unidad en material de despertar, perderás a la unidad base que te hace falta para despertarla a 7★ y, por tanto, no podrás despertarla a 7★ hasta que consigas otra copia de esta unidad en concreto."
+        "Convert unit to awakening material?Currently you only have one copy of this unit in your inventory. Converting this unit into an awakening material will cause you to lose the base unit needed for its 7★ awakening, and you will not be able to awaken it to 7★ until you acquire another copy of this particular unit.",
+        "將兵員轉換為覺醒素材？目前您只擁有1名該兵員。若將此兵員轉換為覺醒素材，將會使你失去覺醒至★7時所需要的基本兵員，因此您將無法覺醒該兵員至★7，直到再次獲得1名相同兵員為止。",
+        "유닛을 각성 재료로 변환하시겠습니까?현재 파티에 해당 유닛이 1개뿐입니다. 해당 유닛을 각성 재료로 변환할 경우 ★7 각성에 필요한 베이스 유닛을 잃게 되며, ★7 각성을 원하는 경우 해당 유닛을 다시 획득해야 합니다.",
+        "Convertir une unité en matériau d'éveilVous ne possédez actuellement qu'un seul exemplaire de cette unité dans votre inventaire. Convertir cette unité en matériau d'éveil entraînera la perte de l'unité de base nécessaire à l'éveil 7 étoiles et vous ne pourrez plus l'éveiller jusqu'à ce que vous obteniez un autre exemplaire de cette unité.",
+        "Einheit zu Erweckungsmaterial konvertieren?Du besitzt derzeit nur ein Exemplar dieser Einheit in deinem Inventar. Wenn du diese Einheit in Erweckungsmaterial konvertierst, wirst du deine Basiseinheit für seine 7★ Erweckung verlieren und sie nicht zu ihrer 7★ Form erwecken können, bevor du ein weiteres Exemplar dieser Einheit erhältst.",
+        "¿Seguro que quieres convertir esta unidad en material de despertar?Ahora mismo, solo tienes una copia de esta unidad en el inventario. Si conviertes esta unidad en material de despertar, perderás a la unidad base que te hace falta para despertarla a 7★ y, por tanto, no podrás despertarla a 7★ hasta que consigas otra copia de esta unidad en concreto."
     ],
     "AWARD": [
         "Trophies",
@@ -880,11 +984,11 @@
         "Piedra"
     ],
     "BASKET_OF_EGGS_BUNDLE_DESC": [
-        "You can't make an omelet without breaking some eggs! Get a<br>rare summon ticket and 1,000 metal eggs daily during this<br>seasonal event!",
-        "不打破雞蛋，如何煎蛋吃。凡事有失必有得！<br>節慶活動期間內，每日限定！稀有召喚券與1,000金屬蛋！",
+        "You can't make an omelet without breaking some eggs! Get arare summon ticket and 1,000 metal eggs daily during thisseasonal event!",
+        "不打破雞蛋，如何煎蛋吃。凡事有失必有得！節慶活動期間內，每日限定！稀有召喚券與1,000金屬蛋！",
         "달걀을 깨지 않고서는 오믈렛을 만들 수 없지쿠포! 부활절 이벤트 동안, 매일 레어 소환티켓 1장과 금속 달걀 1,000개를 만나보자쿠포!",
         "On ne peut pas faire une omelette sans casser des œufs ! Obtenez un ticket d'invocation rare et 1000 œufs métalliques quotidiennement pendant toute la durée de cet événement saisonnier.",
-        "Du kannst kein Omelett machen, ohne Eier zu zerschlagen! Hol dir<br>jeden Tag eine seltene Beschwörungskarte und 1.000 Metalleier<br>bei diesem Saison-Ereignis!",
+        "Du kannst kein Omelett machen, ohne Eier zu zerschlagen! Hol dirjeden Tag eine seltene Beschwörungskarte und 1.000 Metalleierbei diesem Saison-Ereignis!",
         "¡No se puede hacer una tortilla sin romper huevos! ¡Obtén un tícket de invocación y 1.000 huevos de metal durante este periodo festivo!"
     ],
     "BASKET_OF_EGGS_BUNDLE_TITLE": [
@@ -952,7 +1056,7 @@
         "Escribir código"
     ],
     "BF_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event special bundle!<br>",
+        "Enhancement and awakening materials galore in this event special bundle!",
         "豐富的強化與覺醒素材，都在這活動限定的禮包中！",
         "풍성한 유닛 강화 및 각성 재료를 이벤트 세트상품으로 만나보자쿠포!",
         "Des matériaux d'éveil et d'amélioration en masse dans ce lot événement exclusif !",
@@ -968,7 +1072,7 @@
         "Especial diario de Brave Frontier"
     ],
     "BF_VARGAS_SPECIAL_BUNDLE_DESC": [
-        "This spark will light your fire from within! Awaken Vargas with this one time special offer!<br>",
+        "This spark will light your fire from within! Awaken Vargas with this one time special offer!",
         "這個火花將會點燃你內心的火焰！利用這1次限定的特別禮包，覺醒『瓦爾加斯』！",
         "내면의 뜨거운 화염을 깨울 불꽃쿠포! 특별한 세트상품으로 발가스를 각성시키자쿠포!",
         "Cette étincelle allumera la flamme qui brûle en vous ! Éveillez Vargas grâce à cette offre unique !",
@@ -1032,15 +1136,15 @@
         "Cesta del Viernes Negro"
     ],
     "BOX_OF_CHOCOLATES_BUNDLE_DESC": [
-        "Chocolates and a summon ticket! The perfect combination for Valentine's.<br>(Available once every day throughout the Valentine's Day event period.)",
-        "<br>盒中裝有巧克力與稀有召喚券！是最適合情人節的組合禮品。(情人節活動期間，每日限購1次)",
+        "Chocolates and a summon ticket! The perfect combination for Valentine's.(Available once every day throughout the Valentine's Day event period.)",
+        "盒中裝有巧克力與稀有召喚券！是最適合情人節的組合禮品。(情人節活動期間，每日限購1次)",
         "초콜릿과 레어 소환티켓을 만나보자! (발렌타인 이벤트 기간 동안 1일 1회 구매 가능)",
         "Des chocolats et un ticket d'invocation ! Le duo parfait pour passer lune très bonne Saint Valentin. (Disponible une fois par jour, pendant toute la durée de l'événement de la Saint Valentin)",
-        "Schokolade und eine Beschwörungskarte! Die perfekte Kombination für den Valentinstag.<br>(Einmal pro Tag verfügbar während des Valentinstags-Ereignisses.)",
+        "Schokolade und eine Beschwörungskarte! Die perfekte Kombination für den Valentinstag.(Einmal pro Tag verfügbar während des Valentinstags-Ereignisses.)",
         "¡Chocolate y un tícket de invocación! ¡La mejor combinación para San Valentín! (Disponible una vez al día durante el  evento de San Valentín)."
     ],
     "BOX_OF_CHOCOLATES_BUNDLE_TITLE": [
-        "Box of Chocolates<br>",
+        "Box of Chocolates",
         "巧克力盒",
         "초콜릿 상자",
         "Boîte de chocolats",
@@ -1048,7 +1152,7 @@
         "Cajita de chocolate"
     ],
     "BRONZE_CHEST_OF_MAGICITE_DESC": [
-        "Unleash the power of Diabolos and your other esper allies with this weekly magicite deal, kupo!<br>",
+        "Unleash the power of Diabolos and your other esper allies with this weekly magicite deal, kupo!",
         "每週都會有不同的魔石套裝哦，快來解放迪亞波羅斯和其他幻獸的潛在能力吧庫啵！",
         "특별 마석 할인 세트로 디아볼로스와 다른 환수들의 숨겨진 힘을 해방시켜봐! 아이템 구성은 매주 변경된다쿠포!",
         "Réveillez les véritables pouvoirs de Diabolos et ceux des chimères de vos alliés avec ces offres de magilithes hebdomadaires, kupo !",
@@ -1056,7 +1160,7 @@
         "¡Libera el poder verdadero de Diablo y sus compañeros espers con esta oferta semanal, kupó!"
     ],
     "BRONZE_CHEST_OF_MAGICITE_TITLE": [
-        "Bronze Chest of Magicite<br>",
+        "Bronze Chest of Magicite",
         "魔石銅寶箱",
         "마석의 청동 보물상자",
         "Coffre de magilithes en bronze",
@@ -1064,7 +1168,7 @@
         "Cofre de bronce de magicitas"
     ],
     "BROOD_MOTHER_HOARD_BUNDLE_DESC": [
-        "Get a rare summon ticket and 1,000 bahamut coins daily between the 12th and 18th of May only!<br>",
+        "Get a rare summon ticket and 1,000 bahamut coins daily between the 12th and 18th of May only!",
         "獲得稀有召喚券 x1與1,000枚巴哈姆特共鬥硬幣。5/12 - 5/18 每日限定。",
         "5/12(금)-5/18(목) 기간 동안 레어소환 티켓과 바하무트 코인 1000개를 매일 얻을 수 있는 기회!",
         "Obtenez un ticket d'invocation rare et 1000 jetons de bahamut entre le 12 et le 18 mai seulement !",
@@ -1153,7 +1257,7 @@
     ],
     "BUNDLE_OF_REPLENISHMENT_BUNDLE_DESC": [
         "Low on energy? Recharge with this bundle, available once a day!",
-        "體力不夠嗎？快使用每日限購一次的禮包來恢復吧。<br><br>禮包將會寄送到您的收信箱，庫啵！<br>",
+        "體力不夠嗎？快使用每日限購一次的禮包來恢復吧。<br>禮包將會寄送到您的收信箱，庫啵！",
         "체력이 부족하다구? 1일 1회 한정, 이 세트 상품으로 체력을 회복해봐!",
         "Vous manquez d'énergie ? Rechargez vos batteries avec ce lot, disponible une fois par jour !",
         "Wenig Energie? Lade sie mit diesem einmal täglich verfügbaren Paket auf! Die Gegenstände werden an deinen Posteingang geschickt, kupo!",
@@ -1202,7 +1306,7 @@
     "BUY_COIN_END_APPLIED_MSG": [
         "There was an interruption while processing your last order, but the purchase has been completed and your lapis has been properly credited.",
         "前一次的購入手續雖然被中斷了，但是購入程序已經完成。<br>寶石已經正常寄送，請確認。",
-        "이전 주문 처리가 중단되었으나 구매는 완료되었습니다.<br>라피스는 정상적으로 지급되었으니 확인을 부탁드립니다.<br>",
+        "이전 주문 처리가 중단되었으나 구매는 완료되었습니다.<br>라피스는 정상적으로 지급되었으니 확인을 부탁드립니다.",
         "Votre dernière commande a été interrompue, mais votre achat a bien été finalisé et vos lapis ont bien été crédités.",
         "Bei der Verarbeitung deiner letzten Bestellung kam es zu einer Unterbrechung, dein Kauf wurde jedoch abgeschlossen und deine Lapis korrekt angerechnet.",
         "Hemos tenido algunas dificultades al tramitar tu última compra, pero la transacción se ha realizado correctamente y hemos abonado los lapis adquiridos en tu cuenta."
@@ -1672,11 +1776,11 @@
         "Puedes revivir a todas tus unidades usando <param=use_lapis_num> lapis."
     ],
     "COPPER_CHEST_OF_ABUNDANCE_BUNDLE_DESC": [
-        "An unbelievable once in a lifetime 1,000% value offer! Grab it<br>while it lasts!",
-        "一生一次的難得機會！價值1000%的特別禮包！<br>趁著活動期間，抓緊機會！",
+        "An unbelievable once in a lifetime 1,000% value offer! Grab itwhile it lasts!",
+        "一生一次的難得機會！價值1000%的特別禮包！趁著活動期間，抓緊機會！",
         "구매 가격의 1,000% 효과를 내는 세트 상품쿠포! 단 한 번 뿐인 기회를 잡아보자쿠포!",
         "Voici une offre unique dans une vie ! Ce lot contient 1000% de sa valeur ! Profitez-en quand il en reste !",
-        "Ein fantastisches Angebot, das es nur ein Mal im Leben gibt!<br>Hol es dir, solange es gilt!",
+        "Ein fantastisches Angebot, das es nur ein Mal im Leben gibt!Hol es dir, solange es gilt!",
         "¡Una oferta increíble con un valor del 1.000%! ¡No te pierdas esta oportunidad!"
     ],
     "COPPER_CHEST_OF_ABUNDANCE_BUNDLE_TITLE": [
@@ -2067,7 +2171,7 @@
         "FINAL FANTASY BRAVE EXVIUS needs to download an additional <param=size> of data.<br>It is strongly recommended that you connect to a Wi-Fi network to avoid incurring significant data charges.<br><br>Proceed with download?",
         "《FINAL FANTASY BRAVE EXVIUS》需要額外下載<param=size>的資料。<br>建議您連接WiFi網路，以免花費大量的傳輸費用。<br><br>要繼續下載嗎？",
         "FINAL FANTASY BRAVE EXVIUS 앱 실행을 위해 추가 <param=size> 데이터를 다운로드해야 합니다.<br>과도한 데이터 요금이 발생하지 않도록 Wi-Fi 환경에서 다운로드를 권장합니다.<br><br>다운로드를 진행하시겠습니까?",
-        "Pour fonctionner correctement FINAL FANTASY BRAVE EXVIUS a besoin de télécharger <param=size> de données supplémentaires. Nous vous recommandons fortement l'usage d'un réseau Wifi afin d'éviter de vous servir de votre forfait data.<br><br>Voulez-vous quand même procéder au téléchargement ?",
+        "Pour fonctionner correctement, FINAL FANTASY BRAVE EXVIUS a besoin de télécharger <param=size> de données supplémentaires. Nous vous recommandons fortement l'usage d'un réseau Wi-Fi afin d'éviter de consommer votre forfait données.<br><br>Voulez-vous quand même procéder au téléchargement ?",
         "FINAL FANTASY BRAVE EXVIUS muss eine zusätzliche Datenmenge von <param=size> herunterladen.<br>Es wird dringend empfohlen, sich mit dem WLAN zu verbinden, um hohe Datengebühren zu vermeiden.<br><br>Mit Download fortfahren?",
         "FINAL FANTASY BRAVE EXVIUS necesita descargar <param=size> de datos adicionales.<br>Te recomendamos que te conectes a una red Wi-Fi para evitar sobrecostes por sobrepasar tu límite de datos móviles.<br><br>¿Quieres continuar con la descarga?"
     ],
@@ -3355,7 +3459,7 @@
         "<color=255:0:0>Selected units include units in a party.</color><br><br>A party with units in an expedition will not be able to depart on story or vortex missions.<br><br>Continue?",
         "<color=255:0:0>指定兵員與遠征隊中的兵員。</color><br><br>在遠征隊伍中的兵員無法參加故事及次元夾縫的任務。<br><br>是否確定要繼續？",
         "<color=255:0:0>선택한 유닛이 파티에 편성되어 있습니다.</color><br><br>탐험 파티에 편성된 유닛은 메인 스토리 및 틈새 던전에 참여할 수 없습니다.<br><br>계속 진행하시겠습니까?",
-        "<color=255:0:0>Chacune des unités sélectionnées sont dans un groupe.</color><br><br>Un groupe dont des unités sont en expédition ne peut pas lancer une quête du mode histoire ou du Vortex dimensionnel.<br><br>Voulez-vous continuer ?",
+        "<color=255:0:0>Certaines des unités sélectionnées font déjà partie d'un groupe.</color><br><br>Un groupe incluant des unités parties en expédition ne pourra pas participer aux missions du mode histoire ou du Vortex dimensionnel.<br><br>Voulez-vous continuer ?",
         "<color=255:0:0>Ausgewählte Einheiten schließen die Einheiten in einer Gruppe mit ein.</color><br><br>Eine Gruppe mit Einheiten auf einer Expedition kann sich nicht auf eine Story- oder Vortex-Mission begeben.<br><br>Fortfahren?",
         "<color=255:0:0>Algunas de las unidades seleccionadas están en un grupo.</color><br><br>¿Un grupo con unidades de expedición no podrá utilizarse en la historia o en la Grieta..<br><br>¿Deseas continuar?"
     ],
@@ -3802,7 +3906,7 @@
     "EXPLAIN_REWARD_1004": [
         "Obtain great rewards from the Mog Minister! Exchange 64 petal tokens for a 10% 5★ summon ticket!",
         "從異界莫古利大臣那裡獲得豪華報酬！以64個花瓣紀念物交換1張 ★5機率10%召喚券！",
-        "이계의 모그리 대신으로부터 놀랄만한 보상을 받으세요!<br>벚꽃 토큰 64개와 ★5 확률 10% 소환 티켓 1장을 교환해보세요!",
+        "이계의 모그리 대신으로부터 놀랄만한 보상을 받으세요!벚꽃 토큰 64개와 ★5 확률 10% 소환 티켓 1장을 교환해보세요!",
         "Obtenez de superbes récompenses de la part du Mog Ministre ! Echangez 64 pièces de pétale contre un ticket d'invocation 5★ (10%) !",
         "Erhalte großartige Belohnungen vom Mogryminister im Abyssum! Tausche 64 Blütenblattmarken gegen eine 10% 5★ Beschwörungskarte!",
         "¡Consigue las fabulosas recompensas del Ministro Moguri en el Etéreo! ¡Intercambia 64 monedas de pétalo por un tícket de invocación de 5★ del 10%!"
@@ -4184,7 +4288,7 @@
         "Especial de Zargabaath de FFXII"
     ],
     "FF13_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event daily special bundle! <br>",
+        "Enhancement and awakening materials galore in this event daily special bundle!",
         "豐富的強化與覺醒素材，都在這活動限定的每日禮包中！",
         "푸짐한 강화 및 각성 재료들이 여기에!",
         "Des matériaux d'amélioration et d'éveil en masse dans ce lot quotidien événement !",
@@ -4232,11 +4336,11 @@
         "Especial de Snow de FFXIII"
     ],
     "FF6_DAILY_SPECIAL_BUNDLE_DESC": [
-        "You won't find an offer like this anywhere else! Daily-varying<br>items available once per day!<br><br>",
+        "You won't find an offer like this anywhere else! Daily-varyingitems available once per day!",
         "其它地方可找不到這種每日替換道具的特惠商品！每日限購1次！",
         "https://s3-us-west-2.amazonaws.com/lapis-news/prod/ko/content/20170727_Post_MaintenancendOnT.html",
         "Vous trouverez cette offre nulle part ailleurs! Le contenu de ce lot varie quotidiennement. Disponible une fois par jour !",
-        "So ein Angebot gibt es nirgendwo anders!<br>Täglich wechselnde Gegenstände nur einmal am Tag verfügbar!",
+        "So ein Angebot gibt es nirgendwo anders!Täglich wechselnde Gegenstände nur einmal am Tag verfügbar!",
         "¡No encontrarás nada mejor en ningún sitio! ¡Objetos diferentes cada día cada 24 horas!"
     ],
     "FF6_DAILY_SPECIAL_BUNDLE_TITLE": [
@@ -4250,7 +4354,7 @@
     "FF6_TRANCE_TERRA_SPECIAL_BUNDLE_DESC": [
         "Magic can fade, but love is forever… Awaken Trance Terra with this one time special offer!",
         "魔法會褪色，但愛情永不褪色......利用這限購1次的特別禮包來覺醒您的「入神蒂娜」吧！",
-        "마법은 사라져도, 사랑은 영원쿠포……<br>특별한 세트상품으로 트랜스 티나를 각성시키자쿠포!",
+        "마법은 사라져도, 사랑은 영원쿠포……특별한 세트상품으로 트랜스 티나를 각성시키자쿠포!",
         "La magie s'estompe, mais l'amour est éternel... Éveillez Terra en transe grâce à cette offre spéciale unique !",
         "Magie kann schwinden, doch Liebe bleibt für immer bestehen ... Erwecke Trance-Terra mit diesem einmaligen Spezialangebot!",
         "La magia desaparece, pero el amor es para siempre... ¡Despierta a Terra en trance con esta oferta limitada única!"
@@ -4264,7 +4368,7 @@
         "Especial de Terra en trance de FFVI"
     ],
     "FFBE_AILEEN_SPECIAL_BUNDLE_DESC": [
-        "Time to get back down to earth! Awaken Aileen with this one time special offer!<br>",
+        "Time to get back down to earth! Awaken Aileen with this one time special offer!",
         "腳踏實地的前進！利用這1次限定的特惠商品，覺醒『艾琳』！",
         "다시 지상으로 내려올 시간쿠포! 특별한 세트상품으로 아이린을 각성시키자쿠포!",
         "C'est l'heure de retourner sur terre ! Éveillez Aileen grâce à cette offre spéciale unique !",
@@ -4296,7 +4400,7 @@
         "Especial de Fina Oscura"
     ],
     "FFBE_FOHLEN_SPECIAL_BUNDLE_DESC": [
-        "The chocobo knight has arrived! Awaken Fohlen and his feathered friend with this one time special offer!<br>",
+        "The chocobo knight has arrived! Awaken Fohlen and his feathered friend with this one time special offer!",
         "陸行鳥騎士已經抵達了！利用這1次限定的特別禮包，覺醒『福倫』以及他的朋友！",
         "초코보 나이트 등장쿠포! 특별한 세트상품으로 포렌과 그의 동료 초코보를 각성시키자쿠포!",
         "Faites place au cavalier chocobo ! Éveillez Fohlen et ses amis à plumes grâce à cette offre unique !",
@@ -4312,7 +4416,7 @@
         "Especial de Fohlen de FFBE"
     ],
     "FFBE_FRYEVIA_SPECIAL_BUNDLE_DESC": [
-        "Let yourself go with this icy queen! Awaken Fryevia with this one<br>time special offer!",
+        "Let yourself go with this icy queen! Awaken Fryevia with this onetime special offer!",
         "與冷酷的女王攜手共進！利用這限購1次的特別禮包來覺醒您的「弗雷比亞」吧！",
         "얼음여왕 프레이비아와 함께 모험을 떠나자쿠포! 특별한 세트상품으로 프레이비아를 각성시켜봐쿠포!",
         "Laissez-vous tenter par cette reine des neiges ! Éveillez Fryevia grâce à cette offre spéciale unique !",
@@ -4328,7 +4432,7 @@
         "Especial de Fryevia de FFBE"
     ],
     "FFBE_LUNERA_SPECIAL_BUNDLE_DESC": [
-        "May your arrows fly straight and your aim be true with this one time special offer!<br>",
+        "May your arrows fly straight and your aim be true with this one time special offer!",
         "利用這個1次限定的特別禮包，願你的努力獲得回報！",
         "특별한 세트상품의 도움을 받아 화살을 표적에 명중시켜보자쿠포!",
         "Que vos flèches volent droit vers leurs cibles grâce à cette offre unique !",
@@ -4344,11 +4448,11 @@
         "Especial de Lunera  de FFBE"
     ],
     "FFBE_OLIVES_SPECIAL_DESC": [
-        "Keep your powder dry and your eye on the target! Awaken Olive with this one time special offer!<br>(Available only once.)",
-        "瞄準目標，殲滅敵人！利用這個限定綁售來覺醒「奧利芙」吧！(限購1次)<br>",
+        "Keep your powder dry and your eye on the target! Awaken Olive with this one time special offer!(Available only once.)",
+        "瞄準目標，殲滅敵人！利用這個限定綁售來覺醒「奧利芙」吧！(限購1次)",
         "화약 장전 준비, 목표물에 집중하라! 특별 세트 상품으로 '올리브'를 각성시키자! (1회 구매 가능)",
-        "Gardez votre calme et un œil sur la cible. Éveillez Olive grâce à cette offre spéciale unique.<br>(Valable une seule fois)",
-        "Halte dein Puder trocken und die Augen aufs Ziel gerichtet! Erwecke Olive mit diesem einmaligen Spezialangebot!<br>(Nur einmal verfügbar.)",
+        "Gardez votre calme et un œil sur la cible. Éveillez Olive grâce à cette offre spéciale unique.(Valable une seule fois)",
+        "Halte dein Puder trocken und die Augen aufs Ziel gerichtet! Erwecke Olive mit diesem einmaligen Spezialangebot!(Nur einmal verfügbar.)",
         "¡Quítate las legañas y pon el ojo en tu objetivo! ¡Despierta a Olive con esta oferta especial única! (Disponible solo una vez)."
     ],
     "FFBE_OLIVES_SPECIAL_TITLE": [
@@ -4360,7 +4464,7 @@
         "Especial de Olive de FFBE"
     ],
     "FFBE_REBERTA_SPECIAL_BUNDLE_DESC": [
-        "Behold the mother of dragons, slayer of wyrms! Awaken Reberta with this one time special offer!<br>",
+        "Behold the mother of dragons, slayer of wyrms! Awaken Reberta with this one time special offer!",
         "注視龍之母、飛龍獵手！利用這1次限定的特惠商品，覺醒『蕾貝爾塔』！",
         "사룡을 처치하는 드래곤의 어머니를 맞이하라쿠포! 특별한 세트상품으로 리베르타를 각성시키자쿠포!",
         "Contemplez la mère des dragons, tueuse de wyrms ! Éveillez Réberta grâce à cette offre spéciale unique !",
@@ -4376,7 +4480,7 @@
         "Especial de Reberta de FFBE"
     ],
     "FFBE_WILHELM_SPECIAL_BUNDLE_DESC": [
-        "Take up the shield of the empire and awaken Wilhelm with this one time special offer!<br>",
+        "Take up the shield of the empire and awaken Wilhelm with this one time special offer!",
         "架起帝國之盾，利用這1次限定的特惠商品，覺醒『維魯赫魯姆』！",
         "특별한 세트상품으로 제국의 방패 빌헬름을 각성시키자쿠포!",
         "Prenez avec vous le bouclier de l'empire et éveillez Wilhelm grâce à cette offre spéciale unique !",
@@ -4392,10 +4496,10 @@
         "Especial de Wilhelm de FFBE"
     ],
     "FFII_EMPERORS_SPECIAL_BUNDLE_DESC": [
-        "The empire strikes back! Awaken the Emperor with this one time special offer!<br>(Available only once.)",
+        "The empire strikes back! Awaken the Emperor with this one time special offer!(Available only once.)",
         "帝國的反擊開始了！利用這個限定綁售來覺醒「皇帝」吧！(限購1次)",
         "'황제'가 돌아왔다! 특별 세트 상품으로 '황제'를 각성시키자! (1회 구매 가능)",
-        "L'empire contre-attaque ! Éveillez l'Empereur grâce à cette offre spéciale unique.<br>(Valable une seule fois)",
+        "L'empire contre-attaque ! Éveillez l'Empereur grâce à cette offre spéciale unique.(Valable une seule fois)",
         "Das Imperium schlägt zurück! Erwecke den Imperator mit diesem einmaligen Spezialangebot! (Nur einmal verfügbar.)",
         "¡El imperio contraataca! ¡Despierta a Emperador con esta oferta especial única! (Disponible solo una vez)."
     ],
@@ -4424,11 +4528,11 @@
         "Especial de Ace de FF TYPE 0"
     ],
     "FFT0_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event special bundle, kupo!<br>(Available only once daily)",
+        "Enhancement and awakening materials galore in this event special bundle, kupo!(Available only once daily)",
         "強化與覺醒素材都在這個特別禮包內，庫啵！(每日限購1次)",
         "풍성한 유닛 강화 및 각성 재료를 이벤트 세트상품으로 만나보자쿠포! (1일 1회 구매 가능)",
-        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !<br>(Seulement une fois par jour.)",
-        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Ereignis-Spezialpaket, kupo!<br>(Nur einmal täglich verfügbar.)",
+        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !(Seulement une fois par jour.)",
+        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Ereignis-Spezialpaket, kupo!(Nur einmal täglich verfügbar.)",
         "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento, kupó! (Disponible una vez al día)"
     ],
     "FFT0_DAILY_SPECIAL_BUNDLE_TITLE": [
@@ -4440,7 +4544,7 @@
         "Lote diario de FF TYPE-0"
     ],
     "FFT0_REM_SPECIAL_BUNDLE_DESC": [
-        "For richer or poorer, in sickness or in health, awaken Rem with this one time special offer!<br>",
+        "For richer or poorer, in sickness or in health, awaken Rem with this one time special offer!",
         "無論甘苦，無論貧富，無論病痛健康，利用這1次限定的特惠商品，覺醒『雷姆』！",
         "누구나 부담없이 구매할 수 있는 특별한 세트상품으로 렘을 각성시키자쿠포!",
         "Dans la richesse ou dans la pauvreté, la santé ou dans la maladie, éveillez Rem grâce à cette offre spéciale unique !",
@@ -4488,7 +4592,7 @@
         "Lote especial doble de FFT"
     ],
     "FFX_TIDUS_SPECIAL_BUNDLE_DESC": [
-        "Get ready for your adventures in the Macalania Woods! Awaken Tidus with this one time special offer!<br>",
+        "Get ready for your adventures in the Macalania Woods! Awaken Tidus with this one time special offer!",
         "準備前往馬卡拉尼亞之森探險！利用這1次限定的特別禮包，覺醒『提達』！",
         "마카라냐 숲으로 여행을 떠날 준비쿠포! 특별한 세트상품으로 티더를 각성시키자쿠포!",
         "Préparez-vous à partir à l'aventure dans la Forêt de Macalania ! Éveillez Tidus avec cette offre spéciale unique !",
@@ -4504,11 +4608,11 @@
         "Especial de Tidus de FFX"
     ],
     "FF_TACTICS_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event special bundle, kupo!<br>(Available only once daily)",
+        "Enhancement and awakening materials galore in this event special bundle, kupo!(Available only once daily)",
         "強化與覺醒素材都在這個特別禮包內，庫啵！(每日限購1次)",
         "풍성한 유닛 강화 및 각성 재료를 이벤트 세트상품으로 만나보자쿠포! (1일 1회 구매 가능)",
-        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !<br>(Seulement une fois par jour.)",
-        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem Ereignis-Spezialpaket, kupo!<br>(Nur einmal täglich verfügbar.)",
+        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !(Seulement une fois par jour.)",
+        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem Ereignis-Spezialpaket, kupo!(Nur einmal täglich verfügbar.)",
         "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento, kupó! (Disponible una vez al día)"
     ],
     "FF_TACTICS_DAILY_SPECIAL_BUNDLE_TITLE": [
@@ -4520,11 +4624,11 @@
         "Lote diario de FF TACTICS"
     ],
     "FF_TACTICS_ORLANDU_SPECIAL_BUNDLE_DESC": [
-        "Don't let anyone steal your thunder! Awaken Orlandeau with this one time special offer, kupo!<br>(Available only once)",
+        "Don't let anyone steal your thunder! Awaken Orlandeau with this one time special offer, kupo!(Available only once)",
         "別讓任何人偷走「雷神」的閃電！利用這個限購1次的禮包來覺醒奧爾蘭多，庫啵！(限購1次)",
-        "천둥을 도둑맞지 않도록 조심해! 특별한 세트상품으로 '올란두'를 각성시키자쿠포!<br>(1회 구매 가능)",
-        "Ne laissez personne vous voler votre foudre ! Éveillez Orlandeau grâce à cette offre spéciale unique !<br>(Une seule disponible.)",
-        "Lass niemanden deinen Donner stehlen! Erwecke Orlandeau mit diesem einmaligen Spezialangebot, kupo!<br>(Nur einmal täglich verfügbar.)",
+        "천둥을 도둑맞지 않도록 조심해! 특별한 세트상품으로 '올란두'를 각성시키자쿠포!(1회 구매 가능)",
+        "Ne laissez personne vous voler votre foudre ! Éveillez Orlandeau grâce à cette offre spéciale unique !(Une seule disponible.)",
+        "Lass niemanden deinen Donner stehlen! Erwecke Orlandeau mit diesem einmaligen Spezialangebot, kupo!(Nur einmal täglich verfügbar.)",
         "¡Se raudo como el trueno! ¡Despierta a Orlandeau con esa oferta única especial, kupó! (Disponible una vez)"
     ],
     "FF_TACTICS_ORLANDU_SPECIAL_BUNDLE_TITLE": [
@@ -4536,11 +4640,11 @@
         "Especial de Orlandeau de FF TACTICS"
     ],
     "FF_TYPE_0_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event special bundle, kupo!<br>(Available only once daily)",
+        "Enhancement and awakening materials galore in this event special bundle, kupo!(Available only once daily)",
         "強化與覺醒素材都在這個特別禮包內，庫啵！(每日限購1次)",
         "풍성한 유닛 강화 및 각성 재료를 이벤트 세트상품으로 만나보자쿠포! (1일 1회 구매 가능)",
-        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !<br>(Seulement une fois par jour.)",
-        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Ereignis-Spezialpaket, kupo!<br>(Nur einmal täglich verfügbar.)",
+        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !(Seulement une fois par jour.)",
+        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Ereignis-Spezialpaket, kupo!(Nur einmal täglich verfügbar.)",
         "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento, kupó! (Disponible una vez al día)"
     ],
     "FF_TYPE_0_DAILY_SPECIAL_BUNDLE_TITLE": [
@@ -4552,11 +4656,11 @@
         "Lote diario de FF TYPE- 0"
     ],
     "FF_TYPE_0_QUEEN_SPECIAL_BUNDLE_DESC": [
-        "You don't need to be class president to awaken Queen with this one time special offer, kupo!<br>(Available only once)",
+        "You don't need to be class president to awaken Queen with this one time special offer, kupo!(Available only once)",
         "只要有了這個禮包，不用成為班長也能讓『葵因』覺醒，庫啵！(限購1次)",
         "'퀸'을 깨우기 위해 반장이 될 필요는 없지. 세트상품으로 '퀸'을 각성시켜봐쿠포! (1회 구매 가능)",
-        "Nul ne sert d'être de sang royal pour éveiller Queen grâce à cette offre spéciale, kupo !<br>(Une seule disponible.)",
-        "Du musst kein Jahrgangssprecher sein, um Queen mit diesem einmaligen Spezialangebot zu erwecken, kupo!<br>(Nur einmal täglich verfügbar.)",
+        "Nul ne sert d'être de sang royal pour éveiller Queen grâce à cette offre spéciale, kupo !(Une seule disponible.)",
+        "Du musst kein Jahrgangssprecher sein, um Queen mit diesem einmaligen Spezialangebot zu erwecken, kupo!(Nur einmal täglich verfügbar.)",
         "¡No te hará falta llegar a delegado de la clase para despertar a Queen con esta oferta única especial, kupó! (Disponible una vez)"
     ],
     "FF_TYPE_0_QUEEN_SPECIAL_BUNDLE_TITLE": [
@@ -5051,7 +5155,7 @@
         "<param=name> held",
         "持有<param=name>",
         "보유 <param=name>",
-        "<param=name> En main",
+        "<param=name> en main",
         "<param=name> in Besitz",
         "<param=name> En mano"
     ],
@@ -5456,11 +5560,11 @@
         "Si abandonas, perderás los <color=255:0:0>materiales, unidades y guiles</color> obtenidos en esta misión. ¿Continuar?"
     ],
     "GLADIATOR_GOLDEN_CHEST_BUNDLE_DESC": [
-        "Sometimes, you have to reach deep within to draw out your full power… But not with this great deal! Power up your units now, kupo!<br>(Available only once)",
+        "Sometimes, you have to reach deep within to draw out your full power… But not with this great deal! Power up your units now, kupo!(Available only once)",
         "有時你需要深入內心，才能夠激發所有的潛力...但是只要擁有這個禮包就不需要這麼辛苦了！現在就用來強化你的兵員，庫啵！(限購1次)",
         "가끔은 자신의 내면에서 모든 힘을 끌어내야 할 때도 있지만, 이 세트상품만 있다면 유닛을 강화시킬 수 있다쿠포! (1회 구매 가능)",
-        "Parfois, il faut puiser tout au fond de soi pour révéler sa pleine puissance... Enfin, pas si vous profitez de cette superbe offre ! Améliorez vos unités dès maintenant, kupo !<br>(Une seule disponible.)",
-        "Manchmal findest du deine ganze Kraft tief in dir drinnen ... Aber nicht bei diesem Spitzenangebot! Verstärke deine Einheiten jetzt, kupo!<br>(Nur einmal täglich verfügbar.)",
+        "Parfois, il faut puiser tout au fond de soi pour révéler sa pleine puissance... Enfin, pas si vous profitez de cette superbe offre ! Améliorez vos unités dès maintenant, kupo !(Une seule disponible.)",
+        "Manchmal findest du deine ganze Kraft tief in dir drinnen ... Aber nicht bei diesem Spitzenangebot! Verstärke deine Einheiten jetzt, kupo!(Nur einmal täglich verfügbar.)",
         "A veces es necesario mirar en tu interior para darlo todo... ¡Pero no con esta oferta! ¡Mejora a tus unidades ya, kupó! (Disponible una vez)"
     ],
     "GLADIATOR_GOLDEN_CHEST_BUNDLE_TITLE": [
@@ -5502,6 +5606,86 @@
         "Coffre en or de la chaleur",
         "Goldene Truhe der Wärme",
         "Cofre de oro del calor"
+    ],
+    "General_Popup_Guide_Event": [
+        "Events",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_Guide_Gacha": [
+        "Summons",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_Guide_Shop": [
+        "Shop Bundles",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_Moogle_Bundle": [
+        "A new bundle has become available at the shop! Go check it out, kupo!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_Moogle_Summon": [
+        "A new featured summon has become available! Go check it out, kupo!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_New_Event": [
+        "A new event has begun! Go check it out, kupo!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_Play_Event": [
+        "Play Event",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_Summon": [
+        "Here's a rare summon ticket!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_To_Shop": [
+        "Shop for Deals",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "General_Popup_To_Summon": [
+        "Summon for Units",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "HAVE_LAPIS_NUM": [
         "You have <param=lapis_num> lapis.",
@@ -5722,7 +5906,7 @@
     "IRON_REPLENISHMENT_BUNDLE_DESC": [
         "Low on energy? Recharge with this bundle, available once a day! <br>Items will be sent to your message box, kupo!",
         "一天限購1次！快用這個禮包返老還童，恢復體力，庫啵！",
-        "1일 1회 한정, 체력을 회복하자!<br> <br>이 보물상자로 젊음을 한가득 충전해봐!<br>아이템은 메시지함에서 확인할 수 있다쿠포!<br>",
+        "1일 1회 한정, 체력을 회복하자!<br> 이 보물상자로 젊음을 한가득 충전해봐!<br>아이템은 메시지함에서 확인할 수 있다쿠포!",
         "Vous manquez d'endurance ? Rechargez vos batteries avec ce lot. Disponible une fois par jour.<br>Les objets seront envoyés dans votre messagerie, kupo !",
         "Wenig Energie? Lade sie mit diesem einmal täglich verfügbaren Paket auf! Die Gegenstände werden an deinen Posteingang geschickt, kupo!",
         "¿Andas falto de energía?<br>¡Recarga las pilas con este lote; disponible cada día. <br>¡Recibirás los objetos en tu buzón, kupó!"
@@ -6379,7 +6563,7 @@
         "Special Daily Login",
         "每日特別登入",
         "스페셜 일일 출석 보상",
-        "<br>Connexion quotidienne spéciale",
+        "Connexion quotidienne spéciale",
         "Spezieller täglicher Login",
         "Inicio de sesión diario especial"
     ],
@@ -6387,17 +6571,17 @@
         "Lara Croft Special Daily Login",
         "蘿拉·卡芙特 每日特別登入",
         "라라 크로프트 스페셜 일일 출석 보상",
-        "Lara Croft <br>Connexion quotidienne spéciale",
+        "Lara Croft Connexion quotidienne spéciale",
         "Lara Croft Spezieller täglicher Login",
         "Inicio de sesión diario especial - Lara Croft"
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_MSG_1003": [
         "30 Mil Special Daily Login",
-        "<br>3000萬每日特別登入",
+        "3000萬每日特別登入",
         "3천만 스페셜 일일 출석 보상",
-        "30 million de<br>Connexion quotidienne spéciale",
+        "30 million deConnexion quotidienne spéciale",
         "30 Millionen spezielle tägliche Anmeldung",
-        "<br>30 millones de inicios de sesión diarios especiales"
+        "30 millones de inicios de sesión diarios especiales"
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_MSG_1004": [
         "Your bonus for logging in during the Cherry Blossom event.",
@@ -6411,7 +6595,7 @@
         "Special Daily Login",
         "每日特別登入",
         "스페셜 일일 출석 보상",
-        "<br>Connexion quotidienne spéciale",
+        "Connexion quotidienne spéciale",
         "Spezieller täglicher Login",
         "Inicio de sesión diario especial"
     ],
@@ -6539,7 +6723,7 @@
         "Special Daily Login",
         "每日特別登入",
         "스페셜 일일 출석 보상",
-        "<br>Connexion quotidienne spéciale",
+        "Connexion quotidienne spéciale",
         "Spezieller täglicher Login",
         "Inicio de sesión diario especial"
     ],
@@ -6547,17 +6731,17 @@
         "Lara Croft Special Daily Login",
         "蘿拉·卡芙特 每日特別登入",
         "라라 크로프트 스페셜 일일 출석 보상",
-        "Lara Croft <br>Connexion quotidienne spéciale",
+        "Lara Croft Connexion quotidienne spéciale",
         "Lara Croft Spezieller täglicher Login",
         "Inicio de sesión diario especial - Lara Croft"
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1003": [
         "30 Mil Special Daily Login",
-        "<br>3000萬每日特別登入",
+        "3000萬每日特別登入",
         "3천만 스페셜 일일 출석 보상",
-        "30 million de<br>Connexion quotidienne spéciale",
+        "30 million deConnexion quotidienne spéciale",
         "30 Millionen spezielle tägliche Anmeldung",
-        "<br>30 millones de inicios de sesión diarios especiales"
+        "30 millones de inicios de sesión diarios especiales"
     ],
     "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1004": [
         "Cherry Blossom Daily Login Bonus",
@@ -6571,7 +6755,7 @@
         "Special Daily Login",
         "每日特別登入",
         "스페셜 일일 출석 보상",
-        "<br>Connexion quotidienne spéciale",
+        "Connexion quotidienne spéciale",
         "Spezieller täglicher Login",
         "Inicio de sesión diario especial"
     ],
@@ -8722,7 +8906,7 @@
     "MSG_LOCKED_NO_MISSION": [
         "There is an error entering this mission. Please try again or contact game support if it persist",
         "進入任務時發生錯誤，請稍後再試。如果狀況持續發生，請與客服人員聯繫。",
-        "유효하지 않은 접근입니다. 다시 시도해주세요. <br>계속 오류가 발생하는 경우, 고객지원 서비스에 문의해주시기 바랍니다.",
+        "유효하지 않은 접근입니다. 다시 시도해주세요. 계속 오류가 발생하는 경우, 고객지원 서비스에 문의해주시기 바랍니다.",
         "Une erreur s'est produite en entrant dans la mission. Veuillez recommencer ou contacter le service client si le problème persiste.",
         "Es gab einen Fehler beim Betreten dieser Mission. Bitte versuche es erneut oder kontaktiere den Spiele-Support, wenn er bestehen bleibt.",
         "Ha ocurrido un error al acceder a la misión. Inténtalo de nuevo o contacta con Atención al Cliente en caso de no solucionarse."
@@ -12544,7 +12728,7 @@
         "Cofre de mitrilo de alborozo"
     ],
     "MYTHRIL_CHEST_OF_SUMMONING_DESC": [
-        "Are you feeling lucky? The summoning portal awaits, kupo!<br>",
+        "Are you feeling lucky? The summoning portal awaits, kupo!",
         "感覺自己很幸運？那就快試著召喚吧庫啵！",
         "행운이 느껴지지 않아? 자, 소환해봐쿠포!",
         "Vous pensez avoir la baraka aujourd'hui ? Le portail des invocations vous attend, kupo !",
@@ -12552,7 +12736,7 @@
         "¿Sientes que tienes la suerte de tu lado? ¡Prueba este lote y nos vemos en el portal de invocación, kupó!"
     ],
     "MYTHRIL_CHEST_OF_SUMMONING_TITLE": [
-        "Mythril Chest of Summoning<br>",
+        "Mythril Chest of Summoning",
         "召喚秘銀寶箱",
         "소환의 미스릴 보물상자",
         "Coffre d'invocation en mithril",
@@ -13293,7 +13477,7 @@
         "월간 랭킹 기간이 종료되었습니다.",
         "Les classements mensuels sont clos.",
         "Monatliche Ranglisten wurden geschlossen.",
-        "Ya están listas las clasificaciones mensuales.<br>"
+        "Ya están listas las clasificaciones mensuales."
     ],
     "RB_RANKING_INFO_NOTHING": [
         "No rank information exists.",
@@ -13808,12 +13992,12 @@
         "No hay más anuncios disponibles de momento. ¡Inténtalo de nuevo más tarde, kupó!"
     ],
     "REWARD_SUMMON_MSG_2": [
-        "You have reached the daily rewards limit, kupo!<br><br>Resets on 23:59 PST",
-        "您已達到每日獎勵上限，庫啵！<br><br>重置時間：15:59(台灣時間)",
-        "일일 보상을 모두 수령했어쿠포!<br><br>초기화 시간: 16:59 (한국시간)",
-        "Vous avez atteint votre limite quotidienne de récompenses, kupo !<br><br>Réinitialisation à 23:59 PST",
-        "Du hast das tägliche Belohnungslimit erreicht, kupo!<br><br>Wird um 23:59 PST zurückgesetzt",
-        "¡Has alcanzado el límite de recompensas diarias, kupó!<br><br>Se restablece a las 23:59 PST."
+        "You have reached the daily rewards limit, kupo!Resets on 23:59 PST",
+        "您已達到每日獎勵上限，庫啵！重置時間：15:59(台灣時間)",
+        "일일 보상을 모두 수령했어쿠포!초기화 시간: 16:59 (한국시간)",
+        "Vous avez atteint votre limite quotidienne de récompenses, kupo !Réinitialisation à 23:59 PST",
+        "Du hast das tägliche Belohnungslimit erreicht, kupo!Wird um 23:59 PST zurückgesetzt",
+        "¡Has alcanzado el límite de recompensas diarias, kupó!Se restablece a las 23:59 PST."
     ],
     "REWARD_SUMMON_NOTICE": [
         "Rewards will be sent to your mail box within the next 24 hours.",
@@ -13930,7 +14114,7 @@
     "SEASON_EVENT_REWARD_MAIL_MSG": [
         "We would like to present you with the following reward for having reached the targeted points during raid event.",
         "共鬥活動期間達成目標點數，以下為獎勵報酬。",
-        "레이드 이벤트에서 획득한 포인트에 대한 보상을 지급합니다.<br>",
+        "레이드 이벤트에서 획득한 포인트에 대한 보상을 지급합니다.",
         "Nous vous accordons les récompenses suivantes pour avoir remporté un certain nombre de points durant l'événement de raid.",
         "Wir würden dir gerne das folgende geben, weil du die erforderliche Punktzahl während des Raubzug-Ereignisses erreicht hast.",
         "Te enviamos los siguientes objetos como recompensa por conseguir una meta en el evento de banda."
@@ -13952,11 +14136,11 @@
         "s"
     ],
     "SECRET_OF_MANA_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event special bundle!<br>(Available once every day throughout the Secret of Mana event period.)<br>",
+        "Enhancement and awakening materials galore in this event special bundle!(Available once every day throughout the Secret of Mana event period.)",
         "購買活動期間的特別綁售，來獲取強化與覺醒素材吧！(《聖劍傳說2》活動期間，每日限購1次。)",
         "풍성한 강화 및 각성 재료를 만나보자! (성검전설2 이벤트 기간동안 1일 1회 구매 가능)",
-        "Un lot spécial rempli de matériaux pour améliorer et éveiller vos unités !<br>(Disponible une fois par jour, pendant toute la durée de l'événement Secret of Mana.)",
-        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem Spezialereignispaket!<br>(Einmal pro Tag verfügbar während des Ereignisses zu Secret of Mana.)",
+        "Un lot spécial rempli de matériaux pour améliorer et éveiller vos unités !(Disponible une fois par jour, pendant toute la durée de l'événement Secret of Mana.)",
+        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem Spezialereignispaket!(Einmal pro Tag verfügbar während des Ereignisses zu Secret of Mana.)",
         "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento! (Disponible una vez al día durante el  evento de Secret of Mana)."
     ],
     "SECRET_OF_MANA_DAILY_SPECIAL_BUNDLE_TITLE": [
@@ -13968,11 +14152,11 @@
         "Especial de Secret of Mana"
     ],
     "SECRET_OF_MANA_RANDIS_SPECIAL_BUNDLE_DESC": [
-        "Have you uncovered the Secret of Mana? Awaken Randi with this one time special offer!<br>(Available only once.)",
+        "Have you uncovered the Secret of Mana? Awaken Randi with this one time special offer!(Available only once.)",
         "是否發現了瑪娜的秘密呢？利用這個限定綁售來覺醒「蘭迪」吧！(限購1次)",
         "성검을 둘러싼 전설의 비밀을 알아내자! '랜디' 유닛 각성의 기회! (1회 구매 가능)",
-        "Avez-vous découvert tous les secrets de Secret of Mana ? Éveillez Randy grâce à cette offre spéciale unique.<br>(Valable une seule fois)",
-        "Hast du das Geheimnis von Mana schon entdeckt? Erwecke Randi mit diesem einmaligen Spezialangebot!<br>(Nur einmal verfügbar.)",
+        "Avez-vous découvert tous les secrets de Secret of Mana ? Éveillez Randy grâce à cette offre spéciale unique.(Valable une seule fois)",
+        "Hast du das Geheimnis von Mana schon entdeckt? Erwecke Randi mit diesem einmaligen Spezialangebot!(Nur einmal verfügbar.)",
         "¿Has echado un vistazo a Secret of Mana? ¡Despierta a Randy con esta oferta especial única! (Disponible solo una vez)."
     ],
     "SECRET_OF_MANA_RANDIS_SPECIAL_BUNDLE_TITLE": [
@@ -14149,7 +14333,7 @@
         "획득",
         "Obtenu",
         "Erhalten",
-        "Conseguido"
+        "Has obtenido: %s"
     ],
     "SG_BUNDLE_SPECIALPROMO_HEADER": [
         "Special Promotion",
@@ -14170,10 +14354,10 @@
     "SG_BUNDLE_TAP_DETAILS": [
         "*Tap and hold the item to see more details.",
         "*點擊該項目以查看詳情。",
-        "*자세한 내용을 보시려면 아이템을 터치하세요.",
+        "* 자세한 내용을 확인하려면 아이템을 길게 터치하세요.",
         "* Touchez l'objet pour plus d'informations.",
         "*Tippe auf den Gegenstand, um weitere Details einzusehen.",
-        "*Toca el objeto para más información."
+        "*Toca el objeto y mantén pulsado para más información."
     ],
     "SG_BUNDLE_TIME": [
         "%.2d:%.2d hr",
@@ -14186,10 +14370,10 @@
     "SG_BUNDLE_WELCOME_TEXT": [
         "Remember to log in for %s days to get your next milestone reward!",
         "記得累積登入%天，獲得下一個里程碑獎勵！",
-        "%일 동안 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
+        "%일 차에 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
         "N'oubliez pas de vous connecter pendant % jours pour obtenir votre prochaine récompense d'étape !",
         "Denke daran, dich % Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
-        "¡Acuérdate de iniciar sesión durante % días para conseguir tu nueva recompensa de récord!"
+        "¡Acuérdate de iniciar sesión durante %s días para conseguir tu nueva recompensa de récord!"
     ],
     "SG_CLSM_HINT_BTN": [
         "Reward Info",
@@ -15285,7 +15469,7 @@
         "남은 기간:",
         "Jours restants :",
         "Tage übrig:",
-        "<br>Días restantes:"
+        "Días restantes:"
     ],
     "SG_NEWPLAYERLOGIN_DETAILS": [
         "Login for <color=252:179:22>7</color> consecutive days and get a ticket to summon a <color=3:175:255>4★</color> or better unit",
@@ -15738,7 +15922,7 @@
     "SHOP_CONFIRM1-1": [
         "You can use <param=num> <case=lower><param=lapis></case> to increase your <color=255:0:0><case=lower><param=target></case> capacity</color> by <param=add>.",
         "可使用<param=num>個<param=lapis><br>將<color=255:0:0><param=target>的最大持有欄</color><br>擴張<param=add>個",
-        "<param=lapis>(을)를 <param=num>개 사용하여<br><br><color=255:0:0><param=target>의 최대 보유 수량</color>(을)를 <param=add>확장합니다.",
+        "<param=lapis>(을)를 <param=num>개 사용하여<br><color=255:0:0><param=target>의 최대 보유 수량</color>(을)를 <param=add>확장합니다.",
         "Vous pouvez utiliser <param=num> <param=lapis> pour augmenter <color=255:0:0>la réserve de vos <case=lower><param=target></case></color> de <param=add> emplacements.",
         "Du kannst <param=num> <param=lapis> benutzen zum<br>Erhöhen der <color=255:0:0><param=target> Kapazität</color><br>um <param=add>.",
         "Puedes usar <param=num> <param=lapis> para<br>aumentar tu <color=255:0:0>capacidad de <param=target></color><br>en <param=add>."
@@ -15764,7 +15948,7 @@
         "使用<color=255:255:0><param=num>個</color>活動寶珠恢復道具，可<color=255:255:0><param=recover>恢復</color>活動寶珠。<br>要恢復嗎？",
         "이벤트 구슬 회복 아이템을 <color=255:255:0><param=num>개</color> 사용하여 이벤트 구슬을 <color=255:255:0><param=recover>회복</color>하실 수 있습니다.<br>회복하시겠습니까?",
         "Voulez-vous utiliser <color=255:255:0><param=num></color> objets(s) de restauration d'amélioration d'équipement pour recouvrer <color=255:255:0><param=recover></color> orbe(s) ?",
-        "<color=255:255:0><param=num></color> <br>Wiederherstellungsgegenstände zur Ausrüstungsverbesserung benutzen, um <color=255:255:0><param=recover></color> Juwelen wiederherzustellen?",
+        "<color=255:255:0><param=num></color> Wiederherstellungsgegenstände zur Ausrüstungsverbesserung benutzen, um <color=255:255:0><param=recover></color> Juwelen wiederherzustellen?",
         "¿Usar objeto restaurador mejoraequipos x<color=255:255:0><param=num></color> para recuperar <color=255:255:0><param=recover></color> orbe(s)?"
     ],
     "SHOP_EQUIP_GROW_ORB_RECOVERY_SUBHEADER": [
@@ -16088,7 +16272,7 @@
         "Puedes recuperar <color=255:255:0><param=recover> de energía para utilizando <color=255:255:0><param=num> objeto(s) de recuperación. ¿Deseas recuperarte?"
     ],
     "SILVER_CHEST_OF_AWAKENING_DESC": [
-        "Receive six sacred crystals and an assortment of useful items which vary weekly to awaken your units, kupo!<br>",
+        "Receive six sacred crystals and an assortment of useful items which vary weekly to awaken your units, kupo!",
         "每週都會有不同的套裝哦，快用寶箱中的6種神幻結晶和各種有用道具來覺醒兵員吧庫啵！",
         "퀘스트 진행에 도움이 될 6개의 신성결정과 유용한 아이템을 획득해봐! 아이템 구성은 매주 변경된다쿠포!",
         "Recevez 6 cristaux sacrés et un assortiement d'objets utiles différent chaque semaine pour éveiller vos unités, kupo !",
@@ -17427,9 +17611,9 @@
         "Download size: <param=size>",
         "下載大小：<param=size>",
         "다운로드 크기: <param=size>",
-        "Taille de téléchargement: <param=size>",
+        "Taille du téléchargement : <param=size>",
         "Downloadgröße: <param=size>",
-        "Descargar tamaño: <param=size>"
+        "Tamaño de descarga: <param=size>"
     ],
     "UNIT": [
         "Units",
@@ -17613,7 +17797,7 @@
         "<color=255:255:0><param=ability></color>은/는 유닛에 여러 개 장착하여도 효과는 1개에 해당하는 것만 적용됩니다.<br>장착하시겠습니까?",
         "Equiper plusieurs fois votre unité de l'aptitude : <color=255:255:0><param=ability></color><color=255:255:0><param=ability></color>ne permet pas d'en multiplier  les effets. Voulez-vous quand même l'équiper ?",
         "Mehr als eine <case=lower><color=255:255:0><param=ability></color></case> für eine Einzelheit auszurüsten, wird den Effekt nicht erhöhen.<br>Ausrüsten?",
-        "<color=255:255:0><param=ability></color>solo tendrá efecto una vez aunque se la equipes a una unidad múltiples veces.<br><br>¿Aun así quieres equipar?<br>"
+        "<color=255:255:0><param=ability></color>solo tendrá efecto una vez aunque se la equipes a una unidad múltiples veces.<br>¿Aun así quieres equipar?"
     ],
     "UNIT_EQUIP_CONFIRM_NO_OVERLAP_ABILITY_ANY": [
         "Equipping multiples of this item to a unit will not grant any additional effects.<br>Equip <case=lower><color=255:255:0><param=ability></color></case>?",
@@ -17621,7 +17805,7 @@
         "해당 아이템을 장착하여 얻을 수 있는 이와 같은 특수는, 유닛에 여러 개 장착시켜도 효과는 1개에 해당하는 것만 적용됩니다.<br><color=255:255:0><param=ability></color><br>장착하시겠습니까?",
         "Mëme si vous équipez deux ou plusieurs objets contenant la même aptitude, celle-ci ne sera équipable qu'une seule fois sur votre unité. Équiper <color=255:255:0><param=ability></color ?",
         "Eine Einheit mit diesem Gegenstand auszurüsten, gibt keine zusätzlichen Effekte.<br>Ausrüsten <case=lower><color=255:255:0><param=ability></color></case>?",
-        "El efecto obtenible con este objeto solo tendrá efecto una vez aunque se lo equipes a una unidad múltiples veces.<br><br>¿Aun así quieres equipar <color=255:255:0><param=ability></color>?<br>"
+        "El efecto obtenible con este objeto solo tendrá efecto una vez aunque se lo equipes a una unidad múltiples veces.<br>¿Aun así quieres equipar <color=255:255:0><param=ability></color>?"
     ],
     "UNIT_EQUIP_GUEST": [
         "You cannot change equipment on companion units.",
@@ -18615,7 +18799,7 @@
         "Zalgabaaths Bordkarte",
         "Tarjeta de embarque de Zargabaath"
     ],
-    "MST_QUEST_NAME_1042001": [
+    "a\nMST_QUEST_NAME_1042001": [
         "Gears for Reparations",
         "修理用的齒輪",
         "수리용 톱니바퀴",
