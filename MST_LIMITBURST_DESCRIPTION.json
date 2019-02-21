@@ -4327,14 +4327,6 @@
         "Heilt LP, alle Verb.",
         "Recupera la VIT de todos los aliados"
     ],
-    "202000302": [
-        "Earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Dégâts de terre sur un ennemi",
-        "Erdschaden, ein Ziel",
-        "Daño de tierra a un enemigo"
-    ],
     "202000303": [
         "Earth damage to one enemy",
         "對1名敵人發動土屬性攻擊",
@@ -4574,22 +4566,6 @@
         "Dégâts de feu sur un ennemi",
         "Feuerschaden, ein Ziel",
         "Daño de fuego a un enemigo"
-    ],
-    "203000702": [
-        "Lightning damage to one enemy",
-        "對1名敵人發動雷屬性攻擊",
-        "적 1명에게 번개속성 피해",
-        "Dégâts de foudre sur un ennemi",
-        "Blitzschaden, ein Ziel",
-        "Daño de rayo a un enemigo"
-    ],
-    "203000703": [
-        "Lightning damage to one enemy",
-        "對1名敵人發動雷屬性攻擊",
-        "적 1명에게 번개속성 피해",
-        "Dégâts de foudre sur un ennemi",
-        "Blitzschaden, ein Ziel",
-        "Daño de rayo a un enemigo"
     ],
     "203000704": [
         "Deal partial unmitigated lightning damage and chance of paralyzing one enemy",
@@ -4846,14 +4822,6 @@
         "Dégâts sur tous les ennemis",
         "Schaden, alle Ziele",
         "Daña a todos los enemigos"
-    ],
-    "204000602": [
-        "Boost DEF and SPR for all allies",
-        "提高全體隊員的精神防禦",
-        "아군 전체의 방어력과 정신력 상승",
-        "Augmente la DEF et la PSY de tous les alliés",
-        "PSY und ABW hoch, alle Ziele",
-        "Aumenta DEF y ESP de todos los aliados"
     ],
     "204000603": [
         "Boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
@@ -6327,22 +6295,6 @@
         "Feuer-, Eis, und Blitzschaden, alle Gegner.",
         "Daño de fuego, hielo y rayo a todos los enemigos"
     ],
-    "211000202": [
-        "Earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Dégâts de terre sur un ennemi",
-        "Erdschaden, ein Ziel",
-        "Daño de tierra a un enemigo"
-    ],
-    "211000203": [
-        "Earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Dégâts de terre sur un ennemi",
-        "Erdschaden, ein Ziel",
-        "Daño de tierra a un enemigo"
-    ],
     "211000204": [
         "Deal partial unmitigated earth damage and chance of confusing all enemies",
         "對全體敵人發動土屬性無視部分防禦的攻擊+一定機率造成混亂",
@@ -6630,22 +6582,6 @@
         "Soigne poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés",
         "Heilt von Gift, Blenden, Schlaf, Stille, Lähmung, Konfus. Virus und Stein, alle Verb.",
         "Cura ven, ceg, sue, sil, par, conf, enf y pie de todos"
-    ],
-    "212000802": [
-        "Damage one enemy",
-        "攻擊1名敵人",
-        "적 1명에게 피해",
-        "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
-        "Daña a un enemigo"
-    ],
-    "212000803": [
-        "Damage one enemy",
-        "攻擊1名敵人",
-        "적 1명에게 피해",
-        "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
-        "Daña a un enemigo"
     ],
     "212000905": [
         "Fire damage one enemy and caster can dodge some physical attacks three times",
@@ -10454,6 +10390,30 @@
         "Dégâts, réduit toutes les résistances élémentaires de tous les ennemis et permet d'utiliser Présage - Averse, Présage - Sirocco, Présage - Blizzard et Présage - Canicule pendant 3 tours",
         "Fügt allen Gegnern Schaden zu, verringert alle ihrer Elementarresistenzen und ermöglicht Weissagung - Regenguss, Weissagung - Sandsturm, Weissagung - Schockfrost und Weissagung - Hitzewelle für 3 Runden.",
         "Daña a todos los enemigos y reduce sus resistencias elementales, y aprende Predicción - Aguacero, Predicción - Tormenta de arena, Predicción - Destello helado y Predicción - Ola de calor durante 3 turnos"
+    ],
+    "401004505": [
+        "Cure poison, blind, sleep, silence, paralysis confusion, disease, and stone, remove and boost resistance to reductions to ATK, DEF, MAG, and SPR, nullify charm, and restore HP and MP every turn for three turns for all allies",
+        "治療中毒失明睡眠沉默麻痺混亂生病石化的狀態+解除降低攻擊防禦魔力精神的狀態+提高降低攻擊防禦魔力精神的耐性+魅惑無效+3回合內每回合自動恢復全體隊員的HPMP",
+        "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+공격력, 방어력, 마력, 정신력 감소 저항력 상승+매혹 무효화+3턴 동안 매 턴마다 HP와 MP 회복",
+        "Guérit poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification ; retire les réductions de l'ATT, la DEF, la MAGIE et la PSY et augmente la résistance à ces réductions ; annule charme ; et restaure les PV et PM pendant 3 tours pour tous les alliés",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein, entfernt Verringerungen von ANG, ABW, MAG und PSY und erhöht Resistenzen gegen deren Verringerungen, annulliert Bezaubern und regeneriert jede Runde LP und MP für drei Runden für alle Verbündeten.",
+        "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, anula la resistencia a la reducción de ATQ, DEF, MAG y ESP, aumenta la resistencia a los mismos, anula embrujo y recupera la VIT y los PM de todos los aliados cada turno durante 3 turnos"
+    ],
+    "401004506": [
+        "Cure poison, blind, sleep, silence, paralysis confusion, disease, and stone, remove and boost resistance to reductions to ATK, DEF, MAG, and SPR, nullify charm, and restore HP and MP every turn for three turns for all allies",
+        "治療中毒失明睡眠沉默麻痺混亂生病石化的狀態+解除降低攻擊防禦魔力精神的狀態+提高降低攻擊防禦魔力精神的耐性+魅惑無效+3回合內每回合自動恢復全體隊員的HPMP",
+        "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력 감소 저항력 상승+매혹 무효화+3턴 동안 매 턴마다 HP와 MP 회복",
+        "Guérit poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification ; retire les réductions de l'ATT, la DEF, la MAGIE et la PSY et augmente la résistance à ces réductions ; annule charme ; et restaure les PV et PM pendant 3 tours pour tous les alliés",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein, entfernt Verringerungen von ANG, ABW, MAG und PSY und erhöht Resistenzen gegen deren Verringerungen, annulliert Bezaubern und regeneriert jede Runde LP und MP für drei Runden für alle Verbündeten.",
+        "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, anula la resistencia a la reducción de ATQ, DEF, MAG y ESP, aumenta la resistencia a los mismos, anula embrujo y recupera la VIT y los PM de todos los aliados cada turno durante 3 turnos"
+    ],
+    "401004507": [
+        "Cure poison, blind, sleep, silence, paralysis confusion, disease, and stone, remove and boost resistance to reductions to ATK, DEF, MAG, and SPR, nullify charm, and restore HP and MP every turn for three turns for all allies",
+        "治療中毒失明睡眠沉默麻痺混亂生病石化的狀態+解除降低攻擊防禦魔力精神的狀態+提高降低攻擊防禦魔力精神的耐性+魅惑無效+3回合內每回合自動恢復全體隊員的HPMP",
+        "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력 감소 저항력 상승+매혹 무효화+3턴 동안 매 턴마다 HP와 MP 회복",
+        "Guérit poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification ; retire les réductions de l'ATT, la DEF, la MAGIE et la PSY et augmente la résistance à ces réductions ; annule charme ; et restaure les PV et PM pendant 3 tours pour tous les alliés",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein, entfernt Verringerungen von ANG, ABW, MAG und PSY und erhöht Resistenzen gegen deren Verringerungen, annulliert Bezaubern und regeneriert jede Runde LP und MP für drei Runden für alle Verbündeten.",
+        "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, anula la resistencia a la reducción de ATQ, DEF, MAG y ESP, aumenta la resistencia a los mismos, anula embrujo y recupera la VIT y los PM de todos los aliados cada turno durante 3 turnos"
     ],
     "401004605": [
         "Damage all enemies, boost ATK and MAG for all allies for 3 turns, and enable raucous storm for 1 turn",

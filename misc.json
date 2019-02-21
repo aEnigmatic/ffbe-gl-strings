@@ -579,16 +579,16 @@
         "Your Arena Orbs are already full.",
         "鬥技場寶珠已滿。",
         "결투장 구슬이 이미 다 찼습니다.",
-        null,
-        null,
+        "Vous possédez déjà le nombre maximum d'orbes d'arène.",
+        "Deine Arenajuwelen sind bereits gefüllt.",
         "Tus orbes de Arena ya están al máximo."
     ],
     "ARENA_COLOSSEUM_MAX_ENERGY": [
         "Your Colosseum Orbs are already full.",
         "競技場寶珠已滿。",
         "투기장 구슬이 이미 다 찼습니다.",
-        null,
-        null,
+        "Vous possédez déjà le nombre maximum d'orbes du Colisée.",
+        "Deine Kolosseumsjuwelen sind bereits gefüllt.",
         "Tus orbes del Coliseo ya están al máximo."
     ],
     "ARENA_ENERGY_LAPIS_A": [
@@ -603,7 +603,7 @@
         "You can use lapis to <color=255:0:0>fully restore your colosseum orbs</color>.<br>Proceed?",
         "您可以花費寶石 <color=255:0:0>完全恢復競技場寶珠</color>。要繼續嗎？",
         "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>계속하시겠습니까?",
-        "Vous pouvez utiliser des lapis pour <color=255:0:0>restaurer entièrement vos orbes de Colisée</color>.<br>Continuer ?",
+        "Vous pouvez utiliser des lapis pour <color=255:0:0>restaurer entièrement vos orbes du Colisée</color>.<br>Continuer ?",
         "Du kannst Lapis benutzen,<color=255:0:0>um deine Kolosseumsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
         "Puedes usar lapis para <color=255:0:0>restaurar todos tus orbes del Coliseo</color>.<br>¿Continuar?"
     ],
@@ -659,7 +659,7 @@
         "Insufficient Colosseum Orbs",
         "競技場寶珠不足",
         "투기장 구슬 부족",
-        "Orbes de Colisée insuffisants",
+        "Orbes du Colisée insuffisants",
         "Ungenügend Kolosseumsjuwelen",
         "Orbes del Coliseo insuficientes"
     ],
@@ -683,16 +683,16 @@
         "Your Raid Orbs are already full.",
         "共鬥寶珠已滿。",
         "레이드 구슬이 이미 다 찼습니다.",
-        null,
-        null,
+        "Vous possédez déjà le nombre maximum d'orbes de raid.",
+        "Deine Raubzugsjuwelen sind bereits gefüllt.",
         "Tus orbes de Banda ya están al máximo."
     ],
     "ARENA_RAID_ORBS_AVAIL": [
         "You already have Raid Orbs",
         "已有共鬥寶珠。",
         "레이드 구슬을 이미 보유하고 있습니다.",
-        null,
-        null,
+        "Vous possédez déjà des orbes de raid",
+        "Du hast bereits Raubzugsjuwelen.",
         "Ya tienes orbes de Banda"
     ],
     "ARENA_REWARD_BOARD_TITLE": [
@@ -1691,7 +1691,7 @@
         "Insufficient Colosseum Orbs",
         "競技場寶珠不足",
         "투기장 구슬 부족",
-        "Orbes du Colisée insuffisantes",
+        "Orbes du Colisée insuffisants",
         "Nicht genug Juwelen",
         "Orbes del Coliseo insuficientes"
     ],
@@ -1699,7 +1699,7 @@
         "You can use <param=num> lapis to <color=255:0:0>fully restore your colosseum orbs</color>.<br>Proceed?",
         "使用<param=coin>個寶石<br>可以<br><color=255:0:0>恢復所有競技場寶珠</color>。<br>是否要恢復？",
         "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>회복하시겠습니까?",
-        "Vous pouvez récupérer <color=255:0:0>toutes vos orbes du Colisée</color> pour <param=coin> lapis. Continuer ?",
+        "Vous pouvez récupérer <color=255:0:0>tous vos orbes du Colisée</color> pour <param=coin> lapis. Continuer ?",
         "Du kannst <color=255:0:0>deine Juwelen völlig</color> für <param=coin> Lapis auffüllen. Fortfahren?",
         "Puedes recuperar <color=255:0:0>todos tus orbes del Coliseo</color> usando <param=coin> lapis. ¿Continuar?"
     ],
@@ -1707,7 +1707,7 @@
         "Insufficient Colosseum Orbs",
         "競技場寶珠不足",
         "투기장 구슬 부족",
-        "Orbes du Colisée insuffisantes",
+        "Orbes du Colisée insuffisants",
         "Nicht genug Juwelen",
         "Orbes del Coliseo insuficientes"
     ],
@@ -3739,7 +3739,7 @@
         "You have units with 100% Trust Master in your party.<br>Automatically remove them now?",
         "隊伍中包含信賴度值100%的兵員。<br>要自動移除他們嗎？",
         "파티에 100% 트러스트 마스터를 획득한 유닛이 있습니다.<br>자동적으로 삭제하시겠습니까?",
-        "Au moins une des unités figurant dans votre groupe possède une confiance absolue de 100%.<br>Retirer ce(s) unité(s) dès maintenant ?",
+        "Au moins une des unités figurant dans votre groupe possède une confiance absolue de 100%.<br>Retirer cette/ces unité(s) dès maintenant ?",
         "In deiner Gruppe befinden sich Einheiten mit 100% Wahrer Treue.<br>Betroffene Einheiten automatisch entfernen?",
         "Tienes unidades con 100% de maestro fiel en tu equipo.<br>¿Quieres eliminarlas automáticamente?"
     ],
@@ -4012,7 +4012,7 @@
         "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
         "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
         "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets sélectionneurs de la Fan Festa 2018, kupo !",
-        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht, deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
     ],
     "EXPLAIN_REWARD_1019": [
@@ -4020,7 +4020,7 @@
         "這是今天的登入獎勵。別忘了使用你的2018粉絲慶典自選券，庫啵！",
         "오늘의 출석 보상! 팬 페스타 2018 선택 소환 티켓을 사용해봐쿠포!",
         "Voici votre bonus de connexion du jour. N'oubliez pas d'utiliser vos tickets sélectionneurs de la Fan Festa 2018, kupo !",
-        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht deine Fan Festa 2018 Auswahlkarten zu benutzen, kupo!",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht, deine Fan Festa 2018 Auswahlbeschwörungskarten zu benutzen, kupo!",
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets seleccionadores de Fan Festa 2018, kupó!"
     ],
     "EXPLAIN_REWARD_1020": [
@@ -4030,6 +4030,14 @@
         "Voici vos récompenses de connexion pour aujourd'hui. N'oubliez pas d'utiliser vos tickets STAR OCEAN : ANAMNESIS, kupo !",
         "Hier sind deine täglichen Anmeldebelohnungen. Vergiss nicht, deine STAR OCEAN: ANAMNESIS Karten zu benutzen, kupo!",
         "Aquí tenéis las recompensas por inicio de sesión de hoy. ¡Tampoco os olvidéis de usar vuestros tíckets de STAR OCEAN: ANAMNESIS, kupó!"
+    ],
+    "EXPLAIN_REWARD_1021": [
+        "Thank you to all Fan Festa Unit Design Contest participants! Don't forget to use your free 10+1 summon, kupo!",
+        "感謝所有粉絲慶典兵員設計大賽的參加者！別忘了進行免費10+1召喚，庫啵！",
+        "모든 팬 페스타 유닛 디자인 콘테스트 참가자 여러분 감사합니다! 무료 10+1 소환을 잊지마세요!",
+        "Merci à tous ceux qui ont participé au concours de conception d'unités de la Fan Festa ! N'oubliez pas d'utiliser vos 10+1 invocations gratuites, kupo !",
+        "Wir möchten uns bei allen Teilnehmern des Fan Festa Einheiten Designwettbewerbs bedanken. Vergiss nicht, deine kostenlosen 10+1 Beschwörungen zu benutzen, kupo!",
+        "¡Gracias a todos los que habéis participado en el concurso de diseño de unidad de la Fan Festa! ¡Tampoco os olvidéis de usar vuestra invocación 10+1 gratuita, kupó!"
     ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
@@ -5609,83 +5617,83 @@
     ],
     "General_Popup_Guide_Event": [
         "Events",
-        null,
-        null,
-        null,
-        null,
-        null
+        "活動",
+        "이벤트",
+        "Événements",
+        "Ereignisse",
+        "Eventos"
     ],
     "General_Popup_Guide_Gacha": [
         "Summons",
-        null,
-        null,
-        null,
-        null,
-        null
+        "召喚",
+        "소환",
+        "Invocations",
+        "Beschwörungen",
+        "Invocaciones"
     ],
     "General_Popup_Guide_Shop": [
         "Shop Bundles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "商店禮包",
+        "상점 세트상품",
+        "Lots",
+        "Shop-Pakete",
+        "Lotes"
     ],
     "General_Popup_Moogle_Bundle": [
         "A new bundle has become available at the shop! Go check it out, kupo!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "商店有新禮包！快來看看，庫啵！",
+        "상점에 신규 세트상품이 들어왔어! 가서 확인해봐쿠포!",
+        "Un nouveau lot est disponible dans la boutique !Jetez-y un œil, kupo !",
+        "Ein neues Paket ist jetzt im Shop erhältlich! Schau es dir an, kupo!",
+        "¡Ya hay disponible un nuevo lote en la tienda! ¡Échale un vistazo, kupó!"
     ],
     "General_Popup_Moogle_Summon": [
         "A new featured summon has become available! Go check it out, kupo!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "新精選召喚登場！快來看看，庫啵！",
+        "신규 픽업 소환이 등장했어! 가서 확인해봐쿠포!",
+        "Une nouvelle invocation est disponible !Jetez-y un œil, kupo !",
+        "Eine neue besondere Beschwörung ist jetzt verfügbar! Schau sie dir an, kupo!",
+        "¡Ya hay disponible una nueva invocación recomendada! ¡Échale un vistazo, kupó!"
     ],
     "General_Popup_New_Event": [
         "A new event has begun! Go check it out, kupo!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "新活動開始了！快來看看，庫啵！",
+        "신규 이벤트가 시작됐어! 가서 확인해봐쿠포!",
+        "Un nouvel événement a commencé ! Jetez-y un œil, kupo !",
+        "Ein neues Ereignis hat begonnen! Schau es dir an, kupo!",
+        "¡Ha comenzado un nuevo evento! ¡Échale un vistazo, kupó!"
     ],
     "General_Popup_Play_Event": [
         "Play Event",
-        null,
-        null,
-        null,
-        null,
-        null
+        "遊玩活動",
+        "이벤트 플레이",
+        "Participer à l'événement",
+        "Ereignis spielen",
+        "Juega al evento"
     ],
     "General_Popup_Summon": [
         "Here's a rare summon ticket!",
-        null,
-        null,
-        null,
-        null,
-        null
+        "這是稀有召喚券！",
+        "레어 소환티켓쿠포!",
+        "Tenez, voici un ticket d'invocation rare !",
+        "Hier, eine seltene Beschwörungskarte!",
+        "¡Aquí tienes un tícket de invocación insólita!"
     ],
     "General_Popup_To_Shop": [
         "Shop for Deals",
-        null,
-        null,
-        null,
-        null,
-        null
+        "購買優惠",
+        "구매 상점",
+        "Parcourir les offres",
+        "Angebote ansehen",
+        "Tienda"
     ],
     "General_Popup_To_Summon": [
         "Summon for Units",
-        null,
-        null,
-        null,
-        null,
-        null
+        "召喚兵員",
+        "유닛 소환",
+        "Invoquer des unités",
+        "Einheiten beschwören",
+        "Invoca"
     ],
     "HAVE_LAPIS_NUM": [
         "You have <param=lapis_num> lapis.",
@@ -6558,326 +6566,6 @@
         "Durée : <param=start_date> - <param=end_date>",
         "Zeitraum: <param=start_date> bis <param=end_date>",
         "Duración: <param=start_date> - <param=end_date>"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1001": [
-        "Special Daily Login",
-        "每日特別登入",
-        "스페셜 일일 출석 보상",
-        "Connexion quotidienne spéciale",
-        "Spezieller täglicher Login",
-        "Inicio de sesión diario especial"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1002": [
-        "Lara Croft Special Daily Login",
-        "蘿拉·卡芙特 每日特別登入",
-        "라라 크로프트 스페셜 일일 출석 보상",
-        "Lara Croft Connexion quotidienne spéciale",
-        "Lara Croft Spezieller täglicher Login",
-        "Inicio de sesión diario especial - Lara Croft"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1003": [
-        "30 Mil Special Daily Login",
-        "3000萬每日特別登入",
-        "3천만 스페셜 일일 출석 보상",
-        "30 million deConnexion quotidienne spéciale",
-        "30 Millionen spezielle tägliche Anmeldung",
-        "30 millones de inicios de sesión diarios especiales"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1004": [
-        "Your bonus for logging in during the Cherry Blossom event.",
-        "這是您在櫻花季活動中的登入獎勵",
-        "벚꽃 시즌 일일 출석 보상",
-        "Votre bonus de connexion pour vous être connecté durant l'événement des fleurs de cerisier.",
-        "Dein Bonus für die Anmeldung während des Kirschblüte-Ereignisses.",
-        "Inicio de sesión diario cerezo en flor"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1005": [
-        "Special Daily Login",
-        "每日特別登入",
-        "스페셜 일일 출석 보상",
-        "Connexion quotidienne spéciale",
-        "Spezieller täglicher Login",
-        "Inicio de sesión diario especial"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1006": [
-        "Special Login Bonus",
-        "特別登入獎勵",
-        "스페셜 로그인 보너스",
-        "Bonus spéciaux de collaboration",
-        "Spezieller Anmeldebonus",
-        "Bonus especial de inicio de sesión"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1007": [
-        "Special Login Bonus",
-        "特別登入獎勵",
-        "스페셜 로그인 보너스",
-        "Bonus spéciaux de collaboration",
-        "Spezieller Anmeldebonus",
-        "Bonus especial de inicio de sesión"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1008": [
-        "FINAL FANTASY BRAVE EXVIUS is celebrating its 2nd anniversary! Please accept this as a token of our appreciation!",
-        "歡慶《FINAL FANTASY BRAVE EXVIUS》2週年！請接受這份禮物以表我們的謝意！",
-        "FINAL FANTASY BRAVE EXVIUS 글로벌 출시 2주년을 축하하는 의미로 감사의 선물을 드립니다!",
-        "FINAL FANTASY BRAVE EXVIUS célèbre son 2e anniversaire ! Veuillez accepter ceci en témoignage de notre reconnaissance !",
-        "FINAL FANTASY BRAVE EXVIUS begeht sein zweijähriges Jubiläum! Bitte nimm diese Kleinigkeit als Zeichen unserer Dankbarkeit an!",
-        "¡FINAL FANTASY BRAVE EXVIUS celebra su 2º aniversario! ¡Acepta esto como muestra de nuestro aprecio!"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1009": [
-        "FINAL FANTASY BRAVE EXVIUS is celebrating its 2nd anniversary! Please accept this as a token of our appreciation!",
-        "歡慶《FINAL FANTASY BRAVE EXVIUS》2週年！請接受這份禮物以表我們的謝意！",
-        "FINAL FANTASY BRAVE EXVIUS 글로벌 출시 2주년을 축하하는 의미로 감사의 선물을 드립니다!",
-        "FINAL FANTASY BRAVE EXVIUS célèbre son 2e anniversaire ! Veuillez accepter ceci en témoignage de notre reconnaissance !",
-        "FINAL FANTASY BRAVE EXVIUS begeht sein zweijähriges Jubiläum! Bitte nimm diese Kleinigkeit als Zeichen unserer Dankbarkeit an!",
-        "¡FINAL FANTASY BRAVE EXVIUS celebra su 2º aniversario! ¡Acepta esto como muestra de nuestro aprecio!"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1010": [
-        "FFVIII Special Login Bonus Reward",
-        "FFVIII 特別登入獎勵",
-        "FFVIII 스페셜 출석 보상",
-        "Récompense du bonus de connexion spécial FFVIII",
-        "Spezieller FFVIII Anmeldebonus: Belohnung",
-        "Recompensa de bonificación especial de inicio de sesión de FFXVIII"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1011": [
-        "7★ Arrival Celebration Bonus Reward",
-        "★7 覺醒解放慶祝獎勵",
-        "★7 등장 기념 보상",
-        "Récompense du bonus de célébration de l'éveil 7★",
-        "7★Ankunft-Feierbonus: Belohnung",
-        "Recompensa de bonificación de celebración de llegada 7★"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1012": [
-        "Dragon Quest Collaboration",
-        "DQMSL合作",
-        "Dragon Quest 콜라보레이션",
-        "Collaboration avec Dragon Quest",
-        "Dragon Quest Kollaboration",
-        "Colaboración con Dragon Quest"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1013": [
-        "Summer Event Rewards",
-        "夏日活動獎勵",
-        "여름 이벤트 보상",
-        "Récompenses de l'événement de l'été",
-        "Sommerereignis-Belohnungen",
-        "Recompensas de evento de verano"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1014": [
-        "Halloween Event Rewards",
-        "萬聖節活動獎勵",
-        "할로윈 이벤트 보상",
-        "Récompenses d'Halloween",
-        "Halloween Ereignisbelohnungen",
-        "Recompensas de evento de Halloween"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1015": [
-        "35 Million Downloads Rewards",
-        "3500萬下載紀念獎勵",
-        "3천5백만 다운로드 기념 보상",
-        "Récompenses d'35 M de télécharg.",
-        "35 Millionen Downloads Ereignisbelohnungen",
-        "Recompensas por las 35 millones de descargas"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1016": [
-        "NieR:Automata Event Rewards",
-        "NieR: Automata 活動獎勵",
-        "NieR: Automata 이벤트 보상",
-        "Récompenses de l'événement de NieR:Automata",
-        "NieR:Automata Ereignisbelohnungen",
-        "Recompensas del evento de NieR:Automata"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1017": [
-        "Fan Festa 2018 Event Rewards",
-        "2018 粉絲慶典活動獎勵",
-        "팬 페스타 2018 이벤트 보상",
-        "Récompenses d'événement de la Fan Festa 2018",
-        "Fan Festa 2018 Ereignisbelohnungen",
-        "Recompensas del evento Fan Festa 2018"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1018": [
-        "New Year Event Rewards",
-        "新年活動獎勵",
-        "새해맞이 이벤트 보상",
-        "Récompenses de la nouvelle année",
-        "Neujahr-Ereignisbelohnungen",
-        "Recompensas de evento de Año Nuevo"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1019": [
-        "STAR OCEAN: ANAMNESIS Event Rewards",
-        "STAR OCEAN: ANAMNESIS 活動獎勵",
-        "STAR OCEAN: ANAMNESIS 이벤트 보상",
-        "Récompenses de la STAR OCEAN: ANAMNESIS",
-        "STAR OCEAN: ANAMNESIS Ereignisbelohnungen",
-        "Recompensas del evento de STAR OCEAN: ANAMNESIS"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_MSG_1020": [
-        "Lunar New Year Event Rewards",
-        "農曆新年活動獎勵",
-        "설날맞이 이벤트 보상",
-        "Récompenses événement du Nouvel An lunaire",
-        "Neues Mondjahr Ereignisbelohnungen",
-        "Recompensas del evento del Año Nuevo Lunar"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001": [
-        "Special Daily Login",
-        "每日特別登入",
-        "스페셜 일일 출석 보상",
-        "Connexion quotidienne spéciale",
-        "Spezieller täglicher Login",
-        "Inicio de sesión diario especial"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1002": [
-        "Lara Croft Special Daily Login",
-        "蘿拉·卡芙特 每日特別登入",
-        "라라 크로프트 스페셜 일일 출석 보상",
-        "Lara Croft Connexion quotidienne spéciale",
-        "Lara Croft Spezieller täglicher Login",
-        "Inicio de sesión diario especial - Lara Croft"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1003": [
-        "30 Mil Special Daily Login",
-        "3000萬每日特別登入",
-        "3천만 스페셜 일일 출석 보상",
-        "30 million deConnexion quotidienne spéciale",
-        "30 Millionen spezielle tägliche Anmeldung",
-        "30 millones de inicios de sesión diarios especiales"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1004": [
-        "Cherry Blossom Daily Login Bonus",
-        "櫻花季每日登入獎勵",
-        "벚꽃 시즌 일일 출석 보상",
-        "Bonus de connexion des fleurs de cerisier",
-        "Kirschblüte Täglicher Anmeldebonus",
-        "Inicio de sesión diario cerezo en flor"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1005": [
-        "Special Daily Login",
-        "每日特別登入",
-        "스페셜 일일 출석 보상",
-        "Connexion quotidienne spéciale",
-        "Spezieller täglicher Login",
-        "Inicio de sesión diario especial"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1006": [
-        "Collaboration Campaign",
-        "合作活動",
-        "콜라보레이션 이벤트",
-        "Campagne de collaboration",
-        "Kollaborationskampagne",
-        "Campaña de colaboración"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1007": [
-        "Sephiroth's Arrival Special",
-        "賽菲羅斯降臨特別登入",
-        "세피로스 등장 스페셜",
-        "Lot fêtant l'arrivée de Séphiroth",
-        "Sephiroths Ankunftsspezial",
-        "Especial llegada de Sefirot"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1008": [
-        "2nd Anniversary Login Bonus",
-        "2週年紀念登入獎勵",
-        "2주년 기념 출석 보상",
-        "Bonus de connexion du 2e anniversaire",
-        "2-Jahres-Jubiläum Anmeldebonus",
-        "Bonificación de inicio de sesión de 2º aniversario"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1009": [
-        "2nd Anniversary Login Bonus",
-        "2週年紀念登入獎勵",
-        "2주년 기념 출석 보상",
-        "Bonus de connexion du 2e anniversaire",
-        "2-Jahres-Jubiläum Anmeldebonus",
-        "Bonificación de inicio de sesión de 2º aniversario"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1010": [
-        "FFVIII Special Login Bonus",
-        "FFVIII 特別登入獎勵",
-        "FFVIII 스페셜 출석 보상",
-        "Bonus de connexion spécial FFVIII",
-        "Spezieller FFVIII Anmeldebonus",
-        "Bonificación especial de inicio de sesión de FFXVIII"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1011": [
-        "7★ Arrival Celebration Bonus",
-        "★7 覺醒解放慶祝獎勵",
-        "★7 등장 기념 보상",
-        "Bonus de célébration de l'éveil 7★",
-        "7★Ankunft-Feierbonus",
-        "Bonificación de celebración de llegada 7★"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1012": [
-        "Special Collaboration Bonus",
-        "特別合作獎勵",
-        "스페셜 콜라보레이션 보너스",
-        "Bonus spécial de collaboration",
-        "Spezieller Kollaborationsbonus",
-        "Bonificación especial de colaboración"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1013": [
-        "Summer Login Bonus",
-        "夏日登入獎勵",
-        "여름 출석 보상",
-        "Bonus de connexion de l'été",
-        "Sommer-Anmeldebonus",
-        "Bonificación de inicio de sesión de verano"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1014": [
-        "Halloween Login Bonus",
-        "萬聖節活動登入獎勵",
-        "할로윈 출석 보상",
-        "Bonus de connexion d'Halloween",
-        "Halloween Anmeldebonus",
-        "Bonificación de inicio de sesión de Halloween"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1015": [
-        "35 Million Downloads Login Bonus",
-        "3500萬下載紀念登入獎勵",
-        "3천5백만 다운로드 기념 출석 보상",
-        "Bonus de connexion d'35 M de télécharg.",
-        "35 Millionen Downloads Anmeldebonus",
-        "Bonificación de inicio de sesión por las 35 millones de descargas"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1016": [
-        "NieR:Automata Login Bonus",
-        "NieR: Automata 登入獎勵",
-        "NieR: Automata 출석 보상",
-        "Bonus de connexion de NieR:Automata",
-        "NieR:Automata Anmeldebonus",
-        "Bonificación de inicio de sesión de NieR:Automata"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1017": [
-        "Fan Festa 2018 Login Bonus",
-        "2018 粉絲慶典登入獎勵",
-        "팬 페스타 2018 출석 보상",
-        "Bonus de connexion de la Fan Festa 2018",
-        "Fan Festa 2018 Anmeldebonus",
-        "Bonificación de inicio de sesión de la Fan Festa 2018"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1018": [
-        "New Year Login Bonus",
-        "新年登入獎勵",
-        "새해맞이 출석 보상",
-        "Bonus de connexion de la nouvelle année",
-        "Neujahr-Anmeldebonus",
-        "Bonificación de inicio de sesión de Año Nuevo"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1019": [
-        "STAR OCEAN: ANAMNESIS Login Bonus",
-        "STAR OCEAN: ANAMNESIS 登入獎勵",
-        "STAR OCEAN: ANAMNESIS 출석 보상",
-        "Bonus de connexion de la STAR OCEAN: ANAMNESIS",
-        "STAR OCEAN: ANAMNESIS Anmeldebonus",
-        "Bonificación de inicio de sesión de STAR OCEAN: ANAMNESIS"
-    ],
-    "LOGIN_BONUS_SPECIAL_MAIL_TITLE_1020": [
-        "Lunar New Year Login Bonus",
-        "農曆新年登入獎勵",
-        "설날맞이 출석 보상",
-        "Bonus de connexion du Nouvel An lunaire",
-        "Neues Mondjahr Anmeldebonus",
-        "Bonificación de inicio de sesión del Año Nuevo Lunar"
     ],
     "LOGIN_BONUS_TITLE": [
         "Consecutive Login Bonus",
@@ -10143,6 +9831,14 @@
         "Tetra Sylphid",
         "Tetra Sílfide"
     ],
+    "MST_BUNDLE_MESSAGE_1028": [
+        "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
+        "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
+        "30일 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
+        "Merci d'avoir acheté le lot des 30 jours de connexion ! Vous avez reçu les récompenses suivantes pour le jour n°%s :",
+        "Vielen Dank, dass du das 30-Tage-Loginpaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
+        "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
+    ],
     "MST_BUNDLE_MESSAGE_688": [
         "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
         "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
@@ -10822,6 +10518,158 @@
         "Toutes les caractéristiques +30%",
         "Alle Werte +30 %",
         "Todos las estadísticas +30%"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_10": [
+        "Parameter boosts",
+        "狀態提升系",
+        "능력치 상승 계열",
+        "Augmentation des caractéristiques",
+        "Werte-Erhöhung",
+        "Potenciadores"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_11": [
+        "Parameter reductions",
+        "狀態降低系",
+        "능력치 감소 계열",
+        "Réduction des caractéristiques",
+        "Werte-Senkung",
+        "Debilitadores"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_12": [
+        "Multi-hit physical combos",
+        "物理連擊系",
+        "연속 물리 공격 계열",
+        "Multiplicateurs d'attaques physiques",
+        "Physische Angriffkombos",
+        "Ataques múltiples"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_13": [
+        "Multi-hit magical combos",
+        "魔法連擊系",
+        "연속 마법 공격 계열",
+        "Multiplicateurs d'attaques magiques",
+        "Magische Angriffkombos",
+        "Magia múltiple"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_14": [
+        "Status ailments",
+        "施加異常狀態系",
+        "상태이상 부여 계열",
+        "Altération d'état",
+        "Zustandsveränderungen",
+        "Estados alterados"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_15": [
+        "Multiple use abilities",
+        "多次能力",
+        "다중 공격 계열",
+        "Aptitudes permettant un usage multiple",
+        "Mehrfachgebrauch-Fertigkeiten",
+        "Habilidades de uso múltiple"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_2": [
+        "Fire attacks",
+        "火屬性攻擊",
+        "불속성 공격",
+        "Attaque de feu",
+        "Feuerangriffe",
+        "Elemento fuego"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_3": [
+        "Ice attacks",
+        "冰屬性攻擊",
+        "얼음속성 공격",
+        "Attaque de glace",
+        "Eisangriffe",
+        "Elemento hielo"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_4": [
+        "Lightning attacks",
+        "雷屬性攻擊",
+        "번개속성 공격",
+        "Attaque de foudre",
+        "Blitzangriffe",
+        "Elemento rayo"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_5": [
+        "Water attacks",
+        "水屬性攻擊",
+        "물속성 공격",
+        "Attaque d'eau",
+        "Wasserangriffe",
+        "Elemento agua"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_50": [
+        "Black Magic",
+        "黑魔法",
+        "흑마법",
+        "Magie noire",
+        "Schwarzmagie",
+        "Magia negra"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_51": [
+        "White Magic",
+        "白魔法",
+        "백마법",
+        "Magie blanche",
+        "Weißmagie",
+        "Magia blanca"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_52": [
+        "Recovery abilities",
+        "恢復",
+        "회복 계열",
+        "Aptitudes de récupération",
+        "Heilungsfertigkeiten",
+        "Habilidades de recuperación"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_53": [
+        "Status altering abilities",
+        "強化・弱化狀態",
+        "상태 변경",
+        "Aptitudes altérant l'état",
+        "Statusfertigkeiten",
+        "Habilidades de cambio de estado"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_6": [
+        "Wind attacks",
+        "風屬性攻擊",
+        "바람속성 공격",
+        "Attaque de vent",
+        "Windangriffe",
+        "Elemento viento"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_7": [
+        "Earth attacks",
+        "土屬性攻擊",
+        "땅속성 공격",
+        "Attaque de terre",
+        "Erdangriffe",
+        "Elemento tierra"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_8": [
+        "Light attacks",
+        "光屬性攻擊",
+        "빛속성 공격",
+        "Attaque de lumière",
+        "Lichtangriffe",
+        "Elemento luz"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_9": [
+        "Dark attacks",
+        "暗屬性攻擊",
+        "어둠속성 공격",
+        "Attaque de ténèbres",
+        "Dunkelangriffe",
+        "Elemento oscuridad"
+    ],
+    "MST_RB_FORBIDDEN_INFO_NAME_99": [
+        "Permanently forbidden abilities",
+        "僅限共通禁止能力",
+        "영구 금지 어빌리티",
+        "Aptitudes bannies à jamais",
+        "Vorübergehend verbotene Fertigkeiten",
+        "Habilidades prohibidas permanentemente"
     ],
     "MST_RB_SS_BONUS_INFO_DESC_NO_FEMALE": [
         "Male or genderless units",
@@ -12432,12 +12280,12 @@
         "Selecciona una zona."
     ],
     "MST_TOWNSTORE_COMMENT_1": [
-        "How about your gift bows for something from my collection, kupo!",
-        "用「禮物蝴蝶結」<br>交換我的收藏品庫啵！",
-        "'선물 포장 리본'을 <br>내 수집품과 교환쿠포!",
-        "Ça te dirait d'échanger tes Ruban cadeau contre un objet de ma collection, kupo ?",
-        "Tausch doch deine \"Geschenkschleife\" gegen was aus meiner Sammlung, kupo!",
-        "¿Me cambias Lazo de regalo por algo de mi tienda, kupó?"
+        "I'd be happy to trade for your Fan Festa Tokens, kupo!",
+        "用「粉絲慶典紀念幣」<br>交換我的收藏品庫啵！",
+        "'팬 페스타 토큰'을,<br>내 수집품과 교환쿠포!",
+        "Ça te dirait d'échanger tes jetons de la Fan Festa contre un objet de ma collection, kupo ?",
+        "Du kannst deine Fan-Festa-Marken gerne bei mir eintauschen, kupo!",
+        "¡Me interesan tus Fichas de la Fan Festa, kupó!"
     ],
     "MST_TOWNSTORE_COMMENT_2": [
         "What are you looking to sell?",
@@ -12448,12 +12296,12 @@
         "¿Qué quieres vender?"
     ],
     "MST_TOWNSTORE_COMMENT_3": [
-        "Come back and see me once you've collected some gift bows, kupo!",
-        "收集「禮物蝴蝶結」，<br>再來找我庫啵！",
-        "'선물 포장 리본'이 모이면<br>또 가져와쿠포~!",
-        "Reviens quand tu auras plus de Ruban cadeau, kupo !",
-        "Komm wieder wenn du mehr \"Geschenkschleife\" gesammelt hast, kupo!",
-        "¡Vuelve pronto con más Lazo de regalo, kupó!"
+        "Come back and see me once you've collected some Fan Festa Tokens, kupo!",
+        "收集「粉絲慶典紀念幣」，<br>再來找我庫啵！",
+        "'팬 페스타 토큰'이 모이면,<br>또 가져와쿠포~!",
+        "Reviens quand tu auras plus de jetons de la Fan Festa, kupo !",
+        "Komm wieder, sobald du Fan-Festa-Marken hast, kupo!",
+        "¡Vuelve cuando tengas algunas Fichas de la Fan Festa, kupó!"
     ],
     "MST_TRIBE_NAME_1": [
         "Beast",
@@ -12681,7 +12529,7 @@
     ],
     "MST_TRUSTCOIN_EXCHANGE_EXPLAIN_1": [
         "A prism moogle that can be fused with a 3★ trust master specific moogle to obtain said specific trust master reward when its trust value reaches 100%",
-        "當使用擁有特定信賴度的★3信賴度莫古利進行合成，並在信賴度達到100%時，能夠獲得信賴度滿點報酬的兵員",
+        "當使用擁有特定信賴度的★3信賴度莫古利來強化信賴度莫古利（原晶），並在信賴度達到100%時，能夠獲得信賴度滿點報酬的兵員",
         "고유의 트러스트를 보유한 트러스트 모그리 ★3을 합성하여 트러스트치 100%가 되었을 경우, 트러스트 마스터 보상을 받을 수 있는 유닛",
         "Un prismog peut être fusionné à un mog 3★ à récompense de confiance absolue spécifique pour obtenir ladite récompense lorsque sa confiance aura atteint les 100%",
         "Ein Prismamogry kann mit einem Wahre-Treue-spezifischen 3★ Treuemogry fusioniert werden, um diese Wahre-Treue-Belohnung zu erhalten, wenn sein Treuewert 100% erreicht.",
@@ -12767,6 +12615,14 @@
         "Metallkaktorius",
         "Cactilión de metal"
     ],
+    "NAME_104000403": [
+        "The Lost Phantom Girl 3",
+        "迷幻之家的幽靈少女③",
+        "외딴집의 유령소녀③",
+        "Le fantôme égaré 3",
+        "Das verschollene Phantommächden 3",
+        "La chica fantasma perdida 3"
+    ],
     "NAME_UNKNOWN": [
         "???",
         "？？？",
@@ -12838,6 +12694,14 @@
         "Une fois par jour",
         "Einmal pro Tag",
         "Una vez al día"
+    ],
+    "ONSTERDICTIONARY_NAME_10000045": [
+        "Hog Guardian",
+        "己亥守護者",
+        "기해년의 파수꾼",
+        "Gardien porcin",
+        "Wildschwein-Wächter",
+        "Guardián Puerco"
     ],
     "OPEN_PARENTHESIS": [
         "(",
@@ -13156,7 +13020,7 @@
         "無法重新登入至<param=login_service>。<br><br>請由標題畫面再次嘗試登入。",
         "<param=login_service>(으)로 재로그인 할 수 없습니다.<br><br>타이틀 화면에서 로그인을 다시 시도해 주십시오.",
         "Impossible de se reconnecter à <param=login_service>.<br><br>Veuillez réessayer depuis l'écran d'accueil.",
-        "Erneutes Anmelden bei <param=login_service> fehlgeschlagen.<br><br>Bitte versuche, dich über den Titelbildschirm erneut anzumelden.",
+        "Erneutes Anmelden bei <param=login_service> fehlgeschlagen.<br><br>Bitte versuche, dich erneut über den Titelbildschirm anzumelden.",
         "No es posible volver a iniciar sesión en <param=login_service>.<br><br>Inténtalo de nuevo desde la pantalla de título."
     ],
     "Pop_Up_General_Button_No": [
@@ -14329,10 +14193,10 @@
     ],
     "SG_BUNDLE_OBTAINED": [
         "Obtained %s",
-        "獲得",
-        "획득",
-        "Obtenu",
-        "Erhalten",
+        "獲得%s",
+        "%s 획득",
+        "Vous avez obtenu : %s",
+        "%s erhalten",
         "Has obtenido: %s"
     ],
     "SG_BUNDLE_SPECIALPROMO_HEADER": [
@@ -14355,7 +14219,7 @@
         "*Tap and hold the item to see more details.",
         "*點擊該項目以查看詳情。",
         "* 자세한 내용을 확인하려면 아이템을 길게 터치하세요.",
-        "* Touchez l'objet pour plus d'informations.",
+        "* Maintenez le doigt appuyé sur l'objet pour voir plus d'informations.",
         "*Tippe auf den Gegenstand, um weitere Details einzusehen.",
         "*Toca el objeto y mantén pulsado para más información."
     ],
@@ -14369,10 +14233,10 @@
     ],
     "SG_BUNDLE_WELCOME_TEXT": [
         "Remember to log in for %s days to get your next milestone reward!",
-        "記得累積登入%天，獲得下一個里程碑獎勵！",
+        "記得累積登入%s天，獲得下一個里程碑獎勵！",
         "%일 차에 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
-        "N'oubliez pas de vous connecter pendant % jours pour obtenir votre prochaine récompense d'étape !",
-        "Denke daran, dich % Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
+        "N'oubliez pas de vous connecter pendant %s jours pour obtenir votre prochaine récompense d'étape !",
+        "Denke daran, dich %s Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
         "¡Acuérdate de iniciar sesión durante %s días para conseguir tu nueva recompensa de récord!"
     ],
     "SG_CLSM_HINT_BTN": [
