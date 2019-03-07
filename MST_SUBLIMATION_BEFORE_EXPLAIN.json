@@ -69,7 +69,7 @@
         "LB 게이지 효율 증가(중)",
         "Augmente le taux de remplissages des pierres de limite (moyen)",
         "Verstärkt den Effekt von Limit-Steinen (mittel)",
-        "Las piedras de estallido recuperarán más EL (bastante)"
+        "La barra de EL se llena más rápido (bastante)"
     ],
     "101290002": [
         "Halves encounter rate",
@@ -91,8 +91,8 @@
         "Boosts ATK increase (mid)",
         "提高攻擊增加量(中)",
         "공격력 상승량 상승(중)",
-        "Amplifie l'augmentation de la force (moyen)",
-        "Steigert die ANG-Erhöhung (mittel)",
+        "Amplifie l'augmentation de l'ATT (moyen)",
+        "Steigert ANG-Erhöhung (mittel)",
         "Mayor aumento de ATQ (bastante)"
     ],
     "101360004": [
@@ -116,7 +116,7 @@
         "降低MP消耗(中)",
         "소비 MP 감소(중)",
         "Réduit les PM consommés (moyen)",
-        "Reduziert den MP-Verbrauch (mittel)",
+        "Verringert MP-Verbrauch (mittel)",
         "Reduce el consumo de PM (bastante)"
     ],
     "101601002": [
@@ -124,7 +124,7 @@
         "提高恢復量(中)",
         "회복량 상승(중)",
         "Augmente le pouvoir de soin (moyen)",
-        "Reduziert den MP-Verbrauch (mittel)",
+        "Verringert MP-Verbrauch (mittel)",
         "Aumenta el poder de curación (bastante)"
     ],
     "101601004": [
@@ -134,6 +134,14 @@
         "Augmente le pouvoir de soin (moyen)<br>Réduit les PM consommés (peu)",
         "Erhöht den Regenerationseffekt (mittel)<br>Reduziert den MP-Verbrauch (gering)",
         "Aumenta el poder de curación (bastante)<br>Reduce el consumo de PM (poco)"
+    ],
+    "101601006": [
+        "Boosts HP restoration amount (great)<br>Increases MP consumed (low)",
+        "提高HP恢復量(特大)<br>增加MP消耗(小)",
+        "HP 회복량 상승(특대)<br>소비 MP 상승(소)",
+        "Augmente le nombre de PV restaurés (super)<br>Augmente les PM consommés (peu)",
+        "Erhöht Wert regenerierter LP (sehr hoch)<br>Erhöht MP-Verbrauch (gering)",
+        "Aumenta la recuperación de VIT (muchísimo)<br>Aumenta el consumo de PM (poco)"
     ],
     "101801002": [
         "Reduces MP consumed (low)",
@@ -1682,7 +1690,7 @@
     "207170002": [
         "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (mid)",
         "提高火冰雷水風土光暗屬性耐性(中)",
-        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속석 저항력 상승(중)",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승(중)",
         "Augmente la rés. à feu / glace / foudre / eau / vent / terre / lumière / ténèbres (moyen)",
         "Erhöht Res. gegen Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel (mittel)",
         "Aumenta la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (bastante)"
@@ -2455,14 +2463,6 @@
         "Erhöht Schaden (sehr hoch)",
         "Aumenta el daño (muchísimo)"
     ],
-    "211340002": [
-        "Boosts ATK increase (high)",
-        "提高攻擊增加量(大)",
-        "공격력 상승량 상승(대)",
-        "Amplifie l'augmentation de l'ATT (beaucoup)",
-        "Steigert die ANG-Erhöhung (hoch)",
-        "Mayor aumento de ATQ (mucho)"
-    ],
     "211380002": [
         "Adds wind element to own physical attack",
         "將自身的物理攻擊賦予風屬性",
@@ -3199,6 +3199,78 @@
         "Erhöht ANG-Steigerung durch Doppelte Viper, welche nach Drachentritt verfügbar wird (hoch)",
         "Mayor aumento de ATQ con Serpientes gemelas, habilidad que se desbloquea tras usar Talón de dragón (mucho)"
     ],
+    "217060002": [
+        "Boosts damage amount (mid)<br>Boosts DEF and SPR reductions (low)",
+        "提高傷害量(中)<br>提高防禦精神減少量(小)",
+        "피해량 상승(중)<br>방어력과 정신력 감소량 상승(소)",
+        "Augmente les dégâts infligés (moyen)<br>Amplifie la réduction de la DEF et de la PSY (peu)",
+        "Erhöht Schaden (mittel)<br>Erhöht ABW- und PSY-Verringerungen (gering)",
+        "Aumenta el daño (bastante)<br>Mayor reducción de DEF y ESP (poco)"
+    ],
+    "217070002": [
+        "Reduces ATK and MAG for all enemies",
+        "降低全體敵人的攻擊魔力",
+        "적 전체의 공격력과 마력 감소",
+        "Réduit l'ATT et la MAGIE de tous les ennemis",
+        "Verringert ANG und MAG bei allen Gegnern",
+        "Reduce el ATQ y la MAG de todos los enemigos"
+    ],
+    "217090002": [
+        "Boosts damage amount (mid)",
+        "提高傷害量(中)",
+        "피해량 상승(중)",
+        "Augmente les dégâts infligés (moyen)",
+        "Erhöht Schaden (mittel)",
+        "Aumenta el daño (bastante)"
+    ],
+    "217100002": [
+        "Boosts ATK and MAG increases (mid)",
+        "提高攻擊魔力增加量(中)",
+        "공격력과 마력 상승량 상승(중)",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)",
+        "Steigert ANG- und MAG-Erhöhungen (mittel)",
+        "Mayor aumento de ATQ y DEF (bastante)"
+    ],
+    "217150002": [
+        "Boosts increase to parameters of espers evoked (mid)",
+        "提高發動召喚魔法時幻獸狀態的增加量(中)",
+        "소환마법 사용 시 환수 능력치 상승량 상승(중)",
+        "Amplifie l'augmentation des paramètres des chimères appelées (moyen)",
+        "Erhöht Werte gerufener Esper (mittel)",
+        "Mayor aumento de parámetros de los espers evocados (bastante)"
+    ],
+    "217160002": [
+        "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance<br>Boosts HP and DEF",
+        "提高火冰雷水風土光暗屬性耐性(中)<br>提高HP防禦",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승(중)<br>HP와 방어력 상승",
+        "Augmente la résistance aux éléments feu, glace, foudre, eau, vent, terre, lumière et ténèbres<br>Augmente les PV et la DEF",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht-, und Dunkelresistenz<br>Erhöht LP und ABW",
+        "Aumenta la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad<br>Aumenta la VIT y la DEF"
+    ],
+    "217220002": [
+        "Boosts damage amount (great)<br>Boosts DEF and SPR reductions (low)",
+        "提高攻擊傷害量(特大)<br>提高防禦精神減少量(小)",
+        "피해량 상승(특대)<br>방어력과 정신력 감소량 상승(소)",
+        "Augmente les dégâts infligés (super)<br>Amplifie la réduction de la DEF et de la PSY (peu)",
+        "Erhöht Schaden (sehr hoch)<br>Steigert ABW- und PSY-Verringerungen (gering)",
+        "Aumenta el daño (muchísimo)<br>Mayor reducción de DEF y ESP (poco)"
+    ],
+    "217230002": [
+        "Boosts damage amount (great)<br>Reduces ATK and MAG for all enemies<br>Increases MP consumed (low)",
+        "提高傷害量(特大)<br>降低全體敵人的攻擊魔力<br>增加MP消耗(小)",
+        "피해량 상승(특대)<br>적 전체의 공격력과 마력 감소<br>소비 MP 상승(소)",
+        "Augmente les dégâts infligés (super)<br>Réduit l'ATT et la MAGIE de tous les ennemis<br>Augmente les PM consommés (peu)",
+        "Erhöht Schaden (sehr hoch)<br>Verringert ANG und MAG bei allen Gegnern<br>Erhöht MP-Verbrauch (gering)",
+        "Aumenta el daño (muchísimo)<br>Reduce el ATQ y la MAG de todos los enemigos<br>Aumenta el consumo de PM (poco)"
+    ],
+    "217260002": [
+        "Boosts HP and DEF increases (low)",
+        "提高HP防禦增加量(小)",
+        "HP와 방어력 상승량 상승(소)",
+        "Amplifie l'augmentation des PV et de la DEF (peu)",
+        "Steigert LP- und ABW-Erhöhungen (gering)",
+        "Mayor aumento de la VIT y la DEF (poco)"
+    ],
     "217400002": [
         "Boosts maximum number of ailments inflicted (low)",
         "提高賦予狀態效果的最大量(小)",
@@ -3247,6 +3319,14 @@
         "Erhöht nötige LP (mittel)",
         "Aumenta la VIT necesaria (bastante)"
     ],
+    "217660002": [
+        "Boosts HP restoration amount (high)",
+        "提高HP恢復量(大)",
+        "HP 회복량 상승(대)",
+        "Augmente le nombre de PV restaurés (beaucoup)",
+        "Erhöht Wert regenerierter LP (hoch)",
+        "Aumenta la recuperación de VIT (mucho)"
+    ],
     "217670002": [
         "Boosts damage amount (low)<br>Reduces fire resistance",
         "提高傷害量(小)<br>降低火屬性耐性",
@@ -3254,6 +3334,14 @@
         "Augmente les dégâts infligés (peu)<br>Réduit la résistance au feu",
         "Erhöht Schaden (gering)<br>Verringert Feuerresistenz",
         "Aumenta el daño (poco)<br>Reduce la resistencia al fuego"
+    ],
+    "217680002": [
+        "Boosts LB gauge fill rate (low)",
+        "提高極限技石對極限技槽的增加量(小)",
+        "LB 게이지 효율 상승(소)",
+        "Augmente le taux de remplissage de la jauge de limite (peu)",
+        "Limitmeter füllt sich schneller (gering)",
+        "La barra de EL se llena más rápido (poco)"
     ],
     "217770002": [
         "Boosts ATK and MAG increases (mid)<br>Boosts turns in effect for ATK and MAG increases (low)<br>Boosts damage amount of enabled abilities - purgatory fire slash and thunder strike stance (great)",
@@ -3415,141 +3503,29 @@
         "Steigert MP- und ABW-Erhöhungen (gering)",
         "Mayor aumento de PM y DEF (poco)"
     ],
-    "219980002": [
-        "Boosts chance of activation (low)<br>Boosts ATK increase (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+    "219670002": [
+        "Boosts damage amount (high)<br>Boosts chance to inflict stop (high)",
+        "提高傷害量(大)<br>提高施加停止效果的機率(大)",
+        "피해량 상승(대)<br>스톱 부여 확률 상승(대)",
+        "Augmente les dégâts infligés (beaucoup)<br>Augmente les chances d'infliger stop (beaucoup)",
+        "Erhöht Schaden (hoch)<br>Erhöht Chance, Stopp zu erteilen (hoch)",
+        "Aumenta el daño (mucho)<br>Aumenta la probabilidad de infligir Paro (mucho)"
     ],
-    "220010002": [
-        "Boosts damage amount (great)",
-        "提高傷害量(特大)",
-        "피해량 상승(특대)",
-        "Augmente les dégâts infligés (super)",
-        "Erhöht den Schaden (sehr hoch)",
-        "Aumenta el daño (muchísimo)"
+    "219700002": [
+        "Boosts damage amount (mid)<br>Removes chance to miss",
+        "提高傷害量(中)<br>移除失誤發生機率",
+        "피해량 상승(중)<br>빗나갈 확률 제로",
+        "Augmente les dégâts infligés (moyen)<br>Supprime les risques de rater l'attaque",
+        "Erhöht Schaden (mittel)<br>Entfernt Chance auf Fehlschlag",
+        "Aumenta el daño (bastante)<br>No puede fallar"
     ],
-    "220020002": [
-        "Boosts restoration amount (great)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "220050002": [
-        "Boosts ATK increases (great)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "220100002": [
-        "Boosts turns in effect (low)",
-        "提高效果回合數(小)",
-        "효과 턴 수 상승(소)",
-        "Augmente le nombre de tours des effets (peu)",
-        "Erhöht Anzahl aktiver Runden (gering)",
-        "Aumenta la duración (poco)"
-    ],
-    "220120002": [
-        "Boosts restoration rate when being revived (high)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "220160002": [
-        "Boosts ATK increase (high)",
-        "提高攻擊增加量(大)",
-        "공격력 상승량 상승(대)",
-        "Amplifie l'augmentation de l'ATT (beaucoup)",
-        "Steigert die ANG-Erhöhung (hoch)",
-        "Mayor aumento de ATQ (mucho)"
-    ],
-    "220170002": [
-        "Boosts DEF increases (high)<br>Boosts chance of countering (mid)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "220180002": [
-        "Boosts MAG and SPR increases (high)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "220190002": [
-        "Boosts LB gauge fill rate (low)",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "220380002": [
-        "Boosts damage amount (great)",
-        "提高傷害量(特大)",
-        "피해량 상승(특대)",
-        "Augmente les dégâts infligés (super)",
-        "Erhöht den Schaden (sehr hoch)",
-        "Aumenta el daño (muchísimo)"
-    ],
-    "220470002": [
-        "Boosts damage amount (low)",
-        "提高傷害量(小)",
-        "피해량 상승(소)",
-        "Augmente les dégâts infligés (peu)",
-        "Erhöht den Schaden (gering)",
-        "Aumenta el daño (poco)"
-    ],
-    "220510002": [
-        "Boosts damage amount (great)",
-        "提高傷害量(特大)",
-        "피해량 상승(특대)",
-        "Augmente les dégâts infligés (super)",
-        "Erhöht den Schaden (sehr hoch)",
-        "Aumenta el daño (muchísimo)"
-    ],
-    "220560002": [
-        "Boosts damage amount (great)",
-        "提高傷害量(特大)",
-        "피해량 상승(특대)",
-        "Augmente les dégâts infligés (super)",
-        "Erhöht den Schaden (sehr hoch)",
-        "Aumenta el daño (muchísimo)"
-    ],
-    "220750002": [
-        "Boosts damage amount (great)",
-        "提高傷害量(特大)",
-        "피해량 상승(특대)",
-        "Augmente les dégâts infligés (super)",
-        "Erhöht den Schaden (sehr hoch)",
-        "Aumenta el daño (muchísimo)"
-    ],
-    "220870002": [
-        "Boosts ATK and MAG increases (mid)",
-        null,
-        null,
-        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)",
-        null,
-        null
-    ],
-    "220890002": [
-        "Boosts damage increase against beasts, humans, and fairies",
-        null,
-        null,
-        null,
-        null,
-        null
+    "219710002": [
+        "Boosts ATK and DEF increases (mid)<br>Boosts turns in effect for ATK and DEF increases (low)<br>Boosts enabled duration (low) of enabled ability - combo contestant",
+        "提高攻擊防禦增加量(中)<br>提高攻擊防禦增加量的效果回合數(小)<br>「連續鬥技」的可使用回合數提升(小)",
+        "공격력과 방어력 상승량 상승(중)<br>공격력과 방어력 상승 효과 턴 수 상승(소)<br>사용 가능 어빌리티 '연속 투기'의 사용 가능 턴 수 상승(소)",
+        "Amplifie l'augmentation de l'ATT et de la DEF (moyen)<br>Augmente le nombre de tours des effets améliorant l'ATT et la DEF (peu)<br>Augmente la durée de disponibilité (peu) de l'aptitude déblocable Combo concurrent",
+        "Steigert ANG- und ABW-Erhöhungen (mittel)<br>Erhöht Anzahl aktiver Runden für ANG- und ABW-Erhöhungen (gering)<br>Erhöht aktive Dauer (gering) von aktiver Fertigkeit - Kombo-Kandidat",
+        "Mayor aumento de ATQ y DEF (bastante)<br>Aumenta la duración del aumento de ATQ y DEF (poco)<br>Mayor aumento de la duración (poco) de la habilidad aprendida: Combo intento"
     ],
     "220960002": [
         "Boosts turns in effect (low)",
@@ -3615,29 +3591,13 @@
         "Steigert Schadenserhöhung gegen Drachen (gering)<br>Erhöht MAG",
         "Aumenta el daño contra dragones (poco)<br>Aumenta la MAG"
     ],
-    "226391002": [
-        "Boosts damage amount (low)",
-        "提高傷害量(小)",
-        "피해량 상승(소)",
-        "Augmente les dégâts infligés (peu)",
-        "Erhöht den Schaden (gering)",
-        "Aumenta el daño (poco)"
-    ],
-    "226392002": [
-        "Boosts turns in effect (low)",
-        "提高效果回合數(小)",
-        "효과 턴 수 상승(소)",
-        "Augmente le nombre de tours des effets (peu)",
-        "Erhöht Anzahl aktiver Runden (gering)",
-        "Aumenta la duración (poco)"
-    ],
-    "226393002": [
-        "Boosts ATK, DEF, MAG, and SPR increases (low)",
-        null,
-        null,
-        null,
-        null,
-        null
+    "227121002": [
+        "Boosts ATK and MAG for caster",
+        "提高自身的攻擊魔力",
+        "자신의 공격력과 마력 상승",
+        "Augmente l'ATT et la MAGIE du lanceur",
+        "Erhöht ANG und MAG für Benutzer",
+        "Aumenta el ATQ y la MAG del usuario"
     ],
     "227960002": [
         "Boosts damage amount (great)",
