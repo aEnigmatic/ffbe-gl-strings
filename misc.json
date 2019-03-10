@@ -784,11 +784,11 @@
         "Registros"
     ],
     "AWARD_ARCHIVE_SUB_TITLE_ARENA": [
-        "Arena Grade",
-        "鬥技場功績",
-        "결투장 실적",
-        "Grade d'arène",
-        "Arenagrad",
+        "Arena",
+        "鬥技場",
+        "결투장",
+        "Arène",
+        "Arena",
         "Arena"
     ],
     "AWARD_ARCHIVE_SUB_TITLE_CLSM": [
@@ -2424,12 +2424,12 @@
         "¿Descartar esta habilidad?"
     ],
     "EQUIP_GROW_BATTLE_RETURN_CONFIRM_BODY": [
-        "Your equipment will be reverted back to the state it was in before because you received a Game Over. You can <color=255:255:0>return with the abilities you obtained</color> by using <color=0:255:0><param=return_cost></color> lapis. Use lapis?",
-        "因為GAME OVER，所以裝備品將回到之前的狀態。<br>使用<param=return_cost>個寶石，就能<color=255:255:0>在獲得能力的情況下返回</color>。要使用寶石嗎？",
-        "GAME OVER로 인해 장비는 이전 강화 상태로 되돌아갔습니다. 라피스를 <color=0:255:0><param=return_cost>개</color> 사용하면 <color=255:255:0>획득한 어빌리티를 잃지 않고 귀환</color>할 수 있습니다. 라피스를 사용하시겠습니까?",
-        "Votre groupe a été vaincu. Vos pièces d'équipement seront réinitialisées au statut précédant l'amélioration. Vous pouvez <color=255:255:0>quitter le donjon avec les aptitudes obtenues</color> en utilisant des <color=0:255:0><param=return_cost></color> lapis. Utiliser vos lapis ?",
-        "Deine Ausrüstung wird auf ihren vorherigen Zustand zurückgesetzt, weil du das Spiel verloren hast.<br>Du kannst <param=return_cost> Lapis benutzen, um <color=255:255:0>dich zurückzuziehen, ohne erhaltene Fertigkeiten zu verlieren</color>. Lapis benutzen?",
-        "Has perdido la partida, por lo que se va a restablecer todo tu equipo. Puedes usar <color=0:255:0><param=return_cost></color> lapis para <color=255:255:0>volver con las habilidades que hayas adquirido previamente</color>. ¿Quieres usar lapis?"
+        "Wish to retire?<br>You can use <param=return_cost> lapis to <color=255:255:0>retire without losing any acquired abilities</color>.",
+        "要返回嗎？<br>使用<param=return_cost>個寶石，就能<color=255:255:0>在不失去獲得能力的情況下返回</color>。",
+        "귀환하시겠습니까?<br>라피스를 <param=return_cost>개 사용하여 <color=255:255:0>획득한 어빌리티를 잃지 않고 귀환</color>할 수 있습니다.",
+        "Voulez-vous sortir ?<br>Vous pouvez utiliser <param=return_cost> lapis pour <color=255:255:0>sortir sans perdre les aptitudes acquises</color>.",
+        "Möchtest du zurückkehren?<br>Du kannst <param=return_cost> Lapis benutzen, um <color=255:255:0>dich zurückzuziehen, ohne erhaltene Fertigkeiten zu verlieren</color>.",
+        "¿Quieres retirarte?<br>Puedes usar <param=return_cost> lapis para <color=255:255:0>retirarte sin perder las habilidades que ya has conseguido</color>."
     ],
     "EQUIP_GROW_BATTLE_RETURN_CONFIRM_COST": [
         "Lapis held: <param=lapis_num>",
@@ -2465,27 +2465,27 @@
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_EQUIP_SELECT": [
         "Enhance this piece of equipment?<br>Even if you fail to complete the dungeon, any abilities you obtained previously <color=255:255:0>will not be reset</color>. If already enhanced equipment is selected, <color=255:255:0>you will be able to choose</color> whether to leave the dungeon with the <color=0:128:0>newest abilities</color> you've obtained, or keep your <color=0:128:0>previous ability set</color> upon clearing the dungeon.",
-        "要強化此裝備品嗎？<br>就算失敗，之前獲得的狀態 <color=255:255:0>也不會被重置</color>。<br>如果選擇已經強化過的裝備品，在完成或返回時，<color=255:255:0>可以選擇</color><color=0:128:0>新獲得<br>狀態</color>或是<color=0:128:0>回到之前的狀態</color>。",
-        "이 장비를 강화하시겠습니까?<br>패배해도 이전의 획득 상태가 <color=255:255:0>초기화되지 않습니다.</color><br>강화 완료된 장비를 선택할 경우, 완료 및 귀환 시에 <color=0:255:0>신규<br>획득</color>이나 <color=0:255:0>이전 상태로 되돌리기</color><color=255:255:0>를 선택할 수 있습니다.</color>",
+        "要強化此裝備品嗎？<br>就算失敗，之前獲得的狀態 <color=255:255:0>也不會被重置</color>。如果選擇已經強化過的裝備品，在完成或返回時，<color=255:255:0>可以選擇</color><color=0:128:0>新獲得狀態</color>或是<color=0:128:0>回到之前的狀態</color>。",
+        "이 장비를 강화하시겠습니까?<br>패배해도 이전의 획득 상태가 <color=255:255:0>초기화되지 않습니다.</color> 강화 완료된 장비를 선택할 경우, 완료 및 귀환 시에 <color=0:128:0>신규 획득</color>이나 <color=0:128:0>이전 상태로 되돌리기</color>를 선택할 수 있습니다.</color>",
         "Améliorer cette pièce d'équipement ?<br>Même si vous ne parvenez pas à terminer ce donjon, les aptitudes précédemment obtenues <color=255:255:0>ne seront pas remises à zéro</color>. Si une pièce d'équipement déjà améliorée est sélectionnée, <color=255:255:0>vous aurez la possibilité</color> de sortir du donjon une fois celui-ci terminé et de conserver soit <color=0:128:0>vos aptitudes les plus récentes</color>, soit <color=0:128:0>vos aptitudes antérieures</color>.",
-        "Willst du diese Ausrüstung verbessern?<br>Auch wenn es dir misslingt, den Dungeon zu beenden, werden die Fertigkeiten, die du zuvor erworben hast <color=255:255:0>nicht zurückgesetzt</color>. Wenn bereits verbesserte Ausrüstung ausgewählt ist, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den von dir erworbenen<color=0:128:0>neusten Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset</color> behältst.",
-        "¿Quieres mejorar este objeto?<br>Aunque fracases al completar la mazmorra, las habilidades que hayas obtenido previamente <color=255:255:0>no se restablecerán</color>. Si has seleccionado equipo ya mejorado para completar esta mazmorra, <color=255:255:0>podrás elegir</color> si quieres abandonar la mazmorra con las <color=0:128:0>nuevas habilidades</color> obtenidas o quedarte con las <color=0:128:0>habilidades predefinidas</color>."
+        "Willst du diese Ausrüstung verbessern?<br>Auch wenn es dir misslingt, den Dungeon zu beenden, werden die Fertigkeiten, die du zuvor erworben hast <color=255:255:0>nicht zurückgesetzt</color>. Wenn bereits verbesserte Ausrüstung ausgewählt ist, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den von dir erworbenen <color=0:128:0>neusten Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset</color> behältst.",
+        "¿Quieres mejorar este objeto?<br>*<color=255:255:0>Aunque fracases al completar la mazmorra, las habilidades que hayas obtenido previamente <color=255:255:0>no se restablecerán</color>. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=0:128:0>abandonar la mazmorra con las nuevas habilidades obtenidas</color>, o <color=0:128:0>quedarte con las habilidades predefinidas</color>."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GAMEOVER": [
-        "Your equipment has been <color=255:255:0>reverted back to the state it was in before enhancing</color>.<br>Returning from the dungeon.",
-        "裝備品已經回到本次<color=255:255:0>強化之前的狀態</color>了。<br>將從迷宮中返回。",
-        "장비는 이번 <color=255:255:0>강화 직전 상태</color>로 되돌아갔습니다.  <br>던전에서 귀환합니다.",
-        "Toutes les pièces d'équipement ont été <color=255:255:0>réinitialisées</color> au statut précédant l'amélioration.<br> Vous allez quitter le donjon.",
-        "Alle Fertigkeiten, die du in diesem Kampf erworben hast, wurden <color=255:255:0>zurückgesetzt</color>. Kehre vom Dungeon zurück.",
-        "<color=255:255:0>Se ha devuelto tu equipo al estado previo a la mejora</color>.<br>Vas a retirarte de la mazmorra."
+        "All abilities obtained during this battle have been <color=255:255:0>reset</color>.",
+        "非常遺憾，本次戰鬥所獲得的能力已經全部<color=255:255:0>重置</color>了。",
+        "아쉽게도 이번 전투에서 획득한 어빌리티는 전부 <color=255:255:0>초기화</color>되었습니다.",
+        "Toutes les aptitudes obtenues au cours de ce combat ont été <color=255:255:0>réinitialisées</color>.",
+        "Alle Fertigkeiten, die du in diesem Kampf erworben hast, wurden <color=255:255:0>zurückgesetzt</color>.",
+        "Se han <color=255:255:0>restablecido</color> todas las habilidades conseguidas a lo largo de la batalla."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GIVEUP": [
-        "By giving up, you will lose any gil or items you have obtained. <color=255:255:0>You will also lose any abilities you have obtained</color>, and your equipment will be <color=255:255:0>reverted back to the state it was in before</color>.<br>Give up?",
-        "放棄的話，將會失去獲得的ＧＩＬ與道具。<color=255:255:0>獲得中的能力將會全部失去</color>裝備品會<color=255:255:0>回到之前的狀態</color>。<br>要放棄嗎？",
-        "포기하면 획득한 길, 아이템을 잃게 됩니다.  <color=255:255:0>획득 중인 어빌리티도 모두 잃고 </color>장비는 <color=255:255:0>이전 상태로 돌아갑니다.</color><br>포기하시겠습니까?",
-        "Si vous abandonnez maintenant, vous perdrez tous les gils et objets obtenus jusqu'ici.<color=255:255:0>Vous perdrez également les aptitudes acquises</color>, et vos pièces d'équipement seront <color=255:255:0>réinitialisées au statut précédant l'amélioration</color>.<br>Voulez-vous abandonner ?",
-        "Wenn du jetzt aufgibst, wirst du sowohl sämtliche erhaltenen Gil und Gegenstände verlieren.<color=255:255:0>Du wirst außerdem alle erhaltenen Fertigkeitenverlieren</color> und deine <color=255:255:0>Ausrüstung wird auf den vorherigen Zustand zurückgesetzt</color><br>Möchtest du aufgeben?",
-        "Si abandonas ahora, perderás los guiles u objetos que hayas conseguido, <color=255:255:0>además de las habilidades que hayas adquirido</color>, y tu equipo <color=255:255:0>volverá al estado previo a la mejora</color>.<br>¿Quieres abandonar?"
+        "If you give up now, <color=255:255:0>you cannot use lapis to take any abilities with you</color>. You will lose all gil and items obtained, <color=255:255:0>as well as any and all abilities you have acquired</color>.<br>Do you wish to give up?",
+        "放棄的話，<color=255:255:0>將無法使用寶石將其帶回</color>。將會失去獲得的ＧＩＬ與道具，<color=255:255:0>獲得中的能力將會全部失去</color>。<br>要放棄嗎？",
+        "포기하면 <color=255:255:0>라피스를 이용한 획득은 불가능합니다</color>. 획득한 길, 아이템을 모두 잃고, <color=255:255:0>획득 중인 어빌리티를 모두 잃게 됩니다</color>.<br>포기하시겠습니까?",
+        "Si vous abandonnez maintenant, <color=255:255:0>vous ne pourrez pas utiliser vos lapis pour prendre les aptitudes avec vous.</color>. Vous perdrez tous vos gils ainsi que les objets obtenus, <color=255:255:0>en plus des aptitudes que vous avez acquises</color>.<br>Voulez-vous abandonner ?",
+        "Wenn du jetzt aufgibst, <color=255:255:0>kannst du keine Lapis verwenden, um Fertigkeiten mitzunehmen</color>. Du wirst sowohl sämtliche erhaltenen Gil und Gegenstände als auch <color=255:255:0>alle erhaltenen Fertigkeiten</color> verlieren.<br>Möchtest du aufgeben?",
+        "Si abandonas ahora, <color=255:255:0>no podrás usar lapis para recuperar estas habilidades</color>. Perderás todos los guiles y objetos que has conseguido, <color=255:255:0>además de perder todas las habilidades</color>.<br>¿Quieres abandonar?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_RETURN": [
         "Current enhancements will be set once you retire from the dungeon. If already enhanced equipment was selected for this run, you will be able to choose whether to <color=255:255:0>leave the dungeon with the newest abilities you've obtained</color>, or <color=255:255:0>keep your previous ability set</color>. Do you wish to retire?",
@@ -2493,7 +2493,7 @@
         "귀환하면 현재 강화 상태로 어빌리티가 확정됩니다. 강화 완료 장비를 다시 강화할 경우, <color=255:255:0>현재 강화 상태로 확정하기</color>나 <color=255:255:0>재강화 전 상태로 되돌릴 수 있습니다.</color> 던전에서 귀환하시겠습니까?",
         "Les améliorations actuelles seront appliquées une fois que vous aurez quitté le donjon. Si une pièce d'équipement déjà améliorée a été sélectionnée au cours du donjon, vous aurez la possibilité de <color=255:255:0>quitter le donjon et de conserver les aptitudes plus récemment obtenues</color>ou de <color=255:255:0>conserver les aptitudes antérieures</color>. Voulez-vous quitter le donjon ?",
         "Derzeitige Verbesserungen werden festgelegt, sobald du aus dem Dungeon zurückkehrst. Wenn für dieses Mal bereits verbesserte Ausrüstung ausgewählt wurde, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den <color=0:128:0>neusten, von dir erworbenen Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset behältst</color>. Aus dem Dungeon zurückkehren?",
-        "Las mejoras actuales estarán disponibles cuando te retires de la mazmorra. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=255:255:0>abandonar la mazmorra con las nuevas habilidades adquiridas</color> o <color=255:255:0>quedarte con las habilidades predefinidas</color>. ¿Quieres retirarte?"
+        "<color=255:255:0>Las mejoras actuales estarán disponibles</color> cuando te retires de la mazmorra. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=255:255:0>abandonar la mazmorra con las nuevas habilidades obtenidas</color>, o <color=255:255:0>quedarte con las habilidades predefinidas</color>.¿Quieres retirarte?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY": [
         "Equipment enhancements have been set. Retiring from the dungeon.",
@@ -2664,44 +2664,44 @@
         "Selecciona el objeto"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_AFTER_ABILITY_TITLE": [
-        "<color=255:255:0>Newly Obtained Abilities</color>",
-        "<color=255:255:0>新獲得的能力</color>",
-        "<color=255:255:0>신규 획득 어빌리티</color>",
-        "<color=255:255:0>Nouvelles aptitudes</color>",
-        "<color=255:255:0>Neu erworbene Fertigkeiten</color>",
-        "<color=255:255:0>Habilidades nuevas adquiridas</color>"
+        "Newly Obtained Abilities",
+        "新獲得的能力",
+        "신규 획득 어빌리티",
+        "Nouvelles aptitudes",
+        "Neu erworbene Fertigkeiten",
+        "Habilidades nuevas conseguidas"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_CONFIRM_GET_AFTER": [
-        "Keep your <color=255:255:0>newly obtained</color> abilities?",
-        "要得到<color=255:255:0>新獲得</color>的能力嗎？",
-        "<color=255:255:0>신규 획득</color> 어빌리티를 보유하시겠습니까?",
-        "Souhaitez-vous conserver les aptitudes <color=255:255:0>que vous venez d'obtenir</color> ?",
-        "Möchtest du die <color=255:255:0>neu erworbenen</color> Fertigkeiten behalten?",
-        "¿Quieres quedarte con las habilidades <color=255:255:0>que acabas de conseguir</color>?"
+        "Would you like to keep the newest abilities you obtained?",
+        "要得到新獲得的能力嗎？",
+        "신규 획득 어빌리티를 입수하시겠습니까?",
+        "Souhaitez-vous conserver les aptitudes que vous venez d'obtenir ?",
+        "Möchtest du die neusten von dir erworbenen Fertigkeiten behalten?",
+        "¿Quieres quedarte con las habilidades nuevas?"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_CONFIRM_GET_BEFORE": [
-        "<color=255:255:0>Discard</color> your newly obtained abilities and return with your equipment reverted to its <color=255:255:0>previously obtained ability set</color>?",
-        "要<color=255:255:0>放棄</color>新獲得的能力，<br>恢復成<color=255:255:0>上次獲得的能力</color>並返回嗎？",
-        "신규 획득 어빌리티를 <color=255:255:0>취소</color>하고 <br><color=255:255:0>이전 획득 어빌리티</color> 상태로 귀환하시겠습니까?",
-        "<color=255:255:0>Abandonner</color> les aptitudes que vous venez d'obtenir et rendre à vos pièces d'équipement <color=255:255:0>les aptitudes précédemment obtenues</color> ?",
-        "Möchtest du die neusten von dir erworbenen Fertigkeiten <color=255:255:0>ablehnen</color>und mit deiner auf ihr <color=255:255:0>vorheriges Fertigkeitenset</color> zurückgesetzten Ausrüstung zurückkehren?",
-        "¿Quieres <color=255:255:0>descartar</color> las habilidades que acabas de conseguir y marcharte con <color=255:255:0>las que ya has adquirido anteriormente</color> para tu equipo?"
+        "Would you like to dismiss the newest abilities you obtained and retire with the ones you had previously acquired?",
+        "要放棄新獲得的能力，恢復成上次獲得的能力並返回嗎？",
+        "신규 획득 어빌리티를 취소하고 이전 획득 어빌리티 상태로 귀환하시겠습니까?",
+        "Souhaitez-vous ignorer les dernières aptitudes obtenues en faveur de celles que vous aviez précédemment acquises ?",
+        "Möchtest du die neusten von dir erworbenen Fertigkeiten ablehnen und mit den Fertigkeiten zurückkehren, die du zuletzt erworben hattest?",
+        "¿Quieres descartar las habilidades nuevas y marcharte con las que ya has adquirido con anterioridad?"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_DUNGEON_CLEAR_CONFIRM": [
-        "You cleared the dungeon. Please select whether to keep your <color=255:255:0>newly obtained</color> abilities, or revert back to your equipment's previous state.",
-        "已完成迷宮。請選擇要得到<color=255:255:0>新獲得能力</color>，<br>或是恢復成上次獲得的能力。",
-        "완료하였습니다. <color=255:255:0>신규 획득</color>  어빌리티를 입수할지, <br>이전 획득 어빌리티로 되돌릴지 선택하십시오.",
-        "Vous avez terminé le donjon. Vous pouvez choisir de conserver les aptitudes <color=255:255:0>que vous venez d'obtenir</color> ou de réinitialiser vos pièces d'équipement au statut précédant l'amélioration.",
-        "Du hast den Dungeon abgeschlossen. Bitte entscheide dich, ob du deine <color=255:255:0>neu erworbenen</color> Fertigkeiten behalten möchtest, oder deine Ausrüstung zum vorherigen Zustand zurücksetzten möchtest.",
-        "Has completado la mazmorra. Puedes elegir si quieres quedarte con las habilidades <color=255:255:0>que acabas de conseguir</color> o si prefieres restablecer el equipo que tenías antes."
+        "You have cleared the dungeon. You may choose whether to keep your newly obtained abilities, or if you'd like to keep the ones you had previously acquired.",
+        "已完成迷宮。請選擇要得到新獲得能力，或是恢復成上次獲得的能力。",
+        "완료하였습니다. 신규 획득 어빌리티를 입수할지, 이전 획득 어빌리티로 되돌릴지 선택하십시오.",
+        "Vous avez terminé le donjon. Vous pouvez choisir de conserver soit les aptitudes que vous venez d'obtenir, soit celles que vous aviez précédemment acquises.",
+        "Du hast den Dungeon abgeschlossen. Du darfst dich entscheiden, ob du deine neu erworbenen Fertigkeiten behalten möchtest, oder die wählst, die du zuletzt erworben hattest.",
+        "Has completado la mazmorra. Puedes elegir si quieres quedarte con las habilidades que acabas de conseguir o si prefieres mantener las que ya tienes."
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_RETURN_CONFIRM": [
-        "Retiring from dungeon. You can choose whether to keep your <color=255:255:0>newly obtained</color> abilities, or revert back to your equipment's previous state.",
-        "即將返回。可以選擇要得到<color=255:255:0>新獲得能力</color>，<br>或是恢復成上次獲得的能力。",
-        "귀환합니다. <color=255:255:0>신규 획득</color> 어빌리티를 보유할지, <br>이전 획득 어빌리티로 되돌릴지 선택할 수 있습니다.",
-        "Vous êtes sur le point de sortir. Vous pouvez choisir de conserver les aptitudes <color=255:255:0>que vous venez d'obtenir</color> ou de réinitialiser vos pièces d'équipement au statut précédant l'amélioration.",
-        "Kehre zurück. Du darfst dich entscheiden, ob du deine <color=255:255:0>neu erworbenen</color> Fertigkeiten behalten möchtest, oder deine Ausrüstung zum vorherigen Zustand zurücksetzten möchtest.",
-        "Vas a retirarte de la mazmorra. Puedes elegir si quieres quedarte con las habilidades <color=255:255:0>que acabas de conseguir</color> o si prefieres restablecer el equipo que tenías antes."
+        "You will retire now. You may choose whether to keep your newly obtained abilities, or if you'd like to keep the ones you had previously acquired.",
+        "即將返回。可以選擇要得到新獲得能力，或是恢復成上次獲得的能力。",
+        "귀환합니다. 신규 획득한 어빌리티를 입수할지, 이전 획득 어빌리티로 되돌릴지 선택할 수 있습니다.",
+        "Vous êtes sur le point de sortir. Vous pouvez choisir de conserver soit les aptitudes que vous venez d'obtenir, soit celles que vous aviez précédemment acquises.",
+        "Kehre zurück. Du darfst dich entscheiden, ob du deine neu erworbenen Fertigkeiten behalten möchtest, oder die wählst, die du zuletzt erworben hattest.",
+        "En breves, te vas a retirar. Puedes elegir si quieres quedarte con las habilidades que acabas de conseguir o si prefieres mantener las que ya tienes."
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_BEFORE_ABILITY_TITLE": [
         "Previously Obtained Abilities",
@@ -2709,7 +2709,7 @@
         "이전 획득 어빌리티",
         "Aptitudes précédentes",
         "Zuletzt erworbene Fertigkeiten",
-        "Habilidades adquiridas anteriormente"
+        "Habilidades conseguidas con anterioridad"
     ],
     "EQUIP_GROW_TOP_NONE_EQUIP_SETTING": [
         "Not Set",
@@ -2995,8 +2995,8 @@
         "Item Name",
         "道具名稱",
         "아이템명",
-        "Objet (nom)",
-        "Gegenstandsname",
+        "Nom objet",
+        "Gegenstand-Name",
         "Nombre del objeto"
     ],
     "EQUIP_SORT_TYPE_TYPE": [
@@ -3328,12 +3328,12 @@
         "Se reiniciará la puntuación en:"
     ],
     "EXPD_ACHIEVE_REWARD_INFO_TITLE": [
-        "Achievement Rewards",
-        "達成報酬",
-        "달성 보상",
-        "Récompenses de réussite",
-        "Erfolgsbelohnung",
-        "Recompensas de logro"
+        "Chest Rewards",
+        "寶箱報酬",
+        "보물상자 보상",
+        "Récompenses de coffre",
+        "Truhenbelohnungen",
+        "Cofres de recompensa"
     ],
     "EXPD_ACHIEVE_SUBHEAD1": [
         "Relics Achievement Rewards",
@@ -4536,20 +4536,20 @@
         "Especial de Ace de FF TYPE 0"
     ],
     "FFT0_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore in this event special bundle, kupo!(Available only once daily)",
-        "強化與覺醒素材都在這個特別禮包內，庫啵！(每日限購1次)",
-        "풍성한 유닛 강화 및 각성 재료를 이벤트 세트상품으로 만나보자쿠포! (1일 1회 구매 가능)",
-        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !(Seulement une fois par jour.)",
-        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Ereignis-Spezialpaket, kupo!(Nur einmal täglich verfügbar.)",
-        "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento, kupó! (Disponible una vez al día)"
+        "Enhancement and awakening materials galore with this event daily special bundle, kupo!",
+        "活動限定每日禮包，內含豐富的強化與覺醒用素材，庫啵！",
+        "풍성한 강화 및 각성 재료를 만나 보자!",
+        "Des matériaux d'amélioration et d'éveil en masse dans ce lot quotidien événement, kupo !",
+        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Spezialpaket, kupo!",
+        "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento!"
     ],
     "FFT0_DAILY_SPECIAL_BUNDLE_TITLE": [
-        "FF TYPE-0 Daily Special",
-        "《FF零式》每日特別禮包",
-        "FF TYPE-0 일일 스페셜!",
-        "Lot spécial FF TYPE-0",
-        "FF TYPE-0 – Tägliches Spezialangebot",
-        "Lote diario de FF TYPE-0"
+        "FINAL FANTASY Type-0 Daily Special",
+        "FF 零式 每日限定禮包",
+        "FF Type-0 일일 스페셜!",
+        "Lot quotidien spécial FF Type-0",
+        "FF Type-0 Tägliches Spezial",
+        "Lote diario de FF TYPE 0"
     ],
     "FFT0_REM_SPECIAL_BUNDLE_DESC": [
         "For richer or poorer, in sickness or in health, awaken Rem with this one time special offer!",
@@ -6504,12 +6504,12 @@
         "Iniciar sesión"
     ],
     "LOGIN_BONUS_GET_DAYS": [
-        "<size=40><color=255:165:0><param=get_days></color></size> days",
-        "第 <size=40><color=255:165:0><param=get_days></color></size> 天",
-        "<size=40><color=255:165:0><param=get_days></color></size> 일째",
-        "<size=40><color=255:165:0><param=get_days></color></size> jours",
-        "<size=40><color=255:165:0><param=get_days></color></size> Tage",
-        "<size=40><color=255:165:0><param=get_days></color></size> días"
+        "Day <number>",
+        "日",
+        "일",
+        "jour(s)",
+        "Tag <number>",
+        "día(s)"
     ],
     "LOGIN_BONUS_GET_TITLE": [
         "Login Bonus",
@@ -6584,12 +6584,12 @@
         "Conexiones totales"
     ],
     "LOGIN_BONUS_TOTAL_DAYS": [
-        "<color=35:211:255><param=total_days></color> consecutive days logged in",
-        "累計登入 第<color=35:211:255><param=total_days></color> 天",
-        "누적 로그인 <color=35:211:255><param=total_days></color> 일째",
-        "<color=35:211:255><param=total_days></color> jours de connexions consécutives",
-        "<color=35:211:255><param=total_days></color> Tage in Folge eingeloggt",
-        "<color=35:211:255><param=total_days></color> días de sesión consecutivos"
+        "Day <number>",
+        "天",
+        "일째",
+        "jour(s)",
+        "Tag <number>",
+        "día(s)"
     ],
     "LOGIN_BONUS_TOTAL_NEXT_DAYS": [
         "Obtain after <color=255:165:0><param=total_next_days></color> consecutive logins!",
@@ -13312,12 +13312,12 @@
         "Ya están listas las clasificaciones mensuales."
     ],
     "RB_RANKING_INFO_NOTHING": [
-        "No rank information exists.",
-        "無排名。",
+        "No rank rewards",
+        "無排名",
         "랭킹 정보가 없습니다.",
-        "Aucune données de classement disponible.",
-        "Keine Ranginformationen.",
-        "No hay información de clasificación."
+        "Aucune récompence de classement.",
+        "Keine Rang-Belohnungen",
+        "No hay datos de clasificación."
     ],
     "RB_RANKING_LIST_RANK": [
         "Place %s",
@@ -13464,12 +13464,12 @@
         "Las unidades de las siguientes series no se podrán utilizar."
     ],
     "RB_RULE_INFO_LOSE_REWARD": [
-        "Participation Reward",
-        "參加報酬",
-        "참가 보상",
-        "Récompense de participation",
-        "Teilnahmebelohnung",
-        "Recompensa por participar"
+        "Failure Rewards",
+        "敗北時參加報酬",
+        "패배 시 참가 보상",
+        "Récompenses de défaite",
+        "Niederlage-Belohnungen",
+        "Recompensas al participar"
     ],
     "RB_RULE_INFO_RANK_RANGE": [
         "%d to $d place",
@@ -13504,12 +13504,12 @@
         "Reglas"
     ],
     "RB_RULE_INFO_WIN_REWARD": [
-        "Participation Reward",
-        "參加報酬",
-        "참가 보상",
-        "Récompense de participation",
-        "Teilnahmebelohnung",
-        "Recompensa por participar"
+        "Daily Participation Rewards",
+        "每日參加報酬",
+        "일일 참가 보상",
+        "Récompenses de participation quotidienne",
+        "Tägliche Teilnahme-Belohnungen",
+        "Recompensas de participación diarias"
     ],
     "RB_SEASON_EVENT_REWARD_MAIL_MSG": [
         "This is the reward for your participating in this season's battle arena.<br>The following items are now yours.",
@@ -16744,12 +16744,12 @@
         "Recompensa Supermaestro Fiel"
     ],
     "SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TEXT": [
-        "Proceeding will erase ongoing quest data and return you to the Home screen.<br>By erasing ongoing quest data, you will lose<color=255:255:0> all units, items, and gil</color> obtained in the quest.<br>For weapon enhancement events, this will count as giving up, and all abilities obtained will be <color=255:255:0>reset</color>, and equipment will return to <color=255:255:0>its status right before beginning the enhancement</color>.<br>Erase ongoing data?",
-        "刪除任務中斷情報，從主畫面開始。<br>如要刪除中斷情報，將會失去獲得的<color=255:255:0>兵員、道具、GIL</color>。<br>武具強化活動則會視同放棄<color=255:255:0>獲得中的能力</color>將會被重置，裝備品將會回到本次<color=255:255:0>強化開始之前的狀態</color>。<br> <br>是否確定要刪除中斷情報？",
-        "퀘스트 중단 정보를 삭제하고 홈 화면으로 돌아갑니다.<br>중단 정보를 삭제하면 퀘스트에서 획득한 <color=255:255:0>유닛, 아이템, 길</color>을 모두 잃게 됩니다.<br>장비 강화 이벤트 기간 중에는 포기한 것으로 간주되어 획득한 모든 어빌리티는 <color=255:255:0>초기화</color>되고, 장비는 <color=255:255:0>강화를 시작하기 직전의 원상태로 돌아갑니다</color>.<br><br>중단 정보를 삭제하시겠습니까?",
-        "Si vous continuez, les données de la quête en cours seront effacées et vous serez renvoyé à l'écran-titre.<br>En effaçant ces données, vous perdrez toutes <color=255:255:0> les unités, les objets, et les gils</color> que vous avez obtenus pendant la quête.<br>Durant un événement d'amélioration d'armes, cela sera considéré comme un abandon, et <color=255:255:0>toutes les pièces d'équipement</color>seront réinitialisées au statut précédant l'amélioration.<br><br>Voulez-vous effacer les données ?",
-        "Du kannst die Daten zur Auftragsunterbrechung löschen und zum Titelbildschirm zurückkehren.<br>Wenn du Daten zur Auftragsunterbrechung löschst, verlierst du sämtliche <color=255:255:0>Einheiten, Gegenstände und Gil</color>, die du während dem Auftrag erhalten hast. Für Ausrüstungsverbesserungsaufträge wird dies als Aufgeben angesehen, sämtliche erhaltenen Fertigkeiten werden <color=255:255:0>zurückgesetzt</color> und Ausrüstung wird auf auf <color=255:255:0>ihren Zustand vor Beginn der Verbesserung zurückgestellt</color>.<br><br>Möchtest du die Daten löschen?",
-        "Si continúas, se eliminarán los datos de la misión actual y regresarás al menú principal.<br>Al eliminar estos datos, perderás <color=255:255:0>todas las unidades, objetos y guiles</color> que hayas conseguido durante la misión.<br>Durante los eventos de mejora de armas, esta acción se considerará como abandonar y <color=255:255:0>se restablecerán</color> todas las habilidades adquiridas, al igual que el equipo volverá <color=255:255:0>al estado previo a la mejora</color>.<br>¿Quieres borrar los datos?"
+        "You can erase interrupted quest data and return to the home screen.<br>By erasing interrupted quest data, you will lose all <color=255:255:0>units, items, and gil</color> that you obtained during the quest.<br>During equipment enhancement events this will count as giving up, and <color=255:255:0>all acquired abilities</color> will be reset.<br><br>Do you wish to erase the data?",
+        "刪除任務中斷情報，從主畫面開始。<br>如要刪除中斷情報，將會失去獲得的<color=255:255:0>兵員、道具、GIL</color>。<br>武具強化活動則會視同放棄<color=255:255:0>獲得中的能力</color>將會被重置。<br> <br>是否確定要刪除中斷情報？",
+        "퀘스트 중단 정보를 삭제하고, 홈 화면에서 다시 시작합니다.<br>중단 정보를 삭제하면 퀘스트에서 획득한 <color=255:255:0>유닛, 아이템, 길</color>을 모두 잃게 됩니다.<br>장비 강화 이벤트의 경우, 포기한 것으로 간주되어 <color=255:255:0>획득 중인 어빌리티</color>가 초기화됩니다.<br><br>중단 정보를 삭제하시겠습니까?",
+        "Vous pouvez effacer les données de quête interrompue et de retourner à l'écran--titre.<br>En effaçant ces données, vous perdrez toutes <color=255:255:0> les unités, les objets, et les gils</color> que vous avez obtenus pendant la quête.<br>Durant un événement d'amélioration d'équipement, cela sera considéré comme un abandon, et <color=255:255:0>toutes les aptitudes obtenues</color>seront réinitialisées.<br><br>Voulez-vous effacer les données ?",
+        "Du kannst die Daten zur Auftragsunterbrechung löschen und zum Titelbildschirm zurückkehren.<br>Wenn du Daten zur Auftragsunterbrechung löschst, verlierst du sämtliche <color=255:255:0>Einheiten, Gegenstände und Gil</color>, die du während dem Auftrag erhalten hast. Für Ausrüstungsverbesserungsaufträge wird dies als Aufgeben angesehen und <color=255:255:0>sämtliche erhaltenen Fertigkeiten</color> werden zurückgesetzt.<br><br>Möchtest du die Daten löschen?",
+        "Puedes eliminar los datos de la misión pausada regresando al menú principal.<br>Al eliminar estos datos, perderás todas las <color=255:255:0>unidades, objetos y guiles</color> que hayas conseguido durante la misión.<br>Durante los eventos de mejora de equipo, esta acción se considerará como abandonar, y se restablecerán <color=255:255:0>todas las habilidades adquiridas</color>.<br><br>¿Quieres borrar los datos?"
     ],
     "SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TITLE": [
         "Erase Interrupted Quest Data",

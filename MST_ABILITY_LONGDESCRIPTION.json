@@ -3721,11 +3721,11 @@
     ],
     "204080": [
         "Randomly selects targets from all enemies and deals damage five times.",
-        "對1名敵人發動5次連續攻擊。",
-        "적 1명에게 5회 물리 피해를 줍니다.",
-        "Attaques physiques à cinq reprises sur un ennemi.",
-        "5x physische Angriffskombo auf einen Gegner",
-        "Causa 5 veces el daño de un ataque físico a un enemigo"
+        "以全體敵人為對象隨機選擇目標，連續進行5次攻擊。",
+        "적 전체에서 무작위로 대상을 골라 5회 피해를 줍니다.",
+        "Choisit les cibles au hasard parmi les ennemis et inflige des dégâts à cinq reprises.",
+        "Verursacht fünfmal Schaden bei zufällig ausgewählten Gegnern.",
+        "Ataca a 5 enemigos elegidos al azar"
     ],
     "204090": [
         "Consumes caster's HP to gradually recover MP for all allies.",
@@ -3889,11 +3889,11 @@
     ],
     "204290": [
         "Consumes user's HP to deal damage to all enemies.",
-        "消耗HP對全體敵人發動攻擊。",
-        "HP를 소모하여 적 전체에 물리 피해를 줍니다.",
-        "Consume les PV et inflige des dégâts physiques sur tous les ennemis.",
-        "LP für physischen Schaden nutzen, alle Ziele",
-        "Consume VIT y causa daño a todos los enemigos"
+        "消耗發動者最大HP的1/5來對全體敵人發動攻擊。",
+        "최대 HP의 1/5만큼 피해를 입는 대신 적 전체에 피해를 줍니다.",
+        "Consume les PV du lanceur pour infliger des dégâts à tous les ennemis.",
+        "Der Benutzer nimmt Schaden in Höhe von 20 % seiner maximalen LP und fügt dafür allen Gegnern Schaden zu.",
+        "Daña a enemigos usando VIT propia"
     ],
     "204300": [
         "Boosts DEF and gradually restores HP for all allies.",
@@ -12371,9 +12371,9 @@
         "Reduces damage to self for one turn and damages all enemies next turn.",
         "1回合內減少對自身的傷害，下一回合對全體敵人發動攻擊。",
         "1턴 동안 사용자가 받는 피해량이 감소하고, 다음 턴에 적 전체에 피해를 줍니다.",
-        "Réduit les dégâts reçus par le lanceur pendant un tour et dégâts sur tous les ennemis au prochain tour.",
+        "Réduit les dégâts du lanceur pendant un tour et attaque tous les ennemis au tour suivant",
         "Reduziert für eine Runde den Schaden, den der Benutzer erleidet, und schaden in der nächsten Runde allen Gegnern.",
-        "Reduce el daño recibido durante un turno y daña a todos los enemigos en el siguiente turno."
+        "Reduce el daño que recibe durante un turno e inflige daño a todos los enemigos en el siguiente turno."
     ],
     "214970": [
         "Poisons, blinds, paralyzes or petrifies at random when receiving a physical attack.",
@@ -16435,9 +16435,9 @@
         "A curious item said to harbor the power of the earth. Capable of inflicting significant earth damage on a foe, the force of the tremors it creates are such that they've been known to open fissures in the earth. Said to have been the creation of a legendary dwarf artisan famed as the Son of the Land, the specific details of its origin are shrouded in mystery.",
         "含有土之力的神秘道具。可以對敵人造成還算可觀的土屬性傷害。用此道具敲打地面，可以讓震動增幅數倍，產生足以引發地裂的衝擊。據說此道具起源於擁有世界第一的裝備加工技術的土之民矮人族，具體情況無人知曉。",
         "땅의 힘을 담은 신비한 아이템. 적에게 어느 정도 땅속성 피해를 줄 수 있다. 이것으로 대지를 두드리면 진동이 몇 배로 증폭되어 땅이 갈라질 정도의 충격을 발생시킨다. 땅의 민족이라 일컬어지며 장비 가공에 있어 견줄 자가 없는 드워프족이 최초로 만들었다고 전해지지만 자세한 건 알 수 없다.",
-        "Réduit les dégâts de terre infligés par un ennemi",
+        "Objet bizarre qui renfermerait la force de la terre. Capable d'infliger un montant important de dégâts de terre à un adversaire, l'intensité des secousses qu'il engendre est telle qu'il est connu pour ouvrir des brèches dans la terre. On dit qu'il serait le fruit de la création d'un artisan nain légendaire connu sous le nom de Fils de la Terre, mais les détails spécifiques sur son origine sont entourés de mystèresistencia",
         "Ein mysteriöser Gegenstand, der die Macht der Erde beherbergt. Kann beträchtlichen Schaden anrichten, erzeugt dabei jedoch so mächtige Erschütterungen, dass sich Spalten im Boden auftun können. Man nimmt an, dass diese Objekte von einem Zwerg erschaffen wurde, den man auch den „Sohn der Erde“ nannte.",
-        "Un curioso objeto que se dice concentra al poder de la tierra. Es capad de infligir una cantidad significativa de daño de tierra a una enemigo y los temblores que causa son tales que se sabe han llegado a abrir fisuras el suelo. Se cuenta que fue creado por un legendario artesano enano con el título de \"Hijo de la Tierra\", aunque los detalles sobre su origen siguen siendo un misterio."
+        "Un objeto curioso que se dice alberga el poder de la tierra. Es capaz de infligir un daño de tierra considerable a un enemigo, y se dice que los temblores que ocasiona llegan a abrir grietas en la tierra. Se dice que fue creado por un artesano enano conocido como el Hijo de la Tierra, y los detalles concretos de su origen están envueltos en el misterio."
     ],
     "300130": [
         "A reddish fang that appears to be the remnant of a fire beast. The power of flame stored within can be unleashed to consume a group of foes in a scorching blaze. Warm to the touch, it is often transported within cloth made from the same materials as a lunar curtain, to prevent the slightest misstep from setting off a rampant wildfire.",
@@ -18153,11 +18153,11 @@
     ],
     "501630": [
         "Adds chance of restoring own HP when receiving a physical attack.",
-        "受到物理攻擊時，一定機率恢復自身HP。",
+        "受到物理攻擊時以一定機率恢復自身HP。",
         "물리공격을 받으면 일정 확률로 자신의 HP를 회복합니다.",
-        "Chance de restaurer ses propres PV après avoir reçu une attaque physique",
-        "Chance, nach physischem Angriffe eigene LP zu heilen.",
-        "Posibilidad de recuperar la VIT propia tras recibir un ataque físico."
+        "Permet de peut-être restaurer ses propres PV après avoir reçu une attaque physique.",
+        "Chance, nach physischem Angriffe eigene LP zu heilen",
+        "Posibilita recuperar la VIT propia al recibir un ataque físico"
     ],
     "501640": [
         "Deals damage partially unaffected by DEF to one enemy.",
