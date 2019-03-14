@@ -4476,7 +4476,7 @@
         "星天爆擊打",
         "성천폭격타",
         "Écrase-casque",
-        "Helm zerschmettern",
+        "Zenitspaltung",
         "Aplastacascos"
     ],
     "204920": [
@@ -4492,7 +4492,7 @@
         "秘獵",
         "밀렵",
         "Capturer",
-        "Pochieren",
+        "Wildern",
         "Caza furtiva"
     ],
     "204940": [
@@ -26669,7 +26669,7 @@
         "절·명경",
         "Sérénité primordiale",
         "Vernichtende Kata",
-        "Tranquilidad absoluta"
+        "Tranquilidad destructiva"
     ],
     "227562": [
         "Perfect Selflessness",
@@ -31464,7 +31464,7 @@
         null
     ],
     "228493": [
-        "Boundless Magical Ken",
+        "Endless Magical Insight",
         "無盡的魔法知識",
         null,
         null,
@@ -31472,7 +31472,7 @@
         null
     ],
     "228494": [
-        "Reduction Creed",
+        "Defensive Stratagem",
         "護壁之法",
         null,
         null,
@@ -31480,7 +31480,7 @@
         null
     ],
     "228495": [
-        "Assault Creed",
+        "Offensive Stratagem",
         "討滅之法",
         null,
         null,
@@ -31488,7 +31488,7 @@
         null
     ],
     "228496": [
-        "Sorcery Creed",
+        "Sorcerer's Stratagem",
         "升魔之法",
         null,
         null,
@@ -31496,7 +31496,7 @@
         null
     ],
     "228497": [
-        "Barrier Creed",
+        "Corporeal Stratagem",
         "堅牢之法",
         null,
         null,
@@ -31504,7 +31504,7 @@
         null
     ],
     "228498": [
-        "Spirit Creed",
+        "Spiritual Stratagem",
         "煉精之法",
         null,
         null,
@@ -31520,7 +31520,7 @@
         null
     ],
     "228500": [
-        "Time Gazer",
+        "Beholder of the Ages",
         "凝望星霜者",
         null,
         null,
@@ -31536,7 +31536,7 @@
         null
     ],
     "228502": [
-        "Consecutive Creeds",
+        "Dual Stratagem",
         "連結法",
         null,
         null,
@@ -31544,7 +31544,7 @@
         null
     ],
     "228503": [
-        "Anti-Force Creed",
+        "Anti-Force Stratagem",
         "斷刃之法",
         null,
         null,
@@ -31552,7 +31552,7 @@
         null
     ],
     "228504": [
-        "Anti-Magic Creed",
+        "Anti-Magic Stratagem",
         "斷魔之法",
         null,
         null,
@@ -31576,7 +31576,7 @@
         null
     ],
     "228507": [
-        "Martyr Code",
+        "Martyr's Stratagem",
         "捨身授力之法",
         null,
         null,
@@ -31592,7 +31592,7 @@
         null
     ],
     "228509": [
-        "Tooth for a Tooth Creed",
+        "Sword's Stratagem",
         "逆攻之法",
         null,
         null,
@@ -31600,7 +31600,7 @@
         null
     ],
     "228510": [
-        "Eye for an Eye Creed",
+        "Shield's Stratagem",
         "轉守之法",
         null,
         null,
@@ -31624,7 +31624,7 @@
         null
     ],
     "228513": [
-        "Beast Creed",
+        "Hunter's Stratagem",
         "獸擊法",
         null,
         null,
@@ -31632,7 +31632,7 @@
         null
     ],
     "228514": [
-        "Demon Creed",
+        "Exorcist's Stratagem",
         "祓魔法",
         null,
         null,
@@ -31640,7 +31640,7 @@
         null
     ],
     "228515": [
-        "Exhilaration Creed",
+        "Sustainment Stratagem",
         "侵命勵戰之法",
         null,
         null,
@@ -31648,7 +31648,7 @@
         null
     ],
     "228516": [
-        "Resistance Creed",
+        "Unyielding Stratagem",
         "極遮之法",
         null,
         null,
@@ -31800,7 +31800,7 @@
         null
     ],
     "228546": [
-        "Piercing Shot",
+        "Impaling Shot",
         "撕裂射擊",
         null,
         null,
@@ -32483,25 +32483,25 @@
         "Radiance that Conquers Nature",
         null,
         null,
-        null,
-        null,
-        null
+        "Radiance antinature",
+        "Naturbezwingender Glanz",
+        "Resplandor que conquista la naturaleza"
     ],
     "228681": [
         "Radiance that Conquers Civilization",
         null,
         null,
-        null,
-        null,
-        null
+        "Radiance anticivilisation",
+        "Zivilisationsbezwingender Glanz",
+        "Resplandor que conquista la civilización"
     ],
     "228682": [
         "Radiance that Conquers Evil",
         null,
         null,
-        null,
-        null,
-        null
+        "Radiance antiocculte",
+        "Unheilbezwingender Glanz",
+        "Resplandor que conquista el mal"
     ],
     "228690": [
         "Fighter's Belt",
@@ -35103,6 +35103,422 @@
         "Sprungtechnik",
         "Técnica de salto"
     ],
+    "229230": [
+        "Metal Greaves",
+        "金屬護腿",
+        "메탈 그리브",
+        "Jambières de métal",
+        "Eisenstulpen",
+        "Grebas metálicas"
+    ],
+    "229231": [
+        "Hero's Vow - Wind",
+        "英雄誓言·風",
+        "영웅의 맹세·바람",
+        "Vœu du héros - Vent",
+        "Heldenschwur - Wind",
+        "Juramento heroico - Viento"
+    ],
+    "229232": [
+        "Artistic",
+        "藝術創想",
+        "아티스틱",
+        "Âme d'artiste",
+        "Künstlerisch",
+        "Artístico"
+    ],
+    "229233": [
+        "Dreams of Flight",
+        "飛翔之夢",
+        "비상의 꿈",
+        "Rêve de voler",
+        "Träume vom Fliegen",
+        "Sueño de volar"
+    ],
+    "229270": [
+        "Downforce",
+        "下壓力",
+        "다운 포스",
+        "Courant descendant",
+        "Abtrieb",
+        "Fuerza aerodinámica"
+    ],
+    "229271": [
+        "Aerial Shot",
+        "航空射擊",
+        "공중 사격",
+        "Tir aérien",
+        "Luftschuss",
+        "Golpe aéreo"
+    ],
+    "229272": [
+        "Gale Grid",
+        "風向坐標",
+        "게일 그리드",
+        "Rafale ravageuse",
+        "Sturmgitter",
+        "Rosa de los vientos"
+    ],
+    "229273": [
+        "Spineshatter Dive 0+",
+        "破碎衝零式·改",
+        "개량형 척추 강타 0식",
+        "Piqué brise-échine style 0 +",
+        "Zerschmetternder Sturzflug",
+        "Rompespaldas 0+"
+    ],
+    "229274": [
+        "Sky Charge",
+        "天空蓄力",
+        "스카이 차지",
+        "Charge céleste",
+        "Luftansturm",
+        "Carga celestial"
+    ],
+    "229275": [
+        "Clear Blue",
+        "湛藍",
+        "맑은 푸른빛",
+        "Ciel sans nuages",
+        "Klares Blau",
+        "Celeste"
+    ],
+    "229276": [
+        "Air Stratus",
+        "天氣層雲",
+        "대폭격",
+        "Stratus protecteur",
+        "Nebelwolke",
+        "Estrato de aire"
+    ],
+    "229277": [
+        "Beast Spindle",
+        "猛獸迴旋",
+        "비스트 스핀들",
+        "Broche bestiale",
+        "Bestienspindel",
+        "Cabrestante de bestias"
+    ],
+    "229278": [
+        "Sky Dragon Squall",
+        "天龍之風",
+        "천룡의 바람",
+        "Bourrasque du dragon céleste",
+        "Luftdrachenböe",
+        "Ráfaga de dragón celestial"
+    ],
+    "229279": [
+        "Jump Master",
+        "跳躍大師",
+        "점프 마스터",
+        "Expert du saut",
+        "Sprungmeister",
+        "Salto maestro"
+    ],
+    "229280": [
+        "Expert Lancer",
+        "槍術能手",
+        "창술의 달인",
+        "Maître de la lance",
+        "Lanzenexperte",
+        "Lancero experto"
+    ],
+    "229281": [
+        "Unyielding Resolution",
+        "不動如山",
+        "아파테이아",
+        "Détermination implacable",
+        "Unbiegsame Entschlossenheit",
+        "Firme decisión"
+    ],
+    "229282": [
+        "Love for His Daughters",
+        "愛女之心",
+        "딸을 향한 사랑",
+        "Amour filial",
+        "Töchterliebe",
+        "Amor por sus hijas"
+    ],
+    "229283": [
+        "First-Generation Cid",
+        "初代希德",
+        "초대 시드",
+        "Cid premier du nom",
+        "Cid, Erste Generation",
+        "El primer Cid"
+    ],
+    "229284": [
+        "Father of the Airship",
+        "飛空艇之父",
+        "비공정의 아버지",
+        "Père de l'aéronef",
+        "Vater des Luftschiffs",
+        "El padre del barco volador"
+    ],
+    "229290": [
+        "High-Speed Sketch",
+        "超快速寫",
+        "초고속 스케치",
+        "Ébauche rapide",
+        "Schnelles Skizzieren",
+        "Boceto veloz"
+    ],
+    "229291": [
+        "Serenity and Passion",
+        "『冷靜與熱情』",
+        "냉정과 정열",
+        "Sérénité et passion",
+        "Gelassenheit und Passion",
+        "Pasión y serenidad"
+    ],
+    "229292": [
+        "Distant Thunder",
+        "『遠雷』",
+        "원뢰",
+        "Lointain orage",
+        "Ferner Donner",
+        "Tormenta lejana"
+    ],
+    "229293": [
+        "Graceful Mountains",
+        "『風雅山脈』",
+        "풍아산맥",
+        "Grâce des montagnes",
+        "Anmutige Berge",
+        "Montañas señoriales"
+    ],
+    "229294": [
+        "Eventide",
+        "『逢魔之時』",
+        "땅거미 질 때",
+        "Tombée du jour",
+        "Der Abend",
+        "Crepúsculo"
+    ],
+    "229295": [
+        "The Front Line",
+        "『最前線』",
+        "최전선",
+        "La Ligne de front",
+        "Die Front",
+        "El frente"
+    ],
+    "229296": [
+        "Those Who Fight",
+        "『戰士們』",
+        "싸우는 사람들",
+        "Ceux qui se battent",
+        "Die Kämpfenden",
+        "Guerreros"
+    ],
+    "229297": [
+        "Surrealism",
+        "超現實主義",
+        "초현실주의",
+        "Surréalisme",
+        "Surrealismus",
+        "Surrealismo"
+    ],
+    "229298": [
+        "Phantom Art",
+        "幻象藝術",
+        "팬텀 아트",
+        "Art fantomatique",
+        "Phantomkunst",
+        "Arte fugaz"
+    ],
+    "229299": [
+        "Calm and Collected",
+        "泰然自若",
+        "태연자약",
+        "Quiétude absolue",
+        "Ruhig und Gefasst",
+        "Sosiego"
+    ],
+    "229300": [
+        "Don't Mind Me",
+        "不要在意梅雷特",
+        "멜리테한테 신경 쓰지 마",
+        "Ne vous préoccupez pas de moi",
+        "Kümmert euch nicht um mich",
+        "Como si no estuviera"
+    ],
+    "229301": [
+        "Hidden Passion",
+        "心中的熱情",
+        "숨겨진 정열",
+        "Passion cachée",
+        "Versteckte Leidenschaft",
+        "Pasión oculta"
+    ],
+    "229302": [
+        "Wandering Artist",
+        "流浪畫家",
+        "유랑 화가",
+        "Artiste vagabonde",
+        "Wandernder Künstler",
+        "Artista errante"
+    ],
+    "229310": [
+        "Dig down deep, lali!",
+        "向下挖啦哩！",
+        "파자라리!",
+        "On creuse profond !",
+        "Grab tief, lali!",
+        "¡Cavar, cavar, cavar, lalá!"
+    ],
+    "229311": [
+        "Dig it up, lali!",
+        "挖起來啦哩！",
+        "캐내자라리!",
+        "On refait surface !",
+        "Zu Tage, lali!",
+        "¡Y después a excavar!"
+    ],
+    "229312": [
+        "Fluid Barrier",
+        "流動屏障",
+        "유체 배리어",
+        "Barrière protéiforme",
+        "Flüssigkeitsabdichtung",
+        "Barrera líquida"
+    ],
+    "229313": [
+        "Overhaul",
+        "徹底檢修",
+        "오버홀",
+        "Refonte",
+        "Ausbesserung",
+        "Subsistencia"
+    ],
+    "229314": [
+        "Dwarf's Physical Shield",
+        "矮人物理盾",
+        "드워프의 물리 방패",
+        "Bouclier physique des nains",
+        "Zwergischer Abwehrschild",
+        "Escudo físico de enano"
+    ],
+    "229315": [
+        "Dwarf's Magic Shield",
+        "矮人魔法盾",
+        "드워프의 마법 방패",
+        "Bouclier magique des nains",
+        "Zwergischer Magieschild",
+        "Escudo mágico de enano"
+    ],
+    "229316": [
+        "Loud Yell",
+        "大聲呼喊",
+        "큰 소리로 부르기",
+        "Voix tonitruante",
+        "Lauter Schrei",
+        "Alarido"
+    ],
+    "229317": [
+        "Artisan Spirit",
+        "工匠氣質",
+        "장인의 기질",
+        "Esprit d'artisan",
+        "Künstlerseele",
+        "Espíritu artesano"
+    ],
+    "229318": [
+        "Pride of the Dwarves",
+        "矮人的驕傲",
+        "드워프의 긍지",
+        "Fierté des nains",
+        "Zwergenstolz",
+        "Orgullo enano"
+    ],
+    "229319": [
+        "Instant Forge - Physical Shield",
+        "即刻鍛煉·物理盾",
+        "직행 단련·물리 방패",
+        "Forge instantannée - Bouclier physique",
+        "Sofortschmiede - Abwehrschild",
+        "Fragua rápida - Escudo físico"
+    ],
+    "229320": [
+        "Instant Forge - Magic Shield",
+        "即刻鍛煉·魔法盾",
+        "직행 단련·마법 방패",
+        "Forge instantannée - Bouclier magique",
+        "Sofortschmiede - Magieschild",
+        "Fragua rápida - Escudo mágico"
+    ],
+    "229330": [
+        "Wingtip",
+        "翼梢",
+        "윙 팁",
+        "Aileron",
+        "Flügelspitze",
+        "Punta de ala"
+    ],
+    "229331": [
+        "Landing Lights",
+        "著陸指示燈",
+        "랜딩 글라이드",
+        "Phares d'atterrissage",
+        "Landescheinwerfer",
+        "Luces de aterrizaje"
+    ],
+    "229332": [
+        "Wings of a Dream",
+        "夢之翼",
+        "꿈의 날개",
+        "Ailes oniriques",
+        "Traumflügel",
+        "Alas oníricas"
+    ],
+    "229333": [
+        "Full Speed Ahead",
+        "全速前進",
+        "전속 전진",
+        "En avant toute !",
+        "Mit Volldampf voraus",
+        "A toda velocidad"
+    ],
+    "229334": [
+        "Reverse Thrust - HP",
+        "反轉推力・HP",
+        "역추진 장치·HP",
+        "Virevolte arrière - PV",
+        "Umkehrschub - LP",
+        "Empuje de reversa - VIT"
+    ],
+    "229335": [
+        "Reverse Thrust - MP",
+        "反轉推力・MP",
+        "역추진 장치·MP",
+        "Virevolte arrière - PM",
+        "Umkehrschub - MP",
+        "Empuje de reversa - PM"
+    ],
+    "229336": [
+        "Airship Pilot",
+        "飛空艇駕駛員",
+        "비공정 조종사",
+        "Pilote d'aéronef",
+        "Luftschiffpilot",
+        "Piloto de barco volador"
+    ],
+    "229337": [
+        "Pilot's Goggles",
+        "駕駛員護目鏡",
+        "파일럿 고글",
+        "Lunettes de pilote",
+        "Pilotenbrille",
+        "Gafas de aviador"
+    ],
+    "229338": [
+        "Die-Hard Spirit",
+        "草根魂魄",
+        "잡초 정신",
+        "Volonté acharnée",
+        "Draufgängerseele",
+        "Espíritu intransigente"
+    ],
     "229550": [
         "Healing Shot",
         "治癒射擊",
@@ -36693,7 +37109,7 @@
         "자동 방어력 상승Lv.1",
         "Auto-boost de DEF niv. 1",
         "Automatische ABW Erhöhung Lv. 1",
-        "Autopotencia de DEF Nv. 1"
+        "AutoPotencia de DEF Nv. 1"
     ],
     "417070": [
         "DEF Auto-Boost Lv. 2",
@@ -36701,7 +37117,7 @@
         "자동 방어력 상승Lv.2",
         "Auto-boost de DEF niv. 2",
         "Automatische ABW Erhöhung Lv. 2",
-        "Autopotencia de DEF Nv. 2"
+        "AutoPotencia de DEF Nv. 2"
     ],
     "417080": [
         "DEF Auto-Boost Lv. 3",
@@ -36709,7 +37125,7 @@
         "자동 방어력 상승Lv.3",
         "Auto-boost de DEF niv. 3",
         "Automatische ABW Erhöhung Lv. 3",
-        "Autopotencia de DEF Nv. 3"
+        "AutoPotencia de DEF Nv. 3"
     ],
     "417090": [
         "DEF Auto-Boost Lv. 4",
@@ -36717,7 +37133,7 @@
         "자동 방어력 상승Lv.4",
         "Auto-boost de DEF niv. 4",
         "Automatische ABW Erhöhung Lv. 4",
-        "Autopotencia de DEF Nv. 4"
+        "AutoPotencia de DEF Nv. 4"
     ],
     "417100": [
         "DEF Auto-Boost Lv. 5",
@@ -36725,7 +37141,7 @@
         "자동 방어력 상승Lv.5",
         "Auto-boost de DEF niv. 5",
         "Automatische ABW Erhöhung Lv. 5",
-        "Autopotencia de DEF Nv. 5"
+        "AutoPotencia de DEF Nv. 5"
     ],
     "417110": [
         "SPR Auto-Boost Lv. 1",
@@ -36733,7 +37149,7 @@
         "자동 정신력 상승Lv.1",
         "Auto-boost de PSY niv. 1",
         "Automatische PSY Erhöhung Lv. 1",
-        "Autopotencia de ESP Nv. 1"
+        "AutoPotencia de ESP Nv. 1"
     ],
     "417120": [
         "SPR Auto-Boost Lv. 2",
@@ -36741,7 +37157,7 @@
         "자동 정신력 상승Lv.2",
         "Auto-boost de PSY niv. 2",
         "Automatische PSY Erhöhung Lv. 2",
-        "Autopotencia de ESP Nv. 2"
+        "AutoPotencia de ESP Nv. 2"
     ],
     "417130": [
         "SPR Auto-Boost Lv. 3",
@@ -36749,7 +37165,7 @@
         "자동 정신력 상승Lv.3",
         "Auto-boost de PSY niv. 3",
         "Automatische PSY Erhöhung Lv. 3",
-        "Autopotencia de ESP Nv. 3"
+        "AutoPotencia de ESP Nv. 3"
     ],
     "417140": [
         "SPR Auto-Boost Lv. 4",
@@ -36757,7 +37173,7 @@
         "자동 정신력 상승Lv.4",
         "Auto-boost de PSY niv. 4",
         "Automatische PSY Erhöhung Lv. 4",
-        "Autopotencia de ESP Nv. 4"
+        "AutoPotencia de ESP Nv. 4"
     ],
     "417150": [
         "SPR Auto-Boost Lv. 5",
@@ -36765,7 +37181,7 @@
         "자동 정신력 상승Lv.5",
         "Auto-boost de PSY niv. 5",
         "Automatische PSY Erhöhung Lv. 5",
-        "Autopotencia de ESP Nv. 5"
+        "AutoPotencia de ESP Nv. 5"
     ],
     "450800": [
         "Seal of Life and Power Lv. 3",
@@ -46904,7 +47320,7 @@
         "Cadena aristocrática"
     ],
     "508600": [
-        "Time Gazer",
+        "Beholder of the Ages",
         null,
         null,
         null,
@@ -46912,7 +47328,7 @@
         null
     ],
     "508601": [
-        "Consecutive Creeds",
+        "Dual Stratagem",
         null,
         null,
         null,
@@ -46920,7 +47336,7 @@
         null
     ],
     "508602": [
-        "Exhilaration Creed",
+        "Sustainment Stratagem",
         null,
         null,
         null,
@@ -46928,7 +47344,7 @@
         null
     ],
     "508603": [
-        "Homecoming Creed",
+        "Resurgence Stratagem",
         null,
         "태내회귀의 술법",
         null,
@@ -46936,7 +47352,7 @@
         null
     ],
     "508604": [
-        "Debilitation Creed",
+        "Ruination Stratagem",
         null,
         "태모멸구의 술법",
         null,
@@ -46944,7 +47360,7 @@
         null
     ],
     "508605": [
-        "Resistance Creed",
+        "Unyielding Stratagem",
         null,
         null,
         null,
@@ -47273,19 +47689,19 @@
     ],
     "508680": [
         "Aurochs Reels",
-        null,
-        null,
-        null,
-        null,
-        null
+        "野牛隊轉軸",
+        "아우라카 릴",
+        "Aurochs Spécial",
+        "Aurochs-T",
+        "Ruleta Aurochs"
     ],
     "508681": [
         "Aurochs Reels",
-        null,
-        null,
-        null,
-        null,
-        null
+        "野牛隊轉軸",
+        "아우라카 릴",
+        "Aurochs Spécial",
+        "Aurochs-T",
+        "Ruleta Aurochs"
     ],
     "508682": [
         "Brute Smith",
@@ -47793,83 +48209,83 @@
     ],
     "508838": [
         "Divine Sword",
-        null,
-        null,
-        null,
-        null,
-        null
+        "神諭之劍",
+        "신성검",
+        "Epée divine",
+        "Gottesschwert",
+        "Sable celestial"
     ],
     "508839": [
         "Ascension",
-        null,
-        null,
-        null,
-        null,
-        null
+        "昇天之路",
+        "향상",
+        "Ascension",
+        "Ascention",
+        "Ascensión"
     ],
     "508840": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508841": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508842": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508843": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508844": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508845": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508846": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508847": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "508848": [
         "Pimeteor",
@@ -47969,27 +48385,27 @@
     ],
     "508861": [
         "Loyal Spirit",
-        null,
-        null,
-        null,
-        null,
-        null
+        "忠臣的志氣",
+        "충신의 의지",
+        "Tempérament loyal",
+        "Im Geiste der Loyalität",
+        "Temperamento fiel"
     ],
     "508862": [
         "Divine Sword",
-        null,
-        null,
-        null,
-        null,
-        null
+        "神諭之劍",
+        "신성검",
+        "Epée divine",
+        "Gottesschwert",
+        "Sable celestial"
     ],
     "508863": [
         "Ascension",
-        null,
-        null,
-        null,
-        null,
-        null
+        "昇天之路",
+        "향상",
+        "Ascension",
+        "Ascention",
+        "Ascensión"
     ],
     "508864": [
         "Blazing Wolf",
@@ -48094,6 +48510,158 @@
         null,
         null,
         null
+    ],
+    "508940": [
+        "Downforce",
+        "下壓力",
+        "다운 포스",
+        "Courant descendant",
+        "Abtrieb",
+        "Fuerza aerodinámica"
+    ],
+    "508941": [
+        "Downforce+",
+        "下壓力·改",
+        "개량형 다운 포스",
+        "Courant descendant +",
+        "Abtrieb+",
+        "Fuerza aerodinámica+"
+    ],
+    "508942": [
+        "Aerial Shot",
+        "航空射擊",
+        "공중 사격",
+        "Tir aérien",
+        "Luftschuss",
+        "Golpe aéreo"
+    ],
+    "508943": [
+        "Aerial Shot+",
+        "航空射擊·改",
+        "개량형 공중 사격",
+        "Tir aérien +",
+        "Luftschuss+",
+        "Golpe aéreo+"
+    ],
+    "508944": [
+        "Gale Grid",
+        "風向坐標",
+        "게일 그리드",
+        "Rafale ravageuse",
+        "Sturmgitter",
+        "Rosa de los vientos"
+    ],
+    "508945": [
+        "Gale Grid+",
+        "風向坐標·改",
+        "개량형 게일 그리드",
+        "Rafale ravageuse +",
+        "Sturmgitter+",
+        "Rosa de los vientos+"
+    ],
+    "508946": [
+        "Spineshatter Dive 0+",
+        "破碎衝零式·改",
+        "개량형 척추 강타 0식",
+        "Piqué brise-échine style 0 +",
+        "Zerschmetternder Sturzflug 0+",
+        "Rompespaldas 0+"
+    ],
+    "508947": [
+        "True Spineshatter Dive 0",
+        "真破碎衝零式",
+        "진 척추 강타 0식",
+        "Piqué brise-échine style 0 absolu",
+        "Wahrer Zerschmetternder Sturzflug 0+",
+        "Rompespaldas 0 mortal"
+    ],
+    "508948": [
+        "Sky Dragon Squall",
+        "天龍之風",
+        "천룡의 바람",
+        "Bourrasque du dragon céleste",
+        "Sturmwind des Luftdrachen",
+        "Ráfaga de dragón celestial"
+    ],
+    "508950": [
+        "High-Speed Sketch",
+        "超快速寫",
+        "초고속 스케치",
+        "Ébauche rapide",
+        "Schnelles Skizzieren",
+        "Boceto veloz"
+    ],
+    "508951": [
+        "High-Speed Sketch",
+        "超快速寫",
+        "초고속 스케치",
+        "Ébauche rapide",
+        "Schnelles Skizzieren",
+        "Boceto veloz"
+    ],
+    "508952": [
+        "High-Speed Sketch",
+        "超快速寫",
+        "초고속 스케치",
+        "Ébauche rapide",
+        "Schnelles Skizzieren",
+        "Boceto veloz"
+    ],
+    "508953": [
+        "High-Speed Sketch",
+        "超快速寫",
+        "초고속 스케치",
+        "Ébauche rapide",
+        "Schnelles Skizzieren",
+        "Boceto veloz"
+    ],
+    "508954": [
+        "Beginning of the Dream",
+        "『夢想發源』",
+        "<꿈의 발족>",
+        "La naissance d'un rêve",
+        "Anfang eines Traums",
+        "El principio de un sueño"
+    ],
+    "508955": [
+        "A Bond Between Men",
+        "『男人間的友情』",
+        "<남자들의 우정>",
+        "Les ailes de l'amitié",
+        "Ein Männerbund",
+        "Amistad entre hombres"
+    ],
+    "508956": [
+        "The Eve Before the Flight",
+        "『飛翔前夜』",
+        "<비상 전야>",
+        "La veille du vol",
+        "Die Nacht vor dem Flug",
+        "La noche antes del vuelo"
+    ],
+    "508957": [
+        "He Who Soars the Heavens",
+        "『飛躍天穹之人』",
+        "<천공을 나는 사람>",
+        "L'aviateur céleste",
+        "Der Himmelstürmer",
+        "Surcador de los cielos"
+    ],
+    "508970": [
+        "Dwarf's Physical Shield",
+        "矮人物理盾",
+        "드워프의 물리 방패",
+        "Bouclier physique des nains",
+        "Zwergischer Abwehrschild",
+        "Escudo físico de enano"
+    ],
+    "508971": [
+        "Dwarf's Magic Shield",
+        "矮人魔法盾",
+        "드워프의 마법 방패",
+        "Bouclier magique des nains",
+        "Zwergischer Magieschild",
+        "Escudo mágico de enano"
     ],
     "509310": [
         "Blade with a Quiet Volition",
@@ -56529,19 +57097,19 @@
     ],
     "707426": [
         "Blade Adept",
-        null,
-        null,
-        null,
-        null,
-        null
+        "劍術高手",
+        "검의 명수",
+        "Maître d'armes",
+        "Klingenmeister",
+        "Maestro esgrimista"
     ],
     "707427": [
         "Blade Adept",
-        null,
-        null,
-        null,
-        null,
-        null
+        "劍術高手",
+        "검의 명수",
+        "Maître d'armes",
+        "Klingenmeister",
+        "Maestro esgrimista"
     ],
     "707428": [
         "Eroberung",
@@ -56673,51 +57241,51 @@
     ],
     "707444": [
         "Swift Tidal Attack",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水迅擊流斬",
+        "수신경류참",
+        "Attaque fluidovéloce",
+        "Flinker Gezeitenstreich",
+        "Ataque mareomotriz"
     ],
     "707445": [
         "Swift Tidal Attack",
-        null,
-        null,
-        null,
-        null,
-        null
+        "水迅擊流斬",
+        "수신경류참",
+        "Attaque fluidovéloce",
+        "Flinker Gezeitenstreich",
+        "Ataque mareomotriz"
     ],
     "707446": [
         "Earth-shattering Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土濤烈波劍",
+        "토주열파검",
+        "Lame briseterre",
+        "Erdzerschmetterer",
+        "Hoja sacudetierra"
     ],
     "707447": [
         "Earth-shattering Blade",
-        null,
-        null,
-        null,
-        null,
-        null
+        "土濤烈波劍",
+        "토주열파검",
+        "Lame briseterre",
+        "Erdzerschmetterer",
+        "Hoja sacudetierra"
     ],
     "707448": [
         "Blade Adept",
-        null,
-        null,
-        null,
-        null,
-        null
+        "劍術高手",
+        "검의 명수",
+        "Maître d'armes",
+        "Klingenmeister",
+        "Maestro esgrimista"
     ],
     "707449": [
         "Blade Adept",
-        null,
-        null,
-        null,
-        null,
-        null
+        "劍術高手",
+        "검의 명수",
+        "Maître d'armes",
+        "Klingenmeister",
+        "Maestro esgrimista"
     ],
     "707450": [
         "Prosecute",
@@ -56785,195 +57353,195 @@
     ],
     "707458": [
         "Dawn Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "黎明的守護",
+        "새벽의 수호",
+        "Garde de l'aube",
+        "Wächter der Morgendämmerung",
+        "Custodio del alba"
     ],
     "707459": [
         "Dawn Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "黎明的守護",
+        "새벽의 수호",
+        "Garde de l'aube",
+        "Wächter der Morgendämmerung",
+        "Custodio del alba"
     ],
     "707460": [
         "Twilight Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "黃昏的守護",
+        "황혼의 수호",
+        "Garde du crépuscule",
+        "Wächter der Abenddämmerung",
+        "Custodio del crepúsculo"
     ],
     "707461": [
         "Twilight Guard",
-        null,
-        null,
-        null,
-        null,
-        null
+        "黃昏的守護",
+        "황혼의 수호",
+        "Garde du crépuscule",
+        "Wächter der Abenddämmerung",
+        "Custodio del crepúsculo"
     ],
     "707462": [
         "Fulminating Darkness",
-        null,
-        null,
-        null,
-        null,
-        null
+        "闇與暗黑之衝擊",
+        "어둠과 암흑의 충격",
+        "Choc ténébreux",
+        "Der Schattenstoß",
+        "Energía oscura"
     ],
     "707463": [
         "Fulminating Darkness",
-        null,
-        null,
-        null,
-        null,
-        null
+        "闇與暗黑之衝擊",
+        "어둠과 암흑의 충격",
+        "Choc ténébreux",
+        "Der Schattenstoß",
+        "Energía oscura"
     ],
     "707464": [
         "Confusing Lament",
-        null,
-        null,
-        null,
-        null,
-        null
+        "罪與混沌的慟哭",
+        "죄와 혼돈의 통곡",
+        "Lamentation confuse",
+        "Wehklage von Sünde und Chaos",
+        "Lamento confuso"
     ],
     "707465": [
         "Confusing Lament",
-        null,
-        null,
-        null,
-        null,
-        null
+        "罪與混沌的慟哭",
+        "죄와 혼돈의 통곡",
+        "Lamentation confuse",
+        "Wehklage von Sünde und Chaos",
+        "Lamento confuso"
     ],
     "707466": [
         "Loyal Spirit",
-        null,
-        null,
-        null,
-        null,
-        null
+        "忠臣的志氣",
+        "충신의 의지",
+        "Tempérament loyal",
+        "Im Geiste der Loyalität",
+        "Temperamento fiel"
     ],
     "707467": [
         "Loyal Spirit",
-        null,
-        null,
-        null,
-        null,
-        null
+        "忠臣的志氣",
+        "충신의 의지",
+        "Tempérament loyal",
+        "Im Geiste der Loyalität",
+        "Temperamento fiel"
     ],
     "707468": [
         "Force Barrier",
-        null,
-        null,
-        null,
-        null,
-        null
+        "災變",
+        "카타스토",
+        "Barrière physique",
+        "Desaster",
+        "Blindaje"
     ],
     "707469": [
         "Force Barrier",
-        null,
-        null,
-        null,
-        null,
-        null
+        "災變",
+        "카타스토",
+        "Barrière physique",
+        "Desaster",
+        "Blindaje"
     ],
     "707470": [
         "Magick Barrier",
-        null,
-        null,
-        null,
-        null,
-        null
+        "逆魔法",
+        "바매직",
+        "Barrière magique",
+        "Extot",
+        "Antimagos"
     ],
     "707471": [
         "Magick Barrier",
-        null,
-        null,
-        null,
-        null,
-        null
+        "逆魔法",
+        "바매직",
+        "Barrière magique",
+        "Extot",
+        "Antimagos"
     ],
     "707472": [
         "Archadian Emperor",
-        null,
-        null,
-        null,
-        null,
-        null
+        "阿爾卡迪亞帝國皇帝",
+        "아르카디아 제국 황제",
+        "Empereur arcadien",
+        "Kaiser des Kaiserreichs Arcadia",
+        "Emperador Arcadio"
     ],
     "707473": [
         "Archadian Emperor",
-        null,
-        null,
-        null,
-        null,
-        null
+        "阿爾卡迪亞帝國皇帝",
+        "아르카디아 제국 황제",
+        "Empereur arcadien",
+        "Kaiser des Kaiserreichs Arcadia",
+        "Emperador Arcadio"
     ],
     "707474": [
         "Flamephant",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火炎幻想",
+        "불꽃의 사제",
+        "Flaméphant",
+        "Flammenfant",
+        "Flamígero"
     ],
     "707475": [
         "Flamephant",
-        null,
-        null,
-        null,
-        null,
-        null
+        "火炎幻想",
+        "불꽃의 사제",
+        "Flaméphant",
+        "Flammenfant",
+        "Flamígero"
     ],
     "707476": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "707477": [
         "Achilles",
-        null,
-        null,
-        null,
-        null,
-        null
+        "致命要害",
+        "아킬레스",
+        "Achille",
+        "Achilles",
+        "Aquiles"
     ],
     "707478": [
         "4th in Command",
-        null,
-        null,
-        null,
-        null,
-        null
+        "第4局最高負責人",
+        "제4국 최고책임자",
+        "4e aux commandes",
+        "Generaldirektor von Büro 4",
+        "4.º al mando"
     ],
     "707479": [
         "4th in Command",
-        null,
-        null,
-        null,
-        null,
-        null
+        "第4局最高負責人",
+        "제4국 최고책임자",
+        "4e aux commandes",
+        "Generaldirektor von Büro 4",
+        "4.º al mando"
     ],
     "707480": [
         "Desperation",
-        null,
-        null,
-        null,
-        null,
-        null
+        "絕望",
+        "절망",
+        "Désespoir",
+        "Verzweiflung",
+        "Desesperación"
     ],
     "707481": [
         "Desperation",
-        null,
-        null,
-        null,
-        null,
-        null
+        "絕望",
+        "절망",
+        "Désespoir",
+        "Verzweiflung",
+        "Desesperación"
     ],
     "707482": [
         "Pole Reversal",
@@ -56993,19 +57561,19 @@
     ],
     "707484": [
         "Blade Adept",
-        null,
-        null,
-        null,
-        null,
-        null
+        "劍術高手",
+        "검의 명수",
+        "Maître d'armes",
+        "Klingenmeister",
+        "Maestro esgrimista"
     ],
     "707485": [
         "Blade Adept",
-        null,
-        null,
-        null,
-        null,
-        null
+        "劍術高手",
+        "검의 명수",
+        "Maître d'armes",
+        "Klingenmeister",
+        "Maestro esgrimista"
     ],
     "707486": [
         "Giant Slayer",

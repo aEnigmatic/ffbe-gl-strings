@@ -2159,6 +2159,46 @@
         "Während der Einleitung herunterladen",
         "Descargar durante el tutorial"
     ],
+    "DLC_SCREENSIZE_DATA_10MB": [
+        "> 10 MB",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "DLC_SCREENSIZE_DATA_1MB": [
+        "> 1 MB",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "DLC_SCREENSIZE_DATA_DESCRIPTION": [
+        "Turn data download notifications OFF, or set them to only appear when data to be downloaded passes a certain threshold.",
+        "關閉資料下載通知，或設定為超過一定資料量才會顯示下載通知。",
+        "데이터 다운로드 알림을 해제하거나, 다운로드할 데이터가 일정치를 초과 시에만 표시되도록 설정합니다.",
+        "Désactivez les notifications de téléchargement, ou réglez-les pour qu'elles n’apparaissent que lorsque la quantité de données dépasse un certain seuil.",
+        "Schalte Benachrichtigungen zum Daten-Download AUS, oder stelle sie so ein, dass sie nur dann angezeigt werden, wenn die herunterzuladenen Daten einen gewissen Grenzwert überschreiten.",
+        "Desactiva las notificaciones de descarga de datos o haz que solo aparezcan cuando los datos a descargar rebasen cierto límite."
+    ],
+    "DLC_SCREENSIZE_DATA_NOTIFICATION": [
+        "Data Download Notifications",
+        "資料下載通知",
+        "데이터 다운로드 알림",
+        "Notifications de téléchargement de données",
+        "Benachrichtigungen zum Daten-Download",
+        "Notificaciones de descarga de datos"
+    ],
+    "DLC_SCREENSIZE_SETTINGS": [
+        "Settings",
+        "設定",
+        "설정",
+        "Réglages",
+        "Einstellungen",
+        "Ajustes"
+    ],
     "DLC_SCREENSIZE_STORAGE": [
         "Your phone doesn't have enough storage.",
         "使用裝置的剩餘空間不足。",
@@ -2166,6 +2206,14 @@
         "Votre téléphone ne possède pas assez d'espace disponible.",
         "Dein Gerät hat nicht genug Speicherplatz.",
         "Tu teléfono no tiene memoria suficiente disponible."
+    ],
+    "DLC_SCREENSIZE_TOGGLE_NOTIFICATION": [
+        "Toggle Notification Settings",
+        "切換通知設定",
+        "알림 설정 변경",
+        "Changer les réglages des notifications",
+        "Umschalten der Benachrichtigungseinstellungen",
+        "Cambiar Ajustes de notificación"
     ],
     "DLC_SCREENSIZE_WIFI": [
         "FINAL FANTASY BRAVE EXVIUS needs to download an additional <param=size> of data.<br>It is strongly recommended that you connect to a Wi-Fi network to avoid incurring significant data charges.<br><br>Proceed with download?",
@@ -4039,6 +4087,14 @@
         "Wir möchten uns bei allen Teilnehmern des Fan Festa Einheiten Designwettbewerbs bedanken. Vergiss nicht, deine kostenlosen 10+1 Beschwörungen zu benutzen, kupo!",
         "¡Gracias a todos los que habéis participado en el concurso de diseño de unidad de la Fan Festa! ¡Tampoco os olvidéis de usar vuestra invocación 10+1 gratuita, kupó!"
     ],
+    "EXPLAIN_REWARD_1022": [
+        "Here are today's login rewards. Don't forget to collect any 1★ Trust Moogles in your gift box, kupo!",
+        "這是今天的登入獎勵。別忘了領取「★1 信賴度莫古利」，庫啵！",
+        "오늘의 출석 보상쿠포! 메시지함 내 '★1 트러스트 모그리' 수령을 잊지마쿠포!",
+        "Voici vos récompenses de connexion pour aujourd'hui. N'oubliez pas de récupérer les mogs de confiance 1★ inclus en cadeau, kupo !",
+        "Hier sind deine Anmeldebelohnungen. Vergiss nicht 1★ Treuemogrys aus deinem Posteingang abzuholen, kupo!",
+        "¡Aquí tienes las recompensas de inicio de sesión de hoy! ¡Y no te olvides de los moguris fieles de 1★ en tu bandeja de regalos, kupó!"
+    ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
         "獲得素材",
@@ -5278,6 +5334,14 @@
         "Tickets possédés",
         "Karte in Besitz",
         "Tickets en mano"
+    ],
+    "GACHA_SCREEN_TIME_LIMITED": [
+        "Time Limited",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "GACHA_SELECT_TICKET_TOTAL": [
         "(Tickets Held: <param=ticket_total>)",
@@ -12991,6 +13055,14 @@
         "Erneutes Anmelden bei <param=login_service> fehlgeschlagen.<br><br>Bitte versuche, dich erneut über den Titelbildschirm anzumelden.",
         "No es posible volver a iniciar sesión en <param=login_service>.<br><br>Inténtalo de nuevo desde la pantalla de título."
     ],
+    "Pop_Up_General_Button_Back": [
+        "Back",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "Pop_Up_General_Button_No": [
         "NO",
         "否",
@@ -12999,6 +13071,14 @@
         "NEIN",
         "NO"
     ],
+    "Pop_Up_General_Button_Off": [
+        "OFF",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "Pop_Up_General_Button_Ok": [
         "OK",
         "OK",
@@ -13006,6 +13086,14 @@
         "OK",
         "OK",
         "OK"
+    ],
+    "Pop_Up_General_Button_On": [
+        "ON",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "Pop_Up_General_Button_Yes": [
         "YES",
@@ -13022,6 +13110,22 @@
         "Avertissement",
         "Warnung",
         "Aviso"
+    ],
+    "Popup_logout_completed": [
+        "Log out successful!",
+        "登出成功！",
+        "로그아웃 성공!",
+        "Déconnexion réussie !",
+        "Erfolgreich abgemeldet!",
+        "Has cerrado sesión"
+    ],
+    "Popup_logout_confirm": [
+        "Are you sure you want to log out from <color=255:255:0><param=login_service></color>?This will log you out of your account (The bind status will remain)",
+        "是否確定要從<color=255:255:0><param=login_service></color>登出？",
+        "<color=255:255:0><param=login_service></color>에서 로그아웃하시겠습니까?",
+        "Voulez-vous vraiment vous déconnecter de <color=255:255:0><param=login_service></color> ?",
+        "Willst du dich wirklich von <color=255:255:0><param=login_service></color> abmelden??",
+        "¿Seguro que quieres cerrar sesión de <color=255:255:0><param=login_service></color>?"
     ],
     "QUEST": [
         "Quest",
@@ -13848,12 +13952,12 @@
         "¿Ver un vídeo para girar?"
     ],
     "REWARD_SUMMON_TITLE": [
-        "Rewards Wheel",
-        "獎勵輪盤",
-        "보상 룰렛",
-        "Roue des récompenses",
-        "Belohnungsrad",
-        "Ruleta de recompensas"
+        "Spring Rewards Wheel",
+        "春季獎勵輪盤",
+        "봄맞이 보상 룰렛",
+        "Roue des récompenses de printemps",
+        "Belohnungsrad des Frühlings",
+        "Ruleta de recompensas de primavera"
     ],
     "REWARD_SUMMON_TITLE2": [
         "Rewards Obtain",
@@ -13877,7 +13981,7 @@
         "구역 맵으로 들어갑니다.<br>구역 맵에서는 파티 편성, 아이템 변경 등을 할 수 없습니다.<br><color=255:0:0>구역 맵을 완료할 때까지 홈 화면으로 돌아갈 수 없게 됩니다.</color><br> <br>구역 맵으로 들어가시겠습니까?",
         "L'écran de la carte de la zone va s'afficher. <br>Les groupes comme les objets ne peuvent pas être modifiés depuis cet écran. <br><color=255:0:0>Vous ne pourrez également plus retourner à l'écran d'accueil à moins que vous ne terminiez ou que vous abandonniez la zone. </color><br><br>Continuer ?",
         "Weiter zur Gebietskarte.<br>Gruppen und Gegenstände können auf der Gebietskarte nicht gewechselt werden.<br><color=255:0:0>Du kannst nicht zum Hauptbildschirm zurück, bis die Karte abgeschlossen ist oder du aufgibst.</color><br><br>Weiter zur Gebietskarte?",
-        "Avanzando al mapa de área..<br>No se puede cambiar el grupo ni los objetos en el mapa de área.<br><color=255:0:0>No podrás regresar al menú principal hasta completar el mapa o te rindas.</color><br><br>¿Avanzas al mapa de área?"
+        "No se puede cambiar el grupo ni los objetos en el mapa de área.<br><color=255:0:0>Tampoco podrás regresar al menú principal hasta que completes el mapa o te rindas.</color><br><br>¿Avanzar al mapa de área?"
     ],
     "RM_ENTRY_CONFIRM_NO_ENERGY": [
         "<color=255:255:0>Completing the map will require: <param=totalNRG> NRG</color><br><br>Parties and items can not be changed on the area map.<br><color=255:0:0>You will not be able to return to the Home screen until you complete the map or give up.</color><br><br>Proceed to area map?",
@@ -14198,6 +14302,14 @@
         "%.2d:%.2d h",
         "%.2d:%.2d h",
         "%.2d:%.2d horas"
+    ],
+    "SG_BUNDLE_VISIT_SHOP": [
+        "Visit the shop for more bundles!",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "SG_BUNDLE_WELCOME_TEXT": [
         "Remember to log in for %s days to get your next milestone reward!",
