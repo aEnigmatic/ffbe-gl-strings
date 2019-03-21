@@ -27197,7 +27197,7 @@
         "암흑 마도사",
         "Mage obscur",
         "Dunkelmagier",
-        "Conjurador negro"
+        "Brujo negro"
     ],
     "8280507": [
         "Scorn",
@@ -29920,12 +29920,12 @@
         "Cámara de las Reliquias - Guardián de la sombra y la desesperación"
     ],
     "8980200": [
-        "The Warden",
-        "監視者",
+        "Chamber of Arms - Welter the Beholder",
+        "十二武具 - 監視者",
         "감시하는 자",
-        null,
-        null,
-        "El guardián"
+        "Chambre des armes - Welter l'observateur",
+        "Waffenkammer - Welter, der Beobachter",
+        "Cámara de las Reliquias - Welter el Observador"
     ],
     "8990101": [
         "Rebirth of the White Dragon",
@@ -30702,6 +30702,14 @@
         "Mépris des Bêtes",
         "Spott der marschierenden Bestien",
         "El desprecio de las bestias"
+    ],
+    "8993501": [
+        "Scorn of Gilgamesh",
+        "吉爾伽美什 真降臨",
+        "길가메시 진강림",
+        "Mépris de Gilgamesh",
+        "Spott des Gilgamesch",
+        "El desprecio de Gilgamesh"
     ],
     "8993701": [
         "Scorn of the Octopus and the Teacher",
@@ -37739,7 +37747,7 @@
         "Emperor's Hall - Strategist and the Sage",
         "皇帝之間·軍師與賢者",
         "황제의 방·참모와 현자",
-        "Le salon de l'Empereur - Le stratégiste et le sage",
+        "Salon de l'Empereur - Le stratège et la sage",
         "Die Halle des Imperators - Stratege und der Weise",
         "Sala del emperador - El estratega y el sabio"
     ],
@@ -37747,9 +37755,329 @@
         "Emperor's Hall - A True Battle",
         "皇帝之間·全力之戰",
         "황제의 방·진심을 다한 싸움",
-        "Le salon de l'Empereur - Une bataille sérieuse",
+        "Salon de l'Empereur - Duel à mort",
         "Die Halle des Imperators - Ein wahrer Kampf",
         "Sala del emperador - Una batalla de verdad"
+    ],
+    "11710101": [
+        "Driftwood Beach - True Intentions",
+        null,
+        "유목의 모래사장·진의",
+        "Plage du bois échoué - Raison cachée",
+        "Treibholzstrand - Wahre Absicht",
+        null
+    ],
+    "11710102": [
+        "Driftwood Beach - Emotional Distance",
+        null,
+        "유목의 모래사장·마음의 거리",
+        "Plage du bois échoué - Cœurs éloignés",
+        "Treibholzstrand - Entfernung der Herzen",
+        null
+    ],
+    "11710103": [
+        "Driftwood Beach - Regardless of Bonds",
+        null,
+        "유목의 모래사장·비록 동료라 해도",
+        "Plage du bois échoué - Ni alliés ni ennemis",
+        "Treibholzstrand - Weder Freund noch Feind",
+        null
+    ],
+    "11710104": [
+        "Driftwood Beach - Demon on the Beach",
+        null,
+        "유목의 모래사장·모래사장의 악마",
+        "Plage du bois échoué - Les démons de la plage",
+        "Treibholzstrand - Stranddämon",
+        null
+    ],
+    "11710201": [
+        "Mossy Crag - Beautiful Continent",
+        null,
+        "청태의 암벽·아름다운 대륙",
+        "Rocher moussu - Un continent de toute beauté",
+        "Moosfels - Schöner Kontinent",
+        null
+    ],
+    "11710202": [
+        "Mossy Crag - Moss Covered Precipice",
+        null,
+        "청태의 암벽·이끼 낀 암벽",
+        "Rocher moussu - La falaise de mousse",
+        "Moosfels - Moosbedeckter Felshang",
+        null
+    ],
+    "11710203": [
+        "Mossy Crag - Hidden Behind the Rocks",
+        null,
+        "청태의 암벽·바위 그림자에 숨은 자들",
+        "Rocher moussu - Dans l'ombre des rochers",
+        "Moosfels - Hinter den Felsen versteckt",
+        null
+    ],
+    "11710204": [
+        "Mossy Crag - The Crystal's Effect",
+        null,
+        "청태의 암벽·크리스탈의 영향",
+        "Rocher moussu - Les effets des cristaux",
+        "Moosfels - Der Kristalleffekt",
+        null
+    ],
+    "11710301": [
+        "Ashen Wasteland - Fina's Suffering",
+        null,
+        "회청빛 황야·피나의 고뇌",
+        "Terres cendrées - La souffrance de Fina",
+        "Aschgraue Ödnis - Finas Leid",
+        null
+    ],
+    "11710302": [
+        "Ashen Wasteland - Separate Paths",
+        null,
+        "회청빛 황야·나뉘어진 길",
+        "Terres cendrées - Chemins divisés",
+        "Aschgraue Ödnis - Getrennte Wege",
+        null
+    ],
+    "11710303": [
+        "Ashen Wasteland - Nichol of the Epsilon Star",
+        null,
+        "회청빛 황야·오성투사 니콜",
+        "Terres cendrées - Nichol de l'étoile Epsilon",
+        "Aschgraue Ödnis - Epsilon-Stern-Nichol",
+        null
+    ],
+    "11710304": [
+        "Ashen Wasteland - Alpha and Pi Stars",
+        null,
+        "회청빛 황야·일성투사와 십육투성사",
+        "Terres cendrées - Les étoiles Pi et Alpha",
+        "Aschgraue Ödnis - Alpha- und Pi-Sterne",
+        null
+    ],
+    "11710401": [
+        "Pillared Knoll - Chill in the Air",
+        null,
+        "주랑의 언덕·감도는 오한",
+        "Colline de la colonnade - Frisson dans l'air",
+        "Säulenhügel - Ein Schauder in der Luft",
+        null
+    ],
+    "11710402": [
+        "Pillared Knoll - Stone Lookout",
+        null,
+        "주랑의 언덕·바위 누각",
+        "Colline de la colonnade - Au sommet de la colline",
+        "Säulenhügel - Steinwarte",
+        null
+    ],
+    "11710403": [
+        "Pillared Knoll - An Earthshaking Presence",
+        null,
+        "주랑의 언덕·진동하는 기운",
+        "Colline de la colonnade - Présence grondante",
+        "Säulenhügel - Grollende Gegenwart",
+        null
+    ],
+    "11710404": [
+        "Pillared Knoll - Inferno of the Obliterating Star",
+        null,
+        "주랑의 언덕·절황성투사 인페르노",
+        "Colline de la colonnade - Inferno de l'étoile primordiale",
+        "Säulenhügel - Inferno des Vernichtenden Sterns",
+        null
+    ],
+    "11710501": [
+        "Pearl Cavern - New Acquaintances",
+        null,
+        "나전 동굴·새로운 동료",
+        "Caverne de nacre - Une nouvelle amie",
+        "Perlenhöhle - Neue Bekanntschaften",
+        null
+    ],
+    "11710502": [
+        "Pearl Cavern - A Faint Azure Glow",
+        null,
+        "나전 동굴·희미한 푸른 빛",
+        "Caverne de nacre - Pâle éclat azuré",
+        "Perlenhöhle - Schwaches Azurleuchten",
+        null
+    ],
+    "11710503": [
+        "Pearl Cavern - Every Day an Adventure",
+        null,
+        "나전 동굴·지루하지 않은 나날",
+        "Caverne de nacre - Un quotidien passionnant",
+        "Perlenhöhle - Tage unserer Leben",
+        null
+    ],
+    "11710504": [
+        "Pearl Cavern - Swirling Path",
+        null,
+        "나전 동굴·소용돌이치는 길",
+        "Caverne de nacre - Chemins en spirale",
+        "Perlenhöhle - Wirbelnder Pfad",
+        null
+    ],
+    "11710505": [
+        "Pearl Cavern - Samurai Stand-Off",
+        null,
+        "나전 동굴·길을 막는 사무라이",
+        "Caverne de nacre - Le samouraï gardien",
+        "Perlenhöhle - Samurai-Patt",
+        null
+    ],
+    "11710506": [
+        "Pearl Cavern - Exploration",
+        null,
+        "나전 동굴·탐색",
+        "Caverne de nacre - Exploration",
+        "Perlenhöhle – Erkundung",
+        null
+    ],
+    "11710601": [
+        "Dragon Crag Spine - An Unknown Foe",
+        null,
+        "암룡의 등지느러미·수수께끼의 적",
+        "Échine du dragon des roches - Menace mystérieuse",
+        "Drachenfelsgrat - Unergründliche Bedrohung",
+        null
+    ],
+    "11710602": [
+        "Dragon Crag Spine - A Dragonesque Landscape",
+        null,
+        "암룡의 등지느러미·용과 같은 경치",
+        "Échine du dragon des roches - Paysage d'un dragon",
+        "Drachenfelsgrat - Landschaft wie ein Drache",
+        null
+    ],
+    "11710603": [
+        "Dragon Crag Spine - Trudging Along",
+        null,
+        "암룡의 등지느러미·무거운 발걸음",
+        "Échine du dragon des roches - Lourde démarche",
+        "Drachenfelsgrat - Schwerer Gang",
+        null
+    ],
+    "11710604": [
+        "Dragon Crag Spine - Thorns of Stone",
+        null,
+        "암룡의 등지느러미·날카로운 바위 지대",
+        "Échine du dragon des roches - Épines de pierre",
+        "Drachenfelsgrat - Dornen aus Stein",
+        null
+    ],
+    "11710605": [
+        "Dragon Crag Spine - A Friend's Presence",
+        null,
+        "암룡의 등지느러미·친구의 기운",
+        "Échine du dragon des roches - Une présence familière",
+        "Drachenfelsgrat - Eine entdeckte Präsenz",
+        null
+    ],
+    "11710701": [
+        "Ancient Glacier - Consciousness",
+        null,
+        "영겁의 빙하·의식",
+        "Glacier antique - Prise de conscience",
+        "Uralter Gletscher - Gewahr werden",
+        null
+    ],
+    "11710702": [
+        "Ancient Glacier - Frozen River",
+        null,
+        "영겁의 빙하·얼어붙은 하천",
+        "Glacier antique - Rivière gelée",
+        "Uralter Gletscher - Gefrorener Fluss",
+        null
+    ],
+    "11710703": [
+        "Ancient Glacier - Juraga of the Nu Star",
+        null,
+        "영겁의 빙하·십삼성투사 쥬라가",
+        "Glacier antique - Juraga de l'étoile Nu",
+        "Uralter Gletscher - Nu-Stern-Juraga",
+        null
+    ],
+    "11710704": [
+        "Ancient Glacier - Quickening Threat",
+        null,
+        "영겁의 빙하·태동하는 위협",
+        "Glacier antique - Menace pressante",
+        "Uralter Gletscher - Anzeichen einer Bedrohung",
+        null
+    ],
+    "11710705": [
+        "Ancient Glacier - Separate Ways",
+        null,
+        "영겁의 빙하·각자의 길",
+        "Glacier antique - Différentes voies",
+        "Uralter Gletscher - Getrennte Wege",
+        null
+    ],
+    "11710801": [
+        "Militant Town of Moraque - Battle of the Asura Clan",
+        null,
+        "무의의 마을 모라크·아수라 일가 전투",
+        "Moraque, le village de guerriers - Bataille du clan Asura",
+        "Militärdorf von Moraku - Schlacht des Asura-Clans",
+        null
+    ],
+    "11720101": [
+        "The Six Realms",
+        null,
+        "육도의 홍문",
+        "Les six voies",
+        "Die Sechs Reiche",
+        null
+    ],
+    "11720201": [
+        "The Six Realms",
+        null,
+        "육도의 홍문",
+        "Les six voies",
+        "Die Sechs Reiche",
+        null
+    ],
+    "11720301": [
+        "The Six Realms",
+        null,
+        "육도의 홍문",
+        "Les six voies",
+        "Die Sechs Reiche",
+        null
+    ],
+    "11720401": [
+        "The Six Realms",
+        null,
+        "육도의 홍문",
+        "Les six voies",
+        "Die Sechs Reiche",
+        null
+    ],
+    "11720501": [
+        "The Six Realms",
+        null,
+        "육도의 홍문",
+        "Les six voies",
+        "Die Sechs Reiche",
+        null
+    ],
+    "11720601": [
+        "The Six Realms",
+        null,
+        "육도의 홍문",
+        "Les six voies",
+        "Die Sechs Reiche",
+        null
+    ],
+    "11720701": [
+        "Asura's Palace",
+        null,
+        "아수라의 침전",
+        "Le palais d'Asura",
+        "Asuras Palast",
+        null
     ],
     "89911071": [
         "Beasts of the Dark ADV",

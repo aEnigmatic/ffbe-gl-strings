@@ -1,4 +1,12 @@
 {
+    "991E\nMST_RECIPEBOOK_NAME_1000000082": [
+        "Splash of Life",
+        "生命的水花",
+        "생명의 물보라",
+        "Éclaboussure vitale",
+        "Spritzer des Lebens",
+        "Salpicón de vida"
+    ],
     "ABILITY": [
         "ability",
         "能力",
@@ -1311,6 +1319,14 @@
         "Bei der Verarbeitung deiner letzten Bestellung kam es zu einer Unterbrechung, dein Kauf wurde jedoch abgeschlossen und deine Lapis korrekt angerechnet.",
         "Hemos tenido algunas dificultades al tramitar tu última compra, pero la transacción se ha realizado correctamente y hemos abonado los lapis adquiridos en tu cuenta."
     ],
+    "BUY_COIN_END_APPLIED_MSG_GOOGLE": [
+        "There was an interruption while processing your last order, but the purchase has been completed and your lapis has been properly credited.",
+        "前一次的購入手續雖然被中斷了，但是購入程序已經完成。<br>寶石已經正常寄送，請確認。",
+        "이전 주문 처리가 중단되었으나 구매는 완료되었습니다.<br>라피스는 정상적으로 지급되었으니 확인을 부탁드립니다.",
+        "Votre dernière commande a été interrompue, mais votre achat a bien été finalisé et vos lapis ont bien été crédités.",
+        "Bei der Verarbeitung deiner letzten Bestellung kam es zu einer Unterbrechung, dein Kauf wurde jedoch abgeschlossen und deine Lapis korrekt angerechnet.",
+        "Hemos tenido algunas dificultades al tramitar tu última compra, pero la transacción se ha realizado correctamente y hemos abonado los lapis adquiridos en tu cuenta."
+    ],
     "BUY_COIN_END_CANCEL_MSG": [
         "Purchase canceled.",
         "購買處理已取消。",
@@ -1319,7 +1335,23 @@
         "Kauf fehlgeschlagen.",
         "La compra no se ha podido completar."
     ],
+    "BUY_COIN_END_CANCEL_MSG_GOOGLE": [
+        "Purchase canceled.",
+        "購買處理已取消。",
+        "구매 처리가 취소되었습니다.",
+        "Achat annulé.",
+        "Kauf fehlgeschlagen.",
+        "La compra no se ha podido completar."
+    ],
     "BUY_COIN_END_COMP_MSG": [
+        "Purchase complete.",
+        "購買處理已完成。",
+        "구매 처리가 완료되었습니다.",
+        "Achat terminé.",
+        "Kauf abgeschlossen.",
+        "Compra completada."
+    ],
+    "BUY_COIN_END_COMP_MSG_GOOGLE": [
         "Purchase complete.",
         "購買處理已完成。",
         "구매 처리가 완료되었습니다.",
@@ -1351,7 +1383,23 @@
         "Kauf wird abgeschlossen. Bitte warten.",
         "Completando la compra.<br>Espera un momento."
     ],
+    "BUY_COIN_END_MSG_GOOGLE": [
+        "Completing purchase.<br> Please wait.",
+        "購買處理結束。<br>請稍等片刻。",
+        "구매 처리 종료 중입니다.<br>잠시만 기다려주십시오.",
+        "Achat finalisé. Veuillez patienter.",
+        "Kauf wird abgeschlossen. Bitte warten.",
+        "Completando la compra.<br>Espera un momento."
+    ],
     "BUY_COIN_END_NG_MSG": [
+        "Unable to process purchase.",
+        "無法進行購買處理。",
+        "구매 처리를 완료하지 못했습니다.",
+        "Impossible de traiter l'achat.",
+        "Kauf konnte nicht bearbeitet werden.",
+        "No es posible procesar la compra."
+    ],
+    "BUY_COIN_END_NG_MSG_GOOGLE": [
         "Unable to process purchase.",
         "無法進行購買處理。",
         "구매 처리를 완료하지 못했습니다.",
@@ -1375,7 +1423,23 @@
         "Kauf von Lapis wird bearbeitet.<br>Du wirst zum Kaufbildschirm weitergeleitet.",
         "Procesando la compra de lapis.<br>Se te redirigirá a la pantalla de compra."
     ],
+    "BUY_COIN_PURCHASE_RESTART_MSG_GOOGLE": [
+        "Processing lapis purchase.<br>You will be sent to the purchase screen.",
+        "未發現處理中的購買請求。<br>返回購買畫面。",
+        "처리 중인 구매 요청이 있습니다.<br>구매 화면으로 이동합니다.",
+        "Détails de l'achat retrouvé.<br>Vous allez être redirigé(e) vers l'écran d'achat.",
+        "Kauf von Lapis wird bearbeitet.<br>Du wirst zum Kaufbildschirm weitergeleitet.",
+        "Procesando la compra de lapis.<br>Se te redirigirá a la pantalla de compra."
+    ],
     "BUY_COIN_RESTART_MSG": [
+        "Lapis purchase was previously interrupted. Restarting purchase process. Please wait.",
+        "上次寶石購買未結束。<br>再次開始購買處理。",
+        "중단되었던 라피스 구매 처리를<br>재개합니다.",
+        "Le dernier achat de lapis a été interrompu. Procédure d'achat relancée. Veuillez patienter.",
+        "Kauf von Lapis wurde unterbrochen. Kaufprozess wird neu gestartet. Bitte warten.",
+        "La compra de lapis se había interrumpido.<br>Reiniciando el proceso de compra.<br>Espera un momento."
+    ],
+    "BUY_COIN_RESTART_MSG_GOOGLE": [
         "Lapis purchase was previously interrupted. Restarting purchase process. Please wait.",
         "上次寶石購買未結束。<br>再次開始購買處理。",
         "중단되었던 라피스 구매 처리를<br>재개합니다.",
@@ -1398,6 +1462,14 @@
         "Achat en cours. <br>Veuillez patienter.",
         "Kauf wird bearbeitet. <br>Bitte warten.",
         "Procesando la compra.<br>Espera un momento."
+    ],
+    "Blitzresistenz, alle Gegner.": [
+        "Inflige daño de agua a todos los enemigos y reduce su res. al rayo.",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "CASH_BUNDLE_PACK_DESC_1": [
         "Level up your espers and make them stronger now!<br>Items will be sent to your inbox, kupo!",
@@ -2656,12 +2728,12 @@
         "El evento de mejora de equipo ha concluido.<br>Se han anulado las mejoras al haberse excedido el límite de tiempo.<br>Se ha devuelto el equipo que estaba mejorándose a tu inventario."
     ],
     "EQUIP_GROW_FORCE_RETURN_CONFIRM_BODY": [
-        "The equipment enhancement event has ended.<br>Equipment enhancements have been set, and your equipment has been returned to your inventory.",
-        "武具強化活動的活動期間已經結束。<br>裝備品的強化將被固定，並且回到持有裝備欄位內。",
-        "장비 강화 이벤트 기간이 종료되었습니다.<br>장비 강화를 확정하고, 보유 칸으로 되돌립니다.",
-        "L'événement d'amélioration d'équipement a pris fin.<br>Les améliorations d'équipement ont été définies, et votre équipement a été restitué dans votre inventaire.",
-        "Das Ereignis zur Ausrüstungsverbesserung ist beendet.<br>Ausrüstungsverbesserungen wurden festgelegt und deine Ausrüstung wurde in dein Inventar zurückgelegt.",
-        "El evento de mejora de equipo ha concluido.<br>Las mejoras de equipo se han establecido y tus objetos ya están de vuelta en el inventario."
+        "The equipment enhancement event has concluded. Any equipment you were in the midst of enhancing will be reverted to the state it was previously in before your last enhancement attempt.",
+        "武具強化活動已結束。<br>正在強化中的裝備，將會恢復為此次進行強化前的狀態至持有欄中。",
+        "장비 강화 이벤트 기간이 종료되었습니다.<br>강화 중인 장비는 이번 강화를 시작하기 직전의 상태로 보유 칸으로 되돌립니다.",
+        "L'événement d'amélioration d'équipement est maintenant terminé. Tout équipement étant en cours d'amélioration sera renvoyé à son état originel d'avant son amélioration.",
+        "Das Ereignis zur Ausrüstungsverbesserung wurde beendet. Jegliche Ausrüstung, die sich gerade im Prozess der Verbesserung befand, wird in ihren ursprünglichen Zustand zurückversetzt, den sie vor deinem letzten Verbesserungsversuch hatte.",
+        "El evento de mejora de equipo ha concluido. Si tenías equipo aún en proceso de mejora, este se quedará tal como estaba antes del último intento de mejora."
     ],
     "EQUIP_GROW_NOSETTING_ABILITY": [
         "No additional abilities.",
@@ -3046,6 +3118,14 @@
         "Nom objet",
         "Gegenstand-Name",
         "Nombre del objeto"
+    ],
+    "EQUIP_SORT_TYPE_RARE": [
+        "Rarity",
+        "稀有度",
+        "레어도",
+        "Rareté",
+        "Seltenheit",
+        "Rareza"
     ],
     "EQUIP_SORT_TYPE_TYPE": [
         "Type",
@@ -3684,7 +3764,7 @@
         "是否要將所有一般探險替換為%d個新遠征？<br>（信賴遠征計算並不會刷新。）",
         "모든 일반 탐험을 신규 %d개 탐험과 교체하시겠습니까?<br>트러스트 마스터 탐험 횟수는 초기화되지 않습니다.",
         "Échanger toutes les expéditions normales pour %d nouvelles expéditions ?<br>(Le nombre d'expéditions de confiance absolue ne sera pas remis à zéro).",
-        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?br>(Der Zähler für Wahre-Treue-Expeditionen wird nicht aktualisiert.)",
+        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?<br>(Der Zähler für Wahre-Treue-Expeditionen wird nicht aktualisiert.)",
         "¿Quieres intercambiar tus expediciones por %d nueva(s)?<br>(No se restablecerá el número de expediciones de maestro fiel)."
     ],
     "EXPD_REFRESH_POPUP_MSG5": [
@@ -3692,7 +3772,7 @@
         "是否要將所有一般探險替換為%d個新遠征？<br>（莫古利洞窟遠征計算並不會刷新。）",
         "모든 일반 탐험을 신규 %d개 탐험과 교체하시겠습니까?<br>모그리 동굴 탐험 횟수는 초기화되지 않습니다.",
         "Changez toutes les expéditions normales pour %d nouvelles expéditions ?<br>(Le nombre d'expéditions dans la caverne mog ne sera pas rafraîchi.)",
-        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?br>(Der Zähler für Expedition in die Mogryhöhle wird nicht aktualisiert.)",
+        "Alle normalen Expeditionen gegen %d neue Expedition(en) austauschen?<br>(Der Zähler für Expedition in die Mogryhöhle wird nicht aktualisiert.)",
         "¿Quieres intercambiar tus expediciones por %d nueva(s)?<br>(No se restablecerá el número de expediciones a la cueva del moguri)."
     ],
     "EXPD_REFRESH_POPUP_PROMPT_BUY": [
@@ -5303,6 +5383,14 @@
         "Beschwörung bereits vollzogen.",
         "Ya se ha invocado."
     ],
+    "GACHA_LIMIT_OVER_BANNER_TEXT": [
+        "No Summons Remaining",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "GACHA_MULTI": [
         "<color=255:255:0><param=num></color>x Summon",
         "<color=255:255:0><param=num></color>連續",
@@ -5334,6 +5422,46 @@
         "Tickets possédés",
         "Karte in Besitz",
         "Tickets en mano"
+    ],
+    "GACHA_REST_TIME": [
+        "Remaining",
+        "剩餘時間",
+        "남은 시간",
+        "Reste",
+        "Verbleibende Zeit",
+        "Quedan"
+    ],
+    "GACHA_REST_TIME_DATE": [
+        "d",
+        "日",
+        "일",
+        "j",
+        "T",
+        "d"
+    ],
+    "GACHA_REST_TIME_HOUR": [
+        "h",
+        "小時",
+        "시간",
+        "h",
+        "h",
+        "h"
+    ],
+    "GACHA_REST_TIME_MINUTE": [
+        "m",
+        "分",
+        "분",
+        "m",
+        "m",
+        "m"
+    ],
+    "GACHA_REST_TIME_SECOND": [
+        "s",
+        "秒",
+        "초",
+        "s",
+        "s",
+        "s"
     ],
     "GACHA_SCREEN_TIME_LIMITED": [
         "Time Limited",
@@ -5414,6 +5542,14 @@
         "Ticket d'invocation",
         "Kartenbeschwörung",
         "Tickets de Invocación"
+    ],
+    "GACHA_UNIT_DETAIL_NOTICE": [
+        "Unit is at <param=rare>★, max level, with max level limit burst.",
+        "★<param=rare>/Lv.MAX/極限技Lv.MAX的狀態。",
+        "★<param=rare>/레벨 최대치/리미트 버스트 레벨 최대치 상태입니다.",
+        "Unité <param=rare>★ de niveau max avec limite au niveau maximum.",
+        "Einheit auf <param=rare>★, max. Stufe, mit Limitrausch auf max. Stufe.",
+        "La unidad está a <param=rare>★, nivel máximo, con Estallido Límite a nivel máximo."
     ],
     "GATE": [
         "Dimensional Vortex",
@@ -5798,6 +5934,14 @@
         "h",
         "S",
         "h"
+    ],
+    "HOW_TO_PLAY": [
+        "How to Play",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "INFORMATION": [
         "News",
@@ -7079,6 +7223,22 @@
         "Kaktorpaket",
         "Lote de cactilios de metal"
     ],
+    "L_NAME_11703": [
+        "Oblivion",
+        "混沌·D",
+        "카오틱·D",
+        "Chaos",
+        "Chaos-Dimension",
+        "Caos liberado"
+    ],
+    "Les aptitudes Ã©quipÃ©es<br>- Les chimÃ¨res Ã©quipÃ©es<font size=\"4\"> (aptitudes apprises par le deblocage d'emplacements comprises)</font><br>- Bonus de niveau des amis<br><br><font size=\"4\">* Une aptitude ne peut pas augmenter les caractÃ©ristiques d'une unitÃ© au-delÃ  d'une certaine limite.<br><br>* Les bonus de quÃªte ne sont pas pris en compte, car il est nÃ©cessaire d'inclure une unitÃ© qui remplit les conditions de caractÃ©ristiques indiquÃ©es. Vous pouvez accÃ©der aux caractÃ©ristiques indiquÃ©es par une quÃªte en vous rendant dans MENU > UnitÃ©s, et en sÃ©lectionnant une unitÃ©.<br><br>* Vos propres unitÃ©s doivent obtenir les caractÃ©ristiques requises. Les missions ne peuvent Ãªtre accomplies par les unitÃ©s partenaires.</font><br><br><b><font size=\"4\">Avertissement</b><br>La pÃ©riode de mission et la pÃ©riode de rÃ©cupÃ©ration diffÃ¨rent.<br>MÃªme si les conditions sont remplies, <span>la mission sera considÃ©rÃ©e comme non accomplie si vous n'avez pas rÃ©cupÃ©rÃ© vos rÃ©compenses, et vous devrez rejouer aux nouvelles missions</span>.</font><br>": [
+        "<b>Zielwerte erreichen</b><br>Einheitenwerte können durch Folgendes beeinflusst werden:<br>- Basiswerte der Einheit<br>- Limiträusche <font size=\"4\">(Erhöht sich durch Fusionen)</font><br>- Von den Einheiten erlernte Fertigkeiten<br>- Ausgerüstete Waffen<br>- Fertigkeiten, die durch ausgerüstete Waffen aktiviert werden <font size=\"4\">(Einschließlich Waffenverbesserungen)</font><br>- Ausgerüstete Fertigkeiten<br>- Ausgerüstete Esper<font size=\"4\"> (Einschließlich durch das Aufdecken von Kacheln erlernte Fertigkeiten)</font><br>- Freund Lvl Bonusse<br><br><font size=\"4\">* Fertigkeiten können einen Wert nur bis zu einem bestimmten Limit erhöhen.<br><br>* Erhöhungen durch Aufträge werden ignoriert, da eine Einheit, die die Zielwerte erfüllt, in der Gruppe sein muss. Werte, die während eines Auftrags beeinflusst werden, können eingesehen werden, wenn du auf MENÜ > Einheiten gehst und dann auf eine Einheit tippst.<br><br>* Die Zielwerte müssen durch deine eigenen Einheiten erreicht werden. Aufträge können nicht mit begleitenden Einheiten abgeschlossen werden.</font><br><br><b><font size=\"4\">Warnung</b><br>Der Auftragszeitraum und der Abholzeitraum für die Belohnung sind identisch.<br><span>Die Mission wird als unvollendet gewertet, wenn du deine Belohnungen nicht abgeholt hast</span> und selbst wenn die Bedingungen erfüllt sind, <span>wirst du die neu gesetzten Missionen erneut abschließen müssen</span></span>.</font><br>",
+        "<b>Cómo conseguir los parámetros requeridos</b><br>Los parámetros de las unidades se pueden ver afectados por cualquiera de las condiciones de abajo.<br>- Parámetros base de la unidad<br>- Estallidos Límites <font size=\"4\"> (aumentan al fusionar tarros)</font><br>- Habilidades que aprenden las unidades<br>Armas equipadas<br>- Habilidades que se activan al equipar armas<font size=\"4\"> (se incluyen las mejoras de armas)</font><br>- Habilidades equipadas<br>- Espers equipados<font size=\"4\"> (se incluyen las habilidades aprendidas al desbloquear paneles)</font><br>- Las bonificaciones de nivel de amigo<br><br><font size=\"4\">* La cantidad que una habilidad puede potenciar a un parámetro tiene sus límites.<br><br>* Los potenciadores de misión se ignoran, puesto que necesitas contar con una unidad con los parámetros requeridos en tu equipo. Para confirmar los parámetros que hacen falta para una misión, ve a MENÚ > Unidades y, luego, toca en la unidad concreta.<br><br>* Tus unidades tendrán que conseguir los parámetros requeridos. Las misiones no se pueden completar con compañeros (unidades que no sean propias).</font><br><br><b><font size=\"4\">Aviso:</b><br>El periodo de misión y el periodo de intercambio son el mismo.</b><br>Aunque hayas cumplido con todos los objetivos,<span> la misión se contará como incompleta si no reclamas tus recompensas. Además, tendrás que completar de nuevo todas las misiones nuevas que aparezcan</span>.</font><br>",
+        null,
+        null,
+        null,
+        null
+    ],
     "MAGICITE_BUNDLE_OF_ELEMENTS_BUNDLE_DESC": [
         "Unleash the power of your esper allies with this weekly magicite deal, kupo!",
         "快使用魔石特別禮包來解放幻獸的力量吧，庫啵！",
@@ -7110,6 +7270,14 @@
         "Vous ne possédez pas de sorts utilisables.",
         "Du hast keine nutzbare Magie.",
         "No tienes ninguna magia utilizable."
+    ],
+    "MAGIE du lanceur.": [
+        "Fügt einem Gegner  Feuerschaden zu und erhöht eigene MAG.",
+        "Inflige daño de fuego a un enemigo y aumenta la MAG de quien lo usa.",
+        null,
+        null,
+        null,
+        null
     ],
     "MAGI_CHEST_BUNDLE_DESC": [
         "A selection of fine trinkets to protect your magic users!<br>Items will be sent to your message box, kupo!",
@@ -12341,7 +12509,7 @@
         "뭘 팔고 싶은데?",
         "Tu cherches à vendre quelque chose ?",
         "Was möchtest du verkaufen?",
-        "¿Qué quieres vender?"
+        "¿Qué tienes a la venta?"
     ],
     "MST_TOWNSTORE_COMMENT_3": [
         "Come back and see me once you've collected some Global Exchange Tickets, kupo!",
@@ -12663,6 +12831,14 @@
         "Metallkaktorius",
         "Cactilión de metal"
     ],
+    "NAME_91016": [
+        "Regen (Auto)",
+        "再生（自動）",
+        "리제네(AUTO용)",
+        "Récup (auto)",
+        "Regena (auto)",
+        "Revitalia (Auto)"
+    ],
     "NAME_UNKNOWN": [
         "???",
         "？？？",
@@ -12750,6 +12926,118 @@
         "Le coût de cette mission excède votre quantité d'endurance actuelle.<br><color=255:255:0>Continuer ?</color>",
         "Die Energiekosten dieser Mission übersteigen deine momentane Energiekapazität.<br><color=255:255:0>Fortfahren?</color>",
         "El coste de energía de esta misión supera tu capacidad actual.<br><color=255:255:0>¿Continuar?</color>"
+    ],
+    "PARTY_REGISTER_SLOT_CONFIRM_LOAD_CAPTION": [
+        "Would you like to load the party from <color=255:255:0><param=slotname></color> into <param=deckname>?",
+        "要從<color=255:255:0><param=slotname></color> into <param=deckname>讀取隊伍資訊嗎？",
+        "<color=255:255:0><param=slotname></color>의 파티 정보를 <param=deckname>에 불러오시겠습니까?",
+        "Voulez-vous charger le groupe présent dans l'emplacement suivant : <color=255:255:0><param=slotname></color> dans <param=deckname> ?",
+        "Möchtest du eine Gruppe von <color=255:255:0><param=slotname></color> auf <param=deckname> abrufen?",
+        "¿Quieres cargar el grupo desde <color=255:255:0><param=slotname></color> a <param=deckname>?"
+    ],
+    "PARTY_REGISTER_SLOT_CONFIRM_LOAD_DIFF_CAUTION": [
+        "<param=slotname> was loaded, but there is a <color=255:255:0>unit</color> or <color=255:255:0>piece of equipment </color>that differs from when saved.",
+        "已讀取「<param=slotname>」，但是存在著與儲存時不同的<color=255:255:0>兵員</color>或<color=255:255:0>裝備</color>",
+        "'<param=slotname>'을(를) 불러오기했으나, 저장한 정보와는 다른 <color=255:255:0>유닛</color> 또는 <color=255:255:0>장비</color>가 있습니다.",
+        "<param=slotname> a été chargé(e) correctement, mais une <color=255:255:0>unité</color> ou une <color=255:255:0>pièce d'équipement </color>est différente par rapport au moment où le groupe a été sauvegardé.",
+        "<param=slotname> wurde abgerufen, aber es wurde eine  <color=255:255:0>Einheit</color> oder ein <color=255:255:0>Ausrüstungsgegenstand</color> gefunden, der sich vom Zeitpunkt des Speicherns unterscheidet.",
+        "Se ha cargado <param=slotname>, pero hay una <color=255:255:0>unidad</color> o <color=255:255:0>pieza del equipo </color> que ha cambiado desde que guardaste."
+    ],
+    "PARTY_REGISTER_SLOT_CONFIRM_SAVE_CAPTION": [
+        "Would you like to save your party to <color=255:255:0><param=slotname></color>?<br>If there is already data saved, it will be overwritten.",
+        "要將隊伍資訊儲存到<color=255:255:0><param=slotname></color>嗎？如果已經有儲存資料時，該資料將會被覆蓋。",
+        "파티 정보를 <color=255:255:0><param=slotname></color>에 저장하시겠습니까?<br>이미 저장한 정보가 있을 경우, 데이터를 덮어쓰기합니다.",
+        "Voulez-vous sauvegarder votre groupe dans <color=255:255:0><param=slotname></color> ?<br>Si des données sont déjà présentes, elles seront écrasées.",
+        "Möchtest du deine Gruppe auf <color=255:255:0><param=slotname></color> speichern?<br>Wenn dort bereits Daten vorhanden sind, werden diese überschrieben.",
+        "¿Te gustaría guardar tu grupo en <color=255:255:0><param=slotname></color>? Si ya hay datos guardados éstos se perderán."
+    ],
+    "PARTY_REGISTER_SLOT_CONFIRM_UNIT_ARENA_BAN_INCLUDED": [
+        "You have a unit set which is forbidden during the current arena season.<br>Because you have a forbidden unit in slot <param=slotname>, the party could not be loaded.<br>Returning to the party save/load screen.",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARTY_REGISTER_SLOT_CONFIRM_UNIT_NOTHING": [
+        "There were no units that could be loaded from <param=slotname>.<br>Returning to the party save/load screen.",
+        "找不到可以透過「<param=slotname>」讀取的兵員。<br>即將返回讀取隊伍一覽。",
+        "'<param=slotname>'에서 불러올 수 있는 유닛을 찾지 못했습니다.<br>파티 불러오기 목록으로 돌아갑니다.",
+        "Il n'y a aucune unité à charger dans  <param=slotname>.<br>Retour à l'écran de sauvegarde/chargement de groupe.",
+        "Es wurden keine Einheiten gefunden, die von <param=slotname> abgerufen werden können.<br>Kehre zu Gruppenspeicherung/-ladebildschirm zurück.",
+        "No había unidades disponibles en <param=slotname>. Volviendo a la pantalla de guardar/cargar grupo."
+    ],
+    "PARTY_REGISTER_SLOT_LIST_LOAD_SUB_HEADER": [
+        "Load a Party",
+        "讀取隊伍",
+        "파티 불러오기",
+        "Charger un groupe",
+        "Gruppe abrufen",
+        "Carga un grupo"
+    ],
+    "PARTY_REGISTER_SLOT_LIST_LOAD_TITLE": [
+        "Load a Party",
+        "讀取隊伍",
+        "파티 불러오기",
+        "Charger un groupe",
+        "Gruppe abrufen",
+        "Carga un grupo"
+    ],
+    "PARTY_REGISTER_SLOT_LIST_LOAD_TITLE_CAPTION": [
+        "Please choose a slot from which to load a party.",
+        "請選擇讀取隊伍的SLOT",
+        "파티 정보를 불러올 슬롯을 선택해 주십시오.",
+        "Choisissez l'emplacement du groupe que vous voulez charger.",
+        "Bitte wähle einen Slot aus, von dem du eine Gruppe abrufen möchtest.",
+        "Escoge una ranura desde la que cargar a un grupo."
+    ],
+    "PARTY_REGISTER_SLOT_LIST_SAVE_SUB_HEADER": [
+        "Save a Party",
+        "儲存隊伍",
+        "파티 저장하기",
+        "Sauvegarder un groupe",
+        "Gruppe speichern",
+        "Guarda un grupo"
+    ],
+    "PARTY_REGISTER_SLOT_LIST_SAVE_TITLE": [
+        "Save a Party",
+        "儲存隊伍",
+        "파티 저장하기",
+        "Sauvegarder un groupe",
+        "Gruppe speichern",
+        "Guarda un grupo"
+    ],
+    "PARTY_REGISTER_SLOT_LIST_SAVE_TITLE_CAPTION": [
+        "Please choose a slot to save your party.",
+        "請選擇儲存隊伍的SLOT",
+        "파티 정보를 저장할 슬롯을 선택해 주십시오.",
+        "Choisissez un emplacement pour sauvegarder votre groupe.",
+        "Bitte wähle einen Slot aus, auf dem du deine Gruppe speichern möchtest.",
+        "Escoge una ranura para guardar tu grupo"
+    ],
+    "PARTY_REGISTER_SLOT_NAME_BASE": [
+        "SLOT",
+        "SLOT",
+        "슬롯",
+        "EMPLACEMENT",
+        "SLOT",
+        "RANURA"
+    ],
+    "PARTY_REGISTER_SLOT_NUMBER_BASE": [
+        "SLOT #",
+        "SLOTNO.",
+        "슬롯 번호",
+        "EMPLACEMENT #",
+        "SLOT #",
+        "RANURA N.º"
+    ],
+    "PARTY_SLOT_SAVE_CAUTION_TEXT": [
+        "A party loaded from a slot will load the saved <color=255:255:0>units </color>with <color=255:255:0>equipment equipped </color>and <color=255:255:0>espers set.</color><br><color=255:255:0>Selling, awakening, or enhancing units or equipment </color>will cause them to be <color=255:255:0>removed or unequipped </color>when loaded.",
+        "將讀取儲存於SLOT隊伍中的<color=255:255:0>兵員</color>、<color=255:255:0>裝備</color>、<color=255:255:0>幻獸</color>。<br>如果進行了<color=255:255:0>販賣、覺醒、武具強化</color>等行為，將會以<color=255:255:0>被卸除的狀態</color>進行讀取。",
+        "슬롯 내 파티의 <color=255:255:0>유닛</color>, <color=255:255:0>장비</color>, <color=255:255:0>환수</color>를 불러올 수 있습니다.<br><color=255:255:0>판매, 각성, 장비 강화</color> 등이 실행된 경우, <color=255:255:0>해제된 상태</color>로 불러옵니다.",
+        "Charger un groupe depuis un emplacement chargera non seulement<color=255:255:0> les unités </color>mais aussi <color=255:255:0>l'équipement équipé </color>ainsi que <color=255:255:0>les chimères attribuées.</color><br><color=255:255:0> Si vous décidez de vendre, éveiller ou améliorer les unités ou l'équipement, ils seront <color=255:255:0>soit retirés, soit déséquipés</color> une fois chargés.",
+        "Eine von einem Slot abgerufene Gruppe wird die gespeicherten <color=255:255:0>Einheiten </color>samt <color=255:255:0>angelegter Ausrüstung</color>sowie <color=255:255:0>eingestellten Espern</color> abrufen.<br><color=255:255:0>Wenn du die Einheiten verkaufst, erweckst oder verstärkst,</color>werden sie beim Abrufen<color=255:255:0>entfernt</color>.",
+        "El grupo cargado de una ranura traerá a las <color=255:255:0>unidades</color> guardadas con su <color=255:255:0>equipamiento</color> y sus <color=255:255:0>espers.</color><br><color=255:255:0>Vender, despertar o mejorar unidades o equipo</color> hará que <color=255:255:0>se eliminen del grupo o se desequipen</color> al cargarse."
     ],
     "PAYMENT_DIA_SHORTAGE_TITLE": [
         "Not enough paid lapis",
@@ -12887,6 +13175,14 @@
         "Es kann sein, dass deine Zahlung bearbeitet wurde, du aber noch keinen Lapis erhalten hast.<br><br>Erneut versuchen?",
         "Es posible que tu pago se haya procesado pero aún no hayas recibido tus lapis.<br><br>¿Probar de nuevo?"
     ],
+    "PURCHASE_ERROR_SECOND_MSG_GOOGLE": [
+        "There is a possibility that your payment has been processed but you have not yet received your lapis.<br><br>Retry?",
+        "有可能會僅完成購買處理，而未發放寶石。<br><br>是否要重試？",
+        "결제 처리 완료 후 라피스를 수령하지 않았을 가능성이 있습니다.<br><br>다시 시도하시겠습니까?",
+        "Il est possible que le paiement ait été effectué mais que vous n'ayez pas reçu vos lapis.<br><br>Réessayer ?",
+        "Es kann sein, dass deine Zahlung bearbeitet wurde, du aber noch keinen Lapis erhalten hast.<br><br>Erneut versuchen?",
+        "Es posible que tu pago se haya procesado pero aún no hayas recibido tus lapis.<br><br>¿Probar de nuevo?"
+    ],
     "PURCHASE_ERROR_SECOND_TITLE": [
         "Attention!",
         "請注意！",
@@ -12896,6 +13192,14 @@
         "¡Atención!"
     ],
     "PURCHASE_ERROR_THIRD_MSG": [
+        "There is a possibility that your payment has been processed but you have not yet received your lapis.<br><br>Retry?",
+        "有可能會僅完成購買處理，而未發放寶石。<br><br>是否要重試？",
+        "결제 처리 완료 후 라피스를 수령하지 않았을 가능성이 있습니다.<br><br>다시 시도하시겠습니까?",
+        "Il est possible que le paiement ait été effectué mais que vous n'ayez pas reçu vos lapis.<br><br>Réessayer ?",
+        "Es kann sein, dass deine Zahlung bearbeitet wurde, du aber noch keinen Lapis erhalten hast.<br><br>Erneut versuchen?",
+        "Es posible que tu pago se haya procesado pero aún no hayas recibido tus lapis.<br><br>¿Probar de nuevo?"
+    ],
+    "PURCHASE_ERROR_THIRD_MSG_GOOGLE": [
         "There is a possibility that your payment has been processed but you have not yet received your lapis.<br><br>Retry?",
         "有可能會僅完成購買處理，而未發放寶石。<br><br>是否要重試？",
         "결제 처리 완료 후 라피스를 수령하지 않았을 가능성이 있습니다.<br><br>다시 시도하시겠습니까?",
@@ -13121,11 +13425,11 @@
     ],
     "Popup_logout_confirm": [
         "Are you sure you want to log out from <color=255:255:0><param=login_service></color>?This will log you out of your account (The bind status will remain)",
-        "是否確定要從<color=255:255:0><param=login_service></color>登出？",
-        "<color=255:255:0><param=login_service></color>에서 로그아웃하시겠습니까?",
-        "Voulez-vous vraiment vous déconnecter de <color=255:255:0><param=login_service></color> ?",
-        "Willst du dich wirklich von <color=255:255:0><param=login_service></color> abmelden??",
-        "¿Seguro que quieres cerrar sesión de <color=255:255:0><param=login_service></color>?"
+        "是否確定要從<color=255:255:0><param=login_service></color>登出？執行此動作將會從您的帳號中登出（維持綁定狀態）",
+        "<color=255:255:0><param=login_service></color>에서 로그아웃하시겠습니까?이 작업을 수행하면 계정에서 로그아웃됩니다. (연동 상태는 유지됩니다.)",
+        "Voulez-vous vraiment vous déconnecter de <color=255:255:0><param=login_service></color> ?Vous serez déconnectés de votre compte. (Dans le cas d'un réseau social, celui-ci sera toujours associé à votre compte.)",
+        "Willst du dich wirklich von <color=255:255:0><param=login_service></color> abmelden?Dies wird dich aus deinem Account abmelden (der Verknüpfungsstatus bleibt erhalten).",
+        "¿Seguro que quieres cerrar sesión de <color=255:255:0><param=login_service></color>?Esta acción cerrará la sesión de tu cuenta (el estado de vinculación no cambiará)."
     ],
     "QUEST": [
         "Quest",
@@ -14184,12 +14488,12 @@
         "¡Escribe un código de serie para"
     ],
     "SERIALCODE_DETAIL02": [
-        "a special gift!",
-        "特別的禮物",
-        "받을 수 있습니다.",
-        "un cadeau spécial !",
-        "ein spezielles Geschenk zu erhalten!",
-        "recibir un regalo especial!"
+        "You may now claim your gift.",
+        "能夠領取禮物。",
+        "선물을 수령할 수 있습니다.",
+        "Vous pouvez maintenant récupérer votre cadeau.",
+        "Du kannst dein Geschenk nun abholen.",
+        "Ya puedes reclamar tu regalo."
     ],
     "SERIALCODE_RESULT": [
         "Serial code received.",
@@ -16447,6 +16751,14 @@
         "Du hast gestohlen: <br><param=steal_item_name> x<param=steal_item_num>",
         "Has robado:<br><param=steal_item_name> x <param=steal_item_num>"
     ],
+    "ST_AREA_NAME_817": [
+        "Priestess of the Crystalline Waters",
+        "水鏡巫女",
+        "수경의 무녀",
+        "La Prêtresse des eaux cristallines",
+        "Priesterin der Kristallwasser",
+        "Sacerdotisa de las Aguas Cristalinas"
+    ],
     "SUGGEST": [
         "Share",
         "分享",
@@ -16918,6 +17230,14 @@
         "Effacement des données de la ville mise en pause",
         "Unterbrochene Stadtdaten löschen",
         "Borrar datos de ciudad pausada"
+    ],
+    "Spuren der StÃ¤mme 2": [
+        "Rastros de la tribu 2",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "TAB_DAILY_QUEST": [
         "Daily Quest",
@@ -17559,6 +17879,30 @@
         "Downloadgröße: <param=size>",
         "Tamaño de descarga: <param=size>"
     ],
+    "T_BEASTSKILL_DESCRIPTION_11703": [
+        "Dark damage to all enemies",
+        "對全體敵人發動暗屬性攻擊",
+        "적 전체에 어둠속성 피해",
+        "Dégâts de ténèbres sur tous les ennemis",
+        "Dunkelschaden, alle Ziele",
+        "Daño de oscuridad a todos los enemigos"
+    ],
+    "T_BEAST_NAME_18": [
+        "Asura",
+        "阿修羅",
+        "아수라",
+        "Asura",
+        "Asura",
+        "Asura"
+    ],
+    "T_SHOP_NAME_51": [
+        "Coloseum Orb Recovery Potion",
+        "競技場寶珠恢復道具",
+        "투기장 구슬 회복 아이템",
+        "Potion de récupération d'orbe du colisée",
+        "Trank zur Wiederherstellung von Kolosseumsjuwelen",
+        "Poción de recuperación de orbe de Coliseo"
+    ],
     "UNIT": [
         "Units",
         "兵員",
@@ -17934,6 +18278,14 @@
         "<color=255:255:0>Des matériaux qui dépasseraient leur valeur maximale ont été inclus</color>. <br>Tous ceux au-delà de la limite <color=255:255:0>seront effacés</color>. Voulez-vous lancer la fusion ?",
         "<color=255:255:0>Materialien, die den Maximalwert überschreiten,</color> sind mit eingeschlossen. <br>Alle überschrittenen Werte <color=255:255:0>werden gelöscht</color>. Mit Fusion fortfahren?",
         "<color=255:255:0>Materiales que excederán el valor máximo</color> han sido incluídos.<br>Todos valores sobre el límite <color=255:255:0>serán borrados</color>. ¿Quieres continuar con la fusión?"
+    ],
+    "UNIT_MIX_CONFIRM_EXCEEDED_OVER_LIMIT_PARAM": [
+        "<color=255:255:0>Materials that would exceed the maximum stat break value</color> have been included. <br>All exceeded values <color=255:255:0>will be erased</color>. Proceed with fusion?",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "UNIT_MIX_CONFIRM_FINAL_TITLE": [
         "<color=255:255:0>Final Warning!</color>",
@@ -18542,6 +18894,14 @@
         "Jusqu'au <param=endday>",
         "Bis <param=endday>",
         "Hasta <param=endday>"
+    ],
+    "UNTIL_EVENT_END": [
+        "until end of event",
+        "活動結束為止",
+        "이벤트 종료까지",
+        "avant la fin de l'événement",
+        "bis Ereignisende",
+        "hasta el final del evento"
     ],
     "UPDATE_POLICY_CONFIRM": [
         "Terms of Use have been updated.<br>Please read and accept them once more.",
