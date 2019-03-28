@@ -1,12 +1,4 @@
 {
-    "991E\nMST_RECIPEBOOK_NAME_1000000082": [
-        "Splash of Life",
-        "生命的水花",
-        "생명의 물보라",
-        "Éclaboussure vitale",
-        "Spritzer des Lebens",
-        "Salpicón de vida"
-    ],
     "ABILITY": [
         "ability",
         "能力",
@@ -4175,6 +4167,14 @@
         "Hier sind deine Anmeldebelohnungen. Vergiss nicht 1★ Treuemogrys aus deinem Posteingang abzuholen, kupo!",
         "¡Aquí tienes las recompensas de inicio de sesión de hoy! ¡Y no te olvides de los moguris fieles de 1★ en tu bandeja de regalos, kupó!"
     ],
+    "EXPLAIN_REWARD_1023": [
+        "Here are today's login rewards. Don't forget to use your free daily lapis summon, kupo!",
+        "這是今天的登入獎勵！別忘了進行免費的每日寶石召喚，庫啵！",
+        "오늘의 출석 보상쿠포! 무료 일일 라피스 소환을 잊지마쿠포!",
+        "Voici vos récompenses de connexion pour aujourd'hui. N'oubliez pas d'utiliser votre invocation de lapis quotidienne gratuite, kupo !",
+        "Hier sind deine heutigen Anmeldebelohnungen. Vergiss nicht, deine tägliche kostenlose Lapisbeschwörung zu nutzen, kupo!",
+        "Aquí tienes las recompensas de inicio de sesión de hoy. ¡No te olvides de usar tu invocación diaria gratuita de lapis, kupó!"
+    ],
     "EXPLORE_AREA_DETAIL_GET_ITEM_TITLE": [
         "Obtainable Items",
         "獲得素材",
@@ -5385,11 +5385,11 @@
     ],
     "GACHA_LIMIT_OVER_BANNER_TEXT": [
         "No Summons Remaining",
-        null,
-        null,
-        null,
-        null,
-        null
+        "剩餘次數0次",
+        "소환 잔여 횟수 0회",
+        "Aucune invocation restante",
+        "Keine Beschwörungen mehr verfügbar",
+        "No quedan invocaciones"
     ],
     "GACHA_MULTI": [
         "<color=255:255:0><param=num></color>x Summon",
@@ -5600,12 +5600,12 @@
         "¿Desbloquear esta mazmorra por <param=num> lapis?"
     ],
     "GATE_DUNGEON_RELEASE_FIRST": [
-        "Unlock this dungeon?",
-        "是否要<br>開放迷宮？",
-        "던전을 개방합니다.<br>계속하시겠습니까?",
-        "Débloquer ce donjon ?",
-        "Dieses Dungeon freischalten?",
-        "¿Desbloquear esta mazmorra?"
+        "Are you sure you want to unlock this dungeon?<br>*Only one dungeon can be unlocked for free per day and this will be <color=255:255:0>reset the following day.</color>",
+        "即將開放迷宮。<br>確定要開放嗎？<br> <br>免費開放迷宮，每日只能選擇1個迷宮，並且會在<color=255:255:0>隔天重置</color>",
+        "던전을 개방합니다.<br>괜찮으시겠습니까?<br> <br>※ 하루에 1개 던전만 무료로 개방할 수 있으며, <color=255:255:0>다음날 초기화</color>됩니다.",
+        "Voulez-vous vraiment déverrouiller ce donjon ?<br>*Il n'est possible de déverrouiller gratuitement qu'un seul donjon par jour. Cette limite est <color=255:255:0>réinitialisée chaque jour.</color>",
+        "Bist du dir sicher, dass du diesen Dungeon freischalten willst?<br>*Nur ein Dungeon kann täglich gratis freigeschalten werden und dieser wird am<color=255:255:0>folgenden Tag</color> zurückgesetzt werden.",
+        "¿Seguro que quieres desbloquear esta mazmorra?<br>*Solo se puede desbloquear una mazmorra al día gratis. Esta limitación <color=255:255:0>se reiniciará al día siguiente.</color>"
     ],
     "GATE_DUNGEON_RELEASE_SHORTAGE_LAPIS": [
         "You can unlock this dungeon for <param=num> lapis. Do you want to buy some?",
@@ -5650,7 +5650,7 @@
     "GATE_TRAINING_OPEN_LACK_LAPIS": [
         "You can use <param=num> lapis to unlock a dungeon.<br>Purchase lapis?<br><br>Lapis held: <param=lapis_num>",
         "使用<param=num>個寶石，<br>可開放迷宮。<br>是否要購入寶石？<br> <br>持有寶石<param=lapis_num>個",
-        "라피스를 <param=num> 개 사용하여<br>던전을 개방할 수 있습니다.<br>라피스를 구매하시겠습니까?<br> <br>보유 라피스  <param=lapis_num>個",
+        "라피스를 <param=num> 개 사용하여<br>던전을 개방할 수 있습니다.<br>라피스를 구매하시겠습니까?<br> <br>보유 라피스  <param=lapis_num>개",
         "Vous pouvez utiliser <param=num> lapis pour débloquer le donjon.<br>Acheter des lapis?<br><br>Lapis possédés : <param=lapis_num>",
         "Du kannst <param=num> ein Dungeon mit Lapis freischalten.<br>Lapis kaufen?<br><br>Lapis in Besitz: <param=lapis_num>",
         "¿Quieres usar <param=num> lapis<br>para desbloquear la mazmorra?<br>¿Quieres comprar lapis?<br><br>Lapis en mano: <param=lapis_num>"
@@ -5815,6 +5815,70 @@
         "Goldene Truhe der Wärme",
         "Cofre de oro del calor"
     ],
+    "GOOGLEPLAY_SERVICE_DISABLED": [
+        "Google Play services has been disabled on this device.",
+        "此裝置已停用Google Play服務。",
+        "해당 기기에서 Google Play 서비스 사용이 중지되었습니다.",
+        "Les services Google Play ont été désactivés sur cet appareil.",
+        "Die Google Play-Dienste wurden auf diesem Gerät deaktiviert.",
+        "Se ha desactivado la aplicación Google Play Services en este dispositivo."
+    ],
+    "GOOGLEPLAY_SERVICE_INVALID": [
+        "There is an invalid version of Google Play services installed on this device.",
+        "此裝置安裝了無效的Google Play版本。",
+        "해당 기기에 잘못된 Google Play 서비스 버전이 설치되어 있습니다.",
+        "La version des services Google Play installée sur cet appareil est invalide.",
+        "Auf diesem Gerät ist eine nicht-authentische Version der Google Play-Dienste installiert.",
+        "La versión de Google Play Services instalada en este dispositivo no es válida."
+    ],
+    "GOOGLEPLAY_SERVICE_MISSING": [
+        "Google Play services is missing on this device.",
+        "此裝置上找不到Google Play服務。",
+        "해당 기기에서 Google Play 서비스를 찾을 수 없습니다.",
+        "Les services Google Play sont absents de cet appareil.",
+        "Google Play-Dienste sind nicht auf diesem Gerät installiert.",
+        "No se ha encontrado la aplicación Google Play Services en este dispositivo."
+    ],
+    "GOOGLEPLAY_SERVICE_UPDATING": [
+        "Google Play services is currently being updated on this device. Please wait until the update is finished and try again.",
+        "此裝置的Google Play服務正在更新，請等待更新完成後再次嘗試。",
+        "최근 해당 기기에서 Google Play 서비스가 업데이트되고 있습니다. 업데이트가 완료될 때까지 기다렸다가 다시 시도해 주십시오.",
+        "Les services Google Play sont en cours de mise à jour sur cet appareil. Veuillez attendre la fin de la mise à jour avant de réessayer.",
+        "Die Google Play-Dienste werden gegenwärtig auf diesem Gerät aktualisiert. Bitte warte, bis die Aktualisierung abgeschlossen ist und versuche es dann erneut.",
+        "Google Play Services se está actualizando en estos momentos. Espera hasta que termine la actualización y vuelve a intentarlo."
+    ],
+    "GOOGLEPLAY_SERVICE_VERSION_UPDATE_REQUIRED": [
+        "The currently installed version of Google Play services is out of date.",
+        "目前安裝的Google Play版本已經過期。",
+        "최근 설치된 Google Play 서비스 버전이 만료되었습니다.",
+        "La version des services Google Play actuellement installée n'est pas à jour.",
+        "Die installierte Version der Google Play-Dienste ist nicht aktuell.",
+        "La versión de Google Play Services instalada no está actualizada."
+    ],
+    "GOOGLE_SIGN_IN_CANCELLED": [
+        "User canceled the sign-in process.",
+        "使用者取消了登入程序。",
+        "사용자가 로그인 프로세스를 취소했습니다.",
+        "L'utilisateur a interrompu la procédure de connexion.",
+        "Anmeldevorgang wurrde vom Benutzer abgebrochen.",
+        "El usuario ha cancelado el proceso de conexión."
+    ],
+    "GOOGLE_SIGN_IN_CURRENTLY_IN_PROGRESS": [
+        "Google sign-in is currently in progress.",
+        "正在登入Google。",
+        "Google에 로그인하는 중입니다.",
+        "Connexion à Google en cours.",
+        "Die Google-Anmeldung wird gegenwärtig bearbeitet.",
+        "Conectando con Google."
+    ],
+    "GOOGLE_SIGN_IN_FAILED": [
+        "Google sign-in failed.",
+        "Google登入失敗。",
+        "Google 로그인에 실패했습니다.",
+        "Échec de la connexion à Google.",
+        "Die Google-Anmeldung ist fehlgeschlagen.",
+        "Error de conexión con Google."
+    ],
     "General_Popup_Guide_Event": [
         "Events",
         "活動",
@@ -5937,11 +6001,11 @@
     ],
     "HOW_TO_PLAY": [
         "How to Play",
-        null,
-        null,
-        null,
-        null,
-        null
+        "遊玩方式",
+        "게임 방법",
+        "Comment jouer",
+        "So wird gespielt",
+        "Cómo jugar"
     ],
     "INFORMATION": [
         "News",
@@ -7222,14 +7286,6 @@
         "Lot de Pampas",
         "Kaktorpaket",
         "Lote de cactilios de metal"
-    ],
-    "L_NAME_11703": [
-        "Oblivion",
-        "混沌·D",
-        "카오틱·D",
-        "Chaos",
-        "Chaos-Dimension",
-        "Caos liberado"
     ],
     "Les aptitudes Ã©quipÃ©es<br>- Les chimÃ¨res Ã©quipÃ©es<font size=\"4\"> (aptitudes apprises par le deblocage d'emplacements comprises)</font><br>- Bonus de niveau des amis<br><br><font size=\"4\">* Une aptitude ne peut pas augmenter les caractÃ©ristiques d'une unitÃ© au-delÃ  d'une certaine limite.<br><br>* Les bonus de quÃªte ne sont pas pris en compte, car il est nÃ©cessaire d'inclure une unitÃ© qui remplit les conditions de caractÃ©ristiques indiquÃ©es. Vous pouvez accÃ©der aux caractÃ©ristiques indiquÃ©es par une quÃªte en vous rendant dans MENU > UnitÃ©s, et en sÃ©lectionnant une unitÃ©.<br><br>* Vos propres unitÃ©s doivent obtenir les caractÃ©ristiques requises. Les missions ne peuvent Ãªtre accomplies par les unitÃ©s partenaires.</font><br><br><b><font size=\"4\">Avertissement</b><br>La pÃ©riode de mission et la pÃ©riode de rÃ©cupÃ©ration diffÃ¨rent.<br>MÃªme si les conditions sont remplies, <span>la mission sera considÃ©rÃ©e comme non accomplie si vous n'avez pas rÃ©cupÃ©rÃ© vos rÃ©compenses, et vous devrez rejouer aux nouvelles missions</span>.</font><br>": [
         "<b>Zielwerte erreichen</b><br>Einheitenwerte können durch Folgendes beeinflusst werden:<br>- Basiswerte der Einheit<br>- Limiträusche <font size=\"4\">(Erhöht sich durch Fusionen)</font><br>- Von den Einheiten erlernte Fertigkeiten<br>- Ausgerüstete Waffen<br>- Fertigkeiten, die durch ausgerüstete Waffen aktiviert werden <font size=\"4\">(Einschließlich Waffenverbesserungen)</font><br>- Ausgerüstete Fertigkeiten<br>- Ausgerüstete Esper<font size=\"4\"> (Einschließlich durch das Aufdecken von Kacheln erlernte Fertigkeiten)</font><br>- Freund Lvl Bonusse<br><br><font size=\"4\">* Fertigkeiten können einen Wert nur bis zu einem bestimmten Limit erhöhen.<br><br>* Erhöhungen durch Aufträge werden ignoriert, da eine Einheit, die die Zielwerte erfüllt, in der Gruppe sein muss. Werte, die während eines Auftrags beeinflusst werden, können eingesehen werden, wenn du auf MENÜ > Einheiten gehst und dann auf eine Einheit tippst.<br><br>* Die Zielwerte müssen durch deine eigenen Einheiten erreicht werden. Aufträge können nicht mit begleitenden Einheiten abgeschlossen werden.</font><br><br><b><font size=\"4\">Warnung</b><br>Der Auftragszeitraum und der Abholzeitraum für die Belohnung sind identisch.<br><span>Die Mission wird als unvollendet gewertet, wenn du deine Belohnungen nicht abgeholt hast</span> und selbst wenn die Bedingungen erfüllt sind, <span>wirst du die neu gesetzten Missionen erneut abschließen müssen</span></span>.</font><br>",
@@ -9991,6 +10047,14 @@
         "Anima",
         "Ánima"
     ],
+    "MST_BEAST_NAME_18": [
+        "Asura",
+        "阿修羅",
+        "아수라",
+        "Asura",
+        "Asura",
+        "Asura"
+    ],
     "MST_BEAST_NAME_2": [
         "Ifrit",
         "伊弗利特",
@@ -10749,7 +10813,7 @@
         "능력치 상승 계열",
         "Augmentation des caractéristiques",
         "Werte-Erhöhung",
-        "Potenciadores"
+        "Potenciadores de parámetros"
     ],
     "MST_RB_FORBIDDEN_INFO_NAME_11": [
         "Parameter reductions",
@@ -10757,7 +10821,7 @@
         "능력치 감소 계열",
         "Réduction des caractéristiques",
         "Werte-Senkung",
-        "Debilitadores"
+        "Debilitadores de parámetros"
     ],
     "MST_RB_FORBIDDEN_INFO_NAME_12": [
         "Multi-hit physical combos",
@@ -11526,6 +11590,14 @@
         "Paladia, chapitre 6",
         "Paladia - Kapitel 6",
         "Paladia - Capítulo 6"
+    ],
+    "MST_STORY_NAME_16": [
+        "Paladia Chapter 7",
+        "帕拉迪亞 第七章",
+        "파라디아편 제7장",
+        "Paladia, chapitre 7",
+        "Paladia - Kapitel 7",
+        "Paladia - Capítulo 7"
     ],
     "MST_STORY_NAME_2": [
         "Lanzelt",
@@ -12952,20 +13024,20 @@
         "¿Te gustaría guardar tu grupo en <color=255:255:0><param=slotname></color>? Si ya hay datos guardados éstos se perderán."
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_UNIT_ARENA_BAN_INCLUDED": [
-        "You have a unit set which is forbidden during the current arena season.<br>Because you have a forbidden unit in slot <param=slotname>, the party could not be loaded.<br>Returning to the party save/load screen.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "Certain units cannot be used in the current arena.<br>Because you have a forbidden unit in the selected slot, the party could not be loaded.<br>Returning to the party load screen.",
+        "在舉辦中的鬥技場內，設定了無法編成的兵員。<br>在「<param=slotname>」中包含了無法編成的兵員，因此無法讀取。<br>即將返回讀取隊伍一覽。",
+        "현재 개최 중인 결투장에서 편성이 불가능한 유닛이 설정되어 있습니다.<br>'<param=slotname>'에 편성 불가능한 유닛이 포함되어 있어 불러오기가 불가능합니다.<br>파티 불러오기 목록으로 돌아갑니다.",
+        "Certaines unités sont interdites par les règles actuelles de l'arène.<br>Le groupe que vous tentez de charger comprend au moins l'une de ces unités, et par conséquent, il est impossible de l'utiliser.<br>Retour à l'écran de chargement de groupe.",
+        "Bestimmte Einheiten können nicht in der derzeitigen Arena benutzt werden.<br>Die Gruppe konnte nicht abgerufen werden, weil sich eine verbotene Einheit in dem ausgewählten Slot befindet.<br>Kehre zu Gruppenspeicherung/-ladebildschirm zurück.",
+        "Algunas unidades no se pueden usar en esta Arena.<br>No se ha podido cargar el grupo porque tenías una dichas unidades en la ranura seleccionada.<br>Volviendo a la pantalla de cargar grupo."
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_UNIT_NOTHING": [
-        "There were no units that could be loaded from <param=slotname>.<br>Returning to the party save/load screen.",
+        "There were no units that could be loaded from <param=slotname>.<br>Returning to the party load screen.",
         "找不到可以透過「<param=slotname>」讀取的兵員。<br>即將返回讀取隊伍一覽。",
         "'<param=slotname>'에서 불러올 수 있는 유닛을 찾지 못했습니다.<br>파티 불러오기 목록으로 돌아갑니다.",
-        "Il n'y a aucune unité à charger dans  <param=slotname>.<br>Retour à l'écran de sauvegarde/chargement de groupe.",
+        "Il n'y a aucune unité à charger dans <param=slotname>.<br>Retour à l'écran de chargement de groupe.",
         "Es wurden keine Einheiten gefunden, die von <param=slotname> abgerufen werden können.<br>Kehre zu Gruppenspeicherung/-ladebildschirm zurück.",
-        "No había unidades disponibles en <param=slotname>. Volviendo a la pantalla de guardar/cargar grupo."
+        "No había unidades disponibles en <param=slotname>. Volviendo a la pantalla de cargar grupo."
     ],
     "PARTY_REGISTER_SLOT_LIST_LOAD_SUB_HEADER": [
         "Load a Party",
@@ -13030,6 +13102,14 @@
         "EMPLACEMENT #",
         "SLOT #",
         "RANURA N.º"
+    ],
+    "PARTY_SLOT_LOAD_CAUTION_TEXT": [
+        "A party loaded from a slot will load the saved <color=255:255:0>units </color>with <color=255:255:0>equipment equipped </color>and <color=255:255:0>espers set.</color><br><color=255:255:0>Selling, awakening, or enhancing units or equipment </color>will cause them to be <color=255:255:0>removed or unequipped </color>when loaded.",
+        "將讀取儲存於SLOT隊伍中的<color=255:255:0>兵員</color>、<color=255:255:0>裝備</color>、<color=255:255:0>幻獸</color>。<br>如果進行了<color=255:255:0>販賣、覺醒、武具強化</color>等行為，將會以<color=255:255:0>被卸除的狀態</color>進行讀取。",
+        "슬롯 내 파티의 <color=255:255:0>유닛</color>, <color=255:255:0>장비</color>, <color=255:255:0>환수</color>를 불러올 수 있습니다.<br><color=255:255:0>판매, 각성, 유닛 또는 장비 강화</color> 등이 실행된 경우, <color=255:255:0>해제된 상태</color>로 불러옵니다.",
+        "Charger un groupe depuis un emplacement chargera non seulement<color=255:255:0> les unités </color>mais aussi <color=255:255:0>l'équipement équipé </color>ainsi que <color=255:255:0>les chimères attribuées.</color><br><color=255:255:0> Si vous décidez de vendre, d'éveiller ou d'améliorer les unités ou l'équipement, ils seront <color=255:255:0>soit retirés, soit déséquipés</color> une fois chargés.",
+        "Eine von einem Slot abgerufene Gruppe wird die gespeicherten <color=255:255:0>Einheiten </color>samt <color=255:255:0>angelegter Ausrüstung</color>sowie <color=255:255:0>eingestellten Espern</color> abrufen.<br><color=255:255:0>Wenn du die Einheiten verkaufst, erweckst oder verstärkst,</color>werden sie beim Abrufen<color=255:255:0>entfernt</color>.",
+        "El grupo cargado de una ranura traerá a las <color=255:255:0>unidades</color> guardadas con su <color=255:255:0>equipamiento</color> y sus <color=255:255:0>espers.</color><br><color=255:255:0>Vender, despertar o mejorar unidades o equipo</color> hará que <color=255:255:0>se eliminen del grupo o se desequipen</color> al cargarse."
     ],
     "PARTY_SLOT_SAVE_CAUTION_TEXT": [
         "A party loaded from a slot will load the saved <color=255:255:0>units </color>with <color=255:255:0>equipment equipped </color>and <color=255:255:0>espers set.</color><br><color=255:255:0>Selling, awakening, or enhancing units or equipment </color>will cause them to be <color=255:255:0>removed or unequipped </color>when loaded.",
@@ -13270,6 +13350,14 @@
         "Vous avez choisi de ne vous connecter à aucun compte.<br>Si vous choisissez de vous connecter via un compte de réseau social, votre progression sera sauvegardée, et ce, même si vous changez d'appareil.<br>Continuer ?",
         "Du hast dich dazu entschlossen, kein Konto zu verknüpfen. <b> Wenn du ein Konto deiner Social Media zur Verknüpfung auswählst, geht dein Fortschritt nicht verloren, wenn du Geräte wechselst.<br>Willst du fortfahren?",
         "Has elegido no conectarte con ninguna cuenta.<br>Si eliges una de tus redes sociales para conectarte, no perderás tu progreso al cambiar de dispositivo.<br>¿Quieres continuar?"
+    ],
+    "Pop_Up_Account_Binding_Confirm": [
+        "You are about to connect your current Guest account to a social media account.<br><br>Do you want to proceed?",
+        "即將把您的訪客帳號連結至社群媒體帳號。<br><br>要繼續嗎？",
+        "현재 이용 중인 Guest 계정을 소셜 미디어 계정에 연동하려고 합니다.<br><br>진행하시겠습니까?",
+        "Vous êtes sur le point d'associer votre compte invité actuel à un compte de réseau social.<br><br>Continuer ?",
+        "Du bist im Begriff, dein gegenwärtiges Gastkonto mit einem Social-Media-Konto zu verknüpfen.<br><br>Möchtest du fortfahren?",
+        "Vas a conectar tu cuenta de invitado a una red social.<br><br>¿Continuar?"
     ],
     "Pop_Up_Account_Binding_Currently_Logged_Into": [
         "Currently logged into: <param=login_service>",
@@ -14256,12 +14344,12 @@
         "¿Ver un vídeo para girar?"
     ],
     "REWARD_SUMMON_TITLE": [
-        "Spring Rewards Wheel",
-        "春季獎勵輪盤",
-        "봄맞이 보상 룰렛",
-        "Roue des récompenses de printemps",
-        "Belohnungsrad des Frühlings",
-        "Ruleta de recompensas de primavera"
+        "Rewards Wheel",
+        "獎勵輪盤",
+        "보상 룰렛",
+        "Roue des récompenses",
+        "Belohnungsrad",
+        "Ruleta de recompensas"
     ],
     "REWARD_SUMMON_TITLE2": [
         "Rewards Obtain",
@@ -14344,12 +14432,12 @@
         "Pergamino del vigor"
     ],
     "SEARCH_ITEM_MISSION_NOTHING": [
-        "There are no quests available from which to obtain this item.<br>Only quests that have been cleared will be searched from.<br>There is a chance this item can be obtained from the dimensional vortex or a limited event.",
-        "世界地圖內沒有能獲得該素材的任務。<br>檢索範圍為劇情進行完畢的世界地圖內的任務。<br>很可能是在次元夾縫或限時活動中獲得的素材。",
-        "월드맵 내에서 획득할 수 있는 퀘스트가 없습니다.<br>검색 대상은 시나리오 진행이 완료된 월드맵 내의 퀘스트입니다.<br>차원의 틈새나 기간 한정 이벤트에서 획득할 가능성이 있습니다.",
-        "Il n'existe aucune quête où obtenir cet objet.<br>La recherche ne peut s'effectuer qu'à partir des quêtes déjà terminées. <br>Il est possible qu'il soit obtenable dans le Vortex dimensionnel ou lors d'un événement à durée limitée.",
-        "Es sind keine Aufträge verfügbar, um diesen Gegenstand zu erlangen.<br>Es wird nur in bereits abgeschlossenen Aufträgen gesucht.<br>Womöglich kannst du diesen Gegenstand im Dimensionsvortex oder bei einem zeitlich begrenzten Ereignis erhalten.",
-        "No existen misiones disponibles en las que se pueda obtener este objeto.<br>La búsqueda se ha realizado solo en misiones ya completadas.<br>Es posible que este objeto esté disponible en la Grieta Interdimensional o en un evento limitado."
+        "There are currently no available quests on the world map.<br>Available quests can be unlocked by advancing the story.",
+        "現在世界地圖內沒有能獲得該素材的任務。<br>隨著故事進行，將會追加可獲得該素材的任務。",
+        "현재 월드맵 내에 이용 가능한 퀘스트가 없습니다.<br>스토리를 진행하면 이용 가능한 퀘스트가 개방됩니다.",
+        "Aucune quête n'est disponible sur la carte du monde à l'heure actuelle.<br>Vous pouvez débloquer les quêtes disponibles en progressant dans l'histoire du jeu.",
+        "Derzeit sind keine Aufträge auf der Weltkarte verfügbar<br>Verfügbare Aufträge können freigeschalten werden, indem du in der Story fortschreitest.",
+        "No hay misiones disponibles en el mapa del mundo en estos momentos.<br>Se pueden desbloquear al avanzar en la historia."
     ],
     "SEASON_EVENT_REWARD_MAIL_MSG": [
         "We would like to present you with the following reward for having reached the targeted points during raid event.",
@@ -16751,14 +16839,6 @@
         "Du hast gestohlen: <br><param=steal_item_name> x<param=steal_item_num>",
         "Has robado:<br><param=steal_item_name> x <param=steal_item_num>"
     ],
-    "ST_AREA_NAME_817": [
-        "Priestess of the Crystalline Waters",
-        "水鏡巫女",
-        "수경의 무녀",
-        "La Prêtresse des eaux cristallines",
-        "Priesterin der Kristallwasser",
-        "Sacerdotisa de las Aguas Cristalinas"
-    ],
     "SUGGEST": [
         "Share",
         "分享",
@@ -17230,14 +17310,6 @@
         "Effacement des données de la ville mise en pause",
         "Unterbrochene Stadtdaten löschen",
         "Borrar datos de ciudad pausada"
-    ],
-    "Spuren der StÃ¤mme 2": [
-        "Rastros de la tribu 2",
-        null,
-        null,
-        null,
-        null,
-        null
     ],
     "TAB_DAILY_QUEST": [
         "Daily Quest",
@@ -17879,22 +17951,6 @@
         "Downloadgröße: <param=size>",
         "Tamaño de descarga: <param=size>"
     ],
-    "T_BEASTSKILL_DESCRIPTION_11703": [
-        "Dark damage to all enemies",
-        "對全體敵人發動暗屬性攻擊",
-        "적 전체에 어둠속성 피해",
-        "Dégâts de ténèbres sur tous les ennemis",
-        "Dunkelschaden, alle Ziele",
-        "Daño de oscuridad a todos los enemigos"
-    ],
-    "T_BEAST_NAME_18": [
-        "Asura",
-        "阿修羅",
-        "아수라",
-        "Asura",
-        "Asura",
-        "Asura"
-    ],
     "T_SHOP_NAME_51": [
         "Coloseum Orb Recovery Potion",
         "競技場寶珠恢復道具",
@@ -18273,7 +18329,7 @@
     ],
     "UNIT_MIX_CONFIRM_EXCEEDED_EXT_PARAM": [
         "<color=255:255:0>Materials that would exceed the maximum value</color> have been included. <br>All exceeded values <color=255:255:0>will be erased</color>. Proceed with fusion?",
-        "<color=255:255:0>包含了超過極限突破最大值的</color>素材。<br>超過最大值的數值<color=255:255:0>將被去除。</color>是否要繼續進行合成？",
+        "合成素材中包含了<color=255:255:0>超出極限突破最大值</color>的素材。<br>超過最大值的數值將會<color=255:255:0>被捨去</color>。是否要繼續進行合成？",
         "<color=255:255:0>한계돌파 최대치를 초월하는</color> 재료가 포함되어 있습니다.<br>최대치를 초월한 수치는<color=255:255:0> 소멸됩니다.</color> 이대로 합성을 진행하시겠습니까?",
         "<color=255:255:0>Des matériaux qui dépasseraient leur valeur maximale ont été inclus</color>. <br>Tous ceux au-delà de la limite <color=255:255:0>seront effacés</color>. Voulez-vous lancer la fusion ?",
         "<color=255:255:0>Materialien, die den Maximalwert überschreiten,</color> sind mit eingeschlossen. <br>Alle überschrittenen Werte <color=255:255:0>werden gelöscht</color>. Mit Fusion fortfahren?",
@@ -18281,11 +18337,11 @@
     ],
     "UNIT_MIX_CONFIRM_EXCEEDED_OVER_LIMIT_PARAM": [
         "<color=255:255:0>Materials that would exceed the maximum stat break value</color> have been included. <br>All exceeded values <color=255:255:0>will be erased</color>. Proceed with fusion?",
-        null,
-        null,
-        null,
-        null,
-        null
+        "合成素材中包含了<color=255:255:0>超出界限突破上限解放最大值</color>的素材。<br>超過最大值的數值將會<color=255:255:0>被捨去</color>。<br> <br>是否進行合成？",
+        "<color=255:255:0>한계 돌파 최대치를 초과하는</color> 재료가 포함되어 있습니다.<br>최대치를 초과하는 수치는<color=255:255:0> 소멸됩니다.</color> 이대로 합성을 진행하시겠습니까?",
+        "<color=255:255:0>Des matériaux qui vous ferait dépasser la limite de caractéristiques</color> ont été inclus. <br>Les points de caractéristique en excédent <color=255:255:0>seront supprimés</color>. Continuer ?",
+        "Deine Auswahl enthält <color=255:255:0>Materialien, die den Wert für die max. Status-Freischaltung überschreiten würden</color>. <br>Alle überschüssigen Werte <color=255:255:0>werden gelöscht</color>. Mit Fusion fortfahren?",
+        "Se han incluido <color=255:255:0>materiales que exceden el valor máximo de incremento de parámetros</color>.<br><color=255:255:0>Se eliminarán</color> todos los valores que excedan dicho límite. ¿Continuar con la fusión?"
     ],
     "UNIT_MIX_CONFIRM_FINAL_TITLE": [
         "<color=255:255:0>Final Warning!</color>",
@@ -18360,12 +18416,12 @@
         "Puedes conseguir <color=255:255:0>un moguri especial (50% a todos)</color> como <color=255:255:0>recompensa especial</color> cuando fusiones por primera vez tu unidad base de 7★ con otra idéntica a ella.<br><br>Esta fusión cuenta para <color=255:255:0>la recompensa especial</color>.<br>¿Quieres continuar con la fusión?"
     ],
     "UNIT_MIX_CONFIRM_RARE": [
-        "<color=255:255:0>One or more <param=rare>★ or rarer non-enhancer units have been selected as material units. They will <color=255: 0: 0>disappear</color> upon fusion.<br>Fuse anyway?",
-        "所選兵員中包含<color=255:255:0>★<param=rare>以上</color>的非強化素材兵員。<br>進行合成的話素材兵員將會<color=255:0:0>消失</color>。<br>是否要進行合成？",
-        "<color=255:255:0>★<param=rare> 이상의</color> 강화 재료가 아닌 유닛이 재료 유닛으로 선택되었습니다.<br>합성하면 재료 유닛은 <color=255:0:0>소멸</color>됩니다.<br>합성하시겠습니까?",
-        "<color=255:255:0>Une ou plusieurs unités <param=rare>★ ou plus qui ne sont pas censées servir de matériaux de fusion ont été sélectionnées. Elles <color=255: 0: 0>disparaîtront</color> après la fusion.<br>Continuer ?",
-        "<color=255:255:0>Eine oder mehr <param=rare>★ oder seltene, nicht verstärkende Einheiten wurden als Materialeinheiten ausgewählt. Sie <color=255: 0: 0>verschwinden</color> bei der Fusion.<br>Fusionieren?",
-        "<color=255:255:0>Hay una o más unidades de <param=rare>★ o más seleccionadas como unidades materiales. <color=255: 0: 0>Desaparecerán</color> con la fusión.<br>¿Fusionar de todos modos?"
+        "You have chosen a unit of rarity <color=255:255:0>3★ or above</color> as a strengthening material.<br>Material units will <color=255:0:0>disappear</color> upon fusion.<br> <br><color=255:255:0>Fusing a unit of the same name as a strengthening material will not awaken it to 7★.</color><br> <br>Are you sure you want to fuse the chosen unit(s)?",
+        "所選兵員中包含<color=255:255:0>★<param=rare>以上</color>的非強化素材兵員。<br>進行合成的話素材兵員將會<color=255:0:0>消失</color>。<br> <br><color=255:255:0>使用同名兵員進行合成，也不會讓兵員覺醒至★7。</color><br> <br>確定要進行合成嗎？",
+        "<color=255:255:0>★3 이상의</color> 유닛이 강화 재료로 선택되었습니다.<br>합성하면 재료 유닛은 <color=255:0:0>소멸</color>됩니다.<br> <br><color=255:255:0>강화 재료로 동일한 이름의 유닛을 합성해도 유닛이 ★7으로 각성되지 않습니다.</color><br> <br>선택한 유닛을 정말로 합성하시겠습니까?",
+        "Vous avez choisi une unité <color=255:255:0>3★ ou supérieure</color> en tant que matériau d'amélioration.<br>Les unités utilisées comme matériaux <color=255:0:0>disparaîtront</color> après la fusion.<br> <br><color=255:255:0>Fusionner une unité avec une autre du même nom ne suffit pas à l'éveiller au rang 7★.</color><br> <br>Voulez-vous vraiment fusionner ces unités ?",
+        "Du hast eine Einheit mit der Seltenheit<color=255:255:0>3★ oder höher</color> als Verstärkungsmaterial ausgewählt.<br>Materialeinheiten <color=255:0:0>verschwinden</color>nach der Fusion.<br> <br><color=255:255:0>Wenn du eine Einheit als Verstärkungsmaterial benutzt, um sie mit einer Einheit desselben Namens zu fusionieren, wird diese nicht auf 7★ erweckt..</color><br> <br>Bist du sicher, dass du die gewählte(n) Einheit(en) fusionieren willst?",
+        "Has elegido una unidad de rareza <color=255:255:0>3★ o superior</color> como material de mejora.<br>Las unidades que uses como material <color=255:0:0>desaparecerán</color> tras la fusión.<br> <br><color=255:255:0>Fusionar una unidad con el mismo nombre que la del material de mejora no hará que despierte a 7★.</color><br> <br>¿Seguro que quieres fusionar la(s) unidad(es) seleccionada(s)?"
     ],
     "UNIT_MIX_CONFIRM_SUPER_TRUST_OVER": [
         "Materials that would <color=255:255:0>exceed the super trust maximum value</color> have been included.<br>The amount exceeded<color=255:255:0> will be lost</color>.<br><br>Proceed with fusion?",
@@ -18385,7 +18441,7 @@
     ],
     "UNIT_MIX_CONFIRM_TRUST_OVER": [
         "<color=255:255:0>Materials that would exceed the maximum trust value</color> have been included. <br>All exceeded values <color=255:255:0>will be erased</color>. Proceed with fusion?",
-        "<color=255:255:0>含有超越信賴度最大值的</color>素材。<br>超過最大值的數值<color=255:255:0>將被去除。</color><br>是否要繼續進行合成？",
+        "合成素材中包含了<color=255:255:0>超出信賴度最大值</color>的素材。<br>超過最大值的數值將會<color=255:255:0>被捨去</color>。<br>是否要繼續進行合成？",
         "<color=255:255:0>트러스트 최대 수치를 초월하는</color> 재료가 포함되어 있습니다.<br>최대치를 초월한 수치는<color=255:255:0> 소멸됩니다.</color><br>이대로 합성을 진행하시겠습니까?",
         "<color=255:255:0>Des matériaux qui dépasseraient leur valeur de confiance maximale ont été inclus</color>. <br>Tous ceux au-delà de la limite <color=255:255:0>seront effacés</color>. Voulez-vous lancer la fusion ?",
         "<color=255:255:0>Materialien, die den Maximalwert überschreiten,</color> sind mit eingeschlossen. <br>Alle überschrittenen Werte <color=255:255:0>werden gelöscht</color>. Mit Fusion fortfahren?",
@@ -19102,14 +19158,6 @@
         "Carte d'embarquement de Zalgabaath",
         "Zalgabaaths Bordkarte",
         "Tarjeta de embarque de Zargabaath"
-    ],
-    "a\nMST_QUEST_NAME_1042001": [
-        "Gears for Reparations",
-        "修理用的齒輪",
-        "수리용 톱니바퀴",
-        "Gears pour réparations",
-        "Zahnräder für die Reparatur",
-        "Herramientas de reparación"
     ],
     "arena_pn": [
         "Your arena orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",

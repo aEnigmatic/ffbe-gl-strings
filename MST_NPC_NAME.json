@@ -2739,7 +2739,7 @@
         "Gloomy Child of Hess's Wife",
         "陰鬱的赫斯之子的妻子",
         "그늘진 헤스의 아이들의 아내",
-        "Femme de l'Enfant de Hess morose",
+        "Épouse de l'Enfant de Hess morose",
         "Düsteres Kind von Hess' Ehefrau",
         "Esposa del hijo de Hess deprimido"
     ],
@@ -2803,9 +2803,17 @@
         "Child of Hess Support Supervisor",
         "赫斯之子支援負責人",
         "헤스의 아이들 지원 담당",
-        "Enfant de Hess superviseur",
+        "Enfant de Hess administrateur",
         "Kind von Hess Unterstützungs-Aufseher",
-        "Supervisor de apoyo de los Hijos de Hess"
+        "Hijo de Hess administrativo"
+    ],
+    "1700011": [
+        "Asura Clan Youngling",
+        "阿修羅一家的年輕人",
+        "아수라 일가의 청년",
+        "Jeune homme du clan Asura",
+        "Junger Mann des Asura-Klans",
+        "Joven del clan Asura"
     ],
     "2003010": [
         "Note of the Crow",
@@ -2982,6 +2990,14 @@
         "Rain (enfant)",
         "Rain (Kind)",
         "Rain (niño)"
+    ],
+    "100000120": [
+        "Rain",
+        "雷因（無武器）",
+        "레인(무기 없음)",
+        "Rain",
+        "Rain",
+        "Rain"
     ],
     "100000210": [
         "Lasswell (child)",
@@ -3738,7 +3754,7 @@
     "100007710": [
         "Juraga of the Nu Star",
         "十三鬥星玖拉迦",
-        "십삼성투사 쥬라가",
+        "십삼성투사 쥬라가(가면 없음)",
         "Juraga de l'étoile Nu",
         "Nu-Stern-Juraga",
         "Juraga de la estrella Nu"
@@ -3746,7 +3762,7 @@
     "100007750": [
         "Juraga of the Nu Star",
         "十三鬥星玖拉迦",
-        "십삼성투사 쥬라가",
+        "십삼성투사 쥬라가(달림)",
         "Juraga de l'étoile Nu",
         "Nu-Stern-Juraga",
         "Juraga de la estrella Nu"
@@ -4666,7 +4682,7 @@
     "100017100": [
         "Mirfas",
         "米爾法斯",
-        "릴파스",
+        "밀파스",
         "Mirfas",
         "Mirfas",
         "Mirfas"
@@ -4674,7 +4690,7 @@
     "100017150": [
         "Mirfas",
         "米爾法斯",
-        "밀파스",
+        "밀파스(달림)",
         "Mirfas",
         "Mirfas",
         "Mirfas"
@@ -4774,6 +4790,78 @@
         "Majora",
         "Majora",
         "Majora"
+    ],
+    "100018600": [
+        "Kyanos",
+        "青駭鳥",
+        "키아노스",
+        "Kyanos",
+        "Kyanos",
+        "Kyanos"
+    ],
+    "100018700": [
+        "Heavenly Maiden",
+        "天女",
+        "천녀",
+        "Nymphe céleste",
+        "Elysische Maid",
+        "Doncella divina"
+    ],
+    "100018800": [
+        "Preta",
+        "餓鬼",
+        "아귀",
+        "Famélique",
+        "Preta",
+        "Preta"
+    ],
+    "100018900": [
+        "Moth",
+        "蛾",
+        "나방",
+        "Papillon de nuit",
+        "Motte",
+        "Polilla"
+    ],
+    "100019000": [
+        "The Obliterating Star",
+        "絕皇星",
+        "절황성투사",
+        "Étoile primordiale",
+        "Der Vernichtende Stern",
+        "Estrella Fulminación"
+    ],
+    "100019200": [
+        "The Absolute Star",
+        "極皇星",
+        "극황성투사",
+        "Étoile absolue",
+        "Der Absolute Stern",
+        "Estrella Totalidad"
+    ],
+    "100019400": [
+        "The True Star",
+        "真皇星",
+        "진황성투사",
+        "Étoile véritable",
+        "Der Wahre Stern",
+        "Estrella Verdad"
+    ],
+    "100019600": [
+        "Kagane",
+        "花芽音",
+        "카가네",
+        "Kagane",
+        "Kagane",
+        "Kagane"
+    ],
+    "100019700": [
+        "Emperor Vlad",
+        "武拉德皇帝",
+        "블라드 황제",
+        "Empereur Vlad",
+        "Imperator Vlad",
+        "Emperador Vlad"
     ],
     "200100120": [
         "Grandshelt Soldier",
@@ -5967,6 +6055,86 @@
         "Kind von Hess (6)",
         "Hija de Hess (3)"
     ],
+    "200108000": [
+        "Moraque Youth 1",
+        "莫拉克青年1",
+        "모라크의 청년 1",
+        "Jeune homme de Moraque 1",
+        "Junger Mann aus Moraque 1",
+        "Joven de Moraque 1"
+    ],
+    "200108010": [
+        "Moraque Youth 2",
+        "莫拉克青年2",
+        "모라크의 청년 2",
+        "Jeune homme de Moraque 2",
+        "Junger Mann aus Moraque 2",
+        "Joven de Moraque 2"
+    ],
+    "200108100": [
+        "Moraque Adult",
+        "莫拉克中年",
+        "모라크의 중년",
+        "Homme de Moraque",
+        "Mann aus Moraque",
+        "Hombre de Moraque"
+    ],
+    "200108200": [
+        "Moraque Boy",
+        "莫拉克男孩",
+        "모라크의 남자아이",
+        "Garçon de Moraque",
+        "Junge aus Moraque",
+        "Niño de Moraque"
+    ],
+    "200108300": [
+        "Moraque Woman 1",
+        "莫拉克女性1",
+        "모라크의 여자 1",
+        "Femme de Moraque 1",
+        "Frau aus Moraque 1",
+        "Mujer de Moraque 1"
+    ],
+    "200108310": [
+        "Moraque Woman 2",
+        "莫拉克女性2",
+        "모라크의 여자 2",
+        "Femme de Moraque 2",
+        "Frau aus Moraque 2",
+        "Mujer de Moraque 2"
+    ],
+    "200108400": [
+        "Moraque Lady",
+        "莫拉克大嬸",
+        "모라크의 아주머니",
+        "Dame de Moraque",
+        "Feine Dame aus Moraque",
+        "Dama de Moraque"
+    ],
+    "200108500": [
+        "Moraque Girl",
+        "莫拉克女孩",
+        "모라크의 여자아이",
+        "Fille de Moraque",
+        "Mädchen aus Moraque",
+        "Chica de Moraque"
+    ],
+    "200108600": [
+        "Samurai-like Man",
+        "武士風貌的男人（新）",
+        "사무라이 풍의 남자(신)",
+        "Homme aux airs de samouraï",
+        "Mann mit Flair eines Samurai",
+        "Hombre con aspecto de samurái"
+    ],
+    "900101110": [
+        "Crystallized Rat",
+        "水晶化的魔物（鼠系）",
+        "크리스탈화한 마물(시궁쥐 계열)",
+        "Rat cristallisé",
+        "Kristallisierte Ratte",
+        "Rata cristalizada"
+    ],
     "900102800": [
         "FF2 Soldier",
         "FF2士兵",
@@ -5974,6 +6142,14 @@
         "Soldat de FF II",
         "Soldat (FF2)",
         "Soldado FFII"
+    ],
+    "900103710": [
+        "Crystallized Bomb",
+        "水晶化的魔物（爆彈系）",
+        "크리스탈화한 마물(봄 계열)",
+        "Bombo cristallisé",
+        "Kristallierter Bomber",
+        "Bom cristalizado"
     ],
     "900105200": [
         "Giant Malboro",

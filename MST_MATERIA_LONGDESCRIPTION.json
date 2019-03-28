@@ -1769,7 +1769,7 @@
     ],
     "504204930": [
         "Boosts physical damage inflicted to plants, beasts, dragons, and avian and aquatic monsters.",
-        "物理攻擊時提高對植物、鳥、獸、水生、龍系的傷害。",
+        "物理攻擊時提高對植物鳥獸水生龍系的傷害。",
         "물리 공격 시 식물, 조류, 짐승, 수중, 드래곤형 마물에게 부여하는 피해량이 상승합니다.",
         "Augmente les dégâts physiques contre les monstres de type plante, oiseau, bête, aquatique et dragon",
         "Mehr physischer Schaden gegen Pflanzen, Vögel, Bestien, Wasser- und Drachenmonster.",
@@ -3912,7 +3912,7 @@
         "Aumenta la resistencia al fuego, hielo y rayo un 30%."
     ],
     "504227930": [
-        "Boosts HP by 50%, boost SPR by 30%, and adds chance of restoring own MP when receiving a magic attack. Not stackable.",
+        "Boosts HP by 50% and SPR by 30%, and adds chance of restoring own MP when receiving a magic attack. Not stackable.",
         "提高50%HP、30%精神，受到魔法攻擊時一定機率恢復自身的MP。",
         "HP가 50%, 정신력이 30% 상승하고, 마법 공격을 받으면 일정 확률로 자신의 MP를 회복합니다. (중복 장착 불가)",
         "Augmente les PV de 50%, la PSY de 30%, et confère une chance de restaurer les PM du lanceur après avoir subi une attaque magique. Non cumulable.",
@@ -4087,6 +4087,70 @@
         "Erhöht ANG um 40% und erhöht physischen Schaden gegen Pflanzen um 50%.",
         "Aumenta el ATQ un 40% y el daño físico contra plantas un 50% (no acumulable)"
     ],
+    "504228691": [
+        "Boosts ATK by 20%.",
+        "提高20%攻擊。",
+        "공격력이 20% 상승합니다.",
+        "Augmente l'ATT de 20 %.",
+        "Erhöht ANG um 20%.",
+        "Aumenta el ATQ un 20%"
+    ],
+    "504228692": [
+        "Boosts MAG by 20%.",
+        "提高20%魔力。",
+        "마력이 20% 상승합니다.",
+        "Augmente la MAGIE de 20%.",
+        "Erhöht MAG um 20%.",
+        "Aumenta la MAG un 20%"
+    ],
+    "504228693": [
+        "Boosts ATK and DEF by 20%, restores MP every turn, and boosts ATK by 30% when equipped with clothes. Not stackable.",
+        "提高20%攻擊防禦，每回合恢復MP，裝備衣服時提高30%攻擊。",
+        "공격력과 방어력이 20% 상승하고, 전투 중 매 턴마다 MP가 회복하며, 옷 장착 시 공격력이 30% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT et la DEF de 20%, restaure les PM à chaque tour, et augmente l'ATT de 30% lorsque des vêtements sont équipés. Non cumulable.",
+        "Erhöht ANG und ABW um 20%, regeneriert jede Runde MP und erhöht ANG um 30%, wenn mit Kleidung ausgerüstet. Nicht stapelbar.",
+        "Aumenta el ATQ y la DEF un 20%, recupera los PM cada turno y aumenta el ATQ un 30% al llevar ropa (no acumulable)"
+    ],
+    "504228694": [
+        "Boosts fire, water, wind, and earth resistance by 60% and boosts MAG by 60% when equipped with a rod. Not stackable.",
+        "提高60%火水風土屬性耐性，裝備魔棒時提高60%魔力。",
+        "불, 물, 바람, 땅속성 저항력이 60% 상승하고, 홀장 장착 시 마력이 60% 상승합니다. (중복 장착 불가)",
+        "Augmente la résistance au feu, à l'eau, au vent et à la terre de 60%, et augmente la MAGIE de 60% lorsqu'un sceptre est équipé. Non cumulable.",
+        "Erhöht Feuer-, Wasser-, Wind- und Erdresistenz um 60% und erhöht MAG um 60%, wenn mit einer Rute ausgerüstet. Nicht stapelbar.",
+        "Aumenta la resistencia a fuego, agua, viento y tierra un 60%, y aumenta la MAG un 60% al llevar vara (no acumulable)"
+    ],
+    "504228695": [
+        "Boosts MAG by 40% and restores MP every turn.",
+        "提高40%魔力，每回合恢復MP。",
+        "마력이 40% 상승하고, 전투 중 매 턴마다 MP를 회복합니다.",
+        "Augmente la MAGIE de 40% et restaure les PM à chaque tour.",
+        "Erhöht MAG um 40% und regeneriert jede Runde MP.",
+        "Aumenta la MAG un 40% y recupera los PM cada turno"
+    ],
+    "504228696": [
+        "Boosts HP, ATK, and DEF by 15%.",
+        "提高15%HP、攻擊防禦。",
+        "HP, 공격력, 방어력이 15% 상승합니다.",
+        "Augmente les PV, l'ATT et la DEF de 15%.",
+        "Erhöht LP, ANG und ABW um 15%.",
+        "Aumenta VIT, ATQ y DEF un 15%"
+    ],
+    "504228697": [
+        "Boosts wind and earth resistance by 10%.",
+        "提高10%風土屬性耐性。",
+        "바람과 땅속성 저항력이 10% 상승합니다.",
+        "Augmente la résistance au vent et à la terre de 10%.",
+        "Erhöht Wind- und Erdresistenz um 10%.",
+        "Aumenta la resistencia al viento y a la tierra un 10%"
+    ],
+    "504228699": [
+        "Boosts ATK by 60%, boosts LB gauge fill rate, and boosts physical and magic damage against machina monsters. Not stackable.",
+        "提高60%攻擊，提高極限技石對極限技槽的增加量，物理、魔法攻擊時提高對機械系魔物的傷害。",
+        "공격력이 60% 상승하고, LB 게이지 효율이 상승하며, 물리, 마법 공격 시 기계형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de 60%, augmente le taux de remplissage de la jauge de limite, et augmente les dégâts physiques et magiques contre les machines. Non cumulable.",
+        "Erhöht ANG um 60%, Limitmeter füllt sich schneller und erhöht physischen und magischen Schaden gegen Maschinen. Nicht stapelbar.",
+        "Aumenta el ATQ un 60%, la barra de EL se llena más rápido y aumenta el daño físico y mágico contra máquinas (no acumulable)"
+    ],
     "504228860": [
         "Boosts HP and MP by 20%, and boosts ATK by 50% when equipped with a large sword.",
         "提高20%HPMP，裝備大劍時提高50%攻擊。",
@@ -4206,6 +4270,14 @@
         "Augmente le taux de remplissage des pierres de limite. Pas cumulable.",
         "Verstärkt den Effekt von Limitsteinen. Nicht stapelbar.",
         "Las piedras de estallido recuperarán más EL. No acumulable."
+    ],
+    "504230005": [
+        "Boost ATK by 30% and boost LB damage.",
+        "提高30%攻擊、提高極限技的傷害。",
+        "공격력이 30% 상승하고 LB 피해량이 상승합니다.",
+        "Augmente l'ATT de 30% et les dégâts de la limite",
+        "Erhöht ANG um 30% und erhöht Schaden von Limitrausch.",
+        "Aumenta el ATQ un 30% y aumenta el daño del EL"
     ],
     "504230010": [
         "Boosts ATK by 40% when equipped with a sword, katana, or spear, boosts physical and magic damage against humans, and enables or not to [B]e. Not stackable.",
