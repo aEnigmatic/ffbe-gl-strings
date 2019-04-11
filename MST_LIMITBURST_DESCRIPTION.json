@@ -800,7 +800,7 @@
         "Daño oscuro a un enemigo"
     ],
     "100003202": [
-        "Reduce own DEF next turn, boost normal attack power, and increase power with consecutive use",
+        "Reduce own DEF next turn, boost normal attack power, and power up with consecutive use",
         "下一回合降低自身的防禦，提高「普通攻擊」的威力+連續使用時威力上升",
         "다음 턴에 자신의 방어력 감소+일반 공격 위력 상승+연속 사용 시 위력 상승",
         "Réduit la DEF du lanceur au tour suivant, augmente la puissance des attaques normales et augmente en puissance en l'utilisant de manière consécutive",
@@ -808,7 +808,7 @@
         "Reduce la DEF del usuario al turno sig., aumenta la potencia de los ataques normales y aumenta la potencia con el uso consecutivo"
     ],
     "100003203": [
-        "Reduce own DEF next turn, boost normal attack power, and increase power with consecutive use",
+        "Reduce own DEF next turn, boost normal attack power, and power up with consecutive use",
         "下一回合降低自身的防禦，提高「普通攻擊」的威力+連續使用時威力上升",
         "다음 턴에 자신의 방어력 감소+일반 공격 위력 상승+연속 사용 시 위력 상승",
         "Réduit la DEF du lanceur au tour suivant, augmente la puissance des attaques normales et augmente en puissance en l'utilisant de manière consécutive",
@@ -1480,7 +1480,7 @@
         "Aumenta la DEF del usuario y reduce el daño que reciben los aliados durante un turno"
     ],
     "100006204": [
-        "Partial unmitigated magic damage to one enemy",
+        "Deal partial unmitigated magic damage to one enemy",
         "對1名敵人發動無視魔法防禦的攻擊",
         "적 1명에게 일부 마법 방어 무시 피해",
         "Inflige des dégâts magiques en partie fixes à un ennemi",
@@ -1488,7 +1488,7 @@
         "Daño mágico absoluto parcial al enemigo"
     ],
     "100006205": [
-        "Partial unmitigated magic damage to one enemy",
+        "Deal partial unmitigated magic damage to one enemy",
         "對1名敵人發動無視魔法防禦的攻擊",
         "적 1명에게 일부 마법 방어 무시 피해",
         "Inflige des dégâts magiques en partie fixes à un ennemi",
@@ -1496,7 +1496,7 @@
         "Daño mágico absoluto parcial al enemigo"
     ],
     "100006206": [
-        "Partial unmitigated magic damage to one enemy",
+        "Deal partial unmitigated magic damage to one enemy",
         "對1名敵人發動無視魔法防禦的攻擊",
         "적 1명에게 일부 마법 방어 무시 피해",
         "Inflige des dégâts magiques en partie fixes à un ennemi",
@@ -4390,6 +4390,78 @@
         "Inflige des dégâts, réduit la résistance aux éléments feu, foudre, eau et vent de tous les ennemis et restaure progressivement les PM du lanceur",
         "Fügt allen Gegnern Schaden zu und verringert ihre Feuer-, Blitz-, Wasser- und Windresistenz und regeneriert allmählich MP für Benutzer.",
         "Daña a todos los enemigos y reduce su resistencia a fuego, rayo, agua y viento, y recupera los PM del usuario poco a poco"
+    ],
+    "100020605": [
+        "Damage all enemies and boost ATK and DEF for all allies",
+        "攻擊全體敵人+提高全體隊員的攻擊防禦",
+        "적 전체에 피해+아군 전체의 공격력과 방어력 상승",
+        "Inflige des dégâts à tous les ennemis et augmente l'ATT et la DEF de tous les alliés",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG und ABW für alle Verbündeten.",
+        "Daña a todos los enemigos y aumenta el ATQ y la DEF de todos los aliados"
+    ],
+    "100020606": [
+        "Damage all enemies and boost ATK and DEF for all allies",
+        "攻擊全體敵人+提高全體隊員的攻擊防禦",
+        "적 전체에 피해+아군 전체의 공격력과 방어력 상승",
+        "Inflige des dégâts à tous les ennemis et augmente l'ATT et la DEF de tous les alliés",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG und ABW für alle Verbündeten.",
+        "Daña a todos los enemigos y aumenta el ATQ y la DEF de todos los aliados"
+    ],
+    "100020607": [
+        "Damage all enemies and boost ATK and DEF for all allies",
+        "攻擊全體敵人+提高全體隊員的攻擊防禦",
+        "적 전체에 피해+아군 전체의 공격력과 방어력 상승",
+        "Inflige des dégâts à tous les ennemis et augmente l'ATT et la DEF de tous les alliés",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG und ABW für alle Verbündeten.",
+        "Daña a todos los enemigos y aumenta el ATQ y la DEF de todos los aliados"
+    ],
+    "100020704": [
+        "Damage one enemy and boost own ATK and DEF",
+        "攻擊1名敵人+提高自身的攻擊防禦",
+        "적 1명에게 피해+자신의 공격력과 방어력 상승",
+        "Inflige des dégâts à un ennemi et augmente l'ATT et la DEF du lanceur",
+        "Fügt einem Gegner Schaden zu und erhöht ANG und ABW des Benutzers.",
+        "Daña a un enemigo y aumenta el ATQ y la DEF del usuario"
+    ],
+    "100020705": [
+        "Damage one enemy and boost own ATK and DEF",
+        "攻擊1名敵人+提高自身的攻擊防禦",
+        "적 1명에게 피해+자신의 공격력과 방어력 상승",
+        "Inflige des dégâts à un ennemi et augmente l'ATT et la DEF du lanceur",
+        "Fügt einem Gegner Schaden zu und erhöht ANG und ABW des Benutzers.",
+        "Daña a un enemigo y aumenta el ATQ y la DEF del usuario"
+    ],
+    "100020706": [
+        "Damage one enemy and boost own ATK and DEF",
+        "攻擊1名敵人+提高自身的攻擊防禦",
+        "적 1명에게 피해+자신의 공격력과 방어력 상승",
+        "Inflige des dégâts à un ennemi et augmente l'ATT et la DEF du lanceur",
+        "Fügt einem Gegner Schaden zu und erhöht ANG und ABW des Benutzers.",
+        "Daña a un enemigo y aumenta el ATQ y la DEF del usuario"
+    ],
+    "100020803": [
+        "Restore HP and gradually restore HP for one ally",
+        "恢復1名隊員的HP+持續恢復HP",
+        "아군 1명의 HP 회복+HP 서서히 회복",
+        "Soigne les PV d'un allié puis soigne progressivement ses PV",
+        "Regeneriert LP und regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera la VIT y recupera la VIT de un aliado poco a poco"
+    ],
+    "100020804": [
+        "Restore HP and gradually restore HP for one ally",
+        "恢復1名隊員的HP+持續恢復HP",
+        "아군 1명의 HP 회복+HP 서서히 회복",
+        "Soigne les PV d'un allié puis soigne progressivement ses PV",
+        "Regeneriert LP und regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera la VIT y recupera la VIT de un aliado poco a poco"
+    ],
+    "100020805": [
+        "Restore HP and gradually restore HP for one ally",
+        "恢復1名隊員的HP+持續恢復HP",
+        "아군 1명의 HP 회복+HP 서서히 회복",
+        "Soigne les PV d'un allié puis soigne progressivement ses PV",
+        "Regeneriert LP und regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera la VIT y recupera la VIT de un aliado poco a poco"
     ],
     "201000104": [
         "Deal light damage to all enemies",
@@ -7360,7 +7432,7 @@
         "Daña a un enemigo"
     ],
     "215000505": [
-        "Partial unmitigated fire magic damage and reduce fire resistance for one enemy",
+        "Deal partial unmitigated fire magic damage and reduce fire resistance for one enemy",
         "對1名敵人發動火屬性無視部分魔法防禦的攻擊+降低火屬性耐性",
         "적 1명에게 불속성 일부 마법 방어 무시 피해+불속성 저항력 감소",
         "Dégâts magiques de feu en partie fixes et réduit la résistance au feu d'un ennemi",
@@ -7368,7 +7440,7 @@
         "Daño absoluto parcial mágico y de fuego, y reduce la resistencia al fuego de un enemigo"
     ],
     "215000506": [
-        "Partial unmitigated fire magic damage and reduce fire resistance for one enemy",
+        "Deal partial unmitigated fire magic damage and reduce fire resistance for one enemy",
         "對1名敵人發動火屬性無視部分魔法防禦的攻擊+降低火屬性耐性",
         "적 1명에게 불속성 일부 마법 방어 무시 피해+불속성 저항력 감소",
         "Dégâts magiques de feu en partie fixes et réduit la résistance au feu d'un ennemi",
@@ -7376,7 +7448,7 @@
         "Daño absoluto parcial mágico y de fuego, y reduce la resistencia al fuego de un enemigo"
     ],
     "215000507": [
-        "Partial unmitigated fire magic damage and reduce fire resistance for one enemy",
+        "Deal partial unmitigated fire magic damage and reduce fire resistance for one enemy",
         "對1名敵人發動火屬性無視部分魔法防禦的攻擊+降低火屬性耐性",
         "적 1명에게 불속성 일부 마법 방어 무시 피해+불속성 저항력 감소",
         "Dégâts magiques de feu en partie fixes et réduit la résistance au feu d'un ennemi",
@@ -7944,7 +8016,7 @@
         "Daña a un enemigo y reduce el daño que recibe el usuario durante 2 turnos"
     ],
     "254000105": [
-        "Partial unmitigated magic damage to one enemy",
+        "Deal partial unmitigated magic damage to one enemy",
         "對1名敵人發動無視部份魔法防禦的攻擊",
         "적 1명에게 일부 마법 방어 무시 피해",
         "Dégâts magiques en partie fixes sur un ennemi",
@@ -7952,7 +8024,7 @@
         "Daño mágico absoluto parcial al enemigo"
     ],
     "254000106": [
-        "Partial unmitigated magic damage to one enemy",
+        "Deal partial unmitigated magic damage to one enemy",
         "對1名敵人發動無視部份魔法防禦的攻擊",
         "적 1명에게 일부 마법 방어 무시 피해",
         "Dégâts magiques en partie fixes sur un ennemi",
@@ -7960,7 +8032,7 @@
         "Daño mágico absoluto parcial al enemigo"
     ],
     "254000107": [
-        "Partial unmitigated magic damage to one enemy",
+        "Deal partial unmitigated magic damage to one enemy",
         "對1名敵人發動無視部份魔法防禦的攻擊",
         "적 1명에게 일부 마법 방어 무시 피해",
         "Dégâts magiques en partie fixes sur un ennemi",
@@ -8544,7 +8616,7 @@
         "Inflige daño físico y reduce la DEF a un enemigo y recupera los PM del usuario"
     ],
     "302001004": [
-        "Fire magic damage and reduce fire resistance for all enemies",
+        "Deal fire magic damage and reduce fire resistance for all enemies",
         "對全體敵人發動火屬性魔法攻擊+降低火屬性耐性",
         "적 전체에 불속성 마법 피해+불속성 저항력 감소",
         "Dégâts magiques de feu et réduit la résistance de tous les ennemis",
@@ -8552,7 +8624,7 @@
         "Daño mágico de fuego y reduce la resistencia al fuego a enemigos"
     ],
     "302001005": [
-        "Fire magic damage and reduce fire resistance for all enemies",
+        "Deal fire magic damage and reduce fire resistance for all enemies",
         "對全體敵人發動火屬性魔法攻擊+降低火屬性耐性",
         "적 전체에 불속성 마법 피해+불속성 저항력 감소",
         "Dégâts magiques de feu et réduit la résistance de tous les ennemis",
@@ -8560,7 +8632,7 @@
         "Daño mágico de fuego y reduce la resistencia al fuego a enemigos"
     ],
     "302001006": [
-        "Fire magic damage and reduce fire resistance for all enemies",
+        "Deal fire magic damage and reduce fire resistance for all enemies",
         "對全體敵人發動火屬性魔法攻擊+降低火屬性耐性",
         "적 전체에 불속성 마법 피해+불속성 저항력 감소",
         "Dégâts magiques de feu et réduit la résistance de tous les ennemis",
@@ -8984,7 +9056,7 @@
         "Aumenta resistencia a ven, ceg, sil, par, con, enf y pie, y más probabilidad de ser atacado"
     ],
     "306000905": [
-        "Critical damage to one enemy",
+        "Deal critical damage to one enemy",
         "對1名敵人發動暴擊攻擊",
         "적 1명에게 크리티컬 피해",
         "Coup critique sur un ennemi",
@@ -8992,7 +9064,7 @@
         "Daño crítico a un enemigo"
     ],
     "306000906": [
-        "Critical damage to one enemy",
+        "Deal critical damage to one enemy",
         "對1名敵人發動暴擊攻擊",
         "적 1명에게 크리티컬 피해",
         "Coup critique sur un ennemi",
@@ -9000,7 +9072,7 @@
         "Daño crítico a un enemigo"
     ],
     "306000907": [
-        "Critical damage to one enemy",
+        "Deal critical damage to one enemy",
         "對1名敵人發動暴擊攻擊",
         "적 1명에게 크리티컬 피해",
         "Coup critique sur un ennemi",
@@ -10184,7 +10256,7 @@
         "Daño de luz a todos los enemigos"
     ],
     "401000904": [
-        "Lightning, light, and dark magic damage to all enemies",
+        "Deal lightning, light, and dark magic damage to all enemies",
         "對全體敵人發動雷光暗屬性魔法攻擊",
         "적 전체에 번개, 빛, 어둠속성 마법 피해",
         "Dégâts de foudre, de lumière et de ténèbres sur tous les ennemis",
@@ -10192,7 +10264,7 @@
         "Daño mágico de rayo, luz y oscuridad a todos los enemigos"
     ],
     "401000905": [
-        "Lightning, light, and dark magic damage to all enemies",
+        "Deal lightning, light, and dark magic damage to all enemies",
         "對全體敵人發動雷光暗屬性魔法攻擊",
         "적 전체에 번개, 빛, 어둠속성 마법 피해",
         "Dégâts de foudre, de lumière et de ténèbres sur tous les ennemis",
@@ -10384,7 +10456,7 @@
         "Inflige daño físico y reduce la DEF a un enemigo"
     ],
     "401001804": [
-        "Magic damage to one enemy and boost MAG for caster",
+        "Deal magic damage to one enemy and boost MAG for caster",
         "對1名敵人發動魔法攻擊+提高自身的魔力",
         "적 1명에게 마법 피해+자신의 마력 상승",
         "Inflige des dégâts magiques sur un ennemi et augmente la MAGIE du lanceur",
@@ -10392,7 +10464,7 @@
         "Inflige daño mágico a un enemigo y aumenta la MAG propia"
     ],
     "401001805": [
-        "Magic damage to one enemy and boost MAG for caster",
+        "Deal magic damage to one enemy and boost MAG for caster",
         "對1名敵人發動魔法攻擊+提高自身的魔力",
         "적 1명에게 마법 피해+자신의 마력 상승",
         "Inflige des dégâts magiques sur un ennemi et augmente la MAGIE du lanceur",
@@ -10400,7 +10472,7 @@
         "Inflige daño mágico a un enemigo y aumenta la MAG propia"
     ],
     "401001806": [
-        "Magic damage to one enemy and boost MAG, and enable a special ability for two turns for caster",
+        "Deal magic damage to one enemy and boost MAG, and enable a special ability for two turns for caster",
         "對1名敵人發動魔法攻擊+提高自身的魔力+2回合內可以使用特殊能力",
         "적 1명에게 마법 피해+자신의 마력 상승+2턴 동안 특정 어빌리티 사용 가능",
         "Inflige des dégâts magiques sur un ennemi, augmente la MAGIE et permet au lanceur d'utiliser une aptitude spéciale pendant deux tours",
@@ -10448,7 +10520,7 @@
         "Daño mágico a todos los enemigos y aumenta la MAG del próximo ataque"
     ],
     "401002007": [
-        "Magic damage to all enemies and boost caster's magic damage once next turn",
+        "Deal magic damage to all enemies and boost caster's magic damage once next turn",
         "對全體敵人發動魔法攻擊+下一回合提高魔力",
         "적 전체에 마법 피해+다음 턴에 자신의 마법 피해량 1회 상승",
         "Dégâts magiques sur tous les ennemis et augmente la MAGIE pour l'attaque suivante",
@@ -11280,7 +11352,7 @@
         "Daña a todos los enemigos y reduce su resistencia al agua"
     ],
     "401005905": [
-        "Magic damage to all enemies, reduce damage taken for two turns and restore HP and MP for caster",
+        "Deal magic damage to all enemies, reduce damage taken for two turns and restore HP and MP for caster",
         "對全體敵人發動魔法攻擊+2回合內減少對自身的傷害+恢復自身的HPMP",
         "적 전체에 마법 피해+2턴 동안 자신이 받는 피해량 감소+HP와 MP 회복",
         "Dégâts magiques à tous les ennemis, réduit les dégâts reçus pendant deux tours et restaure les PV et les PM du lanceur",
@@ -11288,7 +11360,7 @@
         "Inflige daño mágico a todos los enemigos, reduce el daño que se recibe durante 2 turnos y recupera la VIT y los PM del usuario"
     ],
     "401005906": [
-        "Magic damage to all enemies, reduce damage taken for two turns and restore HP and MP for caster",
+        "Deal magic damage to all enemies, reduce damage taken for two turns and restore HP and MP for caster",
         "對全體敵人發動魔法攻擊+2回合內減少對自身的傷害+恢復自身的HPMP",
         "적 전체에 마법 피해+2턴 동안 자신이 받는 피해량 감소+HP와 MP 회복",
         "Dégâts magiques à tous les ennemis, réduit les dégâts reçus pendant deux tours et restaure les PV et les PM du lanceur",
@@ -11296,7 +11368,7 @@
         "Inflige daño mágico a todos los enemigos, reduce el daño que se recibe durante 2 turnos y recupera la VIT y los PM del usuario"
     ],
     "401005907": [
-        "Magic damage to all enemies, reduce damage taken for two turns and restore HP and MP for caster",
+        "Deal magic damage to all enemies, reduce damage taken for two turns and restore HP and MP for caster",
         "對全體敵人發動魔法攻擊+2回合內減少對自身的傷害+恢復自身的HPMP",
         "적 전체에 마법 피해+2턴 동안 자신이 받는 피해량 감소+HP와 MP 회복",
         "Dégâts magiques à tous les ennemis, réduit les dégâts reçus pendant deux tours et restaure les PV et les PM du lanceur",
@@ -11424,7 +11496,7 @@
         "Daño a todos los enemigos y aprende Megadestello durante 2 turnos"
     ],
     "401006505": [
-        "Fire magic damage and reduce fire resistance to all enemies",
+        "Deal fire magic damage and reduce fire resistance to all enemies",
         "對全體敵人發動火屬性魔法攻擊+降低火屬性耐性",
         "적 전체에 불속성 마법 피해+불속성 저항력 감소",
         "Dégâts magiques de feu et réduit la résistance au feu de tous les ennemis",
@@ -11432,7 +11504,7 @@
         "Daño mágico de fuego y reduce la resistencia al fuego de todos los enemigos"
     ],
     "401006506": [
-        "Fire magic damage and reduce fire resistance to all enemies",
+        "Deal fire magic damage and reduce fire resistance to all enemies",
         "對全體敵人發動火屬性魔法攻擊+降低火屬性耐性",
         "적 전체에 불속성 마법 피해+불속성 저항력 감소",
         "Dégâts magiques de feu et réduit la résistance au feu de tous les ennemis",
@@ -11440,7 +11512,7 @@
         "Daño mágico de fuego y reduce la resistencia al fuego de todos los enemigos"
     ],
     "401006507": [
-        "Fire magic damage and reduce fire resistance to all enemies",
+        "Deal fire magic damage and reduce fire resistance to all enemies",
         "對全體敵人發動火屬性魔法攻擊+降低火屬性耐性",
         "적 전체에 불속성 마법 피해+불속성 저항력 감소",
         "Dégâts magiques de feu et réduit la résistance au feu de tous les ennemis",
@@ -11496,7 +11568,7 @@
         "Daño físico y mágico a un enemigo y aumenta el ESP y el ATQ del usuario"
     ],
     "900000017": [
-        "Partial unmitigated magic damage and reduce SPR for one enemy",
+        "Deal partial unmitigated magic damage and reduce SPR for one enemy",
         "對1名敵人發動無視部份魔法防禦的攻擊，並降低精神。",
         "적 1명에게 일부 마법 방어 무시 피해+정신력 감소",
         "Dégâts magiques en partie fixes et réduit la PSY d'un ennemi",
@@ -11568,7 +11640,7 @@
         "Daño absoluto parcial y reduce ATQ y MAG de los enemigos y reduce el daño recibido a los aliados (tres turnos)"
     ],
     "900000107": [
-        "Partial unmitigated fire magic damage and reduce fire, ice, lightning resistance for one enemy, and enable enhancement - fire, enhancement - ice, and enhance - lightning for one turn",
+        "Deal partial unmitigated fire magic damage and reduce fire, ice, lightning resistance for one enemy, and enable enhancement - fire, enhancement - ice, and enhance - lightning for one turn",
         "對1名敵人發動火屬性無視部分魔法防禦的攻擊+降低火冰雷屬性耐性+1回合內可使用「屬性附加・火」「屬性附加・冰」「屬性附加・雷」",
         "적 1명에게 불속성 일부 마법 방어 무시 피해+불, 얼음, 번개속성 저항력 감소+1턴 동안 '인핸스·불', '인핸스·얼음', 인핸스·번개' 사용 가능",
         "Dégâts magiques de feu en partie fixes et réduit la résistance au feu, à la glace et à la foudre d'un ennemi. Permet d'utiliser Enchantement - Feu, Enchantement - Glace et Enchantement - Foudre pendant 1 tour",
