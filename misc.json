@@ -7127,14 +7127,6 @@
         "Kaktorpaket",
         "Lote de cactilios de metal"
     ],
-    "Les aptitudes Ã©quipÃ©es<br>- Les chimÃ¨res Ã©quipÃ©es<font size=\"4\"> (aptitudes apprises par le deblocage d'emplacements comprises)</font><br>- Bonus de niveau des amis<br><br><font size=\"4\">* Une aptitude ne peut pas augmenter les caractÃ©ristiques d'une unitÃ© au-delÃ  d'une certaine limite.<br><br>* Les bonus de quÃªte ne sont pas pris en compte, car il est nÃ©cessaire d'inclure une unitÃ© qui remplit les conditions de caractÃ©ristiques indiquÃ©es. Vous pouvez accÃ©der aux caractÃ©ristiques indiquÃ©es par une quÃªte en vous rendant dans MENU > UnitÃ©s, et en sÃ©lectionnant une unitÃ©.<br><br>* Vos propres unitÃ©s doivent obtenir les caractÃ©ristiques requises. Les missions ne peuvent Ãªtre accomplies par les unitÃ©s partenaires.</font><br><br><b><font size=\"4\">Avertissement</b><br>La pÃ©riode de mission et la pÃ©riode de rÃ©cupÃ©ration diffÃ¨rent.<br>MÃªme si les conditions sont remplies, <span>la mission sera considÃ©rÃ©e comme non accomplie si vous n'avez pas rÃ©cupÃ©rÃ© vos rÃ©compenses, et vous devrez rejouer aux nouvelles missions</span>.</font><br>": [
-        "<b>Zielwerte erreichen</b><br>Einheitenwerte können durch Folgendes beeinflusst werden:<br>- Basiswerte der Einheit<br>- Limiträusche <font size=\"4\">(Erhöht sich durch Fusionen)</font><br>- Von den Einheiten erlernte Fertigkeiten<br>- Ausgerüstete Waffen<br>- Fertigkeiten, die durch ausgerüstete Waffen aktiviert werden <font size=\"4\">(Einschließlich Waffenverbesserungen)</font><br>- Ausgerüstete Fertigkeiten<br>- Ausgerüstete Esper<font size=\"4\"> (Einschließlich durch das Aufdecken von Kacheln erlernte Fertigkeiten)</font><br>- Freund Lvl Bonusse<br><br><font size=\"4\">* Fertigkeiten können einen Wert nur bis zu einem bestimmten Limit erhöhen.<br><br>* Erhöhungen durch Aufträge werden ignoriert, da eine Einheit, die die Zielwerte erfüllt, in der Gruppe sein muss. Werte, die während eines Auftrags beeinflusst werden, können eingesehen werden, wenn du auf MENÜ > Einheiten gehst und dann auf eine Einheit tippst.<br><br>* Die Zielwerte müssen durch deine eigenen Einheiten erreicht werden. Aufträge können nicht mit begleitenden Einheiten abgeschlossen werden.</font><br><br><b><font size=\"4\">Warnung</b><br>Der Auftragszeitraum und der Abholzeitraum für die Belohnung sind identisch.<br><span>Die Mission wird als unvollendet gewertet, wenn du deine Belohnungen nicht abgeholt hast</span> und selbst wenn die Bedingungen erfüllt sind, <span>wirst du die neu gesetzten Missionen erneut abschließen müssen</span></span>.</font><br>",
-        "<b>Cómo conseguir los parámetros requeridos</b><br>Los parámetros de las unidades se pueden ver afectados por cualquiera de las condiciones de abajo.<br>- Parámetros base de la unidad<br>- Estallidos Límites <font size=\"4\"> (aumentan al fusionar tarros)</font><br>- Habilidades que aprenden las unidades<br>Armas equipadas<br>- Habilidades que se activan al equipar armas<font size=\"4\"> (se incluyen las mejoras de armas)</font><br>- Habilidades equipadas<br>- Espers equipados<font size=\"4\"> (se incluyen las habilidades aprendidas al desbloquear paneles)</font><br>- Las bonificaciones de nivel de amigo<br><br><font size=\"4\">* La cantidad que una habilidad puede potenciar a un parámetro tiene sus límites.<br><br>* Los potenciadores de misión se ignoran, puesto que necesitas contar con una unidad con los parámetros requeridos en tu equipo. Para confirmar los parámetros que hacen falta para una misión, ve a MENÚ > Unidades y, luego, toca en la unidad concreta.<br><br>* Tus unidades tendrán que conseguir los parámetros requeridos. Las misiones no se pueden completar con compañeros (unidades que no sean propias).</font><br><br><b><font size=\"4\">Aviso:</b><br>El periodo de misión y el periodo de intercambio son el mismo.</b><br>Aunque hayas cumplido con todos los objetivos,<span> la misión se contará como incompleta si no reclamas tus recompensas. Además, tendrás que completar de nuevo todas las misiones nuevas que aparezcan</span>.</font><br>",
-        null,
-        null,
-        null,
-        null
-    ],
     "MAGICITE_BUNDLE_OF_ELEMENTS_BUNDLE_DESC": [
         "Unleash the power of your esper allies with this weekly magicite deal, kupo!",
         "快使用魔石特別禮包來解放幻獸的力量吧，庫啵！",
@@ -11352,28 +11344,36 @@
         "Restablecer puntos de esper"
     ],
     "MST_SPCHALLENGE_SCHEDULE_NAME_10011": [
-        "Rookie Quest",
+        "Rookie Quests",
         "新手任務",
         "초보자 퀘스트",
-        "Quête de débutant",
-        "Neulingsauftrag",
-        "Misión de principiante"
+        "Quêtes de débutant",
+        "Neulingsaufträge",
+        "Misiones de principiante"
     ],
     "MST_SPCHALLENGE_SCHEDULE_NAME_11011": [
-        "Advanced Quest",
+        "Advanced Quests",
         "高階任務",
         "중급자 퀘스트",
-        "Quête de vétéran",
-        "Veteranenauftrag",
-        "Misión avanzada"
+        "Quêtes de vétéran",
+        "Veteranenaufträge",
+        "Misiones avanzada"
     ],
     "MST_SPCHALLENGE_SCHEDULE_NAME_12011": [
-        "Expert Quest",
+        "Expert Quests",
         "專家任務",
         "상급자 퀘스트",
-        "Quête d'expert",
-        "Expertenauftrag",
-        "Misión de experto"
+        "Quêtes d'expert",
+        "Expertenaufträge",
+        "Misiones de experto"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_40011": [
+        "Parameter Quests",
+        "數值挑戰任務",
+        "능력치 퀘스트",
+        "Quêtes de caractéristiques",
+        "Werte-Aufträge",
+        "Misiones de parámetros"
     ],
     "MST_STORY_NAME_1": [
         "Grandshelt Isles",
@@ -13352,7 +13352,7 @@
         "Has cerrado sesión"
     ],
     "Popup_logout_confirm": [
-        "Are you sure you want to log out from <color=255:255:0><param=login_service></color>?This will log you out of your account (The bind status will remain)",
+        "Are you sure you want to log out from <color=255:255:0><param=login_service></color>? This will log you out of your account (The bind status will remain)",
         "是否確定要從<color=255:255:0><param=login_service></color>登出？執行此動作將會從您的帳號中登出（維持綁定狀態）",
         "<color=255:255:0><param=login_service></color>에서 로그아웃하시겠습니까?이 작업을 수행하면 계정에서 로그아웃됩니다. (연동 상태는 유지됩니다.)",
         "Voulez-vous vraiment vous déconnecter de <color=255:255:0><param=login_service></color> ?Vous serez déconnectés de votre compte. (Dans le cas d'un réseau social, celui-ci sera toujours associé à votre compte.)",
@@ -17187,9 +17187,9 @@
         "There are no summon coin exchanges available at the moment.<br><br>Keep your eyes peeled for more summon coin exchange events yet to come!",
         "目前沒有可使用的召喚硬幣進行交換。<br><br>請等待之後的召喚硬幣交換活動！",
         "현재 이용 가능한 소환 코인 교환 이벤트가 없습니다.<br><br>추후 개방될 소환 코인 교환 이벤트를 기다려주세요!",
-        "Aucun échange de jetons d'invocation n'est disponible pour l'instant.<br>Restez à l'affût en attendant les prochains événements offrant des échanges de jetons d'invocation !",
-        "Gegenwärtig ist nichts für einen Tausch gegen Beschwörungsmünzen verfügbar.<br><br>Halte deine Augen nach weiteren zukünftigen Beschwörungsmünzen-Tauschereignissen offen!",
-        "No hay intercambios de moneda de invocación disponibles ahora mismo.<br><br>¡Mantén los ojos abiertos a la espera de más eventos de intercambio de moneda de invocación!"
+        "Aucun échange de jetons d'invocation n'est disponible pour l'instant.<br>Restez à l'affût des prochains événements<br>incluant des échanges de jetons d'invocation !",
+        "Gegenwärtig ist nichts für einen Tausch gegen Beschwörungsmünzen verfügbar.<br><br>Halte Ausschau nach künftigen Beschwörungsmünzen-Tauschereignissen!",
+        "No hay intercambios de moneda de invocación disponibles ahora mismo.<br><br>¡Mantén los ojos abiertos a la espera de más<br>eventos de intercambio de moneda de invocación!"
     ],
     "Summon_Coin_Moogle_Text": [
         "Get summon coins by summoning from step up summon banners, kupo!",
@@ -17200,20 +17200,20 @@
         "¡Consigue monedas de invocación en las banderolas de invocación de pasos, kupó!"
     ],
     "TAB_DAILY_QUEST": [
-        "Daily Quest",
+        "Daily Quests",
         "每日任務",
         "일일 퀘스트",
-        "Quête quotidienne",
-        "Täglicher Auftrag",
-        "Misión diaria"
+        "Quêtes quotidienne",
+        "Tägliche Aufträge",
+        "Misiones diaria"
     ],
     "TAB_ROOKIE_QUEST": [
-        "Rookie Quest",
+        "Rookie Quests",
         "新手任務",
         "초보자 퀘스트",
-        "Quête de débutant",
-        "Neulingsauftrag",
-        "Misión de principiante"
+        "Quêtes de débutant",
+        "Neulingsaufträge",
+        "Misiones de principiante"
     ],
     "TAIL_OF_RECIPE_ITEM_NAME": [
         "Recipe for %s",
