@@ -95,6 +95,38 @@
         "(Alle)",
         "(todos)"
     ],
+    "ABILITY_DETAIL_RANGE_BACK": [
+        "Back Row",
+        "後列",
+        "뒷줄",
+        "Arrière",
+        "Hintere Reihe",
+        "Detrás"
+    ],
+    "ABILITY_DETAIL_RANGE_BOTTOM": [
+        "Lower Level",
+        "下段",
+        "하단",
+        "Bas",
+        "Unten",
+        "Abajo"
+    ],
+    "ABILITY_DETAIL_RANGE_FRONT": [
+        "Front Row",
+        "前列",
+        "앞줄",
+        "Avant",
+        "Vordere Reihe",
+        "Delante"
+    ],
+    "ABILITY_DETAIL_RANGE_MIDDLE": [
+        "Middle Level",
+        "中段",
+        "중단",
+        "Milieu",
+        "Mitte",
+        "Medio"
+    ],
     "ABILITY_DETAIL_RANGE_RANDOM": [
         "random",
         "隨機",
@@ -110,6 +142,14 @@
         "(1 seul)",
         "(Einzeln)",
         "(solo 1)"
+    ],
+    "ABILITY_DETAIL_RANGE_TOP": [
+        "Upper Level",
+        "上段",
+        "상단",
+        "Haut",
+        "Oben",
+        "Arriba"
     ],
     "ABILITY_DETAIL_SHIELD_LIST": [
         "light shield@heavy shield",
@@ -192,7 +232,7 @@
         "el ATQ@la DEF@la MAG@el ESP@la VIT@los PM"
     ],
     "ABILITY_DETAIL_TARGET_ALL": [
-        "enemies/allies",
+        "enemy and ally",
         "敵人/隊員",
         "적과 아군",
         "ennemis et alliés",
@@ -264,7 +304,7 @@
         "un enemigo"
     ],
     "ABILITY_DETAIL_TARGET_OWN": [
-        "unit (self)",
+        "caster",
         "自身",
         "자신",
         "le lanceur",
@@ -304,7 +344,7 @@
         "aliado(s)"
     ],
     "ABILITY_DETAIL_TARGET_WITHOUT_OWN_ALL": [
-        "all allies but unit (self)",
+        "all allies but caster",
         "除自身以外的全體隊員",
         "자신을 제외한 아군 전체",
         "tous les alliés sauf le lanceur",
@@ -1022,6 +1062,14 @@
         "Pas d'objets obtenus.",
         "Keine Gegenstände erhalten.",
         "No has conseguido ningún objeto."
+    ],
+    "BATTLE_MENU_GUIDE": [
+        "*Tap on a unit to view details. Tap and hold on a unit on the battle screen to view its current status.",
+        "※點擊兵員可查看詳細內容。在戰鬥畫面中長按兵員可確認目前的狀態數值。",
+        "※ 유닛을 터치하면 상세 내용을 확인할 수 있습니다. 전투 화면에서 유닛을 길게 누르면 현재 능력치 정보를 확인할 수 있습니다.",
+        "*Touchez une unité pour la voir en détail. Touchez de façon prolongée une unité sur l'écran de combat pour voir ses caractéristiques actuelles.",
+        "*Tippe auf eine Einheit, um ihre Details anzusehen. Tippe und halte eine Einheit auf dem Kampfbildschirm gedrückt, um ihren gegenwärtigen Status einzusehen.",
+        "*Pulsa en una unidad para ver los detalles. Mantén pulsada una unidad en la pantalla de batalla para ver su estado actual."
     ],
     "BEFORE_DAY": [
         "d ago",
@@ -2127,6 +2175,22 @@
         "Kristalltruhe der Erhabenheit",
         "Cofre de la majestuosidad"
     ],
+    "Comeback_Login_Bonus_Moogle_Text": [
+        "Welcome back! Here are some items to celebrate your return, kupo!",
+        null,
+        "다시 돌아온 걸 환영해! 컴백 기념 아이템을 선물할게쿠포!",
+        "Bon retour parmi nous ! Acceptez ces quelques objets pour fêter cela, kupo !",
+        "Willkommen zurück! HIer hast du ein paar Gegenstände, um deine Rückkehr zu feiern, kupo!",
+        "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu retorno, ¡kupó!"
+    ],
+    "Comeback_Login_Bonus_Title": [
+        "Comeback Login Bonus",
+        null,
+        "컴백 출석 보상",
+        "Bonus de connexion de retour",
+        "Comeback Anmeldebonus",
+        "Bonificación de retorno de inicio de sesión"
+    ],
     "DAILY_QUEST_CLAIM_ALL_PROMPT": [
         "Claim all completed quest rewards?",
         "要領取所有任務完成報酬嗎？",
@@ -2236,7 +2300,7 @@
         "開啟資料下載通知，或設定為超過一定資料量才會顯示下載通知。",
         "데이터 다운로드 알림을 켜거나, 다운로드할 데이터가 일정치를 초과 시에만 표시되도록 설정합니다.",
         "Activez les notifications de téléchargement, ou réglez-les pour qu'elles n’apparaissent que lorsque la quantité de données dépasse un certain seuil.",
-        "Schalte Benachrichtigungen zum Daten-Download AUS, oder stelle sie so ein, dass sie nur dann angezeigt werden, wenn die herunterzuladenen Daten einen gewissen Grenzwert überschreiten.",
+        "Schalte Benachrichtigungen zum Daten-Download EIN, oder stelle sie so ein, dass sie nur dann angezeigt werden, wenn die herunterzuladenen Daten einen gewissen Grenzwert überschreiten.",
         "Activa las notificaciones de descarga de datos o haz que solo aparezcan cuando los datos a descargar rebasen cierto límite."
     ],
     "DLC_SCREENSIZE_DATA_NOTIFICATION": [
@@ -2982,6 +3046,14 @@
         "Utilisable quand \"<color=255:255:0>item_name</color>\" est équipé(e).",
         "Benutzbar, wenn <color=255:255:0>item_name</color> ausgerüstet ist.",
         "Se puede usar al equiparse con <color=255:255:0>item_name</color>."
+    ],
+    "EQUIP_NG_REQUIRED_EQUIPMENT_CONJ": [
+        "or",
+        "或",
+        "또는",
+        "ou",
+        "oder",
+        "o"
     ],
     "EQUIP_NG_SEX_UNMATCH": [
         "Certain gender only.",
@@ -5303,6 +5375,14 @@
         "s",
         "s"
     ],
+    "GACHA_SCREEN_TIME_COMING_SOON": [
+        "Coming soon!",
+        "即將登場！",
+        "Coming soon!",
+        "Bientôt disponible !",
+        "Bald verfügbar!",
+        "¡Próximamente!"
+    ],
     "GACHA_SCREEN_TIME_LIMITED": [
         "Time Limited",
         null,
@@ -6014,6 +6094,14 @@
         "est recommandé(e).",
         "wird empfohlen.",
         "se recomienda."
+    ],
+    "INITIAL_DOWNLOAD_PLAY_BGM": [
+        "Listen to the FFBE BGM while playing<br>to further enjoy the world of FFBE!",
+        "一邊聆聽背景音樂一邊遊玩，<br>就能更加沉浸於FFBE的世界觀中。",
+        "BGM을 들으며 플레이하면<br>FFBE의 세계관을 보다 더 즐기실 수 있습니다.",
+        "Jouez en écoutant les musiques de FFBE<br>pour une expérience de jeu encore plus immersive !",
+        "Hör dir während du spielst die FFBE-Hintergrundmusik an,<br>um die Welt von FFBE noch mehr zu genießen!",
+        "¡Escucha la música de FFBE mientras juegas<br>para sumergirte del todo en el mundo de FFBE!"
     ],
     "INSTALL_ERROR_TITLE_BACK": [
         "An error occurred during download. Returning to title.<br><br>*Tap the <color=255:255:0>Restore</color> button then <color=255:255:0>Re-download Data</color> if the problem doesn't resolve itself.",
@@ -7609,7 +7697,7 @@
     ],
     "MENUSETTING_MAP_CURSOR_POSITION": [
         "D-pad Display Position",
-        "虛擬搖杆顯示位置",
+        "虛擬搖桿顯示位置",
         "가상 패드 표시 위치",
         "Place de la croix directionnelle",
         "Gamepad-Displayposition",
@@ -7617,7 +7705,7 @@
     ],
     "MENUSETTING_MAP_CURSOR_SIZE": [
         "D-pad Size",
-        "虛擬搖杆尺寸",
+        "虛擬搖桿尺寸",
         "가상 패드 사이즈",
         "Taille de la croix directionnelle",
         "Gamepad-Größe",
@@ -8287,6 +8375,14 @@
         "[Einheiten bestimmen]",
         "[Unidades a seleccionar]"
     ],
+    "MISSION_COND_START_RARE": [
+        "<param=start_rare>★ Base Rarity",
+        "★<param=start_rare>基礎稀有度",
+        "★<param=start_rare> 베이스 레어도",
+        "Natif <param=start_rare>★",
+        "<param=start_rare>★ Basisseltenheit",
+        "Rareza base <param=start_rare>★"
+    ],
     "MISSION_COND_SUB_TITLE": [
         "[Conditions]",
         "【條件】",
@@ -8734,6 +8830,14 @@
         "Vous avez atteint le nombre maximum d'expéditions en cours.",
         "Die maximale Anzahl aktiver Expeditionen wurde erreicht.",
         "Has alcanzado el máximo de expediciones en curso."
+    ],
+    "MSG_NO_OPE_SLOT": [
+        "Slot data could not be retrieved.",
+        "無法獲得SLOT資訊",
+        "슬롯 정보를 가져올 수 없습니다.",
+        "Impossible de récupérer les données de cet emplacement.",
+        "Slot-Daten konnten nicht abgerufen werden.",
+        "No se han podido recuperar los datos de las ranuras."
     ],
     "MSG_OVER_GACHA_LIMIT": [
         "You are unable to summon because doing so would make you exceed your unit limit.",
@@ -12416,12 +12520,12 @@
         "Selecciona una zona."
     ],
     "MST_TOWNSTORE_COMMENT_1": [
-        "I'd be happy to trade for your Global Exchange Tickets, kupo!",
-        "用「國際版交換券」<br>交換我的收藏品庫啵！",
-        "'글로벌 교환 티켓'을,<br>내 수집품과 교환쿠포!",
-        "Ça te dirait d'échanger tes tickets spéciaux d'unités internationales, kupo ?",
-        "Du kannst deine Globalen Austauschkartengerne bei mir eintauschen, kupo!",
-        "¡Me interesan tus tíckets de intercambio internacional, kupó!"
+        "How about your Summon Coins (FFBE May 2019) for something from my collection, kupo!",
+        "用「召喚硬幣 (FFBE 2019五月)」<br>交換我的收藏品庫啵！",
+        "'소환 코인(2019/05 FFBE)'을 <br>내 수집품과 교환쿠포!",
+        "Que dirais-tu d'échanger tes Jetons d'invocation (FFVI Mai 2019) contre une pièce de ma collection, kupo ?",
+        "Tausch doch deine \"Beschwörungsmünzen (FFBE Mai 2019)\" gegen etwas aus meiner Sammlung, kupo!",
+        "¿Me cambias Monedas de invocación (FFBE Mayo 2019) por algo de mi tienda, kupó?"
     ],
     "MST_TOWNSTORE_COMMENT_2": [
         "What are you looking to sell?",
@@ -12432,12 +12536,12 @@
         "¿Qué tienes a la venta?"
     ],
     "MST_TOWNSTORE_COMMENT_3": [
-        "Come back and see me once you've collected some Global Exchange Tickets, kupo!",
-        "收集「國際版交換券」，<br>再來找我庫啵！",
-        "'글로벌 교환 티켓'이 모이면,<br>또 가져와쿠포~!",
-        "Reviens quand tu auras plus de tickets spéciaux d'unités internationales, kupo !",
-        "Komm wieder, sobald du Globale Austauschkartenhast, kupo!",
-        "¡Vuelve cuando tengas algunos tíckets de intercambio internacional, kupó!"
+        "Come back and see me once you've collected some Summon Coins (FFBE May 2019), kupo!",
+        "收集「召喚硬幣 (FFBE 2019五月)」，<br>再來找我庫啵！",
+        "'소환 코인(2019/05 FFBE)'이 모이면<br>또 가져와쿠포~!",
+        "Reviens quand tu auras plus de Jetons d'invocation (FFVI Mai 2019), kupo !",
+        "Komm wieder wenn du mehr \"Beschwörungsmünzen (FFBE Mai 2019)\" gesammelt hast, kupo!",
+        "¡Vuelve pronto con más Monedas de invocación (FFBE Mayo 2019), kupó!"
     ],
     "MST_TRIBE_NAME_1": [
         "Beast",
@@ -12751,14 +12855,6 @@
         "Metallkaktorius",
         "Cactilión de metal"
     ],
-    "NAME_91016": [
-        "Regen (Auto)",
-        "再生（自動）",
-        "리제네(AUTO용)",
-        "Récup (auto)",
-        "Regena (auto)",
-        "Revitalia (Auto)"
-    ],
     "NAME_UNKNOWN": [
         "???",
         "？？？",
@@ -12822,6 +12918,78 @@
         "Rien",
         "Nichts",
         "Ninguno"
+    ],
+    "New_Quest_Complete_Reward_Text": [
+        "You have received the following for completing a Unit Challenge.",
+        null,
+        "유닛 챌린지 완료 보상으로 다음과 같은 아이템을 지급합니다.",
+        "Vous avez accompli un défi d'unité. Les récompenses suivantes vous ont été livrées.",
+        "Du hast Folgendes für den abschluss einer Einheitenherausforderung erhalten.",
+        "Has recibido lo siguiente por completar un desafío de unidad."
+    ],
+    "New_Quest_Complete_Reward_Title": [
+        "Mission Completion Reward!",
+        null,
+        "미션 완료 보상!",
+        "Récompense de réussite de mission !",
+        "Missionsabschlussbelohnung",
+        "¡Recompensa por completar misión!"
+    ],
+    "New_Quest_Disclaimer_Text": [
+        "1. Selling units after using them for the unit challenges will not affect your results.<br>2.Fusing units after using them for the unit challenges will not affect your results.<br>3. Records of your progress through the challenges will be saved automatically. Any issues regarding the progress of unit challenges will be reviewed by the development team.",
+        null,
+        "1. 유닛 챌린지에 사용 후 유닛을 판매해도 결과에 영향을 미치지 않습니다.<br>2. 유닛 챌린지에 사용 후 유닛을 합성해도 결과에 영향을 미치지 않습니다.<br>3. 챌린지 진행 기록은 자동으로 저장됩니다. 유닛 챌린지 진행 관련한 모든 문제는 개발팀에서 검토할 예정합니다.",
+        "1. Vendre vos unités après les avoir utilisées lors des défis d'unité n'a aucun effet sur vos résultats.<br>2. Fusionner vos unités après les avoir utilisées lors des défis d'unité n'a aucun effet sur vos résultats.<br>3. Votre progression au fil des défis est automatiquement enregistrée. En cas de problème, ces enregistrements seront examinés par l'équipe de développement.",
+        "1. Einheiten zu verkaufen, nachdem sie für Einheitenherausforderungen benutzt wurden, wird keinen Einfluss auf deine Ergebnisse haben. <br>2. Einheiten zu fusionieren, nachdem sie für Einheitenherausforderungen benutzt wurden, wird keinen Einfluss auf deine Ergebnisse haben.<br>3. Aufzeichnungen deines Fortschritts in den Herausforderungen werden automatisch gespeichert. Jegliche Probleme bezüglich des Fortschritts in den Einheitenherausforderungen werden vom Entwicklungsteam untersucht.",
+        "1. Vender unidades después de haberlas usado en los desafíos de unidad no afectará a los resultados.<br>Fusionar unidades después de haberlas usado en los desafíos de unidad no afectará a los resultados.<br>Tus progresos en los desafíos se guardarán automáticamente. Cualquier problema relacionado con el progreso en los desafíos de unidades será revisado por el equipo de desarrollo."
+    ],
+    "New_Quest_Disclaimer_Title": [
+        "DISCLAIMER",
+        null,
+        "주의사항",
+        "AVIS",
+        "HINWEIS",
+        "AVISO"
+    ],
+    "New_Quest_Extra_Challenges_Count": [
+        "UNIT CHALLENGES (%d/%d)",
+        null,
+        "유닛 챌린지(%d/%d)",
+        "DÉFIS D'UNITÉ (%d/%d)",
+        "EINHEITENHERAUSFORDERUNGEN (%d/%d)",
+        "DESAFÍOS DE UNIDAD (%d/%d)"
+    ],
+    "New_Quest_Extra_Challenges_Tab": [
+        "UNIT CHALLENGES",
+        null,
+        "유닛 챌린지",
+        "DÉFIS D'UNITÉ",
+        "EINHEITENHERAUSFORDERUNGEN",
+        "DESAFÍOS DE UNIDAD"
+    ],
+    "New_Quest_Mission_Challenges_Tab": [
+        "MISSION CHALLENGES",
+        null,
+        "미션 챌린지",
+        "DÉFIS DE MISSION",
+        "MISSIONSHERAUSFORDERUNGEN",
+        "DESAFÍOS DE MISIÓN"
+    ],
+    "New_Quest_Unit_Series_Title": [
+        "Unit Challenges",
+        null,
+        "유닛 챌린지",
+        "Défis d'unité",
+        "EINHEITENHERAUSFORDERUNGEN",
+        "Desafíos de unidad"
+    ],
+    "New_Quest_Unit_Unique_Unit_Used": [
+        "Unique units used:",
+        null,
+        "사용 유닛:",
+        "Unités uniques utilisées :",
+        "Benutzte eindeutige Einheiten:",
+        "Unidades únicas usadas:"
     ],
     "ONCE_A_DAY": [
         "Once a Day",
@@ -12910,6 +13078,14 @@
         "Choisissez l'emplacement du groupe que vous voulez charger.",
         "Bitte wähle einen Slot aus, von dem du eine Gruppe abrufen möchtest.",
         "Escoge una ranura desde la que cargar a un grupo."
+    ],
+    "PARTY_REGISTER_SLOT_LIST_SAVE_NG_EMPTY": [
+        "Save could not be completed due to <color=255:255:0>no unit set in party.</color>",
+        "隊伍資訊中<color=255:255:0>並未設定兵員</color>，因此無法儲存。",
+        "파티 정보에 <color=255:255:0>유닛이 설정되어 있지 않아</color>, 저장할 수 없습니다.",
+        "<color=255:255:0>Aucune unité enregistrée</color> dans le groupe. Impossible de sauvegarder.",
+        "Speichern konnte nicht abgeschlossen werden,<color=255:255:0>weil keine Einheit in der Gruppe festgelegt wurde.</color>",
+        "No se ha podido guardar debido a que <color=255:255:0>no hay unidades en el grupo.</color>"
     ],
     "PARTY_REGISTER_SLOT_LIST_SAVE_SUB_HEADER": [
         "Save a Party",
@@ -14023,6 +14199,14 @@
         "Rezept",
         "Receta"
     ],
+    "REINFORCEMENT_SETTING_SUB_HEADER_TITLE": [
+        "Companion Settings",
+        "設定同行者",
+        "동행자 설정",
+        "Partenaire",
+        "Begleitereinstellungen",
+        "Selección de compañeros"
+    ],
     "REMOVE_ALL_EQUIP": [
         "Remove All",
         "全部卸除",
@@ -15120,12 +15304,12 @@
         "Alerta"
     ],
     "SG_DONOTSHOWTHISAGAIN": [
-        "Do not show this again",
+        "Do not prompt when download size is less than 10 MB.",
         "下次不再顯示",
-        "다음부터 표시하지 않는다.",
-        "Ne plus afficher",
+        "up",
+        "Ne pas afficher lorsque la taille du téléchargement fait moins de 10 Mo.",
         "Nicht wieder zeigen",
-        "No volver a mostrar"
+        "No mostrar cuando el tamaño de la descarga no supere los 10 MB."
     ],
     "SG_EARLYBIRD_CHECKBOX_TEXT": [
         "Don't show again today",
@@ -16511,6 +16695,14 @@
         "Fortschritt",
         "Progreso"
     ],
+    "SP_CHALLENGE_REWARD_ANNOUNCE": [
+        "*Rewards will be sent directly to your inventory.",
+        "※報酬將會直接賦予在持有一覽中。",
+        "※ 보상은 직접 인벤토리로 지급됩니다.",
+        "*Les récompenses seront envoyées directement dans votre inventaire.",
+        "*Belohnungen werden direkt an dein Inventar geschickt.",
+        "*Las recompensas serán enviadas directamente a tu inventario."
+    ],
     "SP_CHALLENGE_REWARD_GET_IRREGULAR_CASE_TEXT": [
         "Rewards received.<br>*Rewards will be sent directly to your inventory.",
         "已領取報酬。<br>※報酬將會直接賦予在持有一覽中。",
@@ -16646,6 +16838,14 @@
         "Votre réserve d'endurance est pleine.",
         "Deine Energie ist voll.",
         "Tu energía está al máximo."
+    ],
+    "START_RARITY": [
+        "Base Rarity",
+        "基礎稀有度",
+        "베이스 레어도",
+        "Rareté de base",
+        "Basisseltenheit",
+        "Rareza base"
     ],
     "STAR_QUARTZ": [
         "Star Quartz",
@@ -16846,6 +17046,14 @@
         "Résistance au sommeil",
         "Schlafresistenz",
         "Resistencia contra sueño"
+    ],
+    "SUMMON_BEAST_BOARD_RESIST_BAD_STATE_ZOMBIE": [
+        "Resistance to zombie",
+        "殭屍耐性",
+        "좀비 저항력",
+        "Résistance à la zombification",
+        "Zombie-Resistenz",
+        "Resistencia a zombificación"
     ],
     "SUMMON_BEAST_BOARD_RESIST_ELEMENT_DARK": [
         "Dark Resist",
@@ -17195,17 +17403,17 @@
         "There are no summon coin exchanges available at the moment.<br><br>Keep your eyes peeled for more summon coin exchange events yet to come!",
         "目前沒有可使用的召喚硬幣進行交換。<br><br>請等待之後的召喚硬幣交換活動！",
         "현재 이용 가능한 소환 코인 교환 이벤트가 없습니다.<br><br>추후 개방될 소환 코인 교환 이벤트를 기다려주세요!",
-        "Aucun échange de jetons d'invocation n'est disponible pour l'instant.<br>Restez à l'affût des prochains événements<br>incluant des échanges de jetons d'invocation !",
+        "Aucun échange de jetons d’invocation n’est disponible pour l’instant.<br>Restez à l’affût des prochains événements<br>incluant des échanges de jetons d’invocation !",
         "Gegenwärtig ist nichts für einen Tausch gegen Beschwörungsmünzen verfügbar.<br><br>Halte Ausschau nach künftigen Beschwörungsmünzen-Tauschereignissen!",
         "No hay intercambios de moneda de invocación disponibles ahora mismo.<br><br>¡Mantén los ojos abiertos a la espera de más<br>eventos de intercambio de moneda de invocación!"
     ],
     "Summon_Coin_Moogle_Text": [
-        "Get summon coins by summoning from step up summon banners, kupo!",
-        "透過STEP UP召喚橫幅圖示進行召喚，獲得召喚硬幣，庫啵！",
-        "스텝 업 소환 배너를 통해 소환을 진행하여 소환 코인을 획득해봐쿠포!",
-        "Obtenez des jetons d'invocation en invoquant des unités par le biais des bannières d'invocation à paliers, kupo !",
-        "Hol dir Beschwörungsmünzen durch Beschwörungen von Stufenbeschwörungsbannern, kupo!",
-        "¡Consigue monedas de invocación en las banderolas de invocación de pasos, kupó!"
+        "Get summon coins in various ways, such as summoning from step up summon banners, kupo!",
+        "透過STEP UP召喚橫幅圖示等各種方式獲得召喚硬幣，庫啵！",
+        "스텝 업 소환 배너를 통해 소환하는 등 다양한 방법으로 소환 코인을 획득해봐쿠포!",
+        "Obtenez des jetons d'invocation de diverses manières,<br>par exemple par le biais des bannières d'invocation à paliers, kupo !",
+        "Erhalte auf verschiedenen Wegen Beschwörungsmünzen,<br>indem du zum Beispiel Beschwörungen via Stufenbeschwörung durchführst, kupo!",
+        "¡Consigue monedas de invocación de varias maneras,<br>por ejemplo, al invocar en las banderolas de invocación de pasos, kupó!"
     ],
     "TAB_DAILY_QUEST": [
         "Daily Quests",
@@ -18150,6 +18358,14 @@
         "Pas d'unités affichables.",
         "Keine anzeigbaren Einheiten.",
         "Ninguna unidad que mostrar."
+    ],
+    "UNIT_FILTER_NOTHING_SELECT": [
+        "There are no units that fit the selected filters.",
+        "不存在與篩選設定條件相符合的兵員。",
+        "설정한 필터 조건에 맞는 유닛이 없습니다.",
+        "Aucune unité ne correspond au(x) filtre(s) sélectionné(s).",
+        "Es gibt keine Einheit(en), die den ausgewählten Filtern entsprechen.",
+        "No hay unidades que pasen los filtros seleccionados."
     ],
     "UNIT_FILTER_NOTHING_SELL": [
         "No sellable units.",

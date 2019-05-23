@@ -15,6 +15,22 @@
         "Erhöht ANG, wenn mit Katana ausgerüstet<br><color=0:255:0>Steigert ANG-Erhöhung, wenn mit Katana ausgerüstet (sehr hoch)</color><br><color=0:255:0>Erhöht LP, wenn mit Katana ausgerüstet</color>",
         "Aumenta el ATQ al llevar katana<br><color=0:255:0>Mayor aumento de ATQ al llevar katana (muchísimo)</color><br><color=0:255:0>Aumenta la VIT al llevar katana</color>"
     ],
+    "100080003": [
+        "<color=0:255:0>Boosts ATK increase (low)</color><br><color=0:255:0>Ability name changes</color>",
+        "<color=0:255:0>提高攻擊增加量(小)</color><br><color=0:255:0>變更能力名稱</color>",
+        "<color=0:255:0>공격력 상승량 상승(소)</color><br><color=0:255:0>어빌리티명 변경</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (peu)</color><br><color=0:255:0>Modifie le nom de l'aptitude</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (gering)</color><br><color=0:255:0>Fertigkeitenname ändert sich</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (poco)</color><br><color=0:255:0>La habilidad cambia de nombre</color>"
+    ],
+    "100080004": [
+        "<color=255:255:0>\"ATK +30%\" effect removed</ color><br><color=0:255:0>Ability changes to \"Twofold Technique\"</color>",
+        "<color=255:255:0>移除「攻擊 +30%」</ color><br><color=0:255:0>技能名稱變更為「W刀技」</color>",
+        "<color=255:255:0>'공격력+30%' 효과 해제</ color><br><color=0:255:0>'W도검술'로 어빌리티 변경</color>",
+        "<color=255:255:0>Suppression de l'effet \"ATT +30%\"</ color><br><color=0:255:0>Aptitude transformée en \"Double technique\"</color>",
+        "<color=255:255:0>\"Effekt für \"ANG +30%\" entfernt</ color><br><color=0:255:0>Fertigkeit wird zu \"Doppelklingenkunst\"</color>",
+        "<color=255:255:0>Se elimina el efecto \"ATQ +30%\"</ color><br><color=0:255:0>La habilidad cambia a Técnica doble</color>"
+    ],
     "100110001": [
         "<color=0:255:0>Boosts MAG increase (mid)</color>",
         "<color=0:255:0>提高魔力增加量(中)</color>",
@@ -180,7 +196,7 @@
         "<color=0:255:0>提高攻擊增加量(中)</color>",
         "<color=0:255:0>공격력 상승량 상승(중)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
     ],
     "101360002": [
@@ -188,7 +204,7 @@
         "提高攻擊增加量(中)<br><color=0:255:0>提高攻擊增加量(大)</color>",
         "공격력 상승량 상승(중)<br><color=0:255:0>공격력 상승량 상승(대)</color>",
         "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "Steigert die ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "Mayor aumento de ATQ (bastante)<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "101360003": [
@@ -225,7 +241,7 @@
     ],
     "101501001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -233,7 +249,7 @@
     ],
     "101501002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts recovery amount (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高恢復量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高恢復量(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>소비 MP 감소(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les PV reçus (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht den Regenerationseffekt (mittel)</color>",
@@ -249,7 +265,7 @@
     ],
     "101601002": [
         "Boosts recovery amount (mid)<br><color=0:255:0>Boosts recovery amount (mid)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "提高恢復量(中)<br><color=0:255:0>提高恢復量(中)</color><br><color=0:255:0>降低MP消耗(小)</color>",
+        "提高恢復量(中)<br><color=0:255:0>提高恢復量(中)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "회복량 상승(중)<br><color=0:255:0>회복량 상승(중)</color><br><color=0:255:0>소비MP 감소(소)</color>",
         "Augmente le pouvoir de soin (moyen)<br><color=0:255:0>Augmente le pouvoir de soin (moyen)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "Erhöht den Regenerationseffekt (mittel)<br><color=0:255:0>Erhöht den Regenerationseffekt (mittel)</color><br><color=0:255:0>Reduziert den MP-Verbrauch (gering)</color>",
@@ -257,7 +273,7 @@
     ],
     "101601003": [
         "<color=0:255:0>Boosts recovery amount (mid)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "<color=0:255:0>提高恢復量 (中)</color><br><color=0:255:0>降低MP消耗量 (小)</color>",
+        "<color=0:255:0>提高恢復量 (中)</color><br><color=0:255:0>減少MP消耗量 (小)</color>",
         "<color=0:255:0>회복량 상승(중)</color><br><color=0:255:0>소비MP 감소(소)</color>",
         "<color=0:255:0>Augmente le pouvoir de soin (moyen)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "<color=0:255:0>Erhöht den Regenerationseffekt (mittel)</color><br><color=0:255:0>Reduziert den MP-Verbrauch (gering)</color>",
@@ -265,7 +281,7 @@
     ],
     "101601004": [
         "Boosts recovery amount (mid)<br>Reduces MP consumed (low)<br><color=0:255:0>Boosts recovery amount (mid)</color>",
-        "提高恢復量 (中)<br>降低MP消耗量 (小)<br><color=0:255:0>提高恢復量 (中)</color>",
+        "提高恢復量 (中)<br>減少MP消耗量 (小)<br><color=0:255:0>提高恢復量 (中)</color>",
         "회복량 상승(중)<br>소비MP 감소(소)<br><color=0:255:0>회복량 상승(중)</color>",
         "Augmente le pouvoir de soin (moyen)<br>Réduit les PM consommés (peu)<br><color=0:255:0>Augmente le pouvoir de soin (moyen)</color>",
         "Erhöht den Regenerationseffekt (mittel)<br> Reduziert den MP-Verbrauch (gering)<br><color=0:255:0>Erhöht den Regenerationseffekt (mittel)</color>",
@@ -289,7 +305,7 @@
     ],
     "101801001": [
         "<color=0:255:0>Reduces MP consumed (low)</color>",
-        "<color=0:255:0>降低MP消耗(小)</color>",
+        "<color=0:255:0>減少MP消耗(小)</color>",
         "<color=0:255:0>소비MP 감소(소)</color>",
         "<color=0:255:0>Réduit les PM consommés (peu)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (gering)</color>",
@@ -297,7 +313,7 @@
     ],
     "101801002": [
         "Reduces MP consumed (low)<br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "降低MP消耗(小)<br><color=0:255:0>降低MP消耗(中)</color>",
+        "減少MP消耗(小)<br><color=0:255:0>減少MP消耗(中)</color>",
         "소비MP 감소(소)<br><color=0:255:0>소비MP 감소(중)</color>",
         "Réduit les PM consommés (peu)<br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Reduziert den MP-Verbrauch (gering)<br><color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -361,7 +377,7 @@
     ],
     "200140002": [
         "Temporarily increase chance of being targeted when active<br><color=0:255:0>Boosts turns in effect (mid)</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "發動時暫時性容易被敵人攻擊<br><color=0:255:0>提高效果回合數(中)</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "發動時暫時性容易被敵人攻擊<br><color=0:255:0>提高效果回合數(中)</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "일시적으로 적의 공격 대상이 될 확률 상승<br><color=0:255:0>효과 턴 수 상승(중)</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Augmente temporairement les chances d'être ciblé une fois activé<br><color=0:255:0>Amplifie l'augmentation du nombre de tours des effets (moyen)</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Erhöht kurzfristig die Wahrscheinlichkeit, zum Ziel zu werden, wenn aktiv<br><color=0:255:0>Erhöht Anzahl aktiver Runden (mittel)</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -433,7 +449,7 @@
     ],
     "200450001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -441,7 +457,7 @@
     ],
     "200450002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>降低MP消耗(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>減少MP消耗(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>소비MP 감소(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -449,7 +465,7 @@
     ],
     "200450003": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -457,7 +473,7 @@
     ],
     "200450004": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts ATK and DEF increases (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高攻擊防禦增加量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高攻擊防禦增加量(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>공격력과 방어력 상승량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la DEF (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht ANG und ABW (mittel)</color>",
@@ -465,7 +481,7 @@
     ],
     "200460001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -473,7 +489,7 @@
     ],
     "200460002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>降低MP消耗(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>減少MP消耗(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>소비MP 감소(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -481,7 +497,7 @@
     ],
     "200460003": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -489,7 +505,7 @@
     ],
     "200460004": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高魔力精神增加量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高魔力精神增加量(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>마력과 정신력 상승량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Amplifie l'augmentation de la MAGIE et de la PSY (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Steigert MAG- und PSY-Erhöhung (mittel)</color>",
@@ -553,11 +569,27 @@
     ],
     "201450002": [
         "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts DEF ignored (high)</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高無視防禦量(大)</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高無視防禦量(大)</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "피해량 상승(중)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>방어력 무시량 상승(대)</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Augmente les dégâts infligés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente la DEF ignorée (beaucoup)</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Erhöht Wert ignorierter ABW (hoch)</color><br><color=255:255:0>Erhöht verbrauchte MP (hoch)</color>",
         "Aumenta el daño (bastante)<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Ignora aún más la DEF (mucho)</color><br><color=255:255:0>Aumenta el consumo de PM (mucho)</color>"
+    ],
+    "201670001": [
+        "<color=0:255:0>Boosts ATK increase (high)</color>",
+        "<color=0:255:0>提高攻擊增加量(大)</color>",
+        "<color=0:255:0>공격력 상승량 상승(대)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
+    ],
+    "201670002": [
+        "Boosts ATK increase (high)<br><color=0:255:0>Boosts equipment ATK when only weapons are equipped in one or both hands</color>",
+        "提高攻擊增加量(大)<br><color=0:255:0>雙手只裝備武器時武具攻擊提升</color>",
+        "공격력 상승량 상승(대)<br><color=0:255:0>한손 또는 양손의 장비가 무기뿐일 경우 장비의 공격력 상승</color>",
+        "Amplifie l'augmentation de l'ATT (beaucoup)<br><color=0:255:0>Augmente l'ATT de l'équipement lorsque seules des armes sont équipées dans une main ou dans les deux</color>",
+        "Steigert ANG-Erhöhung (hoch)<br><color=0:255:0>Erhöht Ausrüstung-ANG, wenn nur Waffen in einer oder beiden Händen ausgerüstet sind</color>",
+        "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Aumenta el ATQ del equipo al llevar solo armas en una o ambas manos</color>"
     ],
     "201770001": [
         "<color=0:255:0>Boosts damage increase (high)</color>",
@@ -817,7 +849,7 @@
     ],
     "202260001": [
         "<color=0:255:0>Reduces MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비 MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -825,7 +857,7 @@
     ],
     "202260002": [
         "Reduces MP consumed (high)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color><br><color=0:255:0>Gradually restores MP for all allies</color>",
-        "降低MP消耗(大)<br><color=0:255:0>提高魔力精神增加量(中)</color><br><color=0:255:0>持續恢復全體隊員的MP</color>",
+        "減少MP消耗(大)<br><color=0:255:0>提高魔力精神增加量(中)</color><br><color=0:255:0>持續恢復全體隊員的MP</color>",
         "소비 MP 감소(대)<br><color=0:255:0>마력과 정신력 상승량 상승(중)</color><br><color=0:255:0>아군 전체의 MP 서서히 회복</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Amplifie l'augmentation de la MAGIE et de la PSY (moyen)</color><br><color=0:255:0>Restaure progressivement les PM de tous les alliés</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Erhöht MAG und PSY (mittel)</color><br><color=0:255:0> Regeneriert allmählich MP aller Verb.</color>",
@@ -833,7 +865,7 @@
     ],
     "202280001": [
         "<color=0:255:0>Boosts damage amount (high)</color><br><color=0:255:0>Targets all enemies</color><br><color=0:255:0>Temporarily increases chance of being targeted for self</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "<color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>目標變更為全體敵人</color><br><color=0:255:0>暫時提高自身被攻擊的機率</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "<color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>目標變更為全體敵人</color><br><color=0:255:0>暫時提高自身被攻擊的機率</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "<color=0:255:0>피해량 상승(대)</color><br><color=0:255:0>적 전체에 피해</color><br><color=0:255:0>자신이 일시적으로 적의 공격 대상이 될 확률 상승</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "<color=0:255:0>Augmente les dégâts infligés (beaucoup)</color><br><color=0:255:0>Cible tous les ennemis</color><br><color=0:255:0>Augmente temporairement les chances du lanceur d'être ciblé</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Greift alle Gegner an</color><br><color=0:255:0>Erhöht kurzfristig die Wahrscheinlichkeit selbst zum Ziel zu werden</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -841,7 +873,7 @@
     ],
     "202280002": [
         "Boosts damage amount (high)<br>Targets all enemies<br>Temporarily increases chance of being targeted for self<br>Increases MP consumed (high)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Reduces damage taken for 3 turns for self</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高傷害量(大)<br>目標變更為全體敵人<br>暫時提高自身被攻擊的機率<br>提高MP消耗(大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>3回合內減少對自身的傷害</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高傷害量(大)<br>目標變更為全體敵人<br>暫時提高自身被攻擊的機率<br>增加MP消耗(大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>3回合內減少對自身的傷害</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "피해량 상승(대)<br>적 전체에 피해<br>자신이 일시적으로 적의 공격 대상이 될 확률 상승<br>소비 MP 증가(대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>3턴 동안 자신이 받는 피해량 감소</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Augmente les dégâts infligés (beaucoup)<br>Cible tous les ennemis <br>Augmente temporairement les chances du lanceur d'être ciblé<br>Augmente les PM consommés (beaucoup)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Réduit les dégâts reçus par le lanceur pendant 3 tours</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Erhöht Schaden (hoch)<br>Greift alle Gegner an<br>Erhöht kurzfristig die Wahrscheinlichkeit selbst zum Ziel zu werden<br>Erhöht MP-Verbrauch (hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Verringert Schaden bei Benutzer für 3 Runden</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -1049,11 +1081,27 @@
     ],
     "202750002": [
         "Boosts ATK increase (low)<br><color=0:255:0>Boosts ATK increase (low)</color><br><color=0:255:0>Boosts damage against humans</color>",
-        "提高攻擊增加量(小)<br><color=0:255:0>提高攻擊增加量(小)</color><br><color=0:255:0>提高對人和死靈系魔物的傷害</color>",
+        "提高攻擊增加量(小)<br><color=0:255:0>提高攻擊增加量(小)</color><br><color=0:255:0>提高對人系魔物的傷害</color>",
         "공격력 상승량 상승(소)<br><color=0:255:0>공격력 상승량 상승(소)</color><br><color=0:255:0>인간형 마물에게 주는 피해량 상승</color>",
         "Amplifie l'augmentation de l'ATT (peu)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (peu)</color><br><color=0:255:0>Augmente les dégâts contre les humains</color>",
-        "Steigert die ANG-Erhöhung (gering)<br><color=0:255:0>Steigert die ANG-Erhöhung (gering)</color><br><color=0:255:0>Erhöht Schaden gegen Menschen </color>",
+        "Steigert ANG-Erhöhung (gering)<br><color=0:255:0>Steigert ANG-Erhöhung (gering)</color><br><color=0:255:0>Erhöht Schaden gegen Menschen </color>",
         "Mayor reducción de ATQ (poco)<br><color=0:255:0>Mayor reducción de ATQ (poco)</color><br><color=0:255:0>Aumenta el daño contra humanos</color>"
+    ],
+    "202750003": [
+        "<color=0:255:0>Boosts ATK increase (mid)</color>",
+        "<color=0:255:0>提高攻擊增加量(中)</color>",
+        "<color=0:255:0>공격력 상승량 상승(중)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
+    ],
+    "202750004": [
+        "Boosts ATK increase (mid)<br><color=0:255:0>Boosts physical damage against dragons, demons, and plants</color><br><color=0:255:0>Boosts equipment ATK when armed with two one-handed weapons</color>",
+        "提高攻擊增加量(中)<br><color=0:255:0>物理攻擊時提高對龍惡魔植物系魔物的傷害</color><br><color=0:255:0>裝備2把單手武器時武具攻擊提升</color>",
+        "공격력 상승량 상승(중)<br><color=0:255:0>물리 공격 시 드래곤, 악마, 식물형 마물에게 부여하는 피해량 상승</color><br><color=0:255:0>한손용 무기 2개 장착 시 장비의 공격력 상승</color>",
+        "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Augmente les dégâts physiques infligés aux dragons, aux démons et aux plantes</color><br><color=0:255:0>Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées (moyen)</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Erhöht physischen Schaden gegen Drachen, Dämonen und Pflanzenmonster</color><br><color=0:255:0>Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet</color>",
+        "Mayor aumento de daño (bastante)<br><color=0:255:0>Aumenta el daño físico contra dragones, demonios y plantoides</color><br><color=0:255:0>Aumenta el ATQ del equipo al llevar dos armas de una sola mano</color>"
     ],
     "202750005": [
         "<color=0:255:0>Boosts ATK increase (high)</color>",
@@ -1150,6 +1198,22 @@
         "Amplifie l'augmentation des dégâts (moyen)<br><color=0:255:0>Augmente la rés. au feu, à la glace et à la foudre</color>",
         "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Feuer-, Blitz, und Eisres.</color>",
         "Mayor aumento de daño (bastante)<br><color=0:255:0>Aumenta la resistencia a fuego, hielo y rayo</color>"
+    ],
+    "202860003": [
+        "<color=0:255:0>Boosts damage increase (mid)</color><br><color=0:255:0>Boosts equipment ATK when a single weapon is equipped in both hands</color>",
+        "<color=0:255:0>提高傷害增加量(中)</color><br><color=0:255:0>雙手只裝備1把武器時提高攻擊</color>",
+        "<color=0:255:0>피해 상승량 상승(중)</color><br><color=0:255:0>양손의 장비가 무기 1개일 경우 장비의 공격력 상승</color>",
+        "<color=0:255:0>Amplifie l'augmentation des dégâts (moyen)</color><br><color=0:255:0>Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains</color>",
+        "<color=0:255:0>Steigert Schadenserhöhung (mittel)</color><br><color=0:255:0>Erhöht Ausrüstung-ANG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist</color>",
+        "<color=0:255:0>Mayor aumento de daño (bastante)</color><br><color=0:255:0>Aumenta el ATQ del equipo al llevar un arma de una sola mano en ambas manos</color>"
+    ],
+    "202860004": [
+        "Boosts damage increase (mid)<br>Boosts equipment ATK when a single weapon is equipped in both hands<br><color=0:255:0>Boosts damage increase (mid)</color><br><color=0:255:0>Boosts equipment ATK increase (high)</color>",
+        "提高傷害增加量(中)<br>雙手只裝備1把武器時提高攻擊<br><color=0:255:0>提高傷害增加量(中)</color><br><color=0:255:0>提高武具攻擊增加量(大)</color>",
+        "피해 상승량 상승(중)<br>양손의 장비가 무기 1개일 경우 장비의 공격력 상승<br><color=0:255:0>피해 상승량 상승(중)</color><br><color=0:255:0>장비의 공격력 상승량 상승(대)</color>",
+        "Amplifie l'augmentation des dégâts (moyen)<br>Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains<br><color=0:255:0>Amplifie l'augmentation des dégâts (moyen)</color><br><color=0:255:0>Amplifie l'augmentation de l'ATT de l'équipement (beaucoup)</color>",
+        "Steigert Schadenserhöhung (mittel)<br>Erhöht Ausrüstung-ANG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist<br><color=0:255:0>Steigert Schadenserhöhung (mittel)</color><br><color=0:255:0>Steigert Erhöhung von Ausrüstung-ANG (hoch)</color>",
+        "Mayor aumento de daño (bastante)<br>Aumenta el ATQ del equipo al llevar un arma de una sola mano en ambas manos<br><color=0:255:0>Mayor aumento de daño (bastante)</color><br><color=0:255:0>Aumenta el ATQ del equipo (mucho)</color>"
     ],
     "202870001": [
         "<color=0:255:0>Boosts damage amount (mid)</color>",
@@ -1249,7 +1313,7 @@
     ],
     "202980001": [
         "<color=0:255:0>Increase hit count (mid)</color><br><color=0:255:0>Reduce MP consumed (great)</color>",
-        "<color=0:255:0>提高命中次數(中)</color><br><color=0:255:0>降低MP消耗(特大)</color>",
+        "<color=0:255:0>提高命中次數(中)</color><br><color=0:255:0>減少MP消耗(特大)</color>",
         "<color=0:255:0>히트 수 상승(중)</color><br><color=0:255:0>소비MP 감소(특대)</color>",
         "<color=0:255:0>Augmente le nombre de coups (moyen)</color><br><color=0:255:0>Réduit les PM consommés (super)</color>",
         "<color=0:255:0>Erhöht die Trefferzahl (mittel)</color><br><color=0:255:0>Reduziert den MP-Verbrauch (sehr hoch)</color>",
@@ -1257,7 +1321,7 @@
     ],
     "202980002": [
         "Increase hit count (mid)<br>Reduce MP consumed (great)<br><color=0:255:0>Chance of increasing damage when activated</color><br><color=0:255:0>Reduces fire, lightning, and light resistance</color>",
-        "提高命中次數(中)<br>降低MP消耗(特大)<br><color=0:255:0>使用時有一定機率提高傷害</color><br><color=0:255:0>降低火雷光屬性耐性</color>",
+        "提高命中次數(中)<br>減少MP消耗(特大)<br><color=0:255:0>使用時有一定機率提高傷害</color><br><color=0:255:0>降低火雷光屬性耐性</color>",
         "히트 수 상승(중)<br>소비MP 감소(특대)<br><color=0:255:0>발동 시 일정 확률로 피해량 증가</color><br><color=0:255:0>불, 번개, 빛속성 저항력 감소</color>",
         "Augmente le nombre de coups (moyen)<br>Réduit les PM consommés (super)<br><color=0:255:0>Activé, ajoute une chance d'augmenter les dégâts</color><br><color=0:255:0>Réduit la résistance au feu, à la foudre et à la lumière</color>",
         "Erhöht die Trefferzahl (mittel)<br>Reduziert den MP-Verbrauch (sehr hoch)<br><color=0:255:0>Chance auf steigenden Schaden bei Aktivierung</color><br><color=0:255:0>Reduziert Resist. gegen Feuer, Blitz und Licht</color>",
@@ -1273,7 +1337,7 @@
     ],
     "203020002": [
         "Targets everyone<br><color=0:255:0>Boosts MP recovery amount (high)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "對象範圍變為全體<br><color=0:255:0>提高MP恢復量(大)</color><br><color=0:255:0>降低MP消耗(中)</color>",
+        "對象範圍變為全體<br><color=0:255:0>提高MP恢復量(大)</color><br><color=0:255:0>減少MP消耗(中)</color>",
         "대상 범위 전체로 확대<br><color=0:255:0>MP 회복량 상승(대)</color><br><color=0:255:0>소비MP 감소(중)</color>",
         "Cible tout le monde<br><color=0:255:0>Amplifie la restauration des PM (beaucoup)</color><br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Zielt auf alle<br><color=0:255:0>Erhöht die MP-Wiederherstellung (hoch)</color><br><color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -1345,7 +1409,7 @@
     ],
     "203290001": [
         "<color=0:255:0>Reduce MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -1353,7 +1417,7 @@
     ],
     "203290002": [
         "Reduce MP consumed (high)<br><color=0:255:0>Boosts poison, blind, sleep, silence, paralysis, confusion, disease, and stone resistance</color>",
-        "降低MP消耗(大)<br><color=0:255:0>增加毒失明睡眠沉默麻痺混亂生病石化耐性</color>",
+        "減少MP消耗(大)<br><color=0:255:0>增加毒失明睡眠沉默麻痺混亂生病石化耐性</color>",
         "소비MP 감소(대)<br><color=0:255:0>독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Augmente la résistance à poi., céc., som.,sil., para., conf., mala., et pétri.</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Erhöht Resist. gegen Gift, Blenden, Schlaf, Stille, Lähmung, Konfus, Virus und Stein.</color>",
@@ -1372,7 +1436,7 @@
         "使用後進行攻擊<br><color=0:255:0>提高攻擊增加量(特大)</color><br><color=0:255:0>減少效果回合數(小)</color>",
         "발동 후 공격<br><color=0:255:0>공격력 상승량 상승(특대)</color><br><color=0:255:0>효과 턴 수 감소(소)</color>",
         "Attaque après activation<br><color=0:255:0>Amplifie l'augmentation de l'ATT (super)</color><br><color=0:255:0>Réduit le nombre de tours des effets (peu)</color>",
-        "Angriff nach Aktivierung<br><color=0:255:0>Steigert die ANG-Erhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "Angriff nach Aktivierung<br><color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
         "Ataca después de activarse<br><color=0:255:0>Mayor aumento de ATQ (muchísimo)</color><br><color=0:255:0>Reduce la duración (poco)</color>"
     ],
     "203340001": [
@@ -1409,7 +1473,7 @@
     ],
     "203360001": [
         "<color=0:255:0>Reduces MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -1417,7 +1481,7 @@
     ],
     "203360002": [
         "Reduces MP consumed (high)<br><color=0:255:0>Gradually restores HP for all allies</color>",
-        "降低MP消耗(大)<br><color=0:255:0>持續恢復全體隊員的HP</color>",
+        "減少MP消耗(大)<br><color=0:255:0>持續恢復全體隊員的HP</color>",
         "소비MP 감소(대)<br><color=0:255:0>아군 전체의 HP 서서히 회복</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Restaure progressivement les PV de tous les alliés</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Stellt allmählich die LP aller Verb. wieder her</color>",
@@ -1428,7 +1492,7 @@
         "<color=0:255:0>提高攻擊增加量(大)</color>",
         "<color=0:255:0>공격력 상승량 상승(대)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "203390002": [
@@ -1436,7 +1500,7 @@
         "提高攻擊增加量(大)<color=0:255:0><br>裝備短劍大劍刀時提高攻擊</color>",
         "공격력 상승량 상승(대)<color=0:255:0><br>단검, 대검, 도 장착 시 공격력 상승</color>",
         "Amplifie l'augmentation de l'ATT (beaucoup)<color=0:255:0><br>Augmente l'ATT lorsqu'une épée courte, longue ou un katana est équipé</color>",
-        "Steigert die ANG-Erhöhung (hoch)<color=0:255:0><br>Erhöht ANG, wenn ein Kurzschwert, Breitschwert oder Katana ausgerüstet ist.</color>",
+        "Steigert ANG-Erhöhung (hoch)<color=0:255:0><br>Erhöht ANG, wenn ein Kurzschwert, Breitschwert oder Katana ausgerüstet ist.</color>",
         "Mayor aumento de ATQ (mucho)<color=0:255:0><br>Aumenta el ATQ al llevar espada corta, espada grande o katana</color>"
     ],
     "203410001": [
@@ -1695,9 +1759,25 @@
         "Steigert Schadenserhöhung (gering)<br><color=0:255:0>Steigert Schadenserhöhung (gering)</color>",
         "Aumenta el daño (poco)<br><color=0:255:0>Aumenta el daño (poco)</color>"
     ],
+    "203901001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color>",
+        "<color=0:255:0>提高傷害量(中)</color>",
+        "<color=0:255:0>피해량 상승(중)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (moyen)</color>",
+        "<color=0:255:0>Erhöht Schaden (mittel)</color>",
+        "<color=0:255:0>Aumenta el daño (bastante)</color>"
+    ],
+    "203901002": [
+        "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts wind resistance reduction (low)</color>",
+        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高風屬性耐性減少量(小)</color>",
+        "피해량 상승(중)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>바람속성 저항력 감소량 상승(소)</color>",
+        "Augmente les dégâts infligés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Amplifie la réduction de la résistance au vent (peu)</color>",
+        "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Steigert Verringerung von Windresistenz (gering)</color>",
+        "Aumenta el daño (bastante)<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Mayor reducción a la resistencia al viento (poco)</color>"
+    ],
     "203910001": [
         "<color=0:255:0>Reduce MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -1705,7 +1785,7 @@
     ],
     "203910002": [
         "Reduce MP consumed (high)<br><color=0:255:0>Boost damage amount (high)</color>",
-        "降低MP消耗(大)<br><color=0:255:0>提高傷害量(大)</color>",
+        "減少MP消耗(大)<br><color=0:255:0>提高傷害量(大)</color>",
         "소비MP 감소(대)<br><color=0:255:0>피해량 상승(대)</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Augmente le nombre de dégâts (beaucoup)</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Erhöht Schaden (hoch)</color>",
@@ -1769,7 +1849,7 @@
     ],
     "204001002": [
         "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Boosts earth resistance reduction (mid)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "提高傷害量(小)<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>提高土屬性耐性減少量(中)</color><br><color=0:255:0>降低MP消耗 (中)</color>",
+        "提高傷害量(小)<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>提高土屬性耐性減少量(中)</color><br><color=0:255:0>減少MP消耗(中)</color>",
         "피해량 상승(소)<br><color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>땅속성 저항력 감소량 상승(중)</color><br><color=0:255:0>소비 MP 감소(중)</color>",
         "Augmente les dégâts infligés (peu)<br><color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Amplifie la réduction de la résistance à la terre (moyen)</color><br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Erhöht Schaden (gering)<br><color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Steigert Verringerung von Erdresistenz (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -1777,7 +1857,7 @@
     ],
     "204020001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소 (중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -1785,7 +1865,7 @@
     ],
     "204020002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Boosts DEF ignored (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>提高無視防禦量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>提高無視防禦量(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>방어력 무시량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Augmente la DEF ignorée (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Erhöht Wert ignorierter ABW(mittel)</color>",
@@ -1852,7 +1932,7 @@
         "發動時提高防禦精神<br>增加發動條件的HP值(小)<br><color=0:255:0>提高攻擊增加量(特大)<br>增加發動條件的HP(小)<br>發動次數變為無限制</color>",
         "발동 시 방어력과 정신력 상승<br>발동 조건의 HP 수치 증가(소)<br><color=0:255:0>공격력 상승량 상승(특대)<br>발동 조건의 HP 수치 증가(소)<br>발동 횟수가 무제한으로 변화</color>",
         "Augmente la DEF et la PSY une fois activé<br>Augmente les PV nécessaires (peu)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)<br>Augmente les PV nécessaires (peu)<br>Plus de limite d'activation</color>",
-        "Erhöht ABW und PSY, wenn aktiv<br>Erhöht nötige LP (gering)<br><color=0:255:0>Steigert die ANG-Erhöhung (sehr hoch)<br>Unbegrenzte Aktivierungen</color>",
+        "Erhöht ABW und PSY, wenn aktiv<br>Erhöht nötige LP (gering)<br><color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)<br>Unbegrenzte Aktivierungen</color>",
         "Aumenta DEF y ESP al activarse<br>Aumenta la VIT necesaria (poco)<br><color=0:255:0>Mayor aumento del ATQ (muchísimo)<br>Aumenta la VIT necesaria (poco)<br>Las activaciones son ilimitadas</color>"
     ],
     "204080001": [
@@ -1897,7 +1977,7 @@
     ],
     "204101002": [
         "Boosts damage amount (great)<br><color=0:255:0>Reduces fire, ice, lightning, water, wind, earth, light and dark resistances</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "提高傷害量 (特大)<br><color=0:255:0>降低火冰雷水風土光暗屬性耐性</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>降低MP消耗(中)</color>",
+        "提高傷害量 (特大)<br><color=0:255:0>降低火冰雷水風土光暗屬性耐性</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>減少MP消耗(中)</color>",
         "피해량 상승(특대)<br><color=0:255:0>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>소비 MP 감소(중)</color>",
         "Augmente les dégâts infligés (super)<br><color=0:255:0>Réduit la résistance à feu glace, foudre, eau, vent, terre, lumière et ténèbres</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Erhöht Schaden (sehr hoch)<br><color=0:255:0>Verringert Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenzen</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -2001,7 +2081,7 @@
     ],
     "204350001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts consecutive use damage (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color><br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color><br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color><br><color=0:255:0>피해 상승량 상승(중)</color><br><color=0:255:0>연속 사용 시 피해량 상승(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color><br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente les dégâts des aptitudes utilisées de manière consécutive (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color><br><color=0:255:0>Erhöht Schaden (mittel))</color><br><color=0:255:0>Schaden nimmt bei jedem Angriff zu (mittel)</color>",
@@ -2009,7 +2089,7 @@
     ],
     "204350002": [
         "Reduces MP consumed (mid)<br>Boosts damage amount (mid)<br>Boosts consecutive use damage (mid)<br><color=0:255:0>Boosts damage amount (high)</color><br><color=0:255:0>Boosts consecutive use damage (mid)</color>",
-        "降低MP消耗(中)<br>提高傷害量(中)<br>連續使用時提高傷害 (中)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
+        "減少MP消耗(中)<br>提高傷害量(中)<br>連續使用時提高傷害 (中)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
         "소비MP 감소(중)<br>피해량 상승(중)<br>연속 사용 시 피해량 상승(중)<br><color=0:255:0>피해량 상승(대)</color><br><color=0:255:0>연속 사용 시 피해량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br>Augmente les dégâts infligés (moyen)<br>Augmente les dégâts des aptitudes utilisées de manière consécutive (moyen)<br><color=0:255:0>Augmente les dégâts infligés (beaucoup)</color><br><color=0:255:0>Augmente les dégâts des aptitudes utilisées de manière consécutive (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br>Erhöht Schaden (mittel)<br>Schaden nimmt bei jedem Angriff zu (mittel)<br><color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Schaden nimmt bei jedem Angriff zu (mittel)</color>",
@@ -2017,7 +2097,7 @@
     ],
     "204360001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Reduces MAG and SPR</color>",
-        "<color=0:255:0>降低MP消耗(中)</color><br><color=0:255:0>降低魔力精神</color>",
+        "<color=0:255:0>減少MP消耗(中)</color><br><color=0:255:0>降低魔力精神</color>",
         "<color=0:255:0>소비 MP 감소(중)<br>마력과 정신력 감소</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color><br><color=0:255:0>Réduit la MAGIE et la PSY</color>",
         "<color=0:255:0>Verringert verbrauchte MP (mittel)</color><br><color=0:255:0>Verringert MAG und PSY</color>",
@@ -2025,7 +2105,7 @@
     ],
     "204360002": [
         "Reduces MP consumed (mid)<br>Reduces MAG and SPR<br><color=0:255:0>Boosts reductions to ATK, DEF, MAG and SPR (low)</color>",
-        "降低MP消耗(中)<br>降低魔力精神<br><color=0:255:0>提高攻擊防禦魔力精神減少量(小)</color>",
+        "減少MP消耗(中)<br>降低魔力精神<br><color=0:255:0>提高攻擊防禦魔力精神減少量(小)</color>",
         "소비 MP 감소(중)<br>마력과 정신력 감소<br><color=0:255:0>공격력, 방어력, 마력, 정신력 감소량 상승(소)</color>",
         "Réduit les PM consommés (moyen)<br>Réduit la MAGIE et la PSY<br><color=0:255:0>Amplifie la réduction de l'ATT, de la DEF, de la MAGIE et de la PSY (peu)</color>",
         "Verringert verbrauchte MP (mittel)<br>Reduziert MAG und PSY<br><color=0:255:0>Steigert ANG-,ABW-,MAG- und PSY-Verringerung (gering)</color>",
@@ -2049,7 +2129,7 @@
     ],
     "204401001": [
         "<color=0:255:0>Reduces MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -2057,7 +2137,7 @@
     ],
     "204401002": [
         "Reduces MP consumed (high)<br><color=0:255:0>Boosts unmitigated damage (high)</color><br><color=0:255:0>Increases hit count (mid)</color>",
-        "降低MP消耗(大)<br><color=0:255:0>提高無視防禦量(大)</color><br><color=0:255:0>提高攻擊次數(中)</color>",
+        "減少MP消耗(大)<br><color=0:255:0>提高無視防禦量(大)</color><br><color=0:255:0>提高攻擊次數(中)</color>",
         "소비MP 감소(대)<br><color=0:255:0>방어 무시 피해량 상승(대)</color><br><color=0:255:0>히트 수 상승(중)</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Augmente les dégâts fixes infligés (beaucoup)</color><br><color=0:255:0>Augmente le nombre de coups</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Erhöht direkten Schaden (hoch)</color><br><color=0:255:0>Erhöht die Trefferzahl (mittel)</color>",
@@ -2113,7 +2193,7 @@
     ],
     "204500001": [
         "<color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "<color=0:255:0>提高傷害量 (小)</color><br><color=0:255:0>降低MP消耗(小)</color>",
+        "<color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "<color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>소비MP 감소(소)</color>",
         "<color=0:255:0>Augmente le nombre de dégâts (peu)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "<color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Reduziert den MP-Verbrauch (gering)</color>",
@@ -2121,7 +2201,7 @@
     ],
     "204500002": [
         "Boosts damage amount (low)<br>Reduces MP consumed (low)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "提高傷害量 (小)<br>降低MP消耗量 (小)<br><color=0:255:0>提高傷害量 (中)</color><br><color=0:255:0>降低MP消耗量 (小)</color>",
+        "提高傷害量 (小)<br>減少MP消耗(小)<br><color=0:255:0>提高傷害量 (中)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "피해량 상승(소)<br>소비MP 감소(소)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>소비MP 감소(소)</color>",
         "Augmente le nombre de dégâts (peu)<br>Réduit les PM consommés (peu)<br><color=0:255:0>Augmente le nombre de dégâts (moyen)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "Erhöht Schaden (gering)<br>Reduziert den MP-Verbrauch (gering)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Reduziert den MP-Verbrauch (gering)</color>",
@@ -2129,7 +2209,7 @@
     ],
     "204550001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -2137,7 +2217,7 @@
     ],
     "204550002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>降低MP消耗(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>減少MP消耗(中)</color>",
         "소비MP 감소(중)<br><color=0:255:0>소비MP 감소(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -2188,7 +2268,7 @@
         "提高傷害量(小)<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>提高攻擊增加量(大)</color>",
         "피해량 상승(소)<br><color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>공격력 상승량 상승(대)</color>",
         "Augmente les dégâts infligés (peu)<br><color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "Erhöht Schaden (gering)<br><color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "Erhöht Schaden (gering)<br><color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "Aumenta el daño (poco)<br><color=0:255:0>Aumenta el daño (poco)</color><br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "204650001": [
@@ -2233,7 +2313,7 @@
     ],
     "204700002": [
         "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (mid)<br>Reduces MP consumed (low)</color>",
-        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)<br>降低MP消耗(小)</color>",
+        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)<br>減少MP消耗(小)</color>",
         "피해량 상승(중)<br><color=0:255:0>피해량 상승(중)<br>소비 MP 감소(소)</color>",
         "Augmente les dégâts infligés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (peu)</color>",
         "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br>Reduziert den MP-Verbrauch (gering)</color>",
@@ -2292,7 +2372,7 @@
         "<color=0:255:0>提高攻擊增加量(中)</color><br><color=0:255:0>降低全體敵人的防禦</color>",
         "<color=0:255:0>공격력 상승량 상승(중)</color><br><color=0:255:0>적 전체의 방어력 감소</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>Réduit la DEF de tous les ennemis</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (mittel)</color><br><color=0:255:0>Reduziert ABW für alle Gegner</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color><br><color=0:255:0>Reduziert ABW für alle Gegner</color>",
         "<color=0:255:0>Mayor aumento de ATQ (bastante)</color><br><color=0:255:0>Reduce la DEF de todos los enemigos</color>"
     ],
     "204770002": [
@@ -2497,7 +2577,7 @@
     ],
     "205120001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Boosts damage amount (low)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color><br><color=0:255:0>提高傷害量(小)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color><br><color=0:255:0>提高傷害量(小)</color>",
         "<color=0:255:0>소비MP 감소(중)</color><br><color=0:255:0>피해량 상승(소)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color><br><color=0:255:0>Augmente les dégâts infligés (peu)</color>",
         "<color=0:255:0>Verringert verbrauchte MP (mittel)</color><br><color=0:255:0>Erhöht Schaden (gering)</color>",
@@ -2505,7 +2585,7 @@
     ],
     "205120002": [
         "Reduces MP consumed (mid)<br>Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (mid)</color>",
-        "降低MP消耗(中)<br>提高傷害量(小)<br><color=0:255:0>提高傷害量(中)</color>",
+        "減少MP消耗(中)<br>提高傷害量(小)<br><color=0:255:0>提高傷害量(中)</color>",
         "소비MP 감소(중)<br>피해량 상승(소)<br><color=0:255:0>피해량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br>Augmente les dégâts infligés (peu)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color>",
         "Verringert verbrauchte MP (mittel)<br>Erhöht Schaden (gering)<br><color=0:255:0>Erhöht Schaden (mittel)</color>",
@@ -3188,7 +3268,7 @@
         "<color=0:255:0>提高攻擊增加量(中)</color>",
         "<color=0:255:0>공격력 상승량 상승(중)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
     ],
     "206660002": [
@@ -3196,7 +3276,7 @@
         "提高攻擊增加量(中)<br><color=0:255:0>提高攻擊增加量(大)</color>",
         "공격력 상승량 상승(중)<br><color=0:255:0>공격력 상승량 상승(대)</color>",
         "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "Steigert die ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "Mayor aumento de ATQ (bastante)<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "206670001": [
@@ -3332,7 +3412,7 @@
         "<color=0:255:0>提高攻擊增加量(中)</color>",
         "<color=0:255:0>공격력 상승량 상승(중)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
     ],
     "207080002": [
@@ -3340,7 +3420,7 @@
         "提高攻擊增加量(中)<br><color=0:255:0>裝備劍時提高攻擊</color>",
         "공격력 상승량 상승(중)<br><color=0:255:0>검 장착 시 공격력 상승</color>",
         "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Augmente l'ATT lorsqu'une épée est équipée</color>",
-        "Steigert die ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert die ANG-Erhöhung, wenn mit einem Schwert ausger.</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert ANG-Erhöhung, wenn mit einem Schwert ausger.</color>",
         "Mayor aumento de ATQ (bastante)<br><color=0:255:0>Aumenta el ATQ al llevar espada</color>"
     ],
     "207100001": [
@@ -3353,7 +3433,7 @@
     ],
     "207100002": [
         "Boosts damage reduction rate (low)<br><color=0:255:0>Boosts damage reduction rate (low)<br>Reduces MP consumed (mid)</color>",
-        "提高傷害減少率(小)<br><color=0:255:0>提高傷害減少率(小)<br>降低MP消耗(中)</color>",
+        "提高傷害減少率(小)<br><color=0:255:0>提高傷害減少率(小)<br>減少MP消耗(中)</color>",
         "피해량 감소율 상승(소)<br><color=0:255:0>피해량 감소율 상승(소)<br>소비 MP 감소(중)</color>",
         "Augmente le taux de réduction des dégâts (peu)<br><color=0:255:0>Augmente le taux de réduction des dégâts (peu)<br>Réduit les PM consommés (moyen)</color>",
         "Senkt Schadensreduzierungsrate (gering)<br><color=0:255:0>Senkt Schadensreduzierungsrate (gering)<br>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -3393,7 +3473,7 @@
     ],
     "207140001": [
         "<color=0:255:0>Reduces MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비 MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -3401,7 +3481,7 @@
     ],
     "207140002": [
         "Reduces MP consumed (high)<br><color=0:255:0>Boosts DEF and SPR increases (high)</color>",
-        "降低MP消耗(大)<br><color=0:255:0>提高防禦精神增加量(大)</color>",
+        "減少MP消耗(大)<br><color=0:255:0>提高防禦精神增加量(大)</color>",
         "소비 MP 감소(대)<br><color=0:255:0>방어력과 정신력 상승량 상승(대)</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (beaucoup)</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Steigert ABW- und PSY-Erhöhung (hoch)</color>",
@@ -3577,7 +3657,7 @@
     ],
     "207790002": [
         "Boosts damage amount after using fast blade (great)<br><color=0:255:0>Reduces MP consumed after using fast blade (mid)<br>Increases chance of being targeted if activated after using fast blade</color>",
-        "使用「先鋒劍」後提高傷害增加量(特大)<br><color=0:255:0>使用「先鋒劍」後降低MP消耗(中)<br>使用「先鋒劍」後、發動時、暫時性容易被敵人攻擊</color>",
+        "使用「先鋒劍」後提高傷害增加量(特大)<br><color=0:255:0>使用「先鋒劍」後減少MP消耗(中)<br>使用「先鋒劍」後、發動時、暫時性容易被敵人攻擊</color>",
         "재빠른 검격' 사용 후 피해량 상승(특대)<br><color=0:255:0>'재빠른 검격' 사용 후 소비 MP 감소(중)<br>'재빠른 검격' 사용 후 발동 시 적의 공격 대상이 될 확률 상승</color>",
         "Augmente les dégâts infligés après avoir utilisé Lame rapide (super)<br><color=0:255:0>Réduit les PM consommés après avoir utilisé Lame rapide (moyen)<br>Augmente les chances d'être ciblé sur activation après avoir utilisé Lame rapide</color>",
         "Erhöht Schaden nach Verwendung von Schnelle Klinge (sehr hoch)<br><color=0:255:0>Verringert verbrauchte MP nach Verwendung von Schnelle Klinge (mittel)<br>Erhöht Wahrscheinlichkeit, zum Ziel zu werden, wenn aktiviert nach Verwendung von Schneller Klinge</color>",
@@ -3625,7 +3705,7 @@
     ],
     "208050002": [
         "Boosts ATK and MAG increases (mid)<br><color=0:255:0>Boosts ATK and MAG increases (mid)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
-        "提高攻擊魔力增加量(中)<br><color=0:255:0>提高攻擊魔力增加量(中)</color><br><color=0:255:0>降低MP消耗(大)</color>",
+        "提高攻擊魔力增加量(中)<br><color=0:255:0>提高攻擊魔力增加量(中)</color><br><color=0:255:0>減少MP消耗(大)</color>",
         "공격력과 마력 상승량 상승(중)<br><color=0:255:0>공격력과 마력 상승량 상승(중)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
         "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "Steigert ANG- and MAG-Erhöhungen (mittel)<br><color=0:255:0>Steigert ANG- and MAG-Erhöhungen (mittel)</color><br><color=0:255:0>Verringert verbrauchte MP (hoch)</color>",
@@ -3641,7 +3721,7 @@
     ],
     "208060002": [
         "Boosts DEF and SPR increases (mid)<br><color=0:255:0>Boosts DEF and SPR increases (mid)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
-        "提高防禦精神增加量(中)<br><color=0:255:0>提高防禦精神增加量(中)</color><br><color=0:255:0>降低MP消耗(大)</color>",
+        "提高防禦精神增加量(中)<br><color=0:255:0>提高防禦精神增加量(中)</color><br><color=0:255:0>減少MP消耗(大)</color>",
         "방어력과 정신력 상승량 상승(중)<br><color=0:255:0>방어력과 정신력 상승량 상승(중)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
         "Amplifie l'augmentation de la DEF et de la PSY (moyen)<br><color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (moyen)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "Steigert ABW- und PSY-Erhöhungen (mittel)<br><color=0:255:0>Steigert ABW- und PSY-Erhöhungen (mittel)</color><br><color=0:255:0>Verringert verbrauchte MP (hoch)</color>",
@@ -3665,7 +3745,7 @@
     ],
     "208150001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts consecutive use damage (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color><br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color><br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color><br><color=0:255:0>피해 상승량 상승(중)</color><br><color=0:255:0>연속 사용 시 피해량 상승(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color><br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente les dégâts des aptitudes utilisées de manière consécutive (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color><br><color=0:255:0>Erhöht Schaden (mittel))</color><br><color=0:255:0>Schaden nimmt bei jedem Angriff zu (mittel)</color>",
@@ -3673,7 +3753,7 @@
     ],
     "208150002": [
         "Reduces MP consumed (mid)<br>Boosts damage amount (mid)<br>Boosts consecutive use damage (mid)<br><color=0:255:0>Boosts damage amount (high)</color><br><color=0:255:0>Boosts consecutive use damage (mid)</color>",
-        "降低MP消耗(中)<br>提高傷害量(中)<br>連續使用時提高傷害 (中)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
+        "減少MP消耗(中)<br>提高傷害量(中)<br>連續使用時提高傷害 (中)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>連續使用時提高傷害 (中)</color>",
         "소비MP 감소(중)<br>피해량 상승(중)<br>연속 사용 시 피해량 상승(중)<br><color=0:255:0>피해량 상승(대)</color><br><color=0:255:0>연속 사용 시 피해량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br>Augmente les dégâts infligés (moyen)<br>Augmente les dégâts des aptitudes utilisées de manière consécutive (moyen)<br><color=0:255:0>Augmente les dégâts infligés (beaucoup)</color><br><color=0:255:0>Augmente les dégâts des aptitudes utilisées de manière consécutive (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br>Erhöht Schaden (mittel)<br>Schaden nimmt bei jedem Angriff zu (mittel)<br><color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Schaden nimmt bei jedem Angriff zu (mittel)</color>",
@@ -3777,7 +3857,7 @@
     ],
     "208290001": [
         "<color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Verringert verbrauchte MP (mittel)</color>",
@@ -3785,7 +3865,7 @@
     ],
     "208290002": [
         "Boosts damage amount (low)<br>Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color>",
-        "提高傷害量(小)<br>降低MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color>",
+        "提高傷害量(小)<br>減少MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color>",
         "피해량 상승(소)<br>소비 MP 감소(중)<br><color=0:255:0>피해량 상승(특대)</color>",
         "Augmente les dégâts infligés (peu)<br>Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color>",
         "Erhöht Schaden (gering)<br>Verringert verbrauchte MP (mittel)<br><color=0:255:0>erhöht Schaden (hoch)</color>",
@@ -3857,7 +3937,7 @@
     ],
     "208420001": [
         "<color=0:255:0>Reduces MP consumed (great)</color>",
-        "<color=0:255:0>降低MP消耗(特大)</color>",
+        "<color=0:255:0>減少MP消耗(特大)</color>",
         "<color=0:255:0>소비 MP 감소(특대)</color>",
         "<color=0:255:0>Réduit les PM consommés (super)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch ( sehr hoch)</color>",
@@ -3865,7 +3945,7 @@
     ],
     "208420002": [
         "Reduces MP consumed (great)<br><color=0:255:0>Boosts magic DEF ignored amount (high)</color>",
-        "降低MP消耗(特大)<br><color=0:255:0>提高魔法防禦無視量(大)</color>",
+        "減少MP消耗(特大)<br><color=0:255:0>提高魔法防禦無視量(大)</color>",
         "소비 MP 감소(특대)<br><color=0:255:0>마법방어력 무시량 상승(대)</color>",
         "Réduit les PM consommés (super)<br><color=0:255:0>Augmente la quantité de DEF magique ignorée (beaucoup)</color>",
         "Reduziert den MP-Verbrauch (sehr hoch)<br><color=0:255:0>Erhöht Wert ignorierter MAG-ABW (hoch)</color>",
@@ -3889,7 +3969,7 @@
     ],
     "208610001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -3897,7 +3977,7 @@
     ],
     "208610002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高傷害量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高傷害量(中)</color>",
         "소비 MP 감소(중)<br><color=0:255:0>피해량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color>",
@@ -3930,7 +4010,7 @@
     "208650002": [
         "Enables self to evade two physical attacks<br><color=0:255:0>Boosts chance of being targeted (high)</color><br><color=0:255:0>Boosts number of physical attacks that can be evaded (low)</color>",
         "自身可防住2次物理攻擊<br><color=0:255:0>容易被敵人攻擊(大)</color><br><color=0:255:0>提高可以閃避的物理攻擊次數(小)</color>",
-        "사용자에게 물리공격 2회 회피 효과 부여<br><color=0:255:0>적의 공격 대상이 될 확률 상승(대)</color><br><color=0:255:0>회피 가능한 물리 공격 횟수 상승 (소)</color>",
+        "사용자에게 물리공격 2회 회피 효과 부여<br><color=0:255:0>적의 공격 대상이 될 확률 상승(대)</color><br><color=0:255:0>물리 공격 회피 횟수 상승(소)</color>",
         "Permet au lanceur d'esquiver deux attaques physiques<br><color=0:255:0>Augmente les chances d'être ciblé (beaucoup)</color><br><color=0:255:0>Augmente le nombre d'attaques qui peuvent être esquivées (peu)</color>",
         "Ermöglicht Benutzer, zwei phys. Angriffen auszuweichen<br><color=0:255:0>Erhöht Chance, zum Ziel zu werden (hoch)</color><br><color=0:255:0>Erhöht Anzahl phys. Angriffe, denen ausgewichen werden kann (gering)</color>",
         "El usuario puede evitar dos ataques físicos<br><color=0:255:0>Aumenta la posibilidad de ser atacado (mucho)</color><br><color=0:255:0>Aumenta el número de ataques físicos que pueden ser evitados (poco)</color>"
@@ -4004,7 +4084,7 @@
         "<color=0:255:0>提高攻擊增加量(大)</color>",
         "<color=0:255:0>공격력 상승량 상승(대)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "208880002": [
@@ -4012,7 +4092,7 @@
         "提高攻擊增加量(大)<br><color=0:255:0>提高攻擊增加量(大)</color>",
         "공격력 상승량 상승(대)<br><color=0:255:0>공격력 상승량 상승(대)</color>",
         "Amplifie l'augmentation de l'ATT (beaucoup)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "Steigert die ANG-Erhöhung (hoch)<br><color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "Steigert ANG-Erhöhung (hoch)<br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "208920001": [
@@ -4201,7 +4281,7 @@
     ],
     "209370002": [
         "Boosts turns in effect (low)<br>Boosts damage reduction when active (mid)<br>Boosts chance of taking physical damage (mid)<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts damage reduction when active (high)</color><br><color=0:255:0>Boosts chance of taking physical damage (high)</color><br><color=0:255:0>Boosts DEF and SPR</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高效果回合數(小)<br>提高發動時傷害減少率(中)<br>提高代替承受物理攻擊的機率(中)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高發動時傷害減少率(大)</color><br><color=0:255:0>提高代替承受物理攻擊的機率(大)</color><br><color=0:255:0>提高防禦精神</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高效果回合數(小)<br>提高發動時傷害減少率(中)<br>提高代替承受物理攻擊的機率(中)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高發動時傷害減少率(大)</color><br><color=0:255:0>提高代替承受物理攻擊的機率(大)</color><br><color=0:255:0>提高防禦精神</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "효과 턴 수 상승(소)<br>발동 시 피해 감소량 상승(중)<br>물리공격을 대신 받을 확률 상승(중)<br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>발동 시 피해 감소량 상승(대)</color><br><color=0:255:0>물리공격을 대신 받을 확률 상승(대)</color><br><color=0:255:0>방어력과 정신력 상승</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Augmente le nombre de tours des effets (peu)<br>Amplifie la réduction de dégâts une fois activé (moyen)<br>Augmente les chances de subir des dégâts physiques (moyen)<br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Amplifie la réduction de dégâts une fois activé (beaucoup)</color><br><color=0:255:0>Augmente les chances de subir des dégâts physiques (beaucoup)</color><br><color=0:255:0>Augmente la DEF et la PSY</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Erhöht Anzahl aktiver Runden (gering)<br>Erhöht Schadensverringerung, wenn aktiv (mittel)<br>Erhöht Chance, phys. Schaden zu erleiden (mittel)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Erhöht Schadensverringerung, wenn aktiv (hoch)</color><br><color=0:255:0>Erhöht Chance, phys. Schaden zu erleiden (hoch)</color><br><color=0:255:0>Erhöht ABW und PSY</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -4385,7 +4465,7 @@
     ],
     "209680001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -4393,7 +4473,7 @@
     ],
     "209680002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高傷害量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高傷害量(中)</color>",
         "소비 MP 감소(중)<br><color=0:255:0>피해량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color>",
         "Reduziert den MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color>",
@@ -4428,12 +4508,12 @@
         "提高敵人的道具掉落率<br>裝備火槍時提高攻擊<br><color=0:255:0>提高極限技石對極限技槽的增加量<br>提高攻擊增加量(中)</color>",
         "적의 아이템 드랍률 상승<br>총 장착 시 공격력 상승<br><color=0:255:0>LB 게이지 효율 증가<br>공격력 상승량 상승(중)</color>",
         "Augmente le taux d'objets laissés par les ennemis<br>Augmente l'ATT lorsqu'un pistolet est équipé<br><color=0:255:0>Augmente le taux de remplissage des pierres de limite<br>Amplifie l'augmentation de l'ATT (moyen)</color>",
-        "Mehr Gegenstände von Gegnern<br>Erhöht ANG, wenn mit Schusswaffe ausger.<br><color=0:255:0> Verstärkt den Effekt von Limit-Steinen<br>Steigert die ANG-Erhöhung (mittel)</color>",
+        "Mehr Gegenstände von Gegnern<br>Erhöht ANG, wenn mit Schusswaffe ausger.<br><color=0:255:0> Verstärkt den Effekt von Limit-Steinen<br>Steigert ANG-Erhöhung (mittel)</color>",
         "Los enemigos dejan caer más objetos<br>Aumenta el ATQ al llevar un arma<br><color=0:255:0>Las piedras de EL se rellenan más rápido<br>Mayor aumento de ATQ (bastante)</color>"
     ],
     "209810001": [
         "<color=0:255:0>Reduces MP consumed (high)</color>",
-        "<color=0:255:0>降低MP消耗(大)</color>",
+        "<color=0:255:0>減少MP消耗(大)</color>",
         "<color=0:255:0>소비 MP 감소(대)</color>",
         "<color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "<color=0:255:0>Reduziert den MP-Verbrauch (hoch)</color>",
@@ -4441,7 +4521,7 @@
     ],
     "209810002": [
         "Reduces MP consumed (high)<br><color=0:255:0>Boosts damage amount (mid)</color>",
-        "降低MP消耗(大)<br><color=0:255:0>提高傷害量(中)</color>",
+        "減少MP消耗(大)<br><color=0:255:0>提高傷害量(中)</color>",
         "소비 MP 감소(대)<br><color=0:255:0>피해량 상승(중)</color>",
         "Réduit les PM consommés (beaucoup)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color>",
         "Reduziert den MP-Verbrauch (hoch)<br><color=0:255:0>Erhöht Schaden (mittel)</color>",
@@ -4460,7 +4540,7 @@
         "提高攻擊<br>增加極限技槽<br><color=0:255:0>提高攻擊增加量(中)<br>提高攻擊增加效果回合數(中)<br>提高極限技槽增加量(特大)</color>",
         "공격력 상승<br>LB 게이지 증가<br><color=0:255:0>공격력 상승량 상승(중)<br>공격력 상승 효과 턴 수 상승(중)<br>LB 게이지 증가량 상승(특대)</color>",
         "Augmente l'ATT<br>Augmente la jauge de limite<br><color=0:255:0>Augmente le nombre de tours des effets (moyen)<br>Augmente le nombre de tours de l'augmentation de l'ATT (moyen)<br>Augmente la vitesse de remplissage de la jauge de limite (super)</color>",
-        "ANG erhöht<br>Limitmeter steigt<br><color=0:255:0>Steigert die ANG-Erhöhung (mittel)<br>Steigert die Anzahl von Runden, in denen ANG-Erhöhung aktiv ist (mittel)<br>Limitmeter füllt sich schneller (sehr hoch)</color>",
+        "ANG erhöht<br>Limitmeter steigt<br><color=0:255:0>Steigert ANG-Erhöhung (mittel)<br>Steigert die Anzahl von Runden, in denen ANG-Erhöhung aktiv ist (mittel)<br>Limitmeter füllt sich schneller (sehr hoch)</color>",
         "Aumenta el ATQ<br>Aumenta la barra de EL<br><color=0:255:0>Mayor aumento de ATQ (bastante)<br>Aumenta la duración del incremento de ATQ (bastante)<br>La barra de EL se llena más rápido (muchísimo)</color>"
     ],
     "209870001": [
@@ -4508,7 +4588,7 @@
         "提高攻擊<br><color=0:255:0>提高攻擊增加量(中)<br>物理攻擊時提高對岩石系魔物的傷害</color>",
         "공격력 상승<br><color=0:255:0>공격력 상승량 상승(중)<br>물리공격 시 암석형 마물에게 주는 피해량 상승</color>",
         "Augmente l'ATT<br><color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)<br>Augmente les dégâts physiques infligés aux monstres de pierre</color>",
-        "Erhöht ANG<br><color=0:255:0>Steigert die ANG-Erhöhung (mittel)<br>Erhöht physischen Schaden gegen Steinmonster</color>",
+        "Erhöht ANG<br><color=0:255:0>Steigert ANG-Erhöhung (mittel)<br>Erhöht physischen Schaden gegen Steinmonster</color>",
         "Aumenta el ATQ<br><color=0:255:0>Mayor aumento de ATQ (bastante)<br>Aumenta el daño físico contra monstruos de piedra</color>"
     ],
     "210010001": [
@@ -4577,7 +4657,7 @@
     ],
     "210100001": [
         "<color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>提高傷害量(中)<br>降低MP消耗(中)</color>",
+        "<color=0:255:0>提高傷害量(中)<br>減少MP消耗(中)</color>",
         "<color=0:255:0>피해량 상승(중)<br>소비 MP 감소(중)</color>",
         "<color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -4585,7 +4665,7 @@
     ],
     "210100002": [
         "Boosts damage amount (mid)<br>Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts earth resistance reduction (mid)</color>",
-        "提高傷害量(中)<br>降低MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高土屬性耐性減少量(中)</color>",
+        "提高傷害量(中)<br>減少MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高土屬性耐性減少量(中)</color>",
         "피해량 상승(중)<br>소비 MP 감소(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>땅속성 저항력 감소량 상승(중)</color>",
         "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance à la terre (moyen)</color>",
         "Erhöht Schaden (mittel) <br>Verringert MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Erdresistenz (mittell)</color>",
@@ -4665,7 +4745,7 @@
     ],
     "210410002": [
         "Boosts active ability effect (mid)<br><color=0:255:0>Boosts active ability effect (high)</color><br><color=0:255:0>Increases effects of random abilities</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高發動能力時的效果(中)<br><color=0:255:0>提高發動能力時的效果(大)</color><br><color=0:255:0>提高隨機能力的效果</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高發動能力時的效果(中)<br><color=0:255:0>提高發動能力時的效果(大)</color><br><color=0:255:0>提高隨機能力的效果</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "발동하는 어빌리티 효과 상승(중)<br><color=0:255:0>발동하는 어빌리티 효과 상승(대)</color><br><color=0:255:0>무작위 어빌리티 효과 상승</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Augmente l'effet des aptitudes actives (moyen)<br><color=0:255:0>Augmente l'effet des aptitudes actives (beaucoup)</color><br><color=0:255:0>Augmente les effets d'aptitudes au hasard</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Verstärkt aktivierte Fertigkeiteneffekte (mittel)<br><color=0:255:0Erhöht aktive Fertigkeiteneffekte (hoch)</color><br><color=0:255:0>Erhöht Effekte von zufälligen Fertigkeiten</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -4673,7 +4753,7 @@
     ],
     "210420001": [
         "<color=0:255:0>Boosts MAG and SPR increases (high)</color><br><color=0:255:0>Reduces MP consumed (great)</color>",
-        "<color=0:255:0>提高魔力精神增加量(大)</color><br><color=0:255:0>降低MP消耗(特大)</color>",
+        "<color=0:255:0>提高魔力精神增加量(大)</color><br><color=0:255:0>減少MP消耗(特大)</color>",
         "<color=0:255:0>마력과 정신력 상승량 상승(대)</color><br><color=0:255:0>소비 MP 감소(특대)</color>",
         "<color=0:255:0>Amplifie l'augmentation de la MAGIE et de la PSY (beaucoup)</color><br><color=0:255:0>Réduit les PM consommés (super)</color>",
         "<color=0:255:0>Steigert MAG- und PSY-Erhöhung (hoch)</color><br><color=0:255:0>Verringert MP-Verbrauch (sehr hoch)</color>",
@@ -4681,7 +4761,7 @@
     ],
     "210420002": [
         "Boosts MAG and SPR increases (high)<br>Reduces MP consumed (great)<br><color=0:255:0>Boosts MAG and SPR increases (mid)</color><br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)</color>",
-        "提高魔力精神增加量(大)<br>降低MP消耗(特大)<br><color=0:255:0>提高魔力精神增加量(中)</color><br><color=0:255:0>提高火冰雷水風土光暗屬性耐性增加量(小)</color>",
+        "提高魔力精神增加量(大)<br>減少MP消耗(特大)<br><color=0:255:0>提高魔力精神增加量(中)</color><br><color=0:255:0>提高火冰雷水風土光暗屬性耐性增加量(小)</color>",
         "마력과 정신력 상승량 상승(대)<br>소비 MP 감소(특대)<br><color=0:255:0>마력과 정신력 상승량 상승(중)</color><br><color=0:255:0>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승량 상승(소)</color>",
         "Amplifie l'augmentation de la MAGIE et de la PSY (beaucoup)<br>Réduit les PM consommés (super)<br><color=0:255:0>Amplifie l'augmentation de la MAGIE et de la PSY (moyen)</color><br><color=0:255:0>Amplifie l'augmentation de la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres (peu)</color>",
         "Steigert MAG- und PSY-Erhöhung (hoch)<br>Verringert MP-Verbrauch (sehr hoch)<br><color=0:255:0>Steigert MAG- und PSY-Erhöhung (mittel)</color><br><color=0:255:0>Steigert Resistenzerhöhungen für Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel (gering)</color>",
@@ -4740,7 +4820,7 @@
         "<color=0:255:0>提高攻擊增加量(小)</color>",
         "<color=0:255:0>공격력 상승량 상승(소)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (peu)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (gering)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (gering)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (poco)</color>"
     ],
     "210480002": [
@@ -4748,7 +4828,7 @@
         "提高攻擊增加量(小)<br><color=0:255:0>提高攻擊增加量(小)<br>提高對人形系的傷害增加量(大)</color>",
         "공격력 상승량 상승(소)<br><color=0:255:0>공격력 상승량 상승(소)<br>인간형 마물에게 주는 피해 상승량 상승(대)</color>",
         "Amplifie l'augmentation de l'ATT (peu)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (peu)<br>Amplifie l'augmentation des dégâts contre les humains (beaucoup)</color>",
-        "Steigert die ANG-Erhöhung (gering)<br><color=0:255:0>Steigert die ANG-Erhöhung (gering)<br>Erhöht Schaden gegen Menschen (hoch)</color>",
+        "Steigert ANG-Erhöhung (gering)<br><color=0:255:0>Steigert ANG-Erhöhung (gering)<br>Erhöht Schaden gegen Menschen (hoch)</color>",
         "Mayor aumento de ATQ (poco)<br><color=0:255:0>Mayor aumento de ATQ (poco)<br>Mayor aumento de daño contra humanos (mucho)</color>"
     ],
     "210510001": [
@@ -4793,7 +4873,7 @@
     ],
     "210570002": [
         "Boosts DEF and SPR increases (low)<br>Reduces damage taken for five turns for one ally<br><color=0:255:0>Boosts DEF and SPR increases (mid)</color><br><color=0:255:0>Gradually restores HP for one ally</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高防禦精神增加量(小)<br>5回合內減少對1名隊員的傷害<br><color=0:255:0>提高防禦精神增加量(中)</color><br><color=0:255:0>持續恢復1名隊員HP</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高防禦精神增加量(小)<br>5回合內減少對1名隊員的傷害<br><color=0:255:0>提高防禦精神增加量(中)</color><br><color=0:255:0>持續恢復1名隊員HP</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "방어력과 정신력 상승량 상승(소)<br>5턴 동안 아군 1명이 받는 피해량 감소<br><color=0:255:0>방어력과 정신력 상승량 상승(중)</color><br><color=0:255:0>아군 1명의 HP 서서히 회복</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Amplifie l'augmentation de la DEF et de la PSY (peu)<br>Réduit les dégâts reçus par un allié pendant 5 tours<br><color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (moyen)</color><br><color=0:255:0>Restaure progressivement les PV d'un allié</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Steigert ABW- und PSY-Erhöhungen (gering)<br>Reduziert Schaden bei einem Verb. für fünf Runden<br><color=0:255:0>Steigert ABW- und PSY-Erhöhungen (mittel)</color><br><color=0:255:0>Regeneriert allmählich die LP eines Verb.</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -4804,7 +4884,7 @@
         "<color=0:255:0>提高攻擊增加量(中)</color>",
         "<color=0:255:0>공격력 상승량 상승(중)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
         "<color=0:255:0>Aumenta el daño (bastante)</color>"
     ],
     "210590002": [
@@ -4812,7 +4892,7 @@
         "提高攻擊增加量(中)<br><color=0:255:0>下一回合「嗜血武裝」「暗黑武器」的範圍變為全體敵人</color>",
         "공격력 상승량 상승(중)<br><color=0:255:0>다음 턴에 '피의 무기', '어둠의 무기' 대상 범위가 적 전체로 확대</color>",
         "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Arme de sang et Arme obscure ciblent tous les ennemis au prochain tour</color>",
-        "Steigert die ANG-Erhöhung (mittel)<br><color=0:255:0>Blut- und Dunkelwaffe zielen in der nächsten Runde auf alle Gegner</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Blut- und Dunkelwaffe zielen in der nächsten Runde auf alle Gegner</color>",
         "Aumenta el daño (bastante)<br><color=0:255:0>Arma sangrienta y Arma tenebrosa afectan a todos los enemigos en el turno siguiente</color>"
     ],
     "210610001": [
@@ -4873,7 +4953,7 @@
     ],
     "210710002": [
         "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (mid)<br>Reduces MP consumed (low)</color>",
-        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)<br>降低MP消耗(小)</color>",
+        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)<br>減少MP消耗(小)</color>",
         "피해량 상승(중)<br><color=0:255:0>피해량 상승(중)<br>소비 MP 감소(소)</color>",
         "Augmente les dégâts infligés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (peu)</color>",
         "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)<br>Reduziert den MP-Verbrauch (gering)</color>",
@@ -4977,7 +5057,7 @@
     ],
     "210960001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Verringert verbrauchte MP (mittel)</color>",
@@ -4985,7 +5065,7 @@
     ],
     "210960002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (mid)<br>Boosts damage amount with consecutive use (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高傷害量(中)<br>提高連續使用時的傷害量(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高傷害量(中)<br>提高連續使用時的傷害量(中)</color>",
         "소비 MP 감소(중)<br><color=0:255:0>피해량 상승(중)<br>연속 사용 시 피해량 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)<br>>Augmente les dégâts infligés avec une utilisation consécutive (moyen)</color>",
         "Verringert verbrauchte MP (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)<br>Erhöht Schaden nach jeder Anwendung (mittel)</color>",
@@ -5054,6 +5134,38 @@
         "Augmente les dégâts infligés (super)<br><color=0:255:0>Augmente le nombre de coups (moyen)</color>",
         "Erhöht Schaden (sehr hoch)<br><color=0:255:0>Erhöht die Trefferzahl (mittel)</color>",
         "Aumenta el daño(muchísimo)<br><color=0:255:0>Aumenta el número de golpes (bastante)</color>"
+    ],
+    "211340001": [
+        "<color=0:255:0>Boosts ATK increase (high)</color>",
+        "<color=0:255:0>提高攻擊增加量(大)</color>",
+        "<color=0:255:0>공격력 상승량 상승(대)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
+    ],
+    "211340002": [
+        "Boosts ATK increase (high)<br><color=0:255:0>Boosts ATK increase (great)</color>",
+        "提高攻擊增加量(大)<br><color=0:255:0>提高攻擊增加量(特大)</color>",
+        "공격력 상승량 상승(대)<br><color=0:255:0>공격력 상승량 상승(특대)</color>",
+        "Amplifie l'augmentation de l'ATT (beaucoup)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (super)</color>",
+        "Steigert ANG-Erhöhung (hoch)<br><color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)</color>",
+        "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Mayor aumento de ATQ (muchísimo)</color>"
+    ],
+    "211340003": [
+        "<color=0:255:0>Boosts ATK increase (high)</color><br><color=0:255:0>Boosts SPR when equipped with fists</color>",
+        "<color=0:255:0>提高攻擊增加量(大)</color><br><color=0:255:0>裝備格鬥武器時提高精神</color>",
+        "<color=0:255:0>공격력 상승량 상승(대)</color><br><color=0:255:0>격투무기 장착 시 정신력 상승</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color><br><color=0:255:0>Augmente la PSY lorsque des poings sont équipés</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color><br><color=0:255:0>Erhöht PSY, wenn mit Fäusten ausgerüstet</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (mucho)</color><br><color=0:255:0>Aumenta el ESP al llevar puños</color>"
+    ],
+    "211340004": [
+        "Boosts ATK increase (high)<br>Boosts SPR when equipped with fists<br><color=0:255:0>Boosts ATK and SPR increases (high)</color>",
+        "提高攻擊增加量(大)<br>裝備格鬥武器時提高精神<color=0:255:0>提高攻擊精神增加量(大)</color>",
+        "공격력 상승량 상승(대)<br>격투무기 장착 시 정신력 상승<br><color=0:255:0>공격력과 정신력 상승량 상승(대)</color>",
+        "Amplifie l'augmentation de l'ATT (beaucoup)<br>Augmente la PSY quand des poings sont équipés<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la PSY (beaucoup)</color>",
+        "Steigert ANG-Erhöhung (hoch)<br>Erhöht PSY, wenn mit Fäusten ausgerüstet<br><color=0:255:0>Steigert ANG- und PSY-Erhöhungen (hoch)</color>",
+        "Mayor aumento de ATQ (mucho)<br>Aumenta el ESP al llevar puños<br><color=0:255:0>Mayores aumentos de ATQ y ESP (mucho)</color>"
     ],
     "211380001": [
         "<color=0:255:0>Adds wind element to own physical attack</color>",
@@ -5361,7 +5473,7 @@
     ],
     "212090001": [
         "<color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -5369,7 +5481,7 @@
     ],
     "212090002": [
         "Boosts damage amount (mid)<br>Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts light resistance reduction (mid)</color><br><color=0:255:0>Boosts turns in effect (mid)</color>",
-        "提高傷害量(中)<br>降低MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高光屬性耐性減少量(中)</color><br><color=0:255:0>提高效果回合數(中)</color>",
+        "提高傷害量(中)<br>減少MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高光屬性耐性減少量(中)</color><br><color=0:255:0>提高效果回合數(中)</color>",
         "피해량 상승(중)<br>소비 MP 감소(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>빛속성 저항력 감소량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(중)</color>",
         "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance à la lumière (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (moyen)</color>",
         "Erhöht Schaden (mittel)<br>Verringert MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Lichtresistenz (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (mittel)</color>",
@@ -5513,7 +5625,7 @@
     ],
     "212300002": [
         "Boosts turns in effect (mid)<br><color=0:255:0>Boosts turns in effect (great)</color><br><color=0:255:0>Boosts damage amount of swift current (great)</color><br><color=0:255:0>Boosts damage amount (high) and reduces MP consumed for aqua prison (high)</color><br><color=0:255:0>Boosts DEF and SPR increases (high), and adds received magic damage reduction effect for three turns for elemental power</color>",
-        "提高效果回合數(中)<br><color=0:255:0>提高效果回合數(特大)</color><br><color=0:255:0>提高「急流」的傷害量(特大)</color><br><color=0:255:0>提高「水業牢籠」的傷害量(大)+降低MP消耗(大)</color><br><color=0:255:0>提高防禦精神增加量(大)+「元素之力」追加3回合內減少受到魔法傷害的效果</color>",
+        "提高效果回合數(中)<br><color=0:255:0>提高效果回合數(特大)</color><br><color=0:255:0>提高「急流」的傷害量(特大)</color><br><color=0:255:0>提高「水業牢籠」的傷害量(大)+減少MP消耗(大)</color><br><color=0:255:0>提高防禦精神增加量(大)+「元素之力」追加3回合內減少受到魔法傷害的效果</color>",
         "효과 턴 수 상승(중)<br><color=0:255:0>효과 턴 수 상승(특대)</color><br><color=0:255:0>'급류'의 피해량 상승(특대)</color><br><color=0:255:0>'물의 감옥'의 피해량 상승(대), 소비MP 감소(대)</color><br><color=0:255:0>방어력과 정신력 상승량 상승(대), 3턴 동안 '원소의 힘' 사용 시 마법피해량 감소 효과 부여</color>",
         "Augmente le nombre de tours des effets (moyen)<br><color=0:255:0>Augmente le nombre de tours des effets (super)</color><br><color=0:255:0>Augmente les dégâts de Courant rapide (super)</color><br><color=0:255:0>Augmente les dégâts infligés (beaucoup) et réduit les PM consommés par Prison aquatique (beaucoup)</color><br><color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (beaucoup), et ajoute l'effet de réduction des dégâts magiques reçus pendant 3 tours pour Puissance élémentaire</color>",
         "Erhöht Anzahl aktiver Runden /mittel)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (sehr hoch)</color><br><color=0:255:0>Erhöht Schaden von \"Flinke Strömung\" </color><br><color=0:255:0>Erhöht Schaden (hoch) und verringert MP-Verbrauch für Aquagefängnis (hoch)</color><br><color=0:255:0>Steigert ABW- und PSY-Erhöhungen (hoch), fügt \"Elementarkraft\" 3 Runden lange Schadensreduzierung von mag. Schaden hinzu</color>",
@@ -5583,6 +5695,22 @@
         "Steigert Erhöhung von Windresistenz (hoch)<br><color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)</color>",
         "Mayor aumento de la resistencia al viento (mucho)<br><color=0:255:0>Mayor aumento de ATQ (muchísimo)</color>"
     ],
+    "212690001": [
+        "<color=0:255:0>Boosts ATK increase (mid)</color>",
+        "<color=0:255:0>提高攻擊增加量(中)</color>",
+        "<color=0:255:0>공격력 상승량 상승(중)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
+    ],
+    "212690002": [
+        "Boosts ATK increase (mid)<br><color=0:255:0>Boosts ATK increase (high)</color>",
+        "提高攻擊增加量(中)<br><color=0:255:0>提高攻擊增加量(大)</color>",
+        "공격력 상승량 상승(중)<br><color=0:255:0>공격력 상승량 상승(대)</color>",
+        "Amplifie l'augmentation de l'ATT (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
+        "Steigert ANG-Erhöhung (mittel)<br><color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
+        "Mayor aumento de ATQ (bastante)<br><color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
+    ],
     "213300001": [
         "<color=0:255:0>Boosts SPR increase (high)</color>",
         "<color=0:255:0>提高精神增加量(大)</color>",
@@ -5601,7 +5729,7 @@
     ],
     "213330001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -5609,7 +5737,7 @@
     ],
     "213330002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts reductions to ATK and DEF (low)<br>Boosts turns in effect (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高攻擊防禦減少量(小)<br>提高效果回合數(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高攻擊防禦減少量(小)<br>提高效果回合數(中)</color>",
         "소비 MP 감소(중)<br><color=0:255:0>공격력과 방어력 감소량 상승(소)<br>효과 턴 수 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Amplifie les réductions de l'ATT et de la DEF (peu)<br>Augmente le nombre de tours des effets (moyen)</color>",
         "Verringert MP-Verbrauch (mittel)<br><color=0:255:0>Steigert ANG- und ABW-Verringerungen (gering)<br>Erhöht Anzahl aktiver Runden (mittel)</color>",
@@ -5617,7 +5745,7 @@
     ],
     "213340001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -5625,7 +5753,7 @@
     ],
     "213340002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts reductions to MAG and SPR (low)<br>Boosts turns in effect (mid)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高魔力精神減少量(小)<br>提高效果回合數(中)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高魔力精神減少量(小)<br>提高效果回合數(中)</color>",
         "소비 MP 감소(중)<br><color=0:255:0>마력과 정신력 감소량 상승(소)<br>효과 턴 수 상승(중)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Amplifie les réductions de la MAGIE et de la PSY (peu)<br>Augmente le nombre de tours des effets (moyen)</color>",
         "Verringert MP-Verbrauch (mittel)<br><color=0:255:0>Steigert MAG- und PSY-Verringerungen (gering)<br>Erhöht Anzahl aktiver Runden (mittel)</color>",
@@ -5665,7 +5793,7 @@
     ],
     "213480001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -5673,7 +5801,7 @@
     ],
     "213480002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts damage amount (high)</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高傷害量(大)</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高傷害量(大)</color>",
         "소비 MP 감소(중)<br><color=0:255:0>피해량 상승(대)</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (beaucoup)</color>",
         "Verringert MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (hoch)</color>",
@@ -5713,7 +5841,7 @@
     ],
     "213610001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Verringert den MP-Verbrauch (mittel)</color>",
@@ -5721,7 +5849,7 @@
     ],
     "213610002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Restores MP for all allies</color>",
-        "降低MP消耗(中)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>恢復全體隊員的MP</color>",
+        "減少MP消耗(中)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>恢復全體隊員的MP</color>",
         "소비 MP 감소(중)<br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>아군 전체의 MP 회복</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Restaure les PM de tous les alliés</color>",
         "Verringert den MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Regeneriert MP aller Verb.</color>",
@@ -5870,6 +5998,22 @@
         "Augmente les PM<br>Augmente les dégâts physiques infligés aux morts-vivants<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la DEF (moyen)</color><br><color=0:255:0>Amplifie l'augmentation des dégâts physiques (peu)</color>",
         "Erhöht MP<br>Erhöht phys. Schaden gegen Untote<br><color=0:255:0>Steigert ANG- und ABW-Erhöhungen (mittel)</color><br><color=0:255:0>Steigert Erhöhung des phys. Schadens (gering)</color>",
         "Aumenta la VIT<br>Aumenta el daño físico del usuario contra muertos vivientes<br><color=0:255:0>Mayor aumento de ATQ y DEF (bastante)</color><br><color=0:255:0>Mayor aumento de daño físico (poco)</color>"
+    ],
+    "214100001": [
+        "<color=0:255:0>Boosts ATK increase (great)</color><br><color=0:255:0>Boosts DEF and SPR</color>",
+        "<color=0:255:0>提高攻擊增加量(特大)</color><br><color=0:255:0>提高防禦精神</color>",
+        "<color=0:255:0>공격력 상승량 상승(특대)</color><br><color=0:255:0>방어력과 정신력 상승</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (super)</color><br><color=0:255:0>Augmente la DEF et la PSY</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht ABW und PSY</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (muchísimo)</color><br><color=0:255:0>Aumenta la DEF y el ESP</color>"
+    ],
+    "214100002": [
+        "Boosts ATK increase (great)<br>Boosts DEF and SPR<br><color=0:255:0>Boosts ATK increase (great)</color><br><color=0:255:0>Boosts DEF and SPR increases (mid)</color>",
+        "提高攻擊增加量(特大)<br>提高防禦精神<color=0:255:0>提高攻擊增加量(特大)</color><br><color=0:255:0>提高防禦精神增加量(中)</color>",
+        "공격력 상승량 상승(특대)<br>방어력과 정신력 상승<br><color=0:255:0>공격력 상승량 상승(특대)</color><br><color=0:255:0>방어력과 정신력 상승량 상승(중)</color>",
+        "Amplifie l'augmentation de l'ATT (super)<br>Augmente la DEF et la PSY<br><color=0:255:0>Amplifie l'augmentation de l'ATT (super)</color><br><color=0:255:0>Amplifie l'augmentation de la DEF et de la PSY (moyen)</color>",
+        "Steigert ANG-Erhöhung (sehr hoch)<br>Erhöht ABW und PSY<br><color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)</color><br><color=0:255:0>Steigert ABW- und PSY-Erhöhungen (mittel)</color>",
+        "Mayor aumento de ATQ (muchísimo)<br>Aumenta la DEF y el ESP<br><color=0:255:0>Mayor aumento de ATQ (muchísimo)</color><br><color=0:255:0>Mayor aumento de DEF y ESP (bastante)</color>"
     ],
     "214110001": [
         "<color=0:255:0>Boosts damage amount (great)</color>",
@@ -6308,7 +6452,7 @@
         "<color=0:255:0>提高攻擊增加量(小)</color>",
         "<color=0:255:0>공격력 상승량 상승(소)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (peu)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (gering)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (gering)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (poco)</color>"
     ],
     "216260002": [
@@ -6377,7 +6521,7 @@
     ],
     "216570002": [
         "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (low)<br><color=0:255:0>Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance increases (mid)</color><br><color=0:255:0>Boosts damage reduction rate (low)</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高火冰雷水風土光暗屬性耐性增加量(小)<br><color=0:255:0>提高火冰雷水風土光暗屬性耐性增加量(中)</color><br><color=0:255:0>提高傷害減少率(小)</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高火冰雷水風土光暗屬性耐性增加量(小)<br><color=0:255:0>提高火冰雷水風土光暗屬性耐性增加量(中)</color><br><color=0:255:0>提高傷害減少率(小)</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승량 상승(소)<br><color=0:255:0>불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승량 상승(중)</color><br><color=0:255:0>피해량 감소율 상승(소)</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Amplifie l'augmentation de la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres (peu)<br><color=0:255:0>Amplifie l'augmentation de la résistance à feu, glace, foudre, eau, vent, terre, lumière, et ténèbres (moyen)</color><br><color=0:255:0>Augmente le taux de réduction des dégâts (peu)</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Steigert Erhöhungen von Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (gering)<br><color=0:255:0>Steigert Erhöhungen von Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (mittel)</color><br><color=0:255:0>Erhöht Schadensverringerung (gering)</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -6393,7 +6537,7 @@
     ],
     "216580002": [
         "Boosts damage increase against dragons (low)<br><color=0:255:0>Boosts damage increase against dragons (low)</color><br><color=0:255:0>Boosts ATK and MAG for all allies</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高對龍系魔物的傷害增加量(小)<br><color=0:255:0>提高對龍系魔物的傷害增加量(小)</color><br><color=0:255:0>提高全體隊員的攻擊魔力</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高對龍系魔物的傷害增加量(小)<br><color=0:255:0>提高對龍系魔物的傷害增加量(小)</color><br><color=0:255:0>提高全體隊員的攻擊魔力</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "드래곤형 마물에게 부여하는 피해 상승량 상승(소)<br><color=0:255:0>드래곤형 마물에게 부여하는 피해 상승량 상승(소)</color><br><color=0:255:0>아군 전체의 공격력과 마력 상승</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Amplifie l'augmentation des dégâts infligés aux dragons (peu)<br><color=0:255:0>>Amplifie l'augmentation des dégâts infligés aux dragons (peu)</color><br><color=0:255:0>Augmente l'ATT et la MAGIE de tous les alliés</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Steigert Schadenserhöhung gegen Drachen (gering)<br><color=0:255:0>Steigert Schadenserhöhung gegen Drachen (gering)</color><br><color=0:255:0>Erhöht ANG und MAG aller Verb</color><br><color=255:255:0>Erhöht MAG-Verbrauch (hoch)</color>",
@@ -6681,7 +6825,7 @@
     ],
     "217400002": [
         "Boosts maximum number of ailments inflicted (low)<br><color=0:255:0>Boosts maximum number of ailments inflicted (low)<br>Reduces MP consumed (mid)</color>",
-        "提高賦予狀態效果的最大量(小)<br><color=0:255:0>提高賦予狀態效果的最大值(小)<br>降低MP消耗(中)</color>",
+        "提高賦予狀態效果的最大量(小)<br><color=0:255:0>提高賦予狀態效果的最大值(小)<br>減少MP消耗(中)</color>",
         "부여 확률 상승(소)<br><color=0:255:0>부여 확률 상승(소)<br>소비 MP 감소(중)</color>",
         "Augmente le nombre maximum d'altérations d'état qu'il est possible d'infliger (peu)<br><color=0:255:0>Augmente le nombre maximum d'altérations d'état qu'il est possible d'infliger (peu)<br>Réduit les PM consommés (moyen)</color>",
         "Erhöhte Chance auf Hinzufügen (gering)<br><color=0:255:0>Erhöhte Chance auf Hinzufügen (gering)<br>Reduziert den MP-Verbrauch (mittel)</color>",
@@ -6716,7 +6860,7 @@
         "裝備短劍投擲武器時提高攻擊<br><color=0:255:0>提高攻擊增加量(中)</color>",
         "단검, 투척무기 장착 시 공격력 상승<br><color=0:255:0>공격력 상승량 상승(중)</color>",
         "Augmente l'ATT lorsqu'une épée courte ou une arme de jet est équipée<br><color=0:255:0>Amplifie l'augmentation de l'ATT (moyen)</color>",
-        "Erhöht ANG, wenn mit Kurzschwert oder Wurfwaffe ausgerüstet<br><color=0:255:0>Steigert die ANG-Erhöhung (mittel)</color>",
+        "Erhöht ANG, wenn mit Kurzschwert oder Wurfwaffe ausgerüstet<br><color=0:255:0>Steigert ANG-Erhöhung (mittel)</color>",
         "Aumenta el ATQ al llevar una espada corta o un arma arrojadiza<br><color=0:255:0>Mayor aumento de ATQ (bastante)</color>"
     ],
     "217520001": [
@@ -6793,7 +6937,7 @@
     ],
     "217670002": [
         "Boosts damage amount (low)<br>Reduces fire resistance<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts fire resistance reduction (high)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "提高傷害量 (小)<br>降低火屬性耐性<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高火屬性耐性減少量(大)</color><br><color=0:255:0>降低MP消耗(小)</color>",
+        "提高傷害量 (小)<br>降低火屬性耐性<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高火屬性耐性減少量(大)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "피해량 상승(소)<br>불속성 저항력 감소<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>불속성 저항력 감소량 상승(대)</color><br><color=0:255:0>소비 MP 감소(소)</color>",
         "Augmente les dégâts infligés (peu)<br>Réduit la résistance au feu<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Amplifie la réduction de la résistance au feu (beaucoup)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "Erhöht Schaden (gering)<br>Verringert Feuerresistenz<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Steigert Verringerung von Feuerresistenz</color><br><color=0:255:0>Verringert verbrauchte MP (gering)</color>",
@@ -7465,7 +7609,7 @@
     ],
     "221420002": [
         "Boosts damage amount (great)<br>Increases MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (great)</color>",
-        "提高傷害量(特大)<br>增加MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>提高MP消耗(特大)</color>",
+        "提高傷害量(特大)<br>增加MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(特大)</color>",
         "피해량 상승(특대)<br>소비 MP 상승(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 상승(특대)</color>",
         "Augmente les dégâts infligés (super)<br>Augmente les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
         "Erhöht Schaden (sehr hoch)<br>Erhöht MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (sehr hoch)</color>",
@@ -7505,7 +7649,7 @@
     ],
     "221500001": [
         "<color=0:255:0>Reduces MP consumed (mid)</color>",
-        "<color=0:255:0>降低MP消耗(中)</color>",
+        "<color=0:255:0>減少MP消耗(中)</color>",
         "<color=0:255:0>소비 MP 감소(중)</color>",
         "<color=0:255:0>Réduit les PM consommés (moyen)</color>",
         "<color=0:255:0>Verringert MP-Verbrauch (mittel)</color>",
@@ -7513,7 +7657,7 @@
     ],
     "221500002": [
         "Reduces MP consumed (mid)<br><color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Restores MP for all allies</color>",
-        "降低MP消耗(中)<br><color=0:255:0>降低MP消耗(中)</color><br><color=0:255:0>恢復全體隊員的MP</color>",
+        "減少MP消耗(中)<br><color=0:255:0>減少MP消耗(中)</color><br><color=0:255:0>恢復全體隊員的MP</color>",
         "소비 MP 감소(중)<br><color=0:255:0>소비 MP 감소(중)</color><br><color=0:255:0>아군 전체의 MP 회복</color>",
         "Réduit les PM consommés (moyen)<br><color=0:255:0>Réduit les PM consommés (moyen)</color><br><color=0:255:0>Restaure les PM de tous les alliés</color>",
         "Verringert MP-Verbrauch (mittel)<br><color=0:255:0>Verringert MP-Verbrauch (mittel)</color><br><color=0:255:0>Regeneriert MP aller Verb.</color>",
@@ -7711,6 +7855,22 @@
         "Steigert LP-, ANG- und MAG-Erhöhungen (mittel)<br><color=0:255:0>Steigert LP-, ANG- und MAG-Erhöhungen (gering)</color><br><color=0:255:0>erhöht MP, ABW und PSY</color>",
         "Mayor aumento de VIT, ATQ y MAG (bastante)<br><color=0:255:0>Mayor aumento de VIT, ATQ y MAG (poco)</color><br><color=0:255:0>Aumenta PM, DEF y ESP</color>"
     ],
+    "223080001": [
+        "<color=0:255:0>Boosts fire resistance increase (mid)</color><br><color=0:255:0>Boosts ATK and DEF increases (low)</color>",
+        "<color=0:255:0>提高火屬性耐性增加量(中)</color><br><color=0:255:0>提高攻擊防禦增加量(小)</color>",
+        "<color=0:255:0>불속성 저항력 상승량 상승(중)</color><br><color=0:255:0>공격력과 방어력 상승량 상승(소)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de la résistance au feu (moyen)</color><br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la DEF (peu)</color>",
+        "<color=0:255:0>Steigert Erhöhung von Feuerresistenz (mittel)</color><br><color=0:255:0>Steigert ANG- und ABW-Erhöhungen (gering)</color>",
+        "<color=0:255:0>Mayor aumento de resistencia al fuego (bastante)</color><br><color=0:255:0>Mayores aumentos de ATQ y DEF (poco)</color>"
+    ],
+    "223080002": [
+        "Boosts fire resistance increase (mid)<br>Boosts ATK and DEF increases (low)<br><color=0:255:0>Boosts SPR when equipped with light armor</color><br><color=0:255:0>Boosts HP</color><br><color=0:255:0>Restores HP every turn</color>",
+        "提高火屬性耐性增加量(中)<br>提高攻擊防禦增加量(小)<br><color=0:255:0>裝備輕鎧甲時提高精神</color><br><color=0:255:0>提高HP</color><br><color=0:255:0>每回合恢復HP</color>",
+        "불속성 저항력 상승량 상승(중)<br>공격력과 방어력 상승량 상승(소)<br><color=0:255:0>경갑 장착 시 정신력 상승</color><br><color=0:255:0>HP 상승</color><br><color=0:255:0>매 턴마다 HP 회복</color>",
+        "Amplifie l'augmentation de la résistance au feu (moyen)<br>Amplifie l'augmentation de l'ATT et de la DEF (peu)<br><color=0:255:0>Augmente la PSY lorsqu'une armure légère est équipée</color><br><color=0:255:0>Augmente les PV</color><br><color=0:255:0>Restaure les PV à chaque tour</color>",
+        "Steigert Erhöhung von Feuerresistenz (mittel)<br>Steigert ANG- und ABW-Erhöhungen (gering)<br><color=0:255:0>Erhöht PSY, wenn mit leichter Rüstung ausgerüstet</color><br><color=0:255:0>Erhöht LP</color><br><color=0:255:0>Regeneriert jede Runde LP</color>",
+        "Mayor aumento de resistencia al fuego (bastante)<br>Mayores aumentos de ATQ y DEF (poco)<br><color=0:255:0>Aumenta el ESP al llevar armadura ligera</color><br><color=0:255:0>Aumenta la VIT</color><br><color=0:255:0>Recupera VIT cada turno</color>"
+    ],
     "223130001": [
         "<color=0:255:0>Boosts damage amount (high)</color>",
         "<color=0:255:0>提高傷害量(大)</color>",
@@ -7807,6 +7967,118 @@
         "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Steigert Verringerungen von Erdresistenz (gering)</color>",
         "Aumenta el daño (bastante)<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Mayor reducción a la resistencia de tierra (poco)</color>"
     ],
+    "223390001": [
+        "<color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
+        "<color=0:255:0>提高攻擊防禦魔力精神增加量(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
+        "<color=0:255:0>공격력, 방어력, 마력, 정신력 상승량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Steigert ANG-, ABW-, MAG-, und PSY-Erhöhungen (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Mayores aumentos de ATQ, DEF, MAG Y ESP (bastante)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
+    ],
+    "223390002": [
+        "Boosts ATK, DEF, MAG, and SPR increases (mid)<br>Boosts turns in effect (low)<br><color=0:255:0>Boosts ATK, DEF, MAG, and SPR increases (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts damage amount of enabled ability - eidolon bomb explosion (great)</color><br><color=0:255:0>Boosts damage of certain abilities</color>",
+        "提高攻擊防禦魔力精神增加量(中)<br>提高效果回合數(小)<br><color=0:255:0>提高攻擊防禦魔力精神增加量(中)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>可使用的「幻獸炸彈的自爆」傷害量提升(特大)</color><br><color=0:255:0>提高特定能力的傷害</color>",
+        "공격력, 방어력, 마력, 정신력 상승량 상승(중)<br>효과 턴 수 상승(소)<br><color=0:255:0>공격력, 방어력, 마력, 정신력 상승량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>사용 가능 어빌리티 '환수 봄의 자폭'의 피해량 상승</color><br><color=0:255:0>특정 어빌리티의 피해량 상승</color>",
+        "Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)<br>Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Augmente les dégâts infligés par l'aptitude déblocable Éon : Explosion de Bombo (super)</color><br><color=0:255:0>Augmente les dégâts de certaines aptitudes</color>",
+        "Steigert ANG-, ABW-, MAG-, und PSY-Erhöhungen (mittel)<br>Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Steigert ANG-, ABW-, MAG-, und PSY-Erhöhungen (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Beschwörbarer Bomber: Explosion (sehr hoch)</color><br><color=0:255:0>Erhöht Schaden bestimmter Fertigkeiten</color>",
+        "Mayores aumentos de ATQ, DEF, MAG y ESP (bastante)<br>Aumenta la duración (poco)<br><color=0:255:0>Mayores aumentos de ATQ, DEF, MAG y ESP (bastante)</color><br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>Aumenta el daño (muchísimo) de la habilidad aprendida: Eidolón: explosión bom</color><br><color=0:255:0>Aumenta el daño de determinadas habilidades</color>"
+    ],
+    "223430001": [
+        "<color=0:255:0>Reduces evocation gauge consumed (low)</color>",
+        "<color=0:255:0>減少召喚槽消耗量(小)</color>",
+        "<color=0:255:0>소비 소환 게이지 감소(소)</color>",
+        "<color=0:255:0>Réduit la consommation de la jauge d'appel (peu)</color>",
+        "<color=0:255:0>Verringert Verbrauch von Rufleiste (gering)</color>",
+        "<color=0:255:0>Reduce el consumo de la barra de invocación (poco)</color>"
+    ],
+    "223430002": [
+        "Reduces evocation gauge consumed (low)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts chance to inflict paralysis (great)</color>",
+        "減少召喚槽消耗量(小)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高施加麻痺效果的機率(特大)</color>",
+        "소비 소환 게이지 감소(소)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>마비 부여 확률 상승(특대)</color>",
+        "Réduit la consommation de la jauge d'appel (peu)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Augmente les chances d'infliger paralysie (super)</color>",
+        "Verringert Verbrauch von Rufleiste (gering)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Erhöht Chance, Lähmung zu erteilen (sehr hoch)</color>",
+        "Reduce el consumo de la barra de invocación (poco)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor probabilidad de infligir parálisis (muchísimo)</color>"
+    ],
+    "223450001": [
+        "<color=0:255:0>Boosts increase to parameters when setting an esper (mid)</color>",
+        "<color=0:255:0>提高設定幻獸時的狀態數值增加量(中)</color>",
+        "<color=0:255:0>환수 장착 시 반영되는 능력치 상승량 상승(중)</color>",
+        "<color=0:255:0>Amplifie l'augmentation des caractéristiques quand une chimère est attribuée (moyen)</color>",
+        "<color=0:255:0>Steigert Werteerhöhungen beim Festlegen von Espern (mittel)</color>",
+        "<color=0:255:0>Mayor aumento de los parámetros al vincular un esper (bastante)</color>"
+    ],
+    "223450002": [
+        "Boosts increase to parameters when setting an esper (mid)<br><color=0:255:0>Boosts parameters of espers evoked</color><br><color=0:255:0>Nullifies silence, paralysis and confusion</color>",
+        "提高設定幻獸時的狀態數值增加量(中)<br><color=0:255:0>發動召喚魔法時提高幻獸狀態</color><br><color=0:255:0>沉默麻痺混亂無效</color>",
+        "환수 장착 시 반영되는 능력치 상승량 상승(중)<br><color=0:255:0>소환마법 사용 시 환수 능력치 상승</color><br><color=0:255:0>침묵, 마비, 혼란 무효화</color>",
+        "Amplifie l'augmentation des caractéristiques quand une chimère est attribuée (moyen)<br><color=0:255:0>Augmente les caractéristiques des chimères appelées</color><br><color=0:255:0>Annule silence, paralysie et confusion</color>",
+        "Steigert Werteerhöhungen bei Festlegen von Espern (mittel)<br><color=0:255:0>Steigert Werte gerufener Esper</color><br><color=0:255:0>Annulliert Stille, Lähmung und Konfus</color>",
+        "Mayor aumento de los parámetros al vincular un esper (bastante)<br><color=0:255:0>Aumenta los parámetros de los espers evocados</color><br><color=0:255:0>Anula silencio, parálisis y confusión</color>"
+    ],
+    "223480001": [
+        "<color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts wind resistance reduction (mid)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "<color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>提高風屬性耐性減少量(中)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>바람속성 저항력 감소량 상승(중)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance au vent (moyen)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Windresistenz (mittel)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia al viento (bastante)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "223480002": [
+        "Boosts damage amount (great)<br>Boosts wind resistance reduction (mid)<br>Increases MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts wind resistance reduction (mid)</color><br><color=0:255:0>Increases hit count (low)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "提高傷害增加量(特大)<br>提高風屬性耐性減少量(中)<br>增加MP消耗(中)<br><color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>提高風屬性耐性減少量(中)</color><br><color=0:255:0>提高攻擊次數(小)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "피해량 상승(특대)<br>바람속성 저항력 감소량 상승(중)<br>소비 MP 증가(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>바람속성 저항력 감소량 상승(중)</color><br><color=0:255:0>히트 수 상승(소)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "Augmente les dégâts infligés (super)<br>Amplifie la réduction de la résistance au vent (moyen)<br>Augmente les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance au vent (moyen)</color><br><color=0:255:0>Augmente le nombre de coups (peu)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "Erhöht Schaden (sehr hoch)<br>Steigert Verringerung von Windresistenz (mittel)<br>Erhöht MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Windresistenz (mittel)</color><br><color=0:255:0>Erhöht Trefferzahl (gering)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "Aumenta el daño (muchísimo)<br>Mayor reducción a la resistencia al viento (bastante)<br>Aumenta el consumo de PM (bastante)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia al viento (bastante)</color><br><color=0:255:0>Mayor número de golpes (poco)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "223490001": [
+        "<color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts water resistance reduction (mid)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "<color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>提高水屬性耐性減少量(中)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>물속성 저항력 감소량 상승(중)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance à l'eau (moyen)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Wasserresistenz (mittel)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia al agua (bastante)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "223490002": [
+        "Boosts damage amount (great)<br>Boosts water resistance reduction (mid)<br>Increases MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts water resistance reduction (mid)</color><br><color=0:255:0>Increases hit count (low)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "提高傷害增加量(特大)<br>提高水屬性耐性減少量(中)<br>增加MP消耗(中)<br><color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>提高水屬性耐性減少量(中)</color><br><color=0:255:0>提高攻擊次數(小)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "피해량 상승(특대)<br>물속성 저항력 감소량 상승(중)<br>소비 MP 증가(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>물속성 저항력 감소량 상승(중)</color><br><color=0:255:0>히트 수 상승(소)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "Augmente les dégâts infligés (super)<br>Amplifie la réduction de la résistance à l'eau (moyen)<br>Augmente les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance à l'eau (moyen)</color><br><color=0:255:0>Augmente le nombre de coups (peu)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "Erhöht Schaden (sehr hoch)<br>Steigert Verringerung von Wasserresistenz (mittel)<br>Erhöht MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Wasserresistenz (mittel)</color><br><color=0:255:0>Erhöht Trefferzahl (gering)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "Aumenta el daño (muchísimo)<br>Mayor reducción a la resistencia al agua (bastante)<br>Aumenta el consumo de PM (bastante)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia al agua (bastante)</color><br><color=0:255:0>Mayor número de golpes (poco)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "223500001": [
+        "<color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts dark resistance reduction (mid)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "<color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>提高暗屬性耐性減少量(中)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>어둠속성 저항력 감소량 상승(중)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance aux ténèbres (moyen)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Dunkelresistenz (mittel)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia a la oscuridad (bastante)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "223500002": [
+        "Boosts damage amount (great)<br>Boosts dark resistance reduction (mid)<br>Increases MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts dark resistance reduction (mid)</color><br><color=0:255:0>Increases hit count (low)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "提高傷害增加量(特大)<br>提高暗屬性耐性減少量(中)<br>增加MP消耗(中)<br><color=0:255:0>提高傷害增加量(特大)</color><br><color=0:255:0>提高暗屬性耐性減少量(中)</color><br><color=0:255:0>提高攻擊次數(小)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "피해량 상승(특대)<br>어둠속성 저항력 감소량 상승(중)<br>소비 MP 증가(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>어둠속성 저항력 감소량 상승(중)</color><br><color=0:255:0>히트 수 상승(소)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "Augmente les dégâts infligés (super)<br>Amplifie la réduction de la résistance aux ténèbres (moyen)<br>Augmente les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance aux ténèbres (moyen)</color><br><color=0:255:0>Augmente le nombre de coups (peu)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "Erhöht Schaden (sehr hoch)<br>Steigert Verringerung von Dunkelresistenz (mittel)<br>Erhöht MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerung von Dunkelresistenz (mittel)</color><br><color=0:255:0>Erhöht Trefferzahl (gering)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "Aumenta el daño (muchísimo)<br>Mayor reducción a la resistencia a la oscuridad (bastante)<br>Aumenta el consumo de PM (bastante)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia a la oscuridad (bastante)</color><br><color=0:255:0>Mayor número de golpes (poco)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "223790001": [
+        "<color=0:255:0>Boosts damage amount (low)</color>",
+        "<color=0:255:0>提高傷害量(小)</color>",
+        "<color=0:255:0>피해량 상승(소)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (peu)</color>",
+        "<color=0:255:0>Erhöht Schaden (gering)</color>",
+        "<color=0:255:0>Aumenta el daño (poco)</color>"
+    ],
+    "223790002": [
+        "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (low)</color><br><color=0:255:0>Increases hit count (low)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
+        "提高傷害量(小)<br><color=0:255:0>提高傷害量(小)</color><br><color=0:255:0>提高攻擊次數(小)</color><br><color=0:255:0>減少MP消耗(大)</color>",
+        "피해량 상승(소)<br><color=0:255:0>피해량 상승(소)</color><br><color=0:255:0>히트 수 상승(소)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
+        "Augmente les dégâts infligés (peu)<br><color=0:255:0>Augmente les dégâts infligés (peu)</color><br><color=0:255:0>Augmente le nombre de coups (peu)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
+        "Erhöht Schaden (gering)<br><color=0:255:0>Erhöht Schaden (gering)</color><br><color=0:255:0>Erhöht Trefferzahl (gering)</color><br><color=0:255:0>Verringert MP-Verbrauch (hoch)</color>",
+        "Aumenta el daño (poco)<br><color=0:255:0>Aumenta el daño (poco)</color><br><color=0:255:0>Mayor número de golpes (poco)</color><br><color=0:255:0>Reduce el consumo de PM (mucho)</color>"
+    ],
     "224010001": [
         "<color=0:255:0>Boosts ATK increase (mid)</color>",
         "<color=0:255:0>提高攻擊增加量(中)</color>",
@@ -7871,6 +8143,102 @@
         "Steigert MP-Erhöhung (gering)<br><color=0:255:0>Steigert MP-Erhöhung (hoch)</color>",
         "Mayor aumento de PM (poco)<br><color=0:255:0>Mayor aumento de MAG (mucho)</color>"
     ],
+    "224520001": [
+        "<color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (low)</color>",
+        "<color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(小)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(소)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (peu)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (gering)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (poco)</color>"
+    ],
+    "224520002": [
+        "Boosts damage amount (great)<br>Increases MP consumed (low)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Shift damage percentage from first 6 hits to last hit</color><br><color=255:255:0>Increases MP consumed (low)</color>",
+        "提高傷害量(特大)<br>增加MP消耗(小)<color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>將傷害比例從前6次傷害轉移至最後1次傷害</color><br><color=255:255:0>增加MP消耗(小)</color>",
+        "피해량 상승(특대)<br>소비 MP 증가(소)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>1~6 히트 피해율 일부를 마지막 히트 피해율에 부가</color><br><color=255:255:0>소비 MP 증가(소)</color>",
+        "Augmente les dégâts infligés (super)<br>Augmente les PM consommés (peu)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Transfère une partie des dégâts des 6 premiers coups au coup final</color><br><color=255:255:0>Augmente les PM consommés (peu)</color>",
+        "Erhöht Schaden (sehr hoch)<br>Erhöht MP-Verbrauch (gering)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Verlagert prozentualen Schadensanteil der ersten 6 Treffer auf den letzten Treffer</color><br><color=255:255:0>Erhöht MP-Verbrauch (gering)</color>",
+        "Aumenta el daño (muchísimo)<br>Aumenta el consumo de PM (poco)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Transfiere el daño de los primeros 6 golpes al último golpe</color><br><color=255:255:0>Aumenta el consumo de PM (poco)</color>"
+    ],
+    "224560001": [
+        "<color=0:255:0>Boosts increase to LB gauge (high)</color>",
+        "<color=0:255:0>提高極限技槽的增加量(大)</color>",
+        "<color=0:255:0>LB 게이지 상승량 상승(대)</color>",
+        "<color=0:255:0>Amplifie le remplissage de la jauge de limite (beaucoup)</color>",
+        "<color=0:255:0>Steigert Erhöhungen von Limitmeter (hoch)</color>",
+        "<color=0:255:0>Mayor aumento de la barra de EL (mucho)</color>"
+    ],
+    "224560002": [
+        "Boosts increase to LB gauge (high)<color=0:255:0>Boosts LB damage</color>",
+        "提高極限技槽的增加量(大)<color=0:255:0>提高極限技的傷害</color>",
+        "LB 게이지 상승량 상승(대)<color=0:255:0>LB 피해량 상승</color>",
+        "Amplifie le remplissage de la jauge de limite (beaucoup)<color=0:255:0>Augmente les dégâts de la limite</color>",
+        "Steigert Erhöhungen von Limitmeter (hoch)<color=0:255:0>Erhöht Schaden durch Limitrausch</color>",
+        "Mayor aumento de la barra de EL (mucho)<color=0:255:0>Aumenta el daño del EL</color>"
+    ],
+    "224580001": [
+        "<color=0:255:0>Boosts ATK increase (high)</color>",
+        "<color=0:255:0>提高攻擊增加量(大)</color>",
+        "<color=0:255:0>공격력 상승량 상승(대)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
+    ],
+    "224580002": [
+        "Boosts ATK increase (high)<br><color=0:255:0>Adds chance of enabling threefold technique for 1 turn after receiving a physical or magic attack</color>",
+        "提高攻擊增加量(大)<br><color=0:255:0>受到物理魔法攻擊時一定機率在1回合內可使用「T刀技」</color>",
+        "공격력 상승량 상승(대)<br><color=0:255:0>물리, 마법 공격을 받으면 일정 확률로 1턴 동안 'T도검술' 사용 가능</color>",
+        "Amplifie l'augmentation de l'ATT (beaucoup)<br><color=0:255:0>Confère une chance de débloquer Triple technique pendant 1 tour après avoir subi une attaque physique ou magique</color>",
+        "Steigert ANG-Erhöhung (hoch)<br><color=0:255:0>Chance, eine Runde lang Dreifachklingenkunst zu ermöglichen, nachdem von einem physischen oder magischen Angriff getroffen</color>",
+        "Mayor aumento de ATQ (mucho)<br><color=0:255:0>Probabilidad de aprender Técnica triple durante un turno al recibir un ataque físico o mágico</color>"
+    ],
+    "224660001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        "<color=0:255:0>提高傷害量(特大)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color>"
+    ],
+    "224660002": [
+        "Boosts damage amount (great)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Increases hit count (low)</color>",
+        "提高傷害量(特大)<br><br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高攻擊次數(小)</color>",
+        "피해량 상승(특대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>히트 수 상승(소)</color>",
+        "Augmente les dégâts infligés (super)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Augmente le nombre de coups (peu)</color>",
+        "Erhöht Schaden (sehr hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Erhöht Trefferzahl (gering)</color>",
+        "Aumenta el daño (muchísimo)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor número de golpes (poco)</color>"
+    ],
+    "224680001": [
+        "<color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts consecutive use damage (mid)</color><br><color=0:255:0>Boosts maximum damage from consecutive use (great)</color>",
+        "<color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>連續使用時提高傷害(中)</color><br><color=0:255:0>提高連續使用時造成的最大傷害(特大)</color>",
+        "<color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>연속 사용 시 피해량 상승(중)</color><br><color=0:255:0>연속 사용 시 최대 피해량 상승(특대)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente les dégâts avec un usage consécutif (moyen)</color><br><color=0:255:0>Augmente les dégâts max. avec un usage consécutif (super)</color>",
+        "<color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Erhöht Konsekutivschaden (mittel)</color><br><color=0:255:0>Erhöht maximalen Konsekutivschaden (sehr hoch)</color>",
+        "<color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Aumenta el daño con uso consecutivo (bastante)</color><br><color=0:255:0>Aumenta el daño máximo con uso consecutivo (muchísimo)</color>"
+    ],
+    "224680002": [
+        "Boosts damage amount (mid)<br>Boosts consecutive use damage (mid)<br>Boosts maximum damage from consecutive use (great)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts consecutive use damage (mid)</color><br><color=0:255:0>Boosts maximum damage from consecutive use (great)</color><br><color=0:255:0>Increases hit count (mid)</color>",
+        "提高傷害量(中)<br>連續使用時提高傷害(中)<br>提高連續使用時造成的最大傷害(特大)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>連續使用時提高傷害(中)</color><br><color=0:255:0>提高連續使用時造成的最大傷害(特大)</color><br><color=0:255:0>提高攻擊次數(中)</color>",
+        "피해량 상승(중)<br>연속 사용 시 피해량 상승(중)<br>연속 사용 시 최대 피해량 상승(특대)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>연속 사용 시 피해량 상승(중)</color><br><color=0:255:0>연속 사용 시 최대 피해량 상승(특대)</color><br><color=0:255:0>히트 수 상승(중)</color>",
+        "Augmente les dégâts infligés (moyen)<br>Augmente les dégâts avec un usage consécutif (moyen)<br>Augmente les dégâts max. avec un usage consécutif (super)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente les dégâts avec un usage consécutif (moyen)</color><br><color=0:255:0>Augmente les dégâts max. avec un usage consécutif (super)</color><br><color=0:255:0>Augmente le nombre de coups (moyen)</color>",
+        "Erhöht Schaden (mittel)<br>Erhöht Konsekutivschaden (mittel)<br>Erhöht maximalen Konsekutivschaden (sehr hoch)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Erhöht Konsekutivschaden (mittel)</color><br><color=0:255:0>Erhöht maximalen Konsekutivschaden (sehr hoch)</color><br><color=0:255:0>Erhöht Trefferzahl (mittel)</color>",
+        "Aumenta el daño (bastante)<br>Aumenta el daño con uso consecutivo (bastante)<br>Aumenta el daño máximo con uso consecutivo (muchísimo)<br><color=0:255:0>Aumenta el daño (bastante)</color><br><color=0:255:0>Aumenta el daño con uso consecutivo (bastante)</color><br><color=0:255:0>Aumenta el daño máximo con uso consecutivo (muchísimo)</color><br><color=0:255:0>Mayor número de golpes (bastante)</color>"
+    ],
+    "224740001": [
+        "<color=0:255:0>Boosts enabled duration (low) of enabled ability - open eyes - flash</color><br><color=0:255:0>Boosts damage reduction (mid)</color>",
+        "<color=0:255:0>提高「開眼·閃」可使用時間(小)</color><br><color=0:255:0>提高傷害減少量(中)</color>",
+        "<color=0:255:0>사용 가능 어빌리티 '개안·섬광'의 사용 가능 턴 수 상승(소)</color><br><color=0:255:0>피해 감소량 상승(중)</color>",
+        "<color=0:255:0>Augmente la durée de disponibilité (peu) de l'aptitude déblocable Yeux ouverts - Flash</color><br><color=0:255:0>Amplifie la réduction des dégâts (moyen)</color>",
+        "<color=0:255:0>Steigert aktive Dauer (gering) von aktiver Fertigkeit Augen öffnen - Blitz</color><br><color=0:255:0>Steigert Schadensverringerung (mittel)</color>",
+        "<color=0:255:0>Aumento de la duración (poco) de la habilidad aprendida: Ojo avizor - Destello</color><br><color=0:255:0>Mayor reducción de daño (bastante)</color>"
+    ],
+    "224740002": [
+        "Boosts enabled duration (low) of enabled ability - open eyes - flash<br>Boosts damage reduction (mid)<br><color=0:255:0>Boosts enabled duration (low) of enabled ability - open eyes - flash</color><br><color=0:255:0>Boosts damage reduction (mid)</color>",
+        "提高「開眼·閃」可使用時間(小)<br>提高傷害減少量(中)<br><color=0:255:0>提高「開眼·閃」可使用時間(小)</color><br><color=0:255:0>提高傷害減少量(中)</color>",
+        "사용 가능 어빌리티 '개안·섬광'의 사용 가능 턴 수 상승(소)<br>피해 감소량 상승(중)<br><color=0:255:0>사용 가능 어빌리티 '개안·섬광'의 사용 가능 턴 수 상승(소)</color><br><color=0:255:0>피해 감소량 상승(중)</color>",
+        "Augmente la durée de disponibilité (peu) de l'aptitude déblocable Yeux ouverts - Flash<br>Amplifie la réduction des dégâts (moyen)<br><color=0:255:0>Augmente la durée de disponibilité (peu) de l'aptitude déblocable Yeux ouverts - Flash</color><br><color=0:255:0>Amplifie la réduction des dégâts (moyen)</color>",
+        "Erhöht die Dauer (gering) der ermöglichten Fertigkeit Augen öffnen - Blitz <br>Steigert Schadensverringerung (mittel)<br><color=0:255:0>Erhöht die Dauer (gering) der ermöglichten Fertigkeit Augen öffnen - Blitz</color><br><color=0:255:0>Steigert Schadensverringerung (mittel)</color>",
+        "Aumento de la duración (poco) de la habilidad aprendida: Ojo avizor - Destello<br>Mayor reducción de daño (bastante)<br><color=0:255:0>Aumento de la duración (poco) de la habilidad aprendida: Ojo avizor - Destello</color><br><color=0:255:0>Mayor reducción de daño (bastante)</color>"
+    ],
     "224790001": [
         "<color=0:255:0>Boosts magic damage reduction (low)</color>",
         "<color=0:255:0>提高魔法傷害減少量(小)</color>",
@@ -7881,11 +8249,43 @@
     ],
     "224790002": [
         "Boosts magic damage reduction (low)<br><color=0:255:0>Boosts magic damage reduction (low)</color><br><color=0:255:0>Boosts SPR</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
-        "提高魔法傷害減少量(小)<br><color=0:255:0>提高魔法傷害減少量(小)</color><br><color=0:255:0>提高精神</color><br><color=255:255:0>提高MP消耗(中)</color>",
+        "提高魔法傷害減少量(小)<br><color=0:255:0>提高魔法傷害減少量(小)</color><br><color=0:255:0>提高精神</color><br><color=255:255:0>增加MP消耗(中)</color>",
         "마법 피해 감소량 상승(소)<br><color=0:255:0>마법 피해 감소량 상승(소)</color><br><color=0:255:0>정신력 상승</color><br><color=255:255:0>소비 MP 상승(중)</color>",
         "Amplifie la réduction des dégâts magiques (peu)<br><color=0:255:0>Amplifie la réduction des dégâts magiques (peu)</color><br><color=0:255:0>Augmente la PSY</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
         "Steigert Verringerungen von magischen Schaden (gering)<br><color=0:255:0>Steigert Verringerungen von magischen Schaden (gering)</color><br><color=0:255:0>Erhöht PSY</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
         "Aumenta la reducción de daño mágico (poco)<br><color=0:255:0>Aumenta la reducción de daño mágico (poco)</color><br><color=0:255:0>Aumenta el ESP</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "225170001": [
+        "<color=0:255:0>Boosts damage amount (high)</color>",
+        "<color=0:255:0>提高傷害量(大)</color>",
+        "<color=0:255:0>피해량 상승(대)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (beaucoup)</color>",
+        "<color=0:255:0>Erhöht Schaden (hoch)</color>",
+        "<color=0:255:0>Aumenta el daño (mucho)</color>"
+    ],
+    "225170002": [
+        "Boosts damage amount (high)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "提高傷害量(大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "피해량 상승(대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "Augmente les dégâts infligés (beaucoup)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "Erhöht Schaden (hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "Aumenta el daño (mucho)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "225190001": [
+        "<color=0:255:0>Gradually restore MP</color>",
+        "<color=0:255:0>持續恢復MP</color>",
+        "<color=0:255:0>MP 서서히 회복</color>",
+        "<color=0:255:0>Restaure progressivement les PM</color>",
+        "<color=0:255:0>Regeneriert allmählich MP</color>",
+        "<color=0:255:0>Recupera poco a poco los PM</color>"
+    ],
+    "225190002": [
+        "Gradually restore MP<br><color=0:255:0>Boosts stop and charm resistance</color>",
+        "持續恢復MP<br><color=0:255:0>提高停止魅惑耐性</color>",
+        "MP 서서히 회복<br><color=0:255:0>스톱과 매혹 저항력 상승</color>",
+        "Restaure progressivement les PM<br><color=0:255:0>Augmente la résistance à stop et à charme</color>",
+        "Regeneriert allmählich MP<br><color=0:255:0>Erhöht Resistenz gegen Stopp und Bezaubern</color>",
+        "Recupera los PM poco a poco<br><color=0:255:0>Aumenta la resistencia a paro y embrujo</color>"
     ],
     "225210001": [
         "<color=0:255:0>Boosts damage increase against dragons (low)</color><br><color=0:255:0>Boosts ATK</color>",
@@ -7918,6 +8318,38 @@
         "Amplifie l'augmentation des dégâts infligés aux dragons (peu)<br>Augmente la MAGIE<br><color=0:255:0>Amplifie l'augmentation des dégâts infligés aux dragons (moyen)</color><br><color=0:255:0>Amplifie l'augmentation de la MAGIE (super)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
         "Steigert Schadenserhöhung gegen Drachen (gering)<br>Erhöht MAG<br><color=0:255:0>Steigert Schadenserhöhung gegen Drachen (mittel)</color><br><color=0:255:0>Steigert MAG-Erhöhungen (sehr hoch)</color><br><color=0:255:0>Steigert Anzahl aktiver Runden (gering)</color>",
         "Mayor aumento de daño contra dragones (poco)<br>Aumenta la MAG<br><color=0:255:0>Mayor aumento de daño contra dragones (bastante)</color><br><color=0:255:0>Mayor aumento de MAG (muchísimo)</color><br><color=0:255:0>Aumenta la duración (poco)</color>"
+    ],
+    "225260001": [
+        "<color=0:255:0>Boosts number of physical attacks that can be evaded (low)</color>",
+        "<color=0:255:0>提高可以閃避的物理攻擊次數(小)</color>",
+        "<color=0:255:0>물리 공격 회피 횟수 상승(소)</color>",
+        "<color=0:255:0>Augmente le nombre d'attaques physiques pouvant être esquivées (peu)</color>",
+        "<color=0:255:0>Erhöht Anzahl der physischen Angriffe, denen der Benutzer ausweichen kann (gering)</color>",
+        "<color=0:255:0>Aumenta el número de ataques físicos que pueden ser evitados (poco)</color>"
+    ],
+    "225260002": [
+        "Boosts number of physical attacks that can be evaded (low)<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts wind magic damage dealt by caster</color><br><color=255:255:0>Increases MP consumed (high)</color>",
+        "提高可以閃避的物理攻擊次數(小)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高風屬性魔法傷害</color><br><color=255:255:0>增加MP消耗(大)</color>",
+        "물리 공격 회피 횟수 상승(소)<br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>자신의 바람속성 마법 피해량 상승</color><br><color=255:255:0>소비 MP 증가(대)</color>",
+        "Augmente le nombre d'attaques physiques pouvant être esquivées (peu)<br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Augmente les dégâts magiques de vent infligés par le lanceur</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
+        "Erhöht Anzahl der physischen Angriffe, denen der Benutzer ausweichen kann (gering)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Erhöht durch Benutzer zugefügten magischen Windschaden</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
+        "Aumenta el número de ataques físicos que pueden ser evitados (poco)<br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>Aumenta el daño mágico de viento del usuario</color><br><color=255:255:0>Aumenta el consumo de PM (mucho)</color>"
+    ],
+    "225290001": [
+        "<color=0:255:0>Boosts MAG increase (high)</color><br><color=0:255:0>Boosts MP increase (low)</color>",
+        "<color=0:255:0>提高魔力增加量(大)</color><br><color=0:255:0>提高MP增加量(小)</color>",
+        "<color=0:255:0>마력 상승량 상승(대)</color><br><color=0:255:0>MP 상승량 상승(소)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de la MAGIE (beaucoup)</color><br><color=0:255:0>Amplifie l'augmentation des PM (peu)</color>",
+        "<color=0:255:0>Erhöht MP-Verbrauch (hoch)</color><br><color=0:255:0>Steigert MP-Erhöhung (gering)</color>",
+        "<color=0:255:0>Mayor aumento de MAG (mucho)</color><br><color=0:255:0>Mayor aumento de PM (poco)</color>"
+    ],
+    "225290002": [
+        "Boosts MAG increase (high)<br>Boosts MP increase (low)<br><color=0:255:0>Boosts MAG increase (great)</color><br><color=0:255:0>Boosts MP increase (mid)</color>",
+        "提高魔力增加量(大)<br>提高MP增加量(小)<color=0:255:0>提高魔力增加量(特大)</color><br><color=0:255:0>提高MP增加量(中)</color>",
+        "마력 상승량 상승(대)<br>MP 상승량 상승(소)<br><color=0:255:0>마력 상승량 상승(특대)</color><br><color=0:255:0>MP 상승량 상승(중)</color>",
+        "Amplifie l'augmentation de la MAGIE (beaucoup)<br>Amplifie l'augmentation des PM (peu)<br><color=0:255:0>Amplifie l'augmentation de la MAGIE (super)</color><br><color=0:255:0>Amplifie l'augmentation des PM (peu)</color>",
+        "Erhöht MP-Verbrauch (hoch)<br>Steigert MP-Erhöhung (gering)<br><color=0:255:0>Steigert MAG-Erhöhung (sehr hoch)</color><br><color=0:255:0>Steigert MP-Erhöhung (mittel)</color>",
+        "Mayor aumento de MAG (mucho)<br>Mayor aumento de PM (poco)<br><color=0:255:0>Mayor aumento de MAG (muchísimo)</color><br><color=0:255:0>Mayor aumento de PM (bastante)</color>"
     ],
     "227121001": [
         "<color=0:255:0>Boosts ATK and MAG for caster</color>",
@@ -8127,6 +8559,150 @@
         "Steigert ANG-, ABW-, MAG- und PSY-Verringerungen (gering)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Aktiviert Barriere für Benutzer</color>",
         "Mayor reducción de ATQ, DEF, MAG y ESP (poco)<br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>Activa Barrera para el usuario</color>"
     ],
+    "228000001": [
+        "<color=0:255:0>Boosts turns in effect (low)</color>",
+        "<color=0:255:0>提高效果回合數(小)</color>",
+        "<color=0:255:0>효과 턴 수 상승(소)</color>",
+        "<color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
+        "<color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
+        "<color=0:255:0>Aumenta la duración (poco)</color>"
+    ],
+    "228000002": [
+        "Boosts turns in effect (low)<br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Reduces MP consumed (great)</color>",
+        "提高效果回合數(小)<br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>減少MP消耗(特大)</color>",
+        "효과 턴 수 상승(소)<br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>소비 MP 감소(특대)</color>",
+        "Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Réduit les PM consommés (super)</color>",
+        "Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Verringert MP-Verbrauch (sehr hoch)</color>",
+        "Aumenta la duración (poco)<br><color=0:255:0>Aumenta la duración (poco)</color><br><color=0:255:0>Reduce el consumo de PM (muchísimo)</color>"
+    ],
+    "228001001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (mid)</color>",
+        "<color=0:255:0>提高攻擊魔力增加量(中)</color>",
+        "<color=0:255:0>공격력과 마력 상승량 상승(중)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Erhöhung (mittel)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ y MAG (bastante)</color>"
+    ],
+    "228001002": [
+        "Boosts ATK and MAG increases (mid)<br><color=0:255:0>Boosts ATK and MAG increases (high)</color><br><color=0:255:0>Enables zoldaad empire’s aegis for 6 turns for caster</color>",
+        "提高攻擊魔力增加量(中)<br><color=0:255:0>提高攻擊魔力增加量(大)</color><br><color=0:255:0>6回合內可使用「佐爾達多帝國的庇護」</color>",
+        "공격력과 마력 상승량 상승(중)<br><color=0:255:0>공격력과 마력 상승량 상승(대)</color><br><color=0:255:0>6턴 동안 자신이 '졸다드 황제의 방패' 사용 가능</color>",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (beaucoup)</color><br><color=0:255:0>Permet au lanceur d'utiliser Égide de l'empire de Zoldaad pendant 6 tours</color>",
+        "Steigert ANG- und MAG-Erhöhung (mittel)<br><color=0:255:0>Steigert ANG- und MAG-Erhöhung (hoch)</color><br><color=0:255:0>Ermöglicht 6 Runden lang Ägide des Zoldaad-Imperiums für Benutzer</color>",
+        "Mayores aumentos de ATQ y MAG (bastante)<br><color=0:255:0>Mayores aumentos de ATQ y MAG (mucho)</color><br><color=0:255:0>El usuario aprende Égida del Imperio Zoldaad durante 6 turnos</color>"
+    ],
+    "228003001": [
+        "<color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "<color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(中)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "228003002": [
+        "Boosts damage amount (great)<br>Increases MP consumed (mid)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (great)</color>",
+        "提高傷害量(特大)<br>增加MP消耗(中)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(特大)</color>",
+        "피해량 상승(특대)<br>소비 MP 증가(중)<br><color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(특대)</color>",
+        "Augmente les dégâts infligés (super)<br>Augmente les PM consommés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
+        "Erhöht Schaden (sehr hoch)<br>Erhöht MP-Verbrauch (mittel)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (sehr hoch)</color>",
+        "Aumenta el daño (muchísimo)<br>Aumenta el consumo de PM (bastante)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (muchísimo)</color>"
+    ],
+    "228010001": [
+        "<color=0:255:0>Automatically revives caster one time</color>",
+        "<color=0:255:0>賦予自身進入無法戰鬥狀態時自動復活1次的效果</color>",
+        "<color=0:255:0>자신의 전투불능 상태를 1회 자동 회복하는 효과 부여</color>",
+        "<color=0:255:0>Ressuscite automatiquement le lanceur une fois</color>",
+        "<color=0:255:0>Belebt Benutzer ein Mal automatisch wieder</color>",
+        "<color=0:255:0>Revive automáticamente al usuario una vez</color>"
+    ],
+    "228010002": [
+        "Automatically revives caster one time<br><color=0:255:0>Enables triple black magic for 3 turns for caster</color><br><color=255:255:0>Increases MP consumed (high)</color>",
+        "賦予自身進入無法戰鬥狀態時自動復活1次的效果<br><color=0:255:0>3回合內可使用「T黑魔法」</color><br><color=255:255:0>增加MP消耗(大)</color>",
+        "자신의 전투불능 상태를 1회 자동 회복하는 효과 부여<br><color=0:255:0>3턴 동안 자신이 'T흑마법' 사용 가능</color><br><color=255:255:0>소비 MP 증가(대)</color>",
+        "Ressuscite automatiquement le lanceur une fois<br><color=0:255:0>Permet au lanceur d'utiliser Magie noire x3 pendant 3 tours</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
+        "Belebt Benutzer ein Mal automatisch wieder<br><color=0:255:0>Ermöglicht Dreifach-Schwarzmagie für 3 Runden für Benutzer</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
+        "Revive automáticamente al usuario una vez<br><color=0:255:0>El usuario aprende Magia negra triple durante 3 turnos</color><br><color=255:255:0>Aumenta el consumo de PM (muchísimo)</color>"
+    ],
+    "228011001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        "<color=0:255:0>提高傷害量 (特大)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color>"
+    ],
+    "228011002": [
+        "Boosts damage amount (great)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts water, wind, and earth resistance reductions (high)</color><br><color=0:255:0>Increases hit count (great)</color><br><color=255:255:0>Increases MP consumed (great)</color>",
+        "提高傷害量 (特大)<br><color=0:255:0>提高傷害量 (特大)</color><br><color=0:255:0>提高水風土屬性耐性減少量(大)</color><br><color=0:255:0>提高攻擊次數(特大)</color><br><color=255:255:0>增加MP消耗(特大)</color>",
+        "피해량 상승(특대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>물, 바람, 땅속성 저항력 감소량 상승(대)</color><br><color=0:255:0>히트 수 상승(특대)</color><br><color=255:255:0>소비 MP 증가(특대)</color>",
+        "Augmente les dégâts infligés (super)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Amplifie la réduction de la résistance à l'eau, au vent et à la terre (beaucoup)</color><br><color=0:255:0>Augmente le nombre de coups (super)</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
+        "Erhöht Schaden (sehr hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Steigert Verringerungen von Wasser-, Wind- und Erdresistenz (hoch)</color><br><color=0:255:0>Erhöht Trefferzahl (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (sehr hoch)</color>",
+        "Aumenta el daño (muchísimo)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=0:255:0>Mayor reducción a la resistencia al agua, viento y tierra (muchísimo)</color><br><color=0:255:0>Mayor número de golpes (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (muchísimo)</color>"
+    ],
+    "228022001": [
+        "<color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (low)</color>",
+        "<color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(小)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(소)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (peu)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (gering)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (poco)</color>"
+    ],
+    "228022002": [
+        "Boosts damage amount (great)<br>Increases MP consumed (low)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
+        "提高傷害量(特大)<br>增加MP消耗(小)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(小)</color>",
+        "피해량 상승(특대)<br>소비 MP 증가(소)<br><color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
+        "Augmente les dégâts infligés (super)<br>Augmente les PM consommés (peu)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (peu)</color>",
+        "Erhöht Schaden (sehr hoch)<br>Erhöht MP-Verbrauch (gering)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
+        "Aumenta el daño (muchísimo)<br>Aumenta el consumo de PM (poco)<br><color=0:255:0>Aumenta el daño (muchísimo)</color><br><color=255:255:0>Aumenta el consumo de PM (bastante)</color>"
+    ],
+    "228025001": [
+        "<color=0:255:0>Boosts ATK increase (great)</color><br><color=0:255:0>Boosts equipment ATK when armed with two one-handed weapons</color>",
+        "<color=0:255:0>提高攻擊增加量(特大)</color><br><color=0:255:0>裝備2把單手武器時武具攻擊提升</color>",
+        "<color=0:255:0>공격력 상승량 상승(특대)</color><br><color=0:255:0>한손용 무기 2개 장착 시 장비의 공격력 상승</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT (super)</color><br><color=0:255:0>Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet</color>",
+        "<color=0:255:0>Mayor aumento de ATQ (muchísimo)</color><br><color=0:255:0>Aumenta el ATQ del equipo al llevar dos armas de una sola mano</color>"
+    ],
+    "228025002": [
+        "Boosts ATK increase (great)<br>Boosts equipment ATK when armed with two one-handed weapons<br><color=0:255:0>Enables double lance</color><br><color=0:255:0>Restores MP every turn</color>",
+        "提高攻擊增加量(特大)<br>裝備2把單手武器時武具攻擊提升<br><color=0:255:0>可使用「雙槍技」</color><br><color=0:255:0>每回合恢復MP</color>",
+        "공격력 상승량 상승(특대)<br>한손용 무기 2개 장착 시 장비의 공격력 상승<br><color=0:255:0>'W랜스' 사용 가능</color><br><color=0:255:0>매 턴마다 MP 회복</color>",
+        "Amplifie l'augmentation de l'ATT (super)<br>Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées<br><color=0:255:0>Permet d'utiliser Double Lance</color><br><color=0:255:0>Restaure des PM à chaque tour</color>",
+        "Steigert ANG-Erhöhung (sehr hoch)<br>Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet<br><color=0:255:0>Ermöglicht Doppellanze</color><br><color=0:255:0>Regeneriert jede Runde MP</color>",
+        "Mayor aumento de ATQ (muchísimo)<br>Aumenta el ATQ del equipo al llevar dos armas de una sola mano<br><color=0:255:0>Aprende Lanza doble</color><br><color=0:255:0>Restaura PM cada turno</color>"
+    ],
+    "228050001": [
+        "<color=0:255:0>Boosts damage amount (great)</color>",
+        "<color=0:255:0>提高傷害量 (特大)</color>",
+        "<color=0:255:0>피해량 상승(특대)</color>",
+        "<color=0:255:0>Augmente les dégâts infligés (super)</color>",
+        "<color=0:255:0>Erhöht Schaden (sehr hoch)</color>",
+        "<color=0:255:0>Aumenta el daño (muchísimo)</color>"
+    ],
+    "228050002": [
+        "Boosts damage amount (great)<br><color=0:255:0>Enables threefold technique for 3 turns for caster</color>",
+        "提高傷害量 (特大)<br><color=0:255:0>3回合內可使用「T刀技」</color>",
+        "피해량 상승(특대)<br><color=0:255:0>3턴 동안 자신이 'T도검술' 사용 가능</color>",
+        "Augmente les dégâts infligés (super)<br><color=0:255:0>Permet au lanceur d'utiliser Triple technique pendant 3 tours</color>",
+        "Erhöht Schaden (sehr hoch)<br><color=0:255:0>Ermöglicht drei Runden lang Dreifachklingenkunst für Benutzer</color>",
+        "Aumenta el daño (muchísimo)<br><color=0:255:0>El usuario aprende Técnica triple durante 3 turnos</color>"
+    ],
+    "228066001": [
+        "<color=0:255:0>Boosts ATK</color>",
+        "<color=0:255:0>提高攻擊</color>",
+        "<color=0:255:0>공격력 상승</color>",
+        "<color=0:255:0>Augmente l'ATT</color>",
+        "<color=0:255:0>Erhöht ANG</color>",
+        "<color=0:255:0>Aumenta el ATQ</color>"
+    ],
+    "228066002": [
+        "Boosts ATK<br><color=0:255:0>Boosts SPR increase (great)</color><br><color=0:255:0>Boosts equipment SPR increase when armed with two one-handed weapons (mid)</color>",
+        "提高攻擊<br><color=0:255:0>提高精神增加量(特大)</color><br><color=0:255:0>提高裝備2把單手武器時武具精神的增加量</color>",
+        "공격력 상승<br><color=0:255:0>정신력 상승량 상승(특대)</color><br><color=0:255:0>한손용 무기 2개 장착 시 장비의 정신력 상승량 상승(중)</color>",
+        "Augmente l'ATT<br><color=0:255:0>Amplifie l'augmentation de la PSY (super)</color><br><color=0:255:0>Augmente la PSY de l'équipement lorsque deux armes à une main sont équipées (moyen)</color>",
+        "Erhöht ANG<br><color=0:255:0>Steigert PSY-Erhöhung (sehr hoch)</color><br><color=0:255:0>Erhöht Ausrüstung-PSY, wenn mit zwei einhändigen Waffen ausgerüstet (mittel)</color>",
+        "Aumenta el ATQ<br><color=0:255:0>Mayor aumento de ESP (muchísimo)</color><br><color=0:255:0>Mayor aumento del ESP del equipo al llevar dos armas de una sola mano (bastante)</color>"
+    ],
     "301301001": [
         "<color=0:255:0>Boosts lightning resistance (mid)</color>",
         "<color=0:255:0>提高雷屬性耐性(中)</color>",
@@ -8153,7 +8729,7 @@
     ],
     "302601002": [
         "Boosts fire resistance (mid)<br><color=0:255:0>Boosts fire resistance (mid)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
-        "提高火屬性耐性(中)<br><color=0:255:0>提高火屬性耐性(中)</color><br><color=0:255:0>降低MP消耗(大)</color>",
+        "提高火屬性耐性(中)<br><color=0:255:0>提高火屬性耐性(中)</color><br><color=0:255:0>減少MP消耗(大)</color>",
         "불속성 저항력 상승(중)<br><color=0:255:0>불속성 저항력 상승(중)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
         "Augmente la rés. au feu (moyen)<br><color=0:255:0>Augmente la rés. au feu (moyen)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "Erhöht Feuerresistenz (mittel)<br><color=0:255:0>Erhöht Feuerresistenz (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (hoch)</color>",
@@ -8169,7 +8745,7 @@
     ],
     "302701002": [
         "Boosts ice resistance (mid)<br><color=0:255:0>Boosts ice resistance (mid)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
-        "提高冰屬性耐性(中)<br><color=0:255:0>提高冰屬性耐性(中)</color><br><color=0:255:0>降低MP消耗(大)</color>",
+        "提高冰屬性耐性(中)<br><color=0:255:0>提高冰屬性耐性(中)</color><br><color=0:255:0>減少MP消耗(大)</color>",
         "얼음속성 저항력 상승(중)<br><color=0:255:0>얼음속성 저항력 상승(중)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
         "Augmente la rés. à la glace (moyen)<br><color=0:255:0>Augmente la rés. à la glace (moyen)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "Erhöht Eisresistenz (mittel)<br><color=0:255:0>Erhöht Eisresistenz (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (hoch)</color>",
@@ -8185,7 +8761,7 @@
     ],
     "302801002": [
         "Boosts lightning resistance (mid)<br><color=0:255:0>Boosts lightning resistance (mid)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
-        "提高雷屬性耐性(中)<br><color=0:255:0>提高雷屬性耐性(中)</color><br><color=0:255:0>降低MP消耗(大)</color>",
+        "提高雷屬性耐性(中)<br><color=0:255:0>提高雷屬性耐性(中)</color><br><color=0:255:0>減少MP消耗(大)</color>",
         "번개속성 저항력 상승(중)<br><color=0:255:0>번개속성 저항력 상승(중)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
         "Augmente la rés. à la foudre (moyen)<br><color=0:255:0>Augmente la rés. à la foudre (moyen)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "Erhöht Blitzresistenz (mittel)<br><color=0:255:0>Erhöht Blitzresistenz (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (hoch)</color>",
@@ -8649,7 +9225,7 @@
     ],
     "910055002": [
         "Boosts damage amount (low)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=255:255:0>Increases MP consumed (low)</color>",
-        "提高傷害量 (小)<br><color=0:255:0>提高傷害量 (中)</color><br><color=255:255:0>提高MP消耗(小)</color>",
+        "提高傷害量 (小)<br><color=0:255:0>提高傷害量 (中)</color><br><color=255:255:0>增加MP消耗(小)</color>",
         "피해량 상승(소)<br><color=0:255:0>피해량 상승(중)</color><br><color=255:255:0>소비MP 증가(소)</color>",
         "Augmente les dégâts infligés (peu)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=255:255:0>Augmente les PM consommés (peu)</color>",
         "Erhöht Schaden (gering)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=255:255:0>Erhöht den MP-Verbrauch (gering)</color>",
@@ -8713,7 +9289,7 @@
     ],
     "910078002": [
         "Boosts turns in effect (low)<br>Boosts increase in damage for next normal attack (great)<br><color=0:255:0>Reduces MP consumed (high)</color><br><color=0:255:0>Boosts increase in damage for next normal attack (mid)</color><br><color=0:255:0>Changes to feint step+ next turn after using analyze or entrust or mirage or chakra or dance of death or daunting step or daunting step+</color>",
-        "提高效果回合數(小)<br>提高下一回合普通攻擊的傷害量(特大)<br><color=0:255:0>降低MP消耗(大)</color><br><color=0:255:0>提高下一回合普通攻擊的傷害量(中)</color><br><color=0:255:0>使用「調查」「託付」「分身」「脈輪」「死亡之舞」「威壓舞步」「威壓舞步+」後，下一回合變化為「佯攻舞步+」</color>",
+        "提高效果回合數(小)<br>提高下一回合普通攻擊的傷害量(特大)<br><color=0:255:0>減少MP消耗(大)</color><br><color=0:255:0>提高下一回合普通攻擊的傷害量(中)</color><br><color=0:255:0>使用「調查」「託付」「分身」「脈輪」「死亡之舞」「威壓舞步」「威壓舞步+」後，下一回合變化為「佯攻舞步+」</color>",
         "효과 턴 수 상승(소)<br>다음 턴의 일반 공격 시 피해 상승량 상승(특대)<br><color=0:255:0>소비 MP 감소(대)</color><br><color=0:255:0>다음 턴의 일반 공격 시 피해 상승량 상승(중)</color><br><color=0:255:0>'조사, 맡기기, 분신술, 차크라, 죽음의 춤, 위압의 스텝, 또는 위압의 스텝+' 사용 후 다음 턴에 '눈속임 스텝+'으로 변화 </color>",
         "Augmente le nombre de tours des effets (peu)<br>Amplifie l'augmentation des dégâts pour les attaques normales suivantes (super)<br><color=0:255:0>Réduit les PM consommés (beaucoup)</color><br><color=0:255:0>Amplifie l'augmentation des dégâts pour les attaques normales suivantes (moyen)</color><br><color=0:255:0>Change en Pas feinté+ au tour suivant après avoir utilisé Examiner, Transfert, Mirage, Chakra, Danse de la mort, Pas intimidant, ou Pas intimidant+</color>",
         "Erhöht Anzahl aktiver Runden (gering)<br>Steigert Schadenserhöhung für nächsten normalen Angriff (sehr hoch)<br><color=0:255:0>Verringert verbrauchte MP (hoch)</color><br><color=0:255:0>Steigert Schadenserhöhung für nächsten normalen Angriff (mittel)</color><br><color=0:255:0>Wechselt nach der Anwendung von Studieren, Abgeben, Trugbild, Chakra, Tanz des Todes, Einschüchterung oder Einschüchterung+ in der folgenden Runde zu Fintenschritt+</color>",
@@ -8729,7 +9305,7 @@
     ],
     "910079002": [
         "Boosts turns in effect (low)<br>Boosts increase in damage for next normal attack (great)<br><color=0:255:0>Reduces MP consumed (high)</color><br><color=0:255:0>Boosts increase in damage for next normal attack (mid)</color><br><color=0:255:0>Changes to daunting step+ next turn after using analyze or entrust or mirage or chakra or dance of death or feint step or feint step+</color>",
-        "提高效果回合數(小)<br>提高下一回合普通攻擊的傷害量(特大)<br><color=0:255:0>降低MP消耗(大)</color><br><color=0:255:0>提高下一回合普通攻擊的傷害量(中)</color><br><color=0:255:0>使用「調查」「託付」「分身」「脈輪」「死亡之舞」「佯攻舞步」「佯攻舞步+」後，下一回合變化為「威壓舞步+」</color>",
+        "提高效果回合數(小)<br>提高下一回合普通攻擊的傷害量(特大)<br><color=0:255:0>減少MP消耗(大)</color><br><color=0:255:0>提高下一回合普通攻擊的傷害量(中)</color><br><color=0:255:0>使用「調查」「託付」「分身」「脈輪」「死亡之舞」「佯攻舞步」「佯攻舞步+」後，下一回合變化為「威壓舞步+」</color>",
         "효과 턴 수 상승(소)<br>다음 턴의 일반 공격 시 피해 상승량 상승(특대)<br><color=0:255:0>소비 MP 감소(대)</color><br><color=0:255:0>다음 턴의 일반 공격 시 피해 상승량 상승(중)</color><br><color=0:255:0>다음 턴에 일반 공격 위력 상승+'조사, 맡기기, 분신술, 차크라, 죽음의 춤, 눈속임 스텝, 또는 눈속임 스텝+' 사용 후 다음 턴에 '위압의 스텝+'으로 변화 </color>",
         "Augmente le nombre de tours des effets (peu)<br>Amplifie l'augmentation des dégâts pour les attaques normales suivantes (super)<br><color=0:255:0>Réduit les PM consommés (beaucoup)</color><br><color=0:255:0>Amplifie l'augmentation des dégâts pour les attaques normales suivantes (moyen)</color><br><color=0:255:0>Change en Pas intimidant+ au tour suivant après avoir utilisé Examiner, Transfert, Mirage, Chakra, Danse de la mort, Pas feinté, ou Pas feinté+</color>",
         "Erhöht Anzahl aktiver Runden (gering)<br>Steigert Schadenserhöhung für nächsten normalen Angriff (sehr hoch)<br><color=0:255:0>Verringert verbrauchte MP (hoch)</color><br><color=0:255:0>Steigert Schadenserhöhung für nächsten normalen Angriff (mittel)</color><br><color=0:255:0>Wechselt nach der Anwendung von Studieren, Abgeben, Trugbild, Chakra, Tanz des Todes, Fintenschritt oder Fintenschritt+ in der folgenden Runde zu Einschüchterung</color>",
@@ -8761,7 +9337,7 @@
     ],
     "910087002": [
         "Removes skipping of next turn<br>Boosts ATK and DEF increases (high)<br>Boosts HP restoration amount (great)<br>Boosts MP restoration amount (high)<br><color=0:255:0>Boosts ATK and DEF increases (high)</color><br><color=0:255:0>Boosts HP restoration amount (great)</color><br><color=0:255:0>Temporarily adds chance of counterattacking when an ally receives a physical attack</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "解除跳過下一回合的效果<br>提高攻擊防禦增加量(大)<br>提高HP恢復量(特大)<br>提高MP恢復量(大)<br><color=0:255:0>提高攻擊防禦增加量(大)</color><br><color=0:255:0>提高HP恢復量(特大)</color><br><color=0:255:0>暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "解除跳過下一回合的效果<br>提高攻擊防禦增加量(大)<br>提高HP恢復量(特大)<br>提高MP恢復量(大)<br><color=0:255:0>提高攻擊防禦增加量(大)</color><br><color=0:255:0>提高HP恢復量(特大)</color><br><color=0:255:0>暫時性除自身以外的隊員受到物理攻擊時一定機率進行反擊</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "다음 턴 건너뛰기 해제<br>공격력과 방어력 상승량 상승(대)<br>HP 회복량 상승(특대)<br>MP 회복량 상승(대)<br><color=0:255:0>공격력과 방어력 상승량 상승(대)</color><br><color=0:255:0>HP 회복량 상승(특대)</color><br><color=0:255:0>일시적으로 아군 1명이 물리공격을 받으면 일정 확률로 반격</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Supprime le saut du prochain tour<br>Amplifie l'augmentation de l'ATT et de la DEF (beaucoup)<br>Augmente les PV restaurés (super)<br>Augmente les PM restaurés (beaucoup)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la DEF (beaucoup)</color><br><color=0:255:0>Augmente les PV restaurés (super)</color><br><color=0:255:0>Confère temporairement une chance de contre-attaquer quand un allié subit une attaque physique</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Entfernt Überspringen nächster Runde<br>Steigert ANG- und ABW-Erhöhungen (hoch)<br>Erhöht Wert regenerierter LP (sehr hoch)<br>Erhöht Wert regenerierter MP (hoch)<br><color=0:255:0>Steigert ANG- und ABW-Erhöhungen (hoch)</color><br><color=0:255:0>Erhöht Wert regenerierter LP (sehr hoch)</color><br><color=0:255:0>Kurzzeitige Chance zu kontern, wenn Verb. mit phys. Angriff attackiert wird</color><br><color=255:255:0>Erhöht MP-Verbrauch</color>",
@@ -8777,7 +9353,7 @@
     ],
     "910088002": [
         "Boosts ATK increase when berserk (high)<br>Boosts chance of being targeted (great)<br><color=0:255:0>Boosts ATK increase when berserk (high)</color><br><color=0:255:0>Reduces damage taken for three turns for self</color><br><color=0:255:0>Automatically revives caster one time</color>",
-        "狂暴狀態時提高攻擊增加量(大)<br>容易被敵人攻擊(特大)<br><color=0:255:0>狂暴狀態時提高攻擊增加量(大)</color><br><color=0:255:0>3回合內減少對自身的傷害</color><br><color=0:255:0>賦予自身進入無法戰鬥狀態時自動復活1次</color>",
+        "狂暴狀態時提高攻擊增加量(大)<br>容易被敵人攻擊(特大)<br><color=0:255:0>狂暴狀態時提高攻擊增加量(大)</color><br><color=0:255:0>3回合內減少對自身的傷害</color><br><color=0:255:0>賦予自身進入無法戰鬥狀態時自動復活1次的效果</color>",
         "광폭화 부여 시 공격력 상승량 상승(대)<br>적의 공격 대상이 될 확률 상승(특대)<br><color=0:255:0>광폭화 부여 시 공격력 상승량 상승(대)</color><br><color=0:255:0>3턴 동안 자신이 받는 피해량 감소</color><br><color=0:255:0>자신의 전투불능 상태를 1회 자동 회복하는 효과 부여</color>",
         "Amplifie l'augmentation de l'ATT sous le statut Furie (beaucoup)<br>Augmente les chances d'être ciblé (super)<br><color=0:255:0>Amplifie l'augmentation d'ATT sous le statut Furie (beaucoup)</color><br><color=0:255:0>Réduit les dégâts subis par le lanceur pendant 3 tours</color><br><color=0:255:0>Ranime automatiquement le lanceur à une reprise</color>",
         "Steigert ANG-Erhöhung, wenn Statusveränderung \"Berserker\" aktiv (hoch)<br>Erhöht Chance, zum Ziel zu werden (sehr hoch)<br><color=0:255:0>Steigert ANG-Erhöhung, wenn Statusveränderung \"Berserker\" aktiv (hoch)</color><br><color=0:255:0>Verringert 3 Runden lang von Benutzer erlittenen Schaden</color><br><color=0:255:0>Belebt Benutzer automatisch ein Mal wieder</color>",
@@ -8916,7 +9492,7 @@
         "<color=0:255:0>提高攻擊增加量(大)</color>",
         "<color=0:255:0>공격력 상승량 상승(대)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT (beaucoup)</color>",
-        "<color=0:255:0>Steigert die ANG-Erhöhung (hoch)</color>",
+        "<color=0:255:0>Steigert ANG-Erhöhung (hoch)</color>",
         "<color=0:255:0>Mayor aumento de ATQ (mucho)</color>"
     ],
     "910125002": [
@@ -9257,7 +9833,7 @@
     ],
     "910235002": [
         "Boosts LB fill rate amount (great)<br><color=0:255:0>Reduces MP consumed (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color>",
-        "提高極限技槽增加量(特大)<br><color=0:255:0>降低MP消耗(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
+        "提高極限技槽增加量(特大)<br><color=0:255:0>減少MP消耗(中)</color><br><color=0:255:0>提高效果回合數(小)</color>",
         "LB 게이지 효율 상승(특대)<br><color=0:255:0>소비MP 감소(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color>",
         "Augmente le taux de remplissage de la jauge de limite (super)<br><color=0:255:0>Réduit les PM consommés (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color>",
         "Limitmeter füllt sich schneller (sehr hoch)<br><color=0:255:0>Reduziert verbrauchte MP (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color>",
@@ -9305,7 +9881,7 @@
     ],
     "910270002": [
         "Regenerate HP and MP for one ally over time<br><color=0:255:0>Boosts HP and MP recovery amount over time (high)</color><br><color=0:255:0>Boosts turns in effect for HP and MP regeneration over time (mid)</color><br><color=0:255:0>Automatically revives an ally one time</color><br><color=255:255:0>Increases MP consumed (great)</color>",
-        "持續恢復1名隊員的HPMP<br><color=0:255:0>提高HPMP持續恢復量(大)</color><br><color=0:255:0>提高HPMP持續恢復效果回合數(中)</color><br><color=0:255:0>對1名隊員施加1次自動復活效果</color><br><color=255:255:0>提高MP消耗(特大)</color>",
+        "持續恢復1名隊員的HPMP<br><color=0:255:0>提高HPMP持續恢復量(大)</color><br><color=0:255:0>提高HPMP持續恢復效果回合數(中)</color><br><color=0:255:0>對1名隊員施加1次自動復活效果</color><br><color=255:255:0>增加MP消耗(特大)</color>",
         "아군 1명의 HP와 MP 서서히 회복<br><color=0:255:0>HP와 MP 회복량 서서히 상승(대)</color><br><color=0:255:0>HP와 MP 회복 효과 턴 수 서서히 상승(중)</color><br><color=0:255:0>아군 1명의 전투불능 상태를 1회 자동 회복하는 효과 부여</color><br><color=255:255:0>소비 MP 증가(특대)</color>",
         "Restaure progressivement les PV/PM d'un allié<br><color=0:255:0>Augmente la restauration progressive des PV/PM (beaucoup)</color><br><color=0:255:0>Augmente le nombre de tours des effets de restauration progressive des PV/PM (moyen)</color><br><color=0:255:0>Ranime automatiquement un allié à une reprise</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
         "Regeneriert allmählich LP und MP eines Verb.<br><color=0:255:0>Erhöht allmählich Wert regenerierter LP und MP (hoch)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für allmähliche Regeneration von LP und MP (mittel)</color><br><color=0:255:0>Belebt automatisch einen Verb. wieder</color><br><color=255:255:0>Erhöht MP-Verbrauch (sehr hoch)</color>",
@@ -9313,7 +9889,7 @@
     ],
     "910275001": [
         "<color=0:255:0>Boosts ATK, DEF, MAG and SPR increases (mid)</color><br><color=255:255:0>Increases MP consumed (mid)</color>",
-        "<color=0:255:0>提高攻擊防禦魔力精神增加量(中)</color><br><color=255:255:0>提高MP消耗(中)</color>",
+        "<color=0:255:0>提高攻擊防禦魔力精神增加量(中)</color><br><color=255:255:0>增加MP消耗(中)</color>",
         "<color=0:255:0>공격력, 방어력, 마력, 정신력 상승량 상승(중)</color><br><color=255:255:0>소비 MP 증가(중)</color>",
         "<color=0:255:0>Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)</color><br><color=255:255:0>Augmente les PM consommés (moyen)</color>",
         "<color=0:255:0>Steigert ANG-, ABW-, MAG- und PSY-Erhöhungen (mittel)</color><br><color=255:255:0>Erhöht MP-Verbrauch (mittel)</color>",
@@ -9321,7 +9897,7 @@
     ],
     "910275002": [
         "Boosts ATK, DEF, MAG and SPR increases (mid)<br>Increases MP consumed (mid)<br><color=0:255:0>Boosts ATK, DEF, MAG and SPR increases (mid)</color><br><color=0:255:0>Boosts turns in effect (low)</color><br><color=0:255:0>Boosts resistance to stop</color><br><color=255:255:0>Increases MP consumed (great)</color>",
-        "提高攻擊防禦魔力精神增加量(中)<br>提高MP消耗(中)<br><color=0:255:0>提高攻擊防禦魔力精神增加量(中)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高停止效果的耐性</color><br><color=255:255:0>提高MP消耗(特大)</color>",
+        "提高攻擊防禦魔力精神增加量(中)<br>增加MP消耗(中)<br><color=0:255:0>提高攻擊防禦魔力精神增加量(中)</color><br><color=0:255:0>提高效果回合數(小)</color><br><color=0:255:0>提高停止效果的耐性</color><br><color=255:255:0>增加MP消耗(特大)</color>",
         "공격력, 방어력, 마력, 정신력 상승량 상승(중)<br>소비 MP 증가(중)<br><color=0:255:0>공격력, 방어력, 마력, 정신력 상승량 상승(중)</color><br><color=0:255:0>효과 턴 수 상승(소)</color><br><color=0:255:0>스톱 저항력 상승</color><br><color=255:255:0>소비 MP 증가(특대)</color>",
         "Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)<br>Augmente les PM consommés (moyen)<br><color=0:255:0>Amplifie l'augmentation de l'ATT, la DEF, la MAGIE et la PSY (moyen)</color><br><color=0:255:0>Augmente le nombre de tours des effets (peu)</color><br><color=0:255:0>Augmente la résistance à Stop</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
         "Steigert ANG-, ABW-, MAG- und PSY-Erhöhungen (mittel)<br>Erhöht MP-Verbrauch (mittel)<br><color=0:255:0>Steigert ANG-, ABW-, MAG- und PSY-Erhöhungen (mittel)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (gering)</color><br><color=0:255:0>Erhöht Stopp-Resistenz</color><br><color=255:255:0>Erhöht MP-Verbrauch (sehr hoch)</color>",
@@ -9449,7 +10025,7 @@
     ],
     "910425002": [
         "Boosts MAG and SPR increases (mid)<br>Boosts turns in effect (low)<br><color=0:255:0>Reduces damage taken for all allies</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高魔力精神增加量(中)<br>提高效果回合數(小)<br><color=0:255:0>減少全體隊員受到的傷害</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高魔力精神增加量(中)<br>提高效果回合數(小)<br><color=0:255:0>減少全體隊員受到的傷害</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "마력과 정신력 상승량 상승(중)<br>효과 턴 수 상승(소)<br><color=0:255:0>아군 전체가 받는 피해량 감소</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Amplifie l'augmentation de la MAGIE et de la PSY (moyen)<br>Augmente le nombre de tours des effets (peu)<br><color=0:255:0>Réduit les dégâts subis par tous les alliés</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Steigert MAG- und PSY-Erhöhungen (mittel)<br>Erhöht Anzahl aktiver Runden (gering)<br><color=0:255:0>Verringert den von allen Verbündeten erlittenen Schaden</color><br><color=255:255:0>Erhöht verbrauchte MP (hoch)</color>",
@@ -9473,7 +10049,7 @@
     ],
     "910434001": [
         "<color=0:255:0>Removes the need to use flurry, aeroja, or tornado on previous turn for boosted damage</color><br><color=255:255:0>Increases MP consumed (great)</color>",
-        "<color=0:255:0>移除提高傷害時需在前一回合使用「瞬風」、「強勁風」、「龍捲風」的條件</color><br><color=255:255:0>提高MP消耗(特大)</color>",
+        "<color=0:255:0>移除提高傷害時需在前一回合使用「瞬風」、「強勁風」、「龍捲風」的條件</color><br><color=255:255:0>增加MP消耗(特大)</color>",
         "<color=0:255:0>이전 턴에 '질풍', '에어로쟈' 또는 '토네이도'를 사용하지 않아도 피해량 상승</color><br><color=255:255:0>소비 MP 증가(특대)</color>",
         "<color=0:255:0>Plus besoin d'utiliser Déluge, Vent max ou Tornade au tour précédent pour augmenter les dégâts</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
         "<color=0:255:0>Für erhöhten Schaden muss in der vorherigen Runde nicht mehr Windstoß, Aeroka oder Tornado benutzt werden.</color><br><color=255:255:0>Erhöht verbrauchte MP (sehr hoch)</color>",
@@ -9481,7 +10057,7 @@
     ],
     "910434002": [
         "Removes the need to use flurry, aeroja, or tornado on previous turn for boosted damage<br>Increases MP consumed (great)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=255:255:0>Increases MP consumed (great)</color>",
-        "移除提高傷害時需在前一回合使用「瞬風」、「強勁風」、「龍捲風」的條件<br>提高MP消耗(特大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>提高MP消耗(特大)</color>",
+        "移除提高傷害時需在前一回合使用「瞬風」、「強勁風」、「龍捲風」的條件<br>增加MP消耗(特大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=255:255:0>增加MP消耗(特大)</color>",
         "이전 턴에 '질풍', '에어로쟈' 또는 '토네이도'를 사용하지 않아도 피해량 상승<br>소비 MP 증가(특대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(특대)</color>",
         "Plus besoin d'utiliser Déluge, Vent max ou Tornade au tour précédent pour augmenter les dégâts<br>Augmente les PM consommés (super)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=255:255:0>Augmente les PM consommés (super)</color>",
         "Für erhöhten Schaden muss in der vorherigen Runde nicht mehr Windstoß, Aeroka oder Tornado benutzt werden.<br>Erhöht verbrauchte MP (sehr hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=255:255:0>Erhöht verbrauchte MP (sehr hoch)</color>",
@@ -9625,7 +10201,7 @@
     ],
     "910520002": [
         "Boosts damage amount (mid)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (high)</color>",
-        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>降低MP消耗(大)</color>",
+        "提高傷害量(中)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>減少MP消耗(大)</color>",
         "피해량 상승(중)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>소비 MP 감소(대)</color>",
         "Augmente les dégâts infligés (moyen)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Réduit les PM consommés (beaucoup)</color>",
         "Erhöht Schaden (mittel)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Verringert verbrauchte MP (hoch)</color>",
@@ -9633,7 +10209,7 @@
     ],
     "910526001": [
         "<color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "<color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>降低MP消耗(小)</color>",
+        "<color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "<color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>소비 MP 감소(소)</color>",
         "<color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "<color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Verringert verbrauchte MP (gering)</color>",
@@ -9641,7 +10217,7 @@
     ],
     "910526002": [
         "Boosts damage amount (mid)<br>Reduces MP consumed (low)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Reduces MP consumed (low)</color><br><color=0:255:0>Boosts fire and dark resistance reductions (mid)</color>",
-        "提高傷害量(中)<br>降低MP消耗(小)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>降低MP消耗(小)</color><br><color=0:255:0>提高火暗屬性耐性減少量(中)</color>",
+        "提高傷害量(中)<br>減少MP消耗(小)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>減少MP消耗(小)</color><br><color=0:255:0>提高火暗屬性耐性減少量(中)</color>",
         "피해량 상승(중)<br>소비 MP 감소(소)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>소비 MP 감소(소)</color><br><color=0:255:0>불과 어둠속성 저항력 감소량 상승(중)</color>",
         "Augmente les dégâts infligés (moyen)<br>Réduit les PM consommés (peu)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color><br><color=0:255:0>Amplifie la réduction de la résistance au feu et aux ténèbres (moyen)</color>",
         "Erhöht Schaden (mittel)<br>Verringert verbrauchte MP (gering)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Verringert verbrauchte MP (gering)</color><br><color=0:255:0>Erhöht Resistenzverringerungen für Feuer und Dunkel (mittel)</color>",
@@ -9817,7 +10393,7 @@
     ],
     "910652002": [
         "Boosts maximum damage from consecutive use (great)<br><color=0:255:0>Boosts damage amount (great)</color><br><color=0:255:0>Boosts maximum damage from consecutive use (great)</color><br><color=255:255:0>Increases MP consumed (high)</color>",
-        "提高連續使用時造成的最大傷害(特大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高連續使用時造成的最大傷害(特大)</color><br><color=255:255:0>提高MP消耗(大)</color>",
+        "提高連續使用時造成的最大傷害(特大)<br><color=0:255:0>提高傷害量(特大)</color><br><color=0:255:0>提高連續使用時造成的最大傷害(特大)</color><br><color=255:255:0>增加MP消耗(大)</color>",
         "연속 사용 시 최대 피해량 상승(특대)<br><color=0:255:0>피해량 상승(특대)</color><br><color=0:255:0>연속 사용 시 최대 피해량 상승(특대)</color><br><color=255:255:0>소비 MP 증가(대)</color>",
         "Augmente les dégâts maximums avec un usage consécutif (super)<br><color=0:255:0>Augmente les dégâts infligés (super)</color><br><color=0:255:0>Augmente les dégâts maximums avec un usage consécutif (super)</color><br><color=255:255:0>Augmente les PM consommés (beaucoup)</color>",
         "Erhöht Maximalschaden mit jeder Anwendung (sehr hoch)<br><color=0:255:0>Erhöht Schaden (sehr hoch)</color><br><color=0:255:0>Erhöht Maximalschaden mit jeder Anwendung (sehr hoch)</color><br><color=255:255:0>Erhöht MP-Verbrauch (hoch)</color>",
@@ -9881,7 +10457,7 @@
     ],
     "910677002": [
         "Boosts damage amount (high)<br><color=0:255:0>Boosts damage amount (high)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "提高傷害量(大)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>降低MP消耗(小)</color>",
+        "提高傷害量(大)<br><color=0:255:0>提高傷害量(大)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "피해량 상승(대)<br><color=0:255:0>피해량 상승(대)</color><br><color=0:255:0>소비 MP 감소(소)</color>",
         "Augmente les dégâts infligés (beaucoup)<br><color=0:255:0>Augmente les dégâts infligés (beaucoup)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "Erhöht Schaden (hoch)<br><color=0:255:0>Erhöht Schaden (hoch)</color><br><color=0:255:0>Verringert verbrauchte MP (gering)</color>",
@@ -9969,7 +10545,7 @@
     ],
     "910725001": [
         "<color=0:255:0>Boosts turns in effect (mid)</color><br><color=0:255:0>Reduces MP consumed (low)</color>",
-        "<color=0:255:0>提高效果回合數(中)</color><br><color=0:255:0>降低MP消耗(小)</color>",
+        "<color=0:255:0>提高效果回合數(中)</color><br><color=0:255:0>減少MP消耗(小)</color>",
         "<color=0:255:0>효과 턴 수 상승(중)</color><br><color=0:255:0>소비 MP 감소(소)</color>",
         "<color=0:255:0>Augmente le nombre de tours des effets (moyen)</color><br><color=0:255:0>Réduit les PM consommés (peu)</color>",
         "<color=0:255:0>Erhöht Anzahl aktiver Runden (mittel)</color><br><color=0:255:0>Verringert MP-Verbrauch (gering)</color>",
@@ -9977,7 +10553,7 @@
     ],
     "910725002": [
         "Boosts turns in effect (mid)<br>Reduces MP consumed (low)<br><color=0:255:0>Boosts damage amount (mid)</color><br><color=0:255:0>Boosts hit count (low)</color>",
-        "提高效果回合數(中)<br>降低MP消耗(小)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高攻擊次數(小)</color>",
+        "提高效果回合數(中)<br>減少MP消耗(小)<br><color=0:255:0>提高傷害量(中)</color><br><color=0:255:0>提高攻擊次數(小)</color>",
         "효과 턴 수 상승(중)<br>소비 MP 감소(소)<br><color=0:255:0>피해량 상승(중)</color><br><color=0:255:0>히트 수 상승(소)</color>",
         "Augmente le nombre de tours des effets (moyen)<br>Réduit les PM consommés (peu)<br><color=0:255:0>Augmente les dégâts infligés (moyen)</color><br><color=0:255:0>Augmente le nombre de coups (peu)</color>",
         "Erhöht Anzahl aktiver Runden (gering)<br>Verringert MP-Verbrauch (gering)<br><color=0:255:0>Erhöht Schaden (mittel)</color><br><color=0:255:0>Erhöht Trefferanzahl (gering)</color>",
