@@ -2081,7 +2081,7 @@
     ],
     "CRAFT_REQUEST": [
         "Start crafting?",
-        "是否要<br>開始製作？",
+        "是否要開始製作？",
         "제작을 시작합니다.<br>계속하시겠습니까?",
         "Commencer la fabrication ?",
         "Herstellung beginnen?",
@@ -2177,7 +2177,7 @@
     ],
     "Comeback_Login_Bonus_Moogle_Text": [
         "Welcome back! Here are some items to celebrate your return, kupo!",
-        null,
+        "歡迎回歸！為你準備了一些獎勵道具慶祝你的歸來，庫啵！",
         "다시 돌아온 걸 환영해! 컴백 기념 아이템을 선물할게쿠포!",
         "Bon retour parmi nous ! Acceptez ces quelques objets pour fêter cela, kupo !",
         "Willkommen zurück! HIer hast du ein paar Gegenstände, um deine Rückkehr zu feiern, kupo!",
@@ -2185,7 +2185,7 @@
     ],
     "Comeback_Login_Bonus_Title": [
         "Comeback Login Bonus",
-        null,
+        "回歸登入獎勵",
         "컴백 출석 보상",
         "Bonus de connexion de retour",
         "Comeback Anmeldebonus",
@@ -5391,6 +5391,14 @@
         null,
         null
     ],
+    "GACHA_SELECT_TICKET_SHORTAGE": [
+        "<param=cost> <param=ticket_name>(s) are needed to view the list.",
+        "觀看列表需要<param=cost>張<param=ticket_name>。",
+        "목록을 보려면 <param=ticket_name>이 <param=cost>장 필요합니다.",
+        "Vous avez besoin de : <param=cost> <param=ticket_name>(s) pour voir la liste.",
+        "<param=cost> <param=ticket_name>(n) werden benötigt, um die Liste anzusehen.",
+        "Se necesitan <param=cost> <param=ticket_name>(s) para ver la lista."
+    ],
     "GACHA_SELECT_TICKET_TOTAL": [
         "(Tickets Held: <param=ticket_total>)",
         "（持有數：<param=ticket_total>張）",
@@ -6094,14 +6102,6 @@
         "est recommandé(e).",
         "wird empfohlen.",
         "se recomienda."
-    ],
-    "INITIAL_DOWNLOAD_PLAY_BGM": [
-        "Listen to the FFBE BGM while playing<br>to further enjoy the world of FFBE!",
-        "一邊聆聽背景音樂一邊遊玩，<br>就能更加沉浸於FFBE的世界觀中。",
-        "BGM을 들으며 플레이하면<br>FFBE의 세계관을 보다 더 즐기실 수 있습니다.",
-        "Jouez en écoutant les musiques de FFBE<br>pour une expérience de jeu encore plus immersive !",
-        "Hör dir während du spielst die FFBE-Hintergrundmusik an,<br>um die Welt von FFBE noch mehr zu genießen!",
-        "¡Escucha la música de FFBE mientras juegas<br>para sumergirte del todo en el mundo de FFBE!"
     ],
     "INSTALL_ERROR_TITLE_BACK": [
         "An error occurred during download. Returning to title.<br><br>*Tap the <color=255:255:0>Restore</color> button then <color=255:255:0>Re-download Data</color> if the problem doesn't resolve itself.",
@@ -11551,6 +11551,14 @@
         "Paladia - Kapitel 7",
         "Paladia - Capítulo 7"
     ],
+    "MST_STORY_NAME_17": [
+        "Paladia Chapter 8",
+        "帕拉迪亞 第八章",
+        "파라디아편 제8장",
+        "Paladia, chapitre 8",
+        "Paladia - Kapitel 8",
+        "Paladia - Capítulo 8"
+    ],
     "MST_STORY_NAME_2": [
         "Lanzelt",
         "蘭澤爾特大陸",
@@ -12921,7 +12929,7 @@
     ],
     "New_Quest_Complete_Reward_Text": [
         "You have received the following for completing a Unit Challenge.",
-        null,
+        "您已收到以下兵員考驗完成報酬。",
         "유닛 챌린지 완료 보상으로 다음과 같은 아이템을 지급합니다.",
         "Vous avez accompli un défi d'unité. Les récompenses suivantes vous ont été livrées.",
         "Du hast Folgendes für den abschluss einer Einheitenherausforderung erhalten.",
@@ -12929,7 +12937,7 @@
     ],
     "New_Quest_Complete_Reward_Title": [
         "Mission Completion Reward!",
-        null,
+        "考驗完成報酬！",
         "미션 완료 보상!",
         "Récompense de réussite de mission !",
         "Missionsabschlussbelohnung",
@@ -12937,7 +12945,7 @@
     ],
     "New_Quest_Disclaimer_Text": [
         "1. Selling units after using them for the unit challenges will not affect your results.<br>2.Fusing units after using them for the unit challenges will not affect your results.<br>3. Records of your progress through the challenges will be saved automatically. Any issues regarding the progress of unit challenges will be reviewed by the development team.",
-        null,
+        "1. 販售使用於兵員考驗中的兵員並不會對結果造成影響。<br>2.合成使用於兵員考驗中的兵員並不會對結果造成影響。<br>3.您的考驗進度將會自動進行保存。若遇到任何問題，開發團隊將會對此紀錄進行審查。",
         "1. 유닛 챌린지에 사용 후 유닛을 판매해도 결과에 영향을 미치지 않습니다.<br>2. 유닛 챌린지에 사용 후 유닛을 합성해도 결과에 영향을 미치지 않습니다.<br>3. 챌린지 진행 기록은 자동으로 저장됩니다. 유닛 챌린지 진행 관련한 모든 문제는 개발팀에서 검토할 예정합니다.",
         "1. Vendre vos unités après les avoir utilisées lors des défis d'unité n'a aucun effet sur vos résultats.<br>2. Fusionner vos unités après les avoir utilisées lors des défis d'unité n'a aucun effet sur vos résultats.<br>3. Votre progression au fil des défis est automatiquement enregistrée. En cas de problème, ces enregistrements seront examinés par l'équipe de développement.",
         "1. Einheiten zu verkaufen, nachdem sie für Einheitenherausforderungen benutzt wurden, wird keinen Einfluss auf deine Ergebnisse haben. <br>2. Einheiten zu fusionieren, nachdem sie für Einheitenherausforderungen benutzt wurden, wird keinen Einfluss auf deine Ergebnisse haben.<br>3. Aufzeichnungen deines Fortschritts in den Herausforderungen werden automatisch gespeichert. Jegliche Probleme bezüglich des Fortschritts in den Einheitenherausforderungen werden vom Entwicklungsteam untersucht.",
@@ -12945,7 +12953,7 @@
     ],
     "New_Quest_Disclaimer_Title": [
         "DISCLAIMER",
-        null,
+        "注意事項",
         "주의사항",
         "AVIS",
         "HINWEIS",
@@ -12953,7 +12961,7 @@
     ],
     "New_Quest_Extra_Challenges_Count": [
         "UNIT CHALLENGES (%d/%d)",
-        null,
+        "兵員考驗 (%d/%d)",
         "유닛 챌린지(%d/%d)",
         "DÉFIS D'UNITÉ (%d/%d)",
         "EINHEITENHERAUSFORDERUNGEN (%d/%d)",
@@ -12961,7 +12969,7 @@
     ],
     "New_Quest_Extra_Challenges_Tab": [
         "UNIT CHALLENGES",
-        null,
+        "兵員考驗",
         "유닛 챌린지",
         "DÉFIS D'UNITÉ",
         "EINHEITENHERAUSFORDERUNGEN",
@@ -12969,7 +12977,7 @@
     ],
     "New_Quest_Mission_Challenges_Tab": [
         "MISSION CHALLENGES",
-        null,
+        "任務考驗",
         "미션 챌린지",
         "DÉFIS DE MISSION",
         "MISSIONSHERAUSFORDERUNGEN",
@@ -12977,7 +12985,7 @@
     ],
     "New_Quest_Unit_Series_Title": [
         "Unit Challenges",
-        null,
+        "兵員考驗",
         "유닛 챌린지",
         "Défis d'unité",
         "EINHEITENHERAUSFORDERUNGEN",
@@ -12985,7 +12993,7 @@
     ],
     "New_Quest_Unit_Unique_Unit_Used": [
         "Unique units used:",
-        null,
+        "已使用的兵員：",
         "사용 유닛:",
         "Unités uniques utilisées :",
         "Benutzte eindeutige Einheiten:",
@@ -15305,10 +15313,10 @@
     ],
     "SG_DONOTSHOWTHISAGAIN": [
         "Do not prompt when download size is less than 10 MB.",
-        "下次不再顯示",
-        "up",
+        "下載大小小於10MB時不再顯示。",
+        "다운로드 용량이 10 MB 이하일 때 알림을 표시하지 않음",
         "Ne pas afficher lorsque la taille du téléchargement fait moins de 10 Mo.",
-        "Nicht wieder zeigen",
+        "Nicht anzeigen, wenn Größe des Downloads unter 10 MB beträgt.",
         "No mostrar cuando el tamaño de la descarga no supere los 10 MB."
     ],
     "SG_EARLYBIRD_CHECKBOX_TEXT": [

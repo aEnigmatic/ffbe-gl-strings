@@ -2004,7 +2004,7 @@
         "閃電",
         "우레",
         "Éclair fulgurant",
-        "Blitzschlag",
+        "Donnerschlag",
         "Descarga eléctrica"
     ],
     "151010": [
@@ -2036,7 +2036,7 @@
         "雷擊",
         "전격",
         "Tonnerre foudroyant",
-        "Donnerschlag",
+        "Donnerhieb",
         "Piedratrueno"
     ],
     "151090": [
@@ -10076,7 +10076,7 @@
         "閃電",
         "우레",
         "Éclair fulgurant",
-        "Blitzschlag",
+        "Donnerschlag",
         "Descarga eléctrica"
     ],
     "161160": [
@@ -10684,7 +10684,7 @@
         "暗黑",
         "다크",
         "Ténèbres",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "161920": [
@@ -13492,7 +13492,7 @@
         "閃電",
         "우레",
         "Éclair fulgurant",
-        "Schlägerei",
+        "Donnerschlag",
         "Estruendo"
     ],
     "165430": [
@@ -18373,7 +18373,7 @@
         "강습",
         "Assaut violent",
         "Brutaler Angriff",
-        "Asalto caótico S"
+        "Asalto violento"
     ],
     "171560": [
         "Flatten",
@@ -18404,7 +18404,7 @@
         "暗黑",
         "다크",
         "Obscurité",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "171600": [
@@ -25156,7 +25156,7 @@
         "暗黑",
         "다크",
         "Obscurité",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "180020": [
@@ -25396,7 +25396,7 @@
         "暗黑",
         "다크",
         "Obscurité",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "180320": [
@@ -27492,7 +27492,7 @@
         "暗黑",
         "다크",
         "Obscurité",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "182640": [
@@ -30540,7 +30540,7 @@
         "暗黑",
         "다크",
         "Obscurité",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "186450": [
@@ -31476,7 +31476,7 @@
         "暗黑",
         "다크",
         "Obscurité",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "187620": [
@@ -43988,8 +43988,16 @@
         "章魚腳",
         "문어발",
         "Tentacule",
-        "Tentakel",
-        "Tentáculo"
+        "Oktotentakel",
+        "Pulpotentáculos"
+    ],
+    "202320": [
+        "Octuple Attack",
+        "八爪",
+        "8개의 다리",
+        "Octuplattaque",
+        "Oktoangriff",
+        "Ataque óctuple"
     ],
     "202330": [
         "Magnitude 8",
@@ -44007,12 +44015,20 @@
         "Säureregen",
         "Lluvia ácida"
     ],
+    "202350": [
+        "Tempest",
+        "狂風暴雨",
+        "거대 폭풍",
+        "Tempête",
+        "Gewittersturm",
+        "Tempestad"
+    ],
     "202360": [
         "Hailstone",
         "落石",
         "우박",
         "Grêle",
-        "Hagelstein",
+        "Hagelkorn",
         "Lluvia de rocas"
     ],
     "202370": [
@@ -44020,8 +44036,16 @@
         "流水吐息",
         "물의 숨결",
         "Aquasouffle",
-        "Nasshauch",
+        "Wasserodem",
         "Aliento de agua"
+    ],
+    "202380": [
+        "Hailstorm",
+        "暴雨冰雹",
+        "빗발",
+        "Tempête de grêle",
+        "Hagelsturm",
+        "Granizada"
     ],
     "202390": [
         "1 Million Volts",
@@ -44031,6 +44055,38 @@
         "1 Millionen Volt",
         "1 millón de voltios"
     ],
+    "202400": [
+        "Octo Ink",
+        "章魚噴墨",
+        "문어 먹물",
+        "Poulpencre",
+        "Oktotinte",
+        "Pulpotinta"
+    ],
+    "202410": [
+        "Chokehold",
+        "絞手絕殺",
+        "조이기",
+        "Étouffement",
+        "Würgegriff",
+        "Estrangulamiento"
+    ],
+    "202420": [
+        "Octo Virus",
+        "絞手絕殺",
+        "문어 바이러스",
+        "Poulpovirus",
+        "Oktovirus",
+        "Pulpovirus"
+    ],
+    "202430": [
+        "Octo Glare",
+        "章魚瞪",
+        "문어 노려보기",
+        "Poulpœillade",
+        "Oktodrohblick",
+        "Pulpomirada"
+    ],
     "202440": [
         "Berserk",
         "狂暴",
@@ -44038,6 +44094,22 @@
         "Berserk",
         "Berserker-Modus",
         "Modo enloquecido"
+    ],
+    "202450": [
+        "Heal",
+        "恢復治療",
+        "회복",
+        "Soutien",
+        "Heilen",
+        "Remedio"
+    ],
+    "202460": [
+        "Heal",
+        "恢復治療",
+        "회복",
+        "Soutien",
+        "Heilen",
+        "Remedio"
     ],
     "202470": [
         "Haste",
@@ -44047,6 +44119,38 @@
         "Eile",
         "Prisa"
     ],
+    "202480": [
+        "Octo Trap - Physical",
+        "章魚籠·物理",
+        "문어 항아리·물리",
+        "Poulpopiège - Physique",
+        "Oktofalle - Physisch",
+        "Pulpotrampa física"
+    ],
+    "202490": [
+        "Octo Trap - Magic",
+        "章魚籠·魔法",
+        "문어 항아리·마법",
+        "Poulpopiège - Magique",
+        "Oktofalle - Magisch",
+        "Pulpotrampa mágica"
+    ],
+    "202500": [
+        "Octo Trap - Physical",
+        "章魚籠·物理",
+        "문어 항아리·물리",
+        "Poulpopiège - Physique",
+        "Oktofalle - Physisch",
+        "Pulpotrampa física"
+    ],
+    "202510": [
+        "Octo Trap - Magic",
+        "章魚籠·魔法",
+        "문어 항아리·마법",
+        "Poulpopiège - Magique",
+        "Oktofalle - Magisch",
+        "Pulpotrampa mágica"
+    ],
     "202520": [
         "Orthros has transformed!",
         "奧爾特羅斯的體質發生了變化！",
@@ -44054,6 +44158,38 @@
         "Orthros s'est transformé",
         "Orthros hat sich verwandelt!",
         "¡Ultros se ha transformado!"
+    ],
+    "202530": [
+        "Toxic Storm",
+        "大暴風酸雨",
+        "거대 산성 폭풍우",
+        "Tempête toxique",
+        "Saurer Regensturm",
+        "Tormenta tóxica"
+    ],
+    "202540": [
+        "Beat Up",
+        "暴打",
+        "후려갈기기",
+        "Passage à tabac",
+        "Geprügel",
+        "Paliza"
+    ],
+    "202550": [
+        "Fireball+",
+        "火球·改",
+        "개량형 파이어 볼",
+        "Boule de feu+",
+        "Feuerball+",
+        "Bola de fuego+"
+    ],
+    "202560": [
+        "Typhon focused its power!",
+        "提豐積攢了力量",
+        "티폰은 힘을 모았다",
+        "Typhon concentre sa puissance !",
+        "Typhon konzentriert seine Kräfte!",
+        "¡Tifón concentra su poder!"
     ],
     "202570": [
         "Typhon took a deep breath!",
@@ -44063,6 +44199,22 @@
         "Typhon atmete tief ein!",
         "¡Tifón aspira fuertemente!"
     ],
+    "202580": [
+        "Typhon took a breath of deadly wind!",
+        "提豐吸入了死亡之風",
+        "티폰은 죽음의 바람을 빨아들였다",
+        "Typhon a pris une grande inspiration de vent meurtrier !",
+        "Typhon atmete den tödlichen Wind ein!",
+        "¡Tifón aspira un viento letal!"
+    ],
+    "202590": [
+        "Shove",
+        "打飛",
+        "밀치기",
+        "Bousculade",
+        "Rempeln",
+        "Empellón"
+    ],
     "202600": [
         "Snort",
         "鼻息",
@@ -44071,11 +44223,19 @@
         "Schnauben",
         "Resoplido"
     ],
+    "202610": [
+        "Instant Death Snort",
+        "絕對致死鼻息",
+        "절대적 즉사 콧김",
+        "Reniflement mortel instantané",
+        "Schnauben des plötzlichen Todes",
+        "Resoplido de muerte súbita"
+    ],
     "202620": [
         "Typhon's nose is itchy!",
         "提豐感到鼻子瘙癢",
         "티폰은 코가 간질간질해졌다",
-        "Le nez de Tiphon le gratte !",
+        "Le nez de Typhon le gratte !",
         "Typhons Nase juckt!",
         "¡A Tifón la pica la nariz!"
     ],
@@ -44086,6 +44246,102 @@
         "Éternuement",
         "Dicker Nieser",
         "Megaestornudo"
+    ],
+    "202640": [
+        "Resistance to poison has been blown away!",
+        "中毒耐性無效了",
+        "독 저항력을 날려버렸다",
+        "La résistance au poison a disparu !",
+        "Die Giftresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a veneno!"
+    ],
+    "202650": [
+        "Resistance to blind has been blown away!",
+        "失明耐性無效了",
+        "암흑 저항력을 날려버렸다",
+        "La résistance à cécité a disparu !",
+        "Die Blindresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a ceguera!"
+    ],
+    "202660": [
+        "Resistance to sleep has been blown away!",
+        "睡眠耐性無效了",
+        "수면 저항력을 날려버렸다",
+        "La résistance à sommeil a disparu !",
+        "Die Schlafresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a sueño!"
+    ],
+    "202670": [
+        "Resistance to silence has been blown away!",
+        "沉默耐性無效了",
+        "침묵 저항력을 날려버렸다",
+        "La résistance à silence a disparu !",
+        "Die Stilleresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a silencio!"
+    ],
+    "202680": [
+        "Resistance to paralysis has been blown away!",
+        "麻痺耐性無效了",
+        "마비 저항력을 날려버렸다",
+        "La résistance à paralysie a disparu !",
+        "Die Lähmungsesistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a parálisis!"
+    ],
+    "202690": [
+        "Resistance to confusion has been blown away!",
+        "混亂耐性無效了",
+        "혼란 저항력을 날려버렸다",
+        "La résistance à confusion a disparu !",
+        "Die Konfusresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a confusión!"
+    ],
+    "202700": [
+        "Resistance to disease has been blown away!",
+        "生病耐性無效了",
+        "질병 저항력을 날려버렸다",
+        "La résistance à maladie a disparu !",
+        "Die Virusresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a enfermedad!"
+    ],
+    "202710": [
+        "Resistance to stone has been blown away!",
+        "石化耐性無效了",
+        "석화 저항력을 날려버렸다",
+        "La résistance à pétrification a disparu !",
+        "Die Steinresistenz wurde weggeblasen!",
+        "¡Ha perdido su resistencia a piedra!"
+    ],
+    "202720": [
+        "Huge Sneeze",
+        "巨大噴嚏",
+        "거대 재채기",
+        "Énorme éternuement",
+        "Heftiger Nieser",
+        "Gran estornudo"
+    ],
+    "202730": [
+        "Resistance to all ailments has been blown away!",
+        "全部狀態異常耐性無效了",
+        "모든 상태이상 저항력을 날려버렸다",
+        "La résistance à toutes les altérations d'état a disparu !",
+        "Alle Resistenzen gegen Zustandsveränderungen wurden weggeblasen!",
+        "¡Ha perdido su resistencia a todos los estados alterados!"
+    ],
+    "202740": [
+        "Sigh",
+        "歎息",
+        "한숨",
+        "Soupir",
+        "Stoßseufzer",
+        "Suspiro"
+    ],
+    "202750": [
+        "Pyroclastic Blast",
+        "爆風大火碎流",
+        "폭풍의 거대 화쇄류",
+        "Souffle pyroclastique",
+        "Pyroklastische Eruption",
+        "Explosión piroclástica"
     ],
     "202760": [
         "Stone Cleave",
@@ -46612,7 +46868,7 @@
         "暗黑",
         "다크",
         "Ténèbres",
-        "Dunkel",
+        "Negrum",
         "Sombra"
     ],
     "208540": [
@@ -46793,7 +47049,7 @@
     ],
     "208760": [
         "Brainstorm",
-        "腦震蕩",
+        "腦震盪",
         "브레인셰이크",
         "Remue-méninges",
         "Bewusstseinsstrudel",
@@ -46801,7 +47057,7 @@
     ],
     "208770": [
         "Brainstorm",
-        "腦震蕩",
+        "腦震盪",
         "브레인셰이크",
         "Remue-méninges",
         "Bewusstseinsstrudel",
@@ -47198,6 +47454,366 @@
         "Bang supersonique",
         "Überschallknall",
         "Explosión sónica"
+    ],
+    "213010": [
+        "Dark Fist of Death",
+        "魔人往生拳",
+        "마인왕생권",
+        "Poing du démon funèbre",
+        "Finstere Faust des Todes",
+        "Puñetazo mortal"
+    ],
+    "213020": [
+        "Agyo Stance",
+        "阿形姿態",
+        "아형의 태세",
+        "Posture agyo",
+        "Agyo-Haltung",
+        "Postura Agyo"
+    ],
+    "213030": [
+        "Ungyo Stance",
+        "吽形姿態",
+        "우형의 태세",
+        "Posture ungyo",
+        "Ungyo-Haltung",
+        "Postura Ungyo"
+    ],
+    "213040": [
+        "Vajra Stance",
+        "金剛體勢",
+        "금강의 태세",
+        "Posture vajra",
+        "Vajra-Haltung",
+        "Postura Vajra"
+    ],
+    "213050": [
+        "Rigid Stance",
+        "不動姿態",
+        "부동의 태세",
+        "Posture immobile",
+        "Unbeugsame Haltung",
+        "Postura inmóvil"
+    ],
+    "213060": [
+        "Vidya Stance",
+        "明王姿態",
+        "명왕의 태세",
+        "Posture vidya",
+        "Vidya-Haltung",
+        "Postura Vidya"
+    ],
+    "213070": [
+        "Bodhisattva Stance",
+        "菩薩姿態",
+        "보살의 태세",
+        "Posture bodhisattva",
+        "Bodhisattva-Haltung",
+        "Postura Bodhisattva"
+    ],
+    "213080": [
+        "Senju Stance",
+        "千手姿態",
+        "천수의 태세",
+        "Posture senju",
+        "Senju-Haltung",
+        "Postura Senju"
+    ],
+    "213090": [
+        "Sealing Stance",
+        "封印姿態",
+        "봉인의 태세",
+        "Posture de scellement",
+        "Versiegelnde Haltung",
+        "Postura selladora"
+    ],
+    "213100": [
+        "Halting Stance",
+        "停止姿態",
+        "분지의 태세",
+        "Posture d'arrêt",
+        "Blockierende Haltung",
+        "Postura bloqueadora"
+    ],
+    "213110": [
+        "Slayer’s Stance",
+        "引殺姿態",
+        "인살의 태세",
+        "Posture du massacre",
+        "Schlächter-Haltung",
+        "Postura asesina"
+    ],
+    "213120": [
+        "Thunderous Stance",
+        "解雷姿態",
+        "해뢰의 태세",
+        "Posture tempétueuse",
+        "Donnernde Haltung",
+        "Postura atronadora"
+    ],
+    "213130": [
+        "Cryptic Stance",
+        "奧義姿態",
+        "오의의 태세",
+        "Posture cryptique",
+        "Mysteriöse Haltung",
+        "Postura enigmática"
+    ],
+    "213140": [
+        "Sorcerer's Great Fury",
+        "魔人大激怒",
+        "마인대분격",
+        "Fureur infinie du sage",
+        "Des Dämons großer Zorn",
+        "Ira del Gran Mago"
+    ],
+    "213150": [
+        "Yell",
+        "一聲",
+        "외침",
+        "Hurler",
+        "Gellender Schrei",
+        "Alarido"
+    ],
+    "213160": [
+        "One-Inch Punch",
+        "寸勁",
+        "촌경",
+        "Poing infinitésimal",
+        "One-Inch-Punch",
+        "Puñetazo de una pulgada"
+    ],
+    "213170": [
+        "Fajin",
+        "發勁",
+        "발경",
+        "Fajin",
+        "Fajin",
+        "Fajin"
+    ],
+    "213180": [
+        "Heavyweight Hook",
+        "貫勁",
+        "관경",
+        "Crochet lourd",
+        "Schwerer Haken",
+        "Gancho pesado"
+    ],
+    "213190": [
+        "Thousand Hand Slap",
+        "千手勁",
+        "천수경",
+        "Millier de claques",
+        "Tausend-Hände-Schlag",
+        "Milmanotazos"
+    ],
+    "213200": [
+        "Sealing Punch",
+        "魔封拳",
+        "마봉권",
+        "Poing de scellement",
+        "Siegelhieb",
+        "Puñetazo sellador"
+    ],
+    "213210": [
+        "Heartstopper",
+        "止心突",
+        "지심돌",
+        "Arrêt cardiaque",
+        "Herzaufspießer",
+        "Paro cardíaco"
+    ],
+    "213220": [
+        "Life-Rending Blow",
+        "活殺打",
+        "활살타",
+        "Fende-vie",
+        "Leben-oder-Tod-Hieb",
+        "Golpe desgarrador"
+    ],
+    "213230": [
+        "Fortifying Wail",
+        "大吼",
+        "대갈",
+        "Plainte fortifiante",
+        "Ungebärdiges Klagen",
+        "Lamento fortalecedor"
+    ],
+    "213240": [
+        "Touch of Death",
+        "點穴術",
+        "점혈술",
+        "Toucher mortel",
+        "Dim Mak",
+        "Toque mortal"
+    ],
+    "213250": [
+        "Shining Snake Fist",
+        "燦陀蛇拳",
+        "찬타사권",
+        "Poing du serpent illuminé",
+        "Schimmernde Schlangenfaust",
+        "Puño de serpiente brillante"
+    ],
+    "213260": [
+        "Blaster",
+        "衝擊波",
+        "블래스터",
+        "Rayons",
+        "Blaster",
+        "Electroplasma"
+    ],
+    "213270": [
+        "Delanbo is seeking power...",
+        "狄蘭波正在積攢力量",
+        "딜란보는 역량을 재고 있다",
+        "Delambo cherche à acquérir une grande quantité de pouvoir...",
+        "Delanbo sucht nach großer Kraft...",
+        "Delanbo quiere más poder…"
+    ],
+    "213280": [
+        "Delanbo is seeking power...",
+        "狄蘭波正在積攢力量",
+        "딜란보는 역량을 재고 있다",
+        "Delambo cherche à acquérir une grande quantité de pouvoir...",
+        "Delanbo sucht nach großer Kraft ...",
+        "Delanbo quiere más poder…"
+    ],
+    "213290": [
+        "Dark Fist of Death",
+        "魔人往生拳",
+        "마인왕생권",
+        "Poing sombre de la mort",
+        "Finstere Faust des Todes",
+        "Puñetazo mortal"
+    ],
+    "213300": [
+        "Dark Fist of Death",
+        "魔人往生拳",
+        "마인왕생권",
+        "Poing sombre de la mort",
+        "Finstere Faust des Todes",
+        "Puñetazo mortal"
+    ],
+    "213310": [
+        "Fajin",
+        "發勁",
+        "발경",
+        "Fajin",
+        "Fajin",
+        "Fajin"
+    ],
+    "213320": [
+        "Thundering Tempest",
+        "雷烈風",
+        "전열풍",
+        "Tempête foudroyante",
+        "Donnerndes Unwetter",
+        "Tormenta estruendosa"
+    ],
+    "213330": [
+        "Sealing Punch",
+        "魔封拳",
+        "마봉권",
+        "Poing de scellement",
+        "Siegelhieb",
+        "Puñetazo sellador"
+    ],
+    "213340": [
+        "Shining Snake Fist",
+        "燦陀蛇拳",
+        "찬타사권",
+        "Poing du serpent illuminé",
+        "Schimmernde Schlangenfaust",
+        "Puño de serpiente brillante"
+    ],
+    "213350": [
+        "Ungyo Stance",
+        "吽形姿態",
+        "우형의 태세",
+        "Posture ungyo",
+        "Ungyo-Haltung",
+        "Postura Ungyo"
+    ],
+    "213360": [
+        "Multi-Attack",
+        "連續攻擊",
+        "연속 공격",
+        "Attaques multiples",
+        "Multiangriff",
+        "Ataque múltiple"
+    ],
+    "213370": [
+        "Ultima",
+        "究極",
+        "알테마",
+        "Ultima",
+        "Ultima",
+        "Artema"
+    ],
+    "213380": [
+        "Power of Bravery",
+        "勇氣之力",
+        "용기의 힘",
+        "Pouvoir du courage",
+        "Macht des Mutes",
+        "Poder de la valentía"
+    ],
+    "213390": [
+        "Power of Determination",
+        "永不言棄之力",
+        "포기하지 않는 힘",
+        "Pouvoir de résolution",
+        "Macht der Entschlossenheit",
+        "Poder de la determinación"
+    ],
+    "213400": [
+        "Power of Trust",
+        "信任之力",
+        "믿는 힘",
+        "Pouvoir de la foi",
+        "Macht des Vertrauens",
+        "Poder de la confianza"
+    ],
+    "213410": [
+        "Almighty Blow",
+        "全力一擊",
+        "전력의 일격",
+        "Coup tout-puissant",
+        "Allmächtiger Stoß",
+        "Golpe todopoderoso"
+    ],
+    "213420": [
+        "Multi-Attack",
+        "連續攻擊",
+        "연속 공격",
+        "Attaques multiples",
+        "Multiangriff",
+        "Ataque múltiple"
+    ],
+    "213430": [
+        "Ultima",
+        "究極",
+        "알테마",
+        "Ultima",
+        "Ultima",
+        "Artema"
+    ],
+    "213440": [
+        "Not enough MP",
+        "ＭＰ不足",
+        "MP가 부족했다",
+        "Pas assez de PM",
+        "Nicht genug MP",
+        "No tiene suficientes PM"
+    ],
+    "213450": [
+        "Escape",
+        "遁逃",
+        "줄행랑",
+        "Fuite",
+        "Flucht",
+        "Pirarse"
     ],
     "215548": [
         "Right Punch",
