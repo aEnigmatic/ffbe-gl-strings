@@ -368,7 +368,7 @@
         "bestia@ave@acuático@demonio@humano@máquina@dragón@espíritu@insecto@pétreo@plantoide@m. viviente"
     ],
     "ABILITY_DETAIL_WEAPON_LIST": [
-        "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fists",
+        "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fist",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
         "\"épée courte\"@\"épée\"@\"épée longue\"@\"katana\"@\"bâton\"@\"sceptre\"@\"arc\"@\"hache\"@\"marteau\"@\"lance\"@\"instrument\"@\"fouet\"@\"arme de jet\"@\"arme à feu\"@\"masse\"@\"poings\"",
@@ -7247,14 +7247,6 @@
         "Du hast keine nutzbare Magie.",
         "No tienes ninguna magia utilizable."
     ],
-    "MAGIE du lanceur.": [
-        "Fügt einem Gegner  Feuerschaden zu und erhöht eigene MAG.",
-        "Inflige daño de fuego a un enemigo y aumenta la MAG de quien lo usa.",
-        null,
-        null,
-        null,
-        null
-    ],
     "MAGI_CHEST_BUNDLE_DESC": [
         "A selection of fine trinkets to protect your magic users!<br>Items will be sent to your message box, kupo!",
         "一些精選的裝備，能夠用來保護您的兵員！<br>道具將會寄送到您的收信箱，庫啵！",
@@ -10751,6 +10743,166 @@
         "Alle Werte +30 %",
         "Todos las estadísticas +30%"
     ],
+    "MST_RB_FORBIDDEN_INFO_DES_1": [
+        "Normal forbidden",
+        "共通禁止",
+        "공통 금지",
+        "Attaques normales interdites",
+        "Normal verboten",
+        "Normales prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_10": [
+        "Parameter boosts forbidden",
+        "狀態提升系禁止",
+        "능력치 상승 계열 금지",
+        "Augmentation des caractéristiques interdite",
+        "Werte-Erhöhung verboten",
+        "Potenciadores prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_11": [
+        "Parameter reductions forbidden",
+        "狀態降低系禁止",
+        "능력치 감소 계열 금지",
+        "Réduction des caractéristiques interdite",
+        "Werte-Senkung verboten",
+        "Debilitadores prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_12": [
+        "Physical combos forbidden",
+        "物理連擊系禁止",
+        "연속 물리 공격 계열 금지",
+        "Multiplicateurs d'attaques physiques interdits",
+        "Physische Kombos verboten",
+        "Ataques múltiples prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_13": [
+        "Magic combos forbidden",
+        "魔法連擊系禁止",
+        "연속 마법 공격 계열 금지",
+        "Multiplicateurs d'attaques magiques interdits",
+        "Magiekombos verboten",
+        "Magia múltiple prohibidas"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_14": [
+        "Status ailments forbidden",
+        "施加異常狀態系禁止",
+        "상태이상 부여 계열 금지",
+        "Altérations d'état interdites",
+        "Zustandsveränderungen verboten",
+        "Estados alterados prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_15": [
+        "Multiple use abilities forbidden",
+        "多次能力系禁止",
+        "다중 공격 계열 금지",
+        "Aptitudes permettant un usage multiple interdites",
+        "Mehrfachgebrauch-Fertigkeiten verboten",
+        "Habilidades de uso múltiple prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_2": [
+        "Fire magic/abilities forbidden",
+        "火屬性魔法/能力禁止",
+        "불속성 마법 및 어빌리티 금지",
+        "Attaques de feu interdites",
+        "Feuermagie/-fertigkeiten verboten",
+        "Elemento fuego prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_3": [
+        "Ice attacks forbidden",
+        "冰屬性攻擊禁止",
+        "얼음속성 공격 금지",
+        "Attaques de glace interdites",
+        "Eisangriffe verboten",
+        "Elemento hielo prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_4": [
+        "Lightning attacks forbidden",
+        "雷屬性攻擊禁止",
+        "번개속성 공격 금지",
+        "Attaques de foudre interdites",
+        "Blitzangriffe verboten",
+        "Elemento rayo prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_5": [
+        "Water attacks forbidden",
+        "水屬性攻擊禁止",
+        "물속성 공격 금지",
+        "Attaques d'eau interdites",
+        "Wasserangriffe verboten",
+        "Elemento agua prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_50": [
+        "Magic forbidden",
+        "魔法禁止",
+        "마법 어빌리티 금지",
+        "Magie interdite",
+        "Magie verboten",
+        "Magia prohibida"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_51": [
+        "Specials forbidden",
+        "特殊能力禁止",
+        "스페셜 어빌리티 금지",
+        "Spéciaux interdits",
+        "Spezialfertigkeiten verboten",
+        "Especiales prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_52": [
+        "Recovery abilities forbidden",
+        "恢復能力禁止",
+        "회복 어빌리티 금지",
+        "Aptitudes de récupération interdites",
+        "Heilungsfertigkeiten verboten",
+        "Habilidades de recuperación prohibidas"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_53": [
+        "Boosts, reductions, and status ailments forbidden",
+        "狀態提升・降低及異常狀態禁止",
+        "능력치 상승, 감소, 상태이상 금지",
+        "Boosts et réductions de caractéristiques et aptitudes altérant l'état interdits",
+        "Erhöhungen, Verringerungen und Zustandsheilungen verboten",
+        "Potenciadores, debilitadores y estados alterados prohibidos"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_6": [
+        "Wind attacks forbidden",
+        "風屬性攻擊禁止",
+        "바람속성 공격 금지",
+        "Attaques de vent interdites",
+        "Windangriffe verboten",
+        "Elemento viento prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_7": [
+        "Earth attacks forbidden",
+        "土屬性攻擊禁止",
+        "땅속성 공격 금지",
+        "Attaques de terre interdites",
+        "Erdangriffe verboten",
+        "Elemento tierra prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_8": [
+        "Light attacks forbidden",
+        "光屬性攻擊禁止",
+        "빛속성 공격 금지",
+        "Attaques de lumière interdites",
+        "Lichtangriffe verboten",
+        "Elemento luz prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_9": [
+        "Dark attacks forbidden",
+        "暗屬性攻擊禁止",
+        "어둠속성 공격 금지",
+        "Attaques de ténèbres interdites",
+        "Dunkelangriffe verboten",
+        "Elemento oscuridad prohibido"
+    ],
+    "MST_RB_FORBIDDEN_INFO_DES_99": [
+        "Normal forbidden",
+        "共通禁止",
+        "공통 금지",
+        "Attaques normales interdites",
+        "Normal verboten",
+        "Normales prohibidos"
+    ],
     "MST_RB_FORBIDDEN_INFO_NAME_10": [
         "Parameter boosts",
         "狀態提升系",
@@ -12937,7 +13089,7 @@
     ],
     "New_Quest_Complete_Reward_Title": [
         "Mission Completion Reward!",
-        "考驗完成報酬！",
+        "考驗完成報酬",
         "미션 완료 보상!",
         "Récompense de réussite de mission !",
         "Missionsabschlussbelohnung",
@@ -16460,7 +16612,7 @@
         "可以使用寶石以<br><color=255:255:0><param=unit>欄</color>為單位擴張<br><color=255:0:0><param=target>的最大持有欄</color> 。",
         "라피스 또는 확장 쿠폰을 사용하여<br><color=255:0:0><param=target>의 최대 보유 칸</color>을<br><color=255:255:0><param=unit>칸</color> 단위로 확장할 수 있습니다.",
         "Vous pouvez utiliser des lapis ou des tickets d'expansion pour augmenter la limite des<br><color=255:0:0><param=target></color> de <color=255:255:0><param=unit> cases</color>.",
-        "Du kannst mit Lapis das<br><color=255:0:0><case=lower><param=target></case> Limit</color> um <color=255:255:0><param=unit> Slots erweitern</color>.",
+        "Du kannst mit Lapis das<br><color=255:0:0><case=lower><param=target></case> Limit</color> um <color=255:255:0><param=unit> Slots erweitern</color>..",
         "Puedes usar lapis o billetes de expansión para aumentar tu<br><color=255:0:0><case=lower><param=target></case> límite</color> en <color=255:255:0><param=unit> ranuras</color>."
     ],
     "SHOP_EXTENSION_SELECT_CAUTION": [
@@ -18063,14 +18215,6 @@
         "Downloadgröße: <param=size>",
         "Tamaño de descarga: <param=size>"
     ],
-    "T_SHOP_NAME_51": [
-        "Coloseum Orb Recovery Potion",
-        "競技場寶珠恢復道具",
-        "투기장 구슬 회복 아이템",
-        "Potion de récupération d'orbe du colisée",
-        "Trank zur Wiederherstellung von Kolosseumsjuwelen",
-        "Poción de recuperación de orbe de Coliseo"
-    ],
     "UNIT": [
         "Units",
         "兵員",
@@ -19247,14 +19391,6 @@
         "<color=255:255:0>Alle Hauptszenario</color>-Missionsabschlussdaten wurden <color=255:255:0>zurückgesetzt</color>.",
         "Todos los datos de objetivos completados en<color=255:255:0>la historia principal</color> han sido <color=255:255:0>restablecidos</color>."
     ],
-    "Y und annulliert Bezaubern.": [
-        "Aumenta el ESP y anula embrujo.",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
     "YEAR": [
         "year",
         "年",
@@ -19295,14 +19431,6 @@
         "Deine Energie ist wiederhergestellt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tienes la energía al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
     ],
-    "et la PSY de tous les ennemis.": [
-        "Fügt allen Gegnern Dunkelschaden zu und reduziert ihre ANG, ABW, MAG und PSY.",
-        "Inflige daño oscuro a todos los enemigos y reduce su ATQ/DEF/MAG/ESP.",
-        null,
-        null,
-        null,
-        null
-    ],
     "expedition_pn": [
         "Your party has returned from their expedition. Play FINAL FANTASY BRAVE EXVIUS now!",
         "遠征隊已經歸來。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
@@ -19310,30 +19438,6 @@
         "Votre groupe est de retour de son expédition. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Gruppe ist von ihrer Expedition zurückgekehrt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tu grupo ha regresado de su expedición. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
-    ],
-    "gkeiten verboten": [
-        "Habilidades que inflijan daño físico prohibidas",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "lata en\nMST_TROPHY_EXPLAIN_75": [
-        "Gold in",
-        "距金盃還剩",
-        "금상까지 앞으로",
-        "Or dans",
-        "Bis Gold",
-        "Oro en"
-    ],
-    "olor=255:0:0>+ 3600ê°</color>(ë³´ëì¤)": [
-        "12,000 +<br> 6,000<color=255:0:0>+ 3,600</color> (bonus)",
-        "12.000 + <br>6.000<color=255:0:0>+ 3.600</color> (Bonus)",
-        "12.000 + <br>6.000<color=255:0:0>+ 3.600</color> (bonificación)",
-        null,
-        null,
-        null
     ],
     "raid_pn": [
         "Your raid orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",
@@ -19390,13 +19494,5 @@
         "Orbes de raid",
         "Raubzugsjuwelen",
         "orbes de Banda"
-    ],
-    "¸å°å¨é«éå¡åå°çå·å®³ã": [
-        "아군 전체가 받는 피해량이 감소합니다.",
-        "Réduit les dégâts reçus par tous les alliés.",
-        "Verringert Schaden, der allen Verb. zugefügt wird.",
-        "Disminuye el daño que reciben todos los aliados.",
-        null,
-        null
     ]
 }
