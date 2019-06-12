@@ -4447,6 +4447,30 @@
         "Erhöht ANG um 50%, wenn mit einem Katana ausgerüstet und zusätzlich um 20%, wenn mit Kleidung ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ un 50% al llevar katana y un 20% al llevar ropa (no acumulable)"
     ],
+    "504229740": [
+        "Boost SPR by 50% and fill LB gauge every turn (Not stackable)",
+        "提高50%精神+每回合增加極限技槽(無法重複裝備)",
+        "정신력 50% 상승+전투 중 매 턴마다 LB 게이지 증가 (중복 장착 불가)",
+        "Augmente la PSY de 50% et remplit la jauge de limite à chaque tour (Non cumulable)",
+        "Erhöht PSY um 50% und füllt jede Runde Limitmeter (Nicht stapelbar).",
+        "Aumenta el ESP un 50% y la barra de EL se rellena cada turno (no acumulable)"
+    ],
+    "504229742": [
+        "Boost HP by 5% and water resistance by 10%",
+        "提高5%HP、10%水屬性耐性",
+        "HP 5%, 물속성 저항력 10% 상승",
+        "Augmente les PV de 5% et la résistance à l'eau de 10%",
+        "Erhöht LP um 5% und Wasserresistenz um 10%.",
+        "Aumenta la VIT un 5% y la resistencia al agua un 10%"
+    ],
+    "504229743": [
+        "Boost MP by 5% and water resistance by 10%",
+        "提高5%MP、10%水屬性耐性",
+        "MP 5%, 물속성 저항력 10% 상승",
+        "Augmente les PM de 5% et la résistance à l'eau de 10%",
+        "Erhöht MP um 5% und Wasserresistenz um 10%.",
+        "Aumenta los PM un 5% y la resistencia al agua un 10%"
+    ],
     "504229860": [
         "Boost DEF and SPR by 50% and lightning, water, and light resistance by 60% (Not stackable)",
         "提高50%防禦精神、60%雷光水屬性耐性(無法重複裝備)",
@@ -4569,7 +4593,7 @@
     ],
     "504230132": [
         "Boost ATK by 60% and boost physical damage against demons, fairies, and machina monsters (Not stackable)",
-        "提高60%攻擊+物理攻擊時提高對惡魔機械精靈系魔物傷害",
+        "提高60%攻擊+物理攻擊時提高對惡魔機械精靈系魔物傷害(無法重複裝備)",
         "공격력 60% 상승+물리 공격 시 악마, 기계, 정령형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
         "Augmente l'ATT de 60% ainsi que les dégâts physiques contre les démons, les esprits et les machines (Non cumulable)",
         "Erhöht ANG um 60% und erhöht physischen Schaden gegen Dämonen, Feen und Maschinen (Nicht stapelbar).",
@@ -5374,5 +5398,29 @@
         "Augmente les PV de 10%, la MAGIE de 40%, et remplit la jauge de limite à chaque tour",
         "Erhöht LP um 10%, MAG um 40% und füllt jede Runde Limitmeter.",
         "Aumenta la VIT un 10%, la MAG un 40% y la barra de EL se llena cada turno"
+    ],
+    "1500000100": [
+        "Boost MAG by 30% when equipped with an instrument, boost MP by 20%, and decrease chance of being targeted",
+        "裝備樂器時提高30%魔力+提高20%MP+不易被敵人攻擊",
+        "악기 장착 시 마력 30% 상승+MP 20% 상승+적의 공격 대상이 될 확률 감소",
+        "Augmente la MAGIE de 30% lorsqu'un instrument est équipé, augmente les PM de 20%, et diminue les chances d'être ciblé",
+        "Erhöht MAG um 30%, wenn mit einem Instrument ausgerüstet, erhöht MP um 20% und verringert Chance, zum Ziel zu werden.",
+        "Aumenta la MAG un 30% al llevar instrumento, aumenta los PM un 20% y reduce la probabilidad de ser atacado"
+    ],
+    "1500000101": [
+        "Boost HP and DEF by 15%, and restore MP every turn",
+        "提高15%HP防禦+每回合恢復MP",
+        "HP와 방어력 15% 상승+전투 중 매 턴마다 MP 회복",
+        "Augmente les PV et la DEF de 15%, et restaure les PM à chaque tour",
+        "Erhöht LP und ABW um 15% und regeneriert jede Runde MP.",
+        "Aumenta la VIT y la DEF un 15%, y recupera PM cada turno"
+    ],
+    "1500000104": [
+        "Boost ATK when equipped with a sword",
+        "裝備劍時提高攻擊",
+        "검 장착 시 공격력 상승",
+        "Augmente l'ATT lorsqu'une épée est équipée",
+        "Erhöht ANG, wenn mit Schwert ausgerüstet",
+        "Aumenta el ATQ al llevar espada"
     ]
 }
