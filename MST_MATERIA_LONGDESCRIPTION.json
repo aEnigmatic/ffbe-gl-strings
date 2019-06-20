@@ -1621,7 +1621,7 @@
         "적 1명에게 일부 방어 무시 피해를 주고 공격력, 방어력, 마력, 정신력을 감소시킵니다. (랜디 전용)",
         "Dégâts qui ignorent la DEF en partie. Reduit ATT/DEF/MAGIE/PSY d'un ennemi. (Pour Randy uniquement)",
         "Fügt einem Gegner Schaden zu, der teilweise die Abwehr umgeht, und reduziert ANG, ABW, MAG und PSY (nur Randi).",
-        "Daño absoluto parcial y reduce ATQ/DEF/MAG/ESP (exclusiva de Randy)"
+        "Daño que ignora parcialmente la DEF de un enemigo y reduce su ATQ, DEF, MAG y ESP (exclusiva de Randy)"
     ],
     "504203800": [
         "Boosts ATK for one ally. Primm and Popoi only.",
@@ -3999,6 +3999,22 @@
         "Erhöht MP um 30% und annulliert Konfus.",
         "Aumenta los PM un 30% y anula confusión"
     ],
+    "504228234": [
+        "Boosts ATK by 60%, and boosts physical damage against beasts, fairies, and reapers.",
+        "提高60%攻擊，物理攻擊時提高對獸精靈死靈系魔物的傷害。",
+        "공격력이 60% 상승하고, 물리 공격 시 야수, 정령, 사령형 마물에게 부여하는 피해량이 상승합니다.",
+        "Augmente l'ATT de 60% ainsi que les dégâts physiques contre les bêtes, les esprits et les morts-vivants.",
+        "Erhöht ANG um 60% und erhöht physischen Schaden gegen Bestien, Feen und Untote.",
+        "Aumenta el ATQ un 60% y aumenta el daño físico contra bestias, hadas y muertos vivientes."
+    ],
+    "504228254": [
+        "Boosts ATK by 60%, HP and MP by 15%, parameters when setting an esper by 30%, and ATK by 20% when equipped with a sword. Not stackable.",
+        "提高60%攻擊、15%HPMP，提高30%設定幻獸時反映在兵員身上的狀態數值，裝備劍時提高20%攻擊。",
+        "공격력 60%, HP와 MP가 15% 상승하고, 환수 장착 시 반영되는 능력치가 30% 상승하며, 검 장착 시 공격력이 20% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de 60%, les PV et les PM de 15%, les caractéristiques de 30 % quand une chimère est attribuée, et l'ATT de 20% lorsqu'une épée est équipée. Non cumulable.",
+        "Erhöht ANG um 60%, LP und MP um 15%, erhöht Werte bei Festlegung eines Espers um 30% und erhöht ANG um 20%, wenn mit einem Schwert ausgerüstet. Nicht stapelbar.",
+        "Aumenta el ATQ un 60%, aumenta los parámetros un 30% al vincular un esper, y aumenta el ATQ otro 20% al llevar espada. No acumulable."
+    ],
     "504228287": [
         "Boosts ATK and MAG by 30%, and boosts equipment ATK and MAG when armed with two one-handed weapons.",
         null,
@@ -4006,6 +4022,14 @@
         null,
         null,
         null
+    ],
+    "504228299": [
+        "Boosts HP by 10% and light resistance by 15%.",
+        "提高10%HP、15%光屬性耐性。",
+        "HP 10%, 빛속성 저항력이 15% 상승합니다.",
+        "Augmente les PV de 10% et la résistance à la lumière de 15%.",
+        "Erhöht LP um 10% und Lichtresistenz um 15%.",
+        "Aumenta la VIT un 10% y la resistencia a la luz un 15%."
     ],
     "504228324": [
         "Boosts own ATK, DEF, MAG and SPR at the beginning of battle or after being revived, boosts ATK when equipped with a sword, and boosts HP and ATK when equipped with clothes. However, boosted parameters will gradually wear off after each turn during battle. Not stackable.",

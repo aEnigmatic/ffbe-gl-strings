@@ -363,7 +363,7 @@
         "beast@avian@aquatic@demon@human@machina@dragon@fairy@insect@stone@plant@reaper",
         "獸@鳥@水生@惡魔@人@機械@龍@精靈@蟲@岩石@植物@死靈",
         "야수@조류@수중@악마@인간@기계@드래곤@정령@곤충@암석@식물@사령",
-        "\"bêtes\"@\"oiseaux\"@\"aquatiques\"@\"démons\"@\"humains\"@\"machines\"@\"dragons\"@\"esprits\"@\"insectes\"@\"pierres\"@\"plantes\"@\"morts-vivants\"",
+        "\"bête\"@\"oiseau\"@\"aquatique\"@\"démon\"@\"humain\"@\"machine\"@\"dragon\"@\"esprit\"@\"insecte\"@\"pierre\"@\"plante\"@\"morts-vivant\"",
         "Bestie@Vogel@Wasser@Dämon@Mensch@Maschine@Drache@Fee@Insekt@Steie@Pflanze@Untoter",
         "bestia@ave@acuático@demonio@humano@máquina@dragón@espíritu@insecto@pétreo@plantoide@m. viviente"
     ],
@@ -371,7 +371,7 @@
         "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fist",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
-        "\"épée courte\"@\"épée\"@\"épée longue\"@\"katana\"@\"bâton\"@\"sceptre\"@\"arc\"@\"hache\"@\"marteau\"@\"lance\"@\"instrument\"@\"fouet\"@\"arme de jet\"@\"arme à feu\"@\"masse\"@\"poings\"",
+        "épée courte@épée@épée longue@katana@bâton@sceptre@arc@hache@marteau@lance@instrument@fouet@arme de jet@arme à feu@masse@poing",
         "Kurzschwert@Schwert@Großschwert@Katana@Stab@Rute@Bogen@Axt@Hammer@Speer@Instrument@Peitsche@Wurfwaffe@Schusswaffe@Keule@Faust",
         "espada corta@espada@espada grande@katana@bastón@vara@arco@hacha@martillo@lanza@un instrumento@látigo@un arma arrojadiza@pistola@maza@puños"
     ],
@@ -714,9 +714,9 @@
     "ARENA_ORBS_RECOVERY_PROMPT": [
         "You are trying to restore more than the maximum limit for %s allowed. Please use some before attempting to restore.",
         "您正在嘗試恢復超過允許%s的最大限制。請在嘗試恢復前先使用一部分。",
-        "최대 한계치 이상의 %을(를) 저장할 수 없습니다. 저장하기 전에 일부를 사용해주십시오.",
+        "최대치 이상의 %을 복구할 수 없습니다. 복구하기 전에 일부를 사용해주십시오.",
         "Vous essayez de restaurer des %s au-delà de la limite autorisée. Utilisez-en davantage avant de réessayer.",
-        null,
+        "Du versuchst gerade, mehr deine %s über ihre maximal erlaubte Grenze hinaus wiederherzustellen. Bitte verbrauche zunächst einige, bevor du versuchst sie zu regenerieren.",
         "Estás intentando restaurar más del límite máximo de %s permitido. Usa algunos antes de intentar restaurar."
     ],
     "ARENA_PARTY_EDIT": [
@@ -2189,7 +2189,15 @@
         "다시 돌아온 걸 환영해! 컴백 기념 아이템을 선물할게쿠포!",
         "Bon retour parmi nous ! Acceptez ces quelques objets pour fêter cela, kupo !",
         "Willkommen zurück! HIer hast du ein paar Gegenstände, um deine Rückkehr zu feiern, kupo!",
-        "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu retorno, ¡kupó!"
+        "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu regreso, ¡kupó!"
+    ],
+    "Comeback_Login_Bonus_Multiple_reward": [
+        "Rewards Chest",
+        "報酬寶箱",
+        "보상 상자",
+        "Coffre de récompenses",
+        "Belohnungstruhe",
+        "Cofre de recompensas"
     ],
     "Comeback_Login_Bonus_Title": [
         "Comeback Login Bonus",
@@ -2197,7 +2205,7 @@
         "컴백 출석 보상",
         "Bonus de connexion de retour",
         "Comeback Anmeldebonus",
-        "Bonificación de retorno de inicio de sesión"
+        "Bonificación de inicio de sesión de regreso al juego"
     ],
     "DAILY_QUEST_CLAIM_ALL_PROMPT": [
         "Claim all completed quest rewards?",
@@ -2944,7 +2952,7 @@
         "Exclusivo de <case=lower>equip_cond</case>"
     ],
     "EQUIP_ITEM_COND_MAN": [
-        "Male",
+        "Males",
         "男性",
         "남성",
         "Homme",
@@ -2952,7 +2960,7 @@
         "Varón"
     ],
     "EQUIP_ITEM_COND_WOMAN": [
-        "Female",
+        "Females",
         "女性",
         "여성",
         "Femme",
@@ -5919,6 +5927,14 @@
         "HD-Daten herunterladen",
         "Descargar recursos HD"
     ],
+    "HIDDEN_SKILL_LEARN_SP": [
+        "Unlock with <param=sp> SP Orb.",
+        "Unlock with <param=sp> SP Orb.",
+        "Unlock with <param=sp> SP Orb.",
+        "Unlock with <param=sp> SP Orb.",
+        "Unlock with <param=sp> SP Orb.",
+        "Unlock with <param=sp> SP Orb."
+    ],
     "HIGH": [
         "High",
         "HD",
@@ -8037,7 +8053,7 @@
         "유닛 획득 시 자동 보호 설정",
         "Protection des unités à l'obtention",
         "Einheitenempfang Automatischer Schutz",
-        "Al recibir Protección de automática"
+        "Protección automática al recibir unidades"
     ],
     "MENUSETTING_UNITPROTECT_CONFIRM_LABEL": [
         "<color=255:0:0><param=rare> star</color> and units able to be awakened to <color=255:0:0><param=rare> star</color> will automatically be protected when received.<br>* Unit protection can be toggled at any time from their info screen.<br><br>Enable automatic protection?",
@@ -8053,7 +8069,7 @@
         "<color=255:255:0>유닛 획득 시</color> 레어도에 따라 보호 설정을 변경할 수 있습니다.<br>※<color=255:255:0>합성</color>이나 <color=255:255:0>판매 전용 유닛</color>은 보호 설정에<br>포함되지 않습니다.",
         "La protection des unités en fonction de leur rareté peut être activée au moment de <color=255:0:0>l'obtention de l'unité</color>.<br>* Les <color=255:0:0>unités de soutien</color> et celles <color=255:0:0>en promotion</color> ne sont pas incluses.",
         "Von der Seltenheit abhängige Schutzeinstellungen können bei<color=255:0:0> Empfang der Einheit</color>.<br> festgelegt werden.* <color=255:0:0>Verstärker</color> und <color=255:0:0>Einheiten im Angebot</color> sind nicht enthalten.",
-        "Puedes seleccionar a partir de que rareza quieres que tus unidades sean protegidas <color=255:0:0> al recibirlas</color>.<br>*Unidades para <color=255:0:0>vender</color> y de <color=255:0:0> mejora </color>no serán incluidas."
+        "Puedes seleccionar las unidades que quieres proteger según su rareza <color=255:0:0>al recibirlas</color>.<br>*No se incluyen las unidades <color=255:0:0>en venta</color> y de <color=255:0:0>mejora</color>."
     ],
     "MENUSETTING_UNITPROTECT_DETAIL_02": [
         "Unit reception Protection (multi-select)",
@@ -13184,12 +13200,12 @@
         "Se ha cargado <param=slotname>, pero hay una <color=255:255:0>unidad</color> o <color=255:255:0>pieza del equipo </color> que ha cambiado desde que guardaste."
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_SAVE_CAPTION": [
-        "Would you like to save your party to <color=255:255:0><param=slotname></color>?<br>If there is already data saved, it will be overwritten.",
-        "要將隊伍資訊儲存到<color=255:255:0><param=slotname></color>嗎？如果已經有儲存資料時，該資料將會被覆蓋。",
-        "파티 정보를 <color=255:255:0><param=slotname></color>에 저장하시겠습니까?<br>이미 저장한 정보가 있을 경우, 데이터를 덮어쓰기합니다.",
-        "Voulez-vous sauvegarder votre groupe dans <color=255:255:0><param=slotname></color> ?<br>Si des données sont déjà présentes, elles seront écrasées.",
-        "Möchtest du deine Gruppe auf <color=255:255:0><param=slotname></color> speichern?<br>Wenn dort bereits Daten vorhanden sind, werden diese überschrieben.",
-        "¿Te gustaría guardar tu grupo en <color=255:255:0><param=slotname></color>? Si ya hay datos guardados éstos se perderán."
+        "Would you like to save your party to <color=255:255:0><param=slotname></color>?<br>If there is already data saved, it will be overwritten.<br><color=255:0:0>Does not save your companion unit and esper.</color>",
+        "你將要保存隊伍至<color=255:255:0><param=slotname></color>?<br>若已有保存紀錄，原有紀錄將會被覆蓋。<br><color=255:0:0>不會保存你的同行者和幻獸。</color>",
+        "파티 정보를 <color=255:255:0><param=slotname></color>에 저장하시겠습니까?<br>이미 저장된 정보가 있을 경우, 데이터를 덮어쓰기합니다.<br>동행자 유닛과 환수는 저장되지 않습니다.</color>",
+        "Souhaitez-vous enregistrer votre équipe dans <color=255:255:0><param=slotname></color> ?<br>Si cet emplacement contient déjà des données, celles-ci seront remplacées.<br><color=255:0:0>Attention : vous ne pouvez pas sauvegarder votre partenaire et vos chimères.</color>",
+        "Möchtest du deine Gruppe unter <color=255:255:0><param=slotname></color> abspeichern?<br>Wenn dort bereits Daten gespeichert sind, werden diese überschrieben.<br><color=255:0:0>Begleitereinheit und Esper werden nicht gespeichert.</color>",
+        "¿Te gustaría guardar tu grupo en <color=255:255:0><param=slotname></color>?<br>Si ya hay datos guardados, estos se perderán.<br><color=255:0:0>No se guardarán ni el compañero ni el esper.</color>"
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_UNIT_ARENA_BAN_INCLUDED": [
         "Certain units cannot be used in the current arena.<br>Because you have a forbidden unit in the selected slot, the party could not be loaded.<br>Returning to the party load screen.",
@@ -14694,6 +14710,46 @@
         "Matériaux",
         "Materialien wählen",
         "Materiales"
+    ],
+    "SELECT_OWNUNIT_ALERT_TEXT_A": [
+        "Same unit exists in the party setup and companion slot.<br>Companion unit will be removed.",
+        "有同一兵員存在於隊伍設定和同行者欄位中。<br>同行者兵員將會被移除。",
+        "편성한 파티와 동행자 슬롯에 동일한 유닛이 존재합니다.<br>동행자 유닛은 삭제됩니다.",
+        "La même unité est présente à la fois dans votre équipe et dans l'emplacement du partenaire.<br>Le partenaire sera donc retiré.",
+        "Dieselbe Einheit befindet sich in der Gruppenkonfiguration und im Begleiter-Slot.<br>Begleiter-Einheit wird entfernt.",
+        "La misma unidad aparece repetida en tu grupo y en la ranura de compañero.<br>El compañero se eliminará."
+    ],
+    "SELECT_OWNUNIT_ALERT_TEXT_B": [
+        "Same esper exists in the party setup and companion slot.<br>Companion esper will be removed.",
+        "有同一幻獸存在於隊伍設定和同行者欄位中。<br>同行者幻獸將會被移除。",
+        "편성한 파티와 동행자 슬롯에 동일한 환수가 존재합니다.<br>동행자 환수는 삭제됩니다.",
+        "La même chimère est présente à la fois dans votre équipe et dans l'emplacement du partenaire.<br>La chimère du partenaire sera donc retirée.",
+        "Derselbe Esper befindet sich in der Gruppenkonfiguration und im Begleiter-Slot.<br>Begleiter-Esper wird entfernt.",
+        "El mismo esper aparece repetido en tu grupo y en la ranura de compañero.<br>El esper del compañero se eliminará."
+    ],
+    "SELECT_OWNUNIT_ALERT_TEXT_C": [
+        "Same unit and esper in the party setup and companion slot.<br>Companion unit and esper will be removed.",
+        "有同一兵員和幻獸存在於隊伍設定和同行者欄位中。<br>同行者兵員和幻獸將會被移除。",
+        "편성한 파티와 동행자 슬롯에 동일한 유닛과 환수가 존재합니다.<br>동행자 유닛과 환수는 삭제됩니다.",
+        "Une unité et une chimère sont présentes à la fois dans votre équipe et dans l'emplacement du partenaire.<br>L'unité et la chimère partenaires seront donc retirées.",
+        "Dieselbe Einheit und derselbe Esper befinden sich in der Gruppenkonfiguration und im Begleiter-Slot.<br>Begleiter-Einheit sowie -Esper werden entfernt.",
+        "La misma unidad y el mismo esper aparecen repetidos en tu grupo y en la ranura de compañero.<br>El compañero y su esper se eliminarán."
+    ],
+    "SELECT_OWNUNIT_ALERT_TITLE": [
+        "NOTICE",
+        "注意",
+        "주의",
+        "ATTENTION",
+        "HINWEIS",
+        "AVISO"
+    ],
+    "SELECT_OWNUNIT_BUTTON": [
+        "Select your own unit",
+        "選擇你的兵員",
+        "유닛을 선택하세요.",
+        "Sélectionner votre propre unité",
+        "Wähle deine eigene Einheit aus",
+        "Selecciona tu propia unidad"
     ],
     "SELECT_SELL_UNIT_NUM": [
         "Units",
@@ -17565,7 +17621,7 @@
         "일일 퀘스트",
         "Quêtes quotidiennes",
         "Tägliche Aufträge",
-        "Misiones diaria"
+        "Misiones diarias"
     ],
     "TAB_ROOKIE_QUEST": [
         "Rookie Quests",
