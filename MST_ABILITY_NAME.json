@@ -18277,7 +18277,7 @@
         "땅속성 저항력+20%",
         "Rés. à la terre +20%",
         "Erdresistenz +20%",
-        "Res. a la tierra +20%"
+        "Resistencia a la tierra +20%"
     ],
     "222230": [
         "Giant Slayer",
@@ -27058,18 +27058,18 @@
     "227640": [
         "Acquired EXP +25%",
         "獲得經驗值+25%",
-        null,
-        null,
-        null,
-        null
+        "획득 경험치+25%",
+        "Obtenu EXP +25%",
+        "erhalten EXP +25%",
+        "Conseguiste EXP +25%"
     ],
     "227641": [
         "Acquired EXP +50%",
         "獲得經驗值+50%",
-        null,
-        null,
-        null,
-        null
+        "획득 경험치+50%",
+        "Obtenu EXP +25%",
+        "erhalten EXP +25%",
+        "Conseguiste EXP +25%"
     ],
     "227650": [
         "Evocation - Light of Ruin",
@@ -29971,7 +29971,7 @@
         "Mountain Protector",
         "山之守護",
         "산의 수호",
-        "Gardienne de la montagne",
+        "Gardie de la montagne",
         "Schutz der Berge",
         "Invocación montañosa"
     ],
@@ -29979,7 +29979,7 @@
         "Sky Protector",
         "空之守護",
         "하늘의 수호",
-        "Gardienne des cieux",
+        "Gardien des cieux",
         "Schutz der Lüfte",
         "Invocación celestial"
     ],
@@ -30067,7 +30067,7 @@
         "Mountain & Sky Defender",
         "山與天空的守護精靈",
         "산과 하늘의 수호 정령",
-        "Gardienne des cieux et de la montagne",
+        "Gardien des cieux et de la montagne",
         "Schutz der Berge und Lüfte",
         "Invocación montañosa-celestial"
     ],
@@ -38384,12 +38384,12 @@
         "Espada mágica cautivadora"
     ],
     "229938": [
-        "Spirit-Purging Spear",
+        "Fay-Purging Spear",
         "退魔靈葬之槍",
         "퇴마영장의 창",
-        "Lance de pleine conscience",
-        "Speer der Teufelsaustreibung",
-        "Lanza purificadora"
+        "Lance fend'esprits",
+        "Speer der Feenaustreibung",
+        "Lanza exorcista"
     ],
     "229940": [
         "Auto Crossbow (FFVI)",
@@ -39462,6 +39462,526 @@
         "Délimiteur",
         "Limitrausch-Verstärkungsfunktion",
         "Mecanismo de potenciación del EL"
+    ],
+    "230140": [
+        "Chocobo Hunt",
+        "陸行鳥狩獵",
+        "초코보 헌트",
+        "Chasse chocobo",
+        "Chocobo-Jagd",
+        "Chococaza"
+    ],
+    "230141": [
+        "Chocobo Stamina",
+        "耐久陸行鳥",
+        "스태미너 초코보",
+        "Endurance chocobo",
+        "Chocobo-Ausdauer",
+        "Resistencia chocobo"
+    ],
+    "230142": [
+        "Magical Chocobo",
+        "魔法陸行鳥",
+        "매지컬 초코보",
+        "Chocobo magique",
+        "Magischer Chocobo",
+        "Chocobo mágico"
+    ],
+    "230150": [
+        "Chocobo Adventure!",
+        "與陸行鳥冒險！",
+        "초코보와 모험!",
+        "Choco-aventure !",
+        "Chocobo-Abenteuer!",
+        "¡Aventura chocobo!"
+    ],
+    "230151": [
+        "Riding Lava",
+        "熔岩騎乘",
+        "달리는 용암",
+        "Traversée de lave",
+        "Heißer Lava-Ritt",
+        "Camino de lava"
+    ],
+    "230152": [
+        "ChocoFire",
+        "陸行鳥火焰",
+        "초코 파이어",
+        "Choco-feu",
+        "Choco-Feuer",
+        "Chocofuego"
+    ],
+    "230153": [
+        "ChocoBlizzard",
+        "陸行鳥暴雪",
+        "초코 블리자드",
+        "Choco-glace",
+        "Choco-Blizzard",
+        "Chocohielo"
+    ],
+    "230154": [
+        "ChocoThunder",
+        "陸行鳥雷電",
+        "초코 선더",
+        "Choco-foudre",
+        "Choco-Donner",
+        "Chocorayo"
+    ],
+    "230155": [
+        "ChocoWater",
+        "陸行鳥流水",
+        "초코 워터",
+        "Choco-eau",
+        "Choco-Wasser",
+        "Chocoagua"
+    ],
+    "230156": [
+        "ChocoAero",
+        "陸行鳥勁風",
+        "초코 에어로",
+        "Choco-vent",
+        "Choco-Aero",
+        "Chocoaero"
+    ],
+    "230157": [
+        "ChocoStone",
+        "陸行鳥落石",
+        "초코 스톤",
+        "Choco-terre",
+        "Choco-Stein",
+        "Chocopetra"
+    ],
+    "230158": [
+        "ChocoBanish",
+        "陸行鳥放逐",
+        "초코 배니시",
+        "Choco-bannissement",
+        "Choco-Bann",
+        "Chocoexilio"
+    ],
+    "230159": [
+        "ChocoDark",
+        "陸行鳥暗黑",
+        "초코 다크",
+        "Choco-ténèbres",
+        "Choco-Dunkel",
+        "Chocoscuridad"
+    ],
+    "230160": [
+        "ChocoLimit",
+        "陸行鳥極限",
+        "초코 리미트",
+        "Choco-limite",
+        "Choco-Limit",
+        "Chocolímite"
+    ],
+    "230161": [
+        "ChocoSummon",
+        "陸行鳥召喚",
+        "초코 서몬",
+        "Choco-invocation",
+        "Choco-Beschwörung",
+        "Chocoinvocación"
+    ],
+    "230162": [
+        "Double Chocobo",
+        "W陸行鳥",
+        "W초코보",
+        "Chocobo double",
+        "Doppelter Chocobo",
+        "Chocobo doble"
+    ],
+    "230163": [
+        "Friendly Chocobo",
+        "友善陸行鳥",
+        "찰떡궁합 초코보",
+        "Chocobo amical",
+        "Freundlicher Chocobo",
+        "Chocobo amistoso"
+    ],
+    "230164": [
+        "Silky Feathers",
+        "順滑羽毛",
+        "반질반질 털결",
+        "Plumes de soie",
+        "Seidenweiche Federn",
+        "Plumas de seda"
+    ],
+    "230165": [
+        "Chocobo's Potential",
+        "陸行鳥的潛力",
+        "초코보의 저력",
+        "Potentiel de chocobo",
+        "Chocobos Potenzial",
+        "Potencial de chocobo"
+    ],
+    "230166": [
+        "Chocobo Rider Tactics",
+        "陸行鳥騎乘戰術",
+        "초코보 기승 전술",
+        "Choco-tactique",
+        "Taktiken eines Chocobo-Reiters",
+        "Tácticas de jinete chocobo"
+    ],
+    "230167": [
+        "Chocobo Teamwork",
+        "與陸行鳥團隊協作",
+        "초코보와의 팀워크",
+        "Travail de choco-équipe",
+        "Chocobo-Teamwork",
+        "Trabajo en chocoequipo"
+    ],
+    "230168": [
+        "Chocobo-Riding Knight",
+        "陸行鳥騎乘者騎士",
+        "초코보 라이더 기사",
+        "Chevalier chocobo",
+        "Chocobo-Ritter",
+        "Caballero chocobo"
+    ],
+    "230241": [
+        "Sacred Beast's Grace",
+        "瑞獸的祝福",
+        "서수의 축복",
+        "Grâce de la divinité protectrice",
+        "Huld der Heiligen Bestie",
+        "Gracia de la bestia sagrada"
+    ],
+    "230242": [
+        "Elegant Gunner",
+        "華美的槍手",
+        "우아한 총잡이",
+        "Tireuse de choc et de charme",
+        "Elegante Schützin",
+        "Artillera elegante"
+    ],
+    "230246": [
+        "Nature's Festoon",
+        "天惠花飾",
+        "천혜의 꽃장식",
+        "Beauté de la nature",
+        "Girlanden des Himmels",
+        "Guirnalda celestial"
+    ],
+    "230250": [
+        "Lovely Maiden",
+        "絢爛的少女",
+        "찬란한 아가씨",
+        "Jeune fille en fleur",
+        "Liebliche Maid",
+        "Doncella encantadora"
+    ],
+    "230251": [
+        "Dual Parasol Proficiency",
+        "雙舞傘心得",
+        "쌍지우산의 마음가짐",
+        "Art des ombrelles jumelles",
+        "Doppelsonnenschirm-Experte",
+        "Dominio de la doble sombrilla"
+    ],
+    "230252": [
+        "Crimson Rondo",
+        "紅之圓舞",
+        "진홍의 윤무",
+        "Ronde pourpre",
+        "Purpurreigen",
+        "Rondó carmesí"
+    ],
+    "230253": [
+        "Raging Parasol",
+        "暴傘",
+        "폭렬의 우산",
+        "Ombrelle folle",
+        "Tobender Sonnenschirm",
+        "Sombrilla violenta"
+    ],
+    "230254": [
+        "Chaotic Parasol",
+        "亂傘",
+        "혼란의 우산",
+        "Ombrelle du chaos",
+        "Turbulenter Sonnenschirm",
+        "Sombrilla caótica"
+    ],
+    "230255": [
+        "Healing Dance",
+        "治癒之舞",
+        "치유의 춤",
+        "Danse de la guérison",
+        "Heiltanz",
+        "Danza sanadora"
+    ],
+    "230256": [
+        "Heart of Vermilion Flame",
+        "燃成朱色的心",
+        "주홍색으로 타오르는 마음",
+        "Cœur vermillon",
+        "Herz der Zinnoberroten Flamme",
+        "Corazón flamígero"
+    ],
+    "230257": [
+        "Treasured Kimono",
+        "珍藏的正裝",
+        "간직해둔 기모노",
+        "Kimono précieux",
+        "Kostbarer Kimono",
+        "Kimono preciado"
+    ],
+    "230258": [
+        "Parasol Technique",
+        "緋舞傘奧義",
+        "붉은 지우산의 오의",
+        "Technique de l'ombrelle",
+        "Sonnenschirmtechnik",
+        "Técnica de la sombrilla"
+    ],
+    "230259": [
+        "Introduction - Crashing Waterfalls",
+        "序之舞·落瀧",
+        "서의 춤·낙롱",
+        "Prélude - Cascades tonitruantes",
+        "Auftakt - Krachender Wasserfall",
+        "Introducción - Cascada torrencial"
+    ],
+    "230260": [
+        "Dance of Glaring Sunlight",
+        "烈日踏舞",
+        "일사의 답무",
+        "Danse du soleil aveuglant",
+        "Tanz des gleißenden Sonnenlichts",
+        "Danza de luz del sol cegadora"
+    ],
+    "230261": [
+        "Dance of Gentle Moonlight",
+        "月光靜舞",
+        "월광의 정무",
+        "Danse du doux clair de lune",
+        "Tanz des sanften Mondlichts",
+        "Danza de luz de la luna gentil"
+    ],
+    "230262": [
+        "Double Kagura",
+        "W舞蹈",
+        "W무용",
+        "Double Kagura",
+        "Doppel-Kagura",
+        "Kagura doble"
+    ],
+    "230263": [
+        "Parasol Mastery",
+        "緋舞傘極意",
+        "붉은 지우산의 비법",
+        "Maîtrise de l'ombrelle",
+        "Sonnenschirmmeister",
+        "Maestría de la sombrilla"
+    ],
+    "230264": [
+        "Heaven's Fortune",
+        "天之運",
+        "하늘의 응보",
+        "Rétribution des cieux",
+        "Himmlisches Glück",
+        "Fortuna celestial"
+    ],
+    "230265": [
+        "Sincere Celebration",
+        "真心慶祝",
+        "진심에서 우러난 축하",
+        "Célébration chaleureuse",
+        "Aufrichtige Glückwünsche",
+        "Felicitación sincera"
+    ],
+    "230266": [
+        "Ascension - Goddess' Raiments",
+        "真舞·光神羽衣",
+        "진무·여신의 날개옷",
+        "Crescendo - Robe de plumes céleste",
+        "Crescendo - Göttliches Federkleid",
+        "Ascensión - Atuendo de diosa"
+    ],
+    "230267": [
+        "Finale - Transcending Heaven",
+        "終舞·越天",
+        "종무·월천",
+        "Grand final - Paradis transcendant",
+        "Finale - Überschreitung des Himmels",
+        "Final - Trascendencia divina"
+    ],
+    "230268": [
+        "Dance of the Blazing Flower",
+        "華焰之樂",
+        "화염의 유희",
+        "Danse de la fleur de feu",
+        "Tanz der flammenden Blüten",
+        "Danza de la flor llameante"
+    ],
+    "230269": [
+        "Dance of the White Lotus",
+        "白蓉之樂",
+        "백련의 유희",
+        "Danse du lotus blanc",
+        "Tanz des weißen Lotus",
+        "Danza del loto blanco"
+    ],
+    "230280": [
+        "Limit Bullet",
+        "極限子彈",
+        "리미트 불릿",
+        "Balle-limite",
+        "Limit-Geschoss",
+        "Bala límite"
+    ],
+    "230281": [
+        "Refreshing Tool II",
+        "修復工具II",
+        "리프레쉬 툴II",
+        "Outil rafraîchissant II",
+        "Erfrischendes Mittel II",
+        "Herramienta de apoyo II"
+    ],
+    "230282": [
+        "Luxurious Night",
+        "奢華之夜",
+        "럭셔리한 밤",
+        "Soirée luxueuse",
+        "Exquisite Nacht",
+        "Noche de lujuria"
+    ],
+    "230283": [
+        "Piledriver Shot",
+        "打樁射擊",
+        "파일 샷",
+        "Tir marteau-pilon",
+        "Rammschuß",
+        "Disparo de martillo"
+    ],
+    "230284": [
+        "Ground Work II",
+        "土地工程II",
+        "점토 작업II",
+        "Fondation II",
+        "Fundament II",
+        "Cimentación II"
+    ],
+    "230285": [
+        "Bullet Dance",
+        "子彈之舞",
+        "불릿 댄스",
+        "Danse de balles",
+        "Kugeltanz",
+        "Danza de balas"
+    ],
+    "230286": [
+        "Recovery Oil II",
+        "恢復機油II",
+        "리커버리 오일II",
+        "Huiles curatives II",
+        "Erholungsöl II",
+        "Aceite curativo II"
+    ],
+    "230287": [
+        "Double Reverse Spin",
+        "雙重回轉",
+        "더블 리버스 스핀",
+        "Tour impétueux",
+        "Doppelte Rückwärtsdrehung",
+        "Doble revés"
+    ],
+    "230288": [
+        "Back Whisk",
+        "後退拂步",
+        "백 휘스크",
+        "Pas de change",
+        "Rückseitiger Wischer",
+        "Sacudida trasera"
+    ],
+    "230289": [
+        "Double Engineering",
+        "W工程",
+        "W엔지니어링",
+        "Double ingénierie",
+        "Technische Doppelkonstruktion",
+        "Ingeniería doble"
+    ],
+    "230290": [
+        "Light Work",
+        "光作業",
+        "간편 작업",
+        "Éclairage",
+        "Lichterwerk",
+        "Trabajo ligero"
+    ],
+    "230291": [
+        "Shall We Dance?",
+        "跳隻舞嗎？",
+        "셸 위 댄스?",
+        "On danse ?",
+        "Darf ich bitten?",
+        "¿Bailamos?"
+    ],
+    "230292": [
+        "Schematic Rainbow II",
+        "彩虹計劃II",
+        "레인보우 플랜II",
+        "Arc-en-ciel schématique II",
+        "Regenbogenplan II",
+        "Arcoíris esquemático II"
+    ],
+    "230293": [
+        "Triple Engineering",
+        "T工程",
+        "T엔지니어링",
+        "Triple ingénierie",
+        "Technische Dreifachkonstruktion",
+        "Ingeniería triple"
+    ],
+    "230294": [
+        "Refined Gunner",
+        "優雅的槍手",
+        "우아한 총잡이",
+        "Tireuse d'élite raffinée",
+        "Anmutige Schützin",
+        "Artillera refinada"
+    ],
+    "230295": [
+        "Blossom of the Ballroom",
+        "社交之花",
+        "무도회장의 꽃",
+        "Rose du soir",
+        "Augenweide des Festsaals",
+        "Estrella del baile"
+    ],
+    "230296": [
+        "Party Fashion",
+        "時尚派對裝",
+        "파티 스타일",
+        "Tenue de fête",
+        "Partymode",
+        "Moda festiva"
+    ],
+    "230297": [
+        "Special Leg Holster",
+        "特製槍套",
+        "특제 레그 홀스터",
+        "Holster à la cuisse",
+        "Besonderes Beinhalfter",
+        "Funda de pistola para la pierna"
+    ],
+    "230298": [
+        "Dressed Up",
+        "盛裝打扮",
+        "드레스업",
+        "Summum de la classe",
+        "Schön angezogen",
+        "Arreglarse"
+    ],
+    "230299": [
+        "Dangerous Beauty",
+        "危險的美女",
+        "치명적 미모",
+        "Beauté fatale",
+        "Fatale Schönheit",
+        "Belleza peligrosa"
     ],
     "230830": [
         "EXP Earring (KH)",
@@ -40675,7 +41195,7 @@
         "ATK +40%",
         "攻擊+40%",
         "공격력+40%",
-        "ATT+40%",
+        "ATT +40 %",
         "ANG + 40 %",
         "ATQ +40%"
     ],
@@ -53366,6 +53886,182 @@
         "Répit des déesses",
         "Rastende Göttinnen",
         "Tregua de diosas"
+    ],
+    "509390": [
+        "Double Chocobo",
+        "W陸行鳥",
+        "W초코보",
+        "Chocobo double",
+        "Doppelter Chocobo",
+        "Chocobo doble"
+    ],
+    "509391": [
+        "ChocoComet",
+        "陸行鳥彗星",
+        "초코멧",
+        "Choco-comète",
+        "Choco-Komet",
+        "Chococometa"
+    ],
+    "509392": [
+        "ChocoFlare",
+        "陸行鳥核爆",
+        "초코 플레어",
+        "Choco-brasier",
+        "Choco-Flackern",
+        "Chocofulgor"
+    ],
+    "509393": [
+        "ChocoHoly",
+        "陸行鳥神聖",
+        "초코 홀리",
+        "Choco-sidéral",
+        "Choco-Weihe",
+        "Chocosanctus"
+    ],
+    "509394": [
+        "Chocobo's Potential",
+        "陸行鳥的潛力",
+        "초코보의 저력",
+        "Potentiel de chocobo",
+        "Chocobos Potential",
+        "Potencial de chocobo"
+    ],
+    "509395": [
+        "Chocobo Rush!",
+        "陸行鳥衝刺！",
+        "초코보 러쉬!",
+        "Choco-ruée !",
+        "Chocobo-Rausch!",
+        "¡Chocobocarga!"
+    ],
+    "509396": [
+        "Chocobo Rush!",
+        "陸行鳥衝刺！",
+        "초코보 러쉬!",
+        "Choco-ruée !",
+        "Chocobo-Rausch!",
+        "¡Chocobocarga!"
+    ],
+    "509397": [
+        "Chocobo Rush!",
+        "陸行鳥衝刺！",
+        "초코보 러쉬!",
+        "Choco-ruée !",
+        "Chocobo-Rausch!",
+        "¡Chocobocarga!"
+    ],
+    "509440": [
+        "Double Kagura",
+        "W舞蹈",
+        "W무용",
+        "Double Kagura",
+        "Doppel-Kagura",
+        "Kagura doble"
+    ],
+    "509441": [
+        "Progression - Wild Spirit",
+        "破之舞·荒魂",
+        "파의 춤·황혼",
+        "Interlude - Âme troublée",
+        "Intermezzo - Wilder Geist",
+        "Progresión - Espíritu salvaje"
+    ],
+    "509442": [
+        "Climax - Scarlet Kagura",
+        "急之舞·緋神樂",
+        "급의 춤·붉은 카구라",
+        "Apogée - Kagura écarlate",
+        "Klimax - Purpur-Kagura",
+        "Clímax - Kagura escarlata"
+    ],
+    "509443": [
+        "Parasol Mastery",
+        "緋舞傘極意",
+        "붉은 지우산의 비법",
+        "Maîtrise de l'ombrelle",
+        "Sonnenschirmmeister",
+        "Maestría de la sombrilla"
+    ],
+    "509444": [
+        "Ascension - Goddess' Raiments",
+        "真舞·光神羽衣",
+        "진무·여신의 날개옷",
+        "Crescendo - Robe de plume céleste",
+        "Crescendo - Göttliches Federkleid",
+        "Ascensión - Atuendo de diosa"
+    ],
+    "509445": [
+        "Finale - Transcending Heaven",
+        "終舞·越天",
+        "종무·월천",
+        "Grand final - Paradis transcendant",
+        "Finale - Überschreitung des Himmels",
+        "Final - Trascendencia divina"
+    ],
+    "509450": [
+        "Double Engineering",
+        "W工程",
+        "W엔지니어링",
+        "Double ingénierie",
+        "Technische Doppelkonstruktion",
+        "Ingeniería doble"
+    ],
+    "509451": [
+        "Triple Engineering",
+        "T工程",
+        "T엔지니어링",
+        "Triple ingénierie",
+        "Technische Dreifachkonstruktion",
+        "Ingeniería triple"
+    ],
+    "509452": [
+        "Shall We Dance?",
+        "跳隻舞嗎？",
+        "셸 위 댄스?",
+        "On danse ?",
+        "Darf ich bitten?",
+        "¿Bailamos?"
+    ],
+    "509453": [
+        "Shall We Dance?",
+        "跳隻舞嗎？",
+        "셸 위 댄스?",
+        "On danse ?",
+        "Darf ich bitten?",
+        "¿Bailamos?"
+    ],
+    "509454": [
+        "Shall We Dance?",
+        "跳隻舞嗎？",
+        "셸 위 댄스?",
+        "On danse ?",
+        "Darf ich bitten?",
+        "¿Bailamos?"
+    ],
+    "509455": [
+        "Shall We Dance?",
+        "跳隻舞嗎？",
+        "셸 위 댄스?",
+        "On danse ?",
+        "Darf ich bitten?",
+        "¿Bailamos?"
+    ],
+    "509456": [
+        "Schematic Rainbow II",
+        "彩虹計劃II",
+        "레인보우 플랜II",
+        "Arc-en-ciel schématique II",
+        "Regenbogenplan II",
+        "Arcoíris esquemático II"
+    ],
+    "509457": [
+        "Schematic Rainbow II",
+        "彩虹計劃II",
+        "레인보우 플랜II",
+        "Arc-en-ciel schématique II",
+        "Regenbogenplan II",
+        "Arcoíris esquemático II"
     ],
     "509683": [
         "Scroll of Sword Madrigal",
@@ -82671,6 +83367,14 @@
         "Vari",
         "Hada"
     ],
+    "912430": [
+        "Confetti Blast",
+        "五彩紙屑爆擊",
+        "콘페티 폭죽",
+        "Tir de confettis",
+        "Konfettibombardierung",
+        "Estallido de confeti"
+    ],
     "912431": [
         "Thunder Barret",
         "迅雷子彈",
@@ -82814,5 +83518,21 @@
         "Contestation",
         "Herausstechen",
         "Destacar"
+    ],
+    "912494": [
+        "All in Harmony",
+        "完美和諧",
+        "온갖 화음",
+        "Harmonie ultime",
+        "Ultimative Harmonie",
+        "Todo armonía"
+    ],
+    "912495": [
+        "Spiritual Defense",
+        "精神防禦者",
+        "신령의 방어",
+        "Défense spirituelle",
+        "Psychische Verteidigung",
+        "Defensa espiritual"
     ]
 }

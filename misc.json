@@ -236,7 +236,7 @@
         "敵人/隊員",
         "적과 아군",
         "ennemis et alliés",
-        "Gegner/Verbündete",
+        "Gegner/Verb.",
         "enemigos y aliados"
     ],
     "ABILITY_DETAIL_TARGET_ALL_RANGE_ALL": [
@@ -356,7 +356,7 @@
         "1名隊員",
         "아군 1명",
         "un allié",
-        "Einzelner Verbündeter",
+        "Verb. (Einzeln)",
         "un aliado"
     ],
     "ABILITY_DETAIL_TRIBE_LIST": [
@@ -364,16 +364,16 @@
         "獸@鳥@水生@惡魔@人@機械@龍@精靈@蟲@岩石@植物@死靈",
         "야수@조류@수중@악마@인간@기계@드래곤@정령@곤충@암석@식물@사령",
         "\"bête\"@\"oiseau\"@\"aquatique\"@\"démon\"@\"humain\"@\"machine\"@\"dragon\"@\"esprit\"@\"insecte\"@\"pierre\"@\"plante\"@\"morts-vivant\"",
-        "Bestie@Vogel@Wasser@Dämon@Mensch@Maschine@Drache@Fee@Insekt@Steie@Pflanze@Untoter",
-        "bestia@ave@acuático@demonio@humano@máquina@dragón@espíritu@insecto@pétreo@plantoide@m. viviente"
+        "Bestie@Vogel@Wasser@Dämon@Mensch@Maschine@Drache@Fee@Insekt@Stein@Pflanze@Untoter",
+        "bestias@aves@acuáticos@demonios@humanos@máquinas@dragones@espíritus@insectos@pétreos@plantoides@muertos vivientes"
     ],
     "ABILITY_DETAIL_WEAPON_LIST": [
-        "short sword@sword@large sword@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fist",
+        "short sword@sword@large sword@katana@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fist",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
         "épée courte@épée@épée longue@katana@bâton@sceptre@arc@hache@marteau@lance@instrument@fouet@arme de jet@arme à feu@masse@poing",
-        "Kurzschwert@Schwert@Großschwert@Katana@Stab@Rute@Bogen@Axt@Hammer@Speer@Instrument@Peitsche@Wurfwaffe@Schusswaffe@Keule@Faust",
-        "espada corta@espada@espada grande@katana@bastón@vara@arco@hacha@martillo@lanza@un instrumento@látigo@un arma arrojadiza@pistola@maza@puños"
+        "Kurzschwert(er)@Schwert(er)@Großschwert(er)@Katana(s)@Stab/Stäbe@Rute(n)@Bogen/Bögen@Axt/Äxte@Hammer/Hämmer@Speer(e)@Instrument(e)@Peitsche(n)@Wurfwaffe(n)@Schusswaffe(n)@Keule(n)@Faust/Fäuste",
+        "espada corta@espada(s)@espada grande@katana@bastón@vara@arco@hacha@martillo@lanza@un instrumento@látigo@arma arrojadiza@pistola@maza@puños"
     ],
     "ABILITY_NOTHING": [
         "No usable abilities to display.",
@@ -1839,6 +1839,22 @@
         "„Diese Klasse beendet Kolosseumskämpfe.<br>* Dieser Bildschirm ist nicht für andere Nutzer sichtbar. <br>Ja = Sieg, Nein = Niederlage“",
         "Esta clase finaliza las batallas de Coliseo.<br>* Esta pantalla no estará disponible para otros usuarios. <br>Sí = Victoria, No = Derrota"
     ],
+    "COMEBACK_LOGIN_MAIL_MSG_1": [
+        "Welcome back! Here are some items to celebrate your return, kupo!",
+        "歡迎回歸！為你準備了一些獎勵道具慶祝你的歸來！",
+        "다시 돌아온 걸 환영해! 컴백 기념 아이템을 선물할게!",
+        "Bon retour parmi nous ! Acceptez ces quelques objets pour fêter cela !",
+        "Willkommen zurück! HIer hast du ein paar Gegenstände, um deine Rückkehr zu feiern!",
+        "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu regreso!"
+    ],
+    "COMEBACK_LOGIN_MAIL_TITLE_1": [
+        "Comeback Login Bonus",
+        "回歸登入獎勵",
+        "컴백 출석 보상",
+        "Bonus de connexion de retour",
+        "Comeback Anmeldebonus",
+        "Bonificación de inicio de sesión de regreso al juego"
+    ],
     "CONNECT": [
         "Connecting...",
         "通訊中……",
@@ -2182,6 +2198,62 @@
         null,
         "Kristalltruhe der Erhabenheit",
         "Cofre de la majestuosidad"
+    ],
+    "Come_Back_Mission_New_Quests_Available": [
+        "Quêtes de",
+        "新任務登場！",
+        "신규 퀘스트 개방!",
+        "De nouvelles quêtes sont disponibles !",
+        "Neue Aufträge verfügbar!",
+        "¡Nuevas misiones disponibles!"
+    ],
+    "Come_Back_Mission_Quests_Button": [
+        "Comeback Quests",
+        "回歸任務",
+        "컴백 퀘스트",
+        "Quêtes de retour au jeu",
+        "Rückkehrer-Aufträge",
+        "Misiones pasadas"
+    ],
+    "Come_Back_Mission_Quests_Mission_Title": [
+        "Comeback Quests",
+        "回歸任務",
+        "컴백 퀘스트",
+        "Quêtes de retour au jeu",
+        "Willkomm",
+        "Misiones pasadas"
+    ],
+    "Come_Back_Mission_Quests_Title": [
+        "Comeback Quests",
+        "回歸任務",
+        "컴백 퀘스트",
+        "Quêtes de retour au jeu",
+        "Rückkehrer-Aufträge",
+        "Misiones pasadas"
+    ],
+    "Come_Back_Mission_Quests_Welcome_Text_A": [
+        "Welcome back to FINAL FANTASY BRAVE EXVIUS! We have exciting rewards waiting for you to claim after completing our new Comeback Quests. The Comeback Quests are only available for a limited time.",
+        "歡迎回歸FINAL FANTASY BRAVE EXVIUS！在您完成新回歸任務後，將有許多豪華報酬等著您。回歸任務為期間限定任務。",
+        "FINAL FANTASY BRAVE EXVIUS의 세계에 다시 돌아오신 것을 환영합니다! 신규 컴백 퀘스트를 완료하면 흥미로운 보상이 기다리고 있습니다. 컴백 퀘스트는 기간 한정으로만 진행됩니다.",
+        "Bon retour à FINAL FANTASY BRAVE EXVIUS ! Pour l'occasion, nous vous avons préparé une toute nouvelle série de quêtes avec de magnifiques récompenses à la clé ! Attention, cependant : les quêtes de retour au jeu ne sont disponibles que pendant une période limitée.",
+        "Herzlichen Willkommen zurück bei FINAL FANTASY BRAVE EXVIUS! Wir haben aufregende Belohnungen für dich vorbereitet. Du kannst sie abholen nachdem du unsere neuen Rückkehrer-Aufträge abgeschlossen hast. Die Rückkehrer-Aufträge sind nur für eine begrenzte Zeit verfügbar.",
+        "¡Bienvenido a FINAL FANTASY BRAVE EXVIUS! Te esperan recompensas alucinantes tras completar nuestras nuevas MIsiones pasadas, disponibles solo por tiempo limitado."
+    ],
+    "Come_Back_Mission_Quests_Welcome_Text_B": [
+        "After completing various quests, you can obtain your rewards by tapping either the claim button or claim all button. Rewards will be sent directly to your inventory.",
+        "在完成各種任務後，您將可以透過點擊領取或一併領取按鈕獲得報酬。報酬將會迅速寄送至您的持有欄位中。",
+        "다양한 퀘스트를 완료 후, 받기 또는 모두 받기 버튼을 터치하여 보상을 수령할 수 있습니다. 보상은 바로 인벤토리로 지급됩니다.",
+        "À chaque fois que vous terminez l'une de ces quêtes, vous pouvez récupérer vos récompenses en appuyant sur les boutons Recevoir ou Tout récupérer. Les récompenses seront directement envoyées dans votre inventaire.",
+        "Nach Abschluss verschiedene Aufträge, kannst du deine Belohnungen erhalten, indem du entweder den Button für \"Abholen\" oder \"Alle abholen\" antippst. Belohnungen werden direkt an dein Inventar geschickt.",
+        "Tras completar varias misiones podrás obtener recompensas tocando Recibir o Recibir todos. Las recompensas se enviarán directamente a tu inventario."
+    ],
+    "Come_Back_Mission_Quests_Welcome_Title": [
+        "Comeback Quests",
+        "回歸任務",
+        "컴백 퀘스트",
+        "Quêtes de retour au jeu",
+        "Rückkehrer-Aufträge",
+        "Misiones pasadas"
     ],
     "Comeback_Login_Bonus_Moogle_Text": [
         "Welcome back! Here are some items to celebrate your return, kupo!",
@@ -12741,7 +12813,7 @@
         "사령형",
         "M. vivant",
         "Untoter",
-        "M. viviente"
+        "Muerto viviente"
     ],
     "MST_TRIBE_NAME_2": [
         "Avian",
@@ -14710,46 +14782,6 @@
         "Matériaux",
         "Materialien wählen",
         "Materiales"
-    ],
-    "SELECT_OWNUNIT_ALERT_TEXT_A": [
-        "Same unit exists in the party setup and companion slot.<br>Companion unit will be removed.",
-        "有同一兵員存在於隊伍設定和同行者欄位中。<br>同行者兵員將會被移除。",
-        "편성한 파티와 동행자 슬롯에 동일한 유닛이 존재합니다.<br>동행자 유닛은 삭제됩니다.",
-        "La même unité est présente à la fois dans votre équipe et dans l'emplacement du partenaire.<br>Le partenaire sera donc retiré.",
-        "Dieselbe Einheit befindet sich in der Gruppenkonfiguration und im Begleiter-Slot.<br>Begleiter-Einheit wird entfernt.",
-        "La misma unidad aparece repetida en tu grupo y en la ranura de compañero.<br>El compañero se eliminará."
-    ],
-    "SELECT_OWNUNIT_ALERT_TEXT_B": [
-        "Same esper exists in the party setup and companion slot.<br>Companion esper will be removed.",
-        "有同一幻獸存在於隊伍設定和同行者欄位中。<br>同行者幻獸將會被移除。",
-        "편성한 파티와 동행자 슬롯에 동일한 환수가 존재합니다.<br>동행자 환수는 삭제됩니다.",
-        "La même chimère est présente à la fois dans votre équipe et dans l'emplacement du partenaire.<br>La chimère du partenaire sera donc retirée.",
-        "Derselbe Esper befindet sich in der Gruppenkonfiguration und im Begleiter-Slot.<br>Begleiter-Esper wird entfernt.",
-        "El mismo esper aparece repetido en tu grupo y en la ranura de compañero.<br>El esper del compañero se eliminará."
-    ],
-    "SELECT_OWNUNIT_ALERT_TEXT_C": [
-        "Same unit and esper in the party setup and companion slot.<br>Companion unit and esper will be removed.",
-        "有同一兵員和幻獸存在於隊伍設定和同行者欄位中。<br>同行者兵員和幻獸將會被移除。",
-        "편성한 파티와 동행자 슬롯에 동일한 유닛과 환수가 존재합니다.<br>동행자 유닛과 환수는 삭제됩니다.",
-        "Une unité et une chimère sont présentes à la fois dans votre équipe et dans l'emplacement du partenaire.<br>L'unité et la chimère partenaires seront donc retirées.",
-        "Dieselbe Einheit und derselbe Esper befinden sich in der Gruppenkonfiguration und im Begleiter-Slot.<br>Begleiter-Einheit sowie -Esper werden entfernt.",
-        "La misma unidad y el mismo esper aparecen repetidos en tu grupo y en la ranura de compañero.<br>El compañero y su esper se eliminarán."
-    ],
-    "SELECT_OWNUNIT_ALERT_TITLE": [
-        "NOTICE",
-        "注意",
-        "주의",
-        "ATTENTION",
-        "HINWEIS",
-        "AVISO"
-    ],
-    "SELECT_OWNUNIT_BUTTON": [
-        "Select your own unit",
-        "選擇你的兵員",
-        "유닛을 선택하세요.",
-        "Sélectionner votre propre unité",
-        "Wähle deine eigene Einheit aus",
-        "Selecciona tu propia unidad"
     ],
     "SELECT_SELL_UNIT_NUM": [
         "Units",
