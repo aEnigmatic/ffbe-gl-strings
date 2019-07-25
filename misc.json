@@ -56,7 +56,7 @@
         "veneno@ceguera@sueño@silencio@parálisis@confusión@enfermedad@piedra@paro@embrujo@locura"
     ],
     "ABILITY_DETAIL_BODY_LIST": [
-        "clothes@light armor@heavy armor@robe",
+        "clothes@a light armor@a heavy armor@a robe",
         "衣服@輕鎧甲@重鎧甲@法袍",
         "옷@경갑@중갑@로브",
         "\"vêtements\"@\"armure légère\"@\"armure lourde\"@\"robe\"",
@@ -72,7 +72,7 @@
         "fuego@hielo@rayo@agua@viento@tierra@luz@oscuridad"
     ],
     "ABILITY_DETAIL_HEAD_LIST": [
-        "hat@helm",
+        "a hat@a helm",
         "帽子@頭盔",
         "모자@투구",
         "\"chapeau\"@\"casque\"",
@@ -152,7 +152,7 @@
         "Arriba"
     ],
     "ABILITY_DETAIL_SHIELD_LIST": [
-        "light shield@heavy shield",
+        "a light shield@a heavy shield",
         "輕盾@重盾",
         "경방패@중방패",
         "\"bouclier léger\"@\"bouclier lourd\"",
@@ -368,7 +368,7 @@
         "bestias@aves@acuáticos@demonios@humanos@máquinas@dragones@espíritus@insectos@pétreos@plantoides@muertos vivientes"
     ],
     "ABILITY_DETAIL_WEAPON_LIST": [
-        "short sword@sword@large sword@katana@staff@rod@bow@axe@hammer@spear@instrument@whip@throwing weapon@gun@mace@fist",
+        "a short sword@a sword@a large sword@a katana@a staff@a rod@a bow@an axe@a hammer@a spear@an instrument@a whip@a throwing weapon@a gun@a mace@fists",
         "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
         "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
         "épée courte@épée@épée longue@katana@bâton@sceptre@arc@hache@marteau@lance@instrument@fouet@arme de jet@arme à feu@masse@poing",
@@ -1926,6 +1926,14 @@
         "Coffre en cuivre de l'abondance",
         "Kupfertruhe des Überflusses",
         "Cofre de cobre de abundancia"
+    ],
+    "COST": [
+        "Cost:",
+        "消耗：",
+        "소비:",
+        "Coût :",
+        "Kosten:",
+        "Coste:"
     ],
     "CPK_LOAD_ERROR": [
         "A loading error has occurred.",
@@ -6039,13 +6047,77 @@
         "HD-Daten herunterladen",
         "Descargar recursos HD"
     ],
+    "HIDDEN_SKILL_COMPLETION": [
+        "Unlock Progress",
+        "解放進度",
+        "개방 진행",
+        "Débloquer la progression",
+        "Freischaltungsfortschritt",
+        "Desbloquear progreso"
+    ],
+    "HIDDEN_SKILL_EP_COST": [
+        "EP Cost",
+        "消耗EP",
+        "소비 EP",
+        "Coût en PI",
+        "EP-Kosten",
+        "Coste de PI"
+    ],
+    "HIDDEN_SKILL_EP_LIMIT_REACHED": [
+        "<color=255:165:0>You have reached the maximum amount of enlightenment points.</color><br><br>You will not be able to receive any more enlightenment points.<br><br>Use the enlightenment points by unlocking or upgrading units' latent abilities.",
+        "<color=255:165:0>你的啟蒙點數已達最大值。</color><br><br>無法再獲得更多啟蒙點數。<br><br>使用啟蒙點數解放或強化兵員的潛在能力！",
+        "<color=255:165:0>잠재 각성 포인트가 최대치에 달했습니다.</color><br><br>더 이상 잠재 각성 포인트를 획득할 수 없습니다.<br><br>잠재 각성 포인트를 사용하여 유닛의 잠재 어빌리티를 개방 또는 업그레이드해 주십시오.",
+        "<color=255:165:0>Vous avez atteint la quantité maximale de points d'illumination.</color><br><br> Vous ne pourrez plus en recevoir davantage.<br><br> Dépensez vos points d'illumination en débloquant ou en améliorant les aptitudes latentes de vos unités.",
+        "<color=255:165:0>Du hast die maximale Menge von Erleuchtungspunkten erreicht.</color><br><br>Du kannst nun keine weiteren Erleuchtungspunkte mehr erhalten.<br><br>Benutze die Erleuchtungspunkte, indem du die latenten Fertigkeiten deiner Einheiten freischaltest oder verstärkst.",
+        "<color=255:165:0>Has alcanzado el máximo de puntos de ilustración.</color><br><br>Ya no podrás recibir más puntos de ilustración.<br><br>Usa los puntos de ilustración para desbloquear o mejorar las habilidades latentes de tus unidades."
+    ],
+    "HIDDEN_SKILL_INSUFFICIENT_EP": [
+        "Insufficient EP",
+        "EP不足",
+        "EP 부족",
+        "Pas assez de PI",
+        "Unzureichende EP",
+        "PI insuficientes"
+    ],
     "HIDDEN_SKILL_LEARN_SP": [
-        "Unlock with <param=sp> SP Orb.",
-        "Unlock with <param=sp> SP Orb.",
-        "Unlock with <param=sp> SP Orb.",
-        "Unlock with <param=sp> SP Orb.",
-        "Unlock with <param=sp> SP Orb.",
-        "Unlock with <param=sp> SP Orb."
+        "Unlocks with <param=sp> enlightenment points",
+        "使用<param=sp>啟蒙點數解放",
+        "<param=sp> 잠재 각성 포인트를 사용하여 개방",
+        "Se débloque avec <param=sp> point(s) d'illumination.",
+        "Wird mit <param=sp> Erleuchtungspunkten freigeschaltet",
+        "Se desbloquea con <param=sp> punto(s) de ilustración"
+    ],
+    "HIDDEN_SKILL_TITLE": [
+        "Latent Abilities",
+        "潛在能力",
+        "잠재 어빌리티",
+        "Aptitudes latentes",
+        "Latente Fertigkeiten",
+        "Habilidades latentes"
+    ],
+    "HIDDEN_SKILL_UNLOCK": [
+        "Are you sure you want to unlock this ability?",
+        "是否確定要解放此能力？",
+        "해당 어빌리티를 개방하시겠습니까?",
+        "Voulez-vous vraiment débloquer cette aptitude ?",
+        "Diese Fertigkeit freischalten?",
+        "¿Seguro que quieres desbloquear esta habilidad?"
+    ],
+    "HIDDEN_SKILL_UPGRADE": [
+        "Are you sure you want to upgrade this ability?",
+        "是否確定要強化此能力？",
+        "해당 어빌리티를 업그레이드하시겠습니까?",
+        "Voulez-vous vraiment améliorer cette aptitude ?",
+        "Diese Fertigkeit verstärken?",
+        "¿Seguro que quieres mejorar esta habilidad?"
+    ],
+    "HIDDEN_SKILL_UPGRADE_OK_SHORTAGE_GIL": [
+        "Insufficient gil.",
+        "ＧＩＬ不足。",
+        "길이 부족합니다.",
+        "Gils insuffisants.",
+        "Nicht genug Gil.",
+        "Guiles insuficientes."
     ],
     "HIGH": [
         "High",
@@ -11959,6 +12031,14 @@
         "Paladia - Kapitel 8",
         "Paladia - Capítulo 8"
     ],
+    "MST_STORY_NAME_18": [
+        "Paladia Chapter 9",
+        "帕拉迪亞 第八章",
+        "파라디아편 제9장",
+        "Paladia, chapitre 9",
+        "Paladia - Kapitel 9",
+        "Paladia - Capítulo 9"
+    ],
     "MST_STORY_NAME_2": [
         "Lanzelt",
         "蘭澤爾特大陸",
@@ -13246,6 +13326,14 @@
         "???",
         "???",
         "???"
+    ],
+    "NEED_EP_ORB": [
+        "Points Required",
+        "所需點數",
+        "필요한 포인트",
+        "Points nécessaires",
+        "Benötigte Punkte",
+        "Puntos necesarios"
     ],
     "NEED_GIL": [
         "Gil needed",
@@ -14718,6 +14806,38 @@
         "Merci de jouer à notre jeu !<br>Pour vous remercier, nous vous enverrons 100 lapis dans votre messagerie.",
         "Danke fürs Spielen!<br>Als Dankeschön haben wir dir 100 Lapis<br>an deinen Posteingang gesendet.",
         "¡Gracias por jugar!<br>Como muestra de agradecimiento<br>te hemos enviado 100 lapis al buzón."
+    ],
+    "REWARD_OW_FREE_LAPIS": [
+        "Free lapis!",
+        "免費寶石！",
+        "무료 라피스!",
+        "Lapis gratuits !",
+        "Kostenlose Lapis!",
+        "¡Lapis gratis!"
+    ],
+    "REWARD_OW_MSG": [
+        "Free lapis obtained. Thanks for your support!",
+        "已獲得免費寶石。感謝您的支持！",
+        "무료 라피스가 지급되었습니다. 성원에 감사드립니다!",
+        "Lapis gratuits obtenus. Merci de votre soutien !",
+        "Kostenlose Lapis erhalten. Vielen Dank für deine Unterstützung!",
+        "Lapis gratis conseguidos. ¡Gracias por tu apoyo!"
+    ],
+    "REWARD_OW_REDIRECT_PROMPT_TEXT": [
+        "You will be redirected to an external interface which will reward you with lapis for completing tasks.<br><br>Rewards will be delivered within %i days after tasks are completed.",
+        "完成課題時，將會被轉移至外部連結並獲得獎勵的寶石。<br><br>完成課題後，獎勵將於 %i 內發送。",
+        "작업을 완료하고 라피스 보상을 받을 수 있는 외부 인터페이스로 이동합니다.<br><br>보상은 작업 완료 후 %i일 내로 지급됩니다.",
+        "Vous allez être redirigé vers une interface externe qui vous permettra d'obtenir des lapis en récompense pour avoir terminé une tâche.<br><br>Les récompenses seront envoyées dans les %i jours une fois la tâche terminée.",
+        "Du wirst zu einer externen Oberfläche zurückgebracht, die dich für das Abschließen von Aufgaben mit Lapis belohnt.<br><br> Belohnungen werden innerhalb von %i Tagen nach Abschluss der Aufgaben beendet.",
+        "Se te redirigirá a una interfaz externa en donde recibirás lapis como recompensa por completar tareas.<br><br>Las recompensas se enviarán dentro de los %i días tras haber completado las tareas."
+    ],
+    "REWARD_OW_TITLE": [
+        "Free lapis obtained!",
+        "已獲得免費寶石！",
+        "무료 라피스 획득!",
+        "Lapis gratuits obtenus !",
+        "Kostenlose Lapis erhalten!",
+        "¡Lapis gratis conseguidos!"
     ],
     "REWARD_SUMMON_MILESTONE_TITLE": [
         "Milestone Rewards",
@@ -18631,6 +18751,14 @@
         "Gesamt",
         "Total"
     ],
+    "UNIT_ENLIGHTENMENT_OK": [
+        "Unlockable",
+        "可解放",
+        "개방 가능",
+        "Déblocable",
+        "Freischaltbar",
+        "Desbloqueable"
+    ],
     "UNIT_EQUIP_ABILITY_NOTHING": [
         "No equippable abilities.",
         "沒有可以裝備的能力",
@@ -18782,6 +18910,14 @@
         "Pas d'unités vendables.",
         "Keine verkäuflichen Einheiten.",
         "Ninguna unidad que vender."
+    ],
+    "UNIT_HIDDEN_SKILL": [
+        "Latent Abilities",
+        "潛在能力",
+        "잠재 어빌리티",
+        "Aptitudes latentes",
+        "Latente Fertigkeiten",
+        "Habilidades latentes"
     ],
     "UNIT_LIST": [
         "View Units",
@@ -19239,6 +19375,14 @@
         "Zauberpott",
         "Olla mágica"
     ],
+    "UNIT_SORT_PARTY_PRIORITY": [
+        "Prioritization of units currently in party",
+        "優先顯示被編列於隊伍中的兵員",
+        "파티 편성 유닛 우선 표시",
+        "Priorité aux unités présentes dans le groupe",
+        "Priorität derzeit in Gruppe befindlicher Einheiten",
+        "Priorización de las unidades presentes en el grupo"
+    ],
     "UNIT_SORT_RARITY": [
         "Rarity",
         "稀有度",
@@ -19350,6 +19494,14 @@
         "Obtenu(e)",
         "In Besitz",
         "Obtenido"
+    ],
+    "UNIT_SORT_TYPE_HIDDEN_SKILL_RATE": [
+        "Enlightenment",
+        "解放進度",
+        "개방 진행",
+        "Débloquer",
+        "Freischaltungs",
+        "Desbloquear"
     ],
     "UNIT_SORT_TYPE_HP": [
         "HP",
