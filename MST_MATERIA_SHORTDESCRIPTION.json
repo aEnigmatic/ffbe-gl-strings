@@ -4463,6 +4463,46 @@
         "Erhöht ANG um 50%, wenn mit einem Katana ausgerüstet und zusätzlich um 20%, wenn mit Kleidung ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ un 50% al llevar katana y un 20% al llevar ropa (no acumulable)"
     ],
+    "504229630": [
+        "Boost ATK by 10% and increase chance of being targeted",
+        "提高10%攻擊+容易被敵人攻擊",
+        "공격력 10% 상승+적의 공격 대상이 될 확률 상승",
+        "Augmente l'ATT de 10 % et augmente les chances d'être pris pour cible",
+        "Erhöht ANG um 10% und erhöht Chance, zum Ziel zu werden.",
+        "Aumenta el ATQ un 10% y aumenta la probabilidad de ser atacado"
+    ],
+    "504229631": [
+        "Boost DEF by 10% and decrease chance of being targeted",
+        "提高10%防禦+不易被敵人攻擊",
+        "방어력 10% 상승+적의 공격 대상이 될 확률 감소",
+        "Augmente la DEF de 10 % et réduit les chances d'être pris pour cible",
+        "Erhöht ABW um 10% und verringert Chance, zum Ziel zu werden.",
+        "Aumenta la DEF un 10% y reduce la probabilidad de ser atacado"
+    ],
+    "504229633": [
+        "Boost MAG by 30% and SPR by 60%, and escape death one time when HP is above a certain point (Not stackable)",
+        "提高30%魔力、60%精神+HP高於一定量時避免陷入無法戰鬥狀態1次(無法重複裝備)",
+        "마력 30%, 정신력 60% 상승+HP가 일정량 이상일 때 1회에 한해 전투불능 상태 견딤 (중복 장착 불가)",
+        "Augmente la MAGIE de 30 %, la PSY de 60 % et permet d'échapper à la mort une fois quand les PV sont au-dessus d'un certain seuil (non cumulable)",
+        "Erhöht MAG um 30% und PSY um 60% und entkommt dem Tod einmal, wenn LP über einem bestimmten Wert liegen (nicht stapelbar).",
+        "Aumenta la MAG un 30% y el ESP un 60%, y evita quedar K.O. una vez cuando la VIT está por encima de cierto nivel (no acumulable)"
+    ],
+    "504229634": [
+        "Boost HP by 40%, DEF and SPR by 20%, and nullify paralysis (Not stackable)",
+        "提高40%HP、20%防禦精神+麻痺無效(無法重複裝備)",
+        "HP 40%, 방어력과 정신력 20% 상승+마비 무효화 (중복 장착 불가)",
+        "Augmente les PV de 40 %, la DEF et la PSY de 20 % et annule paralysie (non cumulable)",
+        "Erhöht LP um 40%, ABW und PSY um 20% und annulliert Lähmung (nicht stapelbar).",
+        "Aumenta la VIT un 40%, la DEF y el ESP un 20% y anula parálisis (no acumulable)"
+    ],
+    "504229637": [
+        "Boost ATK and MAG by 20% and boost EXP obtained from battle",
+        "提高20%攻擊魔力+提高獲得的經驗值",
+        "공격력과 마력 20% 상승+획득 경험치 상승",
+        "Augmente l'ATT et la MAGIE de 20 % et augmente l'EXP obtenue en combat",
+        "Erhöht ANG und MAG um 20% und erhöht im Kampf erhaltene EXP.",
+        "Aumenta el ATQ y la MAG un 20% y la EXP que se obtiene en los combates"
+    ],
     "504229740": [
         "Boost SPR by 50% and fill LB gauge every turn (Not stackable)",
         "提高50%精神+每回合增加極限技槽(無法重複裝備)",
@@ -5434,10 +5474,10 @@
     "1500000088": [
         "Boost MAG and ice resistance by 50%, and boost equipment MAG when armed with two one-handed weapons (Not stackable)",
         "提高50%魔力+提高30%冰屬性耐性+裝備2把單手武器時武具魔力提升(不可重複裝備)",
-        "마력 50%, 얼음속성 저항력 30% 상승+한손용 무기 2개 장착 시 장비의 마력 상승 (중복 장착 불가)",
+        "마력과 얼음속성 저항력 50% 상승+한손용 무기 2개 장착 시 장비의 마력 상승 (중복 장착 불가)",
         "Augmente la MAGIE de 50%, la résistance à la glace de 30% et la MAGIE de l'équipement lorsque deux armes à une main sont équipées (Non cumulable)",
-        "Erhöht MAG um 50% und Eisresistenz um 30% und erhöht Ausrüstung-MAG wenn mit zwei einhändigen Waffen ausgerüstet (Nicht stapelbar).",
-        "Aumenta la MAG un 50%, la resistencia al hielo un 30% y aumenta la MAG del equipo al llevar dos armas de una sola mano (no acumulable)"
+        "Erhöht MAG und Eisresistenz um 50% und erhöht Ausrüstung-MAG, wenn mit zwei einhändigen Waffen ausgerüstet (Nicht stapelbar).",
+        "Aumenta la MAG y la resistencia al hielo un 50%, y aumenta la MAG del equipo al llevar dos armas de una sola mano (No acumulable)"
     ],
     "1500000089": [
         "Boost ATK when equipped with a large sword (Not stackable)",
@@ -5574,6 +5614,22 @@
         "Augmente les PV, la DEF et la PSY de 20% et augmente la PSY de 30% lorsqu'une épée est équipée (Non cumulable)",
         "Erhöht LP, ABW und PSY um 20% und erhöht PSY um 30%, wenn mit einem Schwert ausgerüstet (nicht stapelbar).",
         "Aumenta VIT, DEF y ESP un 20%, y otro 30% el ESP al llevar espada (no acumulable)"
+    ],
+    "1500000107": [
+        "Boost MAG by 60% when equipped with a rod (Not stackable)",
+        "裝備魔棒時提高提高60%魔力(無法重複裝備)",
+        "홀장 장착 시 마력 60% 상승 (중복 장착 불가)",
+        "Augmente la MAGIE de 60 % quand un sceptre est équipé (non cumulable)",
+        "Erhöht MAG um 60%, wenn mit einer Rute ausgerüstet (Nicht stapelbar).",
+        "Aumenta la MAG un 60% al llevar vara (no acumulable)"
+    ],
+    "1500000108": [
+        "Boost MAG by 80% when equipped with a light elemental weapon (Not stackable)",
+        "裝備光屬性武器時提高80%魔力(無法重複裝備)",
+        "빛속성 무기 장착 시 마력 80% 상승 (중복 장착 불가)",
+        "Augmente la MAGIE de 80 % quand une arme élémentaire de lumière est équipée (non cumulable)",
+        "Erhöht MAG um 80%, wenn mit einer Lichtelementarwaffe ausgerüstet (Nicht stapelbar).",
+        "Aumenta la MAG un 80% al llevar arma de elemento luz (no acumulable)"
     ],
     "1500000109": [
         "Boost ATK and MAG by 60%, and boost equipment ATK and MAG when a single weapon is equipped in both hands (Not stackable)",
