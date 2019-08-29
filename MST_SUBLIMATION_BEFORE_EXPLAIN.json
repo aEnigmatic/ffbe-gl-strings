@@ -999,6 +999,14 @@
         "Steigert ANG-Erhöhung (gering)",
         "Mayor aumento de ATQ (poco)"
     ],
+    "204040004": [
+        "Boosts ATK increase (to 75%)<br>Boosts equipment ATK when a single weapon is equipped in both hands (50%)",
+        "提高攻擊增加量(至75%)<br>雙手只裝備1把武器時武具攻擊提升(50%)",
+        "공격력 상승량 상승(75%)<br>양손의 장비가 무기 1개일 경우 장비의 공격력 상승(50%)",
+        "Amplifie l'augmentation de l'ATT (à 75 %)<br>Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains (50 %)",
+        "Steigert ANG-Erhöhung (auf 75%)<br>Erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen in beiden ausgerüstet ist (50%)",
+        "Mayor aumento de ATQ (a un 75%)<br>Aumenta el ATQ del equipo al llevar una sola arma en ambas manos (un 50%)"
+    ],
     "204050002": [
         "Boosts damage amount (great)",
         "提高傷害量(特大)",
@@ -1401,7 +1409,7 @@
     ],
     "205501002": [
         "Increases hit count (great)<br>Boosts damage amount (great)<br>Boosts consecutive use damage (low)<br>Boosts maximum damage from consecutive use (great)",
-        "增加攻擊次數(特大)<br>提高傷害量(特大)<br>連續使用時提高傷害(小)<br>提高連續使用時造成的最大傷害(特大)",
+        "提高攻擊次數(特大)<br>提高傷害量(特大)<br>連續使用時提高傷害(小)<br>提高連續使用時造成的最大傷害(特大)",
         "히트 수 상승(특대)<br>피해량 상승(특대)<br>연속 사용 시 피해량 상승(소)<br>연속 사용 시 최대 피해량 상승(특대)",
         "Augmente le nombre de coups (super)<br>Augmente les dégâts infligés (super)<br>Augmente les dégâts infligés avec une utilisation consécutive (peu)<br>Augmente les dégâts max. infligés avec une utilisation consécutive (super)",
         "Erhöht Trefferzahl (sehr hoch)<br>Erhöht Schaden (sehr hoch)<br>Erhöht Schaden mit jeder Anwendung (gering)<br>Erhöht maximalen Konsekutivschaden (sehr hoch)",
@@ -4543,6 +4551,14 @@
         "Erhöht MP-Verbrauch (hoch)<br>Steigert MP-Erhöhung (gering)",
         "Mayor aumento de MAG (mucho)<br>Mayor aumento de PM (poco)"
     ],
+    "226120002": [
+        "Boosts damage amount (to 700%)<br>Boosts fire and ice resistance reductions (to 80%)",
+        "提高傷害量(至700%)<br>提高火冰屬性減少量(至80%)",
+        "피해량 상승(700%)<br>불과 얼음속성 저항력 감소량 상승(80%)",
+        "Augmente les dégâts infligés (à 700 %)<br>Amplifie la réduction de la résistance au feu et à la glace (à 80 %)",
+        "Erhöht Schaden (auf 700%)<br>Erhöht Verringerung von Feuer- und Eisresistenz (auf 80%)",
+        "Aumenta el daño (a un 700%)<br>Mayor reducción de resistencia al fuego y al hielo (a un 80%)"
+    ],
     "226250002": [
         "Boosts ATK, DEF, MAG, and SPR increases (mid)",
         "提高攻擊防禦魔力精神增加量(中)",
@@ -4943,6 +4959,54 @@
         "Erhöht ANG",
         "Aumenta el ATQ"
     ],
+    "227650002": [
+        "Boosts damage amount (to 3000%)<br>Reduces evocation gauge consumed (to 3)",
+        "提高傷害量(至3000%)<br>減少召喚槽消耗量(至3)",
+        "피해량 상승(3000%)<br>소비 소환 게이지 감소(3)",
+        "Augmente les dégâts infligés (à 3 000 %)<br>Réduit la consommation de la jauge d'appel (à 3)",
+        "Erhöht Schaden (auf 3000%)<br>Verringert Verbrauch von Rufleiste (auf 3)",
+        "Aumenta el daño (a un 3000%)<br>Reduce el consumo de la barra de invocación (a 3)"
+    ],
+    "227653002": [
+        "Boosts damage amount (to 700%)<br>Boosts evocation gauge increase (from 2 ~ 4 to 3 ~ 5)",
+        "提高傷害量(至700%)<br>提高召喚槽增加量(從2~4提高至3~5)",
+        "피해량 상승(700%)<br>소환 게이지 증가량 상승(2~4 to 3~5)",
+        "Augmente les dégâts infligés (à 700 %)<br>Amplifie l'augmentation de la jauge d'appel (de 2 ~ 4 à 3 ~ 5)",
+        "Erhöht Schaden (auf 700%)<br>Rufleiste füllt sich schneller (von 2 ~ 4 auf 3 ~ 5)",
+        "Aumenta el daño (a un 700%)<br>Mayor aumento de la barra de invocación (de 2 ~ 4 a 3 ~ 5)"
+    ],
+    "227654002": [
+        "Boosts magic damage reduction (to 25%)",
+        "提高魔法傷害減少量(至25%)",
+        "마법 피해 감소량 상승(25%)",
+        "Amplifie la réduction des dégâts magiques subis (à 25 %)",
+        "Steigert Verringerung von mag. Schaden (auf 25%)",
+        "Aumenta la reducción de daño mágico (a un 25%)"
+    ],
+    "227658002": [
+        "Boosts increase to parameters when setting an esper (to 30%)<br>Boosts evocation damage for Bahamut (75%)",
+        "提高設定幻獸時的狀態數值增加量(至30%)<br>提高「巴哈姆特」召喚魔法的威力(75%)",
+        "환수 장착 시 반영되는 능력치 상승량 상승(30%)<br>'바하무트' 소환 마법 사용 시 피해량 상승(75%)",
+        "Amplifie l'augmentation des caractéristiques quand une chimère est attribuée (à 30 %)<br>Augmente les dégâts d'appel de Bahamut (75 %)",
+        "Steigert Werteerhöhungen beim Festlegen von Espern (auf 30%)<br>Erhöht Rufen-Schaden von Bahamut (75%)",
+        "Mayor aumento de los parámetros al vincular un esper (a un 30%)<br>Aumenta el daño de invocación de Bahamut (un 75%)"
+    ],
+    "227661002": [
+        "Adds holy mind to the specific abilities that can be used twice in one turn",
+        "將「精神聖域」增加至1回合內可使用2次的能力列表中",
+        "1턴 동안 2회 사용 가능한 특정 어빌리티에 '성스러운 축복' 추가",
+        "Ajoute Saint Esprit aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour",
+        "Fügt \"Heiliger Geist\" den bestimmten Fertigkeiten hinzu, die zweimal in einer Runde eingesetzt werden können",
+        "Añade Mente sagrada a las habilidades que pueden usarse 2 veces en un turno"
+    ],
+    "227663002": [
+        "Boosts damage amount (to 3250%)<br>Reduces cooldown time (to one use every 5 turns)",
+        "提高傷害量(至3250%)<br>減少冷卻時間(減少至每5回合可使用1次)",
+        "피해량 상승(3250%)<br>재사용 대기 시간 감소(5턴에 1회 사용 가능)",
+        "Augmente les dégâts infligés (à 3 250 %)<br>Réduit le nombre de tours avant réutilisation (à une fois tous les 5 tours)",
+        "Erhöht Schaden (auf 3250%)<br>Verringert Abklingdauer (auf eine Benutzung alle 5 Runden)",
+        "Aumenta el daño (a un 3250%)<br>Reduce el tiempo de espera (a un uso cada 5 turnos)"
+    ],
     "227960002": [
         "Boosts damage amount (great)",
         "提高傷害量(特大)",
@@ -5055,13 +5119,293 @@
         "Erhöht ANG",
         "Aumenta el ATQ"
     ],
+    "228081002": [
+        "Boosts damage amount (to 450%)",
+        "提高傷害量(至450%)",
+        "피해량 상승(450%)",
+        "Augmente les dégâts infligés (à 450 %)",
+        "Erhöht Schaden (auf 450%)",
+        "Aumenta el daño (a un 450%)"
+    ],
+    "228082002": [
+        "Boosts fire resistance reduction (to 105%)<br>Boosts turns in effect (to 4 turns)<br>Increases MP consumed (to 110)",
+        "提高火屬性耐性減少量(至105%)<br>提高效果回合數(至4回合)<br>增加MP消耗(至110)",
+        "불속성 저항력 감소량 상승(105%)<br>효과 턴 수 상승(4턴)<br>소비 MP 증가(110)",
+        "Amplifie la réduction de la résistance au feu (à 105 %)<br>Augmente le nombre de tours des effets (à 4 tours)<br>Augmente les PM consommés (à 110)",
+        "Steigert Feuerresistenz-Verringerung (auf 105%)<br>Erhöht Anzahl aktiver Runden (auf 4 Runden)<br>Erhöht MP-Verbrauch (auf 110)",
+        "Mayor reducción de resistencia al fuego (a un 105%)<br>Aumenta la duración (a 4 turnos)<br>Aumenta el consumo de PM (a 110)"
+    ],
+    "228083002": [
+        "Boosts ice resistance reduction (to 105%)<br>Boosts turns in effect (to 4 turns)<br>Increases MP consumed (to 110)",
+        "提高冰屬性耐性減少量(至105%)<br>提高效果回合數(至4回合)<br>增加MP消耗(至110)",
+        "얼음속성 저항력 감소량 상승(105%)<br>효과 턴 수 상승(4턴)<br>소비 MP 증가(110)",
+        "Amplifie la réduction de la résistance à la glace (à 105 %)<br>Augmente le nombre de tours des effets (à 4 tours)<br>Augmente les PM consommés (à 110)",
+        "Steigert Eisresistenz-Verringerung (auf 105%)<br>Erhöht Anzahl aktiver Runden (auf 4 Runden)<br>Erhöht MP-Verbrauch (auf 110)",
+        "Mayor reducción de resistencia al hielo (a un 105%)<br>Aumenta la duración (a 4 turnos)<br>Aumenta el consumo de PM (a 110)"
+    ],
+    "228085002": [
+        "Boosts equipment ATK when armed with two one-handed weapons (10%)",
+        "裝備2把單手武器時武具攻擊提升(10%)",
+        "한손용 무기 2개 장착 시 장비의 공격력 상승(10%)",
+        "Augmente l'ATT de l'équipement lorsque deux armes à une main sont équipées (10 %)",
+        "Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet (10%)",
+        "Aumenta el ATQ del equipo al llevar 2 armas de una sola mano (un 10%)"
+    ],
+    "228086002": [
+        "Boosts ATK (25%)",
+        "提高攻擊(25%)",
+        "공격력 상승(25%)",
+        "Augmente l'ATT (25 %)",
+        "Erhöht ANG (25%)",
+        "Aumenta el ATQ (un 25%)"
+    ],
     "228090002": [
         "Reduces LB gauge consumed (to 1500)",
         "減少極限技槽消耗(至1500)",
         "소비 LB 게이지 감소(1500)",
         "Réduit la consommation de la jauge de limite (à 1500)",
-        "Verringert Limitmeter-Verbrauch (auf 15)",
+        "Verringert Limitmeter-Verbrauch (auf 1500)",
         "Reduce el consumo de la barra de EL (a 1500)"
+    ],
+    "228400002": [
+        "Boosts own DEF and SPR (130%) for 3 turns<br>Boosts turns in effect for physical attack evasion of gorgeous pose (to 2 turns)",
+        "3回合內提高自身的防禦精神(130%)<br>提高「俊美姿勢」閃避物理攻擊的效果回合數(至2回合)",
+        "3턴 동안 자신의 방어력과 정신력 상승(130%)<br>'뷰티풀 포즈'의 물리 공격 회피 효과 턴 수 상승(2턴)",
+        "Augmente la DEF et la PSY du lanceur (130 %) pendant 3 tours<br>Augmente le nombre de tours de l'effet esquivant les attaques physiques de Pose distinguée (à 2 tours)",
+        "Erhöht ABW und PSY des Benutzers (130%) für 3 Runden<br>Erhöht Anzahl aktiver Runden für Ausweichen physischer Angriffe durch Herrliche Haltung (auf 2 Runden)",
+        "Aumenta el ATQ y el ESP propios (un 130%) durante 3 turnos<br>Aumenta la duración de la evasión de ataques físicos de Postura divina (a 2 turnos)"
+    ],
+    "228401002": [
+        "Boosts own DEF (130%) for 3 turns",
+        "3回合內提高自身的防禦(130%)",
+        "3턴 동안 자신의 방어력 상승(130%)",
+        "Augmente la DEF du lanceur (130 %) pendant 3 tours",
+        "Erhöht ABW des Benutzers (130%) für 3 Runden",
+        "Aumenta la DEF propia (un 130%) durante 3 turnos"
+    ],
+    "228404002": [
+        "Boosts damage amount (to 450%)<br>Boosts ATK, DEF, MAG, and SPR reductions (to 55%)",
+        "提高傷害量(至450%)<br>提高攻擊防禦魔力精神減少量(至55%)",
+        "피해량 상승(450%)<br>공격력, 방어력, 마력, 정신력 감소량 상승(55%)",
+        "Augmente les dégâts infligés (à 450 %)<br>Amplifie la réduction de l'ATT, la DEF, la MAGIE et la PSY (à 55 %)",
+        "Erhöht Schaden (auf 450%)<br>Erhöht ANG-, ABW-, MAG- und PSY-Verringerungen (auf 55%)",
+        "Aumenta el daño (a un 450%)<br>Aumenta las reducciones de ATQ, DEF, MAG y ESP (a un 55%)"
+    ],
+    "228405002": [
+        "Boosts own SPR (130%) for 3 turns",
+        "3回合內提高自身的精神(130%)",
+        "3턴 동안 자신의 정신력 상승(130%)",
+        "Augmente la PSY du lanceur (130 %) pendant 3 tours",
+        "Erhöht ABW des Benutzers (130%) für 3 Runden",
+        "Aumenta el ESP propio (un 130%) durante 3 turnos"
+    ],
+    "228407002": [
+        "Boosts damage amount (to 400%)",
+        "提高傷害量(至400%)",
+        "피해량 상승(400%)",
+        "Augmente les dégâts infligés (à 400 %)",
+        "Erhöht Schaden (auf 400%)",
+        "Aumenta el daño (a un 400%)"
+    ],
+    "228409002": [
+        "Boosts chance of activation (to 75%)",
+        "提高發動機率(至75%)",
+        "발동 확률 상승(75%)",
+        "Augmente les chances d'activation (à 75 %)",
+        "Erhöht Chance auf Aktivierung (auf 75%)",
+        "Aumenta la probabilidad de éxito (a un 75%)"
+    ],
+    "228410002": [
+        "Boosts DEF and SPR increases (to 40%)",
+        "提高防禦精神增加量(至40%)",
+        "방어력과 정신력 상승량 상승(40%)",
+        "Amplifie l'augmentation de la DEF et de la PSY (à 40 %)",
+        "Steigert ABW- und PSY-Erhöhungen (auf 40%)",
+        "Mayor aumento de DEF y ESP (a un 40%)"
+    ],
+    "228412002": [
+        "Boosts DEF (25%) when equipped with a light shield<br>Boosts SPR (25%) when equipped with a heavy shield",
+        "裝備輕盾時提高防禦(25%)<br>裝備重盾時提高精神(25%)",
+        "경방패 장착 시 방어력 상승(25%)<br>중방패 장착 시 정신력 상승(25%)",
+        "Augmente la DEF (25 %) lorsqu'un bouclier léger est équipé<br>Augmente la PSY (25 %) lorsqu'un bouclier lourd est équipé",
+        "Erhöht ABW (25%), wenn mit einem leichten Schild ausgerüstet<br>Erhöht PSY (25%), wenn mit einem schweren Schild ausgerüstet",
+        "Aumenta la DEF (un 25%) al llevar escudo ligero<br>Aumenta el ESP (un 25%) al llevar escudo pesado"
+    ],
+    "228414002": [
+        "Boosts chance of escaping death when HP is above a certain point (to 75%)",
+        "HP高於一定量時一定機率避免陷入無法戰鬥狀態(至75%)",
+        "HP가 일정량 이상일 때 전투불능 상태를 견딜 확률 상승(75%",
+        "Augmente les chances d'éviter de tomber KO lorsque les PV sont au-dessus d'un certain seuil (à 75 %)",
+        "Erhöht Chance, dem Tod zu entkommen, wenn sich LP über einem gewissen Wert befinden (auf 75%)",
+        "Mayor probabilidad de evitar quedar K.O. si la VIT está por encima de cierto nivel (a un 75%)"
+    ],
+    "228415002": [
+        "Boosts DEF (15%) when equipped with light armor<br>Boosts SPR (15%) when equipped with heavy armor",
+        "裝備輕鎧甲時提高防禦(15%)<br>裝備重鎧甲時提高精神(15%)",
+        "경갑 장착 시 방어력 상승(15%)<br>중갑 장착 시 정신력 상승(15%)",
+        "Augmente la DEF (15 %) lorsqu'une armure légère est équipée<br>Augmente la PSY (15 %) lorsqu'une armure lourde est équipée",
+        "Erhöht ABW (15%), wenn mit leichter Rüstung ausgerüstet<br>Erhöht PSY (15%), wenn mit schwerer Rüstung ausgerüstet",
+        "Aumenta la DEF (un 15%) al llevar armadura ligera<br>Aumenta el ESP (un 15%) al llevar armadura pesada"
+    ],
+    "228417002": [
+        "Increases hit count (to 10)",
+        "提高攻擊次數(至10)",
+        "히트 수 상승(10)",
+        "Augmente le nombre de coups (à 10)",
+        "Erhöht Trefferzahl (auf 10)",
+        "Mayor número de golpes (a 10)"
+    ],
+    "228621002": [
+        "Reduces LB gauge consumed (to 300)",
+        "減少極限技槽消耗(至300)",
+        "소비 LB 게이지 감소(300)",
+        "Réduit la consommation de la jauge de limite (à 300)",
+        "Verringert Limitmeter-Verbrauch (auf 300)",
+        "Reduce el consumo de la barra de EL (a 300)"
+    ],
+    "228626002": [
+        "Reduces MP consumed (to 58)",
+        "減少MP消耗(至58)",
+        "소비 MP 감소(58)",
+        "Réduit les PM consommés (à 58)",
+        "Verringert MP-Verbrauch (auf 58)",
+        "Reduce el consumo de PM (a 58)"
+    ],
+    "228627002": [
+        "Reduces MP consumed (to 58)",
+        "減少MP消耗(至58)",
+        "소비 MP 감소(58)",
+        "Réduit les PM consommés (à 58)",
+        "Verringert MP-Verbrauch (auf 58)",
+        "Reduce el consumo de PM (a 58)"
+    ],
+    "228628002": [
+        "Boosts physical damage reduction (to 25%)",
+        "提高物理傷害減少量(至25%)",
+        "물리 피해 감소량 상승(25%)",
+        "Amplifie la réduction des dégâts physiques subis (à 25 %)",
+        "Steigert Verringerung von phys. Schaden (auf 25%)",
+        "Aumenta la reducción de daño físico (a un 25%)"
+    ],
+    "228629002": [
+        "Boosts magic damage reduction (to 25%)",
+        "提高魔法傷害減少量(至25%)",
+        "마법 피해 감소량 상승(25%)",
+        "Amplifie la réduction des dégâts magiques subis (à 25 %)",
+        "Steigert Verringerung von mag. Schaden (auf 25%)",
+        "Aumenta la reducción de daño mágico (a un 25%)"
+    ],
+    "228630002": [
+        "Boosts damage reduction (to 30%)",
+        "提高傷害減少量(至30%)",
+        "피해 감소량 상승(30%)",
+        "Amplifie la réduction des dégâts (à 30 %)",
+        "Steigert Schadensverringerung (auf 30%)",
+        "Mayor reducción de daño (a un 30%)"
+    ],
+    "228633002": [
+        "Boosts SPR increase (to 75%)",
+        "提高精神增加量(至75%)",
+        "정신력 상승량 상승(75%)",
+        "Amplifie l'augmentation de la PSY (à 75 %)",
+        "Steigert PSY-Erhöhung (auf 75%)",
+        "Mayor aumento de ESP (a un 75%)"
+    ],
+    "228634002": [
+        "Boosts chance of activation (to 30%)",
+        "提高發動機率(至30%)",
+        "발동 확률 상승(30%)",
+        "Augmente les chances d'activation (à 30 %)",
+        "Erhöht Chance auf Aktivierung (auf 30%)",
+        "Aumenta la probabilidad de éxito (a un 30%)"
+    ],
+    "228961002": [
+        "Boosts damage amount (to 350%)<br>Boosts fire resistance reduction (to 100%)<br>Boosts turns in effect (to 5 turns)",
+        "提高傷害量(至350%)<br>提高火屬性耐性減少量(至100%)<br>提高效果回合數(至5回合)",
+        "피해량 상승(350%)<br>불속성 저항력 감소량 상승(100%)<br>효과 턴 수 상승(5턴)",
+        "Augmente les dégâts infligés (à 350 %)<br>Amplifie la réduction de la résistance au feu (à 100 %)<br>Augmente le nombre de tours des effets (à 5 tours)",
+        "Erhöht Schaden (auf 350%)<br>Steigert Feuerresistenz-Verringerung (auf 100%)<br>Erhöht Anzahl aktiver Runden (auf 5 Runden)",
+        "Aumenta el daño (a un 350%)<br>Mayor reducción de resistencia al fuego (a un 100%)<br>Aumenta la duración (a 5 turnos)"
+    ],
+    "228965002": [
+        "Boosts damage amount (to 850%)<br>Reduces MP consumed (to 52)",
+        "提高傷害量(至850%)<br>減少MP消耗(至52)",
+        "피해량 상승(850%)<br>소비 MP 감소(52)",
+        "Augmente les dégâts infligés (à 850 %)<br>Réduit les PM consommés (à 52)",
+        "Erhöht Schaden (auf 850%)<br>Verringert MP-Verbrauch (auf 52)",
+        "Aumenta el daño (a un 850%)<br>Reduce el consumo de PM (a 52)"
+    ],
+    "228966002": [
+        "Boosts damage amount (to 725%)<br>Boosts LB gauge increase (to 1300)<br>Boosts own LB damage for one turn (25%)",
+        "提高傷害量(至725%)<br>提高極限技槽增加量(至1300)<br>1回合內提高自身的極限技傷害(25%)",
+        "피해량 상승(725%)<br>LB 게이지 증가량 상승(1300)<br>1턴 동안 자신의 LB 피해량 상승(25%)",
+        "Augmente les dégâts infligés (à 725 %)<br>Amplifie l'augmentation de la jauge de limite (à 1 300)<br>Augmente les dégâts de la limite du lanceur pendant un tour (25 %)",
+        "Erhöht Schaden (auf 725%)<br>Steigert Erhöhung der Limitmeterfüllung (auf 1300)<br>Erhöht Schaden durch Limitrausch für Benutzer für eine Runde (25%)",
+        "Aumenta el daño (a un 725%)<br>Mayor aumento de la barra de EL (a 1300)<br>Aumenta el daño del EL propio durante un turno (un 25%)"
+    ],
+    "228969002": [
+        "Boosts ATK and MAG increases (to 150%)<br>Boosts chance of adding fire element to physical attack for all allies (to 75%)<br>Increases MP consumed (to 75)<br>Increases LB gauge consumed (to 700)",
+        "提高攻擊魔力增加量(至150%)<br>提高將全體隊員的物理攻擊賦予火屬性的機率(至75%)<br>增加MP消耗(至75)<br>增加極限技槽消耗(至700)",
+        "공격력과 마력 상승량 상승(150%)<br>아군 전체의 물리 공격에 불속성 부여 확률 상승(75%)<br>소비 MP 증가(75)<br>소비 LB 게이지 증가(700)",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (à 150 %)<br>Augmente les chances d'ajouter l'élément feu aux attaques physiques de tous les alliés (à 75 %)<br>Augmente les PM consommés (à 75)<br>Augmente la consommation de la jauge de limite (à 700)",
+        "Steigert ANG- und MAG-Erhöhungen (auf 150%)<br>Erhöht Chance, physischen Angriffen aller Verbündeter Feuerelement hinzuzufügen (auf 75%)<br>Erhöht MP-Verbrauch (auf 75)<br>Erhöht Verbrauch von Limitmeter (auf 700)",
+        "Mayor aumento de ATQ y MAG (a un 150%)<br>Aumenta la probabilidad de añadir elemento fuego a los ataques físicos de todos los aliados (a un 75%)<br>Aumenta el consumo de PM (a 75)<br>Aumenta el consumo de la barra de EL (a 700)"
+    ],
+    "228971002": [
+        "Boosts DEF and SPR increases (to 150%)",
+        "提高防禦精神增加量(至150%)",
+        "방어력과 정신력 상승량 상승(150%)",
+        "Amplifie l'augmentation de la DEF et de la PSY (à 150 %)",
+        "Steigert ABW- und PSY-Erhöhungen (auf 150%)",
+        "Mayor aumento de la DEF y el ESP (a un 150%)"
+    ],
+    "229273002": [
+        "Boosts damage amount (to 2500%)",
+        "提高傷害量(至2500%)",
+        "피해량 상승(2500%)",
+        "Augmente les dégâts infligés (à 2 500 %)",
+        "Erhöht Schaden (auf 2500%)",
+        "Aumenta el daño (a un 2500%)"
+    ],
+    "229278002": [
+        "Boosts number of times physical attacks can be evaded (to 2)<br>Boosts turns in effect (to 2 turns)",
+        "提高可閃避物理攻擊的次數(至2)<br>提高效果回合數(至2回合)",
+        "물리 공격 회피 횟수 상승(2)<br>효과 턴 수 상승(2턴)",
+        "Augmente le nombre de fois qu'une attaque physique peut être esquivée (à 2)<br>Augmente le nombre de tours des effets (à 2 tours)",
+        "Erhöht Anzahl des möglichen Ausweichens von physischen Angriffen (auf 2)<br>Erhöht Anzahl aktiver Runden (auf 2 Runden)",
+        "Aumenta el nímero de veces que se pueden evadir ataques físicos (a 2)</color><br>Aumenta la duración (a 2 turnos)"
+    ],
+    "229279002": [
+        "Boosts increase to damage for jump attacks (to 175%)",
+        "提高跳躍系能力的傷害增加量(至175%)",
+        "점프 계열 어빌리티 피해 상승량 상승(175%)",
+        "Amplifie l'augmentation des dégâts des attaques sautées (à 175 %)",
+        "Steigert Schadenserhöhung von Sprungangriffen (auf 175%)",
+        "Mayor aumento de daño de los ataques de salto (a un 175%)"
+    ],
+    "229280002": [
+        "Boosts equipment ATK increase (to 75%)",
+        "提高武具攻擊增加量(至75%)",
+        "장비의 공격력 상승량 상승(75%)",
+        "Amplifie l'augmentation de l'ATT de l'équipement (à 75 %)",
+        "Steigert Erhöhung von Ausrüstung-ANG (auf 75%)",
+        "Mayor aumento de ATQ del equipo (a un 75%)"
+    ],
+    "229282002": [
+        "Boosts physical damage against beasts (50%)",
+        "物理攻擊時提高對獸系魔物的傷害(50%)",
+        "물리 공격 시 야수형 마물에게 부여하는 피해량 상승(50%)",
+        "Augmente les dégâts physiques infligés aux bêtes (50 %)",
+        "Erhöht physischen Schaden gegen Bestien (50%)",
+        "Aumenta el daño físico contra bestias (un 50%)"
+    ],
+    "229283002": [
+        "Boosts ATK increase (to 50%)<br>Boosts LB damage increase (to 50%)",
+        "提高攻擊增加量(至50%)<br>提高極限技傷害增加量(至50%)",
+        "공격력 상승량 상승(50%)<br>LB 게이지 증가량 상승(50%)",
+        "Amplifie l'augmentation de l'ATT (à 50 %)<br>Amplifie l'augmentation des dégâts de la limite (à 50 %)",
+        "Steigert ANG-Erhöhung (auf 50%)<br>Steigert Erhöhung von Schaden durch Limitrausch (auf 50%)",
+        "Mayor aumento de ATQ (a un 50%)<br>Mayor aumento de daño del EL (a un 50%)"
     ],
     "301301002": [
         "Boosts lightning resistance (mid)",
