@@ -11708,7 +11708,7 @@
         "聖大天使降臨",
         "완전무결의 성대천사",
         "L'archange sacré",
-        "Der Hohe Seraph",
+        "Cherub Ultima",
         "El arcángel sagrado"
     ],
     "7330100": [
@@ -32143,6 +32143,22 @@
         "Schloss Exdeath - LEG",
         "Castillo Exdeath - LGD"
     ],
+    "8600101": [
+        "Castle Exdeath - Exploration (HARD)",
+        "艾克斯迪司城·探索(HARD)",
+        "엑스데스 성·탐색(HARD)",
+        "Château d'Exdeath - Exploration (DIFFICILE)",
+        "Schloss Exdeath - Erkundung (SCHWER)",
+        "Castillo Exdeath - Exploración (DIFÍCIL)"
+    ],
+    "8600102": [
+        "Castle Exdeath - Exploration (EASY)",
+        "艾克斯迪司城·探索(EASY)",
+        "엑스데스 성·탐색(EASY)",
+        "Château d'Exdeath - Exploration (FACILE)",
+        "Schloss Exdeath - Erkundung (LEICHT)",
+        "Castillo Exdeath - Exploración (FÁCIL)"
+    ],
     "8620101": [
         "Heartless: Guard Armor - INT",
         "無心者：防護鐵甲・中級",
@@ -34823,6 +34839,14 @@
         "Gewölbe der verborgenen Schätze",
         "Cámara de los Tesoros Escondidos"
     ],
+    "9020101": [
+        "Lightning Attack Challenge - BGN",
+        "攻雷的挑戰·初級",
+        "공뢰의 도전·초급",
+        "Défi de l'attaque éclair - DBT",
+        "Herausforderung des Blitzangriffs - ANF",
+        "Desafío de ataque de rayo - PRI"
+    ],
     "9020102": [
         "Lightning Attack Challenge - INT",
         "攻雷的挑戰·中級",
@@ -34863,6 +34887,14 @@
         "Herausforderung des Blitzangriffs - LGD",
         "Desafío de ataque de rayo - LGD"
     ],
+    "9020107": [
+        "Earth Attack Challenge - BGN",
+        "攻土的挑戰·初級",
+        "공토의 도전·초급",
+        "Défi de l'attaque de terre - DBT",
+        "Herausforderung des Erdangriffs - ANF",
+        "Desafío de ataque de tierra - PRI"
+    ],
     "9020108": [
         "Earth Attack Challenge - INT",
         "攻土的挑戰·中級",
@@ -34902,6 +34934,14 @@
         "Défi de l'attaque de terre - LGD",
         "Herausforderung des Erdangriffs - LGD",
         "Desafío de ataque de tierra - LGD"
+    ],
+    "9030101": [
+        "Magic Ice Challenge - BGN",
+        "魔冰的挑戰·初級",
+        "마빙의 도전·초급",
+        "Défi des glaces magiques - DBT",
+        "Herausforderung der Eismagie - ANF",
+        "Desafío de hielo mágico - PRI"
     ],
     "9030102": [
         "Magic Ice Challenge - INT",
@@ -34983,6 +35023,14 @@
         "Herausforderung der Windmagie - LGD",
         "Desafío de viento mágico - LGD"
     ],
+    "9040101": [
+        "Water Attack Challenge - BGN",
+        "攻水的挑戰·初級",
+        "공수의 도전·초급",
+        "Défi de l'attaque aquatique - DBT",
+        "Herausforderung des Wasserangriffs - ANF",
+        "Desafío de ataque de agua - PRI"
+    ],
     "9040102": [
         "Water Attack Challenge - INT",
         "攻水的挑戰·中級",
@@ -35063,6 +35111,14 @@
         "Herausforderung des Eisangriffs - LGD",
         "Desafío de hielo mágico - LGD"
     ],
+    "9050101": [
+        "Magic Fire Challenge - BGN",
+        "魔火的挑戰·初級",
+        "마화의 도전·초급",
+        "Défi de la magie de feu - DBT",
+        "Herausforderung der Feuermagie - ANF",
+        "Desafío de fuego mágico - PRI"
+    ],
     "9050102": [
         "Magic Fire Challenge - INT",
         "魔火的挑戰·中級",
@@ -35102,6 +35158,54 @@
         "Défi de la magie de feu - LGD",
         "Herausforderung der Feuermagie - LGD",
         "Desafío de fuego mágico - LGD"
+    ],
+    "9050107": [
+        "Magic Earth Challenge - BGN",
+        "魔土的挑戰·初級",
+        "마토의 도전·초급",
+        "Défi magique de terre - DBT",
+        "Magische Erd-Herausforderung - ANF",
+        "Desafío de tierra mágica - PRI"
+    ],
+    "9050108": [
+        "Magic Earth Challenge - INT",
+        "魔土的挑戰·中級",
+        "마토의 도전·중급",
+        "Défi magique de terre - INT",
+        "Magische Erd-Herausforderung - FOR",
+        "Desafío de tierra mágica - INT"
+    ],
+    "9050109": [
+        "Magic Earth Challenge - ADV",
+        "魔土的挑戰·上級",
+        "마토의 도전·상급",
+        "Défi magique de terre - PRO",
+        "Magische Erd-Herausforderung - EXP",
+        "Desafío de tierra mágica - AVA"
+    ],
+    "9050110": [
+        "Magic Earth Challenge - PRO",
+        "魔土的挑戰·超級",
+        "마토의 도전·최상급",
+        "Défi magique de terre - SUP",
+        "Magische Erd-Herausforderung - PRO",
+        "Desafío de tierra mágica - PRO"
+    ],
+    "9050111": [
+        "Magic Earth Challenge - ELT",
+        "魔土的挑戰·覺醒級",
+        "마토의 도전·각성급",
+        "Défi magique de terre - EX!",
+        "Magische Erd-Herausforderung - ELI",
+        "Desafío de tierra mágica - ÉLI"
+    ],
+    "9050112": [
+        "Magic Earth Challenge - LGD",
+        "魔土的挑戰·魔人級",
+        "마토의 도전·마인급",
+        "Défi magique de terre - LGD",
+        "Magische Erd-Herausforderung - LGD",
+        "Desafío de tierra mágica - LGD"
     ],
     "9091101": [
         "Neo Exdeath",
@@ -36982,6 +37086,46 @@
         "Défilé des démons",
         "Nachtumzug der Dämonen",
         "La marcha de los demonios"
+    ],
+    "9810101": [
+        "Rats from the Gutters",
+        "地下蠢動的老鼠們",
+        "지하에서 튀어나온 생쥐들",
+        "Rats d'égout",
+        "Ratten aus der Kanalisation",
+        "Ratas de alcantarilla"
+    ],
+    "9810102": [
+        "The High Seraph",
+        "聖大天使降臨",
+        "완전무결의 성대천사",
+        "L'archange sacré",
+        "Cherub Ultima",
+        "El arcángel sagrado"
+    ],
+    "9810103": [
+        "Hein the Mage",
+        "魔道師海因",
+        "마도사, 하인",
+        "Hein, le mage",
+        "Hein der Magier",
+        "Hein el mago"
+    ],
+    "9810104": [
+        "The Wicked Beast Cerberus",
+        "猛獸地獄三頭犬",
+        "흉악한 마수 케르베로스",
+        "Cerbère, la créature enragée",
+        "Teufelsbestie Cerberus",
+        "Cerbero, la bestia temible"
+    ],
+    "9810105": [
+        "Fort Vaullerey - Battle with Aranea",
+        "沃拉雷基地・艾拉妮亞戰",
+        "볼라레 기지·아라네아 전",
+        "Fort Vaullerey - Face à Aranea",
+        "Vaullerey-Basis - Kampf mit Aranea",
+        "Base de Vaullerey - Combate contra Aranea"
     ],
     "11110101": [
         "Aldore Tower - Lower Levels",
