@@ -3056,12 +3056,12 @@
         "MAG"
     ],
     "EQUIP_ITEM_COND_LIMIT_OWNER_FORMAT": [
-        "Exclusive to <case=lower>equip_cond</case>",
+        "Exclusive to equip_cond",
         "equip_cond專屬裝備",
         "equip_cond 전용 장비",
-        "Exclusif à <case=lower>equip_cond</case>",
-        "Exklusiv für <case=lower>equip_cond</case>",
-        "Exclusivo de <case=lower>equip_cond</case>"
+        "Exclusif à equip_cond",
+        "Exklusiv für equip_cond",
+        "Exclusivo de equip_cond"
     ],
     "EQUIP_ITEM_COND_MAN": [
         "Males",
@@ -5374,14 +5374,6 @@
         "Plus que <param=num>/<param=max>",
         "<param=num>/<param=max> übrig",
         "Queda <param=num>/<param=max>"
-    ],
-    "GACHA_DETAIL_LIMIT_END": [
-        "Until 23:59 PST",
-        "至 15:59 (台灣時間)為止",
-        "16:59(한국시간)까지",
-        "Jusqu'à 08:59 CET",
-        "Bis 08:59 MEZ",
-        "Plazo: 08:59 (CET)"
     ],
     "GACHA_DETAIL_LIMIT_SPAN": [
         "<param=startday> to <param=endday>",
@@ -10295,6 +10287,14 @@
         "Vielen Dank, dass du das 30-Tage-Loginpaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
         "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
     ],
+    "MST_BUNDLE_MESSAGE_1233": [
+        "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
+        "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
+        "30일 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
+        "Merci d'avoir acheté le lot des 30 jours de connexion ! Vous avez reçu les récompenses suivantes pour le jour n°%s :",
+        "Vielen Dank, dass du das 30-Tage-Loginpaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
+        "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
+    ],
     "MST_BUNDLE_MESSAGE_688": [
         "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
         "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
@@ -11982,6 +11982,22 @@
         "40 M de téléchargements, 1re partie",
         "40 Mio. Downloads Feieraufträge Teil 1",
         "Misiones de los 40M de descargas (parte 1)"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990031": [
+        "Katy's Limited-Time Quests",
+        "凱蒂的期間限定任務",
+        "케이티의 기간 한정 퀘스트",
+        "Quêtes à durée limitée de Katy",
+        "Katys zeitbegrenzte Aufträge",
+        "Misiones de tiempo limitado de Katy"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990041": [
+        "40M DL Celebration Quests Pt. 2",
+        "4000萬下載慶祝任務 第2階段",
+        "4천만 다운로드 기념 퀘스트 2부",
+        "40 M de téléchargements, 2e partie",
+        "40 Mio. DL Feieraufträge Teil 2",
+        "Misiones de los 40M de descargas (parte 2)"
     ],
     "MST_STORY_NAME_1": [
         "Grandshelt Isles",
