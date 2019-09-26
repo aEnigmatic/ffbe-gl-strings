@@ -7610,7 +7610,7 @@
     "211000806": [
         "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 2 turns",
         "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+2回合內可使用「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
-        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+1턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
+        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+2턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
         "Inflige des dégâts magiques en partie fixes, réduit la résistance feu, glace, foudre, eau, vent et terre d'un ennemi et permet de lancer OmniFeu V, OmniGlace V, OmniFoudre V, OmniEau V, OmniVent V, OmniPierre V pendant 2 tours",
         "Fügt einem Gegner teilweise direkten magischen Schaden zu und reduziert seine Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und ermöglicht Feuga V, Eisga V, Blitzga V, Aquaga V, Aeroga V und Steinga V für 2 Runden.",
         "Daño que ignora parcialmente la DEF de un enemigo, reduce su resistencia al fuego, hielo, rayo, agua, viento y tierra, y aprende Piedra++ V, Aqua++ V, Aero++ V, Piro++ V, Hielo++ V y Electro++ V durante 2 turnos"
@@ -7618,7 +7618,7 @@
     "211000807": [
         "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 3 turns",
         "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+3回合內可使用「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
-        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+1턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
+        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+3턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
         "Inflige des dégâts magiques en partie fixes, réduit la résistance feu, glace, foudre, eau, vent et terre d'un ennemi et permet de lancer OmniFeu V, OmniGlace V, OmniFoudre V, OmniEau V, OmniVent V, OmniPierre V pendant 3 tours",
         "Fügt einem Gegner teilweise direkten magischen Schaden zu und reduziert seine Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und ermöglicht Feuga V, Eisga V, Blitzga V, Aquaga V, Aeroga V und Steinga V für 3 Runden.",
         "Daño que ignora parcialmente la DEF de un enemigo, reduce su resistencia al fuego, hielo, rayo, agua, viento y tierra, y aprende Piedra++ V, Aqua++ V, Aero++ V, Piro++ V, Hielo++ V y Electro++ V durante 3 turnos"
@@ -11254,6 +11254,126 @@
         "Inflige des dégâts en partie fixes à tous les ennemis, réduit leur résistance aux ténèbres et permet d'utiliser Triple commande pendant 4 tours",
         "Fügt allen Gegnern teilweise direkten Schaden zu, verringert ihre Dunkelresistenz und ermöglicht 4 Runden lang Dreifachkommando.",
         "Daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia a la oscuridad, y aprende Comando triple durante 4 turnos"
+    ],
+    "337000105": [
+        "Deal partial unmitigated damage to all enemies and enable threepeat performance for two turns",
+        "對全體隊員發動無視部分防禦的攻擊+2回合內可使用「3回行動」",
+        "적 전체에 일부 방어 무시 피해+ 2턴 동안 '3회 행동' 사용 가능",
+        "Inflige des dégâts en partie fixes à tous les ennemis et permet d'utiliser Performance triple pendant 2 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht Dreifachvorstellung für zwei Runden.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y aprende Ración triple durante 2 turnos"
+    ],
+    "337000106": [
+        "Deal partial unmitigated damage to all enemies and enable threepeat performance for two turns",
+        "對全體隊員發動無視部分防禦的攻擊+2回合內可使用「3回行動」",
+        "적 전체에 일부 방어 무시 피해+ 2턴 동안 '3회 행동' 사용 가능",
+        "Inflige des dégâts en partie fixes à tous les ennemis et permet d'utiliser Performance triple pendant 2 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht Dreifachvorstellung für zwei Runden.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y aprende Ración triple durante 2 turnos"
+    ],
+    "337000107": [
+        "Deal partial unmitigated damage to all enemies and enable threepeat performance for two turns",
+        "對全體隊員發動無視部分防禦的攻擊+2回合內可使用「3回行動」",
+        "적 전체에 일부 방어 무시 피해+ 2턴 동안 '3회 행동' 사용 가능",
+        "Inflige des dégâts en partie fixes à tous les ennemis et permet d'utiliser Performance triple pendant 2 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht Dreifachvorstellung für zwei Runden.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y aprende Ración triple durante 2 turnos"
+    ],
+    "337000205": [
+        "Deal partial unmitigated magic damage to all enemies",
+        "對全體敵人發動無視部分魔法防禦的攻擊",
+        "적 전체에 일부 마법 방어 무시 피해",
+        "Inflige des dégâts magiques en parties fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu.",
+        "Daño mágico que ignora parcialmente la DEF de todos los enemigos"
+    ],
+    "337000206": [
+        "Deal partial unmitigated magic damage to all enemies",
+        "對全體敵人發動無視部分魔法防禦的攻擊",
+        "적 전체에 일부 마법 방어 무시 피해",
+        "Inflige des dégâts magiques en parties fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu.",
+        "Daño mágico que ignora parcialmente la DEF de todos los enemigos"
+    ],
+    "337000207": [
+        "Deal partial unmitigated magic damage to all enemies and boost damage of certain abilities",
+        "對全體敵人發動無視部分魔法防禦的攻擊+提高特定能力的傷害",
+        "적 전체에 일부 마법 방어 무시 피해",
+        "Inflige des dégâts magiques en parties fixes à tous les ennemis et augmente les dégâts de certaines aptitudes",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "Daño mágico que ignora parcialmente la DEF de todos los enemigos"
+    ],
+    "337000305": [
+        "Deal light magic damage to all enemies, gradually restore HP and MP for all allies, and automatically revive all allies one time",
+        "對全體敵人發動光屬性魔法攻擊+持續恢復全體隊員的HPMP+賦予全體隊員進入無法戰鬥狀態時自動復活1次的效果",
+        "적 전체에 빛속성 마법 피해+아군 전체의 HP와 MP 서서히 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige des dégâts magiques de lumière à tous les ennemis, restaure progressivement les PV et PM de tous les alliés, et ranime automatiquement tous les alliés une fois",
+        "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
+        "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez"
+    ],
+    "337000306": [
+        "Deal light magic damage to all enemies, gradually restore HP and MP for all allies, and automatically revive all allies one time",
+        "對全體敵人發動光屬性魔法攻擊+持續恢復全體隊員的HPMP+賦予全體隊員進入無法戰鬥狀態時自動復活1次的效果",
+        "적 전체에 빛속성 마법 피해+아군 전체의 HP와 MP 서서히 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige des dégâts magiques de lumière à tous les ennemis, restaure progressivement les PV et PM de tous les alliés, et ranime automatiquement tous les alliés une fois",
+        "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
+        "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez"
+    ],
+    "337000307": [
+        "Deal light magic damage to all enemies, gradually restore HP and MP for all allies, and automatically revive all allies one time",
+        "對全體敵人發動光屬性魔法攻擊+持續恢復全體隊員的HPMP+賦予全體隊員進入無法戰鬥狀態時自動復活1次的效果",
+        "적 전체에 빛속성 마법 피해+아군 전체의 HP와 MP 서서히 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige des dégâts magiques de lumière à tous les ennemis, restaure progressivement les PV et PM de tous les alliés, et ranime automatiquement tous les alliés une fois",
+        "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
+        "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez"
+    ],
+    "337000505": [
+        "Deal dark magic damage and reduce dark resistance for all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+降低暗屬性耐性",
+        "적 전체에 어둠속성 마법 피해+어둠속성 저항력 감소",
+        "Inflige des dégâts magiques de ténèbres et réduit la résistance aux ténèbres de tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu und reduziert ihre Dunkelresistenz.",
+        "Daño mágico de oscuridad a todos los enemigos y reduce su resistencia a la oscuridad"
+    ],
+    "337000506": [
+        "Deal dark magic damage and reduce dark resistance for all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+降低暗屬性耐性",
+        "적 전체에 어둠속성 마법 피해+어둠속성 저항력 감소",
+        "Inflige des dégâts magiques de ténèbres et réduit la résistance aux ténèbres de tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu und reduziert ihre Dunkelresistenz.",
+        "Daño mágico de oscuridad a todos los enemigos y reduce su resistencia a la oscuridad"
+    ],
+    "337000507": [
+        "Deal dark magic damage and reduce dark resistance for all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+降低暗屬性耐性",
+        "적 전체에 어둠속성 마법 피해+어둠속성 저항력 감소",
+        "Inflige des dégâts magiques de ténèbres et réduit la résistance aux ténèbres de tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu und reduziert ihre Dunkelresistenz.",
+        "Daño mágico de oscuridad a todos los enemigos y reduce su resistencia a la oscuridad"
+    ],
+    "337000704": [
+        "Damage and reduce DEF for all enemies",
+        "攻擊全體敵人+降低防禦",
+        "적 전체에 피해+방어력 감소",
+        "Inflige des dégâts à tous les ennemis et réduit leur DEF",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ABW.",
+        "Daña a todos los enemigos y reduce su DEF"
+    ],
+    "337000705": [
+        "Damage and reduce DEF for all enemies",
+        "攻擊全體敵人+降低防禦",
+        "적 전체에 피해+방어력 감소",
+        "Inflige des dégâts à tous les ennemis et réduit leur DEF",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ABW.",
+        "Daña a todos los enemigos y reduce su DEF"
+    ],
+    "337000706": [
+        "Damage and reduce DEF for all enemies",
+        "攻擊全體敵人+降低防禦",
+        "적 전체에 피해+방어력 감소",
+        "Inflige des dégâts à tous les ennemis et réduit leur DEF",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ABW.",
+        "Daña a todos los enemigos y reduce su DEF"
     ],
     "401000104": [
         "Damage and reduce dark and lightning resistance for all enemies",
