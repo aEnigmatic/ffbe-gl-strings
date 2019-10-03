@@ -172,8 +172,8 @@
         "解除1名敵人的狀態效果",
         "적 1명의 능력치 효과 해제",
         "Retire tous les bonus et malus d'un ennemi",
-        "Entfernt pos. Zustände, ein Ziel",
-        "Elimina todas las mejoras de un enemigo"
+        "Entfernt Statuseffekte eines Gegners.",
+        "Elimina las mejoras y reducciones de estado de un enemigo"
     ],
     "10140": [
         "Cure disease for one ally",
@@ -1831,6 +1831,38 @@
         "Windschaden und reduziert Windresistencia, aller Gegner",
         "Inflige daño de viento a todos los enemigos y reduce la resistencia al viento"
     ],
+    "70444": [
+        "Deal water damage and reduce water resistance for one enemy",
+        "對1名敵人發動水屬性攻擊+降低水屬性耐性",
+        "적 1명에게 물속성 피해+물속성 저항력 감소",
+        "Inflige des dégâts d'eau à un ennemi et réduit sa résistance à l'eau",
+        "Fügt einem Gegner Wasserschaden zu und verringert seine Wasserresistenz.",
+        "Daño de agua a un enemigo y reduce su resistencia al agua"
+    ],
+    "70445": [
+        "Deal water damage two times and reduce water resistance for one enemy",
+        "對1名敵人發動2次水屬性攻擊+降低水屬性耐性",
+        "적 1명에게 2회 물속성 피해+물속성 저항력 감소",
+        "Inflige des dégâts d'eau à un ennemi à 2 reprises et réduit sa résistance à l'eau",
+        "Fügt einem Gegner zweimal Wasserschaden zu und verringert seine Wasserresistenz.",
+        "Daño de agua a un enemigo 2 veces y reduce su resistencia al agua"
+    ],
+    "70446": [
+        "Deal fire damage and reduce fire resistance for one enemy",
+        "對1名敵人發動火屬性攻擊+降低火屬性耐性",
+        "적 1명에게 불속성 피해+불속성 저항력 감소",
+        "Inflige des dégâts de feu à un ennemi et réduit sa résistance au feu",
+        "Fügt einem Gegner Feuerschaden zu und verringert seine Feuerresistenz.",
+        "Daño de fuego a un enemigo y reduce su resistencia al fuego"
+    ],
+    "70447": [
+        "Deal fire damage two times and reduce fire resistance for one enemy",
+        "對1名敵人發動2次火屬性攻擊+降低火屬性耐性",
+        "적 1명에게 2회 불속성 피해+불속성 저항력 감소",
+        "Inflige des dégâts de feu à un ennemi à 2 reprises et réduit sa résistance au feu",
+        "Fügt einem Gegner zweimal Feuerschaden zu und verringert seine Feuerresistenz.",
+        "Daño de fuego 2 veces y reduce la resistencia al fuego de un enemigo"
+    ],
     "91000": [
         "Gradually restore HP for one ally",
         "每回合恢復HP",
@@ -1998,5 +2030,69 @@
         "Restaure les PV de tous les alliés",
         "Heilt LP, alle Verb.",
         "Recupera VIT de todos los aliados"
+    ],
+    "91021": [
+        "Gradually restore HP for one ally",
+        "每回合恢復HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié",
+        "Regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera poco a poco VIT de un aliado"
+    ],
+    "91022": [
+        "Gradually restore HP for one ally",
+        "每回合恢復HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié",
+        "Regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera poco a poco VIT de un aliado"
+    ],
+    "91023": [
+        "Deal earth damage to all enemies two times",
+        "對全體敵人發動2次土屬性攻擊",
+        "적 전체에 2회 땅속성 피해",
+        "Inflige des dégâts de terre à tous les ennemis à 2 reprises",
+        "Fügt allen Gegnern zweimal Erdschaden zu.",
+        "Daño de tierra a todos los enemigos 2 veces"
+    ],
+    "91024": [
+        "Deal water damage to all enemies two times",
+        "對全體敵人發動2次水屬性攻擊",
+        "적 전체에 2회 물속성 피해",
+        "Inflige des dégâts d'eau à tous les ennemis à 2 reprises",
+        "Fügt allen Gegnern zweimal Wasserschaden zu.",
+        "Daño de agua a todos los enemigos 2 veces"
+    ],
+    "91025": [
+        "Deal wind damage to all enemies two times",
+        "對全體敵人發動2次風屬性攻擊",
+        "적 전체에 2회 바람속성 피해",
+        "Inflige des dégâts de vent à tous les ennemis à 2 reprises",
+        "Fügt allen Gegnern zweimal Windschaden zu.",
+        "Daño de viento a todos los enemigos 2 veces"
+    ],
+    "91026": [
+        "Deal fire damage to all enemies two times",
+        "對全體敵人發動2次火屬性攻擊",
+        "적 전체에 2회 불속성 피해",
+        "Inflige des dégâts de feu à tous les ennemis à 2 reprises",
+        "Fügt allen Gegnern zweimal Feuerschaden zu.",
+        "Daño de fuego a todos los enemigos 2 veces"
+    ],
+    "91027": [
+        "Deal ice damage to all enemies two times",
+        "對全體敵人發動2次冰屬性攻擊",
+        "적 전체에 2회 얼음속성 피해",
+        "Inflige des dégâts de glace à tous les ennemis à 2 reprises",
+        "Fügt allen Gegnern zweimal Eisschaden zu.",
+        "Daño de hielo a todos los enemigos 2 veces"
+    ],
+    "91028": [
+        "Deal lightning damage to all enemies two times",
+        "對全體敵人發2次動雷屬性攻擊",
+        "적 전체에 2회 번개속성 피해",
+        "Inflige des dégâts de foudre à tous les ennemis à 2 reprises",
+        "Fügt allen Gegnern zweimal Blitzschaden zu.",
+        "Daño de rayo a todos los enemigos 2 veces"
     ]
 }
