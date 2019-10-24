@@ -5247,6 +5247,46 @@
         "Beschwören",
         "Invocación"
     ],
+    "GACHA_BOX_INT": [
+        "Tier",
+        null,
+        "단계",
+        "Strate",
+        "Rang",
+        "Caja"
+    ],
+    "GACHA_BOX_RESETED": [
+        "Advanced",
+        null,
+        "진행 완료",
+        "Avancé",
+        null,
+        "Avanzar"
+    ],
+    "GACHA_BOX_RESET_FINAL_TEXT": [
+        "Are you sure you want to advance to the next tier?",
+        null,
+        "정말 다음 단계를 진행하시겠습니까?",
+        "Voulez-vous vraiment avancer vers une nouvelle strate ?",
+        null,
+        "¿Estás seguro de que quieres avanzar a la siguiente caja?"
+    ],
+    "GACHA_BOX_RESET_REMAINING_TEXT": [
+        "You cannot return after advancing to the next tier.<br>Would you like to advance to the next tier?",
+        null,
+        "다음 단계로 진행한 후에는 이전 단계로 되돌릴 수 없습니다.<br>다음 단계를 진행하시겠습니까?",
+        "Attention, vous ne pourrez pas revenir en arrière une fois que vous serez passé à la strate supérieure.<br>Voulez-vous procéder ?",
+        null,
+        "Si avanzas a la siguiente caja no podrás retroceder. ¿Quieres continuar?"
+    ],
+    "GACHA_BOX_RESET_TEXT": [
+        "Advancing to the next tier will change to a new box.<br>Would you like to advance to the next tier?",
+        null,
+        "다음 단계로 진행하여 새로운 박스로 변경합니다.<br>다음 단계를 진행하시겠습니까?",
+        "Avancer à la prochaine strate vous fera basculer sur une nouvelle boîte.<br>Voulez-vous procéder ?",
+        null,
+        "Si tocas avanzar, cambiarás a una caja nueva. ¿Quieres continuar?"
+    ],
     "GACHA_CONDUCTOR_TEXT": [
         "Get new units<br>from the summon, kupo!",
         "從召喚<br>獲得新兵員，庫啵！",
@@ -5511,6 +5551,14 @@
         "s",
         "s"
     ],
+    "GACHA_REWARD_DETAIL": [
+        "Box Contents",
+        null,
+        "박스 상세 내용",
+        "Détails de récompense",
+        null,
+        "Detalles de la recompensa"
+    ],
     "GACHA_SCREEN_TIME_COMING_SOON": [
         "Coming soon!",
         "即將登場！",
@@ -5554,7 +5602,7 @@
     "GACHA_SELECT_UNIT_CONFIRM_FINAL": [
         "About to use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=unit_name></color>.<br>Proceed?<br>(Final confirmation)",
         "使用<param=ticket_name> <param=cost>張<br>獲得<color=255:255:0><param=unit_name></color>。<br>確定要獲得嗎？（最終確認）",
-        "<param=ticket_name>을(를) <param=cost>장 사용하여 <br><color=255:255:0><param=unit_name></color>을(를) 획득합니다.<br>정말로 괜찮으시겠습니까?(마지막 확인)",
+        "<param=ticket_name>을(를) <param=cost>장 사용하여 <br><color=255:255:0><param=unit_name></color>을(를) 획득합니다.<br>진행하시겠습니까?(마지막 확인)",
         "Vous êtes sur le point d'utiliser <param=cost> <param=ticket_name> pour obtenir <br>\"<color=255:255:0><param=unit_name></color>\".<br>Confirmer ? (dernière confirmation)",
         "Du wirst <param=cost> <param=ticket_name>(s) benutzen, um<br><color=255:255:0><param=unit_name></color> zu erhalten.<br>Bestätigen?<br>(Endgültige Bestätigung)",
         "Estás a punto de usar <param=cost> <param=ticket_name>(s) para conseguir<br><color=255:255:0><param=unit_name></color>.<br>¿Estás seguro de que quieres continuar?<br>"
@@ -8535,6 +8583,102 @@
         "Seltenes Mogkekse-Paket",
         "Lote de mogupastel"
     ],
+    "MINIGAME_ACHIEVEMENT_REWARD": [
+        "Slots de Chocobo Bonus Reward",
+        "拉霸de陸行鳥額外獎勵",
+        "슬롯 de 초코보 보너스 보상",
+        "Machine à choco-sous : bonus",
+        "Slots de Chocobo Bonusbelohnung",
+        "Casino de Chocobo: Bonificación"
+    ],
+    "MINIGAME_FEATURED_REWARD ": [
+        "Featured Reward",
+        "特色獎勵",
+        "특별 보상",
+        "Récompense du moment",
+        "Aktuelle Belohnung",
+        "Recompensa destacada"
+    ],
+    "MINIGAME_REWARD": [
+        "Slots de Chocobo Reward",
+        "拉霸de陸行鳥獎勵",
+        "슬롯 de 초코보 보상",
+        "Machine à choco-sous : récompense",
+        "Slots de Chocobo Belohnung",
+        "Casino de Chocobo: Recompensa"
+    ],
+    "MINIGAME_SLOT_CONFIRM_PLAY_AGAIN_MSG": [
+        "Rewards have been sent to your Mailbox.<br><br>Try again?<br><br>Spins remaining: <color=252:163:0>%d</color>",
+        "獎勵已經寄送至您的收信箱。<br><br>是否要再玩一次？<br><br>剩餘旋轉次數：<color=252:163:0>%d</color>",
+        "메시지함으로 보상이 지급되었습니다.<br><br>다시 플레이하시겠습니까?<br><br>남은 스핀 횟수:  <color=252:163:0>%d</color>",
+        "Vos récompenses se toruvent dans votre messagerie.<br><br>Essayer encore une fois ?<br><br>Tour(s) restant(s) : <color=252:163:0> %d</color>",
+        "Belohnungen wurden in deinen Posteingang gesendet.<br><br>Noch einmal versuchen?<br><br>Verbleibende Male: <color=252:163:0>%d</color>",
+        "Se han enviado las recompensas a tu buzón.<br><br>¿Quieres jugar otra vez?<br><br>Rondas restantes: <color=252:163:0>%d</color>"
+    ],
+    "MINIGAME_SLOT_CONFIRM_PLAY_MSG": [
+        "Consume token(s) and play minigame?<br><br>Spins remaining: <color=252:163:0>%d</color>",
+        "要花費紀念幣遊玩小遊戲嗎？<br><br>剩餘旋轉次數：<color=252:163:0>%d</color>",
+        "토큰을 소비하여 미니게임을 플레이하시겠습니까?<br><br>남은 스핀 횟수: <color=252:163:0>%d</color>",
+        "Utiliser des jetons et jouer à un minijeu ?<br><br>Tour(s) restant(s) : <color=252:163:0> %d</color>",
+        "Jeton(s) benutzen, um das Minispiel zu spielen?<br><br>Verbleibende Male: <color=252:163:0>%d</color>",
+        "¿Usar ficha(s) y probar suerte?<br><br>Rondas restantes: <color=252:163:0>%d</color>"
+    ],
+    "MINIGAME_SLOT_ERROR_INFO_INVALID": [
+        "There are no on-going events at the moment.",
+        "目前沒有任何舉辦中的活動。",
+        "현재 진행 중인 이벤트가 없습니다.",
+        "Il n'y a aucun événement en cours pour le moment.",
+        "Zurzeit keine laufenden Ereignisse.",
+        "En este momento no hay ningún evento en curso."
+    ],
+    "MINIGAME_SLOT_NEXT_PLAY_GUARANTEED": [
+        "Guaranteed reward next spin!",
+        "下一次旋轉可獲得確保獎勵！",
+        "다음 스핀에 보장 보상!",
+        "Récompense garantie au prochain tour !",
+        "Garantierte Belohnung beim nächsten Mal!",
+        "¡Recompensa garantizada en la próxima ronda!"
+    ],
+    "MINIGAME_SLOT_NOT_ENOUGH_CURRENCY": [
+        "Insufficient tokens to play.",
+        "紀念幣不足，無法遊玩。",
+        "게임을 플레이할 토큰이 부족합니다.",
+        "Nombre de jetons insuffisant.",
+        "Nicht genügend Jetons, um zu spielen.",
+        "No tienes suficientes fichas."
+    ],
+    "MINIGAME_SLOT_PLAY_INFO_GUIDE": [
+        "Play Count: %d/%d",
+        "遊玩次數：%d/%d",
+        "플레이 횟수: %d/%d",
+        "Nbr de tours joués : %d / %d",
+        "Male gespielt: %d/%d",
+        "N.º intentos: %d/%d"
+    ],
+    "MINIGAME_SLOT_PLAY_NEXT_ACHIEVEMENT": [
+        "%d play(s) until bonus reward",
+        "再遊玩%d次，可獲得額外獎勵",
+        "보너스 보상까지 %d회 플레이",
+        "%d de tour(s) avant la récompense bonus",
+        "Noch %d Spiel(e) bis zur Bonusbelohnung",
+        "%d ronda(s) más hasta la recompensa garantizada"
+    ],
+    "MINIGAME_SLOT_PLAY_TILL_GUARANTEED_REWARD": [
+        "%d play(s) until guaranteed reward",
+        "再遊玩%d次，可獲得確保獎勵",
+        "보장 보상까지 %d회 플레이",
+        "%d de tour(s) avant la récompense",
+        "Noch %d Spiel(e) bis zur garantierten Belohnung",
+        "%d ronda(s) más para la recompensa garantizada"
+    ],
+    "MINIGAME_TITLE": [
+        "Slots de Chocobo",
+        "拉霸de陸行鳥",
+        "슬롯 de 초코보",
+        "Machine à choco-sous",
+        "Slots de Chocobo",
+        "Casino de Chocobo"
+    ],
     "MINUS": [
         "-",
         "-",
@@ -10304,6 +10448,14 @@
         "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
     ],
     "MST_BUNDLE_MESSAGE_1252": [
+        "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
+        "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
+        "30일 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
+        "Merci d'avoir acheté le lot des 30 jours de connexion ! Vous avez reçu les récompenses suivantes pour le jour n°%s :",
+        "Vielen Dank, dass du das 30-Tage-Loginpaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
+        "¡Gracias por adquirir el Lote de inicio de sesión de 30 días!<br> Acabas de recibir las recompensas del día %s:"
+    ],
+    "MST_BUNDLE_MESSAGE_1265": [
         "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
         "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
         "30일 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
@@ -13764,7 +13916,7 @@
         "透過 MENU＞勳章＞綜合分頁的各勳章獎盃獲得報酬，即可獲得<color=255:0:0>徽章</color>，庫啵！<br>設定<color=255:0:0>徽章</color>後，就會顯示在自己的玩家名稱旁邊，可以向大家炫耀，庫啵！",
         "메뉴＞훈장＞종합 탭 내 각 훈장의 트로피 획득 보상으로 <color=255:0:0>문장</color>을 얻을 수 있어쿠포!<br><color=255:0:0>문장</color>을 설정하면 닉네임 옆에 표시돼쿠포. 모두에게 자랑하자쿠포!",
         "Vous pouvez obtenir des <color=255:0:0>blasons</color>en recevant des trophées en vous rendant dans MENU> Trophées>Général, kupo!<br>Montrez vos <color=255:0:0>blasons</color> en les configurant pour qu'ils apparaître à côté de votre nom, kupo !",
-        "Du kannst<color=255:0:0>Embleme</color> erhalten, indem du Trophäen erhältst, die du über MENÜ > Trophäen> Allgemein betrachten kannst, kupo!<br>Gib mit deinen <color=255:0:0>Emblemen</color> an, indem du sie neben deinem Namen vorzeigst!",
+        "Du kannst <color=255:0:0>Embleme</color> erhalten, indem du Trophäen erhältst, die du über MENÜ > Trophäen> Allgemein betrachten kannst, kupo!<br>Gib mit deinen <color=255:0:0>Emblemen</color> an, indem du sie neben deinem Namen vorzeigst!",
         "¡Hazte con diferentes <color=255:0:0>emblemas</color> al conseguir trofeos y consúltalos a través de MENÚ> Trofeos> General, kupó!<br>¡Presume de <color=255:0:0>emblemas</color> seleccionándolos para que aparezcan junto a tu nombre, kupó!"
     ],
     "PLAYER_EMBLEM_SELECT_NONE_SETTING_LIST_ITEM": [
@@ -13830,6 +13982,14 @@
         "J'accepte ces <color=255:255:0>conditions</color>.",
         "Ich erkläre mich mit den <br><color=255:255:0>Nutzungsbedingungen</color> einverstanden.",
         "Acepto los <color=255:255:0>términos</color>."
+    ],
+    "PRISM_FILTER_NOTHING_SELECT": [
+        "Coming soon!",
+        "即將登場！",
+        "Coming soon!",
+        "Bientôt disponible !",
+        "Bald verfügbar!",
+        "¡Próximamente!"
     ],
     "PURCHASE_ERROR_FIRST_MSG": [
         "Please move to an area with better reception and try again. Retry now?",
@@ -17040,7 +17200,7 @@
         "Tienes la energía al máximo."
     ],
     "SHOP_EXCHANGE_CONFIRM": [
-        "You can exchange <param=num> <case=lower><param=lapis></case> for <case=lower><param=target></case>. Proceed?",
+        "You can exchange <param=num> <case=lower><param=lapis></case> for <br><case=lower><param=target></case>. Proceed?",
         "可以用<param=num>個<param=lapis>與<param=target>進行交換。<br>是否要交換？",
         "<param=lapis><param=num>개와 <param=target>(을)를 교환할 수 있습니다.<br>교환하시겠습니까?",
         "Vous pouvez échanger <param=num> <param=lapis> contre <param=target>. Continuer ?",
@@ -17526,6 +17686,22 @@
         "Vous avez volé :<br><param=steal_item_name> x<param=steal_item_num>",
         "Du hast gestohlen: <br><param=steal_item_name> x<param=steal_item_num>",
         "Has robado:<br><param=steal_item_name> x <param=steal_item_num>"
+    ],
+    "SUBHEADER_MINIGAME_SLOT_INFO_SCENE": [
+        "Info",
+        "情報",
+        "Info",
+        "Info",
+        "Infos",
+        "Info."
+    ],
+    "SUBHEADER_MINIGAME_SLOT_REWARD_SCENE": [
+        "Bonus Rewards",
+        "額外獎勵",
+        "보너스 보상",
+        "Bonus",
+        "Bonusbelohnungen",
+        "Bonificaciones"
     ],
     "SUGGEST": [
         "Share",
