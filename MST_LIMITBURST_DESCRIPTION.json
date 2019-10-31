@@ -6775,6 +6775,54 @@
         "Fügt einem Gegner teilweise direkten Schaden zu und ermöglicht Dreifache Blitz-Tek für zwei Runden",
         "Daño que ignora parcialmente la DEF de un enemigo y aprende Técnica demoledora triple durante 2 turnos"
     ],
+    "206002305": [
+        "Damage and reduce SPR for all enemies",
+        "攻擊全體敵人+降低精神",
+        "적 전체에 피해+정신력 감소",
+        "Inflige des dégâts à tous les ennemis et réduit leur PSY",
+        "Fügt allen Gegnern Schaden zu und verringert ihre PSY.",
+        "Daña a todos los enemigos y reduce su ESP"
+    ],
+    "206002306": [
+        "Damage and reduce SPR for all enemies",
+        "攻擊全體敵人+降低精神",
+        "적 전체에 피해+정신력 감소",
+        "Inflige des dégâts à tous les ennemis et réduit leur PSY",
+        "Fügt allen Gegnern Schaden zu und verringert ihre PSY.",
+        "Daña a todos los enemigos y reduce su ESP"
+    ],
+    "206002307": [
+        "Damage and reduce SPR for all enemies",
+        "攻擊全體敵人+降低精神",
+        "적 전체에 피해+정신력 감소",
+        "Inflige des dégâts à tous les ennemis et réduit leur PSY",
+        "Fügt allen Gegnern Schaden zu und verringert ihre PSY.",
+        "Daña a todos los enemigos y reduce su ESP"
+    ],
+    "206002405": [
+        "Damage one enemy and boost ATK for caster",
+        "攻擊1名敵人+提高自身的攻擊",
+        "적 1명에게 피해+자신의 공격력 상승",
+        "Inflige des dégâts à un ennemi et augmente l'ATT du lanceur",
+        "Fügt einem Gegner Schaden zu und erhöht ANG des Benutzers.",
+        "Daña a un enemigo y aumenta el ATQ del usuario"
+    ],
+    "206002406": [
+        "Damage one enemy and boost ATK for caster",
+        "攻擊1名敵人+提高自身的攻擊",
+        "적 1명에게 피해+자신의 공격력 상승",
+        "Inflige des dégâts à un ennemi et augmente l'ATT du lanceur",
+        "Fügt einem Gegner Schaden zu und erhöht ANG des Benutzers.",
+        "Daña a un enemigo y aumenta el ATQ del usuario"
+    ],
+    "206002407": [
+        "Damage one enemy and boost ATK for caster",
+        "攻擊1名敵人+提高自身的攻擊",
+        "적 1명에게 피해+자신의 공격력 상승",
+        "Inflige des dégâts à un ennemi et augmente l'ATT du lanceur",
+        "Fügt einem Gegner Schaden zu und erhöht ANG des Benutzers.",
+        "Daña a un enemigo y aumenta el ATQ del usuario"
+    ],
     "207000105": [
         "Deal partial unmitigated damage to one enemy",
         "對1名敵人發動無視部分防禦的攻擊",
@@ -13575,6 +13623,14 @@
         "Fügt allen Gegnern Schaden zu und verringert ihre Feuer- und Eisresistenz und Erdresistenz und erhöht den Schaden bestimmter Fertigkeiten.",
         "Daña a todos los enemigos y reduce su resistencia al fuego y al hielo y aumenta el daño de ciertas habilidades"
     ],
+    "900000336": [
+        "Damage one enemy, and boost ATK and physical damage against humans for caster",
+        "攻擊1名敵人+提高自身的攻擊+賦予物理攻擊時提高對人系魔物傷害的效果",
+        "적 1명에게 피해+자신의 공격력 상승+물리 공격 시 인간형 마물에 대한 피해량 상승 효과 부여",
+        "Inflige des dégâts à un ennemi, et augmente l'ATT et les dégâts physiques du lanceur contre les humains",
+        "Fügt einem Gegner Schaden zu und erhöht ANG und physischen Schaden des Benutzers gegen Menschen.",
+        "Daña a un enemigo y aumenta el ATQ y el daño físico contra humanos del usuario"
+    ],
     "905000102": [
         "Stores limit burst experience fused",
         "能夠累積極限技熟練度",
@@ -13670,5 +13726,21 @@
         "Inflige des dégâts à un ennemi, permet d'utiliser Lune fracassante et Triples griffes pendant un tour, augmente l'ATT du lanceur et lui permet d'éviter certaines attaques physiques trois fois",
         "Fügt einem Gegner Schaden zu, ermöglicht eine Runde lang Lunare Raserei und Tripelklauen, erhöht eigenen ANG und Benutzer kann einigen physischen Angriffen dreimal ausweichen.",
         "Daña a un enemigo, aprende Rompelunas y Garras triples durante un turno, aumenta el ATQ del usuario y este puede evadir algunos ataques físicos 3 veces"
+    ],
+    "950000010": [
+        "Deal magic damage to all enemies, reduce damage taken for three turns for all allies, and restore HP and MP for caster",
+        "對全體敵人發動魔法攻擊+3回合內減少對全體隊員的傷害+恢復自身的HPMP",
+        "적 전체에 마법 피해+3턴 동안 아군 전체가 받는 피해량 감소+자신의 HP와 MP 회복",
+        "Inflige des dégâts magiques à tous les ennemis, réduit les dégâts subis par tous les alliés pendant trois tours et restaure les PV et les PM du lanceur",
+        "Fügt allen Gegnern magischen Schaden zu, verringert von allen Verbündeten erlittenen Schaden für drei Runden und regeneriert LP und MP für Benutzer.",
+        "Inflige daño mágico a todos los enemigos, reduce el daño que reciben todos los aliados durante 3 turnos y recupera VIT y PM del usuario"
+    ],
+    "950000011": [
+        "Boost own ATK and damage one enemy",
+        "提高自身的攻擊+攻擊1名敵人",
+        "적 1명에게 피해+자신의 공격력 상승",
+        "Augmente l'ATT du lanceur et inflige des dégâts à un ennemi",
+        "Erhöht ANG des Benutzers und fügt einem Gegner Schaden zu.",
+        "Aumenta el ATQ propio y daña a un enemigo"
     ]
 }
