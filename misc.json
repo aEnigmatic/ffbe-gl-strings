@@ -5247,46 +5247,6 @@
         "Beschwören",
         "Invocación"
     ],
-    "GACHA_BOX_INT": [
-        "Tier",
-        null,
-        "단계",
-        "Strate",
-        "Rang",
-        "Caja"
-    ],
-    "GACHA_BOX_RESETED": [
-        "Advanced",
-        null,
-        "진행 완료",
-        "Avancé",
-        null,
-        "Avanzar"
-    ],
-    "GACHA_BOX_RESET_FINAL_TEXT": [
-        "Are you sure you want to advance to the next tier?",
-        null,
-        "정말 다음 단계를 진행하시겠습니까?",
-        "Voulez-vous vraiment avancer vers une nouvelle strate ?",
-        null,
-        "¿Estás seguro de que quieres avanzar a la siguiente caja?"
-    ],
-    "GACHA_BOX_RESET_REMAINING_TEXT": [
-        "You cannot return after advancing to the next tier.<br>Would you like to advance to the next tier?",
-        null,
-        "다음 단계로 진행한 후에는 이전 단계로 되돌릴 수 없습니다.<br>다음 단계를 진행하시겠습니까?",
-        "Attention, vous ne pourrez pas revenir en arrière une fois que vous serez passé à la strate supérieure.<br>Voulez-vous procéder ?",
-        null,
-        "Si avanzas a la siguiente caja no podrás retroceder. ¿Quieres continuar?"
-    ],
-    "GACHA_BOX_RESET_TEXT": [
-        "Advancing to the next tier will change to a new box.<br>Would you like to advance to the next tier?",
-        null,
-        "다음 단계로 진행하여 새로운 박스로 변경합니다.<br>다음 단계를 진행하시겠습니까?",
-        "Avancer à la prochaine strate vous fera basculer sur une nouvelle boîte.<br>Voulez-vous procéder ?",
-        null,
-        "Si tocas avanzar, cambiarás a una caja nueva. ¿Quieres continuar?"
-    ],
     "GACHA_CONDUCTOR_TEXT": [
         "Get new units<br>from the summon, kupo!",
         "從召喚<br>獲得新兵員，庫啵！",
@@ -5551,14 +5511,6 @@
         "s",
         "s"
     ],
-    "GACHA_REWARD_DETAIL": [
-        "Box Contents",
-        null,
-        "박스 상세 내용",
-        "Détails de récompense",
-        null,
-        "Detalles de la recompensa"
-    ],
     "GACHA_SCREEN_TIME_COMING_SOON": [
         "Coming soon!",
         "即將登場！",
@@ -5574,6 +5526,30 @@
         null,
         null,
         null
+    ],
+    "GACHA_SELECT_PRISM_CONFIRM": [
+        "Use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=item_name></color>?",
+        "要使用<param=cost> <param=ticket_name>獲得<br><color=255:255:0><param=item_name></color>嗎？",
+        "<param=ticket_name>을(를) <param=cost>장 사용하여<br><color=255:255:0><param=item_name></color>을(를) 획득하시겠습니까?",
+        "Voulez-vous utilisez <param=cost> <param=ticket_name> pour obtenir<br><color=255:255:0><param=item_name></color> ?",
+        "<param=cost> <param=ticket_name>(n) benutzen, um <br><color=255:255:0><param=item_name></color> zu erhalten?",
+        "¿Quieres usar <param=ticket_name> x<param=cost> para conseguir el siguiente objeto?<br><color=255:255:0><param=item_name></color>"
+    ],
+    "GACHA_SELECT_PRISM_CONFIRM_FINAL": [
+        "About to use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=item_name></color>.<br>Proceed?<br>(Final confirmation)",
+        "使用<param=cost> <param=ticket_name>獲得<br><color=255:255:0><param=item_name></color>。確定要繼續嗎？<br>(最終確認)",
+        "<param=ticket_name>을(를) <param=cost>장 사용하여<br><color=255:255:0><param=item_name></color>을(를) 획득합니다.<br>진행하시겠습니까?<br>(최종 확인)",
+        "Vous êtes sur le point d'utiliser <param=cost> <param=ticket_name> pour obtenir<br><color=255:255:0><param=item_name></color>.<br>Continuer ?<br>(Confirmation finale)",
+        "Du wirst <param=cost> <param=ticket_name>(n) benutzen, um <br><color=255:255:0><param=item_name></color> zu erhalten.<br>Fortfahren?<br>(Letzte Bestätigung)",
+        "Vas a usar About to use <param=ticket_name> x<param=cost> para conseguir el siguiente objeto:<br><color=255:255:0><param=item_name></color>.<br>¿Continuar?<br>(Confirmación final)"
+    ],
+    "GACHA_SELECT_PRISM_EXCHANGED": [
+        "Successfully obtained <color=255:255:0><param=item_name></color>.",
+        "成功獲得<color=255:255:0><param=item_name></color>。",
+        "<color=255:255:0><param=item_name></color> 획득에 성공했습니다.",
+        "Vous avez obtenu : <color=255:255:0><param=item_name></color>.",
+        "<color=255:255:0><param=item_name></color> erfolgreich erhalten.",
+        "Has obtenido: <color=255:255:0><param=item_name></color>."
     ],
     "GACHA_SELECT_TICKET_SHORTAGE": [
         "<param=cost> <param=ticket_name>(s) are needed to view the list.",
@@ -11977,7 +11953,7 @@
     ],
     "MST_SG_COMEBACK_QUEST_107": [
         "Use 30 Arena/Colosseum orbs",
-        "使用鬥技場/競技場寶珠",
+        "使用30鬥技場/競技場寶珠",
         "결투장 전투를 30회 진행한다.",
         "Utilisez 30 orbes d'arène/du colisée",
         "Gib 30 Arena-/Kolosseumsjuwelen aus.",
