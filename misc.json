@@ -5247,6 +5247,46 @@
         "Beschwören",
         "Invocación"
     ],
+    "GACHA_BOX_INT": [
+        "Tier",
+        "階段",
+        "단계",
+        "Strate",
+        "Rang",
+        "Caja"
+    ],
+    "GACHA_BOX_RESETED": [
+        "Advanced",
+        "已重置",
+        "다음 단계",
+        "Avancé",
+        "Aufgestiegen",
+        "Avanzar"
+    ],
+    "GACHA_BOX_RESET_FINAL_TEXT": [
+        "Are you sure you want to advance to the next tier?",
+        "確定要重置嗎？（最終確認）",
+        "정말 다음 단계를 진행하시겠습니까?",
+        "Voulez-vous vraiment avancer vers une nouvelle strate ?",
+        "Bist du sicher, dass du auf den nächsten Rang aufsteigen möchtest?",
+        "¿Estás seguro de que quieres avanzar a la siguiente caja?"
+    ],
+    "GACHA_BOX_RESET_REMAINING_TEXT": [
+        "You cannot return after advancing to the next tier.<br>Would you like to advance to the next tier?",
+        "重置後就無法再返回前面的抽獎箱。<br>確定要重置嗎？",
+        "다음 단계로 진행한 후에는 이전 단계로 되돌릴 수 없습니다.<br>다음 단계를 진행하시겠습니까?",
+        "Attention, vous ne pourrez pas revenir en arrière une fois que vous serez passé à la strate supérieure.<br>Voulez-vous procéder ?",
+        "Wenn du auf den nächsten Rang aufsteigst, kannst du nicht mehr zurückkehren.<br>Möchtest du aufsteigen?",
+        "Si avanzas a la siguiente caja no podrás retroceder. ¿Quieres continuar?"
+    ],
+    "GACHA_BOX_RESET_TEXT": [
+        "Advancing to the next tier will change to a new box.<br>Would you like to advance to the next tier?",
+        "重置將會切換為新的抽獎箱。<br>確定要重置嗎？",
+        "다음 단계를 진행하면 새로운 박스로 변경됩니다.<br>다음 단계를 진행하시겠습니까?",
+        "Avancer à la prochaine strate vous fera basculer sur une nouvelle boîte.<br>Voulez-vous procéder ?",
+        "Wenn du auf den nächsten Rang aufsteigst, wird zu einer neuen Box gewechselt.<br>Möchtest du aufsteigen?",
+        "Si tocas avanzar, cambiarás a una caja nueva. ¿Quieres continuar?"
+    ],
     "GACHA_CONDUCTOR_TEXT": [
         "Get new units<br>from the summon, kupo!",
         "從召喚<br>獲得新兵員，庫啵！",
@@ -5510,6 +5550,14 @@
         "s",
         "s",
         "s"
+    ],
+    "GACHA_REWARD_DETAIL": [
+        "Box Contents",
+        "抽獎箱內容",
+        "박스 상세 내용",
+        "Détails de récompense",
+        "Boxinhalt",
+        "Detalles de la recompensa"
     ],
     "GACHA_SCREEN_TIME_COMING_SOON": [
         "Coming soon!",
@@ -9158,6 +9206,22 @@
         "Cette mission est déjà débloquée",
         "Diese Mission ist bereits freigeschaltet",
         "Esta misión ya está desbloqueada"
+    ],
+    "MSG_MAILBOXDESC_NYC2019": [
+        "Thank you for participating!",
+        "感謝您的熱情參與！",
+        "참여해주셔서 감사합니다!",
+        "Merci à tous pour votre participation !",
+        "Vielen Dank für deine Teilnahme!",
+        "¡Gracias por haber participado!"
+    ],
+    "MSG_MAILBOX_NYC2019": [
+        "FFBE NYC Livestream - Raid Rewards",
+        "FFBE NYC 直播 - 共鬥活動獎勵",
+        "FFBE 뉴욕 생방송 - 레이드 보상",
+        "Diffusion en direct de FFBE à New York - Récompenses de raid",
+        "FFBE NYC Livestream - Raubzugbelohnungen",
+        "Retransmisión en directo de FFBE en Nueva York - Evento de banda"
     ],
     "MSG_MAXIMUM_ONGOING_EXPEDITION": [
         "The maximum number of ongoing expeditions has been reached.",
@@ -18208,12 +18272,12 @@
         "No hay intercambios de moneda de invocación disponibles ahora mismo.<br><br>¡Mantén los ojos abiertos a la espera de más<br>eventos de intercambio de moneda de invocación!"
     ],
     "Summon_Coin_Moogle_Text": [
-        "Get summon coins in various ways, such as summoning from step up summon banners, kupo!",
-        "透過STEP UP召喚橫幅圖示等各種方式獲得召喚硬幣，庫啵！",
-        "스텝 업 소환 배너를 통해 소환하는 등 다양한 방법으로 소환 코인을 획득해봐쿠포!",
-        "Obtenez des jetons d'invocation de diverses manières,<br>par exemple par le biais des bannières d'invocation à paliers, kupo !",
-        "Erhalte auf verschiedenen Wegen Beschwörungsmünzen,<br>indem du zum Beispiel Beschwörungen via Stufenbeschwörung durchführst, kupo!",
-        "¡Consigue monedas de invocación de varias maneras,<br>por ejemplo, al invocar en las banderolas de invocación de pasos, kupó!"
+        "Get exchangeable currencies in various ways, such as summoning from step up summon banners, kupo!",
+        "透過STEP UP召喚橫幅圖示等各種方式獲得可用於交換的代幣，庫啵！",
+        "스텝 업 소환 배너를 통해 소환하는 등 다양한 방법으로 교환용 화폐를 획득해봐쿠포!",
+        "Obtenez des monaies interchangeable de diverses manières,<br>par exemple par le biais des bannières d'invocation à paliers, kupo !",
+        "Erhalte auf verschiedenen Wegen eintauschbare Währungen,<br> zum Beispiel indem du Beschwörungen via Stufenbeschwörung durchführst, kupo!",
+        "¡Consigue divisas intercambiables de varias maneras,<br>por ejemplo, al invocar en las banderolas de invocación de pasos, kupó!"
     ],
     "TAB_DAILY_QUEST": [
         "Daily Quests",

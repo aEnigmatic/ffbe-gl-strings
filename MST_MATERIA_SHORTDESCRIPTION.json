@@ -4983,6 +4983,22 @@
         "Erhöht MP um 15% und stellt jede Runde MP wieder her.",
         "Aumenta los PM un 15% y recupera PM cada turno"
     ],
+    "504233001": [
+        "Boost HP by 20% and ATK by 30%, and boost ATK by 30% when equipped with fists (Not stackable)",
+        "提高20%HP、30%攻擊+裝備格鬥武器時提高30%攻擊 [無法重複裝備]",
+        "HP 20%, 공격력 30% 상승+격투무기 장착 시 공격력 30% 상승 (중복 장착 불가)",
+        "Augmente les PV de 20 %, l'ATT de 30 %, et augmente l'ATT de 30 % lorsque des poings sont équipés (non cumulable)",
+        "Erhöht LP um 20% und ANG um 30% und erhöht ANG um 30%, wenn mit Fäusten ausgerüstet (Nicht stapelbar).",
+        "Aumenta la VIT un 20% y el ATQ un 30%, y otro 30% el ATQ al llevar puños (no acumulable)"
+    ],
+    "504233002": [
+        "Boost ATK and MAG by 60%, and boost physical and magic damage against humans (Not stackable)",
+        "提高60%攻擊魔力+物理、魔法攻擊時提高對人系魔物的傷害[無法重複裝備]",
+        "공격력과 마력 60% 상승+물리, 마법 공격 시 인간형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 60 %, et augmente les dégâts physiques et magiques contre les humains (non cumulable)",
+        "Erhöht ANG und MAG um 60% und erhöht physischen und magischen Schaden gegen Menschen (Nicht stapelbar).",
+        "Aumenta el ATQ y la MAG un 60% y el daño físico y mágico contra humanos (no acumulable)"
+    ],
     "504233003": [
         "Boost ATK by 20%, and boost ATK by 40% when equipped with fists (Not stackable)",
         "提高20%攻擊+裝備格鬥武器時提高40%攻擊 [無法重複裝備]",
@@ -5006,6 +5022,46 @@
         "Augmente la PSY de 60 % et permet d'éviter de tomber KO une fois lorsque les PV sont au-dessus d'un certain seuil (non cumulable)",
         "Erhöht PSY um 60% und entkommt einmal dem Tod, wenn sich LP über einem bestimmten Wert befinden. (Nicht stapelbar)",
         "Aumenta el ESP un 60% y evita quedar K.O. una vez cuando la VIT está por encima de cierto nivel (no acumulable)"
+    ],
+    "504233011": [
+        "Boost MP and ATK by 40% when equipped with a short sword, sword, or throwing weapon, and boost LB gauge fill rate (Not stackable)",
+        "提高極限技石對極限技槽的增加量+裝備短劍劍投擲武器時提高40%MP攻擊 [無法重複裝備]",
+        "LB 게이지 효율 상승+단검, 검 또는 투척무기 장착 시 MP와 공격력 40% 상승 (중복 장착 불가)",
+        "Augmente les PM et l'ATT de 40 % quand une épée normale, courte ou une arme de jet est équipée, et augmente le taux de remplissage de la jauge de limite (non cumulable)",
+        "Erhöht MP und ANG um 40%, wenn mit einem Kurzschwert, Schwert oder Wurfwaffe ausgerüstet, und Limitmeter füllt sich schneller (Nicht stapelbar).",
+        "Aumenta los PM y el ATQ un 40% al llevar espada corta, espada o arma arrojadiza, y la barra de EL se rellena más rápido (no acumulable)"
+    ],
+    "504233760": [
+        "Remove all status effects from all enemies and all allies, and deal partial unmitigated damage to all enemies",
+        "解除全體敵人和隊員的所有狀態效果+對全體敵人發動無視部分防禦的攻擊",
+        "적과 아군 전체의 모든 능력치 효과 해제+적 전체에 일부 방어 무시 피해",
+        "Dissipe les effets de statut de tous les ennemis et tous les alliés, et inflige des dégâts en partie fixes à tous les ennemis.",
+        "Entfernt alle Statuseffekte von allen Gegnern und allen Verbündeten und fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Elimina todas las mejoras y cambios de estado de todos los enemigos y aliados, e inflige daño que ignora parcialmente la DEF de todos los enemigos"
+    ],
+    "504233761": [
+        "Boost ATK by 40% and another 20% when equipped with clothes, and chance of activating allure after receiving a physical attack (Not stackable)",
+        "提高40%攻擊+裝備衣服時提高20%攻擊+受到物理攻擊時一定機率發動「美色」[無法重複裝備]",
+        "공격력 40% 상승+옷 장착 시 공격력 20% 추가 상승+물리 공격을 받으면 일정 확률로 '색기' 발동 (중복 장착 불가)",
+        "Augmente l'ATT de 40 % et de 20 % en plus si des habits sont équipés. Confère une chance d'activer Séduction après avoir subi une attaque physique (non cumulable)",
+        "Erhöht ANG um 40% sowie zusätzlich um 20%, wenn mit Kleidung ausgerüstet, und Chance, Attraktivität zu aktivieren, nachdem physischer Angriff erlitten wurde (Nicht stapelbar).",
+        "Aumenta el ATQ un 40%, otro 20% al llevar ropa, y probabilidad de aprender Atracción al recibir un ataque físico (no acumulable)"
+    ],
+    "504233763": [
+        "Boost HP and MP by 40% (Not stackable)",
+        "提高40%HPMP [無法重複裝備]",
+        "HP와 MP 40% 상승 (중복 장착 불가)",
+        "Augmente les PV et les PM de 40 % (non cumulable)",
+        "Erhöht LP und MP um 40% (Nicht stapelbar).",
+        "Aumenta la VIT y los PM un 40% (no acumulable)"
+    ],
+    "504233770": [
+        "Reduce ATK and MAG and chance of charming one enemy",
+        "降低1名敵人的攻擊魔力+一定機率施加魅惑效果",
+        "적 1명의 공격력과 마력 감소+일정 확률로 매혹 부여",
+        "Réduit l'ATT et la MAGIE, et confère une chance de charmer un ennemi",
+        "Verringert ANG und MAG eines Gegners und Chance, diesen zu bezaubern.",
+        "Reduce el ATQ y la MAG de un enemigo y probabilidad de infligirle embrujo"
     ],
     "504400110": [
         "Halve chance of encounters",

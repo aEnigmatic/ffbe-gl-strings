@@ -9713,7 +9713,7 @@
     ],
     "302000104": [
         "Restore HP, cure poison, silence, and paralysis, and boost LB gauge fill rate",
-        "恢復1名隊員的HP、治療中毒沉默麻痺狀態+提高極限技時對極限技槽的增加量",
+        "恢復1名隊員的HP、治療中毒沉默麻痺狀態+提高極限技石對極限技槽的增加量",
         "아군 1명의 HP, 독, 침묵, 마비 회복+LB 게이지 효율 상승",
         "Soigne les PV, retire poison, silence et paralysie et augmente le taux de remplissage de la jauge de limite",
         "Heilt LP, Gift, Stille und Lähmung und das Limitmeter füllt sich schneller",
@@ -9721,7 +9721,7 @@
     ],
     "302000105": [
         "Restore HP, cure poison, silence, and paralysis, and boost LB gauge fill rate",
-        "恢復1名隊員的HP、治療中毒沉默麻痺狀態+提高極限技時對極限技槽的增加量",
+        "恢復1名隊員的HP、治療中毒沉默麻痺狀態+提高極限技石對極限技槽的增加量",
         "아군 1명의 HP, 독, 침묵, 마비 회복+LB 게이지 효율 상승",
         "Soigne les PV, retire poison, silence et paralysie et augmente le taux de remplissage de la jauge de limite",
         "Heilt LP, Gift, Stille und Lähmung und das Limitmeter füllt sich schneller",
@@ -11687,6 +11687,30 @@
         "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
         "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez"
     ],
+    "337000405": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño que ignora parcialmente la DEF de un enemigo"
+    ],
+    "337000406": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
+        "Daño que ignora parcialmente la DEF de un enemigo"
+    ],
+    "337000407": [
+        "Deal partial unmitigated damage to one enemy and boost damage of certain abilities",
+        "對1名敵人發動無視部分防禦的攻擊+提高特定能力的傷害",
+        "적 1명에게 일부 방어 무시 피해+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts en partie fixes à un ennemi, et augmente les dégâts de certaines aptitudes",
+        "Fügt einem Gegner teilweise direkten Schaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "Daño que ignora parcialmente la DEF de un enemigo y aumenta el daño de determinadas habilidades"
+    ],
     "337000505": [
         "Deal dark magic damage and reduce dark resistance for all enemies",
         "對全體敵人發動暗屬性魔法攻擊+降低暗屬性耐性",
@@ -11711,6 +11735,30 @@
         "Fügt allen Gegnern magischen Dunkelschaden zu und reduziert ihre Dunkelresistenz.",
         "Daño mágico de oscuridad a todos los enemigos y reduce su resistencia a la oscuridad"
     ],
+    "337000605": [
+        "Deal partial unmitigated dark damage to one enemy",
+        "對1名敵人發動暗屬性無視部分防禦的攻擊",
+        "적 1명에게 어둠속성 일부 방어 무시 피해",
+        "Inflige des dégâts de ténèbres en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Dunkelschaden zu.",
+        "Daño de oscuridad que ignora parcialmente la DEF de un enemigo"
+    ],
+    "337000606": [
+        "Deal partial unmitigated dark damage to one enemy and boost damage of certain abilities",
+        "對1名敵人發動暗屬性無視部分防禦的攻擊+提高特定能力的傷害",
+        "적 1명에게 어둠속성 일부 방어 무시 피해+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts de ténèbres en partie fixes à un ennemi, et augmente les dégâts de certaines aptitudes",
+        "Fügt einem Gegner teilweise direkten Dunkelschaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "Daño de oscuridad que ignora parcialmente la DEF de un enemigo y aumenta el daño de determinadas habilidades"
+    ],
+    "337000607": [
+        "Deal partial unmitigated dark damage to one enemy and boost damage of certain abilities",
+        "對1名敵人發動暗屬性無視部分防禦的攻擊+提高特定能力的傷害",
+        "적 1명에게 어둠속성 일부 방어 무시 피해+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts de ténèbres en partie fixes à un ennemi, et augmente les dégâts de certaines aptitudes",
+        "Fügt einem Gegner teilweise direkten Dunkelschaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "Daño de oscuridad que ignora parcialmente la DEF de un enemigo y aumenta el daño de determinadas habilidades"
+    ],
     "337000704": [
         "Damage and reduce DEF for all enemies",
         "攻擊全體敵人+降低防禦",
@@ -11734,6 +11782,102 @@
         "Inflige des dégâts à tous les ennemis et réduit leur DEF",
         "Fügt allen Gegnern Schaden zu und verringert ihre ABW.",
         "Daña a todos los enemigos y reduce su DEF"
+    ],
+    "337000805": [
+        "Boost LB damage for caster, and reduce dark resistance and damage all enemies",
+        "提高自身的極限技傷害+降低全體敵人的暗屬性耐性+攻擊全體敵人",
+        "자신의 LB 피해량 상승+적 전체의 어둠속성 저항력 감소+피해",
+        "Augmente les dégâts de la limite du lanceur, inflige des dégâts à tous les ennemis et réduit leur résistance aux ténèbres",
+        "Erhöht Schaden durch Limitrausch für Benutzer, verringert Dunkelresistenz aller Gegner und fügt ihnen Schaden zu.",
+        "Aumenta el daño del EL del usuario, reduce la resistencia a la oscuridad de todos los enemigos y los daña"
+    ],
+    "337000806": [
+        "Boost LB damage for caster, and reduce dark resistance and damage all enemies",
+        "提高自身的極限技傷害+降低全體敵人的暗屬性耐性+攻擊全體敵人",
+        "자신의 LB 피해량 상승+적 전체의 어둠속성 저항력 감소+피해",
+        "Augmente les dégâts de la limite du lanceur, inflige des dégâts à tous les ennemis et réduit leur résistance aux ténèbres",
+        "Erhöht Schaden durch Limitrausch für Benutzer, verringert Dunkelresistenz aller Gegner und fügt ihnen Schaden zu.",
+        "Aumenta el daño del EL del usuario, reduce la resistencia a la oscuridad de todos los enemigos y los daña"
+    ],
+    "337000807": [
+        "Boost LB damage for caster, and reduce dark resistance and damage all enemies",
+        "提高自身的極限技傷害+降低全體敵人的暗屬性耐性+攻擊全體敵人",
+        "자신의 LB 피해량 상승+적 전체의 어둠속성 저항력 감소+피해",
+        "Augmente les dégâts de la limite du lanceur, inflige des dégâts à tous les ennemis et réduit leur résistance aux ténèbres",
+        "Erhöht Schaden durch Limitrausch für Benutzer, verringert Dunkelresistenz aller Gegner und fügt ihnen Schaden zu.",
+        "Aumenta el daño del EL del usuario, reduce la resistencia a la oscuridad de todos los enemigos y los daña"
+    ],
+    "337000905": [
+        "Damage and chance of charming all enemies, and enable pas de trois for one turn",
+        "攻擊全體敵人+一定機率施加魅惑效果+1回合內可以使用「巨星三連舞」",
+        "적 전체에 피해+일정 확률로 매혹 부여+1턴 동안 '에트왈 3연무' 사용 가능",
+        "Inflige des dégâts à tous les ennemis et confère une chance de les charmer, et permet d'utiliser Triple piqué pendant 1 tour",
+        "Fügt allen Gegnern Schaden zu, Chance, sie zu bezaubern, und ermöglicht für eine Runde Pas de Trois.",
+        "Daña a todos los enemigos, probabilidad de infligirles embrujo, y aprende Y uno, y dos, y tres durante un turno"
+    ],
+    "337000906": [
+        "Damage and chance of charming all enemies, and enable pas de trois for two turns",
+        "攻擊全體敵人+一定機率施加魅惑效果+2回合內可以使用「巨星三連舞」",
+        "적 전체에 피해+일정 확률로 매혹 부여+2턴 동안 '에트왈 3연무' 사용 가능",
+        "Inflige des dégâts à tous les ennemis et confère une chance de les charmer, et permet d'utiliser Triple piqué pendant 2 tour",
+        "Fügt allen Gegnern Schaden zu, Chance, sie zu bezaubern, und ermöglicht für eine Runde Pas de Trois.",
+        "Daña a todos los enemigos, probabilidad de infligirles embrujo, y aprende Y uno, y dos, y tres durante 2 turnos"
+    ],
+    "337000907": [
+        "Damage and chance of charming all enemies, and enable pas de trois for three turns",
+        "攻擊全體敵人+一定機率施加魅惑效果+3回合內可以使用「巨星三連舞」",
+        "적 전체에 피해+일정 확률로 매혹 부여+3턴 동안 '에트왈 3연무' 사용 가능",
+        "Inflige des dégâts à tous les ennemis et confère une chance de les charmer, et permet d'utiliser Triple piqué pendant 3 tour",
+        "Fügt allen Gegnern Schaden zu, Chance, sie zu bezaubern, und ermöglicht für eine Runde Pas de Trois.",
+        "Daña a todos los enemigos, probabilidad de infligirles embrujo, y aprende Y uno, y dos, y tres durante 3 turnos"
+    ],
+    "337001205": [
+        "Boost ATK and damage of certain abilities for caster, and damage and chance of charming one enemy",
+        "提高自身的攻擊+提高特定能力的傷害+攻擊1名敵人+一定機率施加魅惑效果",
+        "자신의 공격력 상승+특정 어빌리티의 피해량 상승+적 1명에게 피해+일정 확률로 매혹 부여",
+        "Augmente l'ATT et les dégâts de certaines aptitudes du lanceur. Inflige des dégâts à un ennemi et confère une chance de le charmer.",
+        "Erhöht ANG und Schaden bestimmter Fertigkeiten für Benutzer, fügt einem Gegner Schaden zu und Chance, ihn zu bezaubern.",
+        "Aumenta el ATQ y el daño de determinadas habilidades del usuario, daña a un enemigo y probabilidad de infligirle embrujo"
+    ],
+    "337001206": [
+        "Boost ATK and damage of certain abilities for caster, and damage and chance of charming one enemy",
+        "提高自身的攻擊+提高特定能力的傷害+攻擊1名敵人+一定機率施加魅惑效果",
+        "자신의 공격력 상승+특정 어빌리티의 피해량 상승+적 1명에게 피해+일정 확률로 매혹 부여",
+        "Augmente l'ATT et les dégâts de certaines aptitudes du lanceur. Inflige des dégâts à un ennemi et confère une chance de le charmer.",
+        "Erhöht ANG und Schaden bestimmter Fertigkeiten für Benutzer, fügt einem Gegner Schaden zu und Chance, ihn zu bezaubern.",
+        "Aumenta el ATQ y el daño de determinadas habilidades del usuario, daña a un enemigo y probabilidad de infligirle embrujo"
+    ],
+    "337001207": [
+        "Boost ATK and damage of certain abilities for caster, and damage and chance of charming one enemy",
+        "提高自身的攻擊+提高特定能力的傷害+攻擊1名敵人+一定機率施加魅惑效果",
+        "자신의 공격력 상승+특정 어빌리티의 피해량 상승+적 1명에게 피해+일정 확률로 매혹 부여",
+        "Augmente l'ATT et les dégâts de certaines aptitudes du lanceur. Inflige des dégâts à un ennemi et confère une chance de le charmer.",
+        "Erhöht ANG und Schaden bestimmter Fertigkeiten für Benutzer, fügt einem Gegner Schaden zu und Chance, ihn zu bezaubern.",
+        "Aumenta el ATQ y el daño de determinadas habilidades del usuario, daña a un enemigo y probabilidad de infligirle embrujo"
+    ],
+    "337001305": [
+        "Deal wind damage and reduce lightning, wind, and dark resistance for all enemies, and boost physical and magic damage against reapers for caster",
+        "對全體敵人發動風屬性攻擊+降低雷風暗屬性耐性+賦予自身物理、魔法攻擊時提高對死靈系魔物傷害的效果",
+        "적 전체에 바람속성 피해+번개, 바람, 어둠속성 저항력 감소+자신에게 물리, 마법 공격 시 사령형 마물에게 부여하는 피해량 상승 효과 부여",
+        "Inflige des dégâts de vent et réduit la résistance à la foudre, au vent et aux ténèbres de tous les ennemis. Augmente les dégâts physiques et magiques du lanceur contre les morts-vivants",
+        "Fügt allen Gegnern Windschaden zu, verringert ihre Blitz-, Wind- und Dunkelresistenzen und erhöht physischen und magischen Schaden gegen Untote für Benutzer.",
+        "Daño de viento a todos los enemigos y reduce su resistencia a rayo, viento y oscuridad, y aumenta el daño físico y mágico del usuario contra muertos vivientes"
+    ],
+    "337001306": [
+        "Deal wind damage and reduce lightning, wind, and dark resistance for all enemies, and boost physical and magic damage against reapers for caster",
+        "對全體敵人發動風屬性攻擊+降低雷風暗屬性耐性+賦予自身物理、魔法攻擊時提高對死靈系魔物傷害的效果",
+        "적 전체에 바람속성 피해+번개, 바람, 어둠속성 저항력 감소+자신에게 물리, 마법 공격 시 사령형 마물에게 부여하는 피해량 상승 효과 부여",
+        "Inflige des dégâts de vent et réduit la résistance à la foudre, au vent et aux ténèbres de tous les ennemis. Augmente les dégâts physiques et magiques du lanceur contre les morts-vivants",
+        "Fügt allen Gegnern Windschaden zu, verringert ihre Blitz-, Wind- und Dunkelresistenzen und erhöht physischen und magischen Schaden gegen Untote für Benutzer.",
+        "Daño de viento a todos los enemigos y reduce su resistencia a rayo, viento y oscuridad, y aumenta el daño físico y mágico del usuario contra muertos vivientes"
+    ],
+    "337001307": [
+        "Deal wind damage and reduce lightning, wind, and dark resistance for all enemies, and boost physical and magic damage against reapers for caster",
+        "對全體敵人發動風屬性攻擊+降低雷風暗屬性耐性+賦予自身物理、魔法攻擊時提高對死靈系魔物傷害的效果",
+        "적 전체에 바람속성 피해+번개, 바람, 어둠속성 저항력 감소+자신에게 물리, 마법 공격 시 사령형 마물에게 부여하는 피해량 상승 효과 부여",
+        "Inflige des dégâts de vent et réduit la résistance à la foudre, au vent et aux ténèbres de tous les ennemis. Augmente les dégâts physiques et magiques du lanceur contre les morts-vivants",
+        "Fügt allen Gegnern Windschaden zu, verringert ihre Blitz-, Wind- und Dunkelresistenzen und erhöht physischen und magischen Schaden gegen Untote für Benutzer.",
+        "Daño de viento a todos los enemigos y reduce su resistencia a rayo, viento y oscuridad, y aumenta el daño físico y mágico del usuario contra muertos vivientes"
     ],
     "401000104": [
         "Damage and reduce dark and lightning resistance for all enemies",
@@ -13817,7 +13961,7 @@
     ],
     "900000337": [
         "Deal partial unmitigated damage and reduce fire resistance for all enemies",
-        "對全提敵人發動無視部分防禦的攻擊+降低火屬性耐性",
+        "對全體敵人發動無視部分防禦的攻擊+降低火屬性耐性",
         "적 전체에 일부 방어 무시 피해+불속성 저항력 감소",
         "Inflige des dégâts en partie fixes et réduit la résistance au feu de tous les ennemis",
         "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuerresistenz.",
