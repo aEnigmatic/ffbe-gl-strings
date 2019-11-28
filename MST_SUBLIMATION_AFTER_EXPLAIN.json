@@ -191,6 +191,22 @@
         "<color=255:255:0>\"PSY +30%\" Effekt entfernt</color><br><color=0:255:0>Fertigkeit wird zu \"Blutrünstiger Schwertkämpfer\"</color><br><color=0:255:0>(Einmal in 5 Runden) Erhöht eigenen physischen Schaden gegen Menschen, füllt Limitmeter vollständig und erhöht Schaden durch Limitrausch</color>",
         "<color=255:255:0>Se elimina el efecto \"ESP +30%\"</color><br><color=0:255:0>La habilidad cambia a Espadachín sanguinario</color><br><color=0:255:0>(Un uso cada 5 turnos) Aumenta el daño físico propio contra humanos, rellena por completo la barra de EL, y aumenta el daño del EL</color>"
     ],
+    "100170009": [
+        "<color=0:255:0>Boosts SPR increase (to 30%)</color><br><color=0:255:0>Ability name changes</color>",
+        "<color=0:255:0>提高精神增加量(至30%)</color><br><color=0:255:0>變更能力名稱</color>",
+        "<color=0:255:0>정신력 상승량 상승(30%)</color><br><color=0:255:0>어빌리티명 변경</color>",
+        "<color=0:255:0>Amplifie l'augmentation de la PSY (à 30 %)</color><br><color=0:255:0>Modifie le nom de l'aptitude</color>",
+        "<color=0:255:0>Steigert PSY-Erhöhung (auf 30%)</color><br><color=0:255:0>Fertigkeitenname ändert sich</color>",
+        "<color=0:255:0>Mayor aumento de ESP (a un 30%)</color><br><color=0:255:0>La habilidad cambia de nombre</color>"
+    ],
+    "100170010": [
+        "<color=255:255:0>SPR +30%\" effect removed</color><br><color=0:255:0>Ability changes to \"dual blade mastery\"</color><br><color=0:255:0>Increases damage limit for various chains when armed with two one-handed weapons</color>",
+        "<color=255:255:0>移除「精神 +30%」</color><br><color=0:255:0>能力變更為「雙刀奧義」</color><br><color=0:255:0>裝備2把單手武器時提高各種CHAIN的傷害上限</color>",
+        "<color=255:255:0>'정신력+30%' 효과 해제</color><br><color=0:255:0>'이도의 비법'으로 어빌리티 변경</color><br><color=0:255:0>한손용 무기 2개 장착 시 각종 체인 피해량 상승 최대치 증가</color>",
+        "<color=255:255:0>PSY +30 %, effet annulé</color><br><color=0:255:0>Modifie le nom de l'aptitude en Maîtrise des lames doubles</color><br><color=0:255:0>Augmente la limite maximale des dégâts infligés pendant un combo lorsque deux armes à une main sont équipées</color>",
+        "<color=255:255:0>PSY +30%\" Effekt entfernt</color><br><color=0:255:0>Fertigkeit wird zu \"Doppelklingenmeister\"</color><br><color=0:255:0>Steigert das Schadenslimit bei verschiedenen Ketten, wenn mit zwei einhändigen Waffen ausgerüstet</color>",
+        "<color=255:255:0>Se elimina el efecto \"ESP +30%\"</color><br><color=0:255:0>La habilidad cambia a Maestría dual de espadas</color><br><color=0:255:0>Aumenta el daño límite de varios combos al llevar 2 armas de una sola mano</color>"
+    ],
     "100210001": [
         "<color=0:255:0>Boosts increase to parameters of espers evoked (mid)</color>",
         "<color=0:255:0>提高發動召喚魔法時幻獸狀態的增加量 (中)</color>",
@@ -11311,6 +11327,326 @@
         "Verringert Limitmeter-Verbrauch (auf 15)<br><color=0:255:0>Erhöht Wert regenerierter LP (auf 6000) und regenerierter MP (auf 60)</color><br><color=0:255:0>Verringert Limitmeter-Verbrauch (auf 10)</color>",
         "Reduce el consumo de la barra de EL (a 1500)<br><color=0:255:0>Aumenta la recuperación de VIT (a 6000) y de PM (a 60)</color><br><color=0:255:0>Reduce el consumo de la barra de EL (a 1000)</color>"
     ],
+    "228310001": [
+        "<color=0:255:0>Boosts damage amount (to 820%)</color><br><color=0:255:0>Boosts fire, ice, and lightning resistance reductions (to 80%)</color>",
+        "<color=0:255:0>提高傷害量(至820%)</color><br><color=0:255:0>提高火冰雷屬性耐性減少量(至80%)</color>",
+        "<color=0:255:0>피해량 상승(820%)</color><br><color=0:255:0>불, 얼음, 번개속성 저항력 감소량 상승(80%)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 820 %)</color><br><color=0:255:0>Amplifie les réductions de la résistance au feu, à la glace et à la foudre (à 80 %)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 820%)</color><br><color=0:255:0>Steigert Verringerungen von Feuer-, Eis- und Blitzresistenzen (auf 80%)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 820%)</color><br><color=0:255:0>Aumenta las reducciones de resistencia a fuego, hielo y rayo (a un 80%)</color>"
+    ],
+    "228310002": [
+        "Boosts damage amount (to 820%)<br>Boosts fire, ice, and lightning resistance reductions (to 80%)<br><color=0:255:0>Boosts attack count (to 2)</color><br><color=0:255:0>Boosts fire resistance reduction (to 120%)</color><br><color=0:255:0>Boosts ice and lightning resistance reductions (to 100%)</color><br><color=255:255:0>Reduces hit count of first attack (to 7)</color>",
+        "提高傷害量(至820%)<br>提高火冰雷屬性耐性減少量(至80%)<br><color=0:255:0>提高攻擊數(至2)</color><br><color=0:255:0>提高火屬性耐性減少量(至120%)</color><br><color=0:255:0>提高冰雷屬性耐性減少量(至100%)</color><br><color=255:255:0>減少首次攻擊的攻擊次數(至7)</color>",
+        "피해량 상승(820%)<br>불, 얼음, 번개속성 저항력 감소량 상승(80%)<br><color=0:255:0>공격 횟수 상승(2)</color><br><color=0:255:0>불속성 저항력 감소량 상승(120%)</color><br><color=0:255:0>얼음과 번개속성 저항력 감소량 상승(100%)</color><br><color=255:255:0>첫 번째 공격 히트 수 감소(7)</color>",
+        "Augmente les dégâts (à 820 %)<br>Amplifie les réductions de la résistance au feu, à la glace et à la foudre (à 80 %)<br><color=0:255:0>Augmente le nombre d'attaques (à 2)</color><br><color=0:255:0>Amplifie les réductions de la résistance au feu (à 120 %)</color><br><color=0:255:0>Amplifie les réductions de la résistance à la glace et à la foudre (à 100 %)</color><br><color=255:255:0>Réduit le nombre de coups de la 1re attaque (à 7)</color>",
+        "Erhöht Schaden (auf 820%)<br>Steigert Verringerungen von Feuer-, Eis- und Blitzresistenzen (auf 80%)<br><color=0:255:0>Erhöht Angriffszahl (auf 2)</color><br><color=0:255:0>Steigert Verringerung von Feuerresistenz (auf 120%)</color><br><color=0:255:0>Steigert Verringerungen von Eis- und Blitzresistenzen (auf 100%)</color><br><color=255:255:0>Verringert Trefferzahl des ersten Angriffs (auf 7)</color>",
+        "Aumenta el daño (a un 820%)<br>Aumenta las reducciones de resistencia a fuego, hielo y rayo (a un 80%)<br><color=0:255:0>Aumenta el número de ataques (a 2)</color><br><color=0:255:0>Aumenta la reducción de resistencia al fuego (a un 120%)</color><br><color=0:255:0>Aumenta las reducciones de resistencia a hielo y rayo (a un 100%)</color><br><color=255:255:0>Reduce el número de golpes del primer ataque (a 7)</color>"
+    ],
+    "228311001": [
+        "<color=0:255:0>Boosts damage amount (to 650%)</color><br><color=0:255:0>Boosts turns in effect for 70% ATK and MAG reductions (to 2 turns)</color><br><color=0:255:0>Boosts turns in effect for 55% ATK and MAG reductions (to 4 turns)</color>",
+        "<color=0:255:0>提高傷害量(至650%)</color><br><color=0:255:0>提高「降低70%攻擊魔力」的效果回合數(至2回合)</color><br><color=0:255:0>提高「降低55%攻擊魔力」的效果回合數(至4回合)</color>",
+        "<color=0:255:0>피해량 상승(650%)</color><br><color=0:255:0>공격력과 마력 70% 감소 효과 턴 수 상승(2턴)</color><br><color=0:255:0>공격력과 마력 55% 감소 효과 턴 수 상승(4턴)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 650 %)</color><br><color=0:255:0>Augmente le nombre de tours de la réduction de 70 % de l'ATT et de la MAGIE (à 2 tours)</color><br><color=0:255:0>Augmente le nombre de tours de la réduction de 55 % de l'ATT et de la MAGIE (à 4 tours)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 650%)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für 70%-Verringerungen von ANG und MAG (auf 2 Runden)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für 55%-Verringerungen von ANG und MAG (auf 4 Runden)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 650%)</color><br><color=0:255:0>Aumenta la duración de las reducciones del 70% de ATQ y MAG (a 2 turnos)</color><br><color=0:255:0>Aumenta la duración de las reducciones del 55% de ATQ y MAG (a 4 turnos)</color>"
+    ],
+    "228311002": [
+        "Boosts damage amount (to 650%)<br>Boosts turns in effect for 70% ATK and MAG reductions (to 2 turns)<br>Boosts turns in effect for 55% ATK and MAG reductions (to 4 turns)<br><color=0:255:0>Boosts damage amount (to 1050%)</color><br><color=0:255:0>Increases hit count (to 8)</color><br><color=0:255:0>Boosts 70% ATK and MAG reductions (to 75%)</color><br><color=0:255:0>Boosts 55% ATK and MAG reductions (to 65%)</color><br><color=0:255:0>Boosts 45% ATK and MAG reductions (to 55%)</color>",
+        "提高傷害量(至650%)<br>提高「降低70%攻擊魔力」的效果回合數(至2回合)<br>提高「降低55%攻擊魔力」的效果回合數(至4回合)<br><color=0:255:0>提高傷害量(至1050%)</color><br><color=0:255:0>提高攻擊次數(至8)</color><br><color=0:255:0>提高攻擊魔力減少量(70%至75%)</color><br><color=0:255:0>提高攻擊魔力減少量(55%至65%)</color><br><color=0:255:0>提高攻擊魔力減少量(45%至55%)</color>",
+        "피해량 상승(650%)<br>공격력과 마력 70% 감소 효과 턴 수 상승(2턴)<br>공격력과 마력 55% 감소 효과 턴 수 상승(4턴)<br><color=0:255:0>피해량 상승(1050%)</color><br><color=0:255:0>히트 수 상승(8)</color><br><color=0:255:0>공격력과 마력 감소량 상승(70% to 75%)</color><br><color=0:255:0>공격력과 마력 감소량 상승(55% to 65%)</color><br><color=0:255:0>공격력과 마력 감소량 상승(45% to 55%)</color>",
+        "Augmente les dégâts (à 650 %)<br>Augmente le nombre de tours de la réduction de 70 % de l'ATT et de la MAGIE (à 2 tours)<br>Augmente le nombre de tours de la réduction de 55 % de l'ATT et de la MAGIE (à 4 tours)<br><color=0:255:0>Augmente les dégâts (à 1050 %)</color><br><color=0:255:0>Augmente le nombre de coups (à 8)</color><br><color=0:255:0>Amplifie les réductions de 70 % de l'ATT et de la MAGIE (à 75 %)</color><br><color=0:255:0>Amplifie les réductions de 55 % de l'ATT et de la MAGIE (à 65 %)</color><br><color=0:255:0>Amplifie les réductions de 45 % de l'ATT et de la MAGIE (à 55 %)</color>",
+        "Erhöht Schaden (auf 650%)<br>Erhöht Anzahl aktiver Runden für 70%-Verringerungen von ANG und MAG (auf 2 Runden)<br>Erhöht Anzahl aktiver Runden für 55%-Verringerungen von ANG und MAG (auf 4 Runden)<br><color=0:255:0>Erhöht Schaden (auf 1050%)</color><br><color=0:255:0>Erhöht Trefferzahl (auf 8)</color><br><color=0:255:0>Steigert 70%-Verringerungen von ANG und MAG (auf 75%)</color><br><color=0:255:0>Steigert 55%-Verringerungen von ANG und MAG (auf 65%)</color><br><color=0:255:0>Steigert 45%-Verringerungen von ANG und MAG (auf 55%)</color>",
+        "Aumenta el daño (a un 650%)<br>Aumenta la duración de las reducciones del 70% de ATQ y MAG (a 2 turnos)<br>Aumenta la duración de las reducciones del 55% de ATQ y MAG (a 4 turnos)<br><color=0:255:0>Aumenta el daño (a un 1050%)</color><br><color=0:255:0>Aumenta el número de golpes (a 8)</color><br><color=0:255:0>Aumenta las reducciones del 70% de ATQ y MAG (a un 75%)</color><br><color=0:255:0>Aumenta las reducciones del 55% de ATQ y MAG (a un 65%)</color><br><color=0:255:0>Aumenta las reducciones del 45% de ATQ y MAG (a un 55%)</color>"
+    ],
+    "228312001": [
+        "<color=0:255:0>Boosts HP absorption (to 105%)</color><br><color=0:255:0>Boosts turns in effect for 70% DEF and SPR reductions (to 2 turns)</color><br><color=0:255:0>Boosts turns in effect for 55% DEF and SPR reductions (to 4 turns)</color>",
+        "<color=0:255:0>提高HP吸收量(至105%)</color><br><color=0:255:0>提高「降低70%防禦精神」的效果回合數(至2回合)</color><br><color=0:255:0>提高「降低55%防禦精神」的效果回合數(至4回合)</color>",
+        "<color=0:255:0>HP 흡수량 상승(105%)</color><br><color=0:255:0>방어력과 정신력 70% 감소 효과 턴 수 상승(2턴)</color><br><color=0:255:0>방어력과 정신력 55% 감소 효과 턴 수 상승(4턴)</color>",
+        "<color=0:255:0>Augmente l'absorption des PV (à 105 %)</color><br><color=0:255:0>Augmente le nombre de tours de la réduction de 70 % de la DEF et de la PSY (à 2 tours)</color><br><color=0:255:0>Augmente le nombre de tours de la réduction de 55 % de la DEF et de la PSY (à 4 tours)</color>",
+        "<color=0:255:0>Steigert LP-Ab­sorp­ti­on (auf 105%)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für 70%-Verringerungen von ABW und PSY (auf 2 Runden)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für 55%-Verringerungen von ABW und PSY (auf 4 Runden)</color>",
+        "<color=0:255:0>Aumenta la absorción de VIT (a un 105%)</color><br><color=0:255:0>Aumenta la duración de las reducciones del 70% de DEF y ESP (a 2 turnos)</color><br><color=0:255:0>Aumenta la duración de las reducciones del 55% de DEF y ESP (a 4 turnos)</color>"
+    ],
+    "228312002": [
+        "Boosts HP absorption (to 105%)<br>Boosts turns in effect for 70% DEF and SPR reductions (to 2 turns)<br>Boosts turns in effect for 55% DEF and SPR reductions (to 4 turns)<br><color=0:255:0>Boosts HP absorption (to 195%)</color><br><color=0:255:0>Increases hit count (to 8)</color><br><color=0:255:0>Boosts 70% DEF and SPR reductions (to 75%)</color><br><color=0:255:0>Boosts 55% DEF and SPR reductions (to 65%)</color><br><color=0:255:0>Boosts 45% DEF and SPR reductions (to 55%)</color>",
+        "提高HP吸收量(至105%)<br>提高「降低70%防禦精神」的效果回合數(至2回合)<br>提高降「低55%防禦精神」的效果回合數(至4回合)<br><color=0:255:0>提高HP吸收量(至195%)</color><br><color=0:255:0>提高攻擊次數(至8)</color><br><color=0:255:0>提高攻擊魔力減少量(70%至75%)</color><br><color=0:255:0>提高攻擊魔力減少量(55%至65%)</color><br><color=0:255:0>提高攻擊魔力減少量(45%至55%)</color>",
+        "HP 흡수량 상승(105%)<br>방어력과 정신력 70% 감소 효과 턴 수 상승(2턴)<br>방어력과 정신력 55% 감소 효과 턴 수 상승(4턴)<br><color=0:255:0>HP 흡수량 상승(195%)</color><br><color=0:255:0>히트 수 상승(8)</color><br><color=0:255:0>방어력과 정신력 감소량 상승(70% to 75%)</color><br><color=0:255:0>방어력과 정신력 감소량 상승(55% to 65%)</color><br><color=0:255:0>방어력과 정신력 감소량 상승(45% to 55%)</color>",
+        "Augmente l'absorption des PV (à 105 %)<br>Augmente le nombre de tours de la réduction de 70 % de la DEF et de la PSY (à 2 tours)<br>Augmente le nombre de tours de la réduction de 55 % de la DEF et de la PSY (à 4 tours)<br><color=0:255:0>Augmente l'absorption des PV (à 195 %)</color><br><color=0:255:0>Augmente le nombre de coups (à 8)</color><br><color=0:255:0>Amplifie les réductions de 70 % de la DEF et de la PSY (à 75 %)</color><br><color=0:255:0>Amplifie les réductions de 55 % de la DEF et de la PSY (à 65 %)</color><br><color=0:255:0>Amplifie les réductions de 45 % de la DEF et de la PSY (à 55 %)</color>",
+        "Steigert LP-Ab­sorp­ti­on (auf 105%)<br>Erhöht Anzahl aktiver Runden für 70%-Verringerungen von ABW und PSY (auf 2 Runden)<br>Erhöht Anzahl aktiver Runden für 55%-Verringerungen von ABW und PSY (auf 4 Runden)<br><color=0:255:0>Steigert LP-Ab­sorp­ti­on (auf 195%)</color><br><color=0:255:0>Erhöht Trefferzahl (auf 8)</color><br><color=0:255:0>Steigert 70%-Verringerungen von ABW und PSY (auf 75%)</color><br><color=0:255:0>Steigert 55%-Verringerungen von ABW und PSY (auf 65%)</color><br><color=0:255:0>Steigert 45%-Verringerungen von ABW und PSY (to 55%)</color>",
+        "Aumenta la absorción de VIT (a un 105%)<br>Aumenta la duración de las reducciones del 70% de DEF y ESP (a 2 turnos)<br>Aumenta la duración de las reducciones del 55% de DEF y ESP (a 4 turnos)<br><color=0:255:0>Aumenta la absorción de VIT (a un 195%)</color><br><color=0:255:0>Aumenta el número de golpes (a 8)</color><br><color=0:255:0>Aumenta las reducciones del 70% de DEF y ESP (a un 75%)</color><br><color=0:255:0>Aumenta las reducciones del 55% de DEF y ESP (a un 65%)</color><br><color=0:255:0>Aumenta las reducciones del 45% de DEF y ESP (a un 55%)</color>"
+    ],
+    "228316001": [
+        "<color=0:255:0>Removes DEF reduction for caster</color><br><color=0:255:0>Boosts damage amount of enabled ability - rush blade (to 600%)</color><br><color=0:255:0>Reduces cooldown time (to one use every 6 turns)</color>",
+        "<color=0:255:0>解除自身降低防禦的效果</color><br><color=0:255:0>可使用的「衝鋒劍」傷害量提高(至600%)</color><br><color=0:255:0>減少冷卻時間(減少至每6回合可使用1次)</color>",
+        "<color=0:255:0>자신의 방어력 감소 효과 해제</color><br><color=0:255:0>사용 가능 어빌리티 '러쉬 블레이드'의 피해량 상승(600%)</color><br><color=0:255:0>재사용 대기 시간 감소(6턴에 1회 사용 가능)</color>",
+        "<color=0:255:0>Dissipe la réduction de la DEF pour le lanceur</color><br><color=0:255:0>Augmente le nombre de dégâts de l'aptitude déblocable Lame de Fougue (à 600 %)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 6 tours)</color>",
+        "<color=0:255:0>Entfernt ABW-Verringerung von Benutzer</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Hastklinge (auf 600%)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 6 Runden)</color>",
+        "<color=0:255:0>Elimina la reducción de DEF del usuario</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Hoja veloz (a un 600%)</color><br><color=0:255:0>Reduce el tiempo de espera (a una vez cada 6 turnos)</color>"
+    ],
+    "228316002": [
+        "Removes DEF reduction for caster<br>Boosts damage amount of enabled ability - rush blade (to 600%)<br>Reduces cooldown time (to one use every 6 turns)<br><color=0:255:0>Boosts ATK increase (to 250%, undispellable)</color><br><color=0:255:0>Boosts damage amount of enabled ability - rush blade (to 775%)</color><br><color=0:255:0>Changes timing of hits for enabled ability - rush blade</color><br><color=0:255:0>Reduces cooldown time (to one use every 5 turns)</color>",
+        "解除自身降低防禦的效果<br>可使用的「衝鋒劍」傷害量提高(至600%)<br>減少冷卻時間(減少至每6回合可使用1次)<br><color=0:255:0>提高攻擊增加量(至250%、無法解除)</color><br><color=0:255:0>可使用的「衝鋒劍」傷害量提高(至775%)</color><br><color=0:255:0>可使用的「衝鋒劍」改變攻擊命中的時間點</color><br><color=0:255:0>減少冷卻時間(減少至每5回合可使用1次)</color>",
+        "자신의 방어력 감소 효과 해제<br>사용 가능 어빌리티 '러쉬 블레이드'의 피해량 상승(600%)<br>재사용 대기 시간 감소(6턴에 1회 사용 가능)<br><color=0:255:0>공격력 상승량 상승(250%, 해제 불가)</color><br><color=0:255:0>사용 가능 어빌리티 '러쉬 블레이드'의 피해량 상승(775%)</color><br><color=0:255:0>사용 가능 어빌리티 '러쉬 블레이드'의 히트 타이밍 변화</color><br><color=0:255:0>재사용 대기 시간 감소(5턴에 1회 사용 가능)</color>",
+        "Dissipe la réduction de la DEF pour le lanceur<br>Augmente le nombre de dégâts de l'aptitude déblocable Lame de Fougue (à 600 %)<br>Réduit le nombre de tours avant réutilisation (à une fois tous les 6 tours)<br><color=0:255:0>Amplifie l'augmentation de l'ATT (à 250 %, ne peut pas être dissipé)</color><br><color=0:255:0>Augmente le nombre de dégâts de l'aptitude déblocable Lame de Fougue (à 775 %)</color><br><color=0:255:0>Modifie le rythme des coups pour l'aptitude déblocable Lame de Fougue</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 5 tours)</color>",
+        "Entfernt ABW-Verringerung von Benutzer<br>Erhöht Schaden von aktiver Fertigkeit - Hastklinge (auf 600%)<br>Verringert Abklingdauer (auf eine Benutzung alle 6 Runden)<br><color=0:255:0>Steigert ANG-Erhöhung (auf 250%, nicht bannbar)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Hastklinge (auf 775%)</color><br><color=0:255:0>Ändert Timing der Treffer von aktiver Fertigkeit - Hastklinge</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 5 Runden)</color>",
+        "Elimina la reducción de DEF del usuario<br>Aumenta el daño de la habilidad aprendida Hoja veloz (a un 600%)<br>Reduce el tiempo de espera (a una vez cada 6 turnos)<br><color=0:255:0>Mayor aumento de ATQ (a un 250%, no se puede eliminar)</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Hoja veloz (a un 775%)</color><br><color=0:255:0>Cambia el ritmo de los golpes de la habilidad aprendida Hoja veloz</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 5 turnos)</color>"
+    ],
+    "228318001": [
+        "<color=0:255:0>Boosts DEF and SPR (30%)</color>",
+        "<color=0:255:0>提高防禦精神(30%)</color>",
+        "<color=0:255:0>방어력과 정신력 상승(30%)</color>",
+        "<color=0:255:0>Augmente la DEF et la PSY (30 %)</color>",
+        "<color=0:255:0>Erhöht ABW und PSY (30%)</color>",
+        "<color=0:255:0>Aumenta la DEF y el ESP (un 30%)</color>"
+    ],
+    "228318002": [
+        "Boosts DEF and SPR (30%)<br><color=0:255:0>Boosts ATK and HP (30%)</color><br><color=0:255:0>Nullifies stop</color>",
+        "提高防禦精神(30%)<br><color=0:255:0>提高HP攻擊(30%)</color><br><color=0:255:0>停止無效</color>",
+        "방어력과 정신력 상승(30%)<br><color=0:255:0>공격력과 HP 상승(30%)</color><br><color=0:255:0>스톱 무효화</color>",
+        "Augmente la DEF et la PSY (30 %)<br><color=0:255:0>Augmente l'ATT et les PV (30 %)</color><br><color=0:255:0>Annule stop</color>",
+        "Erhöht ABW und PSY (30%)<br><color=0:255:0>Erhöht ANG und LP (30%)</color><br><color=0:255:0>Annulliert Stopp</color>",
+        "Aumenta la DEF y el ESP (un 30%)<br><color=0:255:0>Aumenta el ATQ y la VIT (un 30%)</color><br><color=0:255:0>Anula paro</color>"
+    ],
+    "228321001": [
+        "<color=0:255:0>Boosts damage of certain abilities (element eiger and rush blade: 150%)</color><br><color=0:255:0>Boosts equipment ATK when armed with two one-handed weapons (10%)</color>",
+        "<color=0:255:0>提高特定能力的傷害(元素巔峰、衝鋒劍：150%)</color><br><color=0:255:0>裝備2把單手武器時武具攻擊提升(10%)</color>",
+        "<color=0:255:0>특정 어빌리티의 피해량 상승(엘리멘트 아이거, 러쉬 블레이드: 150%)</color><br><color=0:255:0>한손용 무기 2개 장착 시 장비의 공격력 상승(10%)</color>",
+        "<color=0:255:0>Augmente les dégâts de certaines aptitudes (Élément d'Eiger et Lame de Fougue : 150 %)</color><br><color=0:255:0>Augmente l'ATT de l'équipement quand deux armes à une main sont équipées (10 %)</color>",
+        "<color=0:255:0>Erhöht Schaden bestimmter Fertigkeiten (Element Eiger und Hastklinge: 150%)</color><br><color=0:255:0>Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet (10%)</color>",
+        "<color=0:255:0>Aumenta el daño de determinadas habilidades (Elemento de Eiger y Hoja veloz: un 150%)</color><br><color=0:255:0>Aumenta el ATQ del equipo al llevar 2 armas de una sola mano (un 10%)</color>"
+    ],
+    "228321002": [
+        "Boosts damage of certain abilities (element eiger and rush blade: 150%)<br>Boosts equipment ATK when armed with two one-handed weapons (10%)<br><color=0:255:0>Boosts HP, DEF, and SPR (20%)</color><br><color=0:255:0>Boosts increase to damage of certain abilities (element eiger and rush blade: 350%)</color><br><color=0:255:0>Boosts equipment ATK increase (to 60%)</color>",
+        "提高特定能力的傷害(元素巔峰、衝鋒劍：150%)<br>裝備2把單手武器時武具攻擊提升(10%)<br><color=0:255:0>提高HP防禦精神(20%)</color><br><color=0:255:0>提高特定能力的傷害增加量(元素巔峰、衝鋒劍：350%)</color><br><color=0:255:0>提高武具攻擊增加量(至60%)</color>",
+        "특정 어빌리티의 피해량 상승(엘리멘트 아이거, 러쉬 블레이드: 150%)<br>한손용 무기 2개 장착 시 장비의 공격력 상승(10%)<br><color=0:255:0>HP, 방어력, 정신력 상승(20%)</color><br><color=0:255:0>특정 어빌리티의 피해 상승량 상승(엘리멘트 아이거, 러쉬 블레이드: 350%)</color><br><color=0:255:0>장비의 공격력 상승량 상승(60%)</color>",
+        "Augmente les dégâts de certaines aptitudes (Élément d'Eiger et Lame de Fougue : 150 %)<br>Augmente l'ATT de l'équipement quand deux armes à une main sont équipées (10 %)<br><color=0:255:0>Augmente les PV, la DEF et la PSY (20 %)</color><br><color=0:255:0>Augmente les dégâts de certaines aptitudes (Élément d'Eiger et Lame de Fougue : 350 %)</color><br><color=0:255:0>Augmente l'ATT de l'équipement (60 %)</color>",
+        "Erhöht Schaden bestimmter Fertigkeiten (Element Eiger und Hastklinge: 150%)<br>Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet (10%)<br><color=0:255:0>Erhöht LP, ABW und PSY (20%)</color><br><color=0:255:0>Steigert Schadenserhöhungen bestimmter Fertigkeiten (Element Eiger und Hastklinge: 350%)</color><br><color=0:255:0>Steigert Erhöhung von Ausrüstung-ANG (auf 60%)</color>",
+        "Aumenta el daño de determinadas habilidades (Elemento de Eiger y Hoja veloz: un 150%)<br>Aumenta el ATQ del equipo al llevar 2 armas de una sola mano (un 10%)<br><color=0:255:0>Aumenta VIT, DEF y ESP (un 20%)</color><br><color=0:255:0>Mayor aumento del daño de determinadas habilidades (Elemento de Eiger y Hoja veloz: un 350%)</color><br><color=0:255:0>Mayor aumento de ATQ del equipo (a un 60%)</color>"
+    ],
+    "228330001": [
+        "<color=0:255:0>Boosts turns in effect for 100% ice resistance reduction (to 2 turns)</color><br><color=0:255:0>Boosts turns in effect for 75% ice resistance reduction (to 3 turns)</color><br><color=0:255:0>Boosts damage amount of enabled ability - zekken - twilight rain (to 1350/1350%)</color>",
+        "<color=0:255:0>提高100%冰屬性耐性降低的效果回合數(至2回合)</color><br><color=0:255:0>提高75%冰屬性耐性降低的效果回合數(至3回合)</color><br><color=0:255:0>可使用的「絕劍·暮雨」傷害量提高(至1350/1350%)</color>",
+        "<color=0:255:0>얼음속성 저항력 100% 감소 효과 턴 수 상승(2턴)</color><br><color=0:255:0>얼음속성 저항력 75% 감소 효과 턴 수 상승(3턴)</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1350/1350%)</color>",
+        "<color=0:255:0>Augmente la durée de la réduction de 100 % de la résistance à la glace (à 2 tours)</color><br><color=0:255:0>Augmente la durée de la réduction de 75 % de la résistance à la glace (à 3 tours)</color><br><color=0:255:0>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1350 / 1350 %)</color>",
+        "<color=0:255:0>Erhöht Anzahl aktiver Runden für 100%-Eisresistenz-Verringerung (auf 2 Runden)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden für 75%-Eisresistenz-Verringerung (auf 3 Runden)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1350/1350%)</color>",
+        "<color=0:255:0>Aumenta la duración de la reducción del 100% de la resistencia al hielo (a 2 turnos)</color><br><color=0:255:0>Aumenta la duración de la reducción del 75% de la resistencia al hielo (a 3 turnos)</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1350/1350%)</color>"
+    ],
+    "228330002": [
+        "Boosts turns in effect for 100% ice resistance reduction (to 2 turns)<br>Boosts turns in effect for 75% ice resistance reduction (to 3 turns)<br>Boosts damage amount of enabled ability - zekken - twilight rain (to 1350/1350%)<br><color=0:255:0>Boosts turns in effect for 100% ice resistance reduction (to 3 turns)</color><br><color=0:255:0>Boosts damage amount of enabled ability - zekken - twilight rain (to 1500/1500%)</color><br><color=0:255:0>Enables triple zekken for 2 turns</color><br><color=255:255:0>Reduces hit count of enabled ability - zekken - twilight rain (to 8)</color>",
+        "提高100%冰屬性耐性降低的效果回合數(至2回合)<br>提高75%冰屬性耐性降低的效果回合數(至3回合)<br>可使用的「絕劍·暮雨」傷害量提高(至1350/1350%)<br><color=0:255:0>提高100%冰屬性耐性降低的效果回合數(至3回合)</color><br><color=0:255:0>可使用的「絕劍·暮雨」傷害量提高(至1500/1500%)</color><br><color=0:255:0>2回合內可以使用「三連絕劍」</color><br><color=255:255:0>降低「絕劍·暮雨」的攻擊次數(至8)</color>",
+        "얼음속성 저항력 100% 감소 효과 턴 수 상승(2턴)<br>얼음속성 저항력 75% 감소 효과 턴 수 상승(3턴)<br>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1350/1350%)<br><color=0:255:0>얼음속성 저항력 100% 감소 효과 턴 수 상승(3턴)</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1500/1500%)</color><br><color=0:255:0>2턴 동안 '삼연절검' 사용 가능</color><br><color=255:255:0>사용 가능 어빌리티 '절검·저녁비'의 히트 수 감소(8)</color>",
+        "Augmente la durée de la réduction de 100 % de la résistance à la glace (à 2 tours)<br>Augmente la durée de la réduction de 75 % de la résistance à la glace (à 3 tours)<br>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1350 / 1350 %)<br><color=0:255:0>Augmente la durée de la réduction de 100 % de la résistance à la glace (à 3 tours)</color><br><color=0:255:0>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à1500 / 1500 %)</color><br><color=0:255:0>Permet d'utiliser Triple Zekken pendant deux tours</color><br><color=255:255:0>Réduit le nombre de coups de l'aptitude déblocable Zekken - Pluie du crépuscule (à 8)</color>",
+        "Erhöht Anzahl aktiver Runden für 100%-Eisresistenz-Verringerung (auf 2 Runden)<br>Erhöht Anzahl aktiver Runden für 75%-Eisresistenz-Verringerung (auf 3 Runden)<br>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1350/1350%)<br><color=0:255:0>Erhöht Anzahl aktiver Runden für 100%-Eisresistenz-Verringerung (auf 3 Runden)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1500/1500%)</color><br><color=0:255:0>Ermöglicht Dreifach-Zekken für 2 Runden</color><br><color=255:255:0>Verringert Trefferzahl von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 8)</color>",
+        "Aumenta la duración de la reducción del 100% de la resistencia al hielo (a 2 turnos)<br>Aumenta la duración de la reducción del 75% de la resistencia al hielo (a 3 turnos)<br>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1350/1350%)<br><color=0:255:0>Aumenta la duración de la reducción del 100% de la resistencia al hielo (a 3 turnos)</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1500/1500%)</color><br><color=0:255:0>Aprende Zekken triple durante 2 turnos</color><br><color=255:255:0>Reduce el número de golpes de la habilidad aprendida Zekken - Lluvia del crepúsculo (a 8)</color>"
+    ],
+    "228331001": [
+        "<color=0:255:0>Boosts damage amount (to 550/550%)</color><br><color=0:255:0>Boosts chance to inflict confusion and disease (to 50%)</color><br><color=0:255:0>Changes timing of hits</color>",
+        "<color=0:255:0>提高傷害量(至550/550%)</color><br><color=0:255:0>提高施加混亂生病效果的機率(至50%)</color><br><color=0:255:0>改變攻擊命中的時間點</color>",
+        "<color=0:255:0>피해량 상승(550/550%)</color><br><color=0:255:0>혼란과 질병 부여 확률 상승(50%)</color><br><color=0:255:0>히트 타이밍 변화</color>",
+        "<color=0:255:0>Augmente les dégâts (à 550 / 550 %)</color><br><color=0:255:0>Augmente les chances d'infliger confusion et maladie (à 50 %)</color><br><color=0:255:0>Modifie le rythme des coups</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 550/550%)</color><br><color=0:255:0>Erhöht Chance, Konfus und Virus zu erteilen (auf 50%)</color><br><color=0:255:0>Ändert Timing der Treffer</color>",
+        "<color=0:255:0>Aumenta el daño (a un 550/550%)</color><br><color=0:255:0>Aumenta la probabilidad de infligir confusión y enfermedad (a un 50%)</color><br><color=0:255:0>Cambia el ritmo de los golpes</color>"
+    ],
+    "228331002": [
+        "Boosts damage amount (to 550/550%)<br>Boosts chance to inflict confusion and disease (to 50%)<br>Changes timing of hits<br><color=0:255:0>Boosts damage amount (to 750/750%)</color><br><color=0:255:0>Boosts chance to inflict confusion and disease (to 80%)</color>",
+        "提高傷害量(至550/550%)<br>提高施加混亂生病效果的機率(至50%)<br>改變攻擊命中的時間點<br><color=0:255:0>提高傷害量(至750/750%)</color><br><color=0:255:0>提高施加混亂生病效果的機率(至80%)</color>",
+        "피해량 상승(550/550%)<br>혼란과 질병 부여 확률 상승(50%)<br>히트 타이밍 변화<br><color=0:255:0>피해량 상승(750/750%)</color><br><color=0:255:0>혼란과 질병 부여 확률 상승(80%)</color>",
+        "Augmente les dégâts (à 550 / 550 %)<br>Augmente les chances d'infliger confusion et maladie (à 50 %)<br>Modifie le rythme des coups<br><color=0:255:0>Augmente les dégâts (à 750 / 750 %)</color><br><color=0:255:0>Augmente les chances d'infliger confusion et maladie (à 80 %)</color>",
+        "Erhöht Schaden (auf 550/550%)<br>Erhöht Chance, Konfus und Virus zu erteilen (auf 50%)<br>Ändert Timing der Treffer<br><color=0:255:0>Erhöht Schaden (auf 750/750%)</color><br><color=0:255:0>Erhöht Chance, Konfus und Virus zu erteilen (auf 80%)</color>",
+        "Aumenta el daño (a un 550/550%)<br>Aumenta la probabilidad de infligir confusión y enfermedad (a un 50%)<br>Cambia el ritmo de los golpes<br><color=0:255:0>Aumenta el daño (a un 750/750%)</color><br><color=0:255:0>Aumenta la probabilidad de infligir confusión y enfermedad (a un 80%)</color>"
+    ],
+    "228332001": [
+        "<color=0:255:0>Boosts damage amount (to 550/550%)</color><br><color=0:255:0>Boosts chance to inflict sleep and stone (to 50%)</color>",
+        "<color=0:255:0>提高傷害量(至550/550%)</color><br><color=0:255:0>提高施加睡眠石化效果的機率(至50%)</color>",
+        "<color=0:255:0>피해량 상승(550/550%)</color><br><color=0:255:0>수면과 석화 부여 확률 상승(50%)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 550 / 550 %)</color><br><color=0:255:0>Augmente les chances d'infliger sommeil et pétrification (à 50 %)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 550/550%)</color><br><color=0:255:0>Erhöht Chance, Schlaf und Stein zu erteilen (auf 50%)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 550/550%)</color><br><color=0:255:0>Aumenta la probabilidad de infligir sueño y piedra (a un 50%)</color>"
+    ],
+    "228332002": [
+        "Boosts damage amount (to 550/550%)<br>Boosts chance to inflict sleep and stone (to 50%)<br><color=0:255:0>Boosts damage amount (to 750/750%)</color><br><color=0:255:0>Boosts chance to inflict sleep and stone (to 80%)</color>",
+        "提高傷害量(至550/550%)<br>提高施加睡眠石化效果的機率(至50%)<br><color=0:255:0>提高傷害量(至750/750%)</color><br><color=0:255:0>提高施加睡眠石化效果的機率(至80%)</color>",
+        "피해량 상승(550/550%)<br>수면과 석화 부여 확률 상승(50%)<br><color=0:255:0>피해량 상승(750/750%)</color><br><color=0:255:0>수면과 석화 부여 확률 상승(80%)</color>",
+        "Augmente les dégâts (à 550 / 550 %)<br>Augmente les chances d'infliger sommeil et pétrification (à 50 %)<br><color=0:255:0>Augmente les dégâts (à 750 / 750 %)</color><br><color=0:255:0>Augmente les chances d'infliger sommeil et pétrification (à 80 %)</color>",
+        "Erhöht Schaden (auf 550/550%)<br>Erhöht Chance, Schlaf und Stein zu erteilen (auf 50%)<br><color=0:255:0>Erhöht Schaden (auf 750/750%)</color><br><color=0:255:0>Erhöht Chance, Schlaf und Stein zu erteilen (auf 80%)</color>",
+        "Aumenta el daño (a un 550/550%)<br>Aumenta la probabilidad de infligir sueño y piedra (a un 50%)<br><color=0:255:0>Aumenta el daño (a un 750/750%)</color><br><color=0:255:0>Aumenta la probabilidad de infligir sueño y piedra (a un 80%)</color>"
+    ],
+    "228333001": [
+        "<color=0:255:0>Boosts damage amount (to 890/890%)</color><br><color=0:255:0>Reduces ice resistance for one enemy for three turns (60%)</color>",
+        "<color=0:255:0>提高傷害量(至890/890%)</color><br><color=0:255:0>3回合內降低1名敵人的冰屬性耐性(60%)</color>",
+        "<color=0:255:0>피해량 상승(890/890%)</color><br><color=0:255:0>3턴 동안 적 1명의 얼음속성 저항력 감소(60%)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 890 / 890 %)</color><br><color=0:255:0>Réduit la résistance à la glace d'un ennemi pendant 3 tours (60 %)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 890/890%)</color><br><color=0:255:0>Verringert Eisresistenz bei einem Gegner für drei Runden (60%)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 890/890%)</color><br><color=0:255:0>Reduce la resistencia al hielo de un enemigo durante 3 turnos (un 60%)</color>"
+    ],
+    "228333002": [
+        "Boosts damage amount (to 890/890%)<br>Reduces ice resistance for one enemy for three turns (60%)<br><color=0:255:0>Boosts damage amount (to 1150/1150%)</color><br><color=0:255:0>Boosts ice resistance reduction (to 120%)</color><br><color=0:255:0>Boosts turns in effect (to 5 turns)</color><br><color=255:255:0>Reduces hit count (to 8)</color>",
+        "提高傷害量(至890/890%)<br>3回合內降低1名敵人的冰屬性耐性(60%)<br><color=0:255:0>提高傷害量(至1150/1150%)</color><br><color=0:255:0>提高冰屬性耐性減少量(至120%)</color><br><color=0:255:0>提高效果回合數(至5回合)</color><br><color=255:255:0>減少攻擊次數(至8)</color>",
+        "피해량 상승(890/890%)<br>3턴 동안 적 1명의 얼음속성 저항력 감소(60%)<br><color=0:255:0>피해량 상승(1150/1150%)</color><br><color=0:255:0>얼음속성 저항력 감소량 상승(120%)</color><br><color=0:255:0>효과 턴 수 상승(5턴)</color><br><color=255:255:0>히트 수 감소(8)</color>",
+        "Augmente les dégâts (à 890 / 890 %)<br>Réduit la résistance à la glace d'un ennemi pendant 3 tours (60 %)<br><color=0:255:0>Augmente les dégâts (à 1150 / 1150 %)</color><br><color=0:255:0>Amplifie la réduction de la résistance à la glace (à 120 %)</color><br><color=0:255:0>Augmente le nombre de tours des effets (à 5 tours)</color><br><color=255:255:0>Réduit le nombre de coups (à 8)</color>",
+        "Erhöht Schaden (auf 890/890%)<br>Verringert Eisresistenz bei einem Gegner für drei Runden (60%)<br><color=0:255:0>Erhöht Schaden (auf 1150/1150%)</color><br><color=0:255:0>Steigert Verringerung von Eisresistenz (auf 120%)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (auf 5 Runden)</color><br><color=255:255:0>Verringert Trefferzahl (auf 8)</color>",
+        "Aumenta el daño (a un 890/890%)<br>Reduce la resistencia al hielo de un enemigo durante 3 turnos (un 60%)<br><color=0:255:0>Aumenta el daño (a un 1150/1150%)</color><br><color=0:255:0>Aumenta la reducción de la resistencia al hielo (a un 120%)</color><br><color=0:255:0>Aumenta la duración (a 5 turnos)</color><br><color=255:255:0>Reduce el número de golpes (a 8)</color>"
+    ],
+    "228334001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (to 130%)</color><br><color=0:255:0>Boosts ice resistance increase (to 85%)</color>",
+        "<color=0:255:0>提高攻擊魔力增加量(至130%)</color><br><color=0:255:0>提高冰屬性耐性增加量(至85%)</color>",
+        "<color=0:255:0>공격력과 마력 상승량 상승(130%)</color><br><color=0:255:0>얼음속성 저항력 상승량 상승(85%)</color>",
+        "<color=0:255:0>Amplifie les augmentations de l'ATT et de la MAGIE (à 130 %)</color><br><color=0:255:0>Amplifie l'augmentation de la résistance à la glace (à 85 %)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 130%)</color><br><color=0:255:0>Steigert Erhöhung von Eisresistenz (auf 85%)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ y MAG (a un 130%)</color><br><color=0:255:0>Mayor aumento de resistencia al hielo (a un 85%)</color>"
+    ],
+    "228334002": [
+        "Boosts ATK and MAG increases (to 130%)<br>Boosts ice resistance increase (to 85%)<br><color=0:255:0>Boosts ATK and MAG increases (to 150%)</color><br><color=0:255:0>Boosts ice resistance increase (to 100%)</color><br><color=0:255:0>Boosts turns in effect (to 5 turns)</color>",
+        "提高攻擊魔力增加量(至130%)<br>提高冰屬性耐性增加量(至85%)<br><color=0:255:0>提高攻擊魔力增加量(至150%)</color><br><color=0:255:0>提高冰屬性耐性增加量(至100%)</color><br><color=0:255:0>提高效果回合數(至5回合)</color>",
+        "공격력과 마력 상승량 상승(130%)<br>얼음속성 저항력 상승량 상승(85%)<br><color=0:255:0>공격력과 마력 상승량 상승(150%)</color><br><color=0:255:0>얼음속성 저항력 상승량 상승(100%)</color><br><color=0:255:0>효과 턴 수 상승(5턴)</color>",
+        "Amplifie les augmentations de l'ATT et de la MAGIE (à 130 %)<br>Amplifie l'augmentation de la résistance à la glace (à 85 %)<br><color=0:255:0>Amplifie les augmentations de l'ATT et de la MAGIE (à 150 %)</color><br><color=0:255:0>Amplifie l'augmentation de la résistance à la glace (à 100 %)</color><br><color=0:255:0>Augmente le nombre de tours des effets (à 5 tours)</color>",
+        "Steigert ANG- und MAG-Erhöhungen (auf 130%)<br>Steigert Erhöhung von Eisresistenz (auf 85%)<br><color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 150%)</color><br><color=0:255:0>Steigert Erhöhung von Eisresistenz (auf 100%)</color><br><color=0:255:0>Erhöht Anzahl aktiver Runden (auf 5 Runden)</color>",
+        "Mayor aumento de ATQ y MAG (a un 130%)<br>Mayor aumento de resistencia al hielo (a un 85%)<br><color=0:255:0>Mayor aumento de ATQ y MAG (a un 150%)</color><br><color=0:255:0>Mayor aumento de resistencia al hielo (a un 100%)</color><br><color=0:255:0>Aumenta la duración (a 5 turnos)</color>"
+    ],
+    "228336001": [
+        "<color=0:255:0>Adds blizzaja sword, definitive command, and instant hellfreeze to the specific abilities that can be used twice in one turn</color>",
+        "<color=0:255:0>將「強暴雪劍」「正確指揮」「剎那冰獄」 增加至1回合內可使用2次的能力列表中</color>",
+        "<color=0:255:0>1턴 동안 2회 사용 가능한 특정 어빌리티에 '블리자쟈 검', '적합한 지휘', '찰나의 얼음 감옥' 추가</color>",
+        "<color=0:255:0>Ajoute Épée glace max, Ordre définitif et Enfer glacial instantané aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour</color></color>",
+        "<color=0:255:0>Fügt Eiska-Schwert, Präziser Befehl und Sofortige Eishölle zu den besonderen Fertigkeiten hinzu, die zweimal in einer Runde benutzt werden können</color>",
+        "<color=0:255:0>Añade Espada Hielo+++, Orden definitiva, y Glacial infernal súbito a las habilidades que pueden usarse 2 veces en un turno</color>"
+    ],
+    "228336002": [
+        "Adds blizzaja sword, definitive command, and instant hellfreeze to the specific abilities that can be used twice in one turn<br><color=0:255:0>Adds summon eidolon, ice magic unleashed, and diamond rain to the specific abilities that can be used twice in one turn</color>",
+        "將「強暴雪劍」「正確指揮」「剎那冰獄」 增加至1回合內可使用2次的能力列表中<br><color=0:255:0>將「軍神召喚」「寒氣魔力解放」「鑽石之雨」 增加至1回合內可使用2次的能力列表中</color>",
+        "1턴 동안 2회 사용 가능한 특정 어빌리티에 '블리자쟈 검', '적합한 지휘', '찰나의 얼음 감옥' 추가<br><color=0:255:0>1턴 동안 2회 사용 가능한 특정 어빌리티에 '군신 소환', '냉기 마력 해방', '다이아몬드 레인' 추가</color>",
+        "Ajoute Épée glace max, Ordre définitif et Enfer glacial instantané aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour<br><color=0:255:0>Ajoute Appeler eidolon, Déchaînement magique - Glace et Pluie de diamant aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour</color>",
+        "Fügt Eiska-Schwert, Präziser Befehl und Sofortige Eishölle zu den besonderen Fertigkeiten hinzu, die zweimal in einer Runde benutzt werden können<br><color=0:255:0>Fügt Esper beschwören, Entfesselte Eismagie und Diamantregen zu den besonderen Fertigkeiten hinzu, die zweimal in einer Runde benutzt werden können</color>",
+        "Añade Espada Hielo+++, Orden definitiva, y Glacial infernal súbito a las habilidades que pueden usarse 2 veces en un turno<br><color=0:255:0>Añade Invocar eidolón, Magia de hielo desatada, y Lluvia de diamantes a las habilidades que pueden usarse 2 veces en un turno</color>"
+    ],
+    "228337001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (to 250%, undispellable)</color><br><color=0:255:0>Boosts damage amount of enabled ability - zekken - twilight rain (to 1350/1350%)</color><br><color=0:255:0>Reduces cooldown time (to one use every 8 turns)</color>",
+        "<color=0:255:0>提高攻擊魔力增加量(至250%、無法解除)</color><br><color=0:255:0>提高「絕劍·暮雨」的傷害量 (至1350/1350%)</color><br><color=0:255:0>減少冷卻時間(減少至每8回合可使用1次)</color>",
+        "<color=0:255:0>공격력과 마력 상승량 상승(250%, 해제 불가)</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1350/1350%)</color><br><color=0:255:0>재사용 대기 시간 감소(8턴에 1회 사용 가능)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (à 250 %, ne peut pas être dissipé)</color><br><color=0:255:0>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1350 / 1350 %)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 8 tours)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 250%, nicht bannbar)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1350/1350%)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 8 Runden)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ y MAG (a un 250%, no se puede eliminar)</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1350/1350%)</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 8 turnos)</color>"
+    ],
+    "228337002": [
+        "Boosts ATK and MAG increases (to 250%, undispellable)<br>Boosts damage amount of enabled ability - zekken - twilight rain (to 1350/1350%)<br>Reduces cooldown time (to one use every 8 turns)<br><color=0:255:0>Boosts turns in effect (to 6 turns)</color><br><color=0:255:0>Boosts enabled duration of enabled abilities - zekken - twilight rain and triple zekken (to 5 turns)</color><br><color=0:255:0>Boosts damage amount of enabled ability - zekken - twilight rain (to 1500/1500%)</color><br><color=0:255:0>Reduces cooldown time (to one use every 6 turns)</color><br><color=255:255:0>Reduces hit count of enabled ability - zekken - twilight rain (to 8)</color><br><color=255:255:0>Increases MP consumed (to 150)</color>",
+        "提高攻擊魔力增加量(至250%、無法解除)<br>提高「絕劍·暮雨」的傷害量 (至1350/1350%)<br>減少冷卻時間(減少至每8回合可使用1次)<br><color=0:255:0>提高效果回合數(至6回合)</color><br><color=0:255:0>「絕劍·暮雨」「三連絕劍」的可使用回合數提高(至5回合)</color><br><color=0:255:0>提高「絕劍·暮雨」的傷害量 (至1500/1500%)</color><br><color=0:255:0>減少冷卻時間(減少至每6回合可使用1次)</color><br><color=255:255:0>降低「絕劍·暮雨」的攻擊次數(至8)</color><br><color=255:255:0>增加MP消耗(至150)</color>",
+        "공격력과 마력 상승량 상승(250%, 해제 불가)<br>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1350/1350%)<br>재사용 대기 시간 감소(8턴에 1회 사용 가능)<br><color=0:255:0>효과 턴 수 상승(6턴)</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'와 '삼연절검'의 사용 가능 턴 수 상승(5턴)</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1500/1500%)</color><br><color=0:255:0>재사용 대기 시간 감소(6턴에 1회 사용 가능)</color><br><color=255:255:0>사용 가능 어빌리티 '절검·저녁비'의 히트 수 감소(8)</color><br><color=255:255:0>소비 MP 증가(150)</color>",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (à 250 %, ne peut pas être dissipé)<br>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1350 / 1350 %)<br>Réduit le nombre de tours avant réutilisation (à une fois tous les 8 tours)<br><color=0:255:0>Augmente le nombre de tours des effets (à 6 tours)</color><br><color=0:255:0>Augmente la durée de disponibilité des aptitudes déblocables Zekken - Pluie du crépuscule et Triple Zekken (à 5 tours)</color><br><color=0:255:0>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1500 / 1500 %)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 6 tours)</color><br><color=255:255:0>Réduit le nombre de coups pour l'aptitude déblocable Zekken - Pluie du crépuscule (à 8)</color><br><color=255:255:0>Augmente les PM consommés (à 150)</color>",
+        "Steigert ANG- und MAG-Erhöhungen (auf 250%, nicht bannbar)<br>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1350/1350%)<br>Verringert Abklingdauer (auf eine Benutzung alle 8 Runden)<br><color=0:255:0>Erhöht Anzahl aktiver Runden (auf 6 Runden)</color><br><color=0:255:0>Erhöht aktive Dauer von aktiven Fertigkeiten - Zekken - Regen im Zwielicht und Dreifach-Zekken (auf 5 Runden)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1500/1500%)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 6 Runden)</color><br><color=255:255:0>Verringert Trefferzahl von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 8)</color><br><color=255:255:0>Erhöht MP-Verbrauch (auf 150)</color>",
+        "Mayor aumento de ATQ y MAG (a un 250%, no se puede eliminar)<br>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1350/1350%)<br>Reduce el tiempo de espera (a un uso cada 8 turnos)<br><color=0:255:0>Aumenta la duración (a 6 turnos)</color><br><color=0:255:0>Aumenta la duración de las habilidades aprendidas Zekken - Lluvia del crepúsculo y Zekken triple (a 5 turnos)</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1500/1500%)</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 6 turnos)</color><br><color=255:255:0>Reduce el número de golpes de la habilidad aprendida Zekken - Lluvia del crepúsculo (a 8)</color><br><color=255:255:0>Aumenta el consumo de PM (a 150)</color>"
+    ],
+    "228338001": [
+        "<color=0:255:0>Boosts damage amount (to 3450/3450%)</color><br><color=0:255:0>Reduces cooldown time (to one use every 5 turns)</color>",
+        "<color=0:255:0>提高傷害量(至3450/3450%)</color><br><color=0:255:0>減少冷卻時間(減少至每5回合可使用1次)</color>",
+        "<color=0:255:0>피해량 상승(3450/3450%)</color><br><color=0:255:0>재사용 대기 시간 감소(5턴에 1회 사용 가능)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 3450 / 3450 %)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 5 tours)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 3450/3450%)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 5 Runden)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 3450/3450%)</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 5 turnos)</color>"
+    ],
+    "228338002": [
+        "Boosts damage amount (to 3450/3450%)<br>Reduces cooldown time (to one use every 5 turns)<br><color=0:255:0>Boosts damage amount (to 4200/4200%)</color><br><color=0:255:0>Reduces cooldown time (to one use every 4 turns)</color><br><color=0:255:0>Changes timing of hits</color>",
+        "提高傷害量(至3450/3450%)<br>減少冷卻時間(減少至每5回合可使用1次)<br><color=0:255:0>提高傷害量(至4200/4200%)</color><br><color=0:255:0>減少冷卻時間(減少至每4回合可使用1次)</color><br><color=0:255:0>改變攻擊命中的時間點</color>",
+        "피해량 상승(3450/3450%)<br>재사용 대기 시간 감소(5턴에 1회 사용 가능)<br><color=0:255:0>피해량 상승(4200/4200%)</color><br><color=0:255:0>재사용 대기 시간 감소(4턴에 1회 사용 가능)</color><br><color=0:255:0>히트 타이밍 변화</color>",
+        "Augmente les dégâts (à 3450 / 3450 %)<br>Réduit le nombre de tours avant réutilisation (à une fois tous les 5 tours)<br><color=0:255:0>Augmente les dégâts (à 4200 / 4200 %)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 4 tours)</color><br><color=0:255:0>Modifie le rythme des coups</color>",
+        "Erhöht Schaden (auf 3450/3450%)<br>Verringert Abklingdauer (auf eine Benutzung alle 5 Runden)<br><color=0:255:0>Erhöht Schaden (auf 4200/4200%)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 4 Runden)</color><br><color=0:255:0>Ändert Timing der Treffer</color>",
+        "Aumenta el daño (a un 3450/3450%)<br>Reduce el tiempo de espera (a un uso cada 5 turnos)<br><color=0:255:0>Aumenta el daño (a un 4200/4200%)</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 4 turnos)</color><br><color=0:255:0>Cambia el ritmo de los golpes</color>"
+    ],
+    "228342001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (to 40%)</color><br><color=0:255:0>Boosts equipment ATK and MAG increases (to 100%)</color>",
+        "<color=0:255:0>提高攻擊魔力增加量(至40%)</color><br><color=0:255:0>提高裝備攻擊魔力增加量(至100%)</color>",
+        "<color=0:255:0>공격력과 마력 상승량 상승(40%)</color><br><color=0:255:0>장비의 공격력과 마력 상승량 상승(100%)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (à 40 %)</color><br><color=0:255:0>Amplifie les augmentations de l'ATT et de la MAGIE de l'équipement (à 100 %)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 40%)</color><br><color=0:255:0>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 100%)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ y MAG (a un 40%)</color><br><color=0:255:0>Mayor aumento de ATQ y MAG del equipo (a un 100%)</color>"
+    ],
+    "228342002": [
+        "Boosts ATK and MAG increases (to 40%)<br>Boosts equipment ATK and MAG increases (to 100%)<br><color=0:255:0>Boosts ATK and MAG increases (to 80%)</color><br><color=0:255:0>Boosts equipment ATK and MAG increases (to 150%)</color><br><color=0:255:0>Boosts damage of certain abilities (zekken - freezing showers, zekken - cloudless rain, and zekken - sudden downpour: 700%, zekken - twilight rain: 1000%)</color>",
+        "提高攻擊魔力增加量(至40%)<br>提高裝備攻擊魔力增加量(至100%)<br><color=0:255:0>提高攻擊魔力增加量(至80%)</color><br><color=0:255:0>提高裝備攻擊魔力增加量(至150%)</color><br><color=0:255:0>提高特定能力的傷害(絕劍·冰雨、絕劍·天泣、絕劍·驟雨：700%；絕劍·暮雨：1000%)</color>",
+        "공격력과 마력 상승량 상승(40%)<br>장비의 공격력과 마력 상승량 상승(100%)<br><color=0:255:0>공격력과 마력 상승량 상승(80%)</color><br><color=0:255:0>장비의 공격력과 마력 상승량 상승(150%)</color><br><color=0:255:0>특정 어빌리티의 피해량 상승(절검·얼음비, 절검·맑은비, 절검·소나기: 700%, 절검·저녁비: 1000%)</color>",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (à 40 %)<br>Amplifie les augmentations de l'ATT et de la MAGIE de l'équipement (à 100 %)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (à 80 %)</color><br><color=0:255:0>Amplifie les augmentations de l'ATT et de la MAGIE de l'équipement (à 150 %)</color><br><color=0:255:0>Augmente les dégâts de certaines aptitudes (Zekken - Douches gelées, Zekken - Pluie sans nuage et Zekken - Averse soudaine : 700 %, Zekken - Pluie du crépuscule : 1000 %)</color>",
+        "Steigert ANG- und MAG-Erhöhungen (auf 40%)<br>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 100%)<br><color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 80%)</color><br><color=0:255:0>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 150%)</color><br><color=0:255:0>Erhöht Schaden bestimmter Fertigkeiten (Zekken - Eiskalter Schauer, Zekken - Wolkenloser Regen und Zekken - Plötzlicher Niederschlag: 700%, Zekken - Regen im Zwielicht: 1000%)</color>",
+        "Mayor aumento de ATQ y MAG (a un 40%)<br>Mayor aumento de ATQ y MAG del equipo (a un 100%)<br><color=0:255:0>Mayor aumento de ATQ y MAG (a un 80%)</color><br><color=0:255:0>Mayor aumento de ATQ y MAG del equipo (a un 150%)</color><br><color=0:255:0>Aumenta el daño de determinadas habilidades (Zekken - Tromba de granizo, Zekken - Lluvia de cielo despejado, y Zekken - Aguacero inesperado: un 700%; Zekken - Lluvia del crepúsculo: un 1000%)</color>"
+    ],
+    "228345001": [
+        "<color=0:255:0>Boosts MP increase (to 50%)</color><br><color=0:255:0>Enhances changes to LB effects</color><br><color=0:255:0>Restores MP every turn (5%)</color><br><color=0:255:0>Boosts damage amount of enabled ability - zekken - twilight rain (to 1350/1350%)</color>",
+        "<color=0:255:0>提高MP增加量(至50%)</color><br><color=0:255:0>加強極限技效果變化</color><br><color=0:255:0>每回合恢復MP(5%)</color><br><color=0:255:0>可使用的「絕劍·暮雨」傷害量提高(至1350/1350%)</color>",
+        "<color=0:255:0>MP 상승량 상승(50%)</color><br><color=0:255:0>LB 효과 변화 강화</color><br><color=0:255:0>매 턴마다 MP 회복(5%)</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1350/1350%)</color>",
+        "<color=0:255:0>Amplifie l'augmentation des PM (à 50 %)</color><br><color=0:255:0>Améliore les changements des effets de la limite</color><br><color=0:255:0>Restaure les PM à chaque tour (5 %)</color><br><color=0:255:0>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1350 / 1350 %)</color>",
+        "<color=0:255:0>Erhöht MP-Verbrauch (auf 50%)</color><br><color=0:255:0>Verstärkt Änderungen von Limitrausch-Effekten</color><br><color=0:255:0>Regeneriert jede Runde MP (5%)</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1350/1350%)</color>",
+        "<color=0:255:0>Mayor aumento de PM (a un 50%)</color><br><color=0:255:0>Mejora el cambio de los efectos del EL</color><br><color=0:255:0>Recupera PM cada turno (un 5%)</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1350/1350%)</color>"
+    ],
+    "228345002": [
+        "Boosts MP increase (to 50%)<br>Enhances changes to LB effects<br>Restores MP every turn (5%)<br>Boosts damage amount of enabled ability - zekken - twilight rain (to 1350/1350%)<br><color=0:255:0>Boosts HP, DEF, and SPR (30%)</color><br><color=0:255:0>Enhances changes to LB effects</color><br><color=0:255:0>Boosts damage amount of enabled ability - zekken - twilight rain (to 1500/1500%)</color><br><color=255:255:0>Reduces hit count of enabled ability - zekken - twilight rain (to 8)</color>",
+        "提高MP增加量(至50%)<br>加強極限技效果變化<br>每回合恢復MP(5%)<br>可使用的「絕劍·暮雨」傷害量提高(至1350/1350%)<br><color=0:255:0>提高HP防禦精神(30%)</color><br><color=0:255:0>加強極限技效果變化</color><br><color=0:255:0>可使用的「絕劍·暮雨」傷害量提高(至1500/1500%)</color><br><color=255:255:0>降低「絕劍·暮雨」的攻擊次數(至8)</color>",
+        "MP 상승량 상승(50%)<br>LB 효과 변화 강화<br>매 턴마다 MP 회복(5%)<br>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1350/1350%)<br><color=0:255:0>HP, 방어력, 정신력 상승(30%)</color><br><color=0:255:0>LB 효과 변화 강화</color><br><color=0:255:0>사용 가능 어빌리티 '절검·저녁비'의 피해량 상승(1500/1500%)</color><br><color=255:255:0>사용 가능 어빌리티 '절검·저녁비'의 히트 수 감소(8)</color>",
+        "Amplifie l'augmentation des PM (à 50 %)<br>Améliore les changements des effets de la limite<br>Restaure les PM à chaque tour (5 %)<br>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1350 / 1350 %)<br><color=0:255:0>Augmente les PV, la DEF et la PSY (30 %)</color><br><color=0:255:0>Améliore les changements des effets de la limite</color><br><color=0:255:0>Augmente les dégâts de l'aptitude déblocable Zekken - Pluie du crépuscule (à 1500 / 1500 %)</color><br><color=255:255:0>Réduit le nombre de coups de l'aptitude déblocable Zekken - Pluie du crépuscule (à 8)</color>",
+        "Erhöht MP-Verbrauch (auf 50%)<br>Verstärkt Änderungen von Limitrausch-Effekten<br>Regeneriert jede Runde MP (5%)<br>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1350/1350%)<br><color=0:255:0>Erhöht LP, ABW und PSY (30%)</color><br><color=0:255:0>Verstärkt Änderungen von Limitrausch-Effekten</color><br><color=0:255:0>Erhöht Schaden von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 1500/1500%)</color><br><color=255:255:0>Verringert Trefferzahl von aktiver Fertigkeit - Zekken - Regen im Zwielicht (auf 8)</color>",
+        "Mayor aumento de PM (a un 50%)<br>Mejora el cambio de los efectos del EL<br>Recupera PM cada turno (un 5%)<br>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1350/1350%)<br><color=0:255:0>Aumenta VIT, DEF y ESP (un 30%)</color><br><color=0:255:0>Mejora el cambio de los efectos del EL</color><br><color=0:255:0>Aumenta el daño de la habilidad aprendida Zekken - Lluvia del crepúsculo (a un 1500/1500%)</color><br><color=255:255:0>Reduce el número de golpes de la habilidad aprendida Zekken - Lluvia del crepúsculo (a 8)</color>"
+    ],
+    "228351001": [
+        "<color=0:255:0>Boosts damage reduction of enabled ability - dissonant cadenza (to 35%)</color>",
+        "<color=0:255:0>可使用的「不和諧音的華彩」提高傷害減少量(至35%)</color>",
+        "<color=0:255:0>사용 가능 어빌리티 '불협화음 카덴차'의 피해 감소량 상승(35%)</color>",
+        "<color=0:255:0>Amplifie la réduction des dégâts de l'aptitude déblocable Cadence dissonante (à 35 %)</color>",
+        "<color=0:255:0>Erhöht Schadensverringerung von aktiver Fertigkeit - Dissonante Kadenz (auf 35%)</color>",
+        "<color=0:255:0>Aumenta la reducción de daño de la habilidad aprendida Cadencia estridente (a un 35%)</color>"
+    ],
+    "228351002": [
+        "Boosts damage reduction of enabled ability - dissonant cadenza (to 35%)<br><color=0:255:0>Reduces damage taken by all allies for 2 turns (30%)</color><br><color=0:255:0>Boosts damage reduction of enabled ability - dissonant cadenza (to 45%)</color>",
+        "可使用的「不和諧音的華彩」提高傷害減少量(至35%)<br><color=0:255:0>2回合內減少對全體隊員的傷害(30%)</color><br><color=0:255:0>可使用的「不和諧音的華彩」提高傷害減少量(至45%)</color>",
+        "사용 가능 어빌리티 '불협화음 카덴차'의 피해 감소량 상승(35%)<br><color=0:255:0>2턴 동안 아군 전체가 받는 피해량 감소(30%)</color><br><color=0:255:0>사용 가능 어빌리티 '불협화음 카덴차'의 피해 감소량 상승(45%)</color>",
+        "Amplifie la réduction des dégâts de l'aptitude déblocable - Cadence dissonante (à 35 %)<br><color=0:255:0>Réduit les dégâts subis par tous les alliés pendant 2 tours (30 %)</color><br><color=0:255:0>Amplifie la réduction des dégâts de l'aptitude déblocable Cadence dissonante (à 45 %)</color>",
+        "Erhöht Schaden von aktiver Fertigkeit - Dissonante Kadenz (auf 35%)<br><color=0:255:0>Verrringert von allen Verbündeten erlittenen Schaden für 2 Runden (30%)</color><br><color=0:255:0>Steigert Schadensverringerung von aktiver Fertigkeit - Dissonante Kadenz (auf 45%)</color>",
+        "Aumenta la reducción de daño de la habilidad aprendida Cadencia estridente (a un 35%)<br><color=0:255:0>Reduce el daño que reciben todos los aliados durante 2 turnos (un 30%)</color><br><color=0:255:0>Aumenta la reducción de daño de la habilidad aprendida Cadencia estridente (a un 45%)</color>"
+    ],
+    "228352001": [
+        "<color=0:255:0>Boosts DEF and SPR increases for enabled ability - dark-green nocturne (to 120%)</color>",
+        "<color=0:255:0>可使用的「深綠的夜想曲」提高防禦精神增加量(至120%)</color>",
+        "<color=0:255:0>사용 가능 어빌리티 '심록의 녹턴'의 방어력과 정신력 상승량 상승(120%)</color>",
+        "<color=0:255:0>Amplifie les augmentations de la DEF et de la PSY pour l'aptitude déblocable Nocturne vert foncé (à 120 %)</color>",
+        "<color=0:255:0>Steigert ABW- und PSY-Erhöhungen für aktive Fertigkeit - Dunkelgrüne Nocturne (auf 120%)</color>",
+        "<color=0:255:0>Mayor aumento de DEF y ESP para la habilidad aprendida Nocturno verde oscuro (a un 120%)</color>"
+    ],
+    "228352002": [
+        "Boosts DEF and SPR increases for enabled ability - dark-green nocturne (to 120%)<br><color=0:255:0>Boosts DEF and SPR for all allies while singing (110%)</color><br><color=0:255:0>Boosts DEF and SPR increases for enabled ability - dark-green nocturne (to 130%)</color>",
+        "可使用的「深綠的夜想曲」提高防禦精神增加量(至120%)<br><color=0:255:0>歌唱期間提高全體隊員的防禦精神(110%)</color><br><color=0:255:0>可使用的「深綠的夜想曲」提高防禦精神增加量(至130%)</color>",
+        "사용 가능 어빌리티 '심록의 녹턴'의 방어력과 정신력 상승량 상승(120%)<br><color=0:255:0>노래하는 동안 아군 전체의 방어력과 정신력 상승(110%)</color><br><color=0:255:0>사용 가능 어빌리티 '심록의 녹턴'의 방어력과 정신력 상승량 상승(130%)</color>",
+        "Amplifie les augmentations de la DEF et de la PSY pour l'aptitude déblocable Nocturne vert foncé (à 120 %)<br><color=0:255:0>Augmente la DEF et la PSY de tous les alliés en chantant (110 %)</color><br><color=0:255:0>Amplifie les augmentations de la DEF et de la PSY pour l'aptitude déblocable Nocturne vert foncé (à 130 %)</color>",
+        "Steigert ABW- und PSY-Erhöhungen für aktive Fertigkeit - Dunkelgrüne Nocturne (auf 120%)<br><color=0:255:0>Erhöht während des Singens ABW und PSY für alle Verbündeten (110%)</color><br><color=0:255:0>Steigert ABW- und PSY-Erhöhungen für aktive Fertigkeit - Dunkelgrüne Nocturne (auf 130%)</color>",
+        "Mayor aumento de DEF y ESP para la habilidad aprendida Nocturno verde oscuro (a un 120%)<br><color=0:255:0>Aumenta la DEF y el ESP de todos los aliados mientras canta (un 110%)</color><br><color=0:255:0>Mayor aumento de DEF y ESP para la habilidad aprendida Nocturno verde oscuro (a un 130%)</color>"
+    ],
+    "228353001": [
+        "<color=0:255:0>Boosts ATK and MAG reductions for enabled ability - stringendo (to 50%)</color>",
+        "<color=0:255:0>可使用的「漸快」提高攻擊魔力減少量(至50%)</color>",
+        "<color=0:255:0>사용 가능 어빌리티 '스트린젠도'의 공격력과 마력 감소량 상승(50%)</color>",
+        "<color=0:255:0>Amplifie les réductions de l'ATT et de la MAGIE pour l'aptitude déblocable - Son strident (à 50 %)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Verringerungen für aktive Fertigkeit - Boosts ATK and MAG reductions for enabled ability - Stringendo (auf 50%)</color>",
+        "<color=0:255:0>Aumenta las reducciones de ATQ y DEF para la habilidad aprendida Stringendo (a un 50%)</color>"
+    ],
+    "228353002": [
+        "Boosts ATK and MAG reductions for enabled ability - stringendo (to 50%)<br><color=0:255:0>Reduces ATK and MAG for all enemies (45%)</color><br><color=0:255:0>Boosts ATK and MAG increases for enabled ability - stringendo (to 130%)</color>",
+        "可使用的「漸快」提高攻擊魔力減少量(至50%)<br><color=0:255:0>降低全體敵人的攻擊魔力(45%)</color><br><color=0:255:0>可使用的「漸快」提高攻擊魔力增加量(至130%)</color>",
+        "사용 가능 어빌리티 '스트린젠도'의 공격력과 마력 감소량 상승(50%)<br><color=0:255:0>적 전체의 공격력과 마력 감소(45%)</color><br><color=0:255:0>사용 가능 어빌리티 '스트린젠도'의 공격력과 마력 상승량 상승(130%)</color>",
+        "Amplifie les réductions de l'ATT et de la MAGIE pour l'aptitude déblocable - Son strident (à 50 %)<br><color=0:255:0>Réduit l'ATT et la MAGIE de tous les ennemis (45 %)</color><br><color=0:255:0>Amplifie les augmentations de l'ATT et de la MAGIE pour l'aptitude déblocable Son strident (à 130 %)</color>",
+        "Steigert ANG- und MAG-Verringerungen für aktive Fertigkeit - Boosts ATK and MAG reductions for enabled ability - Stringendo (auf 50%)<br><color=0:255:0>Verringert ANG und MAG bei allen Gegnern (45%)</color><br><color=0:255:0>Steigert ANG- und MAG-Erhöhungen für aktive Fertigkeit - Stringendo (auf 130%)</color>",
+        "Aumenta las reducciones de ATQ y DEF para la habilidad aprendida Stringendo (a un 50%)<br><color=0:255:0>Reduce el ATQ y la MAG de todos los enemigos (un 45%)</color><br><color=0:255:0>Mayor aumento de ATQ y MAG para la habilidad aprendida Stringendo (a un 130%)</color>"
+    ],
+    "228355001": [
+        "<color=0:255:0>Boosts DEF when equipped with an instrument (30%)</color><br><color=0:255:0>Nullifies sleep and silence</color>",
+        "<color=0:255:0>裝備樂器時提高防禦(30%)</color><br><color=0:255:0>睡眠沉默無效</color>",
+        "<color=0:255:0>악기 장착 시 방어력 상승(30%)</color><br><color=0:255:0>수면과 침묵 무효화</color>",
+        "<color=0:255:0>Augmente la DEF quand un instrument est équipé (30 %)</color><br><color=0:255:0>Annule sommeil et silence</color>",
+        "<color=0:255:0>Erhöht ABW, wenn mit einem Instrument ausgerüstet (30%)</color><br><color=0:255:0>Annulliert Schlaf und Stille</color>",
+        "<color=0:255:0>Aumenta la DEF al llevar instrumento (un 30%)</color><br><color=0:255:0>Anula sueño y silencio</color>"
+    ],
+    "228355002": [
+        "Boosts DEF when equipped with an instrument (30%)<br>Nullifies sleep and silence<br><color=0:255:0>Boosts HP when equipped with an instrument (30%)</color><br><color=0:255:0>Nullifies paralysis and confusion</color>",
+        "裝備樂器時提高防禦(30%)<br>睡眠沉默無效<br><color=0:255:0>裝備樂器時提高HP(30%)</color><br><color=0:255:0>麻痺混亂無效</color>",
+        "악기 장착 시 방어력 상승(30%)<br>수면과 침묵 무효화<br><color=0:255:0>악기 장착 시 HP 상승(30%)</color><br><color=0:255:0>마비와 혼란 무효화</color>",
+        "Augmente la DEF quand un instrument est équipé (30 %)<br>Annule sommeil et silence<br><color=0:255:0>Augmente les PV quand un instrument est équipé (30 %)</color><br><color=0:255:0>Annule paralysie et confusion</color>",
+        "Erhöht ABW, wenn mit einem Instrument ausgerüstet (30%)<br>Annulliert Schlaf und Stille<br><color=0:255:0>Erhöht LP, wenn mit einem Instrument ausgerüstet (30%)</color><br><color=0:255:0>Annulliert Lähmung und Konfus</color>",
+        "Aumenta la DEF al llevar instrumento (un 30%)<br>Anula sueño y silencio<br><color=0:255:0>Aumenta la VIT al llevar instrumento (un 30%)</color><br><color=0:255:0>Anula parálisis y confusión</color>"
+    ],
     "228400001": [
         "<color=0:255:0>Boosts own DEF and SPR (130%) for 3 turns</color><br><color=0:255:0>Boosts turns in effect for physical attack evasion of gorgeous pose (to 2 turns)</color>",
         "<color=0:255:0>3回合內提高防禦精神(130%)</color><br><color=0:255:0>提高「俊美姿勢」閃避物理攻擊的效果回合數(至2回合)</color>",
@@ -14590,5 +14926,133 @@
         "Ajoute Rafale de la lune sanglante aux aptitudes augmentées (augmentation : 360 %)<br>Restaure les PM à chaque tour (3 %)<br><color=0:255:0>Ajoute Rupture et Célérité frénétique aux aptitudes augmentées (augmentation : 200 %)</color><br><color=0:255:0>Amplifie la restauration des PM à chaque tour (5 %) </color><br><color=0:255:0>Permet d'utiliser Frénésie obscure - Permet d'utiliser des aptitudes spécifiques trois fois en un tour (s'active une seule fois, quel que soit l'équipement)</color>",
         "Fügt Trommelfeuer des Blutmondes zu verstärkten Fertigkeiten hinzu (Verstärkung: 360%)<br>Regeneriert jede Runde MP (3%)<br><color=0:255:0>Fügt Zerbersten und Wahnwitzige Hast zu verstärkten Fertigkeiten hinzu (Verstärkung: 200%)</color><br><color=0:255:0>Erhöht Wert regenerierter MP (auf  5%)</color><br><color=0:255:0>Ermöglicht Dunkler Wahn - ermöglicht gewissen Fertigkeiten dreimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation)</color>",
         "Añade Ráfaga de la luna de sangre a las habilidades con daño aumentado (aumento: un 360%)<br>Recupera PM cada turno (un 3%)<br><color=0:255:0>Añade Ruptura y Celeridad frenética a las habilidades con daño aumentado (aumento: un 200%)</color><br><color=0:255:0>Mayor aumento de recuperación de PM (a un 5%)</color><br><color=0:255:0>Aprende Frenesí oscuro: aprende determinadas habilidades que se pueden usar 3 veces en un mismo turno (se activa una vez cada una sin importar las condiciones del equipo)</color>"
+    ],
+    "911645001": [
+        "<color=0:255:0>Boosts damage amount (to 450/450%)</color><br><color=255:255:0>Increases MP consumed (to 50)</color>",
+        "<color=0:255:0>提高傷害量(至450/450%)</color><br><color=255:255:0>增加MP消耗(至50)</color>",
+        "<color=0:255:0>피해량 상승(450/450%)</color><br><color=255:255:0>소비 MP 증가(50)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 450 / 450 %)</color><br><color=255:255:0>Augmente les PM consommés (à 50)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 450/450%)</color><br><color=255:255:0>Erhöht MP-Verbrauch (auf 50)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 450/450%)</color><br><color=255:255:0>Aumenta el consumo de PM (a 50)</color>"
+    ],
+    "911645002": [
+        "Boosts damage amount (to 450/450%)<br>Increases MP consumed (to 50)<br><color=0:255:0>Boosts damage amount (to 750/750%)</color><br><color=255:255:0>Increases MP consumed (to 55)</color>",
+        "提高傷害量(至450/450%)<br>增加MP消耗(至50)<br><color=0:255:0>提高傷害量(至750/750%)</color><br><color=255:255:0>增加MP消耗(至55)</color>",
+        "피해량 상승(450/450%)<br>소비 MP 증가(50)<br><color=0:255:0>피해량 상승(750/750%)</color><br><color=255:255:0>소비 MP 증가(55)</color>",
+        "Augmente les dégâts (à 450 / 450 %)<br>Augmente les PM consommés (à 50)<br><color=0:255:0>Augmente les dégâts (à 750 / 750 %)</color><br><color=255:255:0>Augmente les PM consommés (à 55)</color>",
+        "Erhöht Schaden (auf 450/450%)<br>Erhöht MP-Verbrauch (auf 50)<br><color=0:255:0>Erhöht Schaden (auf 750/750%)</color><br><color=255:255:0>Erhöht MP-Verbrauch (auf 55)</color>",
+        "Aumenta el daño (a un 450/450%)<br>Aumenta el consumo de PM (a 50)<br><color=0:255:0>Aumenta el daño (a un 750/750%)</color><br><color=255:255:0>Aumenta el consumo de PM (a 55)</color>"
+    ],
+    "911656001": [
+        "<color=0:255:0>Boosts ATK and MAG increases (to 30%)</color><br><color=0:255:0>Boosts equipment ATK and MAG increases (to 75%)</color>",
+        "<color=0:255:0>提高攻擊魔力增加量(至30%)</color><br><color=0:255:0>提高武具攻擊魔力增加量(至75%)</color>",
+        "<color=0:255:0>공격력과 마력 상승량 상승(30%)</color><br><color=0:255:0>장비의 공격력과 마력 상승량 상승(75%)</color>",
+        "<color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (à 30 %)</color><br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE de l'équipement (à 75 %)</color>",
+        "<color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 30%)</color><br><color=0:255:0>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 75%)</color>",
+        "<color=0:255:0>Mayor aumento de ATQ y MAG (a un 30%)</color><br><color=0:255:0>Mayor aumento de ATQ y MAG del equipo (a un 75%)</color>"
+    ],
+    "911656002": [
+        "Boosts ATK and MAG increases (to 30%)<br>Boosts equipment ATK and MAG increases (to 75%)<br><color=0:255:0>Boosts ATK and MAG increases (to 50%)</color><br><color=0:255:0>Boosts equipment ATK and MAG increases (to 100%)</color>",
+        "提高攻擊魔力增加量(至30%)<br>提高武具攻擊魔力增加量(至75%)<br><color=0:255:0>提高攻擊魔力增加量(至50%)</color><br><color=0:255:0>提高武具攻擊魔力增加量(至100%)</color>",
+        "공격력과 마력 상승량 상승(30%)<br>장비의 공격력과 마력 상승량 상승(75%)<br><color=0:255:0>공격력과 마력 상승량 상승(50%)</color><br><color=0:255:0>장비의 공격력과 마력 상승량 상승(100%)</color>",
+        "Amplifie l'augmentation de l'ATT et de la MAGIE (à 30 %)<br>Amplifie l'augmentation de l'ATT et de la MAGIE de l'équipement (à 75 %)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (à 50 %)</color><br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE de l'équipement (à 100 %)</color>",
+        "Steigert ANG- und MAG-Erhöhungen (auf 30%)<br>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 75%)<br><color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 50%)</color><br><color=0:255:0>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 100%)</color>",
+        "Mayor aumento de ATQ y MAG (a un 30%)<br>Mayor aumento de ATQ y MAG del equipo (a un 75%)<br><color=0:255:0>Mayor aumento de ATQ y MAG (a un 50%)</color><br><color=0:255:0>Mayor aumento de ATQ y MAG del equipo (a un 100%)</color>"
+    ],
+    "911657001": [
+        "<color=0:255:0>Boosts damage amount (to 800/800%)</color><br><color=255:255:0>Increases MP consumed (to 55)</color>",
+        "<color=0:255:0>提高傷害量(至800/800%)</color><br><color=255:255:0>增加MP消耗(至55)</color>",
+        "<color=0:255:0>피해량 상승(800/800%)</color><br><color=255:255:0>소비 MP 증가(55)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 800 / 800 %)</color><br><color=255:255:0>Augmente les PM consommés (à 55)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 800/800%)</color><br><color=255:255:0>Erhöht MP-Verbrauch (to 55)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 800/800%)</color><br><color=255:255:0>Aumenta el consumo de PM (a 55)</color>"
+    ],
+    "911657002": [
+        "Boosts damage amount (to 800/800%)<br>Increases MP consumed (to 55)<br><color=0:255:0>Boosts damage amount (to 1000/1000%)</color><br><color=0:255:0>Boosts light resistance reduction (to 120%)</color><br><color=255:255:0>Increases MP consumed (to 60)</color>",
+        "提高傷害量(至800/800%)<br>增加MP消耗(至55)<br><color=0:255:0>提高傷害量(至1000/1000%)</color><br><color=0:255:0>提高光屬性耐性減少量(至120%)</color><br><color=255:255:0>增加MP消耗(至60)</color>",
+        "피해량 상승(800/800%)<br>소비 MP 증가(55)<br><color=0:255:0>피해량 상승(1000/1000%)</color><br><color=0:255:0>빛속성 저항력 감소량 상승(120%)</color><br><color=255:255:0>소비 MP 증가(60)</color>",
+        "Augmente les dégâts (à 800 / 800 %)<br>Augmente les PM consommés (à 55)<br><color=0:255:0>Augmente les dégâts (à 1000 / 1000 %)</color><br><color=0:255:0>Amplifie la réduction de la résistance à la lumière (à 120 %)</color><br><color=255:255:0>Augmente les PM consommés (à 60)</color>",
+        "Erhöht Schaden (auf 800/800%)<br>Erhöht MP-Verbrauch (to 55)<br><color=0:255:0>Erhöht Schaden (auf 1000/1000%)</color><br><color=0:255:0>Steigert Verringerung von Lichtresistenz (auf 120%)</color><br><color=255:255:0>Erhöht MP-Verbrauch (to 60)</color>",
+        "Aumenta el daño (a un 800/800%)<br>Aumenta el consumo de PM (a 55)<br><color=0:255:0>Aumenta el daño (a un 1000/1000%)</color><br><color=0:255:0>Aumenta la reducción de resistencia a la luz (a un 120%)</color><br><color=255:255:0>Aumenta el consumo de PM (a 60)</color>"
+    ],
+    "911661001": [
+        "<color=0:255:0>Boosts ATK, DEF, MAG, HP, and MP (20%)</color><br><color=0:255:0>Boosts light resistance increase (to 50%)</color>",
+        "<color=0:255:0>提高HPMP攻擊防禦魔力(20%)</color><br><color=0:255:0>提高光屬性耐性增加量(至50%)</color>",
+        "<color=0:255:0>공격력, 방어력, 마력, HP, MP 상승(20%)</color><br><color=0:255:0>빛속성 저항력 상승량 상승(50%)</color>",
+        "<color=0:255:0>Augmente l'ATT, la DEF, la MAGIE, les PV et les PM (20 %)</color><br><color=0:255:0>Amplifie l'augmentation de la résistance à la lumière (à 50 %)</color>",
+        "<color=0:255:0>Erhöht ANG, ABW, MAG, LP und MP (20%)</color><br><color=0:255:0>Steigert Erhöhung von Lichtresistenz (auf 50%)</color>",
+        "<color=0:255:0>Aumenta ATQ, DEF, MAG, VIT y PM (un 20%)</color><br><color=0:255:0>Mayor aumento de la resistencia a la luz (a un 50%)</color>"
+    ],
+    "911661002": [
+        "Boosts ATK, DEF, MAG, HP, and MP (20%)<br>Boosts light resistance increase (to 50%)<br><color=0:255:0>Boosts ATK, DEF, MAG, SPR, HP, and MP increases (to 50%)</color><br><color=0:255:0>Boosts damage of certain abilities (aurora storm: 600%)</color><br><color=0:255:0>Restores MP every turn (5%)</color>",
+        "提高HPMP攻擊防禦魔力(20%)<br>提高光屬性耐性增加量(至50%)<br><color=0:255:0>提高HPMP攻擊防禦魔力精神(至50%)</color><br><color=0:255:0>提高特定能力的傷害(極光風暴：600%)</color><br><color=0:255:0>每回合恢復MP(5%)</color>",
+        "공격력, 방어력, 마력, HP, MP 상승(20%)<br>빛속성 저항력 상승량 상승(50%)<br><color=0:255:0>공격력, 방어력, 마력, 정신력, HP, MP 상승량 상승(50%)</color><br><color=0:255:0>특정 어빌리티의 피해량 상승(극광의 태풍: 600%)</color><br><color=0:255:0>매 턴마다 MP 회복(5%)</color>",
+        "Augmente l'ATT, la DEF, la MAGIE, les PV et les PM (20 %)<br>Amplifie l'augmentation de la résistance à la lumière (à 50 %)<br><color=0:255:0>Augmente l'ATT, la DEF, la MAGIE, les PV et les PM (à 50 %)</color><br><color=0:255:0>Augmente les dégâts de certaines aptitudes (Tempête de l'Aurore : 600 %)</color><br><color=0:255:0>Restaure les PM à chaque tour (5 %)</color>",
+        "Erhöht ANG, ABW, MAG, LP und MP (20%)<br>Steigert Erhöhung von Lichtresistenz (auf  50%)<br><color=0:255:0>Steigert Erhöhungen von ANG, ABW, MAG, PSY, LP und MP (auf 50%)</color><br><color=0:255:0>Erhöht Schaden bestimmter Fertigkeiten (Aurora-Sturm: 600%)</color><br><color=0:255:0>Regeneriert jede Runde MP (5%)</color>",
+        "Aumenta ATQ, DEF, MAG, VIT y PM (un 20%)<br>Mayor aumento de la resistencia a la luz (a un 50%)<br><color=0:255:0>Mayor aumento de ATQ, DEF, MAG, ESP, VIT y PM (a un 50%)</color><br><color=0:255:0>Aumenta el daño de determinadas habilidades (Tormenta del alba: un 600%)</color><br><color=0:255:0>Recupera PM cada turno (un 5%)</color>"
+    ],
+    "911662001": [
+        "<color=0:255:0>Boosts increase to damage of certain abilities (flash - luster: 600%)</color><br><color=0:255:0>Adds purge to abilities boosted (boost amount: 600%)</color>",
+        "<color=0:255:0>提高特定能力的傷害增加量(閃光・光澤：600%)</color><br><color=0:255:0>將「釋放」增加至能力強化列表中(提高量：600%)</color>",
+        "<color=0:255:0>특정 어빌리티의 피해 상승량 상승(섬광·광채: 600%)</color><br><color=0:255:0>피해량 상승 어빌리티에 '숙청' 추가(상승량: 600%)</color>",
+        "<color=0:255:0>Augmente les dégâts de certaines aptitudes (Flash - Éclat : 600 %)</color><br><color=0:255:0>Ajoute Purge aux aptitudes augmentées (Augmentation : 600 %)</color>",
+        "<color=0:255:0>Steigert Schadenserhöhung bestimmter Fertigkeiten (Blitz - Glanz: 600%)</color><br><color=0:255:0>Fügt Reinigung zu den verstärkten Fertigkeiten hinzu (Verstärkung: 600%)</color>",
+        "<color=0:255:0>Mayor aumento de daño de determinadas habilidades (Destello - Resplandor: un 600%)</color><br><color=0:255:0>Añade Purga a las habilidades con daño aumentado (aumento: un 600%)</color>"
+    ],
+    "911662002": [
+        "Boosts increase to damage of certain abilities (flash - luster: 600%)<br>Adds purge to abilities boosted (boost amount: 600%)<br><color=0:255:0>Boosts equipment ATK and MAG increases (to 50%)</color><br><color=0:255:0>Boosts increase to damage of certain abilities (flash - brilliance and flash - furious radiance: 500%, flash - dazzle and flash - endless punishment: 1500%)</color>",
+        "提高特定能力的傷害增加量(閃光・光澤：600%)<br>將「釋放」增加至能力強化列表中(提高量：600%)<br><color=0:255:0>提高武具攻擊魔力增加量(至50%)</color><br><color=0:255:0>提高特定能力的傷害增加量(閃光・輝煌/閃光・強烈光輝：500%、閃光・奪目/閃光・無盡懲罰：1500%)</color>",
+        "특정 어빌리티의 피해 상승량 상승(섬광·광채: 600%)<br>피해량 상승 어빌리티에 '숙청' 추가(상승량: 600%)<br><color=0:255:0>장비의 공격력과 마력 상승량 상승(50%)</color><br><color=0:255:0>특정 어빌리티의 피해 상승량 상승(섬광·광휘, 섬광·맹렬한 빛: 500%, 섬광·황홀, 섬광·영원한 형벌: 1500%)</color>",
+        "Augmente les dégâts de certaines aptitudes (Flash - Éclat : 600 %)<br>Ajoute Purge aux aptitudes augmentées (Augmentation : 600 %)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE de l'équipement (à 50 %)</color><br><color=0:255:0>Augmente les dégâts de certaines aptitudes (Flash - Brillance et Flash - Rayonnement furieux : 500 %, Flash - Reflet et Flash - Punition éternelle : 1500 %)</color>",
+        "Steigert Schadenserhöhung bestimmter Fertigkeiten (Blitz - Glanz: 600%)<br>Fügt Reinigung zu den verstärkten Fertigkeiten hinzu (Verstärkung: 600%)<br><color=0:255:0>Steigert Erhöhungen von Ausrüstung-ANG und -MAG (auf 50%)</color><br><color=0:255:0>Steigert Schadenserhöhung bestimmter Fertigkeiten (Blitz - Brillanz und Blitz - Zorniger Glanz: 500%, Blitz - Blenden und Blitz - Endlose Bestrafung: 1500%)</color>",
+        "Mayor aumento de daño de determinadas habilidades (Destello - Resplandor: un 600%)<br>Añade Purga a las habilidades con daño aumentado (aumento: un 600%)<br><color=0:255:0>Mayor aumento de ATQ y MAG del equipo (a un 50%)</color><br><color=0:255:0>Mayor aumento de daño de determinadas habilidades (Destello - Fulgor y Destello - Resplandor colérico: un 500%; Destello - Obnubilación y Destello - Castigo infinito: un 1500%)</color>"
+    ],
+    "911668001": [
+        "<color=0:255:0>Adds purge and healing radiance to the specific abilities that can be used twice in one turn</color>",
+        "<color=0:255:0>將「釋放」「治癒光輝」增加至1回合內可使用2次的能力列表中</color>",
+        "<color=0:255:0>1턴 동안 2회 사용 가능한 특정 어빌리티에 '숙청'과 '치유의 빛' 추가</color>",
+        "<color=0:255:0>Ajoute Purge et Rayonnement curatif aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour</color></color>",
+        "<color=0:255:0>Fügt Reinigung und Heilender Glanz zu den besonderen Fertigkeiten hinzu, die zweimal in einer Runde verwendet werden können</color>",
+        "<color=0:255:0>Añade Purga y Resplandor curativo a las habilidades que pueden usarse 2 veces en un turno</color>"
+    ],
+    "911668002": [
+        "Adds purge and healing radiance to the specific abilities that can be used twice in one turn<br><color=0:255:0>Adds gift of daylight and first light to the specific abilities that can be used twice in one turn</color>",
+        "將「釋放」「治癒光輝」增加至1回合內可使用2次的能力列表中<br><color=0:255:0>將「白晝贈禮」「初始之光」增加至1回合內可使用2次的能力列表中</color>",
+        "1턴 동안 2회 사용 가능한 특정 어빌리티에 '숙청'과 '치유의 빛' 추가<br><color=0:255:0>1턴 동안 2회 사용 가능한 특정 어빌리티에 '햇빛의 선물'과 '여명' 추가</color>",
+        "Ajoute Purge et Rayonnement curatif aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour<br><color=0:255:0>Ajoute Don du jour et Premières lueurs aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour</color>",
+        "Fügt Reinigung und Heilender Glanz zu den besonderen Fertigkeiten hinzu, die zweimal in einer Runde verwendet werden können<br><color=0:255:0>Fügt Geschenk des Tageslichts und Erstes Licht zu den besonderen Fertigkeiten hinzu, die zweimal in einer Runde verwendet werden können</color>",
+        "Añade Purga y Resplandor curativo a las habilidades que pueden usarse 2 veces en un turno<br><color=0:255:0>Añade Ofrenda del día y Primeros albores a las habilidades que pueden usarse 2 veces en un turno</color>"
+    ],
+    "911672001": [
+        "<color=0:255:0>Boosts turns in effect (to 4 turns)</color><br><color=0:255:0>Reduces cooldown time (to one use every 5 turns)</color>",
+        "<color=0:255:0>提高效果回合數(至4回合)</color><br><color=0:255:0>減少冷卻時間(減少至每5回合可使用1次)</color>",
+        "<color=0:255:0>효과 턴 수 상승(4턴)</color><br><color=0:255:0>재사용 대기 시간 감소(5턴에 1회 사용 가능)</color>",
+        "<color=0:255:0>Augmente le nombre de tours des effets (à 4 tours)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 5 tours)</color>",
+        "<color=0:255:0>Erhöht Anzahl aktiver Runden (auf 4 Runden)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 5 Runden)</color>",
+        "<color=0:255:0>Aumenta la duración (a 4 turnos)</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 5 turnos)</color>"
+    ],
+    "911672002": [
+        "Boosts turns in effect (to 4 turns)<br>Reduces cooldown time (to one use every 5 turns)<br><color=0:255:0>Boosts ATK and MAG increases (to 250%)</color><br><color=0:255:0>Restores own MP (100%)</color><br><color=0:255:0>Reduces cooldown time (to one use every 4 turns)</color><br><color=255:255:0>Increases MP consumed (to 150)</color>",
+        "提高效果回合數(至4回合)<br>減少冷卻時間(減少至每5回合可使用1次)<br><color=0:255:0>提高攻擊魔力增加量(至250%)</color><br><color=0:255:0>恢復自身MP (100%)</color><br><color=0:255:0>減少冷卻時間(減少至每4回合可使用1次)</color><br><color=255:255:0>增加MP消耗(至150)</color>",
+        "효과 턴 수 상승(4턴)<br>재사용 대기 시간 감소(5턴에 1회 사용 가능)<br><color=0:255:0>공격력과 마력 상승량 상승(250%)</color><br><color=0:255:0>자신의 MP 회복(100%)</color><br><color=0:255:0>재사용 대기 시간 감소(4턴에 1회 사용 가능)</color><br><color=255:255:0>소비 MP 증가(150)</color>",
+        "Augmente le nombre de tours des effets (à 4 tours)<br>Réduit le nombre de tours avant réutilisation (à une fois tous les 5 tours)<br><color=0:255:0>Amplifie l'augmentation de l'ATT et de la MAGIE (à 250 %)</color><br><color=0:255:0>Restaure les MP du lanceur (100 %)</color><br><color=0:255:0>Réduit le nombre de tours avant réutilisation (à une fois tous les 4 tours)</color><br><color=255:255:0>Augmente les PM consommés (à 150)</color>",
+        "Erhöht Anzahl aktiver Runden (auf 4 Runden)<br>Verringert Abklingdauer (auf eine Benutzung alle 5 Runden)<br><color=0:255:0>Steigert ANG- und MAG-Erhöhungen (auf 250%)</color><br><color=0:255:0>Regeneriert eigene MP (100%)</color><br><color=0:255:0>Verringert Abklingdauer (auf eine Benutzung alle 4 Runden)</color><br><color=255:255:0>Erhöht MP-Verbrauch (auf 150)</color>",
+        "Aumenta la duración (a 4 turnos)<br>Reduce el tiempo de espera (a un uso cada 5 turnos)<br><color=0:255:0>Mayor aumento de ATQ y MAG (a un 250%)</color><br><color=0:255:0>Recupera PM propios (un 100%)</color><br><color=0:255:0>Reduce el tiempo de espera (a un uso cada 4 turnos)</color><br><color=255:255:0>Aumenta el consumo de PM (a 150)</color>"
+    ],
+    "911673001": [
+        "<color=0:255:0>Boosts damage amount (to 2500/2500%)</color>",
+        "<color=0:255:0>提高傷害量(至2500/2500%)</color>",
+        "<color=0:255:0>피해량 상승(2500/2500%)</color>",
+        "<color=0:255:0>Augmente les dégâts (à 2500 / 2500 %)</color>",
+        "<color=0:255:0>Erhöht Schaden (auf 2500/2500%)</color>",
+        "<color=0:255:0>Aumenta el daño (a un 2500/2500%)</color>"
+    ],
+    "911673002": [
+        "Boosts damage amount (to 2500/2500%)<br><color=0:255:0>Boosts damage amount (to 3250/3250%)</color><br><color=0:255:0>Increases hit count (to 30)</color>",
+        "提高傷害量(至2500/2500%)<br><color=0:255:0>提高傷害量(至3250/3250%)</color><br><color=0:255:0>提高攻擊次數(至30)</color>",
+        "피해량 상승(2500/2500%)<br><color=0:255:0>피해량 상승(3250/3250%)</color><br><color=0:255:0>히트 수 상승(30)</color>",
+        "Augmente les dégâts (à 2500 / 2500 %)<br><color=0:255:0>Augmente les dégâts (à 3250 / 3250 %)</color><br><color=0:255:0>Augmente le nombre de coups (à 30)</color>",
+        "Erhöht Schaden (auf 2500/2500%)<br><color=0:255:0>Erhöht Schaden (auf 3250/3250%)</color><br><color=0:255:0>Erhöht Trefferzahl (auf 30)</color>",
+        "Aumenta el daño (a un 2500/2500%)<br><color=0:255:0>Aumenta el daño (a un 3250/3250%)</color><br><color=0:255:0>Aumenta el número de golpes (a 30)</color>"
     ]
 }

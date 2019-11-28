@@ -5055,6 +5055,14 @@
         "Erhöht LP und MP um 40%. Nicht stapelbar.",
         "Aumenta la VIT y los PM un 40%. No acumulable."
     ],
+    "504233769": [
+        "Chance of removing some status effects or status boosts from all enemies.",
+        "一定機率解除全體敵人的部分狀態效果或部分提高狀態數值的效果",
+        "일정 확률로 적 전체의 일부 능력치 효과 또는 능력치 상승 효과를 해제합니다.",
+        "Confère une chance de dissiper certains effets de statut ou certains bonus de tous les ennemis.",
+        "Chance, einige Statuseffekte oder Werteerhöhungen von allen Gegnern zu entfernen.",
+        "Probabilidad de eliminar algunos cambios de estado o mejoras de todos los enemigos."
+    ],
     "504233770": [
         "Reduces ATK and MAG and chance of charming one enemy.",
         "降低1名敵人的攻擊魔力，且有一定機率施加魅惑效果。",
@@ -5975,6 +5983,14 @@
         "Erhöht PSY um 30%, erhöht Ausrüstung-PSY, wenn eine einzige Waffe in beiden Händen ausgerüstet ist und erhöht Wirksamkeit von im Kampf benutzten Heilgegenständen. Nicht stapelbar.",
         "Aumenta el ESP un 30%, el ESP del equipo al llevar una sola arma en ambas manos y el efecto de los objetos curativos en combate. No acumulable."
     ],
+    "1500000116": [
+        "Boosts equipment ATK when a single weapon is equipped in both hands, and fills LB gauge every turn. Not stackable.",
+        "雙手只裝備1把武器時武具攻擊提升，並且每回合增加極限技槽。[無法重複裝備]",
+        "전투 중 매 턴마다 LB 게이지가 증가하고 양손의 장비가 무기 1개일 경우 장비의 공격력이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de l'équipement quand une arme est équipée dans les deux mains, et remplit la jauge de limite à chaque tour. Non cumulable.",
+        "Erhöht Ausrüstung-ANG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist, und füllt jede Runde Limitmeter. Nicht stapelbar.",
+        "Aumenta el ATQ del equipo al llevar una sola arma en ambas manos, y rellena la barra de EL cada turno. No acumulable."
+    ],
     "1500000117": [
         "Boosts equipment ATK when a single weapon is equipped in both hands and boosts LB damage by 30%. Not stackable.",
         "雙手只裝備1把武器時武具攻擊提升，並提高30%極限技的傷害。 [無法重複裝備]",
@@ -5982,5 +5998,45 @@
         "Augmente l'ATT de l'équipement lorsqu'une arme est tenue avec les deux mains et augmente les dégâts de la limite de 30 %. Non cumulable.",
         "Erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist, und erhöht Schaden durch Limitrausch um 30%. Nicht stapelbar.",
         "Aumenta el ATQ del equipo al llevar una sola arma en ambas manos y aumenta el daño del EL un 30%. No acumulable."
+    ],
+    "1500000118": [
+        "Boosts ATK by 30% when equipped with a gun, DEF by 30% when equipped with a dagger, MAG by 30% when equipped with rod, and SPR by 30% when equipped with staff.",
+        "裝備火槍時提高30%攻擊。裝備短劍時提高30%防禦。裝備魔棒時提高30%魔力。裝備手杖時提高30%精神。",
+        "총 장착 시 공격력이 30%, 단검 장착 시 방어력이 30%, 홀장 장착 시 마력이 30%, 지팡이 장착 시 정신력이 30% 상승합니다.",
+        "Augmente l'ATT de 30 % quand un fusil est équipé, augmente la DEF de 30 % quand une épée courte est équipée, augmente la MAGIE de 30 % quand un sceptre est équipé, et augmente la PSY de 30 % quand un bâton est équipé",
+        "Erhöht ANG um 30%, wenn mit einer Pistole ausgerüstet, ABW um 30%, wenn mit einem Kurzschwert ausgerüstet, MAG um 30%, wenn mit einer Rute ausgerüstet, und PSY um 30%, wenn mit einem Stab ausgerüstet.",
+        "Aumenta el ATQ un 30% al llevar arma de fuego, la DEF un 30% al llevar espada corta, la MAG un 30% al llevar vara, y el ESP un 30% al llevar bastón."
+    ],
+    "1500000119": [
+        "Boosts HP by 30% when equipped with clothes, and MP by 20% when equipped with a hat.",
+        "提高裝備衣服時30%HP，並提高裝備帽子時20%MP。",
+        "옷 장착 시 HP가 30%, 모자 장착 시 MP가 20% 상승합니다.",
+        "Augmente les PV de 30 % quand des habits sont équipés, et augmente les PV de 20 % quand un chapeau est équipé",
+        "Erhöht LP um 30%, wenn mit Kleidung ausgerüstet, und MP um 20%, wenn mit einem Hut ausgerüstet.",
+        "Aumenta la VIT un 30% al llevar ropa y los PM un 20% al llevar sombrero."
+    ],
+    "1500000120": [
+        "Boosts HP, MP, ATK, and MAG by 20%, boosts ATK, MAG, DEF, and SPR by 10% when equipped with clothes, and enables energy pulse.",
+        "提高20%HPMP攻擊魔力，並提高裝備衣服時10%攻擊魔力防禦精神。可使用「能量脈衝」。",
+        "HP, MP, 공격력, 마력이 20% 상승하고 옷 장착 시 공격력, 마력, 방어력, 정신력 10% 상승하며 '에너지 펄스'를 사용할 수 있게 됩니다.",
+        "Augmente les PV, les PM, l'ATT et la MAGIE de 20 %, augmente l'ATT, la MAGIE, la DEF et la PSY de 10 % quand des habits sont équipés, et permet d'utiliser Pulsion d'énergie",
+        "Erhöht LP, MP, ANG und MAG um 20%, erhöht ANG, MAG, ABW und PSY um 10%, wenn mit Kleidung ausgerüstet, und ermöglicht Energiepuls.",
+        "Aumenta VIT, PM, ATQ y MAG un 20%, y ATQ, MAG, DEF y ESP otro 10% al lleva ropa, y aprende Pulso de energía."
+    ],
+    "1500000121": [
+        "Boosts MAG and MP by 30%, MAG when equipped with a rod, and equipment MAG when a single weapon is equipped in both hands. Not stackable.",
+        "裝備魔棒時提高30%MP魔力，並在雙手只裝備1把武器時武具魔力提升。[無法重複裝備]",
+        "마력과 MP가 30% 상승하고 홀장 장착 시 마력이 상승하며 양손의 장비가 무기 1개일 경우 장비의 마력이 상승합니다. (중복 장착 불가)",
+        "Augmente la MAGIE et les PM de 30 % lorsqu'un sceptre est équipé, augmente la MAGIE de l'équipement quand une arme est tenue dans les deux mains. Non cumulable",
+        "Erhöht MAG und MP um 30%, wenn mit einer Rute ausgerüstet, und erhöht Ausrüstung-PSY, wenn eine einzige Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta la MAG y los PM un 30%, aumento extra de la MAG al llevar vara y aumenta la MAG del equipo al llevar una sola arma en ambas manos. No acumulable."
+    ],
+    "1500000122": [
+        "Boost ATK and MAG by 30% and boosts physical and magic damage against demons. Not stackable.",
+        "提高30%攻擊魔力，並且物理、魔法攻擊時提高對惡魔系魔物的傷害。[無法重複裝備]",
+        "공격력과 마력이 30% 상승하고 물리, 마법 공격 시 악마형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 30 % ainsi que les dégâts physiques et magiques infligés aux démons. Non cumulable.",
+        "Erhöht ANG und MAG um 30% und erhöht physischen und magischen Schaden gegen Dämonen. Nicht stapelbar.",
+        "Aumenta el ATQ y la MAG un 30% y el daño físico y mágico contra demonios. No acumulable."
     ]
 }
