@@ -10591,6 +10591,14 @@
         "Vielen Dank, dass du dieses Anmeldepaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
         "¡Gracias por adquirir este lote de inicio de sesión!<br>Acabas de recibir las recompensas del día %s:"
     ],
+    "MST_BUNDLE_MESSAGE_1329": [
+        "Thank you for purchasing this Login Bundle!<br>You have received the following rewards for day no. %s:",
+        "感謝您購買這個登入禮包！<br>第%s天的獎勵如下：",
+        "이 출석 세트상품을 구매해주셔서 감사합니다!<br> %s일차 보상을 획득하셨습니다:",
+        "Nous vous remercions pour l'achat de ce lot spécial connexion !<br>Vous avez reçu les récompenses suivantes pour le jour %s:",
+        "Vielen Dank, dass du dieses Anmeldepaket erworben hast!<br> Du hast die folgenden Belohnungen für Tag Nr. %s erhalten:",
+        "¡Gracias por adquirir este lote de inicio de sesión!<br>Acabas de recibir las recompensas del día %s:"
+    ],
     "MST_BUNDLE_MESSAGE_688": [
         "Thank you for purchasing the 30 Day Login Bundle!<br>You have received the following rewards for day no. %s:",
         "感謝您購買30日連續登入禮包！<br>第%s天的獎勵如下：",
@@ -15290,7 +15298,7 @@
     "RM_ENTRY_CONFIRM_NO_ENERGY": [
         "<color=255:255:0>Completing the map will require: <param=totalNRG> NRG</color><br><br>Parties and items can not be changed on the area map.<br><color=255:0:0>You will not be able to return to the Home screen until you complete the map or give up.</color><br><br>Proceed to area map?",
         "<color=255:255:0>完成地圖需要: <param=totalNRG> 體力</color><br><br>在區域地圖內無法進行隊伍編輯、道具變更等操作。<br><color=255:0:0>在完成區域地圖或放棄前無法返回首頁。</color><br> <br>是否要進入區域地圖？",
-        "<color=255:255:0>구역 지도 완료 조건은 다음과 같습니다: <param=totalNRG> 체력</color><br><br>구역 지도에서는 파티 편성, 아이템 변경 등을 할 수 없습니다.<br><color=255:0:0>구역 지도를 완료할 때까지 홈 화면으로 돌아갈 수 없게 됩니다.</color><br><br>구역 지도로 들어가시겠습니까?",
+        "<color=255:255:0>구역 맵 완료 조건은 다음과 같습니다: <param=totalNRG> 체력</color><br><br>구역 지도에서는 파티 편성, 아이템 변경 등을 할 수 없습니다.<br><color=255:0:0>구역 맵을 완료할 때까지 홈 화면으로 돌아갈 수 없게 됩니다.</color><br><br>구역 맵으로 들어가시겠습니까?",
         "<color=255:255:0>Terminer la carte nécessite : <param=totalNRG> pts d'END</color><br><br>Les groupes et les objets ne peuvent pas être changés une fois dans la zone.<br><color=255:0:0>Vous ne pourrez pas revenir à l'écran d'accueil jusqu'à ce que vous terminiez la zone ou que vous abandonniez.</color><br><br>Continuez vers la zone explorable ?",
         "<color=255:255:0>Der Abschluss der Karte erfordert: <param=totalNRG> NRG</color><br><br>Gruppen und Gegenstände können auf der Gebietskarte nicht gewechselt werden.<br><color=255:0:0>Du kannst nicht zum Hauptbildschirm zurück, bis die Karte abgeschlossen ist oder du aufgibst.</color><br><br>Weiter zur Gebietskarte?",
         "<color=255:255:0>Para completar el mapa necesitarás: <param=totalNRG> de energía.</color><br><br>No podrás cambiar tu grupo ni tus objetos en el mapa.<br><color=255:0:0>No podrás volver al menú principal a no ser que acabes el mapa o te rindas.</color><br><br>¿Quieres avanzar al mapa de zona?"
@@ -15720,12 +15728,12 @@
         null
     ],
     "SG_BUNDLE_WELCOME_TEXT": [
-        "Remember to log in for %s days to get your next milestone reward!",
+        "Remember to log in for %s consecutive days to get your next milestone reward!",
         "記得累積登入%s天，獲得下一個里程碑獎勵！",
         "%일 차에 잊지 말고 로그인하여 다음 목표 달성 보상을 획득해보세요!",
-        "N'oubliez pas de vous connecter pendant %s jours pour obtenir votre prochaine récompense d'étape !",
-        "Denke daran, dich %s Tage lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
-        "¡Acuérdate de iniciar sesión durante %s días para conseguir tu nueva recompensa de récord!"
+        "N'oubliez pas de vous connecter pendant %s jours de suite pour obtenir votre prochaine récompense d'étape !",
+        "Denke daran, dich %s Tage in Folge lange anzumelden, um deine nächste Meilensteinbelohnung zu erhalten!",
+        "¡Acuérdate de iniciar sesión durante %s días consecutivos para conseguir tu nueva recompensa de récord!"
     ],
     "SG_CLSM_HINT_BTN": [
         "Reward Info",
