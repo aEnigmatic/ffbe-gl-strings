@@ -360,7 +360,7 @@
         "Equi. instrumento"
     ],
     "100910": [
-        "Use Grappling Weapons",
+        "Equip Fists",
         "裝備格鬥武器",
         "격투 장비",
         "Maîtrise des poings",
@@ -8720,7 +8720,7 @@
         "Florecer eterno"
     ],
     "210290": [
-        "EXP Boost x1.3",
+        "EXP x1.3",
         "經驗值UP1.3倍",
         "경험치 상승 1.3배",
         "Boost EXP x1,3",
@@ -19413,7 +19413,7 @@
         "우아한 사격수",
         "Archer séduisant",
         "Eleganter Bogenschütze",
-        "Arquero adulador"
+        "Arquera aduladora"
     ],
     "223670": [
         "Pure-bred Summoner",
@@ -40364,7 +40364,7 @@
         "耐久陸行鳥",
         "스태미너 초코보",
         "Endurance chocobo",
-        "Chocobo-Ausdauer",
+        "Chocobos langer Atem",
         "Resistencia chocobo"
     ],
     "230142": [
@@ -46615,6 +46615,14 @@
         "Anspannen der Ketten der Zeit",
         "Estrechando las cadenas del tiempo"
     ],
+    "231370": [
+        "Earth-Shattering Battle Axe",
+        "震擊的戰斧",
+        "진격의 전투 도끼",
+        "Hache sidérante",
+        "Erderschütternde Kriegsaxt",
+        "Hacha de combate demoledora"
+    ],
     "231380": [
         "Aldore King's Caliber",
         "阿爾多爾王的器量",
@@ -47652,7 +47660,7 @@
         "神使逆矛【諾克提斯王子】",
         "칸나기의 역모[녹티스 왕자]",
         "Trident de l'Oracle (Noctis, prince couronné)",
-        "Armbrust des Gewieften (Kronprinz Noctis)",
+        "Dreizack des Orakels (Kronprinz Noctis)",
         "Vajra (Príncipe Noctis)"
     ],
     "231862": [
@@ -47660,7 +47668,7 @@
         "獅子王雙劍【諾克提斯王子】",
         "사자왕의 쌍검[녹티스 왕자]",
         "Crocs du Lion (Noctis, prince couronné)",
-        "Armbrust des Gewieften (Kronprinz Noctis)",
+        "Schwert des Wanderers (Kronprinz Noctis)",
         "Jano (Príncipe Noctis)"
     ],
     "231863": [
@@ -47676,7 +47684,7 @@
         "鬼王枉駕【諾克提斯王子】",
         "귀왕의 왕림[녹티스 왕자]",
         "Masse du Démon (Noctis, prince couronné)",
-        "Schild der Gerechten (Kronprinz Noctis)",
+        "Keule des Dämons (Kronprinz Noctis)",
         "Ragnar (Príncipe Noctis)"
     ],
     "231865": [
@@ -51640,7 +51648,7 @@
         "Martillo del conquistador - Defensa"
     ],
     "300720": [
-        "Tojin Medicine I",
+        "Invigorating Potion I",
         "鬥神藥I",
         null,
         null,
@@ -108065,7 +108073,7 @@
     ],
     "913355": [
         "Mystical Mirror",
-        "規劃之鏡",
+        "神秘之鏡",
         "마법 거울",
         "Reflet mystique",
         "Rätselhafter Spiegel",
@@ -110174,6 +110182,822 @@
         "Boule de neige",
         "Schneeball",
         "Bola de nieve"
+    ],
+    "913620": [
+        "Imperial Mandates",
+        "帝國之授權",
+        "황국의 권한",
+        "Mandats impériaux",
+        "Kaiserliches Mandat",
+        "Mandatos imperiales"
+    ],
+    "913621": [
+        "Imperial Orders",
+        "帝國之敕命",
+        "황국의 명령",
+        "Ordres impériaux",
+        "Kaiserliche Befehle",
+        "Órdenes imperiales"
+    ],
+    "913622": [
+        "Imperial Orders",
+        "帝國之敕命",
+        "황국의 명령",
+        "Ordres impériaux",
+        "Kaiserliche Befehle",
+        "Órdenes imperiales"
+    ],
+    "913623": [
+        "Imperial Summons",
+        "帝國之召集",
+        "황국의 소환",
+        "Invocations impériales",
+        "Kaiserliches Herbeirufen",
+        "Invocación imperial"
+    ],
+    "913624": [
+        "Imperial Summons",
+        "帝國之召集",
+        "황국의 소환",
+        "Invocations impériales",
+        "Kaiserliches Herbeirufen",
+        "Invocación imperial"
+    ],
+    "913625": [
+        "Celestial Destiny",
+        "天之宿命",
+        "천명",
+        "Destiné céleste",
+        "Himmlisches Schicksal",
+        "Destino celestial"
+    ],
+    "913626": [
+        "Heed my call!",
+        "以我之名下令!",
+        "내 명을 받들라!",
+        "Entendez mon appel !",
+        "Folgt meinem Befehl!",
+        "¡Escucha mi llamada!"
+    ],
+    "913627": [
+        "Final Imperial Edict",
+        "帝王最終敕令",
+        "마지막 황명",
+        "Dernier décret impérial",
+        "Letzter Kaiserlicher Befehl",
+        "Decreto imperial definitivo"
+    ],
+    "913628": [
+        "Final Imperial Edict",
+        "帝王最終敕令",
+        "마지막 황명",
+        "Dernier décret impérial",
+        "Letzter Kaiserlicher Befehl",
+        "Decreto imperial definitivo"
+    ],
+    "913629": [
+        "Strategy - Eight Trigrams East Formation",
+        "兵法 - 八卦陣.東",
+        "병법·팔괘동진",
+        "Stratégie - Formation des huit divinités de l'Est",
+        "Strategie - Ostformation der Acht Trigramme",
+        "Estrategia - Formación de los Ocho Trigramas del este"
+    ],
+    "913630": [
+        "Strategy - Eight Trigrams East Formation",
+        "兵法 - 八卦陣.東",
+        "병법·팔괘동진",
+        "Stratégie - Formation des huit divinités de l'Est",
+        "Strategie - Ostformation der Acht Trigramme",
+        "Estrategia - Formación de los Ocho Trigramas del este"
+    ],
+    "913631": [
+        "Strategy - Eight Trigrams West Formation",
+        "兵法 - 八卦陣.西",
+        "병법·팔괘서진",
+        "Stratégie - Formation des huit divinités de l'Ouest",
+        "Strategie - Westformation der Acht Trigramme",
+        "Estrategia - Formación de los Ocho Trigramas del oeste"
+    ],
+    "913632": [
+        "Strategy - Eight Trigrams West Formation",
+        "兵法 - 八卦陣.西",
+        "병법·팔괘서진",
+        "Stratégie - Formation des huit divinités de l'Ouest",
+        "Strategie - Westformation der Acht Trigramme",
+        "Estrategia - Formación de los Ocho Trigramas del oeste"
+    ],
+    "913633": [
+        "Guard Appointment",
+        "守護.預借",
+        "호위 지명",
+        "Poste de garde",
+        "Wachanordnung",
+        "Puesto de guardia"
+    ],
+    "913634": [
+        "Guard Appointment",
+        "守護.預借",
+        "호위 지명",
+        "Poste de garde",
+        "Wachanordnung",
+        "Puesto de guardia"
+    ],
+    "913635": [
+        "Summons - Loyal Guardians",
+        "召集 - 忠誠侍衛",
+        "소환·친위대",
+        "Invocations - Gardiens loyaux",
+        "Herbeirufen - Treue Wächter",
+        "Invocación - Guardias leales"
+    ],
+    "913636": [
+        "Summons - Loyal Guardians",
+        "召集 - 忠誠侍衛",
+        "소환·친위대",
+        "Invocations - Gardiens loyaux",
+        "Herbeirufen - Treue Wächter",
+        "Invocación - Guardias leales"
+    ],
+    "913637": [
+        "Summons - Qilin Execution",
+        "召集 - 麒麟誅罰",
+        "소환·기린의 징벌",
+        "Invocations - Exécution du Qilin",
+        "Herbeirufen - Qilin-Exekution",
+        "Invocación - Sentencia de Qilin"
+    ],
+    "913638": [
+        "Summons - Qilin Rage",
+        "召集 - 麒麟之怒",
+        "소환·기린의 분노",
+        "Invocations - Rage du Qilin",
+        "Herbeirufen - Qilin-Rage",
+        "Invocación - Ira de Qilin"
+    ],
+    "913639": [
+        "Summons - Qilin Fury",
+        "召集 - 麒麟激憤",
+        "소환·기린의 격노",
+        "Invocations - Fureur du Qilin",
+        "Herbeirufen - Qilin-Zorn",
+        "Invocación - Furia de Qilin"
+    ],
+    "913640": [
+        "Summons - Call for Wind",
+        "召集 - 捲起大風",
+        "소환·바람을 부르는 외침",
+        "Invocations - Supplication venteuse",
+        "Herbeirufen - Windruf",
+        "Invocación - Llamada al viento"
+    ],
+    "913641": [
+        "Summons - Qilin Protection",
+        "召集 - 麒麟之加護",
+        "소환·기린의 가호",
+        "Invocations - Protection du Qilin",
+        "Herbeirufen - Qilin-Schutz",
+        "Invocación - Protección de Qilin"
+    ],
+    "913642": [
+        "Summons - Qilin Blessing",
+        "召集 - 麒麟之恩惠",
+        "소환·기린의 축복",
+        "Invocations - Bénédiction du Qilin",
+        "Herbeirufen - Qilin-Segen",
+        "Invocación - Bendición de Qilin"
+    ],
+    "913643": [
+        "Summons - Qilin Aura",
+        "召集 - 麒麟之練氣",
+        "소환·기린의 기운",
+        "Invocations - Aura du Qilin",
+        "Herbeirufen - Qilin-Aura",
+        "Invocación - Aura de Qilin"
+    ],
+    "913644": [
+        "Strategy - Square Formation",
+        "兵法 - 方陣",
+        "병법·사방진",
+        "Stratégie - Formation cubique",
+        "Strategie - Quadratformation",
+        "Estrategia - Formación cuadrilátera"
+    ],
+    "913645": [
+        "Strategy - Square Formation",
+        "兵法 - 方陣",
+        "병법·사방진",
+        "Stratégie - Formation cubique",
+        "Strategie - Quadratformation",
+        "Estrategia - Formación cuadrilátera"
+    ],
+    "913646": [
+        "Strategy - Advanced Square Formation",
+        "兵法 - 方陣.改",
+        "병법·개량형 사방진",
+        "Stratégie - Formation cubique avancée",
+        "Strategie - Erweiterte Quadratformation",
+        "Estrategia - Formación cuadrilátera avanzada"
+    ],
+    "913647": [
+        "Strategy - Wedge Formation",
+        "兵法 - 楔形陣",
+        "병법·설형진",
+        "Stratégie - Formation en coin",
+        "Strategie - Keilformation",
+        "Estrategia - Formación en cuña"
+    ],
+    "913648": [
+        "Strategy - Wedge Formation",
+        "兵法 - 楔形陣",
+        "병법·설형진",
+        "Stratégie - Formation en coin",
+        "Strategie - Keilformation",
+        "Estrategia - Formación en cuña"
+    ],
+    "913649": [
+        "Strategy - Advanced Wedge Formation",
+        "兵法 - 楔形陣.改",
+        "병법·개량형 설형진",
+        "Stratégie - Formation en coin avancée",
+        "Strategie - Erweiterte Keilformation",
+        "Estrategia - Formación en cuña avanzada"
+    ],
+    "913650": [
+        "Strategy - Hook Formation",
+        "兵法 - 鉤形陣",
+        "병법·구형진",
+        "Stratégie - Formation en hameçon",
+        "Strategie - Hakenformation",
+        "Estrategia - Formación en garfio"
+    ],
+    "913651": [
+        "Strategy - Hook Formation",
+        "兵法 - 鉤形陣",
+        "병법·구형진",
+        "Stratégie - Formation en hameçon",
+        "Strategie - Hakenformation",
+        "Estrategia - Formación en garfio"
+    ],
+    "913652": [
+        "Strategy - Advanced Hook Formation",
+        "兵法 - 鉤形陣.改",
+        "병법·개량형 구형진",
+        "Stratégie - Formation en hameçon avancée",
+        "Strategie - Erweiterte Hakenformation",
+        "Estrategia - Formación en garfio avanzada"
+    ],
+    "913653": [
+        "Strategy - Circle Formation",
+        "兵法 - 圓陣",
+        "병법·회형진",
+        "Stratégie - Formation en cercle",
+        "Strategie - Kreisformation",
+        "Estrategia - Formación circular"
+    ],
+    "913654": [
+        "Strategy - Circle Formation",
+        "兵法 - 圓陣",
+        "병법·회형진",
+        "Stratégie - Formation en cercle",
+        "Strategie - Kreisformation",
+        "Estrategia - Formación circular"
+    ],
+    "913655": [
+        "Strategy - Advanced Circle Formation",
+        "兵法 - 圓陣.改",
+        "병법·개량형 회형진",
+        "Stratégie - Formation en cercle avancée",
+        "Strategie - Erweiterte Kreisformation",
+        "Estrategia - Formación circular avanzada"
+    ],
+    "913656": [
+        "Strategy - Snake Formation",
+        "兵法 - 錐形陣",
+        "병법·독사형진",
+        "Stratégie - Formation en serpent",
+        "Strategie - Schlangenformation",
+        "Estrategia - Formación serpiente"
+    ],
+    "913657": [
+        "Strategy - Arrow Formation",
+        "兵法 - 箭尖陣",
+        "병법·시형진",
+        "Stratégie - Formation en flèche",
+        "Strategie - Pfeilformation",
+        "Estrategia - Formación flecha"
+    ],
+    "913658": [
+        "Strategy - Five Fold Formation",
+        "兵法 - 五陣",
+        "병법·오중방진",
+        "Stratégie - Formation quintuple",
+        "Strategie - Fünffach-Formation",
+        "Estrategia - Formación quíntuple"
+    ],
+    "913659": [
+        "Strategy - War Cry",
+        "兵法 - 戰吼",
+        "병법·전장의 함성",
+        "Stratégie - Cri de guerre",
+        "Strategie - Kampfschrei",
+        "Estrategia - Grito de guerra"
+    ],
+    "913660": [
+        "Imperial Confidant",
+        "帝國之信念",
+        "황제의 신뢰",
+        "Confident impérial",
+        "Vertrauter des Kaisers",
+        "Confidente imperial"
+    ],
+    "913661": [
+        "Divine Purpose",
+        "神聖之大義",
+        "대의",
+        "Justice divine",
+        "Himmlischer Auftrag",
+        "Justicia divina"
+    ],
+    "913662": [
+        "Heaven's Favor",
+        "天之恩惠",
+        "하늘의 성은",
+        "Faveur des cieux",
+        "Mandat des Himmels",
+        "Favor celestial"
+    ],
+    "913663": [
+        "Son of the Heavens",
+        "天之子",
+        "하늘의 아들",
+        "Fils céleste",
+        "Himmelsgesandter Sohn",
+        "Hijo celestial"
+    ],
+    "913664": [
+        "Enduring Bloodline",
+        "傳承之血統",
+        "영원한 혈통",
+        "Lignée éternelle",
+        "Unvergängliche Blutlinie",
+        "Linaje imperecedero"
+    ],
+    "913665": [
+        "Enduring Bloodline",
+        "傳承之血統",
+        "영원한 혈통",
+        "Lignée éternelle",
+        "Unvergängliche Blutlinie",
+        "Linaje imperecedero"
+    ],
+    "913666": [
+        "Blessed Reign",
+        "天祐之統治",
+        "태평성대",
+        "Règne bénis",
+        "Gesegnete Herrschaft",
+        "Reino bendito"
+    ],
+    "913667": [
+        "Successor to the Throne",
+        "皇座之繼承",
+        "왕좌의 상속자",
+        "Héritier du trône",
+        "Thronfolger",
+        "Sucesor al trono"
+    ],
+    "913668": [
+        "Hands of the Emperor",
+        "皇帝之手",
+        "황제의 손",
+        "Mains de l'empereur",
+        "Hände des Kaisers",
+        "Manos del emperador"
+    ],
+    "913669": [
+        "Emperor's Left Hand",
+        "皇帝之左手",
+        "황제의 왼손",
+        "Main gauche de l'empereur",
+        "Linke Hand des Kaisers",
+        "Mano izquierda del emperador"
+    ],
+    "913670": [
+        "Emperor's Right Hand",
+        "皇帝之右手",
+        "황제의 오른손",
+        "Main droite de l'empereur",
+        "Rechte Hand des Kaisers",
+        "Mano derecha del emperador"
+    ],
+    "913671": [
+        "The Eleventh Keeper of Time",
+        "第11位時間管理者",
+        "시간의 열한 번째 관리자",
+        "Le onzième gardien du Temps",
+        "Der Elfte Wächter der Zeit",
+        "El decimoprimer guardián del tiempo"
+    ],
+    "913672": [
+        "Emperor's Crest",
+        "皇帝之紋章",
+        "황제의 문장",
+        "Emblème de l'empereur",
+        "Wappen des Kaisers",
+        "Blasón del emperador"
+    ],
+    "913673": [
+        "Ancient Warfare",
+        "太古戰事",
+        "고대의 전쟁",
+        "Guerre d'antan",
+        "Uralte Kriegskunst",
+        "Guerra ancestral"
+    ],
+    "913674": [
+        "Imperial Legacy",
+        "帝國之遺產",
+        "황국의 유산",
+        "Héritage impérial",
+        "Kaiserliches Vermächtnis",
+        "Legado imperial"
+    ],
+    "913675": [
+        "Imperial Heir",
+        "帝國繼承者",
+        "황국의 계승자",
+        "Héritier impérial",
+        "Erbfolger des Kaiserreichs",
+        "Heredero imperial"
+    ],
+    "913676": [
+        "Imperial Heir",
+        "帝國繼承者",
+        "황국의 계승자",
+        "Héritier impérial",
+        "Erbfolger des Kaiserreichs",
+        "Heredero imperial"
+    ],
+    "913677": [
+        "Spiritual Affinity",
+        "精神統一",
+        "영혼 친화",
+        "Affinité spirituelle",
+        "Spirituelle Affinität",
+        "Afinidad espiritual"
+    ],
+    "913678": [
+        "Heavenly Presence",
+        "神聖的存在",
+        "천상의 존재",
+        "Présence céleste",
+        "Himmlische Präsenz",
+        "Presencia celestial"
+    ],
+    "913679": [
+        "Black Tortoise - Instigation",
+        "玄武式 - 煽動",
+        "현무술·충동",
+        "Tortue noire - Instigation",
+        "Schwarze Schildkröte - Aufhetzen",
+        "Tortuga negra - Instigación"
+    ],
+    "913680": [
+        "Heaven's Path",
+        "聖天之道",
+        "천상도",
+        "Route du paradis",
+        "Himmlischer Pfad",
+        "Camino hacia el cielo"
+    ],
+    "913681": [
+        "Black Tortoise - Chi Strike",
+        "玄武式 - 極限拳",
+        "현무술·기극권",
+        "Tortue noire - Frappe de chi",
+        "Schwarze Schildkröte - Chi-Stoß",
+        "Tortuga negra - Golpe de chi"
+    ],
+    "913682": [
+        "Chi Influx",
+        "內氣運行",
+        "흡기",
+        "Afflux de chi",
+        "Chi-Strom",
+        "Afluencia de chi"
+    ],
+    "913683": [
+        "Azure Dragon - Enervating Acupoint",
+        "青龍式 - 經絡破壞",
+        "청룡술·약화혈도",
+        "Dragon azuré - Acupuncture affaiblissante",
+        "Blauer Drache - Zerstörung des Chi-Stroms",
+        "Dragón celeste - Acupuntura agotadora"
+    ],
+    "913684": [
+        "Azure Dragon Combo",
+        "青龍連擊",
+        "청룡술 연타",
+        "Combo du dragon azuré",
+        "Blaue Drachenkombo",
+        "Combo del dragón celeste"
+    ],
+    "913685": [
+        "Azure Dragon Combo",
+        "青龍連擊",
+        "청룡술 연타",
+        "Combo du dragon azuré",
+        "Blaue Drachenkombo",
+        "Combo del dragón celeste"
+    ],
+    "913686": [
+        "Black Tortoise Combo",
+        "玄武連擊",
+        "현무술 연타",
+        "Combo de la tortue noire",
+        "Schwarze Schildkrötenkombo",
+        "Combo de la tortuga negra"
+    ],
+    "913687": [
+        "Black Tortoise Combo",
+        "玄武連擊",
+        "현무술 연타",
+        "Combo de la tortue noire",
+        "Schwarze Schildkrötenkombo",
+        "Combo de la tortuga negra"
+    ],
+    "913688": [
+        "Protective Aura",
+        "神聖元氣護法",
+        "수호의 기운",
+        "Aura protectrice",
+        "Schutzaura",
+        "Aura protectora"
+    ],
+    "913689": [
+        "Element Arts - Avalanche Kick",
+        "五行式 - 雪崩腳",
+        "속성술·설붕축",
+        "Arcane élémentaire - Frappes avec le pied",
+        "Elementarkünste - Lawinentritt",
+        "Artes elementales - Patada arrolladora"
+    ],
+    "913690": [
+        "Black Tortoise - Great Wall",
+        "玄武式 - 鐵壁",
+        "현무술·만리장벽",
+        "Tortue noire - Grande muraille",
+        "Schwarze Schildkröte - Große Mauer",
+        "Tortuga negra - Gran Muralla"
+    ],
+    "913691": [
+        "Extraordinary Senses",
+        "敏銳心眼",
+        "초감각",
+        "Sens aiguisés",
+        "Scharfe Wahrnehmung",
+        "Sentidos agudos"
+    ],
+    "913692": [
+        "Element Arts - Whirlpool Kick",
+        "五行式 - 漩渦踢",
+        "속성술·와류축",
+        "Arcane élémentaire - Frappes circulaires",
+        "Elementarkünste - Strudeltritt",
+        "Artes elementales - Patada torbellino"
+    ],
+    "913693": [
+        "Offensive Aura",
+        "神聖元氣攻法",
+        "공격의 기운",
+        "Aura offensive",
+        "Bedrohende Aura",
+        "Aura ofensiva"
+    ],
+    "913694": [
+        "Element Arts - Inferno Fist",
+        "五行式 - 火焰拳",
+        "속성술·열화권",
+        "Arcane élémentaire - Poing inferno",
+        "Elementarkünste - Infernofaust",
+        "Artes elementales - Puño infernal"
+    ],
+    "913695": [
+        "Element Arts - Whirlwind Kick",
+        "五行式 - 旋風踢",
+        "속성술·선풍축",
+        "Arcane élémentaire - Frappe tourbillonnante",
+        "Elementarkünste - Tornadotritt",
+        "Artes elementales - Patada centrífuga"
+    ],
+    "913696": [
+        "Exalted Entourage",
+        "高貴的侍從",
+        "고위 경호",
+        "Alentours festifs",
+        "Erhabene Entourage",
+        "Corte entusiasmada"
+    ],
+    "913697": [
+        "Exalted Entourage",
+        "高貴的侍從",
+        "고위 경호",
+        "Alentours festifs",
+        "Erhabene Entourage",
+        "Corte entusiasmada"
+    ],
+    "913698": [
+        "Toxin Immunity",
+        "百毒不侵",
+        "만독불침",
+        "Résistance aux toxines",
+        "Toxinimmunität",
+        "Inmunidad tóxica"
+    ],
+    "913699": [
+        "Channeling the Du Mai",
+        "打通任督二脈",
+        "독맥타통",
+        "Méridien Du Mai",
+        "Fokussierung des Du Mai",
+        "Meridiano de Du Mai"
+    ],
+    "913700": [
+        "Imperial Guardians",
+        "帝國守護神",
+        "황실 근위대",
+        "Gardiens impériaux",
+        "Kaiserliche Wächter",
+        "Guardianes imperiales"
+    ],
+    "913701": [
+        "Enlightened Spirit",
+        "天賜之魂",
+        "깨우친 영혼",
+        "Esprit étincelant",
+        "Erleuchteter Geist",
+        "Espíritu cultivado"
+    ],
+    "913702": [
+        "Azure Dragon - Fatal Acupoint",
+        "青龍式 - 經絡突刺",
+        "청룡술·사혈도",
+        "Dragon azuré - Acupuncture fatale",
+        "Blauer Drache - Tödlicher Druckpunktstoß",
+        "Dragón celeste - Acupuntura letal"
+    ],
+    "913703": [
+        "Azure Dragon - Fatal Acupoint",
+        "青龍式 - 經絡突刺",
+        "청룡술·사혈도",
+        "Dragon azuré - Acupuncture fatale",
+        "Blauer Drache - Tödlicher Druckpunktstoß",
+        "Dragón celeste - Acupuntura letal"
+    ],
+    "913704": [
+        "Special Arts - Azure Dragon Style",
+        "特別式 - 青龍道",
+        "특별술·청룡식",
+        "Arcane spéciale - Dragon azuré",
+        "Besondere Künste - Stil des Blauen Drachen",
+        "Artes especiales -  Estilo dragón celeste"
+    ],
+    "913705": [
+        "Special Arts - Azure Dragon Style",
+        "特別式 - 青龍道",
+        "특별술·청룡식",
+        "Arcane spéciale - Dragon azuré",
+        "Besondere Künste - Stil des Blauen Drachen",
+        "Artes especiales -  Estilo dragón celeste"
+    ],
+    "913706": [
+        "Special Arts - Palm Strike",
+        "特別式 - 掌擊",
+        "특별술·장공파",
+        "Arcane spéciale - Frappe au poing",
+        "Besondere Künste - Handflächenstoß",
+        "Artes especiales -  Golpe de palma"
+    ],
+    "913707": [
+        "Legendary Prowess",
+        "四守之尊",
+        "전설적인 기량",
+        "Prouesse légendaire",
+        "Legendäre Kraft",
+        "Proeza legendaria"
+    ],
+    "913708": [
+        "Gathering Chi",
+        "運氣",
+        "합기",
+        "Concentration de Chi",
+        "Chi-Fokussieren",
+        "Acumulación de chi"
+    ],
+    "913709": [
+        "Gathering Chi",
+        "運氣",
+        "합기",
+        "Concentration de Chi",
+        "Chi-Fokussieren",
+        "Acumulación de chi"
+    ],
+    "913710": [
+        "Gathering Chi",
+        "運氣",
+        "합기",
+        "Concentration de Chi",
+        "Chi-Fokussieren",
+        "Acumulación de chi"
+    ],
+    "913711": [
+        "Tactical Fusion",
+        "特別式 - 玄龍雙行",
+        "전술 융합",
+        "Fusion tactique",
+        "Taktische Fusion",
+        "Fusión táctica"
+    ],
+    "913712": [
+        "Azure Dragon - Enhanced Chi",
+        "青龍式 - 爆氣點穴",
+        "청룡술·강기",
+        "Dragon azuré - Chi amélioré",
+        "Blauer Drache - Erhöhtes Chi",
+        "Dragón celeste - Aumento del chi"
+    ],
+    "913713": [
+        "Azure Dragon - Winged Blessing",
+        "青龍式 - 護體",
+        "청룡술·양익의 축복",
+        "Dragon azuré - Bénédiction ailée",
+        "Blauer Drache - Geflügelter Segen",
+        "Dragón celeste - Bendición alada"
+    ],
+    "913714": [
+        "Azure Dragon - Debilitating Acupoint",
+        "青龍式 - 化陽點穴",
+        "청룡술·저하혈도",
+        "Dragon azuré - Acupuncture paralysante",
+        "Blauer Drache - Schwächender Druckpunkt",
+        "Dragón celeste - Acupuntura debilitante"
+    ],
+    "913750": [
+        "Rustic Set",
+        "樸素套裝",
+        "농가 세트",
+        "Ensemble rustique",
+        "Rustikales Ensemble",
+        "Conjunto rústico"
+    ],
+    "913751": [
+        "Rustic Set",
+        "樸素套裝",
+        "농가 세트",
+        "Ensemble rustique",
+        "Rustikales Ensemble",
+        "Conjunto rústico"
+    ],
+    "913752": [
+        "Rustic Set",
+        "樸素套裝",
+        "농가 세트",
+        "Ensemble rustique",
+        "Rustikales Ensemble",
+        "Conjunto rústico"
+    ],
+    "913753": [
+        "Elegant Set",
+        "優雅套裝",
+        "귀인 세트",
+        "Ensemble élégant",
+        "Elegantes Ensemble",
+        "Conjunto elegante"
+    ],
+    "913754": [
+        "Elegant Set",
+        "優雅套裝",
+        "귀인 세트",
+        "Ensemble élégant",
+        "Elegantes Ensemble",
+        "Conjunto elegante"
+    ],
+    "913755": [
+        "Elegant Set",
+        "優雅套裝",
+        "귀인 세트",
+        "Ensemble élégant",
+        "Elegantes Ensemble",
+        "Conjunto elegante"
+    ],
+    "913756": [
+        "EVO MAG +5%",
+        "召喚魔法+5%",
+        "소환마법+5%",
+        "INV +5%",
+        "RUF MAG + 5 %",
+        "MAG INV  +5%"
     ],
     "950005": [
         "Sorceress' Liberation",
