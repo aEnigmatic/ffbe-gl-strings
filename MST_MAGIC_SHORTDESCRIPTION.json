@@ -57,7 +57,7 @@
     ],
     "10080": [
         "Cure paralysis for one ally",
-        "治療1名隊員的麻痹狀態",
+        "治療1名隊員的麻痺狀態",
         "아군 1명의 마비 회복",
         "Guérit un allié de paralysie",
         "Heilt Lähmung, ein Verb.",
@@ -1414,6 +1414,30 @@
         "Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification d'un allié",
         "Erhöht Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Vorus und Stein für einen Verbündeten.",
         "Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra de un aliado"
+    ],
+    "40010": [
+        "Restore HP and gradually restore HP for all allies",
+        "恢復全體隊員的HP+持續恢復HP",
+        "아군 전체의 HP 회복+HP 서서히 회복",
+        "Restaure les PV et restaure progressivement les PV de tous les alliés",
+        "Regeneriert LP aller Verb + regeneriert allmählich LP",
+        "Recupera VIT de todos los aliados y después la van recuperando poco a poco"
+    ],
+    "40020": [
+        "Deal light damage and gradual light damage to one enemy",
+        "對1名敵人發動光屬性攻擊+持續發動光屬性攻擊",
+        "적 1명에게 빛속성 피해+서서히 빛속성 피해",
+        "Inflige des dégâts de lumière et inflige graduellement des dégâts de lumière à un ennemi",
+        "Fügt einem Gegner Lichtschaden zu und fügt ihm allmählich Lichtschaden zu.",
+        "Daño de luz a un enemigo y después le inflige daño de luz poco a poco"
+    ],
+    "40230": [
+        "Reduce MAG, SPR, and wind and light resistance for all enemies",
+        "降低全體敵人的魔力精神、風光屬性耐性",
+        "적 전체의 마력, 정신력과 바람, 빛속성 저항력 감소",
+        "Réduit la MAGIE, la PSY et la résistance au vent et à la lumière de tous les ennemis",
+        "Verringert MAG, PSY und Wind- sowie Lichtresistenz aller Gegner.",
+        "Reduce la MAG, el ESP y la resistencia a viento y luz de todos los enemigos"
     ],
     "70010": [
         "Deal lightning damage to all enemies",

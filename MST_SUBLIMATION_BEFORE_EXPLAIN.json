@@ -7,6 +7,14 @@
         "Steigert MP-Erhöhung (gering)",
         "Mayor aumento de PM (poco)"
     ],
+    "100050004": [
+        "Ability changes to \"saint's conviction\"<br>Boosts MP increase (to 30%)<br>Boosts damage of certain abilities (special arts - ferocious tiger strike: 200%, special arts - swift phoenix strike: 600%, white tiger - limit strike: 200%, blood phoenix - energy burst: 700%)",
+        "能力變更為「聖人信念」<br>提高MP增加量(至30%)<br>提高特定能力的傷害(特別式 - 猛虎拳擊:200%、特別式 - 迅朱雀拳擊:600%、白虎式 - 極限拳:200%、朱雀式 - 能量釋放:700%)",
+        "'성인의 신념'으로 어빌리티 변경<br>MP 상승량 상승(30%)<br>특정 어빌리티의 피해량 상승(특별술·맹호권격: 200%, 특별술·신주작권격: 600%, 백호술·극한권: 200%, 주작술·에너지 방출: 700%)",
+        "Aptitude transformée en \"Conviction du saint\"<br>Amplifie l'augmentation des PM (à 30 %)<br>Augmente les dégâts de certaines aptitudes (Arcane spécial - Frappe du tigre féroce : 200 %, Arcane spécial - Frappe du phénix vif : 600 %, Tigre blanc - Coup transcendantal : 200 % et Phénix de sang - Déflagration d'énergie : 700 %)",
+        "Fertigkeit wird zu \"Heilige Überzeugung\"<br>Steigert MP-Erhöhung (auf 30%)<br>Erhöht Schaden bestimmter Fertigkeiten (Spezialkünste - Wilder Tigerstreich: 200%, Spezialkünste - Flinker Phönixstreich: 600%, Weißer Tiger - Limitstreich: 200%, Blutroter Phönix - Energierausch: 700%)",
+        "La habilidad cambia a Convicción santa<br>Mayor aumento de PM (a un 30%)<br>Aumenta el daño de determinadas habilidades (Artes especiales - Golpe salvaje del tigre: un 200%, Artes especiales - Golpe rápido del fénix: un 600%, Tigre blanco - Golpe de oro: un 200%, Fénix escarlata - Descarga de energía: un 700%)"
+    ],
     "100051002": [
         "Boosts MP increase (to 30%)",
         "提高MP(30%)",
@@ -417,7 +425,7 @@
     ],
     "201880002": [
         "Restores caster's HP",
-        "恢復發動者的HP",
+        "恢復自身的HP",
         "사용자의 HP 회복",
         "Restaure les PV du lanceur",
         "Heilt eigene LP",
@@ -2185,7 +2193,7 @@
     ],
     "208680002": [
         "Enables dual wielding of one-handed fists",
-        "可以裝備2個單手格鬥武器",
+        "可以裝備2把單手格鬥武器",
         "한손용 격투무기 2개 장착 가능",
         "Permet à un poing à une main de pouvoir utiliser Deux armes",
         "Ermöglicht Führen von zwei einhändigen Fäusten",
@@ -2281,7 +2289,7 @@
     ],
     "209230002": [
         "Caster can dodge some physical attacks one time at the beginning of battle or after being revived",
-        "戰鬥開始時和從無法戰鬥狀態中復活時賦予自身可閃避1次部分物理攻擊的效果",
+        "戰鬥開始時或從無法戰鬥狀態中復活時賦予自身可閃避1次部分物理攻擊的效果",
         "전투 시작 시 및 전투불능 상태에서 회복했을 때 자신에게 물리 공격 1회 회피 효과 부여",
         "Le lanceur peut esquiver certaines attaques physiques une fois au début du combat ou après une résurrection",
         "Benutzer kann einigen physischen Angriffen ein Mal zu Beginn des Kampfes oder nach Wiederbelebung ausweichen",
@@ -5553,7 +5561,7 @@
     ],
     "228010002": [
         "Automatically revives caster one time",
-        "賦予自身進入無法戰鬥狀態時自動復活1次的效果",
+        "賦予自身自動復活1次的效果",
         "자신의 전투불능 상태를 1회 자동 회복하는 효과 부여",
         "Ressuscite automatiquement le lanceur une fois",
         "Belebt Benutzer ein Mal automatisch wieder",
@@ -7526,5 +7534,125 @@
         "Augmente les dégâts (à 2500 / 2500 %)",
         "Erhöht Schaden (auf 2500/2500%)",
         "Aumenta el daño (a un 2500/2500%)"
+    ],
+    "911955002": [
+        "Boosts all elemental resistance increases (to 55%)<br>Boosts all elemental resistance reductions (to 55%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables butterfly dance for 2 turns for all allies<br>Boosts damage amount of enabled ability - butterfly dance (to 1000%)<br>Increases MP consumed (to 65)",
+        "提高全屬性耐性增加量(至55%)<br>提高全屬性耐性減少量(至55%)<br>提高效果回合數(至3回合)<br>下一回合可以行動<br>2回合內提高自身的魔力(200%、無法解除)<br>2回合內全體隊員可使用「蝶舞」<br>可使用的「蝶舞」傷害量提高(至1000%)<br>增加MP消耗(至65)",
+        "모든 속성 저항력 상승량 상승(55%)<br>모든 속성 저항력 감소량 상승(55%)<br>효과 턴 수 상승(3턴)<br>다음 턴에 행동 가능<br>2턴 동안 자신의 마력 상승(200%, 해제 불가)<br>2턴 동안 아군 전체가 '접무' 사용 가능<br>사용 가능 어빌리티 '접무'의 피해량 상승(1000%)<br>소비 MP 증가(65)",
+        "Amplifie toutes les augmentations des résistances élémentaires (à 55 %)<br>Amplifie toutes les réductions des résistances élémentaires (à 55 %)<br>Augmente le nombre de tours des effets (à 3 tours)<br>Permet d'agir au prochain tour<br>Augmente la MAGIE du lanceur pendant 2 tours (200 %, ne peut pas être dissipé)<br>Permet à tous les alliés d'utiliser Danse du papillon pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Danse du papillon (à 1 000 %)<br>Augmente les PM consommés (à 65)",
+        "Steigert Erhöhungen aller Elementarresistenzen (auf 55%)<br>Steigert Verringerungen aller Elementarresistenzen (auf 55%)<br>Erhöht Anzahl aktiver Runden (auf 3 Runden)<br>Benutzer kann in nächster Runde Aktion ausführen<br>Erhöht 2 Runden lang eigene MAG (200%, nicht bannbar)<br>Ermöglicht allen Verbündeten für zwei Runden Tanz der Schmetterlinge<br>Erhöht Schaden von aktiver Fertigkeit - Tanz der Schmetterlinge (auf 1000%)<br>Erhöht MP-Verbrauch (auf 65)",
+        "Mayor aumento de todas las resistencias elementales (a un 55%)<br>Aumenta las reducciones a todas las resistencias elementales (a un 55%)<br>Aumenta la duración (a 3 turnos)<br>El usuario puede realizar acciones al turno siguiente<br>Aumenta la MAG propia durante 2 turnos (un 200%, no se puede anular)<br>Todos los aliados aprenden Danza de la mariposa durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Danza de la mariposa (un 1000%)<br>Aumenta el consumo de PM (a 65)"
+    ],
+    "911961001": [
+        null,
+        null,
+        "'성인의 신념'으로 어빌리티 변경<br>MP 상승량 상승(30%)<br>특정 어빌리티의 피해량 상승(특별술·맹호권격: 200%, 특별술·신주작권격: 600%, 백호술·극한권: 200%, 주작술·에너지 방출: 700%)",
+        null,
+        null,
+        null
+    ],
+    "911961002": [
+        "Boosts ATK, DEF, MAG, and SPR reductions (to 50%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables searing phoenix for 2 turns for all allies<br>Boosts damage amount of enabled ability - searing phoenix (to 1000%)<br>Increases MP consumed (to 75)",
+        "提高攻擊防禦魔力精神減少量(至50%)<br>提高效果回合數(至3回合)<br>下一回合可以行動<br>2回合內提高自身的魔力(200%、無法解除)<br>2回合內全體隊員可使用「燃燒的朱雀」<br>可使用的「燃燒的朱雀」傷害量提高(至1000%)<br>增加MP消耗(至75)",
+        "공격력, 방어력, 마력, 정신력 감소량 상승(50%)<br>효과 턴 수 상승(3턴)<br>다음 턴에 행동 가능<br>2턴 동안 자신의 마력 상승(200%, 해제 불가)<br>2턴 동안 아군 전체가 '타오르는 주작' 사용 가능<br>사용 가능 어빌리티 '타오르는 주작'의 피해량 상승(1000%)<br>소비 MP 증가(75)",
+        "Amplifie les réductions de l'ATT, de la DEF, de la MAGIE et de la PSY (à 50 %)<br>Augmente le nombre de tours des effets (à 3 tours)<br>Permet d'agir au prochain tour<br>Augmente la MAGIE du lanceur pendant 2 tours (200 %, ne peut pas être dissipé)<br>Permet à tous les alliés d'utiliser Phénix incandescent pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Phénix incandescent (à 1 000 %)<br>Augmente les PM consommés (à 75)",
+        "Steigert ANG-, ABW-, MAG- und PSY-Verringerungen (auf 50%)<br>Erhöht Anzahl aktiver Runden (auf 3 Runden)<br>Benutzer kann in der nächsten Runde Aktion ausführen<br>Erhöht 2 Runden lang eigene MAG (200%, nicht bannbar)<br>Ermöglicht allen Verbündeten 2 Runden lang Sengender Phönix<br>Erhöht Schaden von aktiver Fertigkeit - Sengender Phönix (auf 1000%)<br>Erhöht MP-Verbrauch (auf 75)",
+        "Aumenta las reducciones de ATQ, DEF, MAG y ESP (a un 50%)<br>Aumenta la duración (a 3 turnos)<br>El usuario puede realizar acciones al turno siguiente<br>Aumenta la MAG propia durante 2 turnos (un 200%, no se puede anular)<br>Todos los aliados aprenden Fénix llameante durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Fénix llameante (a un 1000%)<br>Aumenta el consumo de PM (a 75)"
+    ],
+    "911965002": [
+        "Boosts DEF and SPR increases (to 150%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables razor petal storm for 2 turns for all allies<br>Boosts damage amount of enabled ability - razor petal storm (to 1000%)<br>Increases MP consumed (to 90)",
+        "提高防禦精神增加量(至150%)<br>提高效果回合數(至3回合)<br>下一回合可以行動<br>2回合內提高自身的魔力(200%、無法解除)<br>2回合內全體隊員可使用「剃刀風暴」<br>可使用的「剃刀風暴」傷害量提高(至1000%)<br>增加MP消耗(至90)",
+        "방어력과 정신력 상승량 상승(150%)<br>효과 턴 수 상승(3턴)<br>다음 턴에 행동 가능<br>2턴 동안 자신의 마력 상승(200%, 해제 불가)<br>2턴 동안 아군 전체가 '체도풍' 사용 가능<br>사용 가능 어빌리티 '체도풍'의 피해량 상승(1000%)<br>소비 MP 증가(90)",
+        "Amplifie les augmentations de la DEF et de la PSY (à 150 %)<br>Augmente le nombre de tours des effets (à 3 tours)<br>Permet d'agir au prochain tour<br>Augmente la MAGIE du lanceur pendant 2 tours (200 %, ne peut pas être dissipé)<br>Permet à tous les alliés d'utiliser Tornade de pétales tranchants pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Tornade de pétales tranchants (à 1 000 %)<br>Augmente les PM consommés (à 90)",
+        "Steigert ABW- und PSY-Erhöhungen (auf 150%)<br>Erhöht Anzahl aktiver Runden (auf 3 Runden)<br>Benutzer kann in der nächsten Runde Aktion ausführen<br>Erhöht 2 Runden lang eigene MAG (200%, nicht bannbar)<br>Ermöglicht allen Verbündeten 2 Runden lang Sturm der messerscharfen Blüten<br>Erhöht Schaden von aktiver Fertigkeit - Sturm der messerscharfen Blüten (auf 1000%)<br>Erhöht MP-Verbrauch (auf 90)",
+        "Mayor aumento de DEF y ESP (a un 150%)<br>Aumenta la duración (a 3 turnos)<br>El usuario puede realizar acciones al turno siguiente<br>Aumenta la MAG propia durante 2 turnos (un 200%, no se puede anular)<br>Todos los aliados aprenden Tormenta de pétalos filosos durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Tormenta de pétalos filosos (a un 1000%)<br>Aumenta el consumo de PM (a 90)"
+    ],
+    "911969002": [
+        "Boosts ATK and MAG increases (to 150%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables rushing river flow for 2 turns for all allies<br>Boosts damage amount of enabled ability - rushing river flow (to 1000%)<br>Increases MP consumed (to 90)",
+        "提高攻擊魔力增加量(至150%)<br>提高效果回合數(至3回合)<br>下一回合可以行動<br>2回合內提高自身的魔力(200%、無法解除)<br>2回合內全體隊員可使用「急流河川」<br>可使用的「急流河川」傷害量提高(至1000%)<br>增加MP消耗(至90)",
+        "공격력과 마력 상승량 상승(150%)<br>효과 턴 수 상승(3턴)<br>다음 턴에 행동 가능<br>2턴 동안 자신의 마력 상승(200%, 해제 불가)<br>2턴 동안 아군 전체가 '급류강하' 사용 가능<br>사용 가능 어빌리티 '급류강하'의 피해량 상승(1000%)<br>소비 MP 증가(90)",
+        "Amplifie les augmentations de l'ATT et de la MAGIE (à 150 %)<br>Augmente le nombre de tours des effets (à 3 tours)<br>Permet d'agir au prochain tour<br>Augmente la MAGIE du lanceur pendant 2 tours (200 %, ne peut pas être dissipé)<br>Permet à tous les alliés d'utiliser Rivière impétueuse pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Rivière impétueuse (à 1 000 %)<br>Augmente les PM consommés (à 90)",
+        "Steigert ANG- und MAG -Erhöhungen (auf 150%)<br>Erhöht Anzahl aktiver Runden (auf 3 Runden)<br>Benutzer kann in der nächsten Runde Aktion ausführen<br>Erhöht 2 Runden lang eigene MAG (200%, nicht bannbar)<br>Ermöglicht allen Verbündeten 2 Runden lang Rauschender Flußstrom<br>Erhöht Schaden von aktiver Fertigkeit - Rauschender Flußstrom (auf 1000%)<br>Erhöht MP-Verbrauch (auf 90)",
+        "Mayor aumento de ATQ y MAG (a un 150%)<br>Aumenta la duración (a 3 turnos)<br>El usuario puede realizar acciones al turno siguiente<br>Aumenta la MAG propia durante 2 turnos (un 200%, no se puede anular)<br>Todos los aliados aprenden Caudal impetuoso durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Caudal impetuoso (a un 1000%)<br>Aumenta el consumo de PM (a 90)"
+    ],
+    "911975002": [
+        "Boosts DEF and SPR increases (to 130%)<br>Boosts ATK and MAG reductions (to 45%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables butterfly dance for 2 turns for all allies<br>Boosts damage amount of enabled ability - butterfly dance (to 1000%)<br>Increases MP consumed (to 105)",
+        "提高防禦精神增加量(至130%)<br>提高攻擊魔力減少量(至45%)<br>提高效果回合數(至3回合)<br>下一回合可以行動<br>2回合內提高自身的魔力(200%、無法解除)<br>2回合內全體隊員可使用「蝶舞」<br>可使用的「蝶舞」傷害量提高(至1000%)<br>增加MP消耗(至105)",
+        "방어력과 정신력 상승량 상승(130%)<br>공격력과 마력 감소량 상승(45%)<br>효과 턴 수 상승(3턴)<br>다음 턴에 행동 가능<br>2턴 동안 자신의 마력 상승(200%, 해제 불가)<br>2턴 동안 아군 전체가 '접무' 사용 가능<br>사용 가능 어빌리티 '접무'의 피해량 상승(1000%)<br>소비 MP 증가(105)",
+        "Amplifie les augmentations de la DEF et de la PSY (à 130 %)<br>Amplifie les réductions de l'ATT et de la MAGIE (à 45 %)<br>Augmente le nombre de tours des effets (à 3 tours)<br>Permet d'agir au prochain tour<br>Augmente la MAGIE du lanceur pendant 2 tours (200 %, ne peut pas être dissipé)<br>Permet à tous les alliés d'utiliser Danse du papillon pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Danse du papillon (à 1 000 %)<br>Augmente les PM consommés (à 105)",
+        "Steigert ABW- und PSY -Erhöhungen (auf 130%)<br>Steigert ABW- und MAG-Verringerungen (auf 45%)<br>Erhöht Anzahl aktiver Runden (auf 3 Runden)<br>Benutzer kann in der nächsten Runde Aktion ausführen<br>Erhöht 2 Runden lang eigene MAG (200%, nicht bannbar)<br>Ermöglicht allen Verbündeten 2 Runden lang Tanz der Schmetterlinge<br>Erhöht Schaden von aktiver Fertigkeit - Tanz der Schmetterlinge (auf 1000%)<br>Erhöht MP-Verbrauch (auf 105)",
+        "Mayor aumento de DEF y ESP (a un 130%)<br>Aumenta las reducciones de ATQ y MAG (a un 45%)<br>Aumenta la duración (a 3 turnos)<br>El usuario puede realizar acciones al turno siguiente<br>Aumenta la MAG propia durante 2 turnos (un 200%, no se puede anular)<br>Todos los aliados aprenden Danza de la mariposa durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Danza de la mariposa (a un 1000%)<br>Aumenta el consumo de PM (a 105)"
+    ],
+    "911979002": [
+        "Boosts ATK and MAG increases (to 130%)<br>Boosts DEF and SPR reductions (to 45%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables searing phoenix for 2 turns for all allies<br>Boosts damage amount of enabled ability - searing phoenix (to 1000%)<br>Increases MP consumed (to 105)",
+        "提高攻擊魔力增加量(至130%)<br>提高防禦精神減少量(至45%)<br>提高效果回合數(至3回合)<br>下一回合可以行動<br>2回合內提高自身的魔力(200%、無法解除)<br>2回合內全體隊員可使用「燃燒的朱雀」<br>可使用的「燃燒的朱雀」傷害量提高(至1000%)<br>增加MP消耗(至105)",
+        "공격력과 마력 상승량 상승(130%)<br>방어력과 정신력 감소량 상승(45%)<br>효과 턴 수 상승(3턴)<br>다음 턴에 행동 가능<br>2턴 동안 자신의 마력 상승(200%, 해제 불가)<br>2턴 동안 아군 전체가 '타오르는 주작' 사용 가능<br>사용 가능 어빌리티 '타오르는 주작'의 피해량 상승(1000%)<br>소비 MP 증가(105)",
+        "Amplifie les augmentations de l'ATT et de la MAGIE (à 130 %)<br>Amplifie les réductions de la DEF et de la PSY (à 45 %)<br>Augmente le nombre de tours des effets (à 3 tours)<br>Permet d'agir au prochain tour<br>Augmente la MAGIE du lanceur pendant 2 tours (200 %, ne peut pas être dissipé)<br>Permet à tous les alliés d'utiliser Phénix incandescent pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Phénix incandescent (à 1 000 %)<br>Augmente les PM consommés (à 105)",
+        "Steigert ANG- und MAG-Erhöhungen (auf 130%)<br>Steigert ABW- und PSY-Verringerungen (auf 45%)<br>Erhöht Anzahl aktiver Runden (auf 3 Runden)<br>Benutzer kann in der nächsten Runde Aktion ausführen<br>Erhöht 2 Runden lang eigene MAG (200%, nicht bannbar)<br>Ermöglicht allen Verbündeten 2 Runden lang Sengender Phönix<br>Erhöht Schaden von aktiver Fertigkeit - Sengender Phönix (auf 1000%)<br>Erhöht MP-Verbrauch (auf 105)",
+        "Mayor aumento de ATQ y MAG (a un 130%)<br>Aumenta las reducciones de DEF y ESP (a un 45%)<br>Aumenta la duración (a 3 turnos)<br>El usuario puede realizar acciones al turno siguiente<br>Aumenta la MAG propia durante 2 turnos (un 200%, no se puede anular)<br>Todos los aliados aprenden Fénix llameante durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Fénix llameante (a un 1000%)<br>Aumenta el consumo de PM (a 105)"
+    ],
+    "911983002": [
+        "Boosts turns in effect for damage reduction (to 2 turns)<br>Can act next turn",
+        "提高傷害減少的效果回合數(至2回合)<br>下一回合可以行動",
+        "피해량 감소 효과 턴 수 상승(2턴)<br>다음 턴에 행동 가능",
+        "Augmente le nombre de tours des effets réduisant les dégâts (à 2 tours)<br>Permet d'agir au prochain tour",
+        "Erhöht Anzahl aktiver Runden für Schadensverringerung (auf 2 Runden)<br>Benutzer kann in der nächsten Runde Aktion ausführen",
+        "Aumenta la duración de la reducción de daño (a 2 turnos)<br>El usuario puede realizar acciones al turno siguiente"
+    ],
+    "911991002": [
+        "Boosts ATK, DEF, MAG, and SPR increases (to 180%)<br>Boosts damage reduction (to 40%)<br>Enables moonlight waltz for 2 turns for all allies<br>Boosts damage amount of enabled ability - moonlight waltz (to 1500%)<br>Reduces cooldown time (to one use every 6 turns)<br>Increases MP consumed (to 120)",
+        "提高攻擊防禦魔力精神增加量(至180%)<br>提高傷害減少量(至40%)<br>2回合內全體隊員可使用「月光華爾茲」<br>提高可使用能力「月光華爾茲」的傷害量(至1500%)<br>減少冷卻時間(減少至每6回合可使用1次)<br>增加MP消耗(至120)",
+        "공격력, 방어력, 마력, 정신력 상승량 상승(180%)<br>피해 감소량 상승(40%)<br>2턴 동안 아군 전체가 '월광의 왈츠' 사용 가능<br>사용 가능 어빌리티 '월광의 왈츠'의 피해량 상승(1500%)<br>재사용 대기 시간 감소(6턴에 1회 사용 가능)<br>소비 MP 증가(120)",
+        "Amplifie les augmentations de l'ATT, de la DEF, de la MAGIE et de la PSY (à 180 %)<br>Amplifie la réduction des dégâts (à 40 %)<br>Permet à tous les alliés d'utiliser Valse au clair de lune pendant 2 tours<br>Augmente les dégâts de l'aptitude déblocable Valse au clair de lune (à 1 500 %)<br>Réduit le nombre de tours avant réutilisation (à une fois tous les 6 tours)<br>Augmente les PM consommés (à 120)",
+        "Steigert ANG-, ABW-, MAG- und PSY-Erhöhungen (auf 180%)<br>Steigert Schadensverringerung (auf 40%)<br>Ermöglicht allen Verbündeten zwei Runden lang Mondscheinwalzer<br>Erhöht Schaden von aktiver Fertigkeit - Mondscheinwalzer (auf 1500%)<br>Verringert Abklingdauer (auf eine Benutzung alle 6 Runden)<br>Erhöht MP-Verbrauch (auf 120)",
+        "Mayor aumento de ATQ, DEF, MAG y ESP (a un 180%)<br>Aumenta la reducción de daño (a un 40%)<br>Todos los aliados aprenden Vals del claro de luna durante 2 turnos<br>Aumenta el daño de la habilidad aprendida Vals del claro de luna (a un 1500%)<br>Reduce el tiempo de espera (a un uso cada 6 turnos)<br>Aumenta el consumo de PM (a 120)"
+    ],
+    "912002002": [
+        "Boosts HP increase (to 30%)<br>Boosts DEF, MAG, SPR, and MP (30%)",
+        "提高HP增加量(至30%)<br>提高MP防禦魔力精神(30%)",
+        "HP 상승량 상승(30%)<br>방어력, 마력, 정신력, MP 상승(30%)",
+        "Amplifie l'augmentation des PV (à 30 %)<br>Augmente la DEF, la MAGIE, la PSY et les PM (30 %)",
+        "Steigert LP-Erhöhung (auf 30%)<br>Erhöht ABW, MAG, PSY und MP (30%)",
+        "Mayor aumento de VIT (a un 30%)<br>Aumenta DEF, MAG, ESP y PM (un 30%)"
+    ],
+    "912047002": [
+        "Boosts damage amount (to 970%)<br>Boosts ATK for three turns for caster (100%)",
+        "提高傷害量(至970%)<br>3回合內提高自身的攻擊(100%)",
+        "피해량 상승(970%)<br>3턴 동안 자신의 공격력 상승(100%)",
+        "Augmente les dégâts infligés (à 970 %)<br>Augmente l'ATT du lanceur pendant 3 tours (100 %)",
+        "Erhöht Schaden (auf 970%)<br>Erhöht drei Runden lang ANG des Benutzers (100%)",
+        "Aumenta el daño (a un 970%)<br>Aumenta el ATQ del usuario durante 3 turnos (un 100%)"
+    ],
+    "912048002": [
+        "Boosts damage amount (to 1250%)<br>Boosts SPR increase (to 100%)",
+        "提高傷害量(至1250%)<br>提高精神增加量(至100%)",
+        "피해량 상승(1250%)<br>정신력 상승량 상승(100%)",
+        "Augmente les dégâts infligés (à 1 250 %)<br>Amplifie l'augmentation de la PSY (à 100 %)",
+        "Erhöht Schaden (auf 1250%)<br>Steigert PSY-Erhöhung (auf 100%)",
+        "Aumenta el daño (a un 1250%)<br>Mayor aumento de ESP (a un 100%)"
+    ],
+    "912063002": [
+        "Boosts ATK and SPR increases (to 20%)<br>Boosts ATK and SPR increases when equipped with fists (to 30%)<br>Boosts equipment ATK and SPR when a single weapon is equipped in both hands (20%)",
+        "提高攻擊精神增加量(至20%)<br>裝備格鬥武器時提高攻擊精神增加量(至30%)<br>雙手只裝備1把武器時武具攻擊精神提升(20%)",
+        "공격력과 정신력 상승량 상승(20%)<br>격투무기 장착 시 공격력과 정신력 상승량 상승(30%)<br>양손의 장비가 무기 1개일 경우 장비의 공격력과 정신력 상승(20%)",
+        "Amplifie les augmentations de l'ATT et de la PSY (à 20 %)<br>Amplifie les augmentations de l'ATT et de la PSY lorsque des poings sont équipés (à 30 %)<br>Augmente l'ATT et la PSY de l'équipement quand une arme est tenue avec les deux mains (20 %)",
+        "Steigert ANG- und PSY-Erhöhungen (auf 20%)<br>Steigert ANG- und PSY-Erhöhungen, wenn mit Fäusten ausgerüstet (auf 30%)<br>Erhöht ANG und PSY, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist (20%)",
+        "Mayor aumento de ATQ y ESP (a un 20%)<br>Mayor aumento de ATQ y ESP al llevar puños (a un 30%)<br>Aumenta el ATQ y el ESP del equipo al llevar una sola arma en ambas manos (un 20%)"
+    ],
+    "912064002": [
+        "Reduces MP consumed (to 60)",
+        "減少MP消耗(至60)",
+        "소비 MP 감소(60)",
+        "Réduit les PM consommés (à 60)",
+        "Verringert MP-Verbrauch (auf 60)",
+        "Reduce el consumo de PM (a 60)"
+    ],
+    "912070002": [
+        "Boosts HP (20%)<br>Boosts equipment ATK increase (to 50%)",
+        "提高HP(20%)<br>提高武具攻擊增加量(至50%)",
+        "HP 상승(20%)<br>장비의 공격력 상승량 상승(50%)",
+        "Augmente les PV (20 %)<br>Amplifie l'augmentation de l'ATT de l'équipement (à 50 %)",
+        "Erhöht LP (20%)<br>Steigert Erhöhung von Ausrüstung-ANG(auf 50%)",
+        "Aumenta la VIT (un 20%)<br>Mayor aumento de ATQ del equipo (a un 50%)"
     ]
 }
