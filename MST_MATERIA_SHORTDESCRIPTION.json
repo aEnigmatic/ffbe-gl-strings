@@ -1048,7 +1048,7 @@
         "Aumenta la DEF de quien lo usa."
     ],
     "504200150": [
-        "Use magic twice in one turn",
+        "Enable magic to be used twice in one turn",
         "1回合內可使用2次魔法",
         "1턴 동안 마법 2회 사용 가능",
         "Permet de lancer deux sorts en un tour",
@@ -2616,7 +2616,7 @@
         "Permite que la unidad pueda equiparse con dos armas de una sola mano y aumenta el ATQ al llevar espada, espada corta, espada grande o katana."
     ],
     "504213980": [
-        "Use white magic twice in one turn",
+        "Enable white magic to be used twice in one turn",
         "1回合內可使用2次白魔法",
         "1턴 동안 백마법 2회 사용 가능",
         "Permet d'utiliser la magie blanche à deux reprises en un tour",
@@ -4991,6 +4991,22 @@
         "Erhöht Feuer-, Erd- sowie Dunkelresistenz um 20% und erhöht MAG um 50%, wenn mit einer Robe ausgerüstet (Nicht stapelbar).",
         "Aumenta la resistencia a fuego, tierra y oscuridad un 20%, y aumenta la MAG un 50% al llevar túnica (no acumulable)"
     ],
+    "504231203": [
+        "Boost MP by 40%, MAG by 60%, and ice resistance by 80% (Not stackable)",
+        "提高40%MP、60%魔力、80%冰屬性耐性 [無法重複裝備]",
+        "MP 40%, 마력 60%, 얼음속성 저항력 80% 상승 (중복 장착 불가)",
+        "Augmente les PM de 40 %, la MAGIE de 60 % et la résistance à la glace de 80 %",
+        "Erhöht MP um 40%, MAG um 60% und Eisresistenz um 80% (nicht stapelbar).",
+        "Aumenta los PM un 40%, la MAG un 60% y la resistencia al hielo un 80% (no acumulable)"
+    ],
+    "504231204": [
+        "Boost HP and SPR by 40% and water, wind, and light resistance by 60% (Not stackable)",
+        "提高40%HP精神、60%水風光屬性耐性 [無法重複裝備]",
+        "HP와 정신력 40%, 물, 바람, 빛속성 저항력 60% 상승 (중복 장착 불가)",
+        "Augmente les PV et la PSY de 40 % ainsi que la résistance à l'eau, au vent et à la lumière de 60 %",
+        "Erhöht LP und PSY um 40% und Wasser-, Wind- und Lichtresistenz um 60% (nicht stapelbar).",
+        "Aumenta la VIT y el ESP un 40% y la resistencia a agua, viento y luz un 60% (no acumulable)"
+    ],
     "504231302": [
         "Boost ATK by 50% and boost LB gauge fill rate (Not stackable)",
         "提高50%攻擊+提高極限技石對極限技槽的增加量 [無法重複裝備]",
@@ -6190,5 +6206,37 @@
         "Augmente la PSY lorsque des poings sont équipés, et augmente les dégâts de la limite. (Non cumulable)",
         "Erhöht PSY, wenn mit Fäusten ausgerüstet, und erhöht Schaden durch Limitrausch (nicht stapelbar).",
         "Aumenta el ESP al llevar puños y aumenta el daño del EL (no acumulable)"
+    ],
+    "1500000124": [
+        "Boost HP by 10%, SPR by 30%, and SPR by 30% when equipped with a staff (Not stackable)",
+        "提高10%HP、30%精神+裝備手杖時提高30%精神[無法重複裝備]",
+        "HP 10%, 정신력 30% 상승+지팡이 장착 시 정신력 30% 상승 (중복 장착 불가)",
+        "Augmente les PV de 10 % et la PSY de 30 %, et augmente la PSY de 30 % lorsqu'un bâton est équipé (non cumulable)",
+        "Erhöht LP um 10%, PSY um 30% und erhöht PSY um 30%, wenn mit einem Stab ausgerüstet (nicht stapelbar).",
+        "Aumenta la VIT un 10%, el ESP un 30%, y el ESP otro 30% al llevar bastón (no acumulable)"
+    ],
+    "1500000125": [
+        "Boost ATK by 40% and HP and DEF by 20%, and boost LB gauge fill rate (Not stackable)",
+        "提高40%攻擊、20%HP防禦+提高極限技石對極限技槽的增加量[無法重複裝備]",
+        "공격력 40%, HP와 방어력 20% 상승+LB 게이지 효율 상승 (중복 장착 불가)",
+        "Augmente l'ATT de 40 % et les PV et la DEF de 20 %, et augmente le taux de remplissage de la jauge de limite (non cumulable)",
+        "Erhöht ANG um 40%, LP sowie ABW um 20% und Limitmeter füllt sich schneller (nicht stapelbar).",
+        "Aumenta el ATQ un 40% y la VIT y la DEF un 20%, y la barra de EL se rellena más rápido (no acumulable)"
+    ],
+    "1500000126": [
+        "Boost HP by 20%, MP by 40%, and fire, water, and light resistance by 10%",
+        "提高20%HP、40%MP、10%火水光屬性耐性",
+        "HP 20%, MP 40% 상승+불, 물, 빛속성 저항력 10% 상승",
+        "Augmente les PV de 20 %, les PM de 40 %, et la résistance au feu, à l'eau et à la lumière de 10 %",
+        "Erhöht LP um 20%, MP um 40% und Feuer-, Wasser- sowie Lichtesistenz um 10%.",
+        "Aumenta la VIT un 20%, los PM un 40%, y la resistencia a fuego, agua y luz un 10%"
+    ],
+    "1500000127": [
+        "Boost MAG and SPR by 20%, and boost MP when equipped with a robe",
+        "提高20%魔力精神+裝備法袍時提高MP",
+        "마력과 정신력 20% 상승+로브 장착 시 MP 상승",
+        "Augmente la MAGIE et la PSY de 20 %, et augmente les PM lorsqu'une tunique est équipée",
+        "Erhöht MAG sowie PSY um 20% und MP, wenn mit einer Robe ausgerüstet.",
+        "Aumenta la MAG y el ESP un 20%, y aumenta los PM al llevar túnica"
     ]
 }

@@ -5647,6 +5647,14 @@
         "(Karten in Besitz: <param=ticket_total>)",
         "(Tíckets en posesión: <param=ticket_total>)"
     ],
+    "GACHA_SELECT_TICKET_TOTAL_SHORTAGE": [
+        "(Tickets on hand: <color=255:255:0><param=ticket_total></color>)",
+        "(持有：<color=255:255:0><param=ticket_total>張</color>)",
+        "(보유 티켓 수: <color=255:255:0><param=ticket_total></color>)",
+        "(Tickets en possession : <color=255:255:0><param=ticket_total></color>)",
+        "(Karten im Besitz: <color=255:255:0><param=ticket_total></color>)",
+        "(Tíckets en posesión: <color=255:255:0><param=ticket_total></color>)"
+    ],
     "GACHA_SELECT_UNIT_CONFIRM": [
         "Use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=unit_name></color>?",
         "要使用<param=ticket_name> <param=cost>張<br>獲得<color=255:255:0><param=unit_name></color>嗎？",
@@ -5662,6 +5670,14 @@
         "Vous êtes sur le point d'utiliser <param=cost> <param=ticket_name> pour obtenir <br>\"<color=255:255:0><param=unit_name></color>\".<br>Confirmer ? (dernière confirmation)",
         "Du wirst <param=cost> <param=ticket_name>(s) benutzen, um<br><color=255:255:0><param=unit_name></color> zu erhalten.<br>Bestätigen?<br>(Endgültige Bestätigung)",
         "Estás a punto de usar <param=cost> <param=ticket_name>(s) para conseguir<br><color=255:255:0><param=unit_name></color>.<br>¿Estás seguro de que quieres continuar?<br>"
+    ],
+    "GACHA_SELECT_UNIT_NOTICE": [
+        "You need <param=cost> 5★ Select Summon Tickets to exchange for <color=255:255:0><param=unit_name></color>.",
+        "交換<color=255:255:0><param=unit_name></color>需要<param=cost> 張★5自選召喚券。",
+        "<color=255:255:0><param=unit_name></color> 유닛과 교환하기 위해 ★5 선택 소환 티켓 <param=cost>장이 필요합니다.",
+        "Il vous faut <param=cost> ticket(s) sélectionneur(s) de 5★ pour obtenir <color=255:255:0><param=unit_name></color>.",
+        "Du brauchst <param=cost> 5★ Auswahlbeschwörungskarten zum Tausch für <color=255:255:0><param=unit_name></color>.",
+        "Se necesitan <param=cost> tíckets seleccionadores de 5★ para intercambiar la unidad <color=255:255:0><param=unit_name></color>."
     ],
     "GACHA_STEP_UP_LIMIT_OVER": [
         "Step up limit reached. Unable to summon anymore",
@@ -5718,6 +5734,14 @@
         "Unité <param=rare>★ de niveau max avec limite au niveau maximum.",
         "Einheit auf <param=rare>★, max. Stufe, mit Limitrausch auf max. Stufe.",
         "La unidad está a <param=rare>★, nivel máximo, con Estallido Límite a nivel máximo."
+    ],
+    "GAME_CENTER_NOT_LOGIN": [
+        "You are not currently logged in to Game Center. Please log in to Game Center to view your achievements and leaderboards.",
+        "您目前未登入Game Center。請先登入Game Center以查看個人成就及排行榜。",
+        "현재 Game Center에 로그인되어 있지 않습니다. 도전 과제와 순위표 확인을 위해서는 Game Center에 로그인해주십시오.",
+        "Vous n'êtes actuellement pas connecté au Game Center. Veuillez vous connecter au Game Center pour pouvoir afficher vos réussites et classements.",
+        "Du bist derzeit nicht im Game Center angemeldet. Bitte melde dich im Game Center an, um deine Achievements und Highscore-Tabellen einzusehen.",
+        "No estás conectado a Game Center. Inicia sesión para poder ver tus logros y tablas de clasificación."
     ],
     "GATE": [
         "Dimensional Vortex",
@@ -18419,7 +18443,7 @@
         "Get exchangeable currencies in various ways, such as summoning from step up summon banners, kupo!",
         "透過STEP UP召喚橫幅圖示等各種方式獲得可用於交換的代幣，庫啵！",
         "스텝 업 소환 배너를 통해 소환하는 등 다양한 방법으로 교환용 화폐를 획득해봐쿠포!",
-        "Obtenez des monaies interchangeables de diverses manières,<br>par exemple par le biais des bannières d'invocation à paliers, kupo !",
+        "Obtenez des monnaies interchangeables de diverses manières,<br>par exemple par le biais des bannières d'invocation à paliers, kupo !",
         "Erhalte auf verschiedenen Wegen eintauschbare Währungen,<br> zum Beispiel indem du Beschwörungen via Stufenbeschwörung durchführst, kupo!",
         "¡Consigue divisas intercambiables de varias maneras,<br>por ejemplo, al invocar en las banderolas de invocación de pasos, kupó!"
     ],
