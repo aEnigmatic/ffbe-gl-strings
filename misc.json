@@ -51,7 +51,7 @@
         "poison@blind@sleep@silence@paralysis@confusion@disease@stone@stop@charm@berserk",
         "中毒@失明@睡眠@沉默@麻痺@混亂@生病@石化@停止@魅惑@狂暴",
         "독@암흑@수면@침묵@마비@혼란@질병@석화@스톱@매혹@광폭화",
-        "\"poison\"@\"cécité\"@\"sommeil\"@\"silence\"@\"paralysie\"@\"confusion\"@\"maladie\"@\"pétrification\"@\"stop\"@\"charme\"@\"furie\"",
+        "poison@\"cécité\"@\"sommeil\"@\"silence\"@\"paralysie\"@\"confusion\"@\"maladie\"@\"pétrification\"@\"stop\"@\"charme\"@\"furie\"",
         "Gift@Blind@Schlaf@Stille@Lähmung@Konfus@Virus@Stein@Stopp@Bezaubern@Berserker",
         "veneno@ceguera@sueño@silencio@parálisis@confusión@enfermedad@piedra@paro@embrujo@locura"
     ],
@@ -59,7 +59,7 @@
         "clothes@light armor@heavy armor@robe",
         "衣服@輕鎧甲@重鎧甲@法袍",
         "옷@경갑@중갑@로브",
-        "\"vêtement\"@\"armure légère\"@\"armure lourde\"@\"robe\"",
+        "vêtement@\"armure légère\"@\"armure lourde\"@\"robe\"",
         "Kleidung@Leichte Rüstung@Schwere Rüstung@Robe",
         "ropa@armadura ligera@armadura pesada@túnica"
     ],
@@ -75,7 +75,7 @@
         "hat@helm",
         "帽子@頭盔",
         "모자@투구",
-        "\"chapeau\"@\"casque\"",
+        "chapeau@\"casque\"",
         "Hut@Helm",
         "sombrero@yelmo"
     ],
@@ -155,7 +155,7 @@
         "light shield@heavy shield",
         "輕盾@重盾",
         "경방패@중방패",
-        "\"bouclier léger\"@\"bouclier lourd\"",
+        "bouclier léger@\"bouclier lourd\"",
         "Leichter Schild@Schwerer Schild",
         "escudo ligero@escudo pesado"
     ],
@@ -363,7 +363,7 @@
         "beast@avian@aquatic@demon@human@machina@dragon@fairy@insect@stone@plant@reaper",
         "獸@鳥@水生@惡魔@人@機械@龍@精靈@蟲@岩石@植物@死靈",
         "야수@조류@수중@악마@인간@기계@드래곤@정령@곤충@암석@식물@사령",
-        "\"bête\"@\"oiseau\"@\"aquatique\"@\"démon\"@\"humain\"@\"machine\"@\"dragon\"@\"esprit\"@\"insecte\"@\"pierre\"@\"plante\"@\"morts-vivant\"",
+        "bête@\"oiseau\"@\"aquatique\"@\"démon\"@\"humain\"@\"machine\"@\"dragon\"@\"esprit\"@\"insecte\"@\"pierre\"@\"plante\"@\"morts-vivant\"",
         "Bestie@Vogel@Wasser@Dämon@Mensch@Maschine@Drache@Fee@Insekt@Stein@Pflanze@Untoter",
         "bestias@aves@acuáticos@demonios@humanos@máquinas@dragones@espíritus@insectos@pétreos@plantoides@muertos vivientes"
     ],
@@ -832,11 +832,11 @@
         "Registros"
     ],
     "AWARD_ARCHIVE_SUB_TITLE_ARENA": [
-        "Arena",
-        "鬥技場",
-        "결투장",
-        "Arène",
-        "Arena",
+        "Arena Grade",
+        "鬥技場功績",
+        "결투장 실적",
+        "Grade d'arène",
+        "Arenagrad",
         "Arena"
     ],
     "AWARD_ARCHIVE_SUB_TITLE_CLSM": [
@@ -918,6 +918,14 @@
         "Vous pouvez afficher le <color=255:0:0>blason</color> de votre choix à côté de votre nom afin de montrer vos exploits aux autres joueurs !<br>Vous pouvez configurer vos <color=255:0:0>blasons</color> par le biais du bouton Configurer blason depuis l'écran Infos joueur !",
         "Du kannst ein beliebiges <color=255:0:0>Emblem</color>, das du als Errungenschaftsbelohnung erhältst, neben deinem Namen anzeigen lassen, kupo!<br><color=255:0:0>Embleme</color> können mit dem Emblembutton auf dem Bildschirm zur Spielerinfo eingestellt werden, kupo!",
         "¡Puedes seleccionar cualquier <color=255:0:0>emblema</color> que consigas como premio por haber alcanzado un logro para que aparezca junto a tu nombre y así poder presumir con otros jugadores, kupó! <br>¡Podrás seleccionar los <color=255:0:0>emblemas</color> desde la pantalla Info. del jugador, al pinchar en el botón Seleccionar emblema, kupó!"
+    ],
+    "Account_login_Apple": [
+        "Apple",
+        "Apple",
+        "Apple",
+        "Apple",
+        "Apple",
+        "Apple"
     ],
     "Account_login_Facebook": [
         "Facebook",
@@ -1848,10 +1856,10 @@
         "Coliseo"
     ],
     "COLOSSEUM_VS_CPU_END_TEXT": [
-        "\"This class ends Colosseum battles.<br>* This screen will not be visible to users. <br>Yes = Victory, No = Defeat \"",
-        "\"競技場戰鬥結束通訊類<br>※此畫面用戶看不到<br>是＝勝利　否＝敗北\"",
-        "\"투기장 전투 종료 통신 클래스<br>※ 이 화면은 유저에게 보이지 않습니다.<br>예=승리 처리 아니오=패배 처리",
-        "\"Cette classe met fin aux combats du Colisée.<br>(Cet écran ne sera pas visible par les utilisateurs.)<br>Oui = Victoire, Non = Défaite \"",
+        "This class ends Colosseum battles.<br>* This screen will not be visible to users. <br>Yes = Victory, No = Defeat",
+        "競技場戰鬥結束通訊類<br>※此畫面用戶看不到<br>是＝勝利　否＝敗北",
+        "투기장 전투 종료 통신 클래스<br>※ 이 화면은 유저에게 보이지 않습니다.<br>예=승리 처리 아니오=패배 처리FREIND_ID_NOT_FOUND^Invalid friend ID entered.\"",
+        "Cette classe met fin aux combats du Colisée.<br>(Cet écran ne sera pas visible par les utilisateurs.)<br>Oui = Victoire, Non = Défaite",
         "„Diese Klasse beendet Kolosseumskämpfe.<br>* Dieser Bildschirm ist nicht für andere Nutzer sichtbar. <br>Ja = Sieg, Nein = Niederlage“",
         "Esta clase finaliza las batallas de Coliseo.<br>* Esta pantalla no estará disponible para otros usuarios. <br>Sí = Victoria, No = Derrota"
     ],
@@ -2255,6 +2263,18 @@
         "Kristalltruhe der Erhabenheit",
         "Cofre de la majestuosidad"
     ],
+    "CURRENCY_NAME_1": [
+        "Lapis"
+    ],
+    "CURRENCY_NAME_30": [
+        "Gil"
+    ],
+    "CURRENCY_NAME_51": [
+        "Friend Points"
+    ],
+    "CURRENCY_NAME_9990": [
+        "Energy"
+    ],
     "Chaining_Aid_Abilities_Chaining": [
         "Chainable Abilities:",
         "可觸發CHAIN的能力：",
@@ -2280,7 +2300,7 @@
         "Familia de combos"
     ],
     "Come_Back_Mission_New_Quests_Available": [
-        "Quêtes de",
+        "New Quests Available!",
         "新任務登場！",
         "신규 퀘스트 개방!",
         "De nouvelles quêtes sont disponibles !",
@@ -2760,12 +2780,12 @@
         "¿Descartar esta habilidad?"
     ],
     "EQUIP_GROW_BATTLE_RETURN_CONFIRM_BODY": [
-        "Wish to retire?<br>You can use <param=return_cost> lapis to <color=255:255:0>retire without losing any acquired abilities</color>.",
-        "要返回嗎？<br>使用<param=return_cost>個寶石，就能<color=255:255:0>在不失去獲得能力的情況下返回</color>。",
-        "귀환하시겠습니까?<br>라피스를 <param=return_cost>개 사용하여 <color=255:255:0>획득한 어빌리티를 잃지 않고 귀환</color>할 수 있습니다.",
-        "Voulez-vous sortir ?<br>Vous pouvez utiliser <param=return_cost> lapis pour <color=255:255:0>sortir sans perdre les aptitudes acquises</color>.",
-        "Möchtest du zurückkehren?<br>Du kannst <param=return_cost> Lapis benutzen, um <color=255:255:0>dich zurückzuziehen, ohne erhaltene Fertigkeiten zu verlieren</color>.",
-        "¿Quieres retirarte?<br>Puedes usar <param=return_cost> lapis para <color=255:255:0>retirarte sin perder las habilidades que ya has conseguido</color>."
+        "Your equipment will be reverted back to the state it was in before because you received a Game Over. You can <color=255:255:0>return with the abilities you obtained</color> by using <color=0:255:0><param=return_cost></color> lapis. Use lapis?",
+        "因為GAME OVER，所以裝備品將回到之前的狀態。<br>使用<param=return_cost>個寶石，就能<color=255:255:0>在獲得能力的情況下返回</color>。要使用寶石嗎？",
+        "GAME OVER로 인해 장비는 이전 강화 상태로 되돌아갔습니다. 라피스를 <color=0:255:0><param=return_cost>개</color> 사용하면 <color=255:255:0>획득한 어빌리티를 잃지 않고 귀환</color>할 수 있습니다. 라피스를 사용하시겠습니까?",
+        "Votre groupe a été vaincu. Vos pièces d'équipement seront réinitialisées au statut précédant l'amélioration. Vous pouvez <color=255:255:0>quitter le donjon avec les aptitudes obtenues</color> en utilisant des <color=0:255:0><param=return_cost></color> lapis. Utiliser vos lapis ?",
+        "Deine Ausrüstung wird auf ihren vorherigen Zustand zurückgesetzt, weil du das Spiel verloren hast.<br>Du kannst <param=return_cost> Lapis benutzen, um <color=255:255:0>dich zurückzuziehen, ohne erhaltene Fertigkeiten zu verlieren</color>. Lapis benutzen?",
+        "Has perdido la partida, por lo que se va a restablecer todo tu equipo. Puedes usar <color=0:255:0><param=return_cost></color> lapis para <color=255:255:0>volver con las habilidades que hayas adquirido previamente</color>. ¿Quieres usar lapis?"
     ],
     "EQUIP_GROW_BATTLE_RETURN_CONFIRM_COST": [
         "Lapis held: <param=lapis_num>",
@@ -2801,27 +2821,27 @@
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_EQUIP_SELECT": [
         "Enhance this piece of equipment?<br>Even if you fail to complete the dungeon, any abilities you obtained previously <color=255:255:0>will not be reset</color>. If already enhanced equipment is selected, <color=255:255:0>you will be able to choose</color> whether to leave the dungeon with the <color=0:128:0>newest abilities</color> you've obtained, or keep your <color=0:128:0>previous ability set</color> upon clearing the dungeon.",
-        "要強化此裝備品嗎？<br>就算失敗，之前獲得的狀態 <color=255:255:0>也不會被重置</color>。如果選擇已經強化過的裝備品，在完成或返回時，<color=255:255:0>可以選擇</color><color=0:128:0>新獲得狀態</color>或是<color=0:128:0>回到之前的狀態</color>。",
-        "이 장비를 강화하시겠습니까?<br>패배해도 이전의 획득 상태가 <color=255:255:0>초기화되지 않습니다.</color> 강화 완료된 장비를 선택할 경우, 완료 및 귀환 시에 <color=0:128:0>신규 획득</color>이나 <color=0:128:0>이전 상태로 되돌리기</color>를 선택할 수 있습니다.</color>",
+        "要強化此裝備品嗎？<br>就算失敗，之前獲得的狀態 <color=255:255:0>也不會被重置</color>。<br>如果選擇已經強化過的裝備品，在完成或返回時，<color=255:255:0>可以選擇</color><color=0:128:0>新獲得<br>狀態</color>或是<color=0:128:0>回到之前的狀態</color>。",
+        "이 장비를 강화하시겠습니까?<br>패배해도 이전의 획득 상태가 <color=255:255:0>초기화되지 않습니다.</color><br>강화 완료된 장비를 선택할 경우, 완료 및 귀환 시에 <color=0:255:0>신규<br>획득</color>이나 <color=0:255:0>이전 상태로 되돌리기</color><color=255:255:0>를 선택할 수 있습니다.</color>",
         "Améliorer cette pièce d'équipement ?<br>Même si vous ne parvenez pas à terminer ce donjon, les aptitudes précédemment obtenues <color=255:255:0>ne seront pas remises à zéro</color>. Si une pièce d'équipement déjà améliorée est sélectionnée, <color=255:255:0>vous aurez la possibilité</color> de sortir du donjon une fois celui-ci terminé et de conserver soit <color=0:128:0>vos aptitudes les plus récentes</color>, soit <color=0:128:0>vos aptitudes antérieures</color>.",
-        "Willst du diese Ausrüstung verbessern?<br>Auch wenn es dir misslingt, den Dungeon zu beenden, werden die Fertigkeiten, die du zuvor erworben hast <color=255:255:0>nicht zurückgesetzt</color>. Wenn bereits verbesserte Ausrüstung ausgewählt ist, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den von dir erworbenen <color=0:128:0>neusten Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset</color> behältst.",
-        "¿Quieres mejorar este objeto?<br>*<color=255:255:0>Aunque fracases al completar la mazmorra, las habilidades que hayas obtenido previamente <color=255:255:0>no se restablecerán</color>. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=0:128:0>abandonar la mazmorra con las nuevas habilidades obtenidas</color>, o <color=0:128:0>quedarte con las habilidades predefinidas</color>."
+        "Willst du diese Ausrüstung verbessern?<br>Auch wenn es dir misslingt, den Dungeon zu beenden, werden die Fertigkeiten, die du zuvor erworben hast <color=255:255:0>nicht zurückgesetzt</color>. Wenn bereits verbesserte Ausrüstung ausgewählt ist, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den von dir erworbenen<color=0:128:0>neusten Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset</color> behältst.",
+        "¿Quieres mejorar este objeto?<br>Aunque fracases al completar la mazmorra, las habilidades que hayas obtenido previamente <color=255:255:0>no se restablecerán</color>. Si has seleccionado equipo ya mejorado para completar esta mazmorra, <color=255:255:0>podrás elegir</color> si quieres abandonar la mazmorra con las <color=0:128:0>nuevas habilidades</color> obtenidas o quedarte con las <color=0:128:0>habilidades predefinidas</color>."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GAMEOVER": [
-        "All abilities obtained during this battle have been <color=255:255:0>reset</color>.",
-        "非常遺憾，本次戰鬥所獲得的能力已經全部<color=255:255:0>重置</color>了。",
-        "아쉽게도 이번 전투에서 획득한 어빌리티는 전부 <color=255:255:0>초기화</color>되었습니다.",
-        "Toutes les aptitudes obtenues au cours de ce combat ont été <color=255:255:0>réinitialisées</color>.",
-        "Alle Fertigkeiten, die du in diesem Kampf erworben hast, wurden <color=255:255:0>zurückgesetzt</color>.",
-        "Se han <color=255:255:0>restablecido</color> todas las habilidades conseguidas a lo largo de la batalla."
+        "Your equipment has been <color=255:255:0>reverted back to the state it was in before enhancing</color>.<br>Returning from the dungeon.",
+        "裝備品已經回到本次<color=255:255:0>強化之前的狀態</color>了。<br>將從迷宮中返回。",
+        "장비는 이번 <color=255:255:0>강화 직전 상태</color>로 되돌아갔습니다.  <br>던전에서 귀환합니다.",
+        "Toutes les pièces d'équipement ont été <color=255:255:0>réinitialisées</color> au statut précédant l'amélioration.<br> Vous allez quitter le donjon.",
+        "Alle Fertigkeiten, die du in diesem Kampf erworben hast, wurden <color=255:255:0>zurückgesetzt</color>. Kehre vom Dungeon zurück.",
+        "<color=255:255:0>Se ha devuelto tu equipo al estado previo a la mejora</color>.<br>Vas a retirarte de la mazmorra."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_GIVEUP": [
-        "If you give up now, <color=255:255:0>you cannot use lapis to take any abilities with you</color>. You will lose all gil and items obtained, <color=255:255:0>as well as any and all abilities you have acquired</color>.<br>Do you wish to give up?",
-        "放棄的話，<color=255:255:0>將無法使用寶石將其帶回</color>。將會失去獲得的ＧＩＬ與道具，<color=255:255:0>獲得中的能力將會全部失去</color>。<br>要放棄嗎？",
-        "포기하면 <color=255:255:0>라피스를 이용한 획득은 불가능합니다</color>. 획득한 길, 아이템을 모두 잃고, <color=255:255:0>획득 중인 어빌리티를 모두 잃게 됩니다</color>.<br>포기하시겠습니까?",
-        "Si vous abandonnez maintenant, <color=255:255:0>vous ne pourrez pas utiliser vos lapis pour prendre les aptitudes avec vous.</color>. Vous perdrez tous vos gils ainsi que les objets obtenus, <color=255:255:0>en plus des aptitudes que vous avez acquises</color>.<br>Voulez-vous abandonner ?",
-        "Wenn du jetzt aufgibst, <color=255:255:0>kannst du keine Lapis verwenden, um Fertigkeiten mitzunehmen</color>. Du wirst sowohl sämtliche erhaltenen Gil und Gegenstände als auch <color=255:255:0>alle erhaltenen Fertigkeiten</color> verlieren.<br>Möchtest du aufgeben?",
-        "Si abandonas ahora, <color=255:255:0>no podrás usar lapis para recuperar estas habilidades</color>. Perderás todos los guiles y objetos que has conseguido, <color=255:255:0>además de perder todas las habilidades</color>.<br>¿Quieres abandonar?"
+        "By giving up, you will lose any gil or items you have obtained. <color=255:255:0>You will also lose any abilities you have obtained</color>, and your equipment will be <color=255:255:0>reverted back to the state it was in before</color>.<br>Give up?",
+        "放棄的話，將會失去獲得的ＧＩＬ與道具。<color=255:255:0>獲得中的能力將會全部失去</color>裝備品會<color=255:255:0>回到之前的狀態</color>。<br>要放棄嗎？",
+        "포기하면 획득한 길, 아이템을 잃게 됩니다.  <color=255:255:0>획득 중인 어빌리티도 모두 잃고 </color>장비는 <color=255:255:0>이전 상태로 돌아갑니다.</color><br>포기하시겠습니까?",
+        "Si vous abandonnez maintenant, vous perdrez tous les gils et objets obtenus jusqu'ici.<color=255:255:0>Vous perdrez également les aptitudes acquises</color>, et vos pièces d'équipement seront <color=255:255:0>réinitialisées au statut précédant l'amélioration</color>.<br>Voulez-vous abandonner ?",
+        "Wenn du jetzt aufgibst, wirst du sowohl sämtliche erhaltenen Gil und Gegenstände verlieren.<color=255:255:0>Du wirst außerdem alle erhaltenen Fertigkeitenverlieren</color> und deine <color=255:255:0>Ausrüstung wird auf den vorherigen Zustand zurückgesetzt</color><br>Möchtest du aufgeben?",
+        "Si abandonas ahora, perderás los guiles u objetos que hayas conseguido, <color=255:255:0>además de las habilidades que hayas adquirido</color>, y tu equipo <color=255:255:0>volverá al estado previo a la mejora</color>.<br>¿Quieres abandonar?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_RETURN": [
         "Current enhancements will be set once you retire from the dungeon. If already enhanced equipment was selected for this run, you will be able to choose whether to <color=255:255:0>leave the dungeon with the newest abilities you've obtained</color>, or <color=255:255:0>keep your previous ability set</color>. Do you wish to retire?",
@@ -2829,7 +2849,7 @@
         "귀환하면 현재 강화 상태로 어빌리티가 확정됩니다. 강화 완료 장비를 다시 강화할 경우, <color=255:255:0>현재 강화 상태로 확정하기</color>나 <color=255:255:0>재강화 전 상태로 되돌릴 수 있습니다.</color> 던전에서 귀환하시겠습니까?",
         "Les améliorations actuelles seront appliquées une fois que vous aurez quitté le donjon. Si une pièce d'équipement déjà améliorée a été sélectionnée au cours du donjon, vous aurez la possibilité de <color=255:255:0>quitter le donjon et de conserver les aptitudes plus récemment obtenues</color>ou de <color=255:255:0>conserver les aptitudes antérieures</color>. Voulez-vous quitter le donjon ?",
         "Derzeitige Verbesserungen werden festgelegt, sobald du aus dem Dungeon zurückkehrst. Wenn für dieses Mal bereits verbesserte Ausrüstung ausgewählt wurde, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den <color=0:128:0>neusten, von dir erworbenen Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset behältst</color>. Aus dem Dungeon zurückkehren?",
-        "<color=255:255:0>Las mejoras actuales estarán disponibles</color> cuando te retires de la mazmorra. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=255:255:0>abandonar la mazmorra con las nuevas habilidades obtenidas</color>, o <color=255:255:0>quedarte con las habilidades predefinidas</color>.¿Quieres retirarte?"
+        "Las mejoras actuales estarán disponibles cuando te retires de la mazmorra. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=255:255:0>abandonar la mazmorra con las nuevas habilidades adquiridas</color> o <color=255:255:0>quedarte con las habilidades predefinidas</color>. ¿Quieres retirarte?"
     ],
     "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY": [
         "Equipment enhancements have been set. Retiring from the dungeon.",
@@ -3000,44 +3020,44 @@
         "Selecciona el objeto"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_AFTER_ABILITY_TITLE": [
-        "Newly Obtained Abilities",
-        "新獲得的能力",
-        "신규 획득 어빌리티",
-        "Nouvelles aptitudes",
-        "Neu erworbene Fertigkeiten",
-        "Habilidades nuevas conseguidas"
+        "<color=255:255:0>Newly Obtained Abilities</color>",
+        "<color=255:255:0>新獲得的能力</color>",
+        "<color=255:255:0>신규 획득 어빌리티</color>",
+        "<color=255:255:0>Nouvelles aptitudes</color>",
+        "<color=255:255:0>Neu erworbene Fertigkeiten</color>",
+        "<color=255:255:0>Habilidades nuevas adquiridas</color>"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_CONFIRM_GET_AFTER": [
-        "Would you like to keep the newest abilities you obtained?",
-        "要得到新獲得的能力嗎？",
-        "신규 획득 어빌리티를 입수하시겠습니까?",
-        "Souhaitez-vous conserver les aptitudes que vous venez d'obtenir ?",
-        "Möchtest du die neusten von dir erworbenen Fertigkeiten behalten?",
-        "¿Quieres quedarte con las habilidades nuevas?"
+        "Keep your <color=255:255:0>newly obtained</color> abilities?",
+        "要得到<color=255:255:0>新獲得</color>的能力嗎？",
+        "<color=255:255:0>신규 획득</color> 어빌리티를 보유하시겠습니까?",
+        "Souhaitez-vous conserver les aptitudes <color=255:255:0>que vous venez d'obtenir</color> ?",
+        "Möchtest du die <color=255:255:0>neu erworbenen</color> Fertigkeiten behalten?",
+        "¿Quieres quedarte con las habilidades <color=255:255:0>que acabas de conseguir</color>?"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_CONFIRM_GET_BEFORE": [
-        "Would you like to dismiss the newest abilities you obtained and retire with the ones you had previously acquired?",
-        "要放棄新獲得的能力，恢復成上次獲得的能力並返回嗎？",
-        "신규 획득 어빌리티를 취소하고 이전 획득 어빌리티 상태로 귀환하시겠습니까?",
-        "Souhaitez-vous ignorer les dernières aptitudes obtenues en faveur de celles que vous aviez précédemment acquises ?",
-        "Möchtest du die neusten von dir erworbenen Fertigkeiten ablehnen und mit den Fertigkeiten zurückkehren, die du zuletzt erworben hattest?",
-        "¿Quieres descartar las habilidades nuevas y marcharte con las que ya has adquirido con anterioridad?"
+        "<color=255:255:0>Discard</color> your newly obtained abilities and return with your equipment reverted to its <color=255:255:0>previously obtained ability set</color>?",
+        "要<color=255:255:0>放棄</color>新獲得的能力，<br>恢復成<color=255:255:0>上次獲得的能力</color>並返回嗎？",
+        "신규 획득 어빌리티를 <color=255:255:0>취소</color>하고 <br><color=255:255:0>이전 획득 어빌리티</color> 상태로 귀환하시겠습니까?",
+        "<color=255:255:0>Abandonner</color> les aptitudes que vous venez d'obtenir et rendre à vos pièces d'équipement <color=255:255:0>les aptitudes précédemment obtenues</color> ?",
+        "Möchtest du die neusten von dir erworbenen Fertigkeiten <color=255:255:0>ablehnen</color>und mit deiner auf ihr <color=255:255:0>vorheriges Fertigkeitenset</color> zurückgesetzten Ausrüstung zurückkehren?",
+        "¿Quieres <color=255:255:0>descartar</color> las habilidades que acabas de conseguir y marcharte con <color=255:255:0>las que ya has adquirido anteriormente</color> para tu equipo?"
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_DUNGEON_CLEAR_CONFIRM": [
-        "You have cleared the dungeon. You may choose whether to keep your newly obtained abilities, or if you'd like to keep the ones you had previously acquired.",
-        "已完成迷宮。請選擇要得到新獲得能力，或是恢復成上次獲得的能力。",
-        "완료하였습니다. 신규 획득 어빌리티를 입수할지, 이전 획득 어빌리티로 되돌릴지 선택하십시오.",
-        "Vous avez terminé le donjon. Vous pouvez choisir de conserver soit les aptitudes que vous venez d'obtenir, soit celles que vous aviez précédemment acquises.",
-        "Du hast den Dungeon abgeschlossen. Du darfst dich entscheiden, ob du deine neu erworbenen Fertigkeiten behalten möchtest, oder die wählst, die du zuletzt erworben hattest.",
-        "Has completado la mazmorra. Puedes elegir si quieres quedarte con las habilidades que acabas de conseguir o si prefieres mantener las que ya tienes."
+        "You cleared the dungeon. Please select whether to keep your <color=255:255:0>newly obtained</color> abilities, or revert back to your equipment's previous state.",
+        "已完成迷宮。請選擇要得到<color=255:255:0>新獲得能力</color>，<br>或是恢復成上次獲得的能力。",
+        "완료하였습니다. <color=255:255:0>신규 획득</color>  어빌리티를 입수할지, <br>이전 획득 어빌리티로 되돌릴지 선택하십시오.",
+        "Vous avez terminé le donjon. Vous pouvez choisir de conserver les aptitudes <color=255:255:0>que vous venez d'obtenir</color> ou de réinitialiser vos pièces d'équipement au statut précédant l'amélioration.",
+        "Du hast den Dungeon abgeschlossen. Bitte entscheide dich, ob du deine <color=255:255:0>neu erworbenen</color> Fertigkeiten behalten möchtest, oder deine Ausrüstung zum vorherigen Zustand zurücksetzten möchtest.",
+        "Has completado la mazmorra. Puedes elegir si quieres quedarte con las habilidades <color=255:255:0>que acabas de conseguir</color> o si prefieres restablecer el equipo que tenías antes."
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_ANNOUNCE_RETURN_CONFIRM": [
-        "You will retire now. You may choose whether to keep your newly obtained abilities, or if you'd like to keep the ones you had previously acquired.",
-        "即將返回。可以選擇要得到新獲得能力，或是恢復成上次獲得的能力。",
-        "귀환합니다. 신규 획득한 어빌리티를 입수할지, 이전 획득 어빌리티로 되돌릴지 선택할 수 있습니다.",
-        "Vous êtes sur le point de sortir. Vous pouvez choisir de conserver soit les aptitudes que vous venez d'obtenir, soit celles que vous aviez précédemment acquises.",
-        "Kehre zurück. Du darfst dich entscheiden, ob du deine neu erworbenen Fertigkeiten behalten möchtest, oder die wählst, die du zuletzt erworben hattest.",
-        "En breves, te vas a retirar. Puedes elegir si quieres quedarte con las habilidades que acabas de conseguir o si prefieres mantener las que ya tienes."
+        "Retiring from dungeon. You can choose whether to keep your <color=255:255:0>newly obtained</color> abilities, or revert back to your equipment's previous state.",
+        "即將返回。可以選擇要得到<color=255:255:0>新獲得能力</color>，<br>或是恢復成上次獲得的能力。",
+        "귀환합니다. <color=255:255:0>신규 획득</color> 어빌리티를 보유할지, <br>이전 획득 어빌리티로 되돌릴지 선택할 수 있습니다.",
+        "Vous êtes sur le point de sortir. Vous pouvez choisir de conserver les aptitudes <color=255:255:0>que vous venez d'obtenir</color> ou de réinitialiser vos pièces d'équipement au statut précédant l'amélioration.",
+        "Kehre zurück. Du darfst dich entscheiden, ob du deine <color=255:255:0>neu erworbenen</color> Fertigkeiten behalten möchtest, oder deine Ausrüstung zum vorherigen Zustand zurücksetzten möchtest.",
+        "Vas a retirarte de la mazmorra. Puedes elegir si quieres quedarte con las habilidades <color=255:255:0>que acabas de conseguir</color> o si prefieres restablecer el equipo que tenías antes."
     ],
     "EQUIP_GROW_TAKE_AWAY_ABILITY_SELECT_BEFORE_ABILITY_TITLE": [
         "Previously Obtained Abilities",
@@ -3045,7 +3065,7 @@
         "이전 획득 어빌리티",
         "Aptitudes précédentes",
         "Zuletzt erworbene Fertigkeiten",
-        "Habilidades conseguidas con anterioridad"
+        "Habilidades adquiridas anteriormente"
     ],
     "EQUIP_GROW_TOP_NONE_EQUIP_SETTING": [
         "Not Set",
@@ -3339,8 +3359,8 @@
         "Item Name",
         "道具名稱",
         "아이템명",
-        "Nom objet",
-        "Gegenstand-Name",
+        "Objet (nom)",
+        "Gegenstandsname",
         "Nombre del objeto"
     ],
     "EQUIP_SORT_TYPE_RARE": [
@@ -3396,7 +3416,7 @@
         "無法使用返回功能",
         "뒤로가기 기능 이용 불가",
         "La fonction Retour n'est pas disponible",
-        "\"Zurück\" nicht verfügbar.",
+        "Zurück nicht verfügbar.",
         "No se puede regresar."
     ],
     "ERROR_EQUIP_ITEM_OVER_CAP": [
@@ -3680,12 +3700,12 @@
         "Se reiniciará la puntuación en:"
     ],
     "EXPD_ACHIEVE_REWARD_INFO_TITLE": [
-        "Chest Rewards",
-        "寶箱報酬",
-        "보물상자 보상",
-        "Récompenses de coffre",
-        "Truhenbelohnungen",
-        "Cofres de recompensa"
+        "Achievement Rewards",
+        "達成報酬",
+        "달성 보상",
+        "Récompenses de réussite",
+        "Erfolgsbelohnung",
+        "Recompensas de logro"
     ],
     "EXPD_ACHIEVE_SUBHEAD1": [
         "Relics Achievement Rewards",
@@ -4752,20 +4772,20 @@
         "Especial de Ace de FF TYPE 0"
     ],
     "FFT0_DAILY_SPECIAL_BUNDLE_DESC": [
-        "Enhancement and awakening materials galore with this event daily special bundle, kupo!",
-        "活動限定每日禮包，內含豐富的強化與覺醒用素材，庫啵！",
-        "풍성한 강화 및 각성 재료를 만나 보자!",
-        "Des matériaux d'amélioration et d'éveil en masse dans ce lot quotidien événement, kupo !",
-        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Spezialpaket, kupo!",
-        "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento!"
+        "Enhancement and awakening materials galore in this event special bundle, kupo!(Available only once daily)",
+        "強化與覺醒素材都在這個特別禮包內，庫啵！(每日限購1次)",
+        "풍성한 유닛 강화 및 각성 재료를 이벤트 세트상품으로 만나보자쿠포! (1일 1회 구매 가능)",
+        "Des matériaux d'amélioration et d'éveil en masse dans ce lot spécial, kupo !(Seulement une fois par jour.)",
+        "Verbesserungs- und Erweckmaterialien in Hülle und Fülle in diesem täglichen Ereignis-Spezialpaket, kupo!(Nur einmal täglich verfügbar.)",
+        "¡Materiales de mejora y despertar a tutiplén en este lote diario de evento, kupó! (Disponible una vez al día)"
     ],
     "FFT0_DAILY_SPECIAL_BUNDLE_TITLE": [
-        "FINAL FANTASY Type-0 Daily Special",
-        "FF 零式 每日限定禮包",
-        "FF Type-0 일일 스페셜!",
-        "Lot quotidien spécial FF Type-0",
-        "FF Type-0 Tägliches Spezial",
-        "Lote diario de FF TYPE 0"
+        "FF TYPE-0 Daily Special",
+        "《FF零式》每日特別禮包",
+        "FF TYPE-0 일일 스페셜!",
+        "Lot spécial FF TYPE-0",
+        "FF TYPE-0 – Tägliches Spezialangebot",
+        "Lote diario de FF TYPE-0"
     ],
     "FFT0_REM_SPECIAL_BUNDLE_DESC": [
         "For richer or poorer, in sickness or in health, awaken Rem with this one time special offer!",
@@ -4912,10 +4932,10 @@
         "GRUPO FIJO"
     ],
     "FREIND_ID_NOT_FOUND": [
-        "\"Invalid friend ID entered.\"",
-        "\"好友ID錯誤\"",
-        "친구 ID가 올바르지 않습니다.",
-        "\"ID ami invalide.\"",
+        "Invalid friend ID entered.",
+        "好友ID錯誤",
+        null,
+        "ID ami invalide.",
         "„Ungültige Freundes-ID eingegeben.“",
         "ID de amigo no válida."
     ],
@@ -4929,9 +4949,9 @@
     ],
     "FRIEND_ADD_CONFIRM": [
         "Send a friend request to your companion?",
-        "\"要向這次的同行者申請好友嗎？\"",
+        "要向這次的同行者申請好友嗎？",
         "이번 동행자에게 친구신청 하시겠습니까?",
-        "\"Envoyer une demande à votre partenaire ?\"",
+        "Envoyer une demande à votre partenaire ?",
         "Freundschaftsanfrage an deinen Begleiter senden?",
         "¿Quieres enviar una solicitud de amistad a tu compañero?"
     ],
@@ -6520,10 +6540,10 @@
         null
     ],
     "ITEM_COUNTABLE": [
-        "\"</color>)\"",
-        "\"個</color>)\"",
-        "\"개</color>)\"",
-        "\"</color>)\"",
+        "</color>)",
+        "個</color>)",
+        "개</color>)",
+        "</color>)",
         "„</color>)“",
         "</color>)"
     ],
@@ -6735,6 +6755,14 @@
         "Deutsch",
         "Deutsch"
     ],
+    "LANGUAGE_INDONESIAN": [
+        "Indonesian",
+        "印度尼西亞",
+        "인도네시아 인",
+        "Indonésien",
+        "Indonesisch",
+        "Indonesio"
+    ],
     "LANGUAGE_ITALIAN": [
         "Italiano",
         "Italiano",
@@ -6782,6 +6810,14 @@
         "Español",
         "Español",
         "Español"
+    ],
+    "LANGUAGE_THAI": [
+        "Thai",
+        "泰語",
+        "타이",
+        "Thaïlandais",
+        "Thai",
+        "Tailandés"
     ],
     "LANGUAGE_TOP": [
         "Language",
@@ -7072,12 +7108,12 @@
         "Iniciar sesión"
     ],
     "LOGIN_BONUS_GET_DAYS": [
-        "Day <number>",
-        "日",
-        "일",
-        "jour(s)",
-        "Tag <number>",
-        "día(s)"
+        "<size=40><color=255:165:0><param=get_days></color></size> days",
+        "第 <size=40><color=255:165:0><param=get_days></color></size> 天",
+        "<size=40><color=255:165:0><param=get_days></color></size> 일째",
+        "<size=40><color=255:165:0><param=get_days></color></size> jours",
+        "<size=40><color=255:165:0><param=get_days></color></size> Tage",
+        "<size=40><color=255:165:0><param=get_days></color></size> días"
     ],
     "LOGIN_BONUS_GET_TITLE": [
         "Login Bonus",
@@ -7160,12 +7196,12 @@
         "Conexiones totales"
     ],
     "LOGIN_BONUS_TOTAL_DAYS": [
-        "Day <number>",
-        "天",
-        "일째",
-        "jour(s)",
-        "Tag <number>",
-        "día(s)"
+        "<color=35:211:255><param=total_days></color> consecutive days logged in",
+        "累計登入 第<color=35:211:255><param=total_days></color> 天",
+        "누적 로그인 <color=35:211:255><param=total_days></color> 일째",
+        "<color=35:211:255><param=total_days></color> jours de connexions consécutives",
+        "<color=35:211:255><param=total_days></color> Tage in Folge eingeloggt",
+        "<color=35:211:255><param=total_days></color> días de sesión consecutivos"
     ],
     "LOGIN_BONUS_TOTAL_NEXT_DAYS": [
         "Obtain after <color=255:165:0><param=total_next_days></color> consecutive logins!",
@@ -10607,6 +10643,14 @@
         "Tetra Sylphid",
         "Tetra Sílfide"
     ],
+    "MST_CHALLENGE_COND_INFO_DETAIL_121014051": [
+        "Blue Mage Fina in party",
+        "隊伍中帶有「青魔道士菲娜」",
+        "청마도사 피나를 파티에 편성",
+        "Fina mage bleu dans le groupe",
+        "Blaumagierin Fina in der Gruppe",
+        "Fina maga azul en el grupo"
+    ],
     "MST_CHALLENGE_COND_INFO_DETAIL_121107051": [
         "Blue Mage Fina in party",
         "隊伍中帶有「青魔道士菲娜」",
@@ -10615,6 +10659,22 @@
         "Blaumagierin Fina in der Gruppe",
         "Fina maga azul en el grupo"
     ],
+    "MST_CHALLENGE_COND_INFO_DETAIL_122114051": [
+        "Blue Mage Fina in party",
+        "隊伍中帶有「青魔道士菲娜」（包括同行者）",
+        "청마도사 피나를 파티에 편성",
+        "Fina mage bleu dans le groupe.",
+        "Blaumagierin Fina in der Gruppe",
+        "Fina maga azul en el grupo"
+    ],
+    "MST_CHALLENGE_REWARD_DETAIL_121014051": [
+        "Blue Mage Fina learns the blue magic light of repentance",
+        "青魔道士菲娜學會青魔法「懺悔之光」",
+        "청마도사 피나가 청마법 '참회의 빛'을 습득",
+        "Fina mage bleu apprend la magie bleue Lueur des regrets blanc",
+        "Blaumagierin Fina erlernt die Blaumagie Licht der Buße",
+        "Fina maga azul aprende la magia azul Luz de arrepentimiento"
+    ],
     "MST_CHALLENGE_REWARD_DETAIL_121107051": [
         "Blue Mage Fina learns the blue magic white wind",
         "青魔道士菲娜學會青魔法「純白微風」",
@@ -10622,6 +10682,14 @@
         "Fina mage bleu apprend la magie bleue Mistral blanc",
         "Blaumagierin Fina erlernt die Blaumagie Weißer Wind",
         "Fina maga azul aprende la magia azul Viento blanco"
+    ],
+    "MST_CHALLENGE_REWARD_DETAIL_122114051": [
+        "Blue Mage Fina learns the blue magic magic mind blast",
+        "青魔道士菲娜學會青魔法「魔法精神衝擊」",
+        "청마도사 피나가 청마법 '마인드 블래스트'을 습득",
+        "Fina mage bleu apprend la magie bleue Choc mental magique",
+        "Blaumagierin Fina erlernt die Magischer Psychoschlag",
+        "Fina maga azul aprende la magia azul Descarga mental mágica"
     ],
     "MST_CHARACTER_NAME_1": [
         "Rain",
@@ -11255,318 +11323,6 @@
         "Alle Werte +30 %",
         "Todos las estadísticas +30%"
     ],
-    "MST_RB_FORBIDDEN_INFO_DES_1": [
-        "Normal forbidden",
-        "共通禁止",
-        "공통 금지",
-        "Attaques normales interdites",
-        "Normal verboten",
-        "Normales prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_10": [
-        "Parameter boosts forbidden",
-        "狀態提升系禁止",
-        "능력치 상승 계열 금지",
-        "Augmentation des caractéristiques interdite",
-        "Werte-Erhöhung verboten",
-        "Potenciadores prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_11": [
-        "Parameter reductions forbidden",
-        "狀態降低系禁止",
-        "능력치 감소 계열 금지",
-        "Réduction des caractéristiques interdite",
-        "Werte-Senkung verboten",
-        "Debilitadores prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_12": [
-        "Physical combos forbidden",
-        "物理連擊系禁止",
-        "연속 물리 공격 계열 금지",
-        "Multiplicateurs d'attaques physiques interdits",
-        "Physische Kombos verboten",
-        "Ataques múltiples prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_13": [
-        "Magic combos forbidden",
-        "魔法連擊系禁止",
-        "연속 마법 공격 계열 금지",
-        "Multiplicateurs d'attaques magiques interdits",
-        "Magiekombos verboten",
-        "Magia múltiple prohibidas"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_14": [
-        "Status ailments forbidden",
-        "施加異常狀態系禁止",
-        "상태이상 부여 계열 금지",
-        "Altérations d'état interdites",
-        "Zustandsveränderungen verboten",
-        "Estados alterados prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_15": [
-        "Multiple use abilities forbidden",
-        "多次能力系禁止",
-        "다중 공격 계열 금지",
-        "Aptitudes permettant un usage multiple interdites",
-        "Mehrfachgebrauch-Fertigkeiten verboten",
-        "Habilidades de uso múltiple prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_2": [
-        "Fire magic/abilities forbidden",
-        "火屬性魔法/能力禁止",
-        "불속성 마법 및 어빌리티 금지",
-        "Attaques de feu interdites",
-        "Feuermagie/-fertigkeiten verboten",
-        "Elemento fuego prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_3": [
-        "Ice attacks forbidden",
-        "冰屬性攻擊禁止",
-        "얼음속성 공격 금지",
-        "Attaques de glace interdites",
-        "Eisangriffe verboten",
-        "Elemento hielo prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_4": [
-        "Lightning attacks forbidden",
-        "雷屬性攻擊禁止",
-        "번개속성 공격 금지",
-        "Attaques de foudre interdites",
-        "Blitzangriffe verboten",
-        "Elemento rayo prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_5": [
-        "Water attacks forbidden",
-        "水屬性攻擊禁止",
-        "물속성 공격 금지",
-        "Attaques d'eau interdites",
-        "Wasserangriffe verboten",
-        "Elemento agua prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_50": [
-        "Magic forbidden",
-        "魔法禁止",
-        "마법 어빌리티 금지",
-        "Magie interdite",
-        "Magie verboten",
-        "Magia prohibida"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_51": [
-        "Specials forbidden",
-        "特殊能力禁止",
-        "스페셜 어빌리티 금지",
-        "Spéciaux interdits",
-        "Spezialfertigkeiten verboten",
-        "Especiales prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_52": [
-        "Recovery abilities forbidden",
-        "恢復能力禁止",
-        "회복 어빌리티 금지",
-        "Aptitudes de récupération interdites",
-        "Heilungsfertigkeiten verboten",
-        "Habilidades de recuperación prohibidas"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_53": [
-        "Boosts, reductions, and status ailments forbidden",
-        "狀態提升・降低及異常狀態禁止",
-        "능력치 상승, 감소, 상태이상 금지",
-        "Boosts et réductions de caractéristiques et aptitudes altérant l'état interdits",
-        "Erhöhungen, Verringerungen und Zustandsheilungen verboten",
-        "Potenciadores, debilitadores y estados alterados prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_6": [
-        "Wind attacks forbidden",
-        "風屬性攻擊禁止",
-        "바람속성 공격 금지",
-        "Attaques de vent interdites",
-        "Windangriffe verboten",
-        "Elemento viento prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_7": [
-        "Earth attacks forbidden",
-        "土屬性攻擊禁止",
-        "땅속성 공격 금지",
-        "Attaques de terre interdites",
-        "Erdangriffe verboten",
-        "Elemento tierra prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_8": [
-        "Light attacks forbidden",
-        "光屬性攻擊禁止",
-        "빛속성 공격 금지",
-        "Attaques de lumière interdites",
-        "Lichtangriffe verboten",
-        "Elemento luz prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_9": [
-        "Dark attacks forbidden",
-        "暗屬性攻擊禁止",
-        "어둠속성 공격 금지",
-        "Attaques de ténèbres interdites",
-        "Dunkelangriffe verboten",
-        "Elemento oscuridad prohibido"
-    ],
-    "MST_RB_FORBIDDEN_INFO_DES_99": [
-        "Normal forbidden",
-        "共通禁止",
-        "공통 금지",
-        "Attaques normales interdites",
-        "Normal verboten",
-        "Normales prohibidos"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_10": [
-        "Parameter boosts",
-        "狀態提升系",
-        "능력치 상승 계열",
-        "Augmentation des caractéristiques",
-        "Werte-Erhöhung",
-        "Potenciadores de parámetros"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_11": [
-        "Parameter reductions",
-        "狀態降低系",
-        "능력치 감소 계열",
-        "Réduction des caractéristiques",
-        "Werte-Senkung",
-        "Debilitadores de parámetros"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_12": [
-        "Multi-hit physical combos",
-        "物理連擊系",
-        "연속 물리 공격 계열",
-        "Multiplicateurs d'attaques physiques",
-        "Physische Angriffkombos",
-        "Ataques múltiples"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_13": [
-        "Multi-hit magical combos",
-        "魔法連擊系",
-        "연속 마법 공격 계열",
-        "Multiplicateurs d'attaques magiques",
-        "Magische Angriffkombos",
-        "Magia múltiple"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_14": [
-        "Status ailments",
-        "施加異常狀態系",
-        "상태이상 부여 계열",
-        "Altération d'état",
-        "Zustandsveränderungen",
-        "Estados alterados"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_15": [
-        "Multiple use abilities",
-        "多次能力",
-        "다중 공격 계열",
-        "Aptitudes permettant un usage multiple",
-        "Mehrfachgebrauch-Fertigkeiten",
-        "Habilidades de uso múltiple"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_2": [
-        "Fire attacks",
-        "火屬性攻擊",
-        "불속성 공격",
-        "Attaque de feu",
-        "Feuerangriffe",
-        "Elemento fuego"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_3": [
-        "Ice attacks",
-        "冰屬性攻擊",
-        "얼음속성 공격",
-        "Attaque de glace",
-        "Eisangriffe",
-        "Elemento hielo"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_4": [
-        "Lightning attacks",
-        "雷屬性攻擊",
-        "번개속성 공격",
-        "Attaque de foudre",
-        "Blitzangriffe",
-        "Elemento rayo"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_5": [
-        "Water attacks",
-        "水屬性攻擊",
-        "물속성 공격",
-        "Attaque d'eau",
-        "Wasserangriffe",
-        "Elemento agua"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_50": [
-        "Black Magic",
-        "黑魔法",
-        "흑마법",
-        "Magie noire",
-        "Schwarzmagie",
-        "Magia negra"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_51": [
-        "White Magic",
-        "白魔法",
-        "백마법",
-        "Magie blanche",
-        "Weißmagie",
-        "Magia blanca"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_52": [
-        "Recovery abilities",
-        "恢復",
-        "회복 계열",
-        "Aptitudes de récupération",
-        "Heilungsfertigkeiten",
-        "Habilidades de recuperación"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_53": [
-        "Status altering abilities",
-        "強化・弱化狀態",
-        "상태 변경",
-        "Aptitudes altérant l'état",
-        "Statusfertigkeiten",
-        "Habilidades de cambio de estado"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_6": [
-        "Wind attacks",
-        "風屬性攻擊",
-        "바람속성 공격",
-        "Attaque de vent",
-        "Windangriffe",
-        "Elemento viento"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_7": [
-        "Earth attacks",
-        "土屬性攻擊",
-        "땅속성 공격",
-        "Attaque de terre",
-        "Erdangriffe",
-        "Elemento tierra"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_8": [
-        "Light attacks",
-        "光屬性攻擊",
-        "빛속성 공격",
-        "Attaque de lumière",
-        "Lichtangriffe",
-        "Elemento luz"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_9": [
-        "Dark attacks",
-        "暗屬性攻擊",
-        "어둠속성 공격",
-        "Attaque de ténèbres",
-        "Dunkelangriffe",
-        "Elemento oscuridad"
-    ],
-    "MST_RB_FORBIDDEN_INFO_NAME_99": [
-        "Permanently forbidden abilities",
-        "僅限共通禁止能力",
-        "영구 금지 어빌리티",
-        "Aptitudes bannies à jamais",
-        "Vorübergehend verbotene Fertigkeiten",
-        "Habilidades prohibidas permanentemente"
-    ],
     "MST_RB_SS_BONUS_INFO_DESC_NO_FEMALE": [
         "Male or genderless units",
         "性別為「男性」或「其他」兵員",
@@ -12103,6 +11859,30 @@
         "Schließe 150 Aufträge ab.",
         "Completa 150 misiones"
     ],
+    "MST_SG_COMEBACK_QUEST_113": [
+        "Complete 10 missions",
+        "完成10個任務",
+        "종류에 상관없이 퀘스트를 10개 완료한다.",
+        "Terminez 10 missions",
+        "Schließe 10 Aufträge ab.",
+        "Completa 10 misiones"
+    ],
+    "MST_SG_COMEBACK_QUEST_114": [
+        "Perform 10 Summons",
+        "召喚10次",
+        "소환을 10회 진행한다.",
+        "Lancez 10 invocations",
+        "Führe 10 Beschwörungen durch.",
+        "Realiza 10 invocaciones"
+    ],
+    "MST_SG_COMEBACK_QUEST_115": [
+        "Spend 100 NRG",
+        "消耗100體力",
+        "체력 100을 소비한다.",
+        "Dépensez 100 points d'endurance",
+        "Gib 100 Energie aus.",
+        "Gasta 100 de energía"
+    ],
     "MST_SHOP_NAME_10": [
         "Unit Slots",
         "擴張兵員欄",
@@ -12215,6 +11995,14 @@
         "Energiewiederherstellungs-Gegenstände",
         "Objetos para recuperar energía"
     ],
+    "MST_SHOP_NAME_51": [
+        "Coloseum Orb Recovery Potion",
+        "競技場寶珠恢復道具",
+        "투기장 구슬 회복 아이템",
+        "Potion de récupération d'orbe du colisée",
+        "Trank zur Wiederherstellung von Kolosseumsjuwelen",
+        "Poción de recuperación de orbe de Coliseo"
+    ],
     "MST_SHOP_NAME_60": [
         "Esper Point Reset",
         "重置幻獸點數",
@@ -12279,6 +12067,54 @@
         "40 Mio. DL Feieraufträge Teil 2",
         "Misiones de los 40M de descargas (parte 2)"
     ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990051": [
+        "Giveaway Participation Ticket Special Quest",
+        "Giveaway Participation Ticket Special Quest",
+        "Giveaway Participation Ticket Special Quest",
+        "Giveaway Participation Ticket Special Quest",
+        "Giveaway Participation Ticket Special Quest",
+        "Giveaway Participation Ticket Special Quest"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990061": [
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990071": [
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990081": [
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990091": [
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990101": [
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest",
+        "Giveaway Bonus Ticket Special Quest"
+    ],
     "MST_SPCHALLENGE_SCHEDULE_NAME_990111": [
         "World Revisit Quest Part 1",
         "重返世界任務 Part 1",
@@ -12286,6 +12122,22 @@
         "Quêtes retour - Partie 1",
         "Vergangene Aufträge, Teil 1",
         "Misiones pasadas, Parte 1"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990121": [
+        "World Revisit Quest Part 2",
+        "重返世界任務 Part 2",
+        "월드 재방문 퀘스트 2부",
+        "Quêtes retour - Partie 2",
+        "Vergangene Aufträge, Teil 2",
+        "Misiones pasadas, Parte 2"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990131": [
+        "Return to the Fallen",
+        "重返降臨",
+        "강림으로의 귀환",
+        "Retour de l'avènement",
+        null,
+        "Regreso a la Cámara de los Caídos"
     ],
     "MST_STORY_NAME_1": [
         "Grandshelt Isles",
@@ -13696,18 +13548,18 @@
         "Guiles req."
     ],
     "NETWORK_FAIL": [
-        "\"Unable to connect to the Internet.\"",
-        "\"無法連接網路\"",
+        "Unable to connect to the Internet.",
+        "無法連接網路",
         "네트워크에 접속할 수 없습니다.",
-        "\"Impossible de se connecter à Internet.\"",
+        "Impossible de se connecter à Internet.",
         "„Keine Verbindung zum Internet.“",
         "No es posible conectarse a Internet."
     ],
     "NEXT_TEXT": [
-        "\"Next\"",
-        "\"下一步\"",
+        "Next",
+        "下一步",
         "다음",
-        "\"Suivant\"",
+        "Suivant",
         "„Weiter“",
         "Siguiente"
     ],
@@ -14152,10 +14004,10 @@
         "<color=255:0:0>¿Seguro que quieres cancelar la transacción?"
     ],
     "PURCHASE_FAIL": [
-        "\"In-app purchases have been disabled.\"",
-        "\"應用程式內的消費未經過允許\"",
+        "In-app purchases have been disabled.",
+        "應用程式內的消費未經過允許",
         "애플리케이션 내 결제가 허가되지 않았습니다.",
-        "\"Les achats dans l'application ont été désactivés.\"",
+        "Les achats dans l'application ont été désactivés.",
         "„In-App Käufe wurden deaktiviert.“",
         "Las compras dentro de la aplicación están desactivadas."
     ],
@@ -14248,12 +14100,12 @@
         "Error desconocido"
     ],
     "Pop_Up_Account_Binding_First_Time_Pop_up": [
-        "You can choose to bind your game account to social media accounts such as <color=0:0:255>Facebook</color> or <color=0:0:255>Google</color>.",
-        "現在可以選擇將遊戲帳號綁定至其他社群帳號，例如<color=0:0:255>Facebook</color> 或 <color=0:0:255>Google</color>。",
-        "게임 계정을 <color=0:0:255>Facebook</color> 또는 <color=0:0:255>Google</color>과 같은 소셜 미디어 계정에 연동시킬 수 있습니다.",
-        "Vous pouvez désormais associer votre compte de jeu à vos comptes de réseaux sociaux, comme <color=0:0:255>Facebook</color> ou <color=0:0:255>Google</color>.",
-        "Du kannst dich nun dazu entscheiden, dein Spielerkonto mit anderen Social Media-Konten, wie zum Beispiel <color=0:0:255>Facebook</color> oder<color=0:0:255>Google</color> zu verknüpfen.",
-        "Ahora puedes vincular tu cuenta del juego con otras redes sociales, como <color=0:0:255>Facebook</color> o <color=0:0:255>Google</color>."
+        "You can choose to bind your game account to social media accounts such as <color=0:0:255>Facebook</color>, <color=0:0:255>Google</color> or <color=0:0:255>Apple</color>.",
+        "現在可以選擇將遊戲帳號綁定至其他社群帳號，例如<color=0:0:255>Facebook</color>，<color=0:0:255>Google</color>  或 <color=0:0:255>Apple</color>。",
+        "게임 계정을 <color=0:0:255>Facebook</color>, <color=0:0:255>Google</color> 또는 <color=0:0:255>Apple</color> 과 같은 소셜 미디어 계정에 연동시킬 수 있습니다.",
+        "Vous pouvez désormais associer votre compte de jeu à vos comptes de réseaux sociaux, comme <color=0:0:255>Facebook</color>, <color=0:0:255>Google</color> ou <color=0:0:255>Apple</color>.",
+        "Du kannst dich nun dazu entscheiden, dein Spielerkonto mit anderen Social Media-Konten, wie zum Beispiel <color=0:0:255>Facebook</color>, <color=0:0:255>Google</color> oder <color=0:0:255>Apple</color> zu verknüpfen.",
+        "Ahora puedes vincular tu cuenta del juego con otras redes sociales, como <color=0:0:255>Facebook</color>, <color=0:0:255>Google</color> o <color=0:0:255>Apple</color>."
     ],
     "Pop_Up_Account_Binding_Limit_Warning": [
         "*There are a limited number of binding attempts for each social media account type. Once you run out of binding attempts, you won't be able to bind your game account to any other social media accounts.",
@@ -14536,11 +14388,11 @@
         "Gracias por evaluar nuestra App."
     ],
     "RATE_THIS_APP_REWARDS_TITLE": [
-        "\"RATE THIS APP\" REWARD",
+        "RATE THIS APP REWARD",
         "評價應用程式報酬",
         "애플리케이션 평가 보상",
         "RÉCOMP. \"NOTER l'APPLI\"",
-        "\"BEWERT DIESE APP\"-BELOHNUNG",
+        "BEWERT DIESE APP-BELOHNUNG",
         "Recompensa de evaluación de la App."
     ],
     "RB_BATTLE_GIVEUP": [
@@ -14664,12 +14516,12 @@
         "Ya están listas las clasificaciones mensuales."
     ],
     "RB_RANKING_INFO_NOTHING": [
-        "No rank rewards",
-        "無排名",
+        "No rank information exists.",
+        "無排名。",
         "랭킹 정보가 없습니다.",
-        "Aucune récompence de classement.",
-        "Keine Rang-Belohnungen",
-        "No hay datos de clasificación."
+        "Aucune données de classement disponible.",
+        "Keine Ranginformationen.",
+        "No hay información de clasificación."
     ],
     "RB_RANKING_LIST_RANK": [
         "Place %s",
@@ -14816,12 +14668,12 @@
         "Las unidades de las siguientes series no se podrán utilizar."
     ],
     "RB_RULE_INFO_LOSE_REWARD": [
-        "Failure Rewards",
-        "敗北時參加報酬",
-        "패배 시 참가 보상",
-        "Récompenses de défaite",
-        "Niederlage-Belohnungen",
-        "Recompensas al participar"
+        "Participation Reward",
+        "參加報酬",
+        "참가 보상",
+        "Récompense de participation",
+        "Teilnahmebelohnung",
+        "Recompensa por participar"
     ],
     "RB_RULE_INFO_RANK_RANGE": [
         "%d to $d place",
@@ -14856,12 +14708,12 @@
         "Reglas"
     ],
     "RB_RULE_INFO_WIN_REWARD": [
-        "Daily Participation Rewards",
-        "每日參加報酬",
-        "일일 참가 보상",
-        "Récompenses de participation quotidienne",
-        "Tägliche Teilnahme-Belohnungen",
-        "Recompensas de participación diarias"
+        "Participation Reward",
+        "參加報酬",
+        "참가 보상",
+        "Récompense de participation",
+        "Teilnahmebelohnung",
+        "Recompensa por participar"
     ],
     "RB_SEASON_EVENT_REWARD_MAIL_MSG": [
         "This is the reward for your participating in this season's battle arena.<br>The following items are now yours.",
@@ -17640,10 +17492,10 @@
         "Se consigue en el nivel <param=level>."
     ],
     "SKILL_NONE": [
-        "\"None\"",
-        "\"無\"",
-        "\"없음\"",
-        "\"Rien\"",
+        "None",
+        "無",
+        "없음",
+        "Rien",
         "„Nichts“",
         "Ninguno"
     ],
@@ -17771,7 +17623,7 @@
         "<color=255:255:0><param=unit></color> was converted into an <color=255:255:0>awakening material</color>.<br>",
         "已經將<color=255:255:0><param=unit></color>變換成<color=255:255:0>覺醒素材</color>了。<br>",
         "<color=255:255:0><param=unit></color>을(를) <color=255:255:0>각성 재료</color>로 변환했습니다.<br>",
-        "\"<color=255:255:0><param=unit></color>\" a été converti(e) en <color=255:255:0>matériau d'éveil</color>.<br>",
+        "<color=255:255:0><param=unit></color> a été converti(e) en <color=255:255:0>matériau d'éveil</color>.<br>",
         "<color=255:255:0><param=unit></color> wurde zu <color=255:255:0>Erweckungsmaterial</color> konvertiert.<br>",
         "Se ha convertido <color=255:255:0><param=unit></color> en <color=255:255:0>material de despertar</color>.<br>"
     ],
@@ -18336,12 +18188,12 @@
         "Recompensa Supermaestro Fiel"
     ],
     "SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TEXT": [
-        "You can erase interrupted quest data and return to the home screen.<br>By erasing interrupted quest data, you will lose all <color=255:255:0>units, items, and gil</color> that you obtained during the quest.<br>During equipment enhancement events this will count as giving up, and <color=255:255:0>all acquired abilities</color> will be reset.<br><br>Do you wish to erase the data?",
-        "刪除任務中斷情報，從主畫面開始。<br>如要刪除中斷情報，將會失去獲得的<color=255:255:0>兵員、道具、GIL</color>。<br>武具強化活動則會視同放棄<color=255:255:0>獲得中的能力</color>將會被重置。<br> <br>是否確定要刪除中斷情報？",
-        "퀘스트 중단 정보를 삭제하고, 홈 화면에서 다시 시작합니다.<br>중단 정보를 삭제하면 퀘스트에서 획득한 <color=255:255:0>유닛, 아이템, 길</color>을 모두 잃게 됩니다.<br>장비 강화 이벤트의 경우, 포기한 것으로 간주되어 <color=255:255:0>획득 중인 어빌리티</color>가 초기화됩니다.<br><br>중단 정보를 삭제하시겠습니까?",
-        "Vous pouvez effacer les données de quête interrompue et de retourner à l'écran--titre.<br>En effaçant ces données, vous perdrez toutes <color=255:255:0> les unités, les objets, et les gils</color> que vous avez obtenus pendant la quête.<br>Durant un événement d'amélioration d'équipement, cela sera considéré comme un abandon, et <color=255:255:0>toutes les aptitudes obtenues</color>seront réinitialisées.<br><br>Voulez-vous effacer les données ?",
-        "Du kannst die Daten zur Auftragsunterbrechung löschen und zum Titelbildschirm zurückkehren.<br>Wenn du Daten zur Auftragsunterbrechung löschst, verlierst du sämtliche <color=255:255:0>Einheiten, Gegenstände und Gil</color>, die du während dem Auftrag erhalten hast. Für Ausrüstungsverbesserungsaufträge wird dies als Aufgeben angesehen und <color=255:255:0>sämtliche erhaltenen Fertigkeiten</color> werden zurückgesetzt.<br><br>Möchtest du die Daten löschen?",
-        "Puedes eliminar los datos de la misión pausada regresando al menú principal.<br>Al eliminar estos datos, perderás todas las <color=255:255:0>unidades, objetos y guiles</color> que hayas conseguido durante la misión.<br>Durante los eventos de mejora de equipo, esta acción se considerará como abandonar, y se restablecerán <color=255:255:0>todas las habilidades adquiridas</color>.<br><br>¿Quieres borrar los datos?"
+        "Proceeding will erase ongoing quest data and return you to the Home screen.<br>By erasing ongoing quest data, you will lose<color=255:255:0> all units, items, and gil</color> obtained in the quest.<br>For weapon enhancement events, this will count as giving up, and all abilities obtained will be <color=255:255:0>reset</color>, and equipment will return to <color=255:255:0>its status right before beginning the enhancement</color>.<br>Erase ongoing data?",
+        "刪除任務中斷情報，從主畫面開始。<br>如要刪除中斷情報，將會失去獲得的<color=255:255:0>兵員、道具、GIL</color>。<br>武具強化活動則會視同放棄<color=255:255:0>獲得中的能力</color>將會被重置，裝備品將會回到本次<color=255:255:0>強化開始之前的狀態</color>。<br> <br>是否確定要刪除中斷情報？",
+        "퀘스트 중단 정보를 삭제하고 홈 화면으로 돌아갑니다.<br>중단 정보를 삭제하면 퀘스트에서 획득한 <color=255:255:0>유닛, 아이템, 길</color>을 모두 잃게 됩니다.<br>장비 강화 이벤트 기간 중에는 포기한 것으로 간주되어 획득한 모든 어빌리티는 <color=255:255:0>초기화</color>되고, 장비는 <color=255:255:0>강화를 시작하기 직전의 원상태로 돌아갑니다</color>.<br><br>중단 정보를 삭제하시겠습니까?",
+        "Si vous continuez, les données de la quête en cours seront effacées et vous serez renvoyé à l'écran-titre.<br>En effaçant ces données, vous perdrez toutes <color=255:255:0> les unités, les objets, et les gils</color> que vous avez obtenus pendant la quête.<br>Durant un événement d'amélioration d'armes, cela sera considéré comme un abandon, et <color=255:255:0>toutes les pièces d'équipement</color>seront réinitialisées au statut précédant l'amélioration.<br><br>Voulez-vous effacer les données ?",
+        "Du kannst die Daten zur Auftragsunterbrechung löschen und zum Titelbildschirm zurückkehren.<br>Wenn du Daten zur Auftragsunterbrechung löschst, verlierst du sämtliche <color=255:255:0>Einheiten, Gegenstände und Gil</color>, die du während dem Auftrag erhalten hast. Für Ausrüstungsverbesserungsaufträge wird dies als Aufgeben angesehen, sämtliche erhaltenen Fertigkeiten werden <color=255:255:0>zurückgesetzt</color> und Ausrüstung wird auf auf <color=255:255:0>ihren Zustand vor Beginn der Verbesserung zurückgestellt</color>.<br><br>Möchtest du die Daten löschen?",
+        "Si continúas, se eliminarán los datos de la misión actual y regresarás al menú principal.<br>Al eliminar estos datos, perderás <color=255:255:0>todas las unidades, objetos y guiles</color> que hayas conseguido durante la misión.<br>Durante los eventos de mejora de armas, esta acción se considerará como abandonar y <color=255:255:0>se restablecerán</color> todas las habilidades adquiridas, al igual que el equipo volverá <color=255:255:0>al estado previo a la mejora</color>.<br>¿Quieres borrar los datos?"
     ],
     "SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TITLE": [
         "Erase Interrupted Quest Data",
@@ -19096,10 +18948,10 @@
         "Siguiente recompensa de trofeo"
     ],
     "TROPHY_RESULT": [
-        "\"Current Trophies<br>Trophy Goal\"",
-        "\"現在的獎盃總數<br>目標獎盃數\"",
+        "Current Trophies<br>Trophy Goal",
+        "現在的獎盃總數<br>目標獎盃數",
         "현재 총 트로피 수<br>목표 공적 수",
-        "\"Trophées actuels<br>Trophée visé\"",
+        "Trophées actuels<br>Trophée visé",
         "„Aktuelle Trophäen<br>Trophäenziel“",
         "Trofeos actuales<br>Objetivo del trofeo"
     ],
@@ -19823,6 +19675,14 @@
         "Erweckmaterialien<br>Konvertierbar",
         "Material de despertar<br>convertible"
     ],
+    "UNIT_SORT_CONFIRM_APPLY_OTHER_PARTS": [
+        "Sort other equipment slots using the chosen criteria?",
+        "要將排序篩選條件套用在其他部位的裝備排序篩選上嗎？",
+        "다른 장비 슬롯에도 선택한 필터를 적용하시겠습니까?",
+        "Utiliser le filtre sélectionné pour trier d'autres emplacements d'équipement ?",
+        "Andere Ausrüstung-Slots nach den ausgewählten Kriterien sortieren?",
+        "¿Quieres usar los criterios que has elegido para ordenar otras ranuras de equipo?"
+    ],
     "UNIT_SORT_EQUIPED": [
         "Equipment",
         "裝備",
@@ -20182,6 +20042,206 @@
         "Les Conditions d'utilisation ont été mises à jour.<br>Veuillez les lire et les accepter à nouveau.",
         "Nutzungsbedingungen wurden aktualisiert.<br>Bitte lies sie durch und akzeptiere sie noch einmal.",
         "Hemos actualizado las Condiciones de uso.<br>Te agradeceríamos que dedicases unos minutos a leerlas y volver a aceptarlas."
+    ],
+    "USDP_DH": [
+        "Doublehand",
+        "雙手持",
+        "양손 들기",
+        "Deux mains",
+        "Zweihändig",
+        "Manodoble"
+    ],
+    "USDP_POPUP_ATK_DOWN": [
+        "ATK Reduction",
+        "攻擊降低",
+        "공격력 감소",
+        "Réduction d'ATT",
+        "ANG-Verringerung",
+        "Reducción de ATQ"
+    ],
+    "USDP_POPUP_DEBUFF_RESIST": [
+        "Enfeeblement Resistances",
+        "弱化耐性",
+        "능력치 감소 저항력",
+        "Résistances aux malus",
+        "Schwächungsresistenz",
+        "Resistencia a debilitaciones"
+    ],
+    "USDP_POPUP_DEF_DOWN": [
+        "DEF Reduction",
+        "防禦降低",
+        "방어력 감소",
+        "Réduction de DEF",
+        "ABW-Verringerung",
+        "Reducción de DEF"
+    ],
+    "USDP_POPUP_DH_TIP": [
+        "These bonuses will be activated when armed with a one-handed weapon with the other hand empty.",
+        "裝備單手武器且另一隻手空著的狀態下將會觸發BONUS。",
+        "해당 보너스는 한손용 무기를 한손에만 장착 시 발동합니다.",
+        "Ces bonus seront activés lorsqu'une arme à une main sera équipée et que l'autre main sera vide",
+        "Diese Boni aktivieren sich beim Ausrüsten von einer einhändigen Waffe in einer Hand und beim Ausrüsten von keiner Waffe in der anderen.",
+        "Estas bonificaciones se activarán al llevar un arma de una mano y nada en la otra."
+    ],
+    "USDP_POPUP_ESPER_DMG_UP": [
+        "Esper DMG",
+        "幻獸傷害",
+        "환수 피해량",
+        "Dégâts de chimère",
+        "Esper-Schaden",
+        "Daño de esper"
+    ],
+    "USDP_POPUP_ESPER_PARAM_UP": [
+        "EVO DMG",
+        "召喚魔法傷害",
+        "소환마법 피해량",
+        "Dégâts d'appel",
+        "Rufen-Schaden",
+        "Daño de evocación"
+    ],
+    "USDP_POPUP_JUMP_DMG_UP": [
+        "Jump Damage Boost",
+        "跳躍傷害提高",
+        "점프 피해량 상승",
+        "Augmentation des dégâts de saut",
+        "Sprungschaden-Erhöhung",
+        "Aumento de daño de salto"
+    ],
+    "USDP_POPUP_KILLER": [
+        "Killer Damage Boost",
+        "種族殺傷害提高",
+        "킬러 피해량 상승",
+        "Augmentation des dégâts infligés à un type d'unité",
+        "Killerschaden-Erhöhung",
+        "Aumento de daño contra tipos de enemigos"
+    ],
+    "USDP_POPUP_LB_DMG_UP": [
+        "LB Damage Boost",
+        "極限技傷害量提高",
+        "LB 피해량 상승",
+        "Augmentation des dégâts de limite",
+        "Schaden durch Limitrausch-Erhöhung",
+        "Aumento de daño del EL"
+    ],
+    "USDP_POPUP_LB_FILL": [
+        "LB Fill Per Turn",
+        "每回合的極限技槽增加量",
+        "턴당 LB 게이지",
+        "Remplissage de la limite à chaque tour",
+        "Limitmeteranstieg pro Runde",
+        "Relleno de barra de EL por turno"
+    ],
+    "USDP_POPUP_LB_FILL_UP": [
+        "LB Fill Rate Boost",
+        "極限技槽增加量提高",
+        "LB 게이지 효율 증가",
+        "Augmentation du taux de remplissage de la jauge de limite",
+        "Rufschaden",
+        "Aumento de velocidad de la barra de EL"
+    ],
+    "USDP_POPUP_MAGIC_EVA": [
+        "Magic Evasion Rate",
+        "閃避魔法攻擊的機率",
+        "마법 공격 회피율",
+        "Taux d'esquive magique",
+        "Magische Ausweichrate",
+        "Tasa de evasión mágica"
+    ],
+    "USDP_POPUP_MAG_DOWN": [
+        "MAG Reduction",
+        "魔力降低",
+        "마력 감소",
+        "Réduction de MAGIE",
+        "MAG-Verringerung",
+        "Reducción de MAG"
+    ],
+    "USDP_POPUP_MAG_LABEL": [
+        "Magic",
+        "魔法",
+        "마법",
+        "Magique",
+        "Magisch",
+        "Mágico"
+    ],
+    "USDP_POPUP_MP_REDUCTION": [
+        "MP Cost Reduction",
+        "MP消耗降低",
+        "소비 MP 감소",
+        "Réduction du coût en PM",
+        "MP-Kosten-Verringerung",
+        "Reducción del gasto de PM"
+    ],
+    "USDP_POPUP_OTHERS": [
+        "Others",
+        "其他",
+        "기타",
+        "Autres",
+        "Andere",
+        "Otros"
+    ],
+    "USDP_POPUP_PHYSICAL_EVA": [
+        "Physical Evasion Rate",
+        "閃避物理攻擊的機率",
+        "물리 공격 회피율",
+        "Taux d'esquive physique",
+        "Physische Ausweichrate",
+        "Tasa de evasión física"
+    ],
+    "USDP_POPUP_PHY_LABEL": [
+        "Physical",
+        "物理",
+        "물리",
+        "Physique",
+        "Physisch",
+        "Físico"
+    ],
+    "USDP_POPUP_SPR_DOWN": [
+        "SPR Reduction",
+        "精神降低",
+        "정신력 감소",
+        "Réduction de PSY",
+        "PSY-Verringerung",
+        "Reducción de ESP"
+    ],
+    "USDP_POPUP_TDH_TIP": [
+        "These bonuses will be activated when armed with a single weapon in both hands.",
+        "雙手只裝備1把單手武器的狀態下將會觸發BONUS。",
+        "해당 보너스는 양손의 장비가 무기 1개일 경우 발동합니다.",
+        "Ces bonus seront activés lorsqu'une arme sera tenue avec les deux mains",
+        "Diese Boni aktivieren sich beim Ausrüsten von einhändigen Waffen in beiden Händen.",
+        "Estas bonificaciones se activarán al llevar una sola arma en ambas manos."
+    ],
+    "USDP_POPUP_TDW_TIP": [
+        "These bonuses be will activated when armed with two one-handed weapons.",
+        "裝備2把單手武器的狀態下將會觸發BONUS。",
+        "해당 보너스는 한손용 무기를 2개 장착 시 발동합니다.",
+        "Ces bonus seront activés lorsque deux armes à une main seront équipées",
+        "Diese Boni aktivieren sich beim Ausrüsten von einer zweihändigen Waffe in beiden Händen.",
+        "Estas bonificaciones se activarán al llevar 2 armas de una sola mano."
+    ],
+    "USDP_TDH": [
+        "True Doublehand",
+        "真·雙手持",
+        "진·양손 들기",
+        "Deux mains X",
+        "Wahrhaft zweihändig",
+        "Manodoble X"
+    ],
+    "USDP_TDW": [
+        "True Dual Wield",
+        "真雙刀流",
+        "진·이도류",
+        "Deux armes X",
+        "Wahrhaft ambidexter",
+        "Dos armas X"
+    ],
+    "USDP_UNIT_STATS": [
+        "Stats",
+        "狀態數值",
+        "능력치",
+        "Caractéristiques",
+        "Statuswerte",
+        "Atributos"
     ],
     "USER_CREATE_CAUTION": [
         "Enter a player name of up to eight characters.",

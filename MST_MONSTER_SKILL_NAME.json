@@ -1,4 +1,596 @@
 {
+    "1": [
+        "Fire Breath",
+        "火焰吐息",
+        null,
+        null,
+        null,
+        "Aliento de fuego"
+    ],
+    "2": [
+        "Blizzard Breath",
+        "暴雪吐息",
+        null,
+        null,
+        null,
+        null
+    ],
+    "3": [
+        null,
+        "雷電吐息",
+        null,
+        null,
+        null,
+        null
+    ],
+    "4": [
+        null,
+        "超療傷",
+        null,
+        null,
+        null,
+        null
+    ],
+    "5": [
+        null,
+        "超級復原",
+        null,
+        null,
+        null,
+        null
+    ],
+    "6": [
+        null,
+        "恢復固定值",
+        null,
+        null,
+        null,
+        null
+    ],
+    "7": [
+        null,
+        "賦予中毒",
+        "독 부여",
+        null,
+        null,
+        null
+    ],
+    "8": [
+        null,
+        "賦予沉默",
+        "침묵 부여",
+        null,
+        null,
+        null
+    ],
+    "9": [
+        null,
+        "賦予生病",
+        "질병 부여",
+        null,
+        null,
+        null
+    ],
+    "10": [
+        null,
+        "賦予失明",
+        "암흑 부여",
+        null,
+        null,
+        null
+    ],
+    "11": [
+        null,
+        "賦予睡眠",
+        "수면 부여",
+        null,
+        null,
+        null
+    ],
+    "12": [
+        null,
+        "賦予麻痹",
+        "마비 부여",
+        null,
+        null,
+        null
+    ],
+    "13": [
+        null,
+        "賦予混亂",
+        "혼란 부여",
+        null,
+        null,
+        null
+    ],
+    "14": [
+        null,
+        "賦予石化",
+        "석화 부여",
+        null,
+        null,
+        null
+    ],
+    "15": [
+        null,
+        "十針刺",
+        "바늘 10개",
+        null,
+        null,
+        null
+    ],
+    "16": [
+        null,
+        "五十針刺",
+        "바늘 50개",
+        null,
+        null,
+        null
+    ],
+    "17": [
+        null,
+        "百針刺",
+        "바늘 100개",
+        null,
+        null,
+        null
+    ],
+    "18": [
+        null,
+        "十針刺（火）",
+        "바늘 10개(불)",
+        null,
+        null,
+        null
+    ],
+    "19": [
+        null,
+        "五十針刺（火）",
+        "바늘 50개(불)",
+        null,
+        null,
+        null
+    ],
+    "20": [
+        null,
+        "百針刺（火）",
+        "바늘 100개(불)",
+        null,
+        null,
+        null
+    ],
+    "21": [
+        null,
+        "十針刺（冰）",
+        "바늘 10개(얼음)",
+        null,
+        null,
+        null
+    ],
+    "22": [
+        null,
+        "五十針刺（冰）",
+        "바늘 50개(얼음)",
+        null,
+        null,
+        null
+    ],
+    "23": [
+        null,
+        "百針刺（冰）",
+        "바늘 100개(얼음)",
+        null,
+        null,
+        null
+    ],
+    "24": [
+        null,
+        "十針刺（雷）",
+        "바늘 10개(번개)",
+        null,
+        null,
+        null
+    ],
+    "25": [
+        null,
+        "五十針刺（雷）",
+        "바늘 50개(번개)",
+        null,
+        null,
+        null
+    ],
+    "26": [
+        null,
+        "百針刺（雷）",
+        "바늘 100개(번개)",
+        null,
+        null,
+        null
+    ],
+    "27": [
+        null,
+        "十針刺（水）",
+        "바늘 10개(물)",
+        null,
+        null,
+        null
+    ],
+    "28": [
+        null,
+        "五十針刺（水）",
+        "바늘 50개(물)",
+        null,
+        null,
+        null
+    ],
+    "29": [
+        null,
+        "百針刺（水）",
+        "바늘 100개(물)",
+        null,
+        null,
+        null
+    ],
+    "30": [
+        null,
+        "十針刺（風）",
+        "바늘 10개(바람)",
+        null,
+        null,
+        null
+    ],
+    "31": [
+        null,
+        "五十針刺（風）",
+        "바늘 50개(바람)",
+        null,
+        null,
+        null
+    ],
+    "32": [
+        null,
+        "百針刺（風）",
+        "바늘 100개(바람)",
+        null,
+        null,
+        null
+    ],
+    "33": [
+        null,
+        "十針刺（土）",
+        "바늘 10개(땅)",
+        null,
+        null,
+        null
+    ],
+    "34": [
+        null,
+        "五十針刺（土）",
+        "바늘 50개(땅)",
+        null,
+        null,
+        null
+    ],
+    "35": [
+        null,
+        "百針刺（土）",
+        "바늘 100개(땅)",
+        null,
+        null,
+        null
+    ],
+    "36": [
+        null,
+        "十針刺（光）",
+        "바늘 10개(빛)",
+        null,
+        null,
+        null
+    ],
+    "37": [
+        null,
+        "五十針刺（光）",
+        "바늘 50개(빛)",
+        null,
+        null,
+        null
+    ],
+    "38": [
+        null,
+        "百針刺（光）",
+        "바늘 100개(빛)",
+        null,
+        null,
+        null
+    ],
+    "39": [
+        null,
+        "十針刺（暗）",
+        "바늘 10개(어둠)",
+        null,
+        null,
+        null
+    ],
+    "40": [
+        null,
+        "五十針刺（暗）",
+        "바늘 50개(어둠)",
+        null,
+        null,
+        null
+    ],
+    "41": [
+        null,
+        "百針刺（暗）",
+        "바늘 100개(어둠)",
+        null,
+        null,
+        null
+    ],
+    "42": [
+        null,
+        "十針刺（冰火）",
+        "바늘 10개(불, 얼음)",
+        null,
+        null,
+        null
+    ],
+    "43": [
+        null,
+        "五十針刺（冰火）",
+        "바늘 50개(불, 얼음)",
+        null,
+        null,
+        null
+    ],
+    "44": [
+        null,
+        "百針刺（冰火）",
+        "바늘 100개(불, 얼음)",
+        null,
+        null,
+        null
+    ],
+    "45": [
+        null,
+        "（全）十針刺",
+        "(전체) 바늘 10개",
+        null,
+        null,
+        null
+    ],
+    "46": [
+        null,
+        "（全）五十針刺",
+        "(전체) 바늘 50개",
+        null,
+        null,
+        null
+    ],
+    "47": [
+        null,
+        "（全）百針刺",
+        "(전체) 바늘 100개",
+        null,
+        null,
+        null
+    ],
+    "48": [
+        null,
+        "（全）十針刺（火）",
+        "(전체) 바늘 10개(불)",
+        null,
+        null,
+        null
+    ],
+    "49": [
+        null,
+        "（全）五十針刺（火）",
+        "(전체) 바늘 50개(불)",
+        null,
+        null,
+        null
+    ],
+    "50": [
+        null,
+        "（全）百針刺（火）",
+        "(전체) 바늘 100개(불)",
+        null,
+        null,
+        null
+    ],
+    "51": [
+        null,
+        "（全）十針刺（冰）",
+        "(전체) 바늘 10개(얼음)",
+        null,
+        null,
+        null
+    ],
+    "52": [
+        null,
+        "（全）五十針刺（冰）",
+        "(전체) 바늘 50개(얼음)",
+        null,
+        null,
+        null
+    ],
+    "53": [
+        null,
+        "（全）百針刺（冰）",
+        "(전체) 바늘 100개(얼음)",
+        null,
+        null,
+        null
+    ],
+    "54": [
+        null,
+        "（全）十針刺（雷）",
+        "(전체) 바늘 10개(번개)",
+        null,
+        null,
+        null
+    ],
+    "55": [
+        null,
+        "（全）五十針刺（雷）",
+        "(전체) 바늘 50개(번개)",
+        null,
+        null,
+        null
+    ],
+    "56": [
+        null,
+        "（全）百針刺（雷）",
+        "(전체) 바늘 100개(번개)",
+        null,
+        null,
+        null
+    ],
+    "57": [
+        null,
+        "（全）十針刺（水）",
+        "(전체) 바늘 10개(물)",
+        null,
+        null,
+        null
+    ],
+    "58": [
+        null,
+        "（全）五十針刺（水）",
+        "(전체) 바늘 50개(물)",
+        null,
+        null,
+        null
+    ],
+    "59": [
+        null,
+        "（全）百針刺（水）",
+        "(전체) 바늘 100개(물)",
+        null,
+        null,
+        null
+    ],
+    "60": [
+        null,
+        "（全）十針刺（風）",
+        "(전체) 바늘 10개(바람)",
+        null,
+        null,
+        null
+    ],
+    "61": [
+        null,
+        "（全）五十針刺（風）",
+        "(전체) 바늘 50개(바람)",
+        null,
+        null,
+        null
+    ],
+    "62": [
+        null,
+        "（全）百針刺（風）",
+        "(전체) 바늘 100개(바람)",
+        null,
+        null,
+        null
+    ],
+    "63": [
+        null,
+        "（全）十針刺（土）",
+        "(전체) 바늘 10개(땅)",
+        null,
+        null,
+        null
+    ],
+    "64": [
+        null,
+        "（全）五十針刺（土）",
+        "(전체) 바늘 50개(땅)",
+        null,
+        null,
+        null
+    ],
+    "65": [
+        null,
+        "（全）百針刺（土）",
+        "(전체) 바늘 100개(땅)",
+        null,
+        null,
+        null
+    ],
+    "66": [
+        null,
+        "（全）十針刺（光）",
+        "(전체) 바늘 10개(빛)",
+        null,
+        null,
+        null
+    ],
+    "67": [
+        null,
+        "（全）五十針刺（光）",
+        "(전체) 바늘 50개(빛)",
+        null,
+        null,
+        null
+    ],
+    "68": [
+        null,
+        "（全）百針刺（光）",
+        "(전체) 바늘 100개(빛)",
+        null,
+        null,
+        null
+    ],
+    "69": [
+        null,
+        "（全）十針刺（暗）",
+        "(전체) 바늘 10개(어둠)",
+        null,
+        null,
+        null
+    ],
+    "70": [
+        null,
+        "（全）五十針刺（暗）",
+        "(전체) 바늘 50개(어둠)",
+        null,
+        null,
+        null
+    ],
+    "71": [
+        null,
+        "（全）百針刺（暗）",
+        "(전체) 바늘 100개(어둠)",
+        null,
+        null,
+        null
+    ],
+    "72": [
+        null,
+        "（全）十針刺（冰火）",
+        "(전체) 바늘 10개(불, 얼음)",
+        null,
+        null,
+        null
+    ],
+    "73": [
+        null,
+        "（全）五十針刺（冰火）",
+        "(전체) 바늘 50개(불, 얼음)",
+        null,
+        null,
+        null
+    ],
+    "74": [
+        null,
+        "（全）百針刺（冰火）",
+        "(전체) 바늘 100개(불, 얼음)",
+        null,
+        null,
+        null
+    ],
     "75": [
         "Certain Death",
         "100%致死一擊",
@@ -26140,7 +26732,7 @@
         "傳授了「魔力的使用方法」",
         "'마력 사용자'를 전했다",
         "A transmis \"Usage de la magie\"",
-        "\"Magiegebrauch\" übermittelt.",
+        "Magiegebrauch übermittelt.",
         "Ha transmitido Uso de la magia"
     ],
     "181002": [
@@ -26156,7 +26748,7 @@
         "傳授了「反擊的手段」",
         "'반격의 수단'을 전했다",
         "A transmis \"Méthode de contre\"",
-        "\"Kontermethode\" übermittelt.",
+        "Kontermethode übermittelt.",
         "Ha transmitido Medidas de contrataque"
     ],
     "181004": [
@@ -26164,7 +26756,7 @@
         "傳授了「究極魔法」",
         "'궁극의 마법'을 전했다",
         "A transmis \"Arcane magique\"",
-        "\"Ultimative Magie\" übermittelt.",
+        "Ultimative Magie übermittelt.",
         "Ha transmitido Magia arcana"
     ],
     "181005": [
@@ -26172,7 +26764,7 @@
         "傳授了「力量的使用方法」",
         "'힘 사용자'를 전했다",
         "A transmis \"Usage de la force\"",
-        "\"Kraftgebrauch\" übermittelt.",
+        "Kraftgebrauch übermittelt.",
         "Ha transmitido Uso de la fuerza"
     ],
     "181006": [
@@ -26180,7 +26772,7 @@
         "傳授了「力量的活用方法」",
         "'힘 활용자'를 전했다",
         "A transmis \"Usage optimal de la force\"",
-        "\"Optimaler Kraftgebrauch\" übermittelt.",
+        "Optimaler Kraftgebrauch übermittelt.",
         "Ha transmitido Aprovechamiento de la fuerza"
     ],
     "181007": [
@@ -48692,7 +49284,7 @@
         "魔·鬼地閃",
         "마라의 귀지섬",
         "Éclair démoniaque tellurique",
-        "Dämonische Erdblitz",
+        "Dämonischer Erdblitz",
         "Destello demoníaco de tierra"
     ],
     "207820": [
@@ -48700,7 +49292,7 @@
         "魔·鬼光閃",
         "마라의 귀광섬",
         "Éclair démoniaque lumineux",
-        "Dämonische Glanzblitz",
+        "Dämonischer Glanzblitz",
         "Destello demoníaco radiante"
     ],
     "207830": [
@@ -49745,10 +50337,10 @@
     ],
     "209130": [
         "Full Swing",
-        "全力揮擊",
+        "全力揮打",
         "풀스윙",
         "Grand swing",
-        "Durchziehen",
+        "Voller Schlag",
         "Mazada"
     ],
     "209140": [
@@ -58479,6 +59071,14 @@
         "Verstärkung",
         "Concentrar"
     ],
+    "215257": [
+        "Glomp",
+        "撲跳",
+        "덤벼들기",
+        "Saut explosif",
+        "Explosionsschlag",
+        "Choque fatídico"
+    ],
     "215258": [
         "Leech",
         "吸收",
@@ -58495,12 +59095,20 @@
         "Klammern",
         "Chongo"
     ],
+    "215260": [
+        "Shout",
+        "嚎叫",
+        "외침",
+        "Hurler",
+        "Schrei",
+        "Gemido"
+    ],
     "215261": [
         "Paralyze Powder",
         "咒縛花粉",
         "주박의 꽃가루",
         "Poudre Acinèse",
-        "Fluchpulver",
+        "Fesselpulver",
         "Polvo paralizante"
     ],
     "215262": [
@@ -58524,7 +59132,7 @@
         "混亂花粉",
         "착란 꽃가루",
         "Poudre Démence",
-        "Silberpulver",
+        "Verwirrungspulver",
         "Polvo de confusión"
     ],
     "215265": [
@@ -58540,7 +59148,7 @@
         "石化劍",
         "브레이크",
         "Brisure",
-        "Brechen",
+        "Brecher",
         "Petra"
     ],
     "215267": [
@@ -58559,6 +59167,22 @@
         "Giftstachel",
         "Aguja tóxica"
     ],
+    "215269": [
+        "Venomous Stab",
+        "劇毒刺",
+        "독의 한칼",
+        "Coup de poignard envenimé",
+        "Toxinstich",
+        "Pinchazo venenoso"
+    ],
+    "215270": [
+        "Poison Fang",
+        "毒之牙",
+        "독 송곳니",
+        "Croc empoisonné",
+        "Giftfang",
+        "Colmillo venenoso"
+    ],
     "215271": [
         "Bile",
         "消化液",
@@ -58575,20 +59199,60 @@
         "Küsschentanz",
         "Danza de ochú"
     ],
+    "215273": [
+        "Sticky Ooze",
+        "粘稠液體",
+        "끈적끈적한 액체",
+        "Liquide collant",
+        "Schmiere",
+        "Fluido pegajoso"
+    ],
+    "215274": [
+        "Paralyzing Ivy",
+        "麻痺藤蔓",
+        "마비 덩굴",
+        "Lierre paralysant",
+        "Lähmender Efeu",
+        "Hiedra paralizante"
+    ],
+    "215275": [
+        "Lick",
+        "舔食",
+        "핥기",
+        "Coup de langue",
+        "Lecken",
+        "Lametón"
+    ],
     "215276": [
-        "High-speed Spin",
+        "Rapid Spin",
         "高速旋轉",
         "고속 스핀",
         "Tourbillon à grande vitesse",
         "Hochgeschwindigkeitskreisel",
         "Giro rápido"
     ],
+    "215277": [
+        "Petrifying Ivy",
+        "石化藤蔓",
+        "석화 덩굴",
+        "Lierre pétrifiant",
+        "Versteinernder Efeu",
+        "Hiedra petrificadora"
+    ],
+    "215278": [
+        "Infectious Ivy",
+        "生病藤蔓",
+        "질병 덩굴",
+        "Lierre infectieux",
+        "Virus-Efeu",
+        "Hiedra infecciosa"
+    ],
     "215279": [
         "Confuse Powder",
         "混亂花粉",
         "착란 꽃가루",
         "Poudre Démence",
-        "Silberpulver",
+        "Verwirrungspulver",
         "Polvo de confusión"
     ],
     "215280": [
@@ -58607,13 +59271,45 @@
         "Giftpulver",
         "Polvo venenoso"
     ],
+    "215282": [
+        "Microchu is supplying nutrients",
+        "小食腐獸補給營養",
+        "코츄가 영양을 주입했다",
+        "Le microtyugh sème des nutriments",
+        "Kleinküsschen liefert Nährstoffe",
+        "El microchú suministra nutrientes"
+    ],
+    "215283": [
+        "Focused Seed Cannon",
+        "集束·種子大砲",
+        "집속·종자 대포",
+        "Canon à graines focalisé",
+        "Fokussiertes Kernspucken",
+        "Cañón de semillas certero"
+    ],
+    "215284": [
+        "Recovery Pollen",
+        "萬能治癒花粉",
+        "만능 치료 꽃가루",
+        "Pollen guérisseur",
+        "Regenerierungspollen",
+        "Polen curativo"
+    ],
     "215285": [
         "Charge",
         "突進",
         "돌진",
         "Charge",
-        "Stürmen",
+        "Vormarsch",
         "Embestida"
+    ],
+    "215286": [
+        "Glomp",
+        "撲跳",
+        "덤벼들기",
+        "Saut explosif",
+        "Explosionsschlag",
+        "Choque fatídico"
     ],
     "215287": [
         "Face Chomp",
@@ -60696,12 +61392,12 @@
         "Oscuridad autoguiada"
     ],
     "215573": [
-        "Jolt",
+        "Shock Wave",
         "衝擊波",
         "충격파",
-        "Électrochoc",
+        "Onde offensive",
         "Schockwelle",
-        "Sacudida"
+        "Onda expansiva"
     ],
     "215574": [
         "Dark Cry",
@@ -60740,7 +61436,7 @@
         "淨化",
         "디아",
         "Lumen",
-        "Lieb",
+        "Dia",
         "Cariño"
     ],
     "215579": [
@@ -60749,7 +61445,7 @@
         "윈드 봄 주니어가 떨기 시작했다",
         "Bombo Jr. aéro tremble",
         "Windbomber Jr. beginnt zu zittern.",
-        "Bom eólico junior está temblando"
+        "El bom eólico junior está temblando"
     ],
     "215580": [
         "Light bomb junior is trembling",
@@ -60757,7 +61453,7 @@
         "라이트 봄 주니어가 떨기 시작했다",
         "Bombo Jr. lumineux tremble",
         "Lichtbomber Jr. beginnt zu zittern.",
-        "Bom luminoso junior está temblando"
+        "El bom luminoso junior está temblando"
     ],
     "215581": [
         "Self-Destruct",
@@ -60788,7 +61484,7 @@
         "漩渦",
         "물 소용돌이",
         "Tourbillon marin",
-        "Whirlpool",
+        "Wasserwirbel",
         "Remolino"
     ],
     "215585": [
@@ -60887,6 +61583,14 @@
         "Groll der Ratte",
         "Rencor de la rata"
     ],
+    "215599": [
+        "Grudge of the Giga Rat",
+        "碩鼠的怨恨",
+        "기가 래트의 원한",
+        "Rancune du rat géant",
+        "Groll der Gigaratte",
+        "Rencor de la rata gigante"
+    ],
     "215600": [
         "Feel the animosity!",
         "感覺到強烈敵意！",
@@ -60956,8 +61660,8 @@
         "死去同伴的怨念聚集一身",
         "쓰러진 동료의 원한이 옮겨붙었다",
         "Il ressent la peine de ses amis tombés au combat",
-        "Der Verdruss über die gefallenen Freunde wurde übertragen",
-        "Se ha transferido el disgusto de los amigos caídos"
+        "Der Verdruss seiner gefallenen Freunde wurde übertragen",
+        "Ha absorbido el resentimiento de sus compañeros caídos"
     ],
     "215609": [
         "Giganto Tail",
@@ -60972,7 +61676,7 @@
         "執念目光",
         "집념의 눈빛",
         "Perception tenace",
-        "Hartnäckige Einsicht",
+        "Hartnäckige Scharfsicht",
         "Criterio tenaz"
     ],
     "215611": [
@@ -60988,7 +61692,7 @@
         "火炎",
         "화염",
         "Souffle de feu",
-        "Feueratem",
+        "Flammen",
         "Aliento de fuego"
     ],
     "215613": [
@@ -67743,6 +68447,14 @@
         "Laser",
         "Láser"
     ],
+    "216486": [
+        "The enemy is withdrawing.",
+        "離開了",
+        "물러가다",
+        "L'ennemi a disparu",
+        "Es ist geflohen.",
+        "Se ha ido"
+    ],
     "216487": [
         "Barrier",
         "魔法屏障",
@@ -68831,6 +69543,30 @@
         "Wellenkanone",
         "Cañón de ondas"
     ],
+    "216657": [
+        "Strike of Darkness",
+        "黑暗撞擊",
+        "다크 스트라이크",
+        "Frappe des ténèbres",
+        "Dunkelhieb",
+        "Golpe de oscuridad"
+    ],
+    "216658": [
+        "Slash of Darkness",
+        "黑暗橫劈",
+        "다크 슬래시",
+        "Entaille des ténèbres",
+        "Dunkelschlitzer",
+        "Tajo de oscuridad"
+    ],
+    "216659": [
+        "Flames of the Dead",
+        "冥府之炎",
+        "명부의 불꽃",
+        "Flammes des défunts",
+        "Flammen der Toten",
+        "Necrollamas"
+    ],
     "216660": [
         "Great Roar",
         "大咆哮",
@@ -68838,6 +69574,94 @@
         "Grand rugissement",
         "Großes Gezeter",
         "Gran quejido"
+    ],
+    "216661": [
+        "Slashing Wing",
+        "飛翼斬劈",
+        "날개 강타",
+        "Aile acérée",
+        "Flügelschlitzer",
+        "Viento cortante"
+    ],
+    "216662": [
+        "Violent Rampage",
+        "暴躁狂怒",
+        "마구 날뛰기",
+        "Massacre déchaîné",
+        "Wirres Wüten",
+        "Estallido colérico"
+    ],
+    "216663": [
+        "Eye of the Beholder",
+        "閃爍之瞳",
+        "빛나는 눈동자",
+        "Œil de l'observateur",
+        "Auge des Betrachters",
+        "El ojo que todo lo ve"
+    ],
+    "216664": [
+        "Violet Gem Energy",
+        "紫寶玉之力",
+        "자색 보옥의 힘",
+        "Énergie pourpre",
+        "Violette Juwelenenergie",
+        "Energía de gema violeta"
+    ],
+    "216665": [
+        "Zilant is enraged!",
+        "吉蘭特發怒了！",
+        "질란트가 흥분했다!",
+        "Zilant est enragé !",
+        "Zilant ist erzürnt!",
+        "¡Zilant está rabioso!"
+    ],
+    "216666": [
+        "Rapid Rejuvenation",
+        "超恢復",
+        "초강력 회복",
+        "Rajeunissement rapide",
+        "Rasante Verjüngung",
+        "Rejuvenecimiento veloz"
+    ],
+    "216667": [
+        "Protection of Darkness",
+        "暗之守護",
+        "어둠의 수호",
+        "Protection des ténèbres",
+        "Schutz der Dunkelheit",
+        "Protección de oscuridad"
+    ],
+    "216668": [
+        "Power Inversion",
+        "力量反轉",
+        "힘의 반전",
+        "Pouvoir inversé",
+        "Kraftumkehrung",
+        "Inversión de poder"
+    ],
+    "216669": [
+        "Ignis Tenebrosus",
+        "暗之鬼火",
+        "어둠의 도깨비불",
+        "Ignis tenebræ",
+        "Ignus Tenebrosus",
+        "Ignis tenebrosus"
+    ],
+    "216670": [
+        "Misery",
+        "不幸",
+        "불운",
+        "Malchance",
+        "Misere",
+        "Miseria"
+    ],
+    "216671": [
+        "Dark Unyielding Glare",
+        "一齊凝視·暗",
+        "일제 응시·어둠",
+        "Regard inflexible des ténèbres",
+        "Dunkles unnachgiebiges Starren",
+        "Mirada firme y oscura"
     ],
     "216672": [
         "Death",
@@ -68851,7 +69675,7 @@
         "Dark",
         "暗黑",
         "다크",
-        "Obscurité",
+        "Ténèbres",
         "Negrum",
         "Sombra"
     ],
@@ -68860,7 +69684,7 @@
         "中暗黑",
         "다크라",
         "Ténèbres +",
-        "Darkra",
+        "Negra",
         "Sombra+"
     ],
     "216675": [
@@ -69422,6 +70246,14 @@
         "Atq Fossile",
         "Steinschlag",
         "Efecto Piedra"
+    ],
+    "216760": [
+        "Light of Repentance",
+        "懺悔之光",
+        "참회의 빛",
+        "Lumière de repentance",
+        "Licht der Buße",
+        "Luz de arrepentimiento"
     ],
     "216761": [
         "Smelly Breath",
@@ -70007,6 +70839,14 @@
         "Es ist geflohen.",
         "Se ha ido"
     ],
+    "216957": [
+        "Rifle Shot",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "216958": [
         "Double Attack",
         "雙攻擊",
@@ -70014,6 +70854,14 @@
         "Double attaque",
         "Doppelangriff",
         "Ataque doble"
+    ],
+    "216959": [
+        "Blast Punch",
+        null,
+        null,
+        null,
+        null,
+        null
     ],
     "216962": [
         "Scratch",
@@ -74400,6 +75248,46 @@
         "Marioneta sombría"
     ],
     "900427": [
+        "Shadow Puppet",
+        "暗影傀儡",
+        "그림자 꼭두각시",
+        "Marionnette des ombres",
+        "Schattenpuppe",
+        "Marioneta sombría"
+    ],
+    "900428": [
+        "Shadow Puppet",
+        "暗影傀儡",
+        "그림자 꼭두각시",
+        "Marionnette des ombres",
+        "Schattenpuppe",
+        "Marioneta sombría"
+    ],
+    "900429": [
+        "Shadow Puppet",
+        "暗影傀儡",
+        "그림자 꼭두각시",
+        "Marionnette des ombres",
+        "Schattenpuppe",
+        "Marioneta sombría"
+    ],
+    "900430": [
+        "Shadow Puppet",
+        "暗影傀儡",
+        "그림자 꼭두각시",
+        "Marionnette des ombres",
+        "Schattenpuppe",
+        "Marioneta sombría"
+    ],
+    "900431": [
+        "Shadow Puppet",
+        "暗影傀儡",
+        "그림자 꼭두각시",
+        "Marionnette des ombres",
+        "Schattenpuppe",
+        "Marioneta sombría"
+    ],
+    "900432": [
         "Shadow Puppet",
         "暗影傀儡",
         "그림자 꼭두각시",
