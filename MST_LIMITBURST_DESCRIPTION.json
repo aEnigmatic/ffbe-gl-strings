@@ -5759,14 +5759,6 @@
         "Heilt LP, alle Verb.",
         "Recupera VIT de todos los aliados"
     ],
-    "202000302": [
-        "Deal earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Dégâts de terre sur un ennemi",
-        "Erdschaden, ein Ziel",
-        "Daño de tierra a un enemigo"
-    ],
     "202000303": [
         "Deal earth damage to one enemy",
         "對1名敵人發動土屬性攻擊",
@@ -6078,22 +6070,6 @@
         "Inflige des dégâts de feu à tous les ennemis, et augmente la résistance au feu de tous les alliés",
         "Fügt allen Gegnern Feuerschaden zu und erhöht Feuerresistenz für alle Verbündeten.",
         "Daño de fuego a todos los enemigos y aumenta la resistencia al fuego de todos los aliados"
-    ],
-    "203000702": [
-        "Deal lightning damage to one enemy",
-        "對1名敵人發動雷屬性攻擊",
-        "적 1명에게 번개속성 피해",
-        "Dégâts de foudre sur un ennemi",
-        "Blitzschaden, ein Ziel",
-        "Daño de rayo a un enemigo"
-    ],
-    "203000703": [
-        "Deal lightning damage to one enemy",
-        "對1名敵人發動雷屬性攻擊",
-        "적 1명에게 번개속성 피해",
-        "Dégâts de foudre sur un ennemi",
-        "Blitzschaden, ein Ziel",
-        "Daño de rayo a un enemigo"
     ],
     "203000704": [
         "Deal partial unmitigated lightning damage and chance of paralyzing one enemy",
@@ -6494,14 +6470,6 @@
         "Dégâts sur tous les ennemis",
         "Schaden, alle Ziele",
         "Daña a todos los enemigos"
-    ],
-    "204000602": [
-        "Boost DEF and SPR for all allies",
-        "提高全體隊員的精神防禦",
-        "아군 전체의 방어력과 정신력 상승",
-        "Augmente la DEF et la PSY de tous les alliés",
-        "PSY und ABW hoch, alle Ziele",
-        "Aumenta la DEF y el ESP de todos los aliados"
     ],
     "204000603": [
         "Boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
@@ -8455,22 +8423,6 @@
         "Feuer-, Eis, und Blitzschaden, alle Gegner.",
         "Daño de fuego, hielo y rayo a todos los enemigos"
     ],
-    "211000202": [
-        "Deal earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Dégâts de terre sur un ennemi",
-        "Erdschaden, ein Ziel",
-        "Daño de tierra a un enemigo"
-    ],
-    "211000203": [
-        "Deal earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Dégâts de terre sur un ennemi",
-        "Erdschaden, ein Ziel",
-        "Daño de tierra a un enemigo"
-    ],
     "211000204": [
         "Deal partial unmitigated earth damage and chance of confusing all enemies",
         "對全體敵人發動土屬性無視部分防禦的攻擊+一定機率造成混亂",
@@ -8623,6 +8575,78 @@
         "Reduziert Schaden für 3 Runden, erhöht ABW und PSY während des Singens und regeneriert allmählich LP/MP für alle Verbündeten.",
         "Reduce el daño recibido durante 3 turnos, aumenta la DEF y el ESP al cantar, y recupera VIT y PM de todos los aliados poco a poco"
     ],
+    "211001205": [
+        "Deal partial unmitigated magic damage to all enemies, and fill own LB gauge next turn",
+        "對全體敵人發動無視部分魔法防禦的攻擊+下一回合增加自身的極限技槽",
+        "적 전체에 일부 마법 방어 무시 피해+다음 턴에 자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et remplit la jauge de limite du lanceur au prochain tour",
+        "Fügt allen Gegnern teileise direkten magischen Schaden zu und füllt in der nächsten Runde Limitmeter des Benutzers.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, y rellena la barra de EL propia al turno siguiente"
+    ],
+    "211001206": [
+        "Deal partial unmitigated magic damage to all enemies, and fill own LB gauge next turn",
+        "對全體敵人發動無視部分魔法防禦的攻擊+下一回合增加自身的極限技槽",
+        "적 전체에 일부 마법 방어 무시 피해+다음 턴에 자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et remplit la jauge de limite du lanceur au prochain tour",
+        "Fügt allen Gegnern teileise direkten magischen Schaden zu und füllt in der nächsten Runde Limitmeter des Benutzers.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, y rellena la barra de EL propia al turno siguiente"
+    ],
+    "211001207": [
+        "Deal partial unmitigated magic damage to all enemies, and fill own LB gauge next turn",
+        "對全體敵人發動無視部分魔法防禦的攻擊+下一回合增加自身的極限技槽",
+        "적 전체에 일부 마법 방어 무시 피해+다음 턴에 자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et remplit la jauge de limite du lanceur au prochain tour",
+        "Fügt allen Gegnern teileise direkten magischen Schaden zu und füllt in der nächsten Runde Limitmeter des Benutzers.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, y rellena la barra de EL propia al turno siguiente"
+    ],
+    "211001305": [
+        "Deal critical damage to one enemy, and fill LB gauge next turn for all allies",
+        "對1名敵人發動暴擊攻擊+下一回合增加全體隊員的極限技槽",
+        "적 1명에게 크리티컬 피해+다음 턴에 아군 전체의 LB 게이지 증가",
+        "Inflige des dégâts critiques à un ennemi, et remplit la jauge de limite de tous les alliés au prochain tour",
+        "Fügt einem Gegner kritischen Schaden zu und füllt in der nächsten Runde Limitmeter aller Verbündeten.",
+        "Daño crítico a un enemigo, y rellena la barra de EL de todos los aliados al turno siguiente"
+    ],
+    "211001306": [
+        "Deal critical damage to one enemy, and fill LB gauge next turn for all allies",
+        "對1名敵人發動暴擊攻擊+下一回合增加全體隊員的極限技槽",
+        "적 1명에게 크리티컬 피해+다음 턴에 아군 전체의 LB 게이지 증가",
+        "Inflige des dégâts critiques à un ennemi, et remplit la jauge de limite de tous les alliés au prochain tour",
+        "Fügt einem Gegner kritischen Schaden zu und füllt in der nächsten Runde Limitmeter aller Verbündeten.",
+        "Daño crítico a un enemigo, y rellena la barra de EL de todos los aliados al turno siguiente"
+    ],
+    "211001307": [
+        "Deal critical damage to one enemy, and fill LB gauge next turn for all allies",
+        "對1名敵人發動暴擊攻擊+下一回合增加全體隊員的極限技槽",
+        "적 1명에게 크리티컬 피해+다음 턴에 아군 전체의 LB 게이지 증가",
+        "Inflige des dégâts critiques à un ennemi, et remplit la jauge de limite de tous les alliés au prochain tour",
+        "Fügt einem Gegner kritischen Schaden zu und füllt in der nächsten Runde Limitmeter aller Verbündeten.",
+        "Daño crítico a un enemigo, y rellena la barra de EL de todos los aliados al turno siguiente"
+    ],
+    "211001404": [
+        "Damage and chance of stopping one enemy",
+        "攻擊1名敵人+一定機率施加停止效果",
+        "적 1명에게 피해+일정 확률로 스톱 부여",
+        "Inflige des dégâts à un ennemi et confère une chance de lui infliger stop",
+        "Fügt einem Gegner Schaden zu und Chance, ihn zu stoppen.",
+        "Daño a un enemigo y probabilidad de infligirle paro"
+    ],
+    "211001405": [
+        "Damage and chance of stopping one enemy",
+        "攻擊1名敵人+一定機率施加停止效果",
+        "적 1명에게 피해+일정 확률로 스톱 부여",
+        "Inflige des dégâts à un ennemi et confère une chance de lui infliger stop",
+        "Fügt einem Gegner Schaden zu und Chance, ihn zu stoppen.",
+        "Daño a un enemigo y probabilidad de infligirle paro"
+    ],
+    "211001406": [
+        "Damage and chance of stopping one enemy",
+        "攻擊1名敵人+一定機率施加停止效果",
+        "적 1명에게 피해+일정 확률로 스톱 부여",
+        "Inflige des dégâts à un ennemi et confère une chance de lui infliger stop",
+        "Fügt einem Gegner Schaden zu und Chance, ihn zu stoppen.",
+        "Daño a un enemigo y probabilidad de infligirle paro"
+    ],
     "212000103": [
         "Damage all enemies",
         "攻擊全體敵人",
@@ -8758,22 +8782,6 @@
         "Soigne poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés",
         "Heilt von Gift, Blenden, Schlaf, Stille, Lähmung, Konfus. Virus und Stein, alle Verb.",
         "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a todos los aliados"
-    ],
-    "212000802": [
-        "Damage one enemy",
-        "攻擊1名敵人",
-        "적 1명에게 피해",
-        "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
-        "Daña a un enemigo"
-    ],
-    "212000803": [
-        "Damage one enemy",
-        "攻擊1名敵人",
-        "적 1명에게 피해",
-        "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
-        "Daña a un enemigo"
     ],
     "212000905": [
         "Deal fire damage to one enemy and caster can dodge some physical attacks three times",
