@@ -2196,7 +2196,7 @@
         "攻擊全體敵人+隨機降低攻擊防禦魔力精神+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체에 피해+공격력, 방어력, 마력, 정신력 감소+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
         "Dégâts, réduit l'ATT, la DEF, la MAGIE et la PSY et inflige aléatoirement poison, cécité, sommeil, silence, paralysie, confusion, maladie, ou pétrification à tous les ennemis",
-        "Schaden, Verr. ANG, ABW, MAG und PSY, Fügt zuf. Gift, Blenden, Schlaf, Stille, Betäubung, Konfus, Virus oder Stein hinzu, alle Gegner.",
+        "Schaden, verr. ANG, ABW, MAG und PSY, fügt zuf. Gift, Blenden, Schlaf, Stille, Betäubung, Konfus, Virus oder Stein hinzu, alle Gegner.",
         "Daña a todos los enemigos, reduce su ATQ, DEF, MAG y ESP y les inflige veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad o piedra al azar"
     ],
     "100009305": [
@@ -2204,7 +2204,7 @@
         "攻擊全體敵人+隨機降低攻擊防禦魔力精神+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체에 피해+공격력, 방어력, 마력, 정신력 감소+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
         "Dégâts, réduit l'ATT, la DEF, la MAGIE et la PSY et inflige aléatoirement poison, cécité, sommeil, silence, paralysie, confusion, maladie, ou pétrification à tous les ennemis",
-        "Schaden, Verr. ANG, ABW, MAG und PSY, Fügt zuf. Gift, Blenden, Schlaf, Stille, Betäubung, Konfus, Virus oder Stein hinzu, alle Gegner.",
+        "Schaden, verr. ANG, ABW, MAG und PSY, fügt zuf. Gift, Blenden, Schlaf, Stille, Betäubung, Konfus, Virus oder Stein hinzu, alle Gegner.",
         "Daña a todos los enemigos, reduce su ATQ, DEF, MAG y ESP y les inflige veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad o piedra al azar"
     ],
     "100009306": [
@@ -2212,7 +2212,7 @@
         "攻擊全體敵人+隨機降低攻擊防禦魔力精神+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체에 피해+공격력, 방어력, 마력, 정신력 감소+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
         "Dégâts, réduit l'ATT, la DEF, la MAGIE et la PSY et inflige aléatoirement poison, cécité, sommeil, silence, paralysie, confusion, maladie, ou pétrification à tous les ennemis",
-        "Schaden, Verr. ANG, ABW, MAG und PSY, Fügt zuf. Gift, Blenden, Schlaf, Stille, Betäubung, Konfus, Virus oder Stein hinzu, alle Gegner.",
+        "Schaden, verr. ANG, ABW, MAG und PSY, fügt zuf. Gift, Blenden, Schlaf, Stille, Betäubung, Konfus, Virus oder Stein hinzu, alle Gegner.",
         "Daña a todos los enemigos, reduce su ATQ, DEF, MAG y ESP y les inflige veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad o piedra al azar"
     ],
     "100009405": [
@@ -8255,6 +8255,30 @@
         "Teilweise direkter Magieschaden, alle Ziele",
         "Daño mágico que ignora parcialmente la DEF de todos los enemigos"
     ],
+    "210000505": [
+        "Damage and reduce ATK, DEF, MAG and SPR for all enemies",
+        "攻擊全體敵人+降低攻擊防禦魔力精神",
+        "적 전체에 피해+공격력, 방어력, 마력, 정신력 감소",
+        "Inflige des dégâts et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ANG, ABW, MAG und PSY.",
+        "Daña a todos los enemigos y reduce su ATQ, DEF, MAG y ESP"
+    ],
+    "210000506": [
+        "Damage and reduce ATK, DEF, MAG and SPR for all enemies",
+        "攻擊全體敵人+降低攻擊防禦魔力精神",
+        "적 전체에 피해+공격력, 방어력, 마력, 정신력 감소",
+        "Inflige des dégâts et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ANG, ABW, MAG und PSY.",
+        "Daña a todos los enemigos y reduce su ATQ, DEF, MAG y ESP"
+    ],
+    "210000507": [
+        "Damage and reduce ATK, DEF, MAG and SPR for all enemies",
+        "攻擊全體敵人+降低攻擊防禦魔力精神",
+        "적 전체에 피해+공격력, 방어력, 마력, 정신력 감소",
+        "Inflige des dégâts et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis",
+        "Fügt allen Gegnern Schaden zu und verringert ihre ANG, ABW, MAG und PSY.",
+        "Daña a todos los enemigos y reduce su ATQ, DEF, MAG y ESP"
+    ],
     "210000605": [
         "Deal partial unmitigated damage and reduce fire and wind resistance for all enemies",
         "對全體敵人發動無視部分防禦的攻擊+降低火風屬性耐性",
@@ -8327,6 +8351,30 @@
         "Schaden für alle Gegner und erhöht Magieschaden gegen Untote von Benutzer.",
         "Daña a todos los enemigos y aumenta el daño mágico del usuario contra muertos vivientes"
     ],
+    "210000905": [
+        "Chance of instantly KO'ing or damaging all enemies, and boost damage of certain abilities",
+        "一定機率對全體敵人施加致死一擊效果或傷害+提高特定能力的傷害",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여+특정 어빌리티의 피해량 상승",
+        "Confère une chance de mettre instantanément K.O. ou d'infliger des dégâts à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "Chance, alle Gegner sofort auszuschalten oder ihnen Schaden zuzufügen und erhöht Schaden bestimmter Fertigkeiten.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aumenta el daño de determinadas habilidades"
+    ],
+    "210000906": [
+        "Chance of instantly KO'ing or damaging all enemies, and boost damage of certain abilities",
+        "一定機率對全體敵人施加致死一擊效果或傷害+提高特定能力的傷害",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여+특정 어빌리티의 피해량 상승",
+        "Confère une chance de mettre instantanément K.O. ou d'infliger des dégâts à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "Chance, alle Gegner sofort auszuschalten oder ihnen Schaden zuzufügen und erhöht Schaden bestimmter Fertigkeiten.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aumenta el daño de determinadas habilidades"
+    ],
+    "210000907": [
+        "Chance of instantly KO'ing or damaging all enemies, and boost damage of certain abilities",
+        "一定機率對全體敵人施加致死一擊效果或傷害+提高特定能力的傷害",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여+특정 어빌리티의 피해량 상승",
+        "Confère une chance de mettre instantanément K.O. ou d'infliger des dégâts à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "Chance, alle Gegner sofort auszuschalten oder ihnen Schaden zuzufügen und erhöht Schaden bestimmter Fertigkeiten.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aumenta el daño de determinadas habilidades"
+    ],
     "210001005": [
         "Damage all enemies and enable triple quickstrike for three turns",
         "攻擊全體敵人+3回合內可使用「速攻×3」",
@@ -8374,6 +8422,54 @@
         "Augmente l'ATT et le taux de remplissage de la jauge de limite pour tous les alliés, et leur confère temporairement une chance de contre-attaquer lorsqu'un allié subit une attaque physique",
         "Erhöht ANG, Limitmeter füllt sich schneller für alle Verbündeten und kurzzeitige Chance zu kontern, wenn ein Verbündeter von einem physischen Angriff getroffen wird.",
         "Aumenta el ATQ, la barra de EL de todos los aliados se rellena más rápido y añade temporalmente la probabilidad de contraatacar cuando el aliado recibe un ataque físico"
+    ],
+    "210001704": [
+        "Deal partial unmitigated magic damage to all enemies, and fill evocation gauge",
+        "對全體敵人發動無視部分魔法防禦的攻擊+增加召喚槽",
+        "적 전체에 일부 마법 방어 무시 피해+소환 게이지 증가",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et remplit la jauge d'appel",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und füllt Rufleiste.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, y rellena la barra de invocación"
+    ],
+    "210001705": [
+        "Deal partial unmitigated magic damage to all enemies, and fill evocation gauge",
+        "對全體敵人發動無視部分魔法防禦的攻擊+增加召喚槽",
+        "적 전체에 일부 마법 방어 무시 피해+소환 게이지 증가",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et remplit la jauge d'appel",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und füllt Rufleiste.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, y rellena la barra de invocación"
+    ],
+    "210001706": [
+        "Deal partial unmitigated magic damage to all enemies, and fill evocation gauge",
+        "對全體敵人發動無視部分魔法防禦的攻擊+增加召喚槽",
+        "적 전체에 일부 마법 방어 무시 피해+소환 게이지 증가",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et remplit la jauge d'appel",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und füllt Rufleiste.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, y rellena la barra de invocación"
+    ],
+    "210001805": [
+        "Deal partial unmitigated damage to all enemies and enable triple quickstrike for three turns",
+        "對全體敵人發動無視部分防禦的攻擊+3回合內可使用「速攻×3」",
+        "적 전체에 일부 방어 무시 피해+3턴 동안 '속공x3' 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et permet d'utiliser Triple choc pendant 3 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht für drei Runden Tripel-Schnellattacke.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende Golpe rápido triple durante 3 turnos"
+    ],
+    "210001806": [
+        "Deal partial unmitigated damage to all enemies and enable triple quickstrike and physical training for three turns",
+        "對全體敵人發動無視部分防禦的攻擊+3回合內可使用「速攻×3」「肉體鍛煉」",
+        "적 전체에 일부 방어 무시 피해+3턴 동안 '속공x3'과 '피지컬 트레이닝' 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et permet d'utiliser Triple choc et Conditionnement physique pendant 3 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht für drei Runden Tripel-Schnellattacke und Angiffstraining.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende Golpe rápido triple y Entrenamiento físico durante 3 turnos"
+    ],
+    "210001807": [
+        "Deal partial unmitigated damage to all enemies and enable triple quickstrike, physical training, and blitz spirit for three turns",
+        "對全體敵人發動無視部分防禦的攻擊+3回合內可使用「速攻×3」「肉體鍛煉」",
+        "적 전체에 일부 방어 무시 피해+3턴 동안 '속공x3', '피지컬 트레이닝', '블리츠볼 정신' 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et permet d'utiliser Triple choc, Conditionnement physique et Esprit du blitzball pendant 3 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht für drei Runden Tripel-Schnellattacke, Angriffstraining und Geist des Blitzball-Asses.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende Golpe rápido triple, Entrenamiento físico y Espíritu del blitzbol durante 3 turnos"
     ],
     "210001904": [
         "Damage all enemies and fill evocation gauge",
