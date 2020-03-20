@@ -607,6 +607,30 @@
         "Jubiläumsfeierpaket",
         "Lote de celebración de aniversario"
     ],
+    "APPLE_SIGN_IN_CANCELLED": [
+        "User canceled the login process.",
+        "用戶已取消登入流程。",
+        "사용자가 로그인 진행을 취소했습니다.",
+        "Connexion annulée par l'utilisateur.",
+        "Nutzer hat die Anmeldung abgebrochen.",
+        "El usuario ha cancelado el proceso de inicio de sesión."
+    ],
+    "APPLE_SIGN_IN_FAILED": [
+        "Apple ID login failed.",
+        "Apple ID登入失敗。",
+        "Apple ID 로그인에 실패했습니다.",
+        "Échec de connexion avec identifiant Apple.",
+        "Anmeldung mit Apple-ID fehlgeschlagen.",
+        "No se ha podido iniciar sesión con ID de Apple."
+    ],
+    "APPLE_SIGN_IN_REQUIREMENT": [
+        "Apple Sign-In is currently unavailable. Coming soon to Final Fantasy Brave Exvius.",
+        "目前無法使用Apple進行登入。將在日後於《FINAL FANTASY BRAVE EXVIUS》推出。",
+        "현재 Apple 로그인을 이용할 수 없습니다. 곧 FINAL FANTASY BRAVE EXVIUS에서 이용할 수 있습니다.",
+        "La connexion avec Apple est indisponible pour le moment. Ce problème sera résolu très prochainement sur Final Fantasy Brave Exvius.",
+        "Die Apple-Anmeldung steht derzeit nicht zur Verfügung, wird aber bald in Final Fantasy Brave Exvius möglich sein.",
+        "El inicio de sesión con Apple no se encuentra disponible en este momento. Próximamente en Final Fantasy Brave Exvius."
+    ],
     "APP_NEW_VERSION_DEFAULT_MSG": [
         "A new version of the app is available.",
         "新版本的應用程式已發布。",
@@ -806,6 +830,14 @@
         "Convertir une unité en matériau d'éveilVous ne possédez actuellement qu'un seul exemplaire de cette unité dans votre inventaire. Convertir cette unité en matériau d'éveil entraînera la perte de l'unité de base nécessaire à l'éveil 7 étoiles et vous ne pourrez plus l'éveiller jusqu'à ce que vous obteniez un autre exemplaire de cette unité.",
         "Einheit zu Erweckungsmaterial konvertieren?Du besitzt derzeit nur ein Exemplar dieser Einheit in deinem Inventar. Wenn du diese Einheit in Erweckungsmaterial konvertierst, wirst du deine Basiseinheit für seine 7★ Erweckung verlieren und sie nicht zu ihrer 7★ Form erwecken können, bevor du ein weiteres Exemplar dieser Einheit erhältst.",
         "¿Seguro que quieres convertir esta unidad en material de despertar?Ahora mismo, solo tienes una copia de esta unidad en el inventario. Si conviertes esta unidad en material de despertar, perderás a la unidad base que te hace falta para despertarla a 7★ y, por tanto, no podrás despertarla a 7★ hasta que consigas otra copia de esta unidad en concreto."
+    ],
+    "AWAKE_MATERIAL": [
+        "Materials",
+        "強化素材",
+        "강화 재료",
+        "Matériaux",
+        "Materialien",
+        "Materiales"
     ],
     "AWARD": [
         "Trophies",
@@ -1911,6 +1943,14 @@
         "Comeback Anmeldebonus",
         "Bonificación de inicio de sesión de regreso al juego"
     ],
+    "COMMON_LIST": [
+        "List",
+        "一覽",
+        "목록",
+        "Liste",
+        "Liste",
+        "Lista"
+    ],
     "CONNECT": [
         "Connecting...",
         "通訊中……",
@@ -2015,6 +2055,30 @@
         "Du kannst es sofort herstellen für <param=num> <param=lapis>. <br>Willst du mehr kaufen?",
         "Puedes fabricar instantáneamente por <param=num> <param=lapis>. <br>¿Quieres comprar?"
     ],
+    "CRAFT_AWAKE": [
+        "Enhance Equip.",
+        "強化裝備",
+        "강화 장비",
+        "Améliorer l'équipement",
+        "Ausrüstung verbessern",
+        "Mejorar equipo"
+    ],
+    "CRAFT_AWAKE_MATERIAL": [
+        "Materials",
+        "強化素材",
+        "강화 재료",
+        "Matériaux",
+        "Materialien",
+        "Materiales"
+    ],
+    "CRAFT_AWAKE_RECIPE_NOTHING": [
+        "No equipment can be selected",
+        "沒有可以選擇的裝備。",
+        "선택할 수 있는 장비가 없습니다.",
+        "Aucun équipement à sélectionner",
+        "Keine auswählbare Ausrüstung verfügbar.",
+        "No hay equipo para seleccionar"
+    ],
     "CRAFT_BLACKSMITH": [
         "Forge",
         "裝備",
@@ -2102,6 +2166,38 @@
         "Synthèse",
         "Synthese",
         "Sintetizar"
+    ],
+    "CRAFT_ITEM_SELECT_INFO_EMPTY": [
+        "Select the materials to be used",
+        "請選擇欲使用之素材",
+        "사용할 재료를 선택해 주십시오.",
+        "Sélectionnez les matériaux à utiliser",
+        "Wähle die zu nutzenden Materialien",
+        "Selecciona los materiales a usar"
+    ],
+    "CRAFT_ITEM_SELECT_INFO_FULL": [
+        "Equipment can be enhanced",
+        "可強化此裝備",
+        "장비를 강화할 수 있습니다.",
+        "Amélioration possible",
+        "Ausrüstung kann verbessert werden",
+        "Se puede mejorar el equipo"
+    ],
+    "CRAFT_ITEM_SELECT_INFO_NOT_ENOUGH": [
+        "Select the amount required",
+        "請選擇必要之數量",
+        "필요한 개수를 선택해 주십시오.",
+        "Sélectionnez la quantité nécessaire",
+        "Wähle die erforderliche Anzahl aus",
+        "Selecciona la cantidad necesaria"
+    ],
+    "CRAFT_ITEM_SELECT_NEED_MATERIAL": [
+        "Required Materials",
+        "必要素材",
+        "필요 재료",
+        "Matériaux requis",
+        "Erforderliche Materialien",
+        "Materiales necesarios"
     ],
     "CRAFT_LACK_OF_MATERIAL": [
         "<color=255:0:0>Insufficient Materials</color>",
@@ -2214,6 +2310,22 @@
         "Fabriquer instantanément pour <param=num> <param=lapis> ?",
         "Sofort herstellen für <param=num> <param=lapis>?",
         "¿Fabricar instantáneamente por <param=num> <param=lapis>?"
+    ],
+    "CRAFT_WARNING_TEXT": [
+        "Proceed with equipment enhancement?<br>The equipment used for enhancement will be consumed.",
+        "是否確認進行強化？<br>將移除作為強化素材使用的裝備。",
+        "장비를 강화하시겠습니까?<br>강화 재료로 사용된 장비는 소멸됩니다.",
+        "Voulez-vous améliorer l'équipement ?<br>Les pièces d'équipement utilisées comme matériaux d'amélioration seront perdues.",
+        "Ausrüstungsverbesserung fortsetzen?<br>Die zur Verbesserung benutzte Ausrüstung wird verbraucht.",
+        "¿Continuar con la mejora de equipo?<br>El equipo que se use para la mejora desaparecerá."
+    ],
+    "CRAFT_WARNING_TITLE": [
+        "Confirm Enhancement Materials",
+        "強化素材確認",
+        "강화 재료 확인",
+        "Confirmation de l'amélioration",
+        "Verbesserung bestätigen",
+        "Confirmar materiales de mejora"
     ],
     "CRYSTALLIZED_TICKET_BUNDLE_DESC": [
         "Get these treasures unearthed from deep within the bowels of Lapis! A different Giancryst available daily!",
@@ -2563,6 +2675,14 @@
         "Daten werden heruntergeladen.<br>Dies kann ein paar Minuten dauern.",
         "Descargando datos.<br>Puede tardar unos minutos."
     ],
+    "Daily_Coin_Moogle_Text": [
+        "Trade Daily Coins for awesome rewards!",
+        "使用每日硬幣交換豪華獎勵！",
+        "일일 코인으로 놀라운 보상들과 교환하세요!",
+        "Échangez vos jetons quotidiens contre de formidables récompenses !",
+        "Tausche Tägliche Münzen gegen tolle Belohnungen ein, kupo!",
+        "¡Intercambia monedas diarias por recompensas increíbles!"
+    ],
     "EARLY_BIRD_BUNDLE_DESC_1": [
         "1000 lapis to help you get started on your adventures.<br>Items will be sent to your inbox, Kupo!",
         "用１０００個寶石集齊旅程的必需品吧。<br>道具將發放到收信箱。",
@@ -2819,6 +2939,14 @@
         "Der Verstärkungszustand der Ausrüstung wurde festgelegt. Kehre aus dem Dungeon zurück.",
         "Se han aplicado mejoras de equipo. Retirándose de la mazmorra."
     ],
+    "EQUIP_GROW_CONFIRM_POPUP_BODY_DECIDE_RETURN_COLLAB": [
+        "Equipment enhancements and coins have been set. Retiring from the dungeon.",
+        "裝備強化狀態及硬幣已確認完成。從迷宮中回歸。",
+        "장비 강화 상태와 코인이 확정되었습니다. 던전에서 귀환합니다.",
+        "Les améliorations de l'équipement et les jetons ont été sauvegardés. Retour au menu.",
+        "Ausrüstungsverbesserungen und Münzen wurden erfasst. Kehre aus dem Dungeon zurück.",
+        "Se han registrado las mejoras de equipo y las monedas. Saliendo de la mazmorra."
+    ],
     "EQUIP_GROW_CONFIRM_POPUP_BODY_EQUIP_SELECT": [
         "Enhance this piece of equipment?<br>Even if you fail to complete the dungeon, any abilities you obtained previously <color=255:255:0>will not be reset</color>. If already enhanced equipment is selected, <color=255:255:0>you will be able to choose</color> whether to leave the dungeon with the <color=0:128:0>newest abilities</color> you've obtained, or keep your <color=0:128:0>previous ability set</color> upon clearing the dungeon.",
         "要強化此裝備品嗎？<br>就算失敗，之前獲得的狀態 <color=255:255:0>也不會被重置</color>。<br>如果選擇已經強化過的裝備品，在完成或返回時，<color=255:255:0>可以選擇</color><color=0:128:0>新獲得<br>狀態</color>或是<color=0:128:0>回到之前的狀態</color>。",
@@ -2851,6 +2979,14 @@
         "Derzeitige Verbesserungen werden festgelegt, sobald du aus dem Dungeon zurückkehrst. Wenn für dieses Mal bereits verbesserte Ausrüstung ausgewählt wurde, <color=255:255:0>kannst du dir aussuchen</color>, ob du den Dungeon mit den <color=0:128:0>neusten, von dir erworbenen Fertigkeiten</color> verlässt, oder ob du nach dem Beenden des Dungeons dein <color=0:128:0>vorheriges Fertigkeitenset behältst</color>. Aus dem Dungeon zurückkehren?",
         "Las mejoras actuales estarán disponibles cuando te retires de la mazmorra. Si has seleccionado equipo ya mejorado para esta ocasión, podrás elegir si quieres <color=255:255:0>abandonar la mazmorra con las nuevas habilidades adquiridas</color> o <color=255:255:0>quedarte con las habilidades predefinidas</color>. ¿Quieres retirarte?"
     ],
+    "EQUIP_GROW_CONFIRM_POPUP_BODY_RETURN_COLLAB": [
+        "Current enhancements will be set once you retire from the dungeon. If already enhanced equipment is being enhanced again, you will be able to choose whether to <color=255:255:0>keep the current enhancements</color>, or <color=255:255:0>revert to the previous enhancements</color>. Do you wish to retire?",
+        "若選擇回歸即視同確定當前狀態的能力與硬幣。強化完畢之裝備再次進行強化時，可選擇<color=255:255:0></color>當前強化狀態或<color=255:255:0>返回再強化前的狀態。</color>是否從迷宮中回歸？",
+        "귀환하면 현재 강화 상태로 확정됩니다. 강화 완료 장비를 다시 강화할 경우, <color=255:255:0>현재 강화 상태로 확정하기</color>나 <color=255:255:0>재강화 전 상태로 되돌릴 수 있습니다.</color> 던전에서 귀환하시겠습니까?",
+        "Si vous quittez le donjon, vos améliorations et jetons actuels seront sauvegardés. Si vous améliorez un équipement que vous avez préalablement amélioré, vous pourrez choisir de <color=255:255:0>le conserver tel quel</color> ou de <color=255:255:0>de revenir à ses précédentes améliorations</color>. Quitter le donjon ?",
+        "Bei Rückkehr aus dem Dungeon werden die derzeitigen Verbesserungen und Münzen erfasst. Falls die Ausrüstung bereits zuvor verbessert worden ist, kannst du wählen, ob du <color=255:255:0>die derzeitigen Verbesserungen behalten</color> oder <color=255:255:0>die vorherigen Verbesserungen beibehalten </color> willst. Aus dem Dungeon zurückkehren?",
+        "Las mejoras actuales se registrarán cuando salgas de la mazmorra. Si mejoras equipo que ya has mejorado, podrás elegir si prefieres <color=255:255:0>conservar las mejoras actuales</color> o <color=255:255:0>dejar las mejoras antiguas</color>. ¿Quieres salir de la mazmorra?"
+    ],
     "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY": [
         "Equipment enhancements have been set. Retiring from the dungeon.",
         "裝備品的強化狀態已經固定。即將從迷宮中返回。",
@@ -2858,6 +2994,14 @@
         "Les améliorations de l'équipement ont été définies. Vous allez sortir du donjon.",
         "Ausrüstungsverbesserungen wurden festgelegt. Rückzug aus dem Dungeon.",
         "Se han aplicado mejoras de equipo. Retirándose de la mazmorra."
+    ],
+    "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY_COLLAB": [
+        "Equipment enhancements and coins have been set. Retiring from the dungeon.",
+        "裝備強化狀態及硬幣已確認完成。從迷宮中回歸。",
+        "장비 강화 상태와 코인이 확정되었습니다. 던전에서 귀환합니다.",
+        "Les améliorations de l'équipement et les jetons ont été sauvegardés. Retour au menu.",
+        "Ausrüstungsverbesserungen und Münzen wurden erfasst. Kehre aus dem Dungeon zurück.",
+        "Se han registrado las mejoras de equipo y las monedas. Saliendo de la mazmorra."
     ],
     "EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_TITLE": [
         "Area Cleared!",
@@ -2978,6 +3122,22 @@
         "Aucune aptitude supplémentaire.",
         "Keine weiteren Fertigkeiten.",
         "No hay habilidades adicionales."
+    ],
+    "EQUIP_GROW_NO_BONUS_EQUIP": [
+        "Ability acquision bonus does not apply to the equipment chosen for enhancement.",
+        "強化裝備非能力獲得加乘之對象，因此無法提高獲得機率。",
+        "강화 장비가 어빌리티 보너스 적용 대상이 아니므로 획득 확률은 상승하지 않습니다.",
+        "L'équipement sélectionné n'est pas compatible avec le bonus d'acquisition d'aptitude.",
+        "Der Bonus für den Fertigkeitserwerb gilt nicht für die Ausrüstung, die du zum Verbessern gewählt hast.",
+        "La bonificación de adquisición de habilidad no se aplica al equipo elegido para mejorar."
+    ],
+    "EQUIP_GROW_NO_BONUS_UNIT": [
+        "Unit with ability acquisition bonus is not included in party.",
+        "隊伍未包含角色獎勵之兵員，因此無法提高獲得機率。",
+        "보너스 대상 유닛이 편성되어 있지 않으므로, 획득 확률은 상승하지 않습니다.",
+        "Aucune de vos unités n'est compatible avec le bonus d'acquisition d'aptitude.",
+        "Einheit mit Bonus für den Fertigkeitserwerb befindet sich nicht in der Gruppe.",
+        "No hay ninguna unidad con bonificación de adquisición de habilidad en el grupo."
     ],
     "EQUIP_GROW_PARTY_DEAD_CONFIRM_BODY": [
         "You cannot depart to this floor without a companion selected as your <color=255:255:0>entire party has been KO'd</color>. Please retire or select a companion.<br>Returning to the floor select screen.",
@@ -3315,6 +3475,14 @@
         "Angriff",
         "Ataque"
     ],
+    "EQUIP_SORT_TYPE_AWAKE": [
+        "Enhance Lvl",
+        "強化階段",
+        "강화 단계",
+        "Niv. d'amélioration",
+        "St. erhöhen",
+        "Nv. mejora"
+    ],
     "EQUIP_SORT_TYPE_DEF": [
         "DEF",
         "防禦",
@@ -3579,6 +3747,22 @@
         "Nicht genug Raubzugorbs.",
         "Orbes de banda insuficientes"
     ],
+    "ERROR_SHORTAGE_RAID_ORB_RECOVERY_MESSAGE": [
+        "Use lapis or items to restore raid orbs?",
+        "請問要使用寶石或道具<br>來恢復共鬥寶珠嗎？",
+        "라피스 또는 아이템을 사용하여<br>레이드 구슬을 회복하시겠습니까?",
+        "Utiliser des lapis ou des objet pour restaurer les orbes de raid ?",
+        "Lapis oder Gegenstände nutzen, um Raubzugjuwelen wiederherzustellen?",
+        "¿Quieres usar lapis u objetos para restaurar orbes de banda?"
+    ],
+    "ERROR_SHORTAGE_RAID_ORB_RECOVERY_TITLE": [
+        "Restore Raid Orbs",
+        "恢復共鬥寶珠",
+        "레이드 구슬 회복",
+        "Restaurer les orbes de raid",
+        "Raubzugjuwelen wiederherstellen",
+        "Restaurar orbes de banda"
+    ],
     "ERROR_SHORTAGE_RECOVERY_MESSAGE": [
         "Use lapis or an item<br>to recover energy?",
         "是否使用寶石或道具恢復體力？",
@@ -3610,6 +3794,22 @@
         "Vous ne pouvez pas recruter d'unités supplémentaires.<br><br>Veuillez augmenter le nombre maximum d'unités disponibles, ou bien vendre ou fusionner les unités en trop.",
         "Du kannst keine weiteren Einheiten rekrutieren.<br><br>Erhöhe die Kapazität oder fusioniere oder verkaufe Einheiten.",
         "No puedes reclutar más unidades.<br><br>Aumenta tu capacidad o fusiona o vende unidades que no necesites."
+    ],
+    "EVENT_BANNER_DAYS": [
+        "<color=255:255:0>0 day(s)</color> 00:00:00",
+        "<color=255:255:0>0天</color> 00:00:00",
+        "<color=255:255:0>0일</color> 00:00:00",
+        "<color=255:255:0>0 jour(s)</color> 00:00:00",
+        "<color=255:255:0>0 Tag(e)</color> 00:00:00",
+        "<color=255:255:0>0 día(s)</color> 00:00:00"
+    ],
+    "EVENT_BANNER_DAYS2": [
+        "<color=255:255:0>%d day(s)</color> %02d:%02d:%02d",
+        "<color=255:255:0>%d天</color> %02d:%02d:%02d",
+        "<color=255:255:0>%d일</color> %02d:%02d:%02d",
+        "<color=255:255:0>%d jour(s)</color> %02d:%02d:%02d",
+        "<color=255:255:0>%d Tag(e)</color> %02d:%02d:%02d",
+        "<color=255:255:0>%d día(s)</color> %02d:%02d:%02d"
     ],
     "EVO_BUNDLE_DESC_1": [
         "Get this bundle now and awaken your units.<br>Items will be sent to your inbox, Kupo!",
@@ -5547,6 +5747,30 @@
         "Du hast keine Beschwörungskarten",
         "No tienes tickets de invocación"
     ],
+    "GACHA_NOTICE_END_GACHA": [
+        null,
+        "活動期間已結束。<br>返回召喚頁面。",
+        "이벤트 기간이 종료되었습니다.<br>소환 화면으로 돌아갑니다.",
+        null,
+        null,
+        null
+    ],
+    "GACHA_PAY_LB_CV": [
+        null,
+        "LBCV：",
+        "LB CV:",
+        null,
+        null,
+        null
+    ],
+    "GACHA_PAY_UNIT_NOTICE": [
+        null,
+        "※兵員以最高可能覺醒之稀有度表示。",
+        "※ 표시된 유닛의 레어도는 각성 가능한 최고 레어도입니다.",
+        null,
+        null,
+        null
+    ],
     "GACHA_POINT_SHORTAGE": [
         "Insufficient points.",
         "點數不足",
@@ -5627,6 +5851,30 @@
         null,
         null
     ],
+    "GACHA_SELECT_EXCHANGE_NO_REMAINING_NUM": [
+        null,
+        "由於已達交換上限，無法進行交換。",
+        "교환 한도를 초과하여 더 교환할 수 없습니다.",
+        null,
+        null,
+        null
+    ],
+    "GACHA_SELECT_EXCHANGE_REMAINING_NUM": [
+        null,
+        "<color=255:165:0>可交換數量</color> <color=2555:255:0>剩餘</color><param=num>/<param=max><color=2555:255:0>個</color>",
+        "<color=255:165:0>교환 가능 개수</color> <color=2555:255:0>앞으로 </color><param=num>/<param=max><color=2555:255:0>개</color>",
+        null,
+        null,
+        null
+    ],
+    "GACHA_SELECT_EXCHANGE_REMAINING_NUM_TOP": [
+        null,
+        "剩餘<param=num>/<param=max>個",
+        "앞으로 <param=num>/<param=max>개",
+        null,
+        null,
+        null
+    ],
     "GACHA_SELECT_PRISM_CONFIRM": [
         "Use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=item_name></color>?",
         "要使用<param=cost> <param=ticket_name>獲得<br><color=255:255:0><param=item_name></color>嗎？",
@@ -5700,12 +5948,12 @@
         "Se necesitan <param=cost> tíckets seleccionadores de 5★ para intercambiar la unidad <color=255:255:0><param=unit_name></color>."
     ],
     "GACHA_STEP_UP_LIMIT_OVER": [
-        "Step up limit reached. Unable to summon anymore",
-        "已達STEP UP召喚上限。無法繼續進行召喚。",
+        "Summon limit has been reached. No more summons can be performed.",
+        "已達召喚次數上限。無法繼續進行召喚。",
         "스텝 업 소환 가능 횟수를 초과하였으므로, 소환하실 수 없습니다.",
-        "Palier max. atteint. Impossible d'invoquer davantage",
-        "Stufenlimit erreicht. Keine weiteren Beschwörungen möglich.",
-        "Límite de pasos alcanzado. No puedes invocar más."
+        "La limite d'invocations a été atteinte. Impossible d'invoquer davantage.",
+        "Beschwörungslimit erreicht. Keine weiteren Beschwörungen möglich.",
+        "Se ha alcanzado el límite de invocaciones. No puedes invocar más."
     ],
     "GACHA_TICKET_COUNT": [
         null,
@@ -6486,7 +6734,7 @@
     "INSTALL_ERROR_TITLE_BACK": [
         "An error occurred during download. Returning to title.<br><br>*Tap the <color=255:255:0>Restore</color> button then <color=255:255:0>Re-download Data</color> if the problem doesn't resolve itself.",
         "於下載資料中出現錯誤，即將返回標題畫面。<br> <br>※如果錯誤無法解決時，請由標題畫面右下方的<color=255:255:0>「修復」</color><color=255:255:0>「重新下載資料」</color>重試。",
-        "데이터를 다운로드하는 도중 오류가 발생하여 타이틀 화면으로 돌아갑니다.<br><br>※오류가 해결되지 않은 경우, 초기 화면 우측 하단의 <color=255:255:0>'복구'</color> 버튼을 터치하여<color=255:255:0> '데이터 재다운로드'</color>를 시도해 주세요.",
+        "데이터를 다운로드하는 도중 오류가 발생하여 타이틀 화면으로 돌아갑니다.<br><br>※오류가 해결되지 않은 경우, 초기 화면 우측 하단의 <color=255:255:0>'복구'</color> 버튼을 터치하여 <color=255:255:0>'데이터 재다운로드'</color>를 시도해 주세요.",
         "Une erreur s'est produite durant le téléchargement. Retour à l'écran-titre.<br><br>*Touchez le bouton <color=255:255:0>Restaurer</color> puis <color=255:255:0>Re-télécharger les données</color> si le problème ne se résout pas de lui-même.",
         "Beim Herunterladen ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br><br>*Tippe auf <color=255:255:0>Wiederherstellen</color> und dann auf <color=255:255:0>Daten erneut herunterladen</color>, wenn sich das Problem nicht von selbst löst.",
         "Ha ocurrido un error al descargar datos. Volviendo a la pantalla de título.<br><br>*Toca en el botón de <color=255:255:0>Restaurar</color> y después en <color=255:255:0>Descargar Data</color> si el problema no se soluciona."
@@ -8027,6 +8275,14 @@
         "Limitrausch-Anzeige",
         "Visualización de Estallído Límite"
     ],
+    "MENUSETTING_BATTLE_MONSTER_EFFECT": [
+        "Monster Appearance Effects",
+        "魔物登場演出",
+        "마물 출현 연출",
+        "Effets d'apparition des monstres",
+        "Effekte beim Erscheinen von Monstern",
+        "Efectos de apariencia de monstruos"
+    ],
     "MENUSETTING_BATTLE_REINFORCEMENT_NAME": [
         "Companion Name",
         "顯示隊伍同行者的名稱",
@@ -8563,6 +8819,14 @@
         "So wird gespielt",
         "Cómo jugar"
     ],
+    "MENUTOP_SYSTEM_MAILMAGAZINE": [
+        "Register email",
+        "信箱註冊",
+        "이메일 등록",
+        "Enregistrer une adresse e-mail",
+        "E-Mail-Registrierung",
+        "Registrar correo electrónico"
+    ],
     "MENUTOP_SYSTEM_RECOMMEND": [
         "Recommended Apps",
         "推薦應用程式",
@@ -9018,6 +9282,30 @@
         "Si vous abandonnez maintenant, vous perdrez tous les <color=255:0:0> matériaux, unités et gils </color> obtenus jusqu'ici. Continuer ?",
         "Wenn du jetzt aufgibst, verlierst du alle deine <color=255:0:0> Einheiten, Materialien und Gil, </color> die du in dieser Sitzung erhalten hast. Fortfahren?",
         "Si abandonas, perderás los <color=255:0:0>materiales, unidades y guiles</color> obtenidos en esta misión. ¿Continuar?"
+    ],
+    "MISSION_NEED_EP_IS_NOT_ENOUGH": [
+        "Insufficient event points",
+        "獲得之活動點數不足。",
+        "획득 이벤트 포인트가 부족합니다.",
+        "Points d'événement insuffisants",
+        "Ereignispunkte reichen nicht aus.",
+        "Puntos de evento insuficientes"
+    ],
+    "MISSION_NEED_EP_TEXT": [
+        "<param=total> Point(s)",
+        "<param=total> 活動點數",
+        "<param=total> 포인트",
+        "<param=total> point(s)",
+        "<param=total> Punkt(e)",
+        "<param=total> punto(s)"
+    ],
+    "MISSION_NEED_EP_TITLE": [
+        "[Event Points]",
+        "【目前活動點數】",
+        "[현재 이벤트 포인트]",
+        "[Points d'événement]",
+        "[Ereignispunkte]",
+        "[Puntos de evento]"
     ],
     "MISSION_NO_COST_LV": [
         "(To lvl <param=lv>)",
@@ -14683,6 +14971,46 @@
         "<param=ruser_name> fügte <param=rmonster_name> <color=255:0:0><param=rdamage></color> Schaden zu!",
         "¡<param=ruser_name> infligió <color=255:0:0><param=rdamage></color> de daño a <param=rmonster_name>!"
     ],
+    "RAID_POINT_TITLE": [
+        "Individual Points",
+        "個人達成pt",
+        "개인 달성 포인트",
+        "Points individuels",
+        "Individuelle Punkte",
+        "Puntos individuales"
+    ],
+    "RAID_POINT_VALUE": [
+        "pts",
+        "pt",
+        "포인트",
+        "pts",
+        "Pkt.",
+        "ptos"
+    ],
+    "RAID_RANKING_TITLE": [
+        "Ranking",
+        "RANK",
+        "랭킹",
+        "Classement",
+        "Rang",
+        "Clasificación"
+    ],
+    "RAID_RANKING_VALUE": [
+        null,
+        "名",
+        "위",
+        null,
+        null,
+        null
+    ],
+    "RAID_TOTAL_CLEAR_CNT": [
+        "Total # Defeated: <param=total_clear_cnt>",
+        "總討伐數：<param=total_clear_cnt>",
+        "총 토벌 수: <param=total_clear_cnt>",
+        "Ennemis terrassés : <param=total_clear_cnt>",
+        "Anzahl besiegter Gegner: <param=total_clear_cnt>",
+        "N.º derrotados: <param=total_clear_cnt>"
+    ],
     "RAID_UNTIL_LEVEL_DOWN": [
         "Until level down:",
         "距離降級",
@@ -15604,12 +15932,12 @@
         "No hay misiones disponibles en el mapa del mundo en estos momentos.<br>Se pueden desbloquear al avanzar en la historia."
     ],
     "SEASON_EVENT_REWARD_MAIL_MSG": [
-        "We would like to present you with the following reward for having reached the targeted points during raid event.",
-        "共鬥活動期間達成目標點數，以下為獎勵報酬。",
-        "레이드 이벤트에서 획득한 포인트에 대한 보상을 지급합니다.",
-        "Nous vous accordons les récompenses suivantes pour avoir remporté un certain nombre de points durant l'événement de raid.",
-        "Wir würden dir gerne das folgende geben, weil du die erforderliche Punktzahl während des Raubzug-Ereignisses erreicht hast.",
-        "Te enviamos los siguientes objetos como recompensa por conseguir una meta en el evento de banda."
+        "We would like to present you with the following reward for having reached the targeted points during the event.",
+        "在活動期間達成目標點數，以下為獎勵報酬。",
+        "이벤트에서 획득한 포인트에 대한 보상을 지급합니다.",
+        "Nous vous accordons les récompenses suivantes pour avoir remporté un certain nombre de points au cours de l'événement.",
+        "Wir würden dir gerne das Folgende geben, weil du die erforderliche Punktzahl während des Ereignisses erreicht hast.",
+        "Te enviamos los siguientes objetos como recompensa por conseguir una meta en el evento."
     ],
     "SEASON_EVENT_REWARD_MAIL_TITLE": [
         "Individual Rewards",
@@ -17555,6 +17883,14 @@
         "Einheitenkapazität kann nicht weiter erhöht werden.",
         "No puedes aumentar más la capacidad de unidades."
     ],
+    "SHOP_ERROR_RAID_ORB_RECOVERY": [
+        "Raid orbs are fully restored.",
+        "共鬥寶珠已全滿。",
+        "레이드 구슬이 가득 찼습니다.",
+        "Votre réserve d'orbe de raid est pleine.",
+        "Raubzugjuwelen sind bereits voll.",
+        "Orbes de banda restaurados por completo."
+    ],
     "SHOP_ERROR_STAMINA_RECOVERY": [
         "You are at full energy.",
         "體力已滿。",
@@ -17739,6 +18075,22 @@
         "P",
         "P"
     ],
+    "SHOP_RAID_ORB_RECOVERY_ITEM": [
+        "You can use <color=255:255:0><param=num></color> raid orb restoration item(s) to restore <color=255:255:0><param=recover></color> raid orb(s).",
+        "使用<color=255:255:0><param=num>個</color>共鬥寶珠恢復道具，能夠恢復<color=255:255:0><param=recover></color>共鬥寶珠。<br>是否進行恢復？",
+        "레이드 구슬 회복 아이템을 <color=255:255:0><param=num>개</color> 사용하여 레이드 구슬을 <color=255:255:0><param=recover>회복</color>하실 수 있습니다.<br>회복하시겠습니까?",
+        "Vous pouvez utiliser <color=255:255:0><param=num></color>les objet(s) de restauration d'orbes de raid pour restaurer <color=255:255:0><param=recover></color>les orbe(s) de raid.",
+        "Du kannst <color=255:255:0><param=num></color> Raubzugjuwelen-Wiederherstellungsgegenstände nutzen, um <color=255:255:0><param=recover></color>Raubzugjuwelen wiederherzustellen.",
+        "Puedes usar <color=255:255:0><param=num></color> objeto(s) para restauar <color=255:255:0><param=recover></color> orbe(s) de banda."
+    ],
+    "SHOP_RAID_ORB_RECOVERY_SUBHEADER": [
+        "Restore Raid Orbs",
+        "恢復共鬥寶珠",
+        "레이드 구슬 회복",
+        "Restaurer les orbes de raid",
+        "Raubzugjuwel wiederherstellen",
+        "Restaurar orbes de banda"
+    ],
     "SHOP_RECOVERY_ITEM_ERROR": [
         "Your max energy is insufficient.<br>You will not have enough consumable energy<br>even after using an item.",
         "最大體力值不足。<br>即使使用道具，<br>也無法達到所需消耗體力值。",
@@ -17922,6 +18274,22 @@
         "Les matériaux suivants vont être utilisés pour éveiller l'unité. Continuer ?",
         "Die folgenden Materialien werden verwendet, um die Einheit zu erwecken. Weitermachen?",
         "Estos materiales se usarán para despertar a la unidad. ¿Continuar?"
+    ],
+    "SP_CLASSUP_CONFIRM_ALL_PRISM": [
+        "*<param=item_name> is a prism that can be used on any unit awakenable to 7★.",
+        "※<param=item_name>為可用於所有可覺醒至★7之兵員的輝源。",
+        "※<param=item_name>은(는) 모든 ★7 각성 가능 유닛에게 사용할 수 있는 휘석입니다.",
+        "* <param=item_name> est un prisme utilisable pour toutes les unités pouvant être éveillées à 7★.",
+        "*Bei <param=item_name> handelt es sich um ein Prisma, das für jede Einheit verwendet werden kann, die auf 7★ erweckbar ist.",
+        "*<param=item_name> es un prisma que se puede usar en cualquier unidad que se pueda despertar a 7★."
+    ],
+    "SP_CLASSUP_CONFIRM_FINAL": [
+        "<color=255:255:0><param=item_name></color> will be consumed once used as an awakening material.<br><br>Are you sure you want to proceed with awakening? (Final confirmation)",
+        "將消耗作為覺醒素材的<color=255:255:0><param=item_name></color>。<br><br>是否確認進行覺醒？（最終確認）",
+        "각성 재료로 사용한 <color=255:255:0><param=item_name></color>은(는) 소멸됩니다.<br><br>각성하시겠습니까?(최종 확인)",
+        "Votre <color=255:255:0><param=item_name></color> sera perdu une fois utilisé comme matériau d'éveil.<br><br>Voulez-vous vraiment procéder à l'éveil ? (Dernière confirmation)",
+        "<color=255:255:0><param=item_name></color> wird verbraucht, sobald es als Erweckmaterial verwendet wurde.<br><br>Das Erwecken fortsetzen? (Letzter Hinweis)",
+        "<color=255:255:0><param=item_name></color> se eliminará una vez se use como material para despertar.<br><br>¿Seguro que quieres continuar? (Confirmación final)"
     ],
     "SP_CLASSUP_MATERIAL_SELECT": [
         "Tap a material to select it.",
@@ -19290,6 +19658,14 @@
         "Trophées actuels<br>Trophée visé",
         "„Aktuelle Trophäen<br>Trophäenziel“",
         "Trofeos actuales<br>Objetivo del trofeo"
+    ],
+    "TRUST_WILDCARD_ITEM_NAME": [
+        "ALL",
+        "ALL",
+        "ALL",
+        "TOUT",
+        "ALLE",
+        "TODOS"
     ],
     "TUTORIAL_DOWNLOAD_SIZE": [
         "Download size: <param=size>",
