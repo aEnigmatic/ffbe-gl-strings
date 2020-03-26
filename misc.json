@@ -624,12 +624,12 @@
         "No se ha podido iniciar sesión con ID de Apple."
     ],
     "APPLE_SIGN_IN_REQUIREMENT": [
-        "Apple Sign-In is currently unavailable. Coming soon to Final Fantasy Brave Exvius.",
-        "目前無法使用Apple進行登入。將在日後於《FINAL FANTASY BRAVE EXVIUS》推出。",
-        "현재 Apple 로그인을 이용할 수 없습니다. 곧 FINAL FANTASY BRAVE EXVIUS에서 이용할 수 있습니다.",
-        "La connexion avec Apple est indisponible pour le moment. Ce problème sera résolu très prochainement sur Final Fantasy Brave Exvius.",
-        "Die Apple-Anmeldung steht derzeit nicht zur Verfügung, wird aber bald in Final Fantasy Brave Exvius möglich sein.",
-        "El inicio de sesión con Apple no se encuentra disponible en este momento. Próximamente en Final Fantasy Brave Exvius."
+        "Apple ID login unsuccessful. Please confirm that your Apple ID has two-factor authentication (2FA) enabled, and that you are signed into iCloud on your iOS 13 (or higher) device.",
+        "Apple ID登入失敗。請確認您的Apple ID已開啟雙重認證（2FA），並且已於iOS 13以上版本的裝置中登入iCloud。",
+        "Apple ID 로그인에 실패했습니다. 해당 Apple ID의 이중 인증(2FA) 활성화 여부 및 iOS 13 이상 기기에서의 iCloud 로그인 여부를 확인해주십시오.",
+        "Impossible de se connecter avec votre identifiant Apple. Veuillez vous assurer que l'identification à deux facteurs (2FA) est activée pour cet identifiant, et que votre appareil est bien connecté à l'iCloud sous iOS 13 et plus.",
+        "Anmeldung mit Apple-ID fehlgeschlagen. Bitte stelle sicher, dass deine Apple-ID eine Zwei-Faktor-Authentisierung (2FA) ermöglicht, und dass du in iCloud auf deinem iOS 13-Gerät (oder höher) eingeloggt bist.",
+        "Fallo al iniciar sesión con ID de Apple. Confirma que tienes activada la autenticación de dos factores, y que has iniciado sesión en iCloud en tu dispositivo iOS 13 (o superior)."
     ],
     "APP_NEW_VERSION_DEFAULT_MSG": [
         "A new version of the app is available.",
@@ -688,12 +688,12 @@
         "Recuperarción de energía"
     ],
     "ARENA_ENERGY_RESTORE": [
-        "Use lapis or an item<br>to restore energy?",
-        "要使用寶石或道具<br>恢復體力嗎？",
-        "라피스 또는 아이템을 사용하여<br>체력을 회복하시겠습니까?",
-        "Voulez-vous utiliser des lapis ou un objet<br>pour restaurer votre endurance ?",
-        "Lapis oder einen Gegenstand benutzen,<br>um Energie wiederherzustellen?",
-        "¿Quieres usar lapis o un objeto<br>para recuperar energía?"
+        "Use lapis or an item<br>to restore orbs?",
+        "要使用寶石或道具<br>恢復寶珠嗎？",
+        "라피스 또는 아이템을 사용하여<br>구슬을 회복하시겠습니까?",
+        "Voulez-vous utiliser des lapis ou un objet<br>pour restaurer vos orbes ?",
+        "Lapis oder einen Gegenstand benutzen,<br>um Juwelen wiederherzustellen?",
+        "¿Quieres usar lapis o un objeto<br>para restaurar orbes?"
     ],
     "ARENA_ENERGY_RESTORE_E": [
         "Use <param=num> energy recovery item(s) to restore <param=recover> orb(s)?",
@@ -3764,7 +3764,7 @@
         "Restaurar orbes de banda"
     ],
     "ERROR_SHORTAGE_RECOVERY_MESSAGE": [
-        "Use lapis or an item<br>to recover energy?",
+        "Use lapis or an item<br>to restore energy?",
         "是否使用寶石或道具恢復體力？",
         "라피스 또는 아이템을 사용하여<br>체력을 회복하시겠습니까?",
         "Utilisez des lapis ou un objet<br>pour récupérer de l'endurance ?",
@@ -11411,6 +11411,14 @@
         "Wohlstok",
         "Wohlstok"
     ],
+    "MST_LAND_NAME_42": [
+        "Kingdom of Illumia",
+        "伊魯米亞王國",
+        "일루미아 왕국",
+        "Royaume d'Illumia",
+        "Königreich Illumia",
+        "Reino de Illumia"
+    ],
     "MST_LIMITBURST_PARAM_MSG_100005304": [
         "The enemy is slouching...",
         "心花怒放...",
@@ -11450,6 +11458,14 @@
         "Une erreur s'est produite lors du chargement des données. Retournez à l'écran-titre ?<br>*Les données n'ayant pas pu être chargées seront re-téléchargées lors du redémarrage.",
         "Beim Laden der Daten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Daten, die nicht geladen werden konnten, werden bei Neustart erneut heruntergeladen.",
         "Ha ocurrido un error al cargar datos. Volviendo a la pantalla de título.<br>Los datos no cargados se volverán a descargar tras reiniciar."
+    ],
+    "MST_PLAYBACK_SEASON_30": [
+        "Season 3",
+        null,
+        "시즌3",
+        "Saison 3",
+        "Season 3",
+        "3.ª temporada"
     ],
     "MST_RB_ABILITY_GROUP_DES_1": [
         "Normal forbidden",
@@ -12715,6 +12731,14 @@
         "Werte-Aufträge",
         "Misiones de parámetros"
     ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_807700": [
+        "FMA BROTHERHOOD Mission Quests",
+        "鋼鍊 BROTHERHOOD 任務挑戰",
+        "강철의 연금술사 BROTHERHOOD 미션 퀘스트",
+        "Quêtes de mission FMA BROTHERHOOD",
+        "FMA BROTHERHOOD-Missionsaufträge",
+        "Misiones de FMA BROTHERHOOD"
+    ],
     "MST_SPCHALLENGE_SCHEDULE_NAME_990021": [
         "40M DL Celebration Quests Pt. 1",
         "4000萬下載慶祝任務 第1階段",
@@ -12762,6 +12786,14 @@
         "Retour de l'avènement",
         "Rückkehr der Gefallenen",
         "Regreso a la Cámara de los Caídos"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990141": [
+        "World Revisit Quest Part 3",
+        "重返世界任務 Part 3",
+        "월드 재방문 퀘스트 3부",
+        "Quêtes retour - Partie 3",
+        "Vergangene Aufträge, Teil 3",
+        "Misiones pasadas, Parte 3"
     ],
     "MST_STORY_NAME_1": [
         "Grandshelt Isles",
@@ -15034,6 +15066,14 @@
         "N° %s",
         "Nr. %s",
         "Puesto %sº"
+    ],
+    "RANKING_RANK_RAID": [
+        "No. <param=rank>",
+        "<param=rank>名",
+        "<param=rank>위",
+        "N° <param=rank>",
+        "Nr. <param=rank>",
+        "Puesto <param=rank>º"
     ],
     "RARITY": [
         "Rarity",
