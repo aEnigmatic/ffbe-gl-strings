@@ -508,7 +508,7 @@
         "吸收1名敵人的MP",
         "적 1명의 MP 흡수",
         "Aspire les PM d'un ennemi",
-        "Stiehlt MP, ein Ziel",
+        "Stiehlt MP, ein Ziel.",
         "Absorbe PM de un enemigo"
     ],
     "20200": [
@@ -934,6 +934,14 @@
         "Chance de pétrifier tous les ennemis",
         "Chance, alle Gegner zu versteinern.",
         "Probabilidad de petrificar a todos los enemigos"
+    ],
+    "20800": [
+        "Deal partial unmitigated dark magic damage to all enemies and allies",
+        "對全體敵人和隊員發動暗屬性無視部分魔法防禦的攻擊",
+        "적과 아군 전체에 어둠속성 일부 마법 방어 무시 피해",
+        "Inflige des dégâts magiques de ténèbres en partie fixes à tous les ennemis et alliés",
+        "Fügt allen Gegnern und Verbündeten teilweise direkten magischen Dunkelschaden zu.",
+        "Daño mágico de oscuridad que ignora parcialmente el ESP de todos los enemigos y aliados"
     ],
     "30010": [
         "Chance of putting one enemy to sleep",
@@ -1430,6 +1438,86 @@
         "Inflige des dégâts de lumière et inflige graduellement des dégâts de lumière à un ennemi",
         "Fügt einem Gegner Lichtschaden zu und fügt ihm allmählich Lichtschaden zu.",
         "Daño de luz a un enemigo y después le inflige daño de luz poco a poco"
+    ],
+    "40030": [
+        "Boost DEF and SPR, reduce physical and magic damage taken for three turns, and activate barrier for all allies",
+        "提高全體隊員的防禦精神+3回合內減少物理、魔法傷害+賦予屏障效果",
+        "아군 전체의 방어력과 정신력 상승+3턴 동안 물리, 마법 피해량 감소+배리어 부여",
+        "Augmente la DEF et la PSY, réduit les dégâts physiques et magiques reçus pendant 3 tours, et érige une barrière pour tous les alliés",
+        "Erhöht ABW und PSY, verringert drei Runden lang erlittenen physischen und magischen Schaden und aktiviert Barriere für alle Verbündeten.",
+        "Aumenta la DEF y el ESP de todos los aliados, reduce el daño físico y mágico que reciben durante 3 turnos, y les activa Barrera"
+    ],
+    "40040": [
+        "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies",
+        "治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態",
+        "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복",
+        "Guérit poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein aller Verbündeten.",
+        "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a todos los aliados"
+    ],
+    "40050": [
+        "Deal damage and gradual damage to one enemy",
+        "攻擊1名敵人+持續攻擊",
+        "적 1명에게 피해+서서히 피해",
+        "Inflige des dégâts à un ennemi, puis lui inflige des dégâts progressifs",
+        "Fügt einem Gegner Schaden zu und fügt ihm dann allmählich Schaden zu.",
+        "Daña a un enemigo y le inflige daño poco a poco"
+    ],
+    "40060": [
+        "Restore HP and gradually restore HP for all allies",
+        "恢復全體隊員的HP+持續恢復HP",
+        "아군 전체의 HP 회복+HP 서서히 회복",
+        "Restaure les PV et restaure progressivement les PV de tous les alliés",
+        "Regeneriert LP aller Verbündeten und regeneriert allmählich ihre LP.",
+        "Recupera VIT de todos los aliados y luego la recupera poco a poco"
+    ],
+    "40070": [
+        "Damage all enemies for 1/4 HP",
+        "對全體敵人造成現有HP1/4的傷害",
+        "적 전체에 현재 HP의 1/4 피해",
+        "Inflige des dégâts équivalents à 1/4 des PV actuels de tous les ennemis",
+        "Fügt allen Gegnern Schaden in Höhe von 1/4 der gegenwärtigen LP zu.",
+        "Reduce 1/4 la VIT de todos los enemigos"
+    ],
+    "40080": [
+        "Automatically revive an ally one time",
+        "賦予1名隊員自動復活1次的效果",
+        "아군 1명에게 전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Ranime un allié automatiquement une fois",
+        "Belebt einen Verbündeten einmal automatisch wieder.",
+        "Revive automáticamente a un aliado una vez"
+    ],
+    "40090": [
+        "Deal partial unmitigated magic damage to one enemy, and boost damage of certain abilities",
+        "對1名敵人發動無視部分魔法防禦的攻擊+提高特定能力的傷害",
+        "적 1명에게 일부 마법 방어 무시 피해+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts en partie fixes à un ennemi, et augmente les dégâts de certaines aptitudes",
+        "Fügt einem Gegner teilweise direkten magischen Schaden zu und erhöht Schaden einiger Fertigkeiten.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo y aumenta el daño de determinadas habilidades"
+    ],
+    "40100": [
+        "Deal partial unmitigated wind magic damage two times and reduce wind resistance for all enemies",
+        "對全體敵人發動2次風屬性無視部分魔法防禦的攻擊+降低風屬性耐性",
+        "적 전체에 2회 바람속성 일부 마법 방어 무시 피해+바람속성 저항력 감소",
+        "Inflige des dégâts magiques de vent en partie fixes à 2 reprises à tous les ennemis et réduit leur résistance au vent",
+        "Fügt allen Gegnern zweimal teilweise direkten magischen Windschaden zu und verringert ihre Windresistenz.",
+        "Daño mágico de viento que ignora parcialmente el ESP de todos los enemigos 2 veces y reduce su resistencia al viento"
+    ],
+    "40110": [
+        "Deal partial unmitigated earth magic damage two times and reduce earth resistance for all enemies",
+        "對全體敵人發動2次土屬性無視部分魔法防禦的攻擊+降低土屬性耐性",
+        "적 전체에 2회 땅속성 일부 마법 방어 무시 피해+땅속성 저항력 감소",
+        "Inflige des dégâts magiques de terre en partie fixes à 2 reprises à tous les ennemis et réduit leur résistance à la terre",
+        "Fügt allen Gegnern zweimal teilweise direkten magischen Erdschaden zu und verringert ihre Erdresistenz.",
+        "Daño mágico de tierra que ignora parcialmente el ESP de todos los enemigos 2 veces y reduce su resistencia a la tierra"
+    ],
+    "40120": [
+        "Chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone on all enemies",
+        "一定機率對全體敵人施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "적 전체에 일정 확률로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
+        "Confère une chance d'infliger poison, cécité, sommeil, silence, paralysie, confusion, maladie ou pétrification à tous les ennemis",
+        "Chance, allen Gegnern Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu erteilen.",
+        "Probabilidad de infligir veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad o piedra a todos los enemigos"
     ],
     "40130": [
         "Deal fire damage to all enemies",
