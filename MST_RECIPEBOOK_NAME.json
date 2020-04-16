@@ -628,7 +628,7 @@
         "斬首斧",
         "죽음의 도끼",
         "Hache vorpal",
-        null,
+        "Vorpale Axt",
         "Hacha mortífera"
     ],
     "903000420": [
@@ -1204,7 +1204,7 @@
         "麥克風",
         "마이크",
         "Microphone",
-        null,
+        "Mikrofon",
         "Micrófono"
     ],
     "903001300": [
@@ -2316,7 +2316,7 @@
         "聖人服改",
         "개량형 산타복",
         "Robe du Pôle Nord +",
-        null,
+        "Festtagsrobe +",
         "Túnica de festival +"
     ],
     "904001720": [
@@ -2324,7 +2324,7 @@
         "聖人帽改",
         "개량형 산타 모자",
         "Chapeau du Pôle Nord +",
-        null,
+        "Festtagsmütze +",
         "Sombrero de festival +"
     ],
     "904001730": [
@@ -2372,7 +2372,7 @@
         "晚宴手套",
         "이브닝 글로브",
         "Gant de nuit",
-        null,
+        "Abendhandschuhe",
         "Guantes de noche"
     ],
     "904001810": [
@@ -2380,7 +2380,7 @@
         "兔子面具",
         "토끼 가면",
         "Masque de lapin",
-        null,
+        "Häschenmaske",
         "Máscara de conejita"
     ],
     "904001820": [
@@ -2388,7 +2388,7 @@
         "時尚黑禮裙",
         "세련된 블랙 드레스",
         "Robe noire magnifique",
-        null,
+        "Stillvolles schwarzes Kleid",
         "Traje negro fabuloso"
     ],
     "904001830": [
@@ -2540,7 +2540,7 @@
         "冰項鏈",
         "얼어붙은 맥",
         "Veine de glace",
-        null,
+        "Eisvenen",
         "Capilares helados"
     ],
     "904002020": [
@@ -2548,7 +2548,7 @@
         "黑頭巾",
         "검은 반다나",
         "Bandana obscur",
-        null,
+        "Schwarzes Kopftuch",
         "Bandana negra"
     ],
     "904002030": [
@@ -2556,7 +2556,7 @@
         "正義之冠",
         "정의의 왕관",
         "Couronne de la justice",
-        null,
+        "Krone der Gerechtigkeit",
         "Corona de la justicia"
     ],
     "904002040": [
@@ -2644,7 +2644,7 @@
         "聖人服",
         "산타복",
         "Robe du Pôle Nord",
-        null,
+        "Festtagsrobe",
         "Túnica de festival"
     ],
     "904002150": [
@@ -2652,7 +2652,7 @@
         "聖人帽",
         "산타 모자",
         "Chapeau du Pôle Nord",
-        null,
+        "Festtagsmütze",
         "Sombrero de festival"
     ],
     "904002180": [
@@ -2780,7 +2780,7 @@
         "歐西里斯手杖",
         "오시리스의 지팡이",
         "Bâton d'Osiris",
-        null,
+        "Stab des Osiris",
         "Bastón de Osiris"
     ],
     "904002380": [
@@ -2788,7 +2788,7 @@
         "猛毒散彈槍",
         "포이즌 샷건",
         "Fusil toxique",
-        null,
+        "Giftfaustbüchse",
         "Escopeta tóxica"
     ],
     "904002390": [
@@ -2796,7 +2796,7 @@
         "火焰噴射器",
         "화염 방사기",
         "Lance-flammes",
-        null,
+        "Flammenwerfer",
         "Lanzallamas"
     ],
     "904002400": [
@@ -2804,7 +2804,7 @@
         "賽特金戒",
         "세트의 반지",
         "Bague en or de Seth",
-        null,
+        "Goldring des Seth",
         "Anillo de oro de Seth"
     ],
     "904002410": [
@@ -3479,6 +3479,46 @@
         "Kobra-Hut",
         "Sombrero Cobra"
     ],
+    "904003460": [
+        "Inferno Saber+",
+        "真．煉獄劍",
+        "진·인페르노 세이버",
+        "Sabre infernal +",
+        "Infernosäbel+",
+        "Sable del infierno+"
+    ],
+    "904003470": [
+        "Inferno Saber++",
+        "絕．煉獄劍",
+        "절·인페르노 세이버",
+        "Sabre infernal ++",
+        "Infernosäbel++",
+        "Sable del infierno++"
+    ],
+    "904003480": [
+        "Dragon Wing Bow+",
+        "真．龍翼之弓",
+        "진·용익의 활",
+        "Arc de l'aile du dragon +",
+        "Drachenschwingenbogen+",
+        "Arco de ala de dragón+"
+    ],
+    "904003490": [
+        "Diabolos's Rod+",
+        "真．迪亞波羅斯之杖",
+        "진·디아볼로스의 홀장",
+        "Sceptre de Diabolos +",
+        "Diabolosstab+",
+        "Vara de Diablo+"
+    ],
+    "904003500": [
+        "Fierce Goddess's Katana+",
+        "真．鬼神刀",
+        "진·귀신도",
+        "Katana de la déesse féroce +",
+        "Katana der Kriegsgöttin+",
+        "Katana de la diosa de la furia+"
+    ],
     "904003510": [
         "Demon Spear",
         "惡魔之矛",
@@ -4092,7 +4132,7 @@
         "HP+15%",
         "HP+15%",
         "PV +15%",
-        null,
+        "LP + 15 %",
         "VIT +15%"
     ],
     "905101510": [
@@ -4220,7 +4260,7 @@
         "中落石劍",
         "스톤라 검",
         "Lame Terre +",
-        null,
+        "Terrara-Klinge",
         "Hoja Piedra+"
     ],
     "905200680": [

@@ -5748,28 +5748,28 @@
         "No tienes tickets de invocación"
     ],
     "GACHA_NOTICE_END_GACHA": [
-        null,
+        "The summon period has ended.<br>Returning to the Summon screen.",
         "活動期間已結束。<br>返回召喚頁面。",
         "이벤트 기간이 종료되었습니다.<br>소환 화면으로 돌아갑니다.",
-        null,
-        null,
-        null
+        "La période d'invocation est terminée.<br>Retour à l'écran d'invocation.",
+        "Der Beschwörungszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
+        "El periodo de evento ha terminado.<br>Volviendo a la pantalla de invocaciones."
     ],
     "GACHA_PAY_LB_CV": [
-        null,
+        "Voice:",
         "LBCV：",
         "LB CV:",
-        null,
-        null,
-        null
+        "Voix :",
+        "Stimme:",
+        "Voz:"
     ],
     "GACHA_PAY_UNIT_NOTICE": [
-        null,
-        "※兵員以最高可能覺醒之稀有度表示。",
+        "*The unit is shown at highest awakenable rarity",
+        "※兵員顯示為最高可覺醒之稀有度。",
         "※ 표시된 유닛의 레어도는 각성 가능한 최고 레어도입니다.",
-        null,
-        null,
-        null
+        "* L'unité est montrée à sa rareté maximale",
+        "* Die Einheit wird in der höchsten erweckbaren Seltenheit dargestellt.",
+        "*Se muestra la unidad con el máximo de rareza despertable"
     ],
     "GACHA_POINT_SHORTAGE": [
         "Insufficient points.",
@@ -5852,28 +5852,28 @@
         null
     ],
     "GACHA_SELECT_EXCHANGE_NO_REMAINING_NUM": [
-        null,
+        "Max number of exchanges reached. No more can be exchanged.",
         "由於已達交換上限，無法進行交換。",
         "교환 한도를 초과하여 더 교환할 수 없습니다.",
-        null,
-        null,
-        null
+        "Le nombre maximum d'échanges a été atteint. Impossible d'échanger davantage.",
+        "Maximale Anzahl an Täuschen erreicht. Kein weiterer Tausch mehr möglich.",
+        "Se ha alcanzado el máximo de intercambios. No se puede intercambiar más."
     ],
     "GACHA_SELECT_EXCHANGE_REMAINING_NUM": [
-        null,
+        "<param=num> <color=2555:255:0>of</color> <param=max><color=255:165:0>exchanges</color> <color=2555:255:0>remaining</color>",
         "<color=255:165:0>可交換數量</color> <color=2555:255:0>剩餘</color><param=num>/<param=max><color=2555:255:0>個</color>",
         "<color=255:165:0>교환 가능 개수</color> <color=2555:255:0>앞으로 </color><param=num>/<param=max><color=2555:255:0>개</color>",
-        null,
-        null,
-        null
+        "<param=num><color=2555:255:0>/</color><param=max><color=255:165:0>échanges</color> <color=2555:255:0>restants</color>",
+        "Noch <param=num> <color=2555:255:0>von</color> <param=max><color=255:165:0>Täuschen</color> <color=2555:255:0>übrig</color>",
+        "<color=2555:255:0>Queda(n)</color> <param=num> <color=2555:255:0>de</color> <param=max> <color=255:165:0>intercambios</color>"
     ],
     "GACHA_SELECT_EXCHANGE_REMAINING_NUM_TOP": [
-        null,
+        "<param=num> of <param=max> remaining",
         "剩餘<param=num>/<param=max>個",
         "앞으로 <param=num>/<param=max>개",
-        null,
-        null,
-        null
+        "<param=num>/<param=max> restant(s)",
+        "Noch <param=num> von <param=max> übrig.",
+        "Queda(n) <param=num> de <param=max>"
     ],
     "GACHA_SELECT_PRISM_CONFIRM": [
         "Use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=item_name></color>?",
@@ -9579,6 +9579,14 @@
         "Aufgrund eines Updates der Benutzerinformationen während des Transfers konnte der Datentransfer nicht abgeschlossen werden. Bitte versuche es erneut.",
         "Debido a una actualización de la información de usuario durante la transferencia, no se ha podido completar la transferencia de datos. Inténtalo de nuevo más tarde."
     ],
+    "MSG_INCORRECT_REWARD_INFO": [
+        "Unable to retrieve reward information.",
+        "無法取得正確的報酬情報。",
+        "보상 정보를 가져올 수 없습니다.",
+        "Impossible de retrouver les informations concernant la récompense.",
+        "Informationen zu den Belohnungen konnten nicht empfangen werden.",
+        "No se ha podido recuperar la información."
+    ],
     "MSG_INVALID_ACHIEVEMENT_REWARD": [
         "The achievement reward is invalid.",
         "達成報酬出現錯誤。",
@@ -9699,6 +9707,22 @@
         "Die maximale Anzahl aktiver Expeditionen wurde erreicht.",
         "Has alcanzado el máximo de expediciones en curso."
     ],
+    "MSG_NO_OPE_ARMS_ABILITY_LOT": [
+        "The equipment ability information is invalid.",
+        "裝備能力之情報出現錯誤。",
+        "장비 어빌리티 정보가 유효하지 않습니다.",
+        "Informations d'aptitude d'équipement erronées",
+        "Informationen zu der Ausrüstungsfertigkeit sind ungültig.",
+        "La información de la habilidad de equipo no es válida."
+    ],
+    "MSG_NO_OPE_GACHA_SELECT": [
+        "The exchange information is invalid.",
+        "交換情報出現錯誤。",
+        "유효하지 않은 교환 정보입니다.",
+        "Informations de transfert erronées",
+        "Die übermittelten Informationen sind ungültig.",
+        "La información del intercambio no es válida."
+    ],
     "MSG_NO_OPE_SLOT": [
         "Slot data could not be retrieved.",
         "無法獲得SLOT資訊",
@@ -9707,6 +9731,14 @@
         "Slot-Daten konnten nicht abgerufen werden.",
         "No se han podido recuperar los datos de las ranuras."
     ],
+    "MSG_NO_USER_ARMS_EQUIP_ITEM_INFO": [
+        "The information for the equipment enhancement item could not be retrieved.",
+        "無法取得強化裝備道具之情報。",
+        "강화 장비 아이템 정보를 가져올 수 없습니다.",
+        "Impossible de retrouver les informations concernant l'objet d'amélioration d'équipement",
+        "Informationen zu dem Gegenstand zur Ausrüstungsverbesserung konnten nicht empfangen werden.",
+        "No se ha podido recuperar la información del objeto de mejora de equipo."
+    ],
     "MSG_OVER_GACHA_LIMIT": [
         "You are unable to summon because doing so would make you exceed your unit limit.",
         "召喚後會超出兵員上限，因此無法召喚兵員。",
@@ -9714,6 +9746,38 @@
         "Vous ne pouvez pas invoquer car vous dépasseriez votre limite d'unités.",
         "Du kannst nicht beschwören, da du sonst dein Einheitenlimit überschreitest.",
         "No se ha podido invocar porque sobrepasarías tu límite de unidades."
+    ],
+    "MSG_PARADE_INVALID_TEAM_LV": [
+        "Unable to participate in the event.<br>Returning to title.",
+        "未符合活動參加條件。<br>返回標題畫面。",
+        "이벤트에 참가할 수 없습니다.<br>초기 화면으로 돌아갑니다.",
+        "Impossible de participer à l'événement.<br>Retour à l'écran-titre.",
+        "Bedingungen zur Ereignisteilnahme nicht erfüllt.<br>Rückkehr zum Titelbildschirm.",
+        "No se ha podido participar en el evento.<br>Regresando a la pantalla del título."
+    ],
+    "MSG_PARADE_MISSION_EVENT_END": [
+        "The event period has ended.<br>Returning to title.",
+        "活動期間已結束。<br>返回標題畫面。",
+        "이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
+        "La période de l'événement est terminée.<br>Retour à l'écran-titre.",
+        "Der Ereigniszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
+        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título."
+    ],
+    "MSG_PARADE_NO_ACTIVE_SUMALLY_SCHEDULE": [
+        "The event period has ended.<br>Returning to title.",
+        "活動期間已結束。<br>返回標題畫面。",
+        "이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
+        "La période de l'événement est terminée.<br>Retour à l'écran-titre.",
+        "Der Ereigniszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
+        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título."
+    ],
+    "MSG_SP_DUNGEON_NO_ACTIVE": [
+        "The event period for this mission has ended.<br>Returning to title.",
+        "此任務的活動期間已結束。<br>返回標題畫面。",
+        "해당 미션의 이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
+        "La période de l'événement concernant cette mission est terminée.<br>Retour à l'écran-titre.",
+        "Der Ereigniszeitraum der ausgewählten Mission ist vorbei.<br>Rückkehr zum Titelbildschirm.",
+        "El periodo de evento de esta misión ha expirado.<br>Regresando a la pantalla del título."
     ],
     "MSG_UNIT_ON_EXPEDITION": [
         "One or more units in party is on an expedition.",
@@ -11538,14 +11602,6 @@
         "Une erreur s'est produite lors du chargement des données. Retournez à l'écran-titre ?<br>*Les données n'ayant pas pu être chargées seront re-téléchargées lors du redémarrage.",
         "Beim Laden der Daten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Daten, die nicht geladen werden konnten, werden bei Neustart erneut heruntergeladen.",
         "Ha ocurrido un error al cargar datos. Volviendo a la pantalla de título.<br>Los datos no cargados se volverán a descargar tras reiniciar."
-    ],
-    "MST_PLAYBACK_SEASON_30": [
-        "Season 3",
-        "第三季",
-        "시즌3",
-        "Saison 3",
-        "Season 3",
-        "3.ª temporada"
     ],
     "MST_RB_ABILITY_GROUP_DES_1": [
         "Normal forbidden",
@@ -14427,6 +14483,222 @@
         "Die Energiekosten dieser Mission übersteigen deine momentane Energiekapazität.<br><color=255:255:0>Fortfahren?</color>",
         "El coste de energía de esta misión supera tu capacidad actual.<br><color=255:255:0>¿Continuar?</color>"
     ],
+    "PARADE_BATTLE_RESULT_SUB_HEADER_TITLE": [
+        "BATTLE RESULTS",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_DUNGEON_FINISH_TEXT": [
+        "Not Available",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_DUNGEON_OPEN_TEXT": [
+        "Unlocked",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_DUNGEON_RANKING_RESULT": [
+        "Results Display Period:",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_DUNGEON_RANKING_SUMMARY": [
+        "Calculation Period:",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_LOCKED_GATE": [
+        "DARK VISIONS can be accessed from Rank <param=rank> and above.",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_MISSION_PAST_RESULT": [
+        "High Score",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_MISSION_START_BOSS_INFO": [
+        "Boss Info",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_MISSION_START_BOSS_WEAK": [
+        "Weakness",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_DARK": [
+        "Boost <color=222:5:5>dark</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_EARTH": [
+        "Boost <color=222:5:5>earth</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_FIRE": [
+        "Boost <color=222:5:5>fire</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_ICE": [
+        "Boost <color=222:5:5>ice</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_LIGHT": [
+        "Boost <color=222:5:5>light</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_THUNDER": [
+        "Boost <color=222:5:5>lightning</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_WATER": [
+        "Boost <color=222:5:5>water</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_PARTY_ELEMENT_UP_WIND": [
+        "Boost <color=222:5:5>wind</color> damage by 20%",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_RADAR_CHART_ATK": [
+        "DMG",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_RADAR_CHART_CH": [
+        "CHN",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_RADAR_CHART_DMG": [
+        "RCV",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_RADAR_CHART_DWN": [
+        "KO",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_RADAR_CHART_TRN": [
+        "TRN",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_RANKING_CLOSED": [
+        "No event is currently available.",
+        "目前活動尚未開放。",
+        "현재 이용 가능한 이벤트가 없습니다.",
+        "Aucun événement n'est disponible.",
+        "Derzeit kein Ereignis verfügbar.",
+        "No hay eventos disponibles en este momento."
+    ],
+    "PARADE_RANKING_NO_RANKING_MSG": [
+        "No rank information exists.",
+        "無排名情報。",
+        "랭킹 정보가 없습니다.",
+        "Données de classement indisponibles.",
+        "Keine Ranginformationen.",
+        "No hay información de clasificación."
+    ],
+    "PARADE_RANKING_SUM_MSG": [
+        "Now calculating rankings.",
+        "現在正在統計排名",
+        "현재 랭킹을 집계하고 있습니다.",
+        "Calcul du classement en cours.",
+        "Berechnet Rangliste.",
+        "Calculando las clasificaciones."
+    ],
+    "PARADE_SKIP_MOVIE_CONFIRM": [
+        "Skip movie?",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "PARADE_TITLE": [
+        "DARK VISIONS",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "PARTY_REGISTER_SLOT_CONFIRM_LOAD_CAPTION": [
         "Would you like to load the party from <color=255:255:0><param=slotname></color> into <param=deckname>?",
         "要從<color=255:255:0><param=slotname></color> into <param=deckname>讀取隊伍資訊嗎？",
@@ -15098,6 +15370,30 @@
         "pts",
         "Pkt.",
         "ptos"
+    ],
+    "RAID_RANKING_NOT_RAID_RANKING_MSG": [
+        "There are currently no ranking rewards.",
+        "本次無排名報酬。",
+        "현재 랭킹 보상이 없습니다.",
+        "Aucune récompense de rangs actuellement",
+        "Derzeit keine Ranglistenbelohnungen erhältlich.",
+        "No hay recompensas de clasificación en este momento."
+    ],
+    "RAID_RANKING_NO_RANKING_MSG": [
+        "No rank information exists.",
+        "無排名情報。",
+        "랭킹 정보가 없습니다.",
+        "Données de classement indisponibles.",
+        "Keine Ranginformationen.",
+        "No hay información de clasificación."
+    ],
+    "RAID_RANKING_SUM_MSG": [
+        "Now calculating rankings.",
+        "現在正在統計排名",
+        "현재 랭킹을 집계하고 있습니다.",
+        "Calcul du classement en cours.",
+        "Berechnet Rangliste.",
+        "Calculando las clasificaciones."
     ],
     "RAID_RANKING_TITLE": [
         "Ranking",
@@ -21270,7 +21566,7 @@
     "arena_pn": [
         "Your arena orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",
         "鬥技場寶珠全滿。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
-        "결투장 구슬이 모두 충전되었습니다. 지금 바로 FINAL FATNASY BRAVE EXVIUS에 접속하세요!",
+        "결투장 구슬이 모두 충전되었습니다. 지금 바로 FINAL FANTASY BRAVE EXVIUS에 접속하세요!",
         "Vos orbes d'arène sont au maximum. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Arenajuwelen sind voll. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tus orbes de Arena están al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
@@ -21278,7 +21574,7 @@
     "energy_pn": [
         "Your energy is fully restored. Play FINAL FANTASY BRAVE EXVIUS now!",
         "體力完全回復。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
-        "체력이 모두 회복되었습니다. 지금 바로 FINAL FATNASY BRAVE EXVIUS에 접속하세요!",
+        "체력이 모두 회복되었습니다. 지금 바로 FINAL FANTASY BRAVE EXVIUS에 접속하세요!",
         "Votre endurance est complètement restaurée. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Energie ist wiederhergestellt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tienes la energía al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
@@ -21286,7 +21582,7 @@
     "expedition_pn": [
         "Your party has returned from their expedition. Play FINAL FANTASY BRAVE EXVIUS now!",
         "遠征隊已經歸來。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
-        "여러분의 파티가 탐험에서 돌아왔습니다. 지금 바로 FINAL FATNASY BRAVE EXVIUS에 접속하세요!",
+        "여러분의 파티가 탐험에서 돌아왔습니다. 지금 바로 FINAL FANTASY BRAVE EXVIUS에 접속하세요!",
         "Votre groupe est de retour de son expédition. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Gruppe ist von ihrer Expedition zurückgekehrt. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tu grupo ha regresado de su expedición. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
@@ -21294,7 +21590,7 @@
     "raid_pn": [
         "Your raid orbs are full. Play FINAL FANTASY BRAVE EXVIUS now!",
         "共鬥寶珠全滿。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
-        "레이드 구슬이 모두 충전되었습니다. 지금 바로 FINAL FATNASY BRAVE EXVIUS에 접속하세요!",
+        "레이드 구슬이 모두 충전되었습니다. 지금 바로 FINAL FANTASY BRAVE EXVIUS에 접속하세요!",
         "Vos orbes de raid sont au maximum. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
         "Deine Raubzugsjuwelen sind voll. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tus orbes de banda están al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
