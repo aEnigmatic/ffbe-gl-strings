@@ -1919,6 +1919,14 @@
         "Willkommen zurück! HIer hast du ein paar Gegenstände, um deine Rückkehr zu feiern!",
         "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu regreso!"
     ],
+    "COMEBACK_LOGIN_MAIL_MSG_4": [
+        "Welcome back! Here are some items to celebrate your return, kupo!",
+        "歡迎回歸！為你準備了一些獎勵道具慶祝你的歸來！",
+        "다시 돌아온 걸 환영해! 컴백 기념 아이템을 선물할게!",
+        "Bon retour parmi nous ! Acceptez ces quelques objets pour fêter cela !",
+        "Willkommen zurück! HIer hast du ein paar Gegenstände, um deine Rückkehr zu feiern!",
+        "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu regreso!"
+    ],
     "COMEBACK_LOGIN_MAIL_TITLE_1": [
         "Comeback Login Bonus",
         "回歸登入獎勵",
@@ -1936,6 +1944,14 @@
         "Bonificación de inicio de sesión de regreso al juego"
     ],
     "COMEBACK_LOGIN_MAIL_TITLE_3": [
+        "Comeback Login Bonus",
+        "回歸登入獎勵",
+        "컴백 출석 보상",
+        "Bonus de connexion de retour",
+        "Comeback Anmeldebonus",
+        "Bonificación de inicio de sesión de regreso al juego"
+    ],
+    "COMEBACK_LOGIN_MAIL_TITLE_4": [
         "Comeback Login Bonus",
         "回歸登入獎勵",
         "컴백 출석 보상",
@@ -5864,7 +5880,7 @@
         "<color=255:165:0>可交換數量</color> <color=2555:255:0>剩餘</color><param=num>/<param=max><color=2555:255:0>個</color>",
         "<color=255:165:0>교환 가능 개수</color> <color=2555:255:0>앞으로 </color><param=num>/<param=max><color=2555:255:0>개</color>",
         "<param=num><color=2555:255:0>/</color><param=max><color=255:165:0>échanges</color> <color=2555:255:0>restants</color>",
-        "Noch <param=num> <color=2555:255:0>von</color> <param=max><color=255:165:0>Täuschen</color> <color=2555:255:0>übrig</color>",
+        "Noch<param=num> <color=2555:255:0>von</color> <param=max><color=255:165:0>Täuschen</color> <color=2555:255:0>übrig</color>",
         "<color=2555:255:0>Queda(n)</color> <param=num> <color=2555:255:0>de</color> <param=max> <color=255:165:0>intercambios</color>"
     ],
     "GACHA_SELECT_EXCHANGE_REMAINING_NUM_TOP": [
@@ -11603,6 +11619,14 @@
         "Beim Laden der Daten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Daten, die nicht geladen werden konnten, werden bei Neustart erneut heruntergeladen.",
         "Ha ocurrido un error al cargar datos. Volviendo a la pantalla de título.<br>Los datos no cargados se volverán a descargar tras reiniciar."
     ],
+    "MST_PLAYBACK_SEASON_30": [
+        "Season 3",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "MST_RB_ABILITY_GROUP_DES_1": [
         "Normal forbidden",
         "共通禁止",
@@ -12866,6 +12890,14 @@
         "Quêtes de caractéristiques",
         "Werte-Aufträge",
         "Misiones de parámetros"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_80000": [
+        "FINAL FANTASY XIV: SHADOWBRINGERS Daily Quests",
+        "《FINAL FANTASY XIV: 漆黑的反叛者》每日任務",
+        "파이널판타지14 칠흑의 반역자' 일일 퀘스트",
+        "Quêtes quotidiennes FINAL FANTASY XIV: SHADOWBRINGERS",
+        "FINAL FANTASY XIV: SHADOWBRINGERS Tägliche Aufträge",
+        "Misiones diarias de FINAL FANTASY XIV: SHADOWBRINGERS"
     ],
     "MST_SPCHALLENGE_SCHEDULE_NAME_807700": [
         "FMA BROTHERHOOD Mission Quests",
@@ -14485,179 +14517,179 @@
     ],
     "PARADE_BATTLE_RESULT_SUB_HEADER_TITLE": [
         "BATTLE RESULTS",
-        null,
-        null,
-        null,
-        null,
-        null
+        "戰鬥結果",
+        "BATTLE RESULTS",
+        "RÉSULTATS DU COMBAT",
+        "Kampfergebnisse",
+        "RESULTADOS DEL COMBATE"
     ],
     "PARADE_DUNGEON_FINISH_TEXT": [
         "Not Available",
-        null,
-        null,
-        null,
-        null,
-        null
+        "非活動期間",
+        "이벤트 기간이 아님",
+        "Indisponible",
+        "Nicht verfügbar",
+        "No disponible"
     ],
     "PARADE_DUNGEON_OPEN_TEXT": [
         "Unlocked",
-        null,
-        null,
-        null,
-        null,
-        null
+        "開放",
+        "개방",
+        "Débloqué",
+        "Freigeschaltet",
+        "Desbloqueado"
     ],
     "PARADE_DUNGEON_RANKING_RESULT": [
         "Results Display Period:",
-        null,
-        null,
-        null,
-        null,
-        null
+        "結果顯示期間：",
+        "결과 표시 기간:",
+        "Période d'affichage des résultats :",
+        "Anzeigezeit der Ergebnisse:",
+        "Periodo de muestra de resultados:"
     ],
     "PARADE_DUNGEON_RANKING_SUMMARY": [
         "Calculation Period:",
-        null,
-        null,
-        null,
-        null,
-        null
+        "統計期間：",
+        "집계 기간:",
+        "Période de comptabilisation",
+        "Berechnungszeit:",
+        "Periodo total:"
     ],
     "PARADE_LOCKED_GATE": [
         "DARK VISIONS can be accessed from Rank <param=rank> and above.",
-        null,
-        null,
-        null,
-        null,
-        null
+        "RANK <param=rank> 以上可進入「黑暗幻境」。",
+        "'다크 비전'은 랭크 <param=rank> 이상부터 개방됩니다.",
+        "Le mode VISIONS DES TÉNÈBRES est accessible à partir du rang <param=rank>.",
+        "Zugriff auf DUNKLE VISIONEN ist ab Rang <param=rank> und höher möglich.",
+        "Se puede acceder a MISIONES OSCURAS a partir del rango <param=rank> o superior."
     ],
     "PARADE_MISSION_PAST_RESULT": [
         "High Score",
-        null,
-        null,
-        null,
-        null,
-        null
+        "高分",
+        "하이 스코어",
+        "Score",
+        "Höchstpunktzahl",
+        "Puntuación"
     ],
     "PARADE_MISSION_START_BOSS_INFO": [
         "Boss Info",
-        null,
-        null,
-        null,
-        null,
-        null
+        "BOSS情報",
+        "보스 정보",
+        "Infos sur le boss",
+        "Boss-Infos",
+        "Info. de jefe"
     ],
     "PARADE_MISSION_START_BOSS_WEAK": [
         "Weakness",
-        null,
-        null,
-        null,
-        null,
-        null
+        "弱點",
+        "약점",
+        "Point faible",
+        "Schwächen",
+        "Debilidades"
     ],
     "PARADE_PARTY_ELEMENT_UP_DARK": [
         "Boost <color=222:5:5>dark</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>暗屬性</color>傷害",
+        "<color=205:71:255>어둠속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>ténèbres</color> de 20 %",
+        "Erhöht <color=222:5:5>Dunkel</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>oscuridad</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_EARTH": [
         "Boost <color=222:5:5>earth</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>土屬性</color>傷害",
+        "<color=237:188:116>땅속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>terre</color> de 20 %",
+        "Erhöht <color=222:5:5>Erd</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>tierra</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_FIRE": [
         "Boost <color=222:5:5>fire</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>火屬性</color>傷害",
+        "<color=222:5:5>불속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>feu</color> de 20 %",
+        "Erhöht <color=222:5:5>Feuer</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>fuego</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_ICE": [
         "Boost <color=222:5:5>ice</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>冰屬性</color>傷害",
+        "<color=163:188:245>얼음속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>glace</color> de 20 %",
+        "Erhöht <color=222:5:5>Eis</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>hielo</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_LIGHT": [
         "Boost <color=222:5:5>light</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>光屬性</color>傷害",
+        "<color=199:199:199>빛속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>lumière</color> de 20 %",
+        "Erhöht <color=222:5:5>Licht</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>luz</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_THUNDER": [
         "Boost <color=222:5:5>lightning</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>雷屬性</color>傷害",
+        "<color=252:255:0>번개속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>foudre</color> de 20 %",
+        "Erhöht <color=222:5:5>Blitz</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>rayo</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_WATER": [
         "Boost <color=222:5:5>water</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>水屬性</color>傷害",
+        "<color=176:255:255>물속성</color> 피해량 20% 상승",
+        "Augmente les dégâts d'<color=222:5:5>eau</color> de 20 %",
+        "Erhöht <color=222:5:5>Wasser</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>agua</color> un 20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_WIND": [
         "Boost <color=222:5:5>wind</color> damage by 20%",
-        null,
-        null,
-        null,
-        null,
-        null
+        "提高20%<color=222:5:5>風屬性</color>傷害",
+        "<color=102:230:58>바람속성</color> 피해량 20% 상승",
+        "Augmente les dégâts de <color=222:5:5>vent</color> de 20 %",
+        "Erhöht <color=222:5:5>Wind</color>schaden um 20%.",
+        "Aumenta el daño de <color=222:5:5>viento</color> un 20%"
     ],
     "PARADE_RADAR_CHART_ATK": [
         "DMG",
-        null,
-        null,
-        null,
-        null,
-        null
+        "DMG",
+        "ATK",
+        "DGTS",
+        "ANG",
+        "DAÑ"
     ],
     "PARADE_RADAR_CHART_CH": [
         "CHN",
-        null,
-        null,
-        null,
-        null,
-        null
+        "CH.",
+        "CH.",
+        "CMB",
+        "KTN",
+        "COM"
     ],
     "PARADE_RADAR_CHART_DMG": [
         "RCV",
-        null,
-        null,
-        null,
-        null,
-        null
+        "RCV",
+        "DMG",
+        "RÇS",
+        "SDN",
+        "RCB"
     ],
     "PARADE_RADAR_CHART_DWN": [
         "KO",
-        null,
-        null,
-        null,
-        null,
-        null
+        "KO",
+        "DWN",
+        "KO",
+        "KO",
+        "KO"
     ],
     "PARADE_RADAR_CHART_TRN": [
         "TRN",
-        null,
-        null,
-        null,
-        null,
-        null
+        "TRN",
+        "TRN",
+        "TRS",
+        "RND",
+        "TUR"
     ],
     "PARADE_RANKING_CLOSED": [
         "No event is currently available.",
@@ -14685,19 +14717,19 @@
     ],
     "PARADE_SKIP_MOVIE_CONFIRM": [
         "Skip movie?",
-        null,
-        null,
-        null,
-        null,
-        null
+        "是否跳過動畫？",
+        "동영상을 건너뛰시겠습니까?",
+        "Passer la cinématique ?",
+        "Film überspringen?",
+        "¿Omitir escena?"
     ],
     "PARADE_TITLE": [
         "DARK VISIONS",
-        null,
-        null,
-        null,
-        null,
-        null
+        "黑暗幻境",
+        "다크 비전",
+        "VISIONS DES TÉNÈBRES",
+        "DUNKLE VISIONEN",
+        "VISIONES OSCURAS"
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_LOAD_CAPTION": [
         "Would you like to load the party from <color=255:255:0><param=slotname></color> into <param=deckname>?",
@@ -20152,7 +20184,7 @@
         "覺醒素材",
         "각성 재료",
         "Matériaux d'éveil",
-        "Erweck-Materialien",
+        "Erweckmaterialien",
         "Materiales para despertar"
     ],
     "UNIT_CLASSUP_OK": [

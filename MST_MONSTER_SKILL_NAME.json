@@ -2069,7 +2069,7 @@
         "파이라",
         "Feu +",
         "Feura",
-        "Fuego+"
+        "Piro+"
     ],
     "151080": [
         "Thunderstrike",
@@ -26776,12 +26776,12 @@
         "Desprendimiento"
     ],
     "181710": [
-        "Gigantic Feast",
-        "盛宴",
-        "거대한 연회",
-        "Festin gigantesque",
-        "Gigantenfaust",
-        "Fiesta enorme"
+        "Gigantic Fist",
+        "巨拳",
+        "거대한 주먹",
+        "Giga poing",
+        "Gigantische Faust",
+        "Puño gigante"
     ],
     "181720": [
         "Severe Earthquake",
@@ -29640,12 +29640,12 @@
         "Superláser Magitec"
     ],
     "185270": [
-        "Infusion",
+        "Frenzied Charge",
         "猛突進",
         "맹돌진",
-        "Infusion",
-        "Gewaltsturm",
-        "Inyección"
+        "Charge frénétique",
+        "Gewaltansturm",
+        "Carga frenética"
     ],
     "185280": [
         "Oversize - 30%",
@@ -38360,12 +38360,12 @@
         "Sistema de recuperación activado"
     ],
     "196130": [
-        "Pile Banger",
+        "Pile Bunker",
         "堆積者",
         "파일 벙커",
-        "Bunker",
-        "Haufenwurf",
-        "Golpeapilas"
+        "Enfonce-pieux",
+        "Stapelschläger",
+        "Taladradora"
     ],
     "196140": [
         "Super Blast",
@@ -55368,12 +55368,12 @@
         "Superláser Magitec"
     ],
     "214823": [
-        "Infusion",
+        "Frenzied Charge",
         "猛突進",
         "맹돌진",
-        "Infusion",
-        "Gewaltsturm",
-        "Inyección"
+        "Charge frénétique",
+        "Gewaltansturm",
+        "Carga frenética"
     ],
     "214824": [
         "Oversize - 30%",
@@ -71455,6 +71455,30 @@
         "Bio",
         "Bio"
     ],
+    "217018": [
+        "The enemy's ATK rose through the power of darkness!",
+        "由於黑暗之力的加持，敵人的攻擊提高了！",
+        "검은 힘으로 적의 공격력이 상승했다!",
+        "L'ennemi a augmenté son ATT grâce au pouvoir des ténèbres !",
+        "Dunkelmacht lässt ANG des Gegners steigen!",
+        "¡El poder de la oscuridad aumenta el ATQ del enemigo!"
+    ],
+    "217019": [
+        "The enemy's MAG rose through the power of darkness!",
+        "由於黑暗之力的加持，敵人的魔力提高了！",
+        "검은 힘으로 적의 마력이 상승했다!",
+        "L'ennemi a augmenté sa MAGIE grâce au pouvoir des ténèbres !",
+        "Dunkelmacht lässt MAG des Gegners steigen!",
+        "¡El poder de la oscuridad aumenta la MAG del enemigo!"
+    ],
+    "217020": [
+        "The enemy's DEF rose through the power of darkness!",
+        "由於黑暗之力的加持，敵人的防禦提高了！",
+        "검은 힘으로 적의 방어력이 상승했다!",
+        "L'ennemi a augmenté sa DEF grâce au pouvoir des ténèbres !",
+        "Dunkelmacht lässt ABW des Gegners steigen!",
+        "¡El poder de la oscuridad aumenta la DEF del enemigo!"
+    ],
     "217031": [
         "Dark Wave",
         "暗之波動",
@@ -71463,13 +71487,53 @@
         "Dunkle Welle",
         "Ola oscura"
     ],
+    "217032": [
+        "Voice of Fear",
+        "恐怖之聲",
+        "공포의 목소리",
+        "Voix de l'effroi",
+        "Stimme der Angst",
+        "Voz temerosa"
+    ],
     "217033": [
         "Light Blade",
         "光之刃",
         "빛의 검",
         "Lame lumineuse",
         "Lichtklinge",
-        "Cuchilla Sanctus"
+        "Espada de luz"
+    ],
+    "217034": [
+        "Shining Blade",
+        "閃耀之刃",
+        "광채의 검",
+        "Lame étincelante",
+        "Schimmerklinge",
+        "Espada brillante"
+    ],
+    "217035": [
+        "Dazzling Light",
+        "耀眼之光",
+        "눈부신 빛",
+        "Lueur éblouissante",
+        "Blendstrahl",
+        "Luz cegadora"
+    ],
+    "217036": [
+        "Sunlight",
+        "日光",
+        "태양광",
+        "Lueur du soleil",
+        "Sonnenlicht",
+        "Luz solar"
+    ],
+    "217037": [
+        "Song of Protection",
+        "降防之歌",
+        "방어력 하락의 노래",
+        "Chant protecteur",
+        "Lied der Verwundbarkeit",
+        "Canto defensivo"
     ],
     "217039": [
         "Dark Wave",
@@ -71487,13 +71551,85 @@
         "Donnerspalter",
         "Corte fulmíneo"
     ],
+    "217044": [
+        "All-Lightning Crash",
+        "全體落雷",
+        "전체 낙뢰",
+        "Éclair de foudre total",
+        "Omni-Donnerspalter",
+        "Corte fulmíneo total"
+    ],
+    "217045": [
+        "Domain Under Lightning",
+        "降雷領域",
+        "우레의 영역",
+        "Domaine de foudre",
+        "Zone der Blitzpein",
+        "Dominios del rayo"
+    ],
+    "217046": [
+        "Petrifying Glare",
+        "石化凝視",
+        "석화 응시",
+        "Regard pétrifiant",
+        "Versteinernder Blick",
+        "Mirada pétrea"
+    ],
+    "217047": [
+        "Super Magic Attack - Lightning",
+        "超魔撃・雷",
+        "초강력 마법 공격·번개",
+        "Attaque supramagique - Foudre",
+        "Ultramagieschlag - Blitz",
+        "Superataque mágico - Rayo"
+    ],
+    "217048": [
+        "Sure Shot - Lightning",
+        "必中攻撃・雷",
+        "필중 공격·번개",
+        "Tir certain - Foudre",
+        "Ins Schwarze - Blitz",
+        "Tiro certero - Rayo"
+    ],
+    "217049": [
+        "Smite of Gloom",
+        "暗之一撃",
+        "어둠의 일격",
+        "Frappe fatidique",
+        "Hieb aus dem Dunkel",
+        "Golpe plomizo"
+    ],
+    "217050": [
+        "Splitting Darkness",
+        "黑暗斬裂",
+        "어둠 가르기",
+        "Ténèbres déchirantes",
+        "Schneidende Schatten",
+        "Oscuridad divisoria"
+    ],
+    "217051": [
+        "Domain Under Darkness",
+        "降暗領域",
+        "어둠속성 하락의 영역",
+        "Domaine de ténèbres",
+        "Zone der Dunkelpein",
+        "Dominios de la oscuridad"
+    ],
     "217052": [
         "Blackout",
-        "封鎖",
+        "暈厥",
         "블랙 아웃",
         "Noir total",
         "Verdunklung",
         "Apagón"
+    ],
+    "217053": [
+        "Shadow Magic Attack - Dark",
+        "暗之力魔撃・暗",
+        "검은 마법 공격·어둠",
+        "Attaque ombramagique - Ténèbres",
+        "Dunkelmacht-Magie - Dunkel",
+        "Ataque mágico tenebroso - Oscuridad"
     ],
     "217054": [
         "Shadow Impact",
@@ -71503,6 +71639,38 @@
         "Schattenprall",
         "Impacto sombrío"
     ],
+    "217055": [
+        "Focusing the power of shadow! (Dark)",
+        "暗之力開始集中！・暗",
+        "검은 힘이 모이고 있다!·어둠",
+        "Canalisation du pouvoir des ombres ! (Ténèbres)",
+        "Dunkelmacht verdichtet sich! (Dunkel)",
+        "¡Está concentrando el poder tenebroso! (Oscuridad)"
+    ],
+    "217056": [
+        "Water Cannon",
+        "水砲",
+        "물대포",
+        "Canon aquatique",
+        "Wassergeschütz",
+        "Cañón acuático"
+    ],
+    "217057": [
+        "All-Water Cannon",
+        "全體水砲",
+        "전체 물대포",
+        "Canon aquatique total",
+        "Omni-Wassergeschütz",
+        "Cañón acuático total"
+    ],
+    "217058": [
+        "Rusty Liquid",
+        "生鏽黏液",
+        "녹슨 점액",
+        "Liquide oxydé",
+        "Rostgalle",
+        "Líquido herrumbroso"
+    ],
     "217059": [
         "Lightning Crash",
         "落雷",
@@ -71511,13 +71679,69 @@
         "Donnerspalter",
         "Corte fulmíneo"
     ],
+    "217060": [
+        "All-Lightning Crash",
+        "全體落雷",
+        "전체 낙뢰",
+        "Éclair de foudre total",
+        "Omni-Donnerspalter",
+        "Corte fulmíneo total"
+    ],
+    "217061": [
+        "Fists of Thunder",
+        "雷下掌",
+        "번개속성 하락의 주먹",
+        "Poings orageux",
+        "Donnerfäuste",
+        "Puños de trueno"
+    ],
+    "217062": [
+        "Wings of Lightning",
+        "雷翼",
+        "우뢰의 날개",
+        "Ailes de foudre",
+        "Gewitterschwingen",
+        "Alas de rayo"
+    ],
+    "217063": [
+        "Domain Under Protection",
+        "降防領域",
+        "방어력 하락의 영역",
+        "Domaine de protection",
+        "Zone der Verwundbarkeit",
+        "Dominios protegidos"
+    ],
+    "217066": [
+        "Domain Under Water",
+        "降水領域",
+        "물속성 하락의 영역",
+        "Domaine d'eau",
+        "Zone der Wasserpein",
+        "Dominios del agua"
+    ],
     "217069": [
         "Light Blade",
         "光之刃",
         "빛의 검",
         "Lame lumineuse",
         "Lichtklinge",
-        "Cuchilla Sanctus"
+        "Espada de luz"
+    ],
+    "217070": [
+        "Shining Blade",
+        "閃耀之刃",
+        "광채의 검",
+        "Lame étincelante",
+        "Schimmerklinge",
+        "Espada brillante"
+    ],
+    "217071": [
+        "Domain Under Light",
+        "降光領域",
+        "빛의 영역",
+        "Domaine de lumière",
+        "Zone der Lichtpein",
+        "Dominios de la luz"
     ],
     "217072": [
         "Curaja",
@@ -71525,7 +71749,23 @@
         "케알쟈",
         "Giga Soin",
         "Vitaja",
-        "Cura++++"
+        "Cura+++"
+    ],
+    "217073": [
+        "Super Physical Attack - Light",
+        "超攻撃・光",
+        "초강력 공격·빛",
+        "Attaque supraphysique - Lumière",
+        "Ultraphysikschlag - Licht",
+        "Superataque físico - Luz"
+    ],
+    "217074": [
+        "Sure Shot - Light",
+        "必中攻撃・光",
+        "필중 공격·빛",
+        "Tir certain - Lumière",
+        "Ins Schwarze - Licht",
+        "Tiro certero - Luz"
     ],
     "217075": [
         "Dark Water",
@@ -71543,6 +71783,78 @@
         "Dunkleres Wasserga",
         "Aqua oscura++"
     ],
+    "217077": [
+        "Domain Under Water",
+        "降水領域",
+        "물속성 하락의 영역",
+        "Domaine d'eau",
+        "Zone der Wasserpein",
+        "Dominios del agua"
+    ],
+    "217078": [
+        "Song of Stupefaction",
+        "昏迷之歌",
+        "혼미의 노래",
+        "Chant stupéfiant",
+        "Lied des Stupor",
+        "Canto de estupefacción"
+    ],
+    "217079": [
+        "Shadow Magic Attack - Water",
+        "暗之力魔撃・水",
+        "검은 마법 공격·물",
+        "Attaque ombramagique - Eau",
+        "Dunkelmacht-Magie - Wasser",
+        "Ataque mágico tenebroso - Agua"
+    ],
+    "217080": [
+        "Drowning Voice",
+        "溺亡之聲",
+        "침잠의 노래",
+        "Voix submergeante",
+        "Loreleilied",
+        "Voz ahogada"
+    ],
+    "217081": [
+        "Focusing the power of shadow! (Water)",
+        "暗之力開始集中！・水",
+        "검은 힘이 모이고 있다!·물",
+        "Canalisation du pouvoir des ombres ! (Eau)",
+        "Dunkelmacht verdichtet sich! (Wasser)",
+        "¡Está concentrando el poder tenebroso! (Agua)"
+    ],
+    "217082": [
+        "Fist of Stone",
+        "石之拳",
+        "돌주먹",
+        "Poing de pierre",
+        "Faust aus Stein",
+        "Puño de piedra"
+    ],
+    "217083": [
+        "Two-Handed Spin",
+        "雙臂迴旋",
+        "양팔 회전",
+        "Vrille à deux mains",
+        "Schmetterkreisel",
+        "Giro a dos manos"
+    ],
+    "217084": [
+        "Fists of Protection",
+        "防下掌",
+        "방어력 하락의 주먹",
+        "Poings protecteurs",
+        "Faust der Verwundbarkeit",
+        "Puños protectores"
+    ],
+    "217085": [
+        "Ice Sphere",
+        "冰之寶玉",
+        "얼음의 구슬",
+        "Sphère de glace",
+        "Eiskugel",
+        "Esfera de hielo"
+    ],
     "217086": [
         "Dark Wave",
         "暗之波動",
@@ -71551,13 +71863,77 @@
         "Dunkle Welle",
         "Ola oscura"
     ],
+    "217089": [
+        "Domain Under Psyche",
+        "降精領域",
+        "정신력 하락의 영역",
+        "Domaine de psyché",
+        "Zone der Verzweiflung",
+        "Dominios del espíritu"
+    ],
+    "217090": [
+        "Water Cannon",
+        "水砲",
+        "물대포",
+        "Canon aquatique",
+        "Wassergeschütz",
+        "Cañón acuático"
+    ],
+    "217091": [
+        "All-Water Cannon",
+        "全體水砲",
+        "전체 물대포",
+        "Canon aquatique total",
+        "Omni-Wassergeschütz",
+        "Cañón acuático total"
+    ],
+    "217092": [
+        "Domain Under Water",
+        "降水領域",
+        "물속성 하락의 영역",
+        "Domaine d'eau",
+        "Zone der Wasserpein",
+        "Dominios del agua"
+    ],
     "217093": [
         "Absorb",
         "吸收",
         "빨아들이기",
         "Phagocyte",
-        "Absorption",
+        "Absorbtion",
         "Absorción"
+    ],
+    "217094": [
+        "Super Physical Attack - Water",
+        "超攻撃・水",
+        "초강력 공격·물",
+        "Attaque supraphysique - Eau",
+        "Superphysikschlag - Wasser",
+        "Superataque físico - Agua"
+    ],
+    "217095": [
+        "Light Strike",
+        "光斬",
+        "빛의 참격",
+        "Frappe de lumière",
+        "Lichtschneider",
+        "Ataque lumínico"
+    ],
+    "217096": [
+        "All-Light Strike",
+        "全體光斬",
+        "전체 빛의 참격",
+        "Frappe de lumière totale",
+        "Omni-Lichtschneider",
+        "Ataque lumínico total"
+    ],
+    "217097": [
+        "Domain Under Light",
+        "降光領域",
+        "빛의 영역",
+        "Domaine de lumière",
+        "Zone der Lichtpein",
+        "Dominios de la luz"
     ],
     "217098": [
         "Zantetsuken",
@@ -71567,6 +71943,22 @@
         "Zantetsuken",
         "Sable justiciero"
     ],
+    "217099": [
+        "Shadow Physical Attack - Light",
+        "暗之力攻撃・光",
+        "검은 공격·빛",
+        "Attaque ombraphysique - Lumière",
+        "Dunkelmacht-Angriff - Licht",
+        "Ataque físico tenebroso - Luz"
+    ],
+    "217100": [
+        "Sure Shot - Light",
+        "必中攻撃・光",
+        "필중 공격·빛",
+        "Tir certain - Lumière",
+        "Ins Schwarze - Licht",
+        "Tiro certero - Luz"
+    ],
     "217102": [
         "Lightning Crash",
         "落雷",
@@ -71575,13 +71967,53 @@
         "Donnerspalter",
         "Corte fulmíneo"
     ],
+    "217103": [
+        "All-Lightning Crash",
+        "全體落雷",
+        "전체 낙뢰",
+        "Éclair de foudre total",
+        "Omni-Donnerspalter",
+        "Corte fulmíneo total"
+    ],
+    "217104": [
+        "Domain Under Lightning",
+        "降雷領域",
+        "우레의 영역",
+        "Domaine de foudre",
+        "Zone der Blitzpein",
+        "Dominios del rayo"
+    ],
+    "217105": [
+        "Stop your movements!",
+        "阻止其動作",
+        "움직임을 멈추어라",
+        "Pas un geste !",
+        "Bleib stehen!",
+        "¡Detén tus movimientos!"
+    ],
+    "217106": [
+        "Shadow Magic Attack - Lightning",
+        "暗之力魔撃・雷",
+        "검은 마법 공격·번개",
+        "Attaque ombramagique - Foudre",
+        "Dunkelmacht-Magie - Blitz",
+        "Ataque mágico tenebroso - Rayo"
+    ],
     "217107": [
         "Judgment Bolt",
-        "制裁之雷",
+        "裁決之雷",
         "심판의 벼락",
         "Foudre du jugement",
         "Ionenschlag",
         "Rayos de justicia"
+    ],
+    "217108": [
+        "Focusing the power of shadow! (Lightning)",
+        "暗之力開始集中！・雷",
+        "검은 힘이 모이고 있다!·번개",
+        "Canalisation du pouvoir des ombres ! (Foudre)",
+        "Dunkelmacht verdichtet sich! (Blitz)",
+        "¡Está concentrando el poder tenebroso! (Rayo)"
     ],
     "217109": [
         "Running Wild",
@@ -72039,6 +72471,30 @@
         "Exitus",
         "Muerte"
     ],
+    "217207": [
+        "Light Strike",
+        "光斬",
+        "빛의 참격",
+        "Frappe de lumière",
+        "Lichtschneider",
+        "Ataque lumínico"
+    ],
+    "217208": [
+        "All-Light Strike",
+        "全體光斬",
+        "전체 빛의 참격",
+        "Frappe de lumière totale",
+        "Omni-Lichtschneider",
+        "Ataque lumínico total"
+    ],
+    "217209": [
+        "Domain Under Light",
+        "降光領域",
+        "빛속성 하락의 영역",
+        "Domaine de lumière",
+        "Zone der Lichtpein",
+        "Dominios de la luz"
+    ],
     "217210": [
         "Zantetsuken",
         "斬鐵劍",
@@ -72046,6 +72502,70 @@
         "Zantetsuken",
         "Zantetsuken",
         "Sable justiciero"
+    ],
+    "217211": [
+        "Ruthless Stance",
+        "直擊姿態",
+        "무자비의 자세",
+        "Posture inflexible",
+        "Brutalohaltung",
+        "Postura implacable"
+    ],
+    "217212": [
+        "Shadow Physical Attack - Light",
+        "暗之力攻撃・光",
+        "검은 공격·빛",
+        "Attaque ombraphysique - Lumière",
+        "Dunkelmacht-Angriff - Licht",
+        "Ataque físico tenebroso - Luz"
+    ],
+    "217213": [
+        "Focused Stance",
+        "必中姿態",
+        "필중의 자세",
+        "Posture de concentration",
+        "Fokushaltung",
+        "Postura centrada"
+    ],
+    "217214": [
+        "Sure Shot - Light",
+        "必中攻撃・光",
+        "필중 공격·빛",
+        "Tir certain - Lumière",
+        "Ins Schwarze - Licht",
+        "Tiro certero - Luz"
+    ],
+    "217215": [
+        "Knockout Stance",
+        "必殺體勢",
+        "필살의 자세",
+        "Posture mortelle",
+        "Tödliche Haltung",
+        "Postura K.O."
+    ],
+    "217216": [
+        "Shadow Zantetsuken",
+        "暗之力斬鐵劍",
+        "검은 참철검",
+        "Zantetsuken d'ombre",
+        "Dunkelmacht-Zantetsuken",
+        "Sable justiciero tenebroso"
+    ],
+    "217217": [
+        "Summon Dark Einherjar",
+        "暗之英靈召喚詠唱",
+        "다크 에인헤랴르 소환 주문",
+        "Appel d'Einherjar obscur",
+        "Dunklen Einherier beschwören",
+        "Invocar Einherjar oscuro"
+    ],
+    "217218": [
+        "Dark Einherjar",
+        "暗之英靈",
+        "다크 에인헤랴르 소환 주문",
+        "Einherjar obscur",
+        "Dunkler Einherier",
+        "Einherjar oscuro"
     ],
     "217219": [
         "Lightning Crash",
@@ -72055,13 +72575,69 @@
         "Donnerspalter",
         "Corte fulmíneo"
     ],
+    "217220": [
+        "Blast",
+        "轟毀",
+        "블래스트",
+        "Choc",
+        "Peng",
+        "Acribillada"
+    ],
+    "217221": [
+        "All-Lightning Crash",
+        "全體落雷",
+        "전체 낙뢰",
+        "Éclair de foudre total",
+        "Omni-Donnerspalter",
+        "Corte fulmíneo total"
+    ],
+    "217222": [
+        "Domain Under Lightning",
+        "降雷領域",
+        "번개속성 하락의 영역",
+        "Domaine de foudre",
+        "Zone der Blitzpein",
+        "Dominios del rayo"
+    ],
+    "217223": [
+        "Stop your movements!",
+        "阻止其動作",
+        "움직임을 멈추어라",
+        "Pas un geste !",
+        "Bleib stehen!",
+        "¡Detén tus movimientos!"
+    ],
+    "217224": [
+        "Shadow Magic Attack - Lightning",
+        "暗之力魔撃・雷",
+        "검은 마법 공격·번개",
+        "Attaque ombramagique - Foudre",
+        "Dunkelmacht-Magie - Blitz",
+        "Ataque mágico tenebroso - Rayo"
+    ],
     "217225": [
         "Judgment Bolt",
-        "制裁之雷",
+        "裁決之雷",
         "심판의 벼락",
         "Foudre du jugement",
         "Ionenschlag",
         "Rayos de justicia"
+    ],
+    "217226": [
+        "Focusing the power of shadow! (Lightning)",
+        "暗之力開始集中！・雷",
+        "검은 힘이 모이고 있다!·번개",
+        "Canalisation du pouvoir des ombres ! (Foudre)",
+        "Dunkelmacht verdichtet sich! (Blitz)",
+        "¡Está concentrando el poder tenebroso! (Rayo)"
+    ],
+    "217227": [
+        "Thunder clouds are gathering!",
+        "雷雲開始聚集了！",
+        "번개의 구름이 모이기 시작했다!",
+        "Un orage se prépare !",
+        "Gewitterwolken ziehen auf!",
+        "¡Nubes tormentosas se concentran!"
     ],
     "217228": [
         "Dark Water",
@@ -72079,20 +72655,108 @@
         "Dunkleres Wasserga",
         "Aqua oscura++"
     ],
+    "217230": [
+        "Domain Under Water",
+        "降水領域",
+        "물속성 하락의 영역",
+        "Domaine d'eau",
+        "Zone der Wasserpein",
+        "Dominios del agua"
+    ],
+    "217231": [
+        "Song of Stupefaction",
+        "昏迷之歌",
+        "혼미의 노래",
+        "Chant stupéfiant",
+        "Lied des Stupor",
+        "Canto de estupefacción"
+    ],
+    "217232": [
+        "Shadow Magic Attack - Water",
+        "暗之力魔撃・水",
+        "검은 마법 공격·물",
+        "Attaque ombramagique - Eau",
+        "Dunkelmacht-Magie - Wasser",
+        "Ataque mágico tenebroso - Agua"
+    ],
+    "217233": [
+        "Drowning Voice",
+        "溺亡之聲",
+        "침잠의 노래",
+        "Voix submergeante",
+        "Loreleilied",
+        "Voz ahogada"
+    ],
+    "217234": [
+        "She deflected the lightning with her wings!",
+        "受到的雷擊被翅膀反彈回來了",
+        "받은 번개를 날개로 튕겨냈다",
+        "L'ennemie a renvoyé la foudre avec ses ailes !",
+        "Sie reflektiert den Blitz mit ihren Flügeln!",
+        "¡Ha bloqueado el rayo con sus alas!"
+    ],
+    "217235": [
+        "Osmose Voice",
+        "滲透之聲",
+        "흡수의 노래",
+        "Voix aspirante",
+        "Osmosestimme",
+        "Voz Aspir"
+    ],
+    "217236": [
+        "Focusing the power of shadow! (Water)",
+        "暗之力開始集中！・水",
+        "검은 힘이 모이고 있다!·물",
+        "Canalisation du pouvoir des ombres ! (Eau)",
+        "Dunkelmacht verdichtet sich! (Wasser)",
+        "¡Está concentrando el poder tenebroso! (Agua)"
+    ],
     "217237": [
-        "It seems to be humming",
-        "唱起了歌",
+        "She's started humming.",
+        "開始哼唱起來",
         "노래를 흥얼거리기 시작했다",
-        "On dirait qu'il chantonne",
-        "Es summt",
-        "Esta tarareando una canción"
+        "Sirène chantonne...",
+        "Sie stimmt eine Melodie an.",
+        "Ha empezado a tararear."
+    ],
+    "217238": [
+        "The humming is distracting and causing your mood to worsen!",
+        "妨礙唱歌之後被掃了興致",
+        "노래를 방해받아 불쾌해하고 있다",
+        "Son chant vous distrait et affecte le moral de votre groupe !",
+        "Sie hat den Faden verloren und wird wütend.",
+        "¡El tarareo te distrae y empeora tu humor!"
+    ],
+    "217239": [
+        "She started singing beautifully.",
+        "開始用美妙的聲音歌唱",
+        "아름다운 목소리로 노래하기 시작했다",
+        "Sirène chante de sa superbe voix...",
+        "Sie singt mit wundervoller Stimme.",
+        "Ha empezado a cantar con una voz preciosa."
+    ],
+    "217242": [
+        "Blade of Fury",
+        "憤怒之刃",
+        "분노의 검",
+        "Lame de furie",
+        "Klinge der Wut",
+        "Hoja de la furia"
+    ],
+    "217243": [
+        "Song of Onslaught",
+        "降攻之歌",
+        "공격력 하락의 노래",
+        "Chanson belliqueuse",
+        "Lied der Schwäche",
+        "Himno bélico"
     ],
     "217244": [
         "Trample",
         "重踏",
-        "밟아 뭉개기",
+        "밟아 뭉개다",
         "Piétinement",
-        "Zertrampeln",
+        "Zerstampfen",
         "Pisada fuerte"
     ],
     "217245": [
@@ -72110,6 +72774,30 @@
         "Griffe démoniaque",
         "Dämonenkralle",
         "Garra demoníaca"
+    ],
+    "217247": [
+        "All-Lightning Crash",
+        "全體落雷",
+        "전체 낙뢰",
+        "Éclair de foudre total",
+        "Omni-Donnerspalter",
+        "Corte fulmíneo total"
+    ],
+    "217248": [
+        "Continuous Strike",
+        "連續突刺",
+        "연속 찌르기",
+        "Frappe continue",
+        "Mehrfachstich",
+        "Golpe constante"
+    ],
+    "217249": [
+        "Two-Handed Wide Spin",
+        "雙臂大回旋",
+        "양팔 대회전",
+        "Grande vrille à deux mains",
+        "Turbo-Schmetterkreisel",
+        "Megagiro a dos manos"
     ],
     "217250": [
         "Jump About",
@@ -72130,10 +72818,18 @@
     "217252": [
         "Tighten",
         "緊鎖",
-        "조르기",
+        "조이기",
         "Constriction",
         "Einschnüren",
         "Constricción"
+    ],
+    "217253": [
+        "Cut",
+        "斬",
+        "참격",
+        "Taillade",
+        "Schnitt",
+        "Incisión"
     ],
     "217254": [
         "Dark Water",
@@ -72151,12 +72847,92 @@
         "Dunkleres Wasserga",
         "Aqua oscura++"
     ],
+    "217256": [
+        "Domain Under Water",
+        "降水領域",
+        "물속성 하락의 영역",
+        "Domaine d'eau",
+        "Zone der Wasserpein",
+        "Dominios del agua"
+    ],
+    "217257": [
+        "Song of Stupefaction",
+        "昏迷之歌",
+        "혼미의 노래",
+        "Chant stupéfiant",
+        "Lied des Stupor",
+        "Canto de estupefacción"
+    ],
+    "217258": [
+        "Shadow Magic Attack - Water",
+        "暗之力魔撃・水",
+        "검은 힘의 마법 공격·물",
+        "Attaque ombramagique - Eau",
+        "Dunkelmacht-Magie - Wasser",
+        "Ataque mágico tenebroso - Agua"
+    ],
+    "217259": [
+        "Drowning Voice",
+        "溺亡之聲",
+        "침잠의 노래",
+        "Voix submergeante",
+        "Loreleilied",
+        "Voz ahogada"
+    ],
+    "217260": [
+        "She deflected the lightning with her wings!",
+        "受到的雷擊被翅膀反彈回來了",
+        "받은 번개를 날개로 튕겨냈다",
+        "L'ennemie a renvoyé la foudre avec ses ailes !",
+        "Sie reflektiert den Blitz mit ihren Flügeln!",
+        "¡Ha bloqueado el rayo con sus alas!"
+    ],
+    "217261": [
+        "Osmose Voice",
+        "滲透之聲",
+        "흡수의 노래",
+        "Voix aspirante",
+        "Osmosestimme",
+        "Voz Aspir"
+    ],
+    "217262": [
+        "Focusing the power of shadow! (Water)",
+        "暗之力開始集中！・水",
+        "검은 힘이 모이고 있다!·물",
+        "Canalisation du pouvoir des ombres ! (Eau)",
+        "Dunkelmacht verdichtet sich! (Wasser)",
+        "¡Está concentrando el poder tenebroso! (Agua)"
+    ],
+    "217263": [
+        "She started singing with a powerful voice.",
+        "開始用很大的聲音歌唱",
+        "강한 목소리로 노래하기 시작했다",
+        "Sirène chante de sa voix retentissante...",
+        "Sie singt mit schmetternder Stimme.",
+        "Ha empezado a cantar con una voz enérgica."
+    ],
+    "217264": [
+        "She started singing with a kind voice.",
+        "開始用溫柔的聲音歌唱",
+        "부드러운 목소리로 노래하기 시작했다",
+        "Sirène chante de sa voix douce...",
+        "Sie singt mit sanfter Stimme.",
+        "Ha empezado a cantar con una voz gentil."
+    ],
+    "217265": [
+        "She started singing with a scary voice.",
+        "開始用恐懼的聲音歌唱",
+        "무서운 목소리로 노래하기 시작했다",
+        "Sirène chante de sa voix terrifiante...",
+        "Sie singt mit furchteinflößender Stimme.",
+        "Ha empezado a cantar con una voz aterradora."
+    ],
     "217266": [
         "Hack",
         "斬擊",
         "베어내다",
         "Entaille",
-        "Zerschlitzen",
+        "Durchschneiden",
         "Rajador"
     ],
     "217267": [
@@ -72164,7 +72940,7 @@
         "橫掃",
         "쓸어버리기",
         "Balayage",
-        "Niedermähen",
+        "Fußfeger",
         "Corte horizontal"
     ],
     "217268": [
@@ -72173,7 +72949,7 @@
         "케알쟈",
         "Giga Soin",
         "Vitaja",
-        "Cura++++"
+        "Cura+++"
     ],
     "217269": [
         "Sleep",
@@ -72183,6 +72959,14 @@
         "Schlaf",
         "Morfeo"
     ],
+    "217270": [
+        "Mental Break",
+        "潰心",
+        "멘탈 브레이크",
+        "Déprime",
+        "Geistbrecher",
+        "Rompeespíritu"
+    ],
     "217271": [
         "Armor Break",
         "潰甲",
@@ -72191,6 +72975,22 @@
         "Panzerbrecher",
         "Rompecoraza"
     ],
+    "217272": [
+        "All-Water Cannon",
+        "全體水砲",
+        "전체 물대포",
+        "Canon aquatique total",
+        "Omni-Wassergeschütz",
+        "Cañón acuático total"
+    ],
+    "217273": [
+        "All-Lightning Crash",
+        "全體落雷",
+        "전체 낙뢰",
+        "Éclair de foudre total",
+        "Omni-Donnerspalter",
+        "Corte fulmíneo total"
+    ],
     "217274": [
         "Dark Waterga",
         "暗黑大流水",
@@ -72198,6 +72998,14 @@
         "Eau X obscure",
         "Dunkleres Wasserga",
         "Aqua oscura++"
+    ],
+    "217275": [
+        "Shining Blade",
+        "閃耀之刃",
+        "광채의 검",
+        "Lame étincelante",
+        "Schimmerklinge",
+        "Espada brillante"
     ],
     "217276": [
         "Dark Thorn",
@@ -78622,5 +79430,101 @@
         "Toucher de la glace",
         "Eisige Berührung",
         "Toque de hielo"
+    ],
+    "900672": [
+        "Ice Sphere",
+        "冰之寶玉",
+        "얼음의 구슬",
+        "Sphère de glace",
+        "Eiskugel",
+        "Esfera de hielo"
+    ],
+    "900673": [
+        "Ice Wave",
+        "冰之波動",
+        "얼음의 파동",
+        "Vague glaciale",
+        "Eiskaskade",
+        "Onda de hielo"
+    ],
+    "900674": [
+        "Touch of Ice",
+        "冰之碰觸",
+        "얼음의 접촉",
+        "Toucher de glace",
+        "Berührung des Eises",
+        "Toque de hielo"
+    ],
+    "900675": [
+        "Ice Supersonic Wave",
+        "冰之超波動",
+        "얼음의 초강력 파동",
+        "Onde supersonique de glace",
+        "Ultra-Eiskaskade",
+        "Onda supersónica de hielo"
+    ],
+    "900676": [
+        "Ice Sphere",
+        "冰之寶玉",
+        "얼음의 구슬",
+        "Sphère de glace",
+        "Eiskugel",
+        "Esfera de hielo"
+    ],
+    "900677": [
+        "Ice Wave",
+        "冰之波動",
+        "얼음의 파동",
+        "Vague glaciale",
+        "Eiskaskade",
+        "Onda de hielo"
+    ],
+    "900678": [
+        "Domain Under Ice",
+        "降冰領域",
+        "빙하의 영역",
+        "Domaine de glace",
+        "Zone der Eispein",
+        "Dominios del hielo"
+    ],
+    "900679": [
+        "Ice Needle",
+        "冰之針",
+        "얼음의 바늘",
+        "Aiguille de glace",
+        "Eisnadel",
+        "Aguja helada"
+    ],
+    "900680": [
+        "Super Magic Attack - Ice",
+        "超魔撃・冰",
+        "초강력 마법 공격·얼음",
+        "Attaque supramagique - Glace",
+        "Ultramagieschlag - Eis",
+        "Superataque mágico - Hielo"
+    ],
+    "900681": [
+        "Curse of Ice",
+        "冰之詛咒",
+        "얼음의 저주",
+        "Malédiction de glace",
+        "Fluch des Eises",
+        "Maldición helada"
+    ],
+    "900682": [
+        "Touch of Ice",
+        "冰之碰觸",
+        "얼음의 접촉",
+        "Toucher de glace",
+        "Berührung des Eises",
+        "Toque de hielo"
+    ],
+    "900683": [
+        "Domain Under Ice",
+        "降冰領域",
+        "얼음속성 하락의 영역",
+        "Domaine de glace",
+        "Zone der Eispein",
+        "Dominios del hielo"
     ]
 }
