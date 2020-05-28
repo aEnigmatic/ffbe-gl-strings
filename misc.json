@@ -163,7 +163,7 @@
         "[LB]",
         "[極限技]",
         "[LB]",
-        "[LIMITE]",
+        "[LIMITE]<blank>",
         "[LB]",
         "[EL]"
     ],
@@ -171,7 +171,7 @@
         "[MAGIC]",
         "[魔法]",
         "[마법]",
-        "[MAGIE]",
+        "[MAGIE]<blank>",
         "[MAGIE]",
         "[MAGIA]"
     ],
@@ -179,7 +179,7 @@
         "[SPECIAL]",
         "[特殊]",
         "[특수]",
-        "[SPÉCIAL]",
+        "[SPÉCIAL]<blank>",
         "[SPEZIAL]",
         "[ESPECIAL]"
     ],
@@ -632,12 +632,12 @@
         "No se ha podido iniciar sesión con ID de Apple."
     ],
     "APPLE_SIGN_IN_REQUIREMENT": [
-        "Apple ID login unsuccessful. Please confirm that your Apple ID has two-factor authentication (2FA) enabled, and that you are signed into iCloud on your iOS 13 (or higher) device.",
-        "Apple ID登入失敗。請確認您的Apple ID已開啟雙重認證（2FA），並且已於iOS 13以上版本的裝置中登入iCloud。",
-        "Apple ID 로그인에 실패했습니다. 해당 Apple ID의 이중 인증(2FA) 활성화 여부 및 iOS 13 이상 기기에서의 iCloud 로그인 여부를 확인해주십시오.",
-        "Impossible de se connecter avec votre identifiant Apple. Veuillez vous assurer que l'identification à deux facteurs (2FA) est activée pour cet identifiant, et que votre appareil est bien connecté à l'iCloud sous iOS 13 et plus.",
-        "Anmeldung mit Apple-ID fehlgeschlagen. Bitte stelle sicher, dass deine Apple-ID eine Zwei-Faktor-Authentisierung (2FA) ermöglicht, und dass du in iCloud auf deinem iOS 13-Gerät (oder höher) eingeloggt bist.",
-        "Fallo al iniciar sesión con ID de Apple. Confirma que tienes activada la autenticación de dos factores, y que has iniciado sesión en iCloud en tu dispositivo iOS 13 (o superior)."
+        "Apple ID login unsuccessful.<br><br>Please try again and ensure that your Apple ID has two-factor authentication (2FA) enabled, and that you are signed into iCloud on your iOS 13 (or higher) device. If both conditions are met and the issue persists, please contact our Game Support Team for assistance.",
+        "Apple ID登入失敗。<br><br>請再次嘗試並確認您的Apple ID已開啟雙重認證（2FA），以及您是否在iOS 13以上版本的裝置中登入iCloud。如果您具備上述兩項條件卻無法排除問題，請與客服團隊聯繫‧",
+        "Apple ID 로그인에 실패했습니다.<br><br>해당 Apple ID의 이중 인증(2FA) 활성화 및 iOS 13 이상 기기에서의 iCloud 로그인 여부를 확인하고 다시 시도해 주십시오. 두 조건을 모두 충족한 이후에도 문제가 해결되지 않는 경우 고객지원으로 연락 주시기 바랍니다.",
+        "Impossible de se connecter avec votre identifiant Apple.<br><br>Veuillez réessayer en vous assurant que l'identification à deux facteurs (2FA) est activée pour cet identifiant, et que votre appareil est bien connecté à l'iCloud sous iOS 13 et plus. Si le problème persiste malgré le respect de ces deux conditions, merci de prendre contact avec notre service d'assistance.",
+        "Anmeldung mit Apple-ID fehlgeschlagen.<br><br> Bitte versuche es erneut und stelle dabei sicher, dass deine Apple-ID eine Zwei-Faktor-Authentisierung (2FA) ermöglicht, und dass du in iCloud auf deinem iOS 13-Gerät (oder höher) eingeloggt bist.Wenn beides der Fall ist und das Problem weiterhin bestehen bleibt, wende dich bitte an unser Support-Team, um Hilfe zu erhalten.",
+        "Fallo al iniciar sesión con ID de Apple.<br><br>Inténtalo de nuevo y asegúrate de tener activada la autenticación de dos factores, y de haber iniciado sesión en iCloud en tu dispositivo iOS 13 (o superior). Si has realizado ambas cosas y el problema persiste, ponte en contacto con el equipo de asistencia de juego."
     ],
     "APP_NEW_VERSION_DEFAULT_MSG": [
         "A new version of the app is available.",
@@ -684,7 +684,7 @@
         "您可以花費寶石 <color=255:0:0>完全恢復共鬥寶珠</color>。要繼續嗎？",
         "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>계속하시겠습니까?",
         "Vous pouvez utiliser des lapis pour <color=255:0:0>restaurer entièrement vos orbes de Raid</color>.<br>Continuer ?",
-        "Du kannst Lapis benutzen,<color=255:0:0>um deine Raubzugsjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
+        "Du kannst Lapis benutzen,<color=255:0:0>um deine Raubzugjuwelen vollständig wiederherzustellen</color>.<br>Fortfahren?",
         "Puedes usar lapis para <color=255:0:0>restaurar todos tus orbes de Banda</color>.<br>¿Continuar?"
     ],
     "ARENA_ENERGY_RECOVERY": [
@@ -740,7 +740,7 @@
         "共鬥寶珠不足",
         "레이드 구슬 부족",
         "Orbes de raid insuffisants",
-        "Ungenügend Raubzugsjuwelen",
+        "Ungenügend Raubzugjuwelen",
         "Orbes de Banda insuficientes"
     ],
     "ARENA_ORBS_RECOVERY_PROMPT": [
@@ -764,7 +764,7 @@
         "共鬥寶珠已滿。",
         "레이드 구슬이 이미 다 찼습니다.",
         "Vous possédez déjà le nombre maximum d'orbes de raid.",
-        "Deine Raubzugsjuwelen sind bereits gefüllt.",
+        "Deine Raubzugjuwelen sind bereits gefüllt.",
         "Tus orbes de Banda ya están al máximo."
     ],
     "ARENA_RAID_ORBS_AVAIL": [
@@ -772,7 +772,7 @@
         "已有共鬥寶珠。",
         "레이드 구슬을 이미 보유하고 있습니다.",
         "Vous possédez déjà des orbes de raid",
-        "Du hast bereits Raubzugsjuwelen.",
+        "Du hast bereits Raubzugjuwelen.",
         "Ya tienes orbes de Banda"
     ],
     "ARENA_REWARD_BOARD_TITLE": [
@@ -2290,7 +2290,7 @@
     "CRAFT_REQUEST": [
         "Start crafting?",
         "是否要開始製作？",
-        "제작을 시작합니다.<br>계속하시겠습니까?",
+        "제작을 시작합니다. 계속하시겠습니까?",
         "Commencer la fabrication ?",
         "Herstellung beginnen?",
         "¿Comenzar a fabricar?"
@@ -3760,7 +3760,7 @@
         "使用<param=num>個寶石可以<color=255:0:0>恢復所有共鬥寶珠</color>。<br>是否要恢復？",
         "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
         "Vous pouvez entièrement récupérer vos <color=255:0:0>orbes de raid</color> en utilisant <param=num> lapis.<br>Continuer ?",
-        "Du kannst <color=255:0:0>Raubzugorbs</color> mit <param=num> Lapis wiederherstellen.<br>Mit Wiederherstellung fortfahren?",
+        "Du kannst <color=255:0:0>Raubzugjuwelen</color> mit <param=num> Lapis wiederherstellen.<br>Mit Wiederherstellung fortfahren?",
         "Puedes recuperar <color=255:0:0>orbes de banda</color> utilizando <param=num> lapis.<br>¿Continuas con la recuperación?"
     ],
     "ERROR_SHORTAGE_EVENT_ORB_TITLE": [
@@ -3768,7 +3768,7 @@
         "共鬥寶珠不足",
         "레이드 구슬 부족",
         "Orbes de raid insuffisants",
-        "Nicht genug Raubzugorbs.",
+        "Nicht genug Raubzugjuwelen.",
         "Orbes de banda insuficientes"
     ],
     "ERROR_SHORTAGE_RAID_ORB_RECOVERY_MESSAGE": [
@@ -7125,7 +7125,7 @@
     ],
     "LIBRARY": [
         "Guides",
-        "圖鑒",
+        "圖鑑",
         "도감",
         "Guide",
         "Handbücher",
@@ -7133,7 +7133,7 @@
     ],
     "LIBRARY_ABILITY": [
         "Ability Guide",
-        "能力圖鑒",
+        "能力圖鑑",
         "어빌리티 도감",
         "Guide des aptitudes",
         "Fertigkeitenhandbuch",
@@ -7141,7 +7141,7 @@
     ],
     "LIBRARY_BEAST": [
         "Esper Guide",
-        "幻獸圖鑒",
+        "幻獸圖鑑",
         "환수 도감",
         "Guide des chimères",
         "Esperhandbuch",
@@ -7157,7 +7157,7 @@
     ],
     "LIBRARY_EQUIP": [
         "Equipment Guide",
-        "裝備圖鑒",
+        "裝備圖鑑",
         "장비 도감",
         "Guide des pièces d'équipement",
         "Ausrüstungshandbuch",
@@ -7165,7 +7165,7 @@
     ],
     "LIBRARY_ITEM": [
         "Item Guide",
-        "道具圖鑒",
+        "道具圖鑑",
         "아이템 도감",
         "Guide des objets",
         "Gegenstandshandbuch",
@@ -7173,7 +7173,7 @@
     ],
     "LIBRARY_MATERIAL": [
         "Material Guide",
-        "素材圖鑒",
+        "素材圖鑑",
         "재료 도감",
         "Guide des matériaux",
         "Materialhandbuch",
@@ -7181,7 +7181,7 @@
     ],
     "LIBRARY_MONSTER": [
         "Monster Guide",
-        "魔物圖鑒",
+        "魔物圖鑑",
         "몬스터 도감",
         "Guide des monstres",
         "Monsterhandbuch",
@@ -7189,7 +7189,7 @@
     ],
     "LIBRARY_RECIPE": [
         "Recipe Guide",
-        "配方圖鑒",
+        "配方圖鑑",
         "제작법 도감",
         "Guide des recettes",
         "Rezepthandbuch",
@@ -7197,7 +7197,7 @@
     ],
     "LIBRARY_UNIT": [
         "Unit Guide",
-        "兵員圖鑒",
+        "兵員圖鑑",
         "유닛 도감",
         "Guide des unités",
         "Einheitenhandbuch",
@@ -7360,7 +7360,7 @@
         "恢復了全部共鬥寶珠！",
         "레이드 구슬이 모두 회복되었습니다!",
         "Les orbes de raid ont été complètement restaurés !",
-        "Raubzugsjuwelen wurden komplett aufgefüllt.",
+        "Raubzugjuwelen wurden komplett aufgefüllt.",
         "¡Tus orbes de Banda se han recuperado completamente!"
     ],
     "LOCAL_NOTIFICATION_FULL_STAMINA_TEXT": [
@@ -8504,7 +8504,7 @@
         "共鬥寶珠",
         "레이드 구슬",
         "Raid",
-        "Raubzugsjuwelen",
+        "Raubzugjuwelen",
         "Banda"
     ],
     "MENUSETTING_NOTIFICATION_TOP": [
@@ -11435,166 +11435,6 @@
         "30 Zauberschlüssel",
         "Llave mágica x 30"
     ],
-    "MST_LAND_NAME_11": [
-        "Grandshelt",
-        "格蘭謝爾特",
-        "그랑셸트",
-        "Grandshelt",
-        "Grandshelt",
-        "Grandshelt"
-    ],
-    "MST_LAND_NAME_12": [
-        "Dirnado",
-        "迪爾納特",
-        "디르나드",
-        "Dirnado",
-        "Dirnado",
-        "Dirnado"
-    ],
-    "MST_LAND_NAME_13": [
-        "Olderion",
-        "奧爾德里昂",
-        "올데리온",
-        "Olderion",
-        "Olderion",
-        "Olderion"
-    ],
-    "MST_LAND_NAME_14": [
-        "Zoldaad",
-        "佐爾達多",
-        "졸다드",
-        "Zoldaad",
-        "Zoldaad",
-        "Zoldaad"
-    ],
-    "MST_LAND_NAME_15": [
-        "Mysidia",
-        "密西迪亞",
-        "미시디아",
-        "Mysidia",
-        "Mysidia",
-        "Mysidia"
-    ],
-    "MST_LAND_NAME_16": [
-        "Gronoa",
-        "格羅諾亞",
-        "골로노아",
-        "Gronoa",
-        "Gronoa",
-        "Gronoa"
-    ],
-    "MST_LAND_NAME_17": [
-        "Pharm",
-        "法爾姆王國",
-        "팔름 왕국",
-        "Pharm",
-        "Pharm",
-        "Pharm"
-    ],
-    "MST_LAND_NAME_18": [
-        "Land of the Crystals",
-        "水晶大地",
-        "크리스탈의 대지",
-        "Terre des cristaux",
-        "Land der Kristalle",
-        "Tierras de los Cristales"
-    ],
-    "MST_LAND_NAME_19": [
-        "Realm of the Dragon King",
-        "龍王領域",
-        "용왕의 권역",
-        "Royaume du roi dragon",
-        "Reich des Drachenkönigs",
-        "Reino del Rey Dragón"
-    ],
-    "MST_LAND_NAME_21": [
-        "Dimensional Vortex",
-        "次元夾縫",
-        "차원의 틈새",
-        "Vortex dimensionnel",
-        "Dimensionsvortex",
-        "Grieta"
-    ],
-    "MST_LAND_NAME_31": [
-        "Aldore",
-        "阿爾多爾",
-        "알도르",
-        "Aldore",
-        "Aldore",
-        "Aldore"
-    ],
-    "MST_LAND_NAME_32": [
-        "Georl",
-        "吉奧爾",
-        "지오르",
-        "Georl",
-        "Georl",
-        "Georl"
-    ],
-    "MST_LAND_NAME_33": [
-        "Gungan",
-        "群岩",
-        "건간",
-        "Gungan",
-        "Gungan",
-        "Gungan"
-    ],
-    "MST_LAND_NAME_34": [
-        "Crystallis",
-        "克里斯塔里斯",
-        "크리스탈리스",
-        "Cristalis",
-        "Crystallis",
-        "Cristalis"
-    ],
-    "MST_LAND_NAME_35": [
-        "Visectrum",
-        "維瑟庫特拉姆",
-        "뷔섹트럼",
-        "Visectrum",
-        "Visektrum",
-        "Visectrum"
-    ],
-    "MST_LAND_NAME_36": [
-        "Magistellus",
-        "馬基斯特爾斯",
-        "마기스텔스",
-        "Magistellus",
-        "Magistellus",
-        "Magistellus"
-    ],
-    "MST_LAND_NAME_37": [
-        "Rubiena",
-        "魯比艾納",
-        "루비에나",
-        "Rubiena",
-        "Rubiena",
-        "Rubiena"
-    ],
-    "MST_LAND_NAME_38": [
-        "Various Tomorrows",
-        "各自的明天",
-        "각자의 내일",
-        "Divers horizons",
-        "Mannigfaltige Morgen",
-        "Diferentes futuros"
-    ],
-    "MST_LAND_NAME_41": [
-        "Wohlstok",
-        "弗爾斯特克",
-        "올스톡",
-        "Wohlstok",
-        "Wohlstok",
-        "Wohlstok"
-    ],
-    "MST_LAND_NAME_42": [
-        "Kingdom of Illumia",
-        "伊魯米亞王國",
-        "일루미아 왕국",
-        "Royaume d'Illumia",
-        "Königreich Illumia",
-        "Reino de Illumia"
-    ],
     "MST_LIMITBURST_PARAM_MSG_100005304": [
         "The enemy is slouching...",
         "心花怒放...",
@@ -13002,6 +12842,14 @@
         "Quêtes retour - Partie 4",
         "Vergangene Aufträge, Teil 4",
         "Misiones pasadas, Parte 4"
+    ],
+    "MST_SPCHALLENGE_SCHEDULE_NAME_990171": [
+        "World Revisit Quest Part 5",
+        "重返世界任務 Part 5",
+        "월드 재방문 퀘스트 5부",
+        "Quêtes retour - Partie 5",
+        "Vergangene Aufträge, Teil 5",
+        "Misiones pasadas, Parte 5"
     ],
     "MST_STORY_NAME_1": [
         "Grandshelt Isles",
@@ -15007,8 +14855,8 @@
         "I agree with the <color=255:255:0>Terms of Use</color>.",
         "同意<color=255:255:0>規約條款</color>",
         "<color=255:255:0>이용약관</color>에 동의합니다.",
-        "J'accepte ces <color=255:255:0>conditions</color>.",
-        "Ich erkläre mich mit den <br><color=255:255:0>Nutzungsbedingungen</color> einverstanden.",
+        "J'accepte les <color=255:255:0>Conditions Générales d'Utilisation</color>.",
+        "Ich erkläre mich mit den <br><color=255:255:0>Nutzungsbedingungen</color>einverstanden.",
         "Acepto los <color=255:255:0>términos</color>."
     ],
     "PRISM_FILTER_NOTHING_SELECT": [
@@ -15990,7 +15838,7 @@
     "RB_TRADE_COMPLETE_ITEM_MAIL_MSG": [
         "The items below are your for completing an arena medal panel.",
         "以下道具為鬥技場獎牌交換板的交換完成報酬。",
-        "결투장 메달에 따른 모든 판넬 교환 보상으로 아래와 같은 아이템을 지급합니다.",
+        "결투장 메달에 따른 모든 패널 교환 보상으로 아래와 같은 아이템을 지급합니다.",
         "Les objets suivants sont ceux que vous avez reçus pour avoir complété le tableau d'arène.",
         "Die unten stehenden Gegenstände erhältst du für den Abschluss des Arenamedaillentauschs.",
         "Aquí tienes los objetos adquiridos al completar el tablero de Arena."
@@ -16006,7 +15854,7 @@
     "RB_TRADE_ITEM_MAIL_MSG": [
         "The items below are what you exchanged for on the arena medal board.",
         "以下道具為鬥技場獎牌交換板中的交換格報酬。",
-        "결투장 메달에 따른 판넬 교환 보상으로 아래와 같은 아이템을 지급합니다.",
+        "결투장 메달에 따른 패널 교환 보상으로 아래와 같은 아이템을 지급합니다.",
         "Les objets suivants sont ceux que vous avez échangés contre des jetons d'arène.",
         "Die unten stehenden Gegenstände hast du im Arenatausch erhalten.",
         "Aquí tienes los objetos que has intercambiado por medallas de Arena."
@@ -19204,7 +19052,7 @@
         "No has aprendido ninguna magia."
     ],
     "SUMMON_BEAST_MIX": [
-        "Enhance Esper",
+        "Esper Enhancements",
         "強化幻獸",
         "환수 강화",
         "Améliorer une chimère",
@@ -19278,7 +19126,7 @@
     "SUMMON_BEAST_SP_RESET_EXPLANE_MESSAGE": [
         "You can use <color=255:255:0>lapis</color> to <color=255:255:0>completely reset the SP used</color> to train your espers.<br>*Reset <color=255:255:0>SP will be added to your total.</color><br>Proceed with reset?",
         "使用<color=255:255:0>寶石</color>，可將幻獸成長時<br>花費ＳＰ獲得的<color=255:255:0>板，全數<br>重置</color>，並再次<br>進行育成。<br>※重置部分的<color=255:255:0>ＳＰ將全數<br>歸還</color>至持有欄。<br> <br>確定要重置育成板嗎？",
-        "<color=255:255:0>라피스</color>를 사용하여 환수 성장에서<br>SP를 소비하여 획득한<color=255:255:0> 판넬을 모두<br>초기화</color>하여 처음부터 다시<br>육성할 수 있습니다.<br>※초기화한 모든 SP는<color=255:255:0> 보유 칸으로<br>반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
+        "<color=255:255:0>라피스</color>를 사용하여 환수 성장에서<br>SP를 소비하여 획득한<color=255:255:0> 패널을 모두<br>초기화</color>하여 처음부터 다시<br>육성할 수 있습니다.<br>※초기화한 모든 SP는<color=255:255:0> 보유 칸으로<br>반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
         "Vous pouvez utiliser <color=255:255:0>des lapis</color> pour<br><color=255:255:0>réinitialiser complètement les PC utilisés </color><br>pour entraîner vos chimères.<br><color=255:255:0>*Les PC réinitialisés seront ajoutés<br>à votre total.</color><br>Voulez-vous lancer la réinitialisation ?",
         "Du kannst <color=255:255:0>Lapis</color> einsetzen,<br><color=255:255:0>um die verbrauchten SP komplett zurückzusetzen,</color><br>um deine Esper zu trainieren.<br>*Zurücksetzen der <color=255:255:0>wird dem Gesamtbetrag hinzugefügt<br>.</color><br>Mit Zurücksetzen fortfahren?",
         "Puedes usar <color=255:255:0>lapis</color> para <br><color=255:255:0>restablecer completamente los PA que has usado</color><br> entrenando a tus espers.<br>*Los PA restablecidos <color=255:255:0>se  añadirán<br>a tu total.</color><br>¿Quieres restablecer los PA?"
@@ -19302,7 +19150,7 @@
     "SUMMON_BEAST_SP_RESET_FREE_EXPLANE_MESSAGE": [
         "<color=255:255:0>Free for the first time</color>, you can <color=255:255:0>reset an esper's training board</color> and return spent SP so that you can retrain your esper.<br>*Reset <color=255:255:0>SP will be added to your total.</color><br>Proceed with reset?",
         "<color=255:255:0>首次無需花費寶石，</color>可將幻獸成長時<br>花費ＳＰ獲得的<color=255:255:0>板，全數<br>重置</color>，並再次<br>進行育成。<br>※重置部分的<color=255:255:0>ＳＰ將全數<br>歸還</color>至持有欄。<br> <br>確定要重置育成板嗎？",
-        "<color=255:255:0>첫 초기화 시 라피스를 소모하지 않고</color><br>환수 성장에서 SP를 소모하여<br>획득한 <color=255:255:0>판넬을 모두<br>초기화</color>한 뒤<br>처음부터 다시 육성할 수 있습니다.<br>※초기화한 모든 SP는<br><color=255:255:0> 보유 칸으로 반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
+        "<color=255:255:0>첫 초기화 시 라피스를 소모하지 않고</color><br>환수 성장에서 SP를 소모하여<br>획득한 <color=255:255:0>패널을 모두<br>초기화</color>한 뒤<br>처음부터 다시 육성할 수 있습니다.<br>※초기화한 모든 SP는<br><color=255:255:0> 보유 칸으로 반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
         "Vous pouvez <color=255:255:0>réinitialiser le panneau d'entraînement</color> d'une chimère <color=255:255:0>gratuitement la première fois</color> et récupérer les PC dépensés afin de pouvoir l'entraîner à nouveau.<br>*Les<color=255:255:0> PC réinitialisés seront ajoutés<br>à votre total.</color><br>Voulez-vous continuer ?",
         "<color=255:255:0>Beim ersten Mal kostenlos</color>. Du kannst <color=255:255:0>die Trainingsliste eines Espers zurücksetzen</color>und verbrauchte SP wiederherstellen, um deine Esper erneut zu trainieren.<br>*Zurücksetzen <color=255:255:0>der SP wird dem Gesamtbetrag hinzugefügt<br>.</color><br>Mit Zurücksetzen fortfahren?",
         "<color=255:255:0>Como la primera vez es gratis,</color> puedes <br><color=255:255:0>reiniciar completamente el tablero de entrenamiento de tu esper</color><br>y recuperar todos los PA ya usados para entrenarlo de nuevo.<br>*Los PA restablecidos <color=255:255:0>se  añadirán<br>a tu total.</color><br>¿Quieres restablecer los PA?"
@@ -21572,8 +21420,8 @@
         "¿Quieres ir a Paladia?"
     ],
     "WORLD_MAP_MISSION_RESET_CONFIRM1_BODY": [
-        "You can <color=255:255:0>reset</color> all completed <color=255:255:0>main scenario</color> mission data so that you can reattempt missions to obtain rewards.<br>*Once reset, <color=255:255:0>currently accomplished missions cannot be returned.</color><br>Reset main scenario mission completion data?",
-        "將<color=255:255:0>主線劇情</color>的所有達成挑戰資料<color=255:255:0>重置</color>，並重新挑戰，可獲得挑戰達成報酬。<br>※進行ㄧ次重置的話，<color=255:255:0>將無法回復到目前的已達成資料。</color><br>　<br>確定要重置主線劇情的挑戰達成資料嗎？",
+        "You can <color=255:255:0>reset</color> all completed <color=255:255:0>main scenario</color> mission data so that you can reattempt missions to obtain rewards.<br>*Once reset, <color=255:255:0>currently accomplished missions will be set as incomplete.</color><br>Reset main scenario mission completion data?",
+        "將<color=255:255:0>主線劇情</color>的所有達成挑戰資料<color=255:255:0>重置</color>，並重新挑戰，即可獲得挑戰達成報酬。<br>※一旦進行重置，<color=255:255:0>將無法回復到目前的已達成資料。</color><br>　<br>確定要重置主線劇情的挑戰達成資料嗎？",
         "<color=255:255:0>메인 시나리오</color>의<br>모든 미션 달성 데이터를<color=255:255:0> 초기화</color>하여<br>미션을 처음부터 다시 시작,<br>달성 보상을 획득할 수 있습니다.<br>※한번 초기화하면<color=255:255:0> 현재 달성한<br>데이터를 되돌릴 수 없습니다.</color><br>　<br>메인 시나리오의 미션 달성 데이터를<br>초기화하시겠습니까?",
         "Vous pouvez <color=255:255:0>réinitialiser</color> toutes les données des missions du<color=255:255:0>scénario principal</color> afin de pouvoir les faire à nouveau et obtenir leurs récompenses.<br>*Une fois réinitialisées, <color=255:255:0>les données des missions déjà terminées ne pourront pas être récupérées.</color><br>Réinitialiser les données des missions du scénario principal ?",
         "Du kannst alle abgeschlossenen Missionsdaten von <color=255:255:0>Hauptszenarien</color> <color=255:255:0>zurücksetzen</color>, um dich für Belohnungen erneut an Missionen zu versuchen.<br>*Sobald zurückgesetzt, <color=255:255:0>können aktuell abgeschlossene Missionen nicht wiederhergestellt werden.</color><br>Missionsabschlussdaten für Hauptszenarien zurücksetzen?",
@@ -21596,7 +21444,7 @@
         "Restablecer datos de objetivos completados"
     ],
     "WORLD_MAP_MISSION_RESET_FINISHED_BODY": [
-        "<color=255:255:0>All main scenario</color> mission completion data has been <color=255:255:0>reset</color>.",
+        "All <color=255:255:0>main scenario</color> mission completion data has been <color=255:255:0>reset</color>.",
         "<color=255:255:0>主線劇情</color>全部的達成挑戰資料已<color=255:255:0>重置</color>。",
         "<color=255:255:0>메인 시나리오</color>의 모든 미션 달성 데이터를<br><color=255:255:0>초기화</color>했습니다.",
         "Toutes les données des missions du <color=255:255:0>scénario principal</color> ont été <color=255:255:0>réinitialisées</color>.",
@@ -21664,7 +21512,7 @@
         "共鬥寶珠全滿。快進入《FINAL FANTASY BRAVE EXVIUS》吧！",
         "레이드 구슬이 모두 충전되었습니다. 지금 바로 FINAL FANTASY BRAVE EXVIUS에 접속하세요!",
         "Vos orbes de raid sont au maximum. Jouez à FINAL FANTASY BRAVE EXVIUS dès maintenant !",
-        "Deine Raubzugsjuwelen sind voll. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
+        "Deine Raubzugjuwelen sind voll. Jetzt FINAL FANTASY BRAVE EXVIUS spielen!",
         "Tus orbes de banda están al máximo. ¡Juega a FINAL FANTASY BRAVE EXVIUS ahora!"
     ],
     "sgSHOP_ARENA_ORB": [
@@ -21712,7 +21560,7 @@
         "共鬥寶珠",
         "레이드 구슬",
         "Orbes de raid",
-        "Raubzugsjuwelen",
+        "Raubzugjuwelen",
         "orbes de Banda"
     ]
 }

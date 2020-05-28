@@ -3931,7 +3931,7 @@
         "Boost fire, ice, and lightning resistance by 30%",
         "提高30%火冰雷屬性耐性",
         "불, 얼음, 번개속성 저항력 30% 상승",
-        "Augmente la résistance au feu, à la glace et à la lumière de 30%",
+        "Augmente la résistance au feu, à la glace et à la foudre de 30%",
         "Erhöht Feuer-, Eis- und Blitzresistenz um 30%.",
         "Aumenta la res. al fuego, hielo y rayo un 30%"
     ],
@@ -5580,7 +5580,7 @@
         "提高極限技石對極限技槽的增加量+裝備2把單手武器時武具攻擊提升",
         "LB 게이지 효율 상승+한손용 무기 2개 장착 시 장비의 공격력 상승",
         "Augmente le taux de remplissage de la jauge de limite, et augmente l'ATT de l'équipement quand deux armes à une main sont équipées",
-        "Limitmeter füllt sich schneller und erhöht Ausrüstungs-ANG, wenn mit zwei einhändigen Waffen ausgerüstet.",
+        "Limitmeter füllt sich schneller und erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet.",
         "La barra de EL se rellena más rápido, y aumenta el ATQ del equipo al llevar 2 armas de una sola mano"
     ],
     "504233919": [
@@ -5660,8 +5660,40 @@
         "提高60%攻擊魔力+裝備2把單手武器時武具攻擊魔力提升[無法重複裝備]",
         "공격력과 마력 60% 상승+한손용 무기 2개 장착 시 장비의 공격력과 마력 상승 (중복 장착 불가)",
         "Augmente l'ATT et la MAGIE de 60 %, et augmente l'ATT et la MAGIE de l'équipement quand deux armes à une main sont équipées (Non cumulable)",
-        "Erhöht ANG und MAG um 60% und erhöht Ausrüstungs-ANG und -MAG, wenn mit zwei einhändigen Waffen ausgerüstet (Nicht stapelbar).",
+        "Erhöht ANG und MAG um 60% und erhöht Ausrüstung-ANG und -MAG, wenn mit zwei einhändigen Waffen ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ y la MAG un 60%, y aumenta el ATQ y la MAG del equipo al llevar 2 armas de una sola mano (no acumulable)"
+    ],
+    "504234461": [
+        "Boost MAG and SPR by 60%, boost resistance to stop, and escape death one time when HP is above a certain point (Not stackable)",
+        "提高60%魔力精神+提高停止耐性+HP高於一定量時避免陷入無法戰鬥狀態1次[無法重複裝備]",
+        "마력과 정신력 60% 상승+스톱 저항력 상승+HP가 일정량 이상일 때 1회에 한해 전투불능 상태 견딤 (중복 장착 불가)",
+        "Augmente la MAGIE et la PSY de 60 %, augmente la résistance à stop, et permet d'échapper une fois à la mort quand les PV sont au-dessus d'un certain seuil (non cumulable)",
+        "Erhöht MAG und PSY um 60% sowie Resistenz gegen Stopp und entkommt einmal dem Tod, wenn LP über einem bestimmten Wert liegen (Nicht stapelbar).",
+        "Aumenta la MAG y el ESP un 60%, la resistencia a paro, y evita quedar K.O. una vez cuando la VIT está por encima de cierto nivel (no acumulable)"
+    ],
+    "504234463": [
+        "Boost damage for jump attacks, and boost ATK by 70% when equipped with a spear (Not stackable)",
+        "提高跳躍系能力的傷害+裝備長槍時提高70%攻擊[無法重複裝備]",
+        "점프 계열 어빌리티 피해량 상승+창 장착 시 공격력 70% 상승 (중복 장착 불가)",
+        "Augmente les dégâts des attaques sautées et augmente l'ATT de 70 % quand une lance est équipée (non cumulable)",
+        "Erhöht Schaden von Sprungangriffen und erhöht ANG um 70%, wenn mit einem Speer ausgerüstet (Nicht stapelbar).",
+        "Aumenta el daño de ataques de salto, y aumenta el ATQ un 70% al llevar lanza (no acumulable)"
+    ],
+    "504234465": [
+        "Boost ATK by 30%, and boost ATK by 30% when equipped with a spear",
+        "提高30%攻擊+裝備長槍時提高30%攻擊",
+        "공격력 30% 상승+창 장착 시 공격력 30% 상승",
+        "Augmente l'ATT de 30 % et augmente l'ATT de 30 % quand une lance est équipée",
+        "Erhöht ANG um 30% und erhöht ANG zusätzlich um 30%, wenn mit einem Speer ausgerüstet.",
+        "Aumenta el ATQ un 30%, y lo aumenta otro 30% al llevar lanza"
+    ],
+    "504234466": [
+        "Boost ATK by 40%, and boost activation rate of counter abilities",
+        "提高40%攻擊+提高反擊系能力的發動機率",
+        "공격력 40% 상승+반격 계열 어빌리티 발동 확률 상승",
+        "Augmente l'Att de 40 % et augmente le taux d'activation des aptitudes de contre-attaque",
+        "Erhöht ANG um 40% und Aktivierungswahrscheinlichkeit von Konterfertigkeiten.",
+        "Aumenta el ATQ un 40% y la probabilidad de activar contrahabilidades"
     ],
     "504400110": [
         "Halve chance of encounters",
@@ -6694,5 +6726,21 @@
         "Augmente l'ATT de 80 % quand une arme élémentaire de ténèbres est équipée (non cumulable)",
         "Erhöht ANG um 80%, wenn mit Dunkel-Elementarwaffe ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ un 80% al llevar un arma de elemento oscuridad (no acumulable)"
+    ],
+    "1500000131": [
+        "Boost equipment ATK when a single weapon is equipped in both hands (Not stackable)",
+        "雙手只裝備1把武器時武具攻擊提升[無法重複裝備]",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력 상승 (중복 장착 불가)",
+        "Augmente l'ATT de l'équipement quand une arme est tenue avec les deux mains (Non cumulable)",
+        "Erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).",
+        "Aumenta el ATQ del equipo al llevar una sola arma en ambas manos (no acumulable)"
+    ],
+    "1500000132": [
+        "Boost equipment MAG when a single weapon is equipped in both hands (Not stackable)",
+        "雙手只裝備1把武器時武具魔力提升[無法重複裝備]",
+        "양손의 장비가 무기 1개일 경우 장비의 마력 상승 (중복 장착 불가)마",
+        "Augmente la MAGIE de l'équipement quand une arme est tenue avec les deux mains (Non cumulable)",
+        "Erhöht Ausrüstung-MAG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist (Nicht stapelbar).MAG",
+        "Aumenta la MAG del equipo al llevar una sola arma en ambas manos (no acumulable)"
     ]
 }
