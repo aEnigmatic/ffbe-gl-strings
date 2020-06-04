@@ -5655,6 +5655,54 @@
         "Erhöht ANG sowie ABW um 30% und regeneriert jede Runde LP sowie MP.",
         "Aumenta el ATQ y la DEF un 30%, y recupera VIT y PM cada turno."
     ],
+    "504234201": [
+        "Boosts MAG by 60%, MAG by 20% when equipped with a bow, and equipment MAG when a single weapon is equipped in both hands. Not stackable.",
+        "提高60%魔力，並且裝備弓時提高20%魔力，以及雙手只裝備1把武器時武具魔力提升。[無法重複裝備]",
+        "마력이 60% 상승하고, 활 장착 시 마력이 20% 상승하며, 양손의 장비가 무기 1개일 경우 장비의 마력이 상승합니다. (중복 장착 불가)",
+        "Augmente la MAGIE de 60 %, augmente la MAGIE de 20 % quand un arc est équipé et augmente la MAGIE de l'équipement quand une arme est tenue avec les deux mains. Non cumulable.",
+        "Erhöht MAG um 60%, MAG zusätzlich um 20%, wenn mit einem Bogen ausgerüstet, und Ausrüstung-MAG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta la MAG un 60%, otro 20% al llevar arco, y aumenta la MAG del equipo al llevar una sola arma en ambas manos. No acumulable."
+    ],
+    "504234202": [
+        "Boosts ATK by 80% and physical damage against dragons and machina monsters. Not stackable.",
+        "提高80%攻擊，並且物理攻擊時提高對龍機械系魔物的傷害。[無法重複裝備]",
+        "공격력이 80% 상승하고, 물리 공격 시 드래곤과 기계형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de 80 % et augmente les dégâts physiques infligés aux dragons et aux machines. Non cumulable.",
+        "Erhöht ANG um 80% und physischen Schaden gegen Drachen und Maschinen. Nicht stapelbar.",
+        "Aumenta el ATQ un 80% y el daño físico contra dragones y máquinas. No acumulable."
+    ],
+    "504234203": [
+        "Boosts MAG and SPR by 30% and boosts LB gauge fill rate.",
+        "提高30%魔力精神，並且提高極限技石對極限技槽的增加量。",
+        "마력과 정신력이 30% 상승하고, LB 게이지 효율이 상승합니다.",
+        "Augmente la MAGIE et la PSY de 30 % et augmente le taux de remplissage de la jauge de limite.",
+        "Erhöht MAG sowie PSY um 30% und Limitmeter füllt sich schneller.",
+        "Aumenta la MAG y el ESP un 30% y la barra de EL se rellena más rápido."
+    ],
+    "504234204": [
+        "Boosts HP by 20%, and boosts DEF and SPR by 40% when equipped with a sword. Not stackable.",
+        "提高20%HP，以及裝備劍時提高40%防禦精神。[無法重複裝備]",
+        "HP가 20% 상승하고, 검 장착 시 방어력과 정신력이 40% 상승합니다. (중복 장착 불가)",
+        "Augmente les PV de 20 % et augmente la DEF et la PSY de 40 % quand une épée est équipée. Non cumulable.",
+        "Erhöht LP um 20% und erhöht ABW sowie PSY um 40%, wenn mit einem Schwert ausgerüstet. Nicht stapelbar.",
+        "Aumenta la VIT un 20% y aumenta la DEF y el ESP un 40% al llevar espada. No acumulable."
+    ],
+    "504234205": [
+        "Deals water damage to one enemy.",
+        "對1名敵人發動水屬性攻擊。",
+        "적 1명에게 물속성 피해를 줍니다.",
+        "Inflige des dégâts d'eau à un ennemi.",
+        "Fügt einem Gegner Wasserschaden zu.",
+        "Daño de agua a un enemigo."
+    ],
+    "504234206": [
+        "Activates barrier for all allies.",
+        "賦予全體隊員屏障效果。",
+        "아군 전체에 배리어를 부여합니다.",
+        "Érige une barrière autour de tous les alliés.",
+        "Aktiviert Barriere für alle Verbündeten.",
+        "Activa Barrera para todos los aliados."
+    ],
     "504234420": [
         "Boosts ATK and MAG by 60%, and boosts equipment ATK and MAG when armed with two one-handed weapons. Not stackable.",
         "提高60%攻擊魔力，並且裝備2把單手武器時武具攻擊魔力提升。[無法重複裝備]",
@@ -5694,6 +5742,22 @@
         "Augmente l'ATT de 40 % et augmente le taux d'activation des aptitudes de contre-attaque",
         "Erhöht ANG um 40% und Aktivierungswahrscheinlichkeit von Konterfertigkeiten.",
         "Aumenta el ATQ un 40% y la probabilidad de activar contrahabilidades."
+    ],
+    "504234760": [
+        "Deals wind damage and reduces wind resistance for one enemy, and boosts wind resistance for all allies.",
+        "對1名敵人發動風屬性攻擊，並且降低風屬性耐性，以及提高全體隊員的風屬性耐性。",
+        "적 1명에게 바람속성 피해를 주고, 바람속성 저항력을 감소시키며, 아군 전체의 바람속성 저항력이 상승합니다.",
+        "Inflige des dégâts de vent à un ennemi et réduit sa résistance au vent, et augmente la résistance au vent de tous les alliés",
+        "Fügt Windschaden zu, verringert Windresistenz eines Gegners und erhöht Windresistenz aller Verbündeten.",
+        "Daño de viento a un enemigo, reduce su resistencia al viento y aumenta la resistencia al viento de todos los aliados."
+    ],
+    "504234761": [
+        "Boosts HP and MP by 25%, and wind resistance by 30%.",
+        "提高25%HPMP、30%風屬性耐性。",
+        "HP와 MP가 25% 상승하고, 바람속성 저항력이 30% 상승합니다.",
+        "Augmente les PV et les PM de 25 %, et la résistance au vent de 30 %",
+        "Erhöht LP sowie MP um 25% und Windresistenz um 30%.",
+        "Aumenta la VIT y los PM un 25% y la resistencia al viento un 30%."
     ],
     "504400110": [
         "Halves chances of any encounters.",
@@ -6740,7 +6804,7 @@
         "雙手只裝備1把武器時武具魔力提升。[無法重複裝備]",
         "양손의 장비가 무기 1개일 경우 장비의 마력이 상승합니다. (중복 장착 불가)",
         "Augmente la MAGIE de l'équipement quand une arme est tenue avec les deux mains. Non cumulable.",
-        "Erhöht Ausrüstung-MAG, wenn eine einzelne Waffe in beiden Händen ausgerüstet iist. Nicht stapelbar.",
+        "Erhöht Ausrüstung-MAG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
         "Aumenta la MAG del equipo al llevar una sola arma en ambas manos. No acumulable."
     ]
 }

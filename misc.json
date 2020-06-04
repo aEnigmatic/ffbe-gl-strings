@@ -2335,6 +2335,14 @@
         "Sofort herstellen für <param=num> <param=lapis>?",
         "¿Fabricar instantáneamente por <param=num> <param=lapis>?"
     ],
+    "CRAFT_WARNING_FAVORITE_TEXT": [
+        "Unable to craft. Some materials have been set as favorites.",
+        "部分素材包含於「鎖定」中，因此無法進行製作。",
+        "일부 재료가 즐겨찾기에 설정되어 있어, 제작할 수 없습니다.",
+        "Impossible de fabriquer. Certains matériaux nécessaires sont dans vos favoris.",
+        "Herstellen nicht möglich. Einige Materialien wurden als Favoriten festgelegt.",
+        "No se puede elaborar porque algunos materiales se han establecido como preferidos."
+    ],
     "CRAFT_WARNING_TEXT": [
         "Proceed with equipment enhancement?<br>The equipment used for enhancement will be consumed.",
         "是否確認進行強化？<br>將移除作為強化素材使用的裝備。",
@@ -3163,6 +3171,14 @@
         "Einheit mit Bonus für den Fertigkeitserwerb befindet sich nicht in der Gruppe.",
         "No hay ninguna unidad con bonificación de adquisición de habilidad en el grupo."
     ],
+    "EQUIP_GROW_NO_SELECT_WITH_FAVORITE": [
+        "The equipment has been set as a <color=255:255:0>favorite</color> and cannot be enhanced.<br>To <color=255:255:0>remove equipment from favorites</color>, go to the equipment screen.<br>*To go to the equipment screen, <color=255:255:0>press and hold on a piece of equipment.</color>",
+        "裝備設定為<color=255:255:0>「鎖定」</color>，因此無法進行武具強化。<br>請透過裝備詳細說明頁面<color=255:255:0>解除「鎖定」設定</color>。<br>※可透過<color=255:255:0>長按裝備</color>來打開裝備詳細說明頁面。",
+        "장비가 <color=255:255:0>즐겨찾기</color>에 설정되어 강화할 수 없습니다.<br>장비 정보 화면에서  <color=255:255:0>장비를 즐겨찾기에서 해제</color>하십시오.<br>※장비 정보 화면은 <color=255:255:0>해당 장비를 길게 눌러</color> 확인할 수 있습니다.",
+        "La pièce d'équipement a été ajoutée à vos<color=255:255:0>favoris</color> et ne peut pas être améliorée.<br>Pour <color=255:255:0>retirer l'équipement de vos favoris</color>, rendez-vous sur l'écran des pièces d'équipement.<br>*Sur l'écran \"Équipement\", <color=255:255:0>appuyez de manière prolongée sur une pièce d'équipement.</color>",
+        "Diese Ausrüstung wurde zu den <color=255:255:0>Favoriten</color>hinzugefügt und kann deswegen nicht verbessert werden.<br>Um die Ausrüstung <color=255:255:0>aus den Favoriten zu entfernen</color>, begib dich zum Ausrüstungsbildschirm.<br>* Zum Ausrüstungsbildschirm gelangst du, indem du <color=255:255:0>auf eine Ausrüstung tippst und gedrückt hältst.</color>",
+        "Se ha seleccionado el equipo como <color=255:255:0>Preferido</color> y no se puede mejorar.<br>Para <color=255:255:0>que deje de ser un preferido</color>, ve a la pantalla de equipo.<br>*Para ir a la pantalla de equipo, <color=255:255:0>toca y mantén pulsada una pieza de equipo.</color>"
+    ],
     "EQUIP_GROW_PARTY_DEAD_CONFIRM_BODY": [
         "You cannot depart to this floor without a companion selected as your <color=255:255:0>entire party has been KO'd</color>. Please retire or select a companion.<br>Returning to the floor select screen.",
         "因為<color=255:0:0>全隊伍陷入無法戰鬥狀態</color>，在沒有同行者的情況下，無法出發前往樓層。<br>請選擇同行者或是選擇返回。<br>即將回到樓層選擇畫面。",
@@ -3420,12 +3436,12 @@
         "Se puede usar al equiparse con <color=255:255:0>item_name</color>."
     ],
     "EQUIP_NG_REQUIRED_EQUIPMENT_CONJ": [
-        "or",
+        "<blank>or<blank>",
         "或",
-        "또는",
-        "ou",
-        "oder",
-        "o"
+        "<blank>또는<blank>",
+        "<blank>ou<blank>",
+        "<blank>oder<blank>",
+        "<blank>o<blank>"
     ],
     "EQUIP_NG_SEX_UNMATCH": [
         "Certain gender only.",
@@ -3466,6 +3482,14 @@
         "Vous ne possédez pas de pièces d'équipement.",
         "Du hast keine Ausrüstung.",
         "No tienes ningún objeto de equipo."
+    ],
+    "EQUIP_PARTS_FILTER_TYPE": [
+        "Equipment Slots",
+        "適用部位",
+        "적용 부위",
+        "Emplacements d'équipement",
+        "Ausrüstungsslots",
+        "Rarunas de equipo"
     ],
     "EQUIP_PROPERTY_NONE": [
         "No Added Effects",
@@ -5779,6 +5803,62 @@
         "Der Beschwörungszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
         "El periodo de evento ha terminado.<br>Volviendo a la pantalla de invocaciones."
     ],
+    "GACHA_PANEL_CONFIRM_OBTAIN_ALL_PANEL": [
+        "All panel rewards have been obtained. Proceed to summon?",
+        "抽獎格的報酬已經全數領取。<br>要進行召喚嗎？",
+        "패널 보상을 모두 획득하였습니다.<br>소환을 진행하시겠습니까?",
+        "Toutes les récompenses ont été obtenues. Effectuer une invocation ?",
+        "Alle Kachelbelohnungen erhalten. Fortfahren zur Beschwörung?",
+        "Has obtenido todas las recompensas del bingo.¿Quieres invocar?"
+    ],
+    "GACHA_PANEL_DETAIL_CONFIRM_RESET": [
+        "Proceed with reset?",
+        "要重置嗎？",
+        "초기화를 진행하시겠습니까?",
+        "Réinitialiser le tableau ?",
+        "Kacheln zurücksetzen?",
+        "¿Quieres restaurarlo?"
+    ],
+    "GACHA_PANEL_DETAIL_CONFIRM_RESET_DONE": [
+        "Panel sheet has been reset.",
+        "已重置。",
+        "패널 시트가 초기화되었습니다.",
+        "Le tableau a été réinitialisé",
+        "Die Kacheln wurden zurückgesetzt.",
+        "El bingo se ha restaurado."
+    ],
+    "GACHA_PANEL_DETAIL_SHEET": [
+        "Panel Sheet:",
+        "抽獎格分頁：",
+        "패널 시트:",
+        "Tableau :",
+        "Kacheln:",
+        "Bingo:"
+    ],
+    "GACHA_PANEL_FREE": [
+        "Free",
+        "免費",
+        "무료",
+        "Gratuit",
+        "Kostenlos",
+        "Gratis"
+    ],
+    "GACHA_PANEL_LOTTERY_CURRENT_SHEET": [
+        "Current sheet:",
+        "現在的分頁：",
+        "현재 시트:",
+        "Page actuelle :",
+        "Aktuelle Seite:",
+        "Bingo actual:"
+    ],
+    "GACHA_PANEL_LOTTERY_TITLE": [
+        "Panel Sheet Lottery",
+        "抽獎格分頁抽獎！",
+        "패널 시트 뽑기",
+        "Lotterie",
+        "Kachel-Lotterie:",
+        "Lotería de bingo"
+    ],
     "GACHA_PAY_LB_CV": [
         "Voice:",
         "LBCV：",
@@ -7963,6 +8043,14 @@
         "Alle gelesenen Nachrichten löschen?",
         "¿Borrar todos los mensajes?"
     ],
+    "MAIL_DELETE_PROTECTION_CONFIRM": [
+        "Delete all mailbox messages except protected messages.<br>Proceed?",
+        "將全數刪除受保護以外的已讀信件。<br>確定刪除嗎？",
+        "메시지함 내 보호된 메시지를 제외한 모든 메시지를 삭제합니다.>br>진행하시겠습니까?",
+        "Tous les messages de la boîte de réception hormis les messages protégés seront supprimés.<br>Continuer ?",
+        "Alle Nachrichten im Posteingang außer geschützten Nachrichten werden gelöscht.<br>Fortfahren?",
+        "Se borrarán todos los mensajes excepto los protegidos.<br>¿Deseas continuar?"
+    ],
     "MAIL_DELETE_WARNING": [
         "*Messages will be deleted within 30 days if not received.",
         "※郵件將會在收信時間超過30天後自動刪除。",
@@ -7970,6 +8058,14 @@
         "Les messages non reçus dans un délai de 30 jours seront effacés.",
         "*Nachrichten werden bei Nichterhalt nach 30 Tagen gelöscht.",
         "*Los mensajes serán borrados en 30 días si no han sido recibidos."
+    ],
+    "MAIL_DELETE_WARNING_2": [
+        "*Messages will be deleted past the protected date below.",
+        "※若超過以下保護期間將刪除信件。",
+        "※ 메시지는 아래의 보호 기간이 지난 뒤 삭제됩니다.",
+        "* Les messages seront supprimés après expiration de la date de protection ci-dessous.",
+        "* Die Nachrichten werden nach Ablauf des unten stehenden Datums, bis zu dem sie geschützt sind, gelöscht.",
+        "*Pasado el siguiente periodo de protección, los mensajes se borrarán."
     ],
     "MAIL_LIST": [
         "Messages",
@@ -7986,6 +8082,14 @@
         "Vous n'avez aucun message.",
         "Du hast keine Nachrichten.",
         "No tienes ningún mensaje."
+    ],
+    "MAIL_PROTECTION_DATE": [
+        "Protected till:",
+        "保護期間：",
+        "보호 기간:",
+        "Protégé jusqu'au :",
+        "Geschützt bis:",
+        "Protegido hasta:"
     ],
     "MAIL_RECEIVE": [
         "Receive",
@@ -9618,6 +9722,14 @@
         "Impossible de retrouver les informations concernant la récompense.",
         "Informationen zu den Belohnungen konnten nicht empfangen werden.",
         "No se ha podido recuperar la información."
+    ],
+    "MSG_INCORRECT_SLOT": [
+        "The slot data is invalid.",
+        "SLOT資訊出現錯誤。",
+        "슬롯 정보가 올바르지 않습니다.",
+        "Les données de l'emplacement sont incorrectes.",
+        "Ungültige Daten in diesem Slot.",
+        "Los datos de la ranura no son válidos."
     ],
     "MSG_INVALID_ACHIEVEMENT_REWARD": [
         "The achievement reward is invalid.",
@@ -11435,6 +11547,46 @@
         "30 Zauberschlüssel",
         "Llave mágica x 30"
     ],
+    "MST_GACHA_PANEL_MAIL_TEXT": [
+        "The following item(s) are rewards from the Panel Summon.",
+        "以下道具為抽獎格召喚報酬。",
+        "패널 보상으로 다음의 아이템을 획득했습니다.",
+        "Voici les objets pouvant être obtenus comme récompenses de l'invocation à tableau",
+        "Die folgenden Gegenstände sind als Belohnungen für Kachelbeschwörungen erhältlich.",
+        "Aquí tienes la(s) recompensa(s) de la invocación de bingo."
+    ],
+    "MST_GACHA_PANEL_MAIL_TITLE": [
+        "Panel Summon Rewards",
+        "抽獎格召喚報酬！",
+        "패널 소환 보상",
+        "Récompenses de l'invocation à tableau",
+        "Belohnungen für Kachelbeschwörungen",
+        "Recompensas de invocación de bingo"
+    ],
+    "MST_GACHA_PANEL_MESSAGE_18": [
+        "You'll get a panel summon reward up to the 18th summon ~ kupo!,You'll get a panel summon reward up to the 18th summon ~ kupo!,I wonder what you'll get ~ kupo!,You got <color=255:165:0><param=item_name></color>!<br>Kupo-lations!",
+        "到第18次為止都可以獲得抽獎格的報酬～庫啵！,到第18次為止都可以獲得抽獎格的報酬～庫啵！,會出現什麼呢～庫啵♪會出現什麼呢～庫啵♪,獲得了<color=255:165:0><param=item_name></color>庫啵！<br>恭喜～庫啵！！",
+        "최대 18회 소환까지 패널 소환 보상을 획득쿠포!  ,최대 18회까지 패널 소환 보상을 획득쿠포! ,무엇을 얻을지 궁금쿠포! ,<color=255:165:0><param=item_name></color> 획득쿠포!<br>축하한다쿠포!",
+        "Une récompense du tableau par invocation jusqu'à la 18e invocation ~ kupo !,Une récompense du tableau par invocation jusqu'à la 18e invocation ~ kupo !,Qu'est-ce qui va sortir ? Qu'est-ce qui va sortir ?,Tu as obtenu <color=255:165:0><param=item_name></color> !<br>Félicitations ~ kupo !",
+        "Du erhältst eine Belohnung für die ersten 18 Kachelbeschwörungen - kupo! ,Du erhältst eine Belohnung für die ersten 18 Kachelbeschwörungen - kupo! ,Ich bin schon so gespannt was du bekommen wirst - kupo! ,Du hast <color=255:165:0><param=item_name></color>erhalten<br>! Kupolation!",
+        "¡Obtendrás una recompensa de bingo de tablero hasta la 18.ª invocación... kupó! ,¡Obtendrás una recompensa de invocación de bingo hasta la 18.ª invocación... kupó! ,¡Qué será... serááá! ,¡Has conseguido <color=255:165:0><param=item_name></color>!<br>¡Ehorabuena... kupó!"
+    ],
+    "MST_GACHA_PANEL_MESSAGE_27": [
+        "You'll get a panel summon reward up to the 27th summon ~ kupo!,You'll get a panel summon reward up to the 27th summon ~ kupo!,I wonder what you'll get ~ kupo!,You got <color=255:165:0><param=item_name></color>!<br>Kupo-lations!",
+        "到第27次為止都可以獲得抽獎格的報酬～庫啵！,到第27次為止都可以獲得抽獎格的報酬～庫啵！,會出現什麼呢～庫啵♪會出現什麼呢～庫啵♪,獲得了<color=255:165:0><param=item_name></color>庫啵！<br>恭喜～庫啵！！",
+        "최대 27회 소환까지 패널 소환 보상을 획득쿠포!  ,최대 27회까지 패널 소환 보상을 획득쿠포! ,무엇을 얻을지 궁금쿠포! ,<color=255:165:0><param=item_name></color> 획득쿠포!<br>축하한다쿠포!",
+        "Une récompense du tableau par invocation jusqu'à la 27e invocation ~ kupo !,Une récompense du tableau par invocation jusqu'à la 27e invocation ~ kupo !,Qu'est-ce qui va sortir ? Qu'est-ce qui va sortir ?,Tu as obtenu <color=255:165:0><param=item_name></color> !<br>Félicitations ~ kupo !",
+        "Du erhältst eine Belohnung für die ersten 27 Kachelbeschwörungen - kupo! ,Du erhältst eine Belohnung für die ersten 27 Kachelbeschwörungen - kupo! ,Ich bin schon so gespannt was du bekommen wirst - kupo! ,Du hast <color=255:165:0><param=item_name></color>erhalten<br>! Kupolation!",
+        "¡Obtendrás una recompensa de invocación de bingo hasta la 27.ª invocación... kupó! ,¡Obtendrás una recompensa de invocación de bingo hasta la 27.ª invocación... kupó! ,¡Qué será... serááá! ,¡Has conseguido <color=255:165:0><param=item_name></color>!<br>¡Enhorabuena... kupó!"
+    ],
+    "MST_GACHA_PANEL_MESSAGE_9": [
+        "You'll get a panel summon reward up to the 9th summon ~ kupo!,You'll get a panel summon reward up to the 9th summon ~ kupo!,I wonder what you'll get ~ kupo!,You got <color=255:165:0><param=item_name></color>!<br>Kupo-lations!",
+        "到第9次為止都可以獲得抽獎格的報酬～庫啵！,到第9次為止都可以獲得抽獎格的報酬～庫啵！,會出現什麼呢～庫啵♪會出現什麼呢～庫啵♪,獲得了<color=255:165:0><param=item_name></color>庫啵！<br>恭喜～庫啵！！",
+        "최대 9회 소환까지 패널 소환 보상을 획득쿠포!  ,최대 9회까지 패널 소환 보상을 획득쿠포! ,무엇을 얻을지 궁금쿠포! ,<color=255:165:0><param=item_name></color> 획득쿠포!<br>축하한다쿠포!",
+        "Une récompense du tableau par invocation jusqu'à la 9e invocation ~ kupo !,Une récompense du tableau par invocation jusqu'à la 9e invocation ~ kupo !,Qu'est-ce qui va sortir ? Qu'est-ce qui va sortir ?,Tu as obtenu <color=255:165:0><param=item_name></color> !<br>Félicitations ~ kupo !",
+        "Du erhältst eine Belohnung für die ersten 9 Kachelbeschwörungen - kupo! ,Du erhältst eine Belohnung für die ersten 9 Kachelbeschwörungen - kupo! ,Ich bin schon so gespannt was du bekommen wirst - kupo! ,Du hast <color=255:165:0><param=item_name></color>erhalten<br>! Kupolation!",
+        "¡Obtendrás una recompensa de invocación de bingo hasta la 9.ª invocación... kupó! ,¡Obtendrás una recompensa de invocación de bingo hasta la 9.ª invocación... kupó! ,¡Qué será... serááá! ,¡Has conseguido <color=255:165:0><param=item_name></color>!<br>¡Enhorabuena... kupó!"
+    ],
     "MST_LIMITBURST_PARAM_MSG_100005304": [
         "The enemy is slouching...",
         "心花怒放...",
@@ -11474,14 +11626,6 @@
         "Une erreur s'est produite lors du chargement des données. Retournez à l'écran-titre ?<br>*Les données n'ayant pas pu être chargées seront re-téléchargées lors du redémarrage.",
         "Beim Laden der Daten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Daten, die nicht geladen werden konnten, werden bei Neustart erneut heruntergeladen.",
         "Ha ocurrido un error al cargar datos. Volviendo a la pantalla de título.<br>Los datos no cargados se volverán a descargar tras reiniciar."
-    ],
-    "MST_PLAYBACK_SEASON_30": [
-        "Season 3",
-        null,
-        null,
-        null,
-        null,
-        null
     ],
     "MST_RB_ABILITY_GROUP_DES_1": [
         "Normal forbidden",
@@ -14140,12 +14284,12 @@
         "Un moguri prismático que se puede fusionar con un moguri específico de maestro fiel de 3★ para obtener su recompensa maestro fiel correspondiente cuando su fidelidad alcanza el 100%."
     ],
     "MULTIPLE": [
-        "x",
-        "x",
-        "x",
-        "x",
-        "x",
-        "x"
+        "<blank>x<blank>",
+        "<blank>x<blank>",
+        "<blank>x<blank>",
+        "<blank>x<blank>",
+        "<blank>x<blank>",
+        "<blank>x<blank>"
     ],
     "MYCARD_CALLBACK_LAPIS_PURCHASE_MAIL_MESSAGE": [
         "This is the content from your MyCard purchase.",
@@ -14475,6 +14619,22 @@
         "Schwächen",
         "Debilidades"
     ],
+    "PARADE_PARTY_EDIT_CONFIRM_PARTY_COPY": [
+        "<param=deck_name> has been copied.",
+        "<param=deck_name>的隊伍資訊已複製。",
+        "<param=deck_name> 파티 정보를 복사하였습니다.",
+        "<param=deck_name> a été copié.",
+        "<param=deck_name> wurde kopiert.",
+        "Se ha copiado <param=deck_name>."
+    ],
+    "PARADE_PARTY_EDIT_CONFIRM_PARTY_PASTE": [
+        "The current party configuration will be overwritten. Are you sure?",
+        "原有的隊伍資訊將被覆蓋。<br>確定要貼上隊伍資訊嗎？",
+        "현재 파티 설정을 덮어쓰기합니다.<br>덮어쓰기하시겠습니까?",
+        "La configuration du groupe actuelle va être écrasée. Continuer ?",
+        "Die aktuellen Konfigurationen für diese Gruppe werden überschrieben. Bist du sicher?",
+        "Se sobreescribirá la configuración de grupo actual. ¿Estás seguro?"
+    ],
     "PARADE_PARTY_ELEMENT_UP_DARK": [
         "Boost <color=222:5:5>dark</color> damage by 20%",
         "提高20%<color=222:5:5>暗屬性</color>傷害",
@@ -14539,6 +14699,22 @@
         "Erhöht <color=222:5:5>Wind</color>schaden um 20%.",
         "Aumenta el daño de <color=222:5:5>viento</color> un 20%"
     ],
+    "PARADE_PARTY_REGISTER_SLOT_LIST_LOAD_SUB_HEADER": [
+        "Load a Party (Dark Visions)",
+        "讀取隊伍（暗黑幻境）",
+        "파티 불러오기(다크 비전 전용)",
+        "Charger un groupe (Visions obscures)",
+        "Gruppe abrufen (Dunkle Visionen)",
+        "Carga un grupo (Visiones oscuras)"
+    ],
+    "PARADE_PARTY_REGISTER_SLOT_LIST_SAVE_SUB_HEADER": [
+        "Save a Party (Dark Visions)",
+        "保存隊伍（暗黑幻境）",
+        "파티 저장오기(다크 비전 전용)",
+        "Sauvegarder un groupe (Visions obscures)",
+        "Gruppe speichern (Dunkle Visionen)",
+        "Guarda un grupo (Visiones oscuras)"
+    ],
     "PARADE_RADAR_CHART_ATK": [
         "DMG",
         "DMG",
@@ -14571,6 +14747,14 @@
         "KO",
         "KO"
     ],
+    "PARADE_RADAR_CHART_LB": [
+        "LB",
+        "極限技",
+        "LB",
+        "LMT",
+        "LR",
+        "EL"
+    ],
     "PARADE_RADAR_CHART_TRN": [
         "TRN",
         "TRN",
@@ -14578,6 +14762,14 @@
         "TRS",
         "RND",
         "TUR"
+    ],
+    "PARADE_RADAR_CHART_WAC": [
+        "EFF",
+        "EFF",
+        "Weak",
+        "AEP",
+        "EFF ANG",
+        "ATQ EF"
     ],
     "PARADE_RANKING_CLOSED": [
         "No event is currently available.",
@@ -14629,10 +14821,10 @@
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_LOAD_DIFF_CAUTION": [
         "<param=slotname> was loaded, but there is a <color=255:255:0>unit</color> or <color=255:255:0>piece of equipment </color>that differs from when saved.",
-        "已讀取「<param=slotname>」，但是存在著與儲存時不同的<color=255:255:0>兵員</color>或<color=255:255:0>裝備</color>",
+        "已讀取「<param=slotname>」，但是存在著與儲存時不同的<color=255:255:0>兵員</color>或<color=255:255:0>裝備</color>。",
         "'<param=slotname>'을(를) 불러오기했으나, 저장한 정보와는 다른 <color=255:255:0>유닛</color> 또는 <color=255:255:0>장비</color>가 있습니다.",
-        "<param=slotname> a été chargé(e) correctement, mais une <color=255:255:0>unité</color> ou une <color=255:255:0>pièce d'équipement </color>est différente par rapport au moment où le groupe a été sauvegardé.",
-        "<param=slotname> wurde abgerufen, aber es wurde eine  <color=255:255:0>Einheit</color> oder ein <color=255:255:0>Ausrüstungsgegenstand</color> gefunden, der sich vom Zeitpunkt des Speicherns unterscheidet.",
+        "Le groupe \"<param=slotname>\" a été chargé avec succès, mais une <color=255:255:0>unité</color> ou une <color=255:255:0>pièce d'équipement </color>est différente par rapport au moment où le groupe a été sauvegardé.",
+        "<param=slotname> wurde abgerufen, aber es wurde eine <color=255:255:0>Einheit</color> oder ein <color=255:255:0>Ausrüstungsgegenstand</color> gefunden, der sich vom Zeitpunkt des Speicherns unterscheidet.",
         "Se ha cargado <param=slotname>, pero hay una <color=255:255:0>unidad</color> o <color=255:255:0>pieza del equipo </color> que ha cambiado desde que guardaste."
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_SAVE_CAPTION": [
@@ -14650,6 +14842,14 @@
         "Certaines unités sont interdites par les règles actuelles de l'arène.<br>Le groupe que vous tentez de charger comprend au moins l'une de ces unités, et par conséquent, il est impossible de l'utiliser.<br>Retour à l'écran de chargement de groupe.",
         "Bestimmte Einheiten können nicht in der derzeitigen Arena benutzt werden.<br>Die Gruppe konnte nicht abgerufen werden, weil sich eine verbotene Einheit in dem ausgewählten Slot befindet.<br>Kehre zu Gruppenspeicherung/-ladebildschirm zurück.",
         "Algunas unidades no se pueden usar en esta Arena.<br>No se ha podido cargar el grupo porque tenías una dichas unidades en la ranura seleccionada.<br>Volviendo a la pantalla de cargar grupo."
+    ],
+    "PARTY_REGISTER_SLOT_CONFIRM_UNIT_EXPLORE_INCLUDED": [
+        "Units from expedition parties cannot be loaded.",
+        "無法讀取編制於探險隊伍中之兵員。",
+        "탐험 파티에 편성된 유닛은 불러올 수 없습니다.",
+        "Les unités présentes dans les groupes d'expédition ne peuvent pas être chargées.",
+        "Einheiten aus Erkundungsgruppen können nicht abgerufen werden.",
+        "No se pueden cargar unidades de grupos de expedición."
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_UNIT_NOTHING": [
         "There were no units that could be loaded from <param=slotname>.<br>Returning to the party load screen.",
@@ -14763,6 +14963,94 @@
         "Bezahlte Lapis",
         "Lapis de pago"
     ],
+    "PERMISSION_DENIED_READ_PHONE_STATE": [
+        "For game data to be recovered automatically when the app is reinstalled, phone permissions must be enabled.<br><br>Phone use and phonebook data will not be obtained.<br><br>To enable, check device settings.<br><br>Go to settings?",
+        "再次下載應用程式時，為自動復原您的遊戲資料，必須取得電話功能的權限許可。<br> <br>※將不會取得任何有關通話或電話簿等功能的資料。<br> <br>請至使用裝置的「設定」進行許可確認。<br> <br>要打開「設定」嗎？",
+        "애플리케이션 재설치 시 게임 데이터 자동 복구를 위해 휴대폰 권한 허가가 필요합니다.<br><br>휴대폰 사용 기록 및 주소록 데이터는 수집하지 않습니다.<br><br>기기 설정을 확인해주십시오.<br><br>설정으로 이동하시겠습니까?",
+        "Pour que les données de jeu soient récupérées automatiquement lorsque l'application est réinstallée, les autorisations du téléphone doivent être activées. <br><br>Aucune donnée concernant l'utilisation du téléphone ou du répertoire ne sera récupérée. Pour l'activation, vérifiez les paramètres de l'appareil. <br><br>Accéder aux paramètres ?",
+        "Damit die Spieldaten automatisch wiederhergestellt werden können, wenn die App neu installiert wird, sind gewisse Berechtigungen auf dem Mobilgerät erforderlich.<br><br>Nutzungs- und Adressbuchdaten des Mobilgeräts werden dabei nicht abgerufen.<br><br>Bitte überprüfe deine Geräteeinstellungen, um diese Berechtigungen zu erteilen.<br><br>Jetzt zu \"Einstellungen\" begeben?",
+        "Para que los datos del juego se puedan recuperar automáticamente cuando se reinstala la aplicación, debes habilitar los permisos del móvil.<br><br>No se obtendrá información sobre el uso del teléfono o la agenda telefónica.<br><br>Para dar permiso, ve a los ajustes del dispositivo.<br><br>¿Ir a ajustes?"
+    ],
+    "PERMISSION_REQUEST_READ_PHONE_STATE": [
+        "For game data to be recovered automatically when the app is reinstalled, phone permissions must be enabled.<br><br>Phone use and phonebook data will not be obtained.",
+        "再次下載應用程式時，為自動復原您的遊戲資料，必須取得電話功能的權限許可。<br> <br>※將不會取得任何有關通話或電話簿等功能的資料。",
+        "애플리케이션 재설치 시 게임 데이터 자동 복구를 위해 휴대폰 권한 허가가 필요합니다.<br><br>휴대폰 사용 기록 및 주소록 데이터는 수집하지 않습니다.",
+        "Pour que les données de jeu soient récupérées automatiquement lorsque l'application est réinstallée, les autorisations du téléphone doivent être activées. <br><br>Aucune donnée concernant l'utilisation du téléphone ou du répertoire ne sera récupérée.",
+        "Damit die Spieldaten automatisch wiederhergestellt werden können, wenn die App neu installiert wird, sind gewisse Berechtigungen auf dem Mobilgerät erforderlich.<br><br>Nutzungs- und Adressbuchdaten des Mobilgeräts werden dabei nicht abgerufen.",
+        "Para que los datos del juego se puedan recuperar automáticamente cuando se reinstala la aplicación, debes habilitar los permisos del móvil.<br><br>No se obtendrá información sobre el uso del teléfono o la agenda telefónica."
+    ],
+    "PERSONALIZED_ADS_AGE_VERIFY": [
+        "You must be 16 years or older to receive personalized advertisements. Are you 16 years or older?",
+        "您必須年滿16歲才能接收個人化廣告。您是否年滿16歲？",
+        "맞춤형 광고 수신은 16세 이상부터 가능합니다. 본인은 16세 이상입니까?",
+        "Vous devez avoir au moins 16 ans pour pouvoir recevoir du contenu publicitaire personnalisé.",
+        "Du musst 16 Jahre oder älter sein, um personalisierte Werbung zu erhalten. Bist du 16 Jahre oder älter?",
+        "Debes tener mínimo 16 años para poder recibir anuncios personalizados. ¿Tienes 16 años o más?"
+    ],
+    "PERSONALIZED_ADS_CONSENT_HEAD": [
+        "Advertising Consent",
+        "廣告同意書",
+        "광고 수신 동의",
+        "Contenu publicitaire",
+        "Werbungseinwilligung",
+        "Consentimiento publicitario"
+    ],
+    "PERSONALIZED_ADS_CONSENT_HEADER": [
+        "Advertising Consent",
+        "廣告同意書",
+        "광고 수신 동의",
+        "Contenu publicitaire",
+        "Werbungseinwilligung",
+        "Consentimiento publicitario"
+    ],
+    "PERSONALIZED_ADS_CONSENT_OFF_MSG": [
+        "Non-personalized advertising selected. You can change this option at any time via [Menu] > [Options].",
+        "已選擇非個人化廣告。日後可透過[MENU] > [設定]更改設定。",
+        "비맞춤형 광고를 선택하셨습니다. [메뉴] > [옵션]에서 해당 옵션을 변경할 수 있습니다.",
+        "Contenu publicitaire personnalisé désactivé. Vous pouvez modifier ce paramètre à tout moment via \"Menu\" > \"Réglages\"",
+        "Nicht personalisierte Werbung ausgewählt. Du kannst die Einstellung jederzeit im Menü in den Einstellungen ändern.",
+        "Has seleccionado recibir publicidad no personalizada. Puedes cambiar esta opción en cualquier momento en [Menú] > [Opciones]."
+    ],
+    "PERSONALIZED_ADS_CONSENT_ON_MSG": [
+        "Personalized advertising selected. You can change this option at any time via [Menu] > [Options].",
+        "已選擇個人化廣告。日後可透過[MENU] > [設定]更改設定。",
+        "맞춤형 광고를 선택하셨습니다. [메뉴] > [옵션]에서 해당 옵션을 변경할 수 있습니다.",
+        "Contenu publicitaire personnalisé activé. Vous pouvez modifier ce paramètre à tout moment via \"Menu\" > \"Réglages\".",
+        "Personalisierte Werbung ausgewählt. Du kannst die Einstellung jederzeit im Menü in den Einstellungen ändern.",
+        "Has seleccionado recibir publicidad personalizada. Puedes cambiar esta opción en cualquier momento en [Menú] > [Opciones]."
+    ],
+    "PERSONALIZED_ADS_CONSENT_REQUEST": [
+        "Would you like to receive personalized advertising?",
+        "您是否願意接收個人化廣告？",
+        "맞춤형 광고를 수신하시겠습니까?",
+        "Souhaitez-vous recevoir du contenu publicitaire personnalisé ?",
+        "Möchtest du personalisierte Werbung erhalten?",
+        "¿Te gustaría recibir publicidad personalizada?"
+    ],
+    "PERSONALIZED_ADS_EEA": [
+        "Do you reside in the EEA (European Economic Area)?",
+        "您是否居住於EEA(歐洲經濟區)？",
+        "유럽 경제 지역(EEA)에 거주하십니까?",
+        "Résidez-vous au sein de l'EEE (Espace Économique Européen) ?",
+        "Bist du im EWR (Europäischen Wirtschaftsraum) ansässig?",
+        "¿Eres residente del EEE (Espacio Económico Europeo)?"
+    ],
+    "PERSONALIZED_ADS_LABEL": [
+        "Personalized Advertising",
+        "個人化廣告",
+        "맞춤형 광고",
+        "Contenu publicitaire personnalisé",
+        "Personalisierte Werbung",
+        "Publicidad personalizada"
+    ],
+    "PERSONALIZED_ADS_TOS_MSG": [
+        "Details of any data collected and third party ad tech vendors' policies can be viewed <color=255:255:0>here</color>.",
+        "關於資料收集與第三方廣告供應商政策詳情可<color=255:255:0>點此</color>查閱。",
+        "수집된 데이터의 상세 내용 및 제3자 광고 기술 제공업체의 정책은 <color=255:255:0>여기</color>에서 확인할 수 있습니다.",
+        "Les détails sur les données collectées et les fournisseurs de technologie publicitaire tiers peuvent être consultés <color=255:255:0>ici</color>.",
+        "Die Details der gesammelten Daten und die Richtlinien der Werbungsdrittanbieter können <color=255:255:0>hier</color> eingesehen werden.",
+        "Puedes ver los detalles sobre la política de datos recopilados por parte de terceros <color=255:255:0>aquí</color>."
+    ],
     "PLAYBACK_CONTINUE_CONFIRM_TEXT": [
         "Continue battle?<br>*Lapis will not be consumed.",
         "是否要繼續進行戰鬥？<br>※不會消耗寶石。",
@@ -14852,12 +15140,20 @@
         "Pendiente"
     ],
     "POLICY_TOP": [
-        "I agree with the <color=255:255:0>Terms of Use</color>.",
-        "同意<color=255:255:0>規約條款</color>",
-        "<color=255:255:0>이용약관</color>에 동의합니다.",
-        "J'accepte les <color=255:255:0>Conditions Générales d'Utilisation</color>.",
-        "Ich erkläre mich mit den <br><color=255:255:0>Nutzungsbedingungen</color>einverstanden.",
-        "Acepto los <color=255:255:0>términos</color>."
+        "I agree with the Terms of Use and Privacy Policy.",
+        "我同意服務條款及隱私權政策。",
+        "이용약관 및 개인정보보호정책에 동의합니다.",
+        "J'accepte les Conditions Générales d'Utilisation et la politique de confidentialité.",
+        "Ich erkläre mich mit den Nutzungsbedingungen und Datenschutzbestimmungen einverstanden.",
+        "Acepto los términos de uso y la política de privacidad."
+    ],
+    "POLICY_TOP2": [
+        "I agree with the Terms of Use.",
+        "我同意服務條款。",
+        "이용약관에 동의합니다.",
+        "J'accepte les Conditions Générales d'Utilisation.",
+        "Ich erkläre mich mit den Nutzungsbedingungen einverstanden.",
+        "Acepto los términos de uso."
     ],
     "PRISM_FILTER_NOTHING_SELECT": [
         "Coming soon!",
@@ -18091,6 +18387,22 @@
         "Kein Limit",
         "Sin límite"
     ],
+    "SHOP_BANNERLIST_PRIOD": [
+        "Purchase period:",
+        "購買期間：",
+        "구매 기간:",
+        "Période d'achat :",
+        "Verkaufszeitraum:",
+        "Periodo de compra:"
+    ],
+    "SHOP_BANNERLIST_TITLE": [
+        "Purchase lapis",
+        "寶石購買一覽",
+        "라피스 구매 목록",
+        "Achat de lapis",
+        "Lapis kaufen",
+        "Compra lapis"
+    ],
     "SHOP_BUY_GIL": [
         "You can purchase <param=add> <param=gil>.",
         "可以購買<param=add><param=gil>",
@@ -18522,6 +18834,14 @@
         "Rien",
         "„Nichts“",
         "Ninguno"
+    ],
+    "SORT_STATUS_TYPE": [
+        "Parameter Priority",
+        "優先數值",
+        "우선시할 능력치",
+        "Caractéristique prioritaire",
+        "Werte-Priorität",
+        "Priorizar parámetros"
     ],
     "SORT_TYPE": [
         "Order",
@@ -20235,6 +20555,86 @@
         "Diese Einheit kann keine Fertigkeiten ausrüsten.",
         "Sin habilidades."
     ],
+    "UNIT_EQUIP_REMOVE_ALL": [
+        "Unequip all units",
+        "解除全部兵員的裝備",
+        "모든 유닛의 장비 해제",
+        "Déséquiper toutes les unités",
+        "Ausrüstung aller Einheiten ablegen",
+        "Desequipar a todas las unidades"
+    ],
+    "UNIT_EQUIP_REMOVE_ALL_CONFIRM": [
+        "Removing equipment and abilities from all units.<br>Proceed?",
+        "將移除全部兵員的裝備及能力。<br>確定要移除嗎？",
+        "모든 유닛의 장비와 어빌리티를 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement et aptitudes de toutes les unités seront retirées.<br>Continuer ?",
+        "Ausrüstung und Fertigkeiten werden von allen Einheit entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo y las habilidades a todas las unidades.<br>¿Deseas continuar?"
+    ],
+    "UNIT_EQUIP_REMOVE_MYSELF": [
+        "Unequip this unit only",
+        "解除自身的裝備",
+        "해당 유닛의 장비 해제",
+        "Déséquiper cette unité uniquement",
+        "Nur Ausrüstung dieser Einheit ablegen",
+        "Desequipar a esta unidad"
+    ],
+    "UNIT_EQUIP_REMOVE_MYSELF_CONFIRM": [
+        "Removing all equipment and abilities from the selected unit.<br>Proceed?",
+        "將移除此名兵員的裝備及能力。<br>確定要移除嗎？",
+        "선택한 유닛의 장비와 어빌리티를 모두 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement et aptitudes de l'unité sélectionnée seront retirées.<br>Continuer ?",
+        "Alle Ausrüstung und Fertigkeiten werden von der ausgewählten Einheit entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo y las habilidades a la unidad.<br>¿Deseas continuar?"
+    ],
+    "UNIT_EQUIP_REMOVE_NOT_PARTY": [
+        "Unequip units not in party",
+        "解除隊伍以外兵員的裝備",
+        "파티 외 유닛의 장비 해제",
+        "Déséquiper les unités hors groupe",
+        "Ausrüstung von Einheiten außerhalb der Gruppe ablegen",
+        "Desequipar a las unidades fuera del grupo"
+    ],
+    "UNIT_EQUIP_REMOVE_NOT_PARTY_CONFIRM": [
+        "Removing equipment and abilities from all units except the selected party.<br>Proceed?",
+        "將移除此隊伍以外兵員的裝備及能力。<br>確定要移除嗎？",
+        "선택한 파티를 제외한 모든 유닛의 장비와 어빌리티를 모두 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement et aptitudes de toutes les unités hormis celles du groupe sélectionné seront retirées.<br>Continuer ?",
+        "Ausrüstung und Fertigkeiten werden von allen Einheiten außer der ausgewählten Gruppe entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo y las habilidades a todas las unidades salvo al grupo seleccionado.<br>¿Deseas continuar?"
+    ],
+    "UNIT_EQUIP_REMOVE_PARTY": [
+        "Unequip units in party",
+        "解除隊伍的裝備",
+        "파티 유닛의 장비 해제",
+        "Déséquiper les unités du groupe",
+        "Ausrüstung von Einheiten innerhalb der Gruppe ablegen",
+        "Desequipar a las unidades del grupo"
+    ],
+    "UNIT_EQUIP_REMOVE_PARTY_CONFIRM": [
+        "Removing all equipment and abilities from the selected party.<br>Proceed?",
+        "將移除此隊伍中兵員的裝備及能力。<br>確定要移除嗎？",
+        "선택한 파티 유닛의 장비와 어빌리티를 모두 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement et aptitudes du groupe sélectionné seront retirées.<br>Continuer ?",
+        "Alle Ausrüstung und Fertigkeiten werden von der ausgewählten Gruppe entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo y las habilidades al grupo seleccionado.<br>¿Deseas continuar?"
+    ],
+    "UNIT_EQUIP_STRONGEST": [
+        "Optimization",
+        "最強",
+        "최강",
+        "Optimiser",
+        "Optimierung",
+        "Optimizar"
+    ],
+    "UNIT_EQUIP_STRONGEST_ROB": [
+        "Equip from other units",
+        "使用其他兵員之裝備",
+        "다른 유닛의 장비 가져오기",
+        "Équiper d'une autre unité",
+        "Von anderen Einheiten ausrüsten",
+        "Equipar de otras unidades"
+    ],
     "UNIT_EXCHANGE_BALANCE": [
         "Currently held",
         "現在的持有數",
@@ -20610,6 +21010,22 @@
         "Infos groupe",
         "Gruppendetails",
         "Detalles del grupo"
+    ],
+    "UNIT_OPTION_PARTY_UNIT_SELECT": [
+        "Select All Units",
+        "選擇所有兵員",
+        "유닛 전체 선택",
+        "Sélectionner toutes les unités",
+        "Alle Einheiten auswählen",
+        "Seleccionar todas las unidades"
+    ],
+    "UNIT_PARTY_UNIT_SELECT": [
+        "Select All Units",
+        "選擇所有兵員",
+        "유닛 전체 선택",
+        "Sélectionner toutes les unités",
+        "Alle Einheiten auswählen",
+        "Seleccionar todas las unidades"
     ],
     "UNIT_SELECT": [
         "Select Units",
@@ -21420,20 +21836,20 @@
         "¿Quieres ir a Paladia?"
     ],
     "WORLD_MAP_MISSION_RESET_CONFIRM1_BODY": [
-        "You can <color=255:255:0>reset</color> all completed <color=255:255:0>main scenario</color> mission data so that you can reattempt missions to obtain rewards.<br>*Once reset, <color=255:255:0>currently accomplished missions will be set as incomplete.</color><br>Reset main scenario mission completion data?",
-        "將<color=255:255:0>主線劇情</color>的所有達成挑戰資料<color=255:255:0>重置</color>，並重新挑戰，即可獲得挑戰達成報酬。<br>※一旦進行重置，<color=255:255:0>將無法回復到目前的已達成資料。</color><br>　<br>確定要重置主線劇情的挑戰達成資料嗎？",
-        "<color=255:255:0>메인 시나리오</color>의<br>모든 미션 달성 데이터를<color=255:255:0> 초기화</color>하여<br>미션을 처음부터 다시 시작,<br>달성 보상을 획득할 수 있습니다.<br>※한번 초기화하면<color=255:255:0> 현재 달성한<br>데이터를 되돌릴 수 없습니다.</color><br>　<br>메인 시나리오의 미션 달성 데이터를<br>초기화하시겠습니까?",
-        "Vous pouvez <color=255:255:0>réinitialiser</color> toutes les données des missions du<color=255:255:0>scénario principal</color> afin de pouvoir les faire à nouveau et obtenir leurs récompenses.<br>*Une fois réinitialisées, <color=255:255:0>les données des missions déjà terminées ne pourront pas être récupérées.</color><br>Réinitialiser les données des missions du scénario principal ?",
-        "Du kannst alle abgeschlossenen Missionsdaten von <color=255:255:0>Hauptszenarien</color> <color=255:255:0>zurücksetzen</color>, um dich für Belohnungen erneut an Missionen zu versuchen.<br>*Sobald zurückgesetzt, <color=255:255:0>können aktuell abgeschlossene Missionen nicht wiederhergestellt werden.</color><br>Missionsabschlussdaten für Hauptszenarien zurücksetzen?",
-        "Puedes<color=255:255:0> restablecer </color> todos los objetivos completados en <color=255:255:0>la historia principal</color> para así poder obtener sus recompensas de nuevo.<br>*Una vez ya restablecidos, <color=255:255:0>no podrás regresar al punto donde estás actualmente.</color><br>¿Quieres restablecer los datos de objetivos completados en la historia principal?"
+        "You can <color=255:255:0>reset</color> all completed <color=255:255:0>Dimensional Expanse</color> mission data so that you can reattempt missions to obtain rewards.<br>*Once reset, <color=255:255:0>currently accomplished missions will be set as incomplete.</color><br>Reset Dimensional Expanse mission completion data?",
+        "將<color=255:255:0>夾縫世界</color>的所有達成挑戰資料<color=255:255:0>重置</color>，並重新挑戰，即可獲得挑戰達成報酬。<br>※一旦進行重置，<color=255:255:0>將無法回復到目前的已達成資料。</color><br>　<br>確定要重置夾縫世界的挑戰達成資料嗎？",
+        "<color=255:255:0>틈새의 세계</color>의<br>모든 미션 달성 데이터를 <color=255:255:0>초기화</color>하여<br>미션을 처음부터 다시 시작하고<br>달성 보상을 획득할 수 있습니다.<br>※한번 초기화하면 <color=255:255:0>현재 달성한 데이터를 되돌릴 수 없습니다.</color><br><br>틈새의 세계의 미션 달성 데이터를<br>초기화하시겠습니까?",
+        "Vous pouvez <color=255:255:0>réinitialiser</color> toutes les données des missions de l'<color=255:255:0>Étendue dimensionnelle</color> afin de pouvoir les faire à nouveau et obtenir leurs récompenses.<br>* Une fois réinitialisées, <color=255:255:0>les données des missions déjà terminées ne pourront plus être récupérées.</color><br>Réinitialiser les données des missions de l'Étendue dimensionnelle ?",
+        "Du kannst alle Missionsdaten von abgeschlossenen <color=255:255:0>Dimensions-Erweiterungs</color>-Missionen <color=255:255:0>zurücksetzen</color>, so dass du sie erneut versuchen kannst, um Belohnungen zu erhalten.<br>* Einmal zurückgesetzt, werden die <color=255:255:0>bereits abgeschlossenen Missionen als unvollendet</color><br>angezeigt. Missionsdaten von abgeschlossenen Dimensions-Erweiterungs-Missionen zurücksetzen?",
+        "Puedes <color=255:255:0>restaurar</color> todos los datos de las misiones del <color=255:255:0>campo dimensional</color> para volver a completarlas y obtener recompensas.<br>*Una vez restauradas, <color=255:255:0>las misiones que hayas superado volverán a aparecer como incompletas.</color><br>¿Quieres restaurar los datos de misiones completadas del campo dimensional?"
     ],
     "WORLD_MAP_MISSION_RESET_CONFIRM2_BODY": [
-        "<color=255:255:0>Reset</color> all <color=255:255:0>main scenario</color> mission completion data?",
-        "確定要將<color=255:255:0>主線劇情</color>的全部達成挑戰資料<color=255:255:0>重置</color>嗎？",
-        "<color=255:255:0>메인 시나리오</color>의 모든 미션 달성 데이터를<br><color=255:255:0>초기화</color>하시겠습니까?",
-        "<color=255:255:0>Réinitialiser</color> toutes les données des missions du <color=255:255:0>scénario principal</color> ?",
-        "<color=255:255:0>Zurücksetzen</color> allrr <color=255:255:0>Hauptszenario</color>-Missionsabschlussdaten?",
-        "<color=255:255:0>¿Quieres restablecer </color> todos los datos de objetivos completados en <color=255:255:0>la historia principal?</color>"
+        "<color=255:255:0>Reset</color> all <color=255:255:0>Dimensional Expanse</color> mission completion data?",
+        "確定要將<color=255:255:0>夾縫世界</color>的全部達成挑戰資料<color=255:255:0>重置</color>嗎？",
+        "<color=255:255:0>틈새의 세계</color>의 모든 미션 달성 데이터를<br><color=255:255:0>초기화</color>하시겠습니까?",
+        "<color=255:255:0>Réinitialiser</color> toutes les données des missions de l'<color=255:255:0>Étendue dimensionnelle</color> ?",
+        "Alle Missionsdaten von abgeschlossenen <color=255:255:0>Dimensions-Erweiterungs</color>-Missionen <color=255:255:0>zurücksetzen</color>?",
+        "¿<color=255:255:0>Quieres restaurar</color> todos los datos de las misiones completadas del <color=255:255:0>campo dimensional</color>?"
     ],
     "WORLD_MAP_MISSION_RESET_CONFIRM_TITLE": [
         "Mission Completion Data Reset",
@@ -21444,12 +21860,12 @@
         "Restablecer datos de objetivos completados"
     ],
     "WORLD_MAP_MISSION_RESET_FINISHED_BODY": [
-        "All <color=255:255:0>main scenario</color> mission completion data has been <color=255:255:0>reset</color>.",
-        "<color=255:255:0>主線劇情</color>全部的達成挑戰資料已<color=255:255:0>重置</color>。",
-        "<color=255:255:0>메인 시나리오</color>의 모든 미션 달성 데이터를<br><color=255:255:0>초기화</color>했습니다.",
-        "Toutes les données des missions du <color=255:255:0>scénario principal</color> ont été <color=255:255:0>réinitialisées</color>.",
-        "<color=255:255:0>Alle Hauptszenario</color>-Missionsabschlussdaten wurden <color=255:255:0>zurückgesetzt</color>.",
-        "Todos los datos de objetivos completados en<color=255:255:0>la historia principal</color> han sido <color=255:255:0>restablecidos</color>."
+        "All <color=255:255:0>Dimensional Expanse</color> mission completion data has been <color=255:255:0>reset</color>.",
+        "<color=255:255:0>夾縫世界</color>全部的達成挑戰資料已<color=255:255:0>重置</color>。",
+        "<color=255:255:0>틈새의 세계</color>의 모든 미션 달성 데이터를<br><color=255:255:0>초기화</color>했습니다.",
+        "Toutes les données des missions de l'<color=255:255:0>Étendue dimensionnelle</color> ont été <color=255:255:0>réinitialisées</color>.",
+        "Alle Missionsdaten von abgeschlossenen <color=255:255:0>Dimensions-Erweiterungs</color>-Missionen wurden <color=255:255:0>zurückgesetzt</color>.",
+        "<color=255:255:0>Se han restaurado</color> todos los datos de las misiones completadas del <color=255:255:0>campo dimensional</color>."
     ],
     "WORLD_MAP_WINDOW_TITLE_THIRDWORLD": [
         "Select your destination.",
