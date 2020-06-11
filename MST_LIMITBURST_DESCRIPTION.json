@@ -12641,7 +12641,7 @@
     ],
     "317000107": [
         "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
-        "解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP",
+        "解除全體隊員降低攻擊防禦魔力精神的效果+提高攻擊防禦魔力精神+持續恢復HPMP",
         "아군 1명의 일부 능력치 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
         "Annule certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY, et restaure progressivement les PV et les PM de tous les alliés",
         "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.",
@@ -14631,6 +14631,14 @@
         "Fügt allen Gegnern teilweise direkten Schaden zu.",
         "Daño que ignora parcialmente la DEF de todos los enemigos"
     ],
+    "401004007": [
+        "Deal partial unmitigated damage to all enemies two times and enable fuel barrels, stormwater patrol boat, and stormchaser for two turns",
+        "對全體敵人發動2次無視部分防禦的攻擊+2回合內可使用「燃料桶」「暴雨巡邏艇」「風暴追逐者」",
+        "적 전체에 2회 일부 방어 무시 피해+2턴 동안 '연료통 폭발', '스톰워터 경비정', '스톰체이서' 사용 가능",
+        "Inflige des dégâts en partie fixes à 2 reprises à tous les ennemis, et permet d'utiliser Barils d'essence, Patrouilleur Stormwater et Chasseur de tempêtes pendant 2 tours",
+        "Fügt allen Gegnern zweimal teilweise direkten Schaden zu und ermöglicht 2 Runden lang Benzinfässer, Sturmwasser-Patrouillenboot und Sturmjäger.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos 2 veces y aprende Barriles de combustible, Barco del Trueno, y Cazatormentas durante 2 turnos"
+    ],
     "401004104": [
         "Damage all enemies and enable beacon for 3 turns",
         "攻擊全體敵人+3回合內可使用「信標」",
@@ -14825,7 +14833,7 @@
     ],
     "401004905": [
         "Deal damage and reduce lightning resistance for one enemy",
-        "攻擊1名敵人+降低雷屬性耐性",
+        "對1名敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
         "적 1명에게 피해+번개속성 저항력 감소",
         "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
         "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
@@ -14833,7 +14841,7 @@
     ],
     "401004906": [
         "Deal damage and reduce lightning resistance for one enemy",
-        "攻擊1名敵人+降低雷屬性耐性",
+        "對1名敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
         "적 1명에게 피해+번개속성 저항력 감소",
         "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
         "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
@@ -14841,7 +14849,7 @@
     ],
     "401004907": [
         "Deal damage and reduce lightning resistance for one enemy",
-        "攻擊1名敵人+降低雷屬性耐性",
+        "對1名敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
         "적 1명에게 피해+번개속성 저항력 감소",
         "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
         "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
@@ -16049,7 +16057,7 @@
     ],
     "900000320": [
         "Deal partial unmitigated damage and reduce ATK, DEF, MAG, and SPR for all enemies, and reduce physical damage taken for caster",
-        "對全體敵人發動無視部分防禦的攻擊+降低攻擊防禦魔力精神+降低對自身的傷害",
+        "對全體敵人發動無視部分防禦的攻擊+降低攻擊防禦魔力精神+減少對自身的物理傷害",
         "적 전체에 일부 방어 무시 피해+공격력, 방어력, 마력, 정신력 감소+자신이 받는 피해량 감소",
         "Inflige des dégâts en partie fixes et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, et réduit les dégâts subis par le lanceur",
         "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre ANG, ABW, MAG und PSY und verringert den von Benutzer erlittenen Schaden.",
@@ -16374,5 +16382,37 @@
         "Inflige des dégâts en partie fixes à tous les ennemis, augmente l'ATT, les dégâts de la limite, permet d'utiliser Charge des tempêtes pendant 2 tours, et inflige des dégâts au lanceur au tour suivant",
         "Fügt allen Gegnern teilweise direkten Schaden zu, erhöht ANG, erhöht Schaden durch Limitrausch, ermöglicht zwei Runden lang Sturmladung und fügt Benutzer in der folgenden Runde Schaden zu.",
         "Daño que ignora parcialmente la DEF de todos los enemigos, aumenta el daño del EL, aprende Carga tempestuosa durante 2 turnos, y daña al usuario al turno siguiente"
+    ],
+    "950000023": [
+        "Deal partial unmitigated damage and reduce ATK, DEF, MAG, and SPR for all enemies, and reduce physical damage taken for caster",
+        "對全體敵人發動無視部分防禦的攻擊+降低攻擊防禦魔力精神+減少對自身的物理傷害",
+        "적 전체에 일부 방어 무시 피해+공격력, 방어력, 마력, 정신력 감소+자신이 받는 물리 피해량 감소",
+        "Inflige des dégâts en partie fixes et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, et réduit les dégâts physiques subis par le lanceur",
+        "Fügt allen Gegnern teilweise direkten Schaden zu, verringert ihren ANG, ihre ABW, MAG sowie PSY und verringert den von Benutzer erlittenen physischen Schaden.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, reduce su ATQ, DEF, MAG y ESP, y reduce el daño físico que recibe el usuario"
+    ],
+    "950000024": [
+        "Deal partial unmitigated damage and reduce lightning resistance for all enemies",
+        "對全體敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
+        "적 전체에 일부 방어 무시 피해+번개속성 저항력 감소",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la foudre de tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Blitzresistenz.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia al rayo"
+    ],
+    "950000025": [
+        "Damage all enemies, and boost MAG and restore MP for caster",
+        "攻擊全體敵人+提高自身魔力+恢復MP",
+        "적 전체에 피해+자신의 마력 상승+MP 회복",
+        "Inflige des dégâts à tous les ennemis, augmente la MAGIE du lanceur et restaure ses PM",
+        "Fügt allen Gegnern Schaden zu, erhöht MAG des Benutzers und regeneriert MP des Benutzers.",
+        "Daña a todos los enemigos, aumenta la MAG del usuario y recupera sus PM poco a poco"
+    ],
+    "950000026": [
+        "Remove ATK, DEF, MAG, and SPR reductions, boost ATK, DEF, MAG, and SPR, automatically revive one time, and gradually restore HP and MP for all allies",
+        "解除全體隊員降低攻擊防禦魔力精神的效果+提高攻擊防禦魔力精神+賦予自動復活1次的效果+持續恢復HPMP",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력 상승+전투불능 상태를 1회 자동 회복하는 효과 부여+HP와 MP 서서히 회복",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY, augmente l'ATT, la DEF, la MAGIE et la PSY, ranime automatiquement une fois et restaure progressivement les PV et les PM de tous les alliés",
+        "Entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, erhöht ANG, ABW, MAG sowie PSY, Benutzer wird einmal automatisch wiederbelebt und regeneriert allmählich LP sowie MP aller Verbündeten.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, aumenta su ATQ, DEF, MAG y ESP, los revive automáticamente una vez, y recupera poco a poco su VIT y PM"
     ]
 }

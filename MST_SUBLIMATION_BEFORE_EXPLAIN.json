@@ -4095,6 +4095,22 @@
         "Steigert Erhöhungen von Feuer-, Eis-, Blitz-, Wasser-, Wind-, und Erdresistenz (gering)",
         "Mayor aumento de la resistencia al fuego, hielo, rayo, agua, viento y tierra (poco)"
     ],
+    "218520002": [
+        "Boosts chance of countering (to 50%)<br>Boosts damage amount of counter attack (to 1000%)",
+        "提高反擊機率(至50%)<br>提高反擊傷害量(至1000%)",
+        "반격 확률 상승(50%)<br>반격 피해량 상승(1000%)",
+        "Augmente les chances de contre (à 50 %)<br>Augmente les dégâts des contre-attaques (à 1000 %)",
+        "Erhöht Chance auf Konter (auf 50%)<br>Erhöht Schaden des Konters (auf 1000%)",
+        "Aumenta la probabilidad de contraatacar (a un 50%)<br>Aumenta el daño del contraataque (a un 1000%)"
+    ],
+    "218650002": [
+        "Boosts DEF and SPR (20%)",
+        "提高防禦精神(20%)",
+        "방어력과 정신력 상승(20%)",
+        "Augmente la DEF et la PSY (20 %)",
+        "Erhöht ABW und PSY (um 20%)",
+        "Aumenta la DEF y el ESP (un 20%)"
+    ],
     "219020002": [
         "Boosts MAG increase (mid)",
         "提高魔力增加量(中)",
@@ -5062,6 +5078,38 @@
         "Amplifie l'augmentation de la MAGIE (beaucoup)<br>Amplifie l'augmentation des PM (peu)",
         "Erhöht MP-Verbrauch (hoch)<br>Steigert MP-Erhöhung (gering)",
         "Mayor aumento de MAG (mucho)<br>Mayor aumento de PM (poco)"
+    ],
+    "225480002": [
+        "Adds silence to the specific abilities that can be used twice in one turn",
+        "將「沉默」增加至1回合內可使用2次的能力列表中",
+        "1턴 동안 2회 사용 가능한 특정 어빌리티에 '사일런스' 추가",
+        "Ajoute Silence aux aptitudes spécifiques pouvant être utilisées 2 fois en un tour",
+        "Fügt Stille den bestimmten Fertigkeiten hinzu, die zweimal in einer Runde benutzt werden können.",
+        "Añade Silencio a la lista de habilidades que se pueden usar 2 veces en un turno"
+    ],
+    "225530002": [
+        "Boosts resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies for three turns (100%)<br>Increases MP consumed (to 70)",
+        "3回合內提高全體隊員的中毒失明睡眠沉默麻痺混亂生病石化耐性(100%)<br>增加MP消耗(至70)",
+        "3턴 동안 아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승(100%)<br>소비 MP 증가(70)",
+        "Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés pendant 3 tours (100 %)<br>Augmente les PM consommés (à 70)",
+        "Erhöht 3 Runden lang Resistenz aller Verbündeten gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein (100%)<br>Erhöht MP-Verbrauch (auf 70)",
+        "Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra de todos los aliados durante 3 turnos (un 100%)<br>Aumenta el consumo de PM (a 70)"
+    ],
+    "225560002": [
+        "Boosts SPR increase (to 120%)<br>Boosts damage reduction (to 30%)",
+        "提高精神增加量(至120%)<br>提高傷害減少量(至30%)",
+        "정신력 상승량 상승(120%)<br>피해 감소량 상승(30%)",
+        "Amplifie l'augmentation de la PSY (à 120%)<br>Amplifie la réduction des dégâts (à 30 %)",
+        "Steigert PSY-Erhöhung (auf 120%)<br>Steigert Verringerung des Schadens (auf 30%)",
+        "Mayor aumento de ESP (a un 120%)<br>Aumenta la reducción de daño (a un 30%)"
+    ],
+    "225590002": [
+        "Boosts SPR increase (to 80%)<br>Nullifies confusion and stone",
+        "提高精神增加量(至80%)<br>混亂石化無效",
+        "정신력 상승량 상승(80%)<br>혼란과 석화 무효화",
+        "Amplifie l'augmentation de la PSY (à 80 %)<br>Annule confusion et pétrification",
+        "Erhöht PSY-Erhöhung (auf 80%)<br>Annulliert Konfus und Stein",
+        "Mayor aumento de ESP (a un 80%)<br>Anula confusión y piedra"
     ],
     "226120002": [
         "Boosts damage amount (to 700%)<br>Boosts fire and ice resistance reductions (to 80%)",
@@ -6767,6 +6815,78 @@
         "Erhöht Chance auf Aktivierung (auf 30%)",
         "Aumenta la probabilidad de activación (a un 30%)"
     ],
+    "228749002": [
+        "Boosts DEF and HP (20%)",
+        "提高HP防禦(20%)",
+        "방어력과 HP 상승(20%)",
+        "Augmente la DEF et les PV (20 %)",
+        "Erhöht ABW und LP (um 20%)",
+        "Aumenta la DEF y la VIT (un 20%)"
+    ],
+    "228758002": [
+        "Boosts DEF and SPR (20%)<br>Nullifies paralysis and stone",
+        "提高防禦精神(20%)<br>麻痺石化無效",
+        "방어력과 정신력 상승(20%)<br>마비와 석화 무효화",
+        "Augmente la DEF et la PSY (20 %)<br>Annule paralysie et pétrification",
+        "Erhöht ABW und PSY (um 20%)<br>Annulliert Lähmung und Stein",
+        "Aumenta la DEF y la VIT (un 20%)<br>Anula parálisis y piedra"
+    ],
+    "228759002": [
+        "Boosts equipment MAG increase (to 100%)",
+        "提高武具魔力增加量(至100%)",
+        "장비의 마력 상승량 상승(100%)",
+        "Amplifie l'augmentation de la MAGIE de l'équipement (à 100 %)",
+        "Steigert Erhöhung des Ausrüstung-MAG (auf 100%)",
+        "Mayor aumento de la MAG del equipo (a un 100%)"
+    ],
+    "228760002": [
+        "Boosts damage amount (Base: to 600%)<br>Boosts consecutive use damage (Bonus: to 300% per use, up to 1500%)<br>Adds wind element to own physical attack for five turns",
+        "提高傷害量(基礎：至600%)<br>連續使用時提高傷害(額外：每次使用提高300%，最高至1500%)<br>5回合內將自身的物理攻擊賦予風屬性",
+        "피해량 상승(기본: 600%)<br>연속 사용 시 피해량 상승(추가: 사용 시마다 300%, 최대 1500%)<br>5턴 동안 자신의 물리 공격에 바람속성 부여",
+        "Augmente les dégâts infligés (Base : à 600 %)<br>Augmente les dégâts infligés lors d'utilisations consécutives (Bonus : à 300 % par utilisation, jusqu'à 1500 %)<br>Ajoute l'élément vent aux attaques physiques du lanceur pendant 5 tours",
+        "Erhöht Schaden (Basis: auf 600%)<br>Erhöht Schaden mit jeder Benutzung (Bonus: auf 300% pro Benutzung, bis zu 1500%)<br>Fügt eigenem physischen Angriff 5 Runden lang Windelement hinzu",
+        "Aumenta el daño (base: a un 600%)<br>Aumenta el daño con cada uso (bonificación: a un 300% por uso, hasta un 1500%)<br>Añade elemento viento a los ataques físicos propios durante 5 turnos"
+    ],
+    "228761002": [
+        "Boosts damage amount (Base: to 600%)<br>Boosts consecutive use damage (Bonus: to 300% per use, up to 1500%)<br>Adds earth element to own physical attack for five turns",
+        "提高傷害量(基礎：至600%)<br>連續使用時提高傷害(額外：每次使用提高300%，最高至1500%)<br>5回合內將自身的物理攻擊賦予土屬性",
+        "피해량 상승(기본: 600%)<br>연속 사용 시 피해량 상승(추가: 사용 시마다 300%, 최대 1500%)<br>5턴 동안 자신의 물리 공격에 땅속성 부여",
+        "Augmente les dégâts infligés (Base : à 600 %)<br>Augmente les dégâts infligés lors d'utilisations consécutives (Bonus : à 300 % par utilisation, jusqu'à 1500 %)<br>Ajoute l'élément terre aux attaques physiques du lanceur pendant 5 tours",
+        "Erhöht Schaden (Basis: auf 600%)<br>Erhöht Schaden mit jeder Benutzung (Bonus: auf 300% pro Benutzung, bis zu 1500%)<br>Fügt eigenem physischen Angriff 5 Runden lang Erdelement hinzu",
+        "Aumenta el daño (base: a un 600%)<br>Aumenta el daño con cada uso (bonificación: a un 300% por uso, hasta un 1500%)<br>Añade elemento tierra a los ataques físicos propios durante 5 turnos"
+    ],
+    "228762002": [
+        "Boosts damage amount (Base: to 600%)<br>Boosts consecutive use damage (Bonus: to 300% per use, up to 1500%)<br>Adds fire element to own physical attack for five turns",
+        "提高傷害量(基礎：至600%)<br>連續使用時提高傷害(額外：每次使用提高300%，最高至1500%)<br>5回合內將自身的物理攻擊賦予火屬性",
+        "피해량 상승(기본: 600%)<br>연속 사용 시 피해량 상승(추가: 사용 시마다 300%, 최대 1500%)<br>5턴 동안 자신의 물리 공격에 불속성 부여",
+        "Augmente les dégâts infligés (Base : à 600 %)<br>Augmente les dégâts infligés lors d'utilisations consécutives (Bonus : à 300 % par utilisation, jusqu'à 1500 %)<br>Ajoute l'élément feu aux attaques physiques du lanceur pendant 5 tours",
+        "Erhöht Schaden (Basis: auf 600%)<br>Erhöht Schaden mit jeder Benutzung (Bonus: auf 300% pro Benutzung, bis zu 1500%)<br>Fügt eigenem physischen Angriff 5 Runden lang Feuerelement hinzu",
+        "Aumenta el daño (base: a un 600%)<br>Aumenta el daño con cada uso (bonificación: a un 300% por uso, hasta un 1500%)<br>Añade elemento fuego a los ataques físicos propios durante 5 turnos"
+    ],
+    "228763002": [
+        "Boosts damage amount (Base: to 600%)<br>Boosts consecutive use damage (Bonus: to 300% per use, up to 1500%)<br>Adds water element to own physical attack for five turns",
+        "提高傷害量(基礎：至600%)<br>連續使用時提高傷害(額外：每次使用提高300%，最高至1500%)<br>5回合內將自身的物理攻擊賦予水屬性",
+        "피해량 상승(기본: 600%)<br>연속 사용 시 피해량 상승(추가: 사용 시마다 300%, 최대 1500%)<br>5턴 동안 자신의 물리 공격에 물속성 부여",
+        "Augmente les dégâts infligés (Base : à 600 %)<br>Augmente les dégâts infligés lors d'utilisations consécutives (Bonus : à 300 % par utilisation, jusqu'à 1500 %)<br>Ajoute l'élément eau aux attaques physiques du lanceur pendant 5 tours",
+        "Erhöht Schaden (Basis: auf 600%)<br>Erhöht Schaden mit jeder Benutzung (Bonus: auf 300% pro Benutzung, bis zu 1500%)<br>Fügt eigenem physischen Angriff 5 Runden lang Wasserelement hinzu",
+        "Aumenta el daño (base: a un 600%)<br>Aumenta el daño con cada uso (bonificación: a un 300% por uso, hasta un 1500%)<br>Añade elemento agua a los ataques físicos propios durante 5 turnos"
+    ],
+    "228764002": [
+        "Boosts own MAG for three turns (200%, undispellable)<br>Boosts MP restoration amount (Base MP restoration per turn: to 120)",
+        "3回合內提高自身的魔力(200%、無法解除)<br>提高MP恢復量(每回合基礎MP恢復量：120)",
+        "3턴 동안 자신의 마력 상승(200%, 해제 불가)<br>MP 회복량 상승(매 턴마다 기본 MP 회복량: 120)",
+        "Augmente la MAGIE du lanceur pendant 3 tours (200 %, ne peut pas être dissipé)<br>Augmente la quantité de PM restaurés (Quantité de base restaurée par tour : à 120)",
+        "Erhöht 3 Runden lang eigene MAG (um 200%, nicht bannbar)<br>Erhöht Menge regenerierter MP (Basis-MP-Regeneration pro Runde: auf 120)",
+        "Aumenta la MAG propia durante 3 turnos (un 200%, no se puede eliminar)<br>Aumenta la recuperación de PM (base de PM recuperados por turno: a 120)"
+    ],
+    "228765002": [
+        "Boosts damage amount (to 3000%)<br>Changes availability of first use from turn 3 to turn 1",
+        "提高傷害量(至3000%)<br>首次可使用回合數由3回合變更至1回合",
+        "피해량 상승(3000%)<br>첫 번째 사용 가능 턴을 3턴에서 1턴으로 변경",
+        "Augmente les dégâts infligés (à 3000 %)<br>Rend la première utilisation disponible dès le 1er tour du combat au lieu du 3e",
+        "Erhöht Schaden (auf 3000%)<br>Ändert Verfügbarkeit der ersten Benutzung von Runde 3 auf Runde 1",
+        "Aumenta el daño (a un 3000%)<br>Cambia el primer uso del turno 3 al 1"
+    ],
     "228881002": [
         "Boosts water resistance reduction (to 80%)",
         "提高水屬性耐性減少量(至80%)",
@@ -7158,6 +7278,38 @@
         "Augmente l'ATT, la DEF, la PSY, les PV et les PM (20 %)",
         "Erhöht ANG, ABW, PSY, LP und MP (um 20%)",
         "Aumenta ATQ, DEF, ESP, VIT y PM (un 20%)"
+    ],
+    "230020002": [
+        "Boosts ATK and DEF increases (to 50%)<br>Boosts MP restoration amount (to 10%)<br>Boosts LB damage (30%)",
+        "提高攻擊防禦增加量(至50%)<br>提高MP恢復量(至10%)<br>提高極限技的傷害(30%)",
+        "공격력과 방어력 상승량 상승(50%)<br>MP 회복량 상승(10%)<br>LB 피해량 상승(30%)",
+        "Amplifie les augmentations de l'ATT et de la DEF (à 50 %)<br>Augmente la quantité de PM restaurés (à 10 %)<br>Augmente les dégâts de la limite (30 %)",
+        "Steigert ANG- und ABW-Erhöhungen (auf 50%)<br>Erhöht Menge regenerierter MP (auf 10%)<br>Erhöht Schaden durch Limitrausch (auf 30%)",
+        "Mayor aumento de ATQ y DEF (a un 50%)<br>Aumenta la recuperación de PM (a un 10%)<br>Aumenta el daño del EL (un 30%)"
+    ],
+    "230021002": [
+        "Boosts ATK, SPR, and MP increases (to 50%)<br>Boosts damage increase (to 75%)<br>Boosts equipment ATK increase (to 75%)",
+        "提高MP攻擊精神增加量(至50%)<br>提高傷害增加量(至75%)<br>提高武具攻擊增加量(至75%)",
+        "공격력, 정신력, MP 상승량 상승(50%)<br>피해 상승량 상승(75%)<br>장비의 공격력 상승량 상승(75%)",
+        "Amplifie les augmentations de l'ATT, de la PSY et des PM (à 50 %)<br>Amplifie l'augmentation des dégâts (à 75 %)<br>Amplifie l'augmentation de l'ATT de l'équipement (à 75 %)",
+        "Steigert ANG-, PSY- und MP-Erhöhungen (auf 50%)<br>Steigert Schadenserhöhung (auf 75%)<br>Steigert Erhöhungen des Ausrüstung-ANG (auf 75%)",
+        "Mayor aumento de ATQ, ESP y PM (a un 50%)<br>Mayor aumento de daño (a un 75%)<br>Mayor aumento de ATQ del equipo (a un 75%)"
+    ],
+    "230023002": [
+        "Boosts ATK, DEF, MAG, and SPR reductions (to 75%)<br>Fills own LB gauge (1000)",
+        "提高攻擊防禦魔力精神減少量(至75%)<br>增加自身的極限技槽(1000)",
+        "공격력, 방어력, 마력, 정신력 감소량 상승(75%)<br>자신의 LB 게이지 증가(1000)",
+        "Amplifie les réductions de l'ATT, de la DEF, de la MAGIE et de la PSY (à 75 %)<br>Remplit la jauge de limite du lanceur (1000)",
+        "Steigert ANG-, ABW-, MAG- und PSY-Verringerungen (auf 75%)<br>Füllt eigenes Limitmeter (um 1000)",
+        "Aumenta las reducciones de ATQ, DEF, MAG y ESP (a un 75%)<br>Rellena la barra de EL propia (1000)"
+    ],
+    "230024002": [
+        "Boosts damage amount (to 2500%)<br>Boosts ATK, DEF, MAG, and SPR reductions (to 60%)<br>Fills own LB gauge (500)",
+        "提高傷害量(至2500%)<br>提高攻擊防禦魔力精神減少量(至60%)<br>增加自身的極限技槽(500)",
+        "피해량 상승(2500%)<br>공격력, 방어력, 마력, 정신력 감소량 상승(60%)<br>자신의 LB 게이지 증가(500)",
+        "Augmente les dégâts infligés (à 2500 %)<br>Amplifie les réductions de l'ATT, de la DEF, de la MAGIE et de la PSY (à 60 %)<br>Remplit la jauge de limite du lanceur (500)",
+        "Erhöht Schaden (auf 2500%)<br>Steigert ANG-, ABW-, MAG- und PSY-Verringerungen (auf 60%)<br>Füllt eigenes Limitmeter (um 500)",
+        "Aumenta el daño (a un 2500%)<br>Aumenta las reducciones de ATQ, DEF, MAG y ESP (a un 60%)<br>Rellena la barra de EL propia (500)"
     ],
     "230086002": [
         "Boosts damage increase (to 175%)<br>Boosts increase to damage of certain abilities (Regina cannon: 650%)",
@@ -8319,6 +8471,78 @@
         "Erhöht Schaden (gering)<br>Erhöht Verringerungen von Feuerresistenz (mittel)",
         "Aumenta el daño (poco)<br>Mayor resistencia a la reducción de fuego (bastante)"
     ],
+    "911192002": [
+        "Enables all allies except self to evade some physical attacks one time<br>Increases MP consumed (to 30)",
+        "賦予除自身以外的全體隊員可閃避1次部分物理攻擊的效果<br>增加MP消耗(至30)",
+        "자신을 제외한 아군 전체에 일부 물리 공격 1회 회피 효과 부여<br>소비 MP 증가(30)",
+        "Permet à tous les alliés excepté le lanceur d'esquiver une fois certaines attaques physiques<br>Augmente les PM consommés (à 30)",
+        "Ermöglicht allen Verbündeten außer Benutzer, einigen physischen Angriffen einmal auszuweichen<br>Erhöht MP-Verbrauch (auf 30)",
+        "Todos los aliados excepto el usuario pueden evadir algunos ataques físicos una vez<br>Aumenta el consumo de PM (a 30)"
+    ],
+    "911194002": [
+        "Boosts DEF, SPR, and HP (20%)<br>Nullifies paralysis, confusion, and stone",
+        "提高HP防禦精神(20%)<br>麻痺混亂石化無效",
+        "방어력, 정신력, HP 상승(20%)<br>마비, 혼란, 석화 무효화",
+        "Augmente la DEF, la PSY et les PV (20 %)<br>Annule paralysie, confusion et pétrification",
+        "Erhöht ABW, PSY und LP (um 20%)<br>Anulliert Lähmung, Konfus und Stein",
+        "Aumenta DEF, ESP y VIT (un 20%)<br>Anula parálisis, confusión y piedra"
+    ],
+    "911199002": [
+        "Boosts damage amount (to 1000%)<br>Boosts lightning resistance reduction (to 75%)<br>Boosts turns in effect (to 5 turns)<br>Adds lightning element to own physical attack for five turns",
+        "提高傷害量(至1000%)<br>提高雷屬性耐性減少量(至75%)<br>提高效果回合數(至5回合)<br>5回合內將自身的物理攻擊賦予雷屬性",
+        "피해량 상승(1000%)<br>번개속성 저항력 감소량 상승(75%)<br>효과 턴 수 상승(5턴)<br>5턴 동안 자신의 물리 공격에 번개속성 부여",
+        "Augmente les dégâts infligés (à 1000 %)<br>Amplifie la réduction de la résistance à la foudre (à 75 %)<br>Augmente le nombre de tours des effets (à 5 tours)<br>Ajoute l'élément foudre aux attaques physiques du lanceur pendant 5 tours",
+        "Erhöht Schaden (auf 1000%)<br>Steigert Verringerung der Blitzresistenz (auf 75%)<br>Erhöht Anzahl aktiver Runden (auf 5 Runden)<br>Fügt eigenem physischen Angriff 5 Runden lang Blitzelement hinzu",
+        "Aumenta el daño (a un 1000%)<br>Aumenta la reducción de la resistencia al rayo (a un 75%)<br>Aumenta la duración (a 5 turnos)<br>Añade elemento rayo a los ataques físicos propios durante 5 turnos"
+    ],
+    "911206002": [
+        "Boosts damage amount (Base: to 1400%)<br>Boosts consecutive use damage (Bonus: to 200% per use, up to 1200%)",
+        "提高傷害量(基礎：至1400%)<br>連續使用時提高傷害(額外：每次使用提高200%，最高至1200%)",
+        "피해량 상승(기본: 1400%)<br>연속 사용 시 피해량 상승(추가: 사용 시마다 200%, 최대 1200%)",
+        "Augmente les dégâts infligés (Base : à 1400 %)<br>Augmente les dégâts infligés lors d'utilisations consécutives (Bonus : à 200 % par utilisation, jusqu' à 1200 %)",
+        "Erhöht Schaden (Basis: auf 1400%)<br>Erhöht Schaden mit jeder Benutzung (Bonus: auf 200% per Benutzung, bis zu 1200%)",
+        "Aumenta el daño (base: a un 1400%)<br>Aumenta el daño con cada uso (bonificación: a un 200% por uso, hasta un 1200%)"
+    ],
+    "911207002": [
+        "Boosts ATK increase (to 50%)<br>Boosts LB damage (100%)",
+        "提高攻擊增加量(至50%)<br>提高極限技的傷害(100%)",
+        "공격력 상승량 상승(50%)<br>LB 피해량 상승(100%)",
+        "Amplifie l'augmentation de l'ATT (à 50 %)<br>Augmente les dégâts de la limite (100 %)",
+        "Steigert ANG-Erhöhungen (auf 50%)<br>Erhöht Schaden durch Limitrausch (um 100%)",
+        "Mayor aumento de ATQ (a un 50%)<br>Aumenta el daño del EL (un 100%)"
+    ],
+    "911208002": [
+        "Changes to reduce fire resistance first before dealing fire damage<br>Boosts damage amount (to 2500%)<br>Boosts turns in effect (to 5 turns)<br>Adds fire element to own physical attack for five turns",
+        "變更為先降低火屬性耐性再發動火屬性攻擊<br>提高傷害量(至2500%)<br>提高效果回合數(至5回合)<br>5回合內將自身的物理攻擊賦予火屬性</color>",
+        "불속성 저항력 감소 후 불속성 피해로 변경<br>피해량 상승(2500%)<br>효과 턴 수 상승(5턴)<br>5턴 동안 자신의 물리 공격에 불속성 부여",
+        "Modifie les effets de l'aptitude (réduit la résistance au feu avant d'infliger des dégâts de feu)<br>Augmente les dégâts infligés (à 2500 %)<br>Augmente le nombre de tours des effets (à 5 tours)<br>Ajoute l'élément feu aux attaques physiques du lanceur pendant 5 tours",
+        "Verringert nun zuerst Feuerresistenz, bevor Feuerschaden zugefügt wird<br>Erhöht Schaden (auf 2500%)<br>Erhöht Anzahl aktiver Runden (auf 5 Runden)<br>Fügt eigenem physischen Angriff 5 Runden lang Feuerelement hinzu",
+        "Reduce la resistencia al fuego antes de infligir daño de fuego<br>Aumenta el daño (a un 2500%)<br>Aumenta la duración (a 5 turnos)<br>Añade elemento fuego a los ataques físicos propios durante 5 turnos"
+    ],
+    "911209002": [
+        "Removes fire element from damage dealt<br>Boosts damage amount (to 3000%)<br>Boosts fire resistance reduction (to 100%)<br>Boosts turns in effect (to 5 turns)",
+        "發動的攻擊移除火屬性<br>提高傷害量(至3000%)<br>提高火屬性耐性減少量(至100%)<br>提高效果回合數(至5回合)",
+        "부여하는 피해에서 불속성 제거<br>피해량 상승(3000%)<br>불속성 감소량 상승(100%)<br>효과 턴 수 상승(5턴)",
+        "Retire l'élément feu des dégâts infligés<br>Augmente les dégâts infligés (à 3000 %)<br>Amplifie la réduction de la résistance au feu (à 100 %)<br>Augmente le nombre de tours des effets (à 5 tours)",
+        "Entfernt Feuerelement von zugefügtem Schaden<br>Erhöht Schaden (auf 3000%)<br>Steigert Verringerung der Feuerresistenz (auf 100%)<br>Erhöht Anzahl aktiver Runden (auf 5 Runden)",
+        "Elimina el elemento fuego del daño infligido<br>Aumenta el daño (a un 3000%)<br>Aumenta la reducción de la resistencia al fuego (a un 100%)<br>Aumenta la duración (a 5 turnos)"
+    ],
+    "911210002": [
+        "Boosts own ATK for 999 turns (250%, undispellable)<br>Boosts damage amount (to 2500%)<br>Changes availability of first use from turn 5 to turn 1",
+        "999回合內提高自身的攻擊(250%、無法解除)<br>提高傷害量(至2500%)<br>首次可使用回合數由5回合變更至1回合",
+        "999턴 동안 자신의 공격력 상승(250%, 해제 불가)<br>피해량 상승(2500%)<br>첫 번째 사용 가능 턴을 5턴에서 1턴으로 변경",
+        "Augmente l'ATT du lanceur pendant 999 tours (250 %, ne peut pas être dissipé)<br>Augmente les dégâts infligés (à 2500 %)<br>Rend la première utilisation disponible dès le 1er tour du combat au lieu du 5e",
+        "Erhöht 999 Runden lang eigenen ANG (um 250%, nicht bannbar)<br>Erhöht Schaden (auf 2500%)<br>Ändert Verfügbarkeit für erste Benutzung von Runde 5 auf Runde 1",
+        "Aumenta el ATQ propio durante 999 turnos (un 250%, no se puede eliminar)<br>Aumenta el daño (a un 2500%)<br>Cambia el primer uso del turno 5 al 1"
+    ],
+    "911212002": [
+        "Boosts MP (50%)<br>Restores MP every turn (10%)",
+        "提高MP(50%)<br>每回合恢復MP(10%)",
+        "MP 상승(50%)<br>매 턴마다 MP 회복(10%)",
+        "Augmente les PM (50 %)<br>Restaure les PM à chaque tour (10 %)",
+        "Erhöht MP (um 50%)<br>Regeneriert jede Runde MP (um 10%)",
+        "Aumenta los PM (un 50%)<br>Recupera PM cada turno (un 10%)"
+    ],
     "911245002": [
         "Boosts attack count (low)<br>Reduces MP consumed (low)<br>Reduces hit count per attack (low)",
         "提高攻擊數(小)<br>減少MP消耗(小)<br>每次攻擊降低攻擊次數(小)",
@@ -8484,7 +8708,7 @@
         "3回合內減少對全體隊員的魔法傷害(25%)<br>增加MP消耗(至40)",
         "3턴 동안 아군 전체가 받는 마법 피해량 감소(25%)<br>소비 MP 증가(40)",
         "Réduit les dégâts magiques reçus par tous les alliés pendant 3 tours (25 %)<br>Augmente les PM consommés (à 40)",
-        "Verringert von allen Verbündeten erlittenen Schaden für 3 Runden (25%)<br>Erhöht MP-Verbrauch (auf 40)",
+        "Verringert von allen Verbündeten erlittenen magischen Schaden für 3 Runden (25%)<br>Erhöht MP-Verbrauch (auf 40)",
         "Reduce el daño mágico que reciben todos los aliados durante 3 turnos (un 25%)<br>Aumenta el consumo de PM (a 40)"
     ],
     "911483002": [
@@ -8678,6 +8902,54 @@
         "Augmente les dégâts (à 2500 / 2500 %)",
         "Erhöht Schaden (auf 2500/2500%)",
         "Aumenta el daño (a un 2500/2500%)"
+    ],
+    "911900002": [
+        "Boosts DEF (20%)<br>Restores MP every turn (10%)",
+        "提高防禦(20%)<br>每回合恢復MP(10%)",
+        "방어력 상승(20%)<br>매 턴마다 MP 회복(10%)",
+        "Augmente la DEF (20 %)<br>Restaure les PM à chaque tour (10 %)",
+        "Erhöht ABW (20%)<br>Regeneriert jede Runde MP (10%)",
+        "Aumenta la DEF (un 20%)<br>Recupera PM cada turno (un 10%)"
+    ],
+    "911902002": [
+        "Boosts resistance to ATK, DEF, MAG, and SPR reductions for all allies for three turns (100%)",
+        "3回合內提高全體隊員降低攻擊防禦魔力精神的耐性(100%)",
+        "3턴 동안 아군 전체의 공격력, 방어력, 마력, 정신력 감소 저항력 상승(100%)",
+        "Augmente la résistance aux réductions de l'ATT, de la DEF, de la MAGIE et de la PSY de tous les alliés pendant 3 tours (100 %)",
+        "Erhöht Resistenz aller Verbündeten gegen Verringerungen von ANG, ABW, MAG und PSY für 3 Runden (100%)",
+        "Aumenta la resistencia a reducciones de ATQ, DEF, MAG y ESP de todos los aliados durante 3 turnos (un 100%)"
+    ],
+    "911905002": [
+        "Reduces light resistance for all enemies for three turns (100%)<br>Changes to deal light magic damage<br>Boosts damage amount (to 2000%)",
+        "3回合內降低全體敵人的光屬性耐性(100%)<br>變更為光屬性魔法攻擊<br>提高傷害量(至2000%)",
+        "3턴 동안 적 전체의 빛속성 저항력 감소(100%)<br>빛속성 마법 피해로 변경<br>피해량 상승(2000%)",
+        "Réduit la résistance à la lumière de tous les ennemis pendant 3 tours (100 %)<br>Modifie les effets de l'attaque (inflige des dégâts magiques de lumière)<br>Augmente les dégâts (à 2000 %)",
+        "Verringert 3 Runden lang Lichtresistenz aller Gegner (100%)<br>Ändert zu magischem Lichtschaden<br>Erhöht Schaden (auf 2000%)",
+        "Reduce la resistencia a la luz de todos los enemigos durante 3 turnos (un 100%)<br>El daño cambia a daño mágico de luz<br>Aumenta el daño (a un 2000%)"
+    ],
+    "911907002": [
+        "Boosts damage amount (to 3000%)",
+        "提高傷害量(至3000%)",
+        "피해량 상승(3000%)",
+        "Augmente les dégâts infligés (à 3000 %)",
+        "Erhöht Schaden (auf 3000%)",
+        "Aumenta el daño (a un 3000%)"
+    ],
+    "911908002": [
+        "Boosts DEF and SPR increases (to 150%)<br>Reduces magic damage taken for all allies for two turns (40%)",
+        "提高防禦精神增加量(至150%)<br>2回合內減少對全體隊員的魔法傷害(40%)",
+        "방어력과 정신력 상승량 상승(150%)<br>2턴 동안 아군 전체가 받는 마법 피해량 감소(40%)",
+        "Amplifie l'augmentation de la DEF et de la PSY (à 150 %)<br>Réduit les dégâts magiques subis pour tous les alliés pendant 2 tours (40 %)",
+        "Steigert ABW- und PSY-Erhöhungen (auf 150%)<br>Verringert 2 Runden lang von allen Verbündeten erlittenen magischen Schaden (40%)",
+        "Mayor aumento de DEF y ESP (a un 150%)<br>Reduce el daño mágico que reciben todos los aliados durante 2 turnos (un 40%)"
+    ],
+    "911910002": [
+        "Boosts DEF, MAG, HP, and MP increases (to 30%)<br>Boosts equipment SPR when armed with two one-handed weapons (50%)",
+        "提高HPMP防禦魔力增加量(至30%)<br>裝備2把單手武器時武具精神提升(50%)",
+        "방어력, 마력, HP, MP 상승량 상승(30%)<br>한손용 무기 2개 장착 시 장비의 정신력 상승(50%)",
+        "Amplifie l'augmentation de la DEF, de la MAGIE, des PV et des PM (à 30 %)<br>Augmente la PSY de l'équipement quand deux armes à une main sont équipées (50 %)",
+        "Erhöht ABW-, MAG-, LP- und MP-Erhöhungen (auf 30%)<br>Erhöht Ausrüstung-PSY, wenn mit zwei einhändigen Waffen ausgerüstet (50%)",
+        "Mayor aumento de DEF, MAG, VIT y PM (a un 30%)<br>Aumenta el ESP del equipo al llevar 2 armas de una sola mano (un 50%)"
     ],
     "911955002": [
         "Boosts all elemental resistance increases (to 55%)<br>Boosts all elemental resistance reductions (to 55%)<br>Boosts turns in effect (to 3 turns)<br>Can act next turn<br>Boosts own MAG for 2 turns (200%, undispellable)<br>Enables butterfly dance for 2 turns for all allies<br>Boosts damage amount of enabled ability - butterfly dance (to 1000%)<br>Increases MP consumed (to 65)",
