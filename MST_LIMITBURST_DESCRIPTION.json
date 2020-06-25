@@ -5583,6 +5583,14 @@
         "Erhöht MAG und PSY des Benutzers, regeneriert seine LP und regeneriert allmählich seine MP.",
         "Aumenta la MAG y el ESP propios, recupera VIT, y recupera PM poco a poco"
     ],
+    "100025707": [
+        "Boost ATK, DEF, MAG, and SPR, and restore HP and MP for all allies",
+        "提高全體隊員的攻擊防禦魔力精神+恢復HPMP",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 상승+HP와 MP 회복",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, et restaure leurs PV et leurs PM",
+        "Erhöht ANG, ABW, MAG und PSY und regeneriert LP und MP aller Verbündeten.",
+        "Aumenta ATQ, DEF, MAG y ESP, y recupera VIT y PM de todos los aliados"
+    ],
     "100025805": [
         "Deal partial unmitigated lightning magic damage to all enemies and reduce own ATK, DEF, MAG, and SPR",
         "對全體敵人發動雷屬性無視部分魔法防禦的攻擊+降低自身的攻擊防禦魔力精神",
@@ -6071,6 +6079,14 @@
         "Heilt LP, alle Verb.",
         "Recupera VIT de todos los aliados"
     ],
+    "202000302": [
+        "Deal earth damage to one enemy",
+        "對1名敵人發動土屬性攻擊",
+        "적 1명에게 땅속성 피해",
+        "Dégâts de terre sur un ennemi",
+        "Erdschaden, ein Ziel",
+        "Daño de tierra a un enemigo"
+    ],
     "202000303": [
         "Deal earth damage to one enemy",
         "對1名敵人發動土屬性攻擊",
@@ -6382,6 +6398,22 @@
         "Inflige des dégâts de feu à tous les ennemis, et augmente la résistance au feu de tous les alliés",
         "Fügt allen Gegnern Feuerschaden zu und erhöht Feuerresistenz für alle Verbündeten.",
         "Daño de fuego a todos los enemigos y aumenta la resistencia al fuego de todos los aliados"
+    ],
+    "203000702": [
+        "Deal lightning damage to one enemy",
+        "對1名敵人發動雷屬性攻擊",
+        "적 1명에게 번개속성 피해",
+        "Dégâts de foudre sur un ennemi",
+        "Blitzschaden, ein Ziel",
+        "Daño de rayo a un enemigo"
+    ],
+    "203000703": [
+        "Deal lightning damage to one enemy",
+        "對1名敵人發動雷屬性攻擊",
+        "적 1명에게 번개속성 피해",
+        "Dégâts de foudre sur un ennemi",
+        "Blitzschaden, ein Ziel",
+        "Daño de rayo a un enemigo"
     ],
     "203000704": [
         "Deal partial unmitigated lightning damage and chance of paralyzing one enemy",
@@ -6782,6 +6814,14 @@
         "Dégâts sur tous les ennemis",
         "Schaden, alle Ziele",
         "Daña a todos los enemigos"
+    ],
+    "204000602": [
+        "Boost DEF and SPR for all allies",
+        "提高全體隊員的精神防禦",
+        "아군 전체의 방어력과 정신력 상승",
+        "Augmente la DEF et la PSY de tous les alliés",
+        "PSY und ABW hoch, alle Ziele",
+        "Aumenta la DEF y el ESP de todos los aliados"
     ],
     "204000603": [
         "Boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
@@ -8279,6 +8319,54 @@
         "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos"
     ],
+    "208000505": [
+        "Chance of instantly KO'ing or damaging all enemies",
+        "一定機率對全體敵人施加致死一擊效果或傷害",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여",
+        "Confère une chance d'infliger des dégâts ou un KO instantané à tous les ennemis",
+        "Chance, alle Gegner sofort auszuschalten oder allen Gegnern Schaden zuzufügen.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o dañarlos"
+    ],
+    "208000506": [
+        "Chance of instantly KO'ing or damaging all enemies, and enable slot - water and slot - quake for three turns",
+        "一定機率對全體敵人施加致死一擊效果或傷害+3回合內可使用「老虎機・流水」「老虎機・地槌」",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여+3턴 동안 '슬롯·워터'와 '슬롯·퀘이크' 사용 가능",
+        "Confère une chance d'infliger des dégâts ou un KO instantané à tous les ennemis et permet d'utiliser Jackpot - H2o et Jackpot - Quake pendant 3 tours",
+        "Chance, alle Gegner sofort kampfunfähig zu machen oder ihnen Schaden zuzufügen, und ermöglicht drei Runden lang Tombola - Aqua und Tombola - Beben.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aprende Ruleta - Aqua y Ruleta - Seísmo durante 3 turnos"
+    ],
+    "208000507": [
+        "Chance of instantly KO'ing or damaging all enemies, and enable slot - water and slot - quake for three turns",
+        "一定機率對全體敵人施加致死一擊效果或傷害+3回合內可使用「老虎機・流水」「老虎機・地槌」",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여+3턴 동안 '슬롯·워터'와 '슬롯·퀘이크' 사용 가능",
+        "Confère une chance d'infliger des dégâts ou un KO instantané à tous les ennemis et permet d'utiliser Jackpot - H2o et Jackpot - Quake pendant 3 tours",
+        "Chance, alle Gegner sofort kampfunfähig zu machen oder ihnen Schaden zuzufügen, und ermöglicht drei Runden lang Tombola - Aqua und Tombola - Beben.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aprende Ruleta - Aqua y Ruleta - Seísmo durante 3 turnos"
+    ],
+    "208000605": [
+        "Damage one enemy and enable triple shot (FFVIII) for one turn",
+        "攻擊1名敵人+1回合內可使用「T射擊(FFVIII)」",
+        "적 1명에게 피해+1턴 동안 'T샷(FFVIII)' 사용 가능",
+        "Inflige des dégâts à un ennemi et permet d'utiliser Triple tir (FFVIII) pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Dreifacher Schuss (FFVIII).",
+        "Daña a un enemigo y aprende Tiro triple (FFVIII) durante un turno"
+    ],
+    "208000606": [
+        "Damage one enemy and enable quadruple shot (FFVIII) for one turn",
+        "攻擊1名敵人+1回合內可使用「IV射擊(FFVIII)」",
+        "적 1명에게 피해+1턴 동안 'IV샷(FFVIII)' 사용 가능",
+        "Inflige des dégâts à un ennemi et permet d'utiliser Quadruple tir (FFVIII) pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Vierfachschuss (FFVIII).",
+        "Daña a un enemigo y aprende Tiro cuádruple (FFVIII) durante un turno"
+    ],
+    "208000607": [
+        "Damage one enemy and enable quadruple shot (FFVIII) for one turn",
+        "攻擊1名敵人+1回合內可使用「IV射擊(FFVIII)」",
+        "적 1명에게 피해+1턴 동안 'IV샷(FFVIII)' 사용 가능",
+        "Inflige des dégâts à un ennemi et permet d'utiliser Quadruple tir (FFVIII) pendant 1 tour",
+        "Fügt einem Gegner Schaden zu und ermöglicht eine Runde lang Vierfachschuss (FFVIII).",
+        "Daña a un enemigo y aprende Tiro cuádruple (FFVIII) durante un turno"
+    ],
     "208001005": [
         "Chance of instantly KO'ing or damaging all enemies",
         "一定機率對全體敵人施加致死一擊效果或傷害",
@@ -8302,6 +8390,30 @@
         "Confère une chance d'infliger un KO instantané ou des dégâts à tous les ennemis",
         "Chance, alle Gegner sofort auszuschalten oder ihnen Schaden zuzufügen.",
         "Probabilidad de dejar K.O. al instante a todos los enemigos o de dañarlos"
+    ],
+    "208001304": [
+        "Deal ice damage to all enemies and enable triple (Edea) for one turn",
+        "對全體敵人發動冰屬性攻擊+1回合內可使用「三重(伊迪雅)」",
+        "적 전체에 얼음속성 피해+1턴 동안 '트리플(이데아)' 사용 가능",
+        "Inflige des dégâts de glace à tous les ennemis et permet d'utiliser Triple (Edea) pendant 1 tour",
+        "Fügt allen Gegnern Eisschaden zu und ermöglicht eine Runde lang Tripel (Edea).",
+        "Daño de hielo a todos los enemigos y aprende Triple (Edea) durante un turno"
+    ],
+    "208001305": [
+        "Deal ice damage to all enemies and enable triple (Edea) for one turn",
+        "對全體敵人發動冰屬性攻擊+1回合內可使用「三重(伊迪雅)」",
+        "적 전체에 얼음속성 피해+1턴 동안 '트리플(이데아)' 사용 가능",
+        "Inflige des dégâts de glace à tous les ennemis et permet d'utiliser Triple (Edea) pendant 1 tour",
+        "Fügt allen Gegnern Eisschaden zu und ermöglicht eine Runde lang Tripel (Edea).",
+        "Daño de hielo a todos los enemigos y aprende Triple (Edea) durante un turno"
+    ],
+    "208001306": [
+        "Deal ice damage to all enemies and enable triple (Edea) for one turn",
+        "對全體敵人發動冰屬性攻擊+1回合內可使用「三重(伊迪雅)」",
+        "적 전체에 얼음속성 피해+1턴 동안 '트리플(이데아)' 사용 가능",
+        "Inflige des dégâts de glace à tous les ennemis et permet d'utiliser Triple (Edea) pendant 1 tour",
+        "Fügt allen Gegnern Eisschaden zu und ermöglicht eine Runde lang Tripel (Edea).",
+        "Daño de hielo a todos los enemigos y aprende Triple (Edea) durante un turno"
     ],
     "208001505": [
         "Damage all enemies",
@@ -9167,6 +9279,22 @@
         "Feuer-, Eis, und Blitzschaden, alle Gegner.",
         "Daño de fuego, hielo y rayo a todos los enemigos"
     ],
+    "211000202": [
+        "Deal earth damage to one enemy",
+        "對1名敵人發動土屬性攻擊",
+        "적 1명에게 땅속성 피해",
+        "Dégâts de terre sur un ennemi",
+        "Erdschaden, ein Ziel",
+        "Daño de tierra a un enemigo"
+    ],
+    "211000203": [
+        "Deal earth damage to one enemy",
+        "對1名敵人發動土屬性攻擊",
+        "적 1명에게 땅속성 피해",
+        "Dégâts de terre sur un ennemi",
+        "Erdschaden, ein Ziel",
+        "Daño de tierra a un enemigo"
+    ],
     "211000204": [
         "Deal partial unmitigated earth damage and chance of confusing all enemies",
         "對全體敵人發動土屬性無視部分防禦的攻擊+一定機率造成混亂",
@@ -9526,6 +9654,22 @@
         "Soigne poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés",
         "Heilt von Gift, Blenden, Schlaf, Stille, Lähmung, Konfus. Virus und Stein, alle Verb.",
         "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra a todos los aliados"
+    ],
+    "212000802": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Dégâts sur un ennemi",
+        "Schaden, ein Ziel",
+        "Daña a un enemigo"
+    ],
+    "212000803": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Dégâts sur un ennemi",
+        "Schaden, ein Ziel",
+        "Daña a un enemigo"
     ],
     "212000905": [
         "Deal fire damage to one enemy and caster can dodge some physical attacks three times",
@@ -12364,7 +12508,7 @@
         "對全體敵人發動無視部分防禦的攻擊",
         "적 전체에 일부 방어 무시 피해",
         "Inflige des dégâts en partie fixes sur tous les ennemis",
-        "Teilweise direkter Schaden, alle Ziele",
+        "Fügt allen Gegnern teilweise direkten Schaden zu.",
         "Daño que ignora parcialmente la DEF de todos los enemigos"
     ],
     "310000204": [
@@ -12720,28 +12864,28 @@
         "Daño de rayo que ignora parcialmente la DEF de un enemigo y reduce el daño que reciben todos los aliados durante un turno"
     ],
     "317000105": [
-        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
+        "Remove ATK, DEF, MAG, and SPR reductions, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
         "解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP",
-        "아군 1명의 일부 능력치 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
-        "Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM de tous les alliés",
-        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.",
-        "Elimina todos los estados alterados, aumenta ATQ, DEF, MAG y ESP y recupera poco a poco la VIT y los PM de todos los aliados"
+        "아군 1명의 공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY, augmente l'ATT, la DEF, la MAGIE et la PSY, et restaure progressivement les PV et les PM de tous les alliés",
+        "Entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, erhöht ANG, ABW, MAG sowie PSY und regeneriert allmählich LP sowie MP aller Verbündeten.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, aumenta su ATQ, DEF, MAG y ESO, y recupera poco a poco su VIT y PM"
     ],
     "317000106": [
-        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
+        "Remove ATK, DEF, MAG, and SPR reductions, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
         "解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP",
-        "아군 1명의 일부 능력치 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
-        "Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM de tous les alliés",
-        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.",
-        "Elimina todos los estados alterados, aumenta ATQ, DEF, MAG y ESP y recupera poco a poco la VIT y los PM de todos los aliados"
+        "아군 1명의 공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY, augmente l'ATT, la DEF, la MAGIE et la PSY, et restaure progressivement les PV et les PM de tous les alliés",
+        "Entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, erhöht ANG, ABW, MAG sowie PSY und regeneriert allmählich LP sowie MP aller Verbündeten.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, aumenta su ATQ, DEF, MAG y ESO, y recupera poco a poco su VIT y PM"
     ],
     "317000107": [
-        "Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
+        "Remove ATK, DEF, MAG, and SPR reductions, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies",
         "解除全體隊員降低攻擊防禦魔力精神的效果+提高攻擊防禦魔力精神+持續恢復HPMP",
-        "아군 1명의 일부 능력치 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
-        "Annule certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY, et restaure progressivement les PV et les PM de tous les alliés",
-        "Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.",
-        "Elimina algunos estados alterados, aumenta ATQ, DEF, MAG y ESP, y recupera poco a poco la VIT y los PM de todos los aliados"
+        "아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY, augmente l'ATT, la DEF, la MAGIE et la PSY, et restaure progressivement les PV et les PM de tous les alliés",
+        "Entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, erhöht ANG, ABW, MAG sowie PSY und regeneriert allmählich LP sowie MP aller Verbündeten.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, aumenta su ATQ, DEF, MAG y ESP, y recupera poco a poco su VIT y PM"
     ],
     "318000105": [
         "Deal partial unmitigated damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
@@ -13032,7 +13176,7 @@
         "Daña a un enemigo y reduce su resistencia a fuego, agua, viento, tierra, luz y oscuridad, y aprende Golpe letal durante un turno"
     ],
     "331000205": [
-        "Damage all enemies and boost MAG for self",
+        "Damage all enemies, and boost MAG for caster",
         "攻擊全體敵人+提高自身魔力",
         "적 전체에 피해+자신의 마력 상승",
         "Inflige des dégâts à tous les ennemis et augmente la MAGIE du lanceur",
@@ -13040,7 +13184,7 @@
         "Daña a todos los enemigos y aumenta la MAG del usuario"
     ],
     "331000206": [
-        "Damage all enemies and boost MAG for self",
+        "Damage all enemies, and boost MAG for caster",
         "攻擊全體敵人+提高自身魔力",
         "적 전체에 피해+자신의 마력 상승",
         "Inflige des dégâts à tous les ennemis et augmente la MAGIE du lanceur",
@@ -13048,7 +13192,7 @@
         "Daña a todos los enemigos y aumenta la MAG del usuario"
     ],
     "331000207": [
-        "Damage all enemies and boost MAG for self",
+        "Damage all enemies, and boost MAG for caster",
         "攻擊全體敵人+提高自身魔力",
         "적 전체에 피해+자신의 마력 상승",
         "Inflige des dégâts à tous les ennemis et augmente la MAGIE du lanceur",
@@ -14928,28 +15072,28 @@
         "Daño mágico a un enemigo y reduce su ATQ, DEF, MAG y ESP"
     ],
     "401004905": [
-        "Deal damage and reduce lightning resistance for one enemy",
+        "Deal partial unmitigated damage and reduce lightning resistance for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
-        "적 1명에게 피해+번개속성 저항력 감소",
-        "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
-        "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
-        "Daña a un enemigo y reduce su resistencia al rayo"
+        "적 1명에게 일부 방어 무시 피해+번개속성 저항력 감소",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la foudre d'un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu und verringert seine Blitzresistenz.",
+        "Daño que ignora parcialmente la DEF de un enemigo y reduce su resistencia al rayo"
     ],
     "401004906": [
-        "Deal damage and reduce lightning resistance for one enemy",
+        "Deal partial unmitigated damage and reduce lightning resistance for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
-        "적 1명에게 피해+번개속성 저항력 감소",
-        "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
-        "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
-        "Daña a un enemigo y reduce su resistencia al rayo"
+        "적 1명에게 일부 방어 무시 피해+번개속성 저항력 감소",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la foudre d'un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu und verringert seine Blitzresistenz.",
+        "Daño que ignora parcialmente la DEF de un enemigo y reduce su resistencia al rayo"
     ],
     "401004907": [
-        "Deal damage and reduce lightning resistance for one enemy",
+        "Deal partial unmitigated damage and reduce lightning resistance for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低雷屬性耐性",
-        "적 1명에게 피해+번개속성 저항력 감소",
-        "Inflige des dégâts et réduit la résistance à la foudre d'un ennemi",
-        "Fügt einem Gegner Schaden zu und verringert seine Blitzresistenz.",
-        "Daña a un enemigo y reduce su resistencia al rayo"
+        "적 1명에게 일부 방어 무시 피해+번개속성 저항력 감소",
+        "Inflige des dégâts en partie fixes et réduit la résistance à la foudre d'un ennemi",
+        "Fügt einem Gegner teilweise direkten Schaden zu und verringert seine Blitzresistenz.",
+        "Daño que ignora parcialmente la DEF de un enemigo y reduce su resistencia al rayo"
     ],
     "401005005": [
         "Deal damage to all enemies",
@@ -16154,10 +16298,10 @@
     "900000320": [
         "Deal partial unmitigated damage and reduce ATK, DEF, MAG, and SPR for all enemies, and reduce physical damage taken for caster",
         "對全體敵人發動無視部分防禦的攻擊+降低攻擊防禦魔力精神+減少對自身的物理傷害",
-        "적 전체에 일부 방어 무시 피해+공격력, 방어력, 마력, 정신력 감소+자신이 받는 피해량 감소",
-        "Inflige des dégâts en partie fixes et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, et réduit les dégâts subis par le lanceur",
-        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre ANG, ABW, MAG und PSY und verringert den von Benutzer erlittenen Schaden.",
-        "Daño que ignora parcialmente la DEF de todos los enemigos, reduce su ATQ, DEF, MAG y ESP, y reduce el daño que recibe el usuario"
+        "적 전체에 일부 방어 무시 피해+공격력, 방어력, 마력, 정신력 감소+자신이 받는 물리 피해량 감소",
+        "Inflige des dégâts en partie fixes et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, et réduit les dégâts physiques subis par le lanceur",
+        "Fügt allen Gegnern teilweise direkten Schaden zu, verringert ihren ANG, ihre ABW, MAG sowie PSY und verringert den von Benutzer erlittenen physischen Schaden.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, reduce su ATQ, DEF, MAG y ESP, y reduce el daño físico que recibe el usuario"
     ],
     "900000330": [
         "Damage and reduce fire and ice resistance for all enemies and boost damage of certain abilities",
