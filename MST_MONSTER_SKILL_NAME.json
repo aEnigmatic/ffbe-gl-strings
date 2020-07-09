@@ -25104,11 +25104,11 @@
         "Lazo doble"
     ],
     "179900": [
-        "Aspir Explosion",
+        "Osmose Explosion",
         "攝魔爆發",
         "아스필 폭발",
-        "Explosion aspirante",
-        "Aspirexplosion",
+        "Succion explosive",
+        "Osmoseexplosion",
         "Explosión aspir"
     ],
     "179910": [
@@ -25248,11 +25248,11 @@
         "El suelo está en llamas"
     ],
     "180080": [
-        "Aspir Explosion",
+        "Osmose Explosion",
         "攝魔爆發",
         "아스필 폭발",
-        "Explosion aspirante",
-        "Aspirexplosion",
+        "Succion explosive",
+        "Osmoseexplosion",
         "Explosión aspir"
     ],
     "180090": [
@@ -67712,11 +67712,11 @@
         "La zona a tu alrededor está tranquila..."
     ],
     "216417": [
-        "Aspir Explosion",
+        "Osmose Explosion",
         "攝魔爆發",
         "아스필 폭발",
-        "Explosion aspirante",
-        "Aspirexplosion",
+        "Succion explosive",
+        "Osmoseexplosion",
         "Explosión aspir"
     ],
     "216418": [
@@ -71762,7 +71762,7 @@
     "217045": [
         "Domain Under Lightning",
         "降雷領域",
-        "우레의 영역",
+        "번개속성 하락의 영역",
         "Domaine de foudre",
         "Zone der Blitzpein",
         "Dominios del rayo"
@@ -72178,7 +72178,7 @@
     "217104": [
         "Domain Under Lightning",
         "降雷領域",
-        "우레의 영역",
+        "번개속성 하락의 영역",
         "Domaine de foudre",
         "Zone der Blitzpein",
         "Dominios del rayo"
@@ -75175,6 +75175,14 @@
         "Eisga",
         "Hielo++"
     ],
+    "217594": [
+        "Demon Barrier",
+        "悪魔之壁",
+        "악마의 벽",
+        "Barrière démoniaque",
+        "Dämonenbarriere",
+        "Barrera demoniaca"
+    ],
     "217595": [
         "Leech",
         "吸收",
@@ -75278,6 +75286,14 @@
         "Implosion",
         "Einschlag",
         "Descarga"
+    ],
+    "217608": [
+        "Demon Barrier",
+        "悪魔之壁",
+        "악마의 벽",
+        "Barrière démoniaque",
+        "Dämonenbarriere",
+        "Barrera demoniaca"
     ],
     "217609": [
         "1000 Needles",
@@ -75986,7 +76002,7 @@
     "217697": [
         "Domain Under Water",
         "降水領域",
-        "물밑의 영역",
+        "물속성 하락의 영역",
         "Domaine d'eau",
         "Gebiet unter Wasser",
         "Dominios del agua"
@@ -76266,7 +76282,7 @@
     "217732": [
         "Thunder Claw",
         "雷爪牙",
-        "뇌조아",
+        "번개의 마수",
         "Griffe de tonnerre",
         "Donnerklaue",
         "Garra eléctrica"
@@ -76274,7 +76290,7 @@
     "217733": [
         "Frenzied Thunder Claw",
         "混亂雷爪牙",
-        "혼란의 뇌조아",
+        "혼돈의 번개의 마수",
         "Griffe de tonnerre frénétique",
         "Rasende Donnerklaue",
         "Garra eléctrica frenética"
@@ -76290,7 +76306,7 @@
     "217735": [
         "Domain Under Lightning",
         "降雷領域",
-        "뇌하의 영역",
+        "번개속성 하락의 영역",
         "Domaine de foudre",
         "Gebiet unter Blitz",
         "Dominios del rayo"
@@ -76498,7 +76514,7 @@
     "217761": [
         "Domain Under Lightning",
         "降雷領域",
-        "뇌하의 영역",
+        "번개속성 하락의 영역",
         "Domaine de foudre",
         "Gebiet unter Blitz",
         "Dominios del rayo"
@@ -76790,6 +76806,62 @@
         "Vous êtes trop près.",
         "Zu nah dran.",
         "Estás demasiado cerca."
+    ],
+    "217803": [
+        "Beginning combat simulation.",
+        "開始訓練戰鬥",
+        "전투 시뮬레이션을 개시합니다.",
+        "Début du combat d'entraînement.",
+        "Trainingskampf startet.",
+        "Iniciando combate de entrenamiento."
+    ],
+    "217804": [
+        "5 turns remaining",
+        "結束前5回合",
+        "종료 5턴 전",
+        "Plus que 5 secondes",
+        "Noch 5 Sekunden",
+        "Quedan 5 segundos"
+    ],
+    "217805": [
+        "4 turns remaining",
+        "結束前4回合",
+        "종료 4턴 전",
+        "Plus que 4 secondes",
+        "Noch 4 Sekunden",
+        "Quedan 4 segundos"
+    ],
+    "217806": [
+        "3 turns remaining",
+        "結束前3回合",
+        "종료 3턴 전",
+        "Plus que 3 secondes",
+        "Noch 3 Sekunden",
+        "Quedan 3 segundos"
+    ],
+    "217807": [
+        "2 turns remaining",
+        "結束前2回合",
+        "종료 2턴 전",
+        "Plus que 2 secondes",
+        "Noch 2 Sekunden",
+        "Quedan 2 segundos"
+    ],
+    "217808": [
+        "1 turns remaining",
+        "結束前1回合",
+        "종료 1턴 전",
+        "Plus que 1 seconde",
+        "Noch 1 Sekunde",
+        "Queda 1 segundo"
+    ],
+    "217809": [
+        "Ending combat simulation.",
+        "結束訓練戰鬥",
+        "전투 시뮬레이션을 종료합니다.",
+        "Fin du combat d'entraînement.",
+        "Trainingskampf beendet.",
+        "Finalizando combate de entrenamiento."
     ],
     "217810": [
         "Virulent Breath",
@@ -80231,6 +80303,78 @@
         "Das laute Kreischen lässt ihn zurückschrecken!",
         "¡El rugido lo ha acobardado!"
     ],
+    "218326": [
+        "Shock Wave",
+        "衝擊波",
+        "충격파",
+        "Onde de choc",
+        "Schockwelle",
+        "Onda expansiva"
+    ],
+    "218327": [
+        "Magic Bullet",
+        "魔彈",
+        "마법탄",
+        "Projectile magique",
+        "Magiekugel",
+        "Bala mágica"
+    ],
+    "218328": [
+        "Lightning of Judgment",
+        "審判之雷",
+        "심판의 벼락",
+        "Foudre du jugement",
+        "Blitzstrahl des Urteils",
+        "Rayo del juicio"
+    ],
+    "218329": [
+        "Hand of Judgment",
+        "審判之手",
+        "심판의 손",
+        "Main du jugement",
+        "Hand des Urteils",
+        "Mano del juicio"
+    ],
+    "218330": [
+        "Clean Sweep",
+        "推開",
+        "떨쳐내기",
+        "Attaque circulaire",
+        "Beiseitefegen",
+        "Barrida"
+    ],
+    "218331": [
+        "Uphold Judgment",
+        "審判防護",
+        "심판의 수호",
+        "Jugement prononcé",
+        "Schild des Urteils",
+        "Defensa del juicio"
+    ],
+    "218332": [
+        "Yellow Breaksight",
+        "黃色破解之印",
+        "노란 브레이크 사이트",
+        "Marque critique jaune",
+        "Gelbe Kritikalität",
+        "Ataque certero amarillo"
+    ],
+    "218333": [
+        "Blue Breaksight",
+        "藍色破解之印",
+        "푸른 브레이크 사이트",
+        "Marque critique bleue",
+        "Blaue Kritikalität",
+        "Ataque certero azul"
+    ],
+    "218334": [
+        "Red Breaksight",
+        "紅色破解之印",
+        "빨간 브레이크 사이트",
+        "Marque critique rouge",
+        "Rote Kritikalität",
+        "Ataque certero rojo"
+    ],
     "218335": [
         "Sonic Boom",
         "音速爆",
@@ -80246,6 +80390,326 @@
         "Pelletée",
         "Erdklumpen",
         "Masa de tierra"
+    ],
+    "218351": [
+        "Marksmanship",
+        "射擊",
+        "사격",
+        "Tirs précis",
+        "Distanzattacke",
+        "Pulso firme"
+    ],
+    "218352": [
+        "Bayonet",
+        "火槍箭",
+        "총검",
+        "Baïonnette",
+        "Bajonett",
+        "Bayoneta"
+    ],
+    "218353": [
+        "Marksmanship",
+        "射擊",
+        "사격",
+        "Tirs précis",
+        "Distanzattacke",
+        "Pulso firme"
+    ],
+    "218354": [
+        "Rapid Pot Shot",
+        "連續射擊",
+        "연속사격",
+        "Tirs rapides",
+        "Rasantes Schießen",
+        "Tiro de humo rápido"
+    ],
+    "218355": [
+        "Bayonet",
+        "火槍箭",
+        "총검",
+        "Baïonnette",
+        "Bajonett",
+        "Bayoneta"
+    ],
+    "218356": [
+        "Crash",
+        "衝撞",
+        "몸통 박치기",
+        "Collision",
+        "Rammen",
+        "Placaje"
+    ],
+    "218357": [
+        "155mm Howitzer",
+        "155mm榴彈砲",
+        "155mm 자주포",
+        "Obusier 155 mm",
+        "155 mm Haubitze",
+        "155 mm Howitzer"
+    ],
+    "218358": [
+        "Rush",
+        "突進",
+        "돌진",
+        "Charge",
+        "Stürmen",
+        "Embestida"
+    ],
+    "218359": [
+        "Missile",
+        "導彈",
+        "미사일",
+        "Missile",
+        "Rakete",
+        "Misil"
+    ],
+    "218360": [
+        "Machine Cannon",
+        "機關加農",
+        "머신 포격",
+        "Canon automatique",
+        "Maschinenkanone",
+        "Cañón ametrallador"
+    ],
+    "218361": [
+        "Sharpshot",
+        "精準狙擊",
+        "저격",
+        "Tir acéré",
+        "Scharfschuss",
+        "Tiro certero"
+    ],
+    "218362": [
+        "Preparing...",
+        "準備",
+        "준비",
+        "Phase de préparation...",
+        "Vorbereitung ...",
+        "Se prepara..."
+    ],
+    "218363": [
+        "Electric Charge",
+        "充電",
+        "충전",
+        "Charge électrique",
+        "Aufladen",
+        "Carga"
+    ],
+    "218364": [
+        "Forefoot Attack",
+        "前足攻擊",
+        "앞발 공격",
+        "Pattes antérieures",
+        "Vorderfußangriff",
+        "Ataque de puntera"
+    ],
+    "218365": [
+        "Tail Missile",
+        "尾部飛彈",
+        "꼬리 미사일",
+        "Missile caudal",
+        "Heckrakete",
+        "Misil de cola"
+    ],
+    "218366": [
+        "Sharpshot",
+        "精準狙擊",
+        "저격",
+        "Tir acéré",
+        "Scharfschuss",
+        "Tiro certero"
+    ],
+    "218367": [
+        "Magitek Laser",
+        "魔導射線",
+        "마도 레이저",
+        "Laser magitech",
+        "Magitek-Laser",
+        "Láser Magitec"
+    ],
+    "218368": [
+        "203mm Cannon",
+        "203mm加農砲",
+        "203mm 캐논포",
+        "Canon 203 mm",
+        "203 mm Kanone",
+        "Cañón de 203 mm"
+    ],
+    "218369": [
+        "Rursan Blade - Slash",
+        "路盧薩斯之劍·縱斬",
+        "루르사스의 검·세로 베기",
+        "Épée de Rursus - Taillade verticale",
+        "Rursus-Klinge - Hieb",
+        "Espada lu'Ruzhas - Tajo vertical"
+    ],
+    "218370": [
+        "Faltering...",
+        "衰弱了",
+        "기세가 꺾였다",
+        "Affaibli...",
+        "Zurückweichen ...",
+        "Está dudando..."
+    ],
+    "218371": [
+        "Rursan Blade - Sweep",
+        "路盧薩斯之劍·橫斬",
+        "루르사스의 검·가로 베기",
+        "Épée de Rursus - Taillade horizontale",
+        "Rursus-Klinge - Schwung",
+        "Espada lu'Ruzhas - Tajo horizontal"
+    ],
+    "218372": [
+        "Teleport",
+        "瞬間移動",
+        "순간이동",
+        "Téléportation",
+        "Teleportation",
+        "Teletransportación"
+    ],
+    "218373": [
+        "Snap",
+        "撲咬",
+        "깨물기",
+        "Mâcher",
+        "Zerfetzen",
+        "Mordiscazo"
+    ],
+    "218374": [
+        "Blizzaga",
+        "大暴雪",
+        "블리자가",
+        "Glace³",
+        "Eisga",
+        "Hielo++"
+    ],
+    "218375": [
+        "Crash",
+        "衝撞",
+        "몸통 박치기",
+        "Collision",
+        "Rammen",
+        "Placaje"
+    ],
+    "218376": [
+        "Peer",
+        "視線",
+        "시선",
+        "Regard",
+        "Böser Blick",
+        "Mirada fija"
+    ],
+    "218377": [
+        "The Unscathed",
+        "絕對生還者",
+        "절대 귀환자",
+        "Le Rescapé",
+        "Der Unantastbare",
+        "El Eterno superviviente"
+    ],
+    "218378": [
+        "Ultima Bomb",
+        "最終究極彈",
+        "알테마탄",
+        "Bombe Ultima",
+        "Ultima Bombe",
+        "Bomba Artema"
+    ],
+    "218379": [
+        "Sharpshot",
+        "精準狙擊",
+        "저격",
+        "Tir acéré",
+        "Scharfschuss",
+        "Tiro certero"
+    ],
+    "218380": [
+        "Rush",
+        "突進",
+        "돌진",
+        "Charge",
+        "Stürmen",
+        "Embestida"
+    ],
+    "218381": [
+        "Wall",
+        "障壁",
+        "장벽",
+        "Mur",
+        "Verstärkte Mauer",
+        "Muro"
+    ],
+    "218382": [
+        "Barrier",
+        "魔法屏障",
+        "마법 장벽",
+        "Barrière",
+        "Magiewall",
+        "Deflector"
+    ],
+    "218383": [
+        "You've gone far enough!",
+        "不會任你為所欲為！",
+        "더는 봐주지 않는다!",
+        "Vous n'irez pas plus loin !",
+        "Bis hierher und nicht weiter!",
+        "¡Hasta aquí has llegado!"
+    ],
+    "218384": [
+        "Rocket Punch",
+        "火箭飛拳",
+        "로켓 펀치",
+        "Poing-roquette",
+        "Raketenschlag",
+        "Puñetazo propulsado"
+    ],
+    "218385": [
+        "Barrier",
+        "魔法屏障",
+        "마법 장벽",
+        "Barrière",
+        "Magiewall",
+        "Deflector"
+    ],
+    "218386": [
+        "Wall",
+        "障壁",
+        "장벽",
+        "Mur",
+        "Verstärkte Mauer",
+        "Muro"
+    ],
+    "218387": [
+        "Sharpshot",
+        "精準狙擊",
+        "저격",
+        "Tir acéré",
+        "Scharfschuss",
+        "Tiro certero"
+    ],
+    "218388": [
+        "Dive Bomb",
+        "下落衝擊",
+        "급강하 몸통 박치기",
+        "Bombe plongeante",
+        "Sturzbombe",
+        "Bomba en picado"
+    ],
+    "218389": [
+        "Rocket Launcher",
+        "導彈發射器",
+        "로켓 런처",
+        "Tir de missiles",
+        "Raketenwerfer",
+        "Lanzadora"
+    ],
+    "218390": [
+        "Magitek Cannon",
+        "魔導加農",
+        "마도 포격",
+        "Canon magitech",
+        "Magiegeschütz",
+        "Cañón Magitec"
     ],
     "218579": [
         "Aerora",
