@@ -7898,7 +7898,7 @@
     "209250": [
         "Elemental Shot - Fire",
         "屬性強化彈·火",
-        "저항력 강화탄·불",
+        "속성 강화탄·불",
         "Tir élémentaire : feu",
         "Elementarschuss - Feuer",
         "Tiro Piro"
@@ -7906,7 +7906,7 @@
     "209260": [
         "Elemental Shot - Lightning",
         "屬性強化彈·雷",
-        "저항력 강화탄·번개",
+        "속성 강화탄·번개",
         "Tir élémentaire : foudre",
         "Elementarschuss - Blitz",
         "Tiro Electro"
@@ -7914,7 +7914,7 @@
     "209270": [
         "Elemental Shot - Water",
         "屬性強化彈·水",
-        "저항력 강화탄·물",
+        "속성 강화탄·물",
         "Tir élémentaire : eau",
         "Elementarschuss - Wasser",
         "Tiro Aqua"
@@ -7922,7 +7922,7 @@
     "209280": [
         "Elemental Shot - Light",
         "屬性強化彈·光",
-        "저항력 강화탄·빛",
+        "속성 강화탄·빛",
         "Tir élémentaire : lumière",
         "Elementarschuss - Licht",
         "Tiro Sanctus"
@@ -62308,7 +62308,7 @@
         "衝擊吸收裝置H5",
         "충격 흡수 장치 H5",
         "Plastron antichoc H5",
-        "T5-Schockdämpfer",
+        "L5-Schockdämpfer",
         "Absorbeimpactos H5"
     ],
     "234881": [
@@ -62799,6 +62799,70 @@
         "L'Cie des Weißen Tigers",
         "Lu'Cie del Tigre de Argén"
     ],
+    "235180": [
+        "Dark Bahamut Synergy",
+        "暗黑巴哈姆特協同",
+        "다크 바하무트 시너지",
+        "Synergie : Bahamut obscur",
+        "Dunkel-Bahamut-Synergie",
+        "Sinergia de Bahamut oscuro"
+    ],
+    "235181": [
+        "Imbued with the Dark Dragon King's Might",
+        "寄宿有暗龍王之力的鞭子",
+        "암룡왕의 힘이 깃든 채찍",
+        "Pouvoir imprégné du roi dragon obscur",
+        "Beseelt von der Macht des dunklen Drachenkönigs",
+        "Extracción del poder del rey dragón oscuro"
+    ],
+    "235182": [
+        "Phoenix Synergy",
+        "鳳凰協同",
+        "피닉스 시너지",
+        "Synergie : Phénix",
+        "Phönix-Synergie",
+        "Sinergia de Fénix"
+    ],
+    "235183": [
+        "Flaming Ignition",
+        "鳳凰噴火",
+        "봉염발화",
+        "Combustion innée",
+        "Phönixzündung",
+        "Ignición llameante"
+    ],
+    "235184": [
+        "Lakshmi Synergy",
+        "吉祥天女協同",
+        "락슈미 시너지",
+        "Synergie : Lakshmi",
+        "Lakshmi-Synergie",
+        "Sinergia de Lakshmi"
+    ],
+    "235185": [
+        "Blessed Hands",
+        "幸福之手",
+        "행복의 손",
+        "Mains bénies",
+        "Gesegnete Hände",
+        "Manos benditas"
+    ],
+    "235186": [
+        "Will to Fight the Darkness",
+        "反抗暗黑的意志",
+        "어둠에 저항하는 의지",
+        "Volonté de combattre les ténèbres",
+        "Standhaft gegen das Dunkel",
+        "Voluntad de combatir la oscuridad"
+    ],
+    "235187": [
+        "Dragon Conqueror",
+        "討龍之力",
+        "용을 토벌하는 힘",
+        "Dragon conquérant",
+        "Drachenbezwinger",
+        "Conquistador dragontino"
+    ],
     "235188": [
         "Dragonslayer's Spirit",
         "屠龍鬥氣",
@@ -62806,6 +62870,606 @@
         "Esprit dracocide",
         "Kampfgeist des Drachenschlächters",
         "Espíritu matadragones"
+    ],
+    "235189": [
+        "Immortal Hat",
+        "不死之帽",
+        "불멸의 모자",
+        "Chapeau d'immortalité",
+        "Unsterblichen-Hut",
+        "Sombrero inmortal"
+    ],
+    "235190": [
+        "Wind Dysphoria",
+        "風之躁動",
+        "윈드 디스포리아",
+        "Dysphorie venteuse",
+        "Wind-Dysphorie",
+        "Disforia eólica"
+    ],
+    "235191": [
+        "Earth Dysphoria",
+        "土之躁動",
+        "어스 디스포리아",
+        "Dysphorie terrestre",
+        "Erd-Dysphorie",
+        "Disforia terrestre"
+    ],
+    "235192": [
+        "Dark Dysphoria",
+        "暗之躁動",
+        "다크 디스포리아",
+        "Dysphorie obscure",
+        "Dunkel-Dysphorie",
+        "Disforia oscura"
+    ],
+    "235193": [
+        "Aura of Darkness",
+        "暗之氣場",
+        "어둠의 오라",
+        "Aura de ténèbres",
+        "Aura der Dunkelheit",
+        "Aura de oscuridad"
+    ],
+    "235194": [
+        "Origin's Wind (DB)",
+        "原初之風DB",
+        "오리진 윈드(DB)",
+        "Vent originel (BO)",
+        "Ursprungswind (DB)",
+        "Viento del origen (BO)"
+    ],
+    "235195": [
+        "Origin's Stone (DB)",
+        "原初之石DB",
+        "오리진 스톤(DB)",
+        "Terre originelle (BO)",
+        "Ursprungsstein (DB)",
+        "Piedra del origen (BO)"
+    ],
+    "235196": [
+        "Origin's Dark (DB)",
+        "原初之暗DB",
+        "오리진 다크(DB)",
+        "Ténèbres originelles (BO)",
+        "Ursprungsdunkel (DB)",
+        "Oscuridad del origen (BO)"
+    ],
+    "235197": [
+        "Dark Dragon King's Majesty",
+        "暗龍王之威",
+        "암룡왕의 권위",
+        "Majesté du roi dragon obscur",
+        "Majestät des dunklen Drachenkönigs",
+        "Majestad del rey dragón oscuro"
+    ],
+    "235198": [
+        "Double Dark Power",
+        "W魔人之力",
+        "W마인의 힘",
+        "Double pouvoir obscur",
+        "Doppel-Dunkelmacht",
+        "Doble poder oscuro"
+    ],
+    "235199": [
+        "Triple Dark Power",
+        "T魔人之力",
+        "T마인의 힘",
+        "Triple pouvoir obscur",
+        "Dreifache Dunkelmacht",
+        "Triple poder oscuro"
+    ],
+    "235200": [
+        "Wind Impact",
+        "風之衝擊",
+        "윈드 임팩트",
+        "Impact venteux",
+        "Wind-Aufprall",
+        "Impacto eólico"
+    ],
+    "235201": [
+        "Earth Impact",
+        "土之衝擊",
+        "어스 임팩트",
+        "Impact terrestre",
+        "Erd-Aufprall",
+        "Impacto terrestre"
+    ],
+    "235202": [
+        "Dark Impact",
+        "暗之衝擊",
+        "다크 임팩트",
+        "Impact obscur",
+        "Dunkel-Aufprall",
+        "Impacto oscuro"
+    ],
+    "235203": [
+        "Dark Dragon King's Roar - Wind",
+        "暗龍王的咆哮·風",
+        "암룡왕의 포효·바람",
+        "Rugissement du roi dragon obscur - Vent",
+        "Gebrüll des dunklen Drachenkönigs - Wind",
+        "Rugido del rey dragón oscuro - Viento"
+    ],
+    "235204": [
+        "Dark Dragon King's Roar - Earth",
+        "暗龍王的咆哮·土",
+        "암룡왕의 포효·땅",
+        "Rugissement du roi dragon obscur - Terre",
+        "Gebrüll des dunklen Drachenkönigs - Erde",
+        "Rugido del rey dragón oscuro - Tierra"
+    ],
+    "235205": [
+        "Dark Dragon King's Roar - Dark",
+        "暗龍王的咆哮·暗",
+        "암룡왕의 포효·어둠",
+        "Rugissement du roi dragon obscur - Ténèbres",
+        "Gebrüll des dunklen Drachenkönigs - Dunkel",
+        "Rugido del rey dragón oscuro - Oscuridad"
+    ],
+    "235206": [
+        "Dark Megaflare",
+        "暗之百萬核爆",
+        "다크 메가플레어",
+        "MégaBrasier obscur",
+        "Dunkel-Megaflamme",
+        "Megafulgor oscuro"
+    ],
+    "235207": [
+        "Sorceress's Aura",
+        "魔人氣場",
+        "마인의 오라",
+        "Aura de sorcière",
+        "Aura der Zauberin",
+        "Aura de hechicera"
+    ],
+    "235208": [
+        "Dark Bahamut & Dark Fina",
+        "暗黑巴哈姆特&魔人菲娜",
+        "다크 바하무트&마인 피나",
+        "Bahamut obscur et Fina obscure",
+        "Dunkel-Bahamut & Dunkel-Fina",
+        "Bahamut oscuro y Fina oscura"
+    ],
+    "235209": [
+        "Tainted White Lily",
+        "染黑的白百合",
+        "어둠에 물든 백합꽃",
+        "Lys blanc maculé",
+        "Weiße Lilie, schwarze Nacht",
+        "Lirio blanco mancillado"
+    ],
+    "235210": [
+        "Dark Dragon King's Might",
+        "暗龍王之力",
+        "암룡왕의 힘",
+        "Puissance du roi dragon obscur",
+        "Macht des dunklen Drachenkönigs",
+        "Poder del rey dragón oscuro"
+    ],
+    "235211": [
+        "Dark Dragon King's Connection",
+        "暗龍王協力",
+        "암룡왕 연계",
+        "Affinité avec le roi dragon obscur",
+        "Verbindung des dunklen Drachenkönigs",
+        "Vínculo del rey dragón oscuro"
+    ],
+    "235212": [
+        "Dark Dragon King's Protection",
+        "暗龍王的加護",
+        "암룡왕의 가호",
+        "Protection du roi dragon obscur",
+        "Schutz des dunklen Drachenkönigs",
+        "Protección del rey dragón oscuro"
+    ],
+    "235213": [
+        "Dark Dragon King's Magic",
+        "暗龍王的魔力",
+        "암룡왕의 마력",
+        "Magie du roi dragon obscur",
+        "Magie des dunklen Drachenkönigs",
+        "Magia del rey dragón oscuro"
+    ],
+    "235214": [
+        "Dark Bahamut's Aid",
+        "暗黑巴哈姆特的援助",
+        "다크 바하무트의 가세",
+        "Aide de Bahamut obscur",
+        "Dunkel-Bahamuts Beistand",
+        "Ayuda de Bahamut oscuro"
+    ],
+    "235215": [
+        "Dark Seductress",
+        "暗黑小惡魔",
+        "어둠 속의 작은 악마",
+        "Séductrice obscure",
+        "Dunkle Verführerin",
+        "Seductora oscura"
+    ],
+    "235216": [
+        "Dark Dragon King's Wings",
+        "暗龍王的雙翼",
+        "암룡왕의 날개",
+        "Ailes du roi dragon obscur",
+        "Schwingenmantel des dunklen Drachenkönigs",
+        "Alas del rey dragón oscuro"
+    ],
+    "235217": [
+        "Blessing of the Black Crystal",
+        "暗黑水晶的祝福",
+        "검은 크리스탈의 축복",
+        "Bénédiction du Cristal noir",
+        "Segen des schwarzen Kristalls",
+        "Bendición del cristal oscuro"
+    ],
+    "235220": [
+        "Last Shot (Ph)",
+        "最終射擊Ph",
+        "라스트 샷(Ph)",
+        "Dernier tir (Ph)",
+        "Letzter Schuss (Ph)",
+        "Disparo final (Fé)"
+    ],
+    "235221": [
+        "Alpha Cannon (Ph)",
+        "阿爾法加農炮Ph",
+        "알파 캐논(Ph)",
+        "Canon alpha (Ph)",
+        "Alphakanone (Ph)",
+        "Cañón alfa (Fé)"
+    ],
+    "235222": [
+        "Powerload",
+        "動力負載",
+        "파워 로딩",
+        "Charge de puissance",
+        "Powerladen",
+        "Poder de carga"
+    ],
+    "235223": [
+        "Reload - Flaming Bird",
+        "鳳炎彈裝填",
+        "봉염탄 장전",
+        "Recharge - Oiseau enflammé",
+        "Nachladen - Feuervogel",
+        "Recarga - Ave flamígera"
+    ],
+    "235224": [
+        "Triple Assault",
+        "T突擊",
+        "T어썰트",
+        "Triple assaut",
+        "Dreifach-Überfall",
+        "Asalto triple"
+    ],
+    "235225": [
+        "Reload - Spreading Flame",
+        "延燒彈裝填",
+        "연소탄 장전",
+        "Recharge - Feu attisé",
+        "Nachladen - Lauffeuer",
+        "Recarga - Llama expansiva"
+    ],
+    "235226": [
+        "Reload - Soaring Wind",
+        "翼風彈裝填",
+        "익풍탄 장전",
+        "Recharge - Rafale puissante",
+        "Nachladen - Höhenwind",
+        "Recarga - Viento sofocante"
+    ],
+    "235227": [
+        "Reload - Cleansing Light",
+        "滅光彈裝填",
+        "멸광탄 장전",
+        "Recharge - Lumière purificatrice",
+        "Nachladen - Lichttilger",
+        "Recarga - Luz purificadora"
+    ],
+    "235228": [
+        "Cremation - Demon",
+        "火葬·惡魔",
+        "소산·악마",
+        "Incinération - Démons",
+        "Einäscherung - Dämonen",
+        "Incineración - Demonio"
+    ],
+    "235229": [
+        "Cremation - Dragon",
+        "火葬·龍",
+        "소산·용",
+        "Incinération - Dragons",
+        "Einäscherung - Drachen",
+        "Incineración - Dragón"
+    ],
+    "235230": [
+        "Cremation - Undead",
+        "火葬·死靈",
+        "소산·사령",
+        "Incinération - Morts-vivants",
+        "Einäscherung - Untote",
+        "Incineración - Muerto viviente"
+    ],
+    "235231": [
+        "Quintuple Assault",
+        "V突擊",
+        "V어썰트",
+        "Quintuple assaut",
+        "Fünffach-Überfall",
+        "Asalto quíntuple"
+    ],
+    "235232": [
+        "Firebird's Song",
+        "鳳凰長鳴",
+        "봉황의 긴 울음소리",
+        "Chant de l'oiseau de feu",
+        "Gesang des Feuervogels",
+        "Canto del pájaro de fuego"
+    ],
+    "235233": [
+        "Firebird's Wings",
+        "鳳凰展翅",
+        "봉황의 날갯짓",
+        "Ailes de l'oiseau de feu",
+        "Schwingenwind des Feuervogels",
+        "Alas del pájaro de fuego"
+    ],
+    "235234": [
+        "Indomitable Fortitude",
+        "不屈的男人",
+        "불굴의 남자",
+        "Force d'âme indomptable",
+        "Unverwüstliches Naturell",
+        "Fortaleza indomable"
+    ],
+    "235235": [
+        "Jake & Phoenix",
+        "傑科&地獄鳳凰",
+        "제이크&피닉스",
+        "Jake et Phénix",
+        "Jake & Phönix",
+        "Jake y Fénix"
+    ],
+    "235236": [
+        "Firebird's Protection",
+        "鳳凰的加護",
+        "봉황의 가호",
+        "Protection de l'oiseau de feu",
+        "Schutz des Feuervogels",
+        "Protección del pájaro de fuego"
+    ],
+    "235237": [
+        "Firebird's Might",
+        "鳳凰之力",
+        "봉황의 힘",
+        "Puissance de l'oiseau de feu",
+        "Macht des Feuervogels",
+        "Poder del pájaro de fuego"
+    ],
+    "235238": [
+        "Burning Feelings",
+        "滾燙的思念",
+        "끓어오르는 마음",
+        "Sentiments brûlants",
+        "Feuer in der Brust",
+        "Sentimientos ardientes"
+    ],
+    "235239": [
+        "Indestructible Toughness",
+        "不滅之堅韌",
+        "불멸의 터프가이",
+        "Costaud et indestructible",
+        "Unbegrenzte Zähigkeit",
+        "Dureza indestructible"
+    ],
+    "235240": [
+        "Firebird's Connection",
+        "鳳凰協力",
+        "봉황 연계",
+        "Affinité avec l'oiseau de feu",
+        "Verbindung des Feuervogels",
+        "Vínculo del pájaro de fuego"
+    ],
+    "235241": [
+        "Phoenix's Aid",
+        "地獄鳳凰的援助",
+        "피닉스의 가세",
+        "Aide de Phénix",
+        "Phönix' Beistand",
+        "Ayuda de Fénix"
+    ],
+    "235242": [
+        "Flames of Indignation",
+        "義憤的火焰",
+        "분노의 불꽃",
+        "Flammes d'indignation",
+        "Flammen des gerechten Zorns",
+        "Llamas de indignación"
+    ],
+    "235243": [
+        "Rebellious Gunsman",
+        "叛逆的火槍手",
+        "반골의 총잡이",
+        "Tireur rebelle",
+        "Rebellischer Revolverheld",
+        "Pistolero rebelde"
+    ],
+    "235250": [
+        "Super Analysis (La)",
+        "超★分析La",
+        "슈퍼★분석(La)",
+        "Super analyse (La)",
+        "Super-Analyse (La)",
+        "Superanálisis (La)"
+    ],
+    "235251": [
+        "Rubber Hammer (La)",
+        "吐槽鎚La",
+        "구박망치(La)",
+        "Marteau en caoutchouc (La)",
+        "Gummihammer (La)",
+        "Martillo perforador (La)"
+    ],
+    "235252": [
+        "Healing Force (La)",
+        "治癒原力La",
+        "치유의 힘(La)",
+        "Revitaliseur (La)",
+        "Heilkraft (La)",
+        "Fuerza sanadora (La)"
+    ],
+    "235253": [
+        "Goddess's Restraint - ATK",
+        "女神的束縛·攻",
+        "여신의 속박·공",
+        "Discipline de la déesse - ATT",
+        "Fessel der Göttin - ANG",
+        "Restricción divina - ATQ"
+    ],
+    "235254": [
+        "Goddess's Restraint - DEF",
+        "女神的束縛·防",
+        "여신의 속박·방",
+        "Discipline de la déesse - DEF",
+        "Fessel der Göttin - ABW",
+        "Restricción divina - DEF"
+    ],
+    "235255": [
+        "Attack-Sealing Mirror!",
+        "明鏡·攻擊封鎖！",
+        "잔잔한 거울·공격 봉쇄!",
+        "Miroir scelleur d'attaque !",
+        "Spiegel: Angriffssperre!",
+        "¡Espejo sellador ofensivo!"
+    ],
+    "235256": [
+        "Defense-Sealing Mirror!",
+        "明鏡·防禦封鎖！",
+        "잔잔한 거울·방어 봉쇄!",
+        "Miroir scelleur de défense !",
+        "Spiegel: Verteidigungssperre!",
+        "¡Espejo sellador defensivo!"
+    ],
+    "235257": [
+        "Lotus Bud",
+        "蓮花落蕾",
+        "연꽃의 낙뢰",
+        "Bouton de lotus",
+        "Lotusknospe",
+        "Capullo de loto"
+    ],
+    "235258": [
+        "Optic Mirror!",
+        "光學式明鏡",
+        "광학 버전 잔잔한 거울!",
+        "Miroir optique !",
+        "Optischer Spiegel!",
+        "¡Espejo óptico!"
+    ],
+    "235259": [
+        "Double Invention",
+        "W發明",
+        "W발명",
+        "Double invention",
+        "Doppel-Erfindung",
+        "Invención doble"
+    ],
+    "235260": [
+        "Triple Mirror Device",
+        "T明鏡發生裝置",
+        "T잔잔한 거울 발생 장치",
+        "Triple dispositif de miroir",
+        "Dreifach-Spiegelgenerator",
+        "Dispositivo de espejo triple"
+    ],
+    "235261": [
+        "Avatar's Lament",
+        "癒神的歎息",
+        "치유신의 비탄",
+        "Lamentation de l'avatar",
+        "Gram des Avatars",
+        "Lamento del avatar"
+    ],
+    "235262": [
+        "Avatar's Indignation",
+        "癒神的悲憤",
+        "치유신의 분노",
+        "Indignation de l'avatar",
+        "Ingrimm des Avatars",
+        "Indignación del avatar"
+    ],
+    "235263": [
+        "Avatar's Mercy",
+        "癒神的慈悲",
+        "치유신의 자애",
+        "Pitié de l'avatar",
+        "Gnade des Avatars",
+        "Piedad del avatar"
+    ],
+    "235264": [
+        "Mirror Device - Maximum Output!",
+        "明鏡發生裝置·最大輸出！",
+        "잔잔한 거울 발생 장치·최대 출력!",
+        "Dispositif de miroir - Puissance maximale !",
+        "Spiegelgenerator: Maximale Leistung!",
+        "Dispositivo de espejo - ¡Potencia máxima!"
+    ],
+    "235265": [
+        "Lakshmi & Lid",
+        "吉祥天女&里德",
+        "락슈미&리드",
+        "Lakshmi et Lid",
+        "Lakshmi & Lid",
+        "Lakshmi y Lid"
+    ],
+    "235266": [
+        "Avatar's Protection",
+        "癒神的加護",
+        "치유신의 가호",
+        "Protection de l'avatar",
+        "Schutz der Heilgöttin",
+        "Protección del avatar"
+    ],
+    "235267": [
+        "Avatar's Might",
+        "癒神之力",
+        "치유신의 힘",
+        "Puissance de l'avatar",
+        "Macht der Heilgöttin",
+        "Poder del avatar"
+    ],
+    "235268": [
+        "Avatar's Connection",
+        "癒神協力",
+        "치유신 연계",
+        "Affinité avec l'avatar",
+        "Verbindung der Heilgöttin",
+        "Vínculo del avatar"
+    ],
+    "235269": [
+        "Bonds with the Avatar",
+        "與癒神的羈絆",
+        "치유신과의 유대",
+        "Liens avec l'avatar",
+        "Bande zur Heilgöttin",
+        "Lazos con el avatar"
+    ],
+    "235270": [
+        "Lakshmi's Aid",
+        "吉祥天女的援助",
+        "락슈미의 가세",
+        "Aide de Lakshmi",
+        "Lakshmis Beistand",
+        "Ayuda de Lakshmi"
+    ],
+    "235271": [
+        "Loving Engineer",
+        "慈愛的少女技師",
+        "자애로운 소녀 기술자",
+        "Ingénieure amoureuse",
+        "Warmherzige Mechanikerin",
+        "Ingeniera cariñosa"
     ],
     "235500": [
         "Fated Prince",
@@ -63966,6 +64630,22 @@
         "Sablier de bronze (FFIV)",
         "Bronze-Sanduhr (FFIV)",
         "Reloj de bronce (FFIV)"
+    ],
+    "300928": [
+        "Drop of Abundance",
+        "豐收甘露",
+        "풍요의 물방울",
+        "Goutte d'abondance",
+        "Tropfen der Fruchtbarkeit",
+        "Gota de la abundancia"
+    ],
+    "300929": [
+        "Petal of Abundance",
+        "豐收花瓣",
+        "풍요의 꽃잎",
+        "Pétale d'abondance",
+        "Blütenblatt der Fruchtbarkeit",
+        "Pétalo de la abundancia"
     ],
     "400010": [
         "EXP x1.5",
@@ -78075,7 +78755,7 @@
         "Power of Chaos",
         "混沌之力",
         "혼돈의 힘",
-        "Le pouvoir du chaos",
+        "Pouvoir du chaos",
         "Macht des Chaos",
         "Poder del caos"
     ],
@@ -86319,6 +86999,198 @@
         "Agitokandidat (Machina)",
         "Aspirante a Agito (Machina)"
     ],
+    "512080": [
+        "Phoenix Synergy",
+        "鳳凰協同",
+        "피닉스 시너지",
+        "Synergie : Phénix",
+        "Phönix-Synergie",
+        "Sinergia de Fénix"
+    ],
+    "512081": [
+        "Lakshmi Synergy",
+        "吉祥天女協同",
+        "락슈미 시너지",
+        "Synergie : Lakshmi",
+        "Lakshmi-Synergie",
+        "Sinergia de Lakshmi"
+    ],
+    "512085": [
+        "Double Dark Power",
+        "W魔人之力",
+        "W마인의 힘",
+        "Double pouvoir obscur",
+        "Doppel-Dunkelmacht",
+        "Doble poder oscuro"
+    ],
+    "512086": [
+        "Triple Dark Power",
+        "T魔人之力",
+        "T마인의 힘",
+        "Triple pouvoir obscur",
+        "Dreifache Dunkelmacht",
+        "Triple poder oscuro"
+    ],
+    "512087": [
+        "Dark Dragon King's Roar - Wind",
+        "暗龍王的咆哮·風",
+        "암룡왕의 포효·바람",
+        "Rugissement du roi dragon obscur - Vent",
+        "Gebrüll des dunklen Drachenkönigs - Wind",
+        "Rugido del rey dragón oscuro - Viento"
+    ],
+    "512088": [
+        "Dark Dragon King's Roar - Earth",
+        "暗龍王的咆哮·土",
+        "암룡왕의 포효·땅",
+        "Rugissement du roi dragon obscur - Terre",
+        "Gebrüll des dunklen Drachenkönigs - Erde",
+        "Rugido del rey dragón oscuro - Tierra"
+    ],
+    "512089": [
+        "Dark Dragon King's Roar - Dark",
+        "暗龍王的咆哮·暗",
+        "암룡왕의 포효·어둠",
+        "Rugissement du roi dragon obscur - Ténèbres",
+        "Gebrüll des dunklen Drachenkönigs - Dunkel",
+        "Rugido del rey dragón oscuro - Oscuridad"
+    ],
+    "512090": [
+        "Aura of Darkness",
+        "暗之氣場",
+        "검은 오라",
+        "Aura de ténèbres",
+        "Aura der Dunkelheit",
+        "Aura de oscuridad"
+    ],
+    "512091": [
+        "Sorceress's Aura",
+        "魔人氣場",
+        "마인의 오라",
+        "Aura de sorcière",
+        "Aura der Zauberin",
+        "Aura de hechicera"
+    ],
+    "512092": [
+        "Quadruple Dark Power",
+        "IV魔人之力",
+        "IV마인의 힘",
+        "Quadruple pouvoir obscur",
+        "Vierfache Dunkelmacht",
+        "Cuádruple poder oscuro"
+    ],
+    "512100": [
+        "Triple Assault",
+        "T突擊",
+        "T어썰트",
+        "Triple assaut",
+        "Dreifach-Überfall",
+        "Asalto triple"
+    ],
+    "512101": [
+        "Quintuple Assault",
+        "V突擊",
+        "V어썰트",
+        "Quintuple assaut",
+        "Fünffach-Überfall",
+        "Asalto quíntuple"
+    ],
+    "512102": [
+        "Firebird's Song",
+        "鳳凰長鳴",
+        "봉황의 긴 울음소리",
+        "Chant de l'oiseau de feu",
+        "Gesang des Feuervogels",
+        "Canto del pájaro de fuego"
+    ],
+    "512103": [
+        "Firebird's Wings",
+        "鳳凰展翅",
+        "봉황의 날갯짓",
+        "Ailes de l'oiseau de feu",
+        "Schwingenwind des Feuervogels",
+        "Alas del pájaro de fuego"
+    ],
+    "512104": [
+        "Indomitable Fortitude",
+        "不屈的男人",
+        "불굴의 남자",
+        "Force d'âme indomptable",
+        "Unverwüstliches Naturell",
+        "Fortaleza indomable"
+    ],
+    "512110": [
+        "Double Invention",
+        "W發明",
+        "W발명",
+        "Double invention",
+        "Doppel-Erfindung",
+        "Invención doble"
+    ],
+    "512111": [
+        "Triple Mirror Device",
+        "T明鏡發生裝置",
+        "T잔잔한 거울 발생 장치",
+        "Triple dispositif de miroir",
+        "Dreifach-Spiegelgenerator",
+        "Dispositivo de espejo triple"
+    ],
+    "512112": [
+        "Avatar's Lament",
+        "癒神的歎息",
+        "치유신의 비탄",
+        "Lamentation de l'avatar",
+        "Gram des Avatars",
+        "Lamento del avatar"
+    ],
+    "512113": [
+        "Avatar's Indignation",
+        "癒神的悲憤",
+        "치유신의 분노",
+        "Indignation de l'avatar",
+        "Ingrimm des Avatars",
+        "Indignación del avatar"
+    ],
+    "512114": [
+        "Avatar's Indignation",
+        "癒神的悲憤",
+        "치유신의 분노",
+        "Indignation de l'avatar",
+        "Ingrimm des Avatars",
+        "Indignación del avatar"
+    ],
+    "512115": [
+        "Avatar's Mercy",
+        "癒神的慈悲",
+        "치유신의 자애",
+        "Pitié de l'avatar",
+        "Gnade des Avatars",
+        "Piedad del avatar"
+    ],
+    "512116": [
+        "Mirror Activated!",
+        "明鏡發動！",
+        "잔잔한 거울 발동!",
+        "Miroir activé !",
+        "Spiegel aktiviert!",
+        "¡Espejo activado!"
+    ],
+    "512117": [
+        "Triple Mirror!!!",
+        "三連明鏡！",
+        "3연속 잔잔한 거우우울!",
+        "Triple miroir !",
+        "Spiegel-Spiegel-Spiegel!!!",
+        "¡¡¡Triple espejo!!!"
+    ],
+    "512118": [
+        "Loving Engineer",
+        "慈愛的少女技師",
+        "자애로운 소녀 기술자",
+        "Ingénieure amoureuse",
+        "Warmherzige Mechanikerin",
+        "Ingeniera cariñosa"
+    ],
     "512280": [
         "Dual Twin Blade (Sterne)",
         "W雙子劍(斯特恩)",
@@ -86868,7 +87740,7 @@
         "停不下的守護",
         "멈춤 방어",
         "Protection inarrêtable",
-        "Unstoppender Schutz",
+        "Unaufhaltsamer Schutz",
         "Protección imparable"
     ],
     "600520": [
@@ -91306,7 +92178,7 @@
     "705290": [
         "Elemental Shot - Lightning",
         "屬性強化彈·雷",
-        "저항력 강화탄·번개",
+        "속성 강화탄·번개",
         "Tir élémentaire : foudre",
         "Elementarschuss - Blitz",
         "Tiro Electro"
@@ -91314,7 +92186,7 @@
     "705300": [
         "Elemental Shot - Lightning",
         "屬性強化彈·雷",
-        "저항력 강화탄·번개",
+        "속성 강화탄·번개",
         "Tir élémentaire : foudre",
         "Elementarschuss - Blitz",
         "Tiro Electro"
@@ -114236,7 +115108,7 @@
         "極光風暴",
         "극광의 태풍",
         "Tempête de l'Aurore",
-        "Aurora-Sturm",
+        "Aurora-Gewitter",
         "Tormenta del alba"
     ],
     "911666": [
@@ -121292,7 +122164,7 @@
         "阿斯特賴亞的搭檔",
         "아스트라이아의 파트너",
         "Partenaire d'Astraea",
-        "Astraea's Partner",
+        "Astraeas Partner",
         "Compañera de Astraea"
     ],
     "912606": [

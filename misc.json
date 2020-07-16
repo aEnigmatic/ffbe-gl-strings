@@ -5388,12 +5388,12 @@
         "Info. de amigo"
     ],
     "FRIEND_LAST_PLAY": [
-        "Last Played",
+        "Last Played<blank>",
         "遊戲：",
-        "플레이:",
-        "Der. connexion :",
-        "Zuletzt gespielt",
-        "Último acceso"
+        "플레이:<blank>",
+        "Der. connexion :<blank>",
+        "Zuletzt gespielt<blank>",
+        "Último acceso<blank>"
     ],
     "FRIEND_LIST": [
         "Friend List",
@@ -5615,7 +5615,7 @@
         "Tier",
         "階段",
         "단계",
-        "Strate",
+        "Boîte",
         "Rang",
         "Caja"
     ],
@@ -5631,7 +5631,7 @@
         "Are you sure you want to advance to the next tier?",
         "確定要重置嗎？（最終確認）",
         "정말 다음 단계를 진행하시겠습니까?",
-        "Voulez-vous vraiment avancer vers une nouvelle strate ?",
+        "Voulez-vous vraiment avancer vers la nouvelle boîte ?",
         "Bist du sicher, dass du auf den nächsten Rang aufsteigen möchtest?",
         "¿Estás seguro de que quieres avanzar a la siguiente caja?"
     ],
@@ -5639,7 +5639,7 @@
         "You cannot return after advancing to the next tier.<br>Would you like to advance to the next tier?",
         "重置後就無法再返回前面的抽獎箱。<br>確定要重置嗎？",
         "다음 단계로 진행한 후에는 이전 단계로 되돌릴 수 없습니다.<br>다음 단계를 진행하시겠습니까?",
-        "Attention, vous ne pourrez pas revenir en arrière une fois que vous serez passé à la strate supérieure.<br>Voulez-vous procéder ?",
+        "Attention, vous ne pourrez pas revenir en arrière une fois que vous serez passé à la boîte suivante.<br>Voulez-vous procéder ?",
         "Wenn du auf den nächsten Rang aufsteigst, kannst du nicht mehr zurückkehren.<br>Möchtest du aufsteigen?",
         "Si avanzas a la siguiente caja no podrás retroceder. ¿Quieres continuar?"
     ],
@@ -5647,7 +5647,7 @@
         "Advancing to the next tier will change to a new box.<br>Would you like to advance to the next tier?",
         "重置將會切換為新的抽獎箱。<br>確定要重置嗎？",
         "다음 단계를 진행하면 새로운 박스로 변경됩니다.<br>다음 단계를 진행하시겠습니까?",
-        "Avancer à la prochaine strate vous fera basculer sur une nouvelle boîte.<br>Voulez-vous procéder ?",
+        "Avancer vous fera basculer sur une nouvelle boîte.<br>Voulez-vous procéder ?",
         "Wenn du auf den nächsten Rang aufsteigst, wird zu einer neuen Box gewechselt.<br>Möchtest du aufsteigen?",
         "Si tocas avanzar, cambiarás a una caja nueva. ¿Quieres continuar?"
     ],
@@ -7835,86 +7835,6 @@
         "Dunkle Visionen-Ranglisten-Belohnungen",
         "Premio de clasificación de Visiones oscuras"
     ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_140000000": [
-        "140,000,000 Event pt Reward",
-        "累積點數超過 140,000,000 點的團體獎勵。",
-        "140,000,000 이벤트 포인트 보상",
-        "Récompenses pour 140 000 000 de pts au total",
-        "140.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 140.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_210000000": [
-        "210,000,000 Event pt Reward",
-        "累積點數超過 210,000,000 點的團體獎勵。",
-        "210,000,000 이벤트 포인트 보상",
-        "Récompenses pour 210 000 000 de pts au total",
-        "210.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 210.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_280000000": [
-        "280,000,000 Event pt Reward",
-        "累積點數超過 280,000,000 點的團體獎勵。",
-        "280,000,000 이벤트 포인트 보상",
-        "Récompenses pour 280 000 000 de pts au total",
-        "280.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 280.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_350000000": [
-        "350,000,000 Event pt Reward",
-        "累積點數超過 350,000,000 點的團體獎勵。",
-        "350,000,000 이벤트 포인트 보상",
-        "Récompenses pour 350 000 000 de pts au total",
-        "350.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 350.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_420000000": [
-        "420,000,000 Event pt Reward",
-        "累積點數超過 420,000,000 點的團體獎勵。",
-        "420,000,000 이벤트 포인트 보상",
-        "Récompenses pour 420 000 000 de pts au total",
-        "420.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 420.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_490000000": [
-        "490,000,000 Event pt Reward",
-        "累積點數超過 490,000,000 點的團體獎勵。",
-        "490,000,000 이벤트 포인트 보상",
-        "Récompenses pour 490 000 000 de pts au total",
-        "490.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 490.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_560000000": [
-        "560,000,000 Event pt Reward",
-        "累積點數超過 560,000,000 點的團體獎勵。",
-        "560,000,000 이벤트 포인트 보상",
-        "Récompenses pour 560 000 000 de pts au total",
-        "560.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 560.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_630000000": [
-        "630,000,000 Event pt Reward",
-        "累積點數超過 630,000,000 點的團體獎勵。",
-        "630,000,000 이벤트 포인트 보상",
-        "Récompenses pour 630 000 000 de pts au total",
-        "630.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 630.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_70000000": [
-        "70,000,000 Event pt Reward",
-        "累積點數超過 70,000,000 點的團體獎勵。",
-        "70,000,000 이벤트 포인트 보상",
-        "Récompenses pour 70 000 000 de pts au total",
-        "70.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 70.000.000 pts. en total"
-    ],
-    "LPS_SUMALLY_COMPLETE_REWARD_MST_MESSAGE_700000000": [
-        "700,000,000 Event pt Reward",
-        "累積點數超過 700,000,000 點的團體獎勵。",
-        "700,000,000 이벤트 포인트 보상",
-        "Récompenses pour 700 000 000 de pts au total",
-        "700.000.000 Ereignispunkte-Belohnung",
-        "Recompensa con 700.000.000 pts. en total"
-    ],
     "LPS_SUMALLY_COMPLETE_REWARD_MST_TITLE": [
         "Group Rewards",
         "全體獎勵",
@@ -7922,6 +7842,14 @@
         "Récompenses de groupe",
         "Gruppenbelohnungen",
         "Recompensas de grupo"
+    ],
+    "LPS_SUMALLY_COMPLETE_REWARD_MST_TITLE_400151": [
+        "Battle with the Vision of Dark Bahamut Raid Event Reward",
+        "「暗黑巴哈姆特的幻影戰」共鬥活動報酬",
+        "'다크 바하무트의 환영전' 레이드 이벤트 보상",
+        "Récompense de l'événement de raid \"Vision de Bahamut obscur\"",
+        "Belohnung zum Abschluss des Raubzugereignisses \"Kampf mit der Vision von Dunkel-Bahamut\"",
+        "Recompensa de evento de banda \"Batalla con la visión de Bahamut oscuro\""
     ],
     "LPS_SUMALLY_REWARD_MST_MESSAGE_1": [
         "Rank 1 Reward",
@@ -15095,7 +15023,7 @@
         "You can obtain <color=255:0:0>emblems</color> by receiving trophies viewable through MENU> Trophies> General, kupo!<br>Show off your <color=255:0:0>emblems</color> by setting them to display next to your name, kupo!",
         "透過 MENU＞勳章＞綜合分頁的各勳章獎盃獲得報酬，即可獲得<color=255:0:0>徽章</color>，庫啵！<br>設定<color=255:0:0>徽章</color>後，就會顯示在自己的玩家名稱旁邊，可以向大家炫耀，庫啵！",
         "메뉴＞훈장＞종합 탭 내 각 훈장의 트로피 획득 보상으로 <color=255:0:0>문장</color>을 얻을 수 있어쿠포!<br><color=255:0:0>문장</color>을 설정하면 닉네임 옆에 표시돼쿠포. 모두에게 자랑하자쿠포!",
-        "Vous pouvez obtenir des <color=255:0:0>blasons</color>en recevant des trophées en vous rendant dans MENU> Trophées>Général, kupo!<br>Montrez vos <color=255:0:0>blasons</color> en les configurant pour qu'ils apparaître à côté de votre nom, kupo !",
+        "Vous pouvez obtenir des <color=255:0:0>blasons</color> en recevant des trophées en vous rendant dans MENU > Trophées > Général, kupo!<br>Montrez vos <color=255:0:0>blasons</color> en les configurant pour qu'ils apparaissent à côté de votre nom, kupo !",
         "Du kannst <color=255:0:0>Embleme</color> erhalten, indem du Trophäen erhältst, die du über MENÜ > Trophäen> Allgemein betrachten kannst, kupo!<br>Gib mit deinen <color=255:0:0>Emblemen</color> an, indem du sie neben deinem Namen vorzeigst!",
         "¡Hazte con diferentes <color=255:0:0>emblemas</color> al conseguir trofeos y consúltalos a través de MENÚ> Trofeos> General, kupó!<br>¡Presume de <color=255:0:0>emblemas</color> seleccionándolos para que aparezcan junto a tu nombre, kupó!"
     ],
@@ -20028,12 +19956,12 @@
         "¿Quieres intercambiar <color=255:255:0><param=item_name></color> por <color=255:255:0><param=point></color></color>?"
     ],
     "TOWN_STORE_TRADE_RESULT": [
-        "You exchanged <param=point> for: <param=item_name>",
+        "You exchanged <param=point>for: <param=item_name>",
         "以<param=point>交換了<param=item_name>。",
         "<param=item_name>(을)를 <param=point>와 교환했습니다.",
-        "Vous avez échangé<br><param=item_name> contre <param=point>",
-        "Du tauschtest <param=point> gegen:<br><param=item_name>",
-        "Has intercambiado <param=point> por:<br><param=item_name>"
+        "Vous avez échangé<br><param=item_name>contre <param=point>",
+        "Du tauschtest <param=point>gegen:<br><param=item_name>",
+        "Has intercambiado <param=point>por:<br><param=item_name>"
     ],
     "TOWN_STRONGBOX_CLOSE": [
         "Chest unlockable with <case=lower><param=item_name></case>",
