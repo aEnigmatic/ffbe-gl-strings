@@ -4850,7 +4850,7 @@
     "100021705": [
         "Chance of temporarily guarding allies against magic damage and reduce damage taken by all allies for four turns",
         "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊+4回合內減少對全體隊員的傷害",
-        "일시적으로 일정 확률 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
+        "일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
         "Chance de prendre temporairement des dégâts magiques en état de garde à la place des alliés et réduit les dégâts subis pour tous les alliés pendant 4 tours",
         "Chance, Verbündete kurzfristig gegen mag. Schaden zu verteidigen und verringert vier Runden lang von ihnen erlittenen Schaden.",
         "Probabilidad de proteger temporalmente a los aliados contra daño mágico en guardia y reduce el daño que reciben todos los aliados durante 4 turnos"
@@ -4858,7 +4858,7 @@
     "100021706": [
         "Chance of temporarily guarding allies against magic damage and reduce damage taken by all allies for four turns",
         "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊+4回合內減少對全體隊員的傷害",
-        "일시적으로 일정 확률 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
+        "일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
         "Chance de prendre temporairement des dégâts magiques en état de garde à la place des alliés et réduit les dégâts subis pour tous les alliés pendant 4 tours",
         "Chance, Verbündete kurzfristig gegen mag. Schaden zu verteidigen und verringert vier Runden lang von ihnen erlittenen Schaden.",
         "Probabilidad de proteger temporalmente a los aliados contra daño mágico en guardia y reduce el daño que reciben todos los aliados durante 4 turnos"
@@ -4866,7 +4866,7 @@
     "100021707": [
         "Chance of temporarily guarding allies against magic damage and reduce damage taken by all allies for four turns",
         "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊+4回合內減少對全體隊員的傷害",
-        "일시적으로 일정 확률 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
+        "일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
         "Chance de prendre temporairement des dégâts magiques en état de garde à la place des alliés et réduit les dégâts subis pour tous les alliés pendant 4 tours",
         "Chance, Verbündete kurzfristig gegen mag. Schaden zu verteidigen und verringert vier Runden lang von ihnen erlittenen Schaden.",
         "Probabilidad de proteger temporalmente a los aliados contra daño mágico en guardia y reduce el daño que reciben todos los aliados durante 4 turnos"
@@ -9886,6 +9886,102 @@
         "Augmente la MAGIE et la PSY et réduit les dégâts reçus pendant trois tours pour tous les alliés",
         "Erhöht MAG und PSY + reduziert drei Runden lange erhaltenen Schaden für alle Verb.",
         "Aumenta la MAG y el ESP y reduce el daño que reciben todos los aliados durante 3 turnos"
+    ],
+    "212001505": [
+        "Reduce ATK, DEF, MAG, SPR, and fire resistance and damage all enemies, and chance of stealing an item",
+        "降低全體敵人的攻擊防禦魔力精神、火屬性耐性+發動攻擊+一定機率盜取道具",
+        "적 전체의 공격력, 방어력, 마력, 정신력과 불속성 저항력 감소+피해+일정 확률로 아이템 훔치기",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, réduit leur résistance au feu et leur inflige des dégâts, et confère une chance de voler un objet",
+        "Verringert ANG, ABW, MAG, PSY und Feuerresistenz aller Gegner, fügt ihnen Schaden zu und Chance, einen Gegenstand zu stehlen.",
+        "Reduce ATQ, DEF, MAG, ESP y la resistencia al fuego de todos los enemigos y los daña, y probabilidad de robarles un objeto"
+    ],
+    "212001506": [
+        "Reduce ATK, DEF, MAG, SPR, and fire resistance and damage all enemies, and chance of stealing an item",
+        "降低全體敵人的攻擊防禦魔力精神、火屬性耐性+發動攻擊+一定機率盜取道具",
+        "적 전체의 공격력, 방어력, 마력, 정신력과 불속성 저항력 감소+피해+일정 확률로 아이템 훔치기",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, réduit leur résistance au feu et leur inflige des dégâts, et confère une chance de voler un objet",
+        "Verringert ANG, ABW, MAG, PSY und Feuerresistenz aller Gegner, fügt ihnen Schaden zu und Chance, einen Gegenstand zu stehlen.",
+        "Reduce ATQ, DEF, MAG, ESP y la resistencia al fuego de todos los enemigos y los daña, y probabilidad de robarles un objeto"
+    ],
+    "212001507": [
+        "Reduce ATK, DEF, MAG, SPR, and fire resistance and damage all enemies, and chance of stealing an item",
+        "降低全體敵人的攻擊防禦魔力精神、火屬性耐性+發動攻擊+一定機率盜取道具",
+        "적 전체의 공격력, 방어력, 마력, 정신력과 불속성 저항력 감소+피해+일정 확률로 아이템 훔치기",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, réduit leur résistance au feu et leur inflige des dégâts, et confère une chance de voler un objet",
+        "Verringert ANG, ABW, MAG, PSY und Feuerresistenz aller Gegner, fügt ihnen Schaden zu und Chance, einen Gegenstand zu stehlen.",
+        "Reduce ATQ, DEF, MAG, ESP y la resistencia al fuego de todos los enemigos y los daña, y probabilidad de robarles un objeto"
+    ],
+    "212001605": [
+        "Boost own MAG and damage of certain abilities, and reduce ice resistance and deal ice damage to all enemies",
+        "提高自身的魔力+提高特定能力的傷害+降低全體敵人的冰屬性耐性+發動冰屬性攻擊",
+        "자신의 마력 상승+특정 어빌리티의 피해량 상승+적 전체의 얼음속성 저항력 감소+얼음속성 피해",
+        "Augmente la MAGIE du lanceur, augmente les dégâts de certaines aptitudes, réduit la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace",
+        "Erhöht MAG des Benutzers sowie Schaden bestimmter Fertigkeiten, verringert Eisresistenz aller Gegner und fügt ihnen Eisschaden zu.",
+        "Aumenta la MAG y el daño de determinadas habilidades, y reduce la resistencia al hielo de todos los enemigos y les inflige daño de hielo"
+    ],
+    "212001606": [
+        "Boost own MAG and damage of certain abilities, and reduce ice resistance and deal ice damage to all enemies",
+        "提高自身的魔力+提高特定能力的傷害+降低全體敵人的冰屬性耐性+發動冰屬性攻擊",
+        "자신의 마력 상승+특정 어빌리티의 피해량 상승+적 전체의 얼음속성 저항력 감소+얼음속성 피해",
+        "Augmente la MAGIE du lanceur, augmente les dégâts de certaines aptitudes, réduit la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace",
+        "Erhöht MAG des Benutzers sowie Schaden bestimmter Fertigkeiten, verringert Eisresistenz aller Gegner und fügt ihnen Eisschaden zu.",
+        "Aumenta la MAG y el daño de determinadas habilidades, y reduce la resistencia al hielo de todos los enemigos y les inflige daño de hielo"
+    ],
+    "212001607": [
+        "Boost own MAG and damage of certain abilities, reduce ice resistance and deal ice damage to all enemies, and enable mist blizzaja for two turns",
+        "提高自身的魔力+提高特定能力的傷害+降低全體敵人的冰屬性耐性+發動冰屬性攻擊+2回合內可使用「魔霧·強暴雪」",
+        "자신의 마력 상승+특정 어빌리티의 피해량 상승+적 전체의 얼음속성 저항력 감소+얼음속성 피해+2턴 동안 '미스트·블리자쟈' 사용 가능",
+        "Augmente la MAGIE du lanceur, augmente les dégâts de certaines aptitudes, réduit la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace, et permet d'utiliser Myste : Glaciation pendant 2 tours",
+        "Erhöht MAG des Benutzers sowie Schaden bestimmter Fertigkeiten, verringert Eisresistenz aller Gegner, fügt ihnen Eisschaden zu und ermöglicht zwei Runden lang Mysth-Eiska.",
+        "Aumenta la MAG y el daño de determinadas habilidades, reduce la resistencia al hielo de todos los enemigos y les inflige daño de hielo, y aprende Niebla Megahielo durante 2 turnos"
+    ],
+    "212001705": [
+        "Reduce ice resistance and deal ice damage to all enemies",
+        "降低全體敵人的冰屬性耐性+發動冰屬性攻擊",
+        "적 전체의 얼음속성 저항력 감소+얼음속성 피해",
+        "Réduit la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace",
+        "Verringert Eisresistenz aller Gegner und fügt ihnen Eisschaden zu.",
+        "Reduce la resistencia al hielo de todos los enemigos y les inflige daño de hielo"
+    ],
+    "212001706": [
+        "Reduce ice resistance and deal ice damage to all enemies",
+        "降低全體敵人的冰屬性耐性+發動冰屬性攻擊",
+        "적 전체의 얼음속성 저항력 감소+얼음속성 피해",
+        "Réduit la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace",
+        "Verringert Eisresistenz aller Gegner und fügt ihnen Eisschaden zu.",
+        "Reduce la resistencia al hielo de todos los enemigos y les inflige daño de hielo"
+    ],
+    "212001707": [
+        "Reduce ice resistance and deal ice damage to all enemies",
+        "降低全體敵人的冰屬性耐性+發動冰屬性攻擊",
+        "적 전체의 얼음속성 저항력 감소+얼음속성 피해",
+        "Réduit la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace",
+        "Verringert Eisresistenz aller Gegner und fügt ihnen Eisschaden zu.",
+        "Reduce la resistencia al hielo de todos los enemigos y les inflige daño de hielo"
+    ],
+    "212001804": [
+        "Boost ATK, DEF, MAG, and SPR, and reduce damage taken by all allies for four turns",
+        "提高全體隊員的攻擊防禦魔力精神+4回合內減輕傷害",
+        "4턴 동안 아군 전체의 공격력, 방어력, 마력, 정신력 상승+피해량 감소",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, et réduit les dégâts subis pendant 4 tours",
+        "Erhöht ANG, ABW, MAG und PSY aller Verbündeten und verringert vier Runden lang deren erlittenen Schaden.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados y reduce el daño que reciben durante 4 turnos"
+    ],
+    "212001805": [
+        "Boost ATK, DEF, MAG, and SPR, and reduce damage taken by all allies for four turns",
+        "提高全體隊員的攻擊防禦魔力精神+4回合內減輕傷害",
+        "4턴 동안 아군 전체의 공격력, 방어력, 마력, 정신력 상승+피해량 감소",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, et réduit les dégâts subis pendant 4 tours",
+        "Erhöht ANG, ABW, MAG und PSY aller Verbündeten und verringert vier Runden lang deren erlittenen Schaden.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados y reduce el daño que reciben durante 4 turnos"
+    ],
+    "212001806": [
+        "Boost ATK, DEF, MAG, and SPR, and reduce damage taken by all allies for four turns",
+        "提高全體隊員的攻擊防禦魔力精神+4回合內減輕傷害",
+        "4턴 동안 아군 전체의 공격력, 방어력, 마력, 정신력 상승+피해량 감소",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, et réduit les dégâts subis pendant 4 tours",
+        "Erhöht ANG, ABW, MAG und PSY aller Verbündeten und verringert vier Runden lang deren erlittenen Schaden.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados y reduce el daño que reciben durante 4 turnos"
     ],
     "213000105": [
         "Damage and reduce DEF for one enemy",
@@ -16910,5 +17006,21 @@
         "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY, augmente l'ATT, la DEF, la MAGIE et la PSY, ranime automatiquement une fois et restaure progressivement les PV et les PM de tous les alliés",
         "Entfernt ANG-, ABW-, MAG- und PSY-Verringerungen, erhöht ANG, ABW, MAG sowie PSY, Benutzer wird einmal automatisch wiederbelebt und regeneriert allmählich LP sowie MP aller Verbündeten.",
         "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, aumenta su ATQ, DEF, MAG y ESP, los revive automáticamente una vez, y recupera poco a poco su VIT y PM"
+    ],
+    "950000027": [
+        "Damage all enemies, boost ATK, DEF, MAG, and SPR for all allies, and boost damage of certain abilities",
+        "攻擊全體敵人+提高全體隊員的攻擊防禦魔力精神+提高特定能力的傷害",
+        "적 전체에 피해+아군 전체의 공격력, 방어력, 마력, 정신력 상승+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts à tous les ennemis, augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés et augmente les dégâts de certaines aptitudes",
+        "Fügt allen Gegnern Schaden zu, erhöht ANG, ABW, MAG und PSY für alle Verbündeten und erhöht Schaden bestimmter Fertigkeiten.",
+        "Daña a todos los enemigos, aumenta ATQ, DEF, MAG y ESP de todos los aliados, y aumenta el daño de determinadas habilidades"
+    ],
+    "950000028": [
+        "Chance of temporarily guarding allies against magic damage and reduce damage taken by all allies for four turns",
+        "暫時性有一定機率以「防禦」狀態代替隊員承受魔法攻擊+4回合內減少對全體隊員的傷害",
+        "일시적으로 일정 확률 아군을 향한 마법 공격을 '방어' 상태로 대신 받음+4턴 동안 아군 전체가 받는 피해량 감소",
+        "Chance de prendre temporairement des dégâts magiques en état de garde à la place des alliés et réduit les dégâts subis pour tous les alliés pendant 4 tours",
+        "Chance, Verbündete kurzfristig gegen mag. Schaden zu verteidigen und verringert vier Runden lang von ihnen erlittenen Schaden.",
+        "Probabilidad de proteger temporalmente a los aliados contra daño mágico en guardia y reduce el daño que reciben todos los aliados durante 4 turnos"
     ]
 }
