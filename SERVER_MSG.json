@@ -5,7 +5,9 @@
         "데이터베이스에 접속할 수 없습니다.",
         "Impossible d'accéder à la base de données.",
         "Es konnte keine Verbindung zur Datenbank hergestellt werden.",
-        "No se puede conectar a la base de datos."
+        "No se puede conectar a la base de datos.",
+        "Cannot connect to the database.",
+        "ไม่\u001aสามารถ\u001aเชื่อมต่อ\u001aกับ\u001aฐานข้อมูล\u001aได้\u001a"
     ],
     "02": [
         "Cannot connect to REDIS.",
@@ -13,7 +15,9 @@
         "REDIS에 접속할 수 없습니다.",
         "Impossible d'accéder à la base de données REDIS.",
         "Es konnte keine Verbindung zu REDIS hergestellt werden.",
-        "No se puede conectar a REDIS."
+        "No se puede conectar a REDIS.",
+        "Cannot connect to REDIS.",
+        "ไม่\u001aสามารถ\u001aเชื่อมต่อ\u001aกับ\u001a \u001aREDIS\u001a \u001aได้\u001a"
     ],
     "03": [
         "Cannot connect to AWSSQL.",
@@ -21,7 +25,9 @@
         "AWSSQL에 접속할 수 없습니다.",
         "Impossible d'accéder à la base de données AWSSQL.",
         "Es konnte keine Verbindung zu AWSSQL hergestellt werden.",
-        "No se puede conectar a AWSSQL."
+        "No se puede conectar a AWSSQL.",
+        "Cannot connect to AWSSQL.",
+        "ไม่\u001aสามารถ\u001aเชื่อมต่อ\u001aกับ\u001a \u001aAWSSQL\u001a \u001aได้\u001a"
     ],
     "04": [
         "COMMIT failed.",
@@ -29,7 +35,9 @@
         "COMMIT에 실패했습니다.",
         "Impossible d'exécuter la commande \"COMMIT\".",
         "COMMIT fehlgeschlagen.",
-        "COMMIT ha fallado."
+        "COMMIT ha fallado.",
+        "COMMIT failed.",
+        "COMMIT\u001a \u001aล้มเหลว\u001a"
     ],
     "05": [
         "CLOSE failed.",
@@ -37,7 +45,9 @@
         "CLOSE에 실패했습니다.",
         "Impossible d'exécuter la commande \"CLOSE\".",
         "CLOSE fehlgeschlagen.",
-        "CLOSE ha fallado."
+        "CLOSE ha fallado.",
+        "CLOSE failed.",
+        "CLOSE\u001a \u001aล้มเหลว\u001a"
     ],
     "06": [
         "ROLLBACK failed.",
@@ -45,7 +55,9 @@
         "ROLLBACK에 실패했습니다.",
         "Impossible d'exécuter la commande \"ROLLBACK\".",
         "ROLLBACK fehlgeschlagen.",
-        "ROLLBACK ha fallado."
+        "ROLLBACK ha fallado.",
+        "ROLLBACK failed.",
+        "ROLLBACK\u001a \u001aล้มเหลว\u001a"
     ],
     "07": [
         "Cannot start the transaction.",
@@ -53,7 +65,9 @@
         "트랜잭션을 시작할 수 없습니다.",
         "Impossible de démarrer la transaction.",
         "Die Transaktion konnte nicht begonnen werden.",
-        "No se puede iniciar la transacción."
+        "No se puede iniciar la transacción.",
+        "Cannot start the transaction.",
+        "ไม่\u001aสามารถ\u001aเริ่ม\u001aทำ\u001aธุรกรรม\u001aได้\u001a"
     ],
     "08": [
         "INSERT failed.",
@@ -61,7 +75,9 @@
         "INSERT에 실패했습니다.",
         "Impossible d'exécuter la commande \"INSERT\".",
         "INSERT fehlgeschlagen.",
-        "INSERT ha fallado."
+        "INSERT ha fallado.",
+        "INSERT failed.",
+        "การแทรก\u001aล้มเหลว\u001a"
     ],
     "09": [
         "This is a duplicate.",
@@ -69,7 +85,9 @@
         "중복되어 있습니다.",
         "C'est une copie",
         "Dies ist ein Duplikat.",
-        "Esto es un duplicado."
+        "Esto es un duplicado.",
+        "This is a duplicate.",
+        "มี\u001aการซ้ำซ้อน\u001aกัน\u001a"
     ],
     "10": [
         "This does not exist.",
@@ -77,7 +95,9 @@
         "존재하지 않습니다.",
         "N'existe pas.",
         "Dies existiert nicht.",
-        "Esto no existe."
+        "Esto no existe.",
+        "This does not exist.",
+        "ไม่\u001aปรากฏ\u001aสิ่ง\u001aนี้\u001aิ\u001aอยู่\u001a"
     ],
     "11": [
         "UPDATE failed.",
@@ -85,7 +105,9 @@
         "업데이트에 실패했습니다.",
         "Impossible d'exécuter la commande \"UPDATE\"",
         "UPDATE fehlgeschlagen.",
-        "UPDATE ha fallado."
+        "UPDATE ha fallado.",
+        "UPDATE failed.",
+        "UPDATE\u001a \u001aล้มเหลว\u001a"
     ],
     "12": [
         "DELETE failed.",
@@ -93,7 +115,9 @@
         "DELETE에 실패했습니다.",
         "Impossible d'exécuter la commande \"DELETE\"",
         "DELETE fehlgeschlagen.",
-        "DELETE ha fallado."
+        "DELETE ha fallado.",
+        "DELETE failed.",
+        "การ\u001aลบ\u001aล้มเหลว\u001a"
     ],
     "13": [
         "Value setting failed.",
@@ -101,7 +125,9 @@
         "값 설정에 실패했습니다.",
         "Impossible de paramétrer la valeur.",
         "Werteinstellung fehlgeschlagen.",
-        "Fallo en el ajuste de valores."
+        "Fallo en el ajuste de valores.",
+        "Value setting failed.",
+        "การ\u001aตั้งค่า\u001aล้มเหลว\u001a"
     ],
     "14": [
         "Cannot retrieve JSON data.",
@@ -109,7 +135,9 @@
         "JSON 데이터를 가져올 수 없습니다.",
         "Impossible de récupérer les données JSON.",
         "JSON-Daten konnten nicht abgerufen werden.",
-        "No se pueden recuperar los datos JSON."
+        "No se pueden recuperar los datos JSON.",
+        "Cannot retrieve JSON data.",
+        "ไม่\u001aสามารถ\u001aรับ\u001aข้อมูล\u001a \u001aJSON\u001a \u001aได้\u001a"
     ],
     "15": [
         "Please authenticate with SQUARE ENIX MARKET‎.",
@@ -117,7 +145,9 @@
         "스퀘어 에닉스 마켓의 인증을 받으십시오.",
         "Veuillez vous authentifier sur le SQUARE ENIX MARKET.",
         "Bitte mit SQUARE ENIX MARKET authentifizieren.",
-        "Por favor, autenticar en SQUARE ENIX MARKET‎."
+        "Por favor, autenticar en SQUARE ENIX MARKET‎.",
+        "Please authenticate with SQUARE ENIX MARKET‎.",
+        "กรุณา\u001aดำเนินการ\u001aรับรอง\u001aความถูกต้อง\u001aกับ\u001a \u001aSQUARE\u001a \u001aENIX\u001a \u001aMARKET\u001a"
     ],
     "16": [
         "Please authenticate with SQUARE ENIX MARKET‎.",
@@ -125,7 +155,9 @@
         "스퀘어 에닉스 마켓의 인증을 받으십시오.",
         "Veuillez vous authentifier sur le SQUARE ENIX MARKET.",
         "Bitte mit SQUARE ENIX MARKET authentifizieren.",
-        "Por favor, autenticar en SQUARE ENIX MARKET‎."
+        "Por favor, autenticar en SQUARE ENIX MARKET‎.",
+        "Please authenticate with SQUARE ENIX MARKET‎.",
+        "กรุณา\u001aดำเนินการ\u001aรับรอง\u001aความถูกต้อง\u001aกับ\u001a \u001aSQUARE\u001a \u001aENIX\u001a \u001aMARKET\u001a"
     ],
     "17": [
         "Please authenticate with SQUARE ENIX MARKET‎.",
@@ -133,7 +165,9 @@
         "스퀘어 에닉스 마켓의 인증을 받으십시오.",
         "Veuillez vous authentifier sur le SQUARE ENIX MARKET.",
         "Bitte mit SQUARE ENIX MARKET authentifizieren.",
-        "Por favor, autenticar en SQUARE ENIX MARKET‎."
+        "Por favor, autenticar en SQUARE ENIX MARKET‎.",
+        "Please authenticate with SQUARE ENIX MARKET‎.",
+        "กรุณา\u001aดำเนินการ\u001aรับรอง\u001aความถูกต้อง\u001aกับ\u001a \u001aSQUARE\u001a \u001aENIX\u001a \u001aMARKET\u001a"
     ],
     "18": [
         "Please try your purchase again.",
@@ -141,7 +175,9 @@
         "다시 구매해주십시오.",
         "Veuillez recommencer la procédure d'achat.",
         "Bitte versuche deinen Kauf erneut.",
-        "Por favor, intenta comprarlo de nuevo."
+        "Por favor, intenta comprarlo de nuevo.",
+        "Please try your purchase again.",
+        "กรุณา\u001aดำเนินการ\u001aซื้อ\u001aอีก\u001aครั้งหนึ่ง\u001a"
     ],
     "19": [
         "Please authenticate with SQUARE ENIX MARKET‎.",
@@ -149,7 +185,9 @@
         "스퀘어 에닉스 마켓의 인증을 받으십시오.",
         "Veuillez vous authentifier sur le SQUARE ENIX MARKET.",
         "Bitte mit SQUARE ENIX MARKET authentifizieren.",
-        "Por favor, autenticar en SQUARE ENIX MARKET‎."
+        "Por favor, autenticar en SQUARE ENIX MARKET‎.",
+        "Please authenticate with SQUARE ENIX MARKET‎.",
+        "กรุณา\u001aดำเนินการ\u001aรับรอง\u001aความถูกต้อง\u001aกับ\u001a \u001aSQUARE\u001a \u001aENIX\u001a \u001aMARKET\u001a"
     ],
     "20": [
         "Insufficient points. Please check with SQUARE ENIX MARKET.",
@@ -157,7 +195,9 @@
         "포인트가 부족합니다. 스퀘어 에닉스 마켓에서 확인하십시오.",
         "Points insuffisants. Pour acheter des points, allez sur le SQUARE ENIX MARKET.",
         "Nicht genügend Punkte. Bitte SQUARE ENIX MARKET überprüfen.",
-        "Puntos insuficientes. Por favor, compruébalos en SQUARE ENIX MARKET."
+        "Puntos insuficientes. Por favor, compruébalos en SQUARE ENIX MARKET.",
+        "Insufficient points. Please check with SQUARE ENIX MARKET.",
+        "Point\u001a \u001aไม่\u001aเพียงพอ\u001a \u001aกรุณา\u001aดำเนินการ\u001aตรวจ\u001aเช็ค\u001aกับ\u001a \u001aSQUARE\u001a \u001aENIX\u001a \u001aMARKET\u001a"
     ],
     "21": [
         "Your purchase failed.",
@@ -165,7 +205,9 @@
         "구매 처리에 실패했습니다.",
         "Échec de la procédure d'achat.",
         "Kauf fehlgeschlagen.",
-        "Fallo al realizar tu compra."
+        "Fallo al realizar tu compra.",
+        "Your purchase failed.",
+        "การ\u001aซื้อ\u001aของ\u001aของ\u001aคุณ\u001aล้มเหลว\u001a"
     ],
     "22": [
         "SQUARE ENIX MARKET Connection Error",
@@ -173,7 +215,9 @@
         "스퀘어 에닉스 마켓 통신 오류",
         "Erreur de connexion au SQUARE ENIX MARKET.",
         "Fehler bei Verbindung zum SQUARE ENIX MARKET",
-        "Error de conexión de SQUARE ENIX MARKET"
+        "Error de conexión de SQUARE ENIX MARKET",
+        "SQUARE ENIX MARKET Connection Error",
+        "การ\u001aเชื่อมต่อ\u001aข้อ\u001aมูบ\u001aกับ\u001a \u001aSQUARE\u001a \u001aENIX\u001a \u001aMARKET\u001a \u001aล้มเหลว\u001a"
     ],
     "23": [
         "Unknown request received.",
@@ -181,7 +225,9 @@
         "알 수 없는 요청을 받았습니다.",
         "Demande incorrecte.",
         "Unbekannte Anfrage erhalten.",
-        "Se ha recibido una solicitud desconocida."
+        "Se ha recibido una solicitud desconocida.",
+        "Unknown request received.",
+        "ได้รับ\u001aคำขอ\u001aที่\u001aไม่\u001aระบุ\u001aชัด\u001a"
     ],
     "24": [
         "Unable to updated last access date.",
@@ -189,7 +235,9 @@
         "최종 접속일자를 업데이트 할 수 없습니다.",
         "Impossible de mettre à jour la date de dernier accès.",
         "Datum des letzten Zugriffs kann nicht aktualisiert werden.",
-        "No se puede actualizar la fecha del último acceso."
+        "No se puede actualizar la fecha del último acceso.",
+        "Unable to updated last access date.",
+        "ไม่\u001aสามารถ\u001aอัพเดท\u001aวันที่\u001aเข้า\u001aเล่น\u001aล่าสุด\u001aได้\u001a"
     ],
     "25": [
         "This user already exists.",
@@ -197,7 +245,9 @@
         "이미 제작이 완료되었습니다.",
         "Cet utilisateur existe déjà",
         "Dieser Nutzer existiert bereits.",
-        "Este usuario ya existe."
+        "Este usuario ya existe.",
+        "This user already exists.",
+        "มี\u001aผู้ใช้\u001aราย\u001aนี้\u001aอยู่แล้ว\u001a"
     ],
     "26": [
         "You are already friends.",
@@ -205,7 +255,9 @@
         "이미 친구로 등록되어 있습니다.",
         "Vous êtes déjà amis.",
         "Ihr seid bereits befreundet.",
-        "Ya sois amigos."
+        "Ya sois amigos.",
+        "You are already friends.",
+        "ทั้งสองฝ่าย\u001aลงทะเบียน\u001aเป็นเพื่อน\u001aกัน\u001aอยู่แล้ว\u001a"
     ],
     "27": [
         "You have already sent this user a friend request.",
@@ -213,7 +265,9 @@
         "이미 친구 신청을 마쳤습니다.",
         "Demande d'ami déjà envoyée.",
         "Du hast diesem Nutzer bereits eine Freundschaftsanfrage geschickt.",
-        "Ya has mandado una solicitud de amigos a este usuario."
+        "Ya has mandado una solicitud de amigos a este usuario.",
+        "You have already sent this user a friend request.",
+        "คุณ\u001aได้\u001aส่ง\u001aคำขอ\u001aเป็นเพื่อน\u001aกับ\u001aผู้ใช้\u001aราย\u001aนี้\u001aไป\u001aแล้ว\u001a"
     ],
     "28": [
         "The friend request has already been received.",
@@ -221,7 +275,9 @@
         "친구 신청을 받고 있습니다.",
         "Demande d'ami déjà reçue.",
         "Die Freundschaftsanfrage wurde bereits erhalten.",
-        "Ya se ha recibido la solicitud de amigos."
+        "Ya se ha recibido la solicitud de amigos.",
+        "Permintaan teman telah diterima.",
+        "ปลายทาง\u001aได้รับ\u001aคำขอ\u001aเป็นเพื่อน\u001aแล้ว\u001a"
     ],
     "29": [
         "Already received.",
@@ -229,7 +285,9 @@
         "이미 획득하였습니다.",
         "Déjà reçu.",
         "Bereits erhalten.",
-        "Ya recibido."
+        "Ya recibido.",
+        "Telah diterima.",
+        "ได้รับ\u001aเรียบร้อย\u001aแล้ว\u001a"
     ],
     "30": [
         "This event has already finished.",
@@ -237,7 +295,9 @@
         "이벤트는 종료되었습니다.",
         "L'événement est déjà terminé.",
         "Dieses Ereignis ist bereits beendet.",
-        "Este evento ya ha finalizado."
+        "Este evento ya ha finalizado.",
+        "Event ini telah berakhir.",
+        "อีเวนท์\u001aนี้\u001aได้\u001aจบ\u001aลง\u001aไป\u001aแล้ว\u001a"
     ],
     "31": [
         "You have already unlocked this dungeon.",
@@ -245,7 +305,9 @@
         "이미 개방되어 있습니다.",
         "Donjon déjà débloqué.",
         "Du hast dieses Dungeon bereits freigeschaltet.",
-        "Ya has desbloqueado esta mazmorra."
+        "Ya has desbloqueado esta mazmorra.",
+        "Kamu telah membuka dungeon ini.",
+        "คุณ\u001aปลด\u001aล็อค\u001aดัน\u001aเจี้ยน\u001aนี้\u001aไป\u001aเรียบร้อย\u001aแล้ว\u001a"
     ],
     "32": [
         "You have already cleared this mission.",
@@ -253,7 +315,9 @@
         "이미 완료하였습니다.",
         "Mission déjà terminée.",
         "Du hast diese Mission bereits abgeschlossen.",
-        "Ya has completado esta misión."
+        "Ya has completado esta misión.",
+        "Kamu telah menyelesaikan misi ini.",
+        "คุณ\u001aเคลียร์\u001aมิชชั่น\u001aนี้\u001aไป\u001aเรียบร้อย\u001aแล้ว\u001a"
     ],
     "33": [
         "The server is currently under maintenance.",
@@ -261,7 +325,9 @@
         "점검 중입니다.",
         "Le serveur est en maintenance.",
         "Am Server werden zurzeit Wartungsarbeiten durchgeführt.",
-        "En estos momentos el servidor está en mantenimiento."
+        "En estos momentos el servidor está en mantenimiento.",
+        "The server is currently under maintenance.",
+        "เซิร์ฟเวอร์\u001aกำลัง\u001aอยู่\u001aระหว่าง\u001aการ\u001aซ่อมบำรุง\u001a"
     ],
     "34": [
         "A connection error has occurred.",
@@ -269,7 +335,9 @@
         "통신 오류가 발생했습니다.",
         "Une erreur de connexion s'est produite.",
         "Es ist ein Verbindungsfehler aufgetreten.",
-        "Ha ocurrido un error de conexión."
+        "Ha ocurrido un error de conexión.",
+        "Terjadi kesalahan koneksi.",
+        "เกิด\u001aข้อผิดพลาด\u001aด้าน\u001aการ\u001aเชื่อมต่อ\u001a"
     ],
     "35": [
         "A connection error has occurred.",
@@ -277,7 +345,9 @@
         "통신 오류가 발생했습니다.",
         "Une erreur de connexion s'est produite.",
         "Es ist ein Verbindungsfehler aufgetreten.",
-        "Ha ocurrido un error de conexión."
+        "Ha ocurrido un error de conexión.",
+        "Terjadi kesalahan koneksi.",
+        "เกิด\u001aข้อผิดพลาด\u001aด้าน\u001aการ\u001aเชื่อมต่อ\u001a"
     ],
     "36": [
         "Insufficient energy",
@@ -285,7 +355,9 @@
         "체력이 부족합니다.",
         "Endurance insuffisante.",
         "Nicht genug Energie.",
-        "Energía insuficiente"
+        "Energía insuficiente",
+        "Energi tidak cukup.",
+        "NRG\u001a \u001aไม่\u001aเพียงพอ\u001a"
     ],
     "37": [
         "Failed to obtain your data transfer code and/or password.",
@@ -293,7 +365,9 @@
         "데이터 이전 코드 및 패스워드를 가져올 수 없습니다.",
         "Impossible d'obtenir le code de transfert et/ou le mot de passe.",
         "Dein Datenübertragungscode und/oder Passwort konnten nicht abgerufen werden.",
-        "Fallo al obtener tu código de transferencia de datos y/o contraseña."
+        "Fallo al obtener tu código de transferencia de datos y/o contraseña.",
+        "Failed to obtain your data transfer code and/or password.",
+        "ระบบ\u001aไม่\u001aสามารถ\u001aรับ\u001aข้อมูล\u001aรหัส\u001aถ่ายโอน\u001aข้อมูล\u001aและ\u001a/\u001aหรือ\u001aรหัสผ่าน\u001aได้\u001a"
     ],
     "38": [
         "Failed to retrieve user data.",
@@ -301,7 +375,9 @@
         "유저 정보를 가져올 수 없습니다.",
         "Impossible d'obtenir les données utilisateur.",
         "Nutzerdaten konnten nicht abgerufen werden.",
-        "Imposible recuperar datos del usuario."
+        "Imposible recuperar datos del usuario.",
+        "Gagal memperoleh data pemain.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aผู้\u001aเล่น\u001aได้\u001a"
     ],
     "39": [
         "Insufficient colosseum orbs.",
@@ -309,7 +385,9 @@
         "투기장 구슬이 부족합니다.",
         "Orbes du Colisée insuffisants",
         "Nicht genug Juwelen.",
-        "Orbes del Coliseo insuficientes."
+        "Orbes del Coliseo insuficientes.",
+        "Insufficient colosseum orbs.",
+        "มี\u001aลูกแก้ว\u001aโคล\u001aอสเซียม\u001aไม่\u001aเพียงพอ\u001a"
     ],
     "40": [
         "Failed to retrieve crafting data.",
@@ -317,7 +395,9 @@
         "제작 정보를 가져올 수 없습니다.",
         "Impossible à fabriquer.",
         "Die Herstellungsdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de elaboración."
+        "Fallo al recuperar los datos de elaboración.",
+        "Failed to retrieve crafting data.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aการผลิต\u001aได้\u001a"
     ],
     "41": [
         "Still crafting.",
@@ -325,7 +405,9 @@
         "제작이 진행 중입니다.",
         "Fabrication en cours.",
         "Die Herstellung läuft noch.",
-        "Aún elaborando."
+        "Aún elaborando.",
+        "Still crafting.",
+        "กำลัง\u001aอยู่\u001aระหว่าง\u001aการผลิต\u001a"
     ],
     "42": [
         "Nothing crafted.",
@@ -333,7 +415,9 @@
         "제작하고 있지 않습니다.",
         "Pas encore fabriqué.",
         "Nichts hergestellt.",
-        "Nada elaborado."
+        "Nada elaborado.",
+        "Nothing crafted.",
+        "ยัง\u001aไม่\u001aได้\u001aดำเนิน\u001aการผลิต\u001a"
     ],
     "43": [
         "Crafting has not completed yet.",
@@ -341,7 +425,9 @@
         "제작이 완료되지 않았습니다.",
         "La fabrication n'est pas encore terminée.",
         "Die Herstellung ist noch nicht beendet.",
-        "La elaboración no ha terminado aún."
+        "La elaboración no ha terminado aún.",
+        "Crafting has not completed yet.",
+        "การผลิต\u001aยัง\u001aไม่\u001aเสร็จสิ้น\u001a"
     ],
     "44": [
         "Failed to retrieve recipe data.",
@@ -349,7 +435,9 @@
         "제작법 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de la recette.",
         "Die Rezeptdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de receta."
+        "Fallo al recuperar los datos de receta.",
+        "Gagal memperoleh data resep.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aสูตร\u001aผสม\u001aได้\u001a"
     ],
     "45": [
         "Failed to retrieve crafting data.",
@@ -357,7 +445,9 @@
         "아이템 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de l'objet.",
         "Die Herstellungsdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de elaboración."
+        "Fallo al recuperar los datos de elaboración.",
+        "Gagal memperoleh data kerajinan.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aการผลิต\u001aได้\u001a"
     ],
     "46": [
         "Failed to retrieve equipment data.",
@@ -365,7 +455,9 @@
         "장비 아이템 정보를 가져올 수 없습니다.",
         "Impossible de récupérer  les données de l'équipement.",
         "Die Ausrüstungsdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de equipo."
+        "Fallo al recuperar los datos de equipo.",
+        "Gagal memperoleh data perlengkapan.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aอุปกรณ์\u001aได้\u001a"
     ],
     "47": [
         "Failed to retrieve unit data.",
@@ -373,7 +465,9 @@
         "유닛 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de l'unité.",
         "Die Daten für die Einheit konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de unidad."
+        "Fallo al recuperar los datos de unidad.",
+        "Gagal memperoleh data unit.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aยู\u001aนิ\u001aท\u001aได้\u001a"
     ],
     "48": [
         "Failed to retrieve ability crystal data.",
@@ -381,7 +475,9 @@
         "어빌리티 크리스탈 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données du cristal d'aptitude.",
         "Die Daten der Fertigkeitenkristalle konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de cristal de habilidad."
+        "Fallo al recuperar los datos de cristal de habilidad.",
+        "Gagal memperoleh data kristal ability.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001a \u001aAbility\u001a \u001aคริสตัล\u001aได้\u001a"
     ],
     "49": [
         "Failed to retrieve esper data.",
@@ -389,7 +485,9 @@
         "환수 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de la chimère.",
         "Die Esperdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de esper."
+        "Fallo al recuperar los datos de esper.",
+        "Gagal memperoleh data esper.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001a \u001aEsper\u001a \u001aได้\u001a"
     ],
     "50": [
         "Please enter the serial code again.",
@@ -397,7 +495,9 @@
         "시리얼 코드를 다시 입력해 주십시오.",
         "Veuillez entrer à nouveau le numéro de série.",
         "Bitte gib die Seriennummer erneut ein.",
-        "Vuelve a introducir el código de serie."
+        "Vuelve a introducir el código de serie.",
+        "Silakan masukkan kode seri sekali lagi.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001a \u001aSerial\u001a \u001aCode\u001a \u001aได้\u001a"
     ],
     "51": [
         "Please enter the campaign code again.",
@@ -405,7 +505,9 @@
         "이벤트 코드를 다시 입력해 주십시오.",
         "Veuillez entrer à nouveau le code promotionnel.",
         "Bitte gib den Kampagnencode erneut ein.",
-        "Vuelve a introducir el código de promoción."
+        "Vuelve a introducir el código de promoción.",
+        "Silakan masukkan kode kampanye sekali lagi.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aรหัส\u001aแคมเปญ\u001aได้\u001a"
     ],
     "52": [
         "Failed to retrieve colosseum data.",
@@ -413,7 +515,9 @@
         "투기장 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données du Colisée.",
         "Die Kolosseumsdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos del Coliseo."
+        "Fallo al recuperar los datos del Coliseo.",
+        "Gagal memperoleh data koloseum.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aโคล\u001aอสเซียม\u001aได้\u001a"
     ],
     "53": [
         "Failed to retrieve dungeon lock status.",
@@ -421,7 +525,9 @@
         "던전 개방 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données d'ouverture de donjon.",
         "Der Sperrstatus des Dungeons konnte nicht abgerufen werden.",
-        "Fallo al recuperar el estado de bloqueo de la mazmorra."
+        "Fallo al recuperar el estado de bloqueo de la mazmorra.",
+        "Gagal memperoleh data membuka dungeon.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aโคล\u001aอสเซียม\u001aได้\u001a"
     ],
     "54": [
         "Failed to retrieve dungeon data.",
@@ -429,7 +535,9 @@
         "던전 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données du donjon.",
         "Die Dungeondaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de mazmorra."
+        "Fallo al recuperar los datos de mazmorra.",
+        "Gagal memperoleh data dungeon.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aล็อค\u001aดัน\u001aเจี้ยน\u001aได้\u001a"
     ],
     "55": [
         "Failed to retrieve message data.",
@@ -437,7 +545,9 @@
         "메시지 수신 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données des messages",
         "Die Nachrichtendaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de mensajes."
+        "Fallo al recuperar los datos de mensajes.",
+        "Gagal memperoleh data pesan.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aข้อความ\u001aได้\u001a"
     ],
     "56": [
         "Failed to retrieve star quartz exchange data.",
@@ -445,7 +555,9 @@
         "별빛 운석 교환 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données d'échange de quartz étoilés.",
         "Die Tauschdaten für Sternenquarz konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de intercambio de estrellas de cuarzo."
+        "Fallo al recuperar los datos de intercambio de estrellas de cuarzo.",
+        "Gagal memperoleh data penukaran kuarsa bintang.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aการ\u001aแลกเปลี่ยน\u001a \u001aStar\u001a \u001aQuartz\u001a \u001aได้\u001a"
     ],
     "57": [
         "Failed to retrieve chest lock status.",
@@ -453,7 +565,9 @@
         "금고 개방 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données d'ouverture de coffres.",
         "Der Sperrstatus der Truhe konnte nicht abgerufen werden.",
-        "Fallo al recuperar el estado de bloqueo del cofre."
+        "Fallo al recuperar el estado de bloqueo del cofre.",
+        "Gagal memperoleh data membuka peti.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aสถานภาพ\u001aการ\u001aล็อค\u001aหีบ\u001aสมบัติ\u001aได้\u001a"
     ],
     "58": [
         "Failed to retrieve unit sale data.",
@@ -461,7 +575,9 @@
         "유닛 판매 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de vente d'unités.",
         "Die Daten für den Verkauf von Einheiten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de venta de la unidad."
+        "Fallo al recuperar los datos de venta de la unidad.",
+        "Failed to retrieve unit sale data.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aช้อ\u001aมูล\u001aการ\u001aขาย\u001aยู\u001aนิ\u001aท\u001aได้\u001a"
     ],
     "59": [
         "Failed to retrieve unit favorites data.",
@@ -469,7 +585,9 @@
         "유닛 즐겨찾기 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données des unités en favoris.",
         "Die Daten für bevorzugte Einheiten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de favoritos de la unidad."
+        "Fallo al recuperar los datos de favoritos de la unidad.",
+        "Gagal memperoleh data unit favorit.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aยู\u001aนิ\u001aท\u001aโปรด\u001aได้\u001a"
     ],
     "60": [
         "Failed to retrieve unit equipment data.",
@@ -477,7 +595,9 @@
         "유닛 장비 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de l'équipement des unités.",
         "Die Ausrüstungsdaten für die Einheit konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de equipo de la unidad."
+        "Fallo al recuperar los datos de equipo de la unidad.",
+        "Gagal memperoleh data perlengkapan unit.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aอุปกรณ์\u001aยู\u001aนิ\u001aท\u001aโปรด\u001aได้\u001a"
     ],
     "61": [
         "Failed to retrieve party management data.",
@@ -485,7 +605,9 @@
         "파티 편성 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de gestion du groupe.",
         "Die Verwaltungsdaten für die Gruppe konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de gestión de grupo."
+        "Fallo al recuperar los datos de gestión de grupo.",
+        "Gagal memperoleh data pengaturan tim.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aอุปกรณ์\u001aยู\u001aนิ\u001aท\u001aโปรด\u001aได้\u001a"
     ],
     "62": [
         "Invalid friend data.",
@@ -493,7 +615,9 @@
         "친구 정보가 올바르지 않습니다.",
         "Données ami incorrectes.",
         "Ungültige Freundesdaten.",
-        "Datos de amigo no válidos."
+        "Datos de amigo no válidos.",
+        "Data teman tidak valid.",
+        "ข้อมูล\u001aเพื่อน\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "63": [
         "Invalid summon data.",
@@ -501,7 +625,9 @@
         "뽑기 정보가 올바르지 않습니다.",
         "Données invocation incorrectes.",
         "Ungültige Beschwörungsdaten.",
-        "Datos de invocación no válidos."
+        "Datos de invocación no válidos.",
+        "Data summon tidak valid.",
+        "ข้อมูล\u001aซัม\u001aม่อน\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "64": [
         "Invalid companion update data.",
@@ -509,7 +635,9 @@
         "게스트 업데이트 정보가 올바르지 않습니다.",
         "Données de mise à jour des partenaires incorrectes.",
         "Ungültige Aktualisierungsdaten für Gefährten.",
-        "Datos de actualización de aliado no válidos."
+        "Datos de actualización de aliado no válidos.",
+        "Data pembaruan partner tidak valid.",
+        "ข้อมูล\u001aอัพเดท\u001aเพื่อนร่วมทาง\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "65": [
         "Invalid gift data.",
@@ -517,7 +645,9 @@
         "선물 정보가 올바르지 않습니다.",
         "Données cadeau incorrectes.",
         "Ungültige Geschenkdaten.",
-        "Datos de regalo no válidos."
+        "Datos de regalo no válidos.",
+        "Data kado tidak valid.",
+        "ข้อมูล\u001aของขวัญ\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "66": [
         "Invalid item sale data.",
@@ -525,7 +655,9 @@
         "아이템 판매 정보가 올바르지 않습니다.",
         "Données de vente d'objet incorrectes.",
         "Ungültige Verkaufsdaten für einen Gegenstand.",
-        "Datos de venta de objeto no válidos."
+        "Datos de venta de objeto no válidos.",
+        "Invalid item sale data.",
+        "ข้อมูล\u001aการ\u001aขาย\u001aไอเทม\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "67": [
         "Invalid item purchase data.",
@@ -533,7 +665,9 @@
         "아이템 구매 정보가 올바르지 않습니다.",
         "Données d'achat d'objet incorrectes.",
         "Ungültige Kaufdaten für einen Gegenstand.",
-        "Datos de compra de objeto no válidos."
+        "Datos de compra de objeto no válidos.",
+        "Invalid item purchase data.",
+        "ข้อมูล\u001aการ\u001aซื้่อ\u001aไอเทม\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "68": [
         "Invalid mission data.",
@@ -541,7 +675,9 @@
         "미션 정보가 올바르지 않습니다.",
         "Données de mission incorrectes.",
         "Ungültige Missionsdaten.",
-        "Datos de misión no válidos."
+        "Datos de misión no válidos.",
+        "Data misi tidak valid.",
+        "ข้อมูล\u001aมิชชั่น\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "69": [
         "Invalid news data.",
@@ -549,7 +685,9 @@
         "공지사항 정보가 올바르지 않습니다.",
         "Données annonce incorrectes.",
         "Ungültige Newsdaten.",
-        "Datos de noticias no válidos."
+        "Datos de noticias no válidos.",
+        "Data pengumuman tidak valid.",
+        "ข้อมูล\u001aข่าว\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "70": [
         "Invalid quest data.",
@@ -557,7 +695,9 @@
         "퀘스트 정보가 올바르지 않습니다.",
         "Données quête incorrectes.",
         "Ungültige Auftragsdaten.",
-        "Datos de misión no válidos."
+        "Datos de misión no válidos.",
+        "Data quest tidak valid.",
+        "ข้อมูล\u001aเค\u001aวส\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "71": [
         "Invalid read/unread status.",
@@ -565,7 +705,9 @@
         "읽은 상태 정보가 올바르지 않습니다.",
         "Données de statut  lu/non lu incorrectes",
         "Ungültiger „Gelesen“/„Ungelesen“-Status.",
-        "Estado leído/no leído no válido."
+        "Estado leído/no leído no válido.",
+        "Invalid read/unread status.",
+        "ข้อมูล\u001aแสดง\u001aข้อความ\u001aอ่าน\u001aแล้ว\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "72": [
         "Invalid shop data.",
@@ -573,7 +715,9 @@
         "상점 이용 정보가 올바르지 않습니다.",
         "Données de la boutique incorrectes.",
         "Ungültige Daten für den Laden.",
-        "Datos de tienda no válidos."
+        "Datos de tienda no válidos.",
+        "Data toko tidak valid.",
+        "ข้อมูล\u001aร้านค้า\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "73": [
         "Invalid scenario battle data.",
@@ -581,7 +725,9 @@
         "시나리오 전투 정보가 올바르지 않습니다.",
         "Données de combat du scénario incorrectes.",
         "Ungültige Kampfszenariendaten.",
-        "Datos de escenario de batalla no válidos."
+        "Datos de escenario de batalla no válidos.",
+        "Invalid scenario battle data.",
+        "ข้อมูล\u001a \u001aScenario\u001a \u001aBattle\u001a \u001aไม่\u001aถูกต้อง\u001a"
     ],
     "74": [
         "Invalid exchange data.",
@@ -589,7 +735,9 @@
         "교환상점 이용 정보가 올바르지 않습니다.",
         "Données d'échange incorrectes.",
         "Ungültige Tauschdaten.",
-        "Datos de intercambio no válidos."
+        "Datos de intercambio no válidos.",
+        "Data penukaran tidak valid.",
+        "ข้อมูล\u001aการ\u001aแลกเปลี่ยน\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "75": [
         "Invalid purchase data.",
@@ -597,7 +745,9 @@
         "구매 정보가 올바르지 않습니다.",
         "Données d'achat incorrectes.",
         "Ungültige Kaufdaten.",
-        "Datos de compra no válidos."
+        "Datos de compra no válidos.",
+        "Data pembelian tidak valid.",
+        "ข้อมูล\u001aการ\u001aซื้อ\u001aของ\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "76": [
         "Invalid town data.",
@@ -605,7 +755,9 @@
         "마을 정보가 올바르지 않습니다.",
         "Données de la ville incorrectes.",
         "Ungültige Stadtdaten.",
-        "Datos de ciudad no válidos."
+        "Datos de ciudad no válidos.",
+        "Data kota tidak valid.",
+        "ข้อมูล\u001aเมือง\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "77": [
         "Invalid trophy data.",
@@ -613,7 +765,9 @@
         "트로피 보상 정보가 올바르지 않습니다.",
         "Données de récompenses de trophée incorrectes.",
         "Ungültige Trophäendaten.",
-        "Datos de trofeo no válidos."
+        "Datos de trofeo no válidos.",
+        "Data trofi tidak valid.",
+        "ข้อมูล\u001aถ้วยรางวัล\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "78": [
         "Invalid user data.",
@@ -621,7 +775,9 @@
         "유저 정보 업데이트 정보가 올바르지 않습니다.",
         "Données utilisateur incorrectes.",
         "Ungültige Nutzerdaten.",
-        "Datos de usuario no válidos."
+        "Datos de usuario no válidos.",
+        "Data pemain tidak valid.",
+        "ข้อมูล\u001aผู้ใช้\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "79": [
         "Invalid switch update status.",
@@ -629,7 +785,9 @@
         "스위치 업데이트 정보가 올바르지 않습니다.",
         "Données de mise à jour du bouton incorrectes",
         "Ungültiger Switch-Update-Status.",
-        "Estado de actualización switch no válido."
+        "Estado de actualización switch no válido.",
+        "Invalid switch update status.",
+        "ข้อ\u001aมููล\u001aอัพเดท\u001aส\u001aวิ\u001aตซ์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "80": [
         "Failed to retrieve player name.",
@@ -637,7 +795,9 @@
         "닉네임을 가져올 수 없습니다.",
         "Impossible de récupérer le nom du joueur.",
         "Name des Spielers konnte nicht abgerufen werden.",
-        "Fallo al recuperar el nombre del jugador."
+        "Fallo al recuperar el nombre del jugador.",
+        "Gagal memperoleh nama pemain.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aชื่อ\u001aผู้\u001aเล่น\u001aได้\u001a"
     ],
     "81": [
         "You can change your name only once every two weeks.",
@@ -645,7 +805,9 @@
         "변경 시 14일 동안 다시 변경할 수 없습니다.",
         "Vous pouvez changer votre nom une fois toutes les deux semaines.",
         "Du kannst deinen Namen nur einmal alle zwei Wochen ändern.",
-        "Solo puedes cambiar tu nombre una vez cada dos semanas."
+        "Solo puedes cambiar tu nombre una vez cada dos semanas.",
+        "You can change your name only once every two weeks.",
+        "ใน\u001aการ\u001aเปลี่ยน\u001aชื่อ\u001aแต่ละครั้ง\u001aจะ\u001aต้อง\u001aเว้น\u001aช่วง\u001aเป็นเวลา\u001a \u001a2\u001a \u001aสัปดาห์\u001a"
     ],
     "82": [
         "Failed to retrieve mission data.",
@@ -653,7 +815,9 @@
         "미션 정보를 가져올 수 없습니다.",
         "Impossible de récupérer les données de mission.",
         "Die Missionsdaten konnten nicht abgerufen werden.",
-        "Fallo al recuperar los datos de la misión."
+        "Fallo al recuperar los datos de la misión.",
+        "Gagal memperoleh data misi.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aมิชชั่น\u001aได้\u001a"
     ],
     "83": [
         "Failed to retrieve user ID.",
@@ -661,7 +825,9 @@
         "유저 ID를 가져올 수 없습니다.",
         "Impossible de récupérer l'ID utilisateur.",
         "Die Nutzer-ID konnte nicht abgerufen werden.",
-        "Fallo al recuperar el identificador de usuario."
+        "Fallo al recuperar el identificador de usuario.",
+        "Gagal memperoleh ID pemain.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001a \u001aID\u001a \u001aผู้\u001aใช้ได้\u001a"
     ],
     "84": [
         "Insufficient gil.",
@@ -669,7 +835,9 @@
         "길이 부족합니다.",
         "Gils insuffisants.",
         "Nicht genug Gil.",
-        "Guiles insuficientes."
+        "Guiles insuficientes.",
+        "Gil tidak cukup.",
+        "Gil\u001a \u001aไม่\u001aเพียงพอ\u001a"
     ],
     "85": [
         "You do not have enough.",
@@ -677,7 +845,9 @@
         "보유 수량이 부족합니다.",
         "Vous n'en avez pas assez.",
         "Du hast nicht genug.",
-        "No tienes suficientes."
+        "No tienes suficientes.",
+        "You do not have enough.",
+        "จำนวน\u001aของ\u001aที่\u001aถือครอง\u001aมี\u001aไม่\u001aพอ\u001a"
     ],
     "86": [
         "No leader included.",
@@ -685,7 +855,9 @@
         "리더가 포함되어 있지 않습니다.",
         "Aucun chef de groupe inclu.",
         "Kein Anführer einbezogen.",
-        "Sin líder incluido."
+        "Sin líder incluido.",
+        "Leader tidak disertakan dalam tim.",
+        "ไม่\u001aมี\u001aผู้นำ\u001aรวม\u001aอยู่\u001aด้วย\u001a"
     ],
     "87": [
         "Insufficient LVL for class up.",
@@ -693,7 +865,9 @@
         "레벨이 낮아 클래스 UP을 할 수 없습니다.",
         "Niv. insuffisant pour monter de classe.",
         "Stufe nicht ausreichend für den Klassenanstieg.",
-        "Nivel insuficiente para subir de clase."
+        "Nivel insuficiente para subir de clase.",
+        "Insufficient LVL for class up.",
+        "Lv\u001a.\u001a \u001aสำหรับ\u001aการ\u001aเลื่อน\u001a \u001aClass\u001a \u001aยังมี\u001aไม่\u001aพอ\u001a"
     ],
     "88": [
         "Insufficient material units for class up.",
@@ -701,7 +875,9 @@
         "클래스 UP 재료(유닛) 가 부족합니다.",
         "Matériaux (unité) insuffisants pour monter de classe.",
         "Nicht genug Materialeinheiten für den Klassenanstieg.",
-        "Unidades de material insuficientes para subir de clase."
+        "Unidades de material insuficientes para subir de clase.",
+        "Insufficient material units for class up.",
+        "ยู\u001aนิ\u001aท\u001aวัตถุดิบ\u001aสำหรับ\u001aการ\u001aเลื่อน\u001a \u001aClass\u001a \u001aยังมี\u001aไม่\u001aพอ\u001a"
     ],
     "89": [
         "Insufficient material items for class up.",
@@ -709,7 +885,9 @@
         "클래스 UP 재료(아이템) 가 부족합니다.",
         "Matériaux (objet) insuffisants pour monter de classe.",
         "Nicht genug Materialgegenstände für den Klassenanstieg.",
-        "Objetos de material insuficientes para subir de clase."
+        "Objetos de material insuficientes para subir de clase.",
+        "Insufficient material items for class up.",
+        "ไอเทม\u001aวัตถุดิบ\u001aสำหรับ\u001aการ\u001aเลื่อน\u001a \u001aClass\u001a \u001aยังมี\u001aไม่\u001aพอ\u001a"
     ],
     "90": [
         "Maximum rarity already achieved.",
@@ -717,7 +895,9 @@
         "레어도가 최대치에 달했습니다.",
         "Vous êtes déjà au niveau de rareté maximum.",
         "Das Seltenheitsmaximum wurde bereits erreicht.",
-        "Rareza máxima ya conseguida."
+        "Rareza máxima ya conseguida.",
+        "Tingkat kelangkaan maksimum telah tercapai.",
+        "ไป\u001aถึง\u001aค่า\u001a \u001aRare\u001a \u001aสูงสุด\u001aแล้ว\u001a"
     ],
     "91": [
         "Insufficient esper skill points.",
@@ -725,7 +905,9 @@
         "환수 스킬 포인트가 부족합니다.",
         "PC de chimère insuffisants.",
         "Unzureichende Esper-Talentpunkte.",
-        "Puntos de habilidad esper insuficientes."
+        "Puntos de habilidad esper insuficientes.",
+        "Poin skill esper tidak cukup.",
+        "คะแนน\u001aทักษะ\u001a \u001aEsper\u001a \u001aไม่\u001aเพียงพอ\u001a"
     ],
     "92": [
         "Insufficient materials.",
@@ -733,7 +915,9 @@
         "보유하지 않은 재료가 있습니다.",
         "Matériaux insuffisants.",
         "Nicht genug Materialien.",
-        "Materiales insuficientes."
+        "Materiales insuficientes.",
+        "Material tidak cukup.",
+        "วัตถุดิบ\u001aไม่\u001aเพียงพอ\u001a"
     ],
     "93": [
         "Please log in again.",
@@ -741,7 +925,9 @@
         "다시 로그인해주십시오.",
         "Veuillez vous reconnecter.",
         "Bitte logge dich erneut ein.",
-        "Vuelve a iniciar sesión."
+        "Vuelve a iniciar sesión.",
+        "Silakan login sekali lagi.",
+        "กรุณา\u001aล็อกอิน\u001aใหม่\u001a"
     ],
     "94": [
         "You have already removed this friend.<br>Returning to title to retrieve newest data.",
@@ -749,7 +935,9 @@
         "이미 친구 등록이 해제되었습니다.",
         "Vous avez déjà retiré cet ami.<br>Retour à l'écran-titre pour récupérer les nouvelles données.",
         "Du hast diesen Freund bereits entfernt.<br> Kehre zum Titelbildschirm zurück, um die aktuellsten Informationen abzurufen.",
-        "Ya has eliminado este amigo.<br>Se te devolverá a la pantalla de título para recuperar los datos más recientes."
+        "Ya has eliminado este amigo.<br>Se te devolverá a la pantalla de título para recuperar los datos más recientes.",
+        "You have already removed this friend.<br>Returning to title to retrieve newest data.",
+        "คุณ\u001aปลด\u001aเพื่อ\u001aราย\u001aนี้\u001aออกจาก\u001aรายการ\u001aบันทึก\u001aแล้ว\u001a<br>\u001aโปรด\u001aกลับ\u001aไป\u001aที่\u001aหน้าจอ\u001aไตเติ้ล\u001a \u001aเพื่อ\u001aปรับ\u001aให้\u001aข้อมูล\u001aเป็น\u001aปัจจุบัน\u001a"
     ],
     "95": [
         "Insufficient items.",
@@ -757,7 +945,9 @@
         "보유하지 않은 아이템이 있습니다.",
         "Objets insuffisants.",
         "Nicht genug Gegenstände.",
-        "Objetos insuficientes."
+        "Objetos insuficientes.",
+        "Item tidak cukup.",
+        "ไอเทม\u001aไม่\u001aเพียงพอ\u001a"
     ],
     "96": [
         "Insufficient friend points.",
@@ -765,7 +955,9 @@
         "인연 포인트가 부족합니다.",
         "Points d'amitié insuffisants.",
         "Nicht genug Freundespunkte.",
-        "Puntos de amistad insuficientes."
+        "Puntos de amistad insuficientes.",
+        "Poin teman tidak cukup.",
+        "Friend\u001a \u001apt\u001a.\u001a \u001aไม่\u001aเพียงพอ\u001a"
     ],
     "97": [
         "Insufficient lapis.",
@@ -773,7 +965,9 @@
         "라피스가 부족합니다.",
         "Lapis insuffisants.",
         "Nicht genug Lapis.",
-        "Lapis insuficientes."
+        "Lapis insuficientes.",
+        "Lapis tidak cukup.",
+        "Lapis\u001a \u001aไม่\u001aเพียงพอ\u001a"
     ],
     "98": [
         "You are unable to purchase lapis because doing so will make you exceed your lapis capacity.",
@@ -781,7 +975,9 @@
         "라피스 보유 한도를 초과하게 되므로 구매할 수 없습니다.",
         "Transaction impossible. Vous allez dépasser le maximum de lapis autorisés.",
         "Du kannst keinen weiteren Lapis kaufen, da du sonst deine mögliche Lapis-Kapazität überschreitest.",
-        "No puedes comprar lapis porque al hacerlo excederías tu capacidad de lapis."
+        "No puedes comprar lapis porque al hacerlo excederías tu capacidad de lapis.",
+        "You are unable to purchase lapis because doing so will make you exceed your lapis capacity.",
+        "You\u001a \u001aare\u001a \u001aunable\u001a \u001ato\u001a \u001apurchase\u001a \u001alapis\u001a \u001abecause\u001a \u001adoing\u001a \u001aso\u001a \u001awill\u001a \u001amake\u001a \u001ayou\u001a \u001aexceed\u001a \u001ayour\u001a \u001alapis\u001a \u001acapacity\u001a.\u001a"
     ],
     "99": [
         "You are unable to do the exchange because it will make you exceed your gil capacity.",
@@ -789,7 +985,9 @@
         "길 보유 한도를 초과하게 되므로 교환할 수 없습니다.",
         "Transaction impossible. Vous allez dépasser le maximum de gils autorisé.",
         "Du kannst diesen Tausch nicht durchführen, da du sonst deine Gil-Kapazität überschreitest.",
-        "No puedes hacer el intercambio porque superarías tu capacidad de guiles al hacerlo."
+        "No puedes hacer el intercambio porque superarías tu capacidad de guiles al hacerlo.",
+        "You are unable to do the exchange because it will make you exceed your gil capacity.",
+        "You\u001a \u001aare\u001a \u001aunable\u001a \u001ato\u001a \u001ado\u001a \u001athe\u001a \u001aexchange\u001a \u001abecause\u001a \u001ait\u001a \u001awill\u001a \u001amake\u001a \u001ayou\u001a \u001aexceed\u001a \u001ayour\u001a \u001agil\u001a \u001acapacity\u001a.\u001a"
     ],
     "100": [
         "You are unable to purchase lapis because doing so would make you exceed your purchase limit for this month.",
@@ -797,7 +995,9 @@
         "이번 달 구매 한도액을 초과하게 되므로<br>구매하지 못했습니다.",
         "Transaction impossible. <br>Vous allez dépasser la limite d'achat de lapis mensuelle.",
         "Du kannst keine weiteren Lapis kaufen, da du sonst dein monatliches Kauflimit überschreitest.",
-        "No puedes comprar lapis porque superarías el límite de compra de este mes al hacerlo."
+        "No puedes comprar lapis porque superarías el límite de compra de este mes al hacerlo.",
+        "Kamu tidak dapat membeli lapis karena kamu akan melebihi batas pembelian lapis bulan ini.",
+        "ไม่\u001aสามารถ\u001aซื้อ\u001a \u001aLapis\u001a \u001aได้\u001a \u001aเนื่องจาก\u001aจะ\u001aทำให้\u001aเกิน\u001aวงเงิน\u001aที่\u001aใช้ได้\u001a"
     ],
     "101": [
         "You have entered a prohibited word.",
@@ -805,7 +1005,9 @@
         "사용할 수 없는 문자가 포함되어 있습니다.",
         "Présence d'un ou plusieurs mots non autorisés.",
         "Du hast ein verbotenes Wort eingegeben.",
-        "Has introducido una palabra prohibida."
+        "Has introducido una palabra prohibida.",
+        "You have entered a prohibited word.",
+        "You\u001a \u001ahave\u001a \u001aentered\u001a \u001aa\u001a \u001aprohibited\u001a \u001aword\u001a.\u001a"
     ],
     "102": [
         "You cannot recover any more.",
@@ -813,7 +1015,9 @@
         "더 회복할 수 없습니다.",
         "Impossible de soigner davantage.",
         "Du kannst dich nicht mehr heilen.",
-        "No puedes recuperarte más."
+        "No puedes recuperarte más.",
+        "You cannot recover any more.",
+        "You\u001a \u001acannot\u001a \u001arecover\u001a \u001aany\u001a \u001amore\u001a.\u001a"
     ],
     "103": [
         "You have entered an incorrect transfer code or password.",
@@ -821,7 +1025,9 @@
         "데이터 이전 코드 또는 패스워드가 올바르지 않습니다.",
         "Le code de transfert ou le mot de passe est incorrect.",
         "Du hast einen falschen Übertragungscode oder ein falsches Passwort eingegeben.",
-        "Has introducido un código de transferencia o contraseña erróneos."
+        "Has introducido un código de transferencia o contraseña erróneos.",
+        "You have entered an incorrect transfer code or password.",
+        "You\u001a \u001ahave\u001a \u001aentered\u001a \u001aan\u001a \u001aincorrect\u001a \u001atransfer\u001a \u001acode\u001a \u001aor\u001a \u001apassword\u001a.\u001a"
     ],
     "104": [
         "You cannot transfer data to the same device.",
@@ -829,7 +1035,9 @@
         "동일한 단말기에서는 데이터 이전을 할 수 없습니다.",
         "Impossible d'effectuer le transfert des données sur le même appareil.",
         "Eine Übertragung von Daten auf dasselbe Gerät ist nicht möglich.",
-        "No puedes transferir datos al mismo dispositivo."
+        "No puedes transferir datos al mismo dispositivo.",
+        "You cannot transfer data to the same device.",
+        "You\u001a \u001acannot\u001a \u001atransfer\u001a \u001adata\u001a \u001ato\u001a \u001athe\u001a \u001asame\u001a \u001adevice\u001a.\u001a"
     ],
     "105": [
         "You have entered an expired transfer code or password.",
@@ -837,7 +1045,9 @@
         "데이터 이전 코드 또는 패스워드의 유효기간이 지났습니다.",
         "La date limite du code de transfert ou du mot de passe entré est dépassée.",
         "Du hast einen abgelaufenen Übertragungscode oder ein abgelaufenes Passwort eingegeben.",
-        "Has introducido un código de transferencia o contraseña ya caducado."
+        "Has introducido un código de transferencia o contraseña ya caducado.",
+        "You have entered an expired transfer code or password.",
+        "You\u001a \u001ahave\u001a \u001aentered\u001a \u001aan\u001a \u001aexpired\u001a \u001atransfer\u001a \u001acode\u001a \u001aor\u001a \u001apassword\u001a.\u001a"
     ],
     "106": [
         "You have already received this.",
@@ -845,7 +1055,9 @@
         "이미 수령했습니다.",
         "Déjà reçu.",
         "Du hast dies schon erhalten.",
-        "Ya has recibido esto."
+        "Ya has recibido esto.",
+        "You have already received this.",
+        "You\u001a \u001ahave\u001a \u001aalready\u001a \u001areceived\u001a \u001athis\u001a.\u001a"
     ],
     "107": [
         "Maximum received already.",
@@ -853,7 +1065,9 @@
         "더 받을 수 없습니다.",
         "Limite de réception atteinte.",
         "Maximum bereits erhalten.",
-        "Ya has recibido el máximo."
+        "Ya has recibido el máximo.",
+        "Maximum received already.",
+        "Maximum\u001a \u001areceived\u001a \u001aalready\u001a.\u001a"
     ],
     "108": [
         "Maximum number of failures exceeded. No more tries are possible today.",
@@ -861,7 +1075,9 @@
         "일정 횟수만큼 실패하여 오늘은 더 시도할 수 없습니다.",
         "Vous avez dépassé le nombre d'essais maxi. pour aujourd'hui. Retentez demain.",
         "Das Maximum an Fehlversuchen wurde erreicht. Du kannst es heute nicht noch einmal versuchen.",
-        "Has excedido el número máximo de fallos. Hoy ya no puedes volver a intentarlo."
+        "Has excedido el número máximo de fallos. Hoy ya no puedes volver a intentarlo.",
+        "Maximum number of failures exceeded. No more tries are possible today.",
+        "Maximum\u001a \u001anumber\u001a \u001aof\u001a \u001afailures\u001a \u001aexceeded\u001a.\u001a \u001aNo\u001a \u001amore\u001a \u001atries\u001a \u001aare\u001a \u001apossible\u001a \u001atoday\u001a.\u001a"
     ],
     "109": [
         "Your code cannot be used.",
@@ -869,7 +1085,9 @@
         "해당 코드는 사용할 수 없습니다.",
         "Impossible d'utiliser le code indiqué.",
         "Dein Code kann nicht benutzt werden.",
-        "Tu código no puede utilizarse."
+        "Tu código no puede utilizarse.",
+        "Your code cannot be used.",
+        "Your\u001a \u001acode\u001a \u001acannot\u001a \u001abe\u001a \u001aused\u001a.\u001a"
     ],
     "110": [
         "Invalid crafting data.",
@@ -877,7 +1095,9 @@
         "제작 정보가 올바르지 않습니다.",
         "Données d'artisanat incorrectes.",
         "Ungültige Herstellungsdaten.",
-        "Datos de elaboración no válidos."
+        "Datos de elaboración no válidos.",
+        "Invalid crafting data.",
+        "Invalid\u001a \u001acrafting\u001a \u001adata\u001a.\u001a"
     ],
     "111": [
         "Please re-specify the Colosseum data.",
@@ -885,7 +1105,9 @@
         "투기장 정보를 다시 지정하십시오.",
         "Veuillez réentrer les données du Colisée.",
         "Bitte lege die Daten für das Kolosseum erneut fest.",
-        "Por favor, vuelve a especificar los datos del Coliseo."
+        "Por favor, vuelve a especificar los datos del Coliseo.",
+        "Please re-specify the Colosseum data.",
+        "Please\u001a \u001are-specify\u001a \u001athe\u001a \u001aColosseum\u001a \u001adata\u001a.\u001a"
     ],
     "112": [
         "Battle has already ended.",
@@ -893,7 +1115,9 @@
         "이미 종료했습니다.",
         "Combat déjà terminé.",
         "Der Kampf ist bereits beendet.",
-        "La batalla ya ha terminado."
+        "La batalla ya ha terminado.",
+        "Battle telah berakhir.",
+        "การต่อสู้\u001aได้\u001aจบ\u001aลง\u001aแล้ว\u001a"
     ],
     "113": [
         "Invalid equipment data.",
@@ -901,7 +1125,9 @@
         "장비 정보가 올바르지 않습니다.",
         "Données d'équipement incorrectes.",
         "Ungültige Ausrüstungsdaten.",
-        "Datos de equipo no válidos."
+        "Datos de equipo no válidos.",
+        "Data perlengkapan tidak valid.",
+        "ข้อมูล\u001aอุปกรณ์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "114": [
         "Please log in again.",
@@ -909,7 +1135,9 @@
         "다시 로그인해주십시오.",
         "Veuillez vous reconnecter.",
         "Bitte logge dich erneut ein.",
-        "Vuelve a iniciar sesión."
+        "Vuelve a iniciar sesión.",
+        "Silakan login sekali lagi.",
+        "กรุณา\u001aล็อกอิน\u001aใหม่\u001a"
     ],
     "115": [
         "Currently processing.",
@@ -917,7 +1145,9 @@
         "현재 처리 중입니다.",
         "Procédure en cours.",
         "Wird zurzeit bearbeitet.",
-        "Procesando."
+        "Procesando.",
+        "Currently processing.",
+        "Currently\u001a \u001aprocessing\u001a.\u001a"
     ],
     "116": [
         "Unusable serial code.",
@@ -925,7 +1155,9 @@
         "시리얼 코드를 이용하실 수 없습니다.",
         "Impossible d'utiliser le code.",
         "Unbrauchbare Seriennummer.",
-        "Código de serie inutilizable."
+        "Código de serie inutilizable.",
+        "Unusable serial code.",
+        "Unusable\u001a \u001aserial\u001a \u001acode\u001a.\u001a"
     ],
     "117": [
         "Invalid master version. The app will now close.",
@@ -933,7 +1165,9 @@
         "마스터 버전이 올바르지 않습니다. 앱을 종료합니다.",
         "Version maître incorrecte. L'application va se fermer.",
         "Ungültige Masterversion. Die App wird nun geschlossen.",
-        "Versión maestra no válida. La aplicación se cerrará."
+        "Versión maestra no válida. La aplicación se cerrará.",
+        "Invalid master version. The app will now close.",
+        "Invalid\u001a \u001amaster\u001a \u001aversion\u001a.\u001a \u001aThe\u001a \u001aapp\u001a \u001awill\u001a \u001anow\u001a \u001aclose\u001a.\u001a"
     ],
     "118": [
         "Invalid gil total.",
@@ -941,7 +1175,9 @@
         "길의 총 개수가 올바르지 않습니다.",
         "Nombre total de gils incorrect.",
         "Ungültige Gil-Anzahl.",
-        "Total de guiles no válido."
+        "Total de guiles no válido.",
+        "Total gil tidak valid.",
+        "จำนวน\u001a \u001aGil\u001a \u001aทั้งหมด\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "119": [
         "Invalid gift data.",
@@ -949,7 +1185,9 @@
         "선물 정보가 올바르지 않습니다.",
         "Données des gils incorrectes.",
         "Ungültige Geschenkdaten.",
-        "Datos de regalo no válidos."
+        "Datos de regalo no válidos.",
+        "Data kado tidak valid.",
+        "ข้อมูล\u001aของขวัญ\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "120": [
         "Claim deadline exceeded.",
@@ -957,7 +1195,9 @@
         "수령 기한이 지난 선물이 있습니다.",
         "Date limite de réception dépassée.",
         "Die Frist für die Beanspruchung ist abgelaufen.",
-        "Ya ha pasado la fecha límite de recolección."
+        "Ya ha pasado la fecha límite de recolección.",
+        "Batas waktu penerimaan telah berlalu.",
+        "เกิน\u001aระยะเวลา\u001aที่\u001aสามารถ\u001aรับได้\u001a"
     ],
     "121": [
         "Claim deadline exceeded.",
@@ -965,7 +1205,9 @@
         "수령 기한이 지난 선물이 있습니다.",
         "Date limite de réception dépassée.",
         "Die Frist für die Beanspruchung ist abgelaufen.",
-        "Ya ha pasado la fecha límite de recolección."
+        "Ya ha pasado la fecha límite de recolección.",
+        "Batas waktu penerimaan telah berlalu.",
+        "เกิน\u001aระยะเวลา\u001aที่\u001aสามารถ\u001aรับได้\u001a"
     ],
     "122": [
         "Invalid equipment data.",
@@ -973,7 +1215,9 @@
         "장비 아이템 정보가 올바르지 않습니다.",
         "Données équipement incorrectes.",
         "Ungültige Ausrüstungsdaten.",
-        "Datos de equipo no válidos."
+        "Datos de equipo no válidos.",
+        "Data perlengkapan tidak valid.",
+        "ข้อมูล\u001aอุปกรณ์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "123": [
         "Invalid friend data.",
@@ -981,7 +1225,9 @@
         "친구 정보가 올바르지 않습니다.",
         "Données ami incorrectes.",
         "Ungültige Freundesdaten.",
-        "Datos de amigo no válidos."
+        "Datos de amigo no válidos.",
+        "Data teman tidak valid.",
+        "ข้อมูล\u001aเพื่อน\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "124": [
         "This user has reached their friend request capacity.",
@@ -989,7 +1235,9 @@
         "상대방의 친구 신청 수가 가득 찼습니다.",
         "Ce joueur a atteint le nombre maximum de demandes d'ami.",
         "Dieser Nutzer hat sein Limit für Freundschaftsanfragen erreicht.",
-        "Este usuario ya ha alcanzado el máximo de solicitudes de amigos."
+        "Este usuario ya ha alcanzado el máximo de solicitudes de amigos.",
+        "Batas permintaan teman untuk pemain ini telah tercapai.",
+        "ผู้\u001aเล่น\u001aคน\u001aนี้\u001aมี\u001aจำนวน\u001aคำขอ\u001aเป็นเพื่อน\u001aเต็ม\u001aที่แล้ว\u001a"
     ],
     "125": [
         "This user has reached their friend capacity.",
@@ -997,7 +1245,9 @@
         "상대방의 친구 수가 가득 찼습니다.",
         "Ce joueur a atteint le nombre maximum d'ami.",
         "Dieser Nutzer hat das Limit für seine Anzahl Freunde erreicht.",
-        "Este usuario ya ha alcanzado el máximo de amigos."
+        "Este usuario ya ha alcanzado el máximo de amigos.",
+        "Batas teman untuk pemain ini telah tercapai.",
+        "ผู้\u001aเล่น\u001aคน\u001aนี้\u001aมี\u001aจำนวน\u001aเพื่อน\u001aเต็ม\u001aที่แล้ว\u001a"
     ],
     "126": [
         "Friend capacity reached.",
@@ -1005,7 +1255,9 @@
         "친구 수가 가득 찼습니다.",
         "Nombre maximum d'amis atteint.",
         "Freundeslimit erreicht.",
-        "Has alcanzado el máximo de amigos."
+        "Has alcanzado el máximo de amigos.",
+        "Batas teman telah tercapai.",
+        "มี\u001aจำนวน\u001aเพื่อน\u001aเต็ม\u001aที่แล้ว\u001a"
     ],
     "127": [
         "Invalid mission.",
@@ -1013,7 +1265,9 @@
         "미션이 올바르지 않습니다.",
         "Mission incorrecte.",
         "Ungültige Mission.",
-        "Misión no válida."
+        "Misión no válida.",
+        "Misi tidak valid.",
+        "ภารกิจ\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "128": [
         "This has already ended.",
@@ -1021,7 +1275,9 @@
         "이미 종료했습니다.",
         "Déjà terminée.",
         "Bereits beendet.",
-        "Esto ya ha terminado."
+        "Esto ya ha terminado.",
+        "Ini telah berakhir.",
+        "จบ\u001aลง\u001aแล้ว\u001a"
     ],
     "129": [
         "Mission start conditions not met.",
@@ -1029,7 +1285,9 @@
         "미션 시작 조건이 일치하지 않습니다.",
         "Impossible de commencer la mission car vous ne remplissez pas toutes les conditions.",
         "Die Bedingungen für den Start der Mission sind nicht erfüllt.",
-        "No cumples los requisitos de inicio de misión."
+        "No cumples los requisitos de inicio de misión.",
+        "Ketentuan untuk memulai misi belum terpenuhi.",
+        "ยัง\u001aไม่\u001aครบ\u001aตามเงื่อนไข\u001aเพื่อ\u001aเริ่ม\u001aภารกิจ\u001a"
     ],
     "130": [
         "You have messages that cannot be received.",
@@ -1037,7 +1295,9 @@
         "받을 수 없는 메시지가 있습니다.",
         "Présence de messages impossibles à récupérer.",
         "Du hast Nachrichten, auf die nicht zugegriffen werden kann.",
-        "Tienes mensajes que no se pueden recibir."
+        "Tienes mensajes que no se pueden recibir.",
+        "You have messages that cannot be received.",
+        "You\u001a \u001ahave\u001a \u001amessages\u001a \u001athat\u001a \u001acannot\u001a \u001abe\u001a \u001areceived\u001a.\u001a"
     ],
     "131": [
         "Invalid town data.",
@@ -1045,7 +1305,9 @@
         "마을 정보가 올바르지 않습니다.",
         "Données de la ville incorrectes.",
         "Ungültige Stadtdaten.",
-        "Datos de ciudad no válidos."
+        "Datos de ciudad no válidos.",
+        "Data kota tidak valid.",
+        "ข้อมูล\u001aเมือง\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "132": [
         "This friend request has already been canceled.",
@@ -1053,7 +1315,9 @@
         "이미 친구 신청이 취소되었습니다.",
         "Demande d'ami déjà annulée.",
         "Diese Freundschaftsanfrage wurde bereits widerrufen.",
-        "Esta solicitud de amigos ya ha sido cancelada."
+        "Esta solicitud de amigos ya ha sido cancelada.",
+        "Permintaan teman ini telah dibatalkan.",
+        "ได้\u001aยกเลิก\u001aการ\u001aขอ\u001aเป็นเพื่อน\u001aแล้ว\u001a"
     ],
     "133": [
         "You are already friends.",
@@ -1061,7 +1325,9 @@
         "이미 친구로 등록되어 있습니다.",
         "Vous êtes déjà amis.",
         "Ihr seid bereits befreundet.",
-        "Ya sois amigos."
+        "Ya sois amigos.",
+        "Kamu telah menjadi teman.",
+        "ทั้งสองฝ่าย\u001aลงทะเบียน\u001aเป็นเพื่อน\u001aกัน\u001aอยู่แล้ว\u001a"
     ],
     "134": [
         "Invalid diamond count.",
@@ -1069,7 +1335,9 @@
         "다이아 수량이 올바르지 않습니다.",
         "Nombre de diamants incorrect",
         "Ungültige Anzahl Diamanten.",
-        "Recuento de diamantes no válido."
+        "Recuento de diamantes no válido.",
+        "Invalid diamond count.",
+        "Invalid\u001a \u001adiamond\u001a \u001acount\u001a.\u001a"
     ],
     "135": [
         "You cannot increase your capacity any further.",
@@ -1077,7 +1345,9 @@
         "더 확장할 수 없습니다.",
         "Impossible d'augmenter davantage la quantité disponible.",
         "Du kannst deine Kapazitäten nicht weiter ausweiten.",
-        "No puedes aumentar más tu capacidad."
+        "No puedes aumentar más tu capacidad.",
+        "You cannot increase your capacity any further.",
+        "You\u001a \u001acannot\u001a \u001aincrease\u001a \u001ayour\u001a \u001acapacity\u001a \u001aany\u001a \u001afurther\u001a.\u001a"
     ],
     "136": [
         "Please enter the correct information.",
@@ -1085,7 +1355,9 @@
         "입력한 값이 올바르지 않습니다. 정확한 값을 다시 입력해주십시오.",
         "Veuillez indiquer une valeur correcte.",
         "Bitte gib die richtige Information ein.",
-        "Por favor, introduce la información correcta."
+        "Por favor, introduce la información correcta.",
+        "Please enter the correct information.",
+        "Please\u001a \u001aenter\u001a \u001athe\u001a \u001acorrect\u001a \u001ainformation\u001a.\u001a"
     ],
     "137": [
         "Invalid item data.",
@@ -1093,7 +1365,9 @@
         "아이템 정보가 올바르지 않습니다.",
         "Données de l'objet incorrectes.",
         "Ungültige Gegenstandsdaten.",
-        "Datos de objeto no válidos."
+        "Datos de objeto no válidos.",
+        "Data item tidak valid.",
+        "ข้อมูล\u001aไอเทม\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "138": [
         "This has already started.",
@@ -1101,7 +1375,9 @@
         "이미 시작되었습니다.",
         "Déjà démarré.",
         "Dies hat bereits begonnen.",
-        "Esto ya ha empezado."
+        "Esto ya ha empezado.",
+        "This has already started.",
+        "This\u001a \u001ahas\u001a \u001aalready\u001a \u001astarted\u001a.\u001a"
     ],
     "139": [
         "Invalid password.",
@@ -1109,7 +1385,9 @@
         "패스워드가 올바르지 않습니다.",
         "Mot de passe incorrect.",
         "Ungültiges Passwort.",
-        "Contraseña no válida."
+        "Contraseña no válida.",
+        "Kata sandi tidak valid.",
+        "รหัสผ่าน\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "140": [
         "You have already received this.",
@@ -1117,7 +1395,9 @@
         "이미 수령했습니다.",
         "Déjà reçu.",
         "Du hast dies schon erhalten.",
-        "Ya has recibido esto."
+        "Ya has recibido esto.",
+        "You have already received this.",
+        "You\u001a \u001ahave\u001a \u001aalready\u001a \u001areceived\u001a \u001athis\u001a.\u001a"
     ],
     "141": [
         "Invalid chest data.",
@@ -1125,7 +1405,9 @@
         "금고 정보가 올바르지 않습니다.",
         "Données coffre incorrectes.",
         "Ungültige Truhendaten.",
-        "Datos de cofre no válidos."
+        "Datos de cofre no válidos.",
+        "Invalid chest data.",
+        "Invalid\u001a \u001achest\u001a \u001adata\u001a.\u001a"
     ],
     "142": [
         "Invalid store data.",
@@ -1133,7 +1415,9 @@
         "스토어 정보가 올바르지 않습니다.",
         "Données boutique incorrectes.",
         "Ungültige Store-Daten.",
-        "Datos de tienda no válidos."
+        "Datos de tienda no válidos.",
+        "Invalid store data.",
+        "Invalid\u001a \u001astore\u001a \u001adata\u001a.\u001a"
     ],
     "143": [
         "Invalid data detected.",
@@ -1141,7 +1425,9 @@
         "잘못된 정보를 감지했습니다.",
         "Données incorrectes détectées.",
         "Ungültige Daten wurden erkannt.",
-        "Se han detectado datos no válidos."
+        "Se han detectado datos no válidos.",
+        "Invalid data detected.",
+        "Invalid\u001a \u001adata\u001a \u001adetected\u001a.\u001a"
     ],
     "144": [
         "There is a purchase waiting for approval.",
@@ -1149,7 +1435,9 @@
         "승인 대기 중인 항목이 있습니다.",
         "Présence de transaction(s) en attente de finalisation.",
         "Ein Einkauf wartet auf Bestätigung.",
-        "Hay una compra a la espera de aprobación."
+        "Hay una compra a la espera de aprobación.",
+        "There is a purchase waiting for approval.",
+        "There\u001a \u001ais\u001a \u001aa\u001a \u001apurchase\u001a \u001awaiting\u001a \u001afor\u001a \u001aapproval\u001a.\u001a"
     ],
     "145": [
         "Invalid summoning limit.",
@@ -1157,7 +1445,9 @@
         "횟수제한 오류입니다.",
         "Limite d'invocation incorrecte.",
         "Ungültiges Beschwörungslimit.",
-        "Límite de invocaciones no válido."
+        "Límite de invocaciones no válido.",
+        "Invalid summoning limit.",
+        "Invalid\u001a \u001asummoning\u001a \u001alimit\u001a.\u001a"
     ],
     "146": [
         "Please try again.",
@@ -1165,7 +1455,9 @@
         "다시 시도해 주십시오.",
         "Veuillez recommencer.",
         "Bitte versuche es erneut.",
-        "Vuelve a intentarlo."
+        "Vuelve a intentarlo.",
+        "Silakan coba sekali lagi.",
+        "กรุณา\u001aลอง\u001aใหม่\u001aอีกครั้ง\u001a"
     ],
     "147": [
         "The sale was canceled because some favorited units were included. The app will now close.",
@@ -1173,7 +1465,9 @@
         "즐겨찾기 유닛을 판매할 수 없습니다.<br>앱을 일단 종료합니다.",
         "La transaction a été annulée car vous avez essayé de vendre une unité présente dans vos favoris. <br>L'application va se fermer.",
         "Der Kauf wurde abgebrochen, da bevorzugte Einheiten mit enthalten waren. Die App wird nun geschlossen.",
-        "La venta se ha cancelado porque incluía algunas de las unidades favoritas. La aplicación se cerrará."
+        "La venta se ha cancelado porque incluía algunas de las unidades favoritas. La aplicación se cerrará.",
+        "The sale was canceled because some favorited units were included. The app will now close.",
+        "The\u001a \u001asale\u001a \u001awas\u001a \u001acanceled\u001a \u001abecause\u001a \u001asome\u001a \u001afavorited\u001a \u001aunits\u001a \u001awere\u001a \u001aincluded\u001a.\u001a \u001aThe\u001a \u001aapp\u001a \u001awill\u001a \u001anow\u001a \u001aclose\u001a.\u001a"
     ],
     "148": [
         "The class up was canceled because some favorited units were included as materials. The app will now close.",
@@ -1181,7 +1475,9 @@
         "즐겨찾기 유닛을 클래스 UP 재료로 사용할 수 없습니다.<br>앱을 일단 종료합니다.",
         "La procédure a été annulée car vous avez essayé de vous servir d'une unité présente dans vos favoris comme matériaux pour monter le niveau de votre classe. <br>L'application va se fermer.",
         "Der Klassenanstieg wurde abgebrochen, da als Material bevorzugte Einheiten mit enthalten waren. Die App wird nun geschlossen.",
-        "El subir de clase se ha cancelado porque incluía algunas de las unidades favoritas como materiales. La aplicación se cerrará."
+        "El subir de clase se ha cancelado porque incluía algunas de las unidades favoritas como materiales. La aplicación se cerrará.",
+        "The class up was canceled because some favorited units were included as materials. The app will now close.",
+        "The\u001a \u001aclass\u001a \u001aup\u001a \u001awas\u001a \u001acanceled\u001a \u001abecause\u001a \u001asome\u001a \u001afavorited\u001a \u001aunits\u001a \u001awere\u001a \u001aincluded\u001a \u001aas\u001a \u001amaterials\u001a.\u001a \u001aThe\u001a \u001aapp\u001a \u001awill\u001a \u001anow\u001a \u001aclose\u001a.\u001a"
     ],
     "149": [
         "The fusion was canceled because some favorited units were included. The app will now close.",
@@ -1189,7 +1485,9 @@
         "즐겨찾기 유닛을 합성할 수 없습니다.<br>앱을 일단 종료합니다.",
         "La procédure a été annulée car vous avez essayé faire fusionner une unité présente dans vos favoris. <br>L'application va se fermer.",
         "Die Fusion wurde abgebrochen, da bevorzugte Einheiten mit enthalten waren. Die App wird nun geschlossen.",
-        "La fusión se ha cancelado porque incluía algunas de las unidades favoritas. La aplicación se cerrará."
+        "La fusión se ha cancelado porque incluía algunas de las unidades favoritas. La aplicación se cerrará.",
+        "Penggabungan dibatalkan karena unit favorit telah disertakan.<br>App akan ditutup sekarang.",
+        "ยกเลิก\u001aการ\u001aรวม\u001aร่าง\u001aเนื่องจาก\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aตั้ง\u001aเป็น\u001aของโปรด\u001a \u001aแอ\u001aป\u001aจะ\u001aปิด\u001aตัว\u001aลง\u001a"
     ],
     "150": [
         "Purchase already completed.",
@@ -1197,7 +1495,9 @@
         "이미 처리되었습니다.",
         "Transaction déjà terminée.",
         "Der Kauf ist bereits abgeschlossen.",
-        "Compra ya completada."
+        "Compra ya completada.",
+        "Purchase already completed.",
+        "Purchase\u001a \u001aalready\u001a \u001acompleted\u001a.\u001a"
     ],
     "151": [
         "The process was canceled because gil data could not be retrieved properly. The app will now close.",
@@ -1205,7 +1505,9 @@
         "길 정보를 올바르게 가져울 수 없습니다.<br>앱을 일단 종료합니다.",
         "Le procédure a été annulée car une erreur s'est produite lors de la récupération des données des gils.<br>L'application va se fermer.",
         "Der Prozess wurde abgebrochen, da die Gil-Daten nicht richtig abgerufen werden konnten. Die App wird nun geschlossen.",
-        "El proceso se ha cancelado porque no se pudieron recuperar correctamente los datos de guiles. La aplicación se cerrará."
+        "El proceso se ha cancelado porque no se pudieron recuperar correctamente los datos de guiles. La aplicación se cerrará.",
+        "Proses telah dibatalkan karena data tidak dapat diperoleh dengan benar.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aเกิด\u001aปัญหา\u001aใน\u001aการ\u001aโหลด\u001aข้อมูล\u001a \u001aGil\u001a \u001aแอ\u001aป\u001aจะ\u001aปิด\u001aตัว\u001aลง\u001a"
     ],
     "152": [
         "The process was canceled because data could not be retrieved properly. The app will now close.",
@@ -1213,7 +1515,9 @@
         "정보를 올바르게 가져올 수 없습니다.<br>앱을 일단 종료합니다.",
         "Le procédure a été annulée car une erreur s'est produite lors de la récupération des données.<br>L'application va se fermer.",
         "Der Prozess wurde abgebrochen, da Daten nicht richtig abgerufen werden konnten. Die App wird nun geschlossen.",
-        "El proceso se ha cancelado porque los datos no se pudieron recuperar correctamente. La aplicación se cerrará."
+        "El proceso se ha cancelado porque los datos no se pudieron recuperar correctamente. La aplicación se cerrará.",
+        "Proses telah dibatalkan karena data tidak dapat diperoleh dengan benar.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aเกิด\u001aปัญหา\u001aใน\u001aการ\u001aโหลด\u001aข้อมูล\u001a \u001aแอ\u001aป\u001aจะ\u001aปิด\u001aตัว\u001aลง\u001a"
     ],
     "153": [
         "The process was canceled because data could not be retrieved properly. Now returning to the title screen.",
@@ -1221,7 +1525,9 @@
         "정보를 올바르게 가져올 수 없습니다.<br>초기 화면으로 돌아갑니다.",
         "Le procédure a été annulée car une erreur s'est produite lors de la récupération des données.<br>L'application va retourner à l'écran-titre.",
         "Der Prozess wurde abgebrochen, da Daten nicht richtig abgerufen werden konnten. Du kehrst zum Titel zurück.",
-        "El proceso se ha cancelado porque los datos no se pudieron recuperar correctamente. Volverás a la pantalla de título."
+        "El proceso se ha cancelado porque los datos no se pudieron recuperar correctamente. Volverás a la pantalla de título.",
+        "Proses telah dibatalkan karena data tidak dapat diperoleh dengan benar.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aเกิด\u001aปัญหา\u001aใน\u001aการ\u001aโหลด\u001aข้อมูล\u001a \u001aกลับ\u001aไป\u001aสู่\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "154": [
         "Access is forbidden after data transfer.",
@@ -1229,7 +1535,9 @@
         "데이터 이전 처리가 끝난 단말기에서는 접근할 수 없습니다.",
         "Accès interdit après le transfert des données.",
         "Der Zugang ist nach einer Datenübertragung nicht mehr gestattet.",
-        "Acceso prohibido después de la transferencia de datos."
+        "Acceso prohibido después de la transferencia de datos.",
+        "Access is forbidden after data transfer.",
+        "Access\u001a \u001ais\u001a \u001aforbidden\u001a \u001aafter\u001a \u001adata\u001a \u001atransfer\u001a.\u001a"
     ],
     "155": [
         "Your account has been suspended.<br>For details, please contact Customer Support through \"Support - Contact Us\" accessible from the Title Screen.",
@@ -1237,7 +1545,9 @@
         "고객님의 계정은 현재 접속이 차단되어 있습니다.<br>자세한 내용은 초기 화면의 '고객지원'을 통해 문의해주십시오.",
         "Votre compte est suspendu. Veuillez contacter le service client en vous rendant dans la section \"Aide\" de l'écran-titre puis en touchant \"Nous contacter\".",
         "Dein Konto wurde gesperrt. Für genaue Details wende dich bitte via Titelbildschirm über \"Hilfe\" an den Kundendienst.",
-        "Tu cuenta ha sido suspendida.<br>Para más detalles, contacta con el servicio de atención al cliente a través de \"Soporte- Contacte Con Nosotros\" disponible en la pantalla de título."
+        "Tu cuenta ha sido suspendida.<br>Para más detalles, contacta con el servicio de atención al cliente a través de \"Soporte- Contacte Con Nosotros\" disponible en la pantalla de título.",
+        "Your account has been suspended.<br>For details, please contact Customer Support through \"Support - Contact Us\" accessible from the Title Screen.",
+        "Your\u001a \u001aaccount\u001a \u001ahas\u001a \u001abeen\u001a \u001asuspended\u001a.<br>\u001aFor\u001a \u001adetails\u001a,\u001a \u001aplease\u001a \u001acontact\u001a \u001aCustomer\u001a \u001aSupport\u001a \u001athrough\u001a \u001a\"\u001aSupport\u001a \u001a-\u001a \u001aContact\u001a \u001aUs\u001a\"\u001a \u001aaccessible\u001a \u001afrom\u001a \u001athe\u001a \u001aTitle\u001a \u001aScreen\u001a.\u001a"
     ],
     "156": [
         "This function is not currently available.",
@@ -1245,7 +1555,9 @@
         "현재 이 기능은 이용할 수 없습니다.",
         "Cette fonction est actuellement indisponible.",
         "Diese Funktion ist zurzeit nicht verfügbar.",
-        "Esta función no está disponible actualmente."
+        "Esta función no está disponible actualmente.",
+        "This function is not currently available.",
+        "This\u001a \u001afunction\u001a \u001ais\u001a \u001anot\u001a \u001acurrently\u001a \u001aavailable\u001a.\u001a"
     ],
     "157": [
         "You have entered a prohibited word.",
@@ -1253,7 +1565,9 @@
         "사용할 수 없는 문자가 포함되어 있습니다.",
         "Présence d'un ou plusieurs mots non autorisés.",
         "Du hast ein verbotenes Wort eingegeben.",
-        "Has introducido una palabra prohibida."
+        "Has introducido una palabra prohibida.",
+        "You have entered a prohibited word.",
+        "You\u001a \u001ahave\u001a \u001aentered\u001a \u001aa\u001a \u001aprohibited\u001a \u001aword\u001a.\u001a"
     ],
     "158": [
         "Please log in again.",
@@ -1261,7 +1575,9 @@
         "다시 로그인해주십시오.",
         "Veuillez vous reconnecter.",
         "Bitte logge dich erneut ein.",
-        "Vuelve a iniciar sesión."
+        "Vuelve a iniciar sesión.",
+        "Please log in again.",
+        "Please\u001a \u001alog\u001a \u001ain\u001a \u001aagain\u001a.\u001a"
     ],
     "159": [
         "Please log in again.",
@@ -1269,7 +1585,9 @@
         "다시 로그인해주십시오.",
         "Veuillez vous reconnecter.",
         "Bitte logge dich erneut ein.",
-        "Vuelve a iniciar sesión."
+        "Vuelve a iniciar sesión.",
+        "Please log in again.",
+        "Please\u001a \u001alog\u001a \u001ain\u001a \u001aagain\u001a.\u001a"
     ],
     "160": [
         "Data retrieval failed because the servers are busy. Please wait a while and try again.",
@@ -1277,7 +1595,9 @@
         "서버가 혼잡하여 데이터를 올바르게 가져오지 못했습니다.<br>잠시 후 다시 시도해 주십시오.",
         "Les données n'ont pas été réceptionnées correctement car les serveurs sont surchargés.<br>Veuillez réessayer plus tard.",
         "Die Datenabfrage ist fehlgeschlagen, weil die Server beschäftigt sind. Bitte warte einen Moment und versuche es dann erneut.",
-        "Fallo al recuperar los datos porque los servidores están ocupados. Espera un poco y vuelve a intentarlo."
+        "Fallo al recuperar los datos porque los servidores están ocupados. Espera un poco y vuelve a intentarlo.",
+        "Data retrieval failed because the servers are busy. Please wait a while and try again.",
+        "Data\u001a \u001aretrieval\u001a \u001afailed\u001a \u001abecause\u001a \u001athe\u001a \u001aservers\u001a \u001aare\u001a \u001abusy\u001a.\u001a \u001aPlease\u001a \u001await\u001a \u001aa\u001a \u001awhile\u001a \u001aand\u001a \u001atry\u001a \u001aagain\u001a.\u001a"
     ],
     "161": [
         "Receipt data not sent.",
@@ -1285,7 +1605,9 @@
         "영수증 정보가 송신되지 않았습니다.",
         "Les données du reçu n'ont pas été envoyées.",
         "Die Empfangsdaten wurden nicht gesendet.",
-        "Datos del recibo no enviados."
+        "Datos del recibo no enviados.",
+        "Receipt data not sent.",
+        "Receipt\u001a \u001adata\u001a \u001anot\u001a \u001asent\u001a.\u001a"
     ],
     "162": [
         "Failed to find purchase start data, so it will be started forcefully.",
@@ -1293,7 +1615,9 @@
         "처리 시작 정보를 찾을 수 없습니다. 강제로 시작합니다.",
         "Données de démarrage de la transaction introuvables. Le démarrage va être forcé.",
         "Es wurden keine Startdaten für den Kauf gefunden, deshalb wird der Start erzwungen.",
-        "Fallo al encontrar los datos de inicio de la compra, se forzará el inicio."
+        "Fallo al encontrar los datos de inicio de la compra, se forzará el inicio.",
+        "Failed to find purchase start data, so it will be started forcefully.",
+        "Failed\u001a \u001ato\u001a \u001afind\u001a \u001apurchase\u001a \u001astart\u001a \u001adata\u001a,\u001a \u001aso\u001a \u001ait\u001a \u001awill\u001a \u001abe\u001a \u001astarted\u001a \u001aforcefully\u001a.\u001a"
     ],
     "163": [
         "Failed to find purchase start data.",
@@ -1301,7 +1625,9 @@
         "처리 시작 정보를 찾을 수 없습니다.",
         "Données de démarrage de la transaction introuvables.",
         "Es wurden keine Startdaten für den Kauf gefunden.",
-        "Fallo al encontrar los datos de inicio de la compra."
+        "Fallo al encontrar los datos de inicio de la compra.",
+        "Failed to find purchase start data.",
+        "Failed\u001a \u001ato\u001a \u001afind\u001a \u001apurchase\u001a \u001astart\u001a \u001adata\u001a.\u001a"
     ],
     "164": [
         "An SQEX connection error has occurred.",
@@ -1309,7 +1635,9 @@
         "SQEX와 통신 중 오류가 발생했습니다.",
         "Erreur de connexion avec SQEX.",
         "Es ist ein SQEX Verbindungsfehler aufgetreten.",
-        "Ha ocurrido un error de conexión SQEX."
+        "Ha ocurrido un error de conexión SQEX.",
+        "An SQEX connection error has occurred.",
+        "An\u001a \u001aSQEX\u001a \u001aconnection\u001a \u001aerror\u001a \u001ahas\u001a \u001aoccurred\u001a.\u001a"
     ],
     "165": [
         "It may take some time for the new version to appear on the store. <br><br>Please wait and try again later if the new version is not available.",
@@ -1317,7 +1645,9 @@
         "스토어에 최신 버전이 반영되기까지 시간이 다소 소요될 수 있습니다.<br><br>최신 버전이 확인되지 않을 시, 잠시 후에 다시 시도해주시기 바랍니다.",
         "Il est possible que la nouvelle version mette du temps à apparaître sur le store.<br><br>Merci de réessayer ultérieurement si la nouvelle version n'est pas encore disponible.",
         "Es kann einige Zeit dauern, bis die neue Version im Store erscheint.<br><br>Bitte warte und probiere es später erneut, sollte die neue Version nicht verfügbar sein.",
-        "La nueva versión puede tardar un tiempo en aparecer en la tienda.<br><br>Si esta no aparece por favor espera unos momentos e inténtalo más tarde."
+        "La nueva versión puede tardar un tiempo en aparecer en la tienda.<br><br>Si esta no aparece por favor espera unos momentos e inténtalo más tarde.",
+        "It may take some time for the new version to appear on the store. <br><br>Please wait and try again later if the new version is not available.",
+        "It\u001a \u001amay\u001a \u001atake\u001a \u001asome\u001a \u001atime\u001a \u001afor\u001a \u001athe\u001a \u001anew\u001a \u001aversion\u001a \u001ato\u001a \u001aappear\u001a \u001aon\u001a \u001athe\u001a \u001astore\u001a.\u001a \u001a<br><br>\u001aPlease\u001a \u001await\u001a \u001aand\u001a \u001atry\u001a \u001aagain\u001a \u001alater\u001a \u001aif\u001a \u001athe\u001a \u001anew\u001a \u001aversion\u001a \u001ais\u001a \u001anot\u001a \u001aavailable\u001a.\u001a \u001a"
     ],
     "166": [
         "You are unable to purchase lapis because doing so would make you exceed your purchase limit for this month: <color=255: 247: 153>%s</color>",
@@ -1325,7 +1655,9 @@
         "이번 달 구매 한도액 <color=255:247:153> [%s원]</color> 을 초과하게 되므로 구매하지 못했습니다.<br><br>",
         "La transaction n'a pu être effectuée car vous allez dépasser votre limite d'achat de lapis mensuelle de  <color=255:247:153>【%s€】</color>",
         "Du kannst keine weiteren Lapis kaufen, da du sonst dein monatliches Kauflimit überschreitest: <color=255: 247: 153>%s</color>",
-        "No puedes comprar lapis porque superarías el límite de compra de este mes al hacerlo: <color=255: 247: 153>%s</color>"
+        "No puedes comprar lapis porque superarías el límite de compra de este mes al hacerlo: <color=255: 247: 153>%s</color>",
+        "Kamu tidak dapat membeli lapis karena kamu akan melebihi batas pembelian lapis bulan ini: <color=255: 247: 153>%s</color>",
+        "ไม่\u001aสามารถ\u001aซื้อ\u001a \u001aLapis\u001a \u001aได้\u001a \u001aเนื่องจาก\u001aจะ\u001aทำให้\u001aเกิน\u001aวงเงิน\u001aที่\u001aใช้ได้\u001aใน\u001aเดือน\u001aนี้\u001a:\u001a \u001a<color=255: 247: 153>%s\u001a</color>\u001a"
     ],
     "167": [
         "This Month's Purchases: <color=255:247:153>%s/%s</color><br>",
@@ -1333,7 +1665,9 @@
         "이번 달 총 결제액 <color=255:247:153>[%s원 / %s원]</color><br>",
         "Total achats mensuel <color=255:247:153>【%s€/%s€】</color><br>",
         "Käufe diesen Monat: <color=255:247:153>%s/%s</color><br>",
-        "Compras de este mes: <color=255:247:153>%s/%s</color><br>"
+        "Compras de este mes: <color=255:247:153>%s/%s</color><br>",
+        "This Month's Purchases: <color=255:247:153>%s/%s</color><br>",
+        "This\u001a \u001aMonth\u001a'\u001as\u001a \u001aPurchases\u001a:\u001a \u001a<color=255:247:153>%s\u001a/%s\u001a</color><br>\u001a"
     ],
     "168": [
         "Remaining: <color=255:247:153>%s</color>",
@@ -1341,7 +1675,9 @@
         "이번 달 결제 가능액 <color=255:247:153>[%s원 남았습니다]</color>",
         "Reste : <color=255:247:153>【Reste%s€】</color>",
         "Verbleibend: <color=255:247:153>%s</color>",
-        "Restantes: <color=255:247:153>%s</color>"
+        "Restantes: <color=255:247:153>%s</color>",
+        "Tinggal: <color=255:247:153>%s</color>",
+        "เหลือ\u001aอีก\u001a:\u001a \u001a<color=255:247:153>%s\u001a</color>\u001a"
     ],
     "169": [
         "You are unable to purchase lapis because doing so would make you exceed your purchase limit for this month: <color=255: 247: 153>%s pts</color",
@@ -1349,7 +1685,9 @@
         "이번 달 구매 한도액 <color=255:247:153> [%sP]</color> 을 초과하게 되므로 구매하지 못했습니다.<br><br>",
         "La transaction n'a pu être effectuée car vous allez dépasser votre limite d'achat mensuelle de  <color=255:247:153>【%sP】</color><br><br>",
         "Du kannst keine weiteren Lapis kaufen, da du sonst dein monatliches Kauflimit überschreitest: <color=255: 247: 153>%s Pkt.</color>",
-        "No puedes comprar lapis porque superarías el límite de compra de este mes al hacerlo: <color=255: 247: 153>%s pts</color>"
+        "No puedes comprar lapis porque superarías el límite de compra de este mes al hacerlo: <color=255: 247: 153>%s pts</color>",
+        "Kamu tidak dapat membeli lapis karena kamu akan melebihi batas pembelian lapis bulan ini: <color=255: 247: 153>%s pt</color",
+        "ไม่\u001aสามารถ\u001aซื้อ\u001a \u001aLapis\u001a \u001aได้\u001a \u001aเนื่องจาก\u001aจะ\u001aทำให้\u001aเกิน\u001aวงเงิน\u001aที่\u001aใช้ได้\u001aใน\u001aเดือน\u001aนี้\u001a:\u001a \u001a<color=255: 247: 153>%s\u001a \u001apts\u001a</\u001acolor\u001a"
     ],
     "170": [
         "This Month's Purchases: <color=255:247:153>%s/%s pts</color><br>",
@@ -1357,7 +1695,9 @@
         "이번 달 총 결제액 <color=255:247:153>[%sP / %sP]</color><br>",
         "Total achats mensuel <color=255:247:153>【%sP/%sP】</color><br>",
         "Käufe diesen Monat: <color=255:247:153>%s/%s Pkt.</color><br>",
-        "Compras de este mes: <color=255:247:153>%s/%s ptos.</color><br>"
+        "Compras de este mes: <color=255:247:153>%s/%s ptos.</color><br>",
+        "This Month's Purchases: <color=255:247:153>%s/%s pts</color><br>",
+        "This\u001a \u001aMonth\u001a'\u001as\u001a \u001aPurchases\u001a:\u001a \u001a<color=255:247:153>%s\u001a/%s\u001a \u001apts\u001a</color><br>\u001a"
     ],
     "171": [
         "Remaining: <color=255:247:153>%s pts</color>",
@@ -1365,7 +1705,9 @@
         "이번 달 결제 가능액 <color=255:247:153>[%sP 남았습니다]</color>",
         "Reste : <color=255:247:153>【Reste%sP】</color>",
         "Verbleibend: <color=255:247:153>%s Pkt.</color>",
-        "Restantes: <color=255:247:153>%s ptos.</color>"
+        "Restantes: <color=255:247:153>%s ptos.</color>",
+        "Tinggal: <color=255:247:153>%s pt</color>",
+        "เหลือ\u001aอีก\u001a:\u001a \u001a<color=255:247:153>%s\u001a \u001apts\u001a</color>\u001a"
     ],
     "172": [
         "No bundle to check.",
@@ -1373,7 +1715,9 @@
         "확인 가능한 세트 상품이 존재하지 않습니다.",
         "Il n'y a aucun bundle.",
         "Kein Paket zu überprüfen.",
-        "No hay lotes para comprobar."
+        "No hay lotes para comprobar.",
+        "No bundle to check.",
+        "No\u001a \u001abundle\u001a \u001ato\u001a \u001acheck\u001a.\u001a"
     ],
     "173": [
         "Bundle event time is over.",
@@ -1381,7 +1725,9 @@
         "세트 상품의 이벤트 기간은 이미 종료되었습니다.",
         "L'événement de lot est déjà terminé.",
         "Das Paket-Ereignis ist vorüber.",
-        "El periodo de los lotes ha terminado."
+        "El periodo de los lotes ha terminado.",
+        "Periode paket telah berakhir.",
+        "หมด\u001aระยะเวลา\u001aกิจกรรม\u001aแพ\u001aค\u001aแก\u001aจ\u001aแล้ว\u001a"
     ],
     "174": [
         "You cannot purchase Earlybird Bundle.",
@@ -1389,7 +1735,9 @@
         "초회 한정 세트 상품을 구매할 수 없습니다.",
         "Vous ne pouvez pas acheter le lot des nouveaux arrivants",
         "Du kannst kein Paket im Vorverkauf kaufen.",
-        "No puedes comprar el lote Principiante."
+        "No puedes comprar el lote Principiante.",
+        "You cannot purchase Earlybird Bundle.",
+        "You\u001a \u001acannot\u001a \u001apurchase\u001a \u001aEarlybird\u001a \u001aBundle\u001a.\u001a"
     ],
     "175": [
         "Incorrect bundle information.",
@@ -1397,7 +1745,9 @@
         "세트 상품의 정보가 올바르지 않습니다.",
         "Information du lot incorrecte.",
         "Falsche Paketinformationen.",
-        "Información de lote incorrecta."
+        "Información de lote incorrecta.",
+        "Incorrect bundle information.",
+        "Incorrect\u001a \u001abundle\u001a \u001ainformation\u001a.\u001a"
     ],
     "176": [
         "You already purchased the maximum limit for this bundle.",
@@ -1405,7 +1755,9 @@
         "이 세트 상품은 더 구매할 수 없습니다.",
         "Vous avez déjà atteint la limite d'achat pour ce lot.",
         "Du hast bereits die max. Anzahl dieses Pakets gekauft.",
-        "No puedes comprar más veces este lote."
+        "No puedes comprar más veces este lote.",
+        "Batas pembelian paket ini telah tercapai.",
+        "ซื้อ\u001aแพคเกจ\u001aเต็ม\u001aโควต้า\u001aแล้ว\u001a"
     ],
     "177": [
         "No user purchase info to check.",
@@ -1413,7 +1765,9 @@
         "유저 구매정보가 존재하지 않습니다.",
         "Aucune info d'achat utilisateur à vérifier.",
         "Keine Kaufinformationen für den Benutzer.",
-        "No hay información de compra de jugador para comprobar."
+        "No hay información de compra de jugador para comprobar.",
+        "No user purchase info to check.",
+        "No\u001a \u001auser\u001a \u001apurchase\u001a \u001ainfo\u001a \u001ato\u001a \u001acheck\u001a.\u001a"
     ],
     "178": [
         "You do not have enough lapis to purchase bundle.",
@@ -1421,7 +1775,9 @@
         "라피스가 부족합니다.",
         "Vous n'avez pas assez de lapis pour acheter un lot.",
         "Du hast nicht genug Lapis für diesen Kauf.",
-        "Necesitas más lapis para comprar el lote."
+        "Necesitas más lapis para comprar el lote.",
+        "You do not have enough lapis to purchase bundle.",
+        "You\u001a \u001ado\u001a \u001anot\u001a \u001ahave\u001a \u001aenough\u001a \u001alapis\u001a \u001ato\u001a \u001apurchase\u001a \u001abundle\u001a.\u001a"
     ],
     "179": [
         "A transaction error has ocurred.",
@@ -1429,7 +1785,9 @@
         "오류가 발생했습니다.",
         "Une erreur s'est produite lors de la transaction.",
         "Transaktionsfehler aufgetreten.",
-        "Se ha producido un error en la transacción."
+        "Se ha producido un error en la transacción.",
+        "A transaction error has ocurred.",
+        "A\u001a \u001atransaction\u001a \u001aerror\u001a \u001ahas\u001a \u001aocurred\u001a.\u001a"
     ],
     "180": [
         "Your transaction data is not unique.",
@@ -1437,7 +1795,9 @@
         "거래 데이터가 복수 존재합니다.",
         "Vos données de transaction ne sont pas uniques.",
         "Deine Transaktionsdaten sind nicht spezifisch.",
-        "Tus datos de transacción no son únicos."
+        "Tus datos de transacción no son únicos.",
+        "Your transaction data is not unique.",
+        "Your\u001a \u001atransaction\u001a \u001adata\u001a \u001ais\u001a \u001anot\u001a \u001aunique\u001a.\u001a"
     ],
     "181": [
         "Your transaction data is not correct.",
@@ -1445,7 +1805,9 @@
         "거래 데이터가 올바르지 않습니다.",
         "Vos données de transaction sont incorrectes.",
         "Deine Transaktionsdaten sind nicht korrekt.",
-        "Tus datos de transacción no son correctos."
+        "Tus datos de transacción no son correctos.",
+        "Your transaction data is not correct.",
+        "Your\u001a \u001atransaction\u001a \u001adata\u001a \u001ais\u001a \u001anot\u001a \u001acorrect\u001a.\u001a"
     ],
     "182": [
         "Account cannot be found.",
@@ -1453,7 +1815,9 @@
         "계정을 찾을 수 없습니다",
         "Compte introuvable.",
         "Account kann nicht gefunden werden.",
-        "No se puede encontrar la cuenta."
+        "No se puede encontrar la cuenta.",
+        "Akun tidak dapat ditemukan.",
+        "ไม่\u001aพบ\u001aบัญชี\u001aนี้\u001a"
     ],
     "183": [
         "Player data is incorrect.",
@@ -1461,7 +1825,9 @@
         "플레이어 데이터가 올바르지 않습니다.",
         "Données utilisateur incorrectes.",
         "Spielerdaten nicht korrekt.",
-        "Datos del jugador incorrectos."
+        "Datos del jugador incorrectos.",
+        "Player data is incorrect.",
+        "Player\u001a \u001adata\u001a \u001ais\u001a \u001aincorrect\u001a.\u001a"
     ],
     "184": [
         "Cannot create a migration code.",
@@ -1469,7 +1835,9 @@
         "이전 코드를 작성할 수 없습니다.",
         "Impossible de créer un code de migration.",
         "Übertragungscode kann nicht erstellt werden.",
-        "No se puede crear un código de migración."
+        "No se puede crear un código de migración.",
+        "Cannot create a migration code.",
+        "Cannot\u001a \u001acreate\u001a \u001aa\u001a \u001amigration\u001a \u001acode\u001a.\u001a"
     ],
     "185": [
         "Migration passcode is missing.",
@@ -1477,7 +1845,9 @@
         "이전 코드가 존재하지 않습니다.",
         "Le mot de passe de migration est manquant.",
         "Übertragungs-PIN fehlt.",
-        "Falta la contraseña de migración."
+        "Falta la contraseña de migración.",
+        "Migration passcode is missing.",
+        "Migration\u001a \u001apasscode\u001a \u001ais\u001a \u001amissing\u001a.\u001a"
     ],
     "186": [
         "Account cannot be migrated.",
@@ -1485,7 +1855,9 @@
         "계정을 이전할 수 없습니다.",
         "La migration du compte n'a pas pu être effectuée.",
         "Account kann nicht übertragen werden.",
-        "No se puede migrar la cuenta."
+        "No se puede migrar la cuenta.",
+        "Account cannot be migrated.",
+        "Account\u001a \u001acannot\u001a \u001abe\u001a \u001amigrated\u001a.\u001a"
     ],
     "187": [
         "Account cannot be attached.",
@@ -1493,7 +1865,9 @@
         "계정을 링크할 수 없습니다.",
         "Le compte n'a pas pu être lié.",
         "Account kann nicht angehängt werden.",
-        "No se puede adjuntar la cuenta."
+        "No se puede adjuntar la cuenta.",
+        "Account cannot be attached.",
+        "Account\u001a \u001acannot\u001a \u001abe\u001a \u001aattached\u001a.\u001a"
     ],
     "188": [
         "Please authenticate with your Facebook account again.",
@@ -1501,7 +1875,9 @@
         "페이스북 계정 인증오류",
         "Merci de vous authentifier à nouveau avec votre compte Facebook.",
         "Bitte Authentifizierung mit Facebook-Konto noch einmal durchführen.",
-        "Por favor, vuelve a autentificar tu cuenta de Facebook."
+        "Por favor, vuelve a autentificar tu cuenta de Facebook.",
+        "Please authenticate with your Facebook account again.",
+        "Please\u001a \u001aauthenticate\u001a \u001awith\u001a \u001ayour\u001a \u001aFacebook\u001a \u001aaccount\u001a \u001aagain\u001a.\u001a"
     ],
     "189": [
         "Account cannot be bound with Facebook account.",
@@ -1509,7 +1885,9 @@
         "페이스북 계정에 링크할 수 없습니다.",
         "Le compte n'a pas pu être lié au compte Facebook.",
         "Account kann nicht mit Facebook-Konto verknüpft werden.",
-        "No se puede enlazar la cuenta con la cuenta de Facebook."
+        "No se puede enlazar la cuenta con la cuenta de Facebook.",
+        "Account cannot be bound with Facebook account.",
+        "Account\u001a \u001acannot\u001a \u001abe\u001a \u001abound\u001a \u001awith\u001a \u001aFacebook\u001a \u001aaccount\u001a.\u001a"
     ],
     "190": [
         "An error has occurred while accessing Facebook account.",
@@ -1517,7 +1895,9 @@
         "페이스북 계정 접속에 실패했습니다.",
         "Une erreur s'est produite lors de l'accès au compte Facebook.",
         "Beim Zugriff auf das Facebook-Konto ist ein Fehler aufgetreten.",
-        "Se ha producido un error al acceder a la cuenta de Facebook."
+        "Se ha producido un error al acceder a la cuenta de Facebook.",
+        "An error has occurred while accessing Facebook account.",
+        "An\u001a \u001aerror\u001a \u001ahas\u001a \u001aoccurred\u001a \u001awhile\u001a \u001aaccessing\u001a \u001aFacebook\u001a \u001aaccount\u001a.\u001a"
     ],
     "191": [
         "Cannot migrate to this device via Facebook account.",
@@ -1525,7 +1905,9 @@
         "페이스북 계정을 이용한 이 단말기로의 데이터 이전에 실패했습니다.",
         "Impossible d'effectuer la migration sur cet appareil via un compte Facebook.",
         "Übertragung auf dieses Gerät via Facebook-Konto nicht möglich.",
-        "No puedes migrar los datos a este dispositivo mediante la cuenta de Facebook."
+        "No puedes migrar los datos a este dispositivo mediante la cuenta de Facebook.",
+        "Cannot migrate to this device via Facebook account.",
+        "Cannot\u001a \u001amigrate\u001a \u001ato\u001a \u001athis\u001a \u001adevice\u001a \u001avia\u001a \u001aFacebook\u001a \u001aaccount\u001a.\u001a"
     ],
     "192": [
         "Facebook account migration code cannot be created.",
@@ -1533,7 +1915,9 @@
         "페이스북 계정에 링크하기 위한 이전 코드를 작성할 수 없습니다.",
         "Le code de migration de compte Facebook n'a pas pu être créé.",
         "Übertragunscode für Facebook-Konto kann nicht erstellt werden.",
-        "No se puede crear el código de migración para la cuenta de Facebook."
+        "No se puede crear el código de migración para la cuenta de Facebook.",
+        "Facebook account migration code cannot be created.",
+        "Facebook\u001a \u001aaccount\u001a \u001amigration\u001a \u001acode\u001a \u001acannot\u001a \u001abe\u001a \u001acreated\u001a.\u001a"
     ],
     "193": [
         "Player data is incorrect.",
@@ -1541,7 +1925,9 @@
         "플레이어 데이터가 올바르지 않습니다.",
         "Données utilisateur incorrectes.",
         "Spielerdaten nicht korrekt.",
-        "Datos del jugador incorrectos."
+        "Datos del jugador incorrectos.",
+        "Player data is incorrect.",
+        "Player\u001a \u001adata\u001a \u001ais\u001a \u001aincorrect\u001a.\u001a"
     ],
     "194": [
         "Account cannot be created.",
@@ -1549,7 +1935,9 @@
         "계정을 작성할 수 없습니다.",
         "Impossible de créer le compte.",
         "Account kann nicht erstellt werden.",
-        "No se puede crear la cuenta."
+        "No se puede crear la cuenta.",
+        "Account cannot be created.",
+        "Account\u001a \u001acannot\u001a \u001abe\u001a \u001acreated\u001a.\u001a"
     ],
     "195": [
         "Cannot log in with facebook account.",
@@ -1557,7 +1945,9 @@
         "페이스북 계정으로 로그인 할 수 없습니다.",
         "Impossible de se connecter avec le compte Facebook.",
         "Anmelden mit Facebook-Konto nicht möglich.",
-        "No se puede iniciar sesión con la cuenta de Facebook."
+        "No se puede iniciar sesión con la cuenta de Facebook.",
+        "Cannot log in with facebook account.",
+        "Cannot\u001a \u001alog\u001a \u001ain\u001a \u001awith\u001a \u001afacebook\u001a \u001aaccount\u001a.\u001a"
     ],
     "196": [
         "Transaction has already been completed.",
@@ -1565,7 +1955,9 @@
         "구매가 이미 완료되었습니다.",
         "Transaction déjà terminée.",
         "Transaktion wurde bereits abgeschlossen.",
-        "La transacción ya se ha completado."
+        "La transacción ya se ha completado.",
+        "Transaction has already been completed.",
+        "Transaction\u001a \u001ahas\u001a \u001aalready\u001a \u001abeen\u001a \u001acompleted\u001a.\u001a"
     ],
     "197": [
         "A transaction error has occurred.",
@@ -1573,7 +1965,9 @@
         "구매 중에 오류가 발생했습니다.",
         "Une erreur s'est produite lors de la transaction.",
         "Transaktionsfehler aufgetreten.",
-        "Se ha producido un error en la transacción."
+        "Se ha producido un error en la transacción.",
+        "A transaction error has occurred.",
+        "A\u001a \u001atransaction\u001a \u001aerror\u001a \u001ahas\u001a \u001aoccurred\u001a.\u001a"
     ],
     "198": [
         "Facebook friend count error has occurred.",
@@ -1581,7 +1975,9 @@
         "페이스북 친구 수가 부족합니다.",
         "Une erreur dans le nombre d'amis Facebook s'est produite.",
         "Fehler bei Facebook-Freundeanzahl aufgetreten.",
-        "Se ha producido un error con el número de amigos de Facebook."
+        "Se ha producido un error con el número de amigos de Facebook.",
+        "Facebook friend count error has occurred.",
+        "Facebook\u001a \u001afriend\u001a \u001acount\u001a \u001aerror\u001a \u001ahas\u001a \u001aoccurred\u001a.\u001a"
     ],
     "199": [
         "Facebook friend reward already claimed.",
@@ -1589,7 +1985,9 @@
         "이미 페이스북 친구 보상을 수령했습니다.",
         "Récompense d'ami Facebook déjà reçue.",
         "Belohnung für Facebook-Freunde bereits erhalten.",
-        "Ya has reclamado las recompensas por amigos de Facebook."
+        "Ya has reclamado las recompensas por amigos de Facebook.",
+        "Facebook friend reward already claimed.",
+        "Facebook\u001a \u001afriend\u001a \u001areward\u001a \u001aalready\u001a \u001aclaimed\u001a.\u001a"
     ],
     "200": [
         "You do not have enough GIL to purchase bundle",
@@ -1597,7 +1995,9 @@
         "세트 상품을 구매하기 위한 길이 부족합니다.",
         "Vous n'avez pas assez de gils pour acheter ce lot.",
         "Du hast nicht genug GIL für diesen Kauf.",
-        "Necesitas más guiles para comprar el lote"
+        "Necesitas más guiles para comprar el lote",
+        "You do not have enough GIL to purchase bundle",
+        "You\u001a \u001ado\u001a \u001anot\u001a \u001ahave\u001a \u001aenough\u001a \u001aGIL\u001a \u001ato\u001a \u001apurchase\u001a \u001abundle\u001a"
     ],
     "201": [
         "Once you change your name, you will have to wait two weeks before you can change it again.",
@@ -1605,7 +2005,9 @@
         "변경 시 14일 동안 다시 변경할 수 없습니다.",
         "Une fois que vous aurez changé votre nom, vous devrez attendre deux semaines pour pouvoir le changer à nouveau.",
         "Du kannst deinen Namen nur einmal alle zwei Wochen ändern.",
-        "Solo puedes cambiar tu nombre una vez cada dos semanas."
+        "Solo puedes cambiar tu nombre una vez cada dos semanas.",
+        "Once you change your name, you will have to wait two weeks before you can change it again.",
+        "Once\u001a \u001ayou\u001a \u001achange\u001a \u001ayour\u001a \u001aname\u001a,\u001a \u001ayou\u001a \u001awill\u001a \u001ahave\u001a \u001ato\u001a \u001await\u001a \u001atwo\u001a \u001aweeks\u001a \u001abefore\u001a \u001ayou\u001a \u001acan\u001a \u001achange\u001a \u001ait\u001a \u001aagain\u001a.\u001a"
     ],
     "202": [
         "Login Bonus",
@@ -1613,7 +2015,9 @@
         "출석 보너스",
         "Bonus de connexion",
         "Anmeldebonus",
-        "Bonificación por conexión"
+        "Bonificación por conexión",
+        "Bonus Login",
+        "โบนัส\u001aล็อกอิน\u001a"
     ],
     "203": [
         "-day streak login bonus",
@@ -1621,7 +2025,9 @@
         "일 연속 출석 보너스",
         "Bonus de connexion, - jours consécutifs",
         "-Tages-Anmeldebonus",
-        "Bonificación por conexión consecutiva, día-"
+        "Bonificación por conexión consecutiva, día-",
+        "-day streak login bonus",
+        "-day\u001a \u001astreak\u001a \u001alogin\u001a \u001abonus\u001a"
     ],
     "204": [
         "-day total login bonus",
@@ -1629,7 +2035,9 @@
         "일 누적 출석 보너스",
         "Bonus de connexion, - jours totaux",
         "-Tages-Gesamtanmeldebonus",
-        "Bonificación por total de conexiones, día-"
+        "Bonificación por total de conexiones, día-",
+        "-day total login bonus",
+        "-day\u001a \u001atotal\u001a \u001alogin\u001a \u001abonus\u001a"
     ],
     "205": [
         "Exchange limit has been met. You can no longer exchange.",
@@ -1637,7 +2045,9 @@
         "교환 한도를 초과했으므로 교환할 수 없습니다.",
         "Vous avez atteint le nombre limite d'échanges. Vous ne pouvez plus échanger.",
         "Austauschlimit erreicht. Kein weiteres Austauschen möglich.",
-        "Límite de intercambio alcanzado. No puedes intercambiar más."
+        "Límite de intercambio alcanzado. No puedes intercambiar más.",
+        "Exchange limit has been met. You can no longer exchange.",
+        "Exchange\u001a \u001alimit\u001a \u001ahas\u001a \u001abeen\u001a \u001amet\u001a.\u001a \u001aYou\u001a \u001acan\u001a \u001ano\u001a \u001alonger\u001a \u001aexchange\u001a.\u001a"
     ],
     "206": [
         "Return to the title screen to download update data.",
@@ -1645,7 +2055,9 @@
         "새로운 데이터를 다운로드하기 위해 초기 화면으로 돌아갑니다.",
         "Retour à l'écran-titre pour télécharger les données de mise à jour.",
         "Kehre zum Titelbildschirm zurück, um Update-Daten herunterzuladen.",
-        "Vuelve a la pantalla del título para descargar la actualización."
+        "Vuelve a la pantalla del título para descargar la actualización.",
+        "Kembali ke layar judul untuk mendownload data perbaruan.",
+        "กลับ\u001aไป\u001aที่\u001aหน้าจอ\u001aไตเติ้ล\u001aเพื่อ\u001aทำการ\u001aดาวน์โหลด\u001aข้อมูล\u001aอัพเดท\u001a"
     ],
     "207": [
         "Invalid receipt detected.  Please consult Customer Support if you believe this to be in error",
@@ -1653,7 +2065,9 @@
         "올바르지 않은 데이터가 감지되었습니다. 자세한 내용은 고객센터로 문의해주시기 바랍니다.",
         "Données incorrectes détectées (ID produit incorrect). Veuillez contacter le service client si vous pensez qu'il s'agit d'une erreur.",
         "Gehackte Empfangsbestätigung erkannt. Bitte kontaktiere den Kundenservice, wenn du denkst, dass es sich um einen Fehler handelt.",
-        "Recibo hackeado detectado. Por favor consulta con el servicio de atención al cliente."
+        "Recibo hackeado detectado. Por favor consulta con el servicio de atención al cliente.",
+        "Data yang tidak valid terdeteksi. Silakan hubungi Customer Support untuk info lebih lanjut.",
+        "ตรวจ\u001aพบ\u001aข้อมูล\u001aที่\u001aไม่\u001aถูกต้อง\u001a \u001aโปรด\u001aติดต่อสอบถาม\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aสำหรับ\u001aข้อมูล\u001aเพิ่มเติม\u001a"
     ],
     "208": [
         "Invalid receipt (mismatched product id) detected.  Please consult Customer Support if you believe this to be in error.\"",
@@ -1661,7 +2075,9 @@
         "올바르지 않은 데이터(제품 ID 불일치)가 감지되었습니다. 자세한 내용은 고객센터로 문의해주시기 바랍니다.",
         "Données incorrectes détectées (ID produit incorrect). Veuillez contacter le service client si vous pensez qu'il s'agit d'une erreur.",
         "Gehackte Empfangsbestätigung erkannt (Produkt-ID stimmt nicht überein). Bitte kontaktiere den Kundenservice, wenn du denkst, dass es sich um einen Fehler handelt.",
-        "Recibo hackeado detectado (ID de producto incorrecta). Por favor consulta con el servicio de atención al cliente."
+        "Recibo hackeado detectado (ID de producto incorrecta). Por favor consulta con el servicio de atención al cliente.",
+        "Data yang tidak valid terdeteksi (ID produk tidak sesuai). Silakan hubungi Customer Support untuk info lebih lanjut.",
+        "ตรวจ\u001aพบ\u001aข้อมูล\u001aที่\u001aไม่\u001aถูกต้อง\u001a \u001a(\u001aProduct\u001a \u001aID\u001a \u001aไม่\u001aตรงกัน\u001a)\u001a \u001aโปรด\u001aติดต่อสอบถาม\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aสำหรับ\u001aข้อมูล\u001aเพิ่มเติม\u001a"
     ],
     "209": [
         "Failed to retrieve battle arena data.",
@@ -1669,7 +2085,9 @@
         "결투장 전투 정보를 가져올 수 없습니다.",
         "Échec de la récupération des données de combat d'arène.",
         "Arenakampfdaten konnten nicht abgerufen werden.",
-        "Error al recibir datos de Arena."
+        "Error al recibir datos de Arena.",
+        "Failed to retrieve battle arena data.",
+        "Failed\u001a \u001ato\u001a \u001aretrieve\u001a \u001abattle\u001a \u001aarena\u001a \u001adata\u001a.\u001a"
     ],
     "210": [
         "Failed to retrieve friend ID.",
@@ -1677,7 +2095,9 @@
         "친구 ID를 가져올 수 없습니다.",
         "Échec de la récupération de l'ID ami.",
         "Freund-ID konnte nicht abgerufen werden.",
-        "Error al recibir ID de amigo."
+        "Error al recibir ID de amigo.",
+        "Failed to retrieve friend ID.",
+        "Failed\u001a \u001ato\u001a \u001aretrieve\u001a \u001afriend\u001a \u001aID\u001a.\u001a"
     ],
     "211": [
         "The selected battle arena event period has ended.<br>Cancelling battle and returning to the home screen. (Orbs will not be consumed)",
@@ -1685,7 +2105,9 @@
         "선택하신 결투장 전투의 개최 기간이 종료되었습니다.<br>전투를 취소하고, 홈 화면으로 돌아갑니다.(결투장 구슬은 소모되지 않습니다.)",
         "L'événement de combat d'arène sélectionné est désormais terminé.<br>Annuler le combat et retourner à l'écran-titre ? (Vous ne perdrez pas vos orbes)",
         "Der Ereigniszeitraum für die ausgewählte Kampfarena wurde beendet. Der Kampf wird beendet und Spieler zum Hauptbildschirm zurückgebracht. (Es werden keine Juwelen verbraucht)",
-        "El periodo de Arena seleccionado ha terminado.<br>Cancelando y volviendo al menú principal (no se consumirán orbes)."
+        "El periodo de Arena seleccionado ha terminado.<br>Cancelando y volviendo al menú principal (no se consumirán orbes).",
+        "The selected battle arena event period has ended.<br>Cancelling battle and returning to the home screen. (Orbs will not be consumed)",
+        "The\u001a \u001aselected\u001a \u001abattle\u001a \u001aarena\u001a \u001aevent\u001a \u001aperiod\u001a \u001ahas\u001a \u001aended\u001a.<br>\u001aCancelling\u001a \u001abattle\u001a \u001aand\u001a \u001areturning\u001a \u001ato\u001a \u001athe\u001a \u001ahome\u001a \u001ascreen\u001a.\u001a \u001a(\u001aOrbs\u001a \u001awill\u001a \u001anot\u001a \u001abe\u001a \u001aconsumed\u001a)\u001a"
     ],
     "212": [
         "Invalid battle arena data.",
@@ -1693,7 +2115,9 @@
         "결투장 전투 정보가 올바르지 않습니다.",
         "Données de combat d'arène invalide.",
         "Ungültige Arenadaten.",
-        "Datos de Arena inválidos."
+        "Datos de Arena inválidos.",
+        "Invalid battle arena data.",
+        "Invalid\u001a \u001abattle\u001a \u001aarena\u001a \u001adata\u001a.\u001a"
     ],
     "213": [
         "Not enough battle rank points.",
@@ -1701,7 +2125,9 @@
         "결투장 랭킹 교환 포인트가 부족합니다.",
         "Pas assez de points de combat.",
         "Nicht genug Arenapunkte.",
-        "Puntos de clasificación insuficientes."
+        "Puntos de clasificación insuficientes.",
+        "Not enough battle rank points.",
+        "Not\u001a \u001aenough\u001a \u001abattle\u001a \u001arank\u001a \u001apoints\u001a.\u001a"
     ],
     "214": [
         "Unable to exchange as the battle rank point exchange period has ended.",
@@ -1709,7 +2135,9 @@
         "결투장 랭킹 교환 기간이 지났으므로, 교환하실 수 없습니다.",
         "Impossible d'échanger les points de combat car la période est dépassée.",
         "Eintauschen nicht möglich, da der Tauschzeitraum vorbei ist.",
-        "No se ha podido intercambiar. El periodo de intercambio ha terminado."
+        "No se ha podido intercambiar. El periodo de intercambio ha terminado.",
+        "Unable to exchange as the battle rank point exchange period has ended.",
+        "Unable\u001a \u001ato\u001a \u001aexchange\u001a \u001aas\u001a \u001athe\u001a \u001abattle\u001a \u001arank\u001a \u001apoint\u001a \u001aexchange\u001a \u001aperiod\u001a \u001ahas\u001a \u001aended\u001a.\u001a"
     ],
     "215": [
         "The app will be closed so that trust data can be adjusted. Please check the News section for details.",
@@ -1717,7 +2145,9 @@
         "트러스트 정보가 수정되었으므로, 어플리케이션을 한번 종료합니다. 자세한 내용은 공지사항을 확인해주세요.",
         "L'application va fermer pour ajuster les données de confiance. Veuillez vous référer à section \"Dernières infos\" pour plus de détails.",
         "App wird geschlossen, sodass sensible Daten angepasst werden können. Details findest du unter „Neues“.",
-        "Se cerrará la App para ajustar los datos de fidelidad. Por favor comprueba la pantalla de Noticias para saber los detalles."
+        "Se cerrará la App para ajustar los datos de fidelidad. Por favor comprueba la pantalla de Noticias para saber los detalles.",
+        "The app will be closed so that trust data can be adjusted. Please check the News section for details.",
+        "The\u001a \u001aapp\u001a \u001awill\u001a \u001abe\u001a \u001aclosed\u001a \u001aso\u001a \u001athat\u001a \u001atrust\u001a \u001adata\u001a \u001acan\u001a \u001abe\u001a \u001aadjusted\u001a.\u001a \u001aPlease\u001a \u001acheck\u001a \u001athe\u001a \u001aNews\u001a \u001asection\u001a \u001afor\u001a \u001adetails\u001a.\u001a"
     ],
     "216": [
         "New data exists.<br>Returning to the title screen.",
@@ -1725,7 +2155,9 @@
         "새로운 데이터가 있습니다.<br>초기 화면으로 돌아갑니다.",
         "Présence de nouvelles données.<br>Retour à l'écran-titre.",
         "Es existieren neue Daten.<br>Rückkehr zum Titelbildschirm.",
-        "Nuevos datos encontrados.<br>Volviendo a la pantalla de título."
+        "Nuevos datos encontrados.<br>Volviendo a la pantalla de título.",
+        "New data exists.<br>Returning to the title screen.",
+        "New\u001a \u001adata\u001a \u001aexists\u001a.<br>\u001aReturning\u001a \u001ato\u001a \u001athe\u001a \u001atitle\u001a \u001ascreen\u001a.\u001a"
     ],
     "217": [
         "Invalid dungeon data.",
@@ -1733,7 +2165,9 @@
         "던전 정보가 올바르지 않습니다.",
         "Données de donjon incorrectes.",
         "Ungültige Dungeon-Daten.",
-        "Datos de mazmorra inválidos."
+        "Datos de mazmorra inválidos.",
+        "Invalid dungeon data.",
+        "Invalid\u001a \u001adungeon\u001a \u001adata\u001a.\u001a"
     ],
     "218": [
         "Invalid skill sublimation data.",
@@ -1741,7 +2175,9 @@
         "스킬 승화 정보가 올바르지 않습니다.",
         "Données de sublimation d'aptitude incorrectes.",
         "Ungültige Fertigkeiten-Sublimierungsdaten.",
-        "Datos de despertar de habilidad inválidos."
+        "Datos de despertar de habilidad inválidos.",
+        "Invalid skill sublimation data.",
+        "Invalid\u001a \u001askill\u001a \u001asublimation\u001a \u001adata\u001a.\u001a"
     ],
     "219": [
         "There are no area events being held.",
@@ -1749,7 +2185,9 @@
         "개최 중인 구역이 없습니다.",
         "Aucun événement en cours.",
         "Es gibt keine Gebietsereignisse",
-        "No hay áreas de evento disponibles."
+        "No hay áreas de evento disponibles.",
+        "There are no area events being held.",
+        "There\u001a \u001aare\u001a \u001ano\u001a \u001aarea\u001a \u001aevents\u001a \u001abeing\u001a \u001aheld\u001a.\u001a"
     ],
     "220": [
         "The event period has ended.<br>Returning to title.",
@@ -1757,7 +2195,9 @@
         "이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
         "La période de l'événement est terminée.<br>Retour à l'écran-titre.",
         "Der Ereigniszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
-        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título."
+        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título.",
+        "The event period has ended.<br>Returning to title.",
+        "The\u001a \u001aevent\u001a \u001aperiod\u001a \u001ahas\u001a \u001aended\u001a.<br>\u001aReturning\u001a \u001ato\u001a \u001atitle\u001a.\u001a"
     ],
     "221": [
         "The event period has ended.<br>Returning to title.",
@@ -1765,7 +2205,9 @@
         "이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
         "La période de l'événement est terminée.<br>Retour à l'écran-titre.",
         "Der Ereigniszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
-        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título."
+        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título.",
+        "The event period has ended.<br>Returning to title.",
+        "The\u001a \u001aevent\u001a \u001aperiod\u001a \u001ahas\u001a \u001aended\u001a.<br>\u001aReturning\u001a \u001ato\u001a \u001atitle\u001a.\u001a"
     ],
     "222": [
         "The event period has ended.<br>Returning to title.",
@@ -1773,7 +2215,9 @@
         "이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
         "La période de l'événement est terminée.<br>Retour à l'écran-titre.",
         "Der Ereigniszeitraum ist vorbei.<br>Rückkehr zum Titelbildschirm.",
-        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título."
+        "El periodo de evento ha expirado.<br>Regresando a la pantalla del título.",
+        "The event period has ended.<br>Returning to title.",
+        "The\u001a \u001aevent\u001a \u001aperiod\u001a \u001ahas\u001a \u001aended\u001a.<br>\u001aReturning\u001a \u001ato\u001a \u001atitle\u001a.\u001a"
     ],
     "223": [
         "There are no dungeons available.",
@@ -1781,7 +2225,9 @@
         "개최 중인 던전이 없습니다.",
         "Aucun donjon disponible.",
         "Es stehen keine Dungeons zur Verfügung.",
-        "No hay mazmorras disponibles."
+        "No hay mazmorras disponibles.",
+        "There are no dungeons available.",
+        "There\u001a \u001aare\u001a \u001ano\u001a \u001adungeons\u001a \u001aavailable\u001a.\u001a"
     ],
     "224": [
         "Your friend lvl has been updated.<br>Returning to title.",
@@ -1789,7 +2235,9 @@
         "친구 레벨이 업데이트 되었습니다.<br>초기 화면으로 돌아갑니다.",
         "Votre niv. d'amitié a été mis à jour.<br>Retour à l'écran-titre.",
         "Deine Freundes-St. wurde aktualisiert.<br>Rückkehr zum Titelbildschirm.",
-        "Nivel de amigo actualizado.<br>Regresando a la pantalla del título."
+        "Nivel de amigo actualizado.<br>Regresando a la pantalla del título.",
+        "Your friend lvl has been updated.<br>Returning to title.",
+        "Your\u001a \u001afriend\u001a \u001alvl\u001a \u001ahas\u001a \u001abeen\u001a \u001aupdated\u001a.<br>\u001aReturning\u001a \u001ato\u001a \u001atitle\u001a.\u001a"
     ],
     "225": [
         "The unit data of the companion you selected has been updated, so you were unable to depart.<br>Please choose another companion.",
@@ -1797,7 +2245,9 @@
         "선택한 동행자의 유닛 정보가 업데이트 되었으므로, 출발할 수 없습니다.<br>다른 동행자를 선택하십시오.",
         "Vous n'avez pas pu partir car les données de l'unité de votre partenaire ont été mises à jour.<br>Retour à l'écran-titre.",
         "Die Einheitendaten deines ausgewählten Begleiters wurden aktualisiert, daher konntest du nicht aufbrechen.<br>Bitte wähle einen anderen Begleiter.",
-        "No se ha podido partir debido a haberse actualizado los datos de la unidad del compañero escogido.<br>Escoge a otro compañero."
+        "No se ha podido partir debido a haberse actualizado los datos de la unidad del compañero escogido.<br>Escoge a otro compañero.",
+        "The unit data of the companion you selected has been updated, so you were unable to depart.<br>Please choose another companion.",
+        "The\u001a \u001aunit\u001a \u001adata\u001a \u001aof\u001a \u001athe\u001a \u001acompanion\u001a \u001ayou\u001a \u001aselected\u001a \u001ahas\u001a \u001abeen\u001a \u001aupdated\u001a,\u001a \u001aso\u001a \u001ayou\u001a \u001awere\u001a \u001aunable\u001a \u001ato\u001a \u001adepart\u001a.<br>\u001aPlease\u001a \u001achoose\u001a \u001aanother\u001a \u001acompanion\u001a.\u001a"
     ],
     "226": [
         "Friend lvl reward!",
@@ -1805,7 +2255,9 @@
         "친구 레벨 보상!",
         "Récomp. de niv. d'amitié !",
         "Freundes-St.-Belohnung",
-        "Recompensa de niv. de amigo"
+        "Recompensa de niv. de amigo",
+        "Friend lvl reward!",
+        "Friend\u001a \u001alvl\u001a \u001areward\u001a!\u001a"
     ],
     "227": [
         "You will receive the following items for activating friend lvl %2\\$s on %1\\$s.",
@@ -1813,31 +2265,31 @@
         "%1\\$s, 친구 레벨 %2\\$s의 효과 보상으로 아래와 같은 아이템을 지급합니다.",
         "Vous recevrez les objets suivants après avoir passé le niv. d'amitié %2\\$s sur %1\\$s.",
         "Du erhältst die folgenden Gegenstände für das Aktivieren der Freundes.St %2\\$s auf %1\\$s.",
-        "Recibirás lo siguiente por activar el nivel de amigo %2\\$s de %1\\$s."
+        "Recibirás lo siguiente por activar el nivel de amigo %2\\$s de %1\\$s.",
+        "You will receive the following items for activating friend lvl %2\\$s on %1\\$s.",
+        "You\u001a \u001awill\u001a \u001areceive\u001a \u001athe\u001a \u001afollowing\u001a \u001aitems\u001a \u001afor\u001a \u001aactivating\u001a \u001afriend\u001a \u001alvl\u001a %2\\$s\u001a \u001aon\u001a %1\\$s\u001a.\u001a"
     ],
-    "229": [
-        "<JP version login bonus text>",
-        null,
-        null,
-        null,
-        null,
-        null
-    ],
-    "231": [
-        "<JP version login bonus text>",
-        null,
-        "누적 로그인 %d일째 달성 보상으로 아래와 같은 아이템을 지급합니다.",
-        "<JP version login bonus text>",
-        null,
-        null
-    ],
+    "229": {
+        "0": "<JP version login bonus text>",
+        "6": "<JP version login bonus text>",
+        "7": "<JP version login bonus text>\u001a"
+    },
+    "231": {
+        "0": "<JP version login bonus text>",
+        "2": "누적 로그인 %d일째 달성 보상으로 아래와 같은 아이템을 지급합니다.",
+        "3": "<JP version login bonus text>",
+        "6": "<JP version login bonus text>",
+        "7": "<JP version login bonus text>\u001a"
+    },
     "232": [
         "Esper skill points cannot be reset.",
         "無法重置幻獸技能點數。",
         "환수 스킬 포인트를 초기화할 수 없습니다.",
         "Les points de compétence des chimères ne peuvent pas être réinitialisés.",
         "Esper-Talentpunkte können nicht zurückgesetzt werden.",
-        "Los puntos de esper no pueden ser restablecidos."
+        "Los puntos de esper no pueden ser restablecidos.",
+        "Poin skill esper tidak dapat direset.",
+        "ไม่\u001aสามารถ\u001aรี\u001aเซ็ท\u001aแต้ม\u001aทักษะ\u001a \u001aEsper\u001a \u001aได้\u001a"
     ],
     "233": [
         "Invalid damage rank info.",
@@ -1845,7 +2297,9 @@
         "피해량 랭킹 정보가 올바르지 않습니다.",
         "Données de dégâts de rang invalides.",
         "Ungültige Schadensrang-Info.",
-        "Datos de clasificación de daño inválidos."
+        "Datos de clasificación de daño inválidos.",
+        "Info rank damage tidak valid.",
+        "ข้อมูล\u001a \u001aDamage\u001a \u001aRank\u001a \u001aไม่\u001aถูกต้อง\u001a"
     ],
     "234": [
         "Invalid damage rank master info.",
@@ -1853,7 +2307,9 @@
         "피해량 랭킹 마스터 정보가 올바르지 않습니다.",
         "Données maîtres de dégâts de rang invalides.",
         "Ungültige Schadensrang-Meisterinfo.",
-        "Datos maestros de clasificación de daño inválidos."
+        "Datos maestros de clasificación de daño inválidos.",
+        "Info master rank damage tidak valid.",
+        "ข้อมูล\u001a \u001aDamage\u001a \u001aRank\u001a \u001aMaster\u001a \u001aไม่\u001aถูกต้อง\u001a"
     ],
     "235": [
         "Invalid battle group info.",
@@ -1861,7 +2317,9 @@
         "전투 그룹 정보가 올바르지 않습니다.",
         "Données de combat de groupe invalides.",
         "Ungültige Kampfgruppen-Info.",
-        "Datos de combate de grupo inválidos."
+        "Datos de combate de grupo inválidos.",
+        "Info grup battle tidak valid.",
+        "ข้อมูล\u001aกลุ่ม\u001aการต่อสู้\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "236": [
         "Invalid monster info.",
@@ -1869,7 +2327,9 @@
         "몬스터 정보가 올바르지 않습니다.",
         "Données de monstre invalides.",
         "Ungültige Monsterinfo.",
-        "Datos de monstruo inválidos."
+        "Datos de monstruo inválidos.",
+        "Info monster tidak valid.",
+        "ข้อมูล\u001aมอนสเตอร์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "237": [
         "Invalid monster parts info.",
@@ -1877,7 +2337,9 @@
         "몬스터 파츠 정보가 올바르지 않습니다.",
         "Données de partie de monstre invalides.",
         "Ungültige Monsterteile-Info.",
-        "Datos de partes de monstruo inválidos."
+        "Datos de partes de monstruo inválidos.",
+        "Info bagian monster tidak valid.",
+        "ข้อมูล\u001aชิ้นส่วน\u001aมอนสเตอร์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "238": [
         "Invalid damage rank initialization info.",
@@ -1885,7 +2347,9 @@
         "피해량 랭킹 개시 정보가 올바르지 않습니다.",
         "Données d'initialisation des dégâts de rang invalides.",
         "Ungültige Schadensrang-Initialisierungsinfo.",
-        "Datos de inicialización de clasificación de datos inválidos."
+        "Datos de inicialización de clasificación de datos inválidos.",
+        "Info inisialisasi rank damage tidak valid.",
+        "ข้อมูล\u001aเริ่มต้น\u001a \u001aDamage\u001a \u001aRank\u001a \u001aไม่\u001aถูกต้อง\u001a"
     ],
     "239": [
         "Invalid mission info.",
@@ -1893,7 +2357,9 @@
         "미션 정보가 올바르지 않습니다.",
         "Données de mission invalides.",
         "Ungültige Missionsinfo.",
-        "Datos de misión inválidos."
+        "Datos de misión inválidos.",
+        "Info misi tidak valid.",
+        "ข้อมูล\u001aมิชชั่น\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "240": [
         "Invalid battle record info.",
@@ -1901,7 +2367,9 @@
         "전적 정보가 올바르지 않습니다.",
         "Données d'enregistrement de combat invalides.",
         "Ungültige Kampfaufzeichnungen-Info",
-        "Datos de registro inválidos."
+        "Datos de registro inválidos.",
+        "Info rekor battle tidak valid.",
+        "ข้อมูล\u001aบันทึก\u001aการต่อสู้\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "241": [
         "This battle has been cancelled and no orbs will be consumed as your opponent's info has changed.<br>Returing to title as the list has changed.",
@@ -1909,7 +2377,9 @@
         "대전 상대의 정보가 갱신되어, 이번 전투는 취소되며 구슬은 소모되지 않습니다.<br>목록 갱신을 위해 타이틀로 돌아갑니다.",
         "Ce combat a été annulé et aucune orbe ne sera consommé car les données de votre adversaire ont changé.<br>Retournez à l'écran-titre car la liste a changé.",
         "Dieser Kampf wurde abgebrochen. Es werden keine Juwelen verbraucht, da die Daten deines Gegners sich geändert haben.<br>Rückkehr zum Titelbildschirm, da die Liste sich geändert hat.",
-        "Se ha cancelado el combate y no se consumirán orbes debido a que los datos de oponente han cambiado.<br>Regresando a la pantalla de título."
+        "Se ha cancelado el combate y no se consumirán orbes debido a que los datos de oponente han cambiado.<br>Regresando a la pantalla de título.",
+        "Battle ini telah dibatalkan dan tidak ada orb yang digunakan karena info lawanmu telah berubah.<br>Kembali ke layar judul karena daftar telah berubah.",
+        "ข้อมูล\u001aของ\u001aคู่ต่อสู้\u001aถูก\u001aเปลี่ยนแปลง\u001a \u001aส่งผล\u001aให้\u001aการต่อสู้\u001aครั้งนี้\u001aจบ\u001aลง\u001aโดยที่\u001aคุณ\u001aไม่ต้อง\u001aเสีย\u001aลูกแก้ว\u001aไป\u001a<br>\u001a \u001aกลับ\u001aไป\u001aสู่\u001aหน้าจอ\u001aไตเติ้ล\u001a \u001aเมื่อ\u001aระบบ\u001aกำลัง\u001aเปลี่ยนแปลง\u001aรายการ\u001a"
     ],
     "242": [
         "A new version of the app is available.<br><br>If Unable to Update<br><br>Follow the procedures below after tapping the OK button below.<br><br>1) Tap Update in the bottom right-hand corner<br><br>2) Tap Update from the FFBE pending data section<br><br>*If the Update button does not appear, please wait a while and try again.",
@@ -1917,7 +2387,9 @@
         "새 버전이 나왔습니다.<br><br>[자동 업데이트가 불가능한 경우]<br><br>아래의 'OK' 버튼을 터치하여 표시되는 화면에서 다음과 같이 조작해 주세요.<br><br>① 화면 우측 하단의 '업데이트'를 터치<br><br>② '보류 중인 업데이트' 목록 중, FFBE 항목의 '업데이트'를 터치<br> <br>※'업데이트'가 표시되지 않을 시, 잠시 후에 다시 시도해주시기 바랍니다.",
         "Une nouvelle version de l'application est disponible.<br><br>Si vous ne pouvez pas la mettre à jour<br><br>Suivez la procédure ci-dessous, puis touchez le bouton OK.<br><br>1) Touchez le bouton de mise à jour dans le coin inférieur droit<br><br>2) Touchez le bouton de mise à jour dans la section des données de FFBE en attente <br><br>*Si le bouton de mise à jour n'apparaît pas de suite, veuillez attendre un peu et réessayer.",
         "Eine neue Version dieser App ist verfügbar.<br><br>Falls du nicht aktualisieren kannst,<br><br>folge den Anweisung unten, nachdem du auf OK getippt hast.<br><br>1) Tippe auf Update in der unteren rechten Ecke <br><br>2) Tippe auf Update im Bereich FFBE - ausstehende Daten<br><br>*Wenn die Update-Schaltfläche nicht erscheint, warte ein wenig und versuche es dann erneut.",
-        "Hay una nueva versión de la app disponible.<br><br>En caso de no poder actualizar:<br><br>Sigue los siguientes pasos tras tocan el botón de OK inferior.<br><br>1) Toca en Actualizar en la parte inferior derecha.<br><br>2) Toca en Actualizar en la parte de datos pendientes de FFBE.<br>*Si el botón de Actualizar no aparece, espera un momento y vuelve a inténtalo."
+        "Hay una nueva versión de la app disponible.<br><br>En caso de no poder actualizar:<br><br>Sigue los siguientes pasos tras tocan el botón de OK inferior.<br><br>1) Toca en Actualizar en la parte inferior derecha.<br><br>2) Toca en Actualizar en la parte de datos pendientes de FFBE.<br>*Si el botón de Actualizar no aparece, espera un momento y vuelve a inténtalo.",
+        "Versi terbaru applikasi telah tersedia.<br><br>Apabila Tidak Dapat Memperbarui<br><br>Ikuti langkah-langkah berikut setelah menyentuh tombol OK di bawah.<br><br>1) Sentuh Perbarui di pojok bawah kanan layar.<br><br>2) Sentuh Perbarui pada bagian data FFBE yang tertunda.<br><br>*Apabila tombol Perbarui tidak muncul, silakan tunggu sebentar dan cobalah sekali lagi.",
+        "แอพ\u001aนี้\u001aใน\u001aเวอร์ชั่น\u001aใหม่\u001aออก\u001aแล้ว\u001a<br><br>\u001aหาก\u001aคุณ\u001aไม่\u001aสามารถ\u001aทำการ\u001aอัพเดท\u001aได้\u001a<br><br>\u001aให้\u001aแตะ\u001aปุ่ม\u001a \u001aOK\u001a \u001aที่อยู่\u001aด้านล่าง\u001aแล้ว\u001aดำเนินการ\u001aดังต่อไปนี้\u001a<br><br>\u001a1\u001a)\u001a \u001aแตะ\u001aปุ่ม\u001aอัพเดท\u001aที่\u001aมุม\u001aขวา\u001aล่าง\u001a<br><br>\u001a2\u001a)\u001a \u001aไป\u001aที่\u001aหัวข้อ\u001aข้อมูล\u001a \u001aFFBE\u001a \u001aคง\u001aค้าง\u001a \u001aแล้ว\u001aแตะ\u001aปุ่ม\u001aอัพเดท\u001a<br><br>*\u001aหาก\u001aไม่\u001aมี\u001aปุ่ม\u001aอัพเดท\u001aปรากฎ\u001aขึ้น\u001a \u001aกรุณา\u001aลอง\u001aสักครู่\u001aและ\u001aลอง\u001aใหม่\u001aอีกครั้ง\u001a"
     ],
     "243": [
         "Your orbs have been replenished since time has passed, so your lapis will not be used.<br>Returning to title as you will have to login again for your current orbs to be reflected.",
@@ -1925,7 +2397,9 @@
         "시간이 경과되어 구슬이 회복되었으므로, 라피스를 이용한 구슬 회복을 취소합니다.<br> 현재 구슬 개수 반영을 위해, 타이틀 화면으로 돌아갑니다.",
         "Vous avez récupéré tous vos orbes car le temps s'est écoulé, par conséquent aucun lapis ne sera utilisé.<br>Retournez sur l'écran-titre, car vous devrez vous connecter à nouveau pour que vos orbes vous soient rendus.",
         "Deine Juwelen wurden in der Zwischenzeit wiederaufgefüllt, deine Lapis werden also nicht verbraucht.<br>Rückkehr zum Titelbildschirm, da du dich erneut einloggen musst, damit deine Juwelen angezeigt werden.",
-        "Tus orbes se han recuperado debido al paso del tiempo, por lo que no se usaran lapis.<br>Regresarás a la pantalla de título dado que deberás iniciar sesión de nuevo para que estos aparezcan reflejados."
+        "Tus orbes se han recuperado debido al paso del tiempo, por lo que no se usaran lapis.<br>Regresarás a la pantalla de título dado que deberás iniciar sesión de nuevo para que estos aparezcan reflejados.",
+        "Orb-mu telah terisi kembali karena waktu telah berlalu, sehingga lapismu tidak akan digunakan.<br>Kembali ke layar judul karena kamu harus login sekali lagi agar jumlah orb-mu ditampilkan dengan benar.",
+        "ลูกแก้ว\u001aได้รับ\u001aการ\u001aเติม\u001aจน\u001aเต็ม\u001aตามเวลา\u001aที่\u001aผ่าน\u001aไป\u001aแล้ว\u001a \u001aคุณ\u001aไม่\u001aจำเป็นต้อง\u001aใช้\u001a \u001aLapis\u001a \u001a<br>\u001aคุณ\u001aจะ\u001aต้อง\u001aล็อกอิน\u001aใหม่\u001a \u001aเพื่อให้\u001aค่า\u001aจำนวน\u001aลูกแก้ว\u001aเป็น\u001aปัจจุบัน\u001a"
     ],
     "244": [
         "Restart data cleared.<br>Returning to title.",
@@ -1933,7 +2407,9 @@
         "재시작 데이터를 완료했습니다.<br>타이틀로 돌아갑니다.",
         "Données de réinitialisation effacées.<br>Retournez à l'écran-titre.",
         "Neustartdaten gelöscht.<br>Rückkehr zum Titelbildschirm.",
-        "Datos de restablecimiento eliminados.<br>Regresando a la pantalla de título."
+        "Datos de restablecimiento eliminados.<br>Regresando a la pantalla de título.",
+        "Restart data selesai.<br>Kembali ke layar judul.",
+        "ข้อมูล\u001aเริ่มต้น\u001aใหม่\u001aถูก\u001aเคลียร์\u001aแล้ว\u001a<br>\u001aกลับ\u001aไป\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "245": [
         "%s Exvius pt Reward Received!",
@@ -1941,7 +2417,9 @@
         "EX포인트 %s 획득 보상!",
         "%s pt(s) Exvius reçu(s) en récompense !",
         "%s Exvius-Pkt.-Belohnung erhalten!",
-        "¡Recompensa por %s pts. EXVIUS recibida!"
+        "¡Recompensa por %s pts. EXVIUS recibida!",
+        "Hadiah %s pt Exvius Diterima!",
+        "ได้\u001aรับรางวัล\u001a \u001aExvius\u001a \u001apt\u001a.\u001a %s\u001a \u001aแต้ม\u001a \u001a!\u001a"
     ],
     "246": [
         "You have received the following reward for accumulating %s exvius pts.",
@@ -1949,7 +2427,9 @@
         "EXVIUS포인트  %s포인트 획득 보상으로 아래와 같은 아이템을 지급합니다.",
         "Vous avez reçu les récompenses suivantes pour avoir accumulé %s pts Exvius.",
         "Du erhältst folgende Belohnung für das Ansammeln von %s Exvius-Pkt.",
-        "Has recibido la siguiente recompensa por acumular %s pts. EXVIUS."
+        "Has recibido la siguiente recompensa por acumular %s pts. EXVIUS.",
+        "Kamu menerima hadiah berikut atas terkumpulnya %s pt exvius.",
+        "คุณ\u001aได้\u001aรับรางวัล\u001aต่อไปนี้\u001aจาก\u001aการ\u001aสะสม\u001a \u001aExvius\u001a \u001apt\u001a.\u001a \u001aครบ\u001a %s\u001a \u001aแต้ม\u001a"
     ],
     "247": [
         "Exvius pts <color=255:255:0>+%s</color>",
@@ -1957,7 +2437,9 @@
         "EX포인트 획득<color=255:255:0>+%s</color>",
         "Pts Exvius <color=255:255:0>+%s</color>",
         "Exvius pts <color=255:255:0>+%s</color>",
-        "Pts. EXVIUS <color=255:255:0>+%s</color>"
+        "Pts. EXVIUS <color=255:255:0>+%s</color>",
+        "Pt Exvius <color=255:255:0>+%s</color>",
+        "Exvius\u001a \u001apt\u001a.\u001a \u001a<color=255:255:0>+%s\u001a</color>\u001a"
     ],
     "248": [
         "Invalid team lvl",
@@ -1965,7 +2447,9 @@
         "팀 lv이 올바르지 않습니다.",
         "Nv d’équipe non valide",
         "Ungültiges Team-Lvl.",
-        "Equipo inválido LV"
+        "Equipo inválido LV",
+        "Invalid team lvl",
+        "Invalid\u001a \u001ateam\u001a \u001alvl\u001a"
     ],
     "249": [
         "List has been updated",
@@ -1973,7 +2457,9 @@
         "목록이 갱신되었습니다.",
         "Liste mise à jour",
         "Liste wurde erneuert",
-        "Se ha actualizado la lista"
+        "Se ha actualizado la lista",
+        "List has been updated",
+        "List\u001a \u001ahas\u001a \u001abeen\u001a \u001aupdated\u001a"
     ],
     "250": [
         "Mission period has ended.<br/>Returning to the Home screen will fetch updated data.",
@@ -1981,7 +2467,9 @@
         "미션 기간이 종료되었습니다.<br/>홈 화면으로 돌아가서 최신 데이터를 확인합니다.",
         "Le temps de mission s’est écoulé.<br/>Retournez à l’écran Accueil pour récupérer les données mises à jour.",
         "Missionszeitraum ist vorbei.<br/>Gehe zum Hauptbildschirm zurück um, um die neusten Daten nachzuladen.",
-        "El período de la misión ha concluido.<br/>Volver a la pantalla principal recuperará los datos actualizados."
+        "El período de la misión ha concluido.<br/>Volver a la pantalla principal recuperará los datos actualizados.",
+        "Mission period has ended.<br/>Returning to the Home screen will fetch updated data.",
+        "Mission\u001a \u001aperiod\u001a \u001ahas\u001a \u001aended\u001a.<br/>\u001aReturning\u001a \u001ato\u001a \u001athe\u001a \u001aHome\u001a \u001ascreen\u001a \u001awill\u001a \u001afetch\u001a \u001aupdated\u001a \u001adata\u001a.\u001a"
     ],
     "251": [
         "A ticket which cannot be used for this summon has been used. <br/>Returning to title as information could not be correctly retrieved.",
@@ -1989,7 +2477,9 @@
         "해당 소환에서는 사용할 수 없는 티켓이 사용되었습니다.<br>올바른 정보를 받지 못해 초기 화면으로 돌아갑니다.",
         "Vous avez utilisé un ticket qui ne peut pas être utilisé pour cette invocation.<br/>Retour à l'écran-titre car les données n'ont pas pu être récupérées correctement.",
         "Eine Karte, die nicht für diese Beschwörung geeignet ist, wurde verwendet.<br/>Kehre zum Titelbildschirm zurück, da Informationen nicht korrekt abgerufen werden konnten.",
-        "Se ha usado un tícket que no podía usarse para esta invocación.<br/>Volviendo al juego al no haberse podido recuperar la información correctamente."
+        "Se ha usado un tícket que no podía usarse para esta invocación.<br/>Volviendo al juego al no haberse podido recuperar la información correctamente.",
+        "Tiket yang tidak dapat digunakan untuk summon ini telah digunakan.<br/>Kembali ke layar judul karena informasi tidak dapat diperoleh dengan benar.",
+        "ตั๋ว\u001aที่\u001aถูก\u001aใช้\u001aไม่\u001aใช่\u001aตั๋ว\u001aสำหรับ\u001aการ\u001aซัม\u001aม่อน\u001aนี้\u001a<br/>\u001aระบบ\u001aไม่\u001aสามารถ\u001aดำเนินการ\u001aจัด\u001aข้อมูล\u001aได้\u001aถูกต้อง\u001a \u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "252": [
         "Summon information has been updated.<br>Returning to title.",
@@ -1997,7 +2487,9 @@
         "소환 정보가 갱신되었습니다.<br>초기 화면으로 돌아갑니다.",
         "Les données d'invocation ont été mises à jour.<br>Retour à l'écran-titre.",
         "Beschwörungsinformation wurde aktualisiert.<br>Kehre zum Titelbildschirm zurück.",
-        "La información de invocación ha sido actualizada.<br>Volviendo al juego."
+        "La información de invocación ha sido actualizada.<br>Volviendo al juego.",
+        "Informasi summon telah diperbarui.<br>Kembali ke layar judul.",
+        "ข้อมูล\u001aการ\u001aซัม\u001aม่อน\u001aได้รับ\u001aการ\u001aอัพเดท\u001aแล้ว\u001a<br>\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "253": [
         "The reception period for this mission reward has ended.<br>Returning to title as data has been updated.",
@@ -2005,7 +2497,9 @@
         "해당 미션의 보상 수령 기간이 종료되었습니다.<br>데이터가 갱신되어, 초기 화면으로 돌아갑니다.",
         "La période de récupération des récompenses de mission est terminées.<br>Retour à l'écran-titre car les données ont été mises à jour.",
         "Der Abholzeitraum für diese Missionsbelohnung ist abgelaufen.<br>Kehre zum Titelbildschirm zurück, da Daten aktualisiert wurden.",
-        "El periodo para recibir la recompensa de esta misión se ha acabado.<br>Volviendo al juego tras haberse actualizado los datos."
+        "El periodo para recibir la recompensa de esta misión se ha acabado.<br>Volviendo al juego tras haberse actualizado los datos.",
+        "Periode penerimaan hadiah untuk misi ini telah berakhir.<br>Kembali ke layar judul karena data telah diperbarui.",
+        "ช่วงเวลา\u001aใน\u001aการ\u001aรับรางวัล\u001aมิชชั่น\u001aนี้\u001aได้\u001aหมด\u001aลง\u001aแล้ว\u001a<br>\u001a \u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a \u001aพร้อม\u001aข้อมูล\u001aที่\u001aอัพเดท\u001aแล้ว\u001a"
     ],
     "254": [
         "Date has been updated.<br>Returning to title in order to retrieve consecutive login days.",
@@ -2013,7 +2507,9 @@
         "날짜가 갱신되었습니다.<br>연속 로그인 일수 확인을 위해 초기 화면으로 돌아갑니다.",
         "La date a été mise à jour.<br>Retour à l'écran-titre pour récupérer les jours de connexion consécutifs.",
         "Das Datum wurde aktualisiert.<br>Kehre zum Titelbildschirm zurück, um Zahl der in Folge eingeloggten Tage abzurufen.",
-        "Los datos han sido actualizados.<br>Volviendo al juego para recuperar los inicios de sesión durante días consecutivos."
+        "Los datos han sido actualizados.<br>Volviendo al juego para recuperar los inicios de sesión durante días consecutivos.",
+        "Data telah diperbarui.<br>Kembali ke layar judul untuk memperoleh hari login beruntun.",
+        "วันที่\u001aได้รับ\u001aการ\u001aอัพเดท\u001aแล้ว\u001a<br>\u001a \u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a \u001aเพื่อ\u001aรับ\u001aข้อมูล\u001aจำนวน\u001aวันที่\u001aเข้า\u001aล็อกอิน\u001aต่อเนื่อง\u001a"
     ],
     "255": [
         "The event period has ended.<br>Returning to title.",
@@ -2021,7 +2517,9 @@
         "이벤트 기간이 종료되었습니다.<br>초기 화면으로 돌아갑니다.",
         "La période de l'événement est terminée.<br>Retour à l'écran-titre.",
         "Der Ereigniszeitraum ist beendet.<br>Kehre zum Titelbildschirm zurück.",
-        "El periodo del evento ha concluido.<br>Volviendo al juego."
+        "El periodo del evento ha concluido.<br>Volviendo al juego.",
+        "Periode event telah berakhir.<br>Kembali ke layar judul.",
+        "ช่วงเวลา\u001aใน\u001aการ\u001aจัด\u001aอีเวนท์\u001aนี้\u001aได้\u001aหมด\u001aลง\u001aแล้ว\u001a<br>\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "256": [
         "Conditions to receive reward have not been met.",
@@ -2029,7 +2527,9 @@
         "보상을 획득할 수 없는 상태입니다.",
         "Les conditions pour recevoir la récompense ne sont pas réunies.",
         "Die Bedingungen, um die Belohnung zu erhalten, wurden nicht erfüllt.",
-        "No se han cumplido las condiciones para recibir la recompensa."
+        "No se han cumplido las condiciones para recibir la recompensa.",
+        "Kondisi untuk menerima hadiah belum terpenuhi.",
+        "คุณ\u001aยัง\u001aไม่\u001aสามารถ\u001aทำ\u001aตามเงื่อนไข\u001aการ\u001aรับรางวัล\u001aได้\u001aครบถ้วน\u001a"
     ],
     "257": [
         "Units selected for expeditions cannot be awoken.",
@@ -2037,7 +2537,9 @@
         "탐험 파티로 설정한 유닛은 각성할 수 없습니다.",
         "Les unités sélectionnées pour les expéditions ne peuvent pas être éveillées.",
         "Für Expeditionen ausgewählte Einheiten können nicht erweckt werden.",
-        "Las unidades seleccionadas para las expediciones no pueden ser despertadas."
+        "Las unidades seleccionadas para las expediciones no pueden ser despertadas.",
+        "Unit yang dipilih untuk ekspedisi tidak dapat dibangkitkan.",
+        "ไม่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aที่\u001aออก\u001aไป\u001aทำ\u001aการสำรวจ\u001aได้\u001a"
     ],
     "258": [
         "Could not retrieve expedition data.",
@@ -2045,7 +2547,9 @@
         "탐험 정보를 획득할 수 없습니다.",
         "Impossible de récupérer les données d'expédition.",
         "Konnte Expeditionsdaten nicht abrufen.",
-        "No se pudieron recuperar los datos de la expedición."
+        "No se pudieron recuperar los datos de la expedición.",
+        "Tidak dapat memperoleh data ekspedisi.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aการสำรวจ\u001aได้\u001a"
     ],
     "259": [
         "Could not retrieve information for several units.",
@@ -2053,7 +2557,9 @@
         "복수의 덱 정보를 획득할 수 없습니다.",
         "Impossible de récupérer les données de plusieurs unités.",
         "Konnte Informationen für mehrere Einheiten nicht abrufen.",
-        "No se pudo recuperar la información de varias unidades."
+        "No se pudo recuperar la información de varias unidades.",
+        "Tidak dapat memperoleh informasi untuk beberapa unit.",
+        "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aสำหรับ\u001aยู\u001aนิ\u001aท\u001aจำนวนมาก\u001aได้\u001a"
     ],
     "260": [
         "Failed to retrieve weapon ability data.",
@@ -2061,7 +2567,9 @@
         "무기 어빌리티 정보를 가져올 수 없습니다.",
         "Échec de la récupération des données d'aptitude d'arme.",
         "Daten zu Waffenfertigkeiten konnten nicht abgerufen werden.",
-        "No se pudo recuperar la información sobre la habilidad del arma."
+        "No se pudo recuperar la información sobre la habilidad del arma.",
+        "Gagal memperoleh data ability senjata.",
+        "ไม่\u001aสามารถ\u001aรับ\u001aข้อมูล\u001a \u001aAbility\u001a \u001aอาวุธ\u001aได้\u001a"
     ],
     "261": [
         "The event period for \"Equipment Enhancement Event\" has ended.<br>To obtain your weapon enhancements, please restart the app.<br>Returning to title.",
@@ -2069,7 +2577,9 @@
         "장비 강화 이벤트 기간이 종료되었습니다.<br>강화 중인 장비 데이터를 가져오기 위해, 타이틀 화면에서 게임을 재시작해 주십시오.<br>타이틀 화면으로 돌아갑니다.",
         "La période de l'événement \"Événement d'amélioration d'équipement\" est terminée.<br>Pour obtenir vos améliorations d'armes veuillez redémarrer l'application.<br>Retour à l'écran-titre.",
         "Der Ereigniszeitraum für “Ausrüstung Verbesserungsereignis” ist abgelaufen.<br> Bitte starte die App erneut, um deine Waffenverstärkungen zu erhalten.<br>Zum Titelbildschirm zurückkehren.",
-        "El periodo del evento \"Evento de mejora de equipo\" ya ha terminado.<br>Para conseguir tus mejoras de armas, reinicia la app.<br>Regresando al juego..."
+        "El periodo del evento \"Evento de mejora de equipo\" ya ha terminado.<br>Para conseguir tus mejoras de armas, reinicia la app.<br>Regresando al juego...",
+        "Periode \"Event Penguatan Perlengkapan\" telah berakhir.<br>Untuk mendapatkan penguatan senjatamu, silakan buka app sekali lagi.<br>Kembali ke layar judul.",
+        "ระยะเวลา\u001aจัด\u001a \u001a\"\u001aอีเวนท์\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001a\"\u001a \u001aได้\u001aจบ\u001aลง\u001aแล้ว\u001a<br>\u001a \u001aกรุณา\u001aเริ่ม\u001aแอพพลิเคชั่น\u001aใหม่\u001aจาก\u001aหน้าจอ\u001aไตเติ้ล\u001a \u001aเพื่อ\u001aดึง\u001aข้อมูล\u001aอุปกรณ์\u001aที่\u001aกำลัง\u001aเสริม\u001aพลัง\u001aค้าง\u001aอยู่\u001a<br>\u001aระบบ\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "262": [
         "An issue with the game is preventing enhanced weapons from being used in the Chamber of Arms.<br>Please unequip any enhanced weapons before undertaking a quest in this chamber. We ask for your patience until this issue is resolved.<br>Returning to title.",
@@ -2077,7 +2587,9 @@
         "현재 십이무구의 틈새에서, 장비 강화 이벤트로 강화한 장비를 사용할 수 없는 현상이 발생하고 있습니다.<br>장비 강화 이벤트에서 강화한 장비를 장착하지 않으실 것을 부탁드립니다. 문제 해결까지 조금만 기다려 주십시오.<br>타이틀 화면으로 돌아갑니다.",
         "Un problème empêche d'utiliser les armes améliorées dans la Chambre des armes.<br>Veuillez déséquiper toutes les armes améliorées équipées sur vos personnages avant de lancer une quête dans cette chambre. Nous vous demandons un peu de patience le temps que nous puissions régler le problème.<br>Retour à l'écran-titre.",
         "Aufgrund eines technischen Problems können verstärkte Waffen gegenwärtig nicht in der Waffenkammer verwendet werden.<br> Bitte legt alle verstärkten Waffen ab, bevor ihr euch auf einen Auftrag in der Waffenkammer begebt. Bis das Problem behoben ist bitten wir um euer Verständnis.<br>Zum Titelbildschirm zurückkehren.",
-        "Un error del juego está impidiendo que se puedan usar armas mejoradas en la Cámara de las reliquias.<br>Por favor, no os equipéis ningún arma mejorada cuando queráis realizar una misión en esta cámara. Os pedimos paciencia mientras resolvemos esta incidencia.<br>Regresando al juego..."
+        "Un error del juego está impidiendo que se puedan usar armas mejoradas en la Cámara de las reliquias.<br>Por favor, no os equipéis ningún arma mejorada cuando queráis realizar una misión en esta cámara. Os pedimos paciencia mientras resolvemos esta incidencia.<br>Regresando al juego...",
+        "Masalah yang terjadi tidak mencegah penggunaan senjata yang telah diperkuat di Ruang Dua Belas Relik.<br>Silakan tanggalkan senjata yang telah diperkuat sebelum memulai quest di ruang ini. Dimohon tunggu sebentar hingga masalah ini diselesaikan.<br>Kembali ke layar judul.",
+        "เกิด\u001aปัญหา\u001aใน\u001aเกม\u001aขึ้น\u001a \u001aส่งผล\u001aให้\u001aอุปกรณ์\u001aที่\u001aได้รับ\u001aเสริม\u001aพลัง\u001aใน\u001aอีเวนท์\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001aนั้น\u001a \u001aไม่\u001aสามารถ\u001aใช้งาน\u001aได้\u001aใน\u001aห้องโถง\u001aแห่ง\u001aศาสตราวุธ\u001a \u001a<br>\u001a \u001aโปรด\u001aปลด\u001aอุปกรณ์\u001aที่\u001aได้รับ\u001aการ\u001aเสริม\u001aพลัง\u001aใน\u001aอีเวนท์\u001aให้\u001aเรียบร้อย\u001aทุก\u001aชิ้น\u001aก่อน\u001aเข้า\u001aรับ\u001aเค\u001aวส\u001aใน\u001aห้องโถง\u001aแห่ง\u001aนี้\u001a \u001aขอความกรุณา\u001aรอ\u001aสักพัก\u001a \u001aจนกว่า\u001aเรา\u001aจะ\u001aดำเนินการ\u001aแก้ไขปัญหา\u001aดัง\u001aข้างต้น\u001aได้\u001aสำเร็จ\u001a<br>\u001a \u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
     "263": [
         "You are already enhancing other equipment.",
@@ -2085,7 +2597,9 @@
         "이미 장비 강화 중인 아이템이 있습니다.",
         "Un autre équipement est déjà en train d'être amélioré.",
         "Du verstärkst bereits andere Ausrüstungsgegenstände.",
-        "Ya estás mejorando otro equipo."
+        "Ya estás mejorando otro equipo.",
+        "Sudah ada item yang sedang diperkuat saat ini.",
+        "มี\u001aไอเทม\u001aของ\u001aคุณ\u001aที่\u001aกำลัง\u001aอยู่\u001aระหว่าง\u001aการ\u001aเสริม\u001aพลัง\u001aอยู่\u001a"
     ],
     "264": [
         "Units cannot be summoned because your unit inventory is full. Please clear some space before attempting to summon again.",
@@ -2093,7 +2607,9 @@
         "유닛 보유 한도를 초과하여, 소환을 실행할 수 없습니다. 유닛 보유 수량을 조절해 주십시오.",
         "Impossible d'invoquer d'autres unités car vous avez dépassé le nombre limite d'unités. Veuillez faire de l'espace dans votre inventaire avant de recommencer.",
         "Du kannst keine Einheiten beschwören, weil dein Einheiteninventar voll ist. Bitte schaffe vor einem erneuten Beschwörungsversuch zunächst etwas Platz in deinem Inventar.",
-        "No se pueden invocar unidades porque tu inventario de unidades está lleno. Por favor, libera algo de espacio antes de intentar realizar una nueva invocación."
+        "No se pueden invocar unidades porque tu inventario de unidades está lleno. Por favor, libera algo de espacio antes de intentar realizar una nueva invocación.",
+        "Unit tidak dapat disummon karena inventory unitmu telah penuh. Silakan kosongkan ruang penyimpanan sebelum mencoba melakukan summon sekali lagi.",
+        "คุณ\u001aไม่\u001aสามารถ\u001aซัม\u001aม่อน\u001aยู\u001aนิ\u001aท\u001aได้\u001aเพราะ\u001aคลัง\u001aยู\u001aนิ\u001aท\u001aของ\u001aคุณ\u001aเต็ม\u001aแล้ว\u001a \u001aกรุณา\u001aจัดการ\u001aให้\u001aมี\u001aพื้น\u001aที่ว่าง\u001aก่อนที่จะ\u001aพยายาม\u001aซัม\u001aม่อน\u001aใน\u001aรอบ\u001aถัดไป\u001a"
     ],
     "265": [
         "Invalid mission data.",
@@ -2101,7 +2617,9 @@
         "미션 정보가 올바르지 않습니다.",
         "Données de mission invalides.",
         "Ungültige Missionsdaten.",
-        "Información de misión inválida."
+        "Información de misión inválida.",
+        "Data misi tidak valid.",
+        "ข้อมูล\u001aมิชชั่น\u001aมีปัญหา\u001a"
     ],
     "266": [
         "Invalid ability data.",
@@ -2109,7 +2627,9 @@
         "어빌리티 정보가 올바르지 않습니다.",
         "Données d'aptitude invalides.",
         "Ungültige Fertigkeitendaten.",
-        "Información de misión inválida."
+        "Información de misión inválida.",
+        "Data ability tidak valid.",
+        "ข้อมูล\u001a \u001aAbility\u001a \u001aมีปัญหา\u001a"
     ],
     "267": [
         "Invalid unit conversion data.",
@@ -2117,7 +2637,9 @@
         "각성 변환 유닛 정보가 올바르지 않습니다.",
         "Données de conversion d'unité invalides.",
         "Ungültige Einheiten-Konvertierungsdaten.",
-        "Información de conversión de unidad inválida."
+        "Información de conversión de unidad inválida.",
+        "Data konversi unit tidak valid.",
+        "ข้อมูล\u001aการ\u001aแปลง\u001aสภาพ\u001aยู\u001aนิ\u001aท\u001aมีปัญหา\u001a"
     ],
     "268": [
         "The conversion was canceled because a favorited unit was included.<br>The app will now close.",
@@ -2125,7 +2647,9 @@
         "즐겨찾기에 등록된 유닛의 각성 변환을 시도하였으므로, 처리가 취소되었습니다.<br>일단 애플리케이션을 종료합니다.",
         "La conversion d'unité a été annulée parce qu'une unité de vos favoris était présente.<br>L'application va fermer.",
         "DieKonvertierungwurde abgebrochen, weil eine bevorzugte Einheit mit enthalten war.<br>Die App wird nun geschlossen.",
-        "Se canceló la conversión porque se incluyó una unidad marcada como favorita.<br>Cerrando la app..."
+        "Se canceló la conversión porque se incluyó una unidad marcada como favorita.<br>Cerrando la app...",
+        "Konversi dibatalkan karena unit favorit telah disertakan.<br>App akan ditutup sekarang.",
+        "การ\u001aแปลง\u001aสภาพ\u001aยู\u001aนิ\u001aท\u001aถูก\u001aยกเลิก\u001a \u001aเพราะ\u001aมี\u001aยู\u001aนิ\u001aท\u001aใน\u001aรายการ\u001aยอดฮิต\u001aรวม\u001aไว้\u001aอยู่\u001aด้วย\u001a<br>\u001aแอพพลิเคชั่น\u001aจะ\u001aทำการ\u001aปิด\u001aตัว\u001aลง\u001a"
     ],
     "269": [
         "Friend data has been updated.<br>Returning to title to retrieve newest data.",
@@ -2133,7 +2657,9 @@
         "친구 정보가 갱신되었습니다.<br>데이터를 다시 가져오기 위해, 타이틀 화면으로 돌아갑니다.",
         "Les données d'amitié ont été mises à jour.<br>Retour à l'écran-titre pour récupérer les nouvelles données.",
         "Die Freundesdaten wurden aktualisiert.<br>Zum Titelbildschirm zurückkehren, um aktuelle Daten abzurufen.",
-        "La información del amigo se ha actualizado.<br>Regresando al juego para recuperar la información más reciente."
+        "La información del amigo se ha actualizado.<br>Regresando al juego para recuperar la información más reciente.",
+        "Data teman telah diperbarui.<br>Kembali ke layar judul untuk memperoleh data terbaru.",
+        "ข้อมูล\u001aเพื่อน\u001aได้รับ\u001aการ\u001aอัพเดท\u001aแล้ว\u001a \u001a<br>\u001aระบบ\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a \u001aเพื่อ\u001aทำการ\u001aดึง\u001aข้อมูล\u001aใหม่\u001aล่าสุด\u001a"
     ],
     "270": [
         "A material unit that won't contribute anything to the fusion has been included.<br>Please check your base and material units before proceeding.",
@@ -2141,7 +2667,9 @@
         "베이스 유닛에 합성해도, 아무 것도 획득할 수 없는 유닛이 재료에 포함되어 있습니다.<br>베이스 유닛, 재료 유닛을 확인해 주십시오.",
         "Une unité utilisée en tant que matériau ne contribuant en rien à la fusion a été incluse.<br>Veuillez vérifier l'unité servant de base avant de continuer.",
         "Eine Materialeinheit, die nichts zur Verbesserung in der Fusion beiträgt, ist mit enthalten.<br>Bitte überprüfe deine Basis- und Materialeinheiten, bevor du fortfährst.",
-        "Se ha incluido una unidad material que no puede contribuir en nada a la fusión.<br>Por favor, comprueba tus unidades materiales y base antes de continuar."
+        "Se ha incluido una unidad material que no puede contribuir en nada a la fusión.<br>Por favor, comprueba tus unidades materiales y base antes de continuar.",
+        "Unit material yang tidak mengkontribusi apa pun pada penggabungan telah disertakan.<br>Silakan periksa unit dasar dan unit materialmu sebelum melanjutkan.",
+        "ใน\u001aรายการ\u001aมี\u001aยู\u001aนิ\u001aท\u001aวัตถุดิบ\u001a \u001aที่\u001aไม่\u001aก่อ\u001aให้\u001aผลลัพธ์\u001aประการ\u001aใด\u001a \u001aแม้\u001aจะ\u001aนำ\u001aไป\u001aผ่าน\u001aการ\u001aรวม\u001aร่าง\u001aก็ตาม\u001a \u001ai\u001a<br>\u001aโปรด\u001aเช็ค\u001aดู\u001aรายละเอียด\u001aยู\u001aนิ\u001aท\u001aพื้นฐาน\u001aและ\u001aยู\u001aนิ\u001aท\u001aวัตถุดิบ\u001aก่อนที่จะ\u001aดำเนินการ\u001aใดๆ\u001aต่อ\u001a"
     ],
     "271": [
         "◆ Friend List Refresh Restriction ◆<br> <br>The friend list refresh feature is currently being restricted to prevent data overload.<br>Please see the in-game news section for more details.<br>We thank you for your patience.<br> <br>The FFBE Team",
@@ -2149,7 +2677,9 @@
         "◆친구 정보 갱신 제한◆<br> <br>서버 과부화 해결을 위해, 친구 정보 갱신을 제한하였습니다.<br>자세한 내용은 애플리케이션 내 공지를 확인해 주십시오.<br>감사합니다.<br> <br>FINAL FANTASY BRAVE EXVIUS 운영팀",
         "◆ Restriction de rafraîchissement de la liste d'amis ◆<br> <br>La fonction de rafraîchissement de la liste d'amis est actuellement réduite pour éviter une surcharge des serveurs.<br>Veuillez vous référer aux notifications en jeu pour plus de détails.<br>Nous vous remercions de votre patience.<br> <br>L'équipe de FFBE.",
         "◆Einschränkung der Aktualisierung der Freundeslisten◆<br> <br>Zur VerhinderungeinerDatenüberlastungist die Funktion zur Aktualisierung der Freundesliste gegenwärtig eingeschränkt.<br>Details findest du unter „Neues“.<br>Vielen Dank für dein Verständnis.<br> <br>DasFFBE Team",
-        "◆ Restricciones en la actualización de la lista de amigos ◆<br> <br>La función para actualizar la lista de amigos ha sido restringida para evitar sobrecargas de datos.<br>Para conocer más información, visita la sección de noticias dentro del juego.<br>Os damos las gracias por vuestra paciencia.<br> <br>El equipo de FFBE"
+        "◆ Restricciones en la actualización de la lista de amigos ◆<br> <br>La función para actualizar la lista de amigos ha sido restringida para evitar sobrecargas de datos.<br>Para conocer más información, visita la sección de noticias dentro del juego.<br>Os damos las gracias por vuestra paciencia.<br> <br>El equipo de FFBE",
+        "◆ Pembatasan Pembaruan Daftar Teman ◆<br> <br>Saat ini, fitur pembaruan daftar teman dibatasi untuk mencegah kelebihan data.<br>Silakan periksa pengumuman dalam game untuk info lebih lanjut.<br>Terima kasih atas perhatiannya.<br> <br>Tim FFBE",
+        "◆\u001a \u001aการ\u001aจำกัด\u001aการใช้งาน\u001aฟังก์ชั่น\u001a \u001aRefresh\u001a \u001aรายชื่อ\u001aเพื่อน\u001a \u001a◆<br>\u001a \u001a<br>\u001aใน\u001aตอนนี้\u001a \u001aฟังก์ชั่น\u001aการ\u001a \u001aRefresh\u001a \u001aรายชื่อ\u001aเพื่อน\u001aนั้น\u001a \u001aกำลัง\u001aถูก\u001aจำกัด\u001aการงาน\u001aเพื่อ\u001aป้องกัน\u001aไม่\u001aให้\u001aข้อมูล\u001aโอเวอร์\u001aโหลด\u001a<br>\u001aกรุณา\u001aอ่าน\u001aเนื้อหา\u001aเพิ่มเติม\u001aได้ที่\u001a \u001aส่วน\u001aข่าวสาร\u001aใน\u001aเกม\u001aP\u001a<br>\u001aเรา\u001aขออภัย\u001aใน\u001aความไม่สะดวก\u001aมา\u001a \u001aณ\u001a \u001aโอกาส\u001aนี้\u001a<br>\u001a \u001a<br>\u001aทีมงาน\u001a \u001aFFBE\u001a"
     ],
     "272": [
         "There were no units which could be loaded from the slot.",
@@ -2157,7 +2687,9 @@
         "슬롯에서 불러올 수 있는 유닛이 없습니다.",
         "Aucune unité disponible dans l'emplacement.",
         "Keine abrufbaren Einheiten im Slot gefunden.",
-        "No había unidades disponibles en la ranura."
+        "No había unidades disponibles en la ranura.",
+        "There were no units which could be loaded from the slot.",
+        "ไม่\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aสามารถ\u001aโหลด\u001aมาจาก\u001aช่อง\u001aเก็บ\u001aได้\u001a"
     ],
     "273": [
         "Because you already possess at least one of the selected unit's prisms, <color=255:247:153>the unit conversion could not be completed. </color><br> <br><color=255:247:153>After using the prism in your possession</color>, please try the conversion again.<br> <br>*Awakening a unit to <color=255:247:153>7★ requires one prism.</color><br> <br>**<color=255:247:153>To obtain a super trust master reward,</color> use a 7★ unit or two 5★-6★ units as strengthening materials for a 7★ unit of the same name.<color=255:247:153>The unit does not need to be converted.</color>",
@@ -2165,7 +2697,9 @@
         "이미 선택한 유닛의 휘석을 1개 이상 보유하고 있어, <color=255:247:153>유닛 각성 변환이 불가능합니다. </color><br> <br><color=255:247:153>보유 중인 휘석을 사용하신 후</color>, 다시 각성 변환을 시도해 주십시오.<br> <br>※ 유닛을 <color=255:247:153>★7으로 각성 시 휘석 1개가 필요합니다.</color><br> <br>※ 슈퍼 트러스트 마스터 보상을 획득하려면 ★7 유닛과 동일한 이름을 가진 ★7 유닛 1명 또는 ★5-★6 유닛 2명을 강화 재료로 사용해 주십시오. <color=255:247:153>해당 유닛을 휘석으로 변환할 필요는 없습니다.</color>",
         "Il est impossible de convertir l'unité <color=255:247:153>si vous possédez déjà au moins un prismog à son nom.</color><br> <br>Veuillez réessayer <color=255:247:153>après avoir utilisé le(s) prismog(s) en votre possession.</color><br> <br>*Éveiller une unité au niveau <color=255:247:153>7★ nécessite un prismog.</color><br> <br>**<color=255:247:153>Pour obtenir la récompense de super confiance absolue,</color> utilisez une unité 7★ ou bien deux unités 5-6★ comme matériaux d'amélioration pour l'unité 7★ du même nom.<color=255:247:153>Vous n'avez pas besoin de convertir l'unité en question.</color>",
         "Da du bereits mindestens ein Prisma der ausgewählten Einheit besitzt, <color=255:247:153> konnte die Einheitenkonvertierung nicht abgeschlossen werden</color>.<br><br><color=255:247:153>Bitte starte die Konvertierung nach Verwendung deines Prismas erneut</color>.<br> <br>*Die Erweckung einer Einheit zu <color=255:247:153>7★ erfordert ein Prisma.</color><br> <br>**Benutze eine 7★ Einheit oder zwei 5★-6★ Einheiten als Verstärkungsmaterial für eine 7★ Einheit mit demselben Namen, <color=255:247:153>um eine Super-Treue-Belohnung zu erhalten.</color><color=255:247:153>Die Einheit muss nicht konvertiert werden.</color>",
-        "Como ya tienes por lo menos un prisma de la unidad seleccionada, <color=255:247:153>no se ha podido completar la conversión de unidad.</color><br><br><color=255:247:153>Usa el prisma en tu poder</color> y vuelve a intentar la conversión.<br> <br>*Para despertar a una unidad a <color=255:247:153>7★ necesitas un prisma.</color><br> <br>**<color=255:247:153>Para conseguir una recompensa supermaestro fiel</color> usa una unidad de 7★ o 2 unidades  5★-6★ como material fortalecedor para una unidad de 7★ del mismo nombre.<color=255:247:153>No necesitas convertir la unidad.</color>"
+        "Como ya tienes por lo menos un prisma de la unidad seleccionada, <color=255:247:153>no se ha podido completar la conversión de unidad.</color><br><br><color=255:247:153>Usa el prisma en tu poder</color> y vuelve a intentar la conversión.<br> <br>*Para despertar a una unidad a <color=255:247:153>7★ necesitas un prisma.</color><br> <br>**<color=255:247:153>Para conseguir una recompensa supermaestro fiel</color> usa una unidad de 7★ o 2 unidades  5★-6★ como material fortalecedor para una unidad de 7★ del mismo nombre.<color=255:247:153>No necesitas convertir la unidad.</color>",
+        "<color=255:247:153>Konversi unit tidak dapat dilakukan </color>karena kamu sudah mempunyai setidaknya satu prisma dari unit yang dipilih.<br> <br>Silakan coba sekali lagi <color=255:247:153>setelah kamu menggunakan prisma yang ada di inventory-mu</color>.<br> <br>*<color=255:247:153>Satu prisma diperlukan</color> untuk membangkitkan unit menjadi ★7.<br> <br>**<color=255:247:153>Untuk memperoleh hadiah super trust master,</color> gunakan unit ★7 unit atau dua unit ★5-★6 yang sama sebagai material penguat.<color=255:247:153>Unit tersebut tidak perlu dikonversi.</color>",
+        "ใน\u001aตอนนี้\u001a \u001aคุณ\u001aมี\u001aปริ\u001aซึ่ม\u001aของ\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aเลือก\u001aอย่าง\u001aน้อย\u001aหนึ่ง\u001aแท่ง\u001a \u001a<color=255:247:153>\u001aการ\u001aเปลี่ยนสภาพ\u001aยู\u001aนิ\u001aท\u001aเพื่อ\u001aปลุก\u001aพลัง\u001aจึง\u001aไม่\u001aสามารถ\u001aทำได้\u001aลุล่วง\u001a \u001a</color><br>\u001a \u001a<br><color=255:247:153>\u001aโปรด\u001aใช้\u001aปริ\u001aซึ่ม\u001aที่\u001aคุณ\u001aมี\u001aอยู่\u001aก่อน\u001a</color>,\u001a \u001aจากนั้น\u001aจึง\u001aพยายาม\u001aแปลง\u001aสภาพ\u001aยู\u001aนิ\u001aท\u001aเพื่อ\u001aปลุก\u001aพลัง\u001aอีก\u001aครั้งหนึ่ง\u001a<br>\u001a \u001a<br>*\u001aการปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aให้\u001aไป\u001aถึง\u001aระดับ\u001a<color=255:247:153>\u001a7\u001a★\u001a \u001aนั้น\u001aจะ\u001aต้อง\u001aใช้\u001aปริ\u001aซึ่ม\u001a \u001a1\u001a \u001aแท่ง\u001a</color><br>\u001a \u001a<br>**<color=255:247:153>\u001aใน\u001aการ\u001aได้\u001aรางวัล\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aนั้น\u001a</color>\u001a \u001aคุณ\u001aจะ\u001aต้อง\u001aใช้\u001aยู\u001aนิ\u001aท\u001a \u001a7\u001a★\u001a \u001a1\u001a \u001aตัว\u001a \u001aหรือ\u001aยู\u001aนิ\u001aท\u001a \u001a5\u001a★\u001a-\u001a6\u001a★\u001a2\u001a \u001aตัว\u001a \u001aมา\u001aเป็น\u001aวัตถุดิบ\u001aเสริม\u001aพลัง\u001aให้\u001aกับ\u001aยู\u001aนิ\u001aท\u001aเดียวกัน\u001aที่อยู่\u001aระดับ\u001a \u001a7\u001a★\u001a \u001a<color=255:247:153>\u001aในการนี้\u001aไม่\u001aจำเป็นต้อง\u001aนำ\u001aยู\u001aนิ\u001aท\u001aมา\u001aแปลง\u001aสภาพ\u001aเป็น\u001aปริ\u001aซึ่ม\u001aแต่อย่างใด\u001a</color>\u001a"
     ],
     "274": [
         "Invalid mission info.",
@@ -2173,7 +2707,9 @@
         "미션 정보가 올바르지 않습니다.",
         "Données de mission invalides.",
         "Ungültige Missionsinfo.",
-        "Datos de misión inválidos."
+        "Datos de misión inválidos.",
+        "Info misi tidak valid.",
+        "ข้อมูล\u001aภารกิจ\u001aผิดพลาด\u001a"
     ],
     "300": [
         "Invalid claimable data.",
@@ -2181,7 +2717,9 @@
         "수령 가능한 데이터가 아닙니다.",
         "Données d'obtention invalides.",
         "Ungültige Abholungsdaten.",
-        "Datos a reclamar inválidos."
+        "Datos a reclamar inválidos.",
+        "Data yang dapat diambil tidak valid.",
+        "ข้อมูล\u001aของ\u001aที่\u001aรับได้\u001aมีปัญหา\u001a"
     ],
     "301": [
         "Invalid summon data.",
@@ -2189,7 +2727,9 @@
         "소환 데이터가 올바르지 않습니다.",
         "Données d'invocation invalides.",
         "Ungültige Beschwörungsdaten.",
-        "Datos de invocación inválidos."
+        "Datos de invocación inválidos.",
+        "Data summon tidak valid.",
+        "ข้อมูล\u001aซัม\u001aม่อน\u001aมีปัญหา\u001a"
     ],
     "302": [
         "Invalid reward data.",
@@ -2197,7 +2737,9 @@
         "보상 데이터가 올바르지 않습니다.",
         "Données de récompense invalides.",
         "Ungültige Belohnungsdaten.",
-        "Datos de recompensa inválidos."
+        "Datos de recompensa inválidos.",
+        "Data hadiah tidak valid.",
+        "ข้อมูล\u001aรางวัล\u001aมีปัญหา\u001a"
     ],
     "303": [
         "Invalid summon attempt.",
@@ -2205,7 +2747,9 @@
         "잘못된 소환 시도입니다.",
         "Tentative d'invocation invalide.",
         "Ungültiger Beschwörungsversuch.",
-        "Intento de invocación inválido."
+        "Intento de invocación inválido.",
+        "Data percobaan summon tidak valid.",
+        "ความพยายาม\u001aใน\u001aการ\u001aซัม\u001aม่อน\u001aมีปัญหา\u001a"
     ],
     "304": [
         "Undefined reward data.",
@@ -2213,7 +2757,9 @@
         "확실하지 않은 보상 데이터입니다.",
         "Données de récompense non définies.",
         "Unbestimmte Belohnungsdaten.",
-        "Datos de recompensa no definidos."
+        "Datos de recompensa no definidos.",
+        "Data hadiah yang tidak dapat diidentifikasi tidak valid.",
+        "ข้อมูล\u001aรางวัล\u001aยัง\u001aไม่\u001aได้รับ\u001aการ\u001aระบุ\u001a"
     ],
     "305": [
         "Invalid summon attempt.",
@@ -2221,7 +2767,9 @@
         "잘못된 소환 시도입니다.",
         "Tentative d'invocation invalide.",
         "Ungültiger Beschwörungsversuch.",
-        "Intento de invocación inválido."
+        "Intento de invocación inválido.",
+        "Data percobaan summon tidak valid.",
+        "ความพยายาม\u001aใน\u001aการ\u001aซัม\u001aม่อน\u001aมีปัญหา\u001a"
     ],
     "306": [
         "Invalid milestone progress.",
@@ -2229,7 +2777,9 @@
         "목표 달성 진행이 올바르지 않습니다.",
         "Progrès d'étape invalides.",
         "Ungültiger Meilenstein-Fortschritt.",
-        "Progreso de récord inválido."
+        "Progreso de récord inválido.",
+        "Data kemajuan rekor tidak valid.",
+        "แถบ\u001aแสดง\u001aความคืบหน้า\u001aใน\u001aเกม\u001aมีปัญหา\u001a"
     ],
     "500": [
         "No missions to unlock",
@@ -2237,7 +2787,9 @@
         "개방할 미션이 없습니다.",
         "Aucune mission à débloquer",
         "Keine freischaltbaren Missionen.",
-        "No hay misiones para desbloquear."
+        "No hay misiones para desbloquear.",
+        "No missions to unlock",
+        "No\u001a \u001amissions\u001a \u001ato\u001a \u001aunlock\u001a"
     ],
     "501": [
         "Items required to unlock mission not held",
@@ -2245,7 +2797,9 @@
         "미션을 개방하기 위해 필요한 아이템이 없습니다.",
         "Vous ne possédez pas les objets nécessaires pour débloquer la mission",
         "Gegenstand zum Freischalten der Mission nicht verfügbar.",
-        "No tienes los objetos suficientes para desbloquear esta misión."
+        "No tienes los objetos suficientes para desbloquear esta misión.",
+        "Items required to unlock mission not held",
+        "Items\u001a \u001arequired\u001a \u001ato\u001a \u001aunlock\u001a \u001amission\u001a \u001anot\u001a \u001aheld\u001a"
     ],
     "502": [
         "Mission needs to be unlocked",
@@ -2253,7 +2807,9 @@
         "미션이 개방되어야 합니다.",
         "La mission doit être débloquée",
         "Mission muss freigeschalten werden.",
-        "Hay que desbloquear la misión."
+        "Hay que desbloquear la misión.",
+        "Mission needs to be unlocked",
+        "Mission\u001a \u001aneeds\u001a \u001ato\u001a \u001abe\u001a \u001aunlocked\u001a"
     ],
     "503": [
         "Mission is Expired",
@@ -2261,7 +2817,9 @@
         "더 이상 수행할 수 없는 미션입니다.",
         "La mission a expiré",
         "Mission ist abgelaufen",
-        "La misión ha caducado"
+        "La misión ha caducado",
+        "Mission is Expired",
+        "Mission\u001a \u001ais\u001a \u001aExpired\u001a"
     ],
     "504": [
         "Mission is already unlocked",
@@ -2269,7 +2827,9 @@
         "미션이 이미 개방되었습니다.",
         "La mission est déjà débloquée",
         "Mission ist bereits freigeschalten.",
-        "La misión ya está desbloqueada."
+        "La misión ya está desbloqueada.",
+        "Misi telah dibuka",
+        "ภารกิจ\u001aนี้\u001aได้รับ\u001aการปลด\u001aล็อค\u001aแล้ว\u001a"
     ],
     "900": [
         "Please log in again.",
@@ -2277,7 +2837,9 @@
         "다시 로그인해주십시오.",
         "Veuillez vous reconnecter.",
         "Bitte logge dich erneut ein.",
-        "Vuelve a iniciar sesión."
+        "Vuelve a iniciar sesión.",
+        "Silakan login sekali lagi.",
+        "กรุณา\u001a \u001aLogin\u001a \u001aใหม่\u001a"
     ],
     "901": [
         "Cannot unbind Google/Facebook/Apple data from the in-game account.",
@@ -2285,7 +2847,9 @@
         "해당 게임 계정에서 Google/Facebook/Apple과의 연동을 해제할 수 없습니다.",
         "Impossible de délier le compte Facebook/Google/Apple de vos données de jeu.",
         "Kann Google-/Facebook-/Apple-Konto nicht vom Spielkonto trennen.",
-        "No se puede desvincular tu cuenta de Google/Facebook/Apple de la cuenta del juego."
+        "No se puede desvincular tu cuenta de Google/Facebook/Apple de la cuenta del juego.",
+        "Tidak dapat mengaitkan data Google/Facebook/Apple dari akun game.",
+        "ไม่\u001aสามารถ\u001aยกเลิก\u001aการผูก\u001aข้อมูล\u001a \u001aGoogle\u001a/\u001aFacebook\u001a/\u001aApple\u001a \u001aกับ\u001aบัญชี\u001aผู้\u001aเล่น\u001aใน\u001aเกม\u001aได้\u001a"
     ],
     "902": [
         "Cannot verify Google/Facebook/Apple data.",
@@ -2293,7 +2857,9 @@
         "Google/Facebook/Apple 데이터를 확인할 수 없습니다.",
         "Impossible de vérifier les données de Facebook/Google/Apple",
         "Kann Google-/Facebook-/Apple-Daten nicht verifizieren.",
-        "No se pueden comprobar los datos de Google/Facebook/Apple."
+        "No se pueden comprobar los datos de Google/Facebook/Apple.",
+        "Tidak dapat verifikasi data Google/Facebook/Apple.",
+        "ไม่\u001aสามารถ\u001aตรวจสอบ\u001aข้อมูล\u001a \u001aGoogle\u001a/\u001a \u001aFacebook\u001a/\u001aApple\u001a \u001aได้\u001a"
     ],
     "903": [
         "Insufficient information.",
@@ -2301,7 +2867,9 @@
         "충분한 정보가 없어 진행할 수 없습니다.",
         "Informations insuffisantes",
         "Nicht genug Informationen, um fortzufahren.",
-        "Falta información."
+        "Falta información.",
+        "Informasi tidak cukup.",
+        "ข้อ\u001aมููล\u001aมี\u001aไม่\u001aเพียงพอ\u001a"
     ],
     "904": [
         "Google/Facebook/Apple data already bound to another in-game account.",
@@ -2309,7 +2877,9 @@
         "Google/Facebook/Apple에 다른 게임 계정이 연동되어 있습니다.",
         "Un compte Facebook/Google/Apple est déjà lié à vos données de jeu.",
         "Google-/Facebook-/Apple-Konto mit einem anderen Spielekonto verknüpft.",
-        "Esta cuenta de Google/Facebook/Apple ya está vinculada a otra cuenta del juego."
+        "Esta cuenta de Google/Facebook/Apple ya está vinculada a otra cuenta del juego.",
+        "Data Google/Facebook/Apple sudah terkait dengan akun game lainnya.",
+        "ข้อมูล\u001aบน\u001a \u001aGoogle\u001a/\u001aFacebook\u001a/\u001aApple\u001a \u001aอยู่\u001aใน\u001aสภาพ\u001aที่\u001aผูก\u001aเข้ากับ\u001aบัญชี\u001aผู้\u001aเล่น\u001aอื่น\u001aใน\u001aเกม\u001aอยู่แล้ว\u001a"
     ],
     "905": [
         "Account has reached the maximum limit of binding attempts.",
@@ -2317,7 +2887,9 @@
         "계정 연동 가능 횟수를 모두 사용하였습니다.",
         "Ce compte a atteint le maximum de tentatives de liaison aux données de jeu.",
         "Das Konto hat das Maximum an Kontoverknüpfungen erreicht.",
-        "No se pueden vincular más cuentas."
+        "No se pueden vincular más cuentas.",
+        "Batas maksimum pengaitan untuk akun ini telah tercapai.",
+        "บัญชี\u001aผู้\u001aเล่น\u001aได้\u001aพยายาม\u001aทำ\u001aการผูก\u001aบัญชี\u001aจน\u001aเต็ม\u001aโควต้า\u001aแล้ว\u001a"
     ],
     "906": [
         "The account cannot be unbound from the Google/Facebook/Apple data currently associated with it.",
@@ -2325,7 +2897,9 @@
         "다른 Google/Facebook/Apple 계정에서 해당 계정과의 연동을 해제할 수 없습니다.",
         "Le compte Facebook/Google/Apple ne peut pas être délié aux données de jeu auquel il est associé.",
         "Das Konto kann nicht von einem anderen Google-/Facebook-/Apple-Konto getrennt werden.",
-        "No se puede desvincular esta cuenta de otra cuenta de Google/Facebook/Apple."
+        "No se puede desvincular esta cuenta de otra cuenta de Google/Facebook/Apple.",
+        "Akun tidak dapat diputuskan dari data Google/Facebook/Apple yang sedang dikaitkan saat ini.",
+        "ไม่\u001aสามารถ\u001aยกเลิก\u001aการผูก\u001aบัญชี\u001aผู้\u001aเล่น\u001aออกจาก\u001aข้อมูล\u001aที่\u001aเกี่ยวข้อง\u001aบน\u001a \u001aGoogle\u001a/\u001a \u001aFacebook\u001a/\u001aApple\u001a \u001aได้\u001a"
     ],
     "907": [
         "Forbidden action.",
@@ -2333,7 +2907,9 @@
         "금지된 행위입니다.",
         "Action interdite.",
         "Aktion nicht gestattet.",
-        "No se puede realizar esta acción."
+        "No se puede realizar esta acción.",
+        "Tindakan yang dilarang.",
+        "การ\u001aดำเนินการ\u001aไม่\u001aได้รับอนุญาต\u001a"
     ],
     "908": [
         "Cannot verify account information. Please authenticate with Facebook, Google, or Apple account again.",
@@ -2341,7 +2917,9 @@
         "계정 정보를 확인할 수 없습니다. Facebook, Google 또는 Apple 계정으로 다시 인증해 주십시오.",
         "Impossible de vérifier les informations sur le compte. Merci de vous authentifier à nouveau avec votre compte Facebook/Google/Apple.",
         "Kann Kontoinformationen nicht verifizieren. Bitte Authentifizierung mit Facebook/Google/Apple-Konto noch einmal durchführen.",
-        "No se puede comprobar la información de la cuenta. Vuelve a autentificar tus datos con una cuenta de Facebook, Google o Apple."
+        "No se puede comprobar la información de la cuenta. Vuelve a autentificar tus datos con una cuenta de Facebook, Google o Apple.",
+        "Tidak dapat verifikasi informasi akun. Silakan autentikasi akun Facebook, Google, atau Apple sekali lagi.",
+        "ไม่\u001aสามารถ\u001aตรวจสอบ\u001aบัญชี\u001aผู้\u001aเล่น\u001aได้\u001a \u001aโปรด\u001aทำการ\u001aยืนยัน\u001aด้วย\u001aบัญชี\u001aผู้ใช้\u001a \u001aFacebook\u001a,\u001a \u001aGoogle\u001a \u001aหรือ\u001a \u001aApple\u001a \u001aอีก\u001aครั้งหนึ่ง\u001a"
     ],
     "920": [
         "Invalid store data.",
@@ -2349,7 +2927,9 @@
         "스토어 정보가 올바르지 않습니다.",
         "Données boutique incorrectes.",
         "Ungültige Store-Daten.",
-        "Datos de tienda no válidos."
+        "Datos de tienda no válidos.",
+        "Data toko tidak valid.",
+        "ข้อมูล\u001aร้าน\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "921": [
         "Invalid data detected.",
@@ -2357,7 +2937,9 @@
         "잘못된 정보를 감지했습니다.",
         "Données incorrectes détectées.",
         "Ungültige Daten wurden erkannt.",
-        "Se han detectado datos no válidos."
+        "Se han detectado datos no válidos.",
+        "Data tidak valid terdeteksi.",
+        "ตรวจ\u001aพบ\u001aข้อมูล\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "922": [
         "A connection error has occurred.",
@@ -2365,7 +2947,9 @@
         "통신 오류가 발생했습니다.",
         "Une erreur de connexion s'est produite.",
         "Es ist ein Verbindungsfehler aufgetreten.",
-        "Ha ocurrido un error de conexión."
+        "Ha ocurrido un error de conexión.",
+        "Terjadi kesalahan koneksi.",
+        "เกิด\u001aข้อผิดพลาด\u001aด้าน\u001aการ\u001aเชื่อมต่อ\u001a"
     ],
     "923": [
         "Invalid data detected.",
@@ -2373,6 +2957,8 @@
         "잘못된 정보를 감지했습니다.",
         "Données incorrectes détectées.",
         "Ungültige Daten wurden erkannt.",
-        "Se han detectado datos no válidos."
+        "Se han detectado datos no válidos.",
+        "Data tidak valid terdeteksi.",
+        "ตรวจ\u001aพบ\u001aข้อมูล\u001aไม่\u001aถูกต้อง\u001a"
     ]
 }

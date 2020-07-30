@@ -1,11 +1,17 @@
 {
+    "1": {
+        "0": null,
+        "7": "<blank>\u001a"
+    },
     "2": [
         "Fire attacks",
         "火屬性攻擊",
         "불속성 공격",
         "Attaque de feu",
         "Feuerangriffe",
-        "Elemento fuego"
+        "Elemento fuego",
+        "Serangan api",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aไฟ\u001a"
     ],
     "3": [
         "Ice attacks",
@@ -13,7 +19,9 @@
         "얼음속성 공격",
         "Attaque de glace",
         "Eisangriffe",
-        "Elemento hielo"
+        "Elemento hielo",
+        "Serangan es",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aน้ำแข็ง\u001a"
     ],
     "4": [
         "Lightning attacks",
@@ -21,7 +29,9 @@
         "번개속성 공격",
         "Attaque de foudre",
         "Blitzangriffe",
-        "Elemento rayo"
+        "Elemento rayo",
+        "Serangan petir",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aสายฟ้า\u001a"
     ],
     "5": [
         "Water attacks",
@@ -29,7 +39,9 @@
         "물속성 공격",
         "Attaque d'eau",
         "Wasserangriffe",
-        "Elemento agua"
+        "Elemento agua",
+        "Serangan air",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aน้ำ\u001a"
     ],
     "6": [
         "Wind attacks",
@@ -37,7 +49,9 @@
         "바람속성 공격",
         "Attaque de vent",
         "Windangriffe",
-        "Elemento viento"
+        "Elemento viento",
+        "Serangan angin",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aลม\u001a"
     ],
     "7": [
         "Earth attacks",
@@ -45,7 +59,9 @@
         "땅속성 공격",
         "Attaque de terre",
         "Erdangriffe",
-        "Elemento tierra"
+        "Elemento tierra",
+        "Serangan tanah",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aดิน\u001a"
     ],
     "8": [
         "Light attacks",
@@ -53,7 +69,9 @@
         "빛속성 공격",
         "Attaque de lumière",
         "Lichtangriffe",
-        "Elemento luz"
+        "Elemento luz",
+        "Serangan cahaya",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aแสง\u001a"
     ],
     "9": [
         "Dark attacks",
@@ -61,7 +79,9 @@
         "어둠속성 공격",
         "Attaque de ténèbres",
         "Dunkelangriffe",
-        "Elemento oscuridad"
+        "Elemento oscuridad",
+        "Serangan kegelapan",
+        "โจมตี\u001aด้วย\u001aธาตุ\u001aมืด\u001a"
     ],
     "10": [
         "Parameter boosts",
@@ -69,7 +89,9 @@
         "능력치 상승 계열",
         "Augmentation des caractéristiques",
         "Werte-Erhöhung",
-        "Potenciadores de parámetros"
+        "Potenciadores de parámetros",
+        "Peningkatan parameter",
+        "เพิ่มค่า\u001aสเตตัส\u001a"
     ],
     "11": [
         "Parameter reductions",
@@ -77,7 +99,9 @@
         "능력치 감소 계열",
         "Réduction des caractéristiques",
         "Werte-Senkung",
-        "Debilitadores de parámetros"
+        "Debilitadores de parámetros",
+        "Pengurangan parameter",
+        "ลด\u001aค่า\u001aสเตตัส\u001a"
     ],
     "12": [
         "Multi-hit physical combos",
@@ -85,7 +109,9 @@
         "연속 물리 공격 계열",
         "Multiplicateurs d'attaques physiques",
         "Physische Angriffkombos",
-        "Ataques múltiples"
+        "Ataques múltiples",
+        "Penggunaan berbagai serangan fisik",
+        "โจมตี\u001aคอม\u001aโบ\u001aกายภาพ\u001a"
     ],
     "13": [
         "Multi-hit magical combos",
@@ -93,7 +119,9 @@
         "연속 마법 공격 계열",
         "Multiplicateurs d'attaques magiques",
         "Magische Angriffkombos",
-        "Magia múltiple"
+        "Magia múltiple",
+        "Penggunaan berbagai serangan magic",
+        "โจมตี\u001aคอม\u001aโบ\u001aพลัง\u001aเวทย์\u001a"
     ],
     "14": [
         "Status ailments",
@@ -101,7 +129,9 @@
         "상태이상 부여 계열",
         "Altération d'état",
         "Zustandsveränderungen",
-        "Estados alterados"
+        "Estados alterados",
+        "Status abnormal",
+        "สถานะ\u001aผิดปกติ\u001a"
     ],
     "15": [
         "Multiple use abilities",
@@ -109,39 +139,31 @@
         "다중 공격 계열",
         "Aptitudes permettant un usage multiple",
         "Mehrfachgebrauch-Fertigkeiten",
-        "Habilidades de uso múltiple"
+        "Habilidades de uso múltiple",
+        "Penggunaan berbagai ability",
+        "Ability\u001a \u001aที่\u001aใช้ได้\u001aหลายครั้ง\u001a"
     ],
-    "20": [
-        "Area effect abilities",
-        "範圍效果",
-        "광역 계열",
-        "Aptitudes à effet de zone",
-        "Bereichsfertigkeiten",
-        "Habilidades de grupo"
-    ],
-    "21": [
-        "Physical damage abilities",
-        "物理攻擊",
-        "물리 피해",
-        "Aptitudes de dégâts physiques",
-        "Physische Angriffsfertigkeiten",
-        "Habilidades de daño físico"
-    ],
-    "22": [
-        "Elemental attacks",
-        "屬性攻擊",
-        "속성 공격",
-        "Aptitudes élémentaires",
-        "Elementarangriffe",
-        "Ataques elementales"
-    ],
+    "20": {
+        "0": null,
+        "6": "Ability dengan jangkauan besar"
+    },
+    "21": {
+        "0": null,
+        "6": "Ability dengan damage fisik"
+    },
+    "22": {
+        "0": null,
+        "6": "Serangan berelemen"
+    },
     "50": [
         "Black Magic",
         "黑魔法",
         "흑마법",
         "Magie noire",
         "Schwarzmagie",
-        "Magia negra"
+        "Magia negra",
+        "Magic Hitam",
+        "พลัง\u001aเวทย์\u001aดำ\u001a"
     ],
     "51": [
         "White Magic",
@@ -149,7 +171,9 @@
         "백마법",
         "Magie blanche",
         "Weißmagie",
-        "Magia blanca"
+        "Magia blanca",
+        "Magic Putih",
+        "พลัง\u001aเวทย์\u001aขาว\u001a"
     ],
     "52": [
         "Recovery abilities",
@@ -157,7 +181,9 @@
         "회복 계열",
         "Aptitudes de récupération",
         "Heilungsfertigkeiten",
-        "Habilidades de recuperación"
+        "Habilidades de recuperación",
+        "Ability pemulihan",
+        "Ability\u001a \u001aฟื้นฟู\u001a"
     ],
     "53": [
         "Status altering abilities",
@@ -165,7 +191,9 @@
         "상태 변경",
         "Aptitudes altérant l'état",
         "Statusfertigkeiten",
-        "Habilidades de cambio de estado"
+        "Habilidades de cambio de estado",
+        "Ability yang mempengaruhi status",
+        "บัฟ\u001a \u001a/\u001a \u001aดี\u001aบัฟ\u001a"
     ],
     "99": [
         "Permanently forbidden abilities",
@@ -173,6 +201,8 @@
         "영구 금지 어빌리티",
         "Aptitudes bannies à jamais",
         "Vorübergehend verbotene Fertigkeiten",
-        "Habilidades prohibidas permanentemente"
+        "Habilidades prohibidas permanentemente",
+        "Ability yang dilarang secara permanen",
+        "Ability\u001a \u001aต้องห้าม\u001a"
     ]
 }
