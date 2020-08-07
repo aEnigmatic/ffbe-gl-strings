@@ -87,7 +87,7 @@
         "Erhöht Resistenz gegenüber Magieschaden.",
         "Mejora la resistencia mágica.",
         "Meningkatkan resistansi damage magic.",
-        "เพิ่มค่า\u001aต้านทาน\u001aพลัง\u001aเวทย์\u001a"
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aพลัง\u001aเวทย์\u001a"
     ],
     "9": [
         "Lower magic damage resistance.",
@@ -97,7 +97,7 @@
         "Senkt Resistenz gegenüber Magieschaden.",
         "Reduce la resistencia mágica.",
         "Mengurangi resistansi damage magic.",
-        "ลด\u001aค่า\u001aต้านทาน\u001aพลัง\u001aเวทย์\u001a"
+        "ลด\u001aพลัง\u001aต้านทาน\u001aพลัง\u001aเวทย์\u001a"
     ],
     "10": [
         "Lowers damage.",
@@ -197,7 +197,7 @@
         "Füllt schrittweise LP auf.",
         "Recupera VIT gradualmente.",
         "Memulihkan HP secara bertahap.",
-        "ค่อยๆ\u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a"
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a"
     ],
     "21": [
         "Recovers once from KO.",
@@ -217,7 +217,7 @@
         "Füllt schrittweise MP auf.",
         "Recupera PM gradualmente.",
         "Memulihkan MP secara bertahap.",
-        "ค่อยๆ\u001aฟื้นฟู\u001aค่า\u001a \u001aMP\u001a"
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a"
     ],
     "23": [
         "Boosts fire resistance.",
@@ -467,7 +467,7 @@
         "Steigert Füllrate des Limitmeters.",
         "La barra Estallido Límite se llena más rápido.",
         "Meningkatkan kecepatan pengisian bar limit burst.",
-        "เพิ่ม\u001a \u001aFill\u001a \u001arate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a"
+        "เพิ่ม\u001a \u001aFill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a"
     ],
     "48": [
         "Sings a song with various effects.",
@@ -487,7 +487,7 @@
         "Erhöht maximale LP.",
         "Aumenta la VIT máxima.",
         "Meningkatkan jumlah maksimum HP.",
-        "เพิ่มค่า\u001aขอบเขต\u001a \u001aHP\u001a \u001aสูงสุด\u001a"
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001aสูงสุด\u001a"
     ],
     "50": [
         "Boosts maximum HP.",
@@ -497,7 +497,7 @@
         "Erhöht maximale LP.",
         "Aumenta la VIT máxima.",
         "Meningkatkan jumlah maksimum HP.",
-        "เพิ่มค่า\u001aขอบเขต\u001a \u001aHP\u001a \u001aสูงสุด\u001a"
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001aสูงสุด\u001a"
     ],
     "51": [
         "Boosts maximum MP.",
@@ -507,7 +507,7 @@
         "Erhöht maximale MP.",
         "Aumenta los PM máximos.",
         "Meningkatkan jumlah maksimum MP.",
-        "เพิ่มค่า\u001aขอบเขต\u001a \u001aMP\u001a \u001aสูงสุด\u001a"
+        "เพิ่มค่า\u001a \u001aMP\u001a \u001aสูงสุด\u001a"
     ],
     "52": [
         "Boosts maximum MP.",
@@ -517,7 +517,7 @@
         "Erhöht maximale MP.",
         "Aumenta los PM máximos.",
         "Meningkatkan jumlah maksimum MP.",
-        "เพิ่มค่า\u001aขอบเขต\u001a \u001aMP\u001a \u001aสูงสุด\u001a"
+        "เพิ่มค่า\u001a \u001aMP\u001a \u001aสูงสุด\u001a"
     ],
     "53": [
         "Agitates and disables command input.",
@@ -1438,5 +1438,1135 @@
         "Resistencia a la petrificación.",
         "Memberikan resistansi status petrify.",
         "มีพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aStone\u001a"
+    ],
+    "145": [
+        "Resistance to zombie.",
+        "對殭屍的耐性",
+        "좀비에 대한 저항력.",
+        "Résistance à la zombie",
+        "Resistent gegen Zombie.",
+        "Resistencia a zombi.",
+        "Resistansi status zombie.",
+        "มีพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aZombie\u001a"
+    ],
+    "146": [
+        "Reduces physical damage from beasts.",
+        "減少獸系魔物的物理傷害",
+        "야수형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les bêtes.",
+        "Verringert physischen Schaden durch Bestien.",
+        "Reduce el daño físico que infligen las bestias.",
+        "Mengurangi damage fisik dari jenis makhluk buas.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aอสูร\u001a"
+    ],
+    "147": [
+        "Reduces physical damage from avian monsters.",
+        "減少鳥系魔物的物理傷害",
+        "조류형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les oiseaux.",
+        "Verringert physischen Schaden durch Vogelmonster.",
+        "Reduce el daño físico que infligen las aves.",
+        "Mengurangi damage fisik dari jenis makhluk bersayap.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "148": [
+        "Reduces physical damage from aquatic monsters.",
+        "減少水生系魔物的物理傷害",
+        "수중형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les monstres aquatiques.",
+        "Verringert physischen Schaden durch Wassermonster.",
+        "Reduce el daño físico que infligen los acuáticos.",
+        "Mengurangi damage fisik dari jenis makhluk perairan.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a"
+    ],
+    "149": [
+        "Reduces physical damage from demons.",
+        "減少惡魔系魔物的物理傷害",
+        "악마형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les démons.",
+        "Verringert physischen Schaden durch Dämonen.",
+        "Reduce el daño físico que infligen los demonios.",
+        "Mengurangi damage fisik dari jenis demon.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a"
+    ],
+    "150": [
+        "Reduces physical damage from humans.",
+        "減少人系魔物的物理傷害",
+        "인간형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les humains.",
+        "Verringert physischen Schaden durch Menschen.",
+        "Reduce el daño físico que infligen los humanos.",
+        "Mengurangi damage fisik dari jenis manusia.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001a"
+    ],
+    "151": [
+        "Reduces physical damage from machina monsters.",
+        "減少機械系魔物的物理傷害",
+        "기계형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les machines.",
+        "Verringert physischen Schaden durch Maschinen.",
+        "Reduce el daño físico que infligen las máquinas.",
+        "Mengurangi damage fisik dari jenis mesin.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a"
+    ],
+    "152": [
+        "Reduces physical damage from dragons.",
+        "減少龍系魔物的物理傷害",
+        "드래곤형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les dragons.",
+        "Verringert physischen Schaden durch Drachen.",
+        "Reduce el daño físico que infligen los dragones.",
+        "Mengurangi damage fisik dari jenis naga.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aมังกร\u001a"
+    ],
+    "153": [
+        "Reduces physical damage from fairies.",
+        "減少精靈系魔物的物理傷害",
+        "정령형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les esprits.",
+        "Verringert physischen Schaden durch Feen.",
+        "Reduce el daño físico que infligen los espíritus.",
+        "Mengurangi damage fisik dari jenis peri.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a"
+    ],
+    "154": [
+        "Reduces physical damage from insects.",
+        "減少蟲系魔物的物理傷害",
+        "곤충형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les insectes.",
+        "Verringert physischen Schaden durch Insekten.",
+        "Reduce el daño físico que infligen los insectos.",
+        "Mengurangi damage fisik dari jenis serangga.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aแมลง\u001a"
+    ],
+    "155": [
+        "Reduces physical damage from stone monsters.",
+        "減少岩石系魔物的物理傷害",
+        "암석형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les monstres de pierre.",
+        "Verringert physischen Schaden durch Steinmonster.",
+        "Reduce el daño físico que infligen los pétreos.",
+        "Mengurangi damage fisik dari jenis batu.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aศิลา\u001a"
+    ],
+    "156": [
+        "Reduces physical damage from plants.",
+        "減少植物系魔物的物理傷害",
+        "식물형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les plantes.",
+        "Verringert physischen Schaden durch Pflanzen.",
+        "Reduce el daño físico que infligen los plantoides.",
+        "Mengurangi damage fisik dari jenis tumbuhan.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aพืช\u001a"
+    ],
+    "157": [
+        "Reduces physical damage from reapers.",
+        "減少死靈系魔物的物理傷害",
+        "사령형 마물로부터 받는 물리 피해량 감소.",
+        "Réduit les dégâts physiques infligés par les morts-vivants.",
+        "Verringert physischen Schaden durch Untote.",
+        "Reduce el daño físico que infligen los muertos vivientes.",
+        "Mengurangi damage fisik dari jenis makhluk halus.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a"
+    ],
+    "158": [
+        "Reduces magic damage from beasts.",
+        "減少獸系魔物的魔法傷害",
+        "야수형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les bêtes.",
+        "Verringert magischen Schaden durch Bestien.",
+        "Reduce el daño mágico que infligen las bestias.",
+        "Mengurangi damage magic dari jenis makhluk buas.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aอสูร\u001a"
+    ],
+    "159": [
+        "Reduces magic damage from avian monsters.",
+        "減少鳥系魔物的魔法傷害",
+        "조류형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les oiseaux.",
+        "Verringert magischen Schaden durch Vogelmonster.",
+        "Reduce el daño mágico que infligen las aves.",
+        "Mengurangi damage magic dari jenis makhluk bersayap.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "160": [
+        "Reduces magic damage from aquatic monsters.",
+        "減少水生系魔物的魔法傷害",
+        "수중형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les monstres aquatiques.",
+        "Verringert magischen Schaden durch Wassermonster.",
+        "Reduce el daño mágico que infligen los acuáticos.",
+        "Mengurangi damage magic dari jenis makhluk perairan.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a"
+    ],
+    "161": [
+        "Reduces magic damage from demons.",
+        "減少惡魔系魔物的魔法傷害",
+        "악마형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les démons.",
+        "Verringert magischen Schaden durch Dämonen.",
+        "Reduce el daño mágico que infligen los demonios.",
+        "Mengurangi damage magic dari jenis demon.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a"
+    ],
+    "162": [
+        "Reduces magic damage from humans.",
+        "減少人系魔物的魔法傷害",
+        "인간형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les humains.",
+        "Verringert magischen Schaden durch Menschen.",
+        "Reduce el daño mágico que infligen los humanos.",
+        "Mengurangi damage magic dari jenis manusia.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001a"
+    ],
+    "163": [
+        "Reduces magic damage from machina monsters.",
+        "減少機械系魔物的魔法傷害",
+        "기계형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les machines.",
+        "Verringert magischen Schaden durch Maschinen.",
+        "Reduce el daño mágico que infligen las máquinas.",
+        "Mengurangi damage magic dari jenis mesin.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a"
+    ],
+    "164": [
+        "Reduces magic damage from dragons.",
+        "減少龍系魔物的魔法傷害",
+        "드래곤형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les dragons.",
+        "Verringert magischen Schaden durch Drachen.",
+        "Reduce el daño mágico que infligen los dragones.",
+        "Mengurangi damage magic dari jenis naga.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมังกร\u001a"
+    ],
+    "165": [
+        "Reduces magic damage from fairies.",
+        "減少精靈系魔物的魔法傷害",
+        "정령형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les esprits.",
+        "Verringert magischen Schaden durch Feen.",
+        "Reduce el daño mágico que infligen los espíritus.",
+        "Mengurangi damage magic dari jenis peri.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a"
+    ],
+    "166": [
+        "Reduces magic damage from insects.",
+        "減少蟲系魔物的魔法傷害",
+        "곤충형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les insectes.",
+        "Verringert magischen Schaden durch Insekten.",
+        "Reduce el daño mágico que infligen los insectos.",
+        "Mengurangi damage magic dari jenis serangga.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aแมลง\u001a"
+    ],
+    "167": [
+        "Reduces magic damage from stone monsters.",
+        "減少岩石系魔物的魔法傷害",
+        "암석형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les monstres de pierre.",
+        "Verringert magischen Schaden durch Steinmonster.",
+        "Reduce el daño mágico que infligen los pétreos.",
+        "Mengurangi damage magic dari jenis batu.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aศิลา\u001a"
+    ],
+    "168": [
+        "Reduces magic damage from plants.",
+        "減少植物系魔物的魔法傷害",
+        "식물형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les plantes.",
+        "Verringert magischen Schaden durch Pflanzen.",
+        "Reduce el daño mágico que infligen los plantoides.",
+        "Mengurangi damage magic dari jenis tumbuhan.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aพืช\u001a"
+    ],
+    "169": [
+        "Reduces magic damage from reapers.",
+        "減少死靈系魔物的魔法傷害",
+        "사령형 마물로부터 받는 마법 피해량 감소.",
+        "Réduit les dégâts magiques infligés par les morts-vivants.",
+        "Verringert magischen Schaden durch Untote.",
+        "Reduce el daño mágico que infligen los muertos vivientes.",
+        "Mengurangi damage magic dari jenis makhluk halus.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a"
+    ],
+    "170": [
+        "Boosts physical damage from beasts.",
+        "提高獸系魔物的物理傷害",
+        "야수형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les bêtes.",
+        "Erhöht physischen Schaden durch Bestien.",
+        "Aumenta el daño físico que infligen las bestias.",
+        "Mengurangi damage fisik dari jenis makhluk buas.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aอสูร\u001a"
+    ],
+    "171": [
+        "Boosts physical damage from avian monsters.",
+        "提高鳥系魔物的物理傷害",
+        "조류형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les oiseaux.",
+        "Erhöht physischen Schaden durch Vogelmonster.",
+        "Aumenta el daño físico que infligen las aves.",
+        "Mengurangi damage fisik dari jenis makhluk bersayap.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "172": [
+        "Boosts physical damage from aquatic monsters.",
+        "提高水生系魔物的物理傷害",
+        "수중형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les monstres aquatiques.",
+        "Erhöht physischen Schaden durch Wassermonster.",
+        "Aumenta el daño físico que infligen los acuáticos.",
+        "Mengurangi damage fisik dari jenis makhluk perairan.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a"
+    ],
+    "173": [
+        "Boosts physical damage from demons.",
+        "提高惡魔系魔物的物理傷害",
+        "악마형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les démons.",
+        "Erhöht physischen Schaden durch Dämonen.",
+        "Aumenta el daño físico que infligen los demonios.",
+        "Mengurangi damage fisik dari jenis demon.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a"
+    ],
+    "174": [
+        "Boosts physical damage from humans.",
+        "提高人系魔物的物理傷害",
+        "인간형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les humains.",
+        "Erhöht physischen Schaden durch Menschen.",
+        "Aumenta el daño físico que infligen los humanos.",
+        "Mengurangi damage fisik dari jenis manusia.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001a"
+    ],
+    "175": [
+        "Boosts physical damage from machina monsters.",
+        "提高機械系魔物的物理傷害",
+        "기계형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les machines.",
+        "Erhöht physischen Schaden durch Maschinen.",
+        "Aumenta el daño físico que infligen las máquinas.",
+        "Mengurangi damage fisik dari jenis mesin.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a"
+    ],
+    "176": [
+        "Boosts physical damage from dragons.",
+        "提高龍系魔物的物理傷害",
+        "드래곤형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les dragons.",
+        "Erhöht physischen Schaden durch Drachen.",
+        "Aumenta el daño físico que infligen los dragones.",
+        "Mengurangi damage fisik dari jenis naga.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aมังกร\u001a"
+    ],
+    "177": [
+        "Boosts physical damage from fairies.",
+        "提高精靈系魔物的物理傷害",
+        "정령형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les esprits.",
+        "Erhöht physischen Schaden durch Feen.",
+        "Aumenta el daño físico que infligen los espíritus.",
+        "Mengurangi damage fisik dari jenis peri.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a"
+    ],
+    "178": [
+        "Boosts physical damage from insects.",
+        "提高蟲系魔物的物理傷害",
+        "곤충형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les insectes.",
+        "Erhöht physischen Schaden durch Insekten.",
+        "Aumenta el daño físico que infligen los insectos.",
+        "Mengurangi damage fisik dari jenis serangga.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aแมลง\u001a"
+    ],
+    "179": [
+        "Boosts physical damage from stone monsters.",
+        "提高岩石系魔物的物理傷害",
+        "암석형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les monstres de pierre.",
+        "Erhöht physischen Schaden durch Steinmonster.",
+        "Aumenta el daño físico que infligen los pétreos.",
+        "Mengurangi damage fisik dari jenis batu.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aศิลา\u001a"
+    ],
+    "180": [
+        "Boosts physical damage from plants.",
+        "提高植物系魔物的物理傷害",
+        "식물형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les plantes.",
+        "Erhöht physischen Schaden durch Pflanzen.",
+        "Aumenta el daño físico que infligen los plantoides.",
+        "Mengurangi damage fisik dari jenis tumbuhan.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aพืช\u001a"
+    ],
+    "181": [
+        "Boosts physical damage from reapers.",
+        "提高死靈系魔物的物理傷害",
+        "사령형 마물로부터 받는 물리 피해량 상승.",
+        "Augmente les dégâts physiques infligés par les morts-vivants.",
+        "Erhöht physischen Schaden durch Untote.",
+        "Aumenta el daño físico que infligen los muertos vivientes.",
+        "Mengurangi damage fisik dari jenis makhluk halus.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a"
+    ],
+    "182": [
+        "Boosts magic damage from beasts.",
+        "提高獸系魔物的魔法傷害",
+        "야수형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les bêtes.",
+        "Erhöht magischen Schaden durch Bestien.",
+        "Aumenta el daño mágico que infligen las bestias.",
+        "Mengurangi damage magic dari jenis makhluk buas.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aอสูร\u001a"
+    ],
+    "183": [
+        "Boosts magic damage from avian monsters.",
+        "提高鳥系魔物的魔法傷害",
+        "조류형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les oiseaux.",
+        "Erhöht magischen Schaden durch Vogelmonster.",
+        "Aumenta el daño mágico que infligen las aves.",
+        "Mengurangi damage magic dari jenis makhluk bersayap.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "184": [
+        "Boosts magic damage from aquatic monsters.",
+        "提高水生系魔物的魔法傷害",
+        "수중형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les monstres aquatiques.",
+        "Erhöht magischen Schaden durch Wassermonster.",
+        "Aumenta el daño mágico que infligen los acuáticos.",
+        "Mengurangi damage magic dari jenis makhluk perairan.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a"
+    ],
+    "185": [
+        "Boosts magic damage from demons.",
+        "提高惡魔系魔物的魔法傷害",
+        "악마형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les démons.",
+        "Erhöht magischen Schaden durch Dämonen.",
+        "Aumenta el daño mágico que infligen los demonios.",
+        "Mengurangi damage magic dari jenis demon.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a"
+    ],
+    "186": [
+        "Boosts magic damage from humans.",
+        "提高人系魔物的魔法傷害",
+        "인간형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les humains.",
+        "Erhöht magischen Schaden durch Menschen.",
+        "Aumenta el daño mágico que infligen los humanos.",
+        "Mengurangi damage magic dari jenis manusia.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001a"
+    ],
+    "187": [
+        "Boosts magic damage from machina monsters.",
+        "提高機械系魔物的魔法傷害",
+        "기계형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les machines.",
+        "Erhöht magischen Schaden durch Maschinen.",
+        "Aumenta el daño mágico que infligen las máquinas.",
+        "Mengurangi damage magic dari jenis mesin.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a"
+    ],
+    "188": [
+        "Boosts magic damage from dragons.",
+        "提高龍系魔物的魔法傷害",
+        "드래곤형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les dragons.",
+        "Erhöht magischen Schaden durch Drachen.",
+        "Aumenta el daño mágico que infligen los dragones.",
+        "Mengurangi damage magic dari jenis naga.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมังกร\u001a"
+    ],
+    "189": [
+        "Boosts magic damage from fairies.",
+        "提高精靈系魔物的魔法傷害",
+        "정령형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les esprits.",
+        "Erhöht magischen Schaden durch Feen.",
+        "Aumenta el daño mágico que infligen los espíritus.",
+        "Mengurangi damage magic dari jenis peri.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a"
+    ],
+    "190": [
+        "Boosts magic damage from insects.",
+        "提高蟲系魔物的魔法傷害",
+        "곤충형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les insectes.",
+        "Erhöht magischen Schaden durch Insekten.",
+        "Aumenta el daño mágico que infligen los insectos.",
+        "Mengurangi damage magic dari jenis serangga.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aแมลง\u001a"
+    ],
+    "191": [
+        "Boosts magic damage from stone monsters.",
+        "提高岩石系魔物的魔法傷害",
+        "암석형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les monstres de pierre.",
+        "Erhöht magischen Schaden durch Steinmonster.",
+        "Aumenta el daño mágico que infligen los pétreos.",
+        "Mengurangi damage magic dari jenis batu.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aศิลา\u001a"
+    ],
+    "192": [
+        "Boosts magic damage from plants.",
+        "提高植物系魔物的魔法傷害",
+        "식물형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les plantes.",
+        "Erhöht magischen Schaden durch Pflanzen.",
+        "Aumenta el daño mágico que infligen los plantoides.",
+        "Mengurangi damage magic dari jenis tumbuhan.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aพืช\u001a"
+    ],
+    "193": [
+        "Boosts magic damage from reapers.",
+        "提高死靈系魔物的魔法傷害",
+        "사령형 마물로부터 받는 마법 피해량 상승.",
+        "Augmente les dégâts magiques infligés par les morts-vivants.",
+        "Erhöht magischen Schaden durch Untote.",
+        "Aumenta el daño mágico que infligen los muertos vivientes.",
+        "Mengurangi damage magic dari jenis makhluk halus.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a"
+    ],
+    "194": [
+        "Boosts fire physical damage.",
+        "提高火屬性物理傷害",
+        "불속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de feu.",
+        "Erhöht physischen Feuerschaden.",
+        "Aumenta el daño físico de fuego.",
+        "Meningkatkan damage fisik api.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aไฟ\u001a"
+    ],
+    "195": [
+        "Boosts ice physical damage.",
+        "提高冰屬性物理傷害",
+        "얼음속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de glace.",
+        "Erhöht physischen Eisschaden.",
+        "Aumenta el daño físico de hielo.",
+        "Meningkatkan damage fisik es.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำแข็ง\u001a"
+    ],
+    "196": [
+        "Boosts lightning physical damage.",
+        "提高雷屬性物理傷害",
+        "번개속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de foudre.",
+        "Erhöht physischen Blitzschaden.",
+        "Aumenta el daño físico de rayo.",
+        "Meningkatkan damage fisik petir.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aสายฟ้า\u001a"
+    ],
+    "197": [
+        "Boosts water physical damage.",
+        "提高水屬性物理傷害",
+        "물속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques d'eau.",
+        "Erhöht physischen Wasserschaden.",
+        "Aumenta el daño físico de agua.",
+        "Meningkatkan damage fisik air.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำ\u001a"
+    ],
+    "198": [
+        "Boosts wind physical damage.",
+        "提高風屬性物理傷害",
+        "바람속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de vent.",
+        "Erhöht physischen Windschaden.",
+        "Aumenta el daño físico de viento.",
+        "Meningkatkan damage fisik angin.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aลม\u001a"
+    ],
+    "199": [
+        "Boosts earth physical damage.",
+        "提高土屬性物理傷害",
+        "땅속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de terre.",
+        "Erhöht physischen Erdschaden.",
+        "Aumenta el daño físico de tierra.",
+        "Meningkatkan damage fisik tanah.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "200": [
+        "Boosts light physical damage.",
+        "提高光屬性物理傷害",
+        "빛속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de lumière.",
+        "Erhöht physischen Lichtschaden.",
+        "Aumenta el daño físico de luz.",
+        "Meningkatkan damage fisik cahaya.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aแสง\u001a"
+    ],
+    "201": [
+        "Boosts dark physical damage.",
+        "提高暗屬性物理傷害",
+        "어둠속성 물리 피해량 상승.",
+        "Augmente les dégâts physiques de ténèbres.",
+        "Erhöht physischen Dunkelschaden.",
+        "Aumenta el daño físico de oscuridad.",
+        "Meningkatkan damage fisik kegelapan.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "202": [
+        "Boosts fire magic damage.",
+        "提高火屬性魔法傷害",
+        "불속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de feu.",
+        "Erhöht magischen Feuerschaden.",
+        "Aumenta el daño mágico de fuego.",
+        "Meningkatkan damage magic api.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a"
+    ],
+    "203": [
+        "Boosts ice magic damage.",
+        "提高冰屬性魔法傷害",
+        "얼음속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de glace.",
+        "Erhöht magischen Eisschaden.",
+        "Aumenta el daño mágico de hielo.",
+        "Meningkatkan damage magic es.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a"
+    ],
+    "204": [
+        "Boosts lightning magic damage.",
+        "提高雷屬性魔法傷害",
+        "번개속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de foudre.",
+        "Erhöht magischen Blitzschaden.",
+        "Aumenta el daño mágico de rayo.",
+        "Meningkatkan damage magic petir.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a"
+    ],
+    "205": [
+        "Boosts water magic damage.",
+        "提高水屬性魔法傷害",
+        "물속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques d'eau.",
+        "Erhöht magischen Wasserschaden.",
+        "Aumenta el daño mágico de agua.",
+        "Meningkatkan damage magic air.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a"
+    ],
+    "206": [
+        "Boosts wind magic damage.",
+        "提高風屬性魔法傷害",
+        "바람속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de vent.",
+        "Erhöht magischen Windschaden.",
+        "Aumenta el daño mágico de viento.",
+        "Meningkatkan damage magic angin.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a"
+    ],
+    "207": [
+        "Boosts earth magic damage.",
+        "提高土屬性魔法傷害",
+        "땅속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de terre.",
+        "Erhöht magischen Erdschaden.",
+        "Aumenta el daño mágico de tierra.",
+        "Meningkatkan damage magic tanah.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "208": [
+        "Boosts light magic damage.",
+        "提高光屬性魔法傷害",
+        "빛속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de lumière.",
+        "Erhöht magischen Lichtschaden.",
+        "Aumenta el daño mágico de luz.",
+        "Meningkatkan damage magic cahaya.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a"
+    ],
+    "209": [
+        "Boosts dark magic damage.",
+        "提高暗屬性魔法傷害",
+        "어둠속성 마법 피해량 상승.",
+        "Augmente les dégâts magiques de ténèbres.",
+        "Erhöht magischen Dunkelschaden.",
+        "Aumenta el daño mágico de oscuridad.",
+        "Meningkatkan damage magic kegelapan.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "210": [
+        "Reduces fire physical damage.",
+        "減少火屬性物理傷害",
+        "불속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de feu.",
+        "Verringert physischen Feuerschaden.",
+        "Reduce el daño físico de fuego.",
+        "Mengurangi damage fisik api.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aไฟ\u001a"
+    ],
+    "211": [
+        "Reduces ice physical damage.",
+        "減少冰屬性物理傷害",
+        "얼음속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de glace.",
+        "Verringert physischen Eisschaden.",
+        "Reduce el daño físico de hielo.",
+        "Mengurangi damage fisik es.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำแข็ง\u001a"
+    ],
+    "212": [
+        "Reduces lightning physical damage.",
+        "減少雷屬性物理傷害",
+        "번개속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de foudre.",
+        "Verringert physischen Blitzschaden.",
+        "Reduce el daño físico de rayo.",
+        "Mengurangi damage fisik petir.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aสายฟ้า\u001a"
+    ],
+    "213": [
+        "Reduces water physical damage.",
+        "減少水屬性物理傷害",
+        "물속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques d'eau.",
+        "Verringert physischen Wasserschaden.",
+        "Reduce el daño físico de agua.",
+        "Mengurangi damage fisik air.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำ\u001a"
+    ],
+    "214": [
+        "Reduces wind physical damage.",
+        "減少風屬性物理傷害",
+        "바람속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de vent.",
+        "Verringert physischen Windschaden.",
+        "Reduce el daño físico de viento.",
+        "Mengurangi damage fisik angin.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aลม\u001a"
+    ],
+    "215": [
+        "Reduces earth physical damage.",
+        "減少土屬性物理傷害",
+        "땅속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de terre.",
+        "Verringert physischen Erdschaden.",
+        "Reduce el daño físico de tierra.",
+        "Mengurangi damage fisik tanah.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "216": [
+        "Reduces light physical damage.",
+        "減少光屬性物理傷害",
+        "빛속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de lumière.",
+        "Verringert physischen Lichtschaden.",
+        "Reduce el daño físico de luz.",
+        "Mengurangi damage fisik cahaya.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aแสง\u001a"
+    ],
+    "217": [
+        "Reduces dark physical damage.",
+        "減少暗屬性物理傷害",
+        "어둠속성 물리 피해량 감소.",
+        "Réduit les dégâts physiques de ténèbres.",
+        "Verringert physischen Dunkelschaden.",
+        "Reduce el daño físico de oscuridad.",
+        "Mengurangi damage fisik kegelapan.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "218": [
+        "Reduces fire magic damage.",
+        "減少火屬性魔法傷害",
+        "불속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de feu.",
+        "Verringert magischen Feuerschaden.",
+        "Reduce el daño mágico de fuego.",
+        "Mengurangi damage magic api.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a"
+    ],
+    "219": [
+        "Reduces ice magic damage.",
+        "減少冰屬性魔法傷害",
+        "얼음속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de glace.",
+        "Verringert magischen Eisschaden.",
+        "Reduce el daño mágico de hielo.",
+        "Mengurangi damage magic es.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a"
+    ],
+    "220": [
+        "Reduces lightning magic damage.",
+        "減少雷屬性魔法傷害",
+        "번개속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de foudre.",
+        "Verringert magischen Blitzschaden.",
+        "Reduce el daño mágico de rayo.",
+        "Mengurangi damage magic petir.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a"
+    ],
+    "221": [
+        "Reduces water magic damage.",
+        "減少水屬性魔法傷害",
+        "물속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques d'eau.",
+        "Verringert magischen Wasserschaden.",
+        "Reduce el daño mágico de agua.",
+        "Mengurangi damage magic air.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a"
+    ],
+    "222": [
+        "Reduces wind magic damage.",
+        "減少風屬性魔法傷害",
+        "바람속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de vent.",
+        "Verringert magischen Windschaden.",
+        "Reduce el daño mágico de viento.",
+        "Mengurangi damage magic angin.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a"
+    ],
+    "223": [
+        "Reduces earth magic damage.",
+        "減少土屬性魔法傷害",
+        "땅속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de terre.",
+        "Verringert magischen Erdschaden.",
+        "Reduce el daño mágico de tierra.",
+        "Mengurangi damage magic tanah.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "224": [
+        "Reduces light magic damage.",
+        "減少光屬性魔法傷害",
+        "빛속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de lumière.",
+        "Verringert magischen Lichtschaden.",
+        "Reduce el daño mágico de luz.",
+        "Mengurangi damage magic cahaya.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a"
+    ],
+    "225": [
+        "Reduces dark magic damage.",
+        "減少暗屬性魔法傷害",
+        "어둠속성 마법 피해량 감소.",
+        "Réduit les dégâts magiques de ténèbres.",
+        "Verringert magischen Dunkelschaden.",
+        "Reduce el daño mágico de oscuridad.",
+        "Mengurangi damage magic kegelapan.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "226": [
+        "Reduces fire physical damage taken.",
+        "減少受到的火屬性物理傷害",
+        "불속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de feu subis.",
+        "Verringert erlittenen physischen Feuerschaden.",
+        "Reduce el daño físico de fuego recibido.",
+        "Mengurangi damage fisik api yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aไฟ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "227": [
+        "Reduces ice physical damage taken.",
+        "減少受到的冰屬性物理傷害",
+        "얼음속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de glace subis.",
+        "Verringert erlittenen physischen Eisschaden.",
+        "Reduce el daño físico de hielo recibido.",
+        "Mengurangi damage fisik es yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำแข็ง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "228": [
+        "Reduces lightning physical damage taken.",
+        "減少受到的雷屬性物理傷害",
+        "번개속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de foudre subis.",
+        "Verringert erlittenen physischen Blitzschaden.",
+        "Reduce el daño físico de rayo recibido.",
+        "Mengurangi damage fisik petir yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aสายฟ้า\u001aที่\u001aได้รับ\u001a"
+    ],
+    "229": [
+        "Reduces water physical damage taken.",
+        "減少受到的水屬性物理傷害",
+        "물속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques d'eau subis.",
+        "Verringert erlittenen physischen Wasserschaden.",
+        "Reduce el daño físico de agua recibido.",
+        "Mengurangi damage fisik air yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "230": [
+        "Reduces wind physical damage taken.",
+        "減少受到的風屬性物理傷害",
+        "바람속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de vent subis.",
+        "Verringert erlittenen physischen Windschaden.",
+        "Reduce el daño físico de viento recibido.",
+        "Mengurangi damage fisik angin yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aลม\u001aที่\u001aได้รับ\u001a"
+    ],
+    "231": [
+        "Reduces earth physical damage taken.",
+        "減少受到的土屬性物理傷害",
+        "땅속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de terre subis.",
+        "Verringert erlittenen physischen Erdschaden.",
+        "Reduce el daño físico de tierra recibido.",
+        "Mengurangi damage fisik tanah yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aดิน\u001aที่\u001aได้รับ\u001a"
+    ],
+    "232": [
+        "Reduces light physical damage taken.",
+        "減少受到的光屬性物理傷害",
+        "빛속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de lumière subis.",
+        "Verringert erlittenen physischen Lichtschaden.",
+        "Reduce el daño físico de luz recibido.",
+        "Mengurangi damage fisik cahaya yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aแสง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "233": [
+        "Reduces dark physical damage taken.",
+        "減少受到的暗屬性物理傷害",
+        "어둠속성 피격 물리 피해량 감소.",
+        "Réduit les dégâts physiques de ténèbres subis.",
+        "Verringert erlittenen physischen Dunkelschaden.",
+        "Reduce el daño físico de oscuridad recibido.",
+        "Mengurangi damage fisik kegelapan yang diterima.",
+        "ลด\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aมืด\u001aที่\u001aได้รับ\u001a"
+    ],
+    "234": [
+        "Reduces fire magic damage taken.",
+        "減少受到的火屬性魔法傷害",
+        "불속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de feu subis.",
+        "Verringert erlittenen magischen Feuerschaden.",
+        "Reduce el daño mágico de fuego recibido.",
+        "Mengurangi damage magic api yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "235": [
+        "Reduces ice magic damage taken.",
+        "減少受到的冰屬性魔法傷害",
+        "얼음속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de glace subis.",
+        "Verringert erlittenen magischen Eisschaden.",
+        "Reduce el daño mágico de hielo recibido.",
+        "Mengurangi damage magic es yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "236": [
+        "Reduces lightning magic damage taken.",
+        "減少受到的雷屬性魔法傷害",
+        "번개속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de foudre subis.",
+        "Verringert erlittenen magischen Blitzschaden.",
+        "Reduce el daño mágico de rayo recibido.",
+        "Mengurangi damage magic petir yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aที่\u001aได้รับ\u001a"
+    ],
+    "237": [
+        "Reduces water magic damage taken.",
+        "減少受到的水屬性魔法傷害",
+        "물속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques d'eau subis.",
+        "Verringert erlittenen magischen Wasserschaden.",
+        "Reduce el daño mágico de agua recibido.",
+        "Mengurangi damage magic air yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "238": [
+        "Reduces wind magic damage taken.",
+        "減少受到的風屬性魔法傷害",
+        "바람속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de vent subis.",
+        "Verringert erlittenen magischen Windschaden.",
+        "Reduce el daño mágico de viento recibido.",
+        "Mengurangi damage magic angin yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aที่\u001aได้รับ\u001a"
+    ],
+    "239": [
+        "Reduces earth magic damage taken.",
+        "減少受到的土屬性魔法傷害",
+        "땅속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de terre subis.",
+        "Verringert erlittenen magischen Erdschaden.",
+        "Reduce el daño mágico de tierra recibido.",
+        "Mengurangi damage magic tanah yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aที่\u001aได้รับ\u001a"
+    ],
+    "240": [
+        "Reduces light magic damage taken.",
+        "減少受到的光屬性魔法傷害",
+        "빛속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de lumière subis.",
+        "Verringert erlittenen magischen Lichtschaden.",
+        "Reduce el daño mágico de luz recibido.",
+        "Mengurangi damage magic cahaya yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "241": [
+        "Reduces dark magic damage taken.",
+        "減少受到的暗屬性魔法傷害",
+        "어둠속성 피격 마법 피해량 감소.",
+        "Réduit les dégâts magiques de ténèbres subis.",
+        "Verringert erlittenen magischen Dunkelschaden.",
+        "Reduce el daño mágico de oscuridad recibido.",
+        "Mengurangi damage magic kegelapan yang diterima.",
+        "ลด\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aที่\u001aได้รับ\u001a"
+    ],
+    "242": [
+        "Boosts fire physical damage taken.",
+        "提高受到的火屬性物理傷害",
+        "불속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de feu subis.",
+        "Erhöht erlittenen physischen Feuerschaden.",
+        "Aumenta el daño físico de fuego recibido.",
+        "Meningkatkan damage fisik api yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aไฟ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "243": [
+        "Boosts ice physical damage taken.",
+        "提高受到的冰屬性物理傷害",
+        "얼음속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de glace subis.",
+        "Erhöht erlittenen physischen Eisschaden.",
+        "Aumenta el daño físico de hielo recibido.",
+        "Meningkatkan damage fisik es yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำแข็ง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "244": [
+        "Boosts lightning physical damage taken.",
+        "提高受到的雷屬性物理傷害",
+        "번개속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de foudre subis.",
+        "Erhöht erlittenen physischen Blitzschaden.",
+        "Aumenta el daño físico de rayo recibido.",
+        "Meningkatkan damage fisik petir yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aสายฟ้า\u001aที่\u001aได้รับ\u001a"
+    ],
+    "245": [
+        "Boosts water physical damage taken.",
+        "提高受到的水屬性物理傷害",
+        "물속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques d'eau subis.",
+        "Erhöht erlittenen physischen Wasserschaden.",
+        "Aumenta el daño físico de agua recibido.",
+        "Meningkatkan damage fisik air yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aน้ำ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "246": [
+        "Boosts wind physical damage taken.",
+        "提高受到的風屬性物理傷害",
+        "바람속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de vent subis.",
+        "Erhöht erlittenen physischen Windschaden.",
+        "Aumenta el daño físico de viento recibido.",
+        "Meningkatkan damage fisik angin yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aลม\u001aที่\u001aได้รับ\u001a"
+    ],
+    "247": [
+        "Boosts earth physical damage taken.",
+        "提高受到的土屬性物理傷害",
+        "땅속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de terre subis.",
+        "Erhöht erlittenen physischen Erdschaden.",
+        "Aumenta el daño físico de tierra recibido.",
+        "Meningkatkan damage fisik tanah yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aดิน\u001aที่\u001aได้รับ\u001a"
+    ],
+    "248": [
+        "Boosts light physical damage taken.",
+        "提高受到的光屬性物理傷害",
+        "빛속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de lumière subis.",
+        "Erhöht erlittenen physischen Lichtschaden.",
+        "Aumenta el daño físico de luz recibido.",
+        "Meningkatkan damage fisik cahaya yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aแสง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "249": [
+        "Boosts dark physical damage taken.",
+        "提高受到的暗屬性物理傷害",
+        "어둠속성 피격 물리 피해량 상승.",
+        "Augmente les dégâts physiques de ténèbres subis.",
+        "Erhöht erlittenen physischen Dunkelschaden.",
+        "Aumenta el daño físico de oscuridad recibido.",
+        "Meningkatkan damage fisik kegelapan yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aทางกายภาพ\u001aธาตุ\u001aมืด\u001aที่\u001aได้รับ\u001a"
+    ],
+    "250": [
+        "Boosts fire magic damage taken.",
+        "提高受到的火屬性魔法傷害",
+        "불속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de feu subis.",
+        "Erhöht erlittenen magischen Feuerschaden.",
+        "Aumenta el daño mágico de fuego recibido.",
+        "Meningkatkan damage magic api yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "251": [
+        "Boosts ice magic damage taken.",
+        "提高受到的冰屬性魔法傷害",
+        "얼음속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de glace subis.",
+        "Erhöht erlittenen magischen Eisschaden.",
+        "Aumenta el daño mágico de hielo recibido.",
+        "Meningkatkan damage magic es yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "252": [
+        "Boosts lightning magic damage taken.",
+        "提高受到的雷屬性魔法傷害",
+        "번개속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de foudre subis.",
+        "Erhöht erlittenen magischen Blitzschaden.",
+        "Aumenta el daño mágico de rayo recibido.",
+        "Meningkatkan damage magic petir yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aที่\u001aได้รับ\u001a"
+    ],
+    "253": [
+        "Boosts water magic damage taken.",
+        "提高受到的水屬性魔法傷害",
+        "물속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques d'eau subis.",
+        "Erhöht erlittenen magischen Wasserschaden.",
+        "Aumenta el daño mágico de agua recibido.",
+        "Meningkatkan damage magic air yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aที่\u001aได้รับ\u001a"
+    ],
+    "254": [
+        "Boosts wind magic damage taken.",
+        "提高受到的風屬性魔法傷害",
+        "바람속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de vent subis.",
+        "Erhöht erlittenen magischen Windschaden.",
+        "Aumenta el daño mágico de viento recibido.",
+        "Meningkatkan damage magic angin yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aที่\u001aได้รับ\u001a"
+    ],
+    "255": [
+        "Boosts earth magic damage taken.",
+        "提高受到的土屬性魔法傷害",
+        "땅속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de terre subis.",
+        "Erhöht erlittenen magischen Erdschaden.",
+        "Aumenta el daño mágico de tierra recibido.",
+        "Meningkatkan damage magic tanah yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aที่\u001aได้รับ\u001a"
+    ],
+    "256": [
+        "Boosts light magic damage taken.",
+        "提高受到的光屬性魔法傷害",
+        "빛속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de lumière subis.",
+        "Erhöht erlittenen magischen Lichtschaden.",
+        "Aumenta el daño mágico de luz recibido.",
+        "Meningkatkan damage magic cahaya yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aที่\u001aได้รับ\u001a"
+    ],
+    "257": [
+        "Boosts dark magic damage taken.",
+        "提高受到的暗屬性魔法傷害",
+        "어둠속성 피격 마법 피해량 상승.",
+        "Augmente les dégâts magiques de ténèbres subis.",
+        "Erhöht erlittenen magischen Dunkelschaden.",
+        "Aumenta el daño mágico de oscuridad recibido.",
+        "Meningkatkan damage magic kegelapan yang diterima.",
+        "เพิ่ม\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aที่\u001aได้รับ\u001a"
     ]
 }

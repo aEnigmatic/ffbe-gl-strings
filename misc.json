@@ -123,7 +123,7 @@
         "poison@blind@sleep@silence@paralysis@confusion@disease@stone@stop@charm@berserk",
         "中毒@失明@睡眠@沉默@麻痺@混亂@生病@石化@停止@魅惑@狂暴",
         "독@암흑@수면@침묵@마비@혼란@질병@석화@스톱@매혹@광폭화",
-        "poison@\"cécité\"@\"sommeil\"@\"silence\"@\"paralysie\"@\"confusion\"@\"maladie\"@\"pétrification\"@\"stop\"@\"charme\"@\"furie\"",
+        "poison @\"cécité\" @\"sommeil\" @\"silence\" @\"paralysie\" @\"confusion\" @\"maladie\" @\"pétrification\" @\"stop\" @\"charme\" @\"furie\"",
         "Gift@Blind@Schlaf@Stille@Lähmung@Konfus@Virus@Stein@Stopp@Bezaubern@Berserker",
         "veneno@ceguera@sueño@silencio@parálisis@confusión@enfermedad@piedra@paro@embrujo@locura",
         "poison@blind@sleep@silence@paralyze@confuse@disease@petrify@stop@charm@berserk",
@@ -4276,7 +4276,7 @@
         "Homme",
         "Männlich",
         "Varón",
-        "Laki-Laki",
+        "Pria",
         "ยู\u001aนิ\u001aท\u001aชาย\u001a"
     ],
     "EQUIP_ITEM_COND_WOMAN": [
@@ -4286,7 +4286,7 @@
         "Femme",
         "Weiblich",
         "Fémina",
-        "Perempuan",
+        "Wanita",
         "ยู\u001aนิ\u001aท\u001aหญิง\u001a"
     ],
     "EQUIP_ITEM_EMPTY": [
@@ -7744,8 +7744,8 @@
         "Unité <param=rare>★ de niveau max avec limite au niveau maximum.",
         "Einheit auf <param=rare>★, max. Stufe, mit Limitrausch auf max. Stufe.",
         "La unidad está a <param=rare>★, nivel máximo, con Estallido Límite a nivel máximo.",
-        "Unit ★<param=rare>, dengan level max dan level limit burst max.",
-        "ยู\u001aนิ\u001aทอ\u001aยู่\u001aใน\u001aภาวะ\u001a \u001aRare\u001a \u001aระดับ\u001a \u001a<param=rare>★,\u001a \u001aLv\u001a.\u001a \u001aMax\u001a \u001a,\u001a \u001aพร้อม\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aระดับ\u001aสูงสุด\u001a"
+        "Unit ★<param=rare> dengan level max dan level limit burst max.",
+        "ยู\u001aนิ\u001aทอ\u001aยู่\u001aใน\u001aภาวะ\u001a \u001aRare\u001a \u001aระดับ\u001a \u001a<param=rare>★,\u001a \u001aLv\u001a.\u001a \u001aMax\u001a \u001aพร้อม\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aระดับ\u001aสูงสุด\u001a"
     ],
     "GAME_CENTER_NOT_LOGIN": [
         "You are not currently logged in to Game Center. Please log in to Game Center to view your achievements and leaderboards.",
@@ -9484,7 +9484,7 @@
         "Obtenu : <param=reward> !",
         "<param=reward> erhalten!",
         "¡Has obtenido <param=reward>!",
-        "<param=reward> didapatkan!",
+        "Kamu telah mendapatkan <param=reward>!",
         "ได้รับ\u001a \u001a<param=reward>!\u001a"
     ],
     "LOGIN_BONUS_SELECT_TEXT": [
@@ -14660,7 +14660,7 @@
         "Une erreur s'est produite lors du chargement des données. Retourner à l'écran-titre ?<br>*Les données n'ayant pas pu être chargées seront re-téléchargées lors du redémarrage.",
         "Beim Laden der Daten ist ein Fehler aufgetreten. Rückkehr zum Titelbildschirm.<br>*Daten, die nicht geladen werden konnten, werden bei Neustart erneut heruntergeladen.",
         "Ha ocurrido un error al cargar datos. Volviendo a la pantalla de título.<br>Los datos no cargados se volverán a descargar tras reiniciar.",
-        "Terjadi kesalahan ketika memuat data. Kembali ke layar judul.<br>* Data yang gagal dimuat akan didownload ulang ketika game dibuka kembali.",
+        "Terjadi kesalahan ketika memuat data. Kembali ke layar judul.<br>* Data yang gagal dimuat akan didownload ulang setelah game dimulai ulang.",
         "เกิด\u001aข้อผิดพลาด\u001aใน\u001aระหว่าง\u001aการ\u001aโหลด\u001aข้อมูล\u001a \u001aระบบ\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a<br>*\u001a \u001aข้อมูล\u001aที่\u001aไม่\u001aถูก\u001aดาวน์โหลด\u001aใน\u001aคราวนี้\u001a \u001aจะ\u001aได้รับ\u001aการ\u001aดาวน์โหลด\u001aซ้ำ\u001aเมื่อ\u001aคุณ\u001aเปิด\u001aเกม\u001aใหม่\u001aอีกครั้ง\u001a"
     ],
     "MST_RB_ABILITY_GROUP_DES_1": [
@@ -14984,7 +14984,7 @@
         "Unités masculines ou sans genre",
         "Einheiten mit dem Geschlecht \"Männlich\" oder \"Ohne Geschlecht\"",
         "Unidades masculinas o sin género",
-        "Unit laki-laki atau lainnya",
+        "Unit pria atau gender lainnya",
         "ยู\u001aนิ\u001aท\u001aเพศชาย\u001aหรือ\u001aไร้\u001aเพศ\u001a"
     ],
     "MST_RB_SS_BONUS_INFO_DESC_NO_MALE": [
@@ -14994,7 +14994,7 @@
         "Unités féminines ou sans genre",
         "Einheiten mit dem Geschlecht \"Weiblich\" oder \"Ohne Geschlecht\"",
         "Unidades femeninas o sin género",
-        "Unit perempuan atau lainnya",
+        "Unit wanita atau gender lainnya",
         "ยู\u001aนิ\u001aท\u001aหญิง\u001aหรือ\u001aยู\u001aนิ\u001aท\u001aไร้\u001aเพศ\u001a"
     ],
     "MST_RB_SS_BONUS_INFO_NAME": [
@@ -21872,7 +21872,7 @@
         "Êtes-vous sûr(e) de vouloir jouer avec les textures en haute résolution ?<br><br><size=14>* Les ressources HD sont des fichiers bien plus gros et prendront par conséquent beaucoup plus de place sur votre appareil. L'appli va également redémarrer afin que l'ensemble des ressources puissent être téléchargées. </size>",
         "Bist du sicher, dass du mit hochauflösender Grafik spielen möchtest?<br><br><size=14>* HD-Daten sind sehr viel größer und nehmen auf deinem Gerät viel mehr Platz ein. Die App wird ebenfalls neu gestartet, damit alle fehlenden Daten heruntergeladen werden können.</size>",
         "¿Seguro que quieres jugar en HD?<br><br><size=14>*Ten en cuenta que los archivos HD ocupan más espacio en tu dispositivo. Si aceptas también se reiniciará la app y se descargarán todos los archivos.</size>",
-        "Apakah kamu ingin memainkan game dengan grafis resolusi tinggi?<br><br><size=14>* Aset HD jauh lebih besar dan akan menghabiskan penyimpanan yang besar di perangkatmu. App akan ditutup lalu dibuka sekali lagi agar semua aset dapat didownload.</size>",
+        "Apakah kamu ingin memainkan game dengan grafis resolusi tinggi?<br><br><size=14>* Aset HD jauh lebih besar dan akan menghabiskan penyimpanan yang besar di perangkatmu. Aplikasi akan dimulai ulang agar semua aset dapat didownload.</size>",
         "คุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001aเล่น\u001aด้วย\u001aโหมด\u001aความ\u001aละเอียด\u001aสูง\u001a?<br><br><size=14>*\u001a \u001aเนื้อหา\u001aแบบ\u001a \u001aHD\u001a \u001aมี\u001aขนาดใหญ่\u001aและ\u001aกินเนื้อที่\u001aบน\u001aอุปกรณ์\u001aมากกว่า\u001aปกติ\u001a \u001aแอพพลิเคชั่น\u001aจะ\u001aทำการ\u001aเริ่มต้น\u001aใหม่\u001aเพื่อให้\u001aสามารถ\u001aดาวน์โหลด\u001aเนื้อหา\u001aขาดหาย\u001aไป\u001aได้\u001a</size>\u001a"
     ],
     "SG_MENUSETTING_GRAPHIC_LOW_CONFIRM_MESSAGE": [
@@ -21882,7 +21882,7 @@
         "Êtes-vous sûr(e) de vouloir jouer avec les textures en basse résolution ?<br><br><size=14> L'appli va redémarrer afin que l'ensemble des ressources puissent être téléchargées. </size>",
         "Bist du sicher, dass du mit niedrigauflösender Grafik spielen möchtest?<br><br><size=14>* Die App wird neu gestartet, damit alle fehlenden Daten heruntergeladen werden können..</size>",
         "¿Seguro que quieres jugar con capacidad gráfica baja?<br><br><size=14>*Ten en cuenta que al aceptar también se reiniciará la app y se descargarán todos los archivos.</size>",
-        "Apakah kamu ingin memainkan game dengan grafis resolusi rendah?<br><br><size=14>* App akan ditutup lalu dibuka sekali lagi agar semua aset dapat didownload.</size>",
+        "Apakah kamu ingin memainkan game dengan grafis resolusi rendah?<br><br><size=14>* Aplikasi akan dimulai ulang agar semua aset dapat didownload.</size>",
         "คุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001aเล่น\u001aด้วย\u001aโหมด\u001aความ\u001aละเอียด\u001aต่ำ\u001a?<br><br><size=14>*\u001a \u001aแอพพลิเคชั่น\u001aจะ\u001aทำการ\u001aเริ่มต้น\u001aใหม่\u001aเพื่อให้\u001aสามารถ\u001aดาวน์โหลด\u001aเนื้อหา\u001aที่\u001aขาดหาย\u001aไป\u001aได้\u001a</size>\u001a"
     ],
     "SG_MISSION_LOCK_COUNT": [
@@ -23248,7 +23248,7 @@
         "คุณ\u001aต้องการ\u001aเปลี่ยน\u001aยู\u001aนิ\u001aท\u001aไป\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001aหรือไม่\u001a?<br><br>\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aแปลง\u001aสภาพ\u001aไป\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001aแล้ว\u001a \u001a<color=255:255:0>\u001a \u001aจะ\u001aไม่\u001aสามารถ\u001aกลับคืน\u001aสู่\u001aสภาพเดิม\u001aได้\u001aอีก\u001a</color>.<br>\u001aหาก\u001aยู\u001aนิ\u001aท\u001aที่จะ\u001aแปลง\u001aสภาพ\u001aนั้น\u001aยัง\u001aไม่\u001aได้\u001aรับรางวัล\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aคุณ\u001aสามารถ\u001aได้รับ\u001a<color=255:255:0><param=mogu></color>\u001aที่\u001aมีค่า\u001a \u001aTrust\u001a \u001aของ\u001aยู\u001aนิ\u001aท\u001aได้\u001a"
     ],
     "SP_CLASSUP_TRANS_RESULT_MATERIAL": [
-        "<color=255:255:0><param=unit></color> was converted into an <color=255:255:0>awakening material</color>.<br>",
+        "<color=255:255:0><param=unit></color> was converted into <color=255:255:0>awakening materials</color>.<br>",
         "已經將<color=255:255:0><param=unit></color>變換成<color=255:255:0>覺醒素材</color>了。<br>",
         "<color=255:255:0><param=unit></color>을(를) <color=255:255:0>각성 재료</color>로 변환했습니다.<br>",
         "<color=255:255:0><param=unit></color> a été converti(e) en <color=255:255:0>matériau d'éveil</color>.<br>",
@@ -23285,7 +23285,7 @@
         "Konversion",
         "Conversión",
         "Konversi",
-        "แปลง\u001aสภาพ\u001aเพื่อ\u001aปลุก\u001aพลัง\u001a"
+        "แปลง\u001aสภาพ\u001a"
     ],
     "SP_CLASSUP_TRANS_SUB_TITLE": [
         "Unit to Convert",
@@ -24964,7 +24964,7 @@
         "Non appris",
         "Nicht erlernt",
         "No aprendida",
-        "Belum Dipelajari",
+        "Belum<br>Dipelajari",
         "Ability\u001a \u001aที่\u001aยัง\u001aไม่\u001aเรียน\u001a"
     ],
     "UNIT_BONDS_LEARN_ABILITY": [
@@ -25364,7 +25364,7 @@
         "Une fois échangée contre l'objet suivant : <param=item_name>, <color=255:255:0>les unités ne peuvent pas revenir à leur état originel</color>.<br>Êtes-vous vraiment certain de vouloir continuer ? (Dernier avertissement)",
         "Wenn sie einmal gegen <param=item_name> getauscht wurden, <color=255:255:0>können Einheiten nicht mehr in ihren ursprünglichen Zustand zurückversetzt werden</color>.<br>Möchtest du fortfahren?",
         "Una vez las intercambies por <param=item_name>, <color=255:255:0>no podrás volver atrás</color>.<br> <br>¿Seguro que quieres continuar? (Confirmación definitiva)",
-        "Setelah ditukarkan dengan <param=item_name>, <color=255:255:0>unit tersebut tidak dapat dikembalikan ke keadaan semula</color>.<br>Apakah kamu ingin melanjutkan? (Konfirmasi terakhir)",
+        "Setelah ditukarkan dengan <param=item_name>, <color=255:255:0>unit tersebut tidak akan dapat dikembalikan ke keadaan semula</color>.<br>Apakah kamu ingin melanjutkan? (Konfirmasi terakhir)",
         "เมื่อ\u001aถูก\u001aนำ\u001aไป\u001aแปลง\u001aสภาพ\u001aเป็น\u001aไอเทม\u001a<param=item_name>\u001aแล้ว\u001a \u001a<color=255:255:0>\u001a \u001aยู\u001aนิ\u001aท\u001aดังกล่าว\u001aจะ\u001aไม่\u001aสามารถ\u001aกลับคืน\u001aสู่\u001aสภาพเดิม\u001aได้\u001aอีก\u001a</color>.<br>\u001a \u001a<br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001aแปลง\u001aสภาพ\u001aยู\u001aนิ\u001aท\u001aจริงๆ\u001a?\u001a \u001a(\u001aยืนยัน\u001aขั้นสุดท้าย\u001a)\u001a"
     ],
     "UNIT_EXCHANGE_CONFIRM_SUPER_TRUST_MASTER": [
@@ -25644,7 +25644,7 @@
         "Vous avez choisi une unité <color=255:255:0>3★ ou supérieure</color> en tant que matériau d'amélioration.<br>Les unités utilisées comme matériaux <color=255:0:0>disparaîtront</color> après la fusion.<br> <br><color=255:255:0>Fusionner une unité avec une autre du même nom ne suffit pas à l'éveiller au rang 7★.</color><br> <br>Voulez-vous vraiment fusionner ces unités ?",
         "Du hast eine Einheit mit der Seltenheit<color=255:255:0>3★ oder höher</color> als Verstärkungsmaterial ausgewählt.<br>Materialeinheiten <color=255:0:0>verschwinden</color>nach der Fusion.<br> <br><color=255:255:0>Wenn du eine Einheit als Verstärkungsmaterial benutzt, um sie mit einer Einheit desselben Namens zu fusionieren, wird diese nicht auf 7★ erweckt..</color><br> <br>Bist du sicher, dass du die gewählte(n) Einheit(en) fusionieren willst?",
         "Has elegido una unidad de rareza <color=255:255:0>3★ o superior</color> como material de mejora.<br>Las unidades que uses como material <color=255:0:0>desaparecerán</color> tras la fusión.<br> <br><color=255:255:0>Fusionar una unidad con el mismo nombre que la del material de mejora no hará que despierte a 7★.</color><br> <br>¿Seguro que quieres fusionar la(s) unidad(es) seleccionada(s)?",
-        "Kamu telah memilih unit dengan tingkat kelangkaan <color=255:255:0>★3 atau lebih</color> sebagai material penguat.<br>Unit material akan <color=255:0:0>menghilang</color> setelah digabung.<br> <br><color=255:255:0>Unit tidak dapat dibangkitkan menjadi ★7 meskipun kamu menggabungkan unit yang sama sebagai material penguat.</color><br> <br>Apakah kamu ingin menggabungkan unit yang telah dipilih?",
+        "Unit dengan tingkat kelangkaan <color=255:255:0>★3 atau lebih</color> telah dipilih sebagai material penguat.<br>Unit material akan <color=255:0:0>menghilang</color> setelah digabung.<br> <br><color=255:255:0>Unit tidak dapat dibangkitkan menjadi ★7 meskipun kamu menggabungkan unit yang sama sebagai material penguat.</color><br> <br>Apakah kamu ingin menggabungkan unit yang telah dipilih?",
         "คุณ\u001aได้\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aที่\u001aมีระดับ\u001aความ\u001a \u001aRare\u001a \u001a<color=255:255:0>\u001a3\u001a★\u001a \u001aขึ้นไป\u001a</color>\u001a \u001aเพื่อ\u001aใช้\u001aเป็น\u001aวัตถุดิบ\u001aเสริม\u001aพลัง\u001a<br>\u001aยู\u001aนิ\u001aท\u001aที่\u001aเป็น\u001aวัตถุดิบ\u001aจะ\u001a \u001a<color=255:0:0>\u001aหาย\u001aไป\u001a</color>\u001aหลังจาก\u001aการ\u001aรวม\u001aร่าง\u001aเสริม\u001aพลัง\u001a<br>\u001a \u001a<br><color=255:255:0>\u001aโปรดทราบ\u001aว่าการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aชื่อ\u001aเดียวกัน\u001aไม่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aให้\u001aไป\u001aถึง\u001aระดับ\u001a7\u001a★</color><br>\u001a \u001a<br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aคุณ\u001aต้องการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001aไว้\u001a?\u001a"
     ],
     "UNIT_MIX_CONFIRM_SUPER_TRUST_OVER": [
@@ -25678,14 +25678,14 @@
         "<color=255:255:0>\u001aมี\u001aวัตถุดิบ\u001aที่จะ\u001aส่งผล\u001aให้\u001aค่า\u001a \u001aTrust\u001a \u001aเลย\u001aโควต้า\u001aสูงสุด\u001a \u001a</color>\u001a \u001aรวม\u001aอยู่\u001aด้วย\u001a<br>\u001aค่าที่\u001aเกิน\u001aโควต้า\u001aสูงสุด\u001aทั้งหมด\u001a<color=255:255:0>\u001aจะ\u001aถูก\u001aลบทิ้ง\u001aไป\u001a</color>.\u001a \u001aดำเนินการ\u001aรวม\u001aร่าง\u001aต่อ\u001aหรือไม่\u001a?\u001a"
     ],
     "UNIT_MIX_GET_SPECIAL_REWARD": [
-        "Received <color=255:255:0>Trust Moogle (All 50%)</color><br>as a special bonus.<br>Rewards will be sent to your message box.",
-        "獲得了特別報酬<br><color=255:255:0>信賴度莫古利(All 50%)</color>。<br>報酬將以遊戲內信件寄送。",
-        "특별 보상으로<br><color=255:255:0>트러스트 모그리(All 50%)</color>을(를) 획득했습니다.<br>보상은 메시지함으로 지급됩니다.",
-        "Récompense spéciale reçue : <color=255:255:0>Mog de confiance (Tout 50%)</color><br>.<br>Les récompenses seront envoyées dans votre messagerie.",
-        "Du hast <color=255:255:0>Treuemogry (ALLE 50%)</color><br> als besondere Belohnung erhalten.<br>Belohnungen werden in deinem Posteingang hinterlegt.",
-        "Se ha recibido <color=255:255:0>un moguri fiel (50% a todos)</color> como recompensa especial<br>.<br>Las recompensas se enviarán al buzón.",
-        "Kamu telah menerima <color=255:255:0>Trust Moogle (u/SEMUA 50%)</color><br>sebagai bonus spesial.<br>Hadiah akan dikirim ke kotak masukmu.",
-        "คุณ\u001aได้รับ\u001a \u001a<color=255:255:0>\u001aTrust\u001a \u001aMoogle\u001a \u001a(\u001aAll\u001a \u001a50%)</color><br>\u001aเป็น\u001aโบนัส\u001aพิเศษ\u001a<br>\u001aรางวัล\u001aจะ\u001aถูก\u001aส่ง\u001aไป\u001aยัง\u001aกล่อง\u001aข้อความ\u001aของ\u001aคุณ\u001a"
+        "Received a special bonus.<br>Rewards will be sent to your message box.",
+        "獲得特別獎勵。<br>獎勵將會發送至遊戲內收信箱。",
+        "특별 보상을 획득했습니다.<br>보상은 메시지함으로 지급됩니다.",
+        "Un bonus spécial a été reçu.<br>Les récompenses seront envoyées dans votre boîte de réception.",
+        "Besondere Belohnung erhalten.<br>Belohnungen werden in deinem Posteingang hinterlegt.",
+        "Bonificación especial recibida.<br>Las recompensas se enviarán a tu buzón.",
+        "Telah diterima sebagai bonus spesial.<br>Hadiah akan dikirim ke kotak masukmu.",
+        "ได้รับ\u001aโบนัส\u001aพิเศษ\u001a<br>\u001aของรางวัล\u001aจะ\u001aถูก\u001aส่ง\u001aไป\u001aที่\u001aกล่อง\u001aข้อความ\u001a"
     ],
     "UNIT_MIX_LABEL": [
         "When Fused",
@@ -26375,7 +26375,7 @@
         "Bis <param=endday>",
         "Hasta <param=endday>",
         "Sampai <param=endday>",
-        "มี\u001aถึง\u001aวันที่\u001a \u001a<param =endday>\u001a"
+        "มี\u001aถึง\u001aวันที่\u001a \u001a<param=endday>\u001a"
     ],
     "UNTIL_EVENT_END": [
         "until end of event",
