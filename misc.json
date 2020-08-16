@@ -7053,14 +7053,14 @@
         "ซัม\u001aม่อน\u001a"
     ],
     "GACHA_BOX_INT": [
-        "Tier",
-        "階段",
-        "단계",
-        "Boîte",
-        "Rang",
-        "Caja",
-        "Kotak",
-        "ระดับ\u001a"
+        "<param=tier> Tier : <param=content>",
+        "<param=tier> 階段 : <param=content>",
+        "<param=tier> 단계 : <param=content>",
+        "Boîte <param=tier> : <param=content>",
+        "<param=tier> Rang : <param=content>",
+        "<param=tier> Caja : <param=content>",
+        "<param=tier> Kotak : <param=content>",
+        "<param=tier>\u001a \u001aระดับ\u001a \u001a:\u001a \u001a<param=content>\u001a"
     ],
     "GACHA_BOX_RESETED": [
         "Advanced",
@@ -7457,14 +7457,14 @@
         "เสียง\u001a:\u001a"
     ],
     "GACHA_PAY_UNIT_NOTICE": [
-        "*The unit is shown at highest awakenable rarity",
+        "*The unit is shown at highest awakenable rarity.",
         "※兵員顯示為最高可覺醒之稀有度。",
         "※ 표시된 유닛의 레어도는 각성 가능한 최고 레어도입니다.",
-        "* L'unité est montrée à sa rareté maximale",
+        "* L'unité est montrée à sa rareté maximale.",
         "* Die Einheit wird in der höchsten erweckbaren Seltenheit dargestellt.",
-        "*Se muestra la unidad con el máximo de rareza despertable",
-        "*Unit yang ditampilkan telah mencapai tingkat kelangkaan tertinggi",
-        "*\u001aยู\u001aนิ\u001aท\u001aนั้น\u001aจะ\u001aถูก\u001aแสดงให้เห็น\u001aค่า\u001aความ\u001a \u001aRare\u001a \u001aสูงสุด\u001aที่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aไป\u001aถึง\u001aได้\u001a"
+        "*Se muestra la unidad con el máximo de rareza despertable.",
+        "*Unit yang ditampilkan telah mencapai tingkat kelangkaan tertinggi.",
+        "*\u001aยู\u001aนิ\u001aท\u001aนั้น\u001aจะ\u001aถูก\u001aแสดง\u001aใน\u001aค่า\u001aความ\u001a \u001aRare\u001a \u001aสูงสุด\u001a.\u001a"
     ],
     "GACHA_POINT_SHORTAGE": [
         "Insufficient points.",
@@ -13922,196 +13922,6 @@
         "Varios",
         "Lainnya",
         "อื่นๆ\u001a"
-    ],
-    "MST_BEAST_NAME_1": [
-        "Siren",
-        "塞壬",
-        "세이렌",
-        "Sirène",
-        "Sirene",
-        "Sirena",
-        "Siren",
-        "Siren\u001a"
-    ],
-    "MST_BEAST_NAME_10": [
-        "Odin",
-        "奧汀",
-        "오딘",
-        "Odin",
-        "Odin",
-        "Odín",
-        "Odin",
-        "Odin\u001a"
-    ],
-    "MST_BEAST_NAME_11": [
-        "Lakshmi",
-        "吉祥天女",
-        "락슈미",
-        "Lakshmi",
-        "Lakshmi",
-        "Lakshmi",
-        "Laksmi",
-        "Lakshmi\u001a"
-    ],
-    "MST_BEAST_NAME_12": [
-        "Leviathan",
-        "利維坦",
-        "리바이어선",
-        "Léviathan",
-        "Leviathan",
-        "Leviatán",
-        "Leviathan",
-        "Leviathan\u001a"
-    ],
-    "MST_BEAST_NAME_13": [
-        "Alexander",
-        "亞歷山大",
-        "알렉산더",
-        "Alexandre",
-        "Alexander",
-        "Alejandro",
-        "Alexander",
-        "Alexander\u001a"
-    ],
-    "MST_BEAST_NAME_14": [
-        "Phoenix",
-        "地獄鳳凰",
-        "피닉스",
-        "Phénix",
-        "Phönix",
-        "Fénix",
-        "Phoenix",
-        "Phoenix\u001a"
-    ],
-    "MST_BEAST_NAME_15": [
-        "Bahamut",
-        "巴哈姆特",
-        "바하무트",
-        "Bahamut",
-        "Bahamut",
-        "Bahamut",
-        "Bahamut",
-        "Bahamut\u001a"
-    ],
-    "MST_BEAST_NAME_16": [
-        "Fenrir",
-        "芬里爾",
-        "펜리르",
-        "Fenrir",
-        "Fenrir",
-        "Fenril",
-        "Fenrir",
-        "Fenrir\u001a"
-    ],
-    "MST_BEAST_NAME_17": [
-        "Anima",
-        "暴怒靈獸",
-        "아니마",
-        "Anima",
-        "Anima",
-        "Ánima",
-        "Anima",
-        "Anima\u001a"
-    ],
-    "MST_BEAST_NAME_18": [
-        "Asura",
-        "阿修羅",
-        "아수라",
-        "Asura",
-        "Asura",
-        "Asura",
-        "Asura",
-        "Asura\u001a"
-    ],
-    "MST_BEAST_NAME_19": [
-        "Kokuryu",
-        "黑龍",
-        "흑룡",
-        "Kokuryu",
-        "Kokuryu",
-        "Kokuryu",
-        "Kokuryu",
-        "มังกร\u001aดำ\u001a"
-    ],
-    "MST_BEAST_NAME_2": [
-        "Ifrit",
-        "伊弗利特",
-        "이프리트",
-        "Ifrit",
-        "Ifrit",
-        "Ifrit",
-        "Ifrit",
-        "Ifrit\u001a"
-    ],
-    "MST_BEAST_NAME_3": [
-        "Shiva",
-        "濕婆",
-        "시바",
-        "Shiva",
-        "Shiva",
-        "Shiva",
-        "Shiva",
-        "Shiva\u001a"
-    ],
-    "MST_BEAST_NAME_4": [
-        "Carbuncle",
-        "卡邦庫爾",
-        "카벙클",
-        "Carbuncle",
-        "Karfunkel",
-        "Rubí",
-        "Carbuncle",
-        "Carbuncle\u001a"
-    ],
-    "MST_BEAST_NAME_5": [
-        "Diabolos",
-        "迪亞波羅斯",
-        "디아볼로스",
-        "Diabolos",
-        "Diabolos",
-        "Diablo",
-        "Diabolos",
-        "Diabolos\u001a"
-    ],
-    "MST_BEAST_NAME_6": [
-        "Golem",
-        "巨像兵",
-        "골렘",
-        "Golem",
-        "Golem",
-        "Gólem",
-        "Golem",
-        "Golem\u001a"
-    ],
-    "MST_BEAST_NAME_7": [
-        "Ramuh",
-        "拉姆",
-        "라무",
-        "Ramuh",
-        "Ramuh",
-        "Lamú",
-        "Ramuh",
-        "Ramuh\u001a"
-    ],
-    "MST_BEAST_NAME_8": [
-        "Titan",
-        "泰坦",
-        "타이탄",
-        "Titan",
-        "Titan",
-        "Titán",
-        "Titan",
-        "Titan\u001a"
-    ],
-    "MST_BEAST_NAME_9": [
-        "Tetra Sylphid",
-        "四方風精靈",
-        "테트라 실피드",
-        "Tétra-Sylphides",
-        "Tetra Sylphid",
-        "Tetra Sílfide",
-        "Tetra Sylphid",
-        "Tetra\u001a \u001aSylphid\u001a"
     ],
     "MST_CHALLENGE_COND_INFO_DETAIL_121014051": [
         "Blue Mage Fina in party",
