@@ -109,6 +109,16 @@
         "Aksesori",
         "อุปกรณ์\u001aเครื่องประดับ\u001a"
     ],
+    "ABILITY_DETAIL_AFFILIATION_ABILITY": [
+        "Chainable Abilities:",
+        "可觸發CHAIN的能力：",
+        "체인 가능 어빌리티:",
+        "Aptitudes enchaînables :",
+        "Zu Ketten verknüpfbare Fertigkeiten:",
+        "Habilidades encadenables:",
+        "Ability yang Dapat Dijadikan Combo:",
+        "Ability\u001a \u001aที่\u001aทำ\u001a \u001aChain\u001a \u001aได้\u001a"
+    ],
     "ABILITY_DETAIL_ATKTYPE_LIST": [
         "ATK@MAG@ATK/MAG@Other",
         "攻擊@魔力@攻擊 魔力@其他",
@@ -138,6 +148,26 @@
         "ropa@armadura ligera@armadura pesada@túnica",
         "pakaian@armor kelas ringan@armor kelas berat@jubah",
         "ชุด\u001aผ้า\u001a@\u001aเกราะ\u001aเบา\u001a@\u001aเกราะ\u001aหนัก\u001a@\u001aเสื้อคลุม\u001a"
+    ],
+    "ABILITY_DETAIL_CHAIN_GROUP": [
+        "Chain Family",
+        "CHAIN同伴",
+        "체인 패밀리",
+        "Famille de combos",
+        "Kettenfamilie",
+        "Familia de combos",
+        "Combo Family",
+        "ตระกูล\u001a \u001aChain\u001a"
+    ],
+    "ABILITY_DETAIL_CHAIN_GROUP_INFO": [
+        "*Listed are abilities likely to chain with the selected ability",
+        "※容易發動CHAIN連擊的同系統能力一覽",
+        "※ 아래는 선택한 어빌리티와 체인이 발생하기 쉬운 어빌리티 목록입니다.",
+        "* Les aptitudes listées ici peuvent facilement effectuer des combos avec l'aptitude sélectionnée",
+        "Hier aufgelistet sind Fertigkeiten, die gut mit der ausgewählten Fertigkeit in einer Kette verwendet werden können.",
+        "Estas habilidades se encadenan bien con la habilidad seleccionada",
+        "*Ability yang tertera berikut ini akan mempermudah melakukan combo dengan ability yang dipilih.",
+        "*\u001aAbility\u001a \u001aดังต่อไปนี้\u001aมีโอกาส\u001aสูง\u001aที่จะ\u001a \u001aChain\u001a \u001aกับ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
     ],
     "ABILITY_DETAIL_ELEMENT_LIST": [
         "fire@ice@lightning@water@wind@earth@light@dark",
@@ -1102,7 +1132,7 @@
         "Convertir une unité en matériau d'éveilVous ne possédez actuellement qu'un seul exemplaire de cette unité dans votre inventaire. Convertir cette unité en matériau d'éveil entraînera la perte de l'unité de base nécessaire à l'éveil 7 étoiles et vous ne pourrez plus l'éveiller jusqu'à ce que vous obteniez un autre exemplaire de cette unité.",
         "Einheit zu Erweckungsmaterial konvertieren?Du besitzt derzeit nur ein Exemplar dieser Einheit in deinem Inventar. Wenn du diese Einheit in Erweckungsmaterial konvertierst, wirst du deine Basiseinheit für seine 7★ Erweckung verlieren und sie nicht zu ihrer 7★ Form erwecken können, bevor du ein weiteres Exemplar dieser Einheit erhältst.",
         "¿Seguro que quieres convertir esta unidad en material de despertar?Ahora mismo, solo tienes una copia de esta unidad en el inventario. Si conviertes esta unidad en material de despertar, perderás a la unidad base que te hace falta para despertarla a 7★ y, por tanto, no podrás despertarla a 7★ hasta que consigas otra copia de esta unidad en concreto.",
-        "Konversi unit ke material kebangkitan?Saat ini kamu hanya mempunyai satu unit ini di inventory-mu. Apabila kamu mengkonversi unit ini ke material kebangkitan, kamu akan kehilangan unit dasar yang diperlukan untuk kebangkitan ★7 unit ini, dan kamu tidak dapat membangkitkan unit tersebut menjadi ★7 sampai kamu mendapatkan unit yang sama dengan unit ini.",
+        "Konversi unit ke material kebangkitan?<br><br>Saat ini kamu hanya mempunyai satu unit ini di inventory-mu. Apabila kamu mengkonversi unit ini ke material kebangkitan, kamu akan kehilangan unit dasar yang diperlukan untuk kebangkitan ★7 unit ini, dan kamu tidak dapat membangkitkan unit tersebut menjadi ★7 sampai kamu mendapatkan unit yang sama dengan unit ini.",
         "คุณ\u001aต้องการ\u001aแปลง\u001aสภาพ\u001aยู\u001aนิ\u001aท\u001aนี้\u001aไป\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001aหรือไม่\u001a?\u001a   \u001aใน\u001aตอนนี้\u001a \u001aคุณ\u001aมี\u001aยู\u001aนิ\u001aท\u001aนี้\u001aอยู่\u001aเพียงแค่\u001aตัว\u001aเดียว\u001aใน\u001aคลัง\u001aเท่านั้น\u001a \u001aการนำ\u001aยู\u001aนิ\u001aท\u001aนี้\u001aไป\u001aแปลง\u001aสภาพ\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001aจะ\u001aทำให้\u001aคุณ\u001aสูญเสีย\u001aยู\u001aนิ\u001aท\u001aหลัก\u001aสำหรับ\u001aใช้\u001aปลุก\u001aพลัง\u001aระดับ\u001a \u001a7\u001a★\u001a \u001aคุณ\u001aจะ\u001aไม่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aให้\u001aมีพลัง\u001a7\u001a★\u001a \u001aได้\u001aจนกว่า\u001aคุณ\u001aจะ\u001aได้\u001aยู\u001aนิ\u001aท\u001aนี้\u001aซ้ำ\u001aมา\u001aอีก\u001aตัว\u001aหนึ่ง\u001a"
     ],
     "AWAKE_MATERIAL": [
@@ -1295,6 +1325,16 @@
         "6": "Saat ini sedang login ke %s",
         "7": "ตัอน\u001aนี้\u001aกำลัง\u001a \u001aLog\u001a \u001ain\u001a \u001aเข้ากับ\u001a"
     },
+    "Account_Label_User_Account": [
+        "Player ID:",
+        "玩家ID：",
+        "플레이어 ID:",
+        "Identifiant de joueur :",
+        "Spieler-ID:",
+        "ID de jugador:",
+        "ID Pemain:",
+        "ID\u001a \u001aผู้\u001aเล่น\u001a:\u001a"
+    ],
     "Account_Title_Account": {
         "0": null,
         "6": "Akun",
@@ -1529,6 +1569,96 @@
         "*Pulsa en una unidad para ver los detalles. Mantén pulsada una unidad en la pantalla de batalla para ver su estado actual.",
         "*Sentuh unit untuk melihat detail. Sentuh dan tahan unit di layar battle untuk melihat statusnya saat ini.",
         "*\u001a \u001aแตะ\u001aยู\u001aนิ\u001aท\u001aเพื่อ\u001aดู\u001aรายละเอียด\u001a \u001aแตะ\u001aยู\u001aนิ\u001aทบ\u001aท\u001aหน้าจอ\u001aการต่อสู้\u001aค้าง\u001aไว้\u001aเพื่อ\u001aดู\u001aสเตตัส\u001aใน\u001aปัจจุบัน\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_COOL_TIME": [
+        "Brave Shift available in <color=255:255:0><param=shift_turn></color> turns",
+        "BRAVE SHIFT可發動剩餘<color=255:255:0><param=shift_turn></color>回合",
+        "브레이브 시프트까지 앞으로 <color=255:255:0><param=shift_turn></color>턴",
+        "Forme extrême disponible dans <color=255:255:0><param=shift_turn></color> tours",
+        "Heldenwandel in  <color=255:255:0><param=shift_turn></color> Runden verfügbar.",
+        "Forma Brave disponible en <color=255:255:0><param=shift_turn></color> turno(s)",
+        "Brave Shift tersedia dalam <color=255:255:0><param=shift_turn></color> giliran",
+        "สามารถ\u001aใช้\u001a \u001aBrave\u001a \u001aShift\u001a \u001aได้\u001aใน\u001a \u001a<color=255:255:0><param=shift_turn></color>\u001a \u001aเทิร์น\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_FORCE_RELEASE_COND": [
+        "<color=255:0:0>Deactivation conditions</color>:",
+        "<color=255:0:0>解除條件</color>:",
+        "<color=255:0:0>해제 조건</color>:",
+        "<color=255:0:0>Conditions de désactivation</color> :",
+        "<color=255:0:0>Deaktivierungsbedingungen</color>:",
+        "<color=255:0:0>Condiciones de desactivación</color>:",
+        "<color=255:0:0>Ketentuan penonaktifan</color>:",
+        "<color=255:0:0>\u001aเงื่อนไข\u001aการ\u001aปิด\u001aใช้งาน\u001a</color>:\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_FORCE_RELEASE_COND_DAMAGE": [
+        "Damage taken",
+        "受到的傷害量",
+        "받은 피해량",
+        "Dégâts reçus",
+        "Erlittener Schaden",
+        "Daño recibido",
+        "Damage yang diterima",
+        "ความเสียหาย\u001aที่\u001aได้รับ\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_FORCE_RELEASE_COND_HEAL": [
+        "HP restored",
+        "HP恢復",
+        "HP 회복",
+        "PV restaurés",
+        "Wiederhergestellte LP",
+        "VIT recuperada",
+        "HP yang dipulihkan",
+        "ฟื้นฟู\u001a \u001aHP\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_NOW_MANUAL_RELEASE": [
+        "Brave Shift deactivation available in <color=255:255:0><param=shift_turn></color> turns",
+        "離可解除BRAVE SHIFT還有<color=255:255:0><param=shift_turn></color>回合",
+        "브레이브 시프트 해제 가능까지 <color=255:255:0><param=shift_turn></color>턴",
+        "Possibilité de désactivation de la forme extrême dans <color=255:255:0><param=shift_turn></color> tours",
+        "Deaktivierung des Heldenwandels in <color=255:255:0><param=shift_turn></color> Runden verfügbar.",
+        "La Forma Brave se podrá desactivar en <color=255:255:0><param=shift_turn></color> turno(s)",
+        "Brave Shift dapat dinonaktifkan dalam <color=255:255:0><param=shift_turn></color> giliran",
+        "สามารถ\u001aปิด\u001aใช้งาน\u001a \u001aBrave\u001a \u001aShift\u001a \u001aได้\u001aใน\u001a \u001a<color=255:255:0><param=shift_turn></color>\u001a \u001aเทิร์น\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_READY_RELEASE": [
+        "Brave Shift available",
+        "BRAVE SHIFT可發動",
+        "브레이브 시프트 가능",
+        "Forme extrême disponible",
+        "Heldenwandel verfügbar",
+        "Forma Brave disponible",
+        "Brave Shift tersedia",
+        "สามารถ\u001aใช้\u001a \u001aBrave\u001a \u001aShift\u001a \u001aได้\u001aใน\u001a \u001a<color=255:255:0><param=shift_turn></color>\u001a \u001aเทิร์น\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_READY_SHIFT": [
+        "Brave Shift (<color=255:255:0><param=shift_turn></color> turn cooldown)",
+        "BRAVE SHIFT可發動(<color=255:255:0><param=shift_turn></color>回合)",
+        "브레이브 시프트 가능(<color=255:255:0><param=shift_turn></color>턴)",
+        "Forme extrême disponible (dans <color=255:255:0><param=shift_turn></color> tours)",
+        "Heldenwandel (<color=255:255:0><param=shift_turn></color> Runden Abklingdauer)",
+        "Forma Brave (<color=255:255:0><param=shift_turn></color> turno(s) de espera)",
+        "Brave Shift (jeda waktu <color=255:255:0><param=shift_turn></color> giliran)",
+        "Brave\u001a \u001aShift\u001a \u001a(\u001aคู\u001aลดา\u001aวน\u001a์\u001a \u001a<color=255:255:0><param=shift_turn></color>\u001a \u001aเทิร์น)\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_REST_TURN": [
+        "turns<br>remaining",
+        "剩餘<br>回合",
+        "앞으로<br>턴",
+        "Tours<br>restants",
+        "Runden<br>verbleibend",
+        "turno(s)<br>restantes",
+        "giliran<br>tersisa",
+        "เทิร์น<br>\u001aที่\u001aเหลือ\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_SHIFT_NOW": [
+        "Brave Shift deactivation in <color=255:255:0><param=shift_turn></color> turns",
+        "離BRAVE SHIFT解除還有<color=255:255:0><param=shift_turn></color>回合",
+        "브레이브 시프트 해제까지 <color=255:255:0><param=shift_turn></color>턴",
+        "Désactivation de la forme extrême dans <color=255:255:0><param=shift_turn></color> tours",
+        "Heldenwandel wird in <color=255:255:0><param=shift_turn></color> Runden deaktiviert.",
+        "La Forma Brave se desactivará en <color=255:255:0><param=shift_turn></color> turno(s)",
+        "Brave Shift akan dinonaktifkan dalam <color=255:255:0><param=shift_turn></color> giliran",
+        "Brave\u001a \u001aShift\u001a \u001aจะ\u001aถูก\u001aปิด\u001aใช้งาน\u001aใน\u001a \u001a<color=255:255:0><param=shift_turn></color>\u001a \u001aเทิร์น\u001a"
     ],
     "BEFORE_DAY": [
         "d ago",
@@ -2425,14 +2555,14 @@
         "เลือก\u001a \u001aRound\u001a \u001a<param=grade>:\u001a \u001a<param=rank>\u001a"
     ],
     "CLSM_SHORTAGE_LAPIS_BUY_TEXT": [
-        "You can use <param=num> lapis to <color=255:0:0>fully restore your colosseum orbs</color>.<br>Do you want to buy some?",
-        "使用<param=coin>個寶石<br>可以<br><color=255:0:0>恢復所有競技場寶珠</color>。<br>是否要購買寶石？",
-        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>라피스를 구매하시겠습니까?",
-        "Vous pouvez récupérer <color=255:0:0>toutes vos orbes du Colisée</color> pour <param=coin> lapis. Souhaitez-vous acheter des lapis ?",
-        "Du kannst <color=255:0:0>deine Juwelen völlig</color> für <param=coin> Lapis auffüllen. Willst du mehr kaufen?",
-        "Puedes recuperar <color=255:0:0>todos tus orbes del Coliseo</color> usando <param=coin> lapis. ¿Quieres comprarlos?",
-        "Kamu dapat menggunakan <param=num> lapis untuk <color=255:0:0>memulihkan seluruh orb koloseum</color>.<br>Apakah kamu ingin membeli lapis?",
-        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a<param=num>\u001a \u001aเม็ด\u001a \u001aเพื่อ\u001aเติม\u001a<color=255:0:0>\u001aลูกแก้ว\u001aโคล\u001aอสเซียม\u001aให้\u001aเต็ม\u001a</color><br>\u001aต้องการ\u001aซื้อ\u001a \u001aLapis\u001a \u001aหรือไม่\u001a?\u001a"
+        "You can use <param=coin> lapis<br>to restore <color=255:0:0><param=healOrb_num> orbs.<br>Purchase lapis?",
+        "使用<param=coin>寶石<br>可以恢復<color=255:0:0><param=healOrb_num>個寶珠。<br>是否要購買寶石？",
+        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>구슬을 <param=healOrb_num>개 회복</color>할 수 있습니다.<br>라피스를 구매하시겠습니까?",
+        "You pouvez utiliser des <param=coin> lapis<br>pour restaurer vos <color=255:0:0><param=healOrb_num> orbes.<br>Acheter des lapis ?",
+        "Du kannst <color=255:0:0><param=healOrb_num> Juwelen </color> mit <param=coin> Lapis auffüllen. Jetzt Lapis kaufen?",
+        "Puedes usar <param=coin> lapis<br>para restaurar <color=255:0:0><param=healOrb_num> orbes.<br>¿Quieres comprar lapis?",
+        "Kamu dapat menggunakan <param=coin> lapis<br>untuk memulihkan <color=255:0:0><param=healOrb_num> orb.<br>Beli lapis?",
+        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a \u001a<param=num>\u001a \u001aเม็ด\u001a \u001aเพื่อ\u001aเติม\u001a<color=255:0:0>\u001aลูกแก้ว\u001aจำนวน\u001a \u001a<param=healOrb_num>\u001a \u001aลูก\u001a</color><br>\u001aต้องการ\u001aซื้อ\u001a \u001aLapis\u001a \u001aหรือไม่\u001a?\u001a"
     ],
     "CLSM_SHORTAGE_LAPIS_BUY_TITLE": [
         "Insufficient Colosseum Orbs",
@@ -2445,14 +2575,14 @@
         "ลูกแก้ว\u001aโคล\u001aอสเซียม\u001aมี\u001aไม่\u001aพอ\u001a"
     ],
     "CLSM_SHORTAGE_ORB_HEAL_TEXT": [
-        "You can use <param=num> lapis to <color=255:0:0>fully restore your colosseum orbs</color>.<br>Proceed?",
-        "使用<param=coin>個寶石<br>可以<br><color=255:0:0>恢復所有競技場寶珠</color>。<br>是否要恢復？",
-        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>투기장 구슬을 모두 회복</color><br>할 수 있습니다.<br>회복하시겠습니까?",
-        "Vous pouvez récupérer <color=255:0:0>tous vos orbes du Colisée</color> pour <param=coin> lapis. Continuer ?",
-        "Du kannst <color=255:0:0>deine Juwelen völlig</color> für <param=coin> Lapis auffüllen. Fortfahren?",
-        "Puedes recuperar <color=255:0:0>todos tus orbes del Coliseo</color> usando <param=coin> lapis. ¿Continuar?",
-        "Kamu dapat menggunakan <param=num> lapis untuk <color=255:0:0>memulihkan seluruh orb koloseum</color>.<br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a<param=num>\u001a \u001aเม็ด\u001a \u001aเพื่อ\u001aเติม\u001a<color=255:0:0>\u001aลูกแก้ว\u001aโคล\u001aอสเซียม\u001aให้\u001aเต็ม\u001a</color><br>\u001a \u001aต้องการ\u001aเติม\u001aลูกแก้ว\u001aหรือไม่\u001a?\u001a"
+        "You can use <param=coin> lapis<br>to restore <color=255:0:0><param=healOrb_num> orbs.<br>Restore orbs?",
+        "使用<param=coin>寶石<br>可以恢復<color=255:0:0><param=healOrb_num>個寶珠。<br>是否要恢復？",
+        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>구슬을 <param=healOrb_num>개 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
+        "You pouvez utiliser des <param=coin> lapis<br>pour restaurer vos <color=255:0:0><param=healOrb_num> orbes.<br>Restaurer vos orbes ?",
+        "Du kannst <color=255:0:0><param=healOrb_num> Juwelen </color> mit <param=coin> Lapis auffüllen. Jetzt Juwelen auffüllen?",
+        "Puedes usar <param=coin> lapis<br>para restaurar <color=255:0:0><param=healOrb_num> orbes.<br>¿Quieres restaurar orbes?",
+        "Kamu dapat menggunakan <param=coin> lapis<br>untuk memulihkan <color=255:0:0><param=healOrb_num> orb.<br>Pulihkan orb?",
+        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a \u001a<param=num>\u001a \u001aเม็ด\u001a \u001aเพื่อ\u001aเติม\u001a<color=255:0:0>\u001aลูกแก้ว\u001aจำนวน\u001a \u001a<param=healOrb_num>\u001a \u001aลูก\u001a</color><br>\u001a \u001aต้องการ\u001aเติม\u001aลูกแก้ว\u001aหรือไม่\u001a?\u001a"
     ],
     "CLSM_SHORTAGE_ORB_HEAL_TITLE": [
         "Insufficient Colosseum Orbs",
@@ -4919,6 +5049,26 @@
         "Kamu tidak dapat lagi merekrut unit.<br><br>Cobalah tingkatkan batas unit, atau gabungkan atau jual unit yang tidak diperlukan.",
         "คุณ\u001aไม่\u001aสามารถ\u001aมี\u001aยู\u001aนิ\u001aท\u001aได้\u001aมากกว่า\u001aนี้\u001a<br><br>\u001a \u001aกรุณา\u001aเพิ่ม\u001aพื้นที่\u001aบรรจุ\u001aยู\u001aนิ\u001aท\u001aของ\u001aคุณ\u001a \u001aหรือ\u001aนำ\u001aยู\u001aนิ\u001aท\u001aที่\u001aไม่ต้องการ\u001aไป\u001aรวม\u001aร่าง\u001aหรือ\u001aขาย\u001aเสีย\u001a"
     ],
+    "ERROR_VISIONCARD_OVER_CAP": [
+        "Vision Card Capacity Reached",
+        "持有幻兵卡數過多",
+        "비전 카드 보유 수량 초과",
+        "Capacité max. d'atouts-visions atteinte",
+        "Visionskarten-Kapazität erreicht.",
+        "Se ha alcanzado la capacidad límite de cartas de visión",
+        "Batas Kartu Vision Telah Tercapai",
+        "โควต้า\u001aจำนวน\u001aการ์ด\u001a \u001aVision\u001a \u001aเต็ม\u001aแล้ว\u001a"
+    ],
+    "ERROR_VISIONCARD_OVER_MSG": [
+        "You cannot hold any more <color=255:255:0>vision cards.</color>",
+        "<color=255:255:0>持有幻兵卡數</color>達到了上限。",
+        "<color=255:255:0>비전 카드 보유 수량</color>을 초과했습니다.",
+        "Vous ne pouvez pas posséder davantage d'atouts-visions.",
+        "Du kannst nicht mehr <color=255:255:0>Visionskarten</color> besitzen.",
+        "No puedes tener más cartas de visión.",
+        "Kamu tidak dapat lagi memperoleh kartu vision tambahan.",
+        "คุณ\u001aไม่\u001aสามารถ\u001aถือครอง\u001a \u001a<color=255:255:0>\u001aการ์ด\u001a \u001aVision\u001a</color>\u001aได้\u001aเกิน\u001aกว่า\u001aนี้\u001aแล้ว\u001a"
+    ],
     "EVENT_BANNER_DAYS": [
         "<color=255:255:0>0 day(s)</color> 00:00:00",
         "<color=255:255:0>0天</color> 00:00:00",
@@ -7376,6 +7526,16 @@
         "Periode summon telah berakhir.<br>Kembali ke layar Summon.",
         "ช่วงเวลา\u001aสำหรับ\u001aการ\u001aซัม\u001aม่อน\u001aรายการ\u001aนี้\u001aได้\u001aหมด\u001aลง\u001aแล้ว\u001a<br>\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aซัม\u001aม่อน\u001a"
     ],
+    "GACHA_NV_UNIT_DETAIL_NOTICE": [
+        "Neo Vision is at max level and EX +3, with max level limit burst.",
+        "Neo Vision/Lv.MAX/極限技Lv.MAX/EX覺醒+3的狀態。",
+        "네오 비전/레벨 최대치/리미트 버스트 레벨 최대치/EX 각성+3 상태입니다.",
+        "L'unité Néo-vision est au niveau max. et EX +3, et sa limite est au niveau max.",
+        "Neo-Vision ist ist auf max. Stufe und EX +3, mit Limitrausch auf max. Stufe",
+        "La unidad NeoVisión está a nivel máximo y EX +3, con Estallido Límite a nivel máximo.",
+        "Neo Vision dengan level max, EX +3, dan level limit burst max.",
+        "ยู\u001aนิ\u001aทอ\u001aยู่\u001aใน\u001aภาวะ\u001a \u001aNeo\u001a \u001aVision\u001a \u001aLv\u001a.\u001a \u001aMax\u001a \u001aและ\u001aปลุก\u001aพลัง\u001aไป\u001aถึง\u001a \u001aEX\u001a \u001a+\u001a3\u001a \u001aพร้อม\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aระดับ\u001aสูงสุด\u001a"
+    ],
     "GACHA_PANEL_CONFIRM_OBTAIN_ALL_PANEL": [
         "All panel rewards have been obtained. Proceed to summon?",
         "抽獎格的報酬已經全數領取。<br>要進行召喚嗎？",
@@ -7446,6 +7606,16 @@
         "Panel Undian",
         "กระดาน\u001aลอตเตอรี่\u001a"
     ],
+    "GACHA_PAY_DISCOOUNT_TEXT": [
+        "<color=255:255:0>Free summon</color> after <color=255:255:0><param=num></color> summons",
+        "離<color=255:255:0>免費召喚</color>還有<color=255:255:0><param=num></color>次",
+        "<color=255:255:0>무료 소환</color>까지 앞으로 <color=255:255:0><param=num></color>회",
+        "<color=255:255:0>Invocation gratuite</color> après <color=255:255:0><param=num></color> invocations",
+        "<color=255:255:0>Kostenlose Beschwörung</color> nach <color=255:255:0><param=num></color> Beschwörungen",
+        "<color=255:255:0>Invocación gratuita</color> tras <color=255:255:0><param=num></color> invocaciones",
+        "<color=255:255:0>Summon gratis</color> setelah <color=255:255:0><param=num></color> summon",
+        "<color=255:255:0>\u001aสามารถ\u001aซัม\u001aม่อน\u001aได้\u001aฟรี\u001a/\u001acolor\u001a>\u001a \u001aหลังจาก\u001aซัม\u001aม่อน\u001a  \u001a\u001a \u001aหลังจาก\u001aซัม\u001aม่อน\u001a  \u001a<color=255:255:0><param=num></color>\u001a \u001aครั้ง\u001a"
+    ],
     "GACHA_PAY_LB_CV": [
         "Voice:",
         "LBCV：",
@@ -7455,6 +7625,16 @@
         "Voz:",
         "P. Suara:",
         "เสียง\u001a:\u001a"
+    ],
+    "GACHA_PAY_NV_UNIT_NOTICE": [
+        ", Neo Visions are displayed at EX +1 or above with Brave Shift unlocked.",
+        ", 顯示的Neo Vision兵員為EX覺醒+1以上且可發動BRAVE SHIFT之兵員。",
+        ", 표시된 네오 비전 유닛은 브레이브 시프트가 가능한 EX 각성+1 이상입니다.",
+        ", Les Néo-visions sont affichées au niveau EX +1 et ayant obtenu leur forme extrême.",
+        ", Neo-Visionen werden als EX +1 oder höher dargestellt, wenn der Heldenwandel freigeschaltet wird.",
+        ", Se muestran NeoVisiones con EX +1 o superior y forma Brave desbloqueada.",
+        ", *Neo Vision yang ditampilkan telah mencapai EX +1 atau lebih, dan telah membuka Brave Shift.",
+        ",\u001a \u001aสถานะ\u001aของ\u001aยู\u001aนิ\u001aท\u001a \u001aNeo\u001a \u001aVision\u001a \u001aจะ\u001aเป็น\u001aระดับ\u001a \u001aEX\u001a \u001a+\u001a1\u001a \u001aหรือ\u001aสูง\u001aกว่า\u001a \u001aพร้อม\u001aปลด\u001aล็อค\u001a \u001aBrave\u001a \u001aShift\u001a"
     ],
     "GACHA_PAY_UNIT_NOTICE": [
         "*The unit is shown at highest awakenable rarity.",
@@ -9367,6 +9547,66 @@
         "Wanita",
         "ยู\u001aนิ\u001aท\u001aหญิง\u001a"
     ],
+    "LIBRARY_VISIONCARD": [
+        "Vision Card Guide",
+        "幻兵卡圖鑑",
+        "비전 카드 도감",
+        "Bibliothèque des atouts-visions",
+        "Visionskartenhandbuch",
+        "Guía de cartas de visión",
+        "Panduan Kartu Vision",
+        "คู่มือ\u001aการ์ด\u001a \u001aVision\u001a"
+    ],
+    "LIMITED_MISSION_ACCESS_LIMIT_REACH": [
+        "You have no attempts remaining.",
+        "可挑戰次數為0。",
+        "도전 횟수가 0이 되었습니다.",
+        "Votre nombre de tentatives restantes a atteint 0.",
+        "Du hast keine Versuche mehr übrig.",
+        "No puedes intentarlo más veces.",
+        "Kamu telah mencapai batas kesempatan maksimal.",
+        "หมด\u001aจำนวน\u001aครั้ง\u001aที่\u001aลอง\u001aได้\u001aแล้ว\u001a"
+    ],
+    "LIMITED_MISSION_ACCESS_WARNING": [
+        "* Up to a maximum of <param=max_challenge> attempts will be reset every morning at 8:00 UTC (00:00 PST/01:00 PDT).<br>If the number of attempts is not displaying correctly, please return to the title screen or restart the application.",
+        "※可挑戰次數將於每天<color=255:255:0>16:00(台灣時間)[00:00 PST/01:00 PDT]恢復<param=max_challenge>次</color>。<br>如果可挑戰次數無法正常恢復，請返回標題畫面或重新啟動遊戲。",
+        "※도전 횟수는 <color=255:255:0>매일 17:00(00:00 PST/01:00 PDT)에 <param=max_challenge>회</color>까지 회복합니다.<br>도전 횟수가 제대로 회복되지 않을 경우, 타이틀 화면으로 돌아가거나 애플리케이션을 재시작해 주십시오.",
+        "* Le nombre maximal de tentatives disponibles (<param=max_challenge>) est réinitialisé tous les matins à 8:00 UTC (10:00 CEST/01:00 PDT).<br>Si le nombre de tentatives disponibles ne s'affiche pas correctement, veuillez retourner à l'écran titre ou redémarrer l'application.",
+        "* Bis zu <param=max_challenge> Versuche werden jeden Morgen um 08:00 UTC (09:00 MEZ/10:00 MESZ/00:00 PST/01:00 PDT) wiederhergestellt.<br>Falls die verbliebene Anzahl an Versuchen fehlerhaft dargestellt wird, kehre zum Hauptbildschirm zurück oder starte die App neu.",
+        "* Hasta un máximo de <param=max_challenge> intentos se restablecerán cada mañana a las 08:00 UTC (09:00 CET/10:00 CEST/00:00 PST/01:00 PDT).<br>Si el número de intentos no se muestra correctamente, regresa a la pantalla de título o reinicia la aplicación.",
+        "* Kesempatan maksimal sebanyak <param=max_challenge> kali akan direset pada pukul 8:00 UTC (15:00 WIB/00:00 PST/01:00 PDT).<br>Apabila kesempatan yang tersisa tidak ditampilkan dengan benar, silakan kembali ke layar judul atau memulai ulang aplikasi.",
+        "*\u001a \u001aจะ\u001aทำการ\u001aรีเซ็ต\u001aจำนวน\u001aครั้ง\u001aที่\u001aสามารถ\u001aลอง\u001aต่อสู้\u001aได้\u001aมาก\u001aสูงสุด\u001a \u001a<param=max_challenge>\u001a \u001aครั้ง\u001aทุกวัน\u001a \u001aใน\u001aเวลา\u001a \u001a8\u001a:\u001a00\u001a \u001aUTC\u001a \u001a(\u001a15\u001a:\u001a00\u001a \u001aICT\u001a/\u001a00\u001a:\u001a00\u001a \u001aPST\u001a/\u001a01\u001a:\u001a00\u001a \u001aPDT\u001a)<br>\u001aหาก\u001aเกิด\u001aปัญหา\u001aใน\u001aการแสดง\u001aจำนวน\u001aครั้ง\u001aที่\u001aสามารถ\u001aลอง\u001aต่อสู้\u001aได้\u001a \u001aโปรด\u001aลอง\u001aกลับ\u001aที่\u001aหน้า\u001aไตเติ้ล\u001aหรือ\u001aทำการ\u001aเริ่ม\u001aแอพพลิเคชั่น\u001aใหม่\u001aอีกครั้ง\u001a"
+    ],
+    "LIMITED_MISSION_CHALLENGE_NUM": [
+        "Number of Attempts: <param=count>/<param=max>",
+        "可挑戰次數<param=count>/<param=max>",
+        "도전 횟수 <param=count>/<param=max>",
+        "Tentative restante : <param=count>/<param=max>",
+        "Anzahl der Versuche: <param=count>/<param=max>",
+        "N.º intentos: <param=count>/<param=max>",
+        "Kesempatan yang Tersisa: <param=count>/<param=max> kali",
+        "สามารถ\u001aลอง\u001aได้\u001aอีก\u001a:\u001a \u001a<param=count>/<param=max>\u001a \u001aครั้ง\u001a"
+    ],
+    "LIMITED_MISSION_MOOGLE_MSG1": [
+        "You've used up all attempts today, kupo!",
+        "今天的挑戰已結束，庫啵！",
+        "오늘의 도전은 종료쿠포!",
+        "Vous ne pouvez plus tenter votre chance aujourd'hui, kupo!",
+        "Du hast alle Versuche für heute verbraucht, kupo!",
+        "¡Has agotado tus intentos por hoy, kupó!",
+        "Kesempatan yang kamu miliki hari ini sudah habis, kupo!",
+        "วันนี้\u001aลอง\u001aสู้\u001aไม่\u001aได้\u001aแล้ว\u001aนะ\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
+    ],
+    "LIMITED_MISSION_MOOGLE_MSG2": [
+        "You have  <color=255:0:0><param=count></color> attempts remaining, kupo!",
+        "今天還可以挑戰<color=255:0:0><param=count>次</color> ，庫啵！",
+        "오늘은 앞으로  <color=255:0:0><param=count>회 도전할 수 있어쿠포!",
+        "Vous pouvez tenter votre chance encore <color=255:0:0><param=count></color>, kupo!",
+        "Du hast noch <color=255:0:0><param=count></color> Versuche  übrig, kupo!",
+        "¡Te queda(n)  <color=255:0:0><param=count></color> intento(s), kupó!",
+        "Kesempatan yang tersisa tinggal  <color=255:0:0><param=count></color> kali lagi, kupo!",
+        "สามารถ\u001aลอง\u001aสู้\u001aได้\u001aอีก\u001a  \u001a<color=255:0:0><param=count></color>\u001a \u001aครั้ง\u001aล่ะ\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
+    ],
     "LINK_SHARING_MESSAGE": [
         "Play FINAL FANTASY BRAVE EXVIUS now!",
         "快來體驗FINAL FANTASY BRAVE EXVIUS吧！",
@@ -10284,7 +10524,7 @@
         "Messages",
         "Nachrichten",
         "Mensajes",
-        "Pesan",
+        "Kotak Masuk",
         "ข้อความ\u001a"
     ],
     "MAIL_NOTHING": [
@@ -10676,6 +10916,16 @@
         "Mostrar efectos de esper",
         "Efek Esper",
         "เอฟ\u001aเฟกค์\u001aของ\u001a \u001aEsper\u001a"
+    ],
+    "MENUSETTING_BATTLE_BRAVESHIFT_EFFECT": [
+        "Brave Shift Effect",
+        "BRAVE SHIFT 演出",
+        "브레이브 시프트 연출",
+        "Effets de forme extrême",
+        "Heldenwandel-Effekt",
+        "Efecto \"forma Brave\"",
+        "Efek Brave Shift",
+        "เอฟ\u001aเฟค\u001a \u001aBrave\u001a \u001aShift\u001a"
     ],
     "MENUSETTING_BATTLE_BURST": [
         "Limit Burst Details",
@@ -11765,7 +12015,7 @@
         "Verbleibende Male: %d",
         "Rondas restantes: %d",
         "Putaran yang tersisa: %d",
-        "จำนวน\u001aรอบ\u001aการ\u001aหมุน\u001aที่\u001aเหลืออยู่\u001a:\u001a %d\u001a"
+        "รอบ\u001aที่\u001aเหลือ\u001a:\u001a %d\u001a"
     ],
     "MINIGAME_TITLE": [
         "Slots de Chocobo",
@@ -12237,6 +12487,16 @@
         "Apakah kamu mau membeli paket ini?",
         "คุณ\u001aต้องการ\u001aจะ\u001aซื้อ\u001aแพคเกจ\u001aนี้\u001aใช่ไหม\u001a?\u001a"
     ],
+    "MSG_EQUIP_ITEM_FAVORITE": [
+        "The selected item has been set as a favorite.",
+        "此裝備道具已鎖定。",
+        "즐겨찾기에 설정된 장비 아이템입니다.",
+        "L'objet sélectionné a été ajouté à vos favoris.",
+        "Der ausgewählte Gegenstand wurde als Favorit festgelegt.",
+        "El objeto seleccionado se ha fijado como favorito.",
+        "Item yang dipilih telah ditetapkan sebagai favorit.",
+        "ตั้ง\u001aไอเทม\u001aที่\u001aเลือก\u001aเป็น\u001aไอเทม\u001aโปรด\u001aแล้ว\u001a"
+    ],
     "MSG_EXPEDITION_ACHIEVEMENT_MESSAGE": [
         "You have been awarded the following items:",
         "已獲得以下報酬：",
@@ -12327,6 +12587,26 @@
         "Data penukaran item tidak valid.",
         "ข้อมูล\u001aการ\u001aแลกเปลี่ยน\u001aไอเทม\u001aมีปัญหา\u001a"
     ],
+    "MSG_INCORRECT_MISSION_LIMIT_TYPE": [
+        "The mission's restrictions have not been met.",
+        "不符合任務的限制條件。",
+        "미션 제한 조건이 충족되지 않았습니다.",
+        "Les conditions requises pour lancer la mission ne sont pas remplies.",
+        "Die Restriktionen dieser Mission sind nicht erfüllt.",
+        "No se han cumplido las restricciones de la misión.",
+        "Persyaratan untuk melakukan misi belum terpenuhi.",
+        "ยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aที่\u001aจำกัด\u001aของ\u001aภารกิจ\u001a"
+    ],
+    "MSG_INCORRECT_MISSION_RESET_LIMIT_TYPE": [
+        "The mission's reset restrictions have not been met.",
+        "不符合任務的限制重置條件。",
+        "미션 초기화 제한 조건이 충족되지 않았습니다.",
+        "Les conditions requises pour réinitialiser la mission ne sont pas remplies.",
+        "Die Restriktionen für das Zurücksetzen dieser Mission sind nicht erfüllt.",
+        "No se han cumplido las restricciones de reinicio de la misión.",
+        "Persyaratan untuk mereset misi belum terpenuhi.",
+        "ยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aที่\u001aจำกัด\u001aของ\u001aการ\u001aรีเซ็ต\u001aภารกิจ\u001a"
+    ],
     "MSG_INCORRECT_MODEL_CHANGE_UPDATEDATE": [
         "Due to a user information update during the transfer, the data transfer could not be completed. Please try again.",
         "由於在繼承資料期間玩家情報發生變更，因此無法繼續進行繼承。請再次執行繼承資料。",
@@ -12336,6 +12616,16 @@
         "Debido a una actualización de la información de usuario durante la transferencia, no se ha podido completar la transferencia de datos. Inténtalo de nuevo más tarde.",
         "Karena informasi pemain diperbarui selama transfer, proses data transfer tidak dapat diselesaikan. Silakan coba sekali lagi.",
         "มี\u001aการ\u001aอัพเดท\u001aข้อมูล\u001aผู้ใช้งาน\u001aใน\u001aระหว่าง\u001aที่\u001aกำลัง\u001aการ\u001aโอน\u001aข้อมูล\u001a \u001aส่งผล\u001aให้การ\u001aถ่ายโอน\u001aข้อมูล\u001aไม่\u001aสำเร็จ\u001a \u001aกรุณา\u001aลอง\u001aดำเนินการ\u001aอีก\u001aครั้งหนึ่ง\u001a"
+    ],
+    "MSG_INCORRECT_PARTY_VISION_CARD_INFO": [
+        "A Vision Card chosen as a material is currently equipped to your party.<br>Please confirm the Vision Cards chosen as materials.",
+        "素材幻兵卡已包含於任一隊伍中。<br>請確認素材幻兵卡。",
+        "재료로 선택한 비전 카드가 현재 파티에 장착되어 있습니다.<br>재료로 선택한 비전 카드를 확인해주십시오.",
+        "Un des atouts-visions sélectionnés comme matériaux est équipé sur une unité de votre groupe. <br> Veuillez vérifier les atouts-visions sélectionnés comme matériaux.",
+        "Mindestens eine als Material ausgewählte Visionskarte wird derzeit von einem Gruppenmitglied getragen.<br> Bitte bestätige die als Material zu verwendenden Visionskarten.",
+        "Tienes equipada una carta de visión seleccionada como material.<br>Confirma las cartas de visión para usar como materiales.",
+        "Kartu Vision yang dipilih sebagai material sedang digunakan oleh timmu.<br>Silakan konfirmasi Kartu Vision yang dipilih sebagai material.",
+        "การ์ด\u001a \u001aVision\u001a \u001aที่\u001aเลือก\u001aเป็น\u001aวัตถุดิบ\u001aถูก\u001aใส่\u001aอยู่\u001aใน\u001aทีม\u001aอยู่\u001a<br>\u001aโปรด\u001aตรวจสอบ\u001aการ์ด\u001a \u001aVision\u001a \u001aที่\u001aเลือก\u001aอีกครั้ง\u001a"
     ],
     "MSG_INCORRECT_REWARD_INFO": [
         "Unable to retrieve reward information.",
@@ -12497,6 +12787,16 @@
         "Siaran Langsung NYC FFBE - Hadiah Raid",
         "รางวัล\u001a \u001aRaid\u001a \u001a-Stream\u001a \u001aสด\u001a \u001aFFBE\u001a \u001aNYC\u001a"
     ],
+    "MSG_MATERIA_FAVORITE": [
+        "The selected ability has been set as a favorite.",
+        "此能力已鎖定。",
+        "즐겨찾기에 설정된 어빌리티입니다.",
+        "L'aptitude sélectionnée a été ajoutée à vos favoris.",
+        "Die ausgewählte Fertigkeit wurde als Favorit festgelegt.",
+        "La habilidad seleccionada se ha fijado como favorita.",
+        "Ability yang dipilih telah ditetapkan sebagai favorit.",
+        "ตั้ง\u001a \u001aAbility\u001a \u001aที่\u001aเลือก\u001aเป็น\u001a \u001aAbility\u001a \u001aโปรด\u001aแล้ว\u001a"
+    ],
     "MSG_MAXIMUM_ONGOING_EXPEDITION": [
         "The maximum number of ongoing expeditions has been reached.",
         "正在遠征的隊伍數量已達最大值。",
@@ -12506,6 +12806,66 @@
         "Has alcanzado el máximo de expediciones en curso.",
         "Batas jumlah maksimum ekspedisi yang sedang berlangsung telah tercapai.",
         "มี\u001aจำนวน\u001aการสำรวจ\u001aที่\u001aคง\u001aค้าง\u001aอยู่\u001aเต็ม\u001aโควต้า\u001aแล้ว\u001a"
+    ],
+    "MSG_NO_CLASS_UP_CONDITION_INVALID": [
+        "The conditions for EX awakening have not been met.",
+        "未符合EX覺醒條件。",
+        "EX 각성 조건이 충족되지 않았습니다.",
+        "Les conditions requises pour effectuer l'éveil EX ne sont pas remplies.",
+        "Die Bedingungen für das EX-Erwecken sind nicht erfüllt.",
+        "No se cumplen las condiciones para el despertar EX.",
+        "Kondisi untuk melakukan kebangkitan EX belum terpenuhi.",
+        "ยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aใน\u001aการปลุก\u001aพลัง\u001a \u001aEX\u001a"
+    ],
+    "MSG_NO_CLASS_UP_EX_LV_MAX_UNIT": [
+        "Because the unit does not meet the proper conditions, the process was cancelled.<br>The app will now close.",
+        "此兵員未符合處理條件，處理已取消。<br>應用程式即將關閉。",
+        "유닛이 적정 조건이 충족되지 않습니다.<br>앱을 일단 종료합니다.",
+        "L'opération a été annulée car l'unité ne remplit pas les conditions requises. <br>L'application va s'arrêter.",
+        "Der Vorgang wurde abgebrochen, da die Einheit die erforderlichen Bedingungen nicht erfüllt.<br> Die App schließt sich nun.",
+        "La unidad no cumple los requisitos, por lo que se ha cancelado el proceso.<br>La aplicación se cerrará ahora.",
+        "Proses telah dibatalkan karena unit tidak memenuhi kondisi yang ditentukan.<br>App akan ditutup sekarang.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001aยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aที่\u001aกำหนด\u001a<br>\u001aและ\u001aแอ\u001aป\u001aจะ\u001aปิด\u001aตัวเอง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "MSG_NO_CLASS_UP_NO_ELEM_UNIT": [
+        "This unit cannot be chosen as a material for EX awakening.",
+        "目前尚無可指定為EX覺醒素材之兵員。",
+        "유닛은 EX 각성 재료로 선택할 수 없습니다.",
+        "Cette unité ne peut pas être choisie en tant que matériau pour l'éveil EX.",
+        "Diese Einheit kann nicht als Material für das EX-Erwecken verwendet werden.",
+        "Esta unidad no se puede elegir como material para despertar EX.",
+        "Unit ini tidak dapat dipilih sebagai material untuk kebangkitan EX.",
+        "ยู\u001aนิ\u001aทราย\u001aนี้\u001aไม่\u001aสามารถ\u001aใช้\u001aเป็น\u001aวัตถุดิบ\u001aใน\u001aการปลุก\u001aพลัง\u001a \u001aEX\u001a \u001aได้\u001a"
+    ],
+    "MSG_NO_CLASS_UP_NV_LV": [
+        "Insufficient LVL for awakening.",
+        "未達到覺醒所需的等級。",
+        "각성에 필요한 레벨이 충분하지 않습니다.",
+        "Niv. insuffisant pour l'éveil",
+        "Stufe reicht für Erwecken nicht aus.",
+        "Nivel insuficiente para despertar.",
+        "Level untuk kebangkitan tidak cukup.",
+        "มี\u001aเล\u001aเวล\u001aสูง\u001aไม่\u001aพอ\u001aสำหรับ\u001aการปลุก\u001aพลัง\u001a"
+    ],
+    "MSG_NO_CLASS_UP_NV_RARE": [
+        "Insufficient rarity for awakening.",
+        "未達到覺醒所需的稀有度。",
+        "각성에 필요한 레어도가 충분하지 않습니다.",
+        "Rareté insuffisante pour l'éveil",
+        "Seltenheit reicht für Erwecken nicht aus.",
+        "Rareza insuficiente para despertar.",
+        "Tingkat kelangkaan untuk kebangkitan tidak cukup.",
+        "มีค่า\u001a \u001aRare\u001a \u001aสูง\u001aไม่\u001aพอ\u001aสำหรับ\u001aการปลุก\u001aพลัง\u001a"
+    ],
+    "MSG_NO_CLASS_UP_NV_SUPER_AFFINITY_POINT": [
+        "100% super trust mastery required for awakening.",
+        "未達到覺醒所需的超級信賴度之信賴度值。",
+        "각성을 위해 슈퍼 트러스트치 100%에 도달해야 합니다.",
+        "Super confiance absolue à 100 % requise pour l'éveil.",
+        "100% Super-Treue wird für Erwecken benötigt.",
+        "Se necesita el supermaestro fiel al 100% para despertar.",
+        "Super trust master 100% diperlukan untuk kebangkitan.",
+        "ต้อง\u001aมี\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a \u001a100% \u001aสำหรับ\u001aการปลุก\u001aพลัง\u001a"
     ],
     "MSG_NO_OPE_ARMS_ABILITY_LOT": [
         "The equipment ability information is invalid.",
@@ -12537,6 +12897,16 @@
         "Data slot tidak dapat diperoleh.",
         "ไม่\u001aสามารถ\u001aโหลด\u001aข้อมูล\u001aช่อง\u001aเก็บ\u001aออกมา\u001aได้\u001a"
     ],
+    "MSG_NO_SHOP_GACHA_SELECT": [
+        "There is no shop currently available.",
+        "目前商店尚未開放。",
+        "현재 이용 가능한 상점이 없습니다.",
+        "Aucune boutique disponible.",
+        "Derzeit kein Laden verfügbar.",
+        "No hay ninguna tienda disponible en este momento.",
+        "Tidak ada toko yang tersedia saat ini.",
+        "ไม่\u001aมี\u001aร้านค้า\u001aที่\u001aสามารถ\u001aใช้ได้\u001aใน\u001aตอนนี้\u001a"
+    ],
     "MSG_NO_USER_ARMS_EQUIP_ITEM_INFO": [
         "The information for the equipment enhancement item could not be retrieved.",
         "無法獲取強化裝備道具之情報。",
@@ -12547,6 +12917,36 @@
         "Tidak dapat memperoleh informasi item penguatan perlengkapan.",
         "ไม่\u001aสามารถ\u001aดึง\u001aข้อมูล\u001aสำหรับ\u001aไอเทม\u001aที่จะ\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001aได้\u001a"
     ],
+    "MSG_NO_USER_MATERIA_INFO": [
+        "Failed to retrieve ability data.",
+        "無法獲取能力情報。",
+        "어빌리티 정보를 가져올 수 없습니다.",
+        "Échec de la récupération des données.",
+        "Fertigkeitsdaten konnten nicht abgerufen werden.",
+        "Fallo al recuperar los datos de la habilidad.",
+        "Gagal memperoleh data ability.",
+        "โหลด\u001aข้อมูล\u001a \u001aAbility\u001a \u001aไม่\u001aสำเร็จ\u001a"
+    ],
+    "MSG_NO_USER_VISION_CARD_INFO": [
+        "Failed to retrieve Vision Card data.",
+        "無法獲取幻兵卡情報。",
+        "비전 카드 정보를 가져올 수 없습니다.",
+        "Échec lors de la récupération des données de l'atout-vision.",
+        "Visionskarten-Daten konnten nicht empfangen werden.",
+        "Fallo al recuperar los datos de la carta de visión.",
+        "Gagal memperoleh data Kartu Vision.",
+        "โหลด\u001aข้อมูล\u001aการ์ด\u001a \u001aVision\u001a \u001aไม่\u001aสำเร็จ\u001a"
+    ],
+    "MSG_NV_UNIT_MIX_NO_ELEM_NV_UNIT": [
+        "Neo Visions cannot be used as materials.<br>Please confirm the selected materials.",
+        "素材兵員中無法包含Neo Vision兵員。<br>請確認素材兵員。",
+        "네오 비전 유닛은 재료로 사용할 수 없습니다.<br>선택한 재료 유닛을 확인해주십시오.",
+        "Les néo-visions ne peuvent pas être utilisées comme matériaux. <br>Veuillez vérifier les matériaux sélectionnés.",
+        "Neo-Visionen können nicht als Materialien verwendet werden.<br> Bitte überprüfe die ausgewählten Materialien.",
+        "No se pueden usar NeoVisiones como materiales.<br>Confirma los materiales seleccionados.",
+        "Neo Vision tidak dapat digunakan sebagai material.<br>Silakan konfirmasi material yang dipilih.",
+        "ไม่\u001aสามารถ\u001aใช้\u001a \u001aNeo\u001a \u001aVision\u001a \u001aเป็น\u001aวัตถุดิบ\u001aได้\u001a<br>\u001aโปรด\u001aตรวจสอบ\u001aวัตถุดิบ\u001aที่\u001aเลือก\u001aอีกครั้ง\u001a"
+    ],
     "MSG_OVER_GACHA_LIMIT": [
         "You are unable to summon because doing so would make you exceed your unit limit.",
         "召喚後會超出兵員上限，因此無法召喚兵員。",
@@ -12556,6 +12956,16 @@
         "No se ha podido invocar porque sobrepasarías tu límite de unidades.",
         "Kamu tidak dapat melakukan summon karena kamu akan melebihi batas unitmu.",
         "คุณ\u001aไม่\u001aสามารถ\u001aซัม\u001aม่อน\u001aได้\u001a \u001aเพราะ\u001aจำนวน\u001aยู\u001aนิ\u001aท\u001aที่\u001aคุณ\u001aมี\u001aจะ\u001aเกิน\u001aโควต้า\u001aถือครอง\u001aยู\u001aนิ\u001aท\u001aสูงสุด\u001a"
+    ],
+    "MSG_OVER_UNIT_COUNT": [
+        "The process was cancelled because your unit inventory has been exceeded. Please reduce the number of units in your unit inventory.",
+        "持有兵員數已超出上限，處理已取消。請刪減持有兵員數。",
+        "유닛 보유 한도를 초과하였습니다. 유닛 보유 수량을 줄여주십시오.",
+        "L'opération a été annulée car votre nombre d'unités dépasse le nombre maximal autorisé. Veuillez réduire le nombre d'unités dans votre inventaire.",
+        "Der Vorgang wurde abgebrochen, da dein Einheiteninventar überschritten wurde. Bitte verringere die Einheitenanzahl dort.",
+        "El proceso se ha cancelado porque tu inventario de unidades está lleno. Reduce el número de tus unidades.",
+        "Proses telah dibatalkan karena batas inventory unitmu telah tercapai. Silakan kurangi jumlah unit di inventory-mu.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aไม่\u001aมี\u001aที่ว่าง\u001aใน\u001aคลัง\u001aยู\u001aนิ\u001aท\u001aแล้ว\u001a \u001aโปรด\u001aลด\u001aจำนวน\u001aยู\u001aนิ\u001aท\u001aใน\u001aคลัง\u001aยู\u001aนิ\u001aท\u001a"
     ],
     "MSG_PARADE_INVALID_TEAM_LV": [
         "Unable to participate in the event.<br>Returning to title.",
@@ -12587,6 +12997,26 @@
         "Periode event telah berakhir.<br>Kembali ke layar judul.",
         "ช่วงเวลา\u001aจัด\u001aอีเวนท์\u001aได้\u001aหมด\u001aลง\u001aแล้ว\u001a<br>\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
+    "MSG_PURCHASE_NO_ACTIVE": [
+        "The purchase period has ended. <br>Returning to title.",
+        "購買期間已結束。<br>返回標題畫面。",
+        "구매 기간이 종료되었습니다. <br>초기 화면으로 돌아갑니다.",
+        "La période d'achat est terminée.<br>Retour à l'écran titre.",
+        "Der Verkaufszeitraum ist vorüber.<br>Kehre zum Titelbildschirm zurück.",
+        "El periodo de compra ha finalizado.<br>Volviendo a la pantalla de título.",
+        "Periode pembelian telah berakhir.<br>Kembali ke layar judul.",
+        "หมด\u001aระยะเวลา\u001aการ\u001aซื้อ\u001aแล้ว\u001a<br>\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
+    ],
+    "MSG_SP_DUNGEON_INCORRECT_REWARD": [
+        "The process was canceled because data could not be retrieved properly.",
+        "獲取情報時出現錯誤，處理已取消。",
+        "정보를 올바르게 가져올 수 없습니다.",
+        "La procédure a été annulée car une erreur s'est produite lors de la récupération des données.",
+        "Der Vorgang wurde abgebrochen, da die Daten nicht richtig abgerufen werden konnten.",
+        "El proceso se ha cancelado porque los datos no se pudieron recuperar correctamente.",
+        "Proses telah dibatalkan karena data tidak dapat diperoleh dengan benar.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aเกิด\u001aปัญหา\u001aใน\u001aการ\u001aโหลด\u001aข้อมูล\u001a"
+    ],
     "MSG_SP_DUNGEON_NO_ACTIVE": [
         "The event period for this mission has ended.<br>Returning to title.",
         "此任務的活動期間已結束。<br>返回標題畫面。",
@@ -12597,6 +13027,26 @@
         "Tidak dapat berpartisipasi dalam event.<br>Kembali ke layar judul.",
         "ช่วงเวลา\u001aอีเวนท์\u001aสำหรับ\u001aมิชชั่น\u001aนี้\u001aได้\u001aจบ\u001aลง\u001aแล้ว\u001a<br>\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
+    "MSG_SP_DUNGEON_NO_EXE_CNT": [
+        "The maximum number of attempts for the chosen quest has been reached.",
+        "對象迷宮的挑戰次數已達上限。",
+        "해당 퀘스트의 최대 도전 횟수에 도달했습니다.",
+        "Le nombre maximal de tentatives a été atteint pour la quête choisie.",
+        "Die maximale Versuchsanzahl für diesen Auftrag wurde bereits erreicht.",
+        "Has alcanzado el límite de intentos para esta misión.",
+        "Kesempatan untuk melakukan quest yang dipilih telah habis.",
+        "เกิน\u001aจำนวน\u001aครั้ง\u001aทำ\u001aเค\u001aวส\u001aสูงสุด\u001aที่\u001aกำหนด\u001aไว้\u001aแล้ว\u001a"
+    ],
+    "MSG_UNIT_CLASS_UP_TERM_OUT": [
+        "The half cost campaign has already ended.",
+        "花費減半活動已結束。",
+        "소비 길 1/2 이벤트가 종료되었습니다.",
+        "La campagne à moitié prix est terminée.",
+        "Die Halbierte-Kosten-Kampagne ist bereits vorüber.",
+        "Ya ha terminado la campaña de mitad de coste.",
+        "Kampanye setengah harga telah berakhir.",
+        "แคมเปญ\u001aครึ่ง\u001aราคา\u001aจบ\u001aลง\u001aแล้ว\u001a"
+    ],
     "MSG_UNIT_ON_EXPEDITION": [
         "One or more units in party is on an expedition.",
         "隊伍中已有1名以上兵員正在進行遠征。",
@@ -12606,6 +13056,46 @@
         "Hay una o más unidades del grupo en una expedición.",
         "Satu unit atau lebih dalam tim sedang menjalani ekspedisi.",
         "มี\u001aยู\u001aนิ\u001aท\u001aใน\u001aทีม\u001aอย่าง\u001aน้อย\u001aหนึ่ง\u001aตัว\u001a \u001aที่อยู่\u001aระหว่าง\u001aการสำรวจ\u001a"
+    ],
+    "MSG_UNIT_VISION_CARD_ALREADY_RELEASE": [
+        "This unit's Vision Card has already been received.",
+        "此名兵員已解放幻兵卡。",
+        "해당 유닛의 비전 카드를 이미 수령했습니다.",
+        "L'atout-vision de cette unité a déjà été reçu.",
+        "Die Visionskarte dieser Einheit wurde bereits freigeschaltet.",
+        "Ya has recibido la carta de visión de esta unidad.",
+        "Kartu Vision unit ini telah diterima.",
+        "ได้รับ\u001aการ์ด\u001a \u001aVision\u001a \u001aจาก\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001aแล้ว\u001a"
+    ],
+    "MSG_UNIT_VISION_CARD_CAN_NOT_RELEASE": [
+        "The conditions to receive this unit's Vision Card have not been met.",
+        "此名兵員未符合幻兵卡解放條件。",
+        "해당 유닛의 비전 카드 수령 조건이 충족되지 않았습니다.",
+        "Les conditions pour recevoir l'atout-vision de cette unité ne sont pas remplies",
+        "Die Bedingungen, um die Visionskarte dieser Einheit zu erhalten, sind nicht erfüllt.",
+        "No cumples las condiciones para recibir la carta de visión de esta unidad.",
+        "Kondisi untuk menerima Kartu Vision unit ini belum terpenuhi.",
+        "ยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aที่\u001aกำหนด\u001aเพื่อ\u001aรับ\u001aการ์ด\u001a \u001aVision\u001a \u001aของ\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001a"
+    ],
+    "MSG_VC_CLASS_UP_TERM_OUT": [
+        "The half cost campaign has already ended.",
+        "花費減半活動已結束。",
+        "소비 길 1/2 이벤트가 종료되었습니다.",
+        "La campagne à moitié prix est terminée.",
+        "Die Halbierte-Kosten-Kampagne ist bereits vorüber.",
+        "Ya ha terminado la campaña de mitad de coste.",
+        "Kampanye setengah harga telah berakhir.",
+        "แคมเปญ\u001aครึ่ง\u001aราคา\u001aจบ\u001aลง\u001aแล้ว\u001a"
+    ],
+    "MSG_VC_MIX_ELEM_NO_SAME_VISION_CARD": [
+        "Only the Vision Card of the same type can be used as a material to enhance another Vision Card.<br>Please confirm your Vision Cards.",
+        "素材幻兵卡中無法選擇同種類之幻兵卡。<br>請確認素材幻兵卡。",
+        "같은 종류의 비전 카드만 강화 재료로 사용할 수 있습니다.<br>선택한 재료 비전 카드를 확인해주십시오.",
+        "Seuls les atouts-visions d'un même type peuvent être utilisés comme matériaux d'amélioration d'un autre atout-vision. <br>Veuillez vérifier vos atouts-visions.",
+        "Nur Visionskarten derselben Art können als Material zur Verbesserung einer Visionskarte verwendet werden.<br> Bitte überprüfe deine Visionskarten.",
+        "Para mejorar una carta de visión solo se puede usar otra del mismo tipo como material.<br>Confirma tus cartas de visión.",
+        "Hanya Kartu Vision dengan tipe yang sama yang dapat digunakan sebagai material penguatan Kartu Vision lainnya.<br>Silakan konfirmasi Kartu Vision-mu.",
+        "ต้อง\u001aใช้\u001aการ์ด\u001aชนิด\u001aเดียวกัน\u001aเป็น\u001aวัตถุดิบ\u001aใน\u001aการ\u001aเพิ่ม\u001aพลัง\u001aการ์ด\u001a \u001aVision\u001a<br>\u001aโปรด\u001aตรวจสอบ\u001aการ์ด\u001a \u001aVision\u001a \u001aอีกครั้ง\u001a"
     ],
     "MST_ARCHIVE_NAME_ARENA_BATTLE_CNT": [
         "Total Battle Arena Battles",
@@ -12621,7 +13111,7 @@
         "Most Critical Hits in One Turn",
         "1T最大暴擊發生數",
         "1턴당 최다 크리티컬 발생 횟수",
-        "Coûts critiques max. infligés en un tour",
+        "Coups critiques max. infligés en un tour",
         "Max. kritische Treffer in e. Runde",
         "Críticos máximos infligidos en 1 turno",
         "Critical Hit Terbesar dalam Satu Giliran",
@@ -13503,6 +13993,26 @@
         "Total Esper yang Dipanggil",
         "จำนวน\u001a \u001aEspers\u001a \u001aที่\u001aเรียก\u001a"
     ],
+    "MST_ARCHIVE_NAME_TOTAL_BRAVE_ABILITY_CLASS_UP": [
+        "Total Times Brave Abilities Awakened",
+        "勇氣能力強化次數",
+        "브레이브 어빌리티 강화 횟수",
+        "Total des aptitudes extrêmes éveillées",
+        "Erweckte Heldenfertigkeiten",
+        "Habilidades Brave despertadas",
+        "Total Ability Brave yang Dibangkitkan",
+        "จำนวน\u001aครั้ง\u001aที่\u001aปลุก\u001aพลัง\u001a \u001aBrave\u001a \u001aAbility\u001a"
+    ],
+    "MST_ARCHIVE_NAME_TOTAL_BRAVE_SHIFT_EXE_CNT": [
+        "Total Brave Shifts",
+        "BRAVE SHIFT次數",
+        "브레이브 시프트 횟수",
+        "Total du passage en Forme extrême",
+        "Heldenwandel",
+        "Cambios a forma Brave",
+        "Total Brave Shift",
+        "จำนวน\u001aครั้ง\u001aที่\u001a \u001aBrave\u001a \u001aShift\u001a"
+    ],
     "MST_ARCHIVE_NAME_TOTAL_CRAFT_ABILITY": [
         "Total Abilities Crafted",
         "能力生成次數",
@@ -13753,6 +14263,26 @@
         "Total Monster yang Ditemukan",
         "มอนสเตอร์\u001aที่\u001aบันทึก\u001aทั้งหมด\u001a"
     ],
+    "MST_ARCHIVE_NAME_TOTAL_NV_UNIT_CLASS_UP": [
+        "Total EX Awakenings Performed",
+        "兵員EX覺醒次數",
+        "유닛 EX 각성 횟수",
+        "Total des éveils EX effectués",
+        "Durchgeführtes EX-Erwecken",
+        "Despertares EX realizados",
+        "Total Kebangkitan EX yang Dilakukan",
+        "จำนวน\u001aครั้ง\u001aที่\u001aปลุก\u001aพลัง\u001a \u001aEX\u001a"
+    ],
+    "MST_ARCHIVE_NAME_TOTAL_NV_UNIT_GET_CNT": [
+        "Total NV Units Obtained",
+        "NV兵員獲得次數",
+        "네오 비전 유닛 획득 횟수",
+        "Total des unités NV obtenues",
+        "Erhaltene NV-Einheiten",
+        "Unidades NV obtenidas",
+        "Total Unit NV yang Diperoleh",
+        "ยู\u001aนิ\u001aท\u001a \u001aNV\u001a \u001aที่\u001aได้รับ\u001aทั้งหมด\u001a"
+    ],
     "MST_ARCHIVE_NAME_TOTAL_QUEST_REPORT": [
         "Total Missions Completed",
         "任務報告達成數",
@@ -13863,6 +14393,56 @@
         "Total Unit ★7 yang Dibangkitkan",
         "จำนวน\u001aยู\u001aนิ\u001aท\u001aที่\u001aปลุก\u001aพลัง\u001a \u001a7\u001a★\u001a"
     ],
+    "MST_ARCHIVE_NAME_TOTAL_UNIT_SUBLIMATION_CNT": [
+        "Total Vision Card Slots Unlocked",
+        "兵員幻兵卡裝備欄開放次數",
+        "유닛 비전 카드 장비칸 개방 횟수",
+        "Total des emplacements d'atout-vision débloqués",
+        "Freigeschaltete Visionskarten-Slots",
+        "Ranuras de carta de visión desbloqueadas",
+        "Total Slot Kartu Vision yang Dibuka",
+        "จำนวน\u001aช่อง\u001aการ์ด\u001a \u001aVision\u001a \u001aที่\u001aปลด\u001aล็อค\u001a"
+    ],
+    "MST_ARCHIVE_NAME_TOTAL_VISION_CARD_CLASS_UP": [
+        "Total Vision Cards Awakened",
+        "幻兵卡覺醒次數",
+        "비전 카드 각성 횟수",
+        "Total des atouts-visions éveillés",
+        "Erweckte Visionskarten",
+        "Cartas de visión despertadas",
+        "Total Kartu Vision yang Dibangkitkan",
+        "จำนวน\u001aครั้ง\u001aที่\u001aปลุก\u001aพลัง\u001aการ์ด\u001a \u001aVision\u001a"
+    ],
+    "MST_ARCHIVE_NAME_TOTAL_VISION_CARD_DICT": [
+        "Total Vision Cards Archived",
+        "幻兵卡圖鑑總數",
+        "비전 카드 총합 도감 수",
+        "Total des atouts-visions archivés",
+        "Archivierte Visionskarten",
+        "Cartas de visión archivadas",
+        "Total Kartu Vision yang Ditemukan",
+        "การ์ด\u001a \u001aVision\u001a \u001aที่\u001aบันทึก\u001aทั้งหมด\u001a"
+    ],
+    "MST_ARCHIVE_NAME_TOTAL_VISION_CARD_LV_UP": [
+        "Total Vision Cards Leveled Up",
+        "幻兵卡升級次數",
+        "비전 카드 레벨업 횟수",
+        "Total des atouts-visions augmentés",
+        "Aufgestufte Visionskarten",
+        "Subidas de nivel de cartas de visión",
+        "Total Kartu Vision yang Dinaikkan Levelnya",
+        "จำนวน\u001aครั้ง\u001aที่\u001aเพิ่ม\u001a \u001aLv\u001a.\u001a \u001aการ์ด\u001a \u001aVision\u001a"
+    ],
+    "MST_ARCHIVE_NAME_TOTAL_VISION_CARD_MIX": [
+        "Total Vision Cards Fused",
+        "幻兵卡合成次數",
+        "비전 카드 합성 횟수",
+        "Total des atouts-visions fusionnés",
+        "Fusionierte Visionskarten",
+        "Cartas de visión fusionadas",
+        "Total Kartu Vision yang Digabungkan",
+        "จำนวน\u001aครั้ง\u001aที่รวม\u001aร่าง\u001aการ์ด\u001a \u001aVision\u001a"
+    ],
     "MST_AWARD_TYPE_1": [
         "Achievements",
         "功績",
@@ -13923,205 +14503,195 @@
         "Lainnya",
         "อื่นๆ\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_121014051": [
-        "Blue Mage Fina in party",
-        "隊伍中帶有「青魔道士菲娜」",
-        "청마도사 피나를 파티에 편성",
-        "Fina mage bleu dans le groupe",
-        "Blaumagierin Fina in der Gruppe",
-        "Fina maga azul en el grupo",
-        "Mage Biru Fina dalam tim",
-        "ต้อง\u001aมี\u001a \u001aFina\u001a \u001aจอม\u001aเวทย์\u001aน้ำเงิน\u001a \u001aอยู่\u001aใน\u001aทีม\u001a"
+    "MST_BEAST_NAME_1": [
+        "Siren",
+        "塞壬",
+        "세이렌",
+        "Sirène",
+        "Sirene",
+        "Sirena",
+        "Siren",
+        "Siren\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_121107051": [
-        "Blue Mage Fina in party",
-        "隊伍中帶有「青魔道士菲娜」",
-        "청마도사 피나를 파티에 편성",
-        "Fina mage bleu dans le groupe",
-        "Blaumagierin Fina in der Gruppe",
-        "Fina maga azul en el grupo",
-        "Mage Biru Fina dalam tim",
-        "ต้อง\u001aมี\u001a \u001aFina\u001a \u001aจอม\u001aเวทย์\u001aน้ำเงิน\u001a \u001aอยู่\u001aใน\u001aทีม\u001a"
+    "MST_BEAST_NAME_10": [
+        "Odin",
+        "奧汀",
+        "오딘",
+        "Odin",
+        "Odin",
+        "Odín",
+        "Odin",
+        "Odin\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_122114051": [
-        "Blue Mage Fina in party",
-        "隊伍中帶有「青魔道士菲娜」（包括同行者）",
-        "청마도사 피나를 파티에 편성",
-        "Fina mage bleu dans le groupe.",
-        "Blaumagierin Fina in der Gruppe",
-        "Fina maga azul en el grupo",
-        "Mage Biru Fina dalam tim",
-        "ต้อง\u001aมี\u001a \u001aFina\u001a \u001aจอม\u001aเวทย์\u001aน้ำเงิน\u001a \u001aอยู่\u001aใน\u001aทีม\u001a"
+    "MST_BEAST_NAME_11": [
+        "Lakshmi",
+        "吉祥天女",
+        "락슈미",
+        "Lakshmi",
+        "Lakshmi",
+        "Lakshmi",
+        "Laksmi",
+        "Lakshmi\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_300501071": [
-        "Strange Gourmand Quina in party (Companion included)",
-        "隊伍中帶有「庫伊那」（包括同行者）",
-        "쿠이나를 파티에 편성(동행자 포함)",
-        "Kweena, gourmande insolite dans le groupe (partenaire inclus)",
-        "Sonderbarer Gourmet Quina in Gruppe (einschl. Begleiter)",
-        "Quina, glotona excéntrica en el grupo (compañero incluido)",
-        "Si Rakus Quina dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aQuina\u001a \u001aนัก\u001aชิม\u001aผิดธรรมดา\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_12": [
+        "Leviathan",
+        "利維坦",
+        "리바이어선",
+        "Léviathan",
+        "Leviathan",
+        "Leviatán",
+        "Leviathan",
+        "Leviathan\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_300501081": [
-        "Strange Gourmand Quina in party (Companion included)",
-        "隊伍中帶有「庫伊那」（包括同行者）",
-        "쿠이나를 파티에 편성(동행자 포함)",
-        "Kweena, gourmande insolite dans le groupe (partenaire inclus)",
-        "Sonderbarer Gourmet Quina in Gruppe (einschl. Begleiter)",
-        "Quina, glotona excéntrica en el grupo (compañero incluido)",
-        "Si Rakus Quina dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aQuina\u001a \u001aนัก\u001aชิม\u001aผิดธรรมดา\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_13": [
+        "Alexander",
+        "亞歷山大",
+        "알렉산더",
+        "Alexandre",
+        "Alexander",
+        "Alejandro",
+        "Alexander",
+        "Alexander\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_300501091": [
-        "Strange Gourmand Quina in party (Companion included)",
-        "隊伍中帶有「庫伊那」（包括同行者）",
-        "쿠이나를 파티에 편성(동행자 포함)",
-        "Kweena, gourmande insolite dans le groupe (partenaire inclus)",
-        "Sonderbarer Gourmet Quina in Gruppe (einschl. Begleiter)",
-        "Quina, glotona excéntrica en el grupo (compañero incluido)",
-        "Si Rakus Quina dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aQuina\u001a \u001aนัก\u001aชิม\u001aผิดธรรมดา\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_14": [
+        "Phoenix",
+        "地獄鳳凰",
+        "피닉스",
+        "Phénix",
+        "Phönix",
+        "Fénix",
+        "Phoenix",
+        "Phoenix\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_300501101": [
-        "Strange Gourmand Quina in party (Companion included)",
-        "隊伍中帶有「庫伊那」（包括同行者）",
-        "쿠이나를 파티에 편성(동행자 포함)",
-        "Kweena, gourmande insolite dans le groupe (partenaire inclus)",
-        "Sonderbarer Gourmet Quina in Gruppe (einschl. Begleiter)",
-        "Quina, glotona excéntrica en el grupo (compañero incluido)",
-        "Si Rakus Quina dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aQuina\u001a \u001aนัก\u001aชิม\u001aผิดธรรมดา\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_15": [
+        "Bahamut",
+        "巴哈姆特",
+        "바하무트",
+        "Bahamut",
+        "Bahamut",
+        "Bahamut",
+        "Bahamut",
+        "Bahamut\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_300501111": [
-        "Strange Gourmand Quina in party (Companion included)",
-        "隊伍中帶有「庫伊那」（包括同行者）",
-        "쿠이나를 파티에 편성(동행자 포함)",
-        "Kweena, gourmande insolite dans le groupe (partenaire inclus)",
-        "Sonderbarer Gourmet Quina in Gruppe (einschl. Begleiter)",
-        "Quina, glotona excéntrica en el grupo (compañero incluido)",
-        "Si Rakus Quina dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aQuina\u001a \u001aนัก\u001aชิม\u001aผิดธรรมดา\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_16": [
+        "Fenrir",
+        "芬里爾",
+        "펜리르",
+        "Fenrir",
+        "Fenrir",
+        "Fenril",
+        "Fenrir",
+        "Fenrir\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_301901051": [
-        "Kimahri in party (Companion included)",
-        "隊伍中帶有「基馬利」（包括同行者）",
-        "키마리를 파티에 편성(동행자 포함)",
-        "Kimahri dans le groupe (partenaire inclus)",
-        "Kimahri in Gruppe (einschl. Begleiter)",
-        "Kimahri en el grupo (compañero incluido)",
-        "Kimahri dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aKimahri\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_17": [
+        "Anima",
+        "暴怒靈獸",
+        "아니마",
+        "Anima",
+        "Anima",
+        "Ánima",
+        "Anima",
+        "Anima\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_301901061": [
-        "Kimahri in party (Companion included)",
-        "隊伍中帶有「基馬利」（包括同行者）",
-        "키마리를 파티에 편성(동행자 포함)",
-        "Kimahri dans le groupe (partenaire inclus)",
-        "Kimahri in Gruppe (einschl. Begleiter)",
-        "Kimahri en el grupo (compañero incluido)",
-        "Kimahri dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aKimahri\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_18": [
+        "Asura",
+        "阿修羅",
+        "아수라",
+        "Asura",
+        "Asura",
+        "Asura",
+        "Asura",
+        "Asura\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_301901071": [
-        "Kimahri in party (Companion included)",
-        "隊伍中帶有「基馬利」（包括同行者）",
-        "키마리를 파티에 편성(동행자 포함)",
-        "Kimahri dans le groupe (partenaire inclus)",
-        "Kimahri in Gruppe (einschl. Begleiter)",
-        "Kimahri en el grupo (compañero incluido)",
-        "Kimahri dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aKimahri\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_19": [
+        "Kokuryu",
+        "黑龍",
+        "흑룡",
+        "Kokuryu",
+        "Kokuryu",
+        "Kokuryu",
+        "Kokuryu",
+        "มังกร\u001aดำ\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_301901081": [
-        "Kimahri in party (Companion included)",
-        "隊伍中帶有「基馬利」（包括同行者）",
-        "키마리를 파티에 편성(동행자 포함)",
-        "Kimahri dans le groupe (partenaire inclus)",
-        "Kimahri in Gruppe (einschl. Begleiter)",
-        "Kimahri en el grupo (compañero incluido)",
-        "Kimahri dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aKimahri\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_2": [
+        "Ifrit",
+        "伊弗利特",
+        "이프리트",
+        "Ifrit",
+        "Ifrit",
+        "Ifrit",
+        "Ifrit",
+        "Ifrit\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_301901091": [
-        "Kimahri in party (Companion included)",
-        "隊伍中帶有「基馬利」（包括同行者）",
-        "키마리를 파티에 편성(동행자 포함)",
-        "Kimahri dans le groupe (partenaire inclus)",
-        "Kimahri in Gruppe (einschl. Begleiter)",
-        "Kimahri en el grupo (compañero incluido)",
-        "Kimahri dalam tim (termasuk partner)",
-        "ต้อง\u001aมี\u001a \u001aKimahri\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_3": [
+        "Shiva",
+        "濕婆",
+        "시바",
+        "Shiva",
+        "Shiva",
+        "Shiva",
+        "Shiva",
+        "Shiva\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301011": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_4": [
+        "Carbuncle",
+        "卡邦庫爾",
+        "카벙클",
+        "Carbuncle",
+        "Karfunkel",
+        "Rubí",
+        "Carbuncle",
+        "Carbuncle\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301012": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_5": [
+        "Diabolos",
+        "迪亞波羅斯",
+        "디아볼로스",
+        "Diabolos",
+        "Diabolos",
+        "Diablo",
+        "Diabolos",
+        "Diabolos\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301013": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_6": [
+        "Golem",
+        "巨像兵",
+        "골렘",
+        "Golem",
+        "Golem",
+        "Gólem",
+        "Golem",
+        "Golem\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301022": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_7": [
+        "Ramuh",
+        "拉姆",
+        "라무",
+        "Ramuh",
+        "Ramuh",
+        "Lamú",
+        "Ramuh",
+        "Ramuh\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301023": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_8": [
+        "Titan",
+        "泰坦",
+        "타이탄",
+        "Titan",
+        "Titan",
+        "Titán",
+        "Titan",
+        "Titan\u001a"
     ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301032": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
-    ],
-    "MST_CHALLENGE_COND_INFO_DETAIL_308301033": [
-        "Quistis in party (Companion included)",
-        "隊伍中帶有「奎斯緹絲」（包括同行者）",
-        "키스티스를 파티에 편성(동행자 포함)",
-        "Quistis dans le groupe (partenaire inclus)",
-        "Quistis in der Gruppe (einschließlich Begleiter)",
-        "Quistis en el grupo (compañero incluido)",
-        "Quistis dalam tim (termasuk partner)",
-        "มี\u001a \u001aQuistis\u001a \u001aอยู่\u001aใน\u001aทีม\u001a \u001a(\u001aจะ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aของ\u001aเพื่อนร่วมทาง\u001aก็ได้\u001a)\u001a"
+    "MST_BEAST_NAME_9": [
+        "Tetra Sylphid",
+        "四方風精靈",
+        "테트라 실피드",
+        "Tétra-Sylphides",
+        "Tetra Sylphid",
+        "Tetra Sílfide",
+        "Tetra Sylphid",
+        "Tetra\u001a \u001aSylphid\u001a"
     ],
     "MST_CHARACTER_NAME_1": [
         "Rain",
@@ -14894,7 +15464,7 @@
         "Bonus d'unité",
         "Einheitenbonus",
         "Bonificación de unidad",
-        "Unit Bonus",
+        "Bonus Unit",
         "โบนัส\u001aยู\u001aนิ\u001aท\u001a"
     ],
     "MST_RB_SS_REWARD_MOG_1": [
@@ -17397,6 +17967,56 @@
         "Ninguno",
         "Tidak Ada",
         "ไม่\u001aมี\u001aอะไร\u001a"
+    ],
+    "NV_CLASS_UP_REWARD_MAIL_MSG": [
+        "A super trust moogle has been rewarded for awakening to EX Level %s (EX +%s).",
+        "EX覺醒值 %s (EX +%s) 之特別獎勵為1個超級信賴度莫古利。",
+        "%s EX 각성치(EX 각성+%s) 각성 보상으로 슈퍼 트러스트 모그리가 지급되었습니다.",
+        "Un super mog de confiance a été reçu en récompense pour l'éveil EX au niveau %s (EX +%s).",
+        "Einen Super-Treuemogry als Belohnung für das Erwecken auf EX-Stufe %s (EX +%s) erhalten.",
+        "Has recibido un supermoguri fiel por despertar al nivel EX %s (EX +%s).",
+        "Super trust moogle telah diberikan sebagai hadiah atas kebangkitan EX pada Level %s (EX +%s).",
+        "ได้รับ\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMoogle\u001a \u001aเป็น\u001aรางวัล\u001aการปลุก\u001aพลัง\u001aถึง\u001aระดับ\u001a \u001aEX\u001a \u001aLv\u001a.\u001a %s\u001a \u001a(\u001aEX\u001a \u001a+%s\u001a)\u001a"
+    ],
+    "NV_CLASS_UP_REWARD_MAIL_MSG_EMBLEM": [
+        "An emblem has been rewarded for awakening to EX Level %s (EX +%s) for the first time.",
+        "EX覺醒值 %s (EX +%s) 之首次特別獎勵為1個徽章。",
+        "첫 %s EX 각성치(EX 각성+%s) 각성 보상으로 문장이 지급되었습니다.",
+        "Un blason a été reçu en récompense pour l'éveil EX au niveau %s (EX +%s).",
+        "Ein Emblem als Belohnung für das Erwecken auf EX-Stufe %s (EX +%s) erhalten.",
+        "Has recibido un emblema por despertar al nivel EX %s (EX +%s) por primera vez.",
+        "Emblem telah diberikan sebagai hadiah atas kebangkitan EX pada Level %s (EX +%s) untuk pertama kali.",
+        "ได้รับ\u001a \u001aEmblem\u001a \u001aเป็น\u001aรางวัล\u001aการปลุก\u001aพลัง\u001aถึง\u001aระดับ\u001a \u001aEX\u001a \u001aLv\u001a.\u001a %s\u001a \u001a(\u001aEX\u001a \u001a+%s\u001a)\u001a \u001aเป็นครั้งแรก\u001a"
+    ],
+    "NV_CLASS_UP_REWARD_MAIL_MSG_VISION_CARD": [
+        "A Vision Card has been rewarded for awakening to EX Level %s (EX +%s).",
+        "EX覺醒值 %s (EX +%s) 之特別獎勵為1張幻兵卡。",
+        "%s EX 각성치(EX 각성+%s) 각성 보상으로 비전 카드가 지급되었습니다.",
+        "Un atout-vision a été reçu en récompense pour l'éveil EX au niveau %s (EX +%s).",
+        "Eine Visionskarte als Belohnung für das Erwecken auf EX-Stufe %s (EX +%s) erhalten.",
+        "Has recibido una carta de visión por despertar al nivel EX %s (EX +%s).",
+        "Kartu Vision telah diberikan sebagai hadiah atas kebangkitan EX pada Level %s (EX +%s).",
+        "ได้รับ\u001a \u001aการ์ด\u001a \u001aVision\u001a \u001aเป็น\u001aรางวัล\u001aการปลุก\u001aพลัง\u001aถึง\u001aระดับ\u001a \u001aEX\u001a \u001aLv\u001a.\u001a %s\u001a \u001a(\u001aEX\u001a \u001a+%s\u001a)\u001a"
+    ],
+    "NV_CLASS_UP_REWARD_MAIL_TITLE": [
+        "Special reward for unit EX awakening!",
+        "兵員EX覺醒之特別獎勵！",
+        "유닛 EX 각성 특별 보상!",
+        "Récompense spéciale pour l'éveil EX d'une unité !",
+        "Besondere Belohnung für das EX-Erwecken einer Einheit",
+        "¡Recompensa especial por despertar EX de unidad!",
+        "Hadiah spesial untuk kebangkitan EX unit!",
+        "ของรางวัล\u001aสุด\u001aพิเศษ\u001aฉลอง\u001aถึง\u001aระดับ\u001a \u001aEX\u001a!\u001a"
+    ],
+    "NV_CLASS_UP_REWARD_MAIL_TITLE_FIRST": [
+        "Special first-time reward for EX Level %s (EX +%s)",
+        "EX覺醒值 %s (EX +%s) 之首次特別獎勵。",
+        "%s EX 각성치(EX 각성+%s) 최초 달성 특별 보상",
+        "Première récompense spéciale pour le niveau EX %s (EX +%s)",
+        "Erstmalige besondere Belohnung für EX-Stufe %s (EX +%s)",
+        "Recompensa especial de primera vez del nivel EX %s (EX +%s)",
+        "Hadiah spesial pertama untuk Level EX %s (EX +%s)",
+        "ของรางวัล\u001aสุด\u001aพิเศษ\u001aฉลอง\u001aถึง\u001aระดับ\u001a \u001aEX\u001a \u001aLv\u001a.\u001a %s\u001a \u001a(\u001aEX\u001a \u001a+%s\u001a)\u001a \u001aเป็นครั้งแรก\u001a"
     ],
     "New_Quest_Complete_Reward_Text": [
         "You have received the following for completing a Unit Challenge.",
@@ -22397,6 +23017,16 @@
         "Kamu tidak mempunyai cukup poin SQMK. Buka browser untuk membeli poin SQMK?",
         "คุณ\u001aมี\u001aจำนวน\u001a \u001aSQMK\u001a \u001apoint\u001a \u001aไม่\u001aเพียงพอ\u001a<br>\u001a \u001aต้องการ\u001aเปิด\u001aบราวเซอร์\u001aเพื่อ\u001aดำเนินการ\u001aซื้อ\u001a \u001aPt\u001a.\u001a \u001aเพิ่มเติม\u001aหรือไม่\u001a?\u001a"
     ],
+    "SHOP_END_PERIOD_TEXT": [
+        "There is currently no shop open.",
+        "目前商店尚未開放。",
+        "현재 개방된 상점이 없습니다.",
+        "Aucune boutique disponible actuellement.",
+        "Derzeit ist kein Laden geöffnet.",
+        "No hay ninguna tienda disponible en este momento.",
+        "Tidak ada toko yang tersedia saat ini.",
+        "ไม่\u001aมี\u001aร้าน\u001aเปิด\u001aอยู่\u001aใน\u001aขณะนี้\u001a"
+    ],
     "SHOP_EQUIP_GROW_ORB_RECOVERY_ITEM": [
         "Use <color=255:255:0><param=num></color> equipment enhancement recovery item(s) to recover <color=255:255:0><param=recover></color> orb(s)?",
         "使用<color=255:255:0><param=num>個</color>活動寶珠恢復道具，可<color=255:255:0><param=recover>恢復</color>活動寶珠。<br>是否要恢復？",
@@ -22697,6 +23327,26 @@
         "Dapatkan pt EX dengan membeli lapis! Kamu dapat memperoleh hadiah yang luar biasa berdasarkan jumlah poin yang kamu miliki, kupo!",
         "มา\u001aซื้อ\u001a \u001aLapis\u001a \u001aแล้ว\u001aรับ\u001a \u001aEX\u001a \u001aPt\u001a.\u001aกัน\u001a \u001aคุณ\u001aสามารถ\u001aนำ\u001aแต้ม\u001aเหล่านี้\u001aไป\u001aแลก\u001aรางวัล\u001aเจ๋ง\u001aๆ\u001aได้\u001aนะ\u001aคุ\u001aโปะ\u001a!\u001a"
     ],
+    "SHOP_NOTICE_END_PERIOD": [
+        "The summon period has ended.",
+        "活動期間已結束。",
+        "이벤트 기간이 종료되었습니다.",
+        "La période d'invocation est terminée.",
+        "Der Beschwörungszeitraum ist vorbei.",
+        "El periodo de evento ha terminado.",
+        "Periode summon telah berakhir.",
+        "หมด\u001aระยะเวลา\u001aซัม\u001aม่อน\u001aแล้ว\u001a"
+    ],
+    "SHOP_NV_EXCHANG_SUBHEADER": [
+        "NV Shop",
+        "NV商店",
+        "NV 상점",
+        "Boutique NV",
+        "NV-Laden",
+        "Tienda NV",
+        "Toko NV",
+        "ร้าน\u001a \u001aNV\u001a"
+    ],
     "SHOP_POINT_SQMK": [
         "SQMK Points",
         "SQMK點數",
@@ -22806,6 +23456,16 @@
         "Puntos obtenidos: <color=255:255:0>+<param=point>",
         "Poin yang didapatkan: <color=255:255:0>+<param=point>",
         "จำนวน\u001a \u001aPt\u001a.\u001a \u001aที่\u001aได้รับ\u001a \u001a<color=255:255:0>+<param=point>\u001a \u001aPt\u001a.\u001a"
+    ],
+    "SHOP_SPECIAL_SHOP_SUBHEADER": [
+        "Special Shop",
+        "特別商店",
+        "특별 상점",
+        "Boutique spéciale",
+        "Spezialladen",
+        "Tienda especial",
+        "Toko Spesial",
+        "ร้าน\u001aพิเศษ\u001a"
     ],
     "SHOP_STAMINA_RECOVERY": [
         "Energy Recovery",
@@ -23088,24 +23748,54 @@
         "คุณ\u001aได้รับ\u001a \u001a<param=mogu_list>\u001a \u001aที่\u001aมีค่า\u001a \u001aTrust\u001a \u001aของ\u001a<color=255:255:0><param=unit></color>\u001a"
     ],
     "SP_CLASSUP_TRANS_SUB_HEADER_TITLE": [
-        "Conversion",
-        "覺醒變換",
-        "각성 변환",
-        "Conversion",
-        "Konversion",
-        "Conversión",
-        "Konversi",
-        "แปลง\u001aสภาพ\u001a"
+        "Prism Conversion",
+        "輝源變換",
+        "휘석 변환",
+        "Conversion en prisme",
+        "Prisma-Konversion",
+        "Conversión de prisma",
+        "Konversi Prisma",
+        "แปลง\u001aสภาพ\u001aเพื่อ\u001aปลุก\u001aพลัง\u001a"
     ],
     "SP_CLASSUP_TRANS_SUB_TITLE": [
         "Unit to Convert",
-        "覺醒變換兵員",
-        "각성 변환 유닛",
+        "輝源變換兵員",
+        "휘석 변환 유닛",
         "Unité à convertir",
-        "Einheiten für Konversion",
+        "Umzuwandelnde Einheit",
         "Unidad a convertir",
         "Unit untuk Dikonversi",
         "ยู\u001aนิ\u001aท\u001aที่จะ\u001aแปลง\u001aสภาพ\u001a"
+    ],
+    "SP_PIECE_TRANS_CONFIRM": [
+        "Convert unit to awakening material?<br><br>Once converted to an awakening material, <color=255:255:0>a unit cannot be returned to its former self</color>. Trust mastery and super trust mastery will not be maintained.",
+        "確定要將兵員變換成覺醒素材嗎？<br> <br>變成覺醒素材後，<color=255:255:0>無法再次變回兵員</color>。並且無法繼承變換前該兵員的信賴度值、超級信賴度值。",
+        "유닛을 각성 재료로 변환하시겠습니까?<br><br>각성 재료로 변환할 경우, <color=255:255:0>유닛으로 되돌릴 수 없습니다</color>. 변환 전의 유닛이 획득한 트러스트치, 슈퍼 트러스트치는 계승되지 않습니다.",
+        "Convertir l'unité en matériau d'éveil ?<br><br>Une fois convertie en matériau d'éveil, <color=255:255:0>une unité ne peut plus être récupérée</color>. Sa confiance absolue et sa super confiance absolue ne seront pas conservées.",
+        "Einheit zu Erweckmaterialien umwandeln?<br><br>Nachdem die Einheit zu Erweckmaterialien umgewandelt wurde,   <color=255:255:0>kann die Einheit nicht mehr zurückgeholt werden</color>. Wahre Treue und Super-Treue gehen dabei verloren.",
+        "¿Convertir la unidad a material de despertar?<br><br>Una vez convertida en material de despertar, <color=255:255:0> no podrá volver a usarse como unidad</color>. No se mantendrán los porcentajes de maestro fiel y supermaestro fiel.",
+        "Konversi unit menjadi material kebangkitan?<br><br>Setelah unit dikonversi menjadi material kebangkitan, <color=255:255:0>unit tersebut tidak akan dapat dikembalikan ke keadaan semula</color>.<br>Selain itu, unit juga akan kehilangan persentase trust master dan super trust master-nya.",
+        "ต้องการ\u001aแปลง\u001aสภาพ\u001aยู\u001aนิ\u001aท\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001aหรือไม่\u001a?<br><br>\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aแปลง\u001aสภาพ\u001aนั้น\u001a<color=255:255:0>\u001aจะ\u001aไม่\u001aสามารถ\u001aกลับเป็น\u001aส\u001aถา\u001aพ\u001aเดิม\u001aได้\u001aอีก\u001a</color>\u001a \u001aและ\u001aจะ\u001aเสีย\u001aระดับ\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aและ\u001a \u001aระดับ\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aไป\u001aด้วย\u001a"
+    ],
+    "SP_PIECE_TRANS_SUB_HEADER_TITLE": [
+        "Fragment Conversion",
+        "碎片變換",
+        "조각 변환",
+        "Conversion en fragments",
+        "Fragment-Konversion",
+        "Conversión de fragmentos",
+        "Konversi Fragmen",
+        "เปลี่ยนเป็น\u001aเศษ\u001aเสี้ยว\u001a"
+    ],
+    "SP_PIECE_TRANS_SUB_TITLE": [
+        "Unit to Convert",
+        "碎片變換兵員",
+        "조각 변환 유닛",
+        "Unité à convertir",
+        "Umzuwandelnde Einheit",
+        "Unidad a convertir",
+        "Unit yang Ingin Dikonversi",
+        "เปลี่ยน\u001aยู\u001aนิ\u001aท\u001aเป็น\u001aเศษ\u001aเสี้ยว\u001a"
     ],
     "STAMINA_FULL": [
         "Your energy is full.",
@@ -23576,6 +24266,26 @@
         "Ajustes de objetos de mejora",
         "Pengaturan Pemberian Item Penguatan",
         "ตั้งค่า\u001aไอเทม\u001aเสริม\u001aพลัง\u001a"
+    ],
+    "SUMMON_BEAST_RECEIVE_EXP": [
+        "Obtainable EXP",
+        "可獲得EXP",
+        "획득 가능 경험치",
+        "EXP obtenue",
+        "Erhältliche ERF",
+        "EXP obtenible",
+        "Perolehan EXP",
+        "ค่า\u001a \u001aEXP\u001a \u001aที่\u001aได้รับ\u001a"
+    ],
+    "SUMMON_BEAST_RECEIVE_SP": [
+        "Obtainable SP",
+        "可獲得SP",
+        "획득 가능 SP",
+        "PC obtenus",
+        "Erhältliche SP",
+        "PAC obtenibles",
+        "Perolehan PS",
+        "ค่า\u001a \u001aSP\u001a \u001aที่\u001aได้รับ\u001a"
     ],
     "SUMMON_BEAST_SHORT_CP": [
         "Insufficient esper skill points.",
@@ -24647,6 +25357,16 @@
         "<center>Data tidak dapat ditransfer ke perangkat yang sama.",
         "<center>\u001aคุณ\u001aไม่\u001aสามารถ\u001aถ่ายโอน\u001aข้อมูล\u001aได้\u001a \u001aเพราะ\u001aอุปกรณ์\u001aที่\u001aใช้\u001aอยู่\u001aยัง\u001aเป็น\u001aอุปกรณ์\u001aเครื่อง\u001aเดิม\u001a"
     ],
+    "TREASURE_CHEST": [
+        "Rewards Chest",
+        "報酬寶箱",
+        "보상 상자",
+        "Coffre de récompenses",
+        "Belohnungstruhe",
+        "Cofre de recompensas",
+        "Kotak Hadiah",
+        "หีบ\u001aของรางวัล\u001a"
+    ],
     "TREASURE_GET": [
         "obtained.",
         "到手",
@@ -24757,6 +25477,46 @@
         "Unit",
         "ยู\u001aนิ\u001aท\u001a"
     ],
+    "UNIT_ABILITY_LEVEL_NUM": [
+        "Lv. <param=level_num>",
+        "Lv. <param=level_num>",
+        "Lv.<param=level_num>",
+        "Niv. <param=level_num>",
+        "St. <param=level_num>",
+        "Nv. <param=level_num>",
+        "Lv. <param=level_num>",
+        "Lv\u001a.\u001a \u001a<param=level_num>\u001a"
+    ],
+    "UNIT_ABILITY_LEVEL_UP": [
+        "Ability Awakening",
+        "能力強化",
+        "어빌리티 강화",
+        "Éveil d'aptitude",
+        "Erweckfertigkeiten",
+        "Despertar de habilidades",
+        "Material Kebangkitan",
+        "ปลุก\u001aพลัง\u001a \u001aAbility\u001a"
+    ],
+    "UNIT_ABILITY_LEVEL_UP_MATERIAL": [
+        "Ability Awakening Material",
+        "強化素材",
+        "어빌리티 강화 재료",
+        "Matériau d'éveil d'aptitude",
+        "Erweckfertigkeiten-Material",
+        "Material para despertar habilidades",
+        "Material Kebangkitan Ability",
+        "วัตถุดิบ\u001aปลุก\u001aพลัง\u001a"
+    ],
+    "UNIT_ABILITY_LEVEL_UP_OK": [
+        "Ability can be awakened.",
+        "可以強化。",
+        "강화할 수 있습니다.",
+        "Cette aptitude peut être éveillée.",
+        "Fertigkeit kann erweckt werden.",
+        "Puedes despertar la habilidad.",
+        "Ability dapat dibangkitkan",
+        "สามารถ\u001aปลุก\u001aพลัง\u001a \u001aAbility\u001a \u001aได้\u001a"
+    ],
     "UNIT_ABILITY_SUBLIMATION": [
         "Awaken Ability",
         "能力覺醒",
@@ -24807,6 +25567,16 @@
         "Hadiah Trust Master",
         "รางวัล\u001a \u001aTrust\u001a \u001aMaster\u001a"
     ],
+    "UNIT_BRAVESHIFT_NOT_RELEASE": [
+        "Brave Shift is unlocked at <color=255:255:0>EX +1</color>.",
+        "BRAVE SHIFT會在<color=255:255:0>EX覺醒+1</color>時解放。",
+        "브레이브 시프트는 <color=255:255:0>EX 각성+1</color>에서 개방됩니다.",
+        "La forme extrême se débloque au niveau <color=255:255:0>EX +1</color>.",
+        "Heldenwandel wird ab <color=255:255:0>EX +1</color> freigeschaltet.",
+        "La forma Brave se desbloquea en <color=255:255:0>EX +1</color>.",
+        "Brave Shift terbuka di <color=255:255:0>EX +1</color>.",
+        "Brave\u001a \u001aShift\u001a \u001aจะ\u001aถูก\u001aปลด\u001aล็อค\u001aเมื่อ\u001aปลุก\u001aพลัง\u001aไป\u001aถึง\u001a \u001a<color=255:255:0>\u001aEX\u001a \u001a+\u001a1\u001a</color>\u001a"
+    ],
     "UNIT_CLASSUP": [
         "Awaken Unit",
         "兵員覺醒",
@@ -24826,6 +25596,16 @@
         "Materiales para despertar",
         "Material Kebangkitan",
         "วัตถุดิบ\u001aปลุก\u001aพลัง\u001a"
+    ],
+    "UNIT_CLASSUP_NOT_ACQUIRED": [
+        "Insufficient unit level",
+        "兵員等級(Lv.)不足",
+        "유닛 레벨이 부족합니다.",
+        "Niveau d'unité insuffisant",
+        "Einheitenstufe reicht nicht aus",
+        "Nivel de unidad insuficiente",
+        "Level unit tidak cukup.",
+        "Lv\u001a.\u001a \u001aของ\u001aยู\u001aนิ\u001aท\u001aยัง\u001aสูง\u001aไม่\u001aพอ\u001a"
     ],
     "UNIT_CLASSUP_OK": [
         "Awakenable",
@@ -24876,6 +25656,16 @@
         "Materiales insuficientes.",
         "Material tidak cukup.",
         "วัตถุดิบ\u001aไม่\u001aเพียงพอ\u001a"
+    ],
+    "UNIT_CLASSUP_SHORTAGE_SUPER_TRUST": [
+        "Insufficient super trust mastery.",
+        "超級信賴度值不足",
+        "슈퍼 트러스트치가 부족합니다.",
+        "Super confiance absolue insuffisante.",
+        "Super-Treue reicht nicht aus.",
+        "Supermaestro fiel insuficiente.",
+        "Nilai super trust tidak cukup.",
+        "มี\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aไม่\u001aพอ\u001a"
     ],
     "UNIT_CONFIRM_EQUIP_STRONGEST_ROB": [
         "Equip this unit with your strongest equipment, including items already equipped to other units?",
@@ -25026,6 +25816,26 @@
         "Sin habilidades.",
         "Unit ini tidak dapat menggunakan ability.",
         "ยู\u001aนิ\u001aท\u001aนี้\u001aไม่\u001aสามารถ\u001aติด\u001a \u001aAbility\u001a \u001aได้\u001a"
+    ],
+    "UNIT_EQUIP_NV_NO_EQUIP": [
+        "Equipment and/or abilities are not equipped on the post Brave Shift unit.<br>To equip, tap on the Brave Shift button and switch to the unit's post Brave Shift detail screen.",
+        "BRAVE SHIFT後的兵員未持有裝備或能力。<br>請點擊「BRAVE SHIFT」按鈕，切換至BRAVE SHIFT後的兵員情報再進行裝備。",
+        "브레이브 시프트 버전 유닛에게 장비 및 어빌리티가 장착되어 있지 않습니다.<br>장비나 어빌리티를 장착하려면 브레이브 시프트 버튼을 터치하여 브레이브 시프트 버전 유닛 정보로 전환하십시오.",
+        "Aucun équipement ou aptitude n'est équipé sur la forme extrême de l'unité.<br>Pour l'en équiper, touchez le bouton \"Forme extrême\" pour vous rendre dans le menu de l'unité sous sa forme extrême.",
+        "Ausrüstung und/oder Fertigkeiten sind nach dem Heldenwandel der Einheit nicht mehr ausgerüstet.<br> Tippe auf den Knopf Heldenwandel und begib dich zum Detailbildschirm der Einheit nach Heldenwandel, um diese auszurüsten.",
+        "Las unidades en forma Brave no llevan equipo y/o habilidades.<br>Para equiparlas, toca en el botón de la forma Brave y pasa a la pantalla de detalles de la forma Brave de la unidad.",
+        "Unit dalam bentuk Brave Shift tidak memiliki perlengkapan dan/atau ability apa pun.<br>Sentuh tombol Brave Shift untuk beralih ke layar unit dalam bentuk Brave Shift agar kamu dapat melengkapi unit tersebut.",
+        "ไม่\u001aมี\u001aอุปกรณ์\u001aหรือ\u001a \u001aAbility\u001a \u001aติดตั้ง\u001aบน\u001aยู\u001aนิ\u001aท\u001aที่\u001a \u001aBrave\u001a \u001aShift\u001a \u001aแล้ว\u001a<br>\u001aหาก\u001aต้องการ\u001aติดตั้ง\u001a \u001aให้\u001aแตะ\u001aที่\u001aปุ่ม\u001a \u001aBrave\u001a \u001aShift\u001a \u001aและ\u001aเปลี่ยนเป็น\u001aหน้า\u001aรายละเอียด\u001aยู\u001aนิ\u001aท\u001aที่\u001a \u001aBrave\u001a \u001aShift\u001a \u001aแล้ว\u001a"
+    ],
+    "UNIT_EQUIP_NV_NO_EQUIP_NEXT_CHECK": [
+        "Do not display again",
+        "不再顯示",
+        "이 메시지를 다시 표시하지 않음",
+        "Ne plus afficher",
+        "Nicht erneut anzeigen.",
+        "No volver a mostrar",
+        "Jangan tampilkan lagi",
+        "ไม่\u001aแสดง\u001aข้อความ\u001aนี้\u001aอีก\u001a"
     ],
     "UNIT_EQUIP_REMOVE_ALL": [
         "Unequip all units",
@@ -25216,6 +26026,16 @@
         "Elegir unidades",
         "Pilih Unit",
         "เลือก\u001aยู\u001aนิ\u001aท\u001aที่จะ\u001aแปลง\u001aสภาพ\u001a"
+    ],
+    "UNIT_EX_CLASSUP": [
+        "EX Awakening",
+        "EX覺醒",
+        "EX 각성",
+        "Éveil EX",
+        "EX-Erwecken",
+        "Despertar EX",
+        "Kebangkitan NV",
+        "ปลุก\u001aพลัง\u001a \u001aEX\u001a"
     ],
     "UNIT_FILTER_NOTHING": [
         "No displayable units.",
@@ -25448,14 +26268,14 @@
         "คุณ\u001aจะ\u001aได้รับ\u001a \u001a<color=255:255:0>\u001aTrust\u001a \u001aMoogle\u001a \u001a(\u001aAll\u001a \u001a50%)</color>\u001a \u001aเป็น\u001a \u001a<color=255:255:0>\u001aรางวัล\u001aพิเศษ\u001a</color>\u001aเฉพาะ\u001aในกรณีที่\u001aคุณ\u001aนำ\u001aยู\u001aนิ\u001aท\u001aไป\u001aรวม\u001aร่าง\u001aกับ\u001aยู\u001aนิ\u001aท\u001aหลัก\u001aระดับ\u001a \u001a7\u001a★\u001a \u001aที่\u001aเป็น\u001aยู\u001aนิ\u001aท\u001aเดียวกัน\u001aสำเร็จ\u001aเป็นครั้งแรก\u001a<br><br>\u001aคุณ\u001aสามารถ\u001aได้รับ\u001a<color=255:255:0>\u001aของรางวัล\u001aพิเศษ\u001a</color>\u001aจาก\u001aการ\u001aรวม\u001aร่าง\u001aครั้งนี้\u001a<br>\u001aคุณ\u001aต้องการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aต่อไป\u001aหรือไม่\u001a?\u001a"
     ],
     "UNIT_MIX_CONFIRM_RARE": [
-        "You have chosen a unit of rarity <color=255:255:0>3★ or above</color> as a strengthening material.<br>Material units will <color=255:0:0>disappear</color> upon fusion.<br> <br><color=255:255:0>Fusing a unit of the same name as a strengthening material will not awaken it to 7★.</color><br> <br>Are you sure you want to fuse the chosen unit(s)?",
+        "You have chosen a unit of rarity <color=255:255:0><param=rare>★ or above</color> as a strengthening material.<br>Material units will <color=255:0:0>disappear</color> upon fusion.<br> <br><color=255:255:0>Fusing a unit of the same name as a strengthening material will not awaken it to 7★ or NV.</color><br> <br>Are you sure you want to fuse the chosen unit(s)?",
         "所選兵員中包含<color=255:255:0>★<param=rare>以上</color>的非強化素材兵員。<br>進行合成的話素材兵員將會<color=255:0:0>消失</color>。<br> <br><color=255:255:0>使用同名兵員進行合成，也不會讓兵員覺醒至★7。</color><br> <br>確定要進行合成嗎？",
-        "<color=255:255:0>★3 이상의</color> 유닛이 강화 재료로 선택되었습니다.<br>합성하면 재료 유닛은 <color=255:0:0>소멸</color>됩니다.<br> <br><color=255:255:0>강화 재료로 동일한 이름의 유닛을 합성해도 유닛이 ★7으로 각성되지 않습니다.</color><br> <br>선택한 유닛을 정말로 합성하시겠습니까?",
-        "Vous avez choisi une unité <color=255:255:0>3★ ou supérieure</color> en tant que matériau d'amélioration.<br>Les unités utilisées comme matériaux <color=255:0:0>disparaîtront</color> après la fusion.<br> <br><color=255:255:0>Fusionner une unité avec une autre du même nom ne suffit pas à l'éveiller au rang 7★.</color><br> <br>Voulez-vous vraiment fusionner ces unités ?",
-        "Du hast eine Einheit mit der Seltenheit<color=255:255:0>3★ oder höher</color> als Verstärkungsmaterial ausgewählt.<br>Materialeinheiten <color=255:0:0>verschwinden</color>nach der Fusion.<br> <br><color=255:255:0>Wenn du eine Einheit als Verstärkungsmaterial benutzt, um sie mit einer Einheit desselben Namens zu fusionieren, wird diese nicht auf 7★ erweckt..</color><br> <br>Bist du sicher, dass du die gewählte(n) Einheit(en) fusionieren willst?",
+        "<color=255:255:0>★<param=rare> 이상의</color> 유닛이 강화 재료로 선택되었습니다.<br>합성하면 재료 유닛은 <color=255:0:0>소멸</color>됩니다.<br> <br><color=255:255:0>강화 재료로 동일한 이름의 유닛을 합성해도 유닛이 ★7 및 네오 비전으로 각성되지 않습니다.</color><br> <br>선택한 유닛을 정말로 합성하시겠습니까?",
+        "Vous avez choisi une unité <color=255:255:0>3★ ou supérieure</color> en tant que matériau d'amélioration.<br>Les unités utilisées comme matériaux <color=255:0:0>disparaîtront</color> après la fusion.<br> <br><color=255:255:0>Fusionner une unité avec une autre du même nom ne suffit pas à l'éveiller au rang 7★ ou NV.</color><br> <br>Voulez-vous vraiment fusionner ces unités ?",
+        "Du hast eine Einheit mit der Seltenheit <color=255:255:0><param=rare>3★ oder höher</color> als Verstärkungsmaterial ausgewählt.<br>Materialeinheiten <color=255:0:0>werden bei der Fusion verbraucht</color>.<br> <br><color=255:255:0>Wenn du eine Einheit als Verstärkungsmaterial benutzt, um sie mit einer Einheit desselben Namens zu fusionieren, wird diese nicht auf 7★ erweckt.</color><br> <br>Bist du sicher, dass du die ausgewählte(n) Einheit(en) fusionieren willst?",
         "Has elegido una unidad de rareza <color=255:255:0>3★ o superior</color> como material de mejora.<br>Las unidades que uses como material <color=255:0:0>desaparecerán</color> tras la fusión.<br> <br><color=255:255:0>Fusionar una unidad con el mismo nombre que la del material de mejora no hará que despierte a 7★.</color><br> <br>¿Seguro que quieres fusionar la(s) unidad(es) seleccionada(s)?",
         "Unit dengan tingkat kelangkaan <color=255:255:0>★3 atau lebih</color> telah dipilih sebagai material penguat.<br>Unit material akan <color=255:0:0>menghilang</color> setelah digabung.<br> <br><color=255:255:0>Unit tidak dapat dibangkitkan menjadi ★7 meskipun kamu menggabungkan unit yang sama sebagai material penguat.</color><br> <br>Apakah kamu ingin menggabungkan unit yang telah dipilih?",
-        "คุณ\u001aได้\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aที่\u001aมีระดับ\u001aความ\u001a \u001aRare\u001a \u001a<color=255:255:0>\u001a3\u001a★\u001a \u001aขึ้นไป\u001a</color>\u001a \u001aเพื่อ\u001aใช้\u001aเป็น\u001aวัตถุดิบ\u001aเสริม\u001aพลัง\u001a<br>\u001aยู\u001aนิ\u001aท\u001aที่\u001aเป็น\u001aวัตถุดิบ\u001aจะ\u001a \u001a<color=255:0:0>\u001aหาย\u001aไป\u001a</color>\u001aหลังจาก\u001aการ\u001aรวม\u001aร่าง\u001aเสริม\u001aพลัง\u001a<br>\u001a \u001a<br><color=255:255:0>\u001aโปรดทราบ\u001aว่าการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aชื่อ\u001aเดียวกัน\u001aไม่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aให้\u001aไป\u001aถึง\u001aระดับ\u001a7\u001a★</color><br>\u001a \u001a<br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aคุณ\u001aต้องการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001aไว้\u001a?\u001a"
+        "คุณ\u001aได้\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aที่\u001aมีระดับ\u001aความ\u001a \u001aRare\u001a \u001a<color=255:255:0><param=rare>★\u001a \u001aขึ้นไป\u001a</color>\u001a \u001aเพื่อ\u001aใช้\u001aเป็น\u001aวัตถุดิบ\u001aเสริม\u001aพลัง\u001a<br>\u001aยู\u001aนิ\u001aท\u001aที่\u001aเป็น\u001aวัตถุดิบ\u001aจะ\u001a \u001a<color=255:0:0>\u001aหาย\u001aไป\u001a</color>\u001aหลังจาก\u001aการ\u001aรวม\u001aร่าง\u001aเสริม\u001aพลัง\u001a<br><br><color=255:255:0>\u001aโปรดทราบ\u001aว่าการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aชื่อ\u001aเดียวกัน\u001aไม่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aให้\u001aไป\u001aถึง\u001aระดับ\u001a \u001a7\u001a★\u001a \u001aหรือ\u001aเป็น\u001aยู\u001aนิ\u001aท\u001a \u001aNV\u001a</color><br>\u001a \u001a<br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aคุณ\u001aต้องการ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001aไว้\u001a?\u001a"
     ],
     "UNIT_MIX_CONFIRM_SUPER_TRUST_OVER": [
         "Materials that would <color=255:255:0>exceed the super trust maximum value</color> have been included.<br>The amount exceeded<color=255:255:0> will be lost</color>.<br><br>Proceed with fusion?",
@@ -25566,6 +26386,76 @@
         "No puedes seleccionar esta unidad.",
         "Unit ini tidak dapat dipilih.",
         "ไม่\u001aสามารถ\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aนี้\u001aได้\u001a"
+    ],
+    "UNIT_NV_CLASSUP": [
+        "NV Awakening",
+        "NV覺醒",
+        "NV 각성",
+        "Éveil NV",
+        "NV-Erwecken",
+        "Despertar NV",
+        "Kebangkitan EX",
+        "ปลุก\u001aพลัง\u001a \u001aNV\u001a"
+    ],
+    "UNIT_NV_CLASS_UP_IMPOSSIBLE_CONFIRM_GIL": [
+        "- Gil necessary for awakening in possession.<br>",
+        "・擁有覺醒所需的Gil<br>",
+        "- 각성에 필요한 길 보유<br>",
+        "- Les gils nécessaires à l'éveil sont en quantité suffisante.<br>",
+        "- Du besitzt die notwendigen Gil für das Erwecken.<br>",
+        "- Se tienen los guiles necesarios para realizar el despertar.",
+        "- Jumlah gil yang diperlukan untuk kebangkitan mencukupi.",
+        "-\u001a \u001aมี\u001aจำนวน\u001a \u001aGil\u001a \u001aที่\u001aเพียงพอ\u001aสำหรับ\u001aการปลุก\u001aพลัง\u001a<br>\u001a"
+    ],
+    "UNIT_NV_CLASS_UP_IMPOSSIBLE_CONFIRM_LEVEL": [
+        "- Unit is at level 120.<br>",
+        "・兵員Lv.已到達120級<br>",
+        "- 유닛 레벨 120 달성<br>",
+        "- L'unité est au niveau 120.<br>",
+        "- Einheit ist auf Stufe 120.<br>",
+        "- La unidad está al nivel 120.",
+        "- Unit telah mencapai level 120.",
+        "-\u001a \u001aมี\u001a \u001aLevel\u001a \u001a120\u001a<br>\u001a"
+    ],
+    "UNIT_NV_CLASS_UP_IMPOSSIBLE_CONFIRM_MATERIAL": [
+        "- Necessary awakening materials in possession.<br>",
+        "・擁有足夠的覺醒素材<br>",
+        "- 각성 재료 완비<br>",
+        "- Les matériaux d'éveil nécessaires sont en quantité suffisante.<br>",
+        "- Du besitzt die notwendigen Erweckmaterialien.<br>",
+        "- Se tienen los materiales de despertar necesarios.",
+        "- Jumlah material kebangkitan yang diperlukan mencukupi.",
+        "-\u001a \u001aมี\u001aวัตถุดิบ\u001aที่\u001aจำเป็น\u001aสำหรับ\u001aการปลุก\u001aพลัง\u001a<br>\u001a"
+    ],
+    "UNIT_NV_CLASS_UP_IMPOSSIBLE_CONFIRM_SUPER_TRUST": [
+        "- Super trust master reward has been obtained.<br>",
+        "・已獲得超級信賴度滿點報酬<br>",
+        "- 슈퍼 트러스트 마스터 보상 획득 완료<br>",
+        "- La récompense de super confiance absolue a été obtenue.<br>",
+        "- Super-Treue-Belohnung erhalten.<br>",
+        "- Se ha obtenido la recompensa supermaestro fiel.",
+        "- Hadiah super trust master telah diperoleh.",
+        "-\u001a \u001aได้\u001aรับรางวัล\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aแล้ว\u001a<br>\u001a"
+    ],
+    "UNIT_NV_CLASS_UP_IMPOSSIBLE_CONFIRM_TEXT": [
+        "Because one or more of the following conditions has not been met, NV Awakening cannot be performed.<br><br>[Conditions]<br>",
+        "未滿足以下條件，無法進行NV覺醒。<br> <br>【條件】<br>",
+        "NV 각성을 진행하려면 아래의 조건을 모두 충족해야 합니다.<br><br>[조건]<br>",
+        "Impossible de procéder à l'éveil NV car au moins une des conditions suivantes n'est pas remplie.<br><br>[Conditions]<br>",
+        "Da eine oder mehrere der folgenden Bedingungen nicht erfüllt sind, kann das NV-Erwecken nicht durchgeführt werden.<br><br>[Conditions]<br>",
+        "No se puede llevar a cabo el despertar NV porque no se cumplen una o más de las siguientes condiciones.<br><br>[Condiciones]<br>",
+        "Kebangkitan NV tidak dapat dilakukan karena setidaknya salah satu ketentuan-ketentuan berikut belum terpenuhi.<br><br>[Ketentuan]<br>",
+        "ไม่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001aให้\u001aเป็น\u001aยู\u001aนิ\u001aท\u001a \u001aNV\u001a \u001aได้\u001a \u001aเนื่องด้วย\u001aไม่\u001aตรง\u001aกับ\u001aเงื่อนไข\u001aที่\u001aกำหนด\u001aไว้\u001aดังนี้\u001a<br><br>[\u001aเงื่อนไข\u001aการปลุก\u001aพลัง\u001a]<br>\u001a"
+    ],
+    "UNIT_NV_CLASS_UP_IMPOSSIBLE_CONFIRM_TITLE": [
+        "The conditions for awakening have not been met.",
+        "未滿足覺醒條件",
+        "각성 조건을 충족하지 못했습니다.",
+        "Les conditions nécessaires pour procéder à l'éveil ne sont pas remplies.",
+        "Die Bedingungen für das Erwecken sind nicht erfüllt.",
+        "No se cumplen las condiciones para el despertar.",
+        "Ketentuan untuk kebangkitan belum terpenuhi.",
+        "ยู\u001aนิ\u001aทราย\u001aนี้\u001aไม่\u001aตรง\u001aตามเงื่อนไข\u001aที่\u001aกำหนด\u001aสำหรับ\u001aการปลุก\u001aพลัง\u001a"
     ],
     "UNIT_OPTION_EQUIP_REMOVE": [
         "Unequip All",
@@ -26167,6 +27057,36 @@
         "Tipe Unit",
         "ประเภท\u001aยู\u001aนิ\u001aท\u001a"
     ],
+    "UNIT_STATUS_DETAIL_EQUIP_TITLE": [
+        "Equipment",
+        "裝備",
+        "장비 정보",
+        "Équipement",
+        "Ausrüstung",
+        "Equipo",
+        "Perlengkapan",
+        "อุปกรณ์\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_TITLE": [
+        "Status",
+        "狀態數值",
+        "능력치 정보",
+        "État",
+        "Status",
+        "Parámetros",
+        "Status",
+        "ค่า\u001aสเตตัส\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_TITLE": [
+        "Damage Boosts (Physical/Magic)",
+        "種族傷害提高倍率（物理/魔法）",
+        "종족 피해량 상승 배율(물리/마법)",
+        "Augmentation des dégâts (Physique/Magique)",
+        "Schadenserhöhungen (Physisch/Magisch)",
+        "Aumentos de daño (físico/mágico)",
+        "Peningkatan Damage (Fisik/Magic)",
+        "เพิ่มค่า\u001aความเสียหาย\u001a \u001a(\u001aทางกายภาพ\u001a/\u001aพลัง\u001aเวทย์\u001a)\u001a"
+    ],
     "UNIT_TOP": [
         "Manage Party",
         "編輯隊伍",
@@ -26576,6 +27496,136 @@
         "Lote de Veritas",
         "Spesial Veritas",
         "ชุด\u001aไอเทม\u001a \u001aVeritas\u001a \u001aSpecial\u001a"
+    ],
+    "VISION_CARD_ABILITY_UNLOCK_LV": [
+        "Unlocked at level <param=visioncardlv>",
+        "在Lv. <param=visioncardlv>時習得",
+        "레벨 <param=visioncardlv> 달성 시 습득",
+        "Se débloque au niveau <param=visioncardlv>",
+        "Freigeschaltet ab St. <param=visioncardlv>",
+        "Se desbloquea al nivel <param=visioncardlv>",
+        "Terbuka di level <param=visioncardlv>",
+        "ปลด\u001aล็อค\u001aที่\u001a \u001aLv\u001a.\u001a \u001a<param=visioncardlv>\u001a"
+    ],
+    "VISION_CARD_EQUIP_RELEASE_CONFIRM1": [
+        "<param=itemcnt> <param=itemname>(s) can be consumed to increase the number of vision cards this unit can equip. <br>Increase vision card slots?",
+        "花費<param=itemcnt>個<param=itemname>即可增加此兵員的幻兵卡裝備欄。<br>要增加幻兵卡裝備欄嗎？",
+        "<param=itemname>을 <param=itemcnt>개 소비하여 해당 유닛에게 비전 카드 장비칸을 추가할 수 있습니다.<br>비전 카드 장비칸을 추가하시겠습니까?",
+        "Le nombre d'atouts-visions équipables par cette unité peut être augmenté en utilisant <param=itemname> x<param=itemcnt>.<br>Augmenter le nombre d'emplacements pour atout-vision ?",
+        "Verbrauch von <param=itemcnt> <param=itemname> möglich, um die Anzahl der Visionskarten zu erhöhen, die diese Einheit ausrüsten kann. <br>Visionskartenslots erhöhen?",
+        "Puedes usar <param=itemname> x<param=itemcnt> para aumentar el número de cartas de visión que puede equipar una unidad <br>¿Quieres aumentar el número de ranuras para cartas de visión?",
+        "<param=itemcnt> <param=itemname>(s) dapat digunakan untuk menambah jumlah kartu vision yang dapat dipasang pada unit ini.<br>Tambahkan slot kartu vision?",
+        "คุณ\u001aสามารถ\u001aใช้\u001a \u001a<param=itemname>\u001a \u001aจำนวน\u001a \u001a<param=itemcnt>\u001a \u001aหน่วย\u001aเพื่อ\u001aเพิ่มจำนวน\u001aช่อง\u001aติดตั้ง\u001aการ์ด\u001a \u001aVision\u001a \u001aของ\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001a<br>\u001aต้องการ\u001aเพิ่มจำนวน\u001aช่อง\u001aติดตั้ง\u001aการ์ด\u001a \u001aVision\u001a \u001aหรือไม่\u001a?\u001a"
+    ],
+    "VISION_CARD_EQUIP_RELEASE_CONFIRM2": [
+        "*Even if you possess another unit of the same name, vision slots will only be increased for this unit.",
+        "※即使持有其他相同名稱的兵員，僅有此名兵員會解放幻兵卡裝備欄。",
+        "※ 해당 유닛에 한해 비전 카드 장비칸이 개방되며, 동일한 이름의 다른 유닛은 개방되지 않습니다.",
+        "* Même si vous possédez un autre exemplaire de cette unité portant le même nom, seule cette unité verra ses emplacements d'atout-vision augmentés.",
+        "* Selbst wenn du eine Einheit desselben Namens besitzt, werden nur die Visionsslots dieser Einheit erhöht.",
+        "*Aunque tengas otra unidad con el mismo nombre, solo aumentarán las ranuras para cartas de visión de esta unidad.",
+        "*Meskipun kamu memiliki unit yang sama lainnya, slot vision hanya akan bertambah untuk unit ini.",
+        "*\u001aแม้\u001aคุณ\u001aจะ\u001aมี\u001aยู\u001aนิ\u001aทราย\u001aอื่น\u001aที่\u001aมีชื่อ\u001aเดียวกัน\u001a \u001aแต่\u001aช่อง\u001aติดตั้ง\u001aการ์ด\u001a \u001aVision\u001a \u001aจะ\u001aเพิ่มขึ้น\u001aเฉพาะ\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001aเท่านั้น\u001a"
+    ],
+    "VISION_CARD_EQUIP_RELEASE_OK": [
+        "Vision cards can now be equipped.",
+        "現已可裝備幻兵卡。",
+        "비전 카드를 장착할 수 있습니다.",
+        "Les atouts-visions peuvent maintenant être équipés !",
+        "Visionskarten können nun ausgerüstet werden.",
+        "Ya puedes equipar cartas de visión.",
+        "Kartu vision sekarang dapat dipasang.",
+        "ตอนนี้\u001aสามารถ\u001aติดตั้ง\u001aการ์ด\u001a \u001aVision\u001a \u001aได้\u001aแล้ว\u001a"
+    ],
+    "VISION_CARD_EQUIP_RELEASE_POSSESSION_ITEM": [
+        "<param=possession> <param=itemname>(s) in possession.",
+        "持有<param=possession>個<param=itemname>",
+        "<param=itemname> <param=possession>개 보유",
+        "En possession : <param=itemname> x<param=possession>",
+        "<param=possession> <param=itemname> im Besitz.",
+        "Tienes: <param=itemname> x<param=possession>.",
+        "Jumlah: <param=itemname> x<param=possession>.",
+        "ขณะนี้\u001aถือครอง\u001a<param=itemname>\u001aจำนวน\u001a<param=possession>\u001aหน่วย\u001a"
+    ],
+    "VISION_CARD_EQUIP_TITLE": [
+        "Vision Card",
+        "幻兵卡",
+        "비전 카드",
+        "Atout-vision",
+        "Visionskarte",
+        "Carta de visión",
+        "Kartu Vision",
+        "การ์ด\u001a \u001aVision\u001a"
+    ],
+    "VISION_CARD_LIST_TITLE": [
+        "Vision Cards",
+        "幻兵卡一覽",
+        "비전 카드 목록",
+        "Atouts-visions",
+        "Visionskarten",
+        "Cartas de visión",
+        "Kartu Vision",
+        "การ์ด\u001a \u001aVision\u001a"
+    ],
+    "VISION_CARD_MIX_CONFIRM_MATERIAL_CARD_HIGH_RARITY": [
+        "You have a chosen a card of <color=255:255:0>higher rarity</color> than the base card as a material. <br>Material cards will <color=255:0:0>disappear</color> upon fusion.<br> <br> <br>Are you sure you want to fuse the chosen card(s)?",
+        "所選素材卡片中包含比基礎卡片還要<color=255:255:0>高稀有度的卡片</color>。<br>進行合成的話素材卡片將會<color=255:0:0>消失</color>。<br><br>確定要進行合成嗎？",
+        "베이스 카드보다 <color=255:255:0>레어도가 높은 카드</color>가 재료 카드로 선택되었습니다.<br>합성하면 재료 카드는 <color=255:0:0>소멸</color>됩니다.<br>합성하시겠습니까?",
+        "Un des atouts-visions sélectionnés comme matériaux est <color=255:255:0>de rareté supérieure</color> à celui à améliorer.<br>Tous les atouts-visions sélectionnés <color=255:0:0>disparaîtront</color> lors de la fusion.<br> <br> <br>Voulez-vous vraiment fusionner le/les atout(s)-vision(s) sélectionné(s) ?",
+        "Du hast eine Karte als Material ausgewählt, die über einen <color=255:255:0>höheren Seltenheitsgrad</color> als die Basiskarte verfügt.<br>Die Materialkarten werden nach der Fusion <color=255:0:0>verbraucht</color>.<br> <br> <br>Bist du dir sicher, dass du die ausgewählten Karten fusionieren nutzen willst?",
+        "Has seleccionado como material una carta de <color=255:255:0>rareza superior</color> a la de la carta base. <br>Las cartas que uses como materiales <color=255:0:0>desaparecerán</color> tras la fusión.<br> <br> <br>¿Seguro que quieres fusionar la(s) carta(s) elegida(s)?",
+        "Kartu yang <color=255:255:0>lebih langka</color> daripada kartu dasar sebagai material.<br>Kartu material akan <color=255:0:0>menghilang</color> setelah digabung.<br> <br><color=255:255:0>Apakah kamu ingin menggabungkan kartu yang telah dipilih?",
+        "การ์ด\u001aที่\u001aคุณ\u001aเลือก\u001aใช้\u001aเป็น\u001aวัตถุดิบ\u001aมี\u001a \u001a<color=255:255:0>\u001aระดับ\u001aความ\u001a \u001aRare\u001a \u001aสูง\u001aกว่า\u001a</color>\u001a \u001aการ์ด\u001aหลัก\u001a \u001a<br>\u001aการ์ด\u001aวัตถุดิบ\u001a<color=255:0:0>\u001aจะ\u001aหาย\u001aไป\u001a</color>\u001aหลัง\u001aดำเนินการ\u001aเสร็จสิ้น\u001a<br>\u001a \u001a<br>\u001a \u001a<br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aคุณ\u001aต้องการ\u001aใช้\u001aการ์ด\u001aที่\u001aเลือก\u001aไว้\u001a?\u001a"
+    ],
+    "VISION_CARD_MIX_CONFIRM_MATERIAL_CARD_HIGH_RARITY2": [
+        "Are you sure you want to fuse a card of <color=255:255:0>higher rarity</color> than the base card as a material? <br>Material cards will <color=255:0:0>disappear</color> upon fusion.",
+        "確定要將<color=255:255:0>比基礎卡片稀有度更高的卡片</color>作為素材來進行合成嗎？<br><br>進行合成的話素材卡片將會<color=255:0:0>消失</color>。",
+        "정말로 <color=255:255:0>베이스 카드보다 레어도가 높은 카드</color>를 재료로 합성하시겠습니까?<br><br>합성하면 재료 카드는 <color=255:0:0>소멸</color>됩니다.",
+        "Voulez-vous vraiment utiliser comme matériau un atout-vision <color=255:255:0>de rareté supérieure</color> à celui à améliorer ? <br>Tous les atouts-visions sélectionnés <color=255:0:0>disparaîtront</color> lors de la fusion.",
+        "Bist du dir sicher, dass du eine Karte eines <color=255:255:0>höheren Seltenheitgrades</color> als die der Basiskarte als Material zur Fusion nutzen willst? <br>Materialkarten werden bei der Fusion <color=255:0:0>verbraucht</color>.",
+        "¿Seguro que quieres fusionar una carta de <color=255:255:0>rareza superior</color> a la de la carta base? <br>Las cartas que uses como materiales <color=255:0:0>desaparecerán</color> tras la fusión.",
+        "Apakah kamu ingin menggabungkan kartu yang <color=255:255:0>lebih langka</color> daripada kartu dasar sebagai material? Kartu tersebut akan <color=255:0:0>menghilang</color> setelah digabung.",
+        "คุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001aใช้\u001aการ์ด\u001aที่\u001aมี\u001a \u001a<color=255:255:0>\u001aระดับ\u001aความ\u001a \u001aRare\u001a \u001aสูง\u001aกว่า\u001a</color>\u001aการ์ด\u001aหลัก\u001aเป็น\u001aวัตถุดิบ\u001a?\u001a \u001a<br>\u001aโปรดทราบ\u001aว่า\u001aการ์ด\u001aวัตถุดิบ\u001a<color=255:0:0>\u001aจะ\u001aหาย\u001aไป\u001a</color>\u001aหลัง\u001aดำเนินการ\u001aเสร็จสิ้น\u001a"
+    ],
+    "VISION_CARD_MIX_CONFIRM_MATERIAL_CARD_OVER_EXP": [
+        "The amount of EXP obtainable from fusion <color=255:255:0>exceeds the amount needed to reach maximum level.</color><br><br>The amount exceeded<color=255:255:0> will be lost</color>.<br><br>Proceed with fusion?",
+        "合成後取得的EXP<color=255:255:0>超出最大Lv.所需數值</color>。<br><br>超過最大Lv.所需數值將會<color=255:255:0>被捨去</color>。<br><br>是否進行合成？",
+        "합성 시 획득하는 경험치가 <color=255:255:0>최대 레벨 달성에 필요한 경험치를 초과</color>합니다.<br><br>최대 레벨을 초과한 경험치는 <color=255:255:0>사라집니다.</color><br><br>합성하시겠습니까?",
+        "La quantité d'EXP obtenue lors de la fusion <color=255:255:0>dépasse la quantité nécessaire pour atteindre le niveau max.</color><br><br>L'excédent d'EXP <color=255:255:0>sera perdu</color>.<br><br>Procéder à la fusion ?",
+        "Die Menge an Erfahrung, den du durch die Fusion erhältst, <color=255:255:0>ist höher als die Erfahrung, die zum Erreichen der maximalen Stufe benötigt wird.</color><br><br>Die überschüssige Erfahrung<color=255:255:0> geht dabei verloren</color>.<br><br>Mit der Fusion fortfahren?",
+        "La cantidad de EXP que puedes conseguir con la fusión <color=255:255:0>sobrepasa la cantidad necesaria para alcanzar el nivel máximo.</color><br><br>La cantidad extra <color=255:255:0>se perderá</color>.<br><br>¿Continuar de todos modos?",
+        "Jumlah EXP yang dapat kamu peroleh melalui penggabungan <color=255:255:0>melebihi jumlah yang diperlukan untuk mencapai level maksimal.</color><br><br>Semua nilai yang kelebihan <color=255:255:0>akan hilang</color>.<br><br>Lanjutkan?",
+        "ค่า\u001a \u001aEXP\u001a \u001aที่\u001aได้รับ\u001aจาก\u001aการ\u001aเสริม\u001aพลัง\u001aนี้\u001a<color=255:255:0>\u001aจะ\u001aมี\u001aจำนวน\u001aเกิน\u001aกว่า\u001aค่าที่\u001aจำเป็น\u001aสำหรับ\u001aการ\u001aเลื่อนขั้น\u001aถึง\u001a \u001aLv\u001a.\u001a \u001aสูงสุด\u001a</color><br><br>\u001aและ\u001aค่าที่\u001aเกิน\u001a<color=255:255:0>\u001aจะ\u001aถูก\u001aตัดทอน\u001aโดยอัตโนมัติ\u001a</color>.<br><br>\u001aต้องการ\u001aเสริม\u001aพลัง\u001aหรือไม่\u001a?\u001a"
+    ],
+    "VISION_CARD_MIX_CONFIRM_RARE_CARD": [
+        "You have chosen a non-strengthening vision card as a strengthening material.<br>Material cards will <color=255:0:0>disappear</color> upon fusion.<br> <br> <br>Are you sure you want to fuse the chosen card(s)?",
+        "所選素材中包含非強化素材的幻兵卡。<br>進行合成的話素材卡片將會<color=255:0:0>消失</color>。<br><br>確定要進行合成嗎？",
+        "강화 재료가 아닌 비전 카드가 선택되었습니다.<br>합성하면 재료 카드는 <color=255:0:0>소멸</color>됩니다.<br><br>합성하시겠습니까?",
+        "Un atout-vision ne permettant de conférer aucune augmentation a été sélectionné comme matériau.<br>Tous les atouts-visions sélectionnés <color=255:0:0>disparaîtront</color> lors de la fusion.<br> <br> <br>Voulez-vous vraiment fusionner le/les atout(s)-vision(s) sélectionné(s) ?",
+        "Du hast eine Visionskarte als Verbesserungsmaterial ausgewählt, die keine Verbesserung bewirkt.<br>Die Materialkarten werden nach der Fusion <color=255:0:0>verbraucht</color>.<br> <br> <br>Bist du dir sicher, dass du die ausgewählten Karten fusionieren willst?",
+        "Has seleccionado como material de mejora una carta de visión que no sirve como material de mejora.<br>Las cartas que uses como materiales <color=255:0:0>desaparecerán</color> tras la fusión.<br> <br> <br>¿Seguro que quieres fusionar la(s) carta(s) elegida(s)?",
+        "Kamu telah memilih kartu vision unit yang tidak berfungsi sebagai kartu penguat sebagai material penguat.<br>Kartu material akan <color=255:0:0>menghilang</color> setelah digabung.<br> <br><color=255:255:0>Apakah kamu ingin menggabungkan kartu yang telah dipilih?",
+        "การ์ด\u001a \u001aVision\u001a \u001aที่\u001aคุณ\u001aเลือก\u001aเพื่อ\u001aใช้\u001aใน\u001aการ\u001aเสริม\u001aพลัง\u001aไม่\u001aใช่\u001aการ์ด\u001aสำหรับ\u001aเสริม\u001aพลัง\u001a<br>\u001aการ์ด\u001aวัตถุดิบ\u001a<color=255:0:0>\u001aจะ\u001aหาย\u001aไป\u001a</color>\u001aหลัง\u001aดำเนินการ\u001aเสร็จสิ้น\u001a<br>\u001a \u001a<br>\u001a \u001a<br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aคุณ\u001aต้องการ\u001aใช้\u001aการ์ด\u001aที่\u001aเลือก\u001aไว้\u001a?\u001a"
+    ],
+    "VISION_CARD_MIX_TITLE": [
+        "Enhance Vision Card",
+        "幻兵卡強化",
+        "비전 카드 강화",
+        "Amélioration d'atouts-visions",
+        "Visionskarte verbessern",
+        "Mejorar carta de visión",
+        "Perkuat Kartu Vision",
+        "เสริม\u001aพลัง\u001aการ์ด\u001a \u001aVision\u001a"
+    ],
+    "VISION_CARD_NOTHING": [
+        "No vision cards to display.",
+        "沒有幻兵卡",
+        "비전 카드가 없습니다.",
+        "Aucun atout-vision à afficher.",
+        "Keine Visionskarten zum Anzeigen verfügbar.",
+        "No hay cartas de visión para mostrar.",
+        "Tidak ada kartu vision untuk ditampilkan.",
+        "ไม่\u001aมี\u001aการ์ด\u001a \u001aVision\u001a"
     ],
     "WARRIOR_CHEST_BUNDLE_DESC": [
         "Ensure your units' protection with these accessories!<br>Items will be sent to your message box, kupo!",
