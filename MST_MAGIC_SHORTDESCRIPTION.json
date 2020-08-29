@@ -299,6 +299,16 @@
         "Memberikan damage cahaya pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "10220": [
+        "Fully restore HP for all allies",
+        "完全恢復全體隊員的HP",
+        "아군 전체의 HP 최대까지 회복",
+        "Restaure les PV de tous les alliés entièrement",
+        "Heilt alle LP bei allen Verbündeten",
+        "Recupera toda la VIT de todos los aliados",
+        "Memulihkan seluruh HP semua teman",
+        "ฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aจน\u001aเต็ม\u001a"
+    ],
     "10230": [
         "Automatically revive an ally one time",
         "賦予1名隊員進入無法戰鬥狀態時自動復活1次的效果",
@@ -308,6 +318,46 @@
         "Revive a un aliado K.O. automáticamente una vez",
         "Menghidupkan kembali satu teman secara otomatis",
         "คืนชีพ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aโดยอัตโนมัติ\u001a \u001a1\u001a \u001aครั้ง\u001a"
+    ],
+    "10240": [
+        "Deal light damage to one enemy",
+        "對1名敵人發動光屬性攻擊",
+        "적 1명에게 빛속성 피해",
+        "Dégâts de lumière sur un ennemi",
+        "Lichtschaden, ein Gegner",
+        "Inflige daño de luz a un enemigo",
+        "Memberikan damage cahaya pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10250": [
+        "Deal light damage to all enemies",
+        "對全體敵人發動光屬性攻擊",
+        "적 전체에 빛속성 피해",
+        "Dégâts de lumière sur tous les ennemis",
+        "Lichtschaden, alle Ziele",
+        "Inflige daño de luz a todos los enemigos",
+        "Memberikan damage cahaya pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "10260": [
+        "Deal light damage to one enemy",
+        "對1名敵人發動光屬性攻擊",
+        "적 1명에게 빛속성 피해",
+        "Dégâts de lumière sur un ennemi",
+        "Lichtschaden, ein Gegner",
+        "Inflige daño de luz a un enemigo",
+        "Memberikan damage cahaya pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10270": [
+        "Deal light damage to all enemies",
+        "對全體敵人發動光屬性攻擊",
+        "적 전체에 빛속성 피해",
+        "Dégâts de lumière sur tous les ennemis",
+        "Lichtschaden, alle Ziele",
+        "Inflige daño de luz a todos los enemigos",
+        "Memberikan damage cahaya pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "10280": [
         "Deal light damage to one enemy and restore own MP",
@@ -819,11 +869,16 @@
         "Memberikan damage es dan mengurangi resistansi es pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
-    "20370": {
-        "0": null,
-        "1": "對1名敵人發動雷屬性攻擊+降低土屬性耐性",
-        "7": "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
-    },
+    "20370": [
+        "Deal lightning damage and reduce earth resistance for all enemies",
+        "對1名敵人發動雷屬性攻擊+降低土屬性耐性",
+        "적 전체에 번개속성 피해+땅속성 저항력 감소",
+        "Dégâts de foudre sur un ennemi et réduit la résistance à la terre",
+        "Blitzschaden und red. Erdres., ein Ziel",
+        "Inflige daño de rayo a un enemigo y reduce la resistencia a la tierra",
+        "Memberikan damage petir dan mengurangi resistansi tanah pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "20380": [
         "Deal water damage and reduce lightning resistance for all enemies",
         "對全體敵人發動水屬性攻擊+降低雷屬性耐性",
@@ -1644,6 +1699,16 @@
         "Meningkatkan MAG satu teman",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "30230": [
+        "Chance to put all enemies to sleep",
+        "一定機率對全體敵人施加睡眠",
+        "적 전체에 일정 확률로 수면 부여",
+        "Chance d'endormir tous les ennemis",
+        "Chance, alle Gegner einschlafen zu lassen.",
+        "Posibilidad de infligir sueño a todos los enemigos",
+        "Peluang untuk memberikan status sleep pada semua musuh",
+        "มีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aSleep\u001a \u001aทุกราย\u001a"
+    ],
     "30260": [
         "Boost fire resistance for all allies",
         "提高全體隊員火屬性耐性的數值",
@@ -2023,6 +2088,16 @@
         "Aumenta el daño del EL de todos los aliados",
         "Meningkatkan damage LB semua teman",
         "เพิ่ม\u001aความเสียหาย\u001a \u001aLB\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "40250": [
+        "Boost DEF and SPR, reduce damage taken for three turns, and activate barrier for all allies",
+        "提高全體隊員的防禦精神+3回合內減少傷害+賦予屏障效果",
+        "아군 전체의 방어력과 정신력 상승+3턴 동안 피해량 감소+배리어 부여",
+        "Augmente la DEF et la PSY, réduit les dégâts subis pendant 3 tours, et érige une barrière autour de tous les alliés",
+        "Erhöht ABW und PSY, verringert 3 Runden lang erlittenen Schaden und aktiviert Barriere für alle Verbündeten.",
+        "Aumenta la DEF y el ESP de todos los aliados, reduce el daño que reciben durante 3 turnos, y les activa Barrera",
+        "Meningkatkan DEF dan SPR, mengurangi damage yang diterima selama 3 giliran, dan mengaktifkan barier pada semua teman",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a  \u001a+\u001a \u001aลด\u001aความเสียหาย\u001aที่\u001aได้รับ\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "40260": [
         "Damage one enemy",

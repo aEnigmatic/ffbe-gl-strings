@@ -2349,6 +2349,16 @@
         "Memberikan damage kegelapan dan mengurangi DEF semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "100007727": [
+        "Deal partial unmitigated dark damage to all enemies, and boost dark damage of LB, abilities, and magic for caster",
+        "對全體敵人發動暗屬性無視部分防禦的攻擊+提高自身暗屬性「極限技、能力、魔法」的傷害",
+        "적 전체에 어둠속성 일부 방어 무시 피해+자신의 어둠속성 LB, 어빌리티, 마법 피해량 상승",
+        "Inflige des dégâts de ténèbres en partie fixes à tous les ennemis, et augmente les dégâts de ténèbres de la limite, des aptitudes et des sorts du lanceur",
+        "Fügt allen Gegnern teilweise direkten Dunkelschaden zu und erhöht Dunkelschaden durch Limitrausch, Fertigkeiten und Magie des Benutzers.",
+        "Inflige daño de oscuridad que ignora parcialmente la DEF de todos los enemigos, y aumenta el daño de oscuridad del EL, las habilidades y la magia del usuario",
+        "Memberikan damage kegelapan yang menembus sebagian DEF pada semua musuh, serta meningkatkan damage kegelapan pada LB, ability, dan magic diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001a"
+    ],
     "100007804": [
         "Deal wind damage and reduce wind resistance for one enemy",
         "對1名敵人發動風屬性攻擊+降低風屬性耐性",
@@ -7528,6 +7538,86 @@
         "Daña a todos los enemigos, revive automáticamente al usuario una vez, y aumenta el daño de determinadas habilidades",
         "Memberikan damage pada semua musuh, menghidupkan kembali diri sendiri secara otomatis 1 kali, dan meningkatkan damage ability tertentu",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aตัวเอง\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "100031007": [
+        "Deal fire damage to all enemies and add fire element to physical attack for all allies",
+        "對全體敵人發動火屬性攻擊+將全體隊員的物理攻擊賦予火屬性",
+        "적 전체에 불속성 피해+아군 전체의 물리 공격에 불속성 부여",
+        "Inflige des dégâts de feu à tous les ennemis et ajoute l'élément feu aux attaques physiques de tous les alliés",
+        "Fügt allen Gegnern Feuerschaden und physischem Angriff aller Verbündeten Feuerelement hinzu.",
+        "Daño de fuego a todos los enemigos y añade elemento fuego a los ataques físicos de todos los aliados",
+        "Memberikan damage api pada semua musuh dan menambahkan elemen api pada serangan fisik semua teman",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aธาตุ\u001aไฟ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100031017": [
+        "Deal partial unmitigated damage to all enemies",
+        "對全體敵人發動無視部分防禦的攻擊",
+        "적 전체에 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos",
+        "Memberikan damage yang menembus sebagian DEF pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100031205": [
+        "Deal partial unmitigated damage and chance of stopping all enemies, and caster can evade some physical attacks three times",
+        "對全體敵人發動無視部分防禦的攻擊+一定機率施加停止效果+賦予自身可閃避3次部分物理攻擊的效果",
+        "적 전체에 일부 방어 무시 피해+일정 확률로 스톱 부여+자신에게 일부 물리 공격 3회 회피 효과 부여",
+        "Inflige des dégâts en partie fixes à tous les ennemis et confère une chance de leur infliger stop, et permet au lanceur d'esquiver certaines attaques physiques à 3 reprises",
+        "Fügt allen Gegnern teilweise direkten Schaden zu, Chance, ihnen Stopp zuzufügen, und lässt Benutzer dreimal bestimmten physischen Angriffen ausweichen.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y probabilidad de infligirles paro, y el usuario puede evadir algunos ataques físicos 3 veces",
+        "Memberikan damage yang menembus sebagian DEF dan peluang untuk memberikan status stop pada semua musuh, serta memungkinkan diri sendiri untuk menghindari beberapa serangan fisik 3 kali",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aได้\u001a \u001a3\u001a \u001aครั้ง\u001a"
+    ],
+    "100031206": [
+        "Deal partial unmitigated damage and chance of stopping all enemies, and caster can evade some physical attacks four times",
+        "對全體敵人發動無視部分防禦的攻擊+一定機率施加停止效果+賦予自身可閃避4次部分物理攻擊的效果",
+        "적 전체에 일부 방어 무시 피해+일정 확률로 스톱 부여+자신에게 일부 물리 공격 4회 회피 효과 부여",
+        "Inflige des dégâts en partie fixes à tous les ennemis et confère une chance de leur infliger stop, et permet au lanceur d'esquiver certaines attaques physiques à 4 reprises",
+        "Fügt allen Gegnern teilweise direkten Schaden zu, Chance, ihnen Stopp zuzufügen, und lässt Benutzer viermal bestimmten physischen Angriffen ausweichen.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y probabilidad de infligirles paro, y el usuario puede evadir algunos ataques físicos 4 veces",
+        "Memberikan damage yang menembus sebagian DEF dan peluang untuk memberikan status stop pada semua musuh, serta memungkinkan diri sendiri untuk menghindari beberapa serangan fisik 4 kali",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aได้\u001a \u001a4\u001a \u001aครั้ง\u001a"
+    ],
+    "100031207": [
+        "Deal partial unmitigated damage and chance of stopping all enemies, and caster can evade some physical attacks five times",
+        "對全體敵人發動無視部分防禦的攻擊+一定機率施加停止效果+賦予自身可閃避5次部分物理攻擊的效果",
+        "적 전체에 일부 방어 무시 피해+일정 확률로 스톱 부여+자신에게 일부 물리 공격 5회 회피 효과 부여",
+        "Inflige des dégâts en partie fixes à tous les ennemis et confère une chance de leur infliger stop, et permet au lanceur d'esquiver certaines attaques physiques à 5 reprises",
+        "Fügt allen Gegnern teilweise direkten Schaden zu, Chance, ihnen Stopp zuzufügen, und lässt Benutzer fünfmal bestimmten physischen Angriffen ausweichen.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y probabilidad de infligirles paro, y el usuario puede evadir algunos ataques físicos 5 veces",
+        "Memberikan damage yang menembus sebagian DEF dan peluang untuk memberikan status stop pada semua musuh, serta memungkinkan diri sendiri untuk menghindari beberapa serangan fisik 5 kali",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aได้\u001a \u001a5\u001a \u001aครั้ง\u001a"
+    ],
+    "100031305": [
+        "Boost DEF and SPR and resistance to reductions to DEF and SPR for all allies, and reduce physical and magic damage dealt by humans and machina monsters for five turns",
+        "提高全體隊員的防禦精神+提高降低防禦精神的耐性+5回合內減少來自人機械系魔物的物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+방어력과 정신력 감소 저항력 상승+5턴 동안 인간과 기계형 마물에게 받는 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY de tous les alliés et augmente leur résistance aux malus de DEF et de PSY, et réduit les dégâts physiques et magiques infligés par les humains et les machines pendant 5 tours",
+        "Erhöht ABW sowie PSY aller Verbündeten, erhöht ihre Resistenz gegen ABW- sowie PSY-Schwächungen und verringert fünf Runden lang physischen und magischen Schaden durch Menschen und Maschinenmonster.",
+        "Aumenta la DEF, el ESP y la resistencia a reducciones de DEF y ESP de todos los aliados, y reduce el daño físico y mágico que infligen humanos y máquinas durante 5 turnos",
+        "Meningkatkan DEF dan SPR, dan resistansi terhadap efek pengurangan DEF dan SPR, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis manusia dan mesin selama 5 giliran",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการ\u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aจักรกล\u001aเป็นเวลา\u001a \u001a5\u001a \u001aเทิร์น\u001a"
+    ],
+    "100031306": [
+        "Boost DEF and SPR and resistance to reductions to DEF and SPR for all allies, and reduce physical and magic damage dealt by humans and machina monsters for five turns",
+        "提高全體隊員的防禦精神+提高降低防禦精神的耐性+5回合內減少來自人機械系魔物的物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+방어력과 정신력 감소 저항력 상승+5턴 동안 인간과 기계형 마물에게 받는 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY de tous les alliés et augmente leur résistance aux malus de DEF et de PSY, et réduit les dégâts physiques et magiques infligés par les humains et les machines pendant 5 tours",
+        "Erhöht ABW sowie PSY aller Verbündeten, erhöht ihre Resistenz gegen ABW- sowie PSY-Schwächungen und verringert fünf Runden lang physischen und magischen Schaden durch Menschen und Maschinenmonster.",
+        "Aumenta la DEF, el ESP y la resistencia a reducciones de DEF y ESP de todos los aliados, y reduce el daño físico y mágico que infligen humanos y máquinas durante 5 turnos",
+        "Meningkatkan DEF dan SPR, dan resistansi terhadap efek pengurangan DEF dan SPR, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis manusia dan mesin selama 5 giliran",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aand\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการ\u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aจักรกล\u001aเป็นเวลา\u001a \u001a5\u001a \u001aเทิร์น\u001a"
+    ],
+    "100031307": [
+        "Boost DEF and SPR and resistance to reductions to DEF and SPR for all allies, and reduce physical and magic damage dealt by humans and machina monsters for five turns",
+        "提高全體隊員的防禦精神+提高降低防禦精神的耐性+5回合內減少來自人機械系魔物的物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+방어력과 정신력 감소 저항력 상승+5턴 동안 인간과 기계형 마물에게 받는 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY de tous les alliés et augmente leur résistance aux malus de DEF et de PSY, et réduit les dégâts physiques et magiques infligés par les humains et les machines pendant 5 tours",
+        "Erhöht ABW sowie PSY aller Verbündeten, erhöht ihre Resistenz gegen ABW- sowie PSY-Schwächungen und verringert fünf Runden lang physischen und magischen Schaden durch Menschen und Maschinenmonster.",
+        "Aumenta la DEF, el ESP y la resistencia a reducciones de DEF y ESP de todos los aliados, y reduce el daño físico y mágico que infligen humanos y máquinas durante 5 turnos",
+        "Meningkatkan DEF dan SPR, dan resistansi terhadap efek pengurangan DEF dan SPR, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis manusia dan mesin selama 5 giliran",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aand\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการ\u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aจาก\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aจักรกล\u001aเป็นเวลา\u001a \u001a5\u001a \u001aเทิร์น\u001a"
     ],
     "201000104": [
         "Deal light damage to all enemies",
@@ -14058,6 +14148,36 @@
         "Reduce ATQ, DEF, MAG y ESP de todos los enemigos y aumenta ATQ, DEF, MAG y ESP de todos los aliados",
         "Mengurangi ATK, DEF, MAG, dan SPR semua musuh, serta meningkatkan ATK, DEF, MAG, dan SPR semua teman",
         "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "251000105": [
+        "Damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
+        "攻擊全體敵人+降低全屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛 어둠속성 저항력 감소",
+        "Dégâts sur tous les ennemis et réduit les rés. élémentaires",
+        "Schaden und alle Res. runter, alle Ziele",
+        "Daña a todos los enemigos y reduce todas sus resistencias elementales",
+        "Memberikan damage dan mengurangi resistansi semua elemen pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "251000106": [
+        "Damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
+        "攻擊全體敵人+降低全屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛 어둠속성 저항력 감소",
+        "Dégâts sur tous les ennemis et réduit les rés. élémentaires",
+        "Schaden und alle Res. runter, alle Ziele",
+        "Daña a todos los enemigos y reduce todas sus resistencias elementales",
+        "Memberikan damage dan mengurangi resistansi semua elemen pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "251000107": [
+        "Damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
+        "攻擊全體敵人+降低全屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛 어둠속성 저항력 감소",
+        "Dégâts sur tous les ennemis et réduit les rés. élémentaires",
+        "Schaden und alle Res. runter, alle Ziele",
+        "Daña a todos los enemigos y reduce todas sus resistencias elementales",
+        "Memberikan damage dan mengurangi resistansi semua elemen pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "253000105": [
         "Boost ATK and MAG for one ally",

@@ -7334,6 +7334,16 @@
         "Meningkatkan HP sebanyak 40%, serta menihilkan status paralyze dan confuse.",
         "เพิ่มค่า\u001a \u001aHP\u001a \u001a40% + ยกเลิกสถานะ Paralyze\u001a \u001aและ\u001a \u001aConfuse\u001a"
     ],
+    "504235120": [
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 20%.",
+        "提高20%HPMP攻擊防禦魔力精神。",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 20% 상승합니다.",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 20 %",
+        "Erhöht LP, MP, ANG, ABW, MAG und PSY um 20%.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 20%.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 20%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a20%"
+    ],
     "504235180": [
         "Boosts MAG by 50% and magic damage against dragons. Not stackable.",
         "提高50%魔力，並且魔法攻擊時提高對龍系魔物的傷害。[無法重複裝備]",
@@ -7485,14 +7495,14 @@
         "เพิ่มค่า\u001a \u001aATK\u001a \u001a20% \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a40% \u001aเมื่อ\u001aถือ\u001aดาบ\u001aใหญ่\u001a"
     ],
     "504235599": [
-        "Boosts MAG by 20%, and boosts magic damage against aquatic monsters.",
-        "提高20%魔力，魔法攻擊時提高對水生系魔物的傷害。",
-        "마력이 20% 상승하고, 마법 공격 시 수중형 마물에게 부여하는 피해량이 상승합니다.",
-        "Augmente la MAGIE de 20 %, et augmente les dégâts magiques infligés aux monstres aquatiques",
-        "Erhöht MAG um 20% und erhöht magischen Schaden gegen Wassermonster.",
-        "Aumenta la MAG un 20% y el daño mágico contra acuáticos.",
-        "Meningkatkan MAG sebanyak 20% dan meningkatkan damage magic terhadap jenis makhluk perairan.",
-        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a20% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a"
+        "Boosts MAG by 20%, and boosts magic damage against aquatic monsters. Not stackable.",
+        "提高20%魔力，魔法攻擊時提高對水生系魔物的傷害。[無法重複裝備]",
+        "마력이 20% 상승하고, 마법 공격 시 수중형 마물에게 부여하는 피해량이 상승합니다 (중복 장착 불가).",
+        "Augmente la MAGIE de 20 %, et augmente les dégâts magiques infligés aux monstres aquatiques. Non cumulable",
+        "Erhöht MAG um 20% und erhöht magischen Schaden gegen Wassermonster. Nicht stapelbar.",
+        "Aumenta la MAG un 20% y el daño mágico contra acuáticos. No acumulable.",
+        "Meningkatkan MAG sebanyak 20% dan meningkatkan damage magic terhadap jenis makhluk perairan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a20% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504235601": [
         "Removes some status effects from one ally or enemy, and removes some status effects and boosts ATK and MAG for caster.",
@@ -7585,24 +7595,64 @@
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aอาวุธ\u001aเมื่อ\u001aถือ\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aด้วย\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504236246": [
-        "Boosts equipment ATK when a single weapon is equipped in both hands, and boosts ATK by 20% when equipped with a large sword.",
-        "雙手只裝備1把武器時武具攻擊提升，並且裝備大劍時提高20%攻擊。",
-        "양손의 장비가 무기 1개일 경우 장비의 공격력이 상승하고, 대검 장착 시 공격력이 20% 상승합니다.",
-        "Augmente l'ATT de l'équipement quand une arme est tenue avec les deux mains, et augmente l'ATT de 20 % quand une épée longue est équipée",
-        "Erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist, und erhöht ANG um 20%, wenn mit einem Großschwert ausgerüstet.",
-        "Aumenta el ATQ del equipo al llevar una sola arma en ambas manos, y aumenta el ATQ un 20% al llevar espada grande.",
-        "Meningkatkan ATK perlengkapan ketika 1 senjata digunakan dengan kedua tangan dan meningkatkan ATK sebanyak 20% ketika pedang besar digunakan.",
-        "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aอาวุธ\u001aเมื่อ\u001aถือ\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aด้วย\u001aสอง\u001aมือ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a20% \u001aเมื่อ\u001aถือ\u001aดาบ\u001aใหญ่\u001a"
+        "Boosts equipment ATK when a single weapon is equipped in both hands, and boosts ATK by 20% when equipped with a large sword. Not stackable.",
+        "雙手只裝備1把武器時武具攻擊提升，並且裝備大劍時提高20%攻擊。[無法重複裝備]",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력이 상승하고, 대검 장착 시 공격력이 20% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de l'équipement quand une arme est tenue avec les deux mains, et augmente l'ATT de 20 % quand une épée longue est équipée. Non cumulable",
+        "Erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist, und erhöht ANG um 20%, wenn mit einem Großschwert ausgerüstet. Nicht stapelbar.",
+        "Aumenta el ATQ del equipo al llevar una sola arma en ambas manos, y aumenta el ATQ un 20% al llevar espada grande. No acumulable.",
+        "Meningkatkan ATK perlengkapan ketika 1 senjata digunakan dengan kedua tangan dan meningkatkan ATK sebanyak 20% ketika pedang besar digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aอาวุธ\u001aเมื่อ\u001aถือ\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aด้วย\u001aสอง\u001aมือ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a20% \u001aเมื่อ\u001aถือ\u001aดาบ\u001aใหญ่\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504236247": [
-        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 30%, and boosts LB gauge fill rate.",
-        "提高30%HPMP攻擊防禦魔力精神，並且提高極限技石對極限技槽的增加量。",
-        "HP, MP, 공격력, 방어력, 마력, 정신력이 30% 상승하고, LB 게이지 효율이 상승합니다.",
-        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 30 %, et augmente le taux de remplissage de la jauge de limite",
-        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 30% und Limitmeter füllt sich schneller.",
-        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 30% y la barra de EL se rellena más rápido.",
-        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 30%, serta meningkatkan kecepatan pengisan bar LB.",
-        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a30% + เพิ่มค่า Fill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a"
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 30%, and boosts LB gauge fill rate. Not stackable.",
+        "提高30%HPMP攻擊防禦魔力精神，並且提高極限技石對極限技槽的增加量。[無法重複裝備]",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 30% 상승하고, LB 게이지 효율이 상승합니다. (중복 장착 불가)",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 30 %, et augmente le taux de remplissage de la jauge de limite. Non cumulable",
+        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 30% und Limitmeter füllt sich schneller. Nicht stapelbar.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 30% y la barra de EL se rellena más rápido. No acumulable.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 30%, serta meningkatkan kecepatan pengisan bar LB. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a30% + เพิ่มค่า Fill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504236270": [
+        "Boosts equipment ATK when a single weapon is equipped in both hands and boosts LB damage. Not stackable.",
+        "雙手只裝備1把武器時武具攻擊提升，並且提高極限技的傷害。[無法重複裝備]",
+        "양손의 장비가 무기 1개일 경우 장비의 공격력이 상승하며, LB 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de l'équipement quand une arme est tenue avec les deux mains, et augmente les dégâts de la limite. Non cumulable.",
+        "Erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist, und erhöht Schaden durch Limitrausch (nicht stapelbar).",
+        "Aumenta el ATQ del equipo al llevar una sola arma en ambas manos y aumenta el daño del EL. No acumulable.",
+        "Meningkatkan ATK perlengkapan ketika 1 senjata digunakan dengan kedua tangan dan meningkatkan damage LB. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aอาวุธ\u001aเมื่อ\u001aถือ\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aด้วย\u001aสอง\u001aมือ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504236272": [
+        "Boosts ATK by 30% and boosts ATK by 40% when equipped with a gun. Not stackable.",
+        "提高30%攻擊，並且裝備火槍時提高40%攻擊。[無法重複裝備]",
+        "공격력이 30% 상승하고, 총 장착 시 공격력이 40% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de 30 % et augmente l'ATT de 40 % quand un pistolet est équipé. Non cumulable.",
+        "Erhöht ANG um 30% und erhöht ANG um 40%, wenn mit einer Schusswaffe ausgerüstet (nicht stapelbar).",
+        "Aumenta el ATQ un 30%, y otro 40% al llevar arma de fuego. No acumulable.",
+        "Meningkatkan ATK sebanyak 30% dan meningkatkan ATK sebanyak 40% ketika senapan digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a30% + เพิ่มค่า ATK\u001a \u001a40% \u001aเมื่อ\u001aถือ\u001aปืน\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504236274": [
+        "Boosts HP by 20% and DEF by 40%, and restores HP every turn. Not stackable.",
+        "提高20%HP、40%防禦，並且每回合恢復HP。[無法重複裝備]",
+        "HP가 20%, 방어력이 40% 상승하고, 매 턴마다 HP를 회복합니다. (중복 장착 불가)",
+        "Augmente les PV de 20 %, la DEF de 40 % et restaure les PV à chaque tour. Non cumulable.",
+        "Erhöht LP um 20% sowie ABW um 40% und regeneriert jede Runde LP (nicht stapelbar).",
+        "Aumenta la VIT un 20% y la DEF un 40%, y recupera VIT cada turno. No acumulable.",
+        "Meningkatkan HP sebanyak 20% dan DEF sebanyak 40%, serta memulihkan HP setiap giliran. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a20% และ DEF\u001a \u001a40% \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aทุก\u001aเทิร์น\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504236276": [
+        "Boosts ATK by 30% when equipped with a gun and HP and MP by 10% when equipped with a hat or clothes.",
+        "裝備火槍時提高30%攻擊，並且裝備帽子衣服時提高10%HPMP。",
+        "총 장착 시 공격력이 30% 상승하고, 모자 또는 옷 장착 시 HP와 MP가 10% 상승합니다.",
+        "Augmente l'ATT de 30 % quand un pistolet est équipé, et augmente les PV et les PM de 10 % quand un chapeau ou des vêtements sont équipés",
+        "Erhöht ANG um 30%, wenn mit einer Schusswaffe ausgerüstet , erhöht LP und MP um 10%, wenn mit Hut oder Kleidung ausgerüstet.",
+        "Aumenta el ATQ un 30% al llevar arma de fuego y la VIT y los PM un 10% al llevar sombrero o ropa.",
+        "Meningkatkan ATK sebanyak 30% ketika senapan digunakan, serta meningkatkan HP dan MP sebanyak 10% ketika topi atau pakaian digunakan.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a30% \u001aเมื่อ\u001aถือ\u001aปืน\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a10% \u001aเมื่อ\u001aสวม\u001aหมวก\u001aหรือ\u001aเสื้อผ้า\u001aต่างๆ\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",
