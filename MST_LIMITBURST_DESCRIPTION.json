@@ -10129,6 +10129,16 @@
         "Memberikan damage yang menembus sebagian DEF pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "207000127": [
+        "Deal partial unmitigated damage to all enemies",
+        "對全體敵人發動無視部分防禦的攻擊",
+        "적 전체에 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos",
+        "Memberikan damage yang menembus sebagian DEF pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "207000204": [
         "Deal partial unmitigated damage to all enemies",
         "對全體敵人發動無視部分防禦的攻擊",
@@ -10258,6 +10268,16 @@
         "Daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia a fuego, viento y oscuridad, aumenta el daño de ciertas habilidades del usuario y el usuario aprende Triple límite durante 3 turnos",
         "Memberikan damage yang menembus sebagian DEF, mengurangi resistansi api, angin, dan kegelapan, meningkatkan damage ability tertentu, serta memungkinkan penggunaan Triple Limit selama 3 giliran",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aลม\u001a \u001aและ\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aTriple\u001a \u001aLimit\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+    ],
+    "207000527": [
+        "Deal partial unmitigated damage and reduce fire resistance for all enemies, and boost ATK, add fire element to physical attack, and enable triple limit for five turns for caster",
+        "對全體敵人發動無視部分防禦的攻擊+降低火屬性耐性+提高自身的攻擊+將物理攻擊賦予火屬性+5回合內可使用「T極限」",
+        "적 전체에 일부 방어 무시 피해+불속성 저항력 감소+자신의 공격력 상승+자신의 물리 공격에 불속성 부여+5턴 동안 'T리미트' 사용 가능",
+        "Inflige des dégâts en partie fixes à tous les ennemis et réduit leur résistance au feu, augmente l'ATT du lanceur, ajoute l'élément feu à ses attaques physiques, et lui permet d'utiliser Triple transcendance pendant 5 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuerresistenz, erhöht ANG des Benutzers, fügt seinem physischen Angriff Feuerelement hinzu und ermöglicht ihm fünf Runden lang die Anwendung von Dreifach-Limit.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia al fuego, aumenta el ATQ del usuario, añade elemento fuego a sus ataques físicos y aprende Triple límite durante 5 turnos",
+        "Memberikan damage yang menembus sebagian DEF dan mengurangi resistansi api pada semua musuh, meningkatkan ATK dan menambahkan elemen api pada serangan fisik diri sendiri, serta memungkinkan penggunaan Triple Limit selama 5 giliran",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001aทั้งหมด\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aธาตุ\u001aไฟ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aTriple\u001a \u001aLimit\u001a \u001aได้\u001a \u001a5\u001a \u001aเทิร์น\u001a"
     ],
     "207000605": [
         "Deal partial unmitigated damage to all enemies, boost own physical damage against avian monsters, and enable triple limit for three turns",
@@ -10408,6 +10428,36 @@
         "Daño crítico a un enemigo",
         "Memberikan critical damage pada satu musuh",
         "สร้าง\u001a \u001aCritical\u001a \u001aDamage\u001a \u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "207001205": [
+        "Deal partial unmitigated damage to one enemy and activate reload next turn",
+        "對1名敵人發動無視部分防禦的攻擊+下一回合發動「填彈」",
+        "적 1명에게 일부 방어 무시 피해+다음 턴에 '리로드' 발동",
+        "Inflige des dégâts en partie fixes à un ennemi et active Rechargement au prochain tour",
+        "Fügt einem Gegner teilweise direkten Schaden zu und aktiviert in der nächsten Runde Nachladen (FFVII REMAKE).",
+        "Daño que ignora parcialmente la DEF de un enemigo y activa Recarga al turno siguiente",
+        "Memberikan damage yang menembus sebagian DEF pada satu musuh dan mengaktifkan Reload pada giliran berikutnya",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aใช้\u001a \u001aบรรจุ\u001aกระสุน\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+    ],
+    "207001206": [
+        "Deal partial unmitigated damage to one enemy and activate reload next turn",
+        "對1名敵人發動無視部分防禦的攻擊+下一回合發動「填彈」",
+        "적 1명에게 일부 방어 무시 피해+다음 턴에 '리로드' 발동",
+        "Inflige des dégâts en partie fixes à un ennemi et active Rechargement au prochain tour",
+        "Fügt einem Gegner teilweise direkten Schaden zu und aktiviert in der nächsten Runde Nachladen (FFVII REMAKE).",
+        "Daño que ignora parcialmente la DEF de un enemigo y activa Recarga al turno siguiente",
+        "Memberikan damage yang menembus sebagian DEF pada satu musuh dan mengaktifkan Reload pada giliran berikutnya",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aใช้\u001a \u001aบรรจุ\u001aกระสุน\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+    ],
+    "207001207": [
+        "Deal partial unmitigated damage to one enemy and activate reload next turn",
+        "對1名敵人發動無視部分防禦的攻擊+下一回合發動「填彈」",
+        "적 1명에게 일부 방어 무시 피해+다음 턴에 '리로드' 발동",
+        "Inflige des dégâts en partie fixes à un ennemi et active Rechargement au prochain tour",
+        "Fügt einem Gegner teilweise direkten Schaden zu und aktiviert in der nächsten Runde Nachladen (FFVII REMAKE).",
+        "Daño que ignora parcialmente la DEF de un enemigo y activa Recarga al turno siguiente",
+        "Memberikan damage yang menembus sebagian DEF pada satu musuh dan mengaktifkan Reload pada giliran berikutnya",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aใช้\u001a \u001aบรรจุ\u001aกระสุน\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
     ],
     "207001305": [
         "Reduce ATK, DEF, MAG, SPR, and lightning resistance for all enemies",
@@ -10608,6 +10658,26 @@
         "Daña a un enemigo, y daña a todos los enemigos y reduce su resistencia al fuego",
         "Memberikan damage pada satu musuh, serta memberikan damage dan mengurangi resistansi api pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aและ\u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001aทั้งหมด\u001a"
+    ],
+    "207002207": [
+        "Restore HP, cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and revive and fully restore all allies, and activate I'll take care of 'em! and I'll show you what I can do next turn",
+        "恢復全體隊員的HP+治療中毒失明睡眠沉默麻痺混亂生病石化狀態+從無法戰鬥狀態中完全復活+下一回合發動「交給我吧！」「得讓你見識一下我的厲害」",
+        "아군 전체의 HP 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+전투불능 상태 모두 회복+다음 턴에 '나한테 맡겨!'와 '멋진 모습 보여줘야지' 발동",
+        "Restaure les PV, guérit poison, cécitée, sommeil, silence, paralysie, confusion, maladie et pétrification, recussite et restaure entièrement les PV de tous les alliés, et active Je vais m'en occuper ! et Je vais te montrer ce que je sais faire ! au prochain tour",
+        "Regeneriert LP, heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein für alle Verbündeten, belebt alle Verbündeten wieder und regeneriert vollständig deren LP und aktiviert Überlass das mir! und Jetzt zeig ich euch, was ich kann! in der nächsten Runde.",
+        "Recupera VIT de todos los aliados, les cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, los revive y recupera por completo su VIT, y activa ¡Ahora te vas a enterar! y ¡Verás de lo que soy capaz! al turno siguiente",
+        "Memulihkan HP, menyembuhkan status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify, menghidupkan kembali dan memulihkan seluruh HP semua teman, serta mengaktifkan Akan kutangani mereka! dan Akan kutunjukkan kemampuanku pada giliran berikutnya",
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001a+\u001a \u001aรักษา\u001aสถานะ\u001a \u001aCure\u001a,\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001a+\u001a \u001aคืนชีพ\u001aและ\u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aทุกราย\u001aเต็มที่\u001a \u001a+\u001a \u001aใช้\u001a \u001aให้\u001aฉัน\u001aจัดการ\u001aเอง\u001a!\u001a \u001aและ\u001a \u001aได้เวลา\u001aโชว์\u001aทีเด็ด\u001aแล้ว\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+    ],
+    "207002217": [
+        "Deal fire, ice, and lightning damage to all enemies, and enable cetra firaga+, cetra blizzaga+, and cetra thundaga+ for four turns",
+        "對全體敵人發動火冰雷屬性攻擊+4回合內可使用「賽特拉・大火焰+」「賽特拉・大暴雪+」「賽特拉・大雷電+」",
+        "적 전체에 불, 얼음, 번개속성 피해+4턴 동안 '세트라 파이가+', '세트라 블리자가+', '세트라 선더가+' 사용 가능",
+        "Inflige des dégâts de feu, de glace et de foudre à tous les ennemis, et permet d'utiliser Méga-Feu + des Cétras, Méga-Glace + des Cétras, Méga-Foudre + des Cétras pendant 4 tours",
+        "Fügt allen Gegnern Feuer-, Eis- sowie Blitzschaden zu und ermöglicht vier Runden lang Feuga der Cetra+, Eisga der Cetra+ und Blitzga der Cetra+.",
+        "Daño de fuego, hielo y rayo a todos los enemigos y aprende Piro++ de los Cetra II, Hielo++ de los Cetra II y Electro++ de los Cetra II durante 4 turnos",
+        "Memberikan damage api, es, dan petir pada semua musuh, serta memungkinkan penggunaan Cetra Firaga+, Cetra Blizzaga+, dan Cetra Thundaga+ selama 4 giliran",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aCetra\u001a \u001aFiraga\u001a+,\u001a \u001aCetra\u001a \u001aBlizzaga\u001a+\u001a \u001aและ\u001a \u001aCetra\u001a \u001aThundaga\u001a+\u001a \u001aได้\u001a \u001a4\u001a \u001aเทิร์น\u001a"
     ],
     "208000105": [
         "Deal partial unmitigated damage to one enemy",
@@ -14151,8 +14221,8 @@
     ],
     "251000105": [
         "Damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
-        "攻擊全體敵人+降低全屬性耐性",
-        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛 어둠속성 저항력 감소",
+        "攻擊全體敵人+降低火冰雷水風土光暗屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
         "Dégâts sur tous les ennemis et réduit les rés. élémentaires",
         "Schaden und alle Res. runter, alle Ziele",
         "Daña a todos los enemigos y reduce todas sus resistencias elementales",
@@ -14161,8 +14231,8 @@
     ],
     "251000106": [
         "Damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
-        "攻擊全體敵人+降低全屬性耐性",
-        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛 어둠속성 저항력 감소",
+        "攻擊全體敵人+降低火冰雷水風土光暗屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
         "Dégâts sur tous les ennemis et réduit les rés. élémentaires",
         "Schaden und alle Res. runter, alle Ziele",
         "Daña a todos los enemigos y reduce todas sus resistencias elementales",
@@ -14171,8 +14241,8 @@
     ],
     "251000107": [
         "Damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies",
-        "攻擊全體敵人+降低全屬性耐性",
-        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛 어둠속성 저항력 감소",
+        "攻擊全體敵人+降低火冰雷水風土光暗屬性耐性",
+        "적 전체에 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
         "Dégâts sur tous les ennemis et réduit les rés. élémentaires",
         "Schaden und alle Res. runter, alle Ziele",
         "Daña a todos los enemigos y reduce todas sus resistencias elementales",
@@ -21389,6 +21459,16 @@
         "Memberikan damage yang menembus sebagian DEF pada satu musuh, serta memungkinkan penggunaan Charged Limit, Bimbingan Lifestream, dan Triple Limit selama 3 giliran",
         "เพิ่ม\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aให้\u001aกับ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aCharged\u001a \u001aLimit\u001a,\u001a \u001aLifestream\u001a \u001aนำทาง\u001a \u001aและ\u001a \u001aTriple\u001a \u001aLimit\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
     ],
+    "900000351": [
+        "Deal partial unmitigated damage and reduce fire, wind, and dark resistance for all enemies, boost damage of certain abilities, and enable triple limit for four turns",
+        "對全體敵人發動無視部分防禦的攻擊+降低火風暗屬性耐性+提高特定能力的傷害+4回合內可使用「T極限」",
+        "적 전체에 일부 방어 무시 피해+불, 바람, 어둠속성 저항력 감소+특정 어빌리티의 피해량 상승+4턴 동안 'T리미트' 사용 가능",
+        "Inflige des dégâts en partie fixes et réduit la résistance au feu, au vent et aux ténèbres de tous les ennmis, augmente les dégâts de certaines aptitudes et permet d'utiliser Triple transcendance pendant 4 tours",
+        "Fügt allen Gegnern teilweise direkten Schaden zu, verringert ihre Feuer-, Wind- und Dunkelresistenz, erhöht Schaden bestimmter Fertigkeiten und ermöglicht vier Runden lang Dreifach-Limit.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia a fuego, viento y oscuridad, y aprende Triple límite durante 4 turnos",
+        "Memberikan damage yang menembus sebagian DEF dan mengurangi resistansi api, angin, dan kegelapan pada semua musuh, meningkatkan damage ability tertentu, dan memungkinkan penggunaan Triple Limit selama 4 giliran",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aลม\u001aและ\u001aมืด\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aTriple\u001a \u001aLimit\u001a \u001aได้\u001a \u001a4\u001a \u001aเทิร์น\u001a"
+    ],
     "900000352": [
         "Boost ATK, DEF, MAG, and SPR, activate barrier, and boost LB gauge fill rate for all allies",
         "提高全體隊員的攻擊防禦魔力精神+賦予屏障效果+提高極限技石對自身極限技槽的增加量",
@@ -21458,6 +21538,16 @@
         "Aumenta la MAG del usuario, reduce la DEF y el ESP de todos los enemigos y les inflige daño mágico que ignora parcialmente su ESP",
         "Meningkatkan MAG diri sendiri, serta mengurangi DEF dan SPR, dan memberikan damage magic yang menembus sebagian SPR pada semua musuh",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001aของ\u001aตัวเอง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "900000379": [
+        "Deal partial unmitigated damage to one enemy",
+        "對1名敵人發動無視部分防禦的攻擊",
+        "적 1명에게 일부 방어 무시 피해",
+        "Dégâts en partie fixes sur un ennemi",
+        "Teilweise direkter Schaden, ein Ziel",
+        "Daño que ignora parcialmente la DEF de un enemigo",
+        "Memberikan damage yang menembus sebagian DEF pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "905000102": [
         "Stores limit burst experience fused",
