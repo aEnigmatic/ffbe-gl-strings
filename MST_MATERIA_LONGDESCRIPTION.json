@@ -120,14 +120,14 @@
         "ค่อยๆ\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504010130": [
-        "Removes all status effects for one enemy.",
-        "解除1名敵人的狀態效果。",
-        "적 1명의 능력치 효과를 해제합니다.",
-        "Retire tous les bonus d'un ennemi.",
+        "Removes some status effects from one enemy.",
+        "解除1名敵人的部分狀態數值效果。",
+        "적 1명의 일부 능력치 효과를 해제합니다.",
+        "Dissipe certains effets de statut d'un ennemi.",
         "Entfernt alle positiven Zustände eines Gegners.",
-        "Elimina todas las mejoras de un enemigo.",
-        "Menghilangkan semua efek perubahan status dari satu musuh.",
-        "กำจัด\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aทั้งหมด\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Elimina algunos cambios de estado de un enemigo.",
+        "Menghilangkan beberapa efek perubahan status dari satu musuh.",
+        "ยกเลิก\u001aสถานะ\u001aที่\u001aส่งผล\u001aต่อ\u001aสเตตัส\u001aบางส่วน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504010140": [
         "Cures disease for one ally.",
@@ -2356,7 +2356,7 @@
         "Dégâts qui ignorent en partie la DEF et retire tous les bonus pour tous les ennemis.",
         "Fügt allen Gegnern Schaden zu, der teilweise die Abwehr umgeht und entfernt alle Statuseffekte.",
         "Daño absoluto parcial y elimina los estados beneficiosos de los enemigos.",
-        "Memberikan damage yang mengabaikan sebagian DEF dan menghilangkan semua efek perubahan status dari semua musuh.",
+        "Memberikan damage yang mengabaikan sebagian DEF dan menghilangkan beberapa efek perubahan status dari semua musuh.",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aร่าย\u001aเวทย์\u001a \u001aDispel\u001a \u001aกับ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "504205650": [
@@ -6905,14 +6905,14 @@
         "เพิ่ม\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a35% + เพิ่ม ATK\u001a \u001aเมื่อ\u001a \u001aHP\u001a \u001aอยู่\u001aเหนือกว่า\u001aเกณฑ์\u001aกำหนด\u001a \u001a+\u001a \u001aเพิ่ม\u001aสเตตัส\u001aเมื่อ\u001aติดตั้ง\u001a \u001aFenrir\u001a \u001a30% \u001a"
     ],
     "504233760": [
-        "Removes all status effects from all enemies and all allies, and deals partial unmitigated damage to all enemies.",
-        "解除全體敵人和隊員的所有狀態效果，並對全體敵人發動無視部分防禦的攻擊。",
-        "적과 아군 전체의 모든 능력치 효과를 해제하고 적 전체에 일부 방어 무시 피해를 줍니다.",
+        "Removes some status effects from all enemies and all allies, and deals partial unmitigated damage to all enemies.",
+        "解除全體敵人和隊員的部分狀態數值效果，並對全體敵人發動無視部分防禦的攻擊。",
+        "적과 아군 전체의 일부 능력치 효과를 해제하고 적 전체에 일부 방어 무시 피해를 줍니다.",
         "Dissipe les effets de statut de tous les ennemis et tous les alliés, et inflige des dégâts en partie fixes à tous les ennemis.",
         "Entfernt alle Statuseffekte von allen Gegnern und allen Verbündeten und fügt allen Gegnern teilweise direkten Schaden zu.",
-        "Elimina todas las mejoras y cambios de estado de todos los enemigos y aliados, e inflige daño que ignora parcialmente la DEF de todos los enemigos",
-        "Menghilangkan semua efek perubahan status dari semua musuh dan teman, serta memberikan damage yang mengabaikan sebagian DEF pada semua musuh.",
-        "กำจัด\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aทุกอย่าง\u001aไป\u001aจาก\u001aศัตรู\u001aและ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทก\u001aราย\u001a"
+        "Elimina algunos cambios de estado de todos los enemigos y aliados, e inflige daño que ignora parcialmente la DEF de todos los enemigos",
+        "Menghilangkan beberapa efek perubahan status dari semua musuh dan teman, serta memberikan damage yang mengabaikan sebagian DEF pada semua musuh.",
+        "ยกเลิก\u001aสถานะ\u001aที่\u001aส่งผล\u001aต่อ\u001aสเตตัส\u001aบางส่วน\u001aของ\u001aศัตรู\u001aและ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทก\u001aราย\u001a"
     ],
     "504233761": [
         "Boosts ATK by 40% and another 20% when equipped with clothes, and chance of activating allure after receiving a physical attack. Not stackable.",
@@ -6935,14 +6935,14 @@
         "เพิ่ม\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a40% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504233769": [
-        "Chance of removing some status effects or status boosts from all enemies.",
-        "一定機率解除全體敵人的部分狀態效果或部分提高狀態數值的效果",
+        "Chance of removing some status effects or positive status effects from all enemies.",
+        "一定機率解除全體敵人的部分狀態數值效果或部分提高狀態數值的效果。",
         "일정 확률로 적 전체의 일부 능력치 효과 또는 능력치 상승 효과를 해제합니다.",
         "Confère une chance de dissiper certains effets de statut ou certains bonus de tous les ennemis.",
         "Chance, einige Statuseffekte oder Werteerhöhungen von allen Gegnern zu entfernen.",
         "Probabilidad de eliminar algunos cambios de estado o mejoras de todos los enemigos.",
         "Peluang untuk menghilangkan beberapa efek perubahan status atau efek peningkatan status dari semua musuh.",
-        "มีโอกาส\u001aกำจัด\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aบางส่วน\u001aหรือ\u001aการ\u001aเพิ่มค่า\u001aสเตตัส\u001aไป\u001aจาก\u001aศัตรู\u001aทุกราย\u001a"
+        "มีโอกาส\u001aยกเลิก\u001aสถานะ\u001aที่\u001aส่งผล\u001aต่อ\u001aสเตตัส\u001aหรือ\u001aเพิ่มค่า\u001aสเตตัส\u001aบางส่วน\u001aไป\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "504233770": [
         "Reduces ATK and MAG and chance of charming one enemy.",
@@ -9093,5 +9093,25 @@
         "Aumenta el ATQ y la MAG un 60% al llevar un arma de elemento hielo. No acumulable.",
         "Meningkatkan ATK dan MAG sebanyak 60% ketika senjata elemen es digunakan. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a60% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aอาวุธ\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000135": [
+        "Boosts ATK by 80%, boosts equipment ATK when armed with two one-handed weapons, and reduces MP consumed by certain abilities. Not stackable.",
+        "提高80%攻擊，並且裝備2把單手武器時武具攻擊提升，以及減少特定能力消耗的MP。[無法重複裝備]",
+        "공격력이 80% 상승하고, 한손용 무기 2개 장착 시 장비의 공격력이 상승하며, 특정 어빌리티 소비 MP가 감소합니다. (중복 장착 불가)",
+        "Augmente l'ATT de 80 %, augmente l'ATT de l'équipement quand deux armes à une main sont équipées, et réduit les PM consommés par certaines aptitudes. Non cumulable.",
+        "Erhöht ANG um 80%, erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet, und verringert MP-Verbrauch bestimmter Fertigkeiten. Nicht stapelbar.",
+        "Aumenta el ATQ un 80%, aumenta el ATQ del equipo al llevar 2 armas de una sola mano y reduce el consumo de PM de determinadas habilidades. No acumulable.",
+        "Meningkatkan ATK sebanyak 80%, meningkatkan ATK perlengkapan ketika 2 senjata satu tangan digunakan, dan mengurangi jumlah konsumsi MP ability tertentu. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aby\u001a \u001a80% + เพิ่มค่า ATK\u001a \u001aของ\u001aอาวุธ\u001aเมื่อ\u001aถือ\u001aอาวุธ\u001aสำหรับ\u001aถือ\u001aมือ\u001aเดียว\u001a \u001a2\u001a \u001aชิ้น\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001aโดย\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000136": [
+        "Boosts SPR by 80% and boosts equipment SPR when a single weapon is equipped in both hands. Not stackable.",
+        "提高80%精神，並且雙手只裝備1把武器時武具精神提升。[無法重複裝備]",
+        "정신력이 80% 상승하고, 양손의 장비가 무기 1개일 경우 장비의 정신력이 상승합니다. (중복 장착 불가)",
+        "Augmente la PSY de 80 %, et augmente la PSY de l'équipement quand une arme est tenue avec les deux mains. Non cumulable.",
+        "Erhöht PSY um 80% und erhöht Ausrüstung-PSY, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta el ESP un 80% y aumenta el ESP del equipo al llevar una sola arma en ambas manos. No acumulable.",
+        "Meningkatkan SPR sebanyak 80% dan meningkatkan SPR perlengkapan ketika 1 senjata digunakan dengan kedua tangan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001a80% \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001aของ\u001aอาวุธ\u001aเมื่อ\u001aถือ\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aด้วย\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ]
 }
