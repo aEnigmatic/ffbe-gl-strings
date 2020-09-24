@@ -26024,7 +26024,7 @@
         "Ses résistances au feu et au vent lui ont été retirées",
         "Seine Feuer und Wind Resistenz wurde gestohlen",
         "Se ha desactivado su res. al fuego y al viento",
-        "Ia tak lagi memiliki resistansi api dan angin.",
+        "Ia tidak lagi memiliki resistansi api dan angin.",
         "พลัง\u001aธาตุ\u001aไฟ\u001aและ\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aหาย\u001aไป\u001aแล้ว\u001a"
     ],
     "174620": [
@@ -44672,7 +44672,7 @@
         "La baisse de mana le rend fou !",
         "Sein Mana schwindet und es verfällt in Raserei!",
         "¡Se ha debilitado y está enloquecido!",
-        "Ia mengamuk tetapi kekuatannya memudar!",
+        "Ia mengamuk, tapi kekuatannya memudar!",
         "ศัตรู\u001aยัง\u001aอาละวาด\u001aอยู่\u001a \u001aแต่ก่อน\u001aกำลัง\u001aแล้ว\u001a!\u001a"
     ],
     "192930": [
@@ -68883,12 +68883,16 @@
         "Semburan Paralisis",
         "Para-breath\u001a"
     ],
-    "214799": {
-        "0": "Blizzard Breath",
-        "1": "暴雪吐息",
-        "6": "Semburan Es",
-        "7": "ลมหายใจ\u001aพายุ\u001aน้ำแข็ง\u001a"
-    },
+    "214799": [
+        "Blizzard Breath",
+        "暴雪吐息",
+        "빙결의 숨결",
+        "Souffle de glace",
+        "Eissturmatem",
+        "Aliento de hielo",
+        "Semburan Es",
+        "ลมหายใจ\u001aพายุ\u001aน้ำแข็ง\u001a"
+    ],
     "214800": [
         "Stone Gas",
         "石化瓦斯",
@@ -100630,15 +100634,155 @@
         "Ledakan Sonik",
         "Sonic\u001a \u001aBoom\u001a"
     ],
+    "218336": [
+        "Structural Shift - Sun",
+        "構造變化・陽",
+        "구조 변화·양",
+        "Changement de matière - Lumière",
+        "Wandelbare Struktur - Yang",
+        "Cambio estructural - Sol",
+        "Perubahan Struktur - Matahari",
+        "แปรเปลี่ยน\u001aโครงสร้าง\u001a \u001a-\u001a \u001aธาตุ\u001aหยาง\u001a"
+    ],
+    "218337": [
+        "Structural Shift - Shadow",
+        "構造變化・陰",
+        "구조 변화·음",
+        "Changement de matière - Ombre",
+        "Wandelbare Struktur - Yin",
+        "Cambio estructural - Sombra",
+        "Perubahan Struktur - Bayangan",
+        "แปรเปลี่ยน\u001aโครงสร้าง\u001a \u001a-\u001a \u001aธาตุ\u001aหยิน\u001a"
+    ],
     "218338": [
         "Clod",
         "土塊",
         "흙덩이",
-        "Pelletée",
+        "Frappe de terre",
         "Erdklumpen",
         "Masa de tierra",
         "Bongkahan",
-        "Clod\u001a"
+        "กลุ่ม\u001aก้อนดิน\u001a"
+    ],
+    "218339": [
+        "Call of the Labyrinth",
+        "來自迷宮的誘惑",
+        "미궁으로의 초대",
+        "Appel du labyrinthe",
+        "Lockruf des Labyrinths",
+        "Llamada laberíntica",
+        "Panggilan Labirin",
+        "เสียง\u001aเรียก\u001aแห่ง\u001aเขาวงกต\u001a"
+    ],
+    "218340": [
+        "Silver Hammer",
+        "白銀鐵槌",
+        "백은의 철퇴",
+        "Marteau en argent",
+        "Silberhammer",
+        "Martillo de plata",
+        "Palu Perak",
+        "ค้อน\u001aสี\u001aเงิน\u001a"
+    ],
+    "218341": [
+        "The silver hammer rains down!",
+        "白銀鐵槌接連而降！",
+        "백은의 철퇴가 쏟아진다!",
+        "Le marteau en argent s'abat frénétiquement !",
+        "Silberhämmer regnen herab!",
+        "¡El martillo de plata desciende!",
+        "Palu perak berhamburan jatuh!",
+        "ฝน\u001aแห่ง\u001aค้อน\u001aสี\u001aเงิน\u001aพรั่งพรู\u001aลงมา\u001aแล้ว\u001a"
+    ],
+    "218342": [
+        "Illusion",
+        "幻影",
+        "일루전",
+        "Illusion",
+        "Illusion",
+        "Ilusión",
+        "Ilusi",
+        "ภาพลวงตา\u001a"
+    ],
+    "218343": [
+        "Set Trap",
+        "設置陷阱",
+        "트럼프 세트",
+        "Piège amorcé",
+        "Falle gestellt",
+        "Preparar trampa",
+        "Siapkan Perangkap",
+        "กาง\u001aกับดัก\u001a"
+    ],
+    "218344": [
+        "Release Trap",
+        "陷阱解除",
+        "트럼프 해제",
+        "Piège désamorcé",
+        "Falle aufgehoben",
+        "Liberar trampa",
+        "Lepaskan Perangkap",
+        "ปลด\u001aกับดัก\u001a"
+    ],
+    "218345": [
+        "Activate Trap - Anti-Lightning",
+        "陷阱發動・對雷",
+        "트럼프 발동·번개 대적",
+        "Piège déclenché - Anti-foudre",
+        "Falle auslösen - Anti-Blitz",
+        "Activar trampa - Antirrayo",
+        "Aktifkan Perangkap - Anti-Petir",
+        "เปิด\u001aใช้\u001aกับดัก\u001a \u001a-\u001a \u001aกัน\u001aอสนี\u001a"
+    ],
+    "218346": [
+        "Activate Trap - Anti-Fire",
+        "陷阱發動・對火",
+        "트럼프 발동·불 대적",
+        "Piège déclenché - Anti-feu",
+        "Falle auslösen - Anti-Feuer",
+        "Activar trampa - Antifuego",
+        "Aktifkan Perangkap - Anti-Api",
+        "เปิด\u001aใช้\u001aกับดัก\u001a \u001a-\u001a \u001aกัน\u001aอัคคี\u001a"
+    ],
+    "218347": [
+        "Activate Trap - Anti-Light",
+        "陷阱發動・對光",
+        "트럼프 발동·빛 대적",
+        "Piège déclenché - Anti-lumière",
+        "Falle auslösen - Anti-Licht",
+        "Activar trampa - Antiluz",
+        "Aktifkan Perangkap - Anti-Cahaya",
+        "เปิด\u001aใช้\u001aกับดัก\u001a \u001a-\u001a \u001aกัน\u001aแสงสว่าง\u001a"
+    ],
+    "218348": [
+        "Soil Card Magic",
+        "穢土卡牌魔術",
+        "소일 카드 매직",
+        "Magie de la carte de terre",
+        "Erdkartenmagie",
+        "Magia de carta de tierra",
+        "Soil Card Magic",
+        "เวทย์\u001aไพ่\u001aปฐพี\u001a"
+    ],
+    "218349": [
+        "Wind Card Magic",
+        "颶風卡牌魔術",
+        "윈드 카드 매직",
+        "Magie de la carte de vent",
+        "Windkartenmagie",
+        "Magia de carta de viento",
+        "Wind Card Magic",
+        "เวทย์\u001aไพ่\u001aวาตะ\u001a"
+    ],
+    "218350": [
+        "Water Card Magic",
+        "流水卡牌魔術",
+        "워터 카드 매직",
+        "Magie de la carte d'eau",
+        "Wasserkartenmagie",
+        "Magia de carta de agua",
+        "Water Card Magic",
+        "เวทย์\u001aไพ่\u001aวารี\u001a"
     ],
     "218351": [
         "Marksmanship",
@@ -106770,6 +106914,16 @@
         "Fingersnap",
         "ปลุก\u001aจาก\u001aห้วง\u001aฝัน\u001a"
     ],
+    "219105": [
+        "Demonic Windswept Flash",
+        "魔・鬼風閃",
+        "마·귀풍섬",
+        "Éclat de tempête démoniaque",
+        "Windgepeitschter Dämonenblitz",
+        "Destello demoníaco de viento",
+        "Demonic Windswept Flash",
+        "ประกาย\u001aวิญญาณ\u001aมาร\u001aวาตะ\u001aกรรโชก\u001a"
+    ],
     "219106": [
         "Fierce Goddess’ Stance",
         "鬼神姿態",
@@ -106809,6 +106963,16 @@
         "Providencia en ruinas",
         "Kehancuran Takdir",
         "ทลาย\u001aบัญชา\u001aสวรรค์\u001a"
+    ],
+    "219110": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Sammelt Kraft der Schatten!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
     ],
     "219111": [
         "Infinite Cosmos",
@@ -106850,14 +107014,16 @@
         "Karma",
         "Karma\u001a"
     ],
-    "219115": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "219115": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        "Souffle de feu",
+        "Feueratem",
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
     "219116": [
         "Banishga",
         "強放逐",
@@ -106877,6 +107043,16 @@
         "Luto eterno",
         "Penyesalan Abadi",
         "อาลัย\u001aไม่\u001aสิ้นสุด\u001a"
+    ],
+    "219118": [
+        "Fire & Light Ruin",
+        "火光崩落",
+        "화광 붕괴",
+        "Cataclysme de feu et de lumière",
+        "Ruin des Feuers und des Lichts",
+        "Decadencia de fuego y luz",
+        "Kehancuran Api & Cahaya",
+        "ทลาย\u001aอัคคี\u001aแสง\u001a"
     ],
     "219119": [
         "Chain of Gold",
@@ -106908,6 +107084,26 @@
         "Impuls Berantai",
         "ปรารถนา\u001aแห่ง\u001aผู้\u001aหลุด\u001aจองจำ\u001a"
     ],
+    "219122": [
+        "Focusing the power of shadow! (Light)",
+        "暗之力開始集中！・光",
+        "검은 힘이 모이고 있다!·빛",
+        "Canalisation du pouvoir des ténèbres ! (Lumière)",
+        "Bündelt die Macht der Schatten! (Licht)",
+        "¡Está concentrando el poder tenebroso! (Luz)",
+        "Kekuatan kegelapan berkumpul! (Cahaya)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aแสง\u001a)\u001a"
+    ],
+    "219123": [
+        "Focusing the power of shadow! (Fire)",
+        "暗之力開始集中！・火",
+        "검은 힘이 모이고 있다!·불",
+        "Canalisation du pouvoir des ténèbres ! (Feu)",
+        "Dunkelmacht verdichtet sich! (Feuer)",
+        "¡Está concentrando el poder tenebroso! (Fuego)",
+        "Kekuatan kegelapan berkumpul! (Api)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aไฟ\u001a)\u001a"
+    ],
     "219124": [
         "Divine Judgment",
         "神聖審判",
@@ -106928,6 +107124,16 @@
         "Api Kebangkitan",
         "เปลวเพลิง\u001aคืนชีพ\u001a"
     ],
+    "219126": [
+        "Dark Clutch",
+        "暗之爪牙",
+        "어둠의 마수",
+        "Étreinte obscure",
+        "Dunkelumklammerung",
+        "Garras oscuras",
+        "Cengkeraman Kegelapan",
+        "กรงเล็บ\u001aมืด\u001aขย้ำ\u001a"
+    ],
     "219127": [
         "Frigid Blade",
         "冰霧之劍",
@@ -106947,6 +107153,16 @@
         "Oscuridad divisoria",
         "Kegelapan Pembelah",
         "ความมืด\u001aแบ่งแยก\u001a"
+    ],
+    "219129": [
+        "Ice & Dark Ruin",
+        "冰暗崩落",
+        "빙암 붕괴",
+        "Cataclysme de ténèbres et de glace",
+        "Ruin des Eises und des Dunkels",
+        "Decadencia de hielo y oscuridad",
+        "Kehancuran Es & Kegelapan",
+        "ทลาย\u001aน้ำแข็ง\u001aมืด\u001a"
     ],
     "219130": [
         "Blackout",
@@ -107038,6 +107254,16 @@
         "Rolet Kematian",
         "Roulette\u001a \u001aof\u001a \u001aDeath\u001a"
     ],
+    "219139": [
+        "Focusing the power of shadow! (Ice)",
+        "暗之力開始集中！・冰",
+        "검은 힘이 모이고 있다!·얼음",
+        "Canalisation du pouvoir des ténèbres ! (Glace)",
+        "Dunkelmacht! (Eis)",
+        "¡Está concentrando el poder tenebroso! (Hielo)",
+        "Kekuatan kegelapan berkumpul! (Es)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aน้ำแข็ง\u001a)\u001a"
+    ],
     "219140": [
         "Blizzard Hurricane",
         "狂風暴雪",
@@ -107098,6 +107324,16 @@
         "Hantaman Halilintar Menyeluruh",
         "All-Lightning\u001a \u001aCrash\u001a"
     ],
+    "219146": [
+        "Fire & Lightning Ruin",
+        "火雷崩落",
+        "화전 붕괴",
+        "Cataclysme de feu et de foudre",
+        "Ruin des Feuers und des Blitzes",
+        "Decadencia de fuego y rayo",
+        "Kehancuran Api & Petir",
+        "ทลาย\u001aอัคคี\u001aอสนี\u001a"
+    ],
     "219147": [
         "Its flames are growing!",
         "火焰變得更猛烈了",
@@ -107138,6 +107374,16 @@
         "Cakar Kemurkaan",
         "Fury\u001a \u001aClaw\u001a"
     ],
+    "219151": [
+        "Focusing the power of shadow! (Fire)",
+        "暗之力開始集中！・火",
+        "검은 힘이 모이고 있다!·불",
+        "Canalisation du pouvoir des ténèbres ! (Feu)",
+        "Dunkelmacht verdichtet sich! (Feuer)",
+        "¡Está concentrando el poder tenebroso! (Fuego)",
+        "Kekuatan kegelapan berkumpul! (Api)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aไฟ\u001a)\u001a"
+    ],
     "219152": [
         "Focusing the power of shadow! (Lightning)",
         "暗之力開始集中！・雷",
@@ -107168,6 +107414,16 @@
         "Petir Penghakiman",
         "Judgment\u001a \u001aBolt\u001a"
     ],
+    "219155": [
+        "Hailing Ice",
+        "冰雹衝擊",
+        "얼음 팔매치기",
+        "Grêle glaçante",
+        "Eiskiesel",
+        "Granizo",
+        "Hujan Es",
+        "ก้อน\u001aน้ำแข็ง\u001aมหึมา\u001a"
+    ],
     "219156": [
         "Shadow Strike",
         "黑之一擊",
@@ -107178,6 +107434,16 @@
         "Shadow Strike",
         "Shadow\u001a \u001aStrike\u001a"
     ],
+    "219157": [
+        "Hailstorm",
+        "冰雹風暴",
+        "우박 폭풍",
+        "Tempête de grêle",
+        "Hagelsturm",
+        "Granizada",
+        "Badai Hujan Es",
+        "วายุ\u001aลูกเห็บ\u001a"
+    ],
     "219158": [
         "Shadow Impact",
         "暗影衝擊",
@@ -107187,6 +107453,16 @@
         "Impacto sombrío",
         "Hantaman Bayangan",
         "Shadow\u001a \u001aImpact\u001a"
+    ],
+    "219159": [
+        "Ice & Dark Ruin",
+        "冰暗崩落",
+        "빙암 붕괴",
+        "Cataclysme de ténèbres et de glace",
+        "Ruin des Eises und des Dunkels",
+        "Decadencia de hielo y oscuridad",
+        "Kehancuran Es & Kegelapan",
+        "ทลาย\u001aน้ำแข็ง\u001aมืด\u001a"
     ],
     "219160": [
         "Osmose",
@@ -107217,6 +107493,16 @@
         "Disparo de granizo",
         "Shooting Hail",
         "Shooting\u001a \u001aHail\u001a"
+    ],
+    "219163": [
+        "Focusing the power of shadow! (Ice)",
+        "暗之力開始集中！・冰",
+        "검은 힘이 모이고 있다!·얼음",
+        "Canalisation du pouvoir des ténèbres ! (Glace)",
+        "Dunkelmacht! (Eis)",
+        "¡Está concentrando el poder tenebroso! (Hielo)",
+        "Kekuatan kegelapan berkumpul! (Es)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aน้ำแข็ง\u001a)\u001a"
     ],
     "219164": [
         "Focusing the power of shadow! (Dark)",
@@ -107288,6 +107574,16 @@
         "Dark Waterga",
         "Dark\u001a \u001aWaterga\u001a"
     ],
+    "219171": [
+        "Water & Wind Ruin",
+        "水風崩落",
+        "수풍 붕괴",
+        "Cataclysme d'eau et de vent",
+        "Ruin des Wassers und des Windes",
+        "Decadencia de agua y viento",
+        "Kehancuran Air & Angin",
+        "ทลาย\u001aวารี\u001aวาตะ\u001a"
+    ],
     "219172": [
         "Song of Stupefaction",
         "昏迷之歌",
@@ -107328,6 +107624,16 @@
         "Kekuatan kegelapan berkumpul! (Air)",
         "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aน้ำ\u001a)\u001a"
     ],
+    "219176": [
+        "Focusing the power of shadow! (Wind)",
+        "暗之力開始集中！・風",
+        "검은 힘이 모이고 있다!·바람",
+        "Canalisation du pouvoir des ténèbres ! (Vent)",
+        "Dunkelmacht verdichtet sich! (Wind)",
+        "¡Está concentrando el poder tenebroso! (Viento)",
+        "Kekuatan kegelapan berkumpul! (Angin)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(ลม)\u001a"
+    ],
     "219177": [
         "Drowning Voice",
         "溺亡之聲",
@@ -107358,6 +107664,16 @@
         "Tinju Tangan Raksasa",
         "Gigantic\u001a \u001aFist\u001a"
     ],
+    "219180": [
+        "Radiant Punch",
+        "光輝之拳",
+        "빛의 주먹",
+        "Poing lumineux",
+        "Funkelschlag",
+        "Puñetazo radiante",
+        "Radiant Punch",
+        "หมัด\u001aแผ่รัศมี\u001a"
+    ],
     "219181": [
         "Severe Earthquake",
         "劇震",
@@ -107377,6 +107693,16 @@
         "Sacramento radiante",
         "Sakramen Bercahaya",
         "ประกาย\u001aเพลิง\u001aศักดิ์สิทธิ์\u001a"
+    ],
+    "219183": [
+        "Earth & Light Ruin",
+        "土光崩落",
+        "토광 붕괴",
+        "Cataclysme de terre et de lumière",
+        "Ruin der Erde und des Lichts",
+        "Decadencia de tierra y luz",
+        "Kehancuran Tanah & Cahaya",
+        "ทลาย\u001aปฐพี\u001aแสง\u001a"
     ],
     "219184": [
         "Gigantic Growth",
@@ -107408,6 +107734,26 @@
         "Stone Rapture",
         "Stone\u001a \u001aRapture\u001a"
     ],
+    "219187": [
+        "Focusing the power of shadow! (Earth)",
+        "暗之力開始集中！・土",
+        "검은 힘이 모이고 있다!·땅",
+        "Canalisation du pouvoir des ténèbres ! (Terre)",
+        "Dunkelmacht verdichtet sich! (Erde)",
+        "¡Está concentrando el poder tenebroso! (Tierra)",
+        "Kekuatan kegelapan berkumpul! (Tanah)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aดิน\u001a)\u001a"
+    ],
+    "219188": [
+        "Focusing the power of shadow! (Light)",
+        "暗之力開始集中！・光",
+        "검은 힘이 모이고 있다!·빛",
+        "Canalisation du pouvoir des ténèbres ! (Lumière)",
+        "Bündelt die Macht der Schatten! (Licht)",
+        "¡Está concentrando el poder tenebroso! (Luz)",
+        "Kekuatan kegelapan berkumpul! (Cahaya)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aแสง\u001a)\u001a"
+    ],
     "219189": [
         "Gaia's Wrath",
         "大地之怒",
@@ -107418,24 +107764,106 @@
         "Kemurkaan Gaia",
         "Gaia\u001a'\u001as\u001a \u001aWrath\u001a"
     ],
+    "219190": [
+        "Shadow Super Physical Attack - Light",
+        "暗之力超攻擊・光",
+        "검은 힘의 거센 물리 공격·빛",
+        "Attaque supraphysique obscure - Lumière",
+        "Dunkel-Superphysischer Angriff (Licht)",
+        "Superataque físico tenebroso - Luz",
+        "Serangan Fisik Kegelapan Super - Cahaya",
+        "ยอด\u001aท่า\u001aจู่โจม\u001aเงา\u001aพลัง\u001aกายภาพ\u001a \u001a-\u001a \u001aแสง\u001a"
+    ],
     "219191": [
         "Flames",
         "火炎",
         "화염",
         "Souffle de feu",
-        "Feueratem",
+        "Flammen",
         "Aliento de fuego",
         "Nyala Api",
         "Flames\u001a"
     ],
-    "219196": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "219192": [
+        "All-Flames",
+        "全體火炎",
+        "전체 화염",
+        "Souffle de feu total",
+        "Omni-Flammen",
+        "Aliento de fuego a todos",
+        "Kobaran Api Menyeluruh",
+        "All-Flames\u001a"
+    ],
+    "219193": [
+        "Domain Under Fire",
+        "降火領域",
+        "불속성 하락의 영역",
+        "Domaine de feu",
+        "Zone der Feuerpein",
+        "Dominios del fuego",
+        "Zona Api",
+        "โลก\u001aใต้\u001aไฟ\u001a"
+    ],
+    "219194": [
+        "Scorch",
+        "焚燒殆盡",
+        "불태우기",
+        "Brûlure",
+        "Versengen",
+        "Chamusquina",
+        "Hanguskan",
+        "แผดเผา\u001aมอดไหม้\u001a"
+    ],
+    "219195": [
+        "Focusing the power of shadow! (Fire)",
+        "暗之力開始集中！・火",
+        "검은 힘이 모이고 있다!·불",
+        "Canalisation du pouvoir des ténèbres ! (Feu)",
+        "Dunkelmacht verdichtet sich! (Feuer)",
+        "¡Está concentrando el poder tenebroso! (Fuego)",
+        "Kekuatan kegelapan berkumpul! (Api)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aไฟ\u001a)\u001a"
+    ],
+    "219196": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        "Souffle de feu",
+        "Feueratem",
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
+    "219197": [
+        "Hailing Ice",
+        "冰雹衝擊",
+        "얼음 팔매치기",
+        "Grêle glaçante",
+        "Eiskiesel",
+        "Granizo",
+        "Hujan Es",
+        "ก้อน\u001aน้ำแข็ง\u001aมหึมา\u001a"
+    ],
+    "219198": [
+        "Hailstorm",
+        "冰雹風暴",
+        "우박 폭풍",
+        "Tempête de grêle",
+        "Hagelsturm",
+        "Granizada",
+        "Badai Hujan Es",
+        "วายุ\u001aลูกเห็บ\u001a"
+    ],
+    "219199": [
+        "Domain Under Ice",
+        "降冰領域",
+        "얼음속성 하락의 영역",
+        "Domaine de glace",
+        "Zone der Eispein",
+        "Dominios del hielo",
+        "Zona Es",
+        "โลก\u001aใต้\u001aน้ำแข็ง\u001a"
+    ],
     "219200": [
         "Paralyze Blade",
         "麻痺劍",
@@ -107445,6 +107873,26 @@
         "Espada paralizadora",
         "Paralyze Blade",
         "Paralyze\u001a \u001aBlade\u001a"
+    ],
+    "219201": [
+        "Focusing the power of shadow! (Ice)",
+        "暗之力開始集中！・冰",
+        "검은 힘이 모이고 있다!·얼음",
+        "Canalisation du pouvoir des ténèbres ! (Glace)",
+        "Dunkelmacht! (Eis)",
+        "¡Está concentrando el poder tenebroso! (Hielo)",
+        "Kekuatan kegelapan berkumpul! (Es)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aน้ำแข็ง\u001a)\u001a"
+    ],
+    "219202": [
+        "Shadow Physical Attack - Ice",
+        "暗之力攻撃・冰",
+        "검은 공격·얼음",
+        "Attaque ombraphysique - Glace",
+        "Physischer Angriff der Schatten - Eis",
+        "Ataque físico tenebroso - Hielo",
+        "Serangan Fisik Kegelapan - Es",
+        "โจมตี\u001aกายภาพ\u001aเงา\u001a \u001a-\u001a \u001aน้ำแข็ง\u001a"
     ],
     "219203": [
         "Dark Water",
@@ -107496,6 +107944,16 @@
         "Kekuatan kegelapan berkumpul! (Air)",
         "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aน้ำ\u001a)\u001a"
     ],
+    "219208": [
+        "Super Magic Attack - Water",
+        "超魔撃・水",
+        "초강력 마법 공격·물",
+        "Attaque supramagique obscure - Eau",
+        "Supermagischer Angriff (Wasser)",
+        "Superataque mágico - Agua",
+        "Serangan Magic Super - Air",
+        "สุดยอด\u001aโจมตี\u001aเวทย์\u001a \u001a-\u001a \u001aน้ำ\u001a"
+    ],
     "219209": [
         "Stone Toss",
         "投石",
@@ -107535,6 +107993,16 @@
         "Mirada petrificante",
         "Tatapan Batu",
         "Stone\u001a \u001aGaze\u001a"
+    ],
+    "219213": [
+        "Focusing the power of shadow! (Earth)",
+        "暗之力開始集中！・土",
+        "검은 힘이 모이고 있다!·땅",
+        "Canalisation du pouvoir des ténèbres ! (Terre)",
+        "Dunkelmacht verdichtet sich! (Erde)",
+        "¡Está concentrando el poder tenebroso! (Tierra)",
+        "Kekuatan kegelapan berkumpul! (Tanah)",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a \u001a(\u001aดิน\u001a)\u001a"
     ],
     "219214": [
         "Magnitude 8",
@@ -116185,6 +116653,136 @@
         "Vacío infinito",
         "Kehampaan Abadi",
         "ความว่าง\u001aป\u001aล่า\u001aว\u001aไม่\u001aสิ้นสุด\u001a"
+    ],
+    "900709": [
+        "Let's test your abilities!",
+        "來測試你的實力吧！",
+        "네 기술을 시험해보자!",
+        "Testons tes compétences !",
+        "Zeig mir, was du drauf hast!",
+        "¡Veamos de lo que estás hecho!",
+        "Mari kita uji kemampuanmu!",
+        "มา\u001aทดสอบ\u001aความสามารถ\u001aของ\u001aเจ้า\u001aกัน\u001a!\u001a"
+    ],
+    "900710": [
+        "Lux-Overflow",
+        "光輝·滿溢",
+        "빛의 범람",
+        "Lux - Débordement",
+        "Lux-Ausbruch",
+        "Lux plena",
+        "Lux-Overflow",
+        "Lux-Overflow\u001a"
+    ],
+    "900711": [
+        "Aqua-Overflow",
+        "水紋·滿溢",
+        "물의 범람",
+        "Aqua - Débordement",
+        "Aqua-Ausbruch",
+        "Aqua plena",
+        "Aqua-Overflow",
+        "Aqua-Overflow\u001a"
+    ],
+    "900712": [
+        "Gemini Blade",
+        "雙子之劍",
+        "쌍둥이 검",
+        "Épée des Gémeaux",
+        "Gemini-Klinge",
+        "Espada géminis",
+        "Pedang Gemini",
+        "Gemini\u001a \u001aBlade\u001a"
+    ],
+    "900713": [
+        "Star Supernova",
+        "星極超新星",
+        "초신성 폭발",
+        "Étoile supernova",
+        "Sternen-Supernova",
+        "Estrella supernova",
+        "Star Supernova",
+        "ระเบิด\u001aดาราจักร\u001a"
+    ],
+    "900714": [
+        "Aqua Lux Blade",
+        "水之輝刃",
+        "수광검",
+        "Lame aqua-lux",
+        "Aqua-Lux-Klinge",
+        "Espada aqua lux",
+        "Pedang Aqua Lux",
+        "Aqua\u001a \u001aLux\u001a \u001aBlade\u001a"
+    ],
+    "900715": [
+        "Time to show me what you've learned.",
+        "向我展現你的學習成果吧",
+        "네가 배운 것을 보여줄 차례야",
+        "Montre-moi tout ce que tu as appris.",
+        "Zeig mir, was du gelernt hast!",
+        "Demuéstrame qué has aprendido.",
+        "Tunjukkan apa yang telah kau pelajari.",
+        "ได้เวลา\u001aแสดง\u001aสิ่ง\u001aที่\u001aเจ้า\u001aได้\u001aเรียน\u001aมา\u001aแล้ว\u001a"
+    ],
+    "900716": [
+        "Crystal, Shine Bright!",
+        "水晶，光芒閃耀！",
+        "크리스탈이여, 비추어라!",
+        "Que brille le Cristal !",
+        "Leuchte für mich, Kristall!",
+        "¡Cristal, irradia tu luz!",
+        "Kristal, pancarkan cahayamu!",
+        "คริสตัล\u001aเอ๋ย\u001a \u001aจง\u001aฉายแสง\u001a!\u001a"
+    ],
+    "900717": [
+        "Crystal, Purify All!",
+        "水晶，淨化一切！",
+        "크리스탈이여, 정화하라!",
+        "Par la purification du Cristal !",
+        "Läutere sie alle, Kristall!",
+        "¡Cristal, purifícalo todo!",
+        "Kristal, murnikan segalanya!",
+        "คริสตัล\u001aเอ๋ย\u001a \u001aจง\u001aชำระล้าง\u001a!\u001a"
+    ],
+    "900718": [
+        "Refraction",
+        "折射",
+        "굴절",
+        "Réfraction",
+        "Lichtbrechung",
+        "Refracción",
+        "Refraksi",
+        "หักเห\u001aแสง\u001a"
+    ],
+    "900719": [
+        "Revitalizing Strike",
+        "再生猛擊",
+        "회생참",
+        "Coup revitalisant",
+        "Revitalisierender Hieb",
+        "Golpe revitalizador",
+        "Revitalizing Strike",
+        "ท่า\u001aจู่โจม\u001aฟื้น\u001aพลัง\u001a"
+    ],
+    "900720": [
+        "Evildoers Beware",
+        "邪惡之人當心",
+        "악인들이여, 보라!",
+        "Scélérats, prenez garde !",
+        "Schufte, fürchtet euch",
+        "Temed, seres perversos",
+        "Waspadalah, makhluk jahat",
+        "มาร\u001aร้าย\u001aจงระวัง\u001a"
+    ],
+    "900721": [
+        "Prismatic Punishment",
+        "稜彩天罰",
+        "분광의 징벌",
+        "Jugement prismatique",
+        "Prismatische Bestrafung",
+        "Castigo prismático",
+        "Hukuman Prismatik",
+        "สายรุ้ง\u001aลงทัณฑ์\u001a"
     ],
     "900722": [
         "Wind-Up Toy",
