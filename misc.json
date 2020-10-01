@@ -164,9 +164,9 @@
         "※容易發動CHAIN連擊的同系統能力一覽",
         "※ 아래는 선택한 어빌리티와 체인이 발생하기 쉬운 어빌리티 목록입니다.",
         "* Les aptitudes listées ici peuvent facilement effectuer des combos avec l'aptitude sélectionnée",
-        "Hier aufgelistet sind Fertigkeiten, die gut mit der ausgewählten Fertigkeit in einer Kette verwendet werden können.",
+        "* Diese Fertigkeiten eignen sich für Ketten mit der ausgewählten Fertigkeit.",
         "Estas habilidades se encadenan bien con la habilidad seleccionada",
-        "*Ability yang tertera berikut ini akan mempermudah melakukan combo dengan ability yang dipilih.",
+        "*Ability berikut ini akan mempermudah melakukan combo dengan ability yang dipilih.",
         "*\u001aAbility\u001a \u001aดังต่อไปนี้\u001aมีโอกาส\u001aสูง\u001aที่จะ\u001a \u001aChain\u001a \u001aกับ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
     ],
     "ABILITY_DETAIL_ELEMENT_LIST": [
@@ -4396,7 +4396,7 @@
         "Exclusif à equip_cond",
         "Exklusiv für equip_cond",
         "Exclusivo de equip_cond",
-        "Hanya untuk <case=lower>equip_cond</case>",
+        "Khusus equip_cond",
         "อุปกรณ์\u001aติดตั้ง\u001aได้\u001aเฉพาะ\u001aกับ\u001a<case=lower>\u001aequip_cond\u001a</case>\u001aเท่านั้น\u001a"
     ],
     "EQUIP_ITEM_COND_MAN": [
@@ -4526,7 +4526,7 @@
         "Aptitude réservée à certaines unités uniquement.",
         "Fertigkeiten nur für exklusive Einheit(en).",
         "Habilidad exclusiva de unidad específica.",
-        "Ability terbatas hanya untuk unit tertentu.",
+        "Ability terbatas khusus unit tertentu.",
         "Ability\u001a \u001aนี้\u001aใช้ได้\u001aเฉพาะ\u001aกับ\u001aยู\u001aนิ\u001aท\u001aที่\u001aกำหนด\u001aเท่านั้น\u001a"
     ],
     "EQUIP_NG_REQUIRED_EQUIPMENT": [
@@ -4556,7 +4556,7 @@
         "Réservé à un sexe en particulier.",
         "Nach Geschlecht.",
         "Solo para cierto género.",
-        "Hanya untuk gender tertentu.",
+        "Khusus gender tertentu.",
         "อุปกรณ์\u001aนี้\u001aใช้ได้\u001aเฉพาะ\u001aกับ\u001aยู\u001aนิ\u001aท\u001aใน\u001aเพศ\u001aที่\u001aกำหนด\u001aเทา\u001aนั้น\u001a"
     ],
     "EQUIP_NG_SHORTAGE_MAGIC_LV": [
@@ -4576,7 +4576,7 @@
         "Équipement réservé à certaines unités uniquement.",
         "Ausrüstung nur für exklusive Einheit(en).",
         "Equipo exclusivo de unidad específica.",
-        "Perlengkapan terbatas hanya untuk unit tertentu.",
+        "Perlengkapan terbatas khusus unit tertentu.",
         "อุปกรณ์\u001aนี้\u001aใช้ได้\u001aเฉพาะ\u001aกับ\u001aยู\u001aนิ\u001aท\u001aที่\u001aกำหนด\u001aเท่านั้น\u001a"
     ],
     "EQUIP_NG_UNIT_UNMATCH": [
@@ -7451,7 +7451,7 @@
         "上限：剩下  <param=num>/<param=max> 輪",
         "앞으로 <param=num>/<param=max>회",
         "Limite : Reste <param=num>/<param=max>",
-        "Noch<param=num>/<param=max>Mal übrig",
+        "Noch <param=num>/<param=max>Mal übrig",
         "Límite:  <param=num>/<param=max> restante",
         "Batas: Tinggal <param=num>/<param=max>",
         "เหลือ\u001aอีก\u001a:\u001a \u001a<param=num>/<param=max>\u001a \u001aรอบ\u001a"
@@ -10047,16 +10047,10 @@
         "Semua pesan di kotak masuk kecuali pesan yang dilindungi akan dihapus.<br>Lanjutkan?",
         "ลบ\u001aข้อ\u001aความใน\u001aกล่อง\u001aจดหมาย\u001aทั้งหมด\u001aยกเว้น\u001aข้อความ\u001aที่\u001aถูก\u001aคุ้มครอง\u001a<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
     ],
-    "MAIL_DELETE_WARNING": [
-        "*Messages will be deleted within 30 days if not received.",
-        "※郵件將會在收信時間超過30天後自動刪除。",
-        "※메시지는 받은 날로부터 30일 이상 경과하면 삭제됩니다.",
-        "Les messages non reçus dans un délai de 30 jours seront effacés.",
-        "*Nachrichten werden bei Nichterhalt nach 30 Tagen gelöscht.",
-        "*Los mensajes serán borrados en 30 días si no han sido recibidos.",
-        "*Pesan yang belum diterima akan dihapus dalam waktu 30 hari.",
-        "*\u001aข้อความ\u001aจะ\u001aถูก\u001aลบทิ้ง\u001aใน\u001a \u001a30\u001a \u001aวัน\u001a \u001aนับ\u001aจาก\u001aเวลา\u001aที่\u001aข้อความ\u001aเข้าสู่\u001a \u001aInbox\u001a"
-    ],
+    "MAIL_DELETE_WARNING": {
+        "0": null,
+        "7": "<blank>\u001a"
+    },
     "MAIL_DELETE_WARNING_2": [
         "*Messages will be deleted past the protected date below.",
         "※若超過以下保護期間將刪除信件。",
@@ -14278,6 +14272,16 @@
         "Stagger",
         "ภาวะ\u001a \u001aBreak\u001a"
     ],
+    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_306291000": [
+        "Weakened",
+        "弱化中",
+        "능력치 감소",
+        "Affaibli",
+        "Geschwächt",
+        "Debilitado",
+        "Melemah",
+        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
+    ],
     "MST_MONSTER_PARTS_BREAK_DESCRIPTION_310041000": [
         "Weakened",
         "弱化中",
@@ -14289,6 +14293,26 @@
         "ภาวะ\u001aสเตตัส\u001aลด\u001a"
     ],
     "MST_MONSTER_PARTS_BREAK_DESCRIPTION_310041001": [
+        "Weakened",
+        "弱化中",
+        "능력치 감소",
+        "Affaibli",
+        "Geschwächt",
+        "Debilitado",
+        "Melemah",
+        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
+    ],
+    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_311051000": [
+        "Weakened",
+        "弱化中",
+        "능력치 감소",
+        "Affaibli",
+        "Geschwächt",
+        "Debilitado",
+        "Melemah",
+        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
+    ],
+    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_311051001": [
         "Weakened",
         "弱化中",
         "능력치 감소",
@@ -21374,14 +21398,14 @@
         "จำนวน\u001a \u001aLapis\u001a \u001aที่\u001aถือครอง\u001a"
     ],
     "SHOP_MOOGLE_TEXT": [
-        "Don't miss out on the limited time Double EX Point campaign, kupo!",
-        "別錯過期間限定的「EX點數加倍活動」，庫啵！",
-        "기간 한정 'EX 포인트 2배 이벤트'를 놓치지 마쿠포!",
-        "Ne manquez pas la campagne de points EX doublés disponible pour une durée limitée, kupo !",
-        "Verpass nicht die zeitbegrenzte doppelte EX-Punkte-Kampagne, kupo!",
-        "Actualizado el globo de diálogo del moguri para la campaña de doble de puntos EX",
-        "Jangan lewatkan kampanye Poin EX Double waktu terbatas ini, kupo!",
-        "อย่า\u001aพลาด\u001aการ\u001aร่วม\u001aสนุก\u001aกับ\u001aแคมเปญ\u001a \u001aEx\u001a \u001aPt\u001a.\u001a \u001aคูณ\u001aสอง\u001aแบบ\u001aจำกัด\u001aช่วงเวลา\u001aนะ\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
+        "Get EX pts by buying lapis! Those points can get you neat rewards, kupo!",
+        "購買寶石獲得EX點數！這些點數可以讓您獲得特典獎勵，庫啵！",
+        "라피스를 구입하면 EXVIUS 포인트를<br>모을 수 있어쿠포!<br>보유 포인트에 따른 여러가지 특전을<br>획득해봐쿠포~!",
+        "Obtenez des pts EX en achetant des lapis ! Ces points peuvent vous permettre d'obtenir de belles récompenses, kupo !",
+        "Erhalte EX-Pkt., indem du Lapis kaufst! Diese Punkte bringen dir tolle Belohnungen ein, kupo!",
+        "¡Compra lapis y obtén Pts. EX! ¡Estos puntos pueden conseguirte buenas recompensas, kupó!",
+        "Dapatkan pt EX dengan membeli lapis! Kamu dapat memperoleh hadiah yang luar biasa berdasarkan jumlah poin yang kamu miliki, kupo!",
+        "มา\u001aซื้อ\u001a \u001aLapis\u001a \u001aแล้ว\u001aรับ\u001a \u001aEX\u001a \u001aPt\u001a.\u001aกัน\u001a \u001aคุณ\u001aสามารถ\u001aนำ\u001aแต้ม\u001aเหล่านี้\u001aไป\u001aแลก\u001aรางวัล\u001aเจ๋ง\u001aๆ\u001aได้\u001aนะ\u001aคุ\u001aโปะ\u001a!\u001a"
     ],
     "SHOP_NOTICE_END_PERIOD": [
         "The summon period has ended.",

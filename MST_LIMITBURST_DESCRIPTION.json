@@ -12649,6 +12649,16 @@
         "Memberikan damage yang menembus sebagian DEF pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "212000527": [
+        "Deal lightning damage to one enemy",
+        "對1名敵人發動雷屬性攻擊",
+        "적 1명에게 번개속성 피해",
+        "Inflige des dégâts de foudre à un ennemi",
+        "Fügt einem Gegner Blitzschaden zu.",
+        "Daño de rayo a un enemigo",
+        "Memberikan damage petir pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "212000603": [
         "Damage one enemy",
         "攻擊1名敵人",
@@ -13098,6 +13108,56 @@
         "Aumenta el ATQ y la MAG de todos los aliados y aumenta ATQ, DEF, MAG y ESP propios",
         "Meningkatkan ATK dan MAG semua teman, serta meningkatkan ATK, DEF, MAG, dan SPR diri sendiri",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aตัวเอง\u001a"
+    ],
+    "212002207": [
+        "Damage one enemy, and reduce damage taken by all allies for four turns",
+        "攻擊1名敵人+4回合內減少對全體隊員的傷害",
+        "적 1명에게 피해+4턴 동안 아군 전체가 받는 피해량 감소",
+        "Inflige des dégâts à un ennemi et réduit les dégâts subis par tous les alliés pendant 4 tours",
+        "Fügt einem Gegner Schaden zu und verringert vier Runden lang erlittenen Schaden aller Verbündeten.",
+        "Daña a un enemigo y reduce el daño que reciben todos los aliados durante 4 turnos",
+        "Memberikan damage pada satu musuh dan mengurangi damage yang diterima semua teman selama 4 giliran",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aลด\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a4\u001a \u001aเทิร์น\u001a"
+    ],
+    "212002217": [
+        "Deal dark damage to one enemy two times, deal dark damage to all enemies, and reduce damage taken by caster for two turns",
+        "對1名敵人發動2次暗屬性攻擊+對全體敵人發動暗屬性攻擊+2回合內減少對自身的傷害",
+        "적 1명에게 2회 어둠속성 피해+적 전체에 어둠속성 피해+2턴 동안 자신이 받는 피해량 감소",
+        "Inflige des dégâts de ténèbres à un ennemi à deux reprises, inflige des dégâts de ténèbres à tous les ennemis et réduit les dégâts subis par le lanceur pendant 2 tours",
+        "Fügt einem Gegner zweimal Dunkelschaden zu, fügt allen Gegnern Dunkelschaden zu und verringert zwei Runden lang erlittenen Schaden des Benutzers.",
+        "Daño de oscuridad a un enemigo 2 veces, reduce la resistencia a la oscuridad de todos los enemigos, y reduce el daño que recibe el usuario durante 2 turnos",
+        "Memberikan damage kegelapan 2 kali pada satu musuh, memberikan damage kegelapan pada semua musuh, dan mengurangi damage yang diterima diri sendiri selama 2 giliran",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aความเสียหาย\u001aที่\u001aผู้ใช้\u001aได้รับ\u001aเป็นเวลา\u001a \u001a2\u001a \u001aเทิร์น\u001a"
+    ],
+    "212002305": [
+        "Restore HP, gradually restore MP, and activate barrier for all allies, and activate temporary barrier potion next turn",
+        "恢復全體隊員的HP+持續恢復MP+賦予屏障效果+下一回合發動「時間差防壁治療劑」",
+        "아군 전체의 HP 회복+MP 서서히 회복+배리어 부여+다음 턴에 '시간차 배리어 포션' 발동",
+        "Restaure les PV, restaure progressivement les PM, érige une barrière autour de tous les alliés et active Potion de barrière temporaire au prochain tour",
+        "Erhöht LP, regeneriert allmählich MP, aktiviert Barriere für alle Verbündeten und aktiviert nächste Runde Potion der zeitversetzten Barriere.",
+        "Todos los aliados recuperan VIT, recuperan PM poco a poco, activan Barrera y se activa Poción de barrera temporal al turno siguiente",
+        "Memulihkan HP, memulihkan MP secara bertahap, dan mengaktifkan barier pada semua teman, serta mengaktifkan Barier Ramuan Temporer pada giliran berikutnya",
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aAbility\u001a \u001aบาเรีย\u001a \u001aPotion\u001a \u001aชั่วคราว\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+    ],
+    "212002306": [
+        "Restore HP, gradually restore MP, and activate barrier for all allies, and activate temporary barrier potion next turn",
+        "恢復全體隊員的HP+持續恢復MP+賦予屏障效果+下一回合發動「時間差防壁治療劑」",
+        "아군 전체의 HP 회복+MP 서서히 회복+배리어 부여+다음 턴에 '시간차 배리어 포션' 발동",
+        "Restaure les PV, restaure progressivement les PM, érige une barrière autour de tous les alliés et active Potion de barrière temporaire au prochain tour",
+        "Erhöht LP, regeneriert allmählich MP, aktiviert Barriere für alle Verbündeten und aktiviert nächste Runde Potion der zeitversetzten Barriere.",
+        "Todos los aliados recuperan VIT, recuperan PM poco a poco, activan Barrera y se activa Poción de barrera temporal al turno siguiente",
+        "Memulihkan HP, memulihkan MP secara bertahap, dan mengaktifkan barier pada semua teman, serta mengaktifkan Barier Ramuan Temporer pada giliran berikutnya",
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aAbility\u001a \u001aบาเรีย\u001a \u001aPotion\u001a \u001aชั่วคราว\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+    ],
+    "212002307": [
+        "Restore HP, gradually restore MP, and activate barrier for all allies, and activate temporary barrier potion next turn",
+        "恢復全體隊員的HP+持續恢復MP+賦予屏障效果+下一回合發動「時間差防壁治療劑」",
+        "아군 전체의 HP 회복+MP 서서히 회복+배리어 부여+다음 턴에 '시간차 배리어 포션' 발동",
+        "Restaure les PV, restaure progressivement les PM, érige une barrière autour de tous les alliés et active Potion de barrière temporaire au prochain tour",
+        "Erhöht LP, regeneriert allmählich MP, aktiviert Barriere für alle Verbündeten und aktiviert nächste Runde Potion der zeitversetzten Barriere.",
+        "Todos los aliados recuperan VIT, recuperan PM poco a poco, activan Barrera y se activa Poción de barrera temporal al turno siguiente",
+        "Memulihkan HP, memulihkan MP secara bertahap, dan mengaktifkan barier pada semua teman, serta mengaktifkan Barier Ramuan Temporer pada giliran berikutnya",
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aAbility\u001a \u001aบาเรีย\u001a \u001aPotion\u001a \u001aชั่วคราว\u001a \u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
     ],
     "213000105": [
         "Damage and reduce DEF for one enemy",
