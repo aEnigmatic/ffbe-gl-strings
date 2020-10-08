@@ -1191,7 +1191,7 @@
     ],
     "504101200": [
         "Adds chance of countering a physical attack.",
-        "受到物理攻擊時一定機率進行反擊。",
+        "受到物理攻擊時一定機率發動反擊。",
         "물리 공격을 받으면 일정 확률로 반격합니다.",
         "Possibilité de contre-attaquer après une attaque physique.",
         "Chance, dass die Einheit einen physischen Angriff kontert.",
@@ -2251,7 +2251,7 @@
     ],
     "504204940": [
         "Adds chance of dodging a physical attack and countering.",
-        "一定機率閃避物理攻擊並進行反擊。",
+        "一定機率閃避物理攻擊並發動反擊。",
         "일정 확률로 물리 공격을 회피하고, 반격합니다.",
         "Chance d'esquiver les attaques physiques et de contre-attaquer",
         "Die Einheit kontert zu einer gewissen Chance physische Angriffe mit einem Gegenangriff.",
@@ -5516,7 +5516,7 @@
     ],
     "504229341": [
         "Boosts ATK and MAG by 40%, and boosts equipment ATK and MAG when armed with two one-handed weapons. Not stackable.",
-        "提高20%攻擊並提高50%魔力，裝備2把單手武器時武具攻擊提升。 [無法重複裝備]",
+        "提高40%攻擊魔力，以及裝備2把單手武器時武具攻擊提升。[無法重複裝備]",
         "공격력과 마력이 40% 상승하고, 한손용 무기 2개 장착 시 장비의 공격력과 마력이 상승합니다.(중복 장착 불가)",
         "Augmente l'ATT et la MAGIE de 40%, et augmente l'ATT et la MAGIE de l'équipement lorsque deux armes à une main sont équipées. Non cumulable.",
         "Erhöht ANG sowie MAG um 40% und erhöht Ausrüstung-ANG sowie -MAG, wenn mit zwei einhändigen Waffen ausgerüstet. Nicht stapelbar.",
@@ -7784,6 +7784,66 @@
         "Meningkatkan MP sebanyak 50% dan menambahkan peluang untuk mengaktifkan Ether Counter ketika menerima serangan fisik atau magic. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aMP\u001a \u001a50% + มีโอกาสใช้งาน Ability\u001a \u001aEther\u001a \u001aCounter\u001a \u001aเมื่อ\u001aได้รับ\u001aความเสียหาย\u001aทางกายภาพ\u001aหรือ\u001aพลัง\u001aเวทย์\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
+    "504236894": [
+        "Boosts DEF by 40%, and boosts HP by 10% when equipped with a helm or heavy armor.",
+        "提高40%防禦，並且裝備頭盔重鎧甲時提高10%HP。",
+        "방어력이 40% 상승하고, 투구 또는 중갑 장착 시 HP가 10% 상승합니다.",
+        "Augmente la DEF de 40 % et augmente les PV de 10 % quand une armure lourde ou un casque est équipé.",
+        "Erhöht ABW um 40% und erhöht LP 10%, wenn mit einem Helm oder einer schweren Rüstung ausgerüstet.",
+        "Aumenta la DEF un 40%, y aumenta la VIT un 10% al llevar casco o armadura pesada.",
+        "Meningkatkan DEF sebanyak 40% dan meningkatkan HP sebanyak 10% ketika helm atau armor kelas berat digunakan.",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aHP\u001a \u001a10% \u001aเมื่อ\u001aสวม\u001aหมวก\u001aเกราะ\u001aหรือ\u001aชุด\u001aเกราะ\u001aหนัก\u001a"
+    ],
+    "504236895": [
+        "Boosts HP by 15%, MP by 30%, and SPR by 10%.",
+        "提高15%HP、30%MP、10%精神。",
+        "HP가 15%, MP가 30%, 정신력이 10% 상승합니다.",
+        "Augmente les PV de 15 %, les PM de 30 % et la PSY de 10 %.",
+        "Erhöht LP um 15%, MP um 30% und PSY um 10%.",
+        "Aumenta la VIT un 15%, los PM un 30% y el ESP un 10%.",
+        "Meningkatkan HP sebanyak 15%, MP sebanyak 30%, dan SPR sebanyak 10%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a15%,\u001a \u001aMP\u001a \u001a30% \u001aและ\u001a \u001aSPR\u001a \u001a10%"
+    ],
+    "504237060": [
+        "Boosts ATK by 30% when equipped with a sword, axe, or spear, and boosts ATK by 60% when equipped with a bow. Not stackable.",
+        "裝備劍斧長槍時提高30%攻擊，並且裝備弓時提高60%攻擊。[無法重複裝備]",
+        "검, 도끼 또는 창 장착 시 공격력이 30% 상승하고, 활 장착 시 공격력이 60% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT de 30 % quand une épée, une hache ou une lance est équipée, et augmente l'ATT de 60 % quand un arc est équipé. Non cumulable.",
+        "Erhöht ANG um 30%, wenn mit einem Schwert, einer Axt oder einem Speer ausgerüstet und erhöht ANG um 60%, wenn mit einem Bogen ausgerüstet (Nicht stapelbar).",
+        "Aumenta el ATQ un 30% al llevar espada, hacha o lanza, y lo aumenta un 60% al llevar arco. No acumulable.",
+        "Meningkatkan ATK sebanyak 30% ketika pedang, kapak, atau tombak digunakan, dan meningkatkan ATK sebanyak 60% ketika busur digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a30% เมื่อถือดาบ, ขวานหรือหอก + เพิ่มค่า ATK\u001a \u001a60% \u001aเมื่อ\u001aถือ\u001aธนู\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504237063": [
+        "Boosts DEF and SPR by 40%, nullifies poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and boosts LB gauge fill rate. Not stackable.",
+        "提高40%防禦精神，並且中毒失明睡眠沉默麻痺混亂生病石化無效，以及提高極限技石對極限技槽的增加量。[無法重複裝備]",
+        "방어력과 정신력이 40% 상승하고, 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화을 무효화하며, LB 게이지 효율이 상승합니다. (중복 장착 불가)",
+        "Augmente la DEF et la PSY de 40 %, annule poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification, et augmente le taux de remplissage de la limite. Non cumulable.",
+        "Erhöht ABW und PSY um 40%, annulliert Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus sowie Stein und Limitmeter füllt sich schneller (Nicht stapelbar).",
+        "Aumenta la DEF y el ESP un 40%, anula veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra, y la barra de EL se rellena más rápido. No acumulable.",
+        "Meningkatkan DEF dan SPR sebanyak 40%, menihilkan status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify, serta meningkatkan kecepatan pengisian bar LB. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a40% + ยกเลิกสถานะ Poison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aFill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504237065": [
+        "Boosts MP and SPR by 20%, fills LB gauge every turn, and boosts SPR by 30% when equipped with a staff. Not stackable.",
+        "提高20%MP精神，並且每回合增加極限技槽，以及裝備手杖時提高30%精神。[無法重複裝備]",
+        "MP와 정신력이 20% 상승하고, 매 턴마다 LB 게이지가 증가하며, 지팡이 장착 시 정신력이 30% 상승합니다. (중복 장착 불가)",
+        "Augmente les PM et la PSY de 20 %, remplit la jauge de limite à chaque tour, et augmente la PSY de 30 % quand un bâton est équipé. Non cumulable.",
+        "Erhöht MP sowie PSY um 20%, füllt jede Runde Limitmeter und erhöht PSY um 30%, wenn mit einer Rute ausgerüstet (Nicht stapelbar).",
+        "Aumenta los PM y el ESP un 20%, rellena la barra de EL cada turno, y aumenta el ESP un 30% al llevar bastón. No acumulable.",
+        "Meningkatkan MP dan SPR sebanyak 20%, mengisi bar LB setiap giliran, dan meningkatkan SPR sebanyak 30% ketika staff digunakan.",
+        "เพิ่มค่า\u001a \u001aMP\u001a \u001aและ\u001a \u001aSPR\u001a \u001a20% + เติม LB Gauge\u001a \u001aทุก\u001aเทิร์น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a30% \u001aเมื่อ\u001aถือ\u001aไม้เท้า\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504237067": [
+        "Boosts ATK and SPR by 40% when equipped with a bow.  Not stackable.",
+        "裝備弓時提高40%攻擊精神。[無法重複裝備]",
+        "활을 장착하면 공격력과 정신력이 40% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT et la PSY de 40 % quand un arc est équipé. Non cumulable.",
+        "Erhöht ANG sowie PSY um 40%, wenn mit einem Bogen ausgerüstet. Nicht stapelbar.",
+        "Aumenta el ATQ y el ESP un 40% al llevar arco. No acumulable.",
+        "Meningkatkan ATK dan SPR sebanyak 40% ketika busur digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aSPR\u001a \u001a40% \u001aเมื่อ\u001aถือ\u001aธนู\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
     "504400110": [
         "Halves chances of any encounters.",
         "遇敵率減半。",
@@ -8498,7 +8558,7 @@
         "Boosts HP and MP by 20%, and boosts equipment MAG and equipment SPR when a single weapon is equipped in both hands. Not Stackable.",
         "提高20%HPMP，雙手只裝備1把武器時武具魔力和精神提升。[無法重複裝備]",
         "HP와 MP가 20% 상승하고, 양손의 장비가 무기 1개일 경우 장비의 마력과 정신력이 상승합니다. (중복 장착 불가)",
-        "Augmente les PV et PM de 20%, et la MAGIE et la PSY de l'équipement lorsqu'une arme est tenue avec les deux mains. Non cumulable.",
+        "Augmente les PV et PM de 20%, et la MAGIE et la PSY de l'équipement quand une arme est tenue avec les deux mains. Non cumulable.",
         "Erhöht LP und MP um 20% und erhöht Ausrüstung-MAG und Ausrüstung-PSY wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
         "Aumenta la VIT y los PM un 20%, y aumenta MAG y el ESP del equipo al llevar una sola arma en las dos manos (no acumulable).",
         "Meningkatkan HP dan MP sebanyak 20%, serta meningkatkan MAG dan SPR perlengkapan ketika 1 senjata digunakan dengan kedua tangan. Tidak dapat ditumpuk.",

@@ -1779,6 +1779,16 @@
         "Memberikan damage yang menembus sebagian DEF pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "100005927": [
+        "Deal earth damage to one enemy",
+        "對1名敵人發動土屬性攻擊",
+        "적 1명에게 땅속성 피해",
+        "Inflige des dégâts de terre à un ennemi",
+        "Fügt einem Gegner Erdschaden zu.",
+        "Daño de tierra a un enemigo",
+        "Memberikan damage tanah pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "100006003": [
         "Damage one enemy and cast berserk on caster",
         "攻擊1名敵人+對自身施加狂暴效果",
@@ -8004,7 +8014,7 @@
         "對全體敵人發動風屬性攻擊+降低全屬性耐性",
         "적 전체에 바람속성 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
         "Dégâts de vent et réduit toutes les résistances élémentaires de tous les ennemis",
-        "Windschaden und alle Res. runter, alle Ziele",
+        "Fügt allen Gegnern Windschaden zu und verringert all ihre Elementarresistenzen.",
         "Daño de viento a todos los enemigos y reduce todas sus resistencias elementales",
         "Memberikan damage angin dan mengurangi resistansi semua elemen pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
@@ -8014,7 +8024,7 @@
         "對全體敵人發動風屬性攻擊+降低全屬性耐性",
         "적 전체에 바람속성 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
         "Dégâts de vent et réduit toutes les résistances élémentaires de tous les ennemis",
-        "Windschaden und alle Res. runter, alle Ziele",
+        "Fügt allen Gegnern Windschaden zu und verringert all ihre Elementarresistenzen.",
         "Daño de viento a todos los enemigos y reduce todas sus resistencias elementales",
         "Memberikan damage angin dan mengurangi resistansi semua elemen pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
@@ -8024,10 +8034,20 @@
         "對全體敵人發動風屬性攻擊+降低全屬性耐性",
         "적 전체에 바람속성 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소",
         "Dégâts de vent et réduit toutes les résistances élémentaires de tous les ennemis",
-        "Windschaden und alle Res. runter, alle Ziele",
+        "Fügt allen Gegnern Windschaden zu und verringert all ihre Elementarresistenzen.",
         "Daño de viento a todos los enemigos y reduce todas sus resistencias elementales",
         "Memberikan damage angin dan mengurangi resistansi elemen pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "202000527": [
+        "Deal fire damage to one enemy",
+        "對1名敵人發動火屬性攻擊",
+        "적 1명에게 불속성 피해",
+        "Inflige des dégâts de feu à un ennemi",
+        "Fügt einem Gegner Feuerschaden zu.",
+        "Daño de fuego a un enemigo",
+        "Memberikan damage api pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "202001002": [
         "Damage one enemy",
@@ -8138,6 +8158,96 @@
         "Aumenta el ATQ propio, e inflige daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia a la oscuridad",
         "Meningkatkan ATK diri sendiri, serta memberikan damage yang menembus sebagian DEF dan mengurangi resistansi kegelapan pada semua musuh",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aให้\u001aกับ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aกายภาพ\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "202001727": [
+        "Deal partial unmitigated dark damage to one enemy",
+        "對1名敵人發動暗屬性無視部分防禦的攻擊",
+        "적 1명에게 어둠속성 일부 방어 무시 피해",
+        "Inflige des dégâts de ténèbres en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten Dunkelschaden zu.",
+        "Daño de oscuridad que ignora parcialmente la DEF de un enemigo",
+        "Memberikan damage kegelapan yang menembus sebagian DEF pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "202001907": [
+        "Damage one enemy, boost damage of certain abilities, and enable striking lance, leading axe, seizing knife, grand fist, and bashing shield for five turns",
+        "攻擊1名敵人+提高特定能力的傷害+5回合內可使用「矚目槍」「領頭斧」「俘獲刀」「巨拳」「盾牌猛擊」",
+        "적 1명에게 피해+특정 어빌리티의 피해량 상승+5턴 동안 '브러시 랜스', '리드 액스', '시즈 나이프', '그랜드 피스트', '실드 배시' 사용 가능",
+        "Inflige des dégâts à un ennemi, augmente les dégâts de certaines aptitudes et permet d'utiliser Lance offensive, Hachage en deux temps, Couteau délimiteur, Poing revigorant et Bouclier paralysant pendant 5 tours",
+        "Fügt einem Gegner Schaden zu, erhöht Schaden bestimmter Fertigkeiten und ermöglicht fünf Runden lang Stechende Lanze, Axt des Anführers, Packendes Messer, Große Faust und Schmetterndes Schild.",
+        "Daña a un enemigo, aumenta el daño de determinadas habilidades, y aprende Lanzapuntiaguda, Hacha de mando, Cuchillo justiciero, Megapuñetazo y Escudo aporreador durante 5 turnos",
+        "Memberikan damage pada satu musuh dan memungkinkan penggunaan Tombak Penyerang, Kapak Pemimpin, Pisau Penyergap, Tinju Penguasa, dan Perisai Penghancur selama 5 giliran",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aหอก\u001aจู่โจม\u001a,\u001a \u001aขวาน\u001aผ่า\u001aนำ\u001a,\u001a \u001aมีด\u001aคว้า\u001aจับ\u001a,\u001a \u001aหมัด\u001aผู้ยิ่งใหญ่\u001a \u001aและ\u001a \u001aโล่\u001aทุบ\u001aทำลาย\u001a \u001aได้\u001a \u001a5\u001a \u001aเทิร์น\u001a"
+    ],
+    "202001917": [
+        "Boost own physical damage against avian monsters and damage one enemy",
+        "賦予自身物理攻擊時提高對鳥系魔物的傷害+攻擊1名敵人",
+        "자신에게 물리 공격 시 조류형 마물에 대한 피해량 상승 효과 부여+적 1명에게 피해",
+        "Augmente les dégâts physiques du lanceur infligés aux oiseaux et inflige des dégâts à un ennemi",
+        "Erhöht physischen Angriff des Benutzers gegen Vogelmonster und fügt einem Gegner Schaden zu.",
+        "Aumenta el ataque del usuario contra aves y daña a un enemigo",
+        "Meningkatkan damage fisik diri sendiri terhadap makhluk bersayap dan memberikan damage pada satu musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "202002105": [
+        "Damage all enemies, gradually restore HP and MP for all allies, and automatically revive all allies one time",
+        "攻擊全體敵人+持續恢復全體隊員的HPMP+賦予自動復活1次的效果",
+        "적 전체에 피해+아군 전체의 HP와 MP 서서히 회복+아군 전체에 전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige des dégâts à tous les ennemis, restaure progressivement les PV et les PM de tous les alliés et ranime automatiquement tous les alliés 1 fois",
+        "Fügt allen Gegnern Schaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt diese einmal wieder.",
+        "Daña a todos los enemigos, recupera VIT y PM de todos los aliados poco a poco y revive automáticamente a todos los aliados una vez",
+        "Memberikan damage pada semua musuh, memulihkan HP dan MP semua teman secara bertahap, dan menghidupkan kembali semua teman secara otomatis satu kali",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "202002106": [
+        "Damage all enemies, gradually restore HP and MP for all allies, and automatically revive all allies one time",
+        "攻擊全體敵人+持續恢復全體隊員的HPMP+賦予自動復活1次的效果",
+        "적 전체에 피해+아군 전체의 HP와 MP 서서히 회복+아군 전체에 전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige des dégâts à tous les ennemis, restaure progressivement les PV et les PM de tous les alliés et ranime automatiquement tous les alliés 1 fois",
+        "Fügt allen Gegnern Schaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt diese einmal wieder.",
+        "Daña a todos los enemigos, recupera VIT y PM de todos los aliados poco a poco y revive automáticamente a todos los aliados una vez",
+        "Memberikan damage pada semua musuh, memulihkan HP dan MP semua teman secara bertahap, dan menghidupkan kembali semua teman secara otomatis satu kali",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "202002107": [
+        "Damage all enemies, gradually restore HP and MP for all allies, and automatically revive all allies one time",
+        "攻擊全體敵人+持續恢復全體隊員的HPMP+賦予自動復活1次的效果",
+        "적 전체에 피해+아군 전체의 HP와 MP 서서히 회복+아군 전체에 전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Inflige des dégâts à tous les ennemis, restaure progressivement les PV et les PM de tous les alliés et ranime automatiquement tous les alliés 1 fois",
+        "Fügt allen Gegnern Schaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt diese einmal wieder.",
+        "Daña a todos los enemigos, recupera VIT y PM de todos los aliados poco a poco y revive automáticamente a todos los aliados una vez",
+        "Memberikan damage pada semua musuh, memulihkan HP dan MP semua teman secara bertahap, dan menghidupkan kembali semua teman secara otomatis satu kali",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "202002205": [
+        "Consume caster's HP to damage all enemies",
+        "消耗自身的HP對全體敵人發動攻擊",
+        "자신의 HP를 소비하여 적 전체에 피해",
+        "Consomme les PV du lanceur pour infliger des dégâts à tous les ennemis",
+        "Verbraucht LP des Benutzers, um allen Gegnern Schaden zuzufügen.",
+        "Consume VIT del usuario para dañar a todos los enemigos",
+        "Menggunakan HP diri sendiri untuk memberikan damage pada semua musuh",
+        "ใช้\u001a \u001aHP\u001a \u001aของ\u001aตัวเอง\u001aเพื่อ\u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "202002206": [
+        "Consume caster's HP to damage all enemies",
+        "消耗自身的HP對全體敵人發動攻擊",
+        "자신의 HP를 소비하여 적 전체에 피해",
+        "Consomme les PV du lanceur pour infliger des dégâts à tous les ennemis",
+        "Verbraucht LP des Benutzers, um allen Gegnern Schaden zuzufügen.",
+        "Consume VIT del usuario para dañar a todos los enemigos",
+        "Menggunakan HP diri sendiri untuk memberikan damage pada semua musuh",
+        "ใช้\u001a \u001aHP\u001a \u001aของ\u001aตัวเอง\u001aเพื่อ\u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "202002207": [
+        "Consume caster's HP to damage all enemies",
+        "消耗自身的HP對全體敵人發動攻擊",
+        "자신의 HP를 소비하여 적 전체에 피해",
+        "Consomme les PV du lanceur pour infliger des dégâts à tous les ennemis",
+        "Verbraucht LP des Benutzers, um allen Gegnern Schaden zuzufügen.",
+        "Consume VIT del usuario para dañar a todos los enemigos",
+        "Menggunakan HP diri sendiri untuk memberikan damage pada semua musuh",
+        "ใช้\u001a \u001aHP\u001a \u001aของ\u001aตัวเอง\u001aเพื่อ\u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "203000105": [
         "Damage and reduce DEF for all enemies and boost ATK for all allies",
@@ -18076,7 +18186,7 @@
         "Inflige des dégâts magiques de lumière à tous les ennemis, restaure progressivement les PV et PM de tous les alliés, et ranime automatiquement tous les alliés une fois",
         "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
         "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez",
-        "Memberikan damage magic cahaya pada semua musuh, memulihkan HP dan MP semua teman secara bertahap, serta menghidupkan kembali semua teman secara otomatis 1 kali",
+        "Memberikan damage magic cahaya pada semua musuh, serta memulihkan HP dan MP secara bertahap dan menghidupkan kembali semua teman secara otomatis 1 kali",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
     ],
     "337000306": [
@@ -18086,7 +18196,7 @@
         "Inflige des dégâts magiques de lumière à tous les ennemis, restaure progressivement les PV et PM de tous les alliés, et ranime automatiquement tous les alliés une fois",
         "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
         "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez",
-        "Memberikan damage magic cahaya pada semua musuh, memulihkan HP dan MP semua teman secara bertahap, serta menghidupkan kembali semua teman secara otomatis 1 kali",
+        "Memberikan damage magic cahaya pada semua musuh, serta memulihkan HP dan MP secara bertahap dan menghidupkan kembali semua teman secara otomatis 1 kali",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
     ],
     "337000307": [
@@ -18096,7 +18206,7 @@
         "Inflige des dégâts magiques de lumière à tous les ennemis, restaure progressivement les PV et PM de tous les alliés, et ranime automatiquement tous les alliés une fois",
         "Füglt allen Gegnern magischen Lichtschaden zu, regeneriert allmählich LP und MP aller Verbündeten und belebt alle Verbündeten einmal automatisch wieder.",
         "Daño mágico de luz a todos los enemigos, recupera poco a poco VIT y PM de todos los aliados y revive automáticamente a todos los aliados una vez",
-        "Memberikan damage magic cahaya pada semua musuh, memulihkan HP dan MP semua teman secara bertahap, serta menghidupkan kembali semua teman secara otomatis 1 kali",
+        "Memberikan damage magic cahaya pada semua musuh, serta memulihkan HP dan MP secara bertahap dan menghidupkan kembali semua teman secara otomatis 1 kali",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
     ],
     "337000405": [
@@ -21778,6 +21888,16 @@
         "Daño que ignora parcialmente la DEF de un enemigo",
         "Memberikan damage yang menembus sebagian DEF pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "900000385": [
+        "Boost own ATK, and deal partial unmitigated damage and reduce dark resistance for all enemies",
+        "提高自身的攻擊+對全體敵人發動無視部分防禦的攻擊+降低暗屬性耐性",
+        "자신의 공격력 상승+적 전체에 일부 방어 무시 피해+어둠속성 저항력 감소",
+        "Augmente l'ATT du lanceur, inflige des dégâts en partie fixes à tous les ennemis et réduit leur résistance aux ténèbres",
+        "Erhöht ANG des Benutzers, fügt allen Gegnern teilweise direkten Schaden zu und verringert deren Dunkelresistenz.",
+        "Aumenta el ATQ propio, e inflige daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia a la oscuridad",
+        "Meningkatkan ATK diri sendiri, serta memberikan damage yang menembus sebagian DEF dan mengurangi resistansi kegelapan pada semua musuh",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aให้\u001aกับ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aกายภาพ\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "905000102": [
         "Stores limit burst experience fused",

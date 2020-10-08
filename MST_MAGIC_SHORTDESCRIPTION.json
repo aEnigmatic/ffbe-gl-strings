@@ -210,14 +210,14 @@
         "ฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aใน\u001aทุก\u001aเทิร์น\u001aแก่\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "10130": [
-        "Remove status effects for one enemy",
-        "解除1名敵人的狀態效果",
-        "적 1명의 능력치 효과 해제",
-        "Retire tous les bonus et malus d'un ennemi",
+        "Remove some status effects from one enemy",
+        "解除1名敵人的部分狀態數值效果",
+        "적 1명의 일부 능력치 효과 해제",
+        "Dissipe certains bonus et malus d'un ennemi",
         "Entfernt Statuseffekte eines Gegners.",
-        "Elimina las mejoras y reducciones de estado de un enemigo",
-        "Menghilangkan semua efek perubahan status dari satu musuh",
-        "ยกเลิก\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aทั้งหมด\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Elimina algunos cambios de estado de estado de un enemigo",
+        "Menghilangkan beberapa efek perubahan status dari satu musuh",
+        "ยกเลิก\u001aสถานะ\u001aที่\u001aส่งผล\u001aต่อ\u001aสเตตัส\u001aบางส่วน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "10140": [
         "Cure disease for one ally",
@@ -264,7 +264,7 @@
         "使1名隊員從無法戰鬥狀態中完全復活",
         "아군 1명의 전투불능 상태 모두 회복",
         "Ressuscite et rend tous les PV d'un allié",
-        "Wiederbelebung und vollst. Heilung, ein Verb.",
+        "Belebt einen Verbündeten und regeneriert seine HP vollständig.",
         "Revive a un aliado K.O. y recupera toda su VIT",
         "Menghidupkan kembali dan memulihkan seluruh HP satu teman",
         "คืนชีพ\u001aและ\u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aจน\u001aเต็ม\u001a"
@@ -274,20 +274,20 @@
         "治療全體隊員的中毒失明睡眠沉默麻痺混亂狀態",
         "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란 회복",
         "Soigne poison, cécité, sommeil, silence, paralysie, et confusion pour tous les alliés",
-        "Heilt Gift, Blenden, Schlaf, Stille, Lähmung, Konfus, alle Verb.",
+        "Heilt Gift, Blind, Schlaf, Stille, Lähmung und Konfus für alle Verbündeten.",
         "Cura veneno, ceguera, sueño, silencio, parálisis y confusión de todos los aliados",
         "Menyembuhkan status poison, blind, sleep, silence, paralyze, dan confuse pada semua teman",
         "รักษาการ\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "10200": [
-        "Remove status effects from all enemies",
-        "解除全體敵人的狀態效果",
-        "적 전체의 능력치 효과 해제",
-        "Retire certains effets de statut (bonus ou malus) à tous les ennemis",
-        "Entfernt Statuseffekte von allen Gegnern.",
-        "Elimina las mejoras y reducciones de estado de todos los enemigos",
-        "Menghilangkan semua efek perubahan status dari semua musuh",
-        "ยกเลิก\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aทุกอย่าง\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+        "Remove some status effects from all enemies",
+        "解除全體敵人的部分狀態數值效果",
+        "적 전체의 일부 능력치 효과 해제",
+        "Dissipe certains effets de statut (bonus ou malus) de tous les ennemis",
+        "Entfernt einige Statuseffekte von allen Gegnern.",
+        "Elimina algunos cambios de estado de todos los enemigos",
+        "Menghilangkan beberapa efek perubahan status dari semua musuh",
+        "ยกเลิก\u001aสถานะ\u001aที่\u001aส่งผล\u001aต่อ\u001aสเตตัส\u001aบางส่วน\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "10210": [
         "Deal light damage to one enemy",
@@ -374,7 +374,7 @@
         "恢復全體隊員的HP",
         "아군 전체의 HP 회복",
         "Restaure les PV de tous les alliés",
-        "Heilt LP, alle Verb.",
+        "Regeneriert LP aller Verbündeten.",
         "Recupera VIT de todos los aliados",
         "Memulihkan HP semua teman",
         "ฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -853,8 +853,8 @@
         "Deal fire damage and reduce water resistance for one enemy",
         "對1名敵人發動火屬性攻擊＋降低水屬性耐性",
         "적 1명에게 불속성 피해+물속성 저항력 감소",
-        "Dégâts de feu sur un ennemi et réduit la résistance à l'eau",
-        "Feuerschaden und red. Wasserres., ein Ziel",
+        "Dégâts de feu sur un ennemi et réduit sa résistance à l'eau",
+        "Fügt einem Gegner Feuerschaden zu und verringert seine Wasserresistenz.",
         "Inflige daño de fuego a un enemigo y reduce su resistencia al agua",
         "Memberikan damage api dan mengurangi resistansi air pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
