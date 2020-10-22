@@ -26030,7 +26030,7 @@
     "174620": [
         "Arsmagna",
         "禁咒・偉大",
-        "금지된 주문·아르스 마그나",
+        "금술·아르스 마그나",
         "Arsmagna",
         "Arsmagna",
         "Arsmagna",
@@ -40332,7 +40332,7 @@
         "Attaque griffe",
         "Klauenangriff",
         "Ataque de garras",
-        "Claw Attack",
+        "Serangan Cakar",
         "Claw\u001a \u001aAttack\u001a"
     ],
     "188590": [
@@ -40342,7 +40342,7 @@
         "Attaque griffe",
         "Klauenangriff",
         "Ataque de garras",
-        "Claw Attack",
+        "Serangan Cakar",
         "Claw\u001a \u001aAttack\u001a"
     ],
     "188600": [
@@ -40352,7 +40352,7 @@
         "Attaque griffe",
         "Klauenangriff",
         "Ataque de garras",
-        "Claw Attack",
+        "Serangan Cakar",
         "Claw\u001a \u001aAttack\u001a"
     ],
     "188610": [
@@ -55879,7 +55879,7 @@
         "Quick Final Thunder",
         "迅・終焉轟雷",
         "신속·종말의 뇌락",
-        "Éclair final rapide",
+        "Vélocité - Éclair final",
         "Schneller Letzter Donner",
         "Trueno final veloz",
         "Kilat - Petir Terakhir",
@@ -55889,7 +55889,7 @@
         "Quick Thunder's Light",
         "迅・雷光",
         "신속·뇌광",
-        "Lumière de l'éclair rapide",
+        "Vélocité - Lumière de l'éclair",
         "Schnelles Donnerlicht",
         "Luz del trueno veloz",
         "Kilat - Cahaya Petir",
@@ -55899,7 +55899,7 @@
         "Quick Bright Flash",
         "迅・光閃",
         "신속·섬광",
-        "Éclat lumineux rapide",
+        "Vélocité - Éclat lumineux",
         "Schneller Heller Blitz",
         "Destello cegador veloz",
         "Kilat - Sinar Kemilau",
@@ -55909,7 +55909,7 @@
         "Quick Rebel Intention",
         "迅・反叛之意",
         "신속·반역의 결심",
-        "Rébellion instantanée",
+        "Vélocité - Rébellion instantanée",
         "Schneller Rebellenplan",
         "Intento de rebelión veloz",
         "Kilat - Intensi Pemberontak",
@@ -103674,15 +103674,155 @@
         "Ia telah menyerap kekuatan esper sehingga parameternya meningkat hingga maksimal.",
         "มัน\u001aดูด\u001aพลัง\u001aของ\u001a \u001aEsper\u001a \u001aและ\u001aเพิ่มค่า\u001aสเตตัส\u001aของ\u001aตนเอง\u001aจนถึง\u001aขีดสุด\u001a"
     ],
+    "218662": [
+        "Earth Titan Blade",
+        "土之巨人劍",
+        "땅의 거인검",
+        "Épée du titan de terre",
+        "Erdtitanenklinge",
+        "Hoja titánica de tierra",
+        "Earth Titan Blade",
+        "ดาบ\u001aยักษ์\u001aปฐพี\u001a"
+    ],
     "218663": [
         "Mow Down",
         "橫掃",
         "후려치기",
-        "Fauchage",
-        "Niederstrecken",
+        "Faucher",
+        "Niedermähen",
         "Segada",
         "Sapuan Menyeluruh",
         "กวาด\u001aทำลาย\u001a"
+    ],
+    "218664": [
+        "Thunder Charge",
+        "蓄雷",
+        "선더 차지",
+        "Charge électrique",
+        "Donnerladung",
+        "Carga electrizante",
+        "Thunder Charge",
+        "Thunder\u001a \u001aCharge\u001a"
+    ],
+    "218665": [
+        "Voltaic Blade",
+        "導電刃",
+        "전도 블레이드",
+        "Lame voltaïque",
+        "Voltaische Klinge",
+        "Filo voltaico",
+        "Voltaic Blade",
+        "Voltaic\u001a \u001aBlade\u001a"
+    ],
+    "218666": [
+        "Overcharged Engine",
+        "機關失控",
+        "기관 폭주",
+        "Moteur surchargé",
+        "Überladene Maschine",
+        "Sobrecarga de motor",
+        "Overcharged Engine",
+        "เครื่องจักร\u001aอาละวาด\u001a"
+    ],
+    "218667": [
+        "Super Overcharged Engine",
+        "超機関失控",
+        "초기관 폭주",
+        "Moteur très surchargé",
+        "Superüberladene Maschine",
+        "Sobrecarga de motor+",
+        "Super Overcharged Engine",
+        "เครื่องจักร\u001aอาละวาด\u001aขั้น\u001aสุดยอด\u001a"
+    ],
+    "218668": [
+        "A thick cloud of smoke starts to rise.",
+        "噴出了黑煙",
+        "검은 연기를 뿜었다",
+        "Un épais nuage de fumée s'élève.",
+        "Eine dicke Rauchwolke beginnt aufzusteigen.",
+        "Una densa nube de humo empieza a ascender.",
+        "Sebuah awan asap yang tebal membubung.",
+        "ควัน\u001aดำ\u001aหนา\u001aทึบ\u001aพวยพุ่ง\u001aออกมา\u001aแล้ว\u001a"
+    ],
+    "218669": [
+        "Galeshadow Whistle",
+        "風暗汽笛",
+        "풍암의 기적",
+        "Sifflet des vents obscurs",
+        "Sturmschatten-Pfeife",
+        "Silbato de vendaval oscuro",
+        "Galeshadow Whistle",
+        "หวูด\u001aรถไฟ\u001aลม\u001aทมิฬ\u001a"
+    ],
+    "218670": [
+        "Supercharged Crossing",
+        "強力斷路閘",
+        "파워풀 차단기",
+        "Disjoncteur à pleine puissance",
+        "Überladene Schranke",
+        "Cruce potente",
+        "Supercharged Crossing",
+        "เครื่อง\u001aกั้น\u001aราง\u001aทรงพลัง\u001a"
+    ],
+    "218671": [
+        "The cloud of smoke is sucked back in.",
+        "吸入了黑煙",
+        "검은 연기를 집어삼켰다",
+        "Le nuage de fumée a été aspiré.",
+        "Die Rauchwolke wird wieder eingesaugt.",
+        "Ha absorbido la nube de humo.",
+        "Awan asap itu diisap kembali.",
+        "ควัน\u001aดำ\u001aถูก\u001aดูด\u001aกลับ\u001aเข้าไป\u001aแล้ว\u001a"
+    ],
+    "218672": [
+        "Heat Express",
+        "熱能列車",
+        "히트 익스프레스",
+        "Express brûlant",
+        "Hitzeexpress",
+        "Tren abrasador",
+        "Heat Express",
+        "Heat\u001a \u001aExpress\u001a"
+    ],
+    "218673": [
+        "It just absorbed energy!",
+        "吸收了力量",
+        "힘을 흡수했다",
+        "L'ennemi vient d'absorber de l'énergie !",
+        "Er hat gerade Energie absorbiert!",
+        "¡Ha absorbido energía!",
+        "Ia menyerap energi!",
+        "มัน\u001aดูด\u001aพลัง\u001aไป\u001aแล้ว\u001a!\u001a"
+    ],
+    "218674": [
+        "Flame Tail",
+        "火焰尾",
+        "플레임 테일",
+        "Queue enflammée",
+        "Flammenschweif",
+        "Cola ígnea",
+        "Ekor Berpijar",
+        "Flame\u001a \u001aTail\u001a"
+    ],
+    "218675": [
+        "Rapid Bolt",
+        "疾電",
+        "질주의 번개",
+        "Blitz",
+        "Entladung",
+        "Calambre",
+        "Blitz",
+        "Blitz\u001a"
+    ],
+    "218676": [
+        "It just absorbed energy!",
+        "吸收了力量",
+        "힘을 흡수했다",
+        "L'ennemi vient d'absorber de l'énergie !",
+        "Er hat gerade Energie absorbiert!",
+        "¡Ha absorbido energía!",
+        "Ia menyerap energi!",
+        "มัน\u001aดูด\u001aพลัง\u001aไป\u001aแล้ว\u001a!\u001a"
     ],
     "218677": [
         "Explosion",
@@ -107780,7 +107920,7 @@
         "화염",
         "Souffle de feu",
         "Flammen",
-        "Aliento de fuego",
+        "Llamarada",
         "Nyala Api",
         "Flames\u001a"
     ],
@@ -107790,7 +107930,7 @@
         "전체 화염",
         "Souffle de feu total",
         "Omni-Flammen",
-        "Aliento de fuego a todos",
+        "Llamarada a todos",
         "Kobaran Api Menyeluruh",
         "All-Flames\u001a"
     ],
@@ -109666,7 +109806,7 @@
     ],
     "219514": [
         "Clear Skies: Heat Wave",
-        "快晴：灼熱預報",
+        "晴朗：灼熱預報",
         "쾌청: 작열 예보",
         "Ciel dégagé : Canicule",
         "Klarer Himmel: Hitzewelle",
@@ -118534,6 +118674,136 @@
         "Hari ini sampai di sini saja!",
         "วันนี้\u001aขอ\u001aจบ\u001aเท่านี้\u001aก่อน\u001aนะ\u001aครับ\u001a!\u001a"
     ],
+    "900761": [
+        "Divination - Clarity",
+        "占卜 - 明晰",
+        "점술·청명",
+        "Divination - Clarté",
+        "Vorhersehung – Klarheit",
+        "Adivinación - Claridad",
+        "Ramalan - Pencerahan",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a  \u001aกระจ่างแจ้ง\u001a"
+    ],
+    "900762": [
+        "Divination - Curse",
+        "占卜 - 詛咒",
+        "점술·저주",
+        "Divination - Malédiction",
+        "Vorhersehung – Fluch",
+        "Adivinación - Maldición",
+        "Ramalan - Kutukan",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a \u001aสาปส่ง\u001a"
+    ],
+    "900763": [
+        "Divination - Binding",
+        "占卜 - 綑綁",
+        "점술·결박",
+        "Divination - Entrave",
+        "Vorhersehung – Fessel",
+        "Adivinación - Atadura",
+        "Ramalan - Belenggu",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a \u001aพันธนาการ\u001a"
+    ],
+    "900764": [
+        "Revelation",
+        "啟示",
+        "계시",
+        "Révélation",
+        "Offenbarung",
+        "Revelación",
+        "Revelation",
+        "เผย\u001aความจริง\u001a"
+    ],
+    "900765": [
+        "Divine Revelation",
+        "神授啟示",
+        "천기누설",
+        "Divine révélation",
+        "Göttliche Offenbarung",
+        "Revelación divina",
+        "Divine Revelation",
+        "เผย\u001aโองการ\u001aฟ้า\u001a"
+    ],
+    "900766": [
+        "Energy Channeling",
+        "運氣",
+        "기의 결속",
+        "Canalisation d'énergie",
+        "Energiekanalisation",
+        "Canalización de energía",
+        "Memanggil Kekuatan",
+        "ส่งผ่าน\u001aพลังงาน\u001a"
+    ],
+    "900767": [
+        "Divination - True Clarity",
+        "占卜 - 真實清晰",
+        "점술·명경지수",
+        "Divination - Clarté véritable",
+        "Vorhersehung – Absolute Klarheit",
+        "Adivinación - Luminiscencia efectiva",
+        "Ramalan - Pencerahan Sejati",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a  \u001aเห็น\u001aแจ้ง\u001aกระจ่าง\u001aจริง\u001a"
+    ],
+    "900768": [
+        "Divination - Enfeebling Curse",
+        "占卜 - 弱化詛咒",
+        "점술·약화의 저주",
+        "Divination - Malédiction d'affaiblissement",
+        "Vorhersehung – Entkräftender Fluch",
+        "Adivinación - Maldición agotadora",
+        "Ramalan - Kutukan Pelemah",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a \u001aสาปส่ง\u001aสูบ\u001aพลัง\u001a"
+    ],
+    "900769": [
+        "Divination - Dark Shroud",
+        "占卜 - 暗黑屍布",
+        "점술·어둠의 장막",
+        "Divination - Voile sombre",
+        "Vorhersehung – Dunkle Umhüllung",
+        "Adivinación - Velo de oscuridad",
+        "Ramalan - Selubung Kegelapan",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a \u001aห่อหุ้ม\u001aความมืด\u001a"
+    ],
+    "900770": [
+        "Divination - Healing Hand",
+        "占卜 - 治癒之手",
+        "점술·치유의 손",
+        "Divination - Main guérisseuse",
+        "Vorhersehung – Heilende Hand",
+        "Adivinación - Mano sanadora",
+        "Ramalan - Tangan Penyembuh",
+        "ทำนาย\u001aชะตา\u001a \u001a-\u001a \u001aหัตถ์\u001aรักษา\u001a"
+    ],
+    "900771": [
+        "Foreseen Fate",
+        "預知命運",
+        "예견된 운명",
+        "Prescience divinatrice",
+        "Vorausgesehenes Schicksal",
+        "Destino previsto",
+        "Penglihatan Takdir",
+        "ชะตากรรม\u001aมิ\u001aอาจ\u001aเห็น\u001a"
+    ],
+    "900772": [
+        "Urgh!",
+        "咳咳！",
+        "아아!",
+        "Argh !",
+        "Argh!",
+        "¡Urgh!",
+        "Urgh!",
+        "อั้ก\u001a!\u001a"
+    ],
+    "900773": [
+        "The enemy is staggering!",
+        "敵人的步履蹣跚！",
+        "적이 비틀거린다!",
+        "L'ennemi est décontenancé !",
+        "Der Gegner ist ins Straucheln geraten!",
+        "¡El enemigo está desconcertado!",
+        "Musuh terhuyung-huyung!",
+        "ศัตรู\u001aกำลัง\u001aอยู่\u001aใน\u001aภาวะ\u001aมึนงง\u001a!\u001a"
+    ],
     "900774": [
         "Hisame Arts - Enemy Reading",
         "冰雨之術 - 識敵",
@@ -118824,6 +119094,36 @@
         "Combo Super",
         "คอม\u001aโบ\u001aสมบูรณ์แบบ\u001a"
     ],
+    "900803": [
+        "Scream",
+        "悲鳴",
+        "비명",
+        "Cri",
+        "Schrei",
+        "Grito",
+        "Jeritan",
+        "กรีดร้อง\u001a"
+    ],
+    "900804": [
+        "Wail",
+        "哀號",
+        "통곡",
+        "Plainte",
+        "Wehgeschrei",
+        "Lamento",
+        "Ratapan",
+        "ร้อง\u001aคร่ำครวญ\u001a"
+    ],
+    "900805": [
+        "Protective Talisman",
+        "辟邪護符",
+        "수호의 부적",
+        "Talisman protecteur",
+        "Schützender Talisman",
+        "Talismán de protección",
+        "Jimat Pelindung",
+        "เครื่องราง\u001aปกป้อง\u001a"
+    ],
     "900806": [
         "None shall pass!",
         "把命留下！",
@@ -118943,5 +119243,15 @@
         "Efecto de zona: ¡se ha rellenado la barra de EL!",
         "Efek Area: Bar LB telah diisi!",
         "Area\u001a \u001aEffect\u001a:\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aแล้ว\u001a!\u001a"
+    ],
+    "900818": [
+        "The enemy has recovered!",
+        "敵人已經恢復了！",
+        "적이 회복했다!",
+        "L'ennemi s'est rétabli !",
+        "Der Gegner hat sich wieder erholt!",
+        "¡El enemigo se ha recuperado!",
+        "Musuh telah pulih!",
+        "ศัตรู\u001aฟื้น\u001aสภาพ\u001aแล้ว\u001a!\u001a"
     ]
 }
