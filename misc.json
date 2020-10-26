@@ -649,12 +649,16 @@
         "Nama Ability",
         "ชื่ื่อ\u001a \u001aAbility\u001a"
     ],
-    "AD": {
-        "0": null,
-        "1": "公曆",
-        "2": "서기",
-        "7": "ค.ศ.\u001a"
-    },
+    "AD": [
+        null,
+        "公曆",
+        "서기",
+        null,
+        null,
+        null,
+        null,
+        "ค.ศ.\u001a"
+    ],
     "ADAMANTITE_BUNDLE_DESC": [
         "Splendiferous treasures await with this one-time only offer!<br>Items will be sent to your message box, kupo!",
         "限購1次！寶箱內裝有夢幻般的寶物哦，庫啵！",
@@ -1285,46 +1289,86 @@
         "Kamu dapat memasang <color=255:0:0>emblem</color> yang kamu peroleh sebagai hadiah pencapaian di samping namamu untuk dipamerkan kepada pemain lain, kupo!<br><color=255:0:0>Emblem</color> dapat dipasang melalui tombol Pasang Emblem di layar Info Pemain, kupo!",
         "คุณ\u001aสามารถ\u001aตั้งค่า\u001aให้\u001aแสดง\u001a \u001a<color=255:0:0>\u001aเหรียญตรา\u001a \u001aEmblem\u001a</color>\u001aใดๆ\u001aที่\u001aตัวเอง\u001aได้มา\u001a \u001aไว้\u001aข้าง\u001aชื่อ\u001aของ\u001aคุณ\u001aได้\u001a \u001aนับ\u001aเป็น\u001aรางวัล\u001aความสำเร็จ\u001aที่\u001aเอา\u001aไป\u001aอวด\u001aให้\u001aใครๆ\u001aได้\u001aรู้\u001aโดย\u001aทั่วถึง\u001aเลย\u001aคุ\u001aโปะ\u001a!\u001a \u001a<br>\u001aคุณ\u001aสามารถ\u001aตั้งค่า\u001a<color=255:0:0>\u001aเหรียญตรา\u001a \u001aEmblem\u001a</color>\u001a \u001aได้\u001aโดย\u001aไป\u001aที่\u001aหน้าจอ\u001aผู้\u001aเล่น\u001aและ\u001aกดปุ่ม\u001a \u001aตั้งค่า\u001a \u001aEmblem\u001a \u001aนะ\u001aคุ\u001aโปะ\u001a!\u001a"
     ],
-    "Account_Button_Change_Binding": {
-        "0": null,
-        "6": "Ganti Kaitan",
-        "7": "เปลี่ยน\u001aการผูก\u001aบัญชี\u001aผู้\u001aเล่น\u001a"
-    },
-    "Account_Button_Info": {
-        "0": null,
-        "6": "Info",
-        "7": "ข้อมูล\u001a"
-    },
-    "Account_Button_Login_Options": {
-        "0": null,
-        "6": "Pengaturan Login",
-        "7": "ตัวเลือก\u001aการ\u001a \u001aLog\u001a \u001ain\u001a"
-    },
-    "Account_Button_Logout": {
-        "0": null,
-        "6": "Logout",
-        "7": "Log\u001a \u001aout\u001a"
-    },
-    "Account_Button_Redownload": {
-        "0": null,
-        "6": "Download Ulang Data",
-        "7": "ดาวน์โหลด\u001aข้อมูล\u001aซ้ำ\u001a"
-    },
-    "Account_Button_Support": {
-        "0": null,
-        "6": "Support",
-        "7": "สนับสนุน\u001a"
-    },
-    "Account_Button_Warning_Text": {
-        "0": null,
-        "6": "Apakah kamu ingin logout?",
-        "7": "คุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001a \u001aLog\u001a \u001aout\u001a"
-    },
-    "Account_Description_Account": {
-        "0": null,
-        "6": "Saat ini sedang login ke %s",
-        "7": "ตัอน\u001aนี้\u001aกำลัง\u001a \u001aLog\u001a \u001ain\u001a \u001aเข้ากับ\u001a"
-    },
+    "Account_Button_Change_Binding": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ganti Kaitan",
+        "เปลี่ยน\u001aการผูก\u001aบัญชี\u001aผู้\u001aเล่น\u001a"
+    ],
+    "Account_Button_Info": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Info",
+        "ข้อมูล\u001a"
+    ],
+    "Account_Button_Login_Options": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Pengaturan Login",
+        "ตัวเลือก\u001aการ\u001a \u001aLog\u001a \u001ain\u001a"
+    ],
+    "Account_Button_Logout": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Logout",
+        "Log\u001a \u001aout\u001a"
+    ],
+    "Account_Button_Redownload": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Download Ulang Data",
+        "ดาวน์โหลด\u001aข้อมูล\u001aซ้ำ\u001a"
+    ],
+    "Account_Button_Support": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Support",
+        "สนับสนุน\u001a"
+    ],
+    "Account_Button_Warning_Text": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Apakah kamu ingin logout?",
+        "คุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001a \u001aLog\u001a \u001aout\u001a"
+    ],
+    "Account_Description_Account": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Saat ini sedang login ke %s",
+        "ตัอน\u001aนี้\u001aกำลัง\u001a \u001aLog\u001a \u001ain\u001a \u001aเข้ากับ\u001a"
+    ],
     "Account_Label_User_Account": [
         "Player ID:",
         "玩家ID：",
@@ -1335,11 +1379,16 @@
         "ID Pemain:",
         "ID\u001a \u001aผู้\u001aเล่น\u001a:\u001a"
     ],
-    "Account_Title_Account": {
-        "0": null,
-        "6": "Akun",
-        "7": "บัญชี\u001aผู้\u001aเล่น\u001a"
-    },
+    "Account_Title_Account": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Akun",
+        "บัญชี\u001aผู้\u001aเล่น\u001a"
+    ],
     "Account_login_Apple": [
         "Apple",
         "Apple",
@@ -2340,10 +2389,16 @@
         "Crystal Chest",
         "Crystal\u001a \u001aChest\u001a"
     ],
-    "CASH_GACHA_DETAIL_LIMIT_END": {
-        "0": null,
-        "7": "<blank>\u001a"
-    },
+    "CASH_GACHA_DETAIL_LIMIT_END": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "CBT_CLOSE_FUNCTION": [
         "This feature is not available during the closed beta period.",
         "此功能無法在CBT中使用。",
@@ -3254,15 +3309,16 @@
         "Line your coffers with this one-time only offer fit for royalty!<br>Items will be sent to your message box, kupo!",
         "Line\u001a \u001ayour\u001a \u001acoffers\u001a \u001awith\u001a \u001athis\u001a \u001aone-time\u001a \u001aonly\u001a \u001aoffer\u001a \u001afit\u001a \u001afor\u001a \u001aroyalty\u001a!<br>\u001aItems\u001a \u001awill\u001a \u001abe\u001a \u001asent\u001a \u001ato\u001a \u001ayour\u001a \u001amessage\u001a \u001abox\u001a,\u001a \u001akupo\u001a!\u001a"
     ],
-    "CRYSTAL_MAJESTY_BUNDLE_TITLE": {
-        "0": "Crystal Chest of Majesty",
-        "1": "高貴水晶寶箱",
-        "2": "고귀한 크리스탈 보물상자",
-        "4": "Kristalltruhe der Erhabenheit",
-        "5": "Cofre de la majestuosidad",
-        "6": "Crystal Chest of Majesty",
-        "7": "Crystal\u001a \u001aChest\u001a \u001aof\u001a \u001aMajesty\u001a"
-    },
+    "CRYSTAL_MAJESTY_BUNDLE_TITLE": [
+        "Crystal Chest of Majesty",
+        "高貴水晶寶箱",
+        "고귀한 크리스탈 보물상자",
+        null,
+        "Kristalltruhe der Erhabenheit",
+        "Cofre de la majestuosidad",
+        "Crystal Chest of Majesty",
+        "Crystal\u001a \u001aChest\u001a \u001aof\u001a \u001aMajesty\u001a"
+    ],
     "CURRENCY_NAME_1": [
         "Lapis"
     ],
@@ -3515,16 +3571,26 @@
         "Download selama memainkan tutorial",
         "ดาวน์โหลด\u001aใน\u001aระหว่าง\u001aเล่น\u001aบทเรียน\u001aแนะนำ\u001a"
     ],
-    "DLC_SCREENSIZE_DATA_10MB": {
-        "0": "> 10 MB",
-        "6": "> 10 MB",
-        "7": ">\u001a \u001a10\u001a \u001aMB\u001a"
-    },
-    "DLC_SCREENSIZE_DATA_1MB": {
-        "0": "> 1 MB",
-        "6": "> 1 MB",
-        "7": ">\u001a \u001a1\u001a \u001aMB\u001a"
-    },
+    "DLC_SCREENSIZE_DATA_10MB": [
+        "> 10 MB",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "> 10 MB",
+        ">\u001a \u001a10\u001a \u001aMB\u001a"
+    ],
+    "DLC_SCREENSIZE_DATA_1MB": [
+        "> 1 MB",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "> 1 MB",
+        ">\u001a \u001a1\u001a \u001aMB\u001a"
+    ],
     "DLC_SCREENSIZE_DATA_DESCRIPTION": [
         "Turn data download notifications ON, or set them to only appear when data to be downloaded passes a certain threshold.",
         "開啟資料下載通知，或設定為超過一定資料量才會顯示下載通知。",
@@ -3605,10 +3671,16 @@
         "Ranking Damage",
         "อันดับ\u001a \u001aDamage\u001a \u001aRank\u001a"
     ],
-    "DONT_VISIBLE": {
-        "0": null,
-        "7": "<blank>\u001a"
-    },
+    "DONT_VISIBLE": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "DOWNLOAD": [
         "Downloading...",
         "下載中……",
@@ -6129,10 +6201,16 @@
         "Pilih waktu pencarian.",
         "เลือก\u001aเวลา\u001aที่\u001aใช้\u001aสำรวจ\u001a"
     ],
-    "EXTRA_CHALLENGE": {
-        "0": null,
-        "7": "<blank>\u001a"
-    },
+    "EXTRA_CHALLENGE": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "EXVIUS_POINT": [
         "EXVIUS Points",
         "EXVIUS點數",
@@ -6743,15 +6821,16 @@
         "TIM TERPILIH",
         "ทีม\u001aแบบ\u001aเจาะจง\u001a"
     ],
-    "FREIND_ID_NOT_FOUND": {
-        "0": "Invalid friend ID entered.",
-        "1": "好友ID錯誤",
-        "3": "ID ami invalide.",
-        "4": "„Ungültige Freundes-ID eingegeben.“",
-        "5": "ID de amigo no válida.",
-        "6": "ID teman tidak valid.",
-        "7": "เลข\u001a \u001aID\u001a \u001aของ\u001aเพื่อน\u001aไม่\u001aถูกต้อง\u001a"
-    },
+    "FREIND_ID_NOT_FOUND": [
+        "Invalid friend ID entered.",
+        "好友ID錯誤",
+        null,
+        "ID ami invalide.",
+        "„Ungültige Freundes-ID eingegeben.“",
+        "ID de amigo no válida.",
+        "ID teman tidak valid.",
+        "เลข\u001a \u001aID\u001a \u001aของ\u001aเพื่อน\u001aไม่\u001aถูกต้อง\u001a"
+    ],
     "FRIEND": [
         "Friends",
         "好友",
@@ -7422,10 +7501,16 @@
         "Tinggal <param=num>/<param=max>",
         "เหลือ\u001aอีก\u001a \u001a<param=num>/<param=max>\u001a \u001aครั้ง\u001a"
     ],
-    "GACHA_DETAIL_LIMIT_END": {
-        "0": null,
-        "7": "<blank>\u001a"
-    },
+    "GACHA_DETAIL_LIMIT_END": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "GACHA_DETAIL_LIMIT_SPAN": [
         "<param=startday> to <param=endday>",
         "<param=startday> ～ <param=endday>",
@@ -7736,11 +7821,16 @@
         "Segera hadir!",
         "เร็ว\u001aๆ\u001a \u001aนี้\u001a!\u001a"
     ],
-    "GACHA_SCREEN_TIME_LIMITED": {
-        "0": "Time Limited",
-        "6": "Waktu Terbatas",
-        "7": "จำกัด\u001aระยะเวลา\u001a"
-    },
+    "GACHA_SCREEN_TIME_LIMITED": [
+        "Time Limited",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Waktu Terbatas",
+        "จำกัด\u001aระยะเวลา\u001a"
+    ],
     "GACHA_SELECT_EXCHANGE_NO_REMAINING_NUM": [
         "Max number of exchanges reached. No more can be exchanged.",
         "由於已達交換上限，無法進行交換。",
@@ -7871,12 +7961,16 @@
         "Batas summon telah tercapai. Kamu tidak dapat lagi melakukan summon.",
         "คุณ\u001aได้\u001aทำการ\u001aซัม\u001aม่อน\u001aจน\u001aเต็ม\u001aโควต้า\u001aแล้ว\u001a \u001aคุณ\u001aไม่\u001aสามารถ\u001aทำการ\u001aซัม\u001aม่อน\u001aใดๆ\u001aเพิ่ม\u001aได้\u001aอีก\u001a"
     ],
-    "GACHA_TICKET_COUNT": {
-        "0": null,
-        "1": "張",
-        "2": "장",
-        "7": "ใบ\u001a"
-    },
+    "GACHA_TICKET_COUNT": [
+        null,
+        "張",
+        "장",
+        null,
+        null,
+        null,
+        null,
+        "ใบ\u001a"
+    ],
     "GACHA_TICKET_SHORTAGE": [
         "Insufficient <param=name>.",
         "<param=name>不足",
@@ -8837,10 +8931,16 @@
         "disarankan.",
         "ขอ\u001aแนะนำ\u001a"
     ],
-    "INITIAL_DOWNLOAD_PLAY_BGM": {
-        "0": null,
-        "7": "\u001a"
-    },
+    "INITIAL_DOWNLOAD_PLAY_BGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u001a"
+    ],
     "INSTALL_ERROR_TITLE_BACK": [
         "An error occurred during download. Returning to title.<br><br>*Tap the <color=255:255:0>Restore</color> button then <color=255:255:0>Re-download Data</color> if the problem doesn't resolve itself.",
         "於下載資料中出現錯誤，即將返回標題畫面。<br> <br>※如果錯誤無法解決時，請由標題畫面右下方的<color=255:255:0>「修復」</color><color=255:255:0>「重新下載資料」</color>重試。",
@@ -8901,12 +9001,16 @@
         "Jumlah Pembelian",
         "จำนวน\u001aที่\u001aซื้อ\u001a"
     ],
-    "ITEM_COUNT": {
-        "0": null,
-        "1": "個",
-        "2": "개",
-        "7": "<blank>\u001a"
-    },
+    "ITEM_COUNT": [
+        null,
+        "個",
+        "개",
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "ITEM_COUNTABLE": [
         "</color>)",
         "個</color>)",
@@ -10047,10 +10151,16 @@
         "Semua pesan di kotak masuk kecuali pesan yang dilindungi akan dihapus.<br>Lanjutkan?",
         "ลบ\u001aข้อ\u001aความใน\u001aกล่อง\u001aจดหมาย\u001aทั้งหมด\u001aยกเว้น\u001aข้อความ\u001aที่\u001aถูก\u001aคุ้มครอง\u001a<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
     ],
-    "MAIL_DELETE_WARNING": {
-        "0": null,
-        "7": "<blank>\u001a"
-    },
+    "MAIL_DELETE_WARNING": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "MAIL_DELETE_WARNING_2": [
         "*Messages will be deleted past the protected date below.",
         "※若超過以下保護期間將刪除信件。",
@@ -12911,24 +13021,26 @@
         "Total Battle ELT di Ruang Kedatangan yang Terkuat yang Diselesaikan",
         "จำนวน\u001aการต่อสู้\u001aระดับ\u001a \u001aELT\u001a \u001a\"\u001aห้องโถง\u001aแห่ง\u001aผู้\u001aจุติ\u001a\"\u001a \u001aที่\u001aเคลียร์\u001aแล้ว\u001a"
     ],
-    "MST_ARCHIVE_NAME_AWARD_ARENA_TROPHY_CNT": {
-        "0": "Arena - Total Trophies Acquired",
-        "2": "'결투장' 트로피 획득 수",
-        "3": "Arène - Nombre total de trophées obtenus",
-        "4": "Arena - Summe der erlangten Trophäen",
-        "5": "Arena - Total de trofeos conseguidos",
-        "6": "Arena - Total Trofi yang Diperoleh",
-        "7": "Arena\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
-    },
-    "MST_ARCHIVE_NAME_AWARD_COLOSSEUM_TROPHY_CNT": {
-        "0": "Colosseum - Total Trophies Acquired",
-        "2": "'투기장' 트로피 획득 수",
-        "3": "Colisée - Nombre total de trophées obtenus",
-        "4": "Kolosseum - Summe der erlangten Trophäen",
-        "5": "Coliseo - Total de trofeos conseguidos",
-        "6": "Koloseum - Total Trofi yang Diperoleh",
-        "7": "Colosseum\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
-    },
+    "MST_ARCHIVE_NAME_AWARD_ARENA_TROPHY_CNT": [
+        "Arena - Total Trophies Acquired",
+        null,
+        "'결투장' 트로피 획득 수",
+        "Arène - Nombre total de trophées obtenus",
+        "Arena - Summe der erlangten Trophäen",
+        "Arena - Total de trofeos conseguidos",
+        "Arena - Total Trofi yang Diperoleh",
+        "Arena\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
+    ],
+    "MST_ARCHIVE_NAME_AWARD_COLOSSEUM_TROPHY_CNT": [
+        "Colosseum - Total Trophies Acquired",
+        null,
+        "'투기장' 트로피 획득 수",
+        "Colisée - Nombre total de trophées obtenus",
+        "Kolosseum - Summe der erlangten Trophäen",
+        "Coliseo - Total de trofeos conseguidos",
+        "Koloseum - Total Trofi yang Diperoleh",
+        "Colosseum\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
+    ],
     "MST_ARCHIVE_NAME_AWARD_ENEMY_TROPHY_CNT": [
         "Nemeses - Total Trophies Acquired",
         "「強敵」獎盃獲得數",
@@ -12939,15 +13051,16 @@
         "Nemesis - Total Trofi yang Diperoleh",
         "ศัตรู\u001aสุด\u001aแกร่ง\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
     ],
-    "MST_ARCHIVE_NAME_AWARD_EXPLOIT_TROPHY_CNT": {
-        "0": "Achievements - Total Trophies Acquired",
-        "2": "'업적' 트로피 획득 수",
-        "3": "Succès - Nombre total de trophées obtenus",
-        "4": "Errungenschaften - Summe der erlangten Trophäen",
-        "5": "Logros - Total de trofeos conseguidos",
-        "6": "Pencapaian - Total Trofi yang Diperoleh",
-        "7": "ความสำเร็จ\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
-    },
+    "MST_ARCHIVE_NAME_AWARD_EXPLOIT_TROPHY_CNT": [
+        "Achievements - Total Trophies Acquired",
+        null,
+        "'업적' 트로피 획득 수",
+        "Succès - Nombre total de trophées obtenus",
+        "Errungenschaften - Summe der erlangten Trophäen",
+        "Logros - Total de trofeos conseguidos",
+        "Pencapaian - Total Trofi yang Diperoleh",
+        "ความสำเร็จ\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
+    ],
     "MST_ARCHIVE_NAME_AWARD_GENUINE_ADVENT_CLEAR_CNT": [
         "Total ELT Battles Cleared in Chamber of the Indignant",
         "「真降臨之間」覺醒級完成數",
@@ -12968,15 +13081,16 @@
         "Total Misi Senjata Kuno yang Mematikan - ELT yang Diselesaikan",
         "จำนวน\u001aภารกิจ\u001a \u001a\"\u001aทูต\u001aนรก\u001aดึกดำบรรพ์\u001a \u001aระดับ\u001a \u001aELT\u001a\"\u001a \u001aที่\u001aสำเร็จ\u001a"
     ],
-    "MST_ARCHIVE_NAME_AWARD_QUEST_TROPHY_CNT": {
-        "0": "Quests - Total Trophies Acquired",
-        "2": "'퀘스트' 트로피 획득 수",
-        "3": "Quêtes - Nombre total de trophées obtenus",
-        "4": "Aufträge - Summe der erlangten Trophäen",
-        "5": "Misiones - Total de trofeos conseguidos",
-        "6": "Quest - Total Trofi yang Diperoleh",
-        "7": "เค\u001aวส\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
-    },
+    "MST_ARCHIVE_NAME_AWARD_QUEST_TROPHY_CNT": [
+        "Quests - Total Trophies Acquired",
+        null,
+        "'퀘스트' 트로피 획득 수",
+        "Quêtes - Nombre total de trophées obtenus",
+        "Aufträge - Summe der erlangten Trophäen",
+        "Misiones - Total de trofeos conseguidos",
+        "Quest - Total Trofi yang Diperoleh",
+        "เค\u001aวส\u001a \u001a-\u001a \u001aถ้วยรางวัล\u001aทั้งหมด\u001a"
+    ],
     "MST_ARCHIVE_NAME_AWARD_TWELVE_ARMS_CLEAR_CNT": [
         "Total Battles Cleared in Chamber of Arms",
         "「十二武具之間」完成數",
@@ -14257,11 +14371,16 @@
         "Melemah",
         "ภาวะ\u001aสเตตัส\u001aลด\u001a"
     ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_100000002": {
-        "0": "Unusable: virulent smoke",
-        "6": "Unusable: virulent smoke",
-        "7": "Unusable\u001a:\u001a \u001avirulent\u001a \u001asmoke\u001a"
-    },
+    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_100000002": [
+        "Unusable: virulent smoke",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Unusable: virulent smoke",
+        "Unusable\u001a:\u001a \u001avirulent\u001a \u001asmoke\u001a"
+    ],
     "MST_MONSTER_PARTS_BREAK_DESCRIPTION_305791001": [
         "Staggered",
         "BREAK中",
@@ -14422,10 +14541,16 @@
         "MST_RB_BONUS_RULE_NAME_1",
         "MST_RB_BONUS_RULE_NAME_1\u001a"
     ],
-    "MST_RB_SS_BONUS_INFO_DESC": {
-        "0": null,
-        "7": "\u001a"
-    },
+    "MST_RB_SS_BONUS_INFO_DESC": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u001a"
+    ],
     "MST_RB_SS_BONUS_INFO_DESC_NO_FEMALE": [
         "Male or genderless units",
         "性別為「男性」或「其他」兵員",
@@ -14652,7 +14777,9 @@
         "능력치 상승 테스트",
         "Test augmentation des caractéristiques",
         "Werte-Boost-Test",
-        "Test de Aumento de estadísticas"
+        "Test de Aumento de estadísticas",
+        null,
+        null
     ],
     "MST_SEASON_EVENT_DESCRIPTION_9991": [
         "Event Point Test",
@@ -14660,7 +14787,9 @@
         "이벤트 포인트 테스트",
         "Test point événement",
         "Ereignispunkte-Test",
-        "Test de puntos de evento"
+        "Test de puntos de evento",
+        null,
+        null
     ],
     "MST_SEASON_EVENT_NAME_9990": [
         "Dalnakya Cavern - Special Expedition",
@@ -14668,7 +14797,9 @@
         "달나키아 동굴·특별 탐색",
         "Caverne de Dalnakya - Expédition spéciale",
         "Dalnakia-Höhle - Spezial-Expedition",
-        "Cueva de Dalnakya - Exploración"
+        "Cueva de Dalnakya - Exploración",
+        null,
+        null
     ],
     "MST_SEASON_EVENT_NAME_9991": [
         "Dalnakya Cavern - Goblin Hunt",
@@ -14676,7 +14807,9 @@
         "달나키아 동굴·고블린 사냥",
         "Caverne de Dalnakya - Chasse au gobelin",
         "Dalnakia-Höhle - Goblinjagd",
-        "Cueva de Dalnakya - Caza de trasgos"
+        "Cueva de Dalnakya - Caza de trasgos",
+        null,
+        null
     ],
     "MST_TICKERLOG_MSGFORMAT_1": [
         "<color=255:165:0><param=player_name></color> ranked up to <color=255:255:0><param=rank></color>!",
@@ -17238,11 +17371,16 @@
         "Tidak dapat login sekali lagi ke <param=login_service>.<br><br>Cobalah untuk login sekali lagi dari layar judul.",
         "ไม่\u001aสามารถ\u001aล็อกอิน\u001aเข้ากับ\u001a \u001a<param=login_service>\u001a \u001aซ้ำ\u001aได้\u001a \u001a<br><br>\u001aกรุณา\u001aกลับ\u001aไป\u001aลอง\u001aล็อกอิน\u001aใหม่\u001aที่\u001aหน้าจอ\u001aไตเติ้ล\u001a"
     ],
-    "Pop_Up_General_Button_Back": {
-        "0": "Back",
-        "6": "Kembali",
-        "7": "Back\u001a"
-    },
+    "Pop_Up_General_Button_Back": [
+        "Back",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Kembali",
+        "Back\u001a"
+    ],
     "Pop_Up_General_Button_No": [
         "NO",
         "否",
@@ -17253,11 +17391,16 @@
         "TIDAK",
         "ไม่\u001aใช่\u001a"
     ],
-    "Pop_Up_General_Button_Off": {
-        "0": "OFF",
-        "6": "OFF",
-        "7": "OFF\u001a"
-    },
+    "Pop_Up_General_Button_Off": [
+        "OFF",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "OFF",
+        "OFF\u001a"
+    ],
     "Pop_Up_General_Button_Ok": [
         "OK",
         "OK",
@@ -17268,11 +17411,16 @@
         "OK",
         "OK\u001a"
     ],
-    "Pop_Up_General_Button_On": {
-        "0": "ON",
-        "6": "ON",
-        "7": "ON\u001a"
-    },
+    "Pop_Up_General_Button_On": [
+        "ON",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ON",
+        "ON\u001a"
+    ],
     "Pop_Up_General_Button_Yes": [
         "YES",
         "是",
@@ -17533,12 +17681,16 @@
         "Ranking",
         "การ\u001aจัดอันดับ\u001a"
     ],
-    "RAID_RANKING_VALUE": {
-        "0": null,
-        "1": "名",
-        "2": "위",
-        "7": "<blank>\u001a"
-    },
+    "RAID_RANKING_VALUE": [
+        null,
+        "名",
+        "위",
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "RAID_TOTAL_CLEAR_CNT": [
         "Total # Defeated: <param=total_clear_cnt>",
         "總討伐數：<param=total_clear_cnt>",
@@ -19089,15 +19241,26 @@
         "%.2d:%.2d j",
         "%.2d\u001a:%.2d\u001a \u001aนาฬิกา\u001a"
     ],
-    "SG_BUNDLE_TITLE": {
-        "0": null,
-        "7": "\u001a"
-    },
-    "SG_BUNDLE_VISIT_SHOP": {
-        "0": "Visit the shop for more bundles!",
-        "6": "Kunjungi toko untuk paket lebih banyak!",
-        "7": "พบ\u001aกับ\u001aชุด\u001aไอเทม\u001aอื่นๆ\u001aได้\u001aอีก\u001aมากมาย\u001aได้ที่\u001aร้านค้า\u001a!\u001a"
-    },
+    "SG_BUNDLE_TITLE": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u001a"
+    ],
+    "SG_BUNDLE_VISIT_SHOP": [
+        "Visit the shop for more bundles!",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Kunjungi toko untuk paket lebih banyak!",
+        "พบ\u001aกับ\u001aชุด\u001aไอเทม\u001aอื่นๆ\u001aได้\u001aอีก\u001aมากมาย\u001aได้ที่\u001aร้านค้า\u001a!\u001a"
+    ],
     "SG_BUNDLE_WELCOME_TEXT": [
         "Remember to log in for %s consecutive days to get your next milestone reward!",
         "記得累積登入%s天，獲得下一個里程碑獎勵！",
@@ -19828,18 +19991,36 @@
         "Jangan tunjukkan lagi hari ini",
         "อย่า\u001aแสดง\u001aข้อความ\u001aนี้\u001aอีก\u001aใน\u001aวันนี้\u001a"
     ],
-    "SG_EARLYBIRD_HEADER": {
-        "0": null,
-        "7": "\u001a"
-    },
-    "SG_EARLYBIRD_MSG1": {
-        "0": null,
-        "7": "\u001a"
-    },
-    "SG_EARLYBIRD_MSG2": {
-        "0": null,
-        "7": "\u001a"
-    },
+    "SG_EARLYBIRD_HEADER": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u001a"
+    ],
+    "SG_EARLYBIRD_MSG1": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u001a"
+    ],
+    "SG_EARLYBIRD_MSG2": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\u001a"
+    ],
     "SG_ENDSIN": [
         "Ends in",
         "距結束還有",
@@ -20310,13 +20491,16 @@
         "Expires in: xd yyh",
         "Expires\u001a \u001ain\u001a:\u001a \u001axd\u001a \u001ayyh\u001a"
     ],
-    "SG_INCREASE_ESPER_DMG": {
-        "0": "Increase dmg of %s",
-        "3": "Aug.les dgts de %s",
-        "5": "Aumenta el daño de %s",
-        "6": "Increase dmg of %s",
-        "7": "Increase\u001a \u001admg\u001a \u001aof\u001a %s\u001a"
-    },
+    "SG_INCREASE_ESPER_DMG": [
+        "Increase dmg of %s",
+        null,
+        null,
+        "Aug.les dgts de %s",
+        null,
+        "Aumenta el daño de %s",
+        "Increase dmg of %s",
+        "Increase\u001a \u001admg\u001a \u001aof\u001a %s\u001a"
+    ],
     "SG_LEADERBOARDS": [
         "Leaderboards",
         "排行榜",
@@ -20337,44 +20521,56 @@
         "Limit",
         "Limit\u001a"
     ],
-    "SG_MAGIC_MULTI_CAST": {
-        "0": "Cast %s per turn",
-        "3": "Lance %s par tour",
-        "5": "Lanza %s por turno",
-        "6": "Cast %s per turn",
-        "7": "Cast\u001a %s\u001a \u001aper\u001a \u001aturn\u001a"
-    },
-    "SG_MAGIC_TYPE_ALL": {
-        "0": "all magic types",
-        "3": "tous types de magie",
-        "5": "todo tipo de magias",
-        "6": "semua tipe magic",
-        "7": "พลัง\u001aเวทย์\u001aทุกชนิด\u001a"
-    },
-    "SG_MAGIC_TYPE_BLACK": {
-        "0": "black magic",
-        "2": "Magie noire",
-        "3": "magie noire",
-        "5": "magia negra",
-        "6": "magic hitam",
-        "7": "พลัง\u001aเวทย์\u001aดำ\u001a"
-    },
-    "SG_MAGIC_TYPE_GREEN": {
-        "0": "green magic",
-        "2": "Magie verte",
-        "3": "magie verte",
-        "5": "magia verde",
-        "6": "magic hijau",
-        "7": "พลัง\u001aเวทย์\u001aเขียว\u001a"
-    },
-    "SG_MAGIC_TYPE_WHITE": {
-        "0": "white magic",
-        "2": "Magie blanche",
-        "3": "magie blanche",
-        "5": "magia blanca",
-        "6": "magic putih",
-        "7": "พลัง\u001aเวทย์\u001aขาว\u001a"
-    },
+    "SG_MAGIC_MULTI_CAST": [
+        "Cast %s per turn",
+        null,
+        null,
+        "Lance %s par tour",
+        null,
+        "Lanza %s por turno",
+        "Cast %s per turn",
+        "Cast\u001a %s\u001a \u001aper\u001a \u001aturn\u001a"
+    ],
+    "SG_MAGIC_TYPE_ALL": [
+        "all magic types",
+        null,
+        null,
+        "tous types de magie",
+        null,
+        "todo tipo de magias",
+        "semua tipe magic",
+        "พลัง\u001aเวทย์\u001aทุกชนิด\u001a"
+    ],
+    "SG_MAGIC_TYPE_BLACK": [
+        "black magic",
+        null,
+        "Magie noire",
+        "magie noire",
+        null,
+        "magia negra",
+        "magic hitam",
+        "พลัง\u001aเวทย์\u001aดำ\u001a"
+    ],
+    "SG_MAGIC_TYPE_GREEN": [
+        "green magic",
+        null,
+        "Magie verte",
+        "magie verte",
+        null,
+        "magia verde",
+        "magic hijau",
+        "พลัง\u001aเวทย์\u001aเขียว\u001a"
+    ],
+    "SG_MAGIC_TYPE_WHITE": [
+        "white magic",
+        null,
+        "Magie blanche",
+        "magie blanche",
+        null,
+        "magia blanca",
+        "magic putih",
+        "พลัง\u001aเวทย์\u001aขาว\u001a"
+    ],
     "SG_MENUSETTING_GRAPHIC_HIGH_CONFIRM_MESSAGE": [
         "Are you sure you want to play with high resolution graphics?<br><br><size=14>* HD assets are much larger and would take up much more space on your device. The app will also restart so that any missing assets can be downloaded.</size>",
         "要以高畫質進行遊戲嗎？<br><br><size=14>**ＨＤ圖像素材的檔案較大，會佔用您較多的終端儲存空間。將重啟應用程式以下載圖像資料。</size>",
@@ -20585,10 +20781,16 @@
         "Terima kasih atas dukungannya!",
         "ขอ\u001aขอบคุณ\u001aทุกท่าน\u001aที่\u001aให้การ\u001aสนับสนุน\u001a!\u001a"
     ],
-    "SG_RATETHISAPP_MSG3": {
-        "0": null,
-        "7": "<blank>\u001a"
-    },
+    "SG_RATETHISAPP_MSG3": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
     "SG_RATETHISAPP_TITLE": [
         "Rate this App",
         "對此應用程式進行評價",
@@ -21069,14 +21271,26 @@
         "Kamu dapat menggunakan <param=num> <case=lower><param=lapis></case> untuk meningkatkan <color=255:0:0><case=lower><param=target></case> batas</color> sebanyak <param=add>.",
         "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a \u001a<param=num>\u001a \u001a<case=lower><param=lapis></case>\u001aเพื่อ\u001aขยาย\u001aโควต้า\u001aสูงสุด\u001aจาก\u001a \u001a<color=255:0:0><case=lower><param=target></case>\u001a \u001a</color>\u001a \u001aไป\u001aที่\u001a<param=add>.\u001a"
     ],
-    "SHOP_CONFIRM1-2": {
-        "0": null,
-        "7": "0\u001a"
-    },
-    "SHOP_CONFIRM1-3": {
-        "0": null,
-        "7": "0\u001a"
-    },
+    "SHOP_CONFIRM1-2": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "0\u001a"
+    ],
+    "SHOP_CONFIRM1-3": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "0\u001a"
+    ],
     "SHOP_CONFIRM2": [
         "<color=0:255:0><param=nowmax></color> is your current maximum <case=lower><param=target></case> capacity.",
         "<color=0:255:0>現在<param=target>的最大持有欄為 <param=nowmax></color>",

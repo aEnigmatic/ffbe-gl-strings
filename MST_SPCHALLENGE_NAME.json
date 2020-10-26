@@ -289,27 +289,36 @@
         "Bangkitkan ability +1!",
         "ปลุก\u001aพลัง\u001a \u001aAbility\u001a \u001a+\u001a1\u001a!\u001a"
     ],
-    "100130": {
-        "0": "Unlock the Siren's Tower exploration map!",
-        "2": "탐험 장소 '세이렌의 탑'을 추가하자!",
-        "5": "¡Desbloquea el mapa de exploración de Torre de Sirena!",
-        "6": "Buka peta eksplorasi Menara Siren!",
-        "7": "ปลด\u001aล็อค\u001aแผ่น\u001aที่\u001aสำรวจ\u001aหอคอย\u001aแห่ง\u001a \u001aSiren\u001a!\u001a"
-    },
-    "100131": {
-        "0": "Unlock the Zadehl Sands exploration map!",
-        "2": "탐험 장소 '자데르 사막'을 추가하자!",
-        "5": "¡Desbloquea el mapa de exploración de Arenas de Zadehl!",
-        "6": "Buka peta eksplorasi Gurun Zadehl!",
-        "7": "ปลด\u001aล็อค\u001aแผ่น\u001aที่\u001aสำรวจ\u001aทะเล\u001aทราบ\u001a \u001aZadehl\u001a!\u001a"
-    },
-    "100132": {
-        "0": "Use magic!",
-        "2": "퀘스트에서 마법을 사용해보자!",
-        "5": "¡Usa magia!",
-        "6": "Gunakan magic!",
-        "7": "ใช้\u001aพลัง\u001aเวทย์\u001a!\u001a"
-    },
+    "100130": [
+        "Unlock the Siren's Tower exploration map!",
+        null,
+        "탐험 장소 '세이렌의 탑'을 추가하자!",
+        null,
+        null,
+        "¡Desbloquea el mapa de exploración de Torre de Sirena!",
+        "Buka peta eksplorasi Menara Siren!",
+        "ปลด\u001aล็อค\u001aแผ่น\u001aที่\u001aสำรวจ\u001aหอคอย\u001aแห่ง\u001a \u001aSiren\u001a!\u001a"
+    ],
+    "100131": [
+        "Unlock the Zadehl Sands exploration map!",
+        null,
+        "탐험 장소 '자데르 사막'을 추가하자!",
+        null,
+        null,
+        "¡Desbloquea el mapa de exploración de Arenas de Zadehl!",
+        "Buka peta eksplorasi Gurun Zadehl!",
+        "ปลด\u001aล็อค\u001aแผ่น\u001aที่\u001aสำรวจ\u001aทะเล\u001aทราบ\u001a \u001aZadehl\u001a!\u001a"
+    ],
+    "100132": [
+        "Use magic!",
+        null,
+        "퀘스트에서 마법을 사용해보자!",
+        null,
+        null,
+        "¡Usa magia!",
+        "Gunakan magic!",
+        "ใช้\u001aพลัง\u001aเวทย์\u001a!\u001a"
+    ],
     "100133": [
         "Clear the quest 10 times!",
         "完成10次任務！",
@@ -1710,46 +1719,106 @@
         "Selesaikan quest dengan unit yang memiliki total SPR 1.850+!",
         "เคลียร์\u001aเค\u001aวส\u001aโดย\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001a \u001aSPR\u001a \u001a1,850\u001a+!\u001a"
     ],
-    "500101": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/11'을 완료하세요!"
-    },
-    "500102": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/12'을 완료하세요!"
-    },
-    "500103": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/13'을 완료하세요!"
-    },
-    "500104": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/14'을 완료하세요!"
-    },
-    "500105": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/15'을 완료하세요!"
-    },
-    "500106": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/16'을 완료하세요!"
-    },
-    "500107": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/17'을 완료하세요!"
-    },
-    "500108": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/18'을 완료하세요!"
-    },
-    "500109": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/19'을 완료하세요!"
-    },
-    "500110": {
-        "0": null,
-        "2": "'비밀의 보물창고 4/20'을 완료하세요!"
-    },
+    "500101": [
+        null,
+        null,
+        "'비밀의 보물창고 4/11'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500102": [
+        null,
+        null,
+        "'비밀의 보물창고 4/12'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500103": [
+        null,
+        null,
+        "'비밀의 보물창고 4/13'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500104": [
+        null,
+        null,
+        "'비밀의 보물창고 4/14'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500105": [
+        null,
+        null,
+        "'비밀의 보물창고 4/15'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500106": [
+        null,
+        null,
+        "'비밀의 보물창고 4/16'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500107": [
+        null,
+        null,
+        "'비밀의 보물창고 4/17'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500108": [
+        null,
+        null,
+        "'비밀의 보물창고 4/18'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500109": [
+        null,
+        null,
+        "'비밀의 보물창고 4/19'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "500110": [
+        null,
+        null,
+        "'비밀의 보물창고 4/20'을 완료하세요!",
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
     "500201": [
         "Clear the \"Once-a-Day Special Quest\" 8 times!",
         "完成「一日一次！特別任務 」8次！",

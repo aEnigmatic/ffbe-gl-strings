@@ -1129,16 +1129,26 @@
         "Kingsglaive",
         "หน่วย\u001aรบ\u001a \u001aKingsglaive\u001a"
     ],
-    "114": {
-        "0": null,
-        "1": "希諾恩開拓民",
-        "7": "NA\u001a"
-    },
-    "115": {
-        "0": null,
-        "1": "羅亞努貴族",
-        "7": "NA\u001a"
-    },
+    "114": [
+        null,
+        "希諾恩開拓民",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "115": [
+        null,
+        "羅亞努貴族",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
     "116": [
         "Royal Vagrant",
         "流浪王族",
@@ -2149,11 +2159,16 @@
         "Gadis Pantai",
         "สาว\u001aริมหาด\u001a"
     ],
-    "222": {
-        "0": "SOLDIER 1st Class",
-        "6": "SOLDIER Kelas 1",
-        "7": "หน่วย\u001a \u001aSOLDIER\u001a \u001aชั้น\u001a \u001a1\u001a"
-    },
+    "222": [
+        "SOLDIER 1st Class",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "SOLDIER Kelas 1",
+        "หน่วย\u001a \u001aSOLDIER\u001a \u001aชั้น\u001a \u001a1\u001a"
+    ],
     "224": [
         "Marine Ladies",
         "海濱女士",
@@ -2174,61 +2189,116 @@
         "Automaton",
         "มนุษย์\u001aกล\u001a"
     ],
-    "252": {
-        "0": "Mordegon",
-        "6": "Mordegon",
-        "7": "Mordegon\u001a"
-    },
-    "253": {
-        "0": "Jasper Unbound",
-        "6": "Jasper Unbound",
-        "7": "Jasper\u001a \u001aUnbound\u001a"
-    },
-    "254": {
-        "0": "Great Dragon",
-        "6": "Naga Besar",
-        "7": "Great\u001a \u001aDragon\u001a"
-    },
-    "255": {
-        "0": "Eleven",
-        "6": "Eleven",
-        "7": "Eleven\u001a"
-    },
-    "256": {
-        "0": "Veronica",
-        "6": "Veronica",
-        "7": "Veronica\u001a"
-    },
-    "257": {
-        "0": "Serena",
-        "6": "Serena",
-        "7": "Serena\u001a"
-    },
-    "258": {
-        "0": "Erik",
-        "6": "Erik",
-        "7": "Erik\u001a"
-    },
-    "261": {
-        "0": "The Lord of Shadows",
-        "6": "The Lord of Shadows",
-        "7": "The\u001a \u001aLord\u001a \u001aof\u001a \u001aShadows\u001a"
-    },
-    "262": {
-        "0": "Jade",
-        "6": "Jade",
-        "7": "Jade\u001a"
-    },
-    "263": {
-        "0": "Sylvando",
-        "6": "Jade",
-        "7": "Sylvando\u001a"
-    },
-    "264": {
-        "0": "Rab",
-        "6": "Sylvando",
-        "7": "Rab\u001a"
-    },
+    "252": [
+        "Mordegon",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Mordegon",
+        "Mordegon\u001a"
+    ],
+    "253": [
+        "Jasper Unbound",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Jasper Unbound",
+        "Jasper\u001a \u001aUnbound\u001a"
+    ],
+    "254": [
+        "Great Dragon",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Naga Besar",
+        "Great\u001a \u001aDragon\u001a"
+    ],
+    "255": [
+        "Eleven",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Eleven",
+        "Eleven\u001a"
+    ],
+    "256": [
+        "Veronica",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Veronica",
+        "Veronica\u001a"
+    ],
+    "257": [
+        "Serena",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Serena",
+        "Serena\u001a"
+    ],
+    "258": [
+        "Erik",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Erik",
+        "Erik\u001a"
+    ],
+    "261": [
+        "The Lord of Shadows",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "The Lord of Shadows",
+        "The\u001a \u001aLord\u001a \u001aof\u001a \u001aShadows\u001a"
+    ],
+    "262": [
+        "Jade",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Jade",
+        "Jade\u001a"
+    ],
+    "263": [
+        "Sylvando",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Jade",
+        "Sylvando\u001a"
+    ],
+    "264": [
+        "Rab",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Sylvando",
+        "Rab\u001a"
+    ],
     "900": [
         "Enhancer",
         "強化兵員",
@@ -2789,29 +2859,54 @@
         "Ratu Kebajikan",
         "จัก\u001aพร\u001aร\u001aดิ\u001aนี\u001aทรง\u001aคุณธรรม\u001a"
     ],
-    "9053": {
-        "0": "Precursor of the Sea",
-        "6": "Precursor of the Sea",
-        "7": "Precursor\u001a \u001aof\u001a \u001athe\u001a \u001aSea\u001a"
-    },
-    "9054": {
-        "0": "Shrine Maiden",
-        "6": "Shrine Maiden",
-        "7": "Shrine\u001a \u001aMaiden\u001a"
-    },
-    "9056": {
-        "0": "Ghost Exterminator",
-        "6": "Pembasmi Hantu",
-        "7": "Ghost\u001a \u001aExterminator\u001a"
-    },
-    "9057": {
-        "0": "Mastermind",
-        "6": "Mastermind",
-        "7": "Mastermind\u001a"
-    },
-    "9058": {
-        "0": "Covert Agent",
-        "6": "Agen Rahasia",
-        "7": "Covert\u001a \u001aAgent\u001a"
-    }
+    "9053": [
+        "Precursor of the Sea",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Precursor of the Sea",
+        "Precursor\u001a \u001aof\u001a \u001athe\u001a \u001aSea\u001a"
+    ],
+    "9054": [
+        "Shrine Maiden",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Shrine Maiden",
+        "Shrine\u001a \u001aMaiden\u001a"
+    ],
+    "9056": [
+        "Ghost Exterminator",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Pembasmi Hantu",
+        "Ghost\u001a \u001aExterminator\u001a"
+    ],
+    "9057": [
+        "Mastermind",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Mastermind",
+        "Mastermind\u001a"
+    ],
+    "9058": [
+        "Covert Agent",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Agen Rahasia",
+        "Covert\u001a \u001aAgent\u001a"
+    ]
 }

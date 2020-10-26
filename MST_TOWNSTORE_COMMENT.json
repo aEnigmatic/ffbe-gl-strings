@@ -3609,15 +3609,16 @@
         "Mungkin ada sesuatu yang sedang kau cari?",
         "กำลัง\u001aตามหา\u001aอะไร\u001aอยู่\u001aรึเปล่า\u001a?\u001a"
     ],
-    "620101_2": {
-        "0": "I'll buy whatever you're sellin'.",
-        "1": "我什麼都收。",
-        "2": "뭐든 매입하고 있어.",
-        "3": "J'acheterai tout ce que vous me vendrez",
-        "4": "Ich kaufe, was immer du anbietest.",
-        "6": "Akan kubeli apa pun yang kau jual.",
-        "7": "ข้า\u001aยินดี\u001aรับซื้อ\u001aของ\u001aทุกอย่าง\u001aจาก\u001aเจ้า\u001aนะ\u001a"
-    },
+    "620101_2": [
+        "I'll buy whatever you're sellin'.",
+        "我什麼都收。",
+        "뭐든 매입하고 있어.",
+        "J'acheterai tout ce que vous me vendrez",
+        "Ich kaufe, was immer du anbietest.",
+        null,
+        "Akan kubeli apa pun yang kau jual.",
+        "ข้า\u001aยินดี\u001aรับซื้อ\u001aของ\u001aทุกอย่าง\u001aจาก\u001aเจ้า\u001aนะ\u001a"
+    ],
     "620101_3": [
         "Don't be a stranger, okay?",
         "下次再來！",
@@ -4468,14 +4469,26 @@
         "Kembalilah dan temui aku setelah kamu mengumpulkan taring angin, kupo!",
         "ไว้\u001aเจ้า\u001aเก็บ\u001aเขี้ยว\u001aแห่ง\u001aสายลม\u001aมา\u001aได้\u001aเมื่อไหร่\u001aค่อย\u001aกลับ\u001aมาหา\u001aข้า\u001aอีกที\u001aแล้วกัน\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
     ],
-    "900119_1": {
-        "0": null,
-        "7": "NA\u001a"
-    },
-    "900119_3": {
-        "0": null,
-        "7": "NA\u001a"
-    },
+    "900119_1": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "900119_3": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
     "900120_1": [
         "I'd be happy to trade for your extra hairpins, kupo!",
         "用「金色髮飾」<br>交換我的收藏品庫啵！",
@@ -5516,20 +5529,26 @@
         "Temui aku lagi setelah kamu berhasil mengumpulkan obor Egil, kupo!",
         "หาก\u001aมี\u001aคบเพลิง\u001aของ\u001a \u001aEgil\u001a \u001aก็\u001aแวะ\u001aมา\u001aแลก\u001aได้\u001aนะ\u001aคุ\u001aโปะ\u001a!\u001a"
     ],
-    "900999_1": {
-        "0": "I would gladly exchange items from my collection for trochoid gears, kupo!",
-        "2": "'트로코이드 톱니바퀴'를 <br>내 수집품과 교환쿠포!",
-        "5": "¡Te cambio lo que quieras por tus engranajes trocoides, kupó!",
-        "6": "Dengan senang hati aku akan tukarkan item dari koleksiku dengan roda gigi trochoid, kupo!",
-        "7": "ข้า\u001aยินดี\u001aแลก\u001aของ\u001aสะสม\u001aของ\u001aข้า\u001aกับ\u001aเฟือง\u001aแห่ง\u001a \u001aTrochoid\u001aของ\u001aเจ้า\u001aนะ\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
-    },
-    "900999_3": {
-        "0": "Come back and see me once you have collected some trochoid gears, kupo!",
-        "2": "'트로코이드 톱니바퀴'가 모이면<br>또 가져와쿠포~!",
-        "5": "¡Vuelve cuando tengas más engranajes trocoides, kupó!",
-        "6": "Temui aku lagi setelah kamu berhasil mengumpulkan roda gigi trochoid, kupo!",
-        "7": "ไว้\u001aเจ้า\u001aเก็บ\u001aเฟือง\u001aแห่ง\u001a \u001aTrochoid\u001a \u001aมา\u001aได้\u001aเมื่อไหร่\u001aค่อย\u001aกลับ\u001aมาหา\u001aข้า\u001aอีกที\u001aแล้วกัน\u001a \u001aคุ\u001aโปะ\u001a"
-    },
+    "900999_1": [
+        "I would gladly exchange items from my collection for trochoid gears, kupo!",
+        null,
+        "'트로코이드 톱니바퀴'를 <br>내 수집품과 교환쿠포!",
+        null,
+        null,
+        "¡Te cambio lo que quieras por tus engranajes trocoides, kupó!",
+        "Dengan senang hati aku akan tukarkan item dari koleksiku dengan roda gigi trochoid, kupo!",
+        "ข้า\u001aยินดี\u001aแลก\u001aของ\u001aสะสม\u001aของ\u001aข้า\u001aกับ\u001aเฟือง\u001aแห่ง\u001a \u001aTrochoid\u001aของ\u001aเจ้า\u001aนะ\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
+    ],
+    "900999_3": [
+        "Come back and see me once you have collected some trochoid gears, kupo!",
+        null,
+        "'트로코이드 톱니바퀴'가 모이면<br>또 가져와쿠포~!",
+        null,
+        null,
+        "¡Vuelve cuando tengas más engranajes trocoides, kupó!",
+        "Temui aku lagi setelah kamu berhasil mengumpulkan roda gigi trochoid, kupo!",
+        "ไว้\u001aเจ้า\u001aเก็บ\u001aเฟือง\u001aแห่ง\u001a \u001aTrochoid\u001a \u001aมา\u001aได้\u001aเมื่อไหร่\u001aค่อย\u001aกลับ\u001aมาหา\u001aข้า\u001aอีกที\u001aแล้วกัน\u001a \u001aคุ\u001aโปะ\u001a"
+    ],
     "901301_1": [
         "Feel free to look around!",
         "隨便看看吧♪",

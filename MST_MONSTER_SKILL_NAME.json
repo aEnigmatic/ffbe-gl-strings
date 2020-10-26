@@ -1,17 +1,24 @@
 {
-    "1": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
-    "2": {
-        "0": "Blizzard Breath",
-        "1": "暴雪吐息",
-        "6": "Semburan Es",
-        "7": "ลมหายใจ\u001aพายุ\u001aน้ำแข็ง\u001a"
-    },
+    "1": [
+        "Fire Breath",
+        "火焰吐息",
+        null,
+        null,
+        null,
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
+    "2": [
+        "Blizzard Breath",
+        "暴雪吐息",
+        null,
+        null,
+        null,
+        null,
+        "Semburan Es",
+        "ลมหายใจ\u001aพายุ\u001aน้ำแข็ง\u001a"
+    ],
     "75": [
         "Certain Death",
         "100%致死一擊",
@@ -3842,15 +3849,16 @@
         "Angin Berkobar",
         "Flaming\u001a \u001aWind\u001a"
     ],
-    "152360": {
-        "0": null,
-        "1": "光球",
-        "2": "라이트 볼",
-        "3": "Boule de lumière",
-        "4": "Lichtball",
-        "5": "Bola de luz",
-        "7": "N\u001a/\u001aA\u001a"
-    },
+    "152360": [
+        null,
+        "光球",
+        "라이트 볼",
+        "Boule de lumière",
+        "Lichtball",
+        "Bola de luz",
+        null,
+        "N\u001a/\u001aA\u001a"
+    ],
     "152370": [
         "Psychotic Bind",
         "精神束縛",
@@ -9971,15 +9979,16 @@
         "Sambaran Cakar",
         "กรงเล็บ\u001aเหล็ก\u001a"
     ],
-    "158510": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "4": "Feueratem",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "158510": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        null,
+        "Feueratem",
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
     "158520": [
         "Electric Breath",
         "雷擊吐息",
@@ -10000,15 +10009,16 @@
         "Meluncur",
         "เหิน\u001aฟ้า\u001a"
     ],
-    "158540": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "4": "Feueratem",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "158540": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        null,
+        "Feueratem",
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
     "158550": [
         "It took a deep breath!",
         "大吸了一口氣",
@@ -12849,20 +12859,26 @@
         "Pergantian Elemen",
         "Elemental\u001a \u001aShift\u001a"
     ],
-    "161370": {
-        "0": "Body Slam",
-        "1": "衝撞",
-        "5": "Golpe corporal",
-        "6": "Body Slam",
-        "7": "กระแทก\u001aร่าง\u001a"
-    },
-    "161380": {
-        "0": "Body Slam",
-        "1": "衝撞",
-        "5": "Golpe corporal",
-        "6": "Body Slam",
-        "7": "กระแทก\u001aร่าง\u001a"
-    },
+    "161370": [
+        "Body Slam",
+        "衝撞",
+        null,
+        null,
+        null,
+        "Golpe corporal",
+        "Body Slam",
+        "กระแทก\u001aร่าง\u001a"
+    ],
+    "161380": [
+        "Body Slam",
+        "衝撞",
+        null,
+        null,
+        null,
+        "Golpe corporal",
+        "Body Slam",
+        "กระแทก\u001aร่าง\u001a"
+    ],
     "161390": [
         "Charge Through",
         "突擊",
@@ -16273,12 +16289,16 @@
         "Quicksand Breath",
         "Quicksand\u001a \u001aBreath\u001a"
     ],
-    "164790": {
-        "0": "Nef Garumudo left",
-        "1": "冥晶龍飛走了",
-        "6": "Nefu Garumudo telah pergi.",
-        "7": "Nef\u001a \u001aGarumudo\u001a \u001aจากไป\u001aแล้ว\u001a"
-    },
+    "164790": [
+        "Nef Garumudo left",
+        "冥晶龍飛走了",
+        null,
+        null,
+        null,
+        null,
+        "Nefu Garumudo telah pergi.",
+        "Nef\u001a \u001aGarumudo\u001a \u001aจากไป\u001aแล้ว\u001a"
+    ],
     "164810": [
         "Darkra",
         "中暗黑",
@@ -17619,18 +17639,26 @@
         "Sepakan Ekor Naga",
         "หาง\u001aมังกร\u001aฟาด\u001aกลับ\u001a"
     ],
-    "166170": {
-        "0": "Gale Blade",
-        "1": "烈風劍",
-        "6": "Gale Blade",
-        "7": "Gale\u001a \u001aBlade\u001a"
-    },
-    "166180": {
-        "0": "Gale Blade",
-        "1": "烈風劍",
-        "6": "Gale Blade",
-        "7": "Gale\u001a \u001aBlade\u001a"
-    },
+    "166170": [
+        "Gale Blade",
+        "烈風劍",
+        null,
+        null,
+        null,
+        null,
+        "Gale Blade",
+        "Gale\u001a \u001aBlade\u001a"
+    ],
+    "166180": [
+        "Gale Blade",
+        "烈風劍",
+        null,
+        null,
+        null,
+        null,
+        "Gale Blade",
+        "Gale\u001a \u001aBlade\u001a"
+    ],
     "166190": [
         "Flames",
         "火炎",
@@ -17651,32 +17679,46 @@
         "Nyala Api",
         "Flames\u001a"
     ],
-    "166210": {
-        "0": "Heat Wave",
-        "1": "炙熱波動",
-        "6": "Gelombang Panas",
-        "7": "Heat\u001a \u001aWave\u001a"
-    },
-    "166220": {
-        "0": "Heat Wave",
-        "1": "炙熱波動",
-        "6": "Gelombang Panas",
-        "7": "Heat\u001a \u001aWave\u001a"
-    },
-    "166230": {
-        "0": "Death Kettle",
-        "1": "死神鐮刀",
-        "2": "사신의 낫",
-        "6": "Sabit Kematian",
-        "7": "เคียว\u001aยมทูต\u001a"
-    },
-    "166240": {
-        "0": "Death Kettle",
-        "1": "死神鐮刀",
-        "2": "사신의 낫",
-        "6": "Sabit Kematian",
-        "7": "เคียว\u001aยมทูต\u001a"
-    },
+    "166210": [
+        "Heat Wave",
+        "炙熱波動",
+        null,
+        null,
+        null,
+        null,
+        "Gelombang Panas",
+        "Heat\u001a \u001aWave\u001a"
+    ],
+    "166220": [
+        "Heat Wave",
+        "炙熱波動",
+        null,
+        null,
+        null,
+        null,
+        "Gelombang Panas",
+        "Heat\u001a \u001aWave\u001a"
+    ],
+    "166230": [
+        "Death Kettle",
+        "死神鐮刀",
+        "사신의 낫",
+        null,
+        null,
+        null,
+        "Sabit Kematian",
+        "เคียว\u001aยมทูต\u001a"
+    ],
+    "166240": [
+        "Death Kettle",
+        "死神鐮刀",
+        "사신의 낫",
+        null,
+        null,
+        null,
+        "Sabit Kematian",
+        "เคียว\u001aยมทูต\u001a"
+    ],
     "166250": [
         "Triple Threat",
         "三連擊",
@@ -17777,18 +17819,26 @@
         "Berserk",
         "Berserk\u001a"
     ],
-    "166350": {
-        "0": "High Speed Nabla",
-        "1": "超高速水波",
-        "6": "High Speed Nabla",
-        "7": "High\u001a \u001aSpeed\u001a \u001aNabla\u001a"
-    },
-    "166360": {
-        "0": "High Speed Nabla",
-        "1": "超高速水波",
-        "6": "High Speed Nabla",
-        "7": "High\u001a \u001aSpeed\u001a \u001aNabla\u001a"
-    },
+    "166350": [
+        "High Speed Nabla",
+        "超高速水波",
+        null,
+        null,
+        null,
+        null,
+        "High Speed Nabla",
+        "High\u001a \u001aSpeed\u001a \u001aNabla\u001a"
+    ],
+    "166360": [
+        "High Speed Nabla",
+        "超高速水波",
+        null,
+        null,
+        null,
+        null,
+        "High Speed Nabla",
+        "High\u001a \u001aSpeed\u001a \u001aNabla\u001a"
+    ],
     "166370": [
         "Megaflare",
         "百萬核爆",
@@ -21049,14 +21099,16 @@
         "Semburan Dingin",
         "Cold\u001a \u001aBreath\u001a"
     ],
-    "169650": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "169650": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        null,
+        null,
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
     "169660": [
         "Flash of Lightning",
         "閃電",
@@ -29477,24 +29529,26 @@
         "Shamshir",
         "Shamshir\u001a"
     ],
-    "178060": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "3": "Souffle de feu",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
-    "178070": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "3": "Souffle de feu",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "178060": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        "Souffle de feu",
+        null,
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
+    "178070": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        "Souffle de feu",
+        null,
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
     "178080": [
         "Dive",
         "急速下降",
@@ -56645,16 +56699,26 @@
         "Blaster",
         "Blaster\u001a"
     ],
-    "203630": {
-        "0": "Lava",
-        "6": "Lava",
-        "7": "ลาวา\u001a"
-    },
-    "203640": {
-        "0": "Cremate",
-        "6": "Bakar",
-        "7": "เผา\u001a"
-    },
+    "203630": [
+        "Lava",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Lava",
+        "ลาวา\u001a"
+    ],
+    "203640": [
+        "Cremate",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bakar",
+        "เผา\u001a"
+    ],
     "203650": [
         "Browbeat",
         "毆打",
@@ -56665,11 +56729,16 @@
         "Browbeat",
         "ทุบตี\u001a"
     ],
-    "203660": {
-        "0": "Chain Browbeat",
-        "6": "Chain Browbeat",
-        "7": "ต่อย\u001aตี\u001aต่อเนื่อง\u001a"
-    },
+    "203660": [
+        "Chain Browbeat",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Chain Browbeat",
+        "ต่อย\u001aตี\u001aต่อเนื่อง\u001a"
+    ],
     "203670": [
         "Firaja",
         "強火焰",
@@ -58430,11 +58499,16 @@
         "Aeroja",
         "Aeroja\u001a"
     ],
-    "205430": {
-        "0": "Sand Breath",
-        "6": "Embusan Pasir",
-        "7": "Sand\u001a \u001aBreath\u001a"
-    },
+    "205430": [
+        "Sand Breath",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Embusan Pasir",
+        "Sand\u001a \u001aBreath\u001a"
+    ],
     "205440": [
         "Curada",
         "齊療傷",
@@ -58445,16 +58519,26 @@
         "Curada",
         "Curada\u001a"
     ],
-    "205450": {
-        "0": "Crushing Slam",
-        "6": "Bantingan Penghancur",
-        "7": "บดขยี้\u001aทำลาย\u001a"
-    },
-    "205460": {
-        "0": "Crushing Footfall",
-        "6": "Injakan Penghancur",
-        "7": "เหยียบ\u001aบดขยี้\u001a"
-    },
+    "205450": [
+        "Crushing Slam",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bantingan Penghancur",
+        "บดขยี้\u001aทำลาย\u001a"
+    ],
+    "205460": [
+        "Crushing Footfall",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Injakan Penghancur",
+        "เหยียบ\u001aบดขยี้\u001a"
+    ],
     "205470": [
         "Stonja",
         "強落石",
@@ -64645,16 +64729,26 @@
         "Stonja",
         "Stonja\u001a"
     ],
-    "211670": {
-        "0": "3nd Anniversary Triplet Needle",
-        "6": "Tiga Jarum Peringatan ke-3",
-        "7": "เข็ม\u001aสาม\u001aเล่ม\u001aฉลอง\u001aสาม\u001aปี\u001a"
-    },
-    "211680": {
-        "0": "You've grown these 3 years!",
-        "6": "Kamu sudah tubuh selama 3 tahun terakhir ini!",
-        "7": "ผ่าน\u001aไป\u001aสาม\u001aปี\u001aแล้ว\u001aเก่ง\u001aขึ้น\u001aมาก\u001aเลย\u001aนะ\u001a!\u001a"
-    },
+    "211670": [
+        "3nd Anniversary Triplet Needle",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Tiga Jarum Peringatan ke-3",
+        "เข็ม\u001aสาม\u001aเล่ม\u001aฉลอง\u001aสาม\u001aปี\u001a"
+    ],
+    "211680": [
+        "You've grown these 3 years!",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Kamu sudah tubuh selama 3 tahun terakhir ini!",
+        "ผ่าน\u001aไป\u001aสาม\u001aปี\u001aแล้ว\u001aเก่ง\u001aขึ้น\u001aมาก\u001aเลย\u001aนะ\u001a!\u001a"
+    ],
     "211690": [
         "Peer",
         "視線",
@@ -68625,14 +68719,16 @@
         "Sambaran Petir",
         "Thunderbolt\u001a"
     ],
-    "214772": {
-        "0": "Fire Breath",
-        "1": "火焰吐息",
-        "2": "불꽃의 숨결",
-        "5": "Aliento de fuego",
-        "6": "Semburan Api",
-        "7": "ลมหายใจ\u001aอัคคี\u001a"
-    },
+    "214772": [
+        "Fire Breath",
+        "火焰吐息",
+        "불꽃의 숨결",
+        null,
+        null,
+        "Aliento de fuego",
+        "Semburan Api",
+        "ลมหายใจ\u001aอัคคี\u001a"
+    ],
     "214773": [
         "Chimera Pupil",
         "奇美拉之瞳",
@@ -89463,17 +89559,26 @@
         "Kekuatan kegelapan meningkatkan DEF musuh!",
         "ค่า\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001aเพิ่ม\u001aขี้\u001aน\u001aด้วย\u001aพลัง\u001aของ\u001aความมืด\u001a!\u001a"
     ],
-    "217021": {
-        "0": null,
-        "2": "검은 힘으로 적의 방어력이 상승했다!",
-        "3": "Le pouvoir des ténèbres hausse la PSY de l'ennemi !",
-        "4": "Dunkelmacht lässt ABW des Gegners steigen!",
-        "5": "La oscuridad aumenta el ESP del enemigo"
-    },
-    "217022": {
-        "0": null,
-        "5": "La oscuridad aumenta el ATQ y la MAG del enemigo"
-    },
+    "217021": [
+        null,
+        null,
+        "검은 힘으로 적의 방어력이 상승했다!",
+        "Le pouvoir des ténèbres hausse la PSY de l'ennemi !",
+        "Dunkelmacht lässt ABW des Gegners steigen!",
+        "La oscuridad aumenta el ESP del enemigo",
+        null,
+        null
+    ],
+    "217022": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "La oscuridad aumenta el ATQ y la MAG del enemigo",
+        null,
+        null
+    ],
     "217023": [
         "The enemy's DEF and SPR rose through the power of darkness!",
         "由於暗之力的加持，敵人的防禦・精神提高了！",
@@ -98144,16 +98249,26 @@
         "Segel Waktu Gaib",
         "ผนึก\u001aห้วงเวลา\u001aปีศาจ\u001a"
     ],
-    "218063": {
-        "0": "Infinite Cosmos",
-        "6": "Alam Semesta Tanpa Batas",
-        "7": "อนันต์\u001aจักรวาล\u001a"
-    },
-    "218064": {
-        "0": "Infinite Cosmos",
-        "6": "Alam Semesta Tanpa Batas",
-        "7": "อนันต์\u001aจักรวาล\u001a"
-    },
+    "218063": [
+        "Infinite Cosmos",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Alam Semesta Tanpa Batas",
+        "อนันต์\u001aจักรวาล\u001a"
+    ],
+    "218064": [
+        "Infinite Cosmos",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Alam Semesta Tanpa Batas",
+        "อนันต์\u001aจักรวาล\u001a"
+    ],
     "218065": [
         "Stance broken",
         "姿態崩解",
@@ -106734,16 +106849,26 @@
         "Bio",
         "Bio\u001a"
     ],
-    "219068": {
-        "0": "Virulent Smoke",
-        "6": "Virulent Smoke",
-        "7": "Virulent\u001a \u001aSmoke\u001a"
-    },
-    "219073": {
-        "0": "Virulent Smoke",
-        "6": "Virulent Smoke",
-        "7": "Virulent\u001a \u001aSmoke\u001a"
-    },
+    "219068": [
+        "Virulent Smoke",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Virulent Smoke",
+        "Virulent\u001a \u001aSmoke\u001a"
+    ],
+    "219073": [
+        "Virulent Smoke",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Virulent Smoke",
+        "Virulent\u001a \u001aSmoke\u001a"
+    ],
     "219074": [
         "It has focused the power of water!",
         "水之力集中了起來！",
