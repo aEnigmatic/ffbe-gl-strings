@@ -213,7 +213,7 @@
         "Deal partial unmitigated dark magic damage to all enemies",
         "對全體敵人發動暗屬性無視部分魔法防禦的攻擊",
         "적 전체에 어둠속성 일부 마법 방어 무시 피해",
-        "Inflige des dégâts magiques en partie fixes de ténèbres en partie fixes à tous les ennemis",
+        "Inflige des dégâts magiques de ténèbres en partie fixes à tous les ennemis",
         "Fügt allen Gegnern teilweise direkten Dunkelmagieschaden zu.",
         "Daño mágico parcial absoluto oscuro a todos los enemigos",
         "Memberikan damage magic kegelapan yang menembus sebagian SPR pada semua musuh",
@@ -248,6 +248,16 @@
         "Daño de tierra a todos los enemigos y reduce su DEF",
         "Memberikan damage tanah dan mengurangi DEF semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100000337": [
+        "Deal wind damage to all enemies",
+        "對全體敵人發動風屬性攻擊",
+        "적 전체에 바람속성 피해",
+        "Inflige des dégâts de vent à tous les ennemis",
+        "Fügt allen Gegnern Windschaden zu.",
+        "Daño de viento a todos los enemigos",
+        "Memberikan damage angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "100000403": [
         "Deal water damage to all enemies",
@@ -3749,6 +3759,16 @@
         "Memberikan damage pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "100012427": [
+        "Deal partial unmitigated lightning magic damage and reduce lightning resistance for all enemies, and reduce own ATK, DEF, MAG, and SPR",
+        "對全體敵人發動雷屬性無視部分魔法防禦的攻擊+降低雷屬性耐性+降低自身的攻擊防禦魔力精神",
+        "적 전체에 번개속성 일부 마법 방어 무시 피해+번개속성 저항력 감소+자신의 공격력, 방어력, 마력, 정신력 감소",
+        "Inflige des dégâts magiques de foudre en partie fixes à tous les ennemis, réduit leur résistance à la foudre et réduit l'ATT, la DEF, la MAGIE et la PSY du lanceur",
+        "Fügt allen Gegnern teilweise direkten magischen Blitzschaden zu, verringert deren Blitzresistenz und verringert ANG, ABW, MAG und PSY des Benutzers.",
+        "Daño mágico de rayo que ignora parcialmente el ESP de todos los enemigos y reduce su resistencia al rayo, y reduce ATQ, DEF, MAG y ESP del usuario",
+        "Memberikan damage magic petir yang menembus sebagian SPR dan mengurangi resistansi petir pada semua musuh, serta mengurangi ATK, DEF, MAG, dan SPR diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aตัวเอง\u001a"
+    ],
     "100012505": [
         "Boost ATK, DEF, MAG, and SPR, remove ATK, DEF, MAG, and SPR reductions, and restore HP and MP for all allies",
         "提高全體隊員的攻擊防禦魔力精神+降低攻擊防禦魔力精神的效果+恢復HPMP",
@@ -7189,6 +7209,36 @@
         "Memberikan damage angin pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "100026205": [
+        "Deal partial unmitigated fire and wind magic damage and chance of stopping all enemies",
+        "對全體敵人發動火風屬性無視部分魔法防禦的攻擊+一定機率施加停止效果",
+        "적 전체에 불과 바람속성 일부 마법 방어 무시 피해+일정 확률로 스톱 부여",
+        "Inflige des dégâts magiques de feu et de vent en partie fixes à tous les ennemis et confère une chance de leur infliger stop",
+        "Fügt teilweise direkten magischen Feuer- und Windschaden zu und Chance, allen Gegnern Stopp zu erteilen.",
+        "Daño mágico de fuego y viento que ignora parcialmente el ESP de todos los enemigos y puede infligirles paro",
+        "Memberikan damage magic api dan angin yang menembus sebagian SPR dan peluang untuk memberikan status stop pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aและ\u001aลม\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001aทุกราย\u001a"
+    ],
+    "100026206": [
+        "Deal partial unmitigated fire and wind magic damage and chance of stopping all enemies",
+        "對全體敵人發動火風屬性無視部分魔法防禦的攻擊+一定機率施加停止效果",
+        "적 전체에 불과 바람속성 일부 마법 방어 무시 피해+일정 확률로 스톱 부여",
+        "Inflige des dégâts magiques de feu et de vent en partie fixes à tous les ennemis et confère une chance de leur infliger stop",
+        "Fügt teilweise direkten magischen Feuer- und Windschaden zu und Chance, allen Gegnern Stopp zu erteilen.",
+        "Daño mágico de fuego y viento que ignora parcialmente el ESP de todos los enemigos y puede infligirles paro",
+        "Memberikan damage magic api dan angin yang menembus sebagian SPR dan peluang untuk memberikan status stop pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aและ\u001aลม\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001aทุกราย\u001a"
+    ],
+    "100026207": [
+        "Deal partial unmitigated fire and wind magic damage and chance of stopping all enemies",
+        "對全體敵人發動火風屬性無視部分魔法防禦的攻擊+一定機率施加停止效果",
+        "적 전체에 불과 바람속성 일부 마법 방어 무시 피해+일정 확률로 스톱 부여",
+        "Inflige des dégâts magiques de feu et de vent en partie fixes à tous les ennemis et confère une chance de leur infliger stop",
+        "Fügt teilweise direkten magischen Feuer- und Windschaden zu und Chance, allen Gegnern Stopp zu erteilen.",
+        "Daño mágico de fuego y viento que ignora parcialmente el ESP de todos los enemigos y puede infligirles paro",
+        "Memberikan damage magic api dan angin yang menembus sebagian SPR dan peluang untuk memberikan status stop pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aและ\u001aลม\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001aทุกราย\u001a"
+    ],
     "100027105": [
         "Reduce fire resistance and deal partial unmitigated fire damage to all enemies",
         "降低全體敵人的火屬性耐性+發動火屬性無視部分防禦的攻擊",
@@ -7738,6 +7788,26 @@
         "Daña a un enemigo 2 veces y reduce su resistencia al hielo",
         "Memberikan damage 2 kali dan mengurangi resistansi es pada satu musuh",
         "สร้าง\u001aความ\u001aเสีย\u001a \u001a2\u001a \u001aครั้ง\u001a \u001aและ\u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100031607": [
+        "Reduce SPR and dark resistance and deal dark damage to all enemies",
+        "降低全體敵人的精神、暗屬性耐性+發動暗屬性攻擊",
+        "적 전체의 정신력과 어둠속성 저항력 감소+어둠속성 피해",
+        "Réduit la PSY et la résistance aux ténèbres de tous les ennemis, et leur inflige des dégâts de ténèbres",
+        "Verringert PSY sowie Dunkelresistenz und fügt allen Gegnern Dunkelschaden zu.",
+        "Reduce el ESP y la resistencia a oscuridad de todos los enemigos y les inflige daño de oscuridad",
+        "Mengurangi SPR dan resistansi kegelapan, serta memberikan damage kegelapan pada semua musuh",
+        "ลด\u001aค่า\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100031617": [
+        "Deal ice damage to one enemy",
+        "對1名敵人發動冰屬性攻擊",
+        "적 1명에게 얼음속성 피해",
+        "Inflige des dégâts de glace à un ennemi",
+        "Fügt einem Gegner Eisschaden zu.",
+        "Daño de hielo a un enemigo",
+        "Memberikan damage es pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "100031907": [
         "Damage one enemy and boost damage of certain abilities",
