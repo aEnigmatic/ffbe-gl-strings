@@ -5889,6 +5889,16 @@
         "Mengurangi ATK, DEF, MAG, dan SPR semua musuh, serta meningkatkan resistansi air pada semua teman",
         "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
+    "100020527": [
+        "Deal water damage and reduce water resistance for one enemy",
+        "對1名敵人發動水屬性攻擊+降低水屬性耐性",
+        "적 1명에게 물속성 피해+물속성 저항력 감소",
+        "Inflige des dégâts d'eau à un ennemi et réduit sa résistance à l'eau",
+        "Fügt Wasserschaden zu und verringert Wasserresistenz eines Gegners.",
+        "Daño de agua a un enemigo y reduce su resistencia al agua",
+        "Memberikan damage air dan mengurangi resistansi air pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "100020605": [
         "Damage all enemies and boost ATK and DEF for all allies",
         "攻擊全體敵人+提高全體隊員的攻擊防禦",
@@ -6008,6 +6018,16 @@
         "Daño de agua, reduce la resistencia al agua y a la luz de todos los enemigos, recupera PM de todos los aliados y rellena la barra de invocación",
         "Memberikan damage air dan mengurangi resistansi air dan cahaya pada semua musuh, memulihkan MP semua teman, serta mengisi bar summon",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aและ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aMP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aSummon\u001a \u001aGauge\u001a"
+    ],
+    "100020927": [
+        "Deal light damage to all enemies and remove DEF and SPR reductions for all allies",
+        "對全體敵人發動光屬性攻擊+解除全體隊員降低防禦精神的效果",
+        "적 전체에 빛속성 피해+아군 전체의 방어력과 정신력 감소 효과 해제",
+        "Inflige des dégâts de lumière à tous les ennemis et dissipe les malus de DEF et de PSY de tous les alliés",
+        "Fügt allen Gegnern Lichtschaden zu und entfernt ABW- sowie PSY-Verringerungen von allen Verbündeten.",
+        "Daño de luz a todos los enemigos y elimina las reducciones de DEF y ESP de todos los aliados",
+        "Memberikan damage cahaya pada semua musuh, serta menghilangkan efek pengurangan DEF dan SPR dari semua teman",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aยกเลิก\u001aการถู\u001aกลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "100021203": [
         "Deal partial unmitigated damage and reduce DEF for one enemy",
@@ -7808,6 +7828,56 @@
         "Daño de hielo a un enemigo",
         "Memberikan damage es pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100031707": [
+        "Boost light resistance, boost light damage of LB, abilities, and magic, and reduce damage taken for three turns for all allies",
+        "提高全體隊員的光屬性耐性+提高光屬性「極限技、能力、魔法」的傷害+3回合內減少傷害",
+        "아군 전체의 빛속성 저항력 상승+빛속성 LB, 어빌리티, 마법 피해량 상승+3턴 동안 아군 전체가 받는 피해량 감소",
+        "Augmente la résistance à la lumière de tous les alliés, augmente les dégâts de lumière de leur limite, de leurs aptitudes et de leurs sorts, et réduit leurs dégâts subis pendant 3 tours",
+        "Erhöht Lichtresistenz, erhöht Lichtschaden durch Limitrausch, Fertigkeiten sowie Magie und verringert drei Runden lang von allen Verbündeten erlittenen Schaden.",
+        "Aumenta la resistencia a la luz de todos los aliados, aumenta el daño de luz de su EL, habilidades y magia, y reduce el daño que reciben durante 3 turnos",
+        "Meningkatkan resistansi cahaya, meningkatkan damage cahaya pada LB, ability, dan magic, serta mengurangi damage yang diterima semua teman selama 3 giliran",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+    ],
+    "100031717": [
+        "Damage one enemy, and boost earth damage of LB, abilities, and magic and reduce damage taken for three turns for all allies",
+        "攻擊1名敵人+提高全體隊員土屬性「極限技、能力、魔法」的傷害+3回合內減少傷害",
+        "적 1명에게 피해+아군 전체의 땅속성 LB, 어빌리티, 마법 피해량 상승+3턴 동안 아군 전체가 받는 피해량 감소",
+        "Inflige des dégâts à un ennemi, augmente les dégâts de terre de la limite, des aptitudes et des sorts de tous les alliés, et réduit leurs dégâts subis pendant 3 tours",
+        "Fügt einem Gegner Schaden zu, erhöht Erdschaden durch Limitrausch, Fertigkeiten sowie Magie und verringert drei Runden lang von allen Verbündeten erlittenen Schaden.",
+        "Daña a un enemigo y aumenta el daño mágico de tierra del EL, las habilidades y la magia de todos los aliados, y reduce el daño que reciben durante 3 turnos",
+        "Memberikan damage pada satu musuh, serta meningkatkan damage tanah pada LB, ability, dan magic, dan mengurangi damage yang diterima semua teman selama 3 giliran",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+    ],
+    "100031805": [
+        "Deal dark damage to all enemies and reduce physical damage taken by all allies for four turns",
+        "對全體敵人發動暗屬性攻擊+4回合內減少對全體隊員的物理傷害",
+        "적 전체에 어둠속성 피해+4턴 동안 아군 전체가 받는 물리 피해량 감소",
+        "Inflige des dégâts de ténèbres à tous les ennemis et réduit les dégâts physiques subis par tous les alliés pendant 4 tours",
+        "Fügt allen Gegnern Dunkelschaden zu und verringert vier Runden lang von allen Verbündeten erlittenen physischen Schaden.",
+        "Daño de oscuridad a todos los enemigos y reduce el daño físico que reciben todos los aliados durante 4 turnos",
+        "Memberikan damage kegelapan pada semua musuh dan mengurangi damage fisik yang diterima semua teman selama 4 giliran",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกาย\u001aภาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a4\u001a \u001aเทิร์น\u001a"
+    ],
+    "100031806": [
+        "Deal dark damage to all enemies and reduce physical damage taken by all allies for four turns",
+        "對全體敵人發動暗屬性攻擊+4回合內減少對全體隊員的物理傷害",
+        "적 전체에 어둠속성 피해+4턴 동안 아군 전체가 받는 물리 피해량 감소",
+        "Inflige des dégâts de ténèbres à tous les ennemis et réduit les dégâts physiques subis par tous les alliés pendant 4 tours",
+        "Fügt allen Gegnern Dunkelschaden zu und verringert vier Runden lang von allen Verbündeten erlittenen physischen Schaden.",
+        "Daño de oscuridad a todos los enemigos y reduce el daño físico que reciben todos los aliados durante 4 turnos",
+        "Memberikan damage kegelapan pada semua musuh dan mengurangi damage fisik yang diterima semua teman selama 4 giliran",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกาย\u001aภาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a4\u001a \u001aเทิร์น\u001a"
+    ],
+    "100031807": [
+        "Deal dark damage to all enemies and reduce physical damage taken by all allies for four turns",
+        "對全體敵人發動暗屬性攻擊+4回合內減少對全體隊員的物理傷害",
+        "적 전체에 어둠속성 피해+4턴 동안 아군 전체가 받는 물리 피해량 감소",
+        "Inflige des dégâts de ténèbres à tous les ennemis et réduit les dégâts physiques subis par tous les alliés pendant 4 tours",
+        "Fügt allen Gegnern Dunkelschaden zu und verringert vier Runden lang von allen Verbündeten erlittenen physischen Schaden.",
+        "Daño de oscuridad a todos los enemigos y reduce el daño físico que reciben todos los aliados durante 4 turnos",
+        "Memberikan damage kegelapan pada semua musuh dan mengurangi damage fisik yang diterima semua teman selama 4 giliran",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกาย\u001aภาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a4\u001a \u001aเทิร์น\u001a"
     ],
     "100031907": [
         "Damage one enemy and boost damage of certain abilities",
@@ -22098,6 +22168,16 @@
         "Aumenta el ATQ propio, e inflige daño que ignora parcialmente la DEF de todos los enemigos y reduce su resistencia a la oscuridad",
         "Meningkatkan ATK diri sendiri, serta memberikan damage yang menembus sebagian DEF dan mengurangi resistansi kegelapan pada semua musuh",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aให้\u001aกับ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aกายภาพ\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "900000387": [
+        "Deal water damage and reduce water and light resistance for all enemies, restore MP for all allies, and fill evocation gauge",
+        "對全體敵人發動水屬性攻擊+降低水光屬性耐性+恢復全體隊員的MP+增加召喚槽",
+        "적 전체에 물속성 피해+물과 빛속성 저항력 감소+아군 전체의 MP 회복+소환 게이지 증가",
+        "Inflige des dégâts d'eau à tous les ennemis et réduit leur résistance à l'eau et à la lumière, restaure les PM de tous les alliés et remplit la jauge d'appel",
+        "Fügt allen Gegnern Wasserschaden zu, verringert ihre Wasser- sowie Lichtresistenz, regeneriert MP aller Verbündeten und füllt Rufleiste.",
+        "Daño de agua a todos los enemigos, reduce su resistencia a agua y luz, recupera PM de todos los aliados y rellena la barra de invocación",
+        "Memberikan damage air dan mengurangi resistansi air dan cahaya pada semua musuh, memulihkan MP semua teman, dan mengisi bar summon",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aและ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aMP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aSummon\u001a \u001aGauge\u001a"
     ],
     "900000388": [
         "Damage and reduce lightning resistance for all enemies, and boost ATK and MAG for all allies",
