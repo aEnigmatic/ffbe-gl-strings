@@ -4312,13 +4312,13 @@
         "Ability\u001a \u001aที่\u001aสามารถ\u001aได้มา\u001aนั้น\u001aจะ\u001aถูก\u001aตั้งค่า\u001aแยก\u001aตาม\u001aประเภท\u001aของ\u001aอุปกรณ์\u001a  \u001aตาราง\u001aแสดง\u001a \u001aDrop\u001a \u001aRate\u001a \u001aที่\u001aปรากฎ\u001aนี้\u001a \u001aจะ\u001aแสดงให้เห็น\u001aว่า\u001a \u001aใน\u001aบรรดา\u001aตัวเลือก\u001a \u001a3\u001a \u001aตัว\u001aที่\u001aปรากฎ\u001aหลัง\u001aเคลียร์\u001a \u001aFloor\u001a \u001aได้\u001aแล้ว\u001aนั้น\u001a \u001aจะ\u001aมี\u001aตัวเลือก\u001a \u001a1\u001a \u001aตัว\u001aขึ้นไป\u001aที่\u001aมีโอกาส\u001aเป็น\u001a \u001aAbility\u001a"
     ],
     "EQUIP_GROW_REWARD_SUB_HEADER": [
-        "The equipment enhancement event Rewards",
+        "Equipment Enhancement Event Rewards",
         "武具強化活動 達成報酬",
         "장비 강화 이벤트 달성 보상",
         "Récompenses de l'événement d'amélioration d'équipement",
-        "Ereignis zur Ausrüstungsverbesserung   Belohnungen",
-        "Recompensas de evento mejoraequipo",
-        "Hadiah event penguatan perlengkapan",
+        "Ereignis zur Ausrüstungsverbesserung-Belohnungen",
+        "Recompensas de evento de mejora de equipo",
+        "Hadiah Event Penguatan Perlengkapan",
         "รางวัล\u001aอีเวนท์\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001a"
     ],
     "EQUIP_GROW_RULE_SUB_HEADER_TITLE": [
@@ -4820,6 +4820,16 @@
         "Unidades equipables",
         "Unit yang Dapat Dilengkapi",
         "ยู\u001aนิ\u001aท\u001aที่ทำการ\u001aติดตั้ง\u001aได้\u001a"
+    ],
+    "EQUIP_WARNING_MSG": [
+        "This item is currently equipped by the unit above. Would you still like to equip it to another unit?",
+        "上述兵員正在裝備著。<br><br>是否卸除裝備並改由目前兵員裝備？",
+        "해당 아이템은 위 유닛이 장착하고 있습니다. 장비를 해제하고 현재 유닛에게 장착하시겠습니까?",
+        "Cet objet est actuellement équipé sur l'unité ci-dessus. Souhaitez-vous vraiment l'équiper sur une autre unité ?",
+        "Der Gegenstand wird derzeit von der oberen Einheit ausgerüstet. Mit dem Ausrüsten der derzeit gewählten Einheit fortfahren?",
+        "Este objeto ya está equipado en la unidad de arriba. ¿Quieres equiparlo en otra unidad de todas formas?",
+        "Item ini sedang digunakan oleh unit di atas. Apakah kamu masih ingin melengkapinya pada unit lain?",
+        "ไอเทม\u001aที่\u001aเลือก\u001aถูก\u001aติด\u001aตั้งอยู่\u001aกับ\u001aยู\u001aนิ\u001aท\u001aที่\u001aแสดง\u001aอยู่\u001a \u001aต้องการ\u001aจะ\u001aติดตั้ง\u001aไอเทม\u001aนี้\u001aกับ\u001aยู\u001aนิ\u001aทราย\u001aอื่น\u001aหรือไม่\u001a?\u001a"
     ],
     "ERROR_AC_OVER_CAP": [
         "Ability Capacity Reached",
@@ -7301,6 +7311,16 @@
         "Teruskan",
         "เพิ่ม\u001aระดับ\u001a"
     ],
+    "GACHA_BOX_RESET_ANNOUNCE": [
+        "Please advance to the next tier.",
+        "請前往下一階段的抽獎箱。",
+        "다음 단계를 진행해주십시오.",
+        "Veuillez continuer vers la prochaine boîte.",
+        "Bitte schreite zum nächsten Rang voran.",
+        "Avanza a la siguiente caja.",
+        "Silakan teruskan ke kotak berikutnya.",
+        "โปรด\u001aเลื่อน\u001aระดับ\u001aไป\u001aขั้น\u001aต่อไป\u001a"
+    ],
     "GACHA_BOX_RESET_FINAL_TEXT": [
         "Are you sure you want to advance to the next tier?",
         "確定要重置嗎？（最終確認）",
@@ -7611,6 +7631,16 @@
         "Periode summon telah berakhir.<br>Kembali ke layar Summon.",
         "ช่วงเวลา\u001aสำหรับ\u001aการ\u001aซัม\u001aม่อน\u001aรายการ\u001aนี้\u001aได้\u001aหมด\u001aลง\u001aแล้ว\u001a<br>\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aซัม\u001aม่อน\u001a"
     ],
+    "GACHA_NOT_HOLDING": [
+        "No summons available.",
+        "目前沒有可進行的召喚。",
+        "개최 중인 소환이 없습니다.",
+        "Aucune invocation disponible.",
+        "Keine Beschwörungen verfügbar.",
+        "No hay invocaciones disponibles.",
+        "Tidak ada summon yang tersedia.",
+        "ไม่\u001aมี\u001aซัม\u001aม่อน\u001aใด\u001aเปิด\u001aบริการ\u001aอยู่\u001a"
+    ],
     "GACHA_NV_UNIT_DETAIL_NOTICE": [
         "Neo Vision is at max level and EX +3, with max level limit burst.",
         "Neo Vision/Lv.MAX/極限技Lv.MAX/EX覺醒+3的狀態。",
@@ -7658,7 +7688,7 @@
         "Tableau :",
         "Kacheln:",
         "Bingo:",
-        "Papan:<blank>",
+        "Papan Panel:<blank>",
         "กระดาน\u001a:\u001a"
     ],
     "GACHA_PANEL_FREE": [
@@ -12101,6 +12131,16 @@
         "bulan",
         "เดือน\u001a"
     ],
+    "MSG_ACTION_FAVORITE_UNIT": [
+        "The process was canceled because the attempted process included some favorited units. <br>The app will now close.",
+        "處理過程中含有已鎖定的兵員，處理已被取消。<br>應用程式即將關閉。",
+        "일부 즐겨찾기 유닛이 시도한 프로세스에 포함되었습니다.<br>앱을 일단 종료합니다.",
+        "L'opération a échoué car une des unités sélectionnées est enregistrée dans vos favoris. <br>L'application va maintenant s'arrêter.",
+        "Der versuchte Prozess wurde abgebrochen, da er einige als Favoriten markierte Einheiten enthielt.<br>Die App schließt sich nun.",
+        "Se ha cancelado el proceso porque este incluía algunas unidades favoritas.<br>Cerrando la aplicación...",
+        "Proses telah dibatalkan karena proses ini akan diterapkan pada unit yang ditetapkan sebagai favorit.<br>Aplikasi akan ditutup.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aตั้ง\u001aเป็น\u001aของโปรด\u001aอยู่\u001a<br>\u001aแอพพลิเคชั่น\u001aจะ\u001aทำการ\u001aปิด\u001aตัว\u001aลง\u001a"
+    ],
     "MSG_ALREADY_CLAIMED_REWARD": [
         "The reward has already been claimed.",
         "已獲得此報酬。",
@@ -12201,6 +12241,26 @@
         "Hadiah Ekspedisi",
         "รางวัล\u001aการสำรวจ\u001a"
     ],
+    "MSG_FORBIDDEN_PURCHASE": [
+        "Your purchase has been halted due to evidence found of behavior violating our terms of service. If you believe that you are receiving this message in error, please contact customer service. We apologize for any inconvenience.",
+        "因確認到您違反使用規章的行為，現已中斷購買程序。<br>若您對此訊息有任何疑問，敬請聯繫客服團隊。造成您的不便，在此致上最誠摯的歉意。",
+        "이용약관을 위반한 증거가 발견되어 구매가 중단되었습니다. 해당 메시지를 잘못 받으신 경우 고객지원으로 문의해 주십시오. 서비스 이용에 불편함을 드려 죄송하다는 말씀드립니다.",
+        "Votre achat a été annulé car votre compte a été identifié comme allant à l'encontre de nos conditions générales d'utilisation. Notre service d'assistance est à votre disposition si vous estimez que ce message vous a été adressé par erreur. Nous sommes navrés pour le désagrément occasionné.",
+        "Der Kauf wurde angehalten, da Beweise dafür gefunden wurden, dass du gegen unsere Nutzungsbedingungen verstößt. Wenn du vermutest, dass du diese Nachricht infolge eines Fehlers erhalten hast,wende dich bitte an unseren Kundenservice. Wir entschuldigen uns vielmals für jegliche Unannehmlichkeiten.",
+        "Tu compra se ha cancelado al encontrar evidencias de un comportamiento que infringe los términos de servicio. Si crees que se trata de un error, por favor, ponte en contacto con nuestro servicio de atención al cliente. Disculpa las molestias ocasionadas.",
+        "Proses pembelianmu telah ditunda karena telah ditemukan bukti di mana Anda melanggar ketentuan layanan. Apabila Anda yakin bahwa pesan ini diterima akibat suatu kesalahan, silakan hubungi layanan pelanggan. Mohon maaf atas ketidaknyamanan yang telah ditimbulkan.",
+        "ไม่\u001aสามารถ\u001aซื้อ\u001aสินค้า\u001aนี้\u001aได้\u001aเนื่องจาก\u001aทาง\u001aระบบ\u001aได้\u001aตรวจ\u001aพบ\u001aหลักฐาน\u001aว่า\u001aผู้\u001aเล่น\u001aได้\u001aละเมิด\u001aข้อตกลง\u001aเงื่อนไข\u001aการ\u001aให้บริการ\u001aของ\u001aเรา\u001a \u001aหาก\u001aท่าน\u001aเชื่อ\u001aว่า\u001aท่าน\u001aไม่\u001aได้\u001aละเมิด\u001aเงื่อนไข\u001aการ\u001aให้บริการ\u001aใดๆ\u001a \u001aทาง\u001aเรา\u001aต้อง\u001aขอให้\u001aท่าน\u001aโปรด\u001aติดต่อ\u001aทาง\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aของ\u001aเรา\u001a \u001aทาง\u001aทีมงาน\u001aต้อง\u001aขออภัย\u001aต่อ\u001aความไม่สะดวก\u001a"
+    ],
+    "MSG_GAME_DATE_CHANGE": [
+        "The date has changed.<br>Returning to title.",
+        "日期已更新。<br>返回標題畫面。",
+        "날짜가 변경되었습니다.<br>초기 화면으로 돌아갑니다.",
+        "La date a changé.<br>Retour à l'écran titre.",
+        "Das Datum wurde aktualisiert.<br>Kehre zum Titelbildschirm zurück.",
+        "La fecha ha cambiado.<br>Volviendo a la pantalla de título.",
+        "Tanggal telah berubah.<br>Kembali ke judul.",
+        "วันที่\u001aถูก\u001aเปลี่ยนแปลง\u001a<br>\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a"
+    ],
     "MSG_INCORRECT_CAMPAIN_NO_PROBLEM": [
         "Serial code authenticated. Please claim your reward from your mailbox.",
         "序號認證錯誤。<br>請由收信箱中領取報酬道具。",
@@ -12230,6 +12290,26 @@
         "No se ha podido autenticar el código de serie. El código introducido ha caducado. Compruébalo otra vez.",
         "Kode seri tidak dapat diautentikasi. Kode yang kamu masukkan sudah tidak berlaku lagi. Silakan periksa kode sekali lagi.",
         "ไม่\u001aสามารถ\u001aทำการ\u001aรับรอง\u001a \u001aSerial\u001a \u001aCode\u001a \u001aได้\u001a \u001aรหัส\u001aที่\u001aคุณ\u001aกรอก\u001aลง\u001aไป\u001aนั้น\u001aหมดอายุการใช้งาน\u001aแล้ว\u001a \u001aโปรด\u001aเช็ค\u001aรหัส\u001aที่\u001aคุณ\u001aได้รับ\u001aอีกครั้ง\u001a"
+    ],
+    "MSG_INCORRECT_CLASS_UP": [
+        "Invalid awakening data.",
+        "覺醒資訊出現錯誤。",
+        "각성 정보가 올바르지 않습니다.",
+        "Données d'éveil incorrectes.",
+        "Ungültige Erweckdaten",
+        "Datos de despertar incorrectos.",
+        "Data kebangkitan tidak valid.",
+        "ข้อมูล\u001aปลุก\u001aพลัง\u001aไม่\u001aถูกต้อง\u001a"
+    ],
+    "MSG_INCORRECT_EQUIP_INFO": [
+        "Invalid equipment data.",
+        "裝備情報出現錯誤。",
+        "장비 정보가 올바르지 않습니다.",
+        "Données d'équipement incorrectes.",
+        "Ungültige Ausrüstungsdaten.",
+        "Datos de equipo no válidos.",
+        "Data perlengkapan tidak valid.",
+        "ข้อมูล\u001aอุปกรณ์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "MSG_INCORRECT_EXCHANGE_PRIZE": [
         "Invalid item exchange data.",
@@ -14361,106 +14441,6 @@
         "Terjadi kesalahan ketika memuat data. Kembali ke layar judul.<br>* Data yang gagal dimuat akan didownload ulang setelah game dimulai ulang.",
         "เกิด\u001aข้อผิดพลาด\u001aใน\u001aระหว่าง\u001aการ\u001aโหลด\u001aข้อมูล\u001a \u001aระบบ\u001aกำลัง\u001aกลับ\u001aไป\u001aยัง\u001aหน้าจอ\u001aไตเติ้ล\u001a<br>*\u001a \u001aข้อมูล\u001aที่\u001aไม่\u001aถูก\u001aดาวน์โหลด\u001aใน\u001aคราวนี้\u001a \u001aจะ\u001aได้รับ\u001aการ\u001aดาวน์โหลด\u001aซ้ำ\u001aเมื่อ\u001aคุณ\u001aเปิด\u001aเกม\u001aใหม่\u001aอีกครั้ง\u001a"
     ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_100000001": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_100000002": [
-        "Unusable: virulent smoke",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Unusable: virulent smoke",
-        "Unusable\u001a:\u001a \u001avirulent\u001a \u001asmoke\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_305791001": [
-        "Staggered",
-        "BREAK中",
-        "브레이크",
-        "Choqué",
-        "Taumelt",
-        "Aturdido",
-        "Stagger",
-        "ภาวะ\u001a \u001aBreak\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_306291000": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_310041000": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_310041001": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_311051000": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_311051001": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_312059000": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
-    "MST_MONSTER_PARTS_BREAK_DESCRIPTION_312059001": [
-        "Weakened",
-        "弱化中",
-        "능력치 감소",
-        "Affaibli",
-        "Geschwächt",
-        "Debilitado",
-        "Melemah",
-        "ภาวะ\u001aสเตตัส\u001aลด\u001a"
-    ],
     "MST_QUEST_DISP_NAME_3000001": [
         "??? (Felicitas Town)",
         "？？？(納夏特鎮)",
@@ -15996,7 +15976,7 @@
         "富裕秘銀寶箱",
         "풍성한 미스릴 보물상자",
         "Coffre en mithril de l'abondance",
-        "Mythriltruhe des Überflusses",
+        "Mithriltruhe des Überflusses",
         "Cofre de mitrilo de abundancia",
         "Mythril Chest of Abundance",
         "Mythril\u001a \u001aChest\u001a \u001aof\u001a \u001aAbundance\u001a"
@@ -16872,14 +16852,14 @@
         "ต้อง\u001aได้รับอนุญาต\u001aจาก\u001aเครื่อง\u001aโทรศัพท์\u001aก่อน\u001aเพื่อให้\u001aตัว\u001aเกม\u001aกู้\u001aข้อมูล\u001aได้\u001aโดยอัตโนมัติ\u001aเมื่อ\u001aติดตั้ง\u001aเกม\u001aอีกครั้ง\u001a<br><br>\u001aจะ\u001aไม่\u001aใช้\u001aข้อมูล\u001aของ\u001aโทรศัพท์\u001aและ\u001aข้อมูล\u001aจาก\u001aสมุดโทรศัพท์\u001a"
     ],
     "PERSONALIZED_ADS_AGE_VERIFY": [
-        "You must be 16 years or older to receive personalized advertisements. Are you 16 years or older?",
-        "您必須年滿16歲才能接收個人化廣告。您是否年滿16歲？",
-        "맞춤형 광고 수신은 16세 이상부터 가능합니다. 본인은 16세 이상입니까?",
-        "Vous devez avoir au moins 16 ans pour pouvoir recevoir du contenu publicitaire personnalisé. Avez-vous 16 ans ou plus ?",
-        "Du musst 16 Jahre oder älter sein, um personalisierte Werbung zu erhalten. Bist du 16 Jahre oder älter?",
-        "Debes tener mínimo 16 años para poder recibir anuncios personalizados. ¿Tienes 16 años o más?",
-        "Anda harus berusia setidaknya 16 tahun untuk menerima iklan personal. Apakah Anda berusia 16 tahun atau lebih?",
-        "คุณ\u001aต้อง\u001aมีอายุ\u001aตั้งแต่\u001a \u001a16\u001a \u001aปี\u001aขึ้นไป\u001aใน\u001aการ\u001aรับ\u001aโฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001a \u001aคุณ\u001aมีอายุ\u001aตั้งแต่\u001a \u001a16\u001a \u001aปี\u001aขึ้นไป\u001aหรือไม่\u001a?\u001a"
+        "Is your age 16 years or over?",
+        "您是否年滿16歲？",
+        "귀하의 나이는 16세 이상입니까?",
+        "Avez-vous plus de 16 ans ?",
+        "Bist du 16 Jahre oder älter?",
+        "¿Tienes 16 años o más?",
+        "Apakah Anda berusia 16 tahun atau lebih?",
+        "คุณ\u001aมีอายุ\u001a \u001a16\u001a \u001aปี\u001aขึ้นไป\u001aหรือไม่\u001a?\u001a"
     ],
     "PERSONALIZED_ADS_CONSENT_HEAD": [
         "Advertising Consent",
@@ -16902,34 +16882,34 @@
         "ความยินยอม\u001aใน\u001aการ\u001aรับ\u001aโฆษณา\u001a"
     ],
     "PERSONALIZED_ADS_CONSENT_OFF_MSG": [
-        "Non-personalized advertising selected. You can change this option at any time via [Menu] > [Options].",
-        "已選擇非個人化廣告。日後可透過[MENU] > [設定]更改設定。",
-        "비맞춤형 광고를 선택하셨습니다. [메뉴] > [옵션]에서 해당 옵션을 변경할 수 있습니다.",
-        "Contenu publicitaire personnalisé désactivé. Vous pouvez modifier ce paramètre à tout moment via \"Menu\" > \"Réglages\"",
-        "Nicht personalisierte Werbung ausgewählt. Du kannst die Einstellung jederzeit unter [Menü] > [Optionen] ändern.",
-        "Has seleccionado recibir publicidad no personalizada. Puedes cambiar esta opción en cualquier momento en [Menú] > [Opciones].",
+        "Non-personalized advertising selected. You can change this option at any time via [Menu] > [Options].<br>Certain third party services require relaunch of the app to take effect.",
+        "已選擇非個人化廣告。日後可透過[MENU] > [設定]更改設定。<br>特定第三方服務將需要重新啟動該應用程式來進行連接。",
+        "비맞춤형 광고를 선택하셨습니다. [메뉴] > [설정]에서 언제든지 설정을 변경할 수 있습니다.<br>일부 제3자 서비스의 경우 앱을 다시 실행해야 새로운 설정이 적용됩니다.",
+        "Contenu publicitaire non personnalisé sélectionné. Vous pouvez modifier cette option à tout moment via [Menu] > [Réglages].<br>Certains services tiers nécessitent un redémarrage de l'application pour prendre effet.",
+        "Nicht personalisierte Werbung ausgewählt. Du kannst die Einstellung jederzeit unter [Menü] > [Optionen] ändern.<br>Bestimmte Drittanbieter-Dienstleistungen erfordern einen Neustart der App, um wirksam zu werden.",
+        "Has seleccionado recibir publicidad no personalizada. Puedes cambiar esta opción en cualquier momento en [Menú] > [Opciones].<br>Algunos seevicios de terceros requieren que se reinicie la aplicación para surtir efecto.",
         "Iklan personal telah dinonaktifkan. Anda dapat mengganti pengaturan ini kapan saja melalui [Menu] > [Pengaturan].",
-        "คุณ\u001aเลือก\u001aรับ\u001aโฆษณา\u001aแบบ\u001aไม่\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001a \u001aคุณ\u001aสามารถ\u001aเปลี่ยน\u001aตัวเลือก\u001aนี้\u001aเมื่อไร\u001aก็ได้\u001aโดย\u001aการ\u001aไป\u001aที่\u001a \u001a[\u001aMenu\u001a]\u001a \u001a>\u001a \u001a[\u001aตัวเลือก\u001a].\u001a"
+        "เลือก\u001aรับ\u001aโฆษณา\u001aแบบ\u001aไม่\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001aของ\u001aคุณ\u001aอยู่\u001a \u001aโดย\u001aคุณ\u001aสามารถ\u001aเปลี่ยน\u001aตัวเลือก\u001aนี้\u001aเมื่อไร\u001aก็ได้\u001aโดย\u001aการ\u001aไป\u001aที่\u001a \u001a[\u001aMenu\u001a]\u001a \u001a>\u001a \u001a[\u001aตัวเลือก\u001a]\u001a \u001a[\u001aตัวเลือก\u001a]<br>\u001aจำเป็นต้อง\u001aทำการ\u001aเริ่ม\u001aแอพพลิเคชั่น\u001aใหม่\u001aอีกครั้ง\u001aเพื่อ\u001aให้การ\u001aตั้งค่า\u001aมีผลต่อ\u001aโปรแกรม\u001aบางอย่าง\u001aที่\u001aให้บริการ\u001aโดย\u001aบุคคลที่สาม\u001a"
     ],
     "PERSONALIZED_ADS_CONSENT_ON_MSG": [
-        "Personalized advertising selected. You can change this option at any time via [Menu] > [Options].",
-        "已選擇個人化廣告。日後可透過[MENU] > [設定]更改設定。",
-        "맞춤형 광고를 선택하셨습니다. [메뉴] > [옵션]에서 해당 옵션을 변경할 수 있습니다.",
-        "Contenu publicitaire personnalisé activé. Vous pouvez modifier ce paramètre à tout moment via \"Menu\" > \"Réglages\".",
-        "Personalisierte Werbung ausgewählt. Du kannst die Einstellung jederzeit unter [Menü] > [Optionen] ändern.",
-        "Has seleccionado recibir publicidad personalizada. Puedes cambiar esta opción en cualquier momento en [Menú] > [Opciones].",
+        "Personalized advertising selected. You can change this option at any time via [Menu] > [Options].<br>Certain third party services require relaunch of the app to take effect.",
+        "已選擇個人化廣告。日後可透過[MENU] > [設定]更改設定。<br>特定第三方服務將需要重新啟動該應用程式來進行連接。",
+        "맞춤형 광고를 선택하셨습니다. [메뉴] > [설정]에서 언제든지 설정을 변경할 수 있습니다.<br>일부 제3자 서비스의 경우 앱을 다시 실행해야 새로운 설정이 적용됩니다.",
+        "Contenu publicitaire personnalisé sélectionné. Vous pouvez modifier cette option à tout moment via [Menu] > [Réglages].<br>Certains services tiers nécessitent un redémarrage de l'application pour prendre effet.",
+        "Personalisierte Werbung ausgewählt. Du kannst die Einstellung jederzeit unter [Menü] > [Optionen] ändern.<br>Bestimmte Drittanbieter-Dienstleistungen erfordern einen Neustart der App, um wirksam zu werden.",
+        "Has seleccionado recibir publicidad personalizada. Puedes cambiar esta opción en cualquier momento en [Menú] > [Opciones].<br>Algunos seevicios de terceros requieren que se reinicie la aplicación para surtir efecto.",
         "Iklan personal telah diaktifkan. Anda dapat mengganti pengaturan ini kapan saja melalui [Menu] > [Pengaturan].",
-        "คุณ\u001aเลือก\u001aรับ\u001aโฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001a \u001aคุณ\u001aสามารถ\u001aเปลี่ยน\u001aตัวเลือก\u001aนี้\u001aเมื่อไร\u001aก็ได้\u001aโดย\u001aการ\u001aไป\u001aที่\u001a \u001a[\u001aMenu\u001a]\u001a \u001a>\u001a \u001a[\u001aตัวเลือก\u001a].\u001a"
+        "เลือก\u001aรับ\u001aโฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001aของ\u001aคุณ\u001aอยู่\u001a \u001aโดย\u001aคุณ\u001aสามารถ\u001aเปลี่ยน\u001aตัวเลือก\u001aนี้\u001aเมื่อไร\u001aก็ได้\u001aโดย\u001aการ\u001aไป\u001aที่\u001a \u001a[\u001aMenu\u001a]\u001a \u001a>\u001a \u001a[\u001aตัวเลือก\u001a]\u001a \u001a[\u001aตัวเลือก\u001a]<br>\u001aจำเป็นต้อง\u001aทำการ\u001aเริ่ม\u001aแอพพลิเคชั่น\u001aใหม่\u001aอีกครั้ง\u001aเพื่อ\u001aให้การ\u001aตั้งค่า\u001aมีผลต่อ\u001aโปรแกรม\u001aบางอย่าง\u001aที่\u001aให้บริการ\u001aโดย\u001aบุคคลที่สาม\u001a"
     ],
     "PERSONALIZED_ADS_CONSENT_REQUEST": [
-        "Would you like to receive personalized advertising?",
-        "您是否願意接收個人化廣告？",
-        "맞춤형 광고를 수신하시겠습니까?",
-        "Souhaitez-vous recevoir du contenu publicitaire personnalisé ?",
-        "Möchtest du personalisierte Werbung erhalten?",
-        "¿Te gustaría recibir publicidad personalizada?",
-        "Apakah Anda ingin menerima iklan personal?",
-        "คุณ\u001aต้องการ\u001aรับ\u001aโฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001aหรือไม่\u001a?\u001a"
+        "Would you like to share your personal information to see ads tailored to your interests? Your preference will be applied across all of our services. You can change your answer at any time in the [Menu] > [Options].",
+        "您是否願意接收個人化廣告？此設定將全面通用於本遊戲。日後可透過[MENU] > [設定]更改設定。",
+        "관심사에 맞는 광고를 수신하기 위해 개인 정보를 공유하시겠습니까? 이 설정은 당사의 서비스 전반에 적용됩니다. [메뉴] > [설정]에서 언제든지 설정을 변경할 수 있습니다.",
+        "Voulez-vous partager vos informations personnelles pour recevoir du contenu commercial personnalisé ? Vos préférences seront appliquées à tous nos services. Vous pouvez votre réponse à tous moment via [Menu] > [Réglages].",
+        "Würdest du deine persönlichen Informationen gerne teilen, um an deine Interessen angepasste Werbung zu erhalten? Deine Entscheidung wird auf alle unsere Dienstleistungen angewendet. Du kannst deine Antwort jeder Zeit unter [Menü] > [Optionen] ändern.",
+        "¿Quieres compartir tu información personal para recibir anuncios que se ajusten a tus intereses? Se aplicarán tus preferencias a todos nuestros servicios. Puedes cambiar la respuesta en cualquier momento en [Menú] > [Opciones].",
+        "Apakah Anda ingin membagikan informasi pribadi Anda untuk menerima iklan yang disesuaikan dengan preferensi Anda? Preferensi tersebut akan berlaku untuk semua layanan kami. Anda dapat mengubah jawaban Anda setiap saat melalui [Menu] > [Pengaturan].",
+        "คุณ\u001aต้องการ\u001aเปิดเผย\u001aข้อมูล\u001aส่วนตัว\u001aของ\u001aคุณ\u001aเพื่อ\u001aได้รับ\u001aโฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001aของ\u001aคุณ\u001aหรือไม่\u001a?\u001a \u001aการ\u001aตั้งค่า\u001aของ\u001aคุณ\u001aจะ\u001aมีผลต่อ\u001aโปรแกรม\u001aทั้งหมด\u001aที่\u001aเรา\u001aให้บริการ\u001a \u001aโดย\u001aคุณ\u001aสามารถ\u001aเปลี่ยน\u001aตัวเลือก\u001aนี้\u001aเมื่อไร\u001aก็ได้\u001aโดย\u001aการ\u001aไป\u001aที่\u001a \u001a[\u001aMenu\u001a]\u001a \u001a>\u001a \u001a[\u001aตัวเลือก\u001a]\u001a"
     ],
     "PERSONALIZED_ADS_EEA": [
         "Do you reside in the EEA (European Economic Area)?",
@@ -16950,6 +16930,16 @@
         "Publicidad personalizada",
         "Iklan Personal",
         "โฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001a"
+    ],
+    "PERSONALIZED_ADS_SETTING_CONSENT_REQUEST": [
+        "Turn on to share your personal information and see advertisements tailored to your interests. If you turn this off, you may still receive the same number of advertisements, but they will be less relevant to you. Your preference will be applied across all of our services.",
+        "開啟此設定來分享您的個人資料，並接收量身打造的廣告體驗。若關閉此設定，您仍會看到廣告，但與您的相關程度將會下降。此設定將全面通用於本遊戲。",
+        "개인 정보를 공유하고 관심사에 맞는 광고를 수신하기 위해 설정을 ON으로 선택하십시오. 설정을 OFF로 선택하면 동일한 수의 광고를 수신할 수 있지만 귀하와의 관련성이 적은 광고가 수신됩니다. 이 설정은 당사의 서비스 전반에 적용됩니다.",
+        "Activez cette fonction pour partager vos informations personnelles et voir du contenu commercial personnalisé. Si vous désactivez cette option, vous recevrez toujours le même nombre d'annonces, mais elles seront moins pertinentes pour vous. Vos préférences seront appliquées à l'ensemble de nos services.",
+        "Schalte diese Option ein, um deine persönlichen Informationen zu teilen und Werbung zu erhalten, die an deine Interessen angepasst wurde. Wenn diese Option nicht eingeschaltet wurde, erhältst du weiterhin die selbe Anzahl an Werbung, aber sie wird weniger relevant für dich sein. Deine Entscheidung wird auf alle unsere Dienstleistungen angewendet.",
+        "Activa esta opción para compartir tu información personal y ver anuncios que se ajusten a tus intereses. Si la desactivas, puede que sigas recibiendo el mismo número de anuncios, pero serán menos relevantes para ti. Se aplicarán tus preferencias a todos nuestros servicios.",
+        "Aktifkan pilihan ini untuk membagikan informasi pribadi Anda dan melihat iklan yang disesuaikan dengan preferensi Anda. Apabila Anda menonaktifkannya, Anda masih dapat menerima sejumlah iklan yang sama, tapi tidak relevan bagi Anda. Preferensi Anda akan berlaku untuk semua layanan kami.",
+        "เลือก\u001aเปิด\u001aเปิดเผย\u001aข้อมูล\u001aส่วนตัว\u001aของ\u001aคุณ\u001aเพื่อ\u001aรับ\u001aโฆษณา\u001aแบบ\u001aปรับ\u001aตาม\u001aความสนใจ\u001aส่วนบุคคล\u001aของ\u001aคุณ\u001a \u001aหาก\u001aคุณ\u001aปิด\u001aตัวเลือก\u001aนี้\u001aไว้\u001a \u001aคุณ\u001aจะ\u001aยังคง\u001aได้รับ\u001aโฆษณา\u001aใน\u001aจำนวน\u001aที่\u001aไม่\u001aต่าง\u001aจาก\u001aเดิม\u001aนัก\u001a \u001aแต่\u001aเนื้อหา\u001aหา\u001aโฆษณา\u001aเหล่านั้น\u001aจะ\u001aไม่\u001aถูกปรับ\u001aให้\u001aตรง\u001aกับ\u001aความสนใจ\u001aของ\u001aคุณ\u001a \u001aการ\u001aตั้งค่า\u001aของ\u001aคุณ\u001aจะ\u001aมีผลต่อ\u001aโปรแกรม\u001aทั้งหมด\u001aที่\u001aเรา\u001aให้บริการ\u001a"
     ],
     "PERSONALIZED_ADS_TOS_MSG": [
         "Details of any data collected and third party ad tech vendors' policies can be viewed <color=255:255:0>here</color>.",
@@ -17072,14 +17062,14 @@
         "รอ\u001aรายละเอียด\u001aอยู่\u001a"
     ],
     "POLICY_TOP": [
-        "I agree with the Terms of Use and Privacy Policy.",
-        "我同意服務條款及隱私權政策。",
-        "이용약관 및 개인정보보호정책에 동의합니다.",
-        "J'accepte les Conditions Générales d'Utilisation et la politique de confidentialité.",
-        "Ich erkläre mich mit den Nutzungsbedingungen und Datenschutzbestimmungen einverstanden.",
-        "Acepto los términos de uso y la política de privacidad.",
-        "Saya menyetujui Ketentuan Penggunaan dan Kebijakan Privasi.",
-        "ข้าพเจ้า\u001aยอมรับ\u001aใน\u001aข้อตกลง\u001aการใช้งาน\u001aและ\u001aนโยบาย\u001aสิทธิส่วนบุคคล\u001a"
+        "Please confirm that you agree to our Terms of Use and have read and understood our Privacy Policy.",
+        "請確認您已閱讀並同意服務條款及隱私權政策。",
+        "이용약관에 동의하고 개인정보보호정책을 읽고 이해했는지 확인해 주십시오.",
+        "Veuillez confirmer que vous acceptez nos conditions d'utilisation et que vous avez lu et compris notre politique de confidentialité.",
+        "Bitte bestätige, dass du unsere Nutzungsbedingungen gelesen und unsere Datenschutzbestimmungen verstanden hast.",
+        "Confirma que aceptas nuestros términos de uso y que has leído y entendido nuestra política de privacidad.",
+        "Harap konfirmasi bahwa Anda menyetujui Ketentuan Penggunaan, dan telah membaca serta menyetujui Kebijakan Privasi kami.",
+        "โปรด\u001aยืนยัน\u001aว่า\u001aคุณ\u001aยอมรับ\u001aข้อตกลง\u001aการใช้งาน\u001aของ\u001aเรา\u001a \u001aและ\u001aได้\u001aทำการ\u001aอ่าน\u001aนโยบาย\u001aสิทธิส่วนบุคคล\u001aแล้ว\u001a"
     ],
     "POLICY_TOP2": [
         "I agree with the Terms of Use.",
@@ -21981,6 +21971,46 @@
         "Sentuh material untuk memilih.",
         "โปรด\u001aแตะ\u001aเลือก\u001aวัตถุดิบ\u001a"
     ],
+    "SP_CLASSUP_NOREWARD": [
+        "Parameter Boost",
+        "狀態數值提升",
+        "능력치 상승",
+        "Augmentation de caractéristiques",
+        "Werteerhöhung",
+        "Aumento de parámetros",
+        "Peningkatan Parameter",
+        "เพิ่มค่า\u001aสเตตัส\u001a"
+    ],
+    "SP_CLASSUP_REWARD_EMBLEM": [
+        "<param=emblem_name> Emblem x <param=emblem_num>",
+        "<param=emblem_name> 徽章 x <param=emblem_num>",
+        "문장 '<param=emblem_name>' x <param=emblem_num>",
+        "Blason \"<param=emblem_name>\" x<param=emblem_num>",
+        "Emblem: \"<param=emblem_name>\" x <param=emblem_num>",
+        "Emblema \"<param=emblem_name>\" x<param=emblem_num>",
+        "Emblem \"<param=emblem_name>\" x<param=emblem_num>",
+        "เหรียญตรา\u001a \u001a\"<param=emblem_name>\"\u001a \u001a<param=emblem_num>\u001a"
+    ],
+    "SP_CLASSUP_REWARD_NVSHIFT": [
+        "Unlock Brave Shift",
+        "BRAVE SHIFT解放",
+        "브레이브 시프트 개방",
+        "Forme extrême débloquée",
+        "Heldenwandel freischalten",
+        "Desbloquear forma Brave",
+        "Buka Brave Shift",
+        "ปลด\u001aล็อค\u001a \u001aBrave\u001a \u001aShift\u001a"
+    ],
+    "SP_CLASSUP_REWARD_TITLE": [
+        "EX Rewards",
+        "EX覺醒獎勵",
+        "EX 각성 보상",
+        "Récompenses EX",
+        "EX-Belohnungen",
+        "Recompensas EX",
+        "HadiH EX",
+        "รางวัล\u001a \u001aEX\u001a"
+    ],
     "SP_CLASSUP_TRANS_BASE_SELECT_LOCKED": [
         "Unit cannot be converted as it is currently <color=255:255:0>locked</color>. Please <color=255:255:0>unlock</color> this unit via the unit details screen.<br>*The unit details screen can be accessed by <color=255:255:0>performing a long tap on a unit</color>.",
         "兵員已開啟<color=255:255:0>保護設定</color>，因此無法進行覺醒變換。請在<br>兵員詳細畫面中<color=255:255:0>解除保護設定</color>。<br>※只要<color=255:255:0>長按兵員</color>就能夠開啟兵員詳細畫面。",
@@ -23801,6 +23831,46 @@
         "Material Kebangkitan Ability",
         "วัตถุดิบ\u001aปลุก\u001aพลัง\u001a"
     ],
+    "UNIT_ABILITY_LEVEL_UP_NEED_MATERIAL_CAPTION": [
+        "Materials Required",
+        "必需素材",
+        "필요한 재료",
+        "Matériaux requis",
+        "Materialien benötigt",
+        "Materiales necesarios",
+        "Material yang Diperlukan",
+        "วัตถุดิบ\u001aที่\u001aจำเป็น\u001a"
+    ],
+    "UNIT_ABILITY_LEVEL_UP_NEED_MATERIAL_SHORTAGE": [
+        "-<param=need_num>",
+        "-<param=need_num>",
+        "-<param=need_num>",
+        "-<param=need_num>",
+        "-<param=need_num>",
+        "-<param=need_num>",
+        "-<param=need_num>",
+        "-\u001a<param=need_num>\u001a"
+    ],
+    "UNIT_ABILITY_LEVEL_UP_NEED_MATERIAL_SUFFICE": [
+        "OK",
+        "OK",
+        "확인",
+        "OK",
+        "OK",
+        "OK",
+        "OK",
+        "OK\u001a"
+    ],
+    "UNIT_ABILITY_LEVEL_UP_NOTHING": [
+        "No abilities to awaken.",
+        "無可強化之能力",
+        "강화 가능한 어빌리티가 없습니다.",
+        "Aucune aptitude ne peut être éveillée.",
+        "Keine zu erweckenden Fertigkeiten.",
+        "No hay habilidades para despertar.",
+        "Tidak ada ability yang dibangkitkan.",
+        "ไม่\u001aมี\u001a \u001aAbility\u001a \u001aที่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aได้\u001a"
+    ],
     "UNIT_ABILITY_LEVEL_UP_OK": [
         "Ability can be awakened.",
         "可以強化。",
@@ -24900,6 +24970,16 @@
         "<color=255:255:0>Aviso</color>",
         "<color=255:255:0>Peringatan</color>",
         "<color=255:255:0>\u001aคำเตือน\u001a</color>\u001a"
+    ],
+    "UNIT_SKILL_NG_EX_LV": [
+        "Acquired at EX +<param=ex_lv>.",
+        "EX覺醒+<param=ex_lv>可習得",
+        "EX 각성+<param=ex_lv>에서 개방",
+        "Disponible à EX +<param=ex_lv>.",
+        "Erhalten mit EX +<param=ex_lv>.",
+        "Se consigue con EX +<param=ex_lv>.",
+        "Didapatkan pada EX覚醒+<param=ex_lv>.",
+        "ได้รับ\u001aเมื่อ\u001aปลุก\u001aพลัง\u001aถึง\u001a \u001aEX\u001a+<param=ex_lv>\u001a"
     ],
     "UNIT_SKILL_SWITCH_INVALID": [
         "Unlocked when conditions are met",
