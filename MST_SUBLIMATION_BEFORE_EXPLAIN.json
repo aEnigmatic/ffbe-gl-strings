@@ -11273,8 +11273,8 @@
         "Boosts LB gauge increase (from 100 ~ 300 to 400)",
         "提高極限技槽增加量(從100~300提高至400)",
         "LB 게이지 증가량 상승(400)",
-        "Amplifie l'augmentation du taux de remplissage de la jauge de limite (de 100 ~ 300 à 400)",
-        "Steigert Erhöhung der Limitmeterfüllung(von 1 ~ 3 auf 4)",
+        "Amplifie l'augmentation de la jauge de limite (de 100 ~ 300 à 400)",
+        "Steigert Erhöhung der Limitmeterfüllung(von 100 ~ 300 auf 400)",
         "Mayor aumento de la barra de EL (de 100 ~ 300 a 400)",
         "Menambah jumlah pengisian bar LB (dari 100 ~ 300 menjadi 400)",
         "เพิ่มค่า\u001a \u001aLB\u001a \u001aGauge\u001a \u001aที่\u001aถูก\u001aเพิ่ม\u001a \u001a(\u001aจาก\u001a \u001a100\u001a \u001a~\u001a \u001a300\u001a \u001ato\u001a \u001a400\u001a)\u001a"
@@ -18577,7 +18577,7 @@
         "Erhöht MP (um 30%)<br>Erhöht Chance, dem Tod zu entkommen, wenn LP über einem bestimmten Punkt liegen (auf 100%)",
         "Aumenta los PM (un 30%)<br>Aumenta la probabilidad de evitar quedar K.O. cuando la VIT está por encima de cierto nivel (a un 100%)",
         "Meningkatkan MP (30%)<br>Meningkatkan peluang untuk menghindari K.O. ketika HP lebih dari batas tertentu (menjadi 100%)",
-        "เพิ่มค่า\u001a \u001aMP\u001a \u001a(\u001a30%)<br>\u001aสามารถ\u001aหลีกเลี่ยง\u001a \u001aKO\u001a \u001aได้\u001aเมื่อ\u001aมี\u001a \u001aHP\u001a \u001aสู\u001aงก\u001aว่าที่\u001aกำหนด\u001a \u001a(\u001aเป็น\u001a \u001a100%)\u001a"
+        "เพิ่มค่า\u001a \u001aMP\u001a \u001a(\u001a30%)<br>\u001aสามารถ\u001aหลีกเลี่ยง\u001a \u001aKO\u001a \u001aได้\u001aเมื่อ\u001aมี\u001a \u001aHP\u001a \u001aสูง\u001a<br>\u001aกว่า\u001aที่\u001aกำหนด\u001a \u001a(\u001aเป็น\u001a \u001a100%)\u001a"
     ],
     "230196001": [
         null,
@@ -23578,6 +23578,526 @@
         "Inflige daño (un 4300%)",
         "Memberikan damage (4300%)",
         "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a4300%)\u001a"
+    ],
+    "300000463": [
+        "Deals ice damage (5000%)<br>Fills LB gauge (600)",
+        "發動冰屬性攻擊(5000%)<br>增加極限技槽(600)",
+        "얼음속성 피해(5000%)<br>LB 게이지 증가(600)",
+        "Inflige des dégâts de glace (5000 %)<br>Remplit la jauge de limite (600)",
+        "Fügt Eisschaden zu (5000%)<br>Füllt Limitmeter (600)",
+        "Inflige daño de hielo (un 5000%)<br>Rellena la barra de EL (en 600)",
+        "Memberikan damage es (5000%)<br>Mengisi bar LB (600)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a5000%)<br>เติม LB Gauge\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300000464": [
+        "Deals ice damage (5800%)<br>Fills LB gauge (600)",
+        "發動冰屬性攻擊(5800%)<br>增加極限技槽(600)",
+        "얼음속성 피해(5800%)<br>LB 게이지 증가(600)",
+        "Inflige des dégâts de glace (5800 %)<br>Remplit la jauge de limite (600)",
+        "Fügt Eisschaden zu (5800%)<br>Füllt Limitmeter (600)",
+        "Inflige daño de hielo (un 5800%)<br>Rellena la barra de EL (en 600)",
+        "Memberikan damage es (5800%)<br>Mengisi bar LB (600)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a5800%)<br>เติม LB Gauge\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300000465": [
+        "Deals ice damage (6600%)<br>Fills LB gauge (700)",
+        "發動冰屬性攻擊(6600%)<br>增加極限技槽(700)",
+        "얼음속성 피해(6600%)<br>LB 게이지 증가(700)",
+        "Inflige des dégâts de glace (6600 %)<br>Remplit la jauge de limite (700)",
+        "Fügt Eisschaden zu (6600%)<br>Füllt Limitmeter (700)",
+        "Inflige daño de hielo (un 6600%)<br>Rellena la barra de EL (en 700)",
+        "Memberikan damage es (6600%)<br>Mengisi bar LB (700)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a6600%)<br>เติม LB Gauge\u001a \u001a(\u001a700\u001a)\u001a"
+    ],
+    "300000466": [
+        "Deals ice damage (7300%)<br>Fills LB gauge (700)",
+        "發動冰屬性攻擊(7300%)<br>增加極限技槽(700)",
+        "얼음속성 피해(7300%)<br>LB 게이지 증가(700)",
+        "Inflige des dégâts de glace (7300 %)<br>Remplit la jauge de limite (700)",
+        "Fügt Eisschaden zu (7300%)<br>Füllt Limitmeter (700)",
+        "Inflige daño de hielo (un 7300%)<br>Rellena la barra de EL (en 700)",
+        "Memberikan damage es (7300%)<br>Mengisi bar LB (700)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a7300%)<br>เติม LB Gauge\u001a \u001a(\u001a700\u001a)\u001a"
+    ],
+    "300000467": [
+        "Deals wind damage (5000%)<br>Fills LB gauge (600)",
+        "發動風屬性攻擊(5000%)<br>增加極限技槽(600)",
+        "바람속성 피해(5000%)<br>LB 게이지 증가(600)",
+        "Inflige des dégâts de vent (5000 %)<br>Remplit la jauge de limite (600)",
+        "Fügt Windschaden zu (5000%)<br>Füllt Limitmeter (600)",
+        "Inflige daño de viento (un 5000%)<br>Rellena la barra de EL (en 600)",
+        "Memberikan damage angin (5000%)<br>Mengisi bar LB (600)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a5000%)<br>เติม LB Gauge\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300000468": [
+        "Deals wind damage (5800%)<br>Fills LB gauge (600)",
+        "發動風屬性攻擊(5800%)<br>增加極限技槽(600)",
+        "바람속성 피해(5800%)<br>LB 게이지 증가(600)",
+        "Inflige des dégâts de vent (5800 %)<br>Remplit la jauge de limite (600)",
+        "Fügt Windschaden zu (5800%)<br>Füllt Limitmeter (600)",
+        "Inflige daño de viento (un 5800%)<br>Rellena la barra de EL (en 600)",
+        "Memberikan damage angin (5800%)<br>Mengisi bar LB (600)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a5800%)<br>เติม LB Gauge\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300000469": [
+        "Deals wind damage (6600%)<br>Fills LB gauge (700)",
+        "發動風屬性攻擊(6600%)<br>增加極限技槽(700)",
+        "바람속성 피해(6600%)<br>LB 게이지 증가(700)",
+        "Inflige des dégâts de vent (6600 %)<br>Remplit la jauge de limite (700)",
+        "Fügt Windschaden zu (6600%)<br>Füllt Limitmeter (700)",
+        "Inflige daño de viento (un 6600%)<br>Rellena la barra de EL (en 700)",
+        "Memberikan damage angin (6600%)<br>Mengisi bar LB (700)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a6600%)<br>เติม LB Gauge\u001a \u001a(\u001a700\u001a)\u001a"
+    ],
+    "300000470": [
+        "Deals wind damage (7300%)<br>Fills LB gauge (700)",
+        "發動風屬性攻擊(7300%)<br>增加極限技槽(700)",
+        "바람속성 피해(7300%)<br>LB 게이지 증가(700)",
+        "Inflige des dégâts de vent (7300 %)<br>Remplit la jauge de limite (700)",
+        "Fügt Windschaden zu (7300%)<br>Füllt Limitmeter (700)",
+        "Inflige daño de viento (un 7300%)<br>Rellena la barra de EL (en 700)",
+        "Memberikan damage angin (7300%)<br>Mengisi bar LB (700)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a7300%)<br>เติม LB Gauge\u001a \u001a(\u001a700\u001a)\u001a"
+    ],
+    "300000471": [
+        "Deals water damage (5000%)<br>Fills LB gauge (600)",
+        "發動水屬性攻擊(5000%)<br>增加極限技槽(600)",
+        "물속성 피해(5000%)<br>LB 게이지 증가(600)",
+        "Inflige des dégâts d'eau (5000 %)<br>Remplit la jauge de limite (600)",
+        "Fügt Wasserschaden zu (5000%)<br>Füllt Limitmeter (600)",
+        "Inflige daño de agua (un 5000%)<br>Rellena la barra de EL (en 600)",
+        "Memberikan damage air (5000%)<br>Mengisi bar LB (600)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a5000%)<br>เติม LB Gauge\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300000472": [
+        "Deals water damage (5800%)<br>Fills LB gauge (600)",
+        "發動水屬性攻擊(5800%)<br>增加極限技槽(600)",
+        "물속성 피해(5800%)<br>LB 게이지 증가(600)",
+        "Inflige des dégâts d'eau (5800 %)<br>Remplit la jauge de limite (600)",
+        "Fügt Wasserschaden zu (5800%)<br>Füllt Limitmeter (600)",
+        "Inflige daño de agua (un 5800%)<br>Rellena la barra de EL (en 600)",
+        "Memberikan damage air (5800%)<br>Mengisi bar LB (600)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a5800%)<br>เติม LB Gauge\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300000473": [
+        "Deals water damage (6600%)<br>Fills LB gauge (700)",
+        "發動水屬性攻擊(6600%)<br>增加極限技槽(700)",
+        "물속성 피해(6600%)<br>LB 게이지 증가(700)",
+        "Inflige des dégâts d'eau (6600 %)<br>Remplit la jauge de limite (700)",
+        "Fügt Wasserschaden zu (6600%)<br>Füllt Limitmeter (700)",
+        "Inflige daño de agua (un 6600%)<br>Rellena la barra de EL (en 700)",
+        "Memberikan damage air (6600%)<br>Mengisi bar LB (700)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a6600%)<br>เติม LB Gauge\u001a \u001a(\u001a700\u001a)\u001a"
+    ],
+    "300000474": [
+        "Deals water damage (7300%)<br>Fills LB gauge (700)",
+        "發動水屬性攻擊(7300%)<br>增加極限技槽(700)",
+        "물속성 피해(7300%)<br>LB 게이지 증가(700)",
+        "Inflige des dégâts d'eau (7300 %)<br>Remplit la jauge de limite (700)",
+        "Fügt Wasserschaden zu (7300%)<br>Füllt Limitmeter (700)",
+        "Inflige daño de agua (un 7300%)<br>Rellena la barra de EL (en 700)",
+        "Memberikan damage air (7300%)<br>Mengisi bar LB (700)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a7300%)<br>เติม LB Gauge\u001a \u001a(\u001a700\u001a)\u001a"
+    ],
+    "300000475": [
+        "Reduces magic damage dealt by demons and reapers (5%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(5%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(5%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (5 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (5%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 5%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (5%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a5%)\u001a"
+    ],
+    "300000476": [
+        "Reduces magic damage dealt by demons and reapers (10%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(10%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(10%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (10 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (10%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 10%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (10%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a10%)\u001a"
+    ],
+    "300000477": [
+        "Reduces magic damage dealt by demons and reapers (15%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(15%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(15%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (15 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (15%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 15%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (15%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a15%)\u001a"
+    ],
+    "300000478": [
+        "Reduces magic damage dealt by demons and reapers (20%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(20%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(20%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (20 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (20%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 20%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (20%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a20%)\u001a"
+    ],
+    "300000479": [
+        "Reduces magic damage dealt by demons and reapers (30%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(30%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(30%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (30 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (30%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 30%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (30%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a30%)\u001a"
+    ],
+    "300000480": [
+        "Reduces magic damage dealt by demons and reapers (40%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(40%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(40%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (40 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (40%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 40%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (40%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a40%)\u001a"
+    ],
+    "300000481": [
+        "Reduces magic damage dealt by demons and reapers (50%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(50%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(50%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (50 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (50%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 50%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (50%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a50%)\u001a"
+    ],
+    "300000482": [
+        "Reduces magic damage dealt by demons and reapers (60%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(60%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(60%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (60 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (60%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 60%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (60%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300000483": [
+        "Reduces magic damage dealt by demons and reapers (60%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(60%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(60%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (60 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (60%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 60%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (60%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300000484": [
+        "Reduces magic damage dealt by demons and reapers (65%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(65%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(65%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (65 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (65%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 65%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (65%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a65%)\u001a"
+    ],
+    "300000485": [
+        "Reduces magic damage dealt by demons and reapers (70%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(70%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(70%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (70 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (70%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 70%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (70%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a70%)\u001a"
+    ],
+    "300000486": [
+        "Reduces magic damage dealt by demons and reapers (78%)",
+        "減少來自惡魔死靈系魔物的魔法傷害(78%)",
+        "악마와 사령형 마물에게 받는 마법 피해량 감소(78%)",
+        "Réduit les dégâts magiques infligés par les démons et les morts-vivants (78 %)",
+        "Verringert durch Dämonen und Untote erlittenen magischen Schaden (78%)",
+        "Reduce el daño mágico que infligen los demonios y los muertos vivientes (un 78%)",
+        "Mengurangi damage yang diterima dari jenis demon dan makhluk halus (78%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001aที่\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a78%)\u001a"
+    ],
+    "300000487": [
+        "Boosts damage of certain abilities (knight's luminous blade and knight's glacial blade: 1200%)",
+        "提高特定能力的傷害(誠光騎士劍、冰晶騎士劍：1200%)",
+        "특정 어빌리티의 피해량 상승(성광의 기사검, 빙결의 기사검: 1200%)",
+        "Augmente les dégâts de certaines aptitudes (Lumilame de chevalier et Glacilame de chevalier : 1200 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Strahlendes Ritterschwert und Eisiges Ritterschwert: 1200%)",
+        "Aumenta el daño de determinadas habilidades (Caballero de la Espada Luminosa y Caballero de la Espada Glacial: un 1200%)",
+        "Meningkatkan damage ability tertentu (Pedang Cahaya sang Kesatria dan Pedang Es sang Kesatria: 1200%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดาบ\u001aแสง\u001aสัจจะ\u001aแห่ง\u001aอัศวิน\u001a \u001aและ\u001a \u001aดาบ\u001aผลึก\u001aน้ำแข็ง\u001aแห่ง\u001aอัศวิน\u001a:\u001a \u001a1200%)\u001a"
+    ],
+    "300000488": [
+        "Boosts damage of certain abilities (knight's luminous blade and knight's glacial blade: 1800%)",
+        "提高特定能力的傷害(誠光騎士劍、冰晶騎士劍：1800%)",
+        "특정 어빌리티의 피해량 상승(성광의 기사검, 빙결의 기사검: 1800%)",
+        "Augmente les dégâts de certaines aptitudes (Lumilame de chevalier et Glacilame de chevalier : 1800 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Strahlendes Ritterschwert und Eisiges Ritterschwert: 1800%)",
+        "Aumenta el daño de determinadas habilidades (Caballero de la Espada Luminosa y Caballero de la Espada Glacial: un 1800%)",
+        "Meningkatkan damage ability tertentu (Pedang Cahaya sang Kesatria dan Pedang Es sang Kesatria: 1800%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดาบ\u001aแสง\u001aสัจจะ\u001aแห่ง\u001aอัศวิน\u001a \u001aและ\u001a \u001aดาบ\u001aผลึก\u001aน้ำแข็ง\u001aแห่ง\u001aอัศวิน\u001a:\u001a \u001a1800%)\u001a"
+    ],
+    "300000489": [
+        "Boosts damage of certain abilities (knight's luminous blade and knight's glacial blade: 2400%)",
+        "提高特定能力的傷害(誠光騎士劍、冰晶騎士劍：2400%)",
+        "특정 어빌리티의 피해량 상승(성광의 기사검, 빙결의 기사검: 2400%)",
+        "Augmente les dégâts de certaines aptitudes (Lumilame de chevalier et Glacilame de chevalier : 2400 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Strahlendes Ritterschwert und Eisiges Ritterschwert: 2400%)",
+        "Aumenta el daño de determinadas habilidades (Caballero de la Espada Luminosa y Caballero de la Espada Glacial: un 2400%)",
+        "Meningkatkan damage ability tertentu (Pedang Cahaya sang Kesatria dan Pedang Es sang Kesatria: 2400%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดาบ\u001aแสง\u001aสัจจะ\u001aแห่ง\u001aอัศวิน\u001a \u001aและ\u001a \u001aดาบ\u001aผลึก\u001aน้ำแข็ง\u001aแห่ง\u001aอัศวิน\u001a:\u001a \u001a2400%)\u001a"
+    ],
+    "300000490": [
+        "Boosts damage of certain abilities (knight's luminous blade and knight's glacial blade: 3000%)",
+        "提高特定能力的傷害(誠光騎士劍、冰晶騎士劍：3000%)",
+        "특정 어빌리티의 피해량 상승(성광의 기사검, 빙결의 기사검: 3000%)",
+        "Augmente les dégâts de certaines aptitudes (Lumilame de chevalier et Glacilame de chevalier : 3000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Strahlendes Ritterschwert und Eisiges Ritterschwert: 3000%)",
+        "Aumenta el daño de determinadas habilidades (Caballero de la Espada Luminosa y Caballero de la Espada Glacial: un 3000%)",
+        "Meningkatkan damage ability tertentu (Pedang Cahaya sang Kesatria dan Pedang Es sang Kesatria: 3000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดาบ\u001aแสง\u001aสัจจะ\u001aแห่ง\u001aอัศวิน\u001a \u001aและ\u001a \u001aดาบ\u001aผลึก\u001aน้ำแข็ง\u001aแห่ง\u001aอัศวิน\u001a:\u001a \u001a3000%)\u001a"
+    ],
+    "300000491": [
+        "Boosts ice and light resistance (20%)<br>Boosts damage against demons and reapers (10%)",
+        "提高冰光屬性耐性(20%)<br>提高對惡魔死靈系魔物的傷害(10%)",
+        "얼음과 빛속성 저항력 상승(20%)<br>악마와 사령형 마물에게 부여하는 피해량 상승(10%)",
+        "Augmente la résistance à la glace et à la lumière (20 %)<br>Augmente les dégâts infligés aux démons et aux morts-vivants (10 %)",
+        "Erhöht Eis- und Lichtresistenz (20%)<br>Erhöht Schaden gegen Dämonen und Untote (10%)",
+        "Aumenta la resistencia a hielo y luz (un 20%)<br>Aumenta el daño contra demonios y muertos vivientes (un 10%)",
+        "Meningkatkan resistansi es dan cahaya (20%)<br>Meningkatkan damage terhadap jenis demon dan makhluk halus (10%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aและ\u001aแสง\u001a \u001a(\u001a20%)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a10%)\u001a"
+    ],
+    "300000492": [
+        "Boosts ice and light resistance (40%)<br>Boosts damage against demons and reapers (20%)",
+        "提高冰光屬性耐性(40%)<br>提高對惡魔死靈系魔物的傷害(20%)",
+        "얼음과 빛속성 저항력 상승(40%)<br>악마와 사령형 마물에게 부여하는 피해량 상승(20%)",
+        "Augmente la résistance à la glace et à la lumière (40 %)<br>Augmente les dégâts infligés aux démons et aux morts-vivants (20 %)",
+        "Erhöht Eis- und Lichtresistenz (40%)<br>Erhöht Schaden gegen Dämonen und Untote (20%)",
+        "Aumenta la resistencia a hielo y luz (un 40%)<br>Aumenta el daño contra demonios y muertos vivientes (un 20%)",
+        "Meningkatkan resistansi es dan cahaya (40%)<br>Meningkatkan damage terhadap jenis demon dan makhluk halus (20%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aและ\u001aแสง\u001a \u001a(\u001a40%)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a20%)\u001a"
+    ],
+    "300000493": [
+        "Boosts ice and light resistance (60%)<br>Boosts damage against demons and reapers (30%)",
+        "提高冰光屬性耐性(60%)<br>提高對惡魔死靈系魔物的傷害(30%)",
+        "얼음과 빛속성 저항력 상승(60%)<br>악마와 사령형 마물에게 부여하는 피해량 상승(30%)",
+        "Augmente la résistance à la glace et à la lumière (60 %)<br>Augmente les dégâts infligés aux démons et aux morts-vivants (30 %)",
+        "Erhöht Eis- und Lichtresistenz (60%)<br>Erhöht Schaden gegen Dämonen und Untote (30%)",
+        "Aumenta la resistencia a hielo y luz (un 60%)<br>Aumenta el daño contra demonios y muertos vivientes (un 30%)",
+        "Meningkatkan resistansi es dan cahaya (60%)<br>Meningkatkan damage terhadap jenis demon dan makhluk halus (30%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aและ\u001aแสง\u001a \u001a(\u001a60%)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a30%)\u001a"
+    ],
+    "300000494": [
+        "Boosts ice and light resistance (80%)<br>Boosts damage against demons and reapers (40%)",
+        "提高冰光屬性耐性(80%)<br>提高對惡魔死靈系魔物的傷害(40%)",
+        "얼음과 빛속성 저항력 상승(80%)<br>악마와 사령형 마물에게 부여하는 피해량 상승(40%)",
+        "Augmente la résistance à la glace et à la lumière (80 %)<br>Augmente les dégâts infligés aux démons et aux morts-vivants (40 %)",
+        "Erhöht Eis- und Lichtresistenz (80%)<br>Erhöht Schaden gegen Dämonen und Untote (40%)",
+        "Aumenta la resistencia a hielo y luz (un 80%)<br>Aumenta el daño contra demonios y muertos vivientes (un 40%)",
+        "Meningkatkan resistansi es dan cahaya (80%)<br>Meningkatkan damage terhadap jenis demon dan makhluk halus (40%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aและ\u001aแสง\u001a \u001a(\u001a80%)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aภูตผี\u001a \u001a(\u001a40%)\u001a"
+    ],
+    "300000495": [
+        "Changes MP consumed (100)<br>Restores HP (HP restoration variation: 1800%)",
+        "改變MP消耗(100)<br>恢復HP(HP恢復變化量：1800%)",
+        "소비 MP 변화(100)<br>HP 회복(HP 회복량 변화: 1800%)",
+        "Modifie le nombre de PM consommés (100)<br>Restaure les PV (Variation des PV restaurés : 1800 %)",
+        "Ändert MP-Verbrauch (100)<br>Regeneriert LP (LP-Regenerationsvariation: 1800%)",
+        "Cambia el consumo de PM (a 100)<br>Recupera VIT (variación de recuperación de VIT: un 1800%)",
+        "Mengubah jumlah konsumsi MP (100)<br>Memulihkan HP (variasi pemulihan HP: 1800%)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a100\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a1800%)\u001a"
+    ],
+    "300000496": [
+        "Changes MP consumed (90)<br>Restores HP (HP restoration variation: 2200%)",
+        "改變MP消耗(90)<br>恢復HP(HP恢復變化量：2200%)",
+        "소비 MP 변화(90)<br>HP 회복(HP 회복량 변화: 2200%)",
+        "Modifie le nombre de PM consommés (90)<br>Restaure les PV (Variation des PV restaurés : 2200 %)",
+        "Ändert MP-Verbrauch (90)<br>Regeneriert LP (LP-Regenerationsvariation: 2200%)",
+        "Cambia el consumo de PM (a 90)<br>Recupera VIT (variación de recuperación de VIT: un 2200%)",
+        "Mengubah jumlah konsumsi MP (90)<br>Memulihkan HP (variasi pemulihan HP: 2200%)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a90\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2200%)\u001a"
+    ],
+    "300000497": [
+        "Changes MP consumed (80)<br>Restores HP (HP restoration variation: 2400%)",
+        "改變MP消耗(80)<br>恢復HP(HP恢復變化量：2400%)",
+        "소비 MP 변화(80)<br>HP 회복(HP 회복량 변화: 2400%)",
+        "Modifie le nombre de PM consommés (80)<br>Restaure les PV (Variation des PV restaurés : 2400 %)",
+        "Ändert MP-Verbrauch (80)<br>Regeneriert LP (LP-Regenerationsvariation: 2400%)",
+        "Cambia el consumo de PM (a 80)<br>Recupera VIT (variación de recuperación de VIT: un 2400%)",
+        "Mengubah jumlah konsumsi MP (80)<br>Memulihkan HP (variasi pemulihan HP: 2400%)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a80\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2400%)\u001a"
+    ],
+    "300000498": [
+        "Changes MP consumed (70)<br>Restores HP (HP restoration variation: 2600%)",
+        "改變MP消耗(70)<br>恢復HP(HP恢復變化量：2600%)",
+        "소비 MP 변화(70)<br>HP 회복(HP 회복량 변화: 2600%)",
+        "Modifie le nombre de PM consommés (70)<br>Restaure les PV (Variation des PV restaurés : 2600 %)",
+        "Ändert MP-Verbrauch (70)<br>Regeneriert LP (LP-Regenerationsvariation: 2600%)",
+        "Cambia el consumo de PM (a 70)<br>Recupera VIT (variación de recuperación de VIT: un 2600%)",
+        "Mengubah jumlah konsumsi MP (70)<br>Memulihkan HP (variasi pemulihan HP: 2600%)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a70\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2600%)\u001a"
+    ],
+    "300000499": [
+        "Changes MP consumed (100)<br>Restores HP (HP restoration variation: 1800%)<br>Boosts resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone (for 3 turns)",
+        "改變MP消耗(100)<br>恢復HP(HP恢復變化量：1800%)<br>提高中毒失明睡眠沉默麻痺混亂生病石化耐性(3回合)",
+        "소비 MP 변화(100)<br>HP 회복(HP 회복량 변화: 1800%)<br>독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승(3턴)",
+        "Modifie le nombre de PM consommés (100)<br>Restaure les PV (Variation des PV restaurés : 1800 %)<br>Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification (pendant 3 tours)",
+        "Ändert MP-Verbrauch (100)<br>Regeneriert LP (LP-Regenerationsvariation: 1800%)<br>Erhöht Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein (3 Runden lang)",
+        "Cambia el consumo de PM (a 100)<br>Recupera VIT (variación de recuperación de VIT: un 1800%)<br>Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra (durante 3 turnos)",
+        "Mengubah jumlah konsumsi MP (100)<br>Memulihkan HP (variasi pemulihan HP: 1800%)<br>Meningkatkan resistansi status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify (selama 3 giliran)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a100\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a1800%)<br>เพิ่มพลังต้านทานสถานะ Poison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001a(\u001aเป็น\u001a \u001a3\u001a \u001aเทิร์น)\u001a"
+    ],
+    "300000500": [
+        "Changes MP consumed (90)<br>Restores HP (HP restoration variation: 2200%)<br>Boosts resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone (for 3 turns)",
+        "改變MP消耗(90)<br>恢復HP(HP恢復變化量：2200%)<br>提高中毒失明睡眠沉默麻痺混亂生病石化耐性(3回合)",
+        "소비 MP 변화(90)<br>HP 회복(HP 회복량 변화: 2200%)<br>독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승(3턴)",
+        "Modifie le nombre de PM consommés (90)<br>Restaure les PV (Variation des PV restaurés : 2200 %)<br>Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification (pendant 3 tours)",
+        "Ändert MP-Verbrauch (90)<br>Regeneriert LP (LP-Regenerationsvariation: 2200%)<br>Erhöht Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein (3 Runden lang)",
+        "Cambia el consumo de PM (a 90)<br>Recupera VIT (variación de recuperación de VIT: un 2200%)<br>Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra (durante 3 turnos)",
+        "Mengubah jumlah konsumsi MP (90)<br>Memulihkan HP (variasi pemulihan HP: 2200%)<br>Meningkatkan resistansi status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify (selama 3 giliran)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a90\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2200%)<br>เพิ่มพลังต้านทานสถานะ Poison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001a(\u001aเป็น\u001a \u001a3\u001a \u001aเทิร์น)\u001a"
+    ],
+    "300000501": [
+        "Changes MP consumed (80)<br>Restores HP (HP restoration variation: 2400%)<br>Boosts resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone (for 4 turns)",
+        "改變MP消耗(80)<br>恢復HP(HP恢復變化量：2400%)<br>提高中毒失明睡眠沉默麻痺混亂生病石化耐性(4回合)",
+        "소비 MP 변화(80)<br>HP 회복(HP 회복량 변화: 2400%)<br>독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승(4턴)",
+        "Modifie le nombre de PM consommés (80)<br>Restaure les PV (Variation des PV restaurés : 2400 %)<br>Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification (pendant 4 tours)",
+        "Ändert MP-Verbrauch (80)<br>Regeneriert LP (LP-Regenerationsvariation: 2400%)<br>Erhöht Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein (4 Runden lang)",
+        "Cambia el consumo de PM (a 80)<br>Recupera VIT (variación de recuperación de VIT: un 2400%)<br><br>Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra (durante 4 turnos)",
+        "Mengubah jumlah konsumsi MP (80)<br>Memulihkan HP (variasi pemulihan HP: 2400%)<br>Meningkatkan resistansi status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify (selama 4 giliran)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a80\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2400%)<br>เพิ่มพลังต้านทานสถานะ Poison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001a(\u001aเป็น\u001a \u001a4\u001a \u001aเทิร์น)\u001a"
+    ],
+    "300000502": [
+        "Changes MP consumed (70)<br>Restores HP (HP restoration variation: 2600%)<br>Boosts resistance to poison, blind, sleep, silence, paralysis, confusion, disease, stone, and stop (for 4 turns)",
+        "改變MP消耗(70)<br>恢復HP(HP恢復變化量：2600%)<br>提高中毒失明睡眠沉默麻痺混亂生病石化停止耐性(4回合)",
+        "소비 MP 변화(70)<br>HP 회복(HP 회복량 변화: 2600%)<br>독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화, 스톱 저항력 상승(4턴)",
+        "Modifie le nombre de PM consommés (70)<br>Restaure les PV (Variation des PV restaurés : 2600 %)<br>Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie, pétrification et stop (pendant 4 tours)",
+        "Ändert MP-Verbrauch (70)<br>Regeneriert LP (LP-Regenerationsvariation: 2600%)<br>Erhöht Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein und Stopp (4 Runden lang)",
+        "Cambia el consumo de PM (a 70)<br>Recupera VIT (variación de recuperación de VIT: un 2600%)<br>Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad, piedra y paro (durante 4 turnos)",
+        "Mengubah jumlah konsumsi MP (70)<br>Memulihkan HP (variasi pemulihan HP: 2600%)<br>Meningkatkan resistansi status poison, blind, sleep, silence, paralyze, confuse, disease, petrify, dan stop (selama 4 giliran)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a70\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2600%)<br>เพิ่มพลังต้านทานสถานะ Poison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a,\u001a \u001aStone\u001a \u001aและ\u001a \u001aStop\u001a \u001a(\u001aเป็น\u001a \u001a4\u001a \u001aเทิร์น)\u001a"
+    ],
+    "300000503": [
+        "Changes MP consumed (200)<br>Restores HP (HP restoration variation: 1200%)<br>Revives allies (50% of max HP)",
+        "改變MP消耗(200)<br>恢復HP(HP恢復變化量：1200%)<br>復活隊員(HP最大值的50%)",
+        "소비 MP 변화(200)<br>HP 회복(HP 회복량 변화: 1200%)<br>아군의 전투불능 상태 회복(최대 HP의 50%)",
+        "Modifie le nombre de PM consommés (200)<br>Restaure les PV (Variation des PV restaurés : 1200 %)<br>Ranime les alliés (50 % des PV max.)",
+        "Ändert MP-Verbrauch (200)<br>Regeneriert LP (LP-Regenerationsvariation: 1200%)<br>Belebt Verbündete wieder (50% der maximalen LP)",
+        "Cambia el consumo de PM (a 200)<br>Recupera VIT (variación de recuperación de VIT: un 1200%)<br>Revive a todos los aliados (con un 50% de VIT máx.)",
+        "Mengubah jumlah konsumsi MP (200)<br>Memulihkan HP (variasi pemulihan HP: 1200%)<br>Menghidupkan kembali teman (50% dari HP maksimum)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a200\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a1200%)<br>\u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a(\u001a50% \u001aของ\u001a \u001aHP\u001a \u001aเต็มที่\u001a)\u001a"
+    ],
+    "300000504": [
+        "Changes MP consumed (180)<br>Restores HP (HP restoration variation: 2400%)<br>Revives allies (50% of max HP)",
+        "改變MP消耗(180)<br>恢復HP(HP恢復變化量：2400%)<br>復活隊員(HP最大值的50%)",
+        "소비 MP 변화(180)<br>HP 회복(HP 회복량 변화: 2400%)<br>아군의 전투불능 상태 회복(최대 HP의 50%)",
+        "Modifie le nombre de PM consommés (180)<br>Restaure les PV (Variation des PV restaurés : 2400 %)<br>Ranime les alliés (50 % des PV max.)",
+        "Ändert MP-Verbrauch (180)<br>Regeneriert LP (LP-Regenerationsvariation: 2400%)<br>Belebt Verbündete wieder (50% der maximalen LP)",
+        "Cambia el consumo de PM (a 180)<br>Recupera VIT (variación de recuperación de VIT: un 2400%)<br>Revive a todos los aliados (con un 50% de VIT máx.)",
+        "Mengubah jumlah konsumsi MP (180)<br>Memulihkan HP (variasi pemulihan HP: 2400%)<br>Menghidupkan kembali teman (50% dari HP maksimum)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a180\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a2400%)<br>\u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a(\u001a50% \u001aของ\u001a \u001aHP\u001a \u001aเต็มที่\u001a)\u001a"
+    ],
+    "300000505": [
+        "Changes MP consumed (170)<br>Restores HP (HP restoration variation: 3600%)<br>Revives allies (75% of max HP)",
+        "改變MP消耗(170)<br>恢復HP(HP恢復變化量：3600%)<br>復活隊員(HP最大值的75%)",
+        "소비 MP 변화(170)<br>HP 회복(HP 회복량 변화: 3600%)<br>아군의 전투불능 상태 회복(최대 HP의 75%)",
+        "Modifie le nombre de PM consommés (170)<br>Restaure les PV (Variation des PV restaurés : 3600 %)<br>Ranime les alliés (75 % des PV max.)",
+        "Ändert MP-Verbrauch (170)<br>Regeneriert LP (LP-Regenerationsvariation: 3600%)<br>Belebt Verbündete wieder (75% der maximalen LP)",
+        "Cambia el consumo de PM (a 170)<br>Recupera VIT (variación de recuperación de VIT: un 3600%)<br>Revive a todos los aliados (con un 75% de VIT máx.)",
+        "Mengubah jumlah konsumsi MP (170)<br>Memulihkan HP (variasi pemulihan HP: 3600%)<br>Menghidupkan kembali teman (75% dari HP maksimum)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a170\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a3600%)<br>\u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a(\u001a75% \u001aของ\u001a \u001aHP\u001a \u001aเต็มที่\u001a)\u001a"
+    ],
+    "300000506": [
+        "Changes MP consumed (160)<br>Restores HP (HP restoration variation: 4800%)<br>Revives allies (75% of max HP)",
+        "改變MP消耗(160)<br>恢復HP(HP恢復變化量：4800%)<br>復活隊員(HP最大值的75%)",
+        "소비 MP 변화(160)<br>HP 회복(HP 회복량 변화: 4800%)<br>아군의 전투불능 상태 회복(최대 HP의 75%)",
+        "Modifie le nombre de PM consommés (160)<br>Restaure les PV (Variation des PV restaurés : 4800 %)<br>Ranime les alliés (75 % des PV max.)",
+        "Ändert MP-Verbrauch (160)<br>Regeneriert LP (LP-Regenerationsvariation: 4800%)<br>Belebt Verbündete wieder (75% der maximalen LP)",
+        "Cambia el consumo de PM (a 160)<br>Recupera VIT (variación de recuperación de VIT: un 4800%)<br>Revive a todos los aliados (con un 75% de VIT máx.)",
+        "Mengubah jumlah konsumsi MP (160)<br>Memulihkan HP (variasi pemulihan HP: 4800%)<br>Menghidupkan kembali teman (75% dari HP maksimum)",
+        "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a160\u001a)<br>\u001aฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a4800%)<br>\u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a(\u001a75% \u001aของ\u001a \u001aHP\u001a \u001aเต็มที่\u001a)\u001a"
+    ],
+    "300000507": [
+        "Boosts damage of certain abilities (arch punisher, dystopia, and sacred burst: 1800%)",
+        "提高特定能力的傷害(弧光執刑者、敵托邦、神聖爆發：1800%)",
+        "특정 어빌리티의 피해량 상승(최고의 형벌자, 디스토피아, 거룩한 폭발: 1800%)",
+        "Augmente les dégâts de certaines aptitudes (Arc punisseur, Dystopie et Éclat sacré : 1800 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Erzbestrafer, Dystopia und Heilige Salve: 1800%)",
+        "Aumenta el daño de determinadas habilidades (Archicastigador, Distopía y Estallido sacro: un 1800%)",
+        "Meningkatkan damage ability tertentu (Arch Punisher, Dystopia, dan Sacred Burst: 1800%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aมหา\u001aผู้\u001aลงทัณฑ์\u001a,\u001a \u001aDystopia\u001a \u001aและ\u001a \u001aระเบิด\u001aศักดิ์สิทธิ์\u001a:\u001a \u001a1800%)\u001a"
+    ],
+    "300000508": [
+        "Boosts damage of certain abilities (arch punisher, dystopia, and sacred burst: 2000%)",
+        "提高特定能力的傷害(弧光執刑者、敵托邦、神聖爆發：2000%)",
+        "특정 어빌리티의 피해량 상승(최고의 형벌자, 디스토피아, 거룩한 폭발: 2000%)",
+        "Augmente les dégâts de certaines aptitudes (Arc punisseur, Dystopie et Éclat sacré : 2000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Erzbestrafer, Dystopia und Heilige Salve: 2000%)",
+        "Aumenta el daño de determinadas habilidades (Archicastigador, Distopía y Estallido sacro: un 2000%)",
+        "Meningkatkan damage ability tertentu (Arch Punisher, Dystopia, dan Sacred Burst: 2000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aมหา\u001aผู้\u001aลงทัณฑ์\u001a,\u001a \u001aDystopia\u001a \u001aและ\u001a \u001aระเบิด\u001aศักดิ์สิทธิ์\u001a:\u001a \u001a2000%)\u001a"
+    ],
+    "300000509": [
+        "Boosts damage of certain abilities (arch punisher, dystopia, and sacred burst: 2200%)",
+        "提高特定能力的傷害(弧光執刑者、敵托邦、神聖爆發：2200%)",
+        "특정 어빌리티의 피해량 상승(최고의 형벌자, 디스토피아, 거룩한 폭발: 2200%)",
+        "Augmente les dégâts de certaines aptitudes (Arc punisseur, Dystopie et Éclat sacré : 2200 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Erzbestrafer, Dystopia und Heilige Salve: 2200%)",
+        "Aumenta el daño de determinadas habilidades (Archicastigador, Distopía y Estallido sacro: un 2200%)",
+        "Meningkatkan damage ability tertentu (Arch Punisher, Dystopia, dan Sacred Burst: 2200%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aมหา\u001aผู้\u001aลงทัณฑ์\u001a,\u001a \u001aDystopia\u001a \u001aและ\u001a \u001aระเบิด\u001aศักดิ์สิทธิ์\u001a:\u001a \u001a2200%)\u001a"
+    ],
+    "300000510": [
+        "Boosts damage of certain abilities (arch punisher, dystopia, and sacred burst: 2400%)",
+        "提高特定能力的傷害(弧光執刑者、敵托邦、神聖爆發：2400%)",
+        "특정 어빌리티의 피해량 상승(최고의 형벌자, 디스토피아, 거룩한 폭발: 2400%)",
+        "Augmente les dégâts de certaines aptitudes (Arc punisseur, Dystopie et Éclat sacré : 2400 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Erzbestrafer, Dystopia und Heilige Salve: 2400%)",
+        "Aumenta el daño de determinadas habilidades (Archicastigador, Distopía y Estallido sacro: un 2400%)",
+        "Meningkatkan damage ability tertentu (Arch Punisher, Dystopia, dan Sacred Burst: 2400%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aมหา\u001aผู้\u001aลงทัณฑ์\u001a,\u001a \u001aDystopia\u001a \u001aและ\u001a \u001aระเบิด\u001aศักดิ์สิทธิ์\u001a:\u001a \u001a2400%)\u001a"
+    ],
+    "300000511": [
+        "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (50%)",
+        "提高火冰雷水風土光暗屬性耐性(50%)",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승(50%)",
+        "Augmente la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres (50 %)",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (50%)",
+        "Aumenta la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (un 50%)",
+        "Meningkatkan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan (50%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001a \u001a(\u001a50%)\u001a"
+    ],
+    "300000512": [
+        "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (60%)",
+        "提高火冰雷水風土光暗屬性耐性(60%)",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승(60%)",
+        "Augmente la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres (60 %)",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (60%)",
+        "Aumenta la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (un 60%)",
+        "Meningkatkan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan (60%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300000513": [
+        "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (75%)",
+        "提高火冰雷水風土光暗屬性耐性(75%)",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승(75%)",
+        "Augmente la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres (75 %)",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (75%)",
+        "Aumenta la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (un 75%)",
+        "Meningkatkan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan (75%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001a \u001a(\u001a75%)\u001a"
+    ],
+    "300000514": [
+        "Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance (85%)",
+        "提高火冰雷水風土光暗屬性耐性(85%)",
+        "불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승(85%)",
+        "Augmente la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres (85 %)",
+        "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz (85%)",
+        "Aumenta la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad (un 85%)",
+        "Meningkatkan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan (85%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001a \u001a(\u001a85%)\u001a"
     ],
     "300000515": [
         "Deals damage (3600%)<br>Restores MP (20)",
