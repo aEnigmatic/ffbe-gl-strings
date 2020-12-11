@@ -767,7 +767,7 @@
         "Dunkelschaden und Chance, Gift auf alle Ziele zu wirken.",
         "Daño de oscuridad a todos los enemigos y probabilidad de infligirles veneno",
         "Memberikan damage kegelapan dan peluang untuk memberikan status poison pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
     ],
     "20270": [
         "Damage all enemies for 3/4 HP",
@@ -2228,6 +2228,76 @@
         "Daño de luz a todos los enemigos y luego les inflige daño de luz poco a poco",
         "Memberikan damage cahaya dan damage cahaya secara bertahap pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aค่อยๆ\u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "40380": [
+        "Restore HP for all allies",
+        "恢復全體隊員的HP",
+        "아군 전체의 HP 회복",
+        "Restaure les PV de tous les alliés",
+        "Regeneriert LP aller Verbündeten.",
+        "Recupera VIT de todos los aliados",
+        "Memulihkan HP semua teman",
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "40390": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Inflige des dégâts à un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo",
+        "Memberikan damage pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "40400": [
+        "Deal water damage three times to all enemies",
+        "對全體敵人發動3次水屬性攻擊",
+        "적 전체에 3회 물속성 피해",
+        "Inflige des dégâts d'eau à tous les ennemis à 3 reprises",
+        "Fügt einem Gegner dreimal Wasserschaden zu.",
+        "Daño de agua 3 veces a todos los enemigos",
+        "Memberikan damage air 3 kali pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a3\u001a \u001aครั้ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "40410": [
+        "Boost DEF and SPR and reduce physical and magic damage taken by all allies for six turns",
+        "提高全體隊員的防禦精神+6回合內減少物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+6턴 동안 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY et réduit les dégâts physiques et magiques subis par tous les alliés pendant 6 tours",
+        "Erhöht ABW sowie PSY und verringert sechs Runden lang erlittenen physischen und magischen Schaden aller Verbündeten.",
+        "Aumenta la DEF y el ESP y reduce el daño físico y mágico que reciben todos los aliados durante 6 turnos",
+        "Meningkatkan DEF dan SPR, serta mengurangi damage fisik dan magic yang diterima semua teman selama 6 giliran",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aเป็นเวลา\u001a \u001a6\u001a \u001aเทิร์น\u001a"
+    ],
+    "40420": [
+        "Chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, stone, or stop on one enemy",
+        "一定機率對1名敵人施加中毒失明睡眠沉默麻痺混亂生病石化停止效果",
+        "적 1명에게 일정 확률로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화, 스톱 부여",
+        "Confère une chance d'infliger poison, cécité, sommeil, silence, paralysie, confusion, maladie, pétrification ou stop à un ennemi",
+        "Chance, einem Gegner Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein oder Stopp zu erteilen.",
+        "Probabilidad de infligir veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad, piedra o paro a un enemigo",
+        "Peluang untuk memberikan status poison, blind, sleep, silence, paralyze, confuse, disease, petrify, atau stop pada satu musuh",
+        "มีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a,\u001a \u001aStone\u001a \u001aหรือ\u001a \u001aStop\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "40430": [
+        "Deal partial unmitigated magic damage to all enemies",
+        "對全體敵人發動無視部分魔法防禦的攻擊",
+        "적 전체에 일부 마법 방어 무시 피해",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos",
+        "Memberikan damage magic yang menembus sebagian SPR pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "40440": [
+        "Boost fire, ice, and lightning resistance for all enemies and allies",
+        "提高全體敵人和隊員的火冰雷屬性耐性",
+        "적 전체와 아군 전체의 불, 얼음, 번개속성 저항력 상승",
+        "Augmente la résistance au feu, à la glace et à la foudre de tous les ennemis et alliés",
+        "Erhöht Feuer-, Eis- und Blitzresistenz aller Gegner und Verbündeten.",
+        "Aumenta la resistencia a fuego, hielo y rayo de todos los enemigos y aliados",
+        "Meningkatkan resistansi api, es, dan petir pada semua musuh dan teman",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001aและ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "70010": [
         "Deal lightning damage to all enemies",
