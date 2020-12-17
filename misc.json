@@ -4581,15 +4581,15 @@
         "Unit dalam ekspedisi",
         "ยู\u001aนิ\u001aท\u001aที่\u001aออก\u001aสำรวจ\u001a"
     ],
-    "EQUIP_NG_LIMIT": [
+    "EQUIP_NG_LIMIT":                        [
         "You can't equip any more of this ability.",
         "無法裝備更多的魔晶石",
         "어빌리티를 더 장착할 수 없습니다.",
         "Vous ne pouvez plus vous équiper d'avantage de cette matéria.",
         "Du kannst nicht mehr von diesem Können ausrüsten.",
         "No puedes equipar más habilidades de este tipo",
-        "You can't equip any more of this ability.",
-        "You\u001a \u001acan\u001a'\u001at\u001a \u001aequip\u001a \u001aany\u001a \u001amore\u001a \u001aof\u001a \u001athis\u001a \u001aability\u001a.\u001a"
+        "Kamu tidak dapat menggunakan ability ini lagi.",
+        "คุณ\u001aไม่\u001aสามารถ\u001aติดตั้ง\u001a \u001aAbility\u001a \u001aนี้\u001aได้\u001aมาก\u001aไป\u001aกว่า\u001aนี้\u001aแล้ว\u001a"
     ],
     "EQUIP_NG_LIMIT_OWNER_ABILITY": [
         "Ability for exclusive unit(s) only.",
@@ -16321,7 +16321,7 @@
         "(",
         "(\u001a"
     ],
-    "OVER_AP_MISSION": [
+    "OVER_AP_MISSION":                       [
         "The energy cost of this mission exceeds your current energy capacity.<br><color=255:255:0>Proceed?</color>",
         "本挑戰所需體力值超過了現在的最大體力值。<br><color=255:255:0>確定要挑戰嗎？</color>",
         "현재 최대 체력을 넘어서는 미션입니다.<br><color=255:255:0>정말 도전하시겠습니까?</color>",
@@ -16330,6 +16330,7 @@
         "El coste de energía de esta misión supera tu capacidad actual.<br><color=255:255:0>¿Continuar?</color>",
         "Energi yang diperlukan untuk melakukan misi ini melebihi batas energimu saat ini.<br><color=255:255:0>Lanjutkan?</color>",
         "NRG\u001a \u001aที่\u001aต้อง\u001aใช้\u001aใน\u001aมิชชั่น\u001aนี้\u001a \u001aเกินขอบเขต\u001a \u001aNRG\u001a \u001aสูงสุด\u001aใน\u001aปัจจุบัน\u001aของ\u001aคุณ\u001a<br><color=255:255:0>\u001aProceed\u001a?</color>\u001a"
+
     ],
     "PARADE_BATTLE_RESULT_SUB_HEADER_TITLE": [
         "BATTLE RESULTS",
@@ -16341,7 +16342,29 @@
         "HASIL BATTLE",
         "ผล\u001aการต่อสู้\u001a"
     ],
-    "PARADE_DUNGEON_FINISH_TEXT": [
+    "PARADE_DUNGEON_BLACKLISTED_PERMANENT":  [
+        "You are permanently blacklisted. Your score will not be recorded and ranked.<br><br>For any enquiries, please contact Game Support.",
+        "您已被永久列入黑名單。您的分數與排名將不會計入本活動。<br><br>如有任何疑問，敬請聯繫客服團隊。",
+        "영구적으로 블랙리스트에 등재되었습니다. 귀하의 스코어와 랭킹은 기록되지 않습니다.<br><br>문의가 있으신 경우 고객지원으로 연락 주시기 바랍니다.",
+        "Vous avez été définitivement exclu de l'événement. Votre score ne pourra plus être enregistré ni classé.<br><br>Pour toute question, veuillez contacter l'assistance du jeu.",
+        "Du wurdest dauerhaft auf die schwarze Liste gesetzt. Deine Punktzahl wird weder aufgezeichnet noch gewertet.<br><br>Bitte wende dich bei Nachfragen an unser Support-Team.",
+        "Se te ha expulsado de forma permanente. Tu puntuación no se registrará en la clasificación<br><br>Si tienes dudas, ponte en contacto con el servicio de ayuda de juego.",
+        "Anda telah diidentifikasi sebagai pemain yang melakukan aktivitas tidak sah untuk sementara waktu.<br><br>Harap hubungi kami melalui Dukungan Game apabila Anda memiliki pertanyaan.",
+        "คุณ\u001aถูก\u001aระบุ\u001aไว้\u001aว่า\u001aเป็น\u001aผู้\u001aเล่น\u001aที่\u001aมี\u001aพฤติกรรม\u001aเป็นปัญหา\u001aภายใน\u001aเกม\u001aโดย\u001aเป็นการ\u001aถาวร\u001a \u001aคะแนน\u001aที่\u001aคุณ\u001aได้\u001aจะ\u001aไม่\u001aถูก\u001aบันทึก\u001aและ\u001aจัดอันดับ\u001aเลย\u001a<br><br>\u001aหาก\u001aมี\u001aคำถาม\u001aเพิ่มเติม\u001a \u001aโปรด\u001aติดต่อ\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aของ\u001aเรา\u001a"
+
+    ],
+    "PARADE_DUNGEON_BLACKLISTED_TEMPORARY":  [
+        "You have been blacklisted temporarily. Your score will not be recorded and ranked for this season.<br><br>Should you get reported for another foul play, you will no longer be able to participate in the event.<br><br>For any enquiries, please contact Game Support.",
+        "您已被暫時列入黑名單。您的分數與排名將不會計入本次活動。<br><br>若您再次進行違規行為，將永久無法參與此活動。<br><br>如有任何疑問，敬請聯繫客服團隊。",
+        "일시적으로 블랙리스트에 등재되었습니다. 이번 시즌에 귀하의 스코어와 랭킹은 기록되지 않습니다.<br><br>또 다른 부정행위가 신고될 경우 해당 이벤트에 더이상 참여할 수 없습니다.<br><br>문의가 있으신 경우 고객지원으로 연락 주시기 바랍니다.",
+        "Vous avez été temporairement exclu de l'événement. Votre score ne sera pas enregistré ni classé pour cette saison.<br><br>Si une autre faute est signalée sur votre compte, vous ne pourrez plus participer à l'événement.<br><br>Pour toute question, veuillez contacter l'assistance du jeu.",
+        "Du wurdest vorübergehend auf die schwarze Liste gesetzt. Deine Punktzahl wird diese Saison weder aufgezeichnet noch gewertet.<br><br> Solltest du erneut für unfaires Verhalten gemeldet werden, wirst du nicht länger dazu in der Lage sein, am Ereignis teilzunehmen.<br><br>Bitte wende dich bei Nachfragen an unser Support-Team.",
+        "Se te ha expulsado de forma temporal. Tu puntuación no se registrará en la clasificación de esta temporada.<br><br>Si vuelves a ser denunciado, no podrás participar en el evento.<br><br>Si tienes dudas, ponte en contacto con el servicio de ayuda de juego.",
+        "Anda telah diidentifikasi sebagai pemain yang melakukan aktivitas tidak sah untuk sementara waktu. Skor Anda tidak akan dicatat dan disertakan dalam ranking bulan ini.<br><br>Apabila Anda dilaporkan sekali lagi, Anda tidak akan dapat berpartisipasi dalam event ini.<br><br>Harap hubungi kami melalui Dukungan Game apabila Anda memiliki pertanyaan.",
+        "คุณ\u001aถูก\u001aระบุ\u001aไว้\u001aว่า\u001aเป็น\u001aผู้\u001aเล่น\u001aที่\u001aมี\u001aพฤติกรรม\u001aเป็นปัญหา\u001aภายใน\u001aเกม\u001aโดย\u001aเป็นการชั่วคราว\u001a \u001aคะแนน\u001aที่\u001aคุณ\u001aได้\u001aจะ\u001aไม่\u001aถูก\u001aบันทึก\u001aและ\u001aจัดอันดับ\u001aตลอด\u001aรอบ\u001aฤดูกาล\u001aนี้\u001a<br><br>\u001aหาก\u001aมี\u001aการ\u001aรายงาน\u001aว่า\u001aคุณ\u001aดำเนินการ\u001aเล่น\u001aเกม\u001aด้วย\u001aวิธีการ\u001aไม่\u001aเหมาะสม\u001aอีกครั้ง\u001a \u001aคุณ\u001aจะ\u001aไม่\u001aสามารถ\u001aเข้าร่วม\u001aอีเวนท์\u001aได้\u001aอีก\u001aเลย\u001a<br><br>\u001aหาก\u001aมี\u001aคำถาม\u001aเพิ่มเติม\u001a \u001aโปรด\u001aติดต่อ\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aของ\u001aเรา\u001a"
+
+    ],
+    "PARADE_DUNGEON_FINISH_TEXT":            [
         "Not Available",
         "非活動期間",
         "이벤트 기간이 아님",
@@ -16351,7 +16374,7 @@
         "Tidak Tersedia",
         "เข้า\u001aเล่น\u001aไม่\u001aได้\u001a"
     ],
-    "PARADE_DUNGEON_OPEN_TEXT": [
+    "PARADE_DUNGEON_OPEN_TEXT":              [
         "Unlocked",
         "開放",
         "개방",
@@ -19431,14 +19454,14 @@
         "Periksa kotak masukmu untuk mengambil hadiah",
         "กรุณา\u001aเช็ค\u001aกล่อง\u001aข้อความ\u001aเพื่อ\u001aรับ\u001aของรางวัล\u001aที่\u001aได้\u001a"
     ],
-    "SG_DAILY_LOGIN_CONTINUE": [
+    "SG_DAILY_LOGIN_CONTINUE":               [
         "TAP TO CONTINUE",
         "點擊繼續",
         "터치로 진행",
         "TOUCHER POUR CONTINUER",
         "TIPPE ZUM FORTFAHREN",
         "TOCA PARA CONTINUAR",
-        "TAP TO CONTINUE",
+        "SENTUH UNTUK MELANJUTKAN",
         "TAP\u001a \u001aTO\u001a \u001aCONTINUE\u001a"
     ],
     "SG_DAILY_LOGIN_DAY_RESET_NOTICE": [
@@ -19471,14 +19494,14 @@
         "Day x reward. Acquired y gil.",
         "Day\u001a \u001ax\u001a \u001areward\u001a.\u001a \u001aAcquired\u001a \u001ay\u001a \u001agil\u001a.\u001a"
     ],
-    "SG_DAILY_LOGIN_INBOX_TITLE": [
+    "SG_DAILY_LOGIN_INBOX_TITLE":            [
         "Daily Login Reward",
         "每日登入報酬",
         "일일 출석 보상",
         "RÉCOMPENSE DE CONNEXION QUOTIDIENNE",
         "TÄGLICHER ANMELDEBONUS",
         "Recompensa de conexión diaria",
-        "Daily Login Reward",
+        "Hadiah Login Harian",
         "Daily\u001a \u001aLogin\u001a \u001aReward\u001a"
     ],
     "SG_DAILY_LOGIN_TITLE": [
@@ -24991,14 +25014,14 @@
         "<color=255:255:0>Peringatan</color>",
         "<color=255:255:0>\u001aคำเตือน\u001a</color>\u001a"
     ],
-    "UNIT_SKILL_NG_EX_LV": [
+    "UNIT_SKILL_NG_EX_LV":                   [
         "Acquired at EX +<param=ex_lv>.",
         "EX覺醒+<param=ex_lv>可習得",
         "EX 각성+<param=ex_lv>에서 개방",
         "Disponible à EX +<param=ex_lv>.",
         "Erhalten mit EX +<param=ex_lv>.",
         "Se consigue con EX +<param=ex_lv>.",
-        "Didapatkan pada EX覚醒+<param=ex_lv>.",
+        "Didapatkan pada EX +<param=ex_lv>.",
         "ได้รับ\u001aเมื่อ\u001aปลุก\u001aพลัง\u001aถึง\u001a \u001aEX\u001a+<param=ex_lv>\u001a"
     ],
     "UNIT_SKILL_SWITCH_INVALID": [
