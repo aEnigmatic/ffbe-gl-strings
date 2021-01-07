@@ -1,9 +1,19 @@
 {
+    "10220": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
     "504010010": [
         "View info on one enemy",
         "查看1名敵人的情報",
         "적 1명의 정보 확인",
-        "Obtient des infos sur un ennemi",
+        "Affiche les caractéristiques d'un ennemi",
         "Info über Gegner",
         "Te permite ver información de un enemigo.",
         "Melihat informasi satu musuh",
@@ -318,7 +328,6 @@
         "Inflige daño a un enemigo equivalente a la mitad de su VIT actual.",
         "Mengurangi 1/2 HP satu musuh",
         "สร้าง\u001aความเสียหาย\u001aให้\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001aลดลง\u001a \u001a1\u001a/\u001a2\u001a"
-
     ],
     "504020160": [
         "Drain HP from one enemy",
@@ -1658,8 +1667,7 @@
         "Singen regeneriert LP, alle Verb.",
         "Regenera gradualmente la VIT de todos los aliados cantando.",
         "Memulihkan HP semua teman secara bertahap selama menyanyi",
-        "ค่อยๆ\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001aใน\u001aระหว่าง\u001aที่\u001aร้องเพลง\u001aอยู่\u00
-        1a"
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001aใน\u001aระหว่าง\u001aที่\u001aร้องเพลง\u001aอยู่\u001a"
     ],
     "504201130": [
         "Damage and reduce ATK for one enemy",
@@ -2109,8 +2117,7 @@
         "Mehr phy. Schaden gegen Drachen und Wasserm. (Nicht stapelbar)",
         "Aumenta el daño físico infligido a enemigos acuáticos y dragones (no acumulable)",
         "Meningkatkan damage fisik terhadap jenis makhluk perairan dan naga (Tidak dapat ditumpuk)",
-        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001aและ\u001aมังกร\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aได้\u
-        001a)\u001a"
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001aและ\u001aมังกร\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aได้\u001a)\u001a"
     ],
     "504204250": [
         "Boost HP by 20% and ATK by 30%",
@@ -2161,7 +2168,6 @@
         "Daña a enemigos usando VIT propia (exclusiva de Queen)",
         "Menggunakan HP diri sendiri untuk memberikan damage pada semua musuh (Khusus Queen)",
         "ใช้\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aตัวเอง\u001aไป\u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a(\u001aสำหรับ\u001a \u001aQueen\u001a \u001aใช้\u001aเท่านั้น\u001a)\u001a"
-
     ],
     "504204300": [
         "Boost DEF for all allies and cast regen (Nine only)",
@@ -2171,8 +2177,7 @@
         "Erhöht ABW und stellt LP aller Verbündeten wieder her (nur Nine)",
         "Aumenta la DEF y recupera gradualmente la VIT a los aliados (exclusiva de Nine)",
         "Meningkatkan DEF dan memulihkan HP semua teman secara bertahap (Khusus Nine)",
-        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aใช้\u001aเวทมนตร์\u001a \u001aRegen\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a(\u001aสำหรับ\u001a \u001aNine\u001a \u001aใช้\u001aเ
-        ท่านั้น\u001a)\u001a"
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aใช้\u001aเวทมนตร์\u001a \u001aRegen\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a(\u001aสำหรับ\u001a \u001aNine\u001a \u001aใช้\u001aเท่านั้น\u001a)\u001a"
     ],
     "504204310": [
         "Boost HP by 5% and DEF by 10%",
@@ -2202,8 +2207,7 @@
         "Erhöht MAG, wenn mit einer Rute ausgerüstet und erhöht zusätzlich MAG, wenn mit einer Robe ausgerüstet (Nicht stapelbar).",
         "Aumenta la MAG al llevar vara, y aumento extra al llevar también túnica (no acumulable)",
         "Meningkatkan MAG ketika tongkat digunakan dan meningkatkan MAG ketika jubah digunakan (Tidak dapat ditumpuk)",
-        "เพิ่มค่า\u001a \u001aMAG\u001a \u001aยู\u001aนิ\u001aท\u001aถือ\u001aคทา\u001aหรือ\u001aสวม\u001aเสื้อคลุม\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสาม
-        ารถ\u001aทับซ้อน\u001aได้\u001a)\u001a"
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001aยู\u001aนิ\u001aท\u001aถือ\u001aคทา\u001aหรือ\u001aสวม\u001aเสื้อคลุม\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aได้\u001a)\u001a"
     ],
     "504204600": [
         "Boost MP and SPR by 25%, water resistance by 20%",
@@ -2234,7 +2238,6 @@
         "Daña a un enemigo y reduce su DEF y ESP (exclusiva de Orlandeau)",
         "Memberikan damage dan mengurangi DEF dan SPR satu musuh (Khusus Orlandeau)",
         "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
-
     ],
     "504204920": [
         "Cure poisons, blind, sleep, silence, paralysis, confusion and disease for all allies (Soleil only)",
@@ -2244,8 +2247,7 @@
         "Annuliert Gi., Ble., Schl., Sti., Lähm., Kon., Vir. und St. (nur Soleil)",
         "Cura ven, ceg, sue, sil, par, con y enf de los aliados (exclusiva de Soleil)",
         "Menyembuhkan status poison, blind, sleep, silence, paralyze, confuse, dan disease pada semua teman (Khusus Soleil)",
-        "รักษาการ\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a \u001aหรือ\u001a \u001aDisease\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกคน\u001a \u001a(\u001aสำหรับ\u001a \u001aSo
-        leil\u001a \u001aใช้\u001aเท่านั้น\u001a)\u001a"
+        "รักษาการ\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a \u001aหรือ\u001a \u001aDisease\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกคน\u001a \u001a(\u001aสำหรับ\u001a \u001aSoleil\u001a \u001aใช้\u001aเท่านั้น\u001a)\u001a"
     ],
     "504204930": [
         "Boost physical damage against plants, beasts, dragons, and avian and aquatic monsters",
@@ -4699,7 +4701,7 @@
     ],
     "504227411": [
         "Remove some status effects and randomly inflict poison, blind, sleep, silence, paralysis, confusion, disease, and stone on all enemies",
-        "解除全體敵人的部分狀態效果+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
+        "解除全體敵人的部分狀態數值效果+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체의 일부 능력치 효과 해제+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
         "Dissipe certains effets de statut et inflige au hasard poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification à tous les ennemis",
         "Entfernt einige Statuseffekte aller Gegner und fügt ihnen zufällig Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus oder Stein zu.",
@@ -4871,7 +4873,7 @@
         "View info on one enemy",
         "查看1名敵人的情報",
         "적 1명의 정보 확인",
-        "Obtient des infos sur un ennemi",
+        "Affiche les caractéristiques d'un ennemi",
         "Zeigt Info eines Gegners.",
         "Mira la información de un enemigo",
         "Melihat informasi satu musuh",
@@ -4886,7 +4888,6 @@
         "Aumenta el ATQ al llevar puños, y aumento extra al llevar también sombrero (no acumulable)",
         "Meningkatkan ATK ketika senjata tinju digunakan dan meningkatkan ATK ketika topi digunakan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aสนับมือ\u001aหรือ\u001aหมวก\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504227865": [
         "Reduce SPR by 10% and boost ATK by 60% (Not stackable)",
@@ -5427,7 +5428,6 @@
         "Aumenta los PM y la MAG un 30%, rellena la barra de EL cada turno y aumenta la MAG un 30% al llevar vara",
         "Meningkatkan MP dan MAG sebanyak 30%, mengisi bar LB setiap giliran, dan meningkatkan MAG sebanyak 30% ketika tongkat digunakan (Tidak dapat ditumpuk)",
         "เพิ่ม\u001a \u001aMP\u001a \u001aและ\u001a \u001aMAG\u001a \u001a30% + เติม LB Gauge\u001a \u001aใน\u001aทุก\u001aเทิร์น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aMAG\u001a \u001a30% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aคทา\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504229210": [
         "Boost MAG by 30% when equipped with a hat, and boost MAG by 30% when equipped with a robe (Not stackable)",
@@ -5437,8 +5437,7 @@
         "Erhöht MAG um 30%, wenn mit einem Hut ausgerüstet und erhöht MAG um 30%, wenn mit einer Robe ausgerüstet (Nicht stapelbar).",
         "Aumenta la MAG un 30% al llevar sombrero, y otro 30% al llevar túnica (no acumulable)",
         "Meningkatkan MAG sebanyak 30% ketika topi digunakan dan meningkatkan MAG sebanyak 30% ketika jubah digunakan (Tidak dapat ditumpuk)",
-        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a30% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aหมวก\u001a \u001aหรือ\u001aสวม\u001aเสื้อคลุม\u001a \u001a(ผล\u00
-        1aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a30% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aหมวก\u001a \u001aหรือ\u001aสวม\u001aเสื้อคลุม\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504229212": [
         "Boost HP and MP by 20% and ATK by 40%",
@@ -5749,7 +5748,6 @@
         "Aumenta los PM un 20%, el ATQ un 40% y el daño físico contra máquinas",
         "Meningkatkan MP sebanyak 20% dan ATK sebanyak 40%, serta meningkatkan damage fisik terhadap jenis mesin",
         "เพิ่ม\u001a \u001aMP\u001a \u001a20% + เพิ่มค่า ATK\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a"
-
     ],
     "504229931": [
         "Restore HP every turn and boost ATK by 60% when equipped with fists (Not stackable)",
@@ -5759,8 +5757,7 @@
         "Stellt jede Runde LP wieder her und erhöht ANG um 60%, wenn mit Fäusten ausgerüstet. Nicht stapelbar.",
         "Recupera VIT cada turno y aumenta el ATQ un 60% al llevar puños (no acumulable)",
         "Memulihkan HP setiap giliran dan meningkatkan ATK sebanyak 60% ketika senjata tinju digunakan (Tidak dapat ditumpuk)",
-        "ฟื้นฟู\u001a \u001aHP\u001a \u001aทุก\u001aเทิร์น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a60% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aสนับมือ\u
-        001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001aทุก\u001aเทิร์น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a60% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aสนับมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504229935": [
         "Boost HP by 10% and ATK and SPR by 5%",
@@ -5941,7 +5938,6 @@
         "Anula ceguera, sueño y parálisis y aumenta el ATQ un 60% al llevar arma de fuego (no acumulable)",
         "Menihilkan status blind, sleep, dan paralyze, serta meningkatkan ATK sebanyak 60% ketika senapan digunakan (Tidak dapat ditumpuk)",
         "ยกเลิก\u001aสถานะ\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a \u001aและ\u001a \u001aParalyze\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a60% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aปืน\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504230370": [
         "Boost equipment ATK when armed with two one-handed weapons (Not stackable)",
@@ -5951,8 +5947,7 @@
         "Erhöht Ausrüstung-ANG, wenn mit zwei einhändigen Waffen ausgerüstet (Nicht stapelbar).",
         "Aumenta el ATQ del equipo al llevar dos armas de una sola mano (no acumulable)",
         "Meningkatkan ATK perlengkapan ketika 2 senjata satu tangan digunakan (Tidak dapat ditumpuk)",
-        "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aอุปกรณ์\u001aเมื่อ\u001a<br>\u001aยู\u001aนิ\u001aท\u001aถือ\u001aอาวุธ\u001aสำหรับ\u001aถือ\u001aมือ\u001aเดียว\u001a \u001a2\
-        u001a \u001aชิ้น\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aอุปกรณ์\u001aเมื่อ\u001a<br>\u001aยู\u001aนิ\u001aท\u001aถือ\u001aอาวุธ\u001aสำหรับ\u001aถือ\u001aมือ\u001aเดียว\u001a \u001a2\u001a \u001aชิ้น\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504230372": [
         "Boost MP by 30%, MAG by 50%, and light resistance by 100%",
@@ -6353,7 +6348,6 @@
         "Aumenta la VIT un 15% y la MAG un 40%, y recupera PM cada turno",
         "Meningkatkan HP sebanyak 15% dan MAG sebanyak 40%, serta memulihkan MP setiap giliran",
         "เพิ่ม\u001a \u001aHP\u001a \u001a15% + เพิ่มค่า MAG\u001a \u001a40% \u001a+\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a \u001aใน\u001aทุก\u001aเทิร์น\u001a"
-
     ],
     "504231564": [
         "Boost MAG by 25% and fire, ice, and lightning resistance by 10% when equipped with a rod, and MAG by 25% and fire, ice, and lightning resistance by 10% when equipped with a hat (Not stackable)",
@@ -6363,8 +6357,7 @@
         "Erhöht MAG um 25% und Feuer-, Eis- und Blitzresistenz um 10%, wenn mit einer Rute ausgerüstet, und erhöht MAG um 25% und Feuer-, Eis- und Blitzresistenz um 10%, wenn mit einem Hut ausgerüstet (nicht stapelbar).",
         "Aumenta la MAG un 25% y la resistencia a fuego, hielo y rayo un 10% al llevar vara, y la MAG otro 25% y la resistencia a fuego, hielo y rayo otro 10% al llevar sombrero (no acumulable)",
         "Meningkatkan MAG sebanyak 25% dan resistansi api, es, dan petir sebanyak 10% ketika tongkat digunakan, serta meningkatkan MAG sebanyak 25% dan resistansi api, es, dan petir sebanyak 10% ketika topi digunakan (Tidak dapat ditumpuk)",
-        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a25% \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001a \u001a10% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aคทา\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a \u001aและ\u001aสายฟ้า\u001a \u001a10% \u001aเมื่อ\u001aยู
-        \u001aนิ\u001aท\u001aสวม\u001aหมวก\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a25% \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001a \u001a10% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aคทา\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a \u001aและ\u001aสายฟ้า\u001a \u001a10% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aหมวก\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504231651": [
         "Boost ATK by 50% when equipped with a katana, and boost equipment ATK when a single weapon is equipped in both hands (Not stackable)",
@@ -6495,7 +6488,6 @@
         "Aumenta la VIT un 30%, el ESP un 30% al llevar escudo pesado, y el ESP otro 30% al llevar armadura pesada (no acumulable)",
         "Meningkatkan HP sebanyak 30%, serta meningkatkan SPR sebanyak 30% ketika perisai kelas berat digunakan dan meningkatkan SPR sebanyak 30% ketika armor kelas berat digunakan (Tidak dapat ditumpuk)",
         "เพิ่ม\u001a \u001aHP\u001a \u001a30% \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a30% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aโล่\u001aหนัก\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a30% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aเกราะ\u001aหนัก\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504232112": [
         "Boost MP by 20% and MAG by 50%, and fill LB gauge every turn (Not stackable)",
@@ -6829,7 +6821,7 @@
     ],
     "504233336": [
         "Remove some status effects from one enemy and activate chronoshift next turn",
-        "解除1名敵人的部分狀態效果+下一回合發動「時空變移」",
+        "解除1名敵人的部分狀態數值效果+下一回合發動「時空變移」",
         "적 1명의 일부 능력치 효과 해제+다음 턴에 '크로노시프트' 발동",
         "Dissipe certains effets de statut d'un ennemi et permet d'utiliser Phasage temporel au prochain tour",
         "Entfernt einige Statuseffekte von einem Gegner und aktiviert in der nächsten Runde Zeitwechsel.",
@@ -6926,7 +6918,6 @@
         "Aumenta la VIT y los PM un 35%, el ATQ cuando la VIT está por encima de cierto nivel, y los parámetros un 30% al vincular a Fenril",
         "Meningkatkan HP dan MP sebanyak 35%, meningkatkan ATK ketika HP lebih dari batas tertentu, dan meningkatkan parameter sebanyak 30% ketika Fenrir dipasang",
         "เพิ่ม\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a35% + เพิ่มค่า ATK\u001a \u001aเมื่อ\u001a \u001aHP\u001a \u001aอยู่\u001aเหนือกว่า\u001aเกณฑ์\u001aกำหนด\u001a \u001a+\u001a \u001aเพิ่ม\u001aสเตตัส\u001aเมื่อ\u001aติดตั้ง\u001a \u001aFenrir\u001a \u001a30%"
-
     ],
     "504233760": [
         "Remove some status effects from all enemies and all allies, and deal partial unmitigated damage to all enemies",
@@ -6937,7 +6928,6 @@
         "Elimina algunos cambios de estado de todos los enemigos y aliados, e inflige daño que ignora parcialmente la DEF de todos los enemigos",
         "Menghilangkan beberapa efek perubahan status dari semua musuh dan teman, serta memberikan damage yang menembus sebagian DEF pada semua musuh",
         "ยกเลิก\u001aสถานะ\u001aที่\u001aส่งผล\u001aต่อ\u001aสเตตัส\u001aบางส่วน\u001aของ\u001aศัตรู\u001aและ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทก\u001aราย\u001a"
-
     ],
     "504233761": [
         "Boost ATK by 60%, and chance of activating allure after receiving a physical attack (Not stackable)",
@@ -7531,7 +7521,7 @@
     ],
     "504235601": [
         "Remove some status effects from one ally or enemy, and remove some status effects and boost ATK and MAG for caster",
-        "解除1名隊員或敵人的部分狀態效果+解除自身的部分狀態效果+提高攻擊魔力",
+        "解除1名隊員或敵人的部分狀態數值效果+解除自身的部分狀態數值效果+提高攻擊魔力",
         "아군 또는 적 1명의 일부 능력치 효과 해제+자신의 일부 능력치 효과 해제+공격력과 마력 상승",
         "Dissipe certains effets de statut d'un allié ou d'un ennemi, dissipe certains effets de statut du lanceur et augmente son ATT et sa MAGIE",
         "Entfernt einige Statuseffekte eines Gegners oder Verbündeten, entfernt einige Statuseffekte und erhöht ANG und MAG des Benutzers.",
@@ -8099,6 +8089,16 @@
         "Meningkatkan resistansi api, air, angin, dan tanah sebanyak 20%",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001a \u001a20%"
     ],
+    "504237889": [
+        "Boost ATK and MAG by 40% and boost physical damage against reapers (Not stackable)",
+        "提高40%攻擊魔力+物理攻擊時提高對死靈系魔物的傷害[無法重複裝備]",
+        "공격력과 마력 40% 상승+물리 공격 시 사령형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 40 %, et augmente les dégâts physiques infligés aux morts-vivants (non cumulable)",
+        "Erhöht ANG sowie MAG um 40% und erhöht physischen Schaden gegen Untote (Nicht stapelbar).",
+        "Aumenta el ATQ y la MAG un 40% y el daño físico contra muertos vivientes (no acumulable)",
+        "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik terhadap jenis makhluk halus (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
     "504238050": [
         "Boost MAG by 60% and boost evocation damage (Not stackable)",
         "提高60%魔力+提高召喚魔法的威力[無法重複裝備]",
@@ -8128,7 +8128,6 @@
         "Aumenta la MAG un 30% y aumenta la MAG del equipo al llevar una sola arma en ambas manos",
         "Meningkatkan MAG sebanyak 30% dan meningkatkan MAG perlengkapan ketika 1 senjata digunakan dengan kedua tangan",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a30% + เพิ่มค่า MAG\u001a \u001aของ\u001aอุปกรณ์\u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a"
-
     ],
     "504238059": [
         "Boost MAG by 40%, and boost parameters when setting an esper by 25%",
@@ -8149,7 +8148,6 @@
         "Aumenta la MAG un 20% y aumenta el daño mágico contra espíritus",
         "Meningkatkan MAG sebanyak 20% dan meningkatkan damage magic terhadap jenis peri",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a20% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aศัตรู\u001aชนิด\u001aโจมตี\u001aแฟรี่\u001a"
-
     ],
     "504238390": [
         "Boost ATK by 50%, and boost fire and water resistance by 15% when equipped with a short sword or a throwing weapon (Not stackable)",
@@ -8160,7 +8158,6 @@
         "Aumenta el ATQ un 50%, y aumenta la resistencia a fuego y agua un 15% al llevar espada corta o arma arrojadiza (no acumulable)",
         "Meningkatkan ATK sebanyak 50%, serta meningkatkan resistansi api dan air sebanyak 15% ketika pedang pendek atau senjata lempar digunakan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aและ\u001aน้ำ\u001a \u001a15% \u001aเมื่อ\u001aติดตั้ง\u001aดาบสั้น\u001aหรือ\u001aอาวุธ\u001aขว้าง\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504238392": [
         "Fill LB gauge every turn, and boost SPR by 60% when equipped with a throwing weapon (Not stackable)",
@@ -8171,7 +8168,6 @@
         "Rellena la barra de EL cada turno y aumenta el ESP un 60% al llevar arma arrojadiza (no acumulable)",
         "Mengisi bar LB setiap giliran dan meningkatkan SPR sebanyak 60% ketika senjata lempar digunakan (Tidak dapat ditumpuk)",
         "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aทุก\u001aเทิร์น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a60% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001aขว้าง\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504238394": [
         "Boost gil obtained when completing quests, and boost ATK by 20% when equipped with a short sword or a throwing weapon",
@@ -8182,7 +8178,6 @@
         "Aumenta la cantidad de guiles que se obtienen al completar misiones, y aumenta el ATQ un 20% al llevar espada corta o arma arrojadiza",
         "Meningkatkan jumlah gil yang diperoleh ketika menyelesaikan quest dan meningkatkan ATK sebanyak 20% ketika pedang pendek atau senjata lempar digunakan",
         "เพิ่มจำนวน\u001a \u001aGil\u001a \u001aที่\u001aได้รับ\u001aเมื่อ\u001aเคลียร์\u001aเค\u001aวส\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a20% \u001aเมื่อ\u001aติดตั้ง\u001aดาบสั้น\u001aหรือ\u001aอาวุธ\u001aขว้าง\u001a"
-
     ],
     "504238395": [
         "Boost HP by 20%, and boost SPR by 40% when equipped with a throwing weapon (Not stackable)",
@@ -8193,7 +8188,6 @@
         "Aumenta la VIT un 20%, y aumenta el ESP un 40% al llevar arma arrojadiza (no acumulable)",
         "Meningkatkan HP sebanyak 20% dan meningkatkan SPR sebanyak 40% ketika senjata lempar digunakan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aHP\u001a \u001a20% \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a40% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001aขว้าง\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
-
     ],
     "504400110": [
         "Halve chance of encounters",
@@ -8204,6 +8198,1786 @@
         "Reduce a la mitad los encuentros",
         "Mengurangi peluang bertemu musuh",
         "ลด\u001aโอกาส\u001aใน\u001aการ\u001aเดิน\u001aไป\u001aเจอ\u001aกับ\u001aศัตรู\u001a"
+    ],
+    "504900120": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900130": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900140": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900150": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900160": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900170": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900180": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900190": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900200": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900210": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900220": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900230": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900240": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900250": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900260": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900270": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900280": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900290": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900300": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900310": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900320": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900330": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900340": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900350": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900360": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900370": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900380": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900390": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900400": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de fuego a todos y aumenta la potencia",
+        null,
+        "NA\u001a"
+    ],
+    "504900410": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de hielo a todos y aumenta la potencia",
+        null,
+        "NA\u001a"
+    ],
+    "504900420": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de rayo a todos y aumenta la potencia",
+        null,
+        "NA\u001a"
+    ],
+    "504900430": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de agua a todos y aumenta la potencia",
+        null,
+        "NA\u001a"
+    ],
+    "504900440": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de viento a todos y aumenta la potencia",
+        null,
+        "NA\u001a"
+    ],
+    "504900450": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de tierra a todos y aumenta la potencia",
+        null,
+        "NA\u001a"
+    ],
+    "504900460": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504900470": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504900480": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900490": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900500": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900510": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900520": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900530": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900540": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900550": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900560": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900570": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900580": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900590": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900600": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900610": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900620": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900630": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900640": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900650": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900660": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900670": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900680": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900690": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900700": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900710": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900720": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900730": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900740": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900750": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900760": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900770": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900780": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900790": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900800": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900810": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504900820": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900830": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504900840": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504900850": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900860": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900870": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900880": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900890": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900900": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900910": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900920": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900930": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900940": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900950": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900960": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900970": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900980": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504900990": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901000": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901010": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901020": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901030": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901040": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901050": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901060": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901070": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901080": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901090": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901100": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901110": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901120": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901130": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901140": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901150": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901160": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901170": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901180": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901190": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901200": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901210": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901220": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901230": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901240": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901250": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901260": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901270": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901280": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901290": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901300": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901310": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901320": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901330": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901340": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño oscuro a todos los enemigos",
+        null,
+        "NA\u001a"
+    ],
+    "504901350": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño oscuro a todos los enemigos",
+        null,
+        "NA\u001a"
+    ],
+    "504901360": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño oscuro a todos los enemigos",
+        null,
+        "NA\u001a"
+    ],
+    "504901370": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901380": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901390": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901400": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901410": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901420": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901430": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901440": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901450": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901460": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901470": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901480": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901490": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901500": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901510": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901520": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901530": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daño de viento a uno y reduce la res. al hielo",
+        null,
+        "NA\u001a"
+    ],
+    "504901540": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901550": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901560": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901570": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901580": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901590": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901600": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901610": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901620": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901630": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901640": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901650": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901660": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Deja K.O. al instante a un enemigo",
+        null,
+        "NA\u001a"
+    ],
+    "504901670": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901680": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901690": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901700": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901710": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901720": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901730": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901740": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901750": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901760": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901770": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901780": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901790": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901800": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Salta y ataca en el próximo turno",
+        null,
+        "NA\u001a"
+    ],
+    "504901810": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Daña a todos los enemigos",
+        null,
+        "NA\u001a"
+    ],
+    "504901820": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901830": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901840": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901850": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901860": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901870": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "NA\u001a"
+    ],
+    "504901880": [
+        "Deal lightning damage to one enemy and reduce earth resistance",
+        "對1名敵人發動雷屬性攻擊+降低土屬性耐性",
+        "적 1명에게 번개속성 피해+땅속성 저항력 감소",
+        "Dégâts de foudre sur un ennemi et réduit la rés. à la terre",
+        "Blitzschaden und red. Erdres., ein Ziel",
+        "Daño absoluto parcial a un enemigo",
+        "Memberikan damage petir dan mengurangi resistansi tanah pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "504901890": [
+        "Deal earth damage to one enemy and reduce wind resistance",
+        "對1名敵人發動土屬性攻擊+降低風屬性耐性",
+        "적 1명에게 번개속성 피해+땅속성 저항력 감소",
+        "Dégâts de terre sur un ennemi et réduit la rés. au vent",
+        "Erdschaden und red. Windres., ein Ziel",
+        "Daño de tierra a uno y reduce la res. al viento",
+        "Memberikan damage tanah dan mengurangi resistansi angin pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "1500000000": [
         "Critically damage one enemy.",
@@ -8538,7 +10312,7 @@
     "1500000034": [
         "Boost SPR by 15% and fire, ice, lightning, water, wind, earth, light, and dark resistance by 25%, and fill LB gauge every turn",
         "提高15%精神+提高25%全屬性耐性+每回合自動增加極限技槽",
-        "정신력 15% 상승+모든 속성 저항력 25% 상승+매 턴마다 LB 게이지 증가",
+        "정신력 15%, 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 25% 상승+매 턴마다 LB 게이지 증가",
         "Augmente la PSY de 15 %, toutes les résistances élémentaires de 25 %, et remplit la jauge de limite à chaque tour",
         "Erhöht PSY um 15%, sowie alle Elementarresistenzen um 25%. Limitmeter füllt sich jede Runde eines Kampfes.",
         "Aumenta el ESP un 15% y la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad un 25%, la barra de EL se llena cada turno",
@@ -9564,5 +11338,45 @@
         "Aumenta la MAG un 60% y recupera PM cada turno (no acumulable)",
         "Meningkatkan MAG sebanyak 60% dan memulihkan MP setiap giliran (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a60% \u001a+\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a \u001aทุก\u001aเทิร์น\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000139": [
+        "Boost DEF and SPR by 50% and ice, lightning, light, and dark resistance by 60% (Not stackable)",
+        "提高50%防禦精神、60%冰雷光暗屬性耐性[無法重複裝備]",
+        "방어력과 정신력 50% 상승+얼음, 번개, 빛, 어둠속성 저항력 60% 상승 (중복 장착 불가)",
+        "Augmente la DEF et la PSY de 50 % et augmente la résistance à la glace, à la foudre, à la lumière et aux ténèbres de 60 % (non cumulable)",
+        "Erhöht ABW und PSY um 50% und Eis-, Blitz-, Licht- und Dunkelresistenz um 60% (nicht stapelbar).",
+        "Aumenta la DEF y el ESP un 50% y la resistencia a hielo, rayo, luz y oscuridad un 60% (no acumulable)",
+        "Meningkatkan DEF dan SPR sebanyak 50%, serta resistansi es, petir, cahaya, dan kegelapan sebanyak 60% (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a50% \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001a \u001a60% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000140": [
+        "Boost ATK and MAG by 70%, and boost physical and magic damage against reapers and demons (Not stackable)",
+        "提高70%攻擊魔力+物理、魔法攻擊時提高對死靈惡魔系魔物的傷害[無法重複裝備]",
+        "공격력과 마력 70% 상승+물리, 마법 공격 시 사령과 악마형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 70 %, et augmente les dégâts physiques et magiques infligés aux morts-vivants et aux démons (non cumulable)",
+        "Erhöht ANG sowie MAG um 70% und erhöht physischen und magischen Schaden gegen Untote und Dämonen (nicht stapelbar).",
+        "Aumenta el ATQ y la MAG un 70% y el daño físico y mágico contra muertos vivientes y demonios (no acumulable)",
+        "Meningkatkan ATK dan MAG sebanyak 70%, serta meningkatkan damage fisik dan magic terhadap jenis makhluk halus dan demon (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a70% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001aและ\u001aปีศาจ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000141": [
+        "Boost MAG and water, earth, and light resistance by 80% (Not stackable)",
+        "提高80%魔力、水土光屬性耐性[無法重複裝備]",
+        "마력과 물, 땅, 빛속성 저항력 80% 상승 (중복 장착 불가)",
+        "Augmente la MAGIE et la résistance à l'eau, à la terre et à la lumière de 80 % (non cumulable)",
+        "Erhöht MAG sowie Wasser-, Erd- und Lichtresistenz um 80% (nicht stapelbar).",
+        "Aumenta la MAG y la resistencia a agua, tierra y luz un 80% (no acumulable)",
+        "Meningkatkan MAG, dan resistansi air, tanah, dan cahaya sebanyak 80% (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001a,\u001a \u001aดิน\u001aและ\u001aแสง\u001a \u001a80% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000142": [
+        "Boost HP and MP by 15% and ATK by 60%, boost parameters when setting an esper by 30%, and boost ATK by 20% when equipped with a katana (Not stackable)",
+        "提高15%HPMP、60%攻擊+提高30%設定幻獸時反映在兵員身上的狀態數值+裝備刀時提高20%攻擊[無法重複裝備]",
+        "HP와 MP 15%, 공격력 60% 상승+환수 장착 시 반영되는 능력치 30% 상승+도 장착 시 공격력 20% 상승 (중복 장착 불가)",
+        "Augmente les PV et les PM de 15 %, l'ATT de 60 %, augmente les caractéristiques quand une chimère est attribuée de 30 %, et augmente l'ATT de 20 % quand un katana est équipé (non cumulable)",
+        "Erhöht LP sowie MP um 15% und ANG um 60%, erhöht Werte beim Festlegen eines Espers um 30% und erhöht ANG um 20%, wenn mit einem Katana ausgerüstet (nicht stapelbar).",
+        "Aumenta la VIT y los PM un 15% y el ATQ un 60%, los parámetros un 30% al vincular un esper, y el ATQ un 20% al llevar katana (no acumulable)",
+        "Meningkatkan HP dan MP sebanyak 15%, dan ATK sebanyak 60%, meningkatkan parameter sebanyak 30% ketika esper dipasang, dan meningkatkan ATK sebanyak 20% ketika katana digunakan (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a \u001a15% และ ATK\u001a \u001a60% + เพิ่มค่าสเตตัสเมื่อทำการติดตั้ง Esper\u001a \u001aขึ้น\u001a \u001a30% + เพิ่มค่า ATK\u001a \u001a20% \u001aเมื่อ\u001aติดตั้ง\u001aคาตา\u001aนะ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ]
 }
