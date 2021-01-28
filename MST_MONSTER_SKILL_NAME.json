@@ -33152,7 +33152,7 @@
     "180750": [
         "Heat Shot",
         "灼熱共享",
-        "화염 공유",
+        "화염 세례",
         "Tir ardent",
         "Hitzeschuss",
         "Tiro calorífico",
@@ -33162,7 +33162,7 @@
     "180760": [
         "Aqua Snipe",
         "冰凍狙擊",
-        "얼음 저격",
+        "물 저격",
         "Tir de précision aquatique",
         "Aquascharfschuss",
         "Disparo de precisión acuoso",
@@ -33170,14 +33170,14 @@
         "Aqua\u001a \u001aSnipe\u001a"
     ],
     "180770": [
-        "Aqua Shot",
+        "Aqua Barrage",
         "冰凍共享",
-        "얼음 공유",
-        "Tir aquatique",
+        "물 세례",
+        "Barrage aquatique",
         "Aquaschuss",
-        "Tiro acuoso",
+        "Bombardeo acuoso",
         "Tembakan Aqua",
-        "Aqua\u001a \u001aShot\u001a"
+        "Aqua\u001a \u001aBarrage\u001a"
     ],
     "180780": [
         "Gravestone Refusal",
@@ -63680,12 +63680,12 @@
         "กระสุน\u001aมนต์\u001aเพลิง\u001a"
     ],
     "209890": [
-        "Frost Shot",
+        "Frozen Magic Shot",
         "凍結魔導彈",
         "동결 마도탄",
         "Cryo-tir",
         "Frostschuss",
-        "Disparo hielo",
+        "Disparo hielo mágico",
         "Frost Shot",
         "กระสุน\u001aมนต์\u001aน้ำแข็ง\u001a"
     ],
@@ -75842,7 +75842,7 @@
     "215456": [
         "Heat Shot",
         "灼熱共享",
-        "화염 공유",
+        "화염 세례",
         "Tir ardent",
         "Hitzeschuss",
         "Tiro calorífico",
@@ -75852,7 +75852,7 @@
     "215457": [
         "Aqua Snipe",
         "冰凍狙擊",
-        "얼음 저격",
+        "물 저격",
         "Tir de précision aquatique",
         "Aquascharfschuss",
         "Disparo de precisión acuoso",
@@ -75860,14 +75860,14 @@
         "Aqua\u001a \u001aSnipe\u001a"
     ],
     "215458": [
-        "Aqua Shot",
+        "Aqua Barrage",
         "冰凍共享",
-        "얼음 공유",
-        "Tir aquatique",
+        "물 세례",
+        "Barrage aquatique",
         "Aquaschuss",
-        "Tiro acuoso",
+        "Bombardeo acuoso",
         "Tembakan Aqua",
-        "Aqua\u001a \u001aShot\u001a"
+        "Aqua\u001a \u001aBarrage\u001a"
     ],
     "215459": [
         "Electrocution",
@@ -91479,6 +91479,16 @@
         "Gigitan",
         "กัด\u001a"
     ],
+    "217169": [
+        "Thorn Whip",
+        "荊棘之鞭",
+        "가시 채찍",
+        "Fouet épineux",
+        "Dornenpeitsche",
+        "Látigo de espinas",
+        "Cambuk Berduri",
+        "แส้\u001aหนาม\u001aแหลม\u001a"
+    ],
     "217170": [
         "Coiling Ivy",
         "纏繞藤蔓",
@@ -91487,6 +91497,16 @@
         "Efeugestrüpp",
         "Hiedra enrollada",
         "Gelungan Tumbuhan",
+        "เถาวัลย์\u001aเลื้อย\u001aพัน\u001a"
+    ],
+    "217171": [
+        "Ivy",
+        "藤蔓",
+        "덩굴",
+        "Lierre",
+        "Efeu",
+        "Hiedra",
+        "Ivy",
         "เถาวัลย์\u001aเลื้อย\u001aพัน\u001a"
     ],
     "217174": [
@@ -103506,7 +103526,7 @@
         "Attaque supraphysique obscure - Feu",
         "Schatten-Megahieb – Feuer",
         "Superataque físico tenebroso - Fuego",
-        "Serangan Fisik Kegelapan Super - Air",
+        "Serangan Fisik Kegelapan Super - Api",
         "ยอด\u001aท่า\u001aจู่โจม\u001aเงา\u001aพลัง\u001aกายภาพ\u001a \u001a-\u001a \u001aไฟ\u001a"
     ],
     "218546": [
@@ -103516,7 +103536,7 @@
         "Attaque supramagique obscure - Feu",
         "Schatten-Megazauber – Feuer",
         "Superataque mágico tenebroso - Fuego",
-        "Serangan Magic Kegelapan Super - Air",
+        "Serangan Magic Kegelapan Super - Api",
         "ยอด\u001aท่า\u001aจู่โจม\u001aเงา\u001aพลัง\u001aเวทย์\u001a \u001a-\u001a \u001aไฟ\u001a"
     ],
     "218547": [
@@ -112259,6 +112279,106 @@
         "Whiskers Coil",
         "ม้วน\u001aหนวด\u001aแส้\u001a"
     ],
+    "219501": [
+        "Hidden Pain (Physical)",
+        "遺失之殤【物理】",
+        "로스트 페인(물리)",
+        "Douleur cachée (Physique)",
+        "Verborgener Schmerz (Physisch)",
+        "Dolor oculto (físico)",
+        "Rasa Sakit Tersembunyi (Fisik)",
+        "ซุกซ่อน\u001aความเจ็บปวด\u001a \u001a(\u001aกายภาพ\u001a)\u001a"
+    ],
+    "219502": [
+        "Hidden Pain (Magic)",
+        "遺失之殤【魔法】",
+        "로스트 페인(마법)",
+        "Douleur cachée (Magique)",
+        "Verborgener Schmerz (Magisch)",
+        "Dolor oculto (mágico)",
+        "Rasa Sakit Tersembunyi (Magic)",
+        "ซุกซ่อน\u001aความเจ็บปวด\u001a \u001a(\u001aพลัง\u001aเวทย์\u001a)\u001a"
+    ],
+    "219503": [
+        "Hades' Sickle",
+        "哈迪斯鐮刀",
+        "하데스 시클",
+        "Faucille d'Hadès",
+        "Hadessichel",
+        "Hoz del Hades",
+        "Hades' Sickle",
+        "เคียว\u001aพญา\u001aยม\u001a"
+    ],
+    "219504": [
+        "Venom Sickle",
+        "毒液鐮刀",
+        "베놈 시클",
+        "Faucille toxique",
+        "Giftsichel",
+        "Hoz venenosa",
+        "Venom Sickle",
+        "เคียว\u001aพิษ\u001a"
+    ],
+    "219505": [
+        "Flare Sickle",
+        "核爆鐮刀",
+        "플레어 시클",
+        "Faucille enflammée",
+        "Flammensichel",
+        "Hoz fulgor",
+        "Flare Sickle",
+        "เคียว\u001aระเบิด\u001aแสง\u001a"
+    ],
+    "219506": [
+        "Flare Scythe",
+        "核爆戰鐮",
+        "플레어 사이즈",
+        "Faux enflammée",
+        "Flammensense",
+        "Guadaña fulgor",
+        "Flare Scythe",
+        "เคียว\u001aยักษ์\u001aระเบิด\u001aแสง\u001a"
+    ],
+    "219507": [
+        "The Hollow's power fills the scythe.",
+        "鐮刀上寄宿了虛無之力",
+        "낫에 허무의 힘이 깃들었다",
+        "La faux se remplit du pouvoir du Fantôme.",
+        "Die Macht der Leere erfüllt die Sense.",
+        "La guadaña se impregna del poder de la Distorsión.",
+        "Kekuatan Hollow memenuhi sabit.",
+        "พลัง\u001aแห่ง\u001a \u001aHollow\u001a \u001aอาบ\u001aเข้าไป\u001aใน\u001aเคียว\u001aยักษ์\u001aจน\u001aเต็มเปี่ยม\u001aแล้ว\u001a"
+    ],
+    "219508": [
+        "The silver hammer rains down!",
+        "白銀鐵槌接連而降！",
+        "백은의 철퇴가 쏟아진다!",
+        "Le marteau en argent s'abat frénétiquement !",
+        "Silberhämmer regnen herab!",
+        "¡El martillo de plata desciende!",
+        "Palu perak berhamburan jatuh!",
+        "ฝน\u001aแห่ง\u001aค้อน\u001aสี\u001aเงิน\u001aพรั่งพรู\u001aลงมา\u001aแล้ว\u001a"
+    ],
+    "219509": [
+        "Electro Breath",
+        "電子吐息",
+        "일렉트로 브레스",
+        "Souffle voltaïque",
+        "Elektroatem",
+        "Electroaliento",
+        "Napas Elektrik",
+        "Electro\u001a \u001aBreath\u001a"
+    ],
+    "219510": [
+        "Shock Rock",
+        "電塊",
+        "전괴",
+        "Roche électrique",
+        "Schockbrocken",
+        "Shock rocoso",
+        "Batu Listrik",
+        "ลูก\u001aพลัง\u001aสายฟ้า\u001a"
+    ],
     "219511": [
         "Sunny: Pollen",
         "晴天：花粉預報",
@@ -115136,7 +115256,7 @@
         "Coup de queue",
         "Schwanzangriff",
         "Embate de cola",
-        "Serangan Ekor",
+        "Kibasan Ekor",
         "หาง\u001aจู่โจม\u001a"
     ],
     "219916": [
@@ -119136,7 +119256,7 @@
         "Attaque supramagique obscure - Feu",
         "Magischer Megaangriff der Schatten – Feuer",
         "Superataque mágico tenebroso - Fuego",
-        "Serangan Magic Kegelapan Super - Air",
+        "Serangan Magic Kegelapan Super - Api",
         "ยอด\u001aท่า\u001aจู่โจม\u001aเงา\u001aพลัง\u001aเวทย์\u001a \u001a-\u001a \u001aไฟ\u001a"
     ],
     "220404": [
@@ -119294,7 +119414,7 @@
         "水土崩落",
         "수토 붕괴",
         "Cataclysme d'eau et de terre",
-        "Ruin (Wasser und Eis)",
+        "Ruin (Wasser und Erde)",
         "Decadencia de agua y tierra",
         "Kehancuran Air & Tanah",
         "ทลาย\u001aวารี\u001aปฐพี\u001a"
@@ -119432,7 +119552,7 @@
     "220433": [
         "Shadow Super Magic Attack - Earth",
         "暗之力超魔擊・土",
-        "검은 힘의 초마격·땅",
+        "검은 힘의 거센 마법 공격·땅",
         "Attaque supramagique obscure - Terre",
         "Magischer Megaangriff der Schatten - Erde",
         "Superataque mágico tenebroso - Tierra",
@@ -119536,7 +119656,7 @@
         "Attaque supraphysique obscure - Feu",
         "Physischer Megaangriff der Schatten – Feuer",
         "Superataque físico tenebroso - Fuego",
-        "Serangan Fisik Kegelapan Super - Air",
+        "Serangan Fisik Kegelapan Super - Api",
         "ยอด\u001aท่า\u001aจู่โจม\u001aเงา\u001aพลัง\u001aกายภาพ\u001a \u001a-\u001a \u001aไฟ\u001a"
     ],
     "220444": [
@@ -120676,7 +120796,7 @@
         "Toutes les résistances élémentaires de l'ajax ont été réduites !",
         "Ajax' Resistenz gegen alle Elemente wurde gesenkt!",
         "¡Se ha reducido la resistencia del Ajax a todos los elementos!",
-        "Resistansi semua elemen Ajax telah berkurang!",
+        "Resistansi Ajax terhadap semua elemen telah menurun!",
         "พลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aของ\u001a \u001aAjax\u001a \u001aลดลง\u001aแล้ว\u001a!\u001a"
     ],
     "220689": [
@@ -121328,6 +121448,76 @@
         "Rayo sobrecargado",
         "Overcharged Bolt",
         "Overcharged\u001a \u001aBolt\u001a"
+    ],
+    "220930": [
+        "Heavenly Flames",
+        "天之焰",
+        "천상의 화염",
+        "Flammes célestes",
+        "Himmlische Flammen",
+        "Llamas celestiales",
+        "Kobaran Api Langit",
+        "เปลวเพลิง\u001aแห่ง\u001aสวรรค์\u001a"
+    ],
+    "220931": [
+        "Blades Unto Infinity",
+        "無限之刃",
+        "무한의 칼날",
+        "Lames de l'infini",
+        "Unendliche Klingen",
+        "Espadas infinitas",
+        "Pedang Tak Terbatas",
+        "ดาบ\u001aอนันต\u001aภาพ\u001a"
+    ],
+    "220932": [
+        "Powerful Coercion",
+        "強者的威壓",
+        "강자의 위압",
+        "Pression du champion",
+        "Druck des Champions",
+        "Presión poderosa",
+        "Powerful Coercion",
+        "พลัง\u001aคุกคาม\u001aผู้\u001aแข็งแกร่ง\u001a"
+    ],
+    "220935": [
+        "Noxious Manablade",
+        "毒之魔刃",
+        "독의 마법 칼날",
+        "Lame-mana venimeuse",
+        "Giftige Manaklinge",
+        "Espada de maná nociva",
+        "Noxious Manablade",
+        "ดาบ\u001aเวทย์\u001aอาบ\u001aพิษร้าย\u001a"
+    ],
+    "220936": [
+        "Megaflare",
+        "百萬核爆",
+        "메가플레어",
+        "MégaBrasier",
+        "Megaflamme",
+        "Megafulgor",
+        "Megaflare",
+        "Megaflare\u001a"
+    ],
+    "220937": [
+        "Two turns until megaflare.",
+        "距百萬核爆還有兩回合",
+        "메가플레어까지 앞으로 2턴",
+        "L'ennemi lancera MégaBrasier dans deux tours.",
+        "Zwei Runden bis zur Megaflamme.",
+        "Dos turnos hasta Megafulgor.",
+        "Megaflare akan dilepaskan dalam 2 giliran.",
+        "อีก\u001aสอง\u001aเทิร์น\u001aก่อน\u001aใช้\u001a \u001aMegaflare\u001a"
+    ],
+    "220938": [
+        "One turn until megaflare.",
+        "距百萬核爆還有一回合",
+        "메가플레어까지 앞으로 1턴",
+        "L'ennemi lancera MégaBrasier dans un tour.",
+        "Eine Runde bis zur Megaflamme.",
+        "Un turno hasta Megafulgor.",
+        "Megaflare akan dilepaskan dalam 1 giliran.",
+        "อีก\u001aหนึ่ง\u001aเทิร์น\u001aก่อน\u001aใช้\u001a \u001aMegaflare\u001a"
     ],
     "900000": [
         "Death Declaration",
