@@ -83496,7 +83496,7 @@
         "Destructrice d'acier noir",
         "Dunkelstahl-Zerstörer",
         "Destructora de acero negro",
-        "Baja Hitam Penghancur",
+        "Penghancur Baja Hitam",
         "ดาบ\u001aเหล็ก\u001aทมิฬ\u001aทำลายล้าง\u001a"
     ],
     "216231": [
@@ -88165,7 +88165,7 @@
         "어둠의 아우라",
         "Aura sombre",
         "Aura der Finsternis",
-        "Aura oscura",
+        "Aura tenebrosa",
         "Aura Gelap",
         "รัศมี\u001aมืดมน\u001a"
     ],
@@ -121448,6 +121448,876 @@
         "Rayo sobrecargado",
         "Overcharged Bolt",
         "Overcharged\u001a \u001aBolt\u001a"
+    ],
+    "220757": [
+        "Megaflare",
+        "百萬核爆",
+        "메가플레어",
+        "MégaBrasier",
+        "Megaflamme",
+        "Megafulgor",
+        "Megaflare",
+        "Megaflare\u001a"
+    ],
+    "220758": [
+        "Gigaflare",
+        "十億核爆",
+        "기가플레어",
+        "Gigabrasier",
+        "Gigaflamme",
+        "Gigafulgor",
+        "Gigaflare",
+        "Gigaflare\u001a"
+    ],
+    "220759": [
+        "Teraflare",
+        "億萬核爆",
+        "테라플레어",
+        "TéraBrasier",
+        "Terraflamme",
+        "Terafulgor",
+        "Teraflare",
+        "Teraflare\u001a"
+    ],
+    "220760": [
+        "Bahamut took a breath!",
+        "巴哈姆特輕輕吸了口氣",
+        "바하무트가 짧게 숨을 들이켰다",
+        "Bahamut prend son inspiration !",
+        "Bahamut atmet ein!",
+        "¡Bahamut coge aire!",
+        "Bahamut mengambil napas!",
+        "Bahamut\u001a \u001aสูด\u001aลมหายใจ\u001aแล้ว\u001a!\u001a"
+    ],
+    "220761": [
+        "Bahamut took a deep breath!",
+        "巴哈姆特用力吸了口氣",
+        "바하무트가 크게 숨을 들이켰다",
+        "Bahamut prend une grande inspiration !",
+        "Bahamut atmet tief ein!",
+        "¡Bahamut coge mucho aire!",
+        "Bahamut mengambil napas dalam!",
+        "Bahamut\u001a \u001aสูด\u001aลมหายใจ\u001aลึก\u001aๆ\u001a \u001aแล้ว\u001a!\u001a"
+    ],
+    "220762": [
+        "Bahamut took a huge breath!",
+        "巴哈姆特全力吸了口氣",
+        "바하무트가 전력으로 숨을 들이켰다",
+        "Bahamut prend une énorme inspiration !",
+        "Bahamut atmet noch tiefer ein!",
+        "¡Bahamut coge muchísimo aire!",
+        "Bahamut mengambil napas sangat dalam!",
+        "Bahamut\u001a \u001aสูด\u001aลมหายใจ\u001aเฮือก\u001aใหญ่\u001aแล้ว\u001a!\u001a"
+    ],
+    "220763": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5\u001a"
+    ],
+    "220764": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4\u001a"
+    ],
+    "220765": [
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3\u001a"
+    ],
+    "220766": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2\u001a"
+    ],
+    "220767": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1\u001a"
+    ],
+    "220768": [
+        "Flames",
+        "火炎",
+        "화염",
+        "Souffle de feu",
+        "Feueratem",
+        "Inflamar",
+        "Kobaran Api",
+        "Flames\u001a"
+    ],
+    "220769": [
+        "Snowstorm",
+        "吹雪",
+        "눈보라",
+        "Blizzard",
+        "Schneesturm",
+        "Tormenta de nieve",
+        "Badai Salju",
+        "Snowstorm\u001a"
+    ],
+    "220770": [
+        "Draconic Rage",
+        "龍之狂怒",
+        "용의 분노",
+        "Rage draconique",
+        "Drakonerzorn",
+        "Furia dracónica",
+        "Amarah Naga",
+        "พิโรธ\u001aแห่ง\u001aมังกร\u001a"
+    ],
+    "220771": [
+        "Downpour",
+        "豪雨",
+        "호우",
+        "Averse",
+        "Regenguss",
+        "Chaparrón",
+        "Hujan Lebat",
+        "พิรุณ\u001aกระหน่ำ\u001a"
+    ],
+    "220772": [
+        "Squall",
+        "烈風",
+        "돌풍",
+        "Rafale perçante",
+        "Böe",
+        "Aero+",
+        "Badai Guruh",
+        "Squall\u001a"
+    ],
+    "220773": [
+        "Earthquake",
+        "地震",
+        "지진",
+        "Choc sismique",
+        "Erdbeben",
+        "Terremoto",
+        "Gempa Bumi",
+        "Earthquake\u001a"
+    ],
+    "220774": [
+        "Light Cannon",
+        "光砲",
+        "광포",
+        "Canon lumineux",
+        "Lichtkanone",
+        "Cañón de luz",
+        "Light Cannon",
+        "ปืนใหญ่\u001aแห่ง\u001aแสง\u001a"
+    ],
+    "220775": [
+        "Dark Cannon",
+        "暗砲",
+        "암포",
+        "Canon obscur",
+        "Dunkelkanone",
+        "Cañón de oscuridad",
+        "Dark Cannon",
+        "ปืนใหญ่\u001aแห่ง\u001aความมืด\u001a"
+    ],
+    "220776": [
+        "Atomic Ray",
+        "原子射線",
+        "원자방사선",
+        "Rayon atomique",
+        "Atomstrahl",
+        "Rayo atómico",
+        "Atomic Ray",
+        "Atomic\u001a \u001aRay\u001a"
+    ],
+    "220777": [
+        "Draconic Glare",
+        "龍之瞳",
+        "용의 눈동자",
+        "Regard draconique",
+        "Drakonerblick",
+        "Mirada dracónica",
+        "Tatapan Naga",
+        "นัยน์ตา\u001aพญา\u001aมังกร\u001a"
+    ],
+    "220778": [
+        "Megaflare failed because the enemy is broken!",
+        "百萬核爆因BREAK狀態而發動失敗！",
+        "브레이크로 인해 메가플레어 불발!",
+        "MégaBrasier a échoué car l'ennemi est en état de Choc !",
+        "Megaflamme ist gescheitert, da der Feind gebrochen ist!",
+        "¡Megafulgor ha fallado porque el enemigo está aturdido!",
+        "Megaflare gagal karena musuh sedang dalam status break!",
+        "ศัตรู\u001aอยู่\u001aใน\u001aภาวะ\u001a \u001aBreak\u001a \u001aทำให้\u001aยิง\u001a \u001aMegaflare\u001a \u001aไม่\u001aได้\u001a!\u001a"
+    ],
+    "220779": [
+        "Gigaflare failed because the enemy is broken!",
+        "十億核爆因BREAK狀態而發動失敗！",
+        "브레이크로 인해 기가플레어 불발!",
+        "GigaBrasier a échoué car l'ennemi est en état de Choc !",
+        "Gigaflamme ist gescheitert, da der Feind gebrochen ist!",
+        "¡Gigafulgor ha fallado porque el enemigo está aturdido!",
+        "Gigaflare gagal karena musuh sedang dalam status break!",
+        "ศัตรู\u001aอยู่\u001aใน\u001aภาวะ\u001a \u001aBreak\u001a \u001aทำให้\u001aยิง\u001a \u001aGigaflare\u001a \u001aไม่\u001aได้\u001a!\u001a"
+    ],
+    "220780": [
+        "Teraflare failed because the enemy is broken!",
+        "億萬核爆因BREAK狀態而發動失敗！",
+        "브레이크로 인해 테가플레어 불발!",
+        "TéraBrasier a échoué car l'ennemi est en état de Choc !",
+        "Terraflamme ist gescheitert, da der Feind gebrochen ist!",
+        "¡Terafulgor ha fallado porque el enemigo está aturdido!",
+        "Teraflare gagal karena musuh sedang dalam status break!",
+        "ศัตรู\u001aอยู่\u001aใน\u001aภาวะ\u001a \u001aBreak\u001a \u001aทำให้\u001aยิง\u001a \u001aTeraaflare\u001a \u001aไม่\u001aได้\u001a!\u001a"
+    ],
+    "220781": [
+        "Dragon Dispel",
+        "龍之驅魔",
+        "드래곤 디스펠",
+        "Dissipation draconique",
+        "Drachenbann",
+        "Antimagia dracónica",
+        "Dragon Dispel",
+        "Dragon\u001a \u001aDispel\u001a"
+    ],
+    "220808": [
+        "Fire Beam",
+        "火焰射線",
+        "파이어 광선",
+        "Rayon Brasier",
+        "Feuerstrahl",
+        "Rayo Piro",
+        "Fire Beam",
+        "Fire\u001a \u001aBeam\u001a"
+    ],
+    "220809": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "220810": [
+        "Power Rush",
+        "力量衝擊",
+        "힘의 돌진",
+        "Ruée de puissance",
+        "Machtrausch",
+        "Riada de poder",
+        "Power Rush",
+        "Power\u001a \u001aRush\u001a"
+    ],
+    "220811": [
+        "Gravity",
+        "重力",
+        "그라비데",
+        "Gravité",
+        "Gravitas",
+        "Gravedad",
+        "Gravity",
+        "Gravity\u001a"
+    ],
+    "220812": [
+        "Dual Slash",
+        "二連斬",
+        "이연참",
+        "Double entaille",
+        "Doppelschnitt",
+        "Sablazo doble",
+        "Tebasan Ganda",
+        "ฟัน\u001aคู่\u001aต่อเนื่อง\u001a"
+    ],
+    "220813": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Brasier X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "220814": [
+        "Water",
+        "流水",
+        "워터",
+        "Eau",
+        "Aqua",
+        "Aqua",
+        "Water",
+        "Water\u001a"
+    ],
+    "220815": [
+        "Scuffle",
+        "大混戰",
+        "난투극",
+        "Rixe",
+        "Handgemenge",
+        "Refriega",
+        "Perkelahian",
+        "ตะลุมบอน\u001aครั้ง\u001aใหญ่\u001a"
+    ],
+    "220816": [
+        "Thunder Thrust",
+        "雷霆衝擊",
+        "선더 드러스트",
+        "Estocade électrique",
+        "Donnerstoß",
+        "Estocada atronadora",
+        "Tusukan Petir",
+        "อสนี\u001aทิ่มแทง\u001a"
+    ],
+    "220817": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "220818": [
+        "Dark Spirits",
+        "幽暗",
+        "유암",
+        "Esprits obscurs",
+        "Dunkle Geister",
+        "Ánimos oscuros",
+        "Arwah Gelap",
+        "วิญญาณ\u001aมืด\u001a"
+    ],
+    "220819": [
+        "Water Projection",
+        "水影",
+        "수영",
+        "Projection aquatique",
+        "Wasserprojektion",
+        "Proyección acuosa",
+        "Proyeksi Air",
+        "นิมิต\u001aแห่ง\u001aวารี\u001a"
+    ],
+    "220820": [
+        "Slice",
+        "碎切",
+        "깍둑썰기",
+        "Découpe",
+        "Würfeln",
+        "A dados",
+        "Tebas",
+        "หั่น\u001a"
+    ],
+    "220821": [
+        "Staff Strike",
+        "用杖敲打",
+        "지팡이로 때리기",
+        "Bastonnade",
+        "Stabstreich",
+        "Bastonazo",
+        "Staff Strike",
+        "ฟาด\u001aด้วย\u001aไม้เท้า\u001a"
+    ],
+    "220822": [
+        "Scarlet Stitch",
+        "猩紅刺繡",
+        "진홍의 바느질",
+        "Point écarlate",
+        "Scharlachstich",
+        "Puntada escarlata",
+        "Jahitan Scarlet",
+        "รอย\u001aเย็บ\u001aสีแดง\u001a"
+    ],
+    "220823": [
+        "Tray Attack",
+        "托盤攻擊",
+        "쟁반 공격",
+        "Coup de plateau",
+        "Brettangriff",
+        "Bandejazo",
+        "Serangan Nampan",
+        "ฟาด\u001aด้วย\u001aถาด\u001aรอง\u001a"
+    ],
+    "220824": [
+        "Fire Zap",
+        "火焰協擊",
+        "파이어 잽",
+        "Élimination - Feu",
+        "Feurige Zertrümmerung",
+        "Destrucción de fuego",
+        "Fire Zap",
+        "Fire\u001a \u001aZap\u001a"
+    ],
+    "220825": [
+        "Sharp Throw",
+        "銳物投擲",
+        "첨예 투척",
+        "Lancer millimétré",
+        "Schlagwurf",
+        "Lanzamiento súbito",
+        "Sharp Throw",
+        "Sharp\u001a \u001aThrow\u001a"
+    ],
+    "220826": [
+        "Requiem",
+        "鎮魂歌",
+        "진혼곡",
+        "Requiem",
+        "Requiem",
+        "Réquiem",
+        "Requiem",
+        "บท\u001aสวด\u001aมรณะ\u001a"
+    ],
+    "220827": [
+        "Etude of Light",
+        "光之練習曲",
+        "빛의 에튀드",
+        "Étude de la lumière",
+        "Etüde des Lichts",
+        "Estudio de la luz",
+        "Etude of Light",
+        "เพลง\u001aสั้น\u001aแห่ง\u001aแสงสว่าง\u001a"
+    ],
+    "220828": [
+        "Quick Thunder's Light",
+        "迅・雷光",
+        "신속·뇌광",
+        "Vélocité - Lumière de l'éclair",
+        "Schnelles Donnerlicht",
+        "Luz del trueno veloz",
+        "Kilat - Cahaya Petir",
+        "ประกาย\u001aฟ้าแลบ\u001a \u001a-\u001a \u001aความเร็ว\u001aสูง\u001a"
+    ],
+    "220829": [
+        "Dangerous Rose",
+        "D·危險玫瑰",
+        "D·위험한 장미",
+        "Rose dangereuse",
+        "Gefährliche Rose",
+        "Rosa peligrosa",
+        "Dangerous Rose",
+        "Dangerous\u001a \u001aRose\u001a"
+    ],
+    "220830": [
+        "Holy",
+        "神聖",
+        "홀리",
+        "Sidéral",
+        "Sanctus",
+        "Sanctus",
+        "Holy",
+        "Holy\u001a"
+    ],
+    "220831": [
+        "Obliterating Mirror of Equity's Frost",
+        "絕・明鏡　─冰─",
+        "절·잔잔한 거울-빙-",
+        "Sérénité - Givre dévastateur",
+        "Frost der Vernichtenden Kata",
+        "Escarcha de tranquilidad fulminante",
+        "Cermin Keadilan Pemusnah - Kristal Es",
+        "Obliterating\u001a \u001aMirror\u001a \u001aof\u001a \u001aEquity\u001a \u001a-\u001a \u001aพลัง\u001aน้ำแข็ง\u001a"
+    ],
+    "220832": [
+        "Octostrike Blade",
+        "八連刃",
+        "팔연검",
+        "Lame octimpact",
+        "Klinge des Achtfachen Streichs",
+        "Hoja octaimpacto",
+        "Octostrike Blade",
+        "ดาบ\u001aแปด\u001aต่อเนื่อง\u001a"
+    ],
+    "220833": [
+        "Razing Shot - DEF/SPR",
+        "破碎彈・防精",
+        "파쇄탄·방어/정신",
+        "Tir destructeur - DEF/PSY",
+        "Schmetterschuss - ABW/PSY",
+        "Disparo demoledor - DEF/ESP",
+        "Razing Shot - DEF/SPR",
+        "Razing\u001a \u001aShot\u001a \u001a-\u001a \u001aDEF\u001a/\u001aSPR\u001a"
+    ],
+    "220834": [
+        "Invigorating Shot",
+        "振奮射擊",
+        "얼라이브 샷",
+        "Tir vivifiant",
+        "Belebender Schuss",
+        "Tiro energizante",
+        "Invigorating Shot",
+        "Invigorating\u001a \u001aShot\u001a"
+    ],
+    "220835": [
+        "Origin's Fire",
+        "原初之火",
+        "오리진 파이어",
+        "Feu d'origine",
+        "Ursprungsfeuer",
+        "Fuego de origen",
+        "Origin's Fire",
+        "อัคคี\u001aแห่ง\u001aต้นกำเนิด\u001a"
+    ],
+    "220836": [
+        "Obliterating Darkness",
+        "毀滅之暗",
+        "멸망의 어둠",
+        "Ténèbres dévastatrices",
+        "Vernichtende Dunkelheit",
+        "Oscuridad devastadora",
+        "Kegelapan Pemusnah",
+        "ความมืด\u001aมหา\u001aวินาศ\u001a"
+    ],
+    "220837": [
+        "Reigning Blade - Nation Division",
+        "霸刀・崩國",
+        "패도·국가 붕괴",
+        "Lame régalienne - Nation divisée",
+        "Herrscherklinge – Landesspalter",
+        "Espada soberana - Partenaciones",
+        "Pedang Supremasi - Keruntuhan Negeri",
+        "ดาบ\u001aจอม\u001aคน\u001a \u001a-\u001a \u001aถล่ม\u001aอาณาจักร\u001a"
+    ],
+    "220838": [
+        "Sword Agitato",
+        "劍刃激昂",
+        "소드 아지타토",
+        "Épée Agitato",
+        "Schwert-Agitato",
+        "Espada Agitato",
+        "Sword Agitato",
+        "Sword\u001a \u001aAgitato\u001a"
+    ],
+    "220839": [
+        "I'll protect everyone!",
+        "我來保護大家！",
+        "난 모두를 지키겠어!",
+        "Je protègerai tout le monde !",
+        "Ich werde alle beschützen!",
+        "¡Os protegeré a todos!",
+        "Aku akan melindungi semuanya!",
+        "ข้า\u001aจะ\u001aปกป้อง\u001aทุกคน\u001aเอง\u001a!\u001a"
+    ],
+    "220840": [
+        "Grandshelt Saber",
+        "格蘭謝爾特之劍",
+        "그랑셸트 세이버",
+        "Sabre de Grandshelt",
+        "Grandshelt-Säbel",
+        "Sable de Grandshelt",
+        "Grandshelt Saber",
+        "กระบี่\u001aเซ\u001aเบอร์\u001aแห่ง\u001a \u001aGrandshelt\u001a"
+    ],
+    "220841": [
+        "Crimson Nova",
+        "深紅新星",
+        "크림슨 노바",
+        "Nova carmin",
+        "Purpurnova",
+        "Nova carmesí",
+        "Crimson Nova",
+        "Crimson\u001a \u001aNova\u001a"
+    ],
+    "220842": [
+        "Use my power!",
+        "用我的力量！",
+        "내 힘을 써!",
+        "Utilisez mon pouvoir !",
+        "Nutze meine Kraft!",
+        "¡Usa mi poder!",
+        "Pakai kekuatanku!",
+        "ใช้\u001aพลัง\u001aของ\u001aข้า\u001aสิ\u001a!\u001a"
+    ],
+    "220843": [
+        "Blue Judgment",
+        "青之審判",
+        "푸른 심판",
+        "Jugement bleu",
+        "Blaues Urteil",
+        "Juicio azul",
+        "Penghakiman Biru",
+        "Blue\u001a \u001aJudgment\u001a"
+    ],
+    "220844": [
+        "Sexy Pose",
+        "性感姿勢",
+        "섹시 포즈",
+        "Pose sexy",
+        "Sexy Pose",
+        "Pose seductora",
+        "Pose Seksi",
+        "โพส\u001aท่า\u001aเซ็กซี่\u001a"
+    ],
+    "220845": [
+        "Leave the vanguard to me!",
+        "打頭陣就交給我吧！",
+        "선봉은 내게 맡겨라!",
+        "Je m'occupe de l'avant-garde !",
+        "Überlasst die Vorhut mir!",
+        "¡De la vanguardia me encargo yo!",
+        "Serahkan barisan depan padaku!",
+        "ให้\u001aข้า\u001aรับมือ\u001aต้าน\u001aทัพหน้า\u001aเอง\u001a!\u001a"
+    ],
+    "220846": [
+        "Omniblade - Star Slicer",
+        "八垓拔刀 星軌",
+        "팔해발도·궤성",
+        "Omnilame - Entaille stellaire",
+        "Omniklinge – Sternentilger",
+        "Omniespada - Cortaestrellas",
+        "Tebasan Semesta - Pembelah Bintang",
+        "Omniblade\u001a \u001a-\u001a \u001aดาบ\u001aตัด\u001aดวงดาว\u001a"
+    ],
+    "220847": [
+        "Soul Rancor",
+        "怨魂",
+        "원혼",
+        "Rancœur de l'âme",
+        "Seelengroll",
+        "Alma rencorosa",
+        "Soul Rancor",
+        "ภูต\u001aพยาบาท\u001a"
+    ],
+    "220848": [
+        "Earthen Burial",
+        "土之憑吊",
+        "땅의 매장",
+        "Sépulture tellurique",
+        "Erdbestattung",
+        "Exequias telúricas",
+        "Pemakaman Tanah",
+        "ฝัง\u001aร่าง\u001aใต้\u001aปฐพี\u001a"
+    ],
+    "220849": [
+        "Hades's Call",
+        "冥府誘惑",
+        "명부의 유혹",
+        "Appel d'Hadès",
+        "Hades' Ruf",
+        "Llamada de Hades",
+        "Panggilan Hades",
+        "เสียง\u001aเรียก\u001aแห่ง\u001aพญา\u001aยม\u001a"
+    ],
+    "220850": [
+        "Soul Fury",
+        "暴魂",
+        "폭혼",
+        "Furie d'âme",
+        "Seelenwut",
+        "Alma enfurecida",
+        "Soul Fury",
+        "วิญญาณ\u001aพิโรธ\u001a"
+    ],
+    "220851": [
+        "Megaflare",
+        "百萬核爆",
+        "메가플레어",
+        "MégaBrasier",
+        "Megaflamme",
+        "Megafulgor",
+        "Megaflare",
+        "Megaflare\u001a"
+    ],
+    "220852": [
+        "Gigaflare",
+        "十億核爆",
+        "기가플레어",
+        "Gigabrasier",
+        "Gigaflamme",
+        "Gigafulgor",
+        "Gigaflare",
+        "Gigaflare\u001a"
+    ],
+    "220853": [
+        "Teraflare",
+        "億萬核爆",
+        "테라플레어",
+        "TéraBrasier",
+        "Terraflamme",
+        "Terafulgor",
+        "Teraflare",
+        "Teraflare\u001a"
+    ],
+    "220854": [
+        "Flames",
+        "火炎",
+        "화염",
+        "Souffle de feu",
+        "Feueratem",
+        "Inflamar",
+        "Kobaran Api",
+        "Flames\u001a"
+    ],
+    "220855": [
+        "Snowstorm",
+        "吹雪",
+        "눈보라",
+        "Blizzard",
+        "Schneesturm",
+        "Tormenta de nieve",
+        "Badai Salju",
+        "Snowstorm\u001a"
+    ],
+    "220856": [
+        "Draconic Rage",
+        "龍之狂怒",
+        "용의 분노",
+        "Rage draconique",
+        "Drakonerzorn",
+        "Furia dracónica",
+        "Amarah Naga",
+        "พิโรธ\u001aแห่ง\u001aมังกร\u001a"
+    ],
+    "220857": [
+        "Downpour",
+        "豪雨",
+        "호우",
+        "Averse",
+        "Regenguss",
+        "Chaparrón",
+        "Hujan Lebat",
+        "พิรุณ\u001aกระหน่ำ\u001a"
+    ],
+    "220858": [
+        "Squall",
+        "烈風",
+        "돌풍",
+        "Rafale perçante",
+        "Böe",
+        "Aero+",
+        "Badai Guruh",
+        "Squall\u001a"
+    ],
+    "220859": [
+        "Earthquake",
+        "地震",
+        "지진",
+        "Choc sismique",
+        "Erdbeben",
+        "Terremoto",
+        "Gempa Bumi",
+        "Earthquake\u001a"
+    ],
+    "220860": [
+        "Light Cannon",
+        "光砲",
+        "광포",
+        "Canon lumineux",
+        "Lichtkanone",
+        "Cañón de luz",
+        "Light Cannon",
+        "ปืนใหญ่\u001aแห่ง\u001aแสง\u001a"
+    ],
+    "220861": [
+        "Dark Cannon",
+        "暗砲",
+        "암포",
+        "Canon obscur",
+        "Dunkelkanone",
+        "Cañón de oscuridad",
+        "Dark Cannon",
+        "ปืนใหญ่\u001aแห่ง\u001aความมืด\u001a"
+    ],
+    "220862": [
+        "Atomic Ray",
+        "原子射線",
+        "원자방사선",
+        "Rayon atomique",
+        "Atomstrahl",
+        "Rayo atómico",
+        "Atomic Ray",
+        "Atomic\u001a \u001aRay\u001a"
+    ],
+    "220863": [
+        "Draconic Glare",
+        "龍之瞳",
+        "용의 눈동자",
+        "Regard draconique",
+        "Drakonerblick",
+        "Mirada dracónica",
+        "Tatapan Naga",
+        "นัยน์ตา\u001aพญา\u001aมังกร\u001a"
+    ],
+    "220864": [
+        "The necrolizard's resistance to all elements has been lowered!",
+        "死靈蜥蜴的全屬性耐性下降了！",
+        "네크로리자드의 모든 속성 저항력이 감소!",
+        "La résistance du nécrolézard à tous les éléments a diminué !",
+        "Die Resistenz der Nekroechse gegen alle Elemente wurde gesenkt!",
+        "¡Se ha reducido la resistencia del Necrolagarto a todos los elementos!",
+        "Resistansi Necrolizard terhadap semua elemen telah menurun!",
+        "พลัง\u001aต้านทาน\u001aทุก\u001aธาตุ\u001aของ\u001a \u001aNecrolizard\u001a \u001aลดลง\u001aแล้ว\u001a"
+    ],
+    "220865": [
+        "The symbol is shining as it builds up power.",
+        "擬態正在蓄力發光",
+        "심벌이 힘을 축적해 빛나고 있다",
+        "L'emblème focalise son pouvoir et se met à briller.",
+        "Das Symbol leuchtet, während es Kraft aufbaut.",
+        "El símbolo acumula poder y emite brillo.",
+        "Simbol itu bercahaya dan mengerahkan kekuatan.",
+        "ดวงตรา\u001aกำลัง\u001aส่อง\u001aประกาย\u001aใน\u001aระหว่าง\u001aที่\u001aรวบรวม\u001aพลัง\u001a"
+    ],
+    "220866": [
+        "The symbol's power has been released!",
+        "解放了擬態之力！",
+        "심벌의 힘이 해방되었다!",
+        "Le pouvoir de l'emblème a été libéré !",
+        "Die Kraft des Symbols wurde freigesetzt!",
+        "¡Se ha liberado el poder del símbolo!",
+        "Kekuatan simbol itu telah dilepaskan!",
+        "พลัง\u001aของ\u001aดวงตรา\u001aถูก\u001aปลดปล่อย\u001aออกมา\u001aแล้ว\u001a!\u001a"
+    ],
+    "220867": [
+        "The symbol is unleashing its power!",
+        "擬態正在發揮力量！",
+        "심벌이 힘을 발휘하고 있다!",
+        "L'emblème active son pouvoir !",
+        "Das Symbol entfesselt seine Kraft!",
+        "¡El símbolo está liberando su poder!",
+        "Simbol itu mengerahkan kekuatannya!",
+        "ดวงตรา\u001aกำลัง\u001aปลดปล่อย\u001aพลัง\u001aของ\u001aมัน\u001aออกมา\u001a!\u001a"
+    ],
+    "220868": [
+        "The symbol is no longer broken!",
+        "擬態的BREAK狀態解除了！",
+        "심벌의 브레이크가 풀렸다!",
+        "L'emblème s'est remis de son état de Choc !",
+        "Das Symbol ist nicht länger gebrochen!",
+        "¡El símbolo ya no está aturdido!",
+        "Simbol itu tidak lagi dalam status break!",
+        "ดวงตรา\u001aไม่\u001aอยู่\u001aใน\u001aภาวะ\u001a \u001aBreak\u001a \u001aอีกต่อไป\u001aแล้ว\u001a!\u001a"
+    ],
+    "220869": [
+        "The symbol lost its power and shattered into pieces.",
+        "擬態失去了力量消散了",
+        "심벌은 힘을 잃고 사라졌다",
+        "L'emblème a perdu son pouvoir et s'est brisé en mille morceaux.",
+        "Das Symbol hat seine Kraft verloren und ist in Stücke zerbrochen.",
+        "El símbolo ha perdido su poder y se ha roto en pedazos.",
+        "Simbol itu kehilangan kekuatannya dan hancur berkeping-keping.",
+        "ดวงตรา\u001aได้\u001aสูญเสีย\u001aพลัง\u001aไป\u001aและ\u001aแตก\u001aเป็น\u001aชิ้นๆ\u001a \u001aแล้ว\u001a"
     ],
     "220930": [
         "Heavenly Flames",
