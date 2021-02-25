@@ -4741,6 +4741,26 @@
         "ATK",
         "ATK\u001a"
     ],
+    "EQUIP_SORT_TYPE_AVOID_MAGIC_RATE": [
+        "Magic Evasion",
+        "魔法閃避率",
+        "마법 공격 회피율",
+        "Esquive magique",
+        "Ausweichen (magisch)",
+        "Evasión mágica",
+        "Penghindaran Magic",
+        "อัตรา\u001aหลบหลีก\u001aเวทย์\u001a"
+    ],
+    "EQUIP_SORT_TYPE_AVOID_PHYSICS_RATE": [
+        "Physical Evasion",
+        "物理閃避率",
+        "물리 공격 회피율",
+        "Esquive physique",
+        "Ausweichen (physisch)",
+        "Evasión física",
+        "Penghindaran Fisik",
+        "อัตรา\u001aหลบหลีก\u001aกายภาพ\u001a"
+    ],
     "EQUIP_SORT_TYPE_AWAKE": [
         "Enhance Lvl",
         "強化階段",
@@ -4751,6 +4771,16 @@
         "Lv. Penguatan",
         "Lv\u001a.\u001a \u001aเสริม\u001aพลัง\u001a"
     ],
+    "EQUIP_SORT_TYPE_BEAST_DMG": [
+        "Evocation Damage",
+        "召喚魔法的威力",
+        "소환마법 피해량",
+        "Dégâts d'appel",
+        "Rufen-Schaden",
+        "Daño de evocación",
+        "Damage Summon",
+        "ค่า\u001aความเสียหาย\u001aซัม\u001aม่อน\u001a"
+    ],
     "EQUIP_SORT_TYPE_DEF": [
         "DEF",
         "防禦",
@@ -4760,6 +4790,16 @@
         "Defensa",
         "DEF",
         "DEF\u001a"
+    ],
+    "EQUIP_SORT_TYPE_HATE_RATE": [
+        "Draw",
+        "誘敵",
+        "공격 유도",
+        "Provocation",
+        "Anlocken",
+        "Provocación",
+        "Pengalihan",
+        "ล่อ\u001aการ\u001aโจมตี\u001a"
     ],
     "EQUIP_SORT_TYPE_HP": [
         "HP",
@@ -4780,6 +4820,16 @@
         "MAG",
         "MAG",
         "MAG\u001a"
+    ],
+    "EQUIP_SORT_TYPE_LB_DMG": [
+        "LB Damage",
+        "極限技的傷害",
+        "LB 피해량",
+        "Dégâts de limite",
+        "Schaden durch Limitrausch",
+        "Daño del EL",
+        "Damage LB",
+        "ค่า\u001aความเสียหาย\u001a \u001aLB\u001a"
     ],
     "EQUIP_SORT_TYPE_MND": [
         "SPR",
@@ -4971,15 +5021,25 @@
         "<color=255:255:0>Batas unit</color> telah tercapai.<br>Cobalah tingkatkan batas unit, atau gabungkan atau jual unit yang tidak diperlukan.",
         "<color=255:255:0>\u001aจำนวน\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001aนั้น\u001a</color>\u001a \u001aเต็ม\u001aโควต้า\u001aแล้ว\u001a<br>\u001aโปรด\u001aเลือก\u001aที่จะ\u001aขยาย\u001aโควต้า\u001aสูงสุด\u001a \u001aหรือไม่\u001aก็\u001aนำ\u001aยู\u001aนิ\u001aท\u001aที่\u001aไม่ต้องการ\u001aไป\u001aเสริม\u001aพลัง\u001aหรือ\u001aนำ\u001aไป\u001aขาย\u001aเสีย\u001a"
     ],
+    "ERROR_OTHER_UNIT_OVER_CAP": [
+        "Fusion/Sale Units Exceeding Capacity",
+        "強化・販售兵員數量超出上限",
+        "강화·판매 유닛 보유 한도 초과",
+        "Limite dépassée pour les unités de fusion/de vente",
+        "Kapazität für Fusions-/Verkaufseinheiten reicht nicht aus",
+        "Unidades de fusión/venta que sobrepasan el límite",
+        "Batas Unit Penguat/Dijual Telah Tercapai",
+        "มี\u001aจำนวน\u001aยู\u001aนิ\u001aท\u001aใช้\u001aรวม\u001aร่าง\u001a/\u001aขาย\u001aเกินกำหนด\u001a"
+    ],
     "ERROR_OTHER_UNIT_OVER_MSG": [
-        "<color=255:255:0>Fusion/Sale unit capacity</color> has been reached. Please either increase your capacity, or fuse or sell unneeded units.",
+        "Your <color=255:255:0>Fusion/Sale Units inventory</color> is full.<br>Please either increase your inventory capacity, or consider fusing or selling your <color=255:255:0>units</color> to create more space.",
         "<color=255:255:0>強化・販售兵員的持有數</color>到達了上限。請將<color=255:255:0>兵員</color>進行合成或販售。",
-        "<color=255:255:0>보유 가능한 강화용·판매용 유닛 수량</color>이 가득 찼습니다. <color=255:255:0>유닛</color>을 합성 또는 판매하십시오.",
-        "<color=255:255:0>Vous avez atteint le <color=255:255:0>nombre maximum d'unités de fusion/de vente</color>. Veuillez en augmenter la limite, ou fusionner/vendre les unités dont vous n'avez plus besoin.",
-        "<color=255:255:0>Einheitenkapazität für Verbesserung/Verkauf</color> wurde erreicht. Bitte erhöhe entweder deine Kapazität oder fusioniere bzw. verkaufe Einheiten, die du nicht länger benötigst.",
-        "Has alcanzado el <color=255:255:0>límite de unidades para fusionar/vender</color>. Aumenta tu capacidad o fusiona o vende unidades que no necesites.",
-        "<color=255:255:0>Batas unit Penguat/Dijual</color> telah tercapai.<br>Cobalah tingkatkan batas unit, atau gabungkan atau jual unit yang tidak diperlukan.",
-        "<color=255:255:0>\u001aยู\u001aนิ\u001aท\u001aสำหรับ\u001aใช้\u001aเสริม\u001aพลัง\u001a/\u001aสำหรับ\u001aขาย\u001aนั้น\u001aมี\u001aจำนวน\u001a</color>\u001aเต็ม\u001aโค\u001aว\u001aค้า\u001aแล้ว\u001a \u001aโปรด\u001aเลือก\u001aที่จะ\u001aขยาย\u001aโควต้า\u001aสูงสุด\u001a \u001aหรือไม่\u001aก็\u001aนำ\u001aยู\u001aนิ\u001aท\u001aที่\u001aไม่ต้องการ\u001aไป\u001aเสริม\u001aพลัง\u001aหรือ\u001aนำ\u001aไป\u001aขาย\u001aเสีย\u001a"
+        "<color=255:255:0>강화/판매 유닛 유닛 보유 한도</color>를 초과했습니다.<br>공간 확보를 위해 인벤토리 보유 한도를 확장하거나 <color=255:255:0>유닛</color>을 강화 또는 판매하십시오.",
+        "<color=255:255:0>Vous avez atteint le <color=255:255:0>nombre maximum de fusion/vente d'unités</color>. Veuillez en augmenter la limite, ou fusionner/vendre des <color=255:255:0>unités</color> pour plus de place.",
+        "Dein <color=255:255:0>Inventar für Fusions-/Verkaufseinheiten </color> ist voll.<br>Bitte erhöhe entweder die Kapazität deines Inventars oder verkaufe deine <color=255:255:0>Einheiten</color>, um mehr Platz zu schaffen.",
+        "Tu inventario de <color=255:255:0>unidades para fusionar/vender</color> está lleno. Aumenta su capacidad o fusiona o vende <color=255:255:0>unidades</color> que no necesites.",
+        "<color=255:255:0>Inventory Unit Penguat/Dijual</color> milikmu penuh.<br>Silakan tingkatkan kapasitas inventory-mu, atau gabungkan atau jual <color=255:255:0>unit-unit</color>mu untuk mengosongkan ruang.",
+        "<color=255:255:0>\u001aคลัง\u001aยู\u001aนิ\u001aท\u001aสำหรับ\u001aใช้\u001aรวม\u001aร่าง\u001a/\u001aขาย\u001a</color>\u001a \u001aของ\u001aคุณ\u001aเต็ม\u001aแล้ว\u001a<br>\u001aโปรด\u001aขยาย\u001aคลัง\u001aของ\u001aคุณ\u001aหรือ\u001aทำการ\u001aรวม\u001aร่าง\u001aหรือ\u001aขาย\u001a<color=255:255:0>\u001aยู\u001aนิ\u001aท</color>\u001aเพื่อ\u001aเพิ่ม\u001aพื้น\u001aที่ว่าง\u001a"
     ],
     "ERROR_SHORTAGE_AP_BUY_LAPIS": [
         "You can use <param=num> lapis to <color=255:0:0>fully restore your energy</color>.<br>Do you want to buy some?",
@@ -8021,6 +8081,16 @@
         null,
         "ใบ\u001a"
     ],
+    "GACHA_TICKET_NV_ANNOTATION": [
+        "*NV units will not appear from summons pools not containing NV units. Please check the rates page for more details.",
+        "※列表中不包含NV兵員的召喚將不會出現NV兵員。詳情請見出現機率頁面。",
+        "※ 네오 비전 유닛이 포함되지 않은 소환 대상에서는 네오 비전 유닛이 소환되지 않습니다. 자세한 내용은 출현율 페이지를 확인하세요.",
+        "*Les unités NV n'apparaîtront pas dans les tirages des invocations ne contenant pas d'unités NV. Veuillez consulter la page des taux d'apparition pour plus de détails.",
+        "* NV-Einheiten tauchen nicht in Beschwörungspool auf, die keine NV-EInheiten enthalten. Für mehr Informationen, schau auf die Seite mit den Beschwörungswahrscheinlichkeiten.",
+        "*Las unidades NV no aparecerán en las listas de invocación que no contienen unidades NV. Consulta la página de tasas de aparición para más detalles.",
+        "*Unit NV tidak akan muncul dari pool summon yang tidak menyertakan unit NV. Silakan lihat halaman probabilitas kemunculan unit untuk keterangan lebih lanjut.",
+        "*\u001aจะ\u001aไม่\u001aสามารถ\u001aรับ\u001aยู\u001aนิ\u001aท\u001a \u001aNV\u001a \u001aจาก\u001aกลุ่ม\u001aยู\u001aนิ\u001aทซัม\u001aม่อน\u001aได้ที่\u001aไม่\u001aมี\u001aยู\u001aนิ\u001aท\u001a \u001aNV\u001a \u001aโปรด\u001aดู\u001aราย\u001aระ\u001aเอียด\u001aเพิ่มเติม\u001aที่\u001aหน้า\u001a \u001aDrop\u001a \u001aRate\u001a"
+    ],
     "GACHA_TICKET_SHORTAGE": [
         "Insufficient <param=name>.",
         "<param=name>不足",
@@ -8621,6 +8691,16 @@
         "Summon Unit",
         "ซัม\u001aม่อน\u001aยู\u001aนิ\u001aท\u001a"
     ],
+    "HAVE": [
+        "Held",
+        "持有",
+        "보유",
+        "En possession",
+        "Im Besitz",
+        "En posesión",
+        "Jumlah yang Dimiliki",
+        "มี\u001aอยู่\u001a"
+    ],
     "HAVE_LAPIS_NUM": [
         "You have <param=lapis_num> lapis.",
         "持有寶石 <param=lapis_num>個",
@@ -9050,6 +9130,16 @@
         "compra",
         "Jumlah Pembelian",
         "จำนวน\u001aที่\u001aซื้อ\u001a"
+    ],
+    "ITEM_CONSUME": [
+        "# Consumed",
+        "消耗數量",
+        "소비 #",
+        "Quantité consommée",
+        "Bereits verbraucht",
+        "Cantidad consumida",
+        "Jumlah yang Dikonsumsi",
+        "ใช้แล้ว\u001a \u001a#\u001a"
     ],
     "ITEM_COUNT": [
         null,
@@ -11251,6 +11341,66 @@
         "Di Atas",
         "ขึ้นไป\u001a"
     ],
+    "MENUSETTING_WAREHOUSE_UNIT_AUTO_IN_DETAIL": [
+        "Automatic Transfer Settings",
+        "自動移轉設定",
+        "자동 이동 설정",
+        "Paramètres des transferts automatiques",
+        "Einstellungen für den automatischen Transfer",
+        "Ajustes de transferencia automática",
+        "Pengaturan Pemindahan Otomatis",
+        "ตั้งค่า\u001aการ\u001aย้าย\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "MENUSETTING_WAREHOUSE_UNIT_AUTO_IN_DISP_DIALOG": [
+        "Display confirmation before automatic transfer",
+        "自動移轉前顯示確認提示",
+        "자동 이동 전 알림 표시",
+        "Demande de confirmation avant un transfert automatique",
+        "Bestätigung anfordern, bevor Einheiten automatisch transferiert werden.",
+        "Mostrar confirmación antes de la transferencia automática",
+        "Tampilkan konfirmasi sebelum dipindahkan secara otomatis",
+        "แสดง\u001aหน้าจอ\u001aยืนยัน\u001aก่อน\u001aทำการ\u001aย้าย\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "MENUSETTING_WAREHOUSE_UNIT_AUTO_IN_LABEL": [
+        "Players can set which obtained units to automatically send to reserves.",
+        "獲得兵員時，玩家可以設定是否自動移轉至保管庫。",
+        "유닛 획득 시 자동으로 보관함으로 보내도록 설정할 수 있습니다.",
+        "Les joueurs peuvent paramétrer l'envoi automatique des unités obtenues dans la réserve.",
+        "Die Spieler können festlegen, welche der erhaltenen Einheiten automatisch zu den Reserven transferiert werden.",
+        "Los jugadores pueden elegir qué unidades enviar automáticamente a la reserva.",
+        "Ketika memperoleh unit, para pemain dapat mengatur unit mana yang ingin dipindahkan ke penyimpanan.",
+        "ผู้\u001aเล่น\u001aสามารถ\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aที่จะ\u001aถูก\u001aย้าย\u001aไป\u001aที่\u001aคลัง\u001aโดยอัตโนมัติ\u001aได้\u001a"
+    ],
+    "MENUSETTING_WAREHOUSE_UNIT_AUTO_IN_MIX_UNIT": [
+        "Fusion/Sale Units",
+        "強化・販售兵員",
+        "강화·판매 유닛",
+        "Unités de fusion/de vente",
+        "Fusions-/Verkaufseinheiten",
+        "Unidades de fusión/venta",
+        "Unit Penguat/Dijual",
+        "ยู\u001aนิ\u001aท\u001aใช้\u001aรวม\u001aร่าง\u001a/\u001aขาย\u001a"
+    ],
+    "MENUSETTING_WAREHOUSE_UNIT_AUTO_IN_NORMAL_UNIT": [
+        "General Units",
+        "普通兵員",
+        "일반 유닛",
+        "Unités normales",
+        "Standardeinheiten",
+        "Unidades básicas",
+        "Unit Normal",
+        "ยู\u001aนิ\u001aท\u001aธรรมดา\u001a"
+    ],
+    "MENUSETTING_WAREHOUSE_UNIT_AUTO_IN_TOP": [
+        "Automatic transfer of obtained units to reserves",
+        "獲得兵員時自動移轉至保管庫",
+        "유닛 획득 시 자동으로 보관함으로 이동",
+        "Transfert automatique des unités obtenues dans la réserve",
+        "Erhaltene Einheiten werden automatisch zu den Reserven transferiert.",
+        "Transferencia automática de unidades obtenidas a la reserva",
+        "Pindahkan unit yang diperoleh ke penyimpanan secara otomatis",
+        "ย้าย\u001aยู\u001aนิ\u001aท\u001aที่\u001aได้รับ\u001aไป\u001aที่\u001aคลัง\u001aโดยอัตโนมัติ\u001a"
+    ],
     "MENUSETTING_WORLD_CHANGE_EFFECT_LABEL": [
         "You can turn the movement animation when going to Paladia on/off.",
         "可設定帕拉迪亞移動時的效果。",
@@ -11921,6 +12071,36 @@
         "Apabila kamu menyerah sekarang, kamu akan kehilangan semua <color=255:0:0> unit, material, dan gil </color>yang telah kamu peroleh. Lanjutkan?",
         "หาก\u001aคุณ\u001aล้มเลิก\u001aเค\u001aวส\u001aใน\u001aตอนนี้\u001a \u001aคุณ\u001aจะ\u001aสูญเสีย\u001a<color=255:0:0>\u001aยู\u001aนิ\u001aท\u001a \u001aวัตถุดิบ\u001a \u001aและ\u001a \u001aGil\u001a \u001aทั้งหมด\u001a</color>\u001a \u001aที่\u001aได้\u001aระหว่าง\u001aการ\u001aทำ\u001aเค\u001aวส\u001aนี้\u001a \u001aคุณ\u001aแน่ใจ\u001aว่า\u001aต้อง\u001aการล้มเลิก\u001aหรือไม่\u001a?\u001a"
     ],
+    "MISSION_LOSE_STAMINA_BACK_ANNOUNCE": [
+        "<color=255:255:0>NRG consumed if defeated</color>",
+        "<color=255:255:0>失敗時消耗體力</color>",
+        "<color=255:255:0>패배 시 체력 소비량</color>",
+        "<color=255:255:0>END consommée en cas de défaite</color>",
+        "<color=255:255:0>Energie wird bei Niederlage verbraucht</color>",
+        "<color=255:255:0>Energía consumida al perder</color>",
+        "<color=255:255:0>Energi yang dikonsumsi apabila kamu kalah</color>",
+        "<color=255:255:0>\u001aจะ\u001aเสีย\u001a \u001aNRG\u001a \u001aหาก\u001aแพ้\u001a</color>\u001a"
+    ],
+    "MISSION_LOSE_STAMINA_BACK_ANNOUNCE_END": [
+        ")",
+        ")",
+        ")",
+        ")",
+        ")",
+        ")",
+        ")",
+        ")\u001a"
+    ],
+    "MISSION_LOSE_STAMINA_BACK_ANNOUNCE_START": [
+        "(",
+        "(",
+        "(",
+        "(",
+        "(",
+        "(",
+        "(",
+        "(\u001a"
+    ],
     "MISSION_NEED_EP_IS_NOT_ENOUGH": [
         "Insufficient event points",
         "獲得之活動點數不足。",
@@ -12100,6 +12280,16 @@
         "¿Comenzar misión?",
         "Jalankan misi?",
         "ต้องการ\u001aเริ่ม\u001aมิชชั่น\u001aหรือไม่\u001a"
+    ],
+    "MISSION_START_RAID_CONFIRM": [
+        "The level of the boss has changed.<br>Proceed with battle?",
+        "BOSS等級已變動。<br>是否要繼續戰鬥？",
+        "보스 레벨이 변경되었습니다.<br>이대로 전투를 진행하시겠습니까?",
+        "Le niveau du boss à changé.<br>Voulez-vous commencer le combat ?",
+        "Die Stufe des Bosses hat sich verändert.<br>Mit dem Kampf fortfahren?",
+        "El nivel del jefe ha cambiado.<br>¿Continuar con el combate?",
+        "Level boss telah berubah.<br>Lanjutkan battle?",
+        "มี\u001aการเปลี่ยนแปลง\u001a \u001aLv\u001a.\u001a \u001aของ\u001aบอส\u001a<br>\u001aต้อง\u001aการต่อสู้\u001aหรือไม่\u001a?\u001a"
     ],
     "MISSION_SUPPORT_NOT_SELECT": [
         "Depart without companion",
@@ -12650,6 +12840,26 @@
         "No se han podido recuperar los datos de las ranuras.",
         "Data slot tidak dapat diperoleh.",
         "ไม่\u001aสามารถ\u001aโหลด\u001aข้อมูล\u001aช่อง\u001aเก็บ\u001aออกมา\u001aได้\u001a"
+    ],
+    "MSG_NO_OPE_UNIT_STORAGE": [
+        "Invalid reserves update data.",
+        "保管庫更新情報出現錯誤。",
+        "보관함 정보가 올바르지 않습니다.",
+        "Données de mise à jour de la réserve incorrectes.",
+        "Fehlerhafte Reserve-Aktualisierungsdaten.",
+        "Datos de actualización de reserva no válidos.",
+        "Data pembaruan penyimpanan tidak valid.",
+        "ข้อมูล\u001aอัพเดท\u001aคลัง\u001aไม่\u001aถูกต้อง\u001a"
+    ],
+    "MSG_NO_OPTION_SEND_INFO": [
+        "Failed to receive settings data.",
+        "無法獲取設定情報。",
+        "설정 정보를 가져올 수 없습니다.",
+        "Échec lors de la récupération des données.",
+        "Daten zu Einstellungen konnten nicht abgerufen werden.",
+        "Fallo al recibir datos de ajustes.",
+        "Gagal memperoleh data pengaturan.",
+        "รับ\u001aข้อมูล\u001aการ\u001aตั้งค่า\u001aไม่\u001aสำเร็จ\u001a"
     ],
     "MSG_NO_SHOP_GACHA_SELECT": [
         "There is no shop currently available.",
@@ -16180,6 +16390,16 @@
         "Ninguno",
         "Tidak Ada",
         "ไม่\u001aมี\u001aอะไร\u001a"
+    ],
+    "NOT_HAVE": [
+        "Not Held",
+        "未持有",
+        "미보유",
+        "Pas en possession",
+        "Nicht im Besitz",
+        "No en posesión",
+        "Jumlah yang Tidak Dimiliki",
+        "ไม่\u001aมี\u001a"
     ],
     "NV_CLASS_UP_REWARD_MAIL_MSG": [
         "A super trust moogle has been rewarded for awakening to EX Level %s (EX +%s).",
@@ -21471,6 +21691,16 @@
         "Tidak dapat meningkatkan batas unit lebih jauh.",
         "ไม่\u001aสามารถ\u001aขยาย\u001aโควต้า\u001aถือครอง\u001aยู\u001aนิ\u001aท\u001aไป\u001aมากกว่า\u001aนี้\u001aได้\u001a"
     ],
+    "SHOP_ERROR_MAX_WAREHOUSE_EXT": [
+        "Unable to further increase reserves.",
+        "已達到上限，無法繼續擴張保管庫欄位。",
+        "보관함을 더 이상 늘릴 수 없습니다.",
+        "Impossible d'augmenter la limite de la réserve.",
+        "Reserven können nicht weiter aufgestockt werden.",
+        "No puedes aumentar más la capacidad de unidades.",
+        "Tidak dapat meningkatkan batas penyimpanan lebih jauh.",
+        "ไม่\u001aสามารถ\u001aขยาย\u001aคลัง\u001aได้\u001aมากกว่า\u001aนี้\u001aแล้ว\u001a"
+    ],
     "SHOP_ERROR_RAID_ORB_RECOVERY": [
         "Raid orbs are fully restored.",
         "共鬥寶珠已全滿。",
@@ -22070,6 +22300,16 @@
         "Recompensas EX",
         "HadiH EX",
         "รางวัล\u001a \u001aEX\u001a"
+    ],
+    "SP_CLASSUP_STATUS_UP": [
+        "Parameter Boost",
+        "狀態數值提升",
+        "능력치 상승",
+        "Augmentation de caractéristique",
+        "Werteerhöhung",
+        "Aumento de parámetros",
+        "Peningkatan Parameter",
+        "เพิ่มค่า\u001aสเตตัส\u001a"
     ],
     "SP_CLASSUP_TRANS_BASE_SELECT_LOCKED": [
         "Unit cannot be converted as it is currently <color=255:255:0>locked</color>. Please <color=255:255:0>unlock</color> this unit via the unit details screen.<br>*The unit details screen can be accessed by <color=255:255:0>performing a long tap on a unit</color>.",
@@ -22901,6 +23141,16 @@
         "Hapus Data Quest yang Terinterupsi",
         "ลบ\u001aข้อมูล\u001aเค\u001aวส\u001aที่\u001aยัง\u001aค้าง\u001aอยู่\u001a"
     ],
+    "SUSPEND_DELETE_RAID_NOTICE_TEXT": [
+        "Raid boss information has been updated.<br>Interrupted quest data will be erased.",
+        "共鬥BOSS情報已更新。<br>將刪除任務中斷情報。",
+        "레이드 보스 정보가 업데이트되었습니다.<br>중단된 퀘스트 정보가 삭제됩니다.",
+        "Les informations sur le boss de raid ont été mises à jour.<br>Les données des quêtes interrompues seront effacées.",
+        "Raubzugbossinformationen wurden aktualisiert.<br>Veraltete Auftragsinformationen werden gelöscht.",
+        "Se ha actualizado al información del jefe de banda.<br>Se borrarán los datos de la misión interrumpida.",
+        "Informasi boss raid telah diperbarui.<br>Data quest yang terinterupsi akan dihapus.",
+        "มี\u001aการ\u001aอัพเดท\u001aข้อมูล\u001aบอส\u001a \u001aRaid\u001a<br>\u001aข้อมูล\u001aของ\u001aเค\u001aวส\u001aที่\u001aถูก\u001aยัง\u001aเล่น\u001aค้าง\u001aอยู่\u001aจะ\u001aถู\u001aกลบ\u001aออก\u001a"
+    ],
     "SUSPEND_DELETE_RM_CONFIRM_TEXT": [
         "You can erase interrupted quest data and return to the home screen.<br>By erasing interrupted quest data, you will lose all <color=255:255:0>units, items, gil, and mission progress</color> that you obtained during the quest.<br><br>Do you wish to erase the data.",
         "刪除任務中斷情報，從主畫面開始。<br>如要刪除中斷情報，將會失去獲得的<color=255:255:0>兵員、道具、GIL、以及達成中的挑戰</color>。<br> <br>是否確定要刪除中斷情報？",
@@ -23080,6 +23330,26 @@
         "¿Salir del juego?",
         "Keluar dari game?",
         "ต้องการ\u001aออกจาก\u001aเกม\u001aหรือไม่\u001a?\u001a"
+    ],
+    "TITLE_DELETE_CACHE_PROGRESS_PERCENT": [
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%"
+    ],
+    "TITLE_DELETE_CACHE_PROGRESS_PROCESSING": [
+        "Recovering data.<br>Please wait.",
+        "復原情報中。<br>請稍等片刻。",
+        "데이터를 복구하는 중입니다.<br>잠시만 기다려주십시오.",
+        "Récupération des données.<br>Veuillez patienter.",
+        "Daten werden wiederhergestellt.<br>Bitte warte.",
+        "Recuperando datos.<br>Espera un poco.",
+        "Memulihkan data.<br>Harap tunggu sebentar.",
+        "Recovering\u001a \u001adata\u001a.<br>\u001aPlease\u001a \u001await\u001a.\u001a"
     ],
     "TITLE_DELETE_DATA": [
         "Deleting and re-downloading DLC may resolve gameplay issues caused by corrupted DLC. <br><br><br><br><color=255:255:0>The game will download all DLC again after the initial file check. </color><br><br><br><br>Proceed?",
@@ -24031,6 +24301,16 @@
         "Level unit tidak cukup.",
         "Lv\u001a.\u001a \u001aของ\u001aยู\u001aนิ\u001aท\u001aยัง\u001aสูง\u001aไม่\u001aพอ\u001a"
     ],
+    "UNIT_CLASSUP_NOT_SELECT_MATERIAL": [
+        "Select which prism to use.",
+        "請選擇欲使用之輝源。",
+        "사용할 휘석을 선택하세요.",
+        "Sélectionnez le prisme à utiliser.",
+        "Wähle das Prisma aus, das du benutzen möchtest.",
+        "Selecciona un prisma para usar.",
+        "Silakan pilih prisma yang ingin digunakan.",
+        "เลือก\u001aปริ\u001aซึ่ม\u001aที่\u001aต้องการ\u001aใช้\u001a"
+    ],
     "UNIT_CLASSUP_OK": [
         "Awakenable",
         "可以覺醒。",
@@ -24081,6 +24361,16 @@
         "Material tidak cukup.",
         "วัตถุดิบ\u001aไม่\u001aเพียงพอ\u001a"
     ],
+    "UNIT_CLASSUP_SHORTAGE_MATERIAL_KIGEN": [
+        "Insufficient prisms.",
+        "輝源不足。",
+        "휘석이 부족합니다.",
+        "Prismes insuffisants",
+        "Nicht genug Prismen",
+        "Prismas insuficientes.",
+        "Prisma tidak cukup.",
+        "มี\u001aปริ\u001aซึ่ม\u001aไม่\u001aพอ\u001a"
+    ],
     "UNIT_CLASSUP_SHORTAGE_SUPER_TRUST": [
         "Insufficient super trust mastery.",
         "超級信賴度值不足",
@@ -24090,6 +24380,26 @@
         "Supermaestro fiel insuficiente.",
         "Nilai super trust tidak cukup.",
         "มี\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aไม่\u001aพอ\u001a"
+    ],
+    "UNIT_CLASSUP_SHORTAGE_SUPER_TRUST1": [
+        "Insufficient",
+        "超級信賴度值",
+        "슈퍼 트러스트치가",
+        "Super confiance absolue",
+        "Nicht genug",
+        "Supermaestro fiel",
+        "Nilai super trust",
+        "มีระดับ\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMaster\u001a"
+    ],
+    "UNIT_CLASSUP_SHORTAGE_SUPER_TRUST2": [
+        "super trust mastery.",
+        "不足。",
+        "부족합니다.",
+        "insuffisante.",
+        "Super-Treue",
+        "insuficiente.",
+        "tidak cukup.",
+        "ไม่\u001aพอ\u001a"
     ],
     "UNIT_CONFIRM_EQUIP_STRONGEST_ROB": [
         "Equip this unit with your strongest equipment, including items already equipped to other units?",
@@ -24150,6 +24460,16 @@
         "Límite superado",
         "Batas",
         "ทะลุ\u001aขีดจำกัด\u001a"
+    ],
+    "UNIT_DETAIL_STATUS_VIEW_CHANGE_TITLE": [
+        "Equipment Sort Criteria",
+        "選擇裝備評價",
+        "장비 능력 기준 선택",
+        "Critère de tri d'équipement",
+        "Sortierungskriterien für Ausrüstung",
+        "Filtro de equipo",
+        "Kriteria Penyortiran Perlengkapan",
+        "วิธี\u001aเรียงลำดับ\u001aอุปกรณ์\u001a"
     ],
     "UNIT_DETAIL_TOTAL": [
         "Total",
@@ -24272,14 +24592,14 @@
         "ถอด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aทั้งหมด\u001a"
     ],
     "UNIT_EQUIP_REMOVE_ALL_CONFIRM": [
-        "Removing equipment and abilities from all units.<br>Proceed?",
-        "將移除全部兵員的裝備及能力。<br>確定要移除嗎？",
-        "모든 유닛의 장비와 어빌리티를 해제합니다.<br>진행하시겠습니까?",
-        "Toutes les pièces d'équipement et aptitudes de toutes les unités seront retirées.<br>Continuer ?",
-        "Ausrüstung und Fertigkeiten werden von allen Einheiten entfernt.<br>Fortfahren?",
-        "Se le quitarán el equipo y las habilidades a todas las unidades.<br>¿Deseas continuar?",
-        "Semua perlengkapan dan ability dari semua unit akan ditanggalkan.<br>Lanjutkan?",
-        "ถอด\u001aอุปกรณ์\u001aและ\u001a \u001aAbility\u001a \u001aทั้งหมด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aทุกราย\u001a<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
+        "Removing equipment, abilities, and vision cards from all units.<br>Proceed?",
+        "將移除此隊伍以外兵員的裝備、能力及幻兵卡。<br>確定要移除嗎？",
+        "모든 유닛의 장비와 어빌리티, 비전 카드를 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement, aptitudes et atouts-visions de toutes les unités seront retirées.<br>Continuer ?",
+        "Ausrüstung , Fertigkeiten und Visionskarten werden von allen Einheit entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo, las habilidades y las cartas de visión a todas las unidades.<br>¿Deseas continuar?",
+        "Semua perlengkapan, ability, dan kartu vision dari semua unit akan ditanggalkan.<br>Lanjutkan?",
+        "กำลัง\u001aถอด\u001aอุปกรณ์\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aการ์ด\u001a \u001aVision\u001a \u001aทั้งหมด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aทุกราย\u001a<br>\u001aต้องการ\u001aดำเนินการ\u001aหรือไม่\u001a?\u001a"
     ],
     "UNIT_EQUIP_REMOVE_MYSELF": [
         "Unequip this unit only",
@@ -24292,14 +24612,14 @@
         "ถอด\u001aจาก\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001aเท่านั้น\u001a"
     ],
     "UNIT_EQUIP_REMOVE_MYSELF_CONFIRM": [
-        "Removing all equipment and abilities from the selected unit.<br>Proceed?",
-        "將移除此名兵員的裝備及能力。<br>確定要移除嗎？",
-        "선택한 유닛의 장비와 어빌리티를 모두 해제합니다.<br>진행하시겠습니까?",
-        "Toutes les pièces d'équipement et aptitudes de l'unité sélectionnée seront retirées.<br>Continuer ?",
-        "Alle Ausrüstung und Fertigkeiten werden von der ausgewählten Einheit entfernt.<br>Fortfahren?",
-        "Se le quitarán el equipo y las habilidades a la unidad.<br>¿Deseas continuar?",
-        "Semua perlengkapan dan ability dari unit yang dipilih akan ditanggalkan.<br>Lanjutkan?",
-        "ถอด\u001aอุปกรณ์\u001aและ\u001a \u001aAbility\u001a \u001aทั้งหมด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001a<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
+        "Removing all equipment, abilities, and vision cards from the selected unit.<br>Proceed?",
+        "將移除此名兵員的裝備、能力及幻兵卡。<br>確定要移除嗎？",
+        "선택한 유닛의 장비와 어빌리티, 비전 카드를 모두 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement, aptitudes et atouts-visions de l'unité sélectionnée seront retirées.<br>Continuer ?",
+        "Alle Ausrüstung, Fertigkeiten und Visionskarten werden von der ausgewählten Einheit entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo, las habilidades y las cartas de visión a la unidad.<br>¿Deseas continuar?",
+        "Semua perlengkapan, ability, dan kartu vision dari unit yang dipilih akan ditanggalkan.<br>Lanjutkan?",
+        "กำลัง\u001aถอด\u001aอุปกรณ์\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aการ์ด\u001a \u001aVision\u001a \u001aทั้งหมด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001a<br>\u001aต้องการ\u001aดำเนินการ\u001aหรือไม่\u001a?\u001a"
     ],
     "UNIT_EQUIP_REMOVE_NOT_PARTY": [
         "Unequip units not in party",
@@ -24312,14 +24632,14 @@
         "ถอด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aที่\u001aไม่\u001aอยู่\u001aใน\u001aทีม\u001a"
     ],
     "UNIT_EQUIP_REMOVE_NOT_PARTY_CONFIRM": [
-        "Removing equipment and abilities from all units except the selected party.<br>Proceed?",
-        "將移除此隊伍以外兵員的裝備及能力。<br>確定要移除嗎？",
-        "선택한 파티를 제외한 모든 유닛의 장비와 어빌리티를 모두 해제합니다.<br>진행하시겠습니까?",
-        "Toutes les pièces d'équipement et aptitudes de toutes les unités hormis celles du groupe sélectionné seront retirées.<br>Continuer ?",
-        "Ausrüstung und Fertigkeiten werden von allen Einheiten außer der ausgewählten Gruppe entfernt.<br>Fortfahren?",
-        "Se le quitarán el equipo y las habilidades a todas las unidades salvo al grupo seleccionado.<br>¿Deseas continuar?",
-        "Semua perlengkapan dan ability dari semua unit selain yang dipilih akan ditanggalkan.<br>Lanjutkan?",
-        "ถอด\u001aอุปกรณ์\u001aและ\u001a \u001aAbility\u001a \u001aทั้งหมด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aทุกราย\u001aยกเว้น\u001aทีม\u001aที่\u001aเลือก\u001a<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
+        "Removing equipment, abilities, and vision cards from all units except the selected party.<br>Proceed?",
+        "將移除此隊伍以外兵員的裝備、能力及幻兵卡。<br>確定要移除嗎？",
+        "선택한 파티를 제외한 모든 유닛의 장비와 어빌리티, 비전 카드를 모두 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement, aptitudes et atouts-visions de toutes les unités hormis celles du groupe sélectionné seront retirées.<br>Continuer ?",
+        "Ausrüstung , Fertigkeiten und Visionskarten werden von allen Einheiten außer der ausgewählten Gruppe entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo, las habilidades y las cartas de visión a todas las unidades salvo al grupo seleccionado.<br>¿Deseas continuar?",
+        "Semua perlengkapan, ability, dan kartu vision dari semua unit selain yang dipilih akan ditanggalkan.<br>Lanjutkan?",
+        "กำลัง\u001aถอด\u001aอุปกรณ์\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aการ์ด\u001a \u001aVision\u001a \u001aทั้งหมด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aทุกราย\u001aยกเว้น\u001aทีม\u001aที่\u001aเลือก\u001a<br>\u001aต้องการ\u001aดำเนินการ\u001aหรือไม่\u001a?\u001a"
     ],
     "UNIT_EQUIP_REMOVE_PARTY": [
         "Unequip units in party",
@@ -24332,14 +24652,14 @@
         "ถอด\u001aจาก\u001aยู\u001aนิ\u001aท\u001aใน\u001aทีม\u001a"
     ],
     "UNIT_EQUIP_REMOVE_PARTY_CONFIRM": [
-        "Removing all equipment and abilities from the selected party.<br>Proceed?",
-        "將移除此隊伍中兵員的裝備及能力。<br>確定要移除嗎？",
-        "선택한 파티 유닛의 장비와 어빌리티를 모두 해제합니다.<br>진행하시겠습니까?",
-        "Toutes les pièces d'équipement et aptitudes du groupe sélectionné seront retirées.<br>Continuer ?",
-        "Alle Ausrüstung und Fertigkeiten werden von der ausgewählten Gruppe entfernt.<br>Fortfahren?",
-        "Se le quitarán el equipo y las habilidades al grupo seleccionado.<br>¿Deseas continuar?",
-        "Semua perlengkapan dan ability dari tim yang dipilih akan ditanggalkan.<br>Lanjutkan?",
-        "ถอด\u001aอุปกรณ์\u001aและ\u001a \u001aAbility\u001a \u001aทั้งหมด\u001aจาก\u001aทีม\u001aที่\u001aเลือก\u001a<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
+        "Removing all equipment, abilities, and vision cards from the selected party.<br>Proceed?",
+        "將移除此名兵員的裝備、能力及幻兵卡。<br>確定要移除嗎？",
+        "선택한 파티 유닛의 장비와 어빌리티, 비전 카드를 모두 해제합니다.<br>진행하시겠습니까?",
+        "Toutes les pièces d'équipement, aptitudes et atouts-visions du groupe sélectionné seront retirées.<br>Continuer ?",
+        "Alle Ausrüstung, Fertigkeiten und Visionskarten werden von der ausgewählten Gruppe entfernt.<br>Fortfahren?",
+        "Se le quitarán el equipo, las habilidades y las cartas de visión al grupo seleccionado.<br>¿Deseas continuar?",
+        "Semua perlengkapan, ability, dan kartu vision dari tim yang dipilih akan ditanggalkan.<br>Lanjutkan?",
+        "กำลัง\u001aถอด\u001aอุปกรณ์\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aการ์ด\u001a \u001aVision\u001a \u001aทั้งหมด\u001aจาก\u001aทีม\u001aที่\u001aเลือก\u001a<br>\u001aต้องการ\u001aดำเนินการ\u001aหรือไม่\u001a?\u001a"
     ],
     "UNIT_EQUIP_STRONGEST": [
         "Optimization",
@@ -25111,6 +25431,26 @@
         "Dapat Digunakan",
         "ติดตั้ง\u001aได้\u001a"
     ],
+    "UNIT_SORT_KILLER_MAGIC": [
+        "Boost Magic Damage Against Type",
+        "種族傷害提升(魔法)",
+        "유형별 마법 피해량 상승",
+        "Augmente les dégâts magiques infligés à un certain type",
+        "Erhöht magischen Schaden gegen bestimmten Typ",
+        "Aumento de daño mágico contra tipo",
+        "Peningkatan Damage Magic terhadap Jenis Musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001a"
+    ],
+    "UNIT_SORT_KILLER_PHYSICS": [
+        "Boost Physical Damage Against Type",
+        "種族傷害提升(物理)",
+        "유형별 물리 피해량 상승",
+        "Augmente les dégâts physiques infligés à un certain type",
+        "Erhöht physischen Schaden gegen bestimmten Typ",
+        "Aumento de daño físico contra tipo",
+        "Peningkatan Damage Fisik terhadap Jenis Musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001a"
+    ],
     "UNIT_SORT_MAGIC_LV_BLACK": [
         "Black Magic level",
         "黑魔法等級",
@@ -25301,6 +25641,36 @@
         "ATK",
         "ATK\u001a"
     ],
+    "UNIT_SORT_TYPE_AVOID_MAGIC_RATE": [
+        "Magic Evasion",
+        "魔法閃避率",
+        "마법 공격 회피율",
+        "Esquive magique",
+        "Ausweichen (magisch)",
+        "Evasión mágica",
+        "Penghindaran Magic",
+        "อัตรา\u001aหลบหลีก\u001aเวทย์\u001a"
+    ],
+    "UNIT_SORT_TYPE_AVOID_PHYSICS_RATE": [
+        "Physical Evasion",
+        "物理閃避率",
+        "물리 공격 회피율",
+        "Esquive physique",
+        "Ausweichen (physisch)",
+        "Evasión física",
+        "Penghindaran Fisik",
+        "อัตรา\u001aหลบหลีก\u001aกายภาพ\u001a"
+    ],
+    "UNIT_SORT_TYPE_BEAST_DMG": [
+        "Evocation Damage",
+        "召喚魔法的威力",
+        "소환마법 피해량",
+        "Dégâts d'appel",
+        "Rufen-Schaden",
+        "Daño de evocación",
+        "Damage Summon",
+        "ค่า\u001aความเสียหาย\u001aซัม\u001aม่อน\u001a"
+    ],
     "UNIT_SORT_TYPE_DEF": [
         "DEF",
         "防禦",
@@ -25331,6 +25701,16 @@
         "Didapatkan",
         "ลำดับ\u001aการ\u001aได้มา\u001a"
     ],
+    "UNIT_SORT_TYPE_HATE_RATE": [
+        "Draw",
+        "誘敵",
+        "공격 유도",
+        "Provocation",
+        "Anlocken",
+        "Provocación",
+        "Pengalihan",
+        "ล่อ\u001aการ\u001aโจมตี\u001a"
+    ],
     "UNIT_SORT_TYPE_HIDDEN_SKILL_RATE": [
         "Enlightenment",
         "啟蒙",
@@ -25360,6 +25740,16 @@
         "MAG",
         "MAG",
         "MAG\u001a"
+    ],
+    "UNIT_SORT_TYPE_LB_DMG": [
+        "LB Damage",
+        "極限技的傷害",
+        "LB 피해량",
+        "Dégâts de limite",
+        "Schaden durch Limitrausch",
+        "Daño del EL",
+        "Damage LB",
+        "ค่า\u001aความเสียหาย\u001a \u001aLB\u001a"
     ],
     "UNIT_SORT_TYPE_LV": [
         "Level",
@@ -26060,6 +26450,226 @@
         "No hay cartas de visión para mostrar.",
         "Tidak ada kartu vision untuk ditampilkan.",
         "ไม่\u001aมี\u001aการ์ด\u001a \u001aVision\u001a"
+    ],
+    "WAREHOUSE": [
+        "Reserves",
+        "保管庫",
+        "보관함",
+        "Réserve",
+        "Reserven",
+        "Reserva",
+        "Penyimpanan",
+        "คลัง\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_CONFIRM_TITLE": [
+        "Automatic Unit Transfer",
+        "自動移轉兵員",
+        "유닛 자동 이동",
+        "Transfert automatique d'unité",
+        "Automatischer Einheitentransfer",
+        "Transferencia automática de unidad",
+        "Pemindahan Unit Otomatis",
+        "ย้าย\u001aยู\u001aนิ\u001aท\u001aที่\u001aไป\u001aที่\u001aคลัง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_MESSAGE_BOTTOM": [
+        "<color=255:165:0>Units exceeding remaining capacity in reserves will remain in the inventory.</color>",
+        "<color=255:165:0>超出保管庫欄位上限，兵員將維持於兵員欄位。</color>",
+        "<color=255:165:0>보관함의 남은 보유 한도를 초과한 유닛은 인벤토리에 보관됩니다.</color>",
+        "<color=255:165:0>Les unités dépassant la capacité restante de la réserve resteront dans l'inventaire.</color>",
+        "<color=255:165:0>Einheiten, die die verfügbare Kapazität in den Reserven übersteigen, bleiben im Inventar.</color>",
+        "<color=255:165:0>Las unidades de la reserva seguirán en el inventario.</color>",
+        "<color=255:165:0>Unit yang melebihi batas penyimpanan akan tetap ada di inventory-mu.</color>",
+        "<color=255:165:0>\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001aจำนวน\u001aมากกว่า\u001aช่องว่าง\u001aใน\u001aคลัง\u001aที่\u001aเหลืออยู่\u001aนั้น\u001aจะ\u001aถูก\u001aเก็บ\u001aอยู่\u001aใน\u001aคลังเก็บของ\u001a</color>\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_MESSAGE_MIX_UNIT": [
+        "<color=0:255:255>Fusion/Sale Units<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>強化・販售兵員<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>강화·판매 유닛<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>Unités de fusion/de vente<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>Fusions-/Verkaufseinheiten<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>Unidades de fusión/venta<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>Unit Penguat/Dijual<br><param=mix_unit_type></color><br> <br>",
+        "<color=0:255:255>\u001aยู\u001aนิ\u001aท\u001aใช้\u001aรวม\u001aร่าง\u001a/\u001aขาย\u001a<br><param=normal_unit_type></color><br>\u001a \u001a<br>\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_MESSAGE_NORMAL_UNIT": [
+        "<color=0:255:255>General Units<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>普通兵員<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>일반 유닛<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>Unités normales<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>Standardeinheiten<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>Unidades básicas<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>Unit Normal<br><param=normal_unit_type></color><br> <br>",
+        "<color=0:255:255>\u001aยู\u001aนิ\u001aท\u001aธรรมดา\u001a<br><param=normal_unit_type></color><br>\u001a \u001a<br>\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_MESSAGE_TOP": [
+        "Units obtained have been sent to reserves according to settings.<br> <br>",
+        "獲得之兵員已依設定移轉至保管庫。<br> <br>",
+        "획득한 유닛 중 설정에 따라 다음 유닛을 보관함으로 이동하였습니다.<br> <br>",
+        "Les unités obtenues ont été envoyées dans la réserve selon les paramètres enregistrés.<br> <br>",
+        "Die erhaltenen Einheiten wurden gemäß den festgelegten Einstellungen zu den Reserven geschickt.<br> <br>",
+        "Se han enviado las unidades obtenidas a la reserva de acuerdo a los ajustes.<br> <br>",
+        "Units yang diperoleh telah dipindahkan ke penyimpanan sesuai dengan pengaturanmu.<br> <br>",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aได้\u001aรับได้\u001aถูก\u001aส่ง\u001aไป\u001aที่\u001aคลัง\u001aตาม\u001aการ\u001aตั้งค่า\u001aแล้ว\u001a<br>\u001a \u001a<br>\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_OVER_MESSAGE": [
+        "Units exceeding capacity have been sent to reserves.<br> <br><color=255:165:0>Units exceeding remaining capacity in reserves will remain in the inventory.</color>",
+        "超出兵員欄位上限，將獲得的兵員移轉至保管庫。<br> <br><color=255:165:0>超出保管庫欄位上限，兵員將維持於兵員欄位。</color>",
+        "보유 한도를 초과하여 유닛이 보관함으로 이동하였습니다.<br> <br><color=255:165:0>보관함의 남은 보유 한도를 초과한 유닛은 인벤토리에 보관됩니다.</color>",
+        "Les unités dépassant la capacité ont été envoyées dans la réserve.<br> <br><color=255:165:0>Les unités dépassant la capacité restante de la réserve resteront dans l'inventaire.</color>",
+        "Einheiten, die die Kapazität übersteigen, wurden zu den Reserven geschickt.<br> <br><color=255:165:0>Einheiten, die die verfügbare Kapazität in den Reserven übersteigen, bleiben im Inventar.</color>",
+        "Se han enviado a la reserva las unidades que sobrepasaban el límite de capacidad.<br> <br><color=255:165:0>Las unidades de la reserva seguirán en el inventario.</color>",
+        "Unit yang melebihi batas telah dipindahkan ke penyimpanan.<br> <br><color=255:165:0>Unit yang melebihi batas penyimpanan akan tetap ada di inventory-mu.</color>",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aเกินกำหนด\u001aได้\u001aถูก\u001aส่ง\u001aไป\u001aที่\u001aคลัง\u001aแล้ว\u001a<br>\u001a \u001a<br><color=255:165:0>\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001aจำนวน\u001aมากกว่า\u001aช่องว่าง\u001aใน\u001aคลัง\u001aที่\u001aเหลืออยู่\u001aนั้น\u001aจะ\u001aถูก\u001aเก็บ\u001aอยู่\u001aใน\u001aคลังเก็บของ\u001a</color>\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_SETTING_NV": [
+        "NV",
+        "NV",
+        "네오 비전",
+        "NV",
+        "NV",
+        "NV",
+        "NV",
+        "NV\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_SETTING_RARE_3_LESS_THAN": [
+        "3★ or below",
+        "★3以下",
+        "★3 이하",
+        "3★ ou moins",
+        "3★ oder weniger",
+        "3★ o inferior",
+        "★3 ke bawah",
+        "3\u001a★\u001a \u001aหรือ\u001aต่ำกว่า\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_SETTING_RARE_4": [
+        "4★",
+        "★4",
+        "★4",
+        "4★",
+        "4★",
+        "4★",
+        "★4",
+        "4\u001a★\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_SETTING_RARE_5": [
+        "5★",
+        "★5",
+        "★5",
+        "5★",
+        "5★",
+        "5★",
+        "★5",
+        "5\u001a★\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_SETTING_RARE_6": [
+        "6★",
+        "★6",
+        "★6",
+        "6★",
+        "6★",
+        "6★",
+        "★6",
+        "6\u001a★\u001a"
+    ],
+    "WAREHOUSE_UNIT_AUTO_IN_SETTING_RARE_7": [
+        "7★",
+        "★7",
+        "★7",
+        "7★",
+        "7★",
+        "7★",
+        "★7",
+        "7\u001a★\u001a"
+    ],
+    "WAREHOUSE_UNIT_FRAME_NUM_SLASH": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/\u001a"
+    ],
+    "WAREHOUSE_UNIT_IN_SELECT_CONFIRM_MESSAGE": [
+        "<param=unit_num> unit(s) will be sent to reserves.<br> <br>Units sent to reserves will have equipment automatically removed. Proceed?",
+        "將<param=unit_num>名兵員移入保管庫。<br> <br>移入保管庫的兵員將自動卸除裝備。是否進行移轉？",
+        "<param=unit_num>명의 유닛을 보관함으로 보냅니다.<br> <br>보관함으로 보낸 유닛의 장비는 자동으로 해제됩니다. 진행하시겠습니까?",
+        "<param=unit_num> unité(s) sera/seront envoyée(s) dans la réserve.<br> <br>Les unités envoyées dans la réserve verront leur équipement retiré automatiquement. Confirmer ?",
+        "<param=unit_num> Einheit(en) wird/werden zu den Reserven geschickt.<br> <br>Die Ausrüstung von Einheiten, die zu den Reserven geschickt werden, wird automatisch abgelegt. Fortfahren?",
+        "<param=unit_num> unidad(es) se enviará(n) a la reserva.<br> <br>A las unidades enviadas a la reserva se les quitará el equipo automáticamente. ¿Continuar?",
+        "<param=unit_num> unit akan dipindahkan ke penyimpanan.<br> <br>Perlengkapan unit yang dipindahkan ke penyimpanan akan ditanggalkan secara otomatis. Lanjutkan?",
+        "ยู\u001aนิ\u001aท\u001a \u001a<param=unit_num>\u001a \u001aราย\u001aจะ\u001aถูก\u001aย้าย\u001aไป\u001aที่\u001aคลัง\u001a<br>\u001a \u001a<br>\u001aโดย\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aย้าย\u001aไป\u001aที่\u001aคลัง\u001aจะ\u001aถูก\u001aถอด\u001aอุปกรณ์\u001aออก\u001aโดยอัตโนมัติ\u001a \u001aต้องการ\u001aย้าย\u001aหรือไม่\u001a?\u001a"
+    ],
+    "WAREHOUSE_UNIT_IN_SELECT_CONFIRM_TITLE": [
+        "Confirm unit transfer",
+        "確認移轉兵員",
+        "유닛 이동 확인",
+        "Confirmation du transfert d'unité",
+        "Einheitentransfer bestätigen",
+        "Confirmar transferencia de unidad",
+        "Konfirmasi pemindahan unit",
+        "ยืนยัน\u001aการ\u001aย้าย\u001aยู\u001aนิ\u001aท\u001a"
+    ],
+    "WAREHOUSE_UNIT_IN_SELECT_SUB_HEADER_TITLE": [
+        "Send to Reserves",
+        "移入保管庫",
+        "보관함으로 보내기",
+        "Envoyer dans la réserve",
+        "Zu den Reserven schicken",
+        "Enviar a la reserva",
+        "Pindahkan ke Penyimpanan",
+        "ส่ง\u001aไป\u001aที่\u001aคลัง\u001a"
+    ],
+    "WAREHOUSE_UNIT_LIST_SUB_HEADER_TITLE": [
+        "Reserves",
+        "保管庫",
+        "보관함",
+        "Réserve",
+        "Reserven",
+        "Reserva",
+        "Penyimpanan",
+        "คลัง\u001a"
+    ],
+    "WAREHOUSE_UNIT_NO_SELECT": [
+        "No units have been selected.",
+        "沒有選擇兵員。",
+        "유닛이 선택되지 않았습니다.",
+        "Aucune unité sélectionnée.",
+        "Keine Einheiten ausgewählt.",
+        "No has seleccionado ninguna unidad.",
+        "Tidak ada unit yang sedang dipilih.",
+        "ยัง\u001aไม่\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aเลือก\u001a"
+    ],
+    "WAREHOUSE_UNIT_OUT_SELECT_CONFIRM_MESSAGE": [
+        "<param=unit_num> unit(s) will be retrieved from reserves.<br> <br>Proceed?",
+        "將<param=unit_num>名兵員移出保管庫。<br> <br>是否進行移轉？",
+        "<param=unit_num>명의 유닛을 보관함에서 꺼냅니다.<br> <br>진행하시겠습니까?",
+        "<param=unit_num> unité(s) sera/seront retirée(s) de la réserve.<br> <br>Confirmer ?",
+        "<param=unit_num> Einheit(en) wird/werden zu den Reserven geschickt.<br> <br>Fortfahren?",
+        "<param=unit_num> unidad(es) se recuperará(n) de la reserva.<br>¿Continuar?",
+        "<param=unit_num> unit akan diambil dari penyimpanan.<br> <br>Lanjutkan?",
+        "ยู\u001aนิ\u001aท\u001a \u001a<param=unit_num>\u001a \u001aราย\u001aจะ\u001aถูก\u001aนำ\u001aออกจาก\u001aคลัง\u001a<br>\u001a \u001a<br>\u001aต้องการ\u001aย้าย\u001aหรือไม่\u001a?\u001a"
+    ],
+    "WAREHOUSE_UNIT_OUT_SELECT_CONFIRM_TITLE": [
+        "Confirm unit transfer",
+        "確認移轉兵員",
+        "유닛 이동 확인",
+        "Confirmation du transfert d'unité",
+        "Einheitentransfer bestätigen",
+        "Confirmar transferencia de unidad",
+        "Konfirmasi pemindahan unit",
+        "ยืนยัน\u001aการ\u001aย้าย\u001aยู\u001aนิ\u001aท\u001a"
+    ],
+    "WAREHOUSE_UNIT_OUT_SELECT_SUB_HEADER_TITLE": [
+        "Retrieve from Reserves",
+        "移出保管庫",
+        "보관함에서 꺼내기",
+        "Retirer de la réserve",
+        "Aus Reserven nehmen",
+        "Sacar de la reserva",
+        "Ambil dari Penyimpanan",
+        "นำ\u001aออกจาก\u001aคลัง\u001a"
     ],
     "WARRIOR_CHEST_BUNDLE_DESC": [
         "Ensure your units' protection with these accessories!<br>Items will be sent to your message box, kupo!",
