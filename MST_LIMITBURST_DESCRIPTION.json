@@ -3009,6 +3009,16 @@
         "Memberikan damage dan mengurangi resistansi api dan es pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aและ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "100010027": [
+        "Damage all enemies",
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Inflige des dégâts à tous les ennemis",
+        "Fügt allen Gegnern physischen Schaden zu.",
+        "Daña a todos los enemigos",
+        "Memberikan damage pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "100010104": [
         "Damage all enemies and boost fire, ice, wind, and light resistance for all allies",
         "攻擊全體敵人+提高全體隊員的火冰風光屬性耐性",
@@ -8238,6 +8248,56 @@
         "Daña a un enemigo y reduce su resistencia a katanas",
         "Memberikan damage dan mengurangi resistansi terhadap katana pada satu musuh",
         "สร้าง\u001aเสียหาย\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aคาตา\u001aนะ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100033207": [
+        "Damage all enemies, and enable all allies to evade some physical attacks three times",
+        "攻擊全體敵人+賦予全體隊員可閃避3次部分物理攻擊的效果",
+        "적 전체에 피해+아군 전체에 일부 물리 공격 3회 회피 효과 부여",
+        "Inflige des dégâts à tous les ennemis, et permet à tous les alliés d'esquiver certaines attaques physiques à 3 reprises",
+        "Fügt allen Gegnern physischen Schaden zu und lässt alle Verbündeten einigen physischen Angriffen dreimal ausweichen.",
+        "Daña a todos los enemigos, y todos los aliados puedan evadir algunos ataques físicos 3 veces",
+        "Memberikan damage pada semua musuh dan memungkinkan semua teman untuk menghindari beberapa serangan fisik 3 kali",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aสามารถ\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aได้\u001a \u001a3\u001a \u001aครั้ง\u001a"
+    ],
+    "100033217": [
+        "Deal fire damage to one enemy, and boost damage of certain abilities",
+        "對1名敵人發動火屬性攻擊+提高特定能力的傷害",
+        "적 1명에게 불속성 피해+특정 어빌리티의 피해량 상승",
+        "Inflige des dégâts de feu à un ennemi, et augmente les dégâts de certaines aptitudes",
+        "Fügt einem Gegner Feuerschaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "Daño de fuego a un enemigo y aumenta el daño de determinadas habilidades",
+        "Memberikan damage api pada satu musuh dan meningkatkan damage ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "100033305": [
+        "Boost DEF and SPR, reduce damage taken, and reduce physical and magic damage dealt by avian monsters for all allies",
+        "提高全體隊員的防禦精神+減少傷害+減少來自鳥系魔物的物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+피해량 감소+조류형 마물에게 받는 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY de tous les alliés, réduit leurs dégâts subis, et réduit leurs dégâts physiques et magiques infligés par les oiseaux",
+        "Erhöht ABW sowie PSY aller Verbündeten, verringert ihren erlittenen Schaden und verringert von Vogelmonstern bei ihnen verursachten magischen und physischen Schaden.",
+        "Aumenta la DEF y el ESP de todos los aliados, reduce el daño que reciben, y reduce el daño físico y mágico que les infligen las aves",
+        "Meningkatkan DEF dan SPR, mengurangi damage yang diterima, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis makhluk bersayap",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aโจมตี\u001aกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "100033306": [
+        "Boost DEF and SPR, reduce damage taken, and reduce physical and magic damage dealt by avian monsters for all allies",
+        "提高全體隊員的防禦精神+減少傷害+減少來自鳥系魔物的物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+피해량 감소+조류형 마물에게 받는 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY de tous les alliés, réduit leurs dégâts subis, et réduit leurs dégâts physiques et magiques infligés par les oiseaux",
+        "Erhöht ABW sowie PSY aller Verbündeten, verringert ihren erlittenen Schaden und verringert von Vogelmonstern bei ihnen verursachten magischen und physischen Schaden.",
+        "Aumenta la DEF y el ESP de todos los aliados, reduce el daño que reciben, y reduce el daño físico y mágico que les infligen las aves",
+        "Meningkatkan DEF dan SPR, mengurangi damage yang diterima, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis makhluk bersayap",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aโจมตี\u001aกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "100033307": [
+        "Boost DEF and SPR, reduce damage taken, and reduce physical and magic damage dealt by avian monsters for all allies",
+        "提高全體隊員的防禦精神+減少傷害+減少來自鳥系魔物的物理、魔法傷害",
+        "아군 전체의 방어력과 정신력 상승+피해량 감소+조류형 마물에게 받는 물리, 마법 피해량 감소",
+        "Augmente la DEF et la PSY de tous les alliés, réduit leurs dégâts subis, et réduit leurs dégâts physiques et magiques infligés par les oiseaux",
+        "Erhöht ABW sowie PSY aller Verbündeten, verringert ihren erlittenen Schaden und verringert von Vogelmonstern bei ihnen verursachten magischen und physischen Schaden.",
+        "Aumenta la DEF y el ESP de todos los aliados, reduce el daño que reciben, y reduce el daño físico y mágico que les infligen las aves",
+        "Meningkatkan DEF dan SPR, mengurangi damage yang diterima, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis makhluk bersayap",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aโจมตี\u001aกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
     ],
     "201000104": [
         "Deal light damage to all enemies",
