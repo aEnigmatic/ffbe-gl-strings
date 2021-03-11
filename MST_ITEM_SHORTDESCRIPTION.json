@@ -56,7 +56,7 @@
         "Restaure une quantité modérée de PV à tous les alliés",
         "Stellt eine mittlere Menge an LP für alle Verb. wieder her",
         "Devuelve toda la VIT a todos los aliados.",
-        "Memulihkan HP semua teman.",
+        "Memulihkan HP semua teman dalam jumlah medium.",
         "ฟื้นฟู\u001a \u001aHP\u001a \u001aใน\u001aปริมาณ\u001aปานกลาง\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "101001100": [
@@ -76,7 +76,7 @@
         "Régénère moyennement les PM d'un allié.",
         "Stellt MP eines Verbündeten wieder her.",
         "Recupera bastante los PM de un aliado",
-        "Memulihkan MP satu teman.",
+        "Memulihkan MP satu teman dalam jumlah medium.",
         "ฟื้นฟู\u001a \u001aMP\u001a \u001aใน\u001aปริมาณ\u001aปานกลาง\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "101001300": [
@@ -96,7 +96,7 @@
         "Restaure une quantité modérée de PM à un allié",
         "Stellt eine mittlere Menge von MP für einen Verb. wieder her.",
         "Devuelve todo el PM a un aliado.",
-        "Memulihkan MP satu teman.",
+        "Memulihkan MP satu teman dalam jumlah medium.",
         "ฟื้นฟู\u001a \u001aMP\u001a \u001aใน\u001aปริมาณ\u001aปานกลาง\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "101001900": [
@@ -196,7 +196,7 @@
         "Restaure une quantité modérée de PM à un allié.",
         "Stellt eine mittlere Menge MP eines Verbündeten wieder her.",
         "Recupera una cantidad moderada de PM de un aliado.",
-        "Memulihkan MP satu teman.",
+        "Memulihkan MP satu teman dalam jumlah medium.",
         "ฟื้นฟู\u001a \u001aMP\u001a \u001aปานกลาง\u001aให้\u001aคนใน\u001aทีม\u001a \u001a1\u001a \u001aคน\u001a"
     ],
     "101003900": [
@@ -577,17 +577,17 @@
         "Fügt allen Gegnern Schaden zu.",
         "Inflige daño a todos los enemigos",
         "Memberikan damage pada semua musuh.",
-        "สร้าง\u001aความเสียหาย\u001aให้\u001aศัตรู\u001aทั้งหมด\u001a"
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "105001100": [
         "Damage and lower DEF for all enemies",
         "攻擊全體敵人＋破甲",
         "적 전체에 피해+아머 브레이크",
-        "Dégâts et baisse la DEF de tous les ennemis.",
-        "Fügt allen Gegnern Schaden zu und reduziert ihre DEF.",
-        "Inflige daño y baja la DEF a enemigos",
+        "Inflige des dégâts et réduit la DEF de tous les ennemis.",
+        "Fügt allen Gegnern Schaden zu und verringert deren ABW.",
+        "Inflige daño y reduce la DEF de todos los enemigos",
         "Memberikan damage dan mengurangi DEF semua musuh.",
-        "สร้าง\u001aความเสียหาย\u001aและ\u001aลด\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001aทั้งหมด\u001a"
+        "สร้าง\u001aความเสียหาย\u001aและ\u001aลด\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "105002100": [
         "Damage one enemy",
@@ -597,7 +597,7 @@
         "Fügt einem Gegner Schaden zu.",
         "Inflige daño a un enemigo",
         "Memberikan damage pada satu musuh.",
-        "สร้าง\u001aความเสียหาย\u001aใส่\u001aศัตรู\u001a \u001a1\u001a \u001aตัว\u001a"
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "105003100": [
         "Damage one enemy",
@@ -624,7 +624,7 @@
         "攻擊1名敵人",
         "적 1명에게 피해",
         "Inflige des dégâts sur un ennemi",
-        "Schaden, ein Ziel",
+        "Fügt einem Gegner Schaden zu.",
         "Inflige daño a un enemigo",
         "Memberikan damage pada satu musuh.",
         "สร้าง\u001aความเสียหาย\u001aใส่\u001aศัตรู\u001a \u001a1\u001a \u001aตัว\u001a"
@@ -2518,6 +2518,16 @@
         "Un cartel de búsqueda y captura procedente de un mundo lejano.",
         "Poster buronan dari dunia lain.",
         "ประกาศ\u001aจับ\u001aอาชญากร\u001aใน\u001aโลก\u001aอัน\u001aไกลโพ้น\u001a"
+    ],
+    "106312600": [
+        "A coin that serves as proof of one's battle against a chocobo eater.",
+        "證明與陸行鳥殺手戰鬥過的硬幣",
+        "초코보 이터와 싸운 증거로서 손에 넣을 수 있는 코인",
+        "Un jeton qui atteste de la bataille qui a opposé son détenteur à un chocobogre féroce.",
+        "Eine Münze, die als Beweis für den Kampf gegen einen Chocobo-Fresser dient.",
+        "Una moneda que sirve como prueba del enfrentamiento contra un comechocobos.",
+        "Sekeping koin yang menjadi bukti bahwa seseorang pernah melawan seekor pemangsa chocobo.",
+        "เหรียญ\u001aที่\u001aเป็น\u001aหลักฐาน\u001aแสดงว่า\u001a \u001aผู้\u001aเป็นเจ้าของ\u001aได้\u001aต่อสู้\u001aกับ\u001a \u001aChocobo\u001a \u001aEater\u001a \u001aแล้ว\u001a"
     ],
     "107000100": [
         "A shard of a magic stone that grants power to espers",
@@ -8919,6 +8929,26 @@
         "Fragmen yang berisi kekuatan untuk membangkitkan Neo Vision tertentu.",
         "เศษ\u001aเสี้ยว\u001aที่\u001aสามารถ\u001aปลุก\u001aพลัง\u001a \u001aNeo\u001a \u001aVision\u001a \u001aที่\u001aกำหนด\u001aไว้\u001aได้\u001a"
     ],
+    "250000600": [
+        "A fragment with the power to awaken specific Neo Visions.",
+        "能夠讓特定Neo Vision覺醒的碎片",
+        "특정 네오 비전 유닛을 각성하는 데 사용하는 조각",
+        "Un fragment qui a le pouvoir d'éveiller des Néo-visions spécifiques.",
+        "Ein Fragment mit der Macht, bestimmte Neo-Visionen zu erwecken.",
+        "Un fragmento con el poder de despertar NeoVisiones específicas.",
+        "Fragmen yang berisi kekuatan untuk membangkitkan Neo Vision tertentu.",
+        "เศษ\u001aเสี้ยว\u001aที่\u001aสามารถ\u001aปลุก\u001aพลัง\u001a \u001aNeo\u001a \u001aVision\u001a \u001aที่\u001aกำหนด\u001aไว้\u001aได้\u001a"
+    ],
+    "250000610": [
+        "A fragment with the power to awaken specific Neo Visions.",
+        "能夠讓特定Neo Vision覺醒的碎片",
+        "특정 네오 비전 유닛을 각성하는 데 사용하는 조각",
+        "Un fragment qui a le pouvoir d'éveiller des Néo-visions spécifiques.",
+        "Ein Fragment mit der Macht, bestimmte Neo-Visionen zu erwecken.",
+        "Un fragmento con el poder de despertar NeoVisiones específicas.",
+        "Fragmen yang berisi kekuatan untuk membangkitkan Neo Vision tertentu.",
+        "เศษ\u001aเสี้ยว\u001aที่\u001aสามารถ\u001aปลุก\u001aพลัง\u001a \u001aNeo\u001a \u001aVision\u001a \u001aที่\u001aกำหนด\u001aไว้\u001aได้\u001a"
+    ],
     "260000010": [
         "An insignia that grants new power to specific Neo Visions.",
         "能夠授予特定Neo Vision新力量的寶珠",
@@ -9124,6 +9154,16 @@
         "能夠授予特定Neo Vision新力量的寶珠",
         "특정 네오 비전 유닛에게 새로운 힘을 부여하는 구슬",
         "Un insigne qui accorde de nouveaux pouvoirs à certaines Néo-visions.",
+        "Eine Insignie, die bestimmten Neo-Visionen neue Macht verleiht.",
+        "Una insignia que concede un nuevo poder a NeoVisiones específicas.",
+        "Lambang yang memberikan kekuatan baru kepada Neo Vision tertentu.",
+        "เหรียญตรา\u001aที่\u001aสามารถ\u001aมอบ\u001aพลัง\u001aใหม่\u001aให้\u001aแก่\u001a \u001aNeo\u001a \u001aVision\u001a \u001aที่\u001aกำหนด\u001aไว้\u001aได้\u001a"
+    ],
+    "260000230": [
+        "An insignia that grants new power to specific Neo Visions.",
+        "能夠授予特定Neo Vision新力量的寶珠",
+        "특정 네오 비전 유닛에게 새로운 힘을 부여하는 구슬",
+        "Un insigne qui octroie de nouveaux pouvoirs à des Néo-visions spécifiques.",
         "Eine Insignie, die bestimmten Neo-Visionen neue Macht verleiht.",
         "Una insignia que concede un nuevo poder a NeoVisiones específicas.",
         "Lambang yang memberikan kekuatan baru kepada Neo Vision tertentu.",
@@ -19029,6 +19069,16 @@
         "Kunci yang diperlukan untuk mengakses Berburu Keberuntungan Bulanan.",
         "กุญแจ\u001aที่\u001aจำเป็นต้อง\u001aใช้\u001aใน\u001aการ\u001aเข้า\u001aคลังสมบัติ\u001a"
     ],
+    "1209001336": [
+        "A coin with a malboro engraved on it.",
+        "上頭刻有毛爾波爾的硬幣",
+        "몰볼이 새겨진 코인",
+        "Un jeton frappé d'une silhouette de morbol.",
+        "Eine Münze mit einem eingravierten Morbol.",
+        "Una moneda con un molbol grabado.",
+        "Sekeping koin berukiran gambar malboro.",
+        "เหรียญ\u001aที่\u001aสลัก\u001aลวดลาย\u001a \u001aMalboro\u001a \u001aเอาไว้\u001a"
+    ],
     "1209001337": [
         "A coin used to summon a special key.",
         "用來召喚1把特別鑰匙的硬幣",
@@ -19049,7 +19099,27 @@
         "Kunci yang diperlukan untuk mengakses Berburu Keberuntungan Bulanan.",
         "กุญแจ\u001aที่\u001aจำเป็นต้อง\u001aใช้\u001aใน\u001aการ\u001aเข้า\u001aคลังสมบัติ\u001a"
     ],
+    "1209001339": [
+        "An exchange ticket that can be used to obtain a vision card of your choice.",
+        "利用此交換券獲得1張自選幻兵卡",
+        "선택한 비전 카드 1장을 획득할 수 있는 교환 티켓",
+        "Échangez ce ticket contre un atout-vision de votre choix.",
+        "Eine Auswahlkarte, mit der du eine Visionskarte deiner Wahl erhalten kannst.",
+        "Un tícket de intercambio que se puede usar para conseguir una carta de visión a tu elección.",
+        "Tiket penukaran yang dapat digunakan untuk memperoleh satu kartu vision pilihanmu.",
+        "ตั๋ว\u001aแลกเปลี่ยน\u001aที่\u001aสามารถ\u001aนำไปใช้\u001aรับ\u001aการ์ด\u001a \u001aVision\u001a \u001aที่\u001aคุณ\u001aเลือก\u001a"
+    ],
     "1209001340": [
+        "Use this coin to exchange for one of the featured NV units and other items in the exchange shop.",
+        "利用此硬幣，在交換商店中兌換1名精選NV兵員及其他道具",
+        "교환 상점에서 네오 비전 픽업 유닛 중 1명 및 다른 아이템과 교환할 수 있는 코인",
+        "Échangez ce jeton contre une des unités NV du moment et d'autres objets dans la boutique d'échange.",
+        "Benutze diese Münze, um sie gegen eine der besonderen NV-Einheiten oder andere Gegenstände im Tauschladen zu tauschen.",
+        "Esta moneda se puede canjear por una de las unidades NV destacadas u otros objetos en la tienda de intercambio.",
+        "Koin yang dapat ditukarkan dengan salah satu unit NV terbaru dan item lainnya di toko penukaran.",
+        "ใช้\u001aเหรียญ\u001aนี้\u001aใน\u001aการแลก\u001aยู\u001aนิ\u001aท\u001a \u001aNV\u001a \u001aนำเสนอ\u001a \u001a1\u001a \u001aราย\u001aตลอดจน\u001aไป\u001aถึง\u001aไอเทม\u001aอื่นๆ\u001a \u001aใน\u001aร้าน\u001aแลกเปลี่ยน\u001a"
+    ],
+    "1209001341": [
         "Use this coin to exchange for one of the featured NV units and other items in the exchange shop.",
         "利用此硬幣，在交換商店中兌換1名精選NV兵員及其他道具",
         "교환 상점에서 네오 비전 픽업 유닛 중 1명 및 다른 아이템과 교환할 수 있는 코인",

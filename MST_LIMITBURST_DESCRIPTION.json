@@ -5071,7 +5071,7 @@
     ],
     "100017607": [
         "Boost ATK, DEF, MAG, and SPR, activate barrier, and boost LB gauge fill rate for all allies",
-        "提高全體隊員的攻擊防禦魔力精神+賦予屏障效果+提高極限技石對自身極限技槽的增加量",
+        "提高全體隊員的攻擊防禦魔力精神+賦予屏障效果+提高極限技石對極限技槽的增加量",
         "아군 전체의 공격력, 방어력, 마력, 정신력 상승+배리어 부여+LB 게이지 효율 상승",
         "Augmente l'ATT, la DEF, la MAGIE et la PSY, érige une barrière et augmente le taux de remplissage de la jauge de limite de tous les alliés",
         "Erhöht ANG, ABW, MAG und PSY, aktiviert Barriere und Limitmeter füllt sich schneller für alle Verbündeten.",
@@ -15229,6 +15229,16 @@
         "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi angin, tanah, dan cahaya pada semua musuh, mengisi bar summon, dan meningkatkan damage ability tertentu",
         "สร้าง\u001aความเสียหาย\u001aทาง\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001a,\u001a \u001aดิน\u001aและ\u001aแสง\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aSummon\u001a \u001aGauge\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aบางอย่าง\u001aที่\u001aกำหนด\u001aไว้\u001a"
     ],
+    "250000127": [
+        "Boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone, activate barrier, and reduce damage taken for all allies",
+        "提高全體隊員的中毒失明睡眠沉默麻痺混亂生病石化耐性+賦予屏障效果+減少傷害",
+        "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승+배리어 부여+피해량 감소",
+        "Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés, érige une barrière autour d'eux et réduit leurs dégâts subis",
+        "Erhöht Resistenz aller Verbündeten gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus sowie Stein, aktiviert Barriere und verringert den erlittenen Schaden aller Verbündeten.",
+        "Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra de todos los aliados, les activa Barrera y reduce el daño que reciben",
+        "Meningkatkan resistansi status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify, mengaktifkan barier, dan mengurangi damage yang diterima semua teman",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001a"
+    ],
     "250000205": [
         "Damage all enemies and reduce damage taken by all allies for 4 turns",
         "攻擊全體敵人+4回合內減少對全體隊員的傷害",
@@ -16458,6 +16468,26 @@
         "Daña a un enemigo y reduce su DEF",
         "Memberikan damage dan mengurangi DEF satu musuh",
         "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "258000107": [
+        "Deal ice damage to one enemy",
+        "對1名敵人發動冰屬性攻擊",
+        "적 1명에게 얼음속성 피해",
+        "Inflige des dégâts de glace à un ennemi",
+        "Fügt einem Gegner Eisschaden zu.",
+        "Daño de hielo a un enemigo",
+        "Memberikan damage es pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "258000117": [
+        "Deal dark damage to one enemy",
+        "對1名敵人發動暗屬性攻擊",
+        "적 1명에게 어둠속성 피해",
+        "Inflige des dégâts de ténèbres à un ennemi",
+        "Fügt einem Gegner Dunkelschaden zu.",
+        "Daño de oscuridad a un enemigo",
+        "Memberikan damage kegelapan pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "258000207": [
         "Deal lightning damage to all enemies, boost lightning damage of LB, abilities, and magic for caster, and enable all allies to evade some physical attacks two times",
