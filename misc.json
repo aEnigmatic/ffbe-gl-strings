@@ -18757,7 +18757,7 @@
         "퀘스트 중단 정보가 있습니다.<br>퀘스트를 다시 시작하시겠습니까?",
         "Cette quête a été mise en pause.<br>Voulez-vous la reprendre ?",
         "Es gibt unterbrochene Auftragsdaten.<br>Mit Auftrag fortfahren?",
-        "Está misión fue previamente pausada.<br>¿Quieres resumirla?",
+        "Hay datos de misión interumpida.<br>¿Quieres reanudarla?",
         "Ada data quest yang terinterupsi sebelumnya.<br>Lanjutkan quest?",
         "มี\u001aข้อมูล\u001aเค\u001aวส\u001aที่\u001aยัง\u001aค้าง\u001aอยู่\u001a<br>\u001aคุณ\u001aต้องการ\u001aเริ่ม\u001aเค\u001aวส\u001aใหม่\u001aหรือไม่\u001a?\u001a"
     ],
@@ -18767,7 +18767,7 @@
         "퀘스트 재개",
         "Reprendre la quête",
         "Auftrag neu starten",
-        "Resumir misión",
+        "Reanudar misión",
         "Lanjutkan Quest",
         "เริ่มต้น\u001aเค\u001aวส\u001aใหม่\u001a"
     ],
@@ -19453,7 +19453,7 @@
     ],
     "SG_BUNDLE_END": [
         "Ends in :",
-        "剩餘時間：",
+        "結束時間：",
         "남은 시간:",
         "Reste :",
         "Endet in:",
@@ -24880,6 +24880,46 @@
         "Menú de unidades",
         "Menu Unit",
         "เมนู\u001aยู\u001aนิ\u001aท\u001a"
+    ],
+    "UNIT_MENU_BRAVESHIFT_COOL_TIME": [
+        "<color=183:193:221>Cooldown: </color><param=braveshift_cool_time> turn(s)",
+        "<color=183:193:221>冷卻時間：</color><param=braveshift_cool_time>回合",
+        "<color=183:193:221>재사용 대기 시간: </color><param=braveshift_cool_time>턴",
+        "<color=183:193:221>Tps de récupération :</color><param=braveshift_cool_time> tour(s)",
+        "<color=183:193:221>Abklingdauer: </color><param=braveshift_cool_time> Runde(n)",
+        "<color=183:193:221>Tiempo de espera: </color><param=braveshift_cool_time> turno(s)",
+        "<color=183:193:221>Jeda waktu: </color><param=braveshift_cool_time> giliran",
+        "<color=183:193:221>\u001aคู\u001aลดา\u001aวน\u001a์:\u001a \u001a</color><param=braveshift_cool_time>\u001a \u001aเทิร์น\u001a"
+    ],
+    "UNIT_MENU_BRAVESHIFT_ERROR_EXLV_SHORTAGE": [
+        "Brave Shift unlocked at <color=255:255:0>EX +1</color>.",
+        "<color=255:255:0>EX覺醒+1</color>時BRAVE SHIFT解放。",
+        "브레이브 시프트는 <color=255:255:0>EX 각성+1</color>에서 개방됩니다.",
+        "Forme extrême débloquée à <color=255:255:0>EX +1</color>.",
+        "Heldenwandel wird freigeschaltet auf <color=255:255:0>EX +1</color>.",
+        "La forma Brave se desbloquea en <color=255:255:0>EX +1</color>.",
+        "Brave Shift dibuka di <color=255:255:0>EX +1</color>.",
+        "ปลด\u001aล็อค\u001a \u001aBrave\u001a \u001aShift\u001a \u001aที่\u001aระดับ\u001a \u001a<color=255:255:0>\u001aEX\u001a \u001a+\u001a1\u001a</color>\u001a"
+    ],
+    "UNIT_MENU_BRAVESHIFT_RELEASE_TYPE_MANUAL": [
+        "<color=183:193:221><param=braveshift_release_turn> turn(s) remaining</color> until Brave Shift available",
+        "<color=183:193:221><param=braveshift_release_turn>回合後</color>可以進入BRAVE SHIFT狀態",
+        "<color=183:193:221>지속: </color><param=braveshift_release_turn>턴(임의)",
+        "<color=183:193:221><param=braveshift_release_turn></color> tour(s) restant(s) avant de pouvoir utiliser la forme extrême",
+        "<color=183:193:221><param=braveshift_release_turn> Runde(n)</color> bis Heldenwandel verfügbar wird",
+        "<color=183:193:221>Queda(n) </color><param=braveshift_release_turn> turno(s) para poder usar la forma Brave",
+        "<color=183:193:221>Tersisa <param=braveshift_release_turn> giliran</color> hingga Brave Shift tersedia",
+        "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a</color><param=braveshift_release_turn>\u001a \u001aเทิร์น\u001aจนกว่า\u001aใช้\u001a \u001aBrave\u001a \u001aShift\u001a \u001aได้\u001a"
+    ],
+    "UNIT_MENU_BRAVESHIFT_RELEASE_TYPE_TURN": [
+        "<color=183:193:221><param=braveshift_release_turn> turn(s) remaining</color> until forced Brave Shift",
+        "<color=183:193:221><param=braveshift_release_turn>回合後</color>強制進入BRAVE SHIFT狀態",
+        "<color=183:193:221>지속: </color><param=braveshift_release_turn>턴(강제)",
+        "<color=183:193:221><param=braveshift_release_turn></color> tour(s) restant(s) avant changement de forme (forcé)",
+        "<color=183:193:221><param=braveshift_release_turn> Runde(n)</color> bis zum Heldenwandel",
+        "<color=183:193:221>Queda(n) </color><param=braveshift_release_turn> turno(s) para pasar a forma Brave",
+        "<color=183:193:221>Tersisa <param=braveshift_release_turn> giliran</color> untuk berubah ke bentuk Brave Shift",
+        "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a</color><param=braveshift_release_turn>\u001a \u001aเทิร์น\u001aจนกว่า\u001aบังคับใช้\u001a \u001aBrave\u001a \u001aShift\u001a"
     ],
     "UNIT_MIX": [
         "Enhance Units",

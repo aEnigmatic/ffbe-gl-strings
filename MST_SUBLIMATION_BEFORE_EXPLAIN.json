@@ -2772,7 +2772,7 @@
     "203980002": [
         "Boosts ATK when equipped with short sword or spear",
         "裝備短劍長槍時提高攻擊",
-        "단검, 창 장착시 공격력 상승",
+        "단검, 창 장착 시 공격력 상승",
         "Augmente l'ATT lorsqu'une épée courte ou une lance est équipée",
         "Erhöht ANG, wenn mit Kurzschwert oder Speer ausgerüstet.",
         "Aumenta el ATQ al llevar una espada corta o una lanza",
@@ -2790,14 +2790,14 @@
         "<blank>\u001a"
     ],
     "203990002": [
-        "Increase hit count (low)",
-        "提高命中次數(小)",
-        "히트 수 상승(소)",
-        "Augmente le nombre de coups (peu)",
-        "Erhöht die Trefferzahl (gering)",
-        "Aumenta el número de golpes (poco)",
-        "Menambah jumlah hit (rendah)",
-        "เพิ่มจำนวน\u001aครั้ง\u001aที่\u001aโจมตี\u001aได้\u001a \u001a(\u001aต่ำ\u001a)\u001a"
+        "Boosts damage amount (great)",
+        "提高傷害量(特大)",
+        "피해량 상승(특대)",
+        "Augmente les dégâts infligés (super)",
+        "Erhöht Schaden (sehr hoch)",
+        "Aumenta el daño (muchísimo)",
+        "Meningkatkan damage (sangat besar)",
+        "เพิ่มค่า\u001aความเสียหาย\u001a \u001a(\u001aสูงสุด\u001a)\u001a"
     ],
     "204001001": [
         null,
@@ -26467,7 +26467,7 @@
         "Fügt zweimal Feuerschaden zu (300%+4500%)",
         "Inflige daño de fuego 2 veces (300%+4500%)",
         "Memberikan damage api 2 kali (300%+4500%)",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a(\u001a300%+\u001a4500%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a<br>(\u001a300%+\u001a4500%)\u001a"
     ],
     "300000728": [
         "Deals fire damage two times (300%+5200%)",
@@ -26477,7 +26477,7 @@
         "Fügt zweimal Feuerschaden zu (300%+5200%)",
         "Inflige daño de fuego 2 veces (300%+5200%)",
         "Memberikan damage api 2 kali (300%+5200%)",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a(\u001a300%+\u001a5200%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a<br>(\u001a300%+\u001a5200%)\u001a"
     ],
     "300000729": [
         "Deals fire damage two times (300%+6000%)",
@@ -26487,7 +26487,7 @@
         "Fügt zweimal Feuerschaden zu (300%+6000%)",
         "Inflige daño de fuego 2 veces (300%+6000%)",
         "Memberikan damage api 2 kali (300%+6000%)",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a(\u001a300%+\u001a6000%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a<br>(\u001a300%+\u001a6000%)\u001a"
     ],
     "300000730": [
         "Deals fire damage two times (300%+6500%)",
@@ -26497,7 +26497,7 @@
         "Fügt zweimal Feuerschaden zu (300%+6500%)",
         "Inflige daño de fuego 2 veces (300%+6500%)",
         "Memberikan damage api 2 kali (300%+6500%)",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a(\u001a300%+\u001a6500%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a<br>(\u001a300%+\u001a6500%)\u001a"
     ],
     "300000731": [
         "Deals light damage (5800%)",
@@ -28619,6 +28619,406 @@
         "Memulihkan HP (Pemulihan HP dasar: 3800%, variasi pemulihan HP: 1000%)",
         "ฟื้นฟู\u001a \u001aHP\u001a \u001a(\u001aค่า\u001a \u001aHP\u001a \u001aพื้นฐาน\u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a3800%,\u001a \u001aค่า\u001aแปรผัน\u001aของ\u001a \u001aHP\u001a \u001aที่\u001aฟื้นฟู\u001a:\u001a \u001a1000%)\u001a"
     ],
+    "300000975": [
+        "Chance of instantly KO'ing (40%)<br>Chance of inflicting poison, blind, or confusion (40%)",
+        "一定機率造成致死一擊效果(40%)<br>一定機率施加中毒失明混亂效果(40%)",
+        "일정 확률로 즉사 부여(40%)<br>일정 확률로 독, 암흑 또는 혼란 부여(40%)",
+        "Confère une chance d'infliger un K.O. instantané (40 %)<br>Confère une chance d'infliger poison, cécité ou confusion (40 %)",
+        "Chance, sofort kampfunfähig zu machen (40%)<br>Chance, Gift, Blind oder Konfus zuzufügen (40%)",
+        "Probabilidad de K.O. instantáneo (un 40%)<br>Probabilidad de infligir veneno, ceguera o confusión (un 40%)",
+        "Peluang untuk menyebabkan K.O. seketika (40%)<br>Peluang untuk memberikan status poison, blind, atau confuse (40%)",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a(\u001a40%)<br>มีโอกาสทำให้ติดสถานะ Poison\u001a,\u001a \u001aBlind\u001a \u001aหรือ\u001a \u001aConfuse\u001a \u001a(\u001a40%)\u001a"
+    ],
+    "300000976": [
+        "Chance of instantly KO'ing (50%)<br>Chance of inflicting poison, blind, or confusion (50%)",
+        "一定機率造成致死一擊效果(50%)<br>一定機率施加中毒失明混亂效果(50%)",
+        "일정 확률로 즉사 부여(50%)<br>일정 확률로 독, 암흑 또는 혼란 부여(50%)",
+        "Confère une chance d'infliger un K.O. instantané (50 %)<br>Confère une chance d'infliger poison, cécité ou confusion (50 %)",
+        "Chance, sofort kampfunfähig zu machen (50%)<br>Chance, Gift, Blind oder Konfus zuzufügen (50%)",
+        "Probabilidad de K.O. instantáneo (un 50%)<br>Probabilidad de infligir veneno, ceguera o confusión (un 50%)",
+        "Peluang untuk menyebabkan K.O. seketika (50%)<br>Peluang untuk memberikan status poison, blind, atau confuse (50%)",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a(\u001a50%)<br>มีโอกาสทำให้ติดสถานะ Poison\u001a,\u001a \u001aBlind\u001a \u001aหรือ\u001a \u001aConfuse\u001a \u001a(\u001a50%)\u001a"
+    ],
+    "300000977": [
+        "Chance of instantly KO'ing (60%)<br>Chance of inflicting poison, blind, or confusion (60%)",
+        "一定機率造成致死一擊效果(60%)<br>一定機率施加中毒失明混亂效果(60%)",
+        "일정 확률로 즉사 부여(60%)<br>일정 확률로 독, 암흑 또는 혼란 부여(60%)",
+        "Confère une chance d'infliger un K.O. instantané (60 %)<br>Confère une chance d'infliger poison, cécité ou confusion (60 %)",
+        "Chance, sofort kampfunfähig zu machen (60%)<br>Chance, Gift, Blind oder Konfus zuzufügen (60%)",
+        "Probabilidad de K.O. instantáneo (un 60%)<br>Probabilidad de infligir veneno, ceguera o confusión (un 60%)",
+        "Peluang untuk menyebabkan K.O. seketika (60%)<br>Peluang untuk memberikan status poison, blind, atau confuse (60%)",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a(\u001a60%)<br>มีโอกาสทำให้ติดสถานะ Poison\u001a,\u001a \u001aBlind\u001a \u001aหรือ\u001a \u001aConfuse\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300000978": [
+        "Chance of instantly KO'ing (70%)<br>Chance of inflicting poison, blind, or confusion (70%)",
+        "一定機率造成致死一擊效果(70%)<br>一定機率施加中毒失明混亂效果(70%)",
+        "일정 확률로 즉사 부여(70%)<br>일정 확률로 독, 암흑 또는 혼란 부여(70%)",
+        "Confère une chance d'infliger un K.O. instantané (70 %)<br>Confère une chance d'infliger poison, cécité ou confusion (70 %)",
+        "Chance, sofort kampfunfähig zu machen (70%)<br>Chance, Gift, Blind oder Konfus zuzufügen (70%)",
+        "Probabilidad de K.O. instantáneo (un 70%)<br>Probabilidad de infligir veneno, ceguera o confusión (un 70%)",
+        "Peluang untuk menyebabkan K.O. seketika (70%)<br>Peluang untuk memberikan status poison, blind, atau confuse (70%)",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a(\u001a70%)<br>มีโอกาสทำให้ติดสถานะ Poison\u001a,\u001a \u001aBlind\u001a \u001aหรือ\u001a \u001aConfuse\u001a \u001a(\u001a70%)\u001a"
+    ],
+    "300000979": [
+        "Deals fire damage (5600%)<br>Reduces fire resistance (120%)",
+        "發動火屬性攻擊(5600%)<br>降低火屬性耐性(120%)",
+        "불속성 피해(5600%)<br>불속성 저항력 감소(120%)",
+        "Inflige des dégâts de feu (5600 %)<br>Réduit la résistance au feu (120 %)",
+        "Fügt Feuerschaden zu (5600%)<br>Verringert Feuerresistenz (120%)",
+        "Inflige daño de fuego (un 5600%)<br>Reduce la resistencia al fuego (un 120%)",
+        "Memberikan damage api (5600%)<br>Mengurangi resistansi api (120%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a5600%)<br>ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a120%)\u001a"
+    ],
+    "300000980": [
+        "Deals fire damage (6000%)<br>Reduces fire resistance (120%)",
+        "發動火屬性攻擊(6000%)<br>降低火屬性耐性(120%)",
+        "불속성 피해(6000%)<br>불속성 저항력 감소(120%)",
+        "Inflige des dégâts de feu (6000 %)<br>Réduit la résistance au feu (120 %)",
+        "Fügt Feuerschaden zu (6000%)<br>Verringert Feuerresistenz (120%)",
+        "Inflige daño de fuego (un 6000%)<br>Reduce la resistencia al fuego (un 120%)",
+        "Memberikan damage api (6000%)<br>Mengurangi resistansi api (120%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6000%)<br>ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a120%)\u001a"
+    ],
+    "300000981": [
+        "Deals fire damage (6400%)<br>Reduces fire resistance (120%)",
+        "發動火屬性攻擊(6400%)<br>降低火屬性耐性(120%)",
+        "불속성 피해(6400%)<br>불속성 저항력 감소(120%)",
+        "Inflige des dégâts de feu (6400 %)<br>Réduit la résistance au feu (120 %)",
+        "Fügt Feuerschaden zu (6400%)<br>Verringert Feuerresistenz (120%)",
+        "Inflige daño de fuego (un 6400%)<br>Reduce la resistencia al fuego (un 120%)",
+        "Memberikan damage api (6400%)<br>Mengurangi resistansi api (120%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6400%)<br>ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a120%)\u001a"
+    ],
+    "300000982": [
+        "Deals fire damage (6800%)<br>Reduces fire resistance (125%)",
+        "發動火屬性攻擊(6800%)<br>降低火屬性耐性(125%)",
+        "불속성 피해(6800%)<br>불속성 저항력 감소(125%)",
+        "Inflige des dégâts de feu (6800 %)<br>Réduit la résistance au feu (125 %)",
+        "Fügt Feuerschaden zu (6800%)<br>Verringert Feuerresistenz (120%)",
+        "Inflige daño de fuego (un 6800%)<br>Reduce la resistencia al fuego (un 125%)",
+        "Memberikan damage api (6800%)<br>Mengurangi resistansi api (125%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6800%)<br>ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a125%)\u001a"
+    ],
+    "300000983": [
+        "Deals damage (4300%)<br>Boosts wind damage of LB, abilities, and magic (10%)",
+        "發動攻擊(4300%)<br>提高風屬性「極限技、能力、魔法」的傷害(10%)",
+        "피해(4300%)<br>바람속성 LB, 어빌리티, 마법 피해량 상승(10%)",
+        "Inflige des dégâts (4300 %)<br>Augmente les dégâts de vent de la limite, des aptitudes et des sorts (10 %)",
+        "Fügt Schaden zu (4300%)<br>Erhöht Windschaden durch Limitrausch, Fertigkeiten und Magie (10%)",
+        "Inflige daño (un 4300%)<br>Aumenta el daño de viento del EL, las habilidades y la magia (un 10%)",
+        "Memberikan damage (4300%)<br>Meningkatkan damage angin pada LB, ability, dan magic (10%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a4300%)<br>เพิ่มค่าความเสียหายธาตุลมของ LB, Ability\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a10%)\u001a"
+    ],
+    "300000984": [
+        "Deals damage (5000%)<br>Boosts wind damage of LB, abilities, and magic (10%)",
+        "發動攻擊(5000%)<br>提高風屬性「極限技、能力、魔法」的傷害(10%)",
+        "피해(5000%)<br>바람속성 LB, 어빌리티, 마법 피해량 상승(10%)",
+        "Inflige des dégâts (5000 %)<br>Augmente les dégâts de vent de la limite, des aptitudes et des sorts (10 %)",
+        "Fügt Schaden zu (5000%)<br>Erhöht Windschaden durch Limitrausch, Fertigkeiten und Magie (10%)",
+        "Inflige daño (un 5000%)<br>Aumenta el daño de viento del EL, las habilidades y la magia (un 10%)",
+        "Memberikan damage (5000%)<br>Meningkatkan damage angin pada LB, ability, dan magic (10%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a5000%)<br>เพิ่มค่าความเสียหายธาตุลมของ LB, Ability\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a10%)\u001a"
+    ],
+    "300000985": [
+        "Deals damage (5700%)<br>Boosts wind damage of LB, abilities, and magic (15%)",
+        "發動攻擊(5700%)<br>提高風屬性「極限技、能力、魔法」的傷害(15%)",
+        "피해(5700%)<br>바람속성 LB, 어빌리티, 마법 피해량 상승(15%)",
+        "Inflige des dégâts (5700 %)<br>Augmente les dégâts de vent de la limite, des aptitudes et des sorts (15 %)",
+        "Fügt Schaden zu (5700%)<br>Erhöht Windschaden durch Limitrausch, Fertigkeiten und Magie (15%)",
+        "Inflige daño (un 5700%)<br>Aumenta el daño de viento del EL, las habilidades y la magia (un 15%)",
+        "Memberikan damage (5700%)<br>Meningkatkan damage angin pada LB, ability, dan magic (15%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a5700%)<br>เพิ่มค่าความเสียหายธาตุลมของ LB, Ability\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a15%)\u001a"
+    ],
+    "300000986": [
+        "Deals damage (6300%)<br>Boosts wind damage of LB, abilities, and magic (15%)",
+        "發動攻擊(6300%)<br>提高風屬性「極限技、能力、魔法」的傷害(15%)",
+        "피해(6300%)<br>바람속성 LB, 어빌리티, 마법 피해량 상승(15%)",
+        "Inflige des dégâts (6300 %)<br>Augmente les dégâts de vent de la limite, des aptitudes et des sorts (15 %)",
+        "Fügt Schaden zu (6300%)<br>Erhöht Windschaden durch Limitrausch, Fertigkeiten und Magie (15%)",
+        "Inflige daño (un 6300%)<br>Aumenta el daño de viento del EL, las habilidades y la magia (un 15%)",
+        "Memberikan damage (6300%)<br>Meningkatkan damage angin pada LB, ability, dan magic (15%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a6300%)<br>เพิ่มค่าความเสียหายธาตุลมของ LB, Ability\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a15%)\u001a"
+    ],
+    "300000987": [
+        "Deals damage (2200%)",
+        "發動攻擊(2200%)",
+        "피해(2200%)",
+        "Inflige des dégâts (2200 %)",
+        "Fügt Schaden zu (2200%).",
+        "Inflige daño (un 2200%)",
+        "Memberikan damage (2200%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a2200%)\u001a"
+    ],
+    "300000988": [
+        "Deals damage (2500%)",
+        "發動攻擊(2500%)",
+        "피해(2500%)",
+        "Inflige des dégâts (2500 %)",
+        "Fügt Schaden zu (2500%).",
+        "Inflige daño (un 2500%)",
+        "Memberikan damage (2500%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a2500%)\u001a"
+    ],
+    "300000989": [
+        "Deals damage (2800%)",
+        "發動攻擊(2800%)",
+        "피해(2800%)",
+        "Inflige des dégâts (2800 %)",
+        "Fügt Schaden zu (2800%).",
+        "Inflige daño (un 2800%)",
+        "Memberikan damage (2800%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a2800%)\u001a"
+    ],
+    "300000990": [
+        "Deals damage (3000%)",
+        "發動攻擊(3000%)",
+        "피해(3000%)",
+        "Inflige des dégâts (3000 %)",
+        "Fügt Schaden zu (3000%).",
+        "Inflige daño (un 3000%)",
+        "Memberikan damage (3000%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a3000%)\u001a"
+    ],
+    "300000991": [
+        "Deals wind damage (3900%)",
+        "發動風屬性攻擊(3900%)",
+        "바람속성 피해(3900%)",
+        "Inflige des dégâts de vent (3900 %)",
+        "Fügt Windschaden zu (3900%).",
+        "Inflige daño de viento (un 3900%)",
+        "Memberikan damage angin (3900%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a3900%)\u001a"
+    ],
+    "300000992": [
+        "Deals wind damage (4500%)",
+        "發動風屬性攻擊(4500%)",
+        "바람속성 피해(4500%)",
+        "Inflige des dégâts de vent (4500 %)",
+        "Fügt Windschaden zu (4500%).",
+        "Inflige daño de viento (un 4500%)",
+        "Memberikan damage angin (4500%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a4500%)\u001a"
+    ],
+    "300000993": [
+        "Deals wind damage (5200%)",
+        "發動風屬性攻擊(5200%)",
+        "바람속성 피해(5200%)",
+        "Inflige des dégâts de vent (5200 %)",
+        "Fügt Windschaden zu (5200%).",
+        "Inflige daño de viento (un 5200%)",
+        "Memberikan damage angin (5200%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a5200%)\u001a"
+    ],
+    "300000994": [
+        "Deals wind damage (5700%)",
+        "發動風屬性攻擊(5700%)",
+        "바람속성 피해(5700%)",
+        "Inflige des dégâts de vent (5700 %)",
+        "Fügt Windschaden zu (5700%).",
+        "Inflige daño de viento (un 5700%)",
+        "Memberikan damage angin (5700%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a5700%)\u001a"
+    ],
+    "300000995": [
+        "Boosts ATK (300)<br>Boosts damage of certain abilities (dual spellblade: 700%)<br>Boosts damage of certain abilities (geomancer: wind slash: 1060%)<br>Boosts damage of certain abilities (gladiator: bladeblitz: 3000%)",
+        "提高攻擊(300)<br>提高特定能力的傷害(魔法劍二刀流：700%)<br>提高特定能力的傷害(風水士：鎌鼬：1060%)<br>提高特定能力的傷害(劍鬥士：全斬：3000%)",
+        "공격력 상승(300)<br>특정 어빌리티의 피해량 상승(마법검 이도류: 700%)<br>특정 어빌리티의 피해량 상승(풍수사: 칼날 돌풍: 1060%)<br>특정 어빌리티의 피해량 상승(검투사: 전방위 베기: 3000%)",
+        "Augmente l'ATT (300)<br>Augmente les dégâts de certaines aptitudes (Magilame ambidextre : 700 %)<br>Augmente les dégâts de certaines aptitudes (\"Géomancien : Rafale cinglante\" : 1060 %)<br>Augmente les dégâts de certaines aptitudes (\"Gladiateur : Combos\" : 3000 %)",
+        "Erhöht ANG (300)<br>Erhöht Schaden bestimmter Fertigkeiten (Doppel-Klingenmagier: 700%)<br>Erhöht Schaden bestimmter Fertigkeiten (Geomant: Windschwert: 1060%)<br>Erhöht Schaden bestimmter Fertigkeiten (Gladiator: Klingenblitz: 3000%)",
+        "Aumenta el ATQ (en 300)<br>Aumenta el daño de determinadas habilidades (Hoja embrujada doble: un 700%)<br>Aumenta el daño de determinadas habilidades (Geomante: Ventolera: un 1060%)<br>Aumenta el daño de determinadas habilidades (Gladiador: Relámpago de acero: un 3000%)",
+        "Meningkatkan ATK (300)<br>Meningkatkan damage ability tertentu (Dual Spellblade: 700%)<br>Meningkatkan damage ability tertentu (Geomancer: Tebasan Angin: 1060%)<br>Meningkatkan damage ability tertentu (Gladiator: Bladeblitz: 3000%)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a300\u001a)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aเวทย์\u001aคู่\u001a:\u001a \u001a700%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aฮวงจุ้ย\u001a:\u001a \u001aวายุ\u001aเชือดเฉือน\u001a:\u001a \u001a1060%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aดาบ\u001a:\u001a \u001aBladeblitz\u001a:\u001a \u001a3000%)\u001a"
+    ],
+    "300000996": [
+        "Boosts ATK (350)<br>Boosts damage of certain abilities (dual spellblade: 900%)<br>Boosts damage of certain abilities (geomancer: wind slash: 1460%)<br>Boosts damage of certain abilities (gladiator: bladeblitz: 3800%)",
+        "提高攻擊(350)<br>提高特定能力的傷害(魔法劍二刀流：900%)<br>提高特定能力的傷害(風水士：鎌鼬：1460%)<br>提高特定能力的傷害(劍鬥士：全斬：3800%)",
+        "공격력 상승(350)<br>특정 어빌리티의 피해량 상승(마법검 이도류: 900%)<br>특정 어빌리티의 피해량 상승(풍수사: 칼날 돌풍: 1460%)<br>특정 어빌리티의 피해량 상승(검투사: 전방위 베기: 3800%)",
+        "Augmente l'ATT (350)<br>Augmente les dégâts de certaines aptitudes (Magilame ambidextre : 900 %)<br>Augmente les dégâts de certaines aptitudes (\"Géomancien : Rafale cinglante\" : 1460 %)<br>Augmente les dégâts de certaines aptitudes (\"Gladiateur : Combos\" : 3800 %)",
+        "Erhöht ANG (350)<br>Erhöht Schaden bestimmter Fertigkeiten (Doppel-Klingenmagier: 900%)<br>Erhöht Schaden bestimmter Fertigkeiten (Geomant: Windschwert: 1460%)<br>Erhöht Schaden bestimmter Fertigkeiten (Gladiator: Klingenblitz: 3800%)",
+        "Aumenta el ATQ (en 350)<br>Aumenta el daño de determinadas habilidades (Hoja embrujada doble: un 900%)<br>Aumenta el daño de determinadas habilidades (Geomante: Ventolera: un 1460%)<br>Aumenta el daño de determinadas habilidades (Gladiador: Relámpago de acero: un 3800%)",
+        "Meningkatkan ATK (350)<br>Meningkatkan damage ability tertentu (Dual Spellblade: 900%)<br>Meningkatkan damage ability tertentu (Geomancer: Tebasan Angin: 1460%)<br>Meningkatkan damage ability tertentu (Gladiator: Bladeblitz: 3800%)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a350\u001a)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aเวทย์\u001aคู่\u001a:\u001a \u001a900%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aฮวงจุ้ย\u001a:\u001a \u001aวายุ\u001aเชือดเฉือน\u001a:\u001a \u001a1460%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aดาบ\u001a:\u001a \u001aBladeblitz\u001a:\u001a \u001a3800%)\u001a"
+    ],
+    "300000997": [
+        "Boosts ATK (400)<br>Boosts damage of certain abilities (dual spellblade: 1100%)<br>Boosts damage of certain abilities (geomancer: wind slash: 1860%)<br>Boosts damage of certain abilities (gladiator: bladeblitz: 4500%)",
+        "提高攻擊(400)<br>提高特定能力的傷害(魔法劍二刀流：1100%)<br>提高特定能力的傷害(風水士：鎌鼬：1860%)<br>提高特定能力的傷害(劍鬥士：全斬：4500%)",
+        "공격력 상승(400)<br>특정 어빌리티의 피해량 상승(마법검 이도류: 1100%)<br>특정 어빌리티의 피해량 상승(풍수사: 칼날 돌풍: 1860%)<br>특정 어빌리티의 피해량 상승(검투사: 전방위 베기: 4500%)",
+        "Augmente l'ATT (400)<br>Augmente les dégâts de certaines aptitudes (Magilame ambidextre : 1100 %)<br>Augmente les dégâts de certaines aptitudes (\"Géomancien : Rafale cinglante\" : 1860 %)<br>Augmente les dégâts de certaines aptitudes (\"Gladiateur : Combos\" : 4500 %)",
+        "Erhöht ANG (400)<br>Erhöht Schaden bestimmter Fertigkeiten (Doppel-Klingenmagier: 1100%)<br>Erhöht Schaden bestimmter Fertigkeiten (Geomant: Windschwert: 1860%)<br>Erhöht Schaden bestimmter Fertigkeiten (Gladiator: Klingenblitz: 4500%)",
+        "Aumenta el ATQ (en 400)<br>Aumenta el daño de determinadas habilidades (Hoja embrujada doble: un 1100%)<br>Aumenta el daño de determinadas habilidades (Geomante: Ventolera: un 1860%)<br>Aumenta el daño de determinadas habilidades (Gladiador: Relámpago de acero: un 4500%)",
+        "Meningkatkan ATK (400)<br>Meningkatkan damage ability tertentu (Dual Spellblade: 1100%)<br>Meningkatkan damage ability tertentu (Geomancer: Tebasan Angin: 1860%)<br>Meningkatkan damage ability tertentu (Gladiator: Bladeblitz: 4500%)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a400\u001a)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aเวทย์\u001aคู่\u001a:\u001a \u001a1100%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aฮวงจุ้ย\u001a:\u001a \u001aวายุ\u001aเชือดเฉือน\u001a:\u001a \u001a1860%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aดาบ\u001a:\u001a \u001aBladeblitz\u001a:\u001a \u001a4500%)\u001a"
+    ],
+    "300000998": [
+        "Boosts ATK (450)<br>Boosts damage of certain abilities (dual spellblade: 1300%)<br>Boosts damage of certain abilities (geomancer: wind slash: 2260%)<br>Boosts damage of certain abilities (gladiator: bladeblitz: 5300%)",
+        "提高攻擊(450)<br>提高特定能力的傷害(魔法劍二刀流：1300%)<br>提高特定能力的傷害(風水士：鎌鼬：2260%)<br>提高特定能力的傷害(劍鬥士：全斬：5300%)",
+        "공격력 상승(450)<br>특정 어빌리티의 피해량 상승(마법검 이도류: 1300%)<br>특정 어빌리티의 피해량 상승(풍수사: 칼날 돌풍: 2260%)<br>특정 어빌리티의 피해량 상승(검투사: 전방위 베기: 5300%)",
+        "Augmente l'ATT (450)<br>Augmente les dégâts de certaines aptitudes (Magilame ambidextre : 1300 %)<br>Augmente les dégâts de certaines aptitudes (\"Géomancien : Rafale cinglante\" : 2260 %)<br>Augmente les dégâts de certaines aptitudes (\"Gladiateur : Combos\" : 5300 %)",
+        "Erhöht ANG (450)<br>Erhöht Schaden bestimmter Fertigkeiten (Doppel-Klingenmagier: 1300%)<br>Erhöht Schaden bestimmter Fertigkeiten (Geomant: Windschwert: 2260%)<br>Erhöht Schaden bestimmter Fertigkeiten (Gladiator: Klingenblitz: 5300%)",
+        "Aumenta el ATQ (en 450)<br>Aumenta el daño de determinadas habilidades (Hoja embrujada doble: un 1300%)<br>Aumenta el daño de determinadas habilidades (Geomante: Ventolera: un 2260%)<br>Aumenta el daño de determinadas habilidades (Gladiador: Relámpago de acero: un 5300%)",
+        "Meningkatkan ATK (450)<br>Meningkatkan damage ability tertentu (Dual Spellblade: 1300%)<br>Meningkatkan damage ability tertentu (Geomancer: Tebasan Angin: 2260%)<br>Meningkatkan damage ability tertentu (Gladiator: Bladeblitz: 5300%)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a450\u001a)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aเวทย์\u001aคู่\u001a:\u001a \u001a1300%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aฮวงจุ้ย\u001a:\u001a \u001aวายุ\u001aเชือดเฉือน\u001a:\u001a \u001a2260%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aนัก\u001aดาบ\u001a:\u001a \u001aBladeblitz\u001a:\u001a \u001a5300%)\u001a"
+    ],
+    "300000999": [
+        "Boosts ATK (300)<br>Fills LB gauge (300)",
+        "提高攻擊(300)<br>增加極限技槽(300)",
+        "공격력 상승(300)<br>LB 게이지 증가(300)",
+        "Augmente l'ATT (300)<br>Remplit la jauge de limite (300)",
+        "Erhöht ANG (300)<br>Füllt Limitmeter (300)",
+        "Aumenta el ATQ (en 300)<br>Rellena la barra de EL (en 300)",
+        "Meningkatkan ATK (300)<br>Mengisi bar LB (300)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a300\u001a)<br>\u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a300\u001a)\u001a"
+    ],
+    "300001000": [
+        "Boosts ATK (350)<br>Fills LB gauge (300)",
+        "提高攻擊(350)<br>增加極限技槽(300)",
+        "공격력 상승(350)<br>LB 게이지 증가(300)",
+        "Augmente l'ATT (350)<br>Remplit la jauge de limite (300)",
+        "Erhöht ANG (350)<br>Füllt Limitmeter (300)",
+        "Aumenta el ATQ (en 350)<br>Rellena la barra de EL (en 300)",
+        "Meningkatkan ATK (350)<br>Mengisi bar LB (300)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a350\u001a)<br>\u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a300\u001a)\u001a"
+    ],
+    "300001001": [
+        "Boosts ATK (400)<br>Fills LB gauge (400)",
+        "提高攻擊(400)<br>增加極限技槽(400)",
+        "공격력 상승(400)<br>LB 게이지 증가(400)",
+        "Augmente l'ATT (400)<br>Remplit la jauge de limite (400)",
+        "Erhöht ANG (400)<br>Füllt Limitmeter (400)",
+        "Aumenta el ATQ (en 400)<br>Rellena la barra de EL (en 400)",
+        "Meningkatkan ATK (400)<br>Mengisi bar LB (400)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a400\u001a)<br>\u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a400\u001a)\u001a"
+    ],
+    "300001002": [
+        "Boosts ATK (450)<br>Fills LB gauge (400)",
+        "提高攻擊(450)<br>增加極限技槽(400)",
+        "공격력 상승(450)<br>LB 게이지 증가(400)",
+        "Augmente l'ATT (450)<br>Remplit la jauge de limite (400)",
+        "Erhöht ANG (450)<br>Füllt Limitmeter (400)",
+        "Aumenta el ATQ (en 450)<br>Rellena la barra de EL (en 400)",
+        "Meningkatkan ATK (450)<br>Mengisi bar LB (400)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a450\u001a)<br>\u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a400\u001a)\u001a"
+    ],
+    "300001003": [
+        "Deals lightning damage (5600%)",
+        "發動雷屬性攻擊(5600%)",
+        "번개속성 피해(5600%)",
+        "Inflige des dégâts de foudre (5600 %)",
+        "Fügt Blitzschaden zu (5600%)",
+        "Inflige daño de rayo (un 5600%)",
+        "Memberikan damage petir (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a5600%)\u001a"
+    ],
+    "300001004": [
+        "Deals lightning damage (6000%)",
+        "發動雷屬性攻擊(6000%)",
+        "번개속성 피해(6000%)",
+        "Inflige des dégâts de foudre (6000 %)",
+        "Fügt Blitzschaden zu (6000%)",
+        "Inflige daño de rayo (un 6000%)",
+        "Memberikan damage petir (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300001005": [
+        "Deals lightning damage (6400%)",
+        "發動雷屬性攻擊(6400%)",
+        "번개속성 피해(6400%)",
+        "Inflige des dégâts de foudre (6400 %)",
+        "Fügt Blitzschaden zu (6400%)",
+        "Inflige daño de rayo (un 6400%)",
+        "Memberikan damage petir (6400%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a6400%)\u001a"
+    ],
+    "300001006": [
+        "Deals lightning damage (6800%)",
+        "發動雷屬性攻擊(6800%)",
+        "번개속성 피해(6800%)",
+        "Inflige des dégâts de foudre (6800 %)",
+        "Fügt Blitzschaden zu (6800%)",
+        "Inflige daño de rayo (un 6800%)",
+        "Memberikan damage petir (6800%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a6800%)\u001a"
+    ],
+    "300001007": [
+        "Boosts damage of certain abilities (secret sword art - Naginata, secret sword art - Excalibur, secret sword art - Zantetsuken, secret sword art - Muramasa, secret sword art - Genji blade, wind slash, tri-attack, snowpetal: 500%)",
+        "提高特定能力的傷害(【秘劍】薙刀、【秘劍】石中劍、【秘劍】斬鐵劍、【秘劍】村正、【秘劍】源氏之刀、鎌鼬、三劍舞、雪月花：500%)",
+        "특정 어빌리티의 피해량 상승([비검] 언월도, [비검] 엑스칼리버, [비검] 참철검, [비검] 무라마사, [비검] 겐지의 도, 칼날돌풍, 세 자루의 검, 설월화: 500%)",
+        "Augmente les dégâts de certaines aptitudes ([Tech. secrète] Naginata, [Tech. secrète] Excalibur, [Tech. secrète] Zantetsuken, [Tech. secrète] Muramasa, [Tech. secrète] Lame de Genji, Rafale cinglante, Triple-attaque, Flocon de neige : 500 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten ([Geheimtechnik] Naginata, [Geheimtechnik] Exkalibur, [Geheimtechnik] Zantetsuken, [Geheimtechnik] Muramasa, [Geheimtechnik] Genji-Klinge, Windsichel, Dreifachschlag, Wintermondblüten: 500%)",
+        "Aumenta el daño de determinadas habilidades (Arte secreto de la espada - Naginata, Arte secreto de la espada - Excalibur, Arte secreto de la espada - Zantetsuken, Arte secreto de la espada - Muramasa, Arte secreto de la espada - Hoja de Genji, Ventolera, Triataque, Pétalo de nieve: un 500%)",
+        "Meningkatkan damage ability tertentu (Teknik Pedang Rahasia - Naginata, Teknik Pedang Rahasia - Excalibur, Teknik Pedang Rahasia - Zantetsuken, Teknik Pedang Rahasia - Muramasa, Teknik Pedang Rahasia - Genji Blade, Tebasan Angin, Tri-Attack, Kelopak Salju: 500%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aNaginata\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aExcalibur\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001aสะบั้น\u001aโลหะ\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aMuramasa\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aGenji\u001a,\u001a \u001aวายุ\u001aเชือดเฉือน\u001a,\u001a \u001aดาบ\u001aจู่โจม\u001aสาม\u001aเท่า\u001a,\u001a \u001aบุปผา\u001aหิมะ\u001a:\u001a \u001a500%)\u001a"
+    ],
+    "300001008": [
+        "Boosts damage of certain abilities (secret sword art - Naginata, secret sword art - Excalibur, secret sword art - Zantetsuken, secret sword art - Muramasa, secret sword art - Genji blade, wind slash, tri-attack, snowpetal: 1000%)",
+        "提高特定能力的傷害(【秘劍】薙刀、【秘劍】石中劍、【秘劍】斬鐵劍、【秘劍】村正、【秘劍】源氏之刀、鎌鼬、三劍舞、雪月花：1000%)",
+        "특정 어빌리티의 피해량 상승([비검] 언월도, [비검] 엑스칼리버, [비검] 참철검, [비검] 무라마사, [비검] 겐지의 도, 칼날돌풍, 세 자루의 검, 설월화: 1000%)",
+        "Augmente les dégâts de certaines aptitudes ([Tech. secrète] Naginata, [Tech. secrète] Excalibur, [Tech. secrète] Zantetsuken, [Tech. secrète] Muramasa, [Tech. secrète] Lame de Genji, Rafale cinglante, Triple-attaque, Flocon de neige : 1000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten ([Geheimtechnik] Naginata, [Geheimtechnik] Exkalibur, [Geheimtechnik] Zantetsuken, [Geheimtechnik] Muramasa, [Geheimtechnik] Genji-Klinge, Windsichel, Dreifachschlag, Wintermondblüten: 1000%)",
+        "Aumenta el daño de determinadas habilidades (Arte secreto de la espada - Naginata, Arte secreto de la espada - Excalibur, Arte secreto de la espada - Zantetsuken, Arte secreto de la espada - Muramasa, Arte secreto de la espada - Hoja de Genji, Ventolera, Triataque, Pétalo de nieve: un 1000%)",
+        "Meningkatkan damage ability tertentu (Teknik Pedang Rahasia - Naginata, Teknik Pedang Rahasia - Excalibur, Teknik Pedang Rahasia - Zantetsuken, Teknik Pedang Rahasia - Muramasa, Teknik Pedang Rahasia - Genji Blade, Tebasan Angin, Tri-Attack, Kelopak Salju: 1000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aNaginata\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aExcalibur\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001aสะบั้น\u001aโลหะ\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aMuramasa\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aGenji\u001a,\u001a \u001aวายุ\u001aเชือดเฉือน\u001a,\u001a \u001aดาบ\u001aจู่โจม\u001aสาม\u001aเท่า\u001a,\u001a \u001aบุปผา\u001aหิมะ\u001a:\u001a \u001a1000%)\u001a"
+    ],
+    "300001009": [
+        "Boosts damage of certain abilities (secret sword art - Naginata, secret sword art - Excalibur, secret sword art - Zantetsuken, secret sword art - Muramasa, secret sword art - Genji blade, wind slash, tri-attack, snowpetal: 2000%)",
+        "提高特定能力的傷害(【秘劍】薙刀、【秘劍】石中劍、【秘劍】斬鐵劍、【秘劍】村正、【秘劍】源氏之刀、鎌鼬、三劍舞、雪月花：2000%)",
+        "특정 어빌리티의 피해량 상승([비검] 언월도, [비검] 엑스칼리버, [비검] 참철검, [비검] 무라마사, [비검] 겐지의 도, 칼날돌풍, 세 자루의 검, 설월화: 2000%)",
+        "Augmente les dégâts de certaines aptitudes ([Tech. secrète] Naginata, [Tech. secrète] Excalibur, [Tech. secrète] Zantetsuken, [Tech. secrète] Muramasa, [Tech. secrète] Lame de Genji, Rafale cinglante, Triple-attaque, Flocon de neige : 2000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten ([Geheimtechnik] Naginata, [Geheimtechnik] Exkalibur, [Geheimtechnik] Zantetsuken, [Geheimtechnik] Muramasa, [Geheimtechnik] Genji-Klinge, Windsichel, Dreifachschlag, Wintermondblüten: 2000%)",
+        "Aumenta el daño de determinadas habilidades (Arte secreto de la espada - Naginata, Arte secreto de la espada - Excalibur, Arte secreto de la espada - Zantetsuken, Arte secreto de la espada - Muramasa, Arte secreto de la espada - Hoja de Genji, Ventolera, Triataque, Pétalo de nieve: un 2000%)",
+        "Meningkatkan damage ability tertentu (Teknik Pedang Rahasia - Naginata, Teknik Pedang Rahasia - Excalibur, Teknik Pedang Rahasia - Zantetsuken, Teknik Pedang Rahasia - Muramasa, Teknik Pedang Rahasia - Genji Blade, Tebasan Angin, Tri-Attack, Kelopak Salju: 2000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aNaginata\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aExcalibur\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001aสะบั้น\u001aโลหะ\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aMuramasa\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aGenji\u001a,\u001a \u001aวายุ\u001aเชือดเฉือน\u001a,\u001a \u001aดาบ\u001aจู่โจม\u001aสาม\u001aเท่า\u001a,\u001a \u001aบุปผา\u001aหิมะ\u001a:\u001a \u001a2000%)\u001a"
+    ],
+    "300001010": [
+        "Boosts damage of certain abilities (secret sword art - Naginata, secret sword art - Excalibur, secret sword art - Zantetsuken, secret sword art - Muramasa, secret sword art - Genji blade, wind slash, tri-attack, snowpetal: 3000%)",
+        "提高特定能力的傷害(【秘劍】薙刀、【秘劍】石中劍、【秘劍】斬鐵劍、【秘劍】村正、【秘劍】源氏之刀、鎌鼬、三劍舞、雪月花：3000%)",
+        "특정 어빌리티의 피해량 상승([비검] 언월도, [비검] 엑스칼리버, [비검] 참철검, [비검] 무라마사, [비검] 겐지의 도, 칼날돌풍, 세 자루의 검, 설월화: 3000%)",
+        "Augmente les dégâts de certaines aptitudes ([Tech. secrète] Naginata, [Tech. secrète] Excalibur, [Tech. secrète] Zantetsuken, [Tech. secrète] Muramasa, [Tech. secrète] Lame de Genji, Rafale cinglante, Triple-attaque, Flocon de neige : 3000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten ([Geheimtechnik] Naginata, [Geheimtechnik] Exkalibur, [Geheimtechnik] Zantetsuken, [Geheimtechnik] Muramasa, [Geheimtechnik] Genji-Klinge, Windsichel, Dreifachschlag, Wintermondblüten: 3000%)",
+        "Aumenta el daño de determinadas habilidades (Arte secreto de la espada - Naginata, Arte secreto de la espada - Excalibur, Arte secreto de la espada - Zantetsuken, Arte secreto de la espada - Muramasa, Arte secreto de la espada - Hoja de Genji, Ventolera, Triataque, Pétalo de nieve: un 3000%)",
+        "Meningkatkan damage ability tertentu (Teknik Pedang Rahasia - Naginata, Teknik Pedang Rahasia - Excalibur, Teknik Pedang Rahasia - Zantetsuken, Teknik Pedang Rahasia - Muramasa, Teknik Pedang Rahasia - Genji Blade, Tebasan Angin, Tri-Attack, Kelopak Salju: 3000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aNaginata\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aExcalibur\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001aสะบั้น\u001aโลหะ\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aMuramasa\u001a,\u001a \u001aวิชา\u001aดาบ\u001aลับ\u001a \u001a-\u001a \u001aดาบ\u001a \u001aGenji\u001a,\u001a \u001aวายุ\u001aเชือดเฉือน\u001a,\u001a \u001aดาบ\u001aจู่โจม\u001aสาม\u001aเท่า\u001a,\u001a \u001aบุปผา\u001aหิมะ\u001a:\u001a \u001a3000%)\u001a"
+    ],
+    "300001011": [
+        "Boosts LB damage (50%)",
+        "提高極限技的傷害(50%)",
+        "LB 피해량 상승(50%)",
+        "Augmente les dégâts de la limite<br>(50 %)",
+        "Erhöht Schaden durch Limitrausch (50%)",
+        "Aumenta el daño del EL (un 50%)",
+        "Meningkatkan damage LB (50%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(\u001a50%)\u001a"
+    ],
+    "300001012": [
+        "Boosts LB damage (75%)",
+        "提高極限技的傷害(75%)",
+        "LB 피해량 상승(75%)",
+        "Augmente les dégâts de la limite<br>(75 %)",
+        "Erhöht Schaden durch Limitrausch (75%)",
+        "Aumenta el daño del EL (un 75%)",
+        "Meningkatkan damage LB (75%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(\u001a75%)\u001a"
+    ],
+    "300001013": [
+        "Boosts LB damage (100%)",
+        "提高極限技的傷害(100%)",
+        "LB 피해량 상승(100%)",
+        "Augmente les dégâts de la limite<br>(100 %)",
+        "Erhöht Schaden durch Limitrausch (100%)",
+        "Aumenta el daño del EL (un 100%)",
+        "Meningkatkan damage LB (100%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(\u001a100%)\u001a"
+    ],
+    "300001014": [
+        "Boosts LB damage (125%)",
+        "提高極限技的傷害(125%)",
+        "LB 피해량 상승(125%)",
+        "Augmente les dégâts de la limite<br>(125 %)",
+        "Erhöht Schaden durch Limitrausch (125%)",
+        "Aumenta el daño del EL (un 125%)",
+        "Meningkatkan damage LB (125%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(\u001a125%)\u001a"
+    ],
     "301301001": [
         null,
         null,
@@ -28698,6 +29098,46 @@
         "Aumenta la resistencia al rayo (bastante)",
         "Meningkatkan resistansi petir (sedang)",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001aปานกลาง\u001a)\u001a"
+    ],
+    "303201001": [
+        "Boosts DEF (100%)<br>Reduces physical damage taken (30%)",
+        "提高防禦(100%)<br>減少物理傷害(30%)",
+        "방어력 상승(100%)<br>물리 피해량 감소(30%)",
+        "Augmente la DEF (100 %)<br>Réduit les dégâts physiques subis<br>(30%)",
+        "Erhöht ABW (100%)<br>Verringert erlittenen physischen Schaden (30%)",
+        "Aumenta la DEF (un 100%)<br>Reduce el daño físico recibido (un 30%)",
+        "Meningkatkan DEF (100%)<br>Mengurangi damage fisik yang diterima (30%)",
+        "พิ่ม\u001aค่า\u001a \u001aDEF\u001a \u001a(\u001a100%)<br>ลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aที่\u001aได้รับ\u001a<br>(\u001a30%)\u001a"
+    ],
+    "303201002": [
+        "Boosts DEF (150%)<br>Reduces physical damage taken (40%)",
+        "提高防禦(150%)<br>減少物理傷害(40%)",
+        "방어력 상승(150%)<br>물리 피해량 감소(40%)",
+        "Augmente la DEF (150 %)<br>Réduit les dégâts physiques subis<br>(40 %)",
+        "Erhöht ABW (150%)<br>Verringert erlittenen physischen Schaden (40%)",
+        "Aumenta la DEF (un 150%)<br>Reduce el daño físico recibido (un 40%)",
+        "Meningkatkan DEF (150%)<br>Mengurangi damage fisik yang diterima (40%)",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a(\u001a150%)<br>ลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aที่\u001aได้รับ\u001a<br>(\u001a40%)\u001a"
+    ],
+    "303301001": [
+        "Boosts SPR (100%)<br>Reduces magic damage taken (30%)",
+        "提高精神(100%)<br>減少魔法傷害(30%)",
+        "정신력 상승(100%)<br>마법 피해량 감소(30%)",
+        "Augmente la PSY (100 %)<br>Réduit les dégâts magiques subis<br>(30 %)",
+        "Erhöht PSY (100%)<br>Verringert erlittenen magischen Schaden (30%)",
+        "Aumenta el ESP (un 100%)<br>Reduce el daño mágico recibido (un 30%)",
+        "Meningkatkan SPR (100%)<br>Mengurangi damage magic yang diterima (30%)",
+        "พิ่ม\u001aค่า\u001a \u001aSPR\u001a \u001a(\u001a100%)<br>ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001a<br>(\u001a30%)\u001a"
+    ],
+    "303301002": [
+        "Boosts SPR (150%)<br>Reduces magic damage taken (40%)",
+        "提高精神(150%)<br>減少魔法傷害(40%)",
+        "정신력 상승(150%)<br>마법 피해량 감소(40%)",
+        "Augmente la PSY (150 %)<br>Réduit les dégâts magiques subis<br>(40 %)",
+        "Erhöht PSY (150%)<br>Verringert erlittenen magischen Schaden (40%)",
+        "Aumenta el ESP (un 150%)<br>Reduce el daño mágico recibido (un 40%)",
+        "Meningkatkan SPR (150%)<br>Mengurangi damage magic yang diterima (40%)",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001a(\u001a150%)<br>ลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001a<br>(\u001a40%)\u001a"
     ],
     "303701001": [
         null,
