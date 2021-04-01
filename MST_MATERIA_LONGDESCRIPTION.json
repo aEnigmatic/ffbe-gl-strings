@@ -340,14 +340,14 @@
         "ดูด\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504020170": [
-        "Deals damage to one enemy. Damage dealt increases with each use.",
-        "攻擊1名敵人。重複使用可以增加傷害量。",
-        "적 1명에게 피해를 주고, 연속 사용 시 위력이 상승합니다.",
-        "Inflige des dégâts à un ennemi et devient plus puissant à chaque utilisation.",
-        "Fügt einem Gegner Schaden zu und erhöht die Kraft.",
-        "Inflige daño a un enemigo y aumenta el poder con el uso.",
-        "Memberikan damage magic pada satu musuh. Damage akan meningkat apabila digunakan secara beruntun.",
-        "สร้าง\u001aความเสียหาย\u001aทาง\u001aพลัง\u001aเวทย์\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deals partial unmitigated magic damage to one enemy.",
+        "對1名敵人發動無視部分魔法防禦的攻擊。",
+        "적 1명에게 일부 마법 방어 무시 피해를 줍니다.",
+        "Inflige des dégâts magiques en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten magischen Schaden zu.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo.",
+        "Memberikan damage magic yang menembus sebagian SPR pada satu musuh.",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504020180": [
         "Deals dark damage to all enemies, and chance of poisoning them.",
@@ -8449,6 +8449,16 @@
         "Meningkatkan ATK dan MAG sebanyak 40%, serta parameter esper yang dipanggil sebanyak 30%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% + เพิ่มค่าสเตตัสของ Esper\u001a \u001aที่\u001aถูก\u001aซัม\u001aม่อน\u001a \u001a30% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
+    "504239870": [
+        "Boosts ATK and MAG by 40%, and boosts physical damage against humans. Not stackable.",
+        "提高40%攻擊魔力，以及物理攻擊時提高對人系魔物的傷害。[無法重複裝備]",
+        "공격력과 마력이 40% 상승하고, 물리 공격 시 인간형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 40 %, et augmente les dégâts physiques infligés aux humains. (Non cumulable).",
+        "Erhöht ANG sowie MAG um 40% und erhöht physischen Schaden gegen Menschen. Nicht stapelbar.",
+        "Aumenta el ATQ y la MAG un 40% y aumenta el daño fisico contra humanos. No acumulable.",
+        "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik terhadap jenis manusia. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
     "504400110": [
         "Halves chances of any encounters.",
         "遇敵率減半。",
@@ -11658,5 +11668,15 @@
         "Aumenta el ATQ un 70%, aumenta el daño del EL, y probabilidad de evadir algunos ataques físicos. No acumulable.",
         "Meningkatkan ATK sebanyak 70%, meningkatkan damage LB, dan meningkatkan peluang untuk menghindari beberapa serangan fisik. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001a70% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a+\u001a \u001aมีโอกาส\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000145": [
+        "Boosts HP and SPR by 40%, and earth and lightning resistance by 30%. Not stackable.",
+        "提高40%HP精神、30%土雷屬性耐性。[無法重複裝備]",
+        "HP와 정신력이 40%, 땅과 번개속성 저항력이 30% 상승합니다. (중복 장착 불가)",
+        "Augmente les PV et la PSY de 40 %, et augmente la résistance à la terre et à la foudre de 30 %. Non cumulable.",
+        "Erhöht LP sowie PSY um 40% und Erd- sowie Blitzresistenz um 30%. Nicht stapelbar.",
+        "Aumenta la VIT y el ESP un 40%, y la resistencia a tierra y rayo un 30%. No acumulable.",
+        "Meningkatkan HP dan SPR sebanyak 40%, serta resistansi tanah dan petir sebanyak 30%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aSPR\u001a \u001a40% \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aและ\u001aสายฟ้า\u001a \u001a30% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ]
 }
