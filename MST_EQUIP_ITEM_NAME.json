@@ -6149,6 +6149,16 @@
         "Tongkat Ular sang Sage Kembar",
         "คทา\u001aอสรพิษ\u001aแห่ง\u001aนักปราชญ์\u001aคู่\u001a"
     ],
+    "310009700": [
+        "Lazy Rod",
+        "懶惰魔棒",
+        "레이지 로드",
+        "Sceptre de la paresse",
+        "Faulpelz-Rute",
+        "Vara perezosa",
+        "Lazy Rod",
+        "คทา\u001aสันหลังยาว\u001a"
+    ],
     "311000200": [
         "Cherry Staff",
         "櫻花杖",
@@ -6598,6 +6608,16 @@
         "Bastón de la luz (FFV)+",
         "Staff Cahaya (FFV)+",
         "คทา\u001aแห่ง\u001aแสง\u001a \u001a(\u001aFFV\u001a)+\u001a"
+    ],
+    "311006000": [
+        "Freesia's Staff",
+        "香雪蘭之杖",
+        "프리지아의 지팡이",
+        "Bâton de Freesia",
+        "Fresias Stab",
+        "Bastón de Fresia",
+        "Staff Freesia",
+        "ไม้เท้า\u001aของ\u001a \u001aFreesia\u001a"
     ],
     "312000100": [
         "Short Bow",
@@ -7294,7 +7314,7 @@
         "處刑者(FFXV)",
         "이그제큐셔너(FFXV)",
         "Exécuteur (FFXV)",
-        "Scharfrichter",
+        "Scharfrichter (FFXV)",
         "Ketch (FFXV)",
         "Executioner (FFXV)",
         "ปืน\u001a \u001aExecutioner\u001a \u001a(\u001aFFXV\u001a)\u001a"
@@ -9580,14 +9600,14 @@
         "มงกุฎ\u001aเทีย\u001aร่า\u001aแพล็ต\u001aติ\u001aนั่ม\u001a"
     ],
     "403042900": [
-        "Kingsglaive Hood",
-        "王之劍頭罩",
-        "킹스글레이브 후드",
-        "Capuche du Glaive royal",
-        "Königsgleven-Kappe",
-        "Capucha de Glaive real",
-        "Tudung Kingsglaive",
-        "หมวก\u001aคลุม\u001aหัว\u001aหน่วย\u001a \u001aKingsglaive\u001a"
+        "Kingsglaive Hood (KG: FFXV)",
+        "王之劍頭罩(KG: FFXV)",
+        "킹스글레이브 후드(KG: FFXV)",
+        "Capuche du Glaive royal (KG: FFXV)",
+        "Königsgleven-Kappe (KG: FFXV)",
+        "Capucha de Glaive real (KG: FFXV)",
+        "Tudung Kingsglaive (KG: FFXV)",
+        "หมวก\u001aคลุม\u001aหัว\u001aหน่วย\u001a \u001aKingsglaive\u001a \u001a(\u001aKG\u001a:\u001a \u001aFFXV\u001a)\u001a"
     ],
     "403043000": [
         "Sturdy Headband",
@@ -9857,7 +9877,7 @@
         "Rydias Haarband",
         "Diadema de Rydia",
         "Ikat Kepala Rydia",
-        "ผ้า\u001aผูก\u001aหัว\u001aของ\u001a \u001aRydia\u001a"
+        "เครื่องประดับ\u001aผม\u001aของ\u001a \u001aRydia\u001a"
     ],
     "403045700": [
         "Yuraisha's Hairpin",
@@ -11300,14 +11320,14 @@
         "ชุด\u001aคุณ\u001aซาน\u001aต้า\u001a \u001aII\u001a"
     ],
     "405005100": [
-        "Bulletproof Suit",
-        "防彈衣",
-        "대탄 슈트",
-        "Combinaison pare-balles",
-        "Schussfester Anzug",
-        "Blindaje integral",
-        "Pakaian Anti Peluru",
-        "ชุด\u001aกัน\u001aกระสุน\u001a"
+        "Bulletproof Suit (FFXV)",
+        "抗彈戰鬥服(FFXV)",
+        "대탄 슈트(FFXV)",
+        "Combinaison pare-balles (FFXV)",
+        "Schussfester Anzug (FFXV)",
+        "Blindaje integral (FFXV)",
+        "Pakaian Anti Peluru (FFXV)",
+        "ชุด\u001aกัน\u001aกระสุน\u001a \u001a(\u001aKG\u001a:\u001a \u001aFFXV\u001a)\u001a"
     ],
     "405005200": [
         "Calming Garb",
@@ -17419,6 +17439,46 @@
         "Buku Harian Xezat (FFV)",
         "บันทึก\u001aของ\u001a \u001aXezat\u001a \u001a(\u001aFFV\u001a)\u001a"
     ],
+    "409048800": [
+        "Freesia's Poncho",
+        "香雪蘭斗篷",
+        "프리지아의 판초",
+        "Poncho de Freesia",
+        "Fresias Poncho",
+        "Capucha de Fresia",
+        "Poncho Freesia",
+        "ผ้าคลุม\u001aปอน\u001aโช\u001aของ\u001a \u001aFreesia\u001a"
+    ],
+    "409048900": [
+        "Freesia's Poncho+",
+        "真・香雪蘭斗篷",
+        "진·프리지아의 판초",
+        "Poncho de Freesia +",
+        "Fresias Poncho +",
+        "Capucha de Fresia+",
+        "Poncho Freesia+",
+        "ผ้าคลุม\u001aปอน\u001aโช\u001aของ\u001a \u001aFreesia\u001a+\u001a"
+    ],
+    "409049000": [
+        "Freesia's Poncho++",
+        "絕・香雪蘭斗篷",
+        "절·프리지아의 판초",
+        "Poncho de Freesia ++",
+        "Fresias Poncho ++",
+        "Capucha de Fresia++",
+        "Poncho Freesia++",
+        "ผ้าคลุม\u001aปอน\u001aโช\u001aของ\u001a \u001aFreesia\u001a++\u001a"
+    ],
+    "409049400": [
+        "Erinyes Ring",
+        "艾里紐厄斯指環",
+        "에리니스 링",
+        "Anneau de l'Erinyes",
+        "Ring des Erinnyen",
+        "Anillo de las Erinias",
+        "Cincin Erinyes",
+        "วงแหวน\u001a \u001aErinyes\u001a"
+    ],
     "1100000000": [
         "Fine Blade",
         "良質劍",
@@ -17932,7 +17992,7 @@
     "1100000063": [
         "Magical Egg",
         "魔法蛋",
-        "마법의 달걀",
+        "마법 달걀",
         "Œuf magique",
         "Magisches Ei",
         "Huevo mágico",

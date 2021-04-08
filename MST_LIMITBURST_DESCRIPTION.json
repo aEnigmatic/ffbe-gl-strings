@@ -5419,6 +5419,16 @@
         "Memberikan damage api pada semua musuh dan memberikan damage api yang menembus sebagian DEF pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "100018727": [
+        "Deal fire damage to one enemy",
+        "對1名敵人發動火屬性攻擊",
+        "적 1명에게 불속성 피해",
+        "Inflige des dégâts de feu à un ennemi",
+        "Fügt einem Gegner Feuerschaden zu.",
+        "Daño de fuego a un enemigo",
+        "Memberikan damage api pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "100018804": [
         "Chance of instantly KO'ing or damaging all enemies",
         "一定機率對全體敵人施加致死一擊效果或傷害",
@@ -8298,6 +8308,56 @@
         "Aumenta la DEF y el ESP de todos los aliados, reduce el daño que reciben, y reduce el daño físico y mágico que les infligen las aves",
         "Meningkatkan DEF dan SPR, mengurangi damage yang diterima, serta mengurangi damage fisik dan magic yang diterima semua teman dari jenis makhluk bersayap",
         "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aโจมตี\u001aกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a"
+    ],
+    "100033407": [
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100033417": [
+        "Deal water magic damage to one enemy",
+        "對1名敵人發動水屬性魔法攻擊",
+        "적 1명에게 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à un ennemi",
+        "Fügt einem Gegner magischen Wasserschaden zu.",
+        "Daño mágico de agua a un enemigo",
+        "Memberikan damage magic air pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100033505": [
+        "Remove reductions to ATK, DEF, MAG, and SPR and restore HP for all allies, and automatically revive all allies one time",
+        "解除全體隊員降低攻擊防禦魔力精神的效果+恢復HP+賦予自動復活1次的效果",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+HP 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY de tous les alliés, restaure leurs PV, et les ranime automatiquement une fois",
+        "Entfernt ANG-, ABW-, MAG- sowie PSY-Verringerungen, stellt LP aller Verbündeten wieder her und belebt alle Verbündeten automatisch einmal wieder.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados y recuperan VIT, y los revive automáticamente una vez",
+        "Menghilangkan efek pengurangan ATK, DEF, MAG, dan SPR, memulihkan HP, dan menghidupkan kembali semua teman secara otomatis 1 kali",
+        "ยกเลิก\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "100033506": [
+        "Remove reductions to ATK, DEF, MAG, and SPR and restore HP for all allies, and automatically revive all allies one time",
+        "解除全體隊員降低攻擊防禦魔力精神的效果+恢復HP+賦予自動復活1次的效果",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+HP 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY de tous les alliés, restaure leurs PV, et les ranime automatiquement une fois",
+        "Entfernt ANG-, ABW-, MAG- sowie PSY-Verringerungen, stellt LP aller Verbündeten wieder her und belebt alle Verbündeten automatisch einmal wieder.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados y recuperan VIT, y los revive automáticamente una vez",
+        "Menghilangkan efek pengurangan ATK, DEF, MAG, dan SPR, memulihkan HP, dan menghidupkan kembali semua teman secara otomatis 1 kali",
+        "ยกเลิก\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
+    ],
+    "100033507": [
+        "Remove reductions to ATK, DEF, MAG, and SPR and restore HP for all allies, and automatically revive all allies one time",
+        "解除全體隊員降低攻擊防禦魔力精神的效果+恢復HP+賦予自動復活1次的效果",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+HP 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Dissipe les malus d'ATT, de DEF, de MAGIE et de PSY de tous les alliés, restaure leurs PV, et les ranime automatiquement une fois",
+        "Entfernt ANG-, ABW-, MAG- sowie PSY-Verringerungen, stellt LP aller Verbündeten wieder her und belebt alle Verbündeten automatisch einmal wieder.",
+        "Elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados y recuperan VIT, y los revive automáticamente una vez",
+        "Menghilangkan efek pengurangan ATK, DEF, MAG, dan SPR, memulihkan HP, dan menghidupkan kembali semua teman secara otomatis 1 kali",
+        "ยกเลิก\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aคืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
     ],
     "201000104": [
         "Deal light damage to all enemies",

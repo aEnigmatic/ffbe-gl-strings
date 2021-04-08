@@ -253,8 +253,8 @@
         "Deal light damage to all enemies",
         "對全體敵人發動光屬性攻擊",
         "적 전체에 빛속성 피해",
-        "Dégâts de lumière sur tous les ennemis",
-        "Lichtschaden, alle Ziele",
+        "Inflige des dégâts de lumière sur tous les ennemis",
+        "Fügt allen Gegnern Lichtschaden zu.",
         "Daño de luz a todos los enemigos",
         "Memberikan damage cahaya pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
@@ -263,7 +263,7 @@
         "Revive and fully restore one ally",
         "使1名隊員從無法戰鬥狀態中完全復活",
         "아군 1명의 전투불능 상태 모두 회복",
-        "Ressuscite et rend tous les PV d'un allié",
+        "Ranime et restaure tous les PV d'un allié",
         "Belebt einen Verbündeten wieder und regeneriert seine LP vollständig.",
         "Revive a un aliado K.O. y recupera por completo su VIT",
         "Menghidupkan kembali dan memulihkan seluruh HP satu teman",
@@ -570,14 +570,14 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20070": [
-        "Deal dark damage and chance of poisoning one enemy",
-        "對1名敵人發動暗屬性攻擊＋一定機率施加中毒",
-        "적 1명에게 어둠속성 피해+일정 확률로 독 부여",
-        "Dégâts de ténèbres et chance d'empoisonner un ennemi",
-        "Dunkelschaden und Chance, Gift auf ein Ziel zu wirken.",
-        "Daño de oscuridad a un enemigo y probabilidad de infligirle veneno.",
-        "Memberikan damage kegelapan dan peluang untuk memberikan status poison pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aเพิ่ม\u001aโอกาส\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal dark magic damage and gradual magic damage, and chance of poisoning one enemy",
+        "對1名敵人發動暗屬性魔法攻擊+持續發動魔法攻擊+一定機率施加中毒效果",
+        "적 1명에게 어둠속성 마법 피해+서서히 어둠속성 마법 피해+일정 확률로 독 부여",
+        "Inflige des dégâts magiques de ténèbres et des dégâts magiques progressifs à un ennemi, et confère une chance de lui infliger poison",
+        "Fügt einem Gegner magischen Dunkelschaden sowie allmählich magischen Schaden zu und Chance, einem Gegner Gift zu erteilen.",
+        "Daño mágico de oscuridad a un enemigo, le inflige daño mágico poco a poco y probabilidad de infligirle veneno",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta peluang untuk memberikan status poison pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20080": [
         "Deal fire damage to all enemies",
@@ -660,14 +660,14 @@
         "ดูด\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20170": [
-        "Damage one enemy and power up with consecutive use",
-        "攻擊1名敵人＋連續使用時威力提升",
-        "적 1명에게 피해+연속 사용 시 위력 상승",
-        "Dégâts magiques sur un ennemi, et gagne en puissance à chaque utilisation consécutive",
-        "Verursacht steig. Schaden, ein Ziel",
-        "Daña a un enemigo y aumenta el daño con cada uso",
-        "Memberikan damage magic pada satu musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal partial unmitigated magic damage to one enemy",
+        "對1名敵人發動無視部分魔法防禦的攻擊",
+        "적 1명에게 일부 마법 방어 무시 피해",
+        "Inflige des dégâts magiques en partie fixes à un ennemi",
+        "Fügt einem Gegner teilweise direkten magischen Schaden zu.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo",
+        "Memberikan damage magic yang menembus sebagian SPR pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20171": [
         "Damage one enemy and power up with consecutive use",
@@ -680,14 +680,14 @@
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
     ],
     "20180": [
-        "Deal dark damage and chance of poisoning all enemies",
-        "對全體敵人發動暗屬性攻擊＋一定機率施加中毒",
-        "적 전체에 어둠속성 피해+일정 확률로 독 부여",
-        "Dégâts de ténèbres et chance d'empoisonner tous les ennemis",
-        "Dunkelschaden und Chance, Gift auf alle Ziele zu wirken.",
-        "Daño de oscuridad a todos los enemigos y probabilidad de infligirles veneno",
-        "Memberikan damage kegelapan dan peluang untuk memberikan status poison pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
+        "Deal dark magic damage and gradual magic damage, and chance of poisoning all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+持續發動魔法攻擊+一定機率施加中毒效果",
+        "적 전체에 어둠속성 마법 피해+서서히 어둠속성 마법 피해+일정 확률로 독 부여",
+        "Inflige des dégâts magiques de ténèbres et des dégâts magiques progressifs à tous les ennemis, et confère une chance de leur infliger poison",
+        "Fügt allen Gegnern magischen Dunkelschaden sowie allmählich magischen Schaden zu und Chance, allen Gegnern Gift zu erteilen.",
+        "Daño mágico de oscuridad a todos los enemigos, les inflige daño mágico poco a poco y probabilidad de infligirles veneno",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta peluang untuk memberikan status poison pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
     ],
     "20190": [
         "Drain MP from one enemy",
@@ -700,74 +700,74 @@
         "ดูด\u001aค่า\u001a \u001aMP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20200": [
-        "Deal fire damage to all enemies",
-        "對全體敵人發動火屬性攻擊",
-        "적 전체에 불속성 피해",
-        "Dégâts de feu sur tous les ennemis",
-        "Feuerschaden, alle Ziele",
-        "Daño de fuego a todos los enemigos",
-        "Memberikan damage api pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal fire magic damage to all enemies",
+        "對全體敵人發動火屬性魔法攻擊",
+        "적 전체에 불속성 마법 피해",
+        "Inflige des dégâts magiques de feu à tous les ennemis",
+        "Fügt allen Gegnern magischen Feuerschaden zu.",
+        "Daño mágico de fuego a todos los enemigos",
+        "Memberikan damage magic api pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20210": [
-        "Deal ice damage to all enemies",
-        "對全體敵人發動冰屬性攻擊",
-        "적 전체에 얼음속성 피해",
-        "Dégâts de glace sur tous les ennemis",
-        "Eisschaden, alle Ziele.",
-        "Daño de hielo a todos los enemigos",
-        "Memberikan damage es pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal ice magic damage to all enemies",
+        "對全體敵人發動冰屬性魔法攻擊",
+        "적 전체에 얼음속성 마법 피해",
+        "Inflige des dégâts magiques de glace à tous les ennemis",
+        "Fügt allen Gegnern magischen Eisschaden zu.",
+        "Daño mágico de hielo a todos los enemigos",
+        "Memberikan damage magic es pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20220": [
-        "Deal lightning damage to all enemies",
-        "對全體敵人發動雷屬性攻擊",
-        "적 전체에 번개속성 피해",
-        "Dégâts de foudre sur tous les ennemis",
-        "Blitzschaden, alle Ziele",
-        "Daño de rayo a todos los enemigos",
-        "Memberikan damage petir pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal lightning magic damage to all enemies",
+        "對全體敵人發動雷屬性魔法攻擊",
+        "적 전체에 번개속성 마법 피해",
+        "Inflige des dégâts magiques de foudre à tous les ennemis",
+        "Fügt allen Gegnern magischen Blitzschaden zu.",
+        "Daño mágico de rayo a todos los enemigos",
+        "Memberikan damage magic petir pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20230": [
-        "Deal water damage to all enemies",
-        "對全體敵人發動水屬性攻擊",
-        "적 전체에 물속성 피해",
-        "Dégâts d'eau sur tous les ennemis",
-        "Wasserschaden, alle Ziele.",
-        "Daño de agua a todos los enemigos",
-        "Memberikan damage air pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20240": [
-        "Deal wind damage to all enemies",
-        "對全體敵人發動風屬性攻擊",
-        "적 전체에 바람속성 피해",
-        "Dégâts de vent sur tous les ennemis",
-        "Windschaden, alle Ziele",
-        "Daño de viento a todos los enemigos",
-        "Memberikan damage angin pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal wind magic damage to all enemies",
+        "對全體敵人發動風屬性魔法攻擊",
+        "적 전체에 바람속성 마법 피해",
+        "Inflige des dégâts magiques de vent à tous les ennemis",
+        "Fügt allen Gegnern magischen Windschaden zu.",
+        "Daño mágico de viento a todos los enemigos",
+        "Memberikan damage magic angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20250": [
-        "Deal earth damage to all enemies",
-        "對全體敵人發動土屬性攻擊",
-        "적 전체에 땅속성 피해",
-        "Dégâts de terre sur tous les ennemis",
-        "Erdschaden, alle Ziele",
-        "Daño de tierra a todos los enemigos",
-        "Memberikan damage tanah pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal earth magic damage to all enemies",
+        "對全體敵人發動土屬性魔法攻擊",
+        "적 전체에 땅속성 마법 피해",
+        "Inflige des dégâts magiques de terre à tous les ennemis",
+        "Fügt allen Gegnern magischen Erdschaden zu.",
+        "Daño mágico de tierra a todos los enemigos",
+        "Memberikan damage magic tanah pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20260": [
-        "Deal dark damage and chance of poisoning all enemies",
-        "對全體敵人發動暗屬性攻擊＋一定機率施加中毒",
-        "적 전체에 어둠속성 피해+일정 확률로 독 부여",
-        "Dégâts de ténèbres et chance d'empoisonner tous les ennemis",
-        "Dunkelschaden und Chance, Gift auf alle Ziele zu wirken.",
-        "Daño de oscuridad a todos los enemigos y probabilidad de infligirles veneno",
-        "Memberikan damage kegelapan dan peluang untuk memberikan status poison pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
+        "Deal dark magic damage and gradual dark magic damage and chance of poisoning all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+持續發動暗屬性魔法攻擊+一定機率施加中毒效果",
+        "적 전체에 어둠속성 마법 피해+서서히 어둠속성 마법 피해+일정 확률로 독 부여",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis, leur inflige progressivement des dégâts magiques de ténèbres, et confère une chance de leur infliger poison",
+        "Fügt allen Gegnern magischen Dunkelschaden zu, fügt ihnen allmählich magischen Dunkelschaden zu und Chance, ihnen Gift zuzufügen.",
+        "Daño mágico de oscuridad a todos los enemigos, les inflige daño mágico de oscuridad poco a poco y probabilidad de infligirles veneno",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta peluang untuk memberikan status poison pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
     ],
     "20270": [
         "Damage all enemies for 3/4 HP",
@@ -790,64 +790,64 @@
         "มีโอกาส\u001aทำให้\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001aKO\u001a \u001aโดยทันที\u001a"
     ],
     "20290": [
-        "Deal fire damage to all enemies and power up with consecutive use",
-        "對全體敵人發動火屬性攻擊+連續使用時威力提升",
-        "적 전체에 불속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de feu sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern Feuerschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de fuego a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage api pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aเมื่อ\u001aใช้\u001aต่อเนื่อง\u001a"
+        "Deal fire magic damage to all enemies",
+        "對全體敵人發動火屬性魔法攻擊",
+        "적 전체에 불속성 마법 피해",
+        "Inflige des dégâts magiques de feu à tous les ennemis",
+        "Fügt allen Gegnern magischen Feuerschaden zu.",
+        "Daño mágico de fuego a todos los enemigos",
+        "Memberikan damage magic api pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20300": [
-        "Deal ice damage to all enemies and power up with consecutive use",
-        "對全體敵人發動冰屬性攻擊+連續使用時威力提升",
-        "적 전체에 얼음속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de glace sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern Eisschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de hielo a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage es pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aเมื่อ\u001aใช้\u001aต่อเนื่อง\u001a"
+        "Deal ice magic damage to all enemies",
+        "對全體敵人發動冰屬性魔法攻擊",
+        "적 전체에 얼음속성 마법 피해",
+        "Inflige des dégâts magiques de glace à tous les ennemis",
+        "Fügt allen Gegnern magischen Eisschaden zu.",
+        "Daño mágico de hielo a todos los enemigos",
+        "Memberikan damage magic es pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20310": [
-        "Deal lightning damage to all enemies and power up with consecutive use",
-        "對全體敵人發動雷屬性攻擊+連續使用時威力提升",
-        "적 전체에 번개속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de foudre sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern Blitzschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de rayo a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage petir pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aเมื่อ\u001aใช้\u001aต่อเนื่อง\u001a"
+        "Deal lightning magic damage to all enemies",
+        "對全體敵人發動雷屬性魔法攻擊",
+        "적 전체에 번개속성 마법 피해",
+        "Inflige des dégâts magiques de foudre à tous les ennemis",
+        "Fügt allen Gegnern magischen Blitzschaden zu.",
+        "Daño mágico de rayo a todos los enemigos",
+        "Memberikan damage magic petir pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20320": [
-        "Deal water damage to all enemies and power up with consecutive use",
-        "對全體敵人發動水屬性攻擊+連續使用時威力提升",
-        "적 전체에 물속성 피해+연속 사용 시 위력 상승",
-        "Dégâts d'eau sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern Wasserschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de agua a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage air pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aเมื่อ\u001aใช้\u001aต่อเนื่อง\u001a"
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20330": [
-        "Deal wind damage to all enemies and power up with consecutive use",
-        "對全體敵人發動風屬性攻擊+連續使用時威力提升",
-        "적 전체에 바람속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de vent sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern Windschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de viento a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage angin pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aเมื่อ\u001aใช้\u001aต่อเนื่อง\u001a"
+        "Deal wind magic damage to all enemies",
+        "對全體敵人發動風屬性魔法攻擊",
+        "적 전체에 바람속성 마법 피해",
+        "Inflige des dégâts magiques de vent à tous les ennemis",
+        "Fügt allen Gegnern magischen Windschaden zu.",
+        "Daño mágico de viento a todos los enemigos",
+        "Memberikan damage magic angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20340": [
-        "Deal earth damage to all enemies and power up with consecutive use",
-        "對全體敵人發動土屬性攻擊+連續使用時威力提升",
-        "적 전체에 땅속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de terre sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern Erdschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de tierra a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage tanah pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aเมื่อ\u001aใช้\u001aต่อเนื่อง\u001a"
+        "Deal earth magic damage to all enemies",
+        "對全體敵人發動土屬性魔法攻擊",
+        "적 전체에 땅속성 마법 피해",
+        "Inflige des dégâts magiques de terre à tous les ennemis",
+        "Fügt allen Gegnern magischen Erdschaden zu.",
+        "Daño mágico de tierra a todos los enemigos",
+        "Memberikan damage magic tanah pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20350": [
         "Deal fire damage and reduce water resistance for one enemy",
@@ -880,24 +880,24 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20380": [
-        "Deal water damage and reduce lightning resistance for all enemies",
-        "對全體敵人發動水屬性攻擊+降低雷屬性耐性",
-        "적 전체에 물속성 피해+번개속성 저항력 감소",
-        "Dégâts d'eau et réduit la résistance à la foudre de tous les ennemis",
-        "Wasserschaden und reduzierte Blitzresistenz, alle Gegner.",
-        "Daño de agua a todos los enemigos y reduce su resistencia al rayo",
-        "Memberikan damage air dan mengurangi resistansi petir pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal water magic damage and reduce water resistance for all enemies",
+        "對全體敵人發動水屬性魔法攻擊+降低水屬性耐性",
+        "적 전체에 물속성 마법 피해+물속성 저항력 감소",
+        "Inflige des dégâts magiques d'eau à tous les ennemis et réduit leur résistance à l'eau",
+        "Fügt allen Gegnern magischen Wasserschaden zu und verringert ihre Wasserresistenz.",
+        "Daño mágico de agua a todos los enemigos y reduce su resistencia al agua",
+        "Memberikan damage magic air dan mengurangi resistansi air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20390": [
-        "Deal wind damage and reduce wind resistance for all enemies",
-        "對全體敵人發動風屬性攻擊+降低風屬性耐性",
-        "적 전체에 바람속성 피해+바람속성 저항력 감소",
-        "Dégâts de vent et réduit la résistance au vent de tous les ennemis",
-        "Fügt allen Gegnern Windschaden zu und verringert ihre Windresistenz.",
-        "Daño de viento a todos los enemigos y reduce su resistencia al viento",
-        "Memberikan damage angin dan mengurangi resistansi angin pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal wind magic damage and reduce wind resistance for all enemies",
+        "對全體敵人發動風屬性魔法攻擊+降低風屬性耐性",
+        "적 전체에 바람속성 마법 피해+바람속성 저항력 감소",
+        "Inflige des dégâts magiques de vent à tous les ennemis et réduit leur résistance au vent",
+        "Fügt allen Gegnern magischen Windschaden zu und verringert ihre Windresistenz.",
+        "Daño mágico de viento a todos los enemigos y reduce su resistencia al viento",
+        "Memberikan damage magic angin dan mengurangi resistansi angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20400": [
         "Deal earth damage and reduce earth resistance for all enemies",
@@ -970,14 +970,14 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20470": [
-        "Deal dark damage to all enemies",
-        "對全體敵人發動暗屬性攻擊",
-        "적 전체에 어둠속성 피해",
-        "Dégâts de ténèbres sur tous les ennemis",
-        "Dunkelschaden, alle Ziele",
-        "Daño de oscuridad a todos los enemigos",
-        "Memberikan damage kegelapan pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal dark magic damage to all enemies",
+        "對全體敵人發動暗屬性魔法攻擊",
+        "적 전체에 어둠속성 마법 피해",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu.",
+        "Daño mágico de oscuridad a todos los enemigos",
+        "Memberikan damage magic kegelapan pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20480": [
         "Chance of instantly KO'ing enemy and restoring HP",
@@ -1754,7 +1754,7 @@
         "提高全體隊員水屬性耐性的數值",
         "아군 전체의 물속성 저항력 상승",
         "Augmente la résistance à l'eau de tous les alliés",
-        "Wasserres. hoch, alle Verb.",
+        "Erhöht die Wasserresistenz für alle Verbündeten.",
         "Aumenta la resistencia al agua de todos los aliados",
         "Meningkatkan resistansi air pada semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายน้ำ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -1764,7 +1764,7 @@
         "提高全體隊員風屬性耐性的數值",
         "아군 전체의 바람속성 저항력 상승",
         "Augmente la résistance au vent de tous les alliés",
-        "Windres. hoch, alle Verb.",
+        "Erhöht die Windresistenz für alle Verbündeten.",
         "Aumenta la resistencia al viento de todos los aliados",
         "Meningkatkan resistansi angin pada semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -1774,7 +1774,7 @@
         "提高全體隊員土屬性耐性的數值",
         "아군 전체의 땅속성 저항력 상승",
         "Augmente la résistance à la terre de tous les alliés",
-        "Erdres. hoch, alle Verb.",
+        "Erhöht die Erdresistenz für alle Verbündeten.",
         "Aumenta la resistencia a la tierra de todos los aliados",
         "Meningkatkan resistansi tanah pada semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -2310,14 +2310,14 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70020": [
-        "Deal lightning damage to all enemies and power up with consecutive use",
-        "對全體敵人發動雷屬性攻擊+連續使用時威力提升",
-        "적 전체에 번개속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de foudre sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Fügt allen Gegnern  Blitzschaden zu, der bei jeder Benutzung steigt.",
-        "Daño de rayo a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage petir pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal lightning magic damage to all enemies",
+        "對全體敵人發動雷屬性魔法攻擊",
+        "적 전체에 번개속성 마법 피해",
+        "Inflige des dégâts magiques de foudre à tous les ennemis",
+        "Fügt allen Gegnern magischen Blitzschaden zu.",
+        "Daño mágico de rayo a todos los enemigos",
+        "Memberikan damage magic petir pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70030": [
         "Restore HP for all allies",
@@ -2444,60 +2444,60 @@
         "使1名隊員從無法戰鬥狀態中完全復活",
         "아군 1명의 전투불능 상태 모두 회복",
         "Ressuscite et restaure tous les PV d'un allié",
-        "Wiederbelebung und volle LP, ein Verb.",
+        "Belebt einen Verbündeten wieder und regeneriert seine LP vollständig.",
         "Revive a un aliado K.O. y recupera por completo su VIT",
         "Menghidupkan kembali dan memulihkan seluruh HP satu teman",
         "คืนชีพ\u001aและ\u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aจน\u001aเต็ม\u001a"
     ],
     "70160": [
-        "Revive and fully restore one ally",
-        "使1名隊員從無法戰鬥狀態中完全復活",
-        "아군 1명의 전투불능 상태 모두 회복",
-        "Ressuscite et restaure tous les PV d'un allié",
-        "Wiederbelebung und volle LP, ein Verb.",
-        "Revive a un aliado K.O. y recupera por completo su VIT",
-        "Menghidupkan kembali dan memulihkan seluruh HP satu teman",
-        "คืนชีพ\u001aและ\u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aจน\u001aเต็ม\u001a"
+        "Revive and fully restore all allies",
+        "使全體隊員從無法戰鬥狀態中完全復活",
+        "아군 전체의 전투불능 상태 모두 회복",
+        "Ranime tous les alliés et restaure entièrement leurs PV",
+        "Belebt alle Verbündeten wieder und regeneriert sie vollständig.",
+        "Revive y cura por completo a todos los aliados",
+        "Menghidupkan kembali dan memulihkan seluruh HP semua teman",
+        "คืนชีพ\u001aและ\u001aฟื้นฟู\u001aทุก\u001aค่า\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aจน\u001aเต็ม\u001a"
     ],
     "70170": [
-        "Deal wind damage to all enemies",
-        "對全體敵人發動風屬性攻擊",
-        "적 전체에 바람속성 피해",
-        "Dégâts de vent sur tous les ennemis",
-        "Windschaden, alle Ziele",
-        "Daño de viento a todos los enemigos",
-        "Memberikan damage angin pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal wind magic damage to all enemies",
+        "對全體敵人發動風屬性魔法攻擊",
+        "적 전체에 바람속성 마법 피해",
+        "Inflige des dégâts magiques de vent à tous les ennemis",
+        "Fügt allen Gegnern magischen Windschaden zu.",
+        "Daño mágico de viento a todos los enemigos",
+        "Memberikan damage magic angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70180": [
-        "Deal wind damage to all enemies and power up with consecutive use",
-        "對全體敵人發動風屬性攻擊+威力提升",
-        "적 전체에 바람속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de vent sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Windschaden u. Stärkung, alle Ziele",
-        "Daño de viento a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage angin pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal wind magic damage to all enemies",
+        "對全體敵人發動風屬性魔法攻擊",
+        "적 전체에 바람속성 마법 피해",
+        "Inflige des dégâts magiques de vent à tous les ennemis",
+        "Fügt allen Gegnern magischen Windschaden zu.",
+        "Daño mágico de viento a todos los enemigos",
+        "Memberikan damage magic angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70190": [
-        "Deal water damage to all enemies",
-        "對全體敵人發動水屬性攻擊",
-        "적 전체에 물속성 피해",
-        "Dégâts d'eau sur tous les ennemis",
-        "Wasserschaden, alle Ziele",
-        "Daño de agua a todos los enemigos",
-        "Memberikan damage air pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70200": [
-        "Deal water damage to all enemies and power up with consecutive use",
-        "對全體敵人發動水屬性攻擊+威力提升",
-        "적 전체에 물속성 피해+연속 사용 시 위력 상승",
-        "Dégâts d'eau sur tous les ennemis, et gagne en puissance à chaque utilisation consécutive",
-        "Wasserschaden u. Stärkung, alle Ziele",
-        "Daño de agua a todos los enemigos y aumenta el daño con cada uso",
-        "Memberikan damage air pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70210": [
         "Deal partial unmitigated magic damage to all enemies",
@@ -2540,64 +2540,64 @@
         "สะท้อน\u001aพลัง\u001aเวทย์\u001aที่\u001aถู\u001aกร่าย\u001aใส่\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "70250": [
-        "Deal fire damage to all enemies",
-        "對全體敵人發動火屬性攻擊",
-        "적 전체에 불속성 피해",
-        "Dégâts de feu sur tous les ennemis",
-        "Feuerschaden, alle Gegner",
-        "Daño de fuego a todos los enemigos",
-        "Memberikan damage api pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal fire magic damage to all enemies",
+        "對全體敵人發動火屬性魔法攻擊",
+        "적 전체에 불속성 마법 피해",
+        "Inflige des dégâts magiques de feu à tous les ennemis",
+        "Fügt allen Gegnern magischen Feuerschaden zu.",
+        "Daño mágico de fuego a todos los enemigos",
+        "Memberikan damage magic api pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70260": [
-        "Deal fire damage to all enemies and power up with consecutive use",
-        "對全體敵人發動火屬性攻擊+連續使用時威力提升",
-        "적 전체에 불속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de feu sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive",
-        "Feuerschaden für alle Gegner, der bei jedem Angriff zunimmt.",
-        "Daño de fuego a todos los enemigos y aumenta la potencia con el uso",
-        "Memberikan damage api pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal fire magic damage to all enemies",
+        "對全體敵人發動火屬性魔法攻擊",
+        "적 전체에 불속성 마법 피해",
+        "Inflige des dégâts magiques de feu à tous les ennemis",
+        "Fügt allen Gegnern magischen Feuerschaden zu.",
+        "Daño mágico de fuego a todos los enemigos",
+        "Memberikan damage magic api pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70270": [
-        "Deal ice damage to all enemies",
-        "對全體敵人發動冰屬性攻擊",
-        "적 전체에 얼음속성 피해",
-        "Dégâts de glace sur tous les ennemis",
-        "Eisschaden, alle Ziele",
-        "Daño de hielo a todos los enemigos",
-        "Memberikan damage es pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal ice magic damage to all enemies",
+        "對全體敵人發動冰屬性魔法攻擊",
+        "적 전체에 얼음속성 마법 피해",
+        "Inflige des dégâts magiques de glace à tous les ennemis",
+        "Fügt allen Gegnern magischen Eisschaden zu.",
+        "Daño mágico de hielo a todos los enemigos",
+        "Memberikan damage magic es pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70280": [
-        "Deal ice damage to all enemies and power up with consecutive use",
-        "對全體敵人發動冰屬性攻擊+連續使用時威力提升",
-        "적 전체에 얼음속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de glace sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive",
-        "Eisschaden für alle Gegner, der bei jedem Angriff zunimmt.",
-        "Daño de hielo a todos los enemigos y aumenta la potencia con el uso",
-        "Memberikan damage es pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal ice magic damage to all enemies",
+        "對全體敵人發動冰屬性魔法攻擊",
+        "적 전체에 얼음속성 마법 피해",
+        "Inflige des dégâts magiques de glace à tous les ennemis",
+        "Fügt allen Gegnern magischen Eisschaden zu.",
+        "Daño mágico de hielo a todos los enemigos",
+        "Memberikan damage magic es pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70290": [
-        "Deal lightning damage to all enemies",
-        "對全體敵人發動雷屬性攻擊",
-        "적 전체에 번개속성 피해",
-        "Dégâts de foudre sur tous les ennemis",
-        "Blitzschaden, alle Ziele",
-        "Daño de rayo a todos los enemigos",
-        "Memberikan damage petir pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal lightning magic damage to all enemies",
+        "對全體敵人發動雷屬性魔法攻擊",
+        "적 전체에 번개속성 마법 피해",
+        "Inflige des dégâts magiques de foudre à tous les ennemis",
+        "Fügt allen Gegnern magischen Blitzschaden zu.",
+        "Daño mágico de rayo a todos los enemigos",
+        "Memberikan damage magic petir pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70300": [
-        "Deal lightning damage to all enemies and power up with consecutive use",
-        "對全體敵人發動雷屬性攻擊+連續使用時威力提升",
-        "적 전체에 번개속성 피해+연속 사용 시 위력 상승",
-        "Dégâts de foudre sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive",
-        "Blitzschaden für alle Gegner, der bei jedem Angriff zunimmt.",
-        "Daño de rayo a todos los enemigos y aumenta la potencia con el uso",
-        "Memberikan damage petir pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+        "Deal lightning magic damage to all enemies",
+        "對全體敵人發動雷屬性魔法攻擊",
+        "적 전체에 번개속성 마법 피해",
+        "Inflige des dégâts magiques de foudre à tous les ennemis",
+        "Fügt allen Gegnern magischen Blitzschaden zu.",
+        "Daño mágico de rayo a todos los enemigos",
+        "Memberikan damage magic petir pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70310": [
         "Deal partial unmitigated dark damage to all enemies and allies",
@@ -2740,24 +2740,24 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70434": [
-        "Deal water damage and reduce lightning resistance for all enemies",
-        "對全體敵人發動水屬性攻擊+降低雷屬性耐性",
-        "적 전체에 물속성 피해+번개속성 저항력 감소",
-        "Dégâts d'eau et réduit la résistance à la foudre de tous les ennemis",
-        "Wasserschaden und reduzierte Blitzresistenz, alle Gegner.",
-        "Daño de agua a todos los enemigos y reduce su resistencia al rayo",
-        "Memberikan damage air dan mengurangi resistansi petir pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal water magic damage and reduce water resistance for all enemies",
+        "對全體敵人發動水屬性魔法攻擊+降低水屬性耐性",
+        "적 전체에 물속성 마법 피해+물속성 저항력 감소",
+        "Inflige des dégâts magiques d'eau à tous les ennemis et réduit leur résistance à l'eau",
+        "Fügt allen Gegnern magischen Wasserschaden zu und verringert ihre Wasserresistenz.",
+        "Daño mágico de agua a todos los enemigos y reduce su resistencia al agua",
+        "Memberikan damage magic air dan mengurangi resistansi air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70435": [
-        "Deal water damage and reduce lightning resistance for all enemies",
-        "對全體敵人發動水屬性攻擊+降低雷屬性耐性",
-        "적 전체에 물속성 피해+번개속성 저항력 감소",
-        "Dégâts d'eau et réduit la résistance à la foudre de tous les ennemis",
-        "Wasserschaden und reduzierte Blitzresistenz, alle Gegner.",
-        "Daño de agua a todos los enemigos y reduce su resistencia al rayo",
-        "Memberikan damage air dan mengurangi resistansi petir pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal water magic damage and reduce water resistance for all enemies",
+        "對全體敵人發動水屬性魔法攻擊+降低水屬性耐性",
+        "적 전체에 물속성 마법 피해+물속성 저항력 감소",
+        "Inflige des dégâts magiques d'eau à tous les ennemis et réduit leur résistance à l'eau",
+        "Fügt allen Gegnern magischen Wasserschaden zu und verringert ihre Wasserresistenz.",
+        "Daño mágico de agua a todos los enemigos y reduce su resistencia al agua",
+        "Memberikan damage magic air dan mengurangi resistansi air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70436": [
         "Deal Ice damage to one enemy and power up with consecutive use",
@@ -2800,24 +2800,24 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70440": [
-        "Deal wind damage and reduce wind resistance for all enemies",
-        "對全體敵人發動風屬性攻擊+降低風屬性耐性",
-        "적 전체에 바람속성 피해+바람속성 저항력 감소",
-        "Dégâts de vent et réduit la résistance au vent de tous les ennemis",
-        "Windschaden und reduziert Windres., aller Gegner",
-        "Inflige daño de viento a todos los enemigos y reduce la resistencia al viento",
-        "Memberikan damage angin dan mengurangi resistansi angin pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aป้องกัน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal wind magic damage and reduce wind resistance for all enemies",
+        "對全體敵人發動風屬性魔法攻擊+降低風屬性耐性",
+        "적 전체에 바람속성 마법 피해+바람속성 저항력 감소",
+        "Inflige des dégâts magiques de vent à tous les ennemis et réduit leur résistance au vent",
+        "Fügt allen Gegnern magischen Windschaden zu und verringert ihre Windresistenz.",
+        "Daño mágico de viento a todos los enemigos y reduce su resistencia al viento",
+        "Memberikan damage magic angin dan mengurangi resistansi angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70441": [
-        "Deal wind damage and reduce wind resistance for all enemies",
-        "對全體敵人發動風屬性攻擊+降低風屬性耐性",
-        "적 전체에 바람속성 피해+바람속성 저항력 감소",
-        "Dégâts de vent et réduit la résistance au vent de tous les ennemis",
-        "Windschaden und reduziert Windresistencia, aller Gegner",
-        "Inflige daño de viento a todos los enemigos y reduce la resistencia al viento",
-        "Memberikan damage angin dan mengurangi resistansi angin pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aป้องกัน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+        "Deal wind magic damage and reduce wind resistance for all enemies",
+        "對全體敵人發動風屬性魔法攻擊+降低風屬性耐性",
+        "적 전체에 바람속성 마법 피해+바람속성 저항력 감소",
+        "Inflige des dégâts magiques de vent à tous les ennemis et réduit leur résistance au vent",
+        "Fügt allen Gegnern magischen Windschaden zu und verringert ihre Windresistenz.",
+        "Daño mágico de viento a todos los enemigos y reduce su resistencia al viento",
+        "Memberikan damage magic angin dan mengurangi resistansi angin pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70444": [
         "Deal water damage and reduce water resistance for one enemy",
@@ -2859,6 +2859,26 @@
         "Memberikan damage api 2 kali dan mengurangi resistansi api pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a"
     ],
+    "70452": [
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "70453": [
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "70455": [
         "Boost DEF and reduce physical damage taken for all allies",
         "提高全體隊員的防禦+減少物理傷害",
@@ -2898,6 +2918,26 @@
         "Aumenta el ESP de todos los aliados y reduce el daño mágico que reciben",
         "Meningkatkan SPR dan mengurangi damage magic yang diterima semua teman",
         "เพิ่มค่า\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001a"
+    ],
+    "70459": [
+        "Boost MAG and LB damage for all allies",
+        "提高全體隊員的魔力+提高極限技的傷害",
+        "아군 전체의 마력 상승+LB 피해량 상승",
+        "Augmente la MAGIE de tous les alliés et augmente les dégâts de leur limite",
+        "Erhöht MAG sowie Schaden durch Limitrausch aller Verbündeten.",
+        "Aumenta la MAG y el daño del EL de todos los aliados",
+        "Meningkatkan MAG dan meningkatkan damage LB semua teman",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "70460": [
+        "Boost MAG and LB damage for all allies",
+        "提高全體隊員的魔力+提高極限技的傷害",
+        "아군 전체의 마력 상승+LB 피해량 상승",
+        "Augmente la MAGIE de tous les alliés et augmente les dégâts de leur limite",
+        "Erhöht MAG sowie Schaden durch Limitrausch aller Verbündeten.",
+        "Aumenta la MAG y el daño del EL de todos los aliados",
+        "Meningkatkan MAG dan meningkatkan damage LB semua teman",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "91000": [
         "Gradually restore HP for one ally",

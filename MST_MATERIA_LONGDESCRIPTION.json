@@ -250,14 +250,14 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504020070": [
-        "Deals dark damage to one enemy, and chance of poisoning them.",
-        "對1名敵人發動暗屬性攻擊並有一定機率施加中毒的效果。",
-        "적 1명에게 어둠속성 피해를 주고 일정 확률로 독을 부여합니다.",
-        "Inflige des dégâts de ténèbres à un ennemi et chance de l'empoisonner.",
-        "Fügt einem Gegner Dunkelschaden zu und Chance auf Gift.",
-        "Inflige daño oscuro a un enemigo y puede envenenarlo.",
-        "Memberikan damage kegelapan dan menambahkan peluang untuk memberikan status poison pada satu musuh.",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aติด\u001a \u001aPoison\u001a \u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deals dark magic damage and gradual magic damage, and adds chance of poisoning one enemy.",
+        "對1名敵人發動暗屬性魔法攻擊，以及持續發動魔法攻擊，並且一定機率施加中毒效果。",
+        "적 1명에게 어둠속성 마법 피해를 주고, 서서히 어둠속성 마법 피해를 주며, 일정 확률로 독을 부여합니다.",
+        "Inflige des dégâts magiques de ténèbres et des dégâts magiques progressifs à un ennemi, et confère une chance de lui infliger poison",
+        "Fügt einem Gegner magischen Dunkelschaden sowie allmählich magischen Schaden zu und Chance, einem Gegner Gift zu erteilen.",
+        "Daño mágico de oscuridad a un enemigo, le inflige daño mágico poco a poco, y añade probabilidad de infligirle veneno.",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta menambahkan peluang untuk memberikan status poison pada satu musuh.",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504020080": [
         "Deals fire damage to all enemies.",
@@ -350,14 +350,14 @@
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504020180": [
-        "Deals dark damage to all enemies, and chance of poisoning them.",
-        "對全體敵人發動暗屬性攻擊並有一定機率施加中毒的效果。",
-        "적 1명에게 어둠속성 피해를 주고 일정 확률로 독을 부여합니다.",
-        "Inflige des dégâts de ténèbres à tous les ennemis et chance de les empoisonner.",
-        "Fügt allen Gegnern Dunkelschaden zu und Chance auf Gift.",
-        "Inflige daño oscuro a todos los enemigos y puede envenenarlos.",
-        "Memberikan damage kegelapan dan menambahkan peluang untuk memberikan status poison pada semua musuh.",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Deals dark magic damage and gradual magic damage, and adds chance of poisoning all enemies.",
+        "對全體敵人發動暗屬性魔法攻擊，以及持續發動魔法攻擊，並且一定機率施加中毒效果。",
+        "적 전체에 어둠속성 마법 피해를 주고, 서서히 어둠속성 마법 피해를 주며, 일정 확률로 독을 부여합니다.",
+        "Inflige des dégâts magiques de ténèbres et des dégâts magiques progressifs à tous les ennemis, et confère une chance de leur infliger poison",
+        "Fügt allen Gegnern magischen Dunkelschaden sowie allmählich magischen Schaden zu und Chance, allen Gegnern Gift zu erteilen.",
+        "Daño mágico de oscuridad a todos los enemigos, les inflige daño mágico poco a poco, y añade probabilidad de infligirles veneno.",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta menambahkan peluang untuk memberikan status poison pada semua musuh.",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
     ],
     "504020200": [
         "Deals fire damage to all enemies.",
@@ -8449,6 +8449,36 @@
         "Meningkatkan ATK dan MAG sebanyak 40%, serta parameter esper yang dipanggil sebanyak 30%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% + เพิ่มค่าสเตตัสของ Esper\u001a \u001aที่\u001aถูก\u001aซัม\u001aม่อน\u001a \u001a30% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
+    "504239590": [
+        "Boosts MAG by 50% and boosts LB damage. Not stackable.",
+        "提高50%魔力，以及提高極限技的傷害。[無法重複裝備]",
+        "마력이 50% 상승하고, LB 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente la MAGIE de 50 % et augmente les dégâts de la limite. Non cumulable.",
+        "Erhöht MAG um 50% und erhöht Schaden durch Limitrausch. Nicht stapelbar.",
+        "Aumenta la MAG un 50% y el daño del EL. No acumulable.",
+        "Meningkatkan MAG sebanyak 50% dan meningkatkan damage LB. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504239592": [
+        "Boosts equipment SPR when a single staff is equipped in one or both hands. Not stackable.",
+        "雙手只裝備1把手杖時武具精神提升。[無法重複裝備]",
+        "한손 또는 양손에 지팡이 1개 장착 시 장비의 정신력이 상승합니다. (중복 장착 불가)",
+        "Augmente la PSY de l'équipement quand un seul bâton est équipé dans une ou les deux mains. Non cumulable.",
+        "Erhöht Ausrüstung-PSY, wenn ein einzelner Stab in einer oder beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta el ESP del equipo al llevar un solo bastón en una o ambas manos. No acumulable.",
+        "Meningkatkan SPR perlengkapan ketika 1 staff digunakan dengan satu tangan atau kedua tangan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001aเมื่อ\u001aติดตั้ง\u001aไม้เท้า\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aมือ\u001aเดียว\u001aหรือ\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504239597": [
+        "Boosts magic damage against reapers. Not stackable.",
+        "魔法攻擊時提高對死靈系魔物的傷害。[無法重複裝備]",
+        "마법 공격 시 사령형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente les dégâts magiques infligés aux morts-vivants. Non cumulable.",
+        "Erhöht magischen Schaden gegen Untote. Nicht stapelbar.",
+        "Aumenta el daño mágico contra muertos vivientes. No acumulable.",
+        "Meningkatkan damage magic terhadap jenis makhluk halus",
+        "เพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a"
+    ],
     "504239870": [
         "Boosts ATK and MAG by 40%, and boosts physical damage against humans. Not stackable.",
         "提高40%攻擊魔力，以及物理攻擊時提高對人系魔物的傷害。[無法重複裝備]",
@@ -8458,6 +8488,16 @@
         "Aumenta el ATQ y la MAG un 40% y aumenta el daño fisico contra humanos. No acumulable.",
         "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik terhadap jenis manusia. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504239872": [
+        "Boosts ATK and MAG by 40%, and boosts magic damage against reapers. Not stackable.",
+        "提高40%攻擊魔力，以及魔法攻擊時提高對死靈系魔物的傷害。[無法重複裝備]",
+        "공격력과 마력이 40% 상승하고, 마법 공격 시 사령형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 40 %, et augmente les dégâts magiques infligés aux morts-vivants. Non cumulable.",
+        "Erhöht ANG sowie MAG um 40% und erhöht magischen Schaden gegen Untote. Nicht stapelbar.",
+        "Aumenta el ATQ y la MAG un 40% y aumenta el daño mágico contra muertos vivientes. No acumulable.",
+        "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage magic terhadap jenis makhluk halus. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",
