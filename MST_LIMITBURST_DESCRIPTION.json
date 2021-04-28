@@ -14769,6 +14769,16 @@
         "Memberikan damage yang menembus sebagian DEF pada semua musuh dan meningkatkan peluang menjadi target musuh untuk sementara waktu",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aโอกาส\u001aใน\u001aการ\u001aตกเป็น\u001aเป้าหมาย\u001aการ\u001aโจมตี\u001aใน\u001aระยะเวลา\u001aชั่วคราว\u001a"
     ],
+    "215000227": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Inflige des dégâts à un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo",
+        "Memberikan damage pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "215000304": [
         "Deal partial unmitigated damage and reduce ATK, DEF, MAG, and SPR for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低攻擊防禦魔力精神",
@@ -14869,6 +14879,16 @@
         "Memberikan damage magic api yang menembus sebagian SPR dan mengurangi resistansi api pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "215000527": [
+        "Restore HP, boost ATK, DEF, MAG, and SPR, and boost fire, ice, and lightning damage of LB, abilities, and magic for all allies",
+        "恢復全體隊員的HP+提高攻擊防禦魔力精神+提高火冰雷屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 HP 회복+공격력, 방어력, 마력, 정신력 상승+불, 얼음, 번개속성 LB, 어빌리티, 마법 피해량 상승",
+        "Restaure les PV de tous les alliés, augmente leur ATT, leur DEF, leur MAGIE et leur PSY, et augmente les dégâts de feu, de glace et de foudre de leur limite, de leurs aptitudes et de leurs sorts",
+        "Stellt LP aller Verbündeten wieder her, erhöht deren ANG, ABW, MAG sowie PSY und erhöht den Feuer-, Eis- und Blitzschaden aller Verbündeten durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Recupera VIT de todos los aliados, aumenta su ATQ, DEF, MAG y ESP, y aumenta el daño de fuego, hielo y rayo de sus EL, habilidades y magia",
+        "Memulihkan HP, meningkatkan ATK, DEF, MAG, dan SPR, serta meningkatkan damage api, es, dan petir pada LB, ability, dan magic semua teman",
+        "ฟื้นฟู\u001a \u001aHP\u001a,\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
     "215000605": [
         "Deal partial unmitigated damage to one enemy",
         "對1名敵人發動無視部分防禦的攻擊",
@@ -14923,11 +14943,21 @@
         "Damage and inflict random status ailments on all enemies",
         "攻擊全體敵人+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果",
         "적 전체에 피해+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여",
-        "Dégâts et inflige une altération d'état au hasard à tous les ennemis",
+        "Inflige des dégâts et inflige des altérations d'état au hasard à tous les ennemis",
         "Fügt allen Gegnern Schaden zu und fügt ihnen eine zuf. Statusveränderung zu.",
         "Daña e inflige un estado alterado aleatorio a todos los enemigos",
         "Memberikan damage dan status abnormal secara acak pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aและ\u001aสุ่ม\u001aติด\u001aสถานะ\u001aผิดปกติ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "215000727": [
+        "Damage and reduce ATK, DEF, MAG, SPR, and lightning resistance for all enemies",
+        "攻擊全體敵人+降低攻擊防禦魔力精神、雷屬性耐性",
+        "적 전체에 피해+공격력, 방어력, 마력, 정신력과 번개속성 저항력 감소",
+        "Inflige des dégâts à tous les ennemis, réduit leur ATT, leur DEF, leur MAGIE et leur PSY, et réduit leur résistance à la foudre",
+        "Fügt allen Gegnern Schaden zu und verringert deren ANG, ABW, MAG, PSY und Blitzresistenz.",
+        "Daña a todos los enemigos y reduce su ATQ, DEF, MAG, ESP y resistencia al rayo",
+        "Memberikan damage dan mengurangi ATK, DEF, MAG, SPR, dan resistansi petir pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "215000805": [
         "Deal partial unmitigated damage and reduce fire and dark resistance for all enemies",
@@ -15218,6 +15248,26 @@
         "Rellena la barra de EL de todos los aliados excepto el usuario y aumenta el daño de sus EL",
         "Mengisi bar LB dan meningkatkan damage LB semua teman kecuali diri sendiri",
         "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aยกเว้น\u001aตัวเอง\u001a"
+    ],
+    "215002407": [
+        "Deal light magic damage and reduce light resistance for all enemies, and boost light damage of LB, abilities, and magic for all allies",
+        "對全體敵人發動光屬性魔法攻擊+降低光屬性耐性+提高全體隊員光屬性「極限技、能力、魔法」的傷害",
+        "적 전체에 빛속성 마법 피해+빛속성 저항력 감소+아군 전체의 빛속성 LB, 어빌리티, 마법 피해량 상승",
+        "Inflige des dégâts magiques de lumière à tous les ennemis, réduit leur résistance à la lumière, et augmente les dégâts de lumière de la limite, des aptitudes et des sorts de tous les alliés",
+        "Fügt magischen Lichtschaden zu, verringert Lichtresistenz aller Gegner und erhöht Blitzschaden durch Limitrausch, Fertigkeiten und Magie aller Verbündeten.",
+        "Daño mágico de luz a todos los enemigos y reduce su resistencia a la luz, y aumenta el daño de luz de los EL, habilidades y magia de todos los aliados",
+        "Memberikan damage magic cahaya dan mengurangi resistansi cahaya pada semua musuh, serta meningkatkan damage cahaya pada LB, ability, dan magic semua teman",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aแสง\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "215002417": [
+        "Deal water evocation damage to one enemy and activate area effect",
+        "對1名敵人發動水屬性召喚魔法+施展區域效果",
+        "적 1명에게 물속성 소환마법 피해+범위 효과 발동",
+        "Inflige des dégâts d'appel d'eau à un ennemi et active un effet de zone",
+        "Fügt einem Gegner Wasser-Rufen-Schaden zu und aktiviert einen Gebietseffekt.",
+        "Daño de evocación de agua a un enemigo y activa un efecto de zona",
+        "Memberikan damage summon air pada satu musuh dan mengaktifkan efek area",
+        "สร้าง\u001aความเสียหาย\u001a \u001aSummon\u001a \u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
     ],
     "215002605": [
         "Deal ice damage to all enemies and enable quadruple frozen for three turns",
@@ -22854,7 +22904,7 @@
         "對1名敵人發動火屬性無視部分魔法防禦的攻擊+降低火冰雷屬性耐性+1回合內可使用「屬性附加・火」「屬性附加・冰」「屬性附加・雷」",
         "적 1명에게 불속성 일부 마법 방어 무시 피해+불, 얼음, 번개속성 저항력 감소+1턴 동안 '인핸스·불', '인핸스·얼음', 인핸스·번개' 사용 가능",
         "Dégâts magiques de feu en partie fixes et réduit la résistance au feu, à la glace et à la foudre d'un ennemi. Permet d'utiliser Enchantement - Feu, Enchantement - Glace et Enchantement - Foudre pendant 1 tour",
-        "Fügt einem Gegner teilweise direkten mag. Feuerschaden zu und verringert seine Feuer-, Eis- und Blitzresistenz + ermöglicht",
+        "Fügt einem Gegner teilweise direkten magischen Feuerschaden zu und verringert seine Feuer-, Eis- und Blitzresistenz und ermöglicht Elementaraura - Feuer, Elementaraura - Eis und Elementaraura - Blitz für eine Runde.",
         "Daño mágico de fuego que ignora parcialmente la DEF de un enemigo, reduce su resistencia al fuego, hielo y rayo, y aprende Perfeccionamiento - Fuego, Perfeccionamiento - Hielo y Perfeccionamiento - Rayo durante un turno",
         "Memberikan damage magic api yang menembus sebagian SPR dan mengurangi resistansi api, es, dan petir pada satu musuh, serta memungkinkan penggunaan Penguatan - Api, Penguatan - Es, dan Penguatan - Petir selama 1 giliran",
         "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aเสริม\u001aพลัง\u001a \u001a-\u001a \u001aธาตุ\u001aไฟ\u001a,\u001a \u001aเสริม\u001aพลัง\u001a \u001a-\u001a \u001aธาตุ\u001aน้ำแข็ง\u001a \u001aและ\u001a \u001aเสริม\u001aพลัง\u001a \u001a-\u001a \u001aธาตุ\u001aฟ้า\u001a \u001aได้\u001a \u001a1\u001a \u001aเทิร์น\u001a"
@@ -22893,7 +22943,7 @@
         "Damage and inflict random status ailments on all enemies, and enable crackshot for one turn",
         "攻擊全體敵人+隨機施加中毒失明睡眠沉默麻痺混亂生病石化效果+1回合內可使用「粉碎強擊」",
         "적 전체에 피해+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여+1턴 동안 '브레이크 블로우' 사용 가능",
-        "Dégâts, inflige une altération d'état au hasard à tous les ennemis et permet d'utiliser Tir vicieux pendant un tour",
+        "Inflige des dégâts, inflige des altérations d'état au hasard à tous les ennemis et permet d'utiliser Tir vicieux pendant un tour",
         "Fügt allen Gegnern Schaden zu und fügt ihnen eine zuf. Statusveränderung zu + ermöglicht eine Runde lang Triumphschuss.",
         "Daña e inflige un estado alterado aleatorio a todos los enemigos y aprende Subyugación durante un turno",
         "Memberikan damage dan status abnormal secara acak pada semua musuh, serta memungkinkan penggunaan Crackshot selama 1 giliran",

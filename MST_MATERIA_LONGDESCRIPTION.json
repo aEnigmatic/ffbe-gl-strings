@@ -3920,14 +3920,14 @@
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aดาบ\u001a \u001a+\u001a \u001aMAG\u001a \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aเสื้อคลุม\u001a"
     ],
     "504221550": [
-        "Boosts HP by 30%, and increase own fill rate of burst stones at the beginning of battle or after being revived.",
+        "Boosts HP by 30%, and increase own LB gauge fill rate at the beginning of battle or after being revived.",
         "提高30%HP，戰鬥開始時和從無法戰鬥狀態中復活時，提高極限技石對自身極限技槽的增加量。",
         "HP가 30% 상승하고, 전투 시작 시 및 전투불능 상태에서 회복했을 때 자신의 LB 게이지 효율이 상승합니다.",
-        "Augmente les PV de 30% et le taux de remplissage des pierres de limite pour le lanceur au début du combat ou après avoir été ressuscité",
-        "Erhöht LP um 30% und verstärkt eigenen Effekt von Limitsteinen zu Beginn eines Kampfes oder nach Wiederbelebung.",
-        "Aumenta la VIT un 30% y las piedras de estallido recuperan más EL al principio del combate o tras ser revivido.",
+        "Augmente les PV de 30 % et le taux de remplissage de la jauge de limite du lanceur au début du combat ou après avoir été ranimé",
+        "Erhöht LP um 30% und eigenes Limitmeter füllt schneller zu Beginn eines Kampfes oder nach Wiederbelebung.",
+        "Aumenta la VIT un 30% y la barra de EL propia se rellena más rápido al principio del combate o tras ser revivido.",
         "Meningkatkan HP sebanyak 30% dan meningkatkan kecepatan pengisian bar limit burst diri sendiri di awal battle atau setelah dihidupkan kembali.",
-        "เพิ่มค่า\u001a \u001aHP\u001a \u001a30% + เพิ่มค่า Fill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001aใน\u001aช่วง\u001aเริ่มต้น\u001aการต่อสู้\u001aหรือ\u001aหลังจาก\u001aคืนชีพ\u001a"
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a30% + เพิ่มค่า Fill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001aให้\u001aตัวเอง\u001a \u001aเมื่อ\u001aเริ่มต้น\u001aการต่อสู้\u001aหรือ\u001aหลัง\u001aคืนชีพ\u001a"
     ],
     "504221560": [
         "Boosts HP and DEF when equipped with heavy armor. Not stackable.",
@@ -5143,7 +5143,7 @@
         "Boosts HP and earth resistance by 30%, DEF and SPR by 20%, and boosts the limit burst gauge fill rate. Not stackable.",
         "提高30%HP、土屬性耐性，並提高20%防禦精神，提高極限技石對極限技槽的增加量。[無法重複裝備]",
         "HP와 땅속성 저항력이 30%, 방어력과 정신력이 20% 상승하고, LB 게이지 효율이 상승합니다. (중복 장착 불가)",
-        "Augmente les PV et la résistance à la terre de 30 %, la DEF et la PSY de 20 %, et augmente la vitesse de remplissage de la jauge de limite. Non cumulable.",
+        "Augmente les PV et la résistance à la terre de 30 %, la DEF et la PSY de 20 %, et augmente le taux de remplissage de la jauge de limite. Non cumulable.",
         "Erhöht LP und Erdresistenz um 30%, ABW und PSY um 20% + Limitmeter füllen sich schneller. (Nicht stapelbar).",
         "Aumenta la VIT y la resistencia a la tierra un 30%, aumenta la DEF y el ESP un 20% y la barra de EL se rellena más rápido (no acumulable).",
         "Meningkatkan HP dan resistansi tanah sebanyak 30%, dan DEF dan SPR sebanyak 20%, serta meningkatkan kecepatan pengisian bar limit burst. Tidak dapat ditumpuk.",
@@ -8519,6 +8519,26 @@
         "Meningkatkan damage fisik dan magic terhadap jenis mesin sebanyak 100%, serta memulihkan MP setiap giliran sebanyak 5%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a100% \u001a+\u001a \u001aฟื้นฟู\u001a \u001aMP\u001a \u001a5% \u001aทุก\u001aเทิร์น\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
+    "504240210": [
+        "Boosts MAG by 40% and parameters when setting an esper by 50%. Not stackable.",
+        "提高40%魔力，以及提高50%設定幻獸時反映在兵員身上的狀態數值。[無法重複裝備]",
+        "마력이 40% 상승하고, 환수 장착 시 반영되는 능력치가 50% 상승합니다. (중복 장착 불가)",
+        "Augmente la MAGIE de 40 %, et augmente les caractéristiques de 50 % quand une chimère est attribuée. Non cumulable.",
+        "Erhöht MAG um 40% und Werte beim Festlegen eines Espers um 50%. Nicht stapelbar.",
+        "Aumenta la MAG un 40%, y aumenta los parámetros un 50% al vincular un esper. No acumulable.",
+        "Meningkatkan MAG sebanyak 40% dan parameter sebanyak 50% ketika esper dipasang. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a40% + เพิ่มค่าสเตตัสที่ถูกเพิ่มเมื่อติดตั้ง Esper\u001a \u001a50% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504240217": [
+        "Boosts evocation damage and parameters when setting an esper by 20%. Not stackable.",
+        "提高20%召喚魔法的威力，以及提高20%設定幻獸時反映在兵員身上的狀態數值。[無法重複裝備]",
+        "소환마법 사용 시 피해량이 20% 상승하고, 환수 장착 시 반영되는 능력치가 20% 상승합니다. (중복 장착 불가)",
+        "Augmente les dégâts d'appel et les caractéristiques de 20 % quand une chimère est attribuée. Non cumulable.",
+        "Erhöht Rufen-Schaden und Werte beim Festlegen eines Espers um 20%. Nicht stapelbar.",
+        "Aumenta el daño de evocación, y aumenta los parámetros un 20% al vincular un esper.",
+        "Meningkatkan damage summon dan parameter sebanyak 20% ketika esper dipasang. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aสเตตัส\u001aที่\u001aถูก\u001aเพิ่ม\u001aเมื่อ\u001aติดตั้ง\u001a \u001aEsper\u001a \u001a20% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
     "504400110": [
         "Halves chances of any encounters.",
         "遇敵率減半。",
@@ -10375,7 +10395,7 @@
         "공격력과 방어력이 20% 상승하고, 전투 중 항상 리제네가 발동합니다. (잭 전용)",
         "Augmente l'ATT et la DEF de 20% et auto-récup pendant le combat. (Uniquement pour Jack)",
         "Erhöht ANG und ABW um 20 % und Auto-Regena im Kampf. (Nur Jack)",
-        "Aumenta ATQ/DEF un 20% y otorga Auto-Revitalia en combate (exclusiva de Jack)",
+        "Aumenta ATQ/DEF un 20% y otorga AutoRevitalia en combate (exclusiva de Jack)",
         "Meningkatkan ATK dan DEF sebanyak 20%, serta memulihkan HP setiap giliran. Khusus Jack.",
         "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a \u001a20% และฟื้นฟูค่า HP ในระหว่างต่อสู้ (สำหรับ Jack\u001a \u001aใช้\u001aเท่านั้น\u001a)\u001a"
     ],
