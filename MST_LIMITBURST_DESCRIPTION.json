@@ -19749,6 +19749,16 @@
         "Memberikan damage api dan mengurangi resistansi api pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "338000327": [
+        "Deal fire magic damage to one enemy",
+        "對1名敵人發動火屬性魔法攻擊",
+        "적 1명에게 불속성 마법 피해",
+        "Inflige des dégâts magiques de feu à un ennemi",
+        "Fügt einem Gegner magischen Feuerschaden zu.",
+        "Daño mágico de fuego a un enemigo",
+        "Memberikan damage magic api pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "338000404": [
         "Deal partial unmitigated damage and reduce DEF for one enemy",
         "對1名敵人發動無視部分防禦的攻擊+降低防禦",
@@ -19808,6 +19818,86 @@
         "Daña a un enemigo y reduce su resistencia a viento y tierra",
         "Memberikan damage dan mengurangi resistansi angin dan tanah pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aและ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "338000607": [
+        "(Tag-Team Attack) Damage all enemies, and reduce damage taken and boost earth resistance for all allies",
+        "【TAG聯合攻擊】攻擊全體敵人+減少對全體隊員的傷害+提高土屬性耐性",
+        "[태그 어택] 적 전체에 피해+아군 전체가 받는 피해량 감소+땅속성 저항력 상승",
+        "(Attaque combo duo) Inflige des dégâts à tous les ennemis, réduit les dégâts subis par tous les alliés et augmente leur résistance à la terre",
+        "(Kombo-Angriff) Fügt allen Gegnern Schaden zu und verringert erlittenen Schaden und erhöht Erdresistenz aller Verbündeten.",
+        "(Ataque a dúo) Daña a todos los enemigos, reduce el daño que reciben todos los aliados y aumenta su resistencia a la tierra",
+        "(Serangan Tag-Team) Memberikan damage pada semua musuh, serta mengurangi damage yang diterima dan meningkatkan resistansi tanah pada semua teman",
+        "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "338000617": [
+        "Damage one enemy",
+        "攻擊1名敵人",
+        "적 1명에게 피해",
+        "Inflige des dégâts à un ennemi",
+        "Fügt einem Gegner Schaden zu.",
+        "Daña a un enemigo",
+        "Memberikan damage pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "338000805": [
+        "Damage all enemies, and boost ATK, DEF, MAG, and SPR and restore HP and MP for caster",
+        "攻擊全體敵人+提高自身的攻擊防禦魔力精神+恢復HPMP",
+        "적 전체에 피해+자신의 공격력, 방어력, 마력, 정신력 상승+HP와 MP 회복",
+        "Inflige des dégâts à tous les ennemis, augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur, et restaure ses PV et ses PM",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG, ABW, MAG sowie PSY und regeneriert LP sowie MP des Benutzers.",
+        "Daña a todos los enemigos, aumenta ATQ, DEF, MAG y ESP del usuario y le recupera VIT y PM",
+        "Memberikan damage pada semua musuh, serta meningkatkan ATK, DEF, MAG, SPR, dan memulihkan HP dan MP diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aของ\u001aผู้ใช้\u001a"
+    ],
+    "338000806": [
+        "Damage all enemies, and boost ATK, DEF, MAG, and SPR and restore HP and MP for caster",
+        "攻擊全體敵人+提高自身的攻擊防禦魔力精神+恢復HPMP",
+        "적 전체에 피해+자신의 공격력, 방어력, 마력, 정신력 상승+HP와 MP 회복",
+        "Inflige des dégâts à tous les ennemis, augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur, et restaure ses PV et ses PM",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG, ABW, MAG sowie PSY und regeneriert LP sowie MP des Benutzers.",
+        "Daña a todos los enemigos, aumenta ATQ, DEF, MAG y ESP del usuario y le recupera VIT y PM",
+        "Memberikan damage pada semua musuh, serta meningkatkan ATK, DEF, MAG, SPR, dan memulihkan HP dan MP diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aของ\u001aผู้ใช้\u001a"
+    ],
+    "338000807": [
+        "Damage all enemies, and boost ATK, DEF, MAG, and SPR and restore HP and MP for caster",
+        "攻擊全體敵人+提高自身的攻擊防禦魔力精神+恢復HPMP",
+        "적 전체에 피해+자신의 공격력, 방어력, 마력, 정신력 상승+HP와 MP 회복",
+        "Inflige des dégâts à tous les ennemis, augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur, et restaure ses PV et ses PM",
+        "Fügt allen Gegnern Schaden zu und erhöht ANG, ABW, MAG sowie PSY und regeneriert LP sowie MP des Benutzers.",
+        "Daña a todos los enemigos, aumenta ATQ, DEF, MAG y ESP del usuario y le recupera VIT y PM",
+        "Memberikan damage pada semua musuh, serta meningkatkan ATK, DEF, MAG, SPR, dan memulihkan HP dan MP diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001aของ\u001aผู้ใช้\u001a"
+    ],
+    "338000905": [
+        "Boost DEF and reduce damage taken by caster",
+        "提高自身的防禦+減少傷害",
+        "자신의 방어력 상승+피해량 감소",
+        "Augmente la DEF du lanceur et réduit les dégâts qu'il subit",
+        "Erhöht ABW und verringert erlittenen Schaden des Benutzers.",
+        "Aumenta la DEF del usuario y reduce el daño que recibe",
+        "Meningkatkan DEF dan mengurangi damage yang diterima diri sendiri",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001aของ\u001aผู้ใช้\u001a"
+    ],
+    "338000906": [
+        "Boost DEF and reduce damage taken by caster",
+        "提高自身的防禦+減少傷害",
+        "자신의 방어력 상승+피해량 감소",
+        "Augmente la DEF du lanceur et réduit les dégâts qu'il subit",
+        "Erhöht ABW und verringert erlittenen Schaden des Benutzers.",
+        "Aumenta la DEF del usuario y reduce el daño que recibe",
+        "Meningkatkan DEF dan mengurangi damage yang diterima diri sendiri",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001aของ\u001aผู้ใช้\u001a"
+    ],
+    "338000907": [
+        "Boost DEF and reduce damage taken by caster",
+        "提高自身的防禦+減少傷害",
+        "자신의 방어력 상승+피해량 감소",
+        "Augmente la DEF du lanceur et réduit les dégâts qu'il subit",
+        "Erhöht ABW und verringert erlittenen Schaden des Benutzers.",
+        "Aumenta la DEF del usuario y reduce el daño que recibe",
+        "Meningkatkan DEF dan mengurangi damage yang diterima diri sendiri",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001aของ\u001aผู้ใช้\u001a"
     ],
     "339000105": [
         "Deal ice damage and reduce ice resistance for all enemies",
@@ -22640,14 +22730,24 @@
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aให้\u001aกับ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aเลี่ยง\u001aความเสียหาย\u001aกายภาพ\u001aบางส่วน\u001aที่\u001aตัวเอง\u001aได้\u001aรับได้\u001a \u001a3\u001a \u001aครั้ง\u001a"
     ],
     "401009107": [
-        "Boost own ATK, deal partial unmitigated damage to all enemies, caster can evade some physical attacks four times, and enable supersonic assault for two turns",
-        "提高自身的攻擊+對全體敵人發動無視部分防禦的攻擊+賦予自身可閃避4次部分物理攻擊的效果+2回合內可使用「超音速突擊」",
-        "자신의 공격력 상승+적 전체에 일부 방어 무시 피해+자신에게 일부 물리 공격 4회 회피 효과 부여+2턴 동안 '초음속 강습' 사용 가능",
-        "Augmente l'ATT du lanceur, inflige des dégâts en partie fixes à tous les ennemis, permet au lanceur d'échapper à certaines attaques physiques à quatre reprises, et permet d'utiliser Assaut supersonique pendant 2 tours",
-        "Erhöht eigenen ANG, fügt allen Gegnern teilweise direkten Schaden zu, Benutzer kann einigen physischen Angriffen viermal ausweichen, und ermöglicht Benutzer zwei Runden lang Überschallüberfall.",
-        "Aumenta el ATQ propio, inflige daño que ignora parcialmente la DEF de todos los enemigos, y el usuario puede evadir algunos ataques físicos 2 veces",
-        "Meningkatkan ATK diri sendiri, memberikan damage yang menembus sebagian DEF pada semua musuh, memungkinkan diri sendiri untuk menghindari beberapa serangan fisik 4 kali, dan memungkinkan penggunaan Serangan Supersonik selama 2 giliran",
-        "เพิ่มค่า\u001a \u001aATK\u001a \u001aให้\u001aกับ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aเลี่ยง\u001aความเสียหาย\u001aกายภาพ\u001aบางส่วน\u001aที่\u001aตัวเอง\u001aได้\u001aรับได้\u001a \u001a4\u001a \u001aครั้ง\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aจู่โจม\u001aเร็ว\u001aเหนือ\u001aเสียง\u001a \u001aได้\u001a \u001a2\u001a \u001aเทิร์น\u001a"
+        "Boost own ATK, deal partial unmitigated damage to all enemies, and caster can evade some physical attacks four times",
+        "提高自身的攻擊+對全體敵人發動無視部分防禦的攻擊+賦予自身可閃避4次部分物理攻擊的效果",
+        "자신의 공격력 상승+적 전체에 일부 방어 무시 피해+자신에게 일부 물리 공격 4회 회피 효과 부여",
+        "Augmente l'ATT du lanceur, inflige des dégâts en partie fixes à tous les ennemis, et permet au lanceur d'esquiver certaines attaques physiques à 4 reprises",
+        "Erhöht ANG des Benutzers, fügt allen Gegnern teilweise direkten Schaden zu und Benutzer kann einigen physischen Angriffen viermal ausweichen.",
+        "Aumenta el ATQ propio, inflige daño que ignora parcialmente la DEF de todos los enemigos, y el usuario puede evadir algunos ataques físicos 4 veces",
+        "Meningkatkan ATK diri sendiri, memberikan damage yang menembus sebagian DEF pada semua musuh, dan memungkinkan diri sendiri untuk menghindari beberapa serangan fisik 4 kali",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aได้\u001a \u001a4\u001a \u001aครั้ง\u001a"
+    ],
+    "401009127": [
+        "Boost accuracy of some physical attacks for caster and deal partial unmitigated damage to one enemy",
+        "提高自身部分物理攻擊的命中率+對1名敵人發動無視部分防禦的攻擊",
+        "자신의 일부 물리 공격 명중률 상승+적 1명에게 일부 방어 무시 피해",
+        "Augmente la précision de certaines attaques physiques du lanceur, et inflige des dégâts en partie fixes à un ennemi",
+        "Erhöht Genauigkeit einiger physischer Angriffe des Benutzers und fügt einem Gegner teilweise direkten Schaden zu.",
+        "Aumenta la precisión de algunos ataques físicos del usuario e inflige daño que ignora parcialmente la DEF de un enemigo",
+        "Meningkatkan akurasi beberapa serangan fisik diri sendiri dan memberikan damage yang menembus sebagian DEF pada satu musuh",
+        "เพิ่ม\u001aความแม่นยำ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "401009805": [
         "Damage all enemies, and boost damage of certain abilities and enable triple Hisame arts for one turn for caster",
