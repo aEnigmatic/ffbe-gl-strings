@@ -4580,7 +4580,7 @@
         "เพิ่มค่า\u001a \u001aMP\u001a \u001a10% \u001aและ\u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a15%"
     ],
     "504227209": [
-        "Boosts MAG when equipped with a rod and restore MP every turn. Not stackable.",
+        "Boosts MAG when equipped with a rod, and restores MP every turn. Not stackable.",
         "裝備魔棒時，提高魔力，並提高每回合恢復MP。[無法重複裝備]",
         "홀장 장착 시 마력이 상승하고, 매 턴마다 MP를 회복합니다. (중복 장착 불가)",
         "Augmente la MAGIE lorsqu'un sceptre est équipé et restaure des PM à chaque tour. Non cumulable.",
@@ -4653,7 +4653,7 @@
         "Boosts ATK by 50% when equipped with a large sword, and boosts equipment ATK when only weapons are equipped in one or both hands. Not Stackable.",
         "裝備大劍時，提高攻擊，雙手只裝備一把或兩把武器時武具攻擊提升。[無法重複裝備]",
         "대검 장착 시 공격력이 50% 상승하고, 한손 또는 양손의 장비가 무기뿐일 경우 장비의 공격력이 상승합니다. (중복 장착 불가)",
-        "Augmente l'ATT de 50% lorsqu'une épée longue est équipée et augmente l'ATT de l'équipement lorsque seules des armes sont équipée dans une main ou dans les deux. Non cumulable.",
+        "Augmente l'ATT de 50% lorsqu'une épée longue est équipée et augmente l'ATT de l'équipement lorsque seules des armes sont équipées dans une main ou dans les deux. Non cumulable.",
         "Erhöht ANG um 50% wenn mit Großschwert ausgerüstet und erhöht Ausrüstung-ANG, wenn nur Waffen in einer oder beiden Händen ausgerüstet sind (Nicht stapelbar).",
         "Aumenta el ATQ un 50% al llevar espada grande, y aumenta el ATQ del equipo al llevar armas en una o las dos manos (no acumulable).",
         "Meningkatkan ATK sebanyak 50% ketika pedang besar digunakan dan meningkatkan ATK perlengkapan ketika 1 senjata digunakan dengan kedua tangan atau 2 senjata satu tangan digunakan. Tidak dapat ditumpuk.",
@@ -8588,6 +8588,36 @@
         "Aumenta el daño de evocación, y aumenta los parámetros un 20% al vincular un esper.",
         "Meningkatkan damage summon dan parameter sebanyak 20% ketika esper dipasang. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aสเตตัส\u001aที่\u001aถูก\u001aเพิ่ม\u001aเมื่อ\u001aติดตั้ง\u001a \u001aEsper\u001a \u001a20% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504240400": [
+        "Boosts physical and magic damage against fairies by 75%. Not stackable.",
+        "物理、魔法攻擊時提高75%對精靈系魔物的傷害。[無法重複裝備]",
+        "물리, 마법 공격 시 정령형 마물에게 부여하는 피해량이 75% 상승합니다. (중복 장착 불가)",
+        "Augmente les dégâts magiques et physiques infligés aux esprits de 75 %. Non cumulable.",
+        "Erhöht physischen und magischen Schaden gegen Feen um 75%. Nicht stapelbar.",
+        "Aumenta el daño físico y mágico contra espíritus un 75% (no acumulable)",
+        "Meningkatkan damage fisik dan magic terhadap jenis peri sebanyak 75%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504240401": [
+        "Boosts ATK and MAG by 40% and physical damage against avian monsters by 75%. Not stackable.",
+        "提高40%攻擊魔力，以及物理攻擊時提高75%對鳥系魔物的傷害。[無法重複裝備]",
+        "공격력과 마력이 40% 상승하고, 물리 공격 시 조류형 마물에게 부여하는 피해량이 75% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 40 %, et augmente les dégâts physiques infligés aux oiseaux de 75 %. Non cumulable.",
+        "Erhöht ANG und MAG um 40% und physischen Schaden gegen Vogelmonster um 75%. Nicht stapelbar.",
+        "Aumenta el ATQ y la MAG un 40% y el daño físico contra aves un 75% (no acumulable)",
+        "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik terhadap jenis makhluk bersayap sebanyak 75%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504240422": [
+        "Consumes own LB gauge to boost ATK, DEF, MAG, SPR, and LB damage for all allies while singing.",
+        "歌唱期間消耗自身的極限技槽提高全體隊員的攻擊防禦魔力精神，以及提高極限技的傷害。",
+        "노래하는 동안 자신의 LB 게이지를 소비하여 아군 전체의 공격력, 방어력, 마력, 정신력이 상승하며, LB 피해량이 상승합니다.",
+        "Consomme la jauge de limite du lanceur pour augmenter l'ATT, la DEF, la MAGIE, la PSY et les dégâts de la limite de tous les alliés en chantant",
+        "Verbraucht Limitmeter des Benutzers, um während des Singens ANG, ABW, MAG, PSY sowie Schaden durch Limitrausch aller Verbündeten zu erhöhen.",
+        "Consume la barra de EL del usuario para aumentar ATQ, DEF, MAG, ESP y el daño del EL de todos los aliados mientras canta.",
+        "Menggunakan bar LB diri sendiri untuk meningkatkan ATK, DEF, MAG, SPR, dan meningkatkan damage LB semua teman selama menyanyi.",
+        "ใช้\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001aเพื่อ\u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aใน\u001aระหว่าง\u001aที่\u001aร้องเพลง\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",
