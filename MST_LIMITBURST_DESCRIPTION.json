@@ -1735,7 +1735,7 @@
         "아군 전체를 향한 마법 반사",
         "Renvoie la magie lancée sur tous les alliés",
         "Reflektiert Rückmagie, alle Verb.",
-        "Refleja la magia dirigida contra todos los aliados",
+        "Refleja la magia negra dirigida contra todos los aliados",
         "Memantulkan kembali serangan magic yang diterima semua teman",
         "สะท้อน\u001aเวทย์\u001aที่\u001aร่าย\u001aใส่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
@@ -1745,7 +1745,7 @@
         "아군 전체를 향한 마법 반사",
         "Renvoie la magie lancée sur tous les alliés",
         "Reflektiert Rückmagie, alle Verb.",
-        "Refleja la magia dirigida contra todos los aliados",
+        "Refleja la magia negra dirigida contra todos los aliados",
         "Memantulkan kembali magic yang diterima semua teman",
         "สะท้อน\u001aเวทย์\u001aที่\u001aร่าย\u001aใส่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
@@ -7688,6 +7688,36 @@
         "Inflige daño que ignora parcialmente la DEF de todos los enemigos y aprende Garras del león flamígero, Baile temblor terrestre, Estallido del dragón eléctrico, Azote sombra oscura y Patada quíntuple durante un turno",
         "Memberikan damage yang menembus sebagian DEF pada semua musuh, serta memungkinkan penggunaan Cakar Singa Api, Tarian Guncangan Tanah, Hantaman Naga Halilintar, Gerakan Bayangan Gelap, dan Lima Kali Tendangan selama 1 giliran",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aกรงเล็บ\u001aเพลิง\u001aราชสีห์\u001a,\u001a \u001aระบำ\u001aพสุธา\u001aสั่น\u001aไหว\u001a,\u001a \u001aระเบิด\u001aมังกร\u001aสายฟ้า\u001a,\u001a \u001aฟาด\u001aเงามืด\u001a \u001aและ\u001a \u001aเตะ\u001aห้า\u001aชั้น\u001a \u001aได้\u001a \u001a1\u001a \u001aเทิร์น\u001a"
+    ],
+    "100028705": [
+        "Gradually restore HP and MP, activate barrier, and boost resistance to reductions to ATK, DEF, MAG, and SPR for all allies",
+        "持續恢復全體隊員的HPMP+賦予屏障效果+提高降低攻擊防禦魔力精神的耐性",
+        "아군 전체의 HP와 MP 서서히 회복+배리어 부여+공격력, 방어력, 마력, 정신력 감소 저항력 상승",
+        "Restaure progressivement les PV et les PM de tous les alliés, érige une barrière autour d'eux, et augmente leur résistance aux malus d'ATT, de DEF, de MAGIE et de PSY.",
+        "Regeneriert allmählich LP sowie MP aller Verbündeten, aktiviert Barriere und erhöht Resistenz gegen Verringerungen von ANG, ABW, MAG sowie PSY.",
+        "Recupera poco a poco VIT y PM de todos los aliados, les activa Barrera, y aumenta su resistencia a reducciones de ATQ, DEF, MAG y ESP",
+        "Memulihkan HP dan MP secara bertahap, mengaktifkan barier, serta meningkatkan resistansi terhadap efek pengurangan ATK, DEF, MAG, dan SPR pada semua teman",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการถู\u001aกลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100028706": [
+        "Gradually restore HP and MP, activate barrier, and boost resistance to reductions to ATK, DEF, MAG, and SPR for all allies",
+        "持續恢復全體隊員的HPMP+賦予屏障效果+提高降低攻擊防禦魔力精神的耐性",
+        "아군 전체의 HP와 MP 서서히 회복+배리어 부여+공격력, 방어력, 마력, 정신력 감소 저항력 상승",
+        "Restaure progressivement les PV et les PM de tous les alliés, érige une barrière autour d'eux, et augmente leur résistance aux malus d'ATT, de DEF, de MAGIE et de PSY.",
+        "Regeneriert allmählich LP sowie MP aller Verbündeten, aktiviert Barriere und erhöht Resistenz gegen Verringerungen von ANG, ABW, MAG sowie PSY.",
+        "Recupera poco a poco VIT y PM de todos los aliados, les activa Barrera, y aumenta su resistencia a reducciones de ATQ, DEF, MAG y ESP",
+        "Memulihkan HP dan MP secara bertahap, mengaktifkan barier, serta meningkatkan resistansi terhadap efek pengurangan ATK, DEF, MAG, dan SPR pada semua teman",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการถู\u001aกลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100028707": [
+        "Gradually restore HP and MP, activate barrier, and boost resistance to reductions to ATK, DEF, MAG, and SPR for all allies",
+        "持續恢復全體隊員的HPMP+賦予屏障效果+提高降低攻擊防禦魔力精神的耐性",
+        "아군 전체의 HP와 MP 서서히 회복+배리어 부여+공격력, 방어력, 마력, 정신력 감소 저항력 상승",
+        "Restaure progressivement les PV et les PM de tous les alliés, érige une barrière autour d'eux, et augmente leur résistance aux malus d'ATT, de DEF, de MAGIE et de PSY.",
+        "Regeneriert allmählich LP sowie MP aller Verbündeten, aktiviert Barriere und erhöht Resistenz gegen Verringerungen von ANG, ABW, MAG sowie PSY.",
+        "Recupera poco a poco VIT y PM de todos los aliados, les activa Barrera, y aumenta su resistencia a reducciones de ATQ, DEF, MAG y ESP",
+        "Memulihkan HP dan MP secara bertahap, mengaktifkan barier, serta meningkatkan resistansi terhadap efek pengurangan ATK, DEF, MAG, dan SPR pada semua teman",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการถู\u001aกลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "100029305": [
         "Boost ATK, DEF, MAG, and SPR and water, wind, and light damage of LB, abilities, and magic for all allies, and reduce water, wind, and light resistance for all enemies",
@@ -22888,6 +22918,26 @@
         "Inflige daño de hielo y reduce la resistencia al hielo de todos los enemigos, y aumenta el daño físico y mágico del usuario contra bestias",
         "Memberikan damage es dan mengurangi resistansi es pada semua musuh, serta meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk buas",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001a"
+    ],
+    "401010807": [
+        "Reduce ATK, DEF, MAG, and SPR, water and earth resistance, and resistance to fists for all enemies, and boost DEF and SPR for all allies",
+        "降低全體敵人的攻擊防禦魔力精神、水土屬性耐性+降低對格鬥武器的耐性+提高全體隊員的防禦精神",
+        "적 전체의 공격력, 방어력, 마력 정신력과 물, 땅속성 저항력 감소+격투무기 저항력 감소+아군 전체의 방어력과 정신력 상승",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis, réduit leur résistance à l'eau, à la terre et aux poings, et augmente la DEF et la PSY de tous les alliés",
+        "Verringert ANG, ABW, MAG, PSY, Wasser- sowie Erdresistenz sowie Resistenz gegen Fäuste bei allen Gegnern und erhöht ABW und PSY aller Verbündeten.",
+        "Reduce ATQ, DEF, MAG y ESP de todos los enemigos, su resistencia a agua y tierra y su resistencia a puños, y aumenta la DEF y el ESP de todos los aliados",
+        "Mengurangi ATK, DEF, MAG, SPR, resistansi air dan tanah, dan resistansi terhadap senjata tinju pada semua musuh, serta meningkatkan DEF dan SPR semua teman",
+        "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aและ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aสนับมือ\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "401010817": [
+        "Deal partial unmitigated magic damage and reduce ATK, DEF, MAG, and SPR for all enemies",
+        "對全體敵人發動無視部分魔法防禦的攻擊+降低攻擊防禦魔力精神",
+        "적 전체에 일부 마법 방어 무시 피해+공격력, 방어력, 마력, 정신력 감소",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et réduit leur ATT, leur DEF, leur MAGIE et leur PSY",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und verringert deren ANG, ABW, MAG sowie PSY.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos y reduce su ATQ, DEF, MAG y ESP",
+        "Memberikan damage magic yang menembus sebagian SPR, serta mengurangi ATK, DEF, MAG, dan SPR semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "401010907": [
         "Chance of temporarily guarding allies against physical damage, and boost DEF and SPR, reduce damage taken, and reduce physical damage dealt by demons for all allies for three turns",

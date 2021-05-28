@@ -1079,6 +1079,26 @@
         "Arena",
         "Arena\u001a"
     ],
+    "ARROW_LEFT": [
+        "←",
+        "←",
+        "←",
+        "←",
+        "←",
+        "←",
+        "←",
+        "←\u001a"
+    ],
+    "ARROW_RIGHT": [
+        "→",
+        "→",
+        "→",
+        "→",
+        "→",
+        "→",
+        "→",
+        "→\u001a"
+    ],
     "ATTACK_BAD_STATUS": [
         "Status Ailment Attack",
         "狀態異常攻擊",
@@ -3770,6 +3790,66 @@
         "Descargando...",
         "Downloading...",
         "กำลัง\u001aดาวน์โหลด\u001a"
+    ],
+    "DOWNLOAD_CONFIRM_EXCLUDE_MOVIE": [
+        "Exclude movies",
+        "不包含動畫",
+        "영상 제외",
+        "Exclure animations",
+        "Ohne Filmsequenzen herunterladen",
+        "No incluir videos",
+        "Tanpa movie",
+        "ไม่\u001aรวม\u001aมูฟวี่\u001a"
+    ],
+    "DOWNLOAD_CONFIRM_EXCLUDE_MOVIE_EXPLAIN": [
+        "Data excluding esper summons, limit bursts, and other movies will be downloaded. Stored movie data will be deleted, reducing the size of the application.",
+        "將下載除了幻獸召喚、極限技等動畫以外的資料，並刪除已保存的動畫資料以減少app容量。",
+        "환수 소환, 리미트 버스트와 기타 영상을 제외한 데이터를 다운로드합니다. 저장된 영상 데이터를 삭제하여 애플리케이션의 용량을 축소합니다.",
+        "Les données à l'exception des animations telles que celles des invocations ou limites vont être téléchargées. Les données d'animation déjà sauvegardées seront supprimées pour réduire l'espace occupé par l'application.",
+        "Daten ausschließlich Esper-Beschwörungen, Limitrausch- und anderen Filmsequenzen werden heruntergeladen. Gespeicherte Filmsequenzdaten werden gelöscht. Dadurch verringert sich die Größe der App.",
+        "Los datos que se descargarán no incluyen animaciones de espers, estallidos límite u otros videos. Se eliminarán los datos de videos almacenados, lo que reducirá el tamaño de la aplicación.",
+        "Data yang tidak menyertakan pemanggilan esper, limit burst, dan movie lainnya akan didownload. Data movie yang disimpan akan dihapus dan menghemat penggunaan ruang aplikasi.",
+        "จะ\u001aทำการ\u001aดาวน์โหลด\u001aข้อมูล\u001aทั้งหมด\u001aยกเว้น\u001aมูฟวี่\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a,\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aและ\u001aฉาก\u001aมูฟวี่\u001aอื่นๆ\u001a \u001aข้อมูล\u001aมูฟวี่\u001aที่\u001aมี\u001aอยู่แล้ว\u001aจะ\u001aถู\u001aกลบ\u001aออก\u001aเพื่อ\u001aลด\u001aขนาด\u001aของ\u001aตัว\u001aเกม\u001a"
+    ],
+    "DOWNLOAD_CONFIRM_INCLUDE_MOVIE": [
+        "Include movies",
+        "包含動畫",
+        "영상 포함",
+        "Inclure animations",
+        "Mit Filmsequenzen herunterladen",
+        "Incluir videos",
+        "Termasuk movie",
+        "รวม\u001aมูฟวี่\u001a"
+    ],
+    "DOWNLOAD_CONFIRM_INCLUDE_MOVIE_EXPLAIN": [
+        "Data including esper summons, limit bursts, and other movies will be downloaded.",
+        "將下載包含幻獸召喚、極限技等動畫的資料。",
+        "환수 소환, 리미트 버스트와 기타 영상을 포함한 데이터를 다운로드합니다.",
+        "Des données incluant des animations telles que des invocations ou limites vont être téléchargées.",
+        "Daten einschließlich Esper-Beschwörungen, Limitrausch- und anderen Filmsequenzen werden heruntergeladen.",
+        "Los datos que se descargarán incluyen animaciones de espers, estallidos límite y otros videos.",
+        "Data yang menyertakan pemanggilan esper, limit burst, dan movie lainnya akan didownload.",
+        "จะ\u001aทำการ\u001aดาวน์โหลด\u001aข้อมูล\u001aรวมถึง\u001aมูฟวี่\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a,\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aและ\u001aฉาก\u001aมูฟวี่\u001aอื่นๆ\u001a"
+    ],
+    "DOWNLOAD_CONFIRM_MESSAGE_EXPLAIN": [
+        "The necessary data will be downloaded.",
+        "將下載必要的資料。",
+        "필요한 데이터를 다운로드합니다.",
+        "Les données nécessaires vont être téléchargées.",
+        "Die notwendigen Daten werden heruntergeladen.",
+        "Se descargarán los datos necesarios.",
+        "Data yang diperlukan akan didownload.",
+        "ทำการ\u001aดาวน์โหลด\u001aข้อมูล\u001aที่\u001aจำเป็น\u001a"
+    ],
+    "DOWNLOAD_CONFIRM_MESSAGE_EXPLAIN_WIFI": [
+        "*Downloading on <color=245:218:147>Wi-Fi</color> is recommended.",
+        "※建議在<color=245:218:147>Wi-Fi環境</color>下進行下載。",
+        "※ <color=245:218:147>Wi-Fi 환경</color>에서 다운로드하시기를 권장합니다.",
+        "* Il est recommandé d'utiliser une <color=245:218:147>connexion Wi-Fi</color> lors du téléchargement.",
+        "* Es wird empfohlen, die Daten in einer <color=245:218:147>WLAN-Verbindung</color> herunterzuladen.",
+        "*Se recomienda una conexión <color=245:218:147>Wi-Fi</color> para la descarga.",
+        "*Para pemain disarankan untuk mendownload dengan <color=245:218:147>Wi-Fi</color>.",
+        "*ขอ\u001aแนะนำ\u001aให้\u001aผู้\u001aเล่น\u001aดาวน์โหลด\u001aใน\u001aระหว่าง\u001aที่\u001aเชื่อมต่อ\u001aกับ\u001a \u001a<color=245:218:147>\u001aWi-Fi\u001a</color>\u001a \u001aอยู่\u001a"
     ],
     "DOWNLOAD_NOTICE": [
         "Downloading data.<br>This may take a few minutes.",
@@ -9131,6 +9211,16 @@
         "j",
         "นาฬิกา\u001a"
     ],
+    "HOW_OF_GET": [
+        "How to Obtain: <param=reward>",
+        "獲得方法：<param=reward>",
+        "획득 방법: <param=reward>",
+        "Moyen d'obtention : <param=reward>",
+        "Auf diese Weise erhältlich: <param=reward>",
+        "Cómo obtener: <param=reward>",
+        "Cara untuk Memperoleh: <param=reward>",
+        "วิธีการ\u001aรับ\u001aของ\u001a:\u001a \u001a<param=reward>\u001a"
+    ],
     "HOW_TO_PLAY": [
         "How to Play",
         "遊玩方式",
@@ -11071,6 +11161,96 @@
         "Efek Battle",
         "ตั้งค่า\u001aฉาก\u001aต่อสู้\u001a"
     ],
+    "MENUSETTING_DELETE_DATA": [
+        "Delete data",
+        "刪除資料",
+        "데이터 삭제",
+        "Supprimer données",
+        "Daten löschen",
+        "Borrar datos",
+        "Hapus data",
+        "ลบ\u001aข้อมูล\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_CONFIRM": [
+        "Delete data?",
+        "是否刪除資料？",
+        "데이터를 삭제하시겠습니까?",
+        "Supprimer ces données ?",
+        "Daten löschen?",
+        "¿Borrar datos?",
+        "Hapus data?",
+        "ลบ\u001aข้อมูล\u001aหรือไม่\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_CONFIRM_DONE": [
+        "Data has been deleted.",
+        "已刪除資料。",
+        "데이터를 삭제했습니다.",
+        "Données supprimées.",
+        "Daten wurden gelöscht.",
+        "Se han borrado los datos.",
+        "Data telah dihapus.",
+        "ลบ\u001aข้อมูล\u001aแล้ว\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_CONFIRM_NOT_SELECTED": [
+        "Please choose what to delete.",
+        "請選擇欲刪除的項目。",
+        "삭제할 데이터를 선택하세요.",
+        "Veuillez choisir les éléments à supprimer.",
+        "Bitte wähle aus, was du löschen möchtest.",
+        "Elige lo que quieras borrar.",
+        "Silakan pilih data yang ingin dihapus.",
+        "โปรด\u001aเลือก\u001aข้อมูล\u001aที่\u001aต้องการ\u001aลบ\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_CONFIRM_PROGRESS": [
+        "Deleting data.<br>Please wait.",
+        "刪除資料中。<br>請稍等片刻。",
+        "데이터를 삭제합니다.<br>잠시만 기다려 주십시오.",
+        "Suppression des données.<br>Veuillez patienter.",
+        "Daten werden gelöscht.<br>Bitte warte.",
+        "Borrando datos.<br>Espera un momento.",
+        "Data sedang dihapus.<br>Silakan tunggu sebentar.",
+        "กำลัง\u001aลบ\u001aข้อมูล\u001a<br>\u001aโปรด\u001aรอ\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_EXPLAIN": [
+        "By deleting downloaded data, the size of the application can be reduced.",
+        "刪除已下載資料將可減少app容量。",
+        "다운로드한 데이터를 삭제하면 애플리케이션 용량을 축소할 수 있습니다.",
+        "En supprimant les données sauvegardées, l'espace occupé par l'application sera réduit.",
+        "Wenn du die heruntergeladenen Daten löschst, dann verringert sich möglicherweise die Größe der App.",
+        "Al borrar los datos de descarga, se puede reducir el tamaño de la aplicación.",
+        "Dengan menghapus data yang telah didownload. kamu dapat menghemat penggunaan ruang aplikasi.",
+        "ผู้\u001aเล่น\u001aจะ\u001aสามารถ\u001aลด\u001aขนาด\u001aของ\u001aเกม\u001aได้\u001aโดย\u001aการ\u001aลบ\u001aข้อมูล\u001aที่\u001aดาวน์โหลด\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_MOVIE": [
+        "Esper summons and limit burst movies",
+        "幻獸召喚・極限技動畫",
+        "환수 소환과 리미트 버스트 영상",
+        "Animations d'invocations et de limites",
+        "Esper-Beschwörungen und Limitrausch-Sequenzen",
+        "Animacionoes de espers y estallidos límite",
+        "Movie pemanggilan esper dan limit burst",
+        "มูฟวี่\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aและ\u001a \u001aLimit\u001a \u001aBurst\u001a"
+    ],
+    "MENUSETTING_DELETE_DATA_SIZE": [
+        "(Approx  <param=resource_size>)",
+        "（約 <param=resource_size>）",
+        "(약 <param=resource_size>)",
+        "(Approx.  <param=resource_size>)",
+        "(Approx  <param=resource_size>)",
+        "(Aprox. <param=resource_size>)",
+        "(Sekitar  <param=resource_size>)",
+        "(\u001aประมาณ\u001a \u001a<param=resource_size>)\u001a"
+    ],
+    "MENUSETTING_DOWNLOAD_DATA_CONFIRM": [
+        "Movie data has not been downloaded.<br>Download additional data?",
+        "尚未下載動畫資料。<br>是否要下載額外的資料？",
+        "영상 데이터가 없습니다.<br>데이터를 추가로 다운로드하시겠습니까?",
+        "Aucune donnée d'animation.<br>Télécharger les données additionnelles ?",
+        "Daten für die Filmsequenz wurden nicht heruntergeladen.<br>Zusätzliche Daten herunterladen?",
+        "No se han descargado los datos de videos.<br>¿Descargar los datos adicionales?",
+        "Data movie belum didownload.<br>Apakah kamu mau mendownload data tambahan?",
+        "ยัง\u001aไม่\u001aได้\u001aดาวน์โหลด\u001aข้อมูล\u001aมูฟวี่\u001a<br>\u001aต้องการ\u001aดาวน์โหลด\u001aข้อมูล\u001aเพิ่มเติม\u001aหรือไม่\u001a?\u001a"
+    ],
     "MENUSETTING_FACEBOOK_LABEL": [
         "Facebook",
         "Facebook",
@@ -11210,6 +11390,16 @@
         "Configurar Auto.",
         "Auto",
         "ตั้งค่า\u001a \u001aAuto\u001a"
+    ],
+    "MENUSETTING_MESSAGE_FAST_FORWARD": [
+        "Speed Settings",
+        "速度設定",
+        "배속 설정",
+        "Paramètres de vitesse",
+        "Geschwindigkeitseinstellungen",
+        "Ajustes de velocidad",
+        "Pengaturan Kepecatan",
+        "ตั้งค่า\u001aความเร็ว\u001a"
     ],
     "MENUSETTING_MESSAGE_LABEL": [
         "Adjusts dialogue options.",
@@ -12481,6 +12671,16 @@
         "Kamu tidak mempunyai cukup item yang diperlukan.",
         "คุณ\u001aยังมี\u001aไอเทม\u001aที่\u001aจำเป็น\u001aไม่\u001aเพียงพอ\u001a"
     ],
+    "MISSION_RESULT_DAMAGE_LOG_TITLE": [
+        "Damage",
+        "傷害量",
+        "피해량",
+        "Dégâts",
+        "Schaden",
+        "Daño infligido",
+        "Damage yang Diberikan",
+        "ค่า\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a"
+    ],
     "MISSION_RESULT_FRIEND_UP": [
         "Friend Capacity + <color=53:217:102><case=lower><param=friend></case></color>",
         "好友上限 <color=53:217:102><param=friend></color> UP",
@@ -12632,14 +12832,14 @@
         "เดือน\u001a"
     ],
     "MSG_ACTION_FAVORITE_UNIT": [
-        "The process was canceled because the attempted process included some favorited units. <br>The app will now close.",
-        "處理過程中含有已鎖定的兵員，處理已被取消。<br>應用程式即將關閉。",
-        "일부 즐겨찾기 유닛이 시도한 프로세스에 포함되었습니다.<br>앱을 일단 종료합니다.",
-        "L'opération a échoué car une des unités sélectionnées est enregistrée dans vos favoris. <br>L'application va maintenant s'arrêter.",
-        "Der Prozess wurde abgebrochen, da er einige als Favoriten markierte Einheiten enthielt.<br>Die App schließt sich nun.",
-        "Se ha cancelado el proceso porque este incluía algunas unidades favoritas.<br>Cerrando la aplicación...",
-        "Proses telah dibatalkan karena proses ini akan diterapkan pada unit yang ditetapkan sebagai favorit.<br>Aplikasi akan ditutup.",
-        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aตั้ง\u001aเป็น\u001aของโปรด\u001aอยู่\u001a<br>\u001aแอพพลิเคชั่น\u001aจะ\u001aทำการ\u001aปิด\u001aตัว\u001aลง\u001a"
+        "The process was canceled because the attempted process was performed on a protected unit.<br>To protect your data, the app will now close.",
+        "處理過程中含有受保護的兵員，處理已被取消。<br>為保護資料，應用程式即將關閉。",
+        "일부 보호 상태의 유닛이 시도한 프로세스에 포함되었습니다.<br>데이터 보호를 위해 앱을 일단 종료합니다.",
+        "L'opération inclut une unité protégée et a donc été annulée.<br>Pour protéger vos données, l'application va maintenant se fermer.",
+        "Der Vorgang wurde abgebrochen, da der versuchte Vorgang an einer geschützten Einheit durchgeführt wurde.<br>Zum Schutz deiner Daten schließt sich die App nun.",
+        "Se ha cancelado el proceso porque se ha intentado realizar la operación con una unidad protegida.<br>La aplicación se cerrará para proteger los datos.",
+        "Proses telah dibatalkan karena proses tersebut dilakukan pada unit yang dikunci.<br>Untuk melindungi data, aplikasi akan ditutup.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aตั้งค่า\u001aปกป้อง\u001aอยู่\u001a<br>\u001aแอพพลิเคชั่น\u001aจะ\u001aปิด\u001aตัว\u001aลง\u001aเพื่อ\u001aคุ้มครอง\u001aข้อมูล\u001aของ\u001aคุณ\u001a"
     ],
     "MSG_ALREADY_CLAIMED_REWARD": [
         "The reward has already been claimed.",
@@ -13052,14 +13252,14 @@
         "ยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aใน\u001aการปลุก\u001aพลัง\u001a \u001aEX\u001a"
     ],
     "MSG_NO_CLASS_UP_EX_LV_MAX_UNIT": [
-        "Because the unit does not meet the proper conditions, the process was cancelled.<br>The app will now close.",
-        "此兵員未符合處理條件，處理已取消。<br>應用程式即將關閉。",
-        "유닛이 적정 조건이 충족되지 않습니다.<br>앱을 일단 종료합니다.",
-        "L'opération a été annulée car l'unité ne remplit pas les conditions requises. <br>L'application va s'arrêter.",
-        "Der Vorgang wurde abgebrochen, da die Einheit die erforderlichen Bedingungen nicht erfüllt.<br> Die App schließt sich nun.",
-        "La unidad no cumple los requisitos, por lo que se ha cancelado el proceso.<br>La aplicación se cerrará ahora.",
-        "Proses telah dibatalkan karena unit tidak memenuhi kondisi yang ditentukan.<br>App akan ditutup sekarang.",
-        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001aยัง\u001aไม่\u001aถึง\u001aเงื่อนไข\u001aที่\u001aกำหนด\u001a<br>\u001aและ\u001aแอ\u001aป\u001aจะ\u001aปิด\u001aตัวเอง\u001aโดยอัตโนมัติ\u001a"
+        "The process was canceled because this unit does not meet the proper conditions.<br>To protect your data, the app will now close.",
+        "此兵員未符合處理條件，處理已取消。<br>為保護資料，應用程式即將關閉。",
+        "해당 유닛이 적정 조건을 만족하지 않습니다.<br>데이터 보호를 위해 앱을 일단 종료합니다.",
+        "L'opération contient une unité qui ne remplit pas les conditions requises et a donc été annulée.<br>Pour protéger vos données, l'application va maintenant se fermer.",
+        "Der Vorgang wurde abgebrochen, da die Einheit die erforderten Bedingungen nicht erfüllt.<br>Zum Schutz deiner Daten schließt sich die App nun.",
+        "Se ha cancelado el proceso porque la unidad no cumple los requisitos necesarios.<br>La aplicación se cerrará para proteger los datos.",
+        "Proses telah dibatalkan karena unit tersebut tidak memenuhi ketentuan.<br>Untuk melindungi data, aplikasi akan ditutup.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001aนั้น\u001aไม่\u001aถูกต้อง\u001aตามเงื่อนไข\u001a<br>\u001aแอพพลิเคชั่น\u001aจะ\u001aปิด\u001aตัว\u001aลง\u001aเพื่อ\u001aคุ้มครอง\u001aข้อมูล\u001aของ\u001aคุณ\u001a"
     ],
     "MSG_NO_CLASS_UP_NO_ELEM_UNIT": [
         "This unit cannot be chosen as a material for EX awakening.",
@@ -16870,6 +17070,216 @@
         "El coste de energía de esta misión supera tu capacidad actual.<br><color=255:255:0>¿Continuar?</color>",
         "Energi yang diperlukan untuk melakukan misi ini melebihi batas energimu saat ini.<br><color=255:255:0>Lanjutkan?</color>",
         "NRG\u001a \u001aที่\u001aต้อง\u001aใช้\u001aใน\u001aมิชชั่น\u001aนี้\u001a \u001aเกินขอบเขต\u001a \u001aNRG\u001a \u001aสูงสุด\u001aใน\u001aปัจจุบัน\u001aของ\u001aคุณ\u001a<br><color=255:255:0>\u001aProceed\u001a?</color>\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_1": [
+        "Lines Completed: 1",
+        "連線數：1",
+        "완성한 줄: 1",
+        "Ligne complétée : 1",
+        "Abgeschlossene Reihen: 1",
+        "Líneas completadas: 1",
+        "Baris yang Terbentuk: 1",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a1\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_2": [
+        "Lines Completed: 2",
+        "連線數：2",
+        "완성한 줄: 2",
+        "Lignes complétées : 2",
+        "Abgeschlossene Reihen: 2",
+        "Líneas completadas: 2",
+        "Baris yang Terbentuk: 2",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a2\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_3": [
+        "Lines Completed: 3",
+        "連線數：3",
+        "완성한 줄: 3",
+        "Lignes complétées : 3",
+        "Abgeschlossene Reihen: 3",
+        "Líneas completadas: 3",
+        "Baris yang Terbentuk: 3",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a3\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_4": [
+        "Lines Completed: 4",
+        "連線數：4",
+        "완성한 줄: 4",
+        "Lignes complétées : 4",
+        "Abgeschlossene Reihen: 4",
+        "Líneas completadas: 4",
+        "Baris yang Terbentuk: 4",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a4\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_5": [
+        "Lines Completed: 5",
+        "連線數：5",
+        "완성한 줄: 5",
+        "Lignes complétées : 5",
+        "Abgeschlossene Reihen: 5",
+        "Líneas completadas: 5",
+        "Baris yang Terbentuk: 5",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a5\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_6": [
+        "Lines Completed: 6",
+        "連線數：6",
+        "완성한 줄: 6",
+        "Lignes complétées : 6",
+        "Abgeschlossene Reihen: 6",
+        "Líneas completadas: 6",
+        "Baris yang Terbentuk: 6",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a6\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_7": [
+        "Lines Completed: 7",
+        "連線數：7",
+        "완성한 줄: 7",
+        "Lignes complétées : 7",
+        "Abgeschlossene Reihen: 7",
+        "Líneas completadas: 7",
+        "Baris yang Terbentuk: 7",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a7\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_8": [
+        "Lines Completed: 8",
+        "連線數：8",
+        "완성한 줄: 8",
+        "Lignes complétées : 8",
+        "Abgeschlossene Reihen: 8",
+        "Líneas completadas: 8",
+        "Baris yang Terbentuk: 8",
+        "จำนวน\u001aแถว\u001aที่\u001aเคลียร์\u001aแล้ว\u001a:\u001a  \u001a8\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_1": [
+        "Complete a line vertically, horizontally, or diagonally.",
+        "連成1條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 한 줄을 완성하세요.",
+        "Complétez 1 ligne verticalement, horizontalement ou diagonalement.",
+        "Löse eine vertikale, horizontale oder diagonale Reihe ein.",
+        "Completa una línea en vertical, horizontal o diagonal.",
+        "Selesaikan satu baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a1\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_2": [
+        "Complete two lines vertically, horizontally, or diagonally.",
+        "連成2條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 두 줄을 완성하세요.",
+        "Complétez 2 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse zwei vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 2 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan dua baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a2\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_3": [
+        "Complete three lines vertically, horizontally, or diagonally.",
+        "連成3條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 세 줄을 완성하세요.",
+        "Complétez 3 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse drei vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 3 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan tiga baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a3\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_4": [
+        "Complete four lines vertically, horizontally, or diagonally.",
+        "連成4條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 네 줄을 완성하세요.",
+        "Complétez 4 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse vier vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 4 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan empat baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a4\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_5": [
+        "Complete five lines vertically, horizontally, or diagonally.",
+        "連成5條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 다섯 줄을 완성하세요.",
+        "Complétez 5 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse fünf vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 5 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan lima baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a5\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_6": [
+        "Complete six lines vertically, horizontally, or diagonally.",
+        "連成6條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 여섯 줄을 완성하세요.",
+        "Complétez 6 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse sechs vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 6 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan enam baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a6\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_7": [
+        "Complete seven lines vertically, horizontally, or diagonally.",
+        "連成7條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 일곱 줄을 완성하세요.",
+        "Complétez 7 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse sieben vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 7 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan tujuh baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a7\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LINE_COMPLETE_DES_8": [
+        "Complete eight lines vertically, horizontally, or diagonally.",
+        "連成8條直線、橫線或斜線。",
+        "가로, 세로, 또는 대각선으로 여덟 줄을 완성하세요.",
+        "Complétez 8 lignes verticalement, horizontalement ou diagonalement.",
+        "Löse acht vertikale, horizontale oder diagonale Reihen ein.",
+        "Completa 8 líneas en vertical, horizontal o diagonal.",
+        "Selesaikan delapan baris secara vertikal, horizontal, atau diagonal.",
+        "เคลียร์\u001aแถว\u001aแนวตั้ง\u001a,\u001a \u001aแนวนอน\u001aหรือ\u001aแนว\u001aเฉียง\u001a \u001a8\u001a \u001aครั้ง\u001a"
+    ],
+    "PANEL_QUEST_LOCKED": [
+        "LOCKED",
+        "鎖定",
+        "잠김",
+        "VERROUILLÉ",
+        "GESPERRT",
+        "BLOQUEADO",
+        "TERKUNCI",
+        "ถูก\u001aล็อค\u001aอยู่\u001a"
+    ],
+    "PANEL_QUEST_PANEL_COMPLETE_DES": [
+        "Complete the board!",
+        "完成抽獎表！",
+        "보드를 완성하세요!",
+        "Complétez le tableau !",
+        "Vervollständige das Brett!",
+        "¡Completa el bingo!",
+        "Selesaikan papan undian!",
+        "เคลียร์\u001aทั้ง\u001aกระดาน\u001a!\u001a"
+    ],
+    "PANEL_QUEST_PANEL_COMPLETE_NAME": [
+        "Board Completed!",
+        "抽獎表已完成！",
+        "보드 완성!",
+        "Tableau complété !",
+        "Brett vervollständigt!",
+        "¡Bingo completado!",
+        "Papan Undian Selesai!",
+        "ครบ\u001aกระดาน\u001aแล้ว\u001a!\u001a"
+    ],
+    "PANEL_QUEST_UNAVAILABLE": [
+        "You have redeemed all available panel rewards!",
+        "你已獲得所有抽獎格報酬！",
+        "획득할 수 있는 모든 패널 보상을 수령했습니다!",
+        "Vous avez récupéré toutes les récompenses de bingo disponibles !",
+        "Du hast alle verfügbaren Kachelbelohnungen eingelöst!",
+        "¡Has recibido todas las recompensas del bingo!",
+        "Kamu telah menerima semua hadiah panel yang tersedia!",
+        "คุณ\u001aได้รับ\u001aของรางวัล\u001aกระดาน\u001aทั้งหมด\u001aแล้ว\u001a!\u001a"
+    ],
+    "PANEL_QUEST_UNLOCK_PROGRESS": [
+        "Clear the previous board to unlock!",
+        "完成上一個抽獎表來解鎖！",
+        "이전 보드를 완료하여 개방하세요!",
+        "Complétez le tableau précédent pour débloquer !",
+        "Vervollständige zum Freischalten das vorherige Brett!",
+        "¡Completa el bingo anterior para desbloquear este!",
+        "Selesaikan panel sebelumnya untuk membukanya!",
+        "เคลียร์\u001aกระดาน\u001aก่อนหน้านี้\u001aเพื่อ\u001aปลด\u001aล็อค\u001a!\u001a"
     ],
     "PARADE_BATTLE_RESULT_SUB_HEADER_TITLE": [
         "BATTLE RESULTS",
@@ -22551,6 +22961,76 @@
         "<color=255:255:0><param=item_name></color> akan menghilang setelah digunakan sebagai material kebangkitan.<br><br>Apakah kamu ingin melanjutkan? (Konfirmasi terakhir)",
         "<color=255:255:0><param=item_name></color>\u001a \u001aจะ\u001aหาย\u001aไป\u001aเมื่อ\u001aถูก\u001aนำมาใช้\u001aเป็น\u001aวัตถุดิบ\u001aใน\u001aการปลุก\u001aพลัง\u001a<br><br>\u001aคุณ\u001aแน่ใจ\u001aหรือไม่\u001aว่า\u001aต้องการ\u001aดำเนิน\u001aการปลุก\u001aพลัง\u001aต่อไป\u001a?\u001a \u001a(\u001aยืนยัน\u001aครั้งสุดท้าย\u001a)\u001a"
     ],
+    "SP_CLASSUP_CONVERSION_CONFIRM_RESULT_CONVERT_LABEL": [
+        "Conversion Item",
+        "變換道具",
+        "변환 아이템",
+        "Objet obtenu",
+        "Gegenstand zum Konvertieren",
+        "Objeto de conversión",
+        "Item yang Dikonversi",
+        "ไอเทม\u001aที่\u001aแลก\u001a"
+    ],
+    "SP_CLASSUP_CONVERSION_CONFIRM_RESULT_NEED_LABEL": [
+        "Item Consumed",
+        "消耗道具",
+        "소비 아이템",
+        "Objet utilisé",
+        "Gegenstand verbraucht",
+        "Objeto consumido",
+        "Item yang Digunakan",
+        "ไอเทม\u001aที่\u001aใช้\u001a"
+    ],
+    "SP_CLASSUP_CONVERSION_CONFIRM_RESULT_TEXT": [
+        "The reserved unit will be converted into awakening materials, and unit awakening will be performed.<br>Proceed?",
+        "將在預定變換中選擇的兵員變換成覺醒素材並覺醒兵員。<br>是否要進行變換？",
+        "변환 예정 유닛은 각성 재료로 변환하여 유닛을 각성합니다.<br>진행하시겠습니까?",
+        "L'unité en attente sera convertie en matériau d'éveil, et l'unité choisie sera éveillée.<br>Continuer ?",
+        "Die vorgesehenen Einheiten werden zu Erweckmaterialien konvertiert und das Erwecken von Einheiten wird durchgeführt.<br>Fortfahren?",
+        "La unidad reservada se convertirá en materiales de despertar, y se realizará el despertar de unidad.<br>¿Continuar?",
+        "Unit yang dipilih untuk konversi akan dikonversi menjadi material kebangkitan, dan membangkitkan unit.<br>Lanjutkan?",
+        "ยู\u001aนิ\u001aท\u001aที่อยู่\u001aใน\u001aคลัง\u001aจะ\u001aถูก\u001aแปลง\u001aสภาพ\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001a \u001aและ\u001aจะ\u001aทำ\u001aการปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท<br>\u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
+    ],
+    "SP_CLASSUP_CONVERSION_CONFIRM_TEXT": [
+        "Unit Not in Possession",
+        "未持有該兵員",
+        "해당 유닛 미보유",
+        "Aucune unité en possession",
+        "Einheit nicht im Besitz",
+        "No posees la unidad",
+        "Unit yang Tidak Dimiliki",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aไม่\u001aมี\u001a"
+    ],
+    "SP_CLASSUP_CONVERSION_CONFIRM_TEXT_EX": [
+        "Unable to Convert",
+        "無法變換",
+        "변환 불가",
+        "Non convertible",
+        "Kann nicht konvertiert werden",
+        "Unidad no convertible",
+        "Tidak Dapat Mengkonversi",
+        "ไม่\u001aสามารถ\u001aแปลง\u001aส\u001aถา\u001aพ\u001aได้\u001a"
+    ],
+    "SP_CLASSUP_CONVERSION_PIECE_TRANS_CONFIRM": [
+        "Once converted to an awakening material, <color=255:255:0>a unit cannot be returned to its former self</color>. Trust mastery and super trust mastery from before conversion will not be inherited.",
+        "變成覺醒素材後，<color=255:255:0>無法再次變回兵員</color>。也不會繼承變換前該兵員的信賴度值與超級信賴度值。",
+        "각성 재료로 변환할 경우, <color=255:255:0>유닛으로 되돌릴 수 없습니다</color>.변환 전 트러스트치와 슈퍼 트러스트치는 계승되지 않습니다.",
+        "Une fois convertie en matériau d'éveil, <color=255:255:0>une unité est définitivement perdue</color>. La confiance absolue et la super confiance absolue accumulées avant la conversion seront perdues.",
+        "Wenn eine Einheit einmal zu Erweckungsmaterial konvertiert wurde, <color=255:255:0>kann sie nicht mehr zu ihrer vorherigen Gestalt zurückkehren.</color>.<br>Wahre-Treue- und Super-Treue-Werte vor der Konvertierung werden nicht übernommen.",
+        "Una vez convertida, <color=255:255:0>la unidad no podrá volver a su estado original</color>.<br>No se transferirán la maestría fiel y supermaestría fiel de antes de la conversión.",
+        "Setelah unit dikonversi menjadi material kebangkitan, <color=255:255:0>unit tersebut tidak dapat dikembalikan ke keadaan semula</color>.Trust master dan super trust master dari sebelum konversi tidak akan diperoleh.",
+        "เมื่อ\u001aถูก\u001aแปลง\u001aสภาพ\u001aเป็น\u001aวัตถุดิบ\u001aเสริม\u001aพลัง\u001aแล้ว\u001a \u001a<color=255:255:0>\u001aยู\u001aนิ\u001aท\u001aจะ\u001aไม่\u001aสามารถ\u001aกลับคืน\u001aร่าง\u001aเดิม\u001aได้\u001aอีก\u001a</color>\u001a \u001aและ\u001aจะ\u001aไม่\u001aสามารถ\u001aใช้\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aและ\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMastery\u001a \u001aจา\u001aกร่าง\u001aก่อน\u001aการ\u001aแปลง\u001aสภาพ\u001aได้\u001a"
+    ],
+    "SP_CLASSUP_CONVERSION_TRANS_CONFIRM": [
+        "Once converted to an awakening material, <color=255:255:0>a unit cannot be returned to its former self</color>.<br>If the unit to be converted has not obtained its trust master reward, you can obtain a <color=255:255:0><param=mogu></color> containing its trust.",
+        "變成覺醒素材後，<color=255:255:0>無法再次變回兵員</color>。<br>如果變換前該兵員尚未獲得信賴度滿點報酬時，將會獲得繼承信賴度滿點報酬的<color=255:255:0><param=mogu></color>。",
+        "각성 재료로 변환할 경우, <color=255:255:0>유닛으로 되돌릴 수 없습니다</color>.<br>변환 전의 유닛이 트러스트 마스터를 획득하지 않았을 경우, 트러스트 마스터를 계승한 <color=255:255:0><param=mogu></color>을(를) 획득할 수 있습니다.",
+        "<color=255:255:0>Ce processus est irréversible</color>.<br>Si l'unité à convertir n'a pas encore obtenu sa récompense de confiance absolue, vous pouvez recevoir un <color=255:255:0><param=mogu></color> contenant sa confiance.",
+        "Wenn eine Einheit einmal zu Erweckungsmaterial konvertiert wurde, <color=255:255:0>kann sie nicht mehr zu ihrer vorherigen Gestalt zurückkehren.</color>.<br>Wenn die zu konvertierende Einheit ihre Wahre-Treue-Belohnung nicht erhalten hat, kannst du einen <color=255:255:0><param=mogu></color> mit ihrer Treue erhalten.",
+        "Una vez convertida, <color=255:255:0>la unidad no podrá volver a su estado original</color>.<br>Si la unidad a convertir no ha conseguido su recompensa maestro fiel, puedes conseguir un <color=255:255:0><param=mogu></color> que tenga su fidelidad.",
+        "Setelah unit dikonversi menjadi material kebangkitan, <color=255:255:0>unit tersebut tidak dapat dikembalikan ke keadaan semula</color>.<br>Apabila unit yang ingin dikonversi belum memperoleh hadiah trust master-nya, kamu dapat memperoleh <color=255:255:0><param=mogu></color> yang berisi trust master milik unit tersebut.",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aแปลง\u001aสภาพ\u001aไป\u001aเป็น\u001aวัตถุดิบ\u001aปลุก\u001aพลัง\u001aแล้ว\u001a \u001a<color=255:255:0>\u001a \u001aจะ\u001aไม่\u001aสามารถ\u001aกลับคืน\u001aสู่\u001aสภาพเดิม\u001aได้\u001aอีก\u001a</color>.<br>\u001aหาก\u001aยู\u001aนิ\u001aท\u001aที่จะ\u001aแปลง\u001aสภาพ\u001aนั้น\u001aยัง\u001aไม่\u001aได้\u001aรับรางวัล\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aคุณ\u001aสามารถ\u001aได้รับ\u001a<color=255:255:0><param=mogu></color>\u001aที่\u001aมีค่า\u001a \u001aTrust\u001a \u001aของ\u001aยู\u001aนิ\u001aท\u001aได้\u001a"
+    ],
     "SP_CLASSUP_MATERIAL_SELECT": [
         "Tap a material to select it.",
         "請點擊選取素材",
@@ -23170,6 +23650,16 @@
         "Mejorar espers",
         "Perkuat Esper",
         "เสริม\u001aพลัง\u001a \u001aEsper\u001a"
+    ],
+    "SUMMON_BEAST_MIX_SETTING": [
+        "Esper Enhancement Options",
+        "強化幻獸設定",
+        "환수 강화 설정",
+        "Options d'amélioration de chimère",
+        "Optionen zur Esper-Verbesserung",
+        "Opciones de mejora de esper",
+        "Pengaturan Penguatan Esper",
+        "ตั้งค่า\u001aการ\u001aเสริม\u001aพลัง\u001a \u001aEsper\u001a"
     ],
     "SUMMON_BEAST_MIX_SETTING_DESC": [
         "You can change the settings for using esper enhancement items.",
@@ -24316,7 +24806,7 @@
         "報酬寶箱",
         "보상 상자",
         "Coffre de récompenses",
-        "Belohnungstruhe",
+        "Belohnungs-<br>truhe",
         "Cofre de recompensas",
         "Kotak Hadiah",
         "หีบ\u001aของรางวัล\u001a"
@@ -24521,6 +25011,16 @@
         "Bangkitkan Ability",
         "ปลุก\u001aพลัง\u001a \u001aAbility\u001a"
     ],
+    "UNIT_ABILITY_SUBLIMATION_LEVEL_NUM": [
+        "Awakening +<param=level_num>",
+        "覺醒+<param=level_num>",
+        "각성 <param=level_num>단계",
+        "Éveil +<param=level_num>",
+        "Erwecken +<param=level_num>",
+        "Despertar +<param=level_num>",
+        "Kebangkitan +<param=level_num>",
+        "ปลุก\u001aพลัง\u001a \u001a+<param=level_num>\u001a"
+    ],
     "UNIT_ABILITY_UN_LEARNED": [
         "Not Learned",
         "未習得",
@@ -24580,6 +25080,16 @@
         "Despertar unidad",
         "Bangkitkan Unit",
         "ปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001a"
+    ],
+    "UNIT_CLASSUP_CONVERSION_TEXT": [
+        "To Be Converted",
+        "預定變換",
+        "변환 예정",
+        "Attente de conversion",
+        "Zum Konvertieren vorgesehen",
+        "Para convertir",
+        "Akan Dikonversi",
+        "เตรียม\u001aรับ\u001aการ\u001aแปลง\u001aสภาพ\u001a"
     ],
     "UNIT_CLASSUP_MATERIAL": [
         "Awakening Materials",
@@ -25210,6 +25720,116 @@
         "Mejorar unidades",
         "Perkuat Unit",
         "ยู\u001aนิ\u001aท\u001aเสริม\u001aพลัง\u001a"
+    ],
+    "UNIT_MIX_AUTO_CONFIRM_MESSAGE": [
+        "Proceed?",
+        "是否要進行合成？",
+        "진행하시겠습니까?",
+        "Continuer ?",
+        "Fortfahren?",
+        "¿Continuar?",
+        "Lanjutkan?",
+        "ดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+    ],
+    "UNIT_MIX_AUTO_CONFIRM_TITLE": [
+        "The following units will be included:",
+        "將合成以下兵員",
+        "다음 유닛을 합성합니다.",
+        "Les unités suivantes seront fusionnées :",
+        "Die folgenden Einheiten werden fusioniert:",
+        "Se incluirán las siguientes unidades:",
+        "Unit berikut akan disertakan:",
+        "จะ\u001aใช้\u001aยู\u001aนิ\u001aท\u001aดังต่อไปนี้\u001a:\u001a"
+    ],
+    "UNIT_MIX_AUTO_CONFIRM_TRUST_OVER": [
+        "Trust mastery exceeding the maximum value will be lost.",
+        "超出最大值的數值將會被捨去。",
+        "최대 한도를 초과하는 트러스트치는 사라집니다.",
+        "Le surplus de confiance absolue dépassant le maximum sera perdu.",
+        "Die Treue, die den maximalen Wert überschreitet, geht verloren.",
+        "La maestría fiel que exceda el valor máximo se perderá.",
+        "Trust master yang melebihi batas nilai maksimum akan hilang.",
+        "ค่า\u001a \u001aTrust\u001a \u001aMastery\u001a \u001aที่\u001aเกิน\u001aจำนวน\u001aสูงสุด\u001aนั้น\u001aจะ\u001aหาย\u001aไป\u001a"
+    ],
+    "UNIT_MIX_AUTO_CONFIRM_UNIT_NAME": [
+        "<param=rare>★ <param=unitname>",
+        "★<param=rare><param=unitname>",
+        "★<param=rare> <param=unitname>",
+        "<param=unitname> <param=rare>★",
+        "<param=rare>★ <param=unitname>",
+        "<param=unitname> <param=rare>★",
+        "<param=unitname> ★<param=rare>",
+        "<param=unitname>\u001a \u001a<param=rare>★\u001a"
+    ],
+    "UNIT_MIX_AUTO_CONFIRM_UNIT_NAME_COUNT": [
+        "x<param=unitcount>",
+        "×<param=unitcount>",
+        "x <param=unitcount>",
+        "x<param=unitcount>",
+        "x<param=unitcount>",
+        "x<param=unitcount>",
+        "x<param=unitcount>",
+        "x\u001a<param=unitcount>\u001a"
+    ],
+    "UNIT_MIX_AUTO_POSSESSION_UNIT_CNT_BOX": [
+        "Num. of Units in Possession (Unit List)",
+        "持有兵員數(一覽)",
+        "보유 유닛 수(목록)",
+        "Unités en possession (Liste)",
+        "Anzahl der Einheiten im Besitz (Liste)",
+        "N.º unidades en posesión (lista)",
+        "Jumlah Unit yang Dimiliki (Daftar Unit)",
+        "จำนวน\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001a \u001a(\u001aรายชื่อ\u001aยู\u001aนิ\u001aท)\u001a"
+    ],
+    "UNIT_MIX_AUTO_POSSESSION_UNIT_CNT_WAREHOUSE": [
+        "Num. of Units in Possession (Reserves)",
+        "持有兵員數(保管庫)",
+        "보유 유닛 수(보관함)",
+        "Unités en possession (Réserve)",
+        "Anzahl der Einheiten im Besitz (Reserven)",
+        "N.º unidades en posesión (reserva)",
+        "Jumlah Unit yang Dimiliki (Penyimpanan)",
+        "จำนวน\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001a \u001a(\u001aคลัง\u001aเก็บ\u001aยู\u001aนิ\u001aท)\u001a"
+    ],
+    "UNIT_MIX_AUTO_RESULT_MESSAGE": [
+        "Obtained trust master rewards will be sent directly to your inventory.",
+        "信賴度滿點報酬將會直接賦予在持有一覽中。",
+        "획득한 트러스트 마스터 보상은 직접 인벤토리로 지급됩니다.",
+        "Les récompenses de confiance absolue seront directement envoyées dans l'inventaire.",
+        "Die erhaltenen Treue-Belohnungen werden direkt in dein Inventar gesendet.",
+        "Las recompensas maestro fiel que se obtengan se enviarán diréctamente a tu inventario.",
+        "Hadiah trust master yang diperoleh akan dikirim langsung ke inventory-mu.",
+        "รางวัล\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aที่\u001aได้รับ\u001aจะ\u001aถูก\u001aส่ง\u001aไป\u001aที่\u001aคลังเก็บของ\u001aผู้\u001aเล่น\u001aโดยตรง\u001a"
+    ],
+    "UNIT_MIX_AUTO_RESULT_TITLE": [
+        "Selected units of the same name have been fused.",
+        "已合成所選的同名稱兵員。",
+        "같은 이름의 선택한 유닛을 합성했습니다.",
+        "Les unités du même nom sélectionnées ont été fusionnées.",
+        "Ausgewählte Einheiten mit demselben Namen wurden fusioniert.",
+        "Se han fusionado las unidades seleccionadas con el mismo nombre.",
+        "Unit-unit dengan nama yang sama telah digabungkan.",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aมีชื่อ\u001aเดียวกัน\u001aนั้น\u001aได้รับ\u001aการ\u001aรวม\u001aร่าง\u001aแล้ว\u001a"
+    ],
+    "UNIT_MIX_AUTO_SUBHEADER": [
+        "Bulk Fusion",
+        "兵員一併合成",
+        "일괄 합성",
+        "Fusion de groupe",
+        "Bündelfusion",
+        "Fusionar de golpe",
+        "Penggabungan Kelompok",
+        "รวม\u001aร่าง\u001aกลุ่ม\u001a"
+    ],
+    "UNIT_MIX_AUTO_UNIT_NONE": [
+        "There are no units which can be fused.",
+        "沒有可以合成的兵員",
+        "합성 가능한 유닛이 없습니다.",
+        "Il n'y a aucune unité à fusionner.",
+        "Keine Einheiten vorhanden, die fusioniert werden können.",
+        "No hay unidades que se puedan fusionar.",
+        "Tidak ada unit yang dapat digabungkan.",
+        "ไม่\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aสามารถ\u001aรวม\u001aร่าง\u001aได้\u001a"
     ],
     "UNIT_MIX_CONFIRM_ALREADY_SUPER_TRUST_MASTER": [
         "The base unit has already obtained the super trust master reward, <color=255:165:0><param=trust_name></color>. Trust value for <color=255:165:0><param=trust_name></color> <color=255:255:0>will not increase</color>.<br> <br>Proceed with fusion?",
@@ -26101,6 +26721,16 @@
         "Level",
         "Level\u001a"
     ],
+    "UNIT_SORT_TYPE_MIX_RANGE": [
+        "Units to Select",
+        "兵員選擇範圍",
+        "선택할 유닛",
+        "Unités à sélectionner",
+        "Auswählbare Einheiten",
+        "Unidades a seleccionar",
+        "Unit yang Dipilih",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001a"
+    ],
     "UNIT_SORT_TYPE_MND": [
         "SPR",
         "精神",
@@ -26262,14 +26892,14 @@
         "จัดการ\u001aทีม\u001a"
     ],
     "UNTIL": [
-        "Until <param=endday>",
-        "<param=endday> 為止",
-        "<param=endday>까지",
-        "Jusqu'au <param=endday>",
-        "Bis <param=endday>",
-        "Hasta <param=endday>",
-        "Sampai <param=endday>",
-        "มี\u001aถึง\u001aวันที่\u001a \u001a<param=endday>\u001a"
+        "Until: <param=month>/<param=day>/<param=year> <param=hour>:<param=minute>",
+        "結束時間: <param=year>/<param=month>/<param=day> <param=hour>:<param=minute>",
+        "종료 시간: <param=year>/<param=month>/<param=day> <param=hour>:<param=minute>",
+        "Jusqu'au: <param=day>/<param=month>/<param=year> <param=hour>:<param=minute>",
+        "Bis <param=day>.<param=month>.<param=year> <param=hour>:<param=minute>",
+        "Hasta: <param=day>/<param=month>/<param=year> <param=hour>:<param=minute>",
+        "Sampai: <param=day>/<param=month>/<param=year> <param=hour>:<param=minute>",
+        "จนถึง\u001a:\u001a \u001a<param=day>/<param=month>/<param=year>\u001a \u001a<param=hour>:<param=minute>\u001a"
     ],
     "UNTIL_EVENT_END": [
         "until end of event",
