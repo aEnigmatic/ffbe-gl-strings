@@ -19,6 +19,26 @@
         "Memberikan damage magic cahaya (3000%)",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001a \u001a(\u001a3000%)\u001a"
     ],
+    "20170001": [
+        "Deals partial unmitigated magic damage (1000%)",
+        "發動無視部分魔法防禦的攻擊(1000%)",
+        "일부 마법 방어 무시 피해(1000%)",
+        "Inflige des dégâts magiques en partie fixes (1000 %)",
+        "Fügt teilweise direkten magischen Schaden zu (1000%).",
+        "Inflige daño mágico que ignora parcialmente el ESP (un 1000%)",
+        "Memberikan damage magic yang menembus sebagian SPR (1000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a(\u001a1000%)\u001a"
+    ],
+    "20170002": [
+        "Deals partial unmitigated magic damage (1500%)",
+        "發動無視部分魔法防禦的攻擊(1500%)",
+        "일부 마법 방어 무시 피해(1500%)",
+        "Inflige des dégâts magiques en partie fixes (1500 %)",
+        "Fügt teilweise direkten magischen Schaden zu (1500%).",
+        "Inflige daño mágico que ignora parcialmente el ESP (un 1500%)",
+        "Memberikan damage magic yang menembus sebagian SPR (1500%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a(\u001a1500%)\u001a"
+    ],
     "21705850": [
         null,
         null,
@@ -1307,7 +1327,7 @@
         "Erhöht magischen Feuerschaden (2000%).",
         "Inflige daño mágico de fuego (un 2000%)",
         "Memberikan damage magic api (2000%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a2000%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a<br>(\u001a2000%)\u001a"
     ],
     "202001002": [
         "Deals fire magic damage (3000%)",
@@ -1317,7 +1337,7 @@
         "Erhöht magischen Feuerschaden (3000%).",
         "Inflige daño mágico de fuego (un 3000%)",
         "Memberikan damage magic api (3000%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a3000%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a<br>(\u001a3000%)\u001a"
     ],
     "202010001": [
         null,
@@ -30858,6 +30878,126 @@
         "Cambia el consumo de PM (a 120)",
         "Mengubah jumlah konsumsi MP (120)",
         "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a120\u001a)\u001a"
+    ],
+    "300001219": [
+        "Boosts MAG (50%, up to 300%)",
+        "提高魔力(50%，最高至300%)",
+        "마력 상승(50%, 최대 300%)",
+        "Augmente la MAGIE (50 %, jusqu'à 300 %)",
+        "Erhöht MAG (50%, bis zu 300%).",
+        "Aumenta la MAG (un 50%, hasta un 300%)",
+        "Meningkatkan MAG (50%, hingga 300%)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a50%,\u001a \u001aสูงสุด\u001a \u001a300%)\u001a"
+    ],
+    "300001220": [
+        "Boosts MAG (50%, up to 350%)",
+        "提高魔力(50%，最高至350%)",
+        "마력 상승(50%, 최대 350%)",
+        "Augmente la MAGIE (50 %, jusqu'à 350 %)",
+        "Erhöht MAG (50%, bis zu 350%).",
+        "Aumenta la MAG (un 50%, hasta un 350%)",
+        "Meningkatkan MAG (50%, hingga 350%)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a50%,\u001a \u001aสูงสุด\u001a \u001a350%)\u001a"
+    ],
+    "300001221": [
+        "Boosts MAG (50%, up to 400%)",
+        "提高魔力(50%，最高至400%)",
+        "마력 상승(50%, 최대 400%)",
+        "Augmente la MAGIE (50 %, jusqu'à 400 %)",
+        "Erhöht MAG (50%, bis zu 400%).",
+        "Aumenta la MAG (un 50%, hasta un 400%)",
+        "Meningkatkan MAG (50%, hingga 400%)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a50%,\u001a \u001aสูงสุด\u001a \u001a400%)\u001a"
+    ],
+    "300001222": [
+        "Boosts MAG (50%, up to 450%)",
+        "提高魔力(50%，最高至450%)",
+        "마력 상승(50%, 최대 450%)",
+        "Augmente la MAGIE (50 %, jusqu'à 450 %)",
+        "Erhöht MAG (50%, bis zu 450%).",
+        "Aumenta la MAG (un 50%, hasta un 450%)",
+        "Meningkatkan MAG (50%, hingga 450%)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a50%,\u001a \u001aสูงสุด\u001a \u001a450%)\u001a"
+    ],
+    "300001223": [
+        "Boosts fire damage of LB, abilities, and magic (15%)",
+        "提高火屬性「極限技、能力、魔法」的傷害(15%)",
+        "불속성 LB, 어빌리티, 마법 피해량 상승(15%)",
+        "Augmente les dégâts de feu de la limite, des aptitudes et des sorts (15 %)",
+        "Erhöht Feuerschaden durch Limitrausch, Fertigkeiten und Magie (15%).",
+        "Aumenta el daño de fuego del EL, las habilidades y la magia (un 15%)",
+        "Meningkatkan damage api pada LB, ability, dan magic (15%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a15%)\u001a"
+    ],
+    "300001224": [
+        "Boosts fire damage of LB, abilities, and magic (18%)",
+        "提高火屬性「極限技、能力、魔法」的傷害(18%)",
+        "불속성 LB, 어빌리티, 마법 피해량 상승(18%)",
+        "Augmente les dégâts de feu de la limite, des aptitudes et des sorts (18 %)",
+        "Erhöht Feuerschaden durch Limitrausch, Fertigkeiten und Magie (18%).",
+        "Aumenta el daño de fuego del EL, las habilidades y la magia (un 18%)",
+        "Meningkatkan damage api pada LB, ability, dan magic (18%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a18%)\u001a"
+    ],
+    "300001225": [
+        "Boosts fire damage of LB, abilities, and magic (21%)",
+        "提高火屬性「極限技、能力、魔法」的傷害(21%)",
+        "불속성 LB, 어빌리티, 마법 피해량 상승(21%)",
+        "Augmente les dégâts de feu de la limite, des aptitudes et des sorts (21 %)",
+        "Erhöht Feuerschaden durch Limitrausch, Fertigkeiten und Magie (21%).",
+        "Aumenta el daño de fuego del EL, las habilidades y la magia (un 21%)",
+        "Meningkatkan damage api pada LB, ability, dan magic (21%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a21%)\u001a"
+    ],
+    "300001226": [
+        "Boosts fire damage of LB, abilities, and magic (24%)",
+        "提高火屬性「極限技、能力、魔法」的傷害(24%)",
+        "불속성 LB, 어빌리티, 마법 피해량 상승(24%)",
+        "Augmente les dégâts de feu de la limite, des aptitudes et des sorts (24 %)",
+        "Erhöht Feuerschaden durch Limitrausch, Fertigkeiten und Magie (24%).",
+        "Aumenta el daño de fuego del EL, las habilidades y la magia (un 24%)",
+        "Meningkatkan damage api pada LB, ability, dan magic (24%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a24%)\u001a"
+    ],
+    "300001227": [
+        "Boosts MAG (300)",
+        "提高魔力(300)",
+        "마력 상승(300)",
+        "Augmente la MAGIE (300)",
+        "Erhöht MAG (300).",
+        "Aumenta la MAG (en 300)",
+        "Meningkatkan MAG (300)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a300\u001a)\u001a"
+    ],
+    "300001228": [
+        "Boosts MAG (375)",
+        "提高魔力(375)",
+        "마력 상승(375)",
+        "Augmente la MAGIE (375)",
+        "Erhöht MAG (375).",
+        "Aumenta la MAG (en 375)",
+        "Meningkatkan MAG (375)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a375\u001a)\u001a"
+    ],
+    "300001229": [
+        "Boosts MAG (450)",
+        "提高魔力(450)",
+        "마력 상승(450)",
+        "Augmente la MAGIE (450)",
+        "Erhöht MAG (450).",
+        "Aumenta la MAG (en 450)",
+        "Meningkatkan MAG (450)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a450\u001a)\u001a"
+    ],
+    "300001230": [
+        "Boosts MAG (525)",
+        "提高魔力(525)",
+        "마력 상승(525)",
+        "Augmente la MAGIE (525)",
+        "Erhöht MAG (525).",
+        "Aumenta la MAG (en 525)",
+        "Meningkatkan MAG (525)",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a525\u001a)\u001a"
     ],
     "300001231": [
         "Boosts ATK and SPR (170%)",

@@ -4121,6 +4121,16 @@
         "Hadiah Tingkat %s - Hadiah Petualang (Mei)",
         "ของรางวัล\u001aระดับ\u001a %s\u001a \u001a-\u001a \u001aตรา\u001aนักผจญภัย\u001a \u001a(\u001aพฤษภาคม\u001a)\u001a"
     ],
+    "EMBLEM_REWARD_TIER_MAIL_9000003": [
+        "Adventurer Rewards (June) - Tier %s Reward",
+        "冒險家報酬(6月) - 階級 %s 報酬",
+        "모험가 보상(6월) - 등급 %s 보상",
+        "Récompenses d'aventurier (Juin) - Récompense du niveau %s",
+        "Abenteurer-Belohnungen (Juni) – Belohnung für Rang %s",
+        "Recompensas de aventurero (junio) - Recompensa de nivel %s",
+        "Hadiah Petualang (Juni) - Hadiah Tingkat %s",
+        "ของรางวัล\u001aนักผจญภัย\u001a \u001a(\u001aมิถุนายน\u001a)\u001a \u001a-\u001a \u001aรางวัล\u001aระดับ\u001a %s\u001a"
+    ],
     "EMBLEM_TAB_TIER": [
         "Adventurer Tier",
         "冒險家階級",
@@ -4649,7 +4659,7 @@
         "Der Bonus für den Fertigkeitserwerb gilt nicht für die Ausrüstung, die du zum Verbessern gewählt hast.",
         "La bonificación de adquisición de habilidad no se aplica al equipo elegido para mejorar.",
         "Bonus perolehan ability tidak berlaku untuk perlengkapan yang dipilih untuk diperkuat.",
-        "โบนัส\u001aใน\u001aการ\u001aได้\u001a \u001aAbility\u001a \u001aนัั้น\u001aไม่\u001aสามารถ\u001aนำมา\u001aใช้กับ\u001aอุปกรณ์\u001aที่\u001aต้องการ\u001aเสริม\u001aพลัง\u001aได้\u001a"
+        "โบนัส\u001aใน\u001aการ\u001aได้\u001a \u001aAbility\u001a \u001aนั้น\u001aไม่\u001aสามารถ\u001aนำมา\u001aใช้กับ\u001aอุปกรณ์\u001aที่\u001aต้องการ\u001aเสริม\u001aพลัง\u001aได้\u001a"
     ],
     "EQUIP_GROW_NO_BONUS_UNIT": [
         "Unit with ability acquisition bonus is not included in party.",
@@ -8335,7 +8345,7 @@
         "Use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=item_name></color>?",
         "要使用<param=cost> <param=ticket_name>獲得<br><color=255:255:0><param=item_name></color>嗎？",
         "<param=ticket_name>을(를) <param=cost>장 사용하여<br><color=255:255:0><param=item_name></color>을(를) 획득하시겠습니까?",
-        "Voulez-vous utilisez <param=cost> <param=ticket_name> pour obtenir<br><color=255:255:0><param=item_name></color> ?",
+        "Voulez-vous utilisez <param=ticket_name> x<param=cost> pour obtenir<br><color=255:255:0><param=item_name></color> ?",
         "<param=cost> <param=ticket_name>(n) benutzen, um <br><color=255:255:0><param=item_name></color> zu erhalten?",
         "¿Quieres usar <param=ticket_name> x<param=cost> para conseguir el siguiente objeto?<br><color=255:255:0><param=item_name></color>",
         "Gunakan <param=cost> <param=ticket_name> untuk memperoleh<br><color=255:255:0><param=item_name></color>?",
@@ -8395,8 +8405,8 @@
         "Use <param=cost> <param=ticket_name>(s) to obtain<br><color=255:255:0><param=unit_name></color>?",
         "要使用<param=ticket_name> <param=cost>張<br>獲得<color=255:255:0><param=unit_name></color>嗎？",
         "<param=ticket_name>을(를) <param=cost>장 사용하여 <br><color=255:255:0><param=unit_name></color>을(를) 획득하시겠습니까?",
-        "Utiliser <param=cost> <param=ticket_name> pour obtenir \"<br><color=255:255:0><param=unit_name></color>\" ?",
-        "<param=cost> <param=ticket_name>(s) benutzen, um<br><color=255:255:0><param=unit_name></color> zu erhalten?",
+        "Utiliser <param=ticket_name> x<param=cost> pour obtenir<br>\"<br><color=255:255:0><param=unit_name></color>\" ?",
+        "<param=cost> <param=ticket_name>(n) benutzen, um<br><color=255:255:0><param=unit_name></color> zu erhalten?",
         "Usa <param=cost> <param=ticket_name>(s) para conseguir<br><color=255:255:0><param=unit_name></color>?",
         "Gunakan <param=cost> <param=ticket_name> untuk memperoleh<br><color=255:255:0><param=unit_name></color>?",
         "คุณ\u001aต้องการ\u001aใช้\u001aตั๋ว\u001a \u001a<param=ticket_name>\u001a \u001a<param=cost>\u001a \u001aใบ\u001aเพื่อ\u001aให้ได้\u001aยู\u001aนิ\u001aท<br><color=255:255:0><param=unit_name></color>\u001aมา\u001aหรือไม่\u001a?\u001a"
@@ -24337,7 +24347,7 @@
         "합계 소비액",
         "Points totaux",
         "Pkt. gesamt",
-        "Puntos totales",
+        "Puntos<br>totales",
         "Total Poin",
         "ยอดรวม\u001a"
     ],
