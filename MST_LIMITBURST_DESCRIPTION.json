@@ -13630,40 +13630,50 @@
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "211000805": [
-        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for one turn",
-        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+1回合內可使用「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
-        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+1턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes, réduit la résistance feu, glace, foudre, eau, vent et terre d'un ennemi et permet de lancer OmniFeu V, OmniGlace V, OmniFoudre V, OmniEau V, OmniVent V, OmniPierre V pendant un tour",
-        "Fügt einem Gegner teilweise direkten magischen Schaden zu und reduziert seine Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und ermöglicht Feuga V, Eisga V, Blitzga V, Aquaga V, Aeroga V und Steinga V für eine Runde.",
-        "Daño que ignora parcialmente la DEF de un enemigo, reduce su resistencia al fuego, hielo, rayo, agua, viento y tierra, y aprende Piedra++ V, Aqua++ V, Aero++ V, Piro++ V, Hielo++ V y Electro++ V durante un turno",
-        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan Firaga V, Blizzaga V, Thundaga V, Waterga V, Aeroga V, dan Stonga V selama 1 giliran",
-        "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aFiraga\u001a \u001aV\u001a,\u001a \u001aBlizzaga\u001a \u001aV\u001a,\u001a \u001aThundaga\u001a \u001aV\u001a,\u001a \u001aWaterga\u001a \u001aV\u001a,\u001a \u001aAeroga\u001a \u001aV\u001a \u001aและ\u001a \u001aStonega\u001a \u001aV\u001a \u001aได้\u001a \u001a1\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, and earth resistance for one enemy, and enable specific abilities for caster",
+        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+自身可使用特定能力",
+        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à un ennemi et réduit sa résistance au feu, à la glace, à la foudre, à l'eau, au vent et à la terre, et permet au lanceur d'utiliser des aptitudes spécifiques",
+        "Fügt teilweise direkten magischen Schaden zu und verringert Feuer-, Eis-, Blitz-, Wasser-, Wind- sowie Erdresistenz eines Gegners und ermöglicht dem Benutzer gewisse Fertigkeiten.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo y reduce su resistencia a fuego, hielo, rayo, agua, viento y tierra, y el usuario aprende determinadas habilidades",
+        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "211000806": [
-        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 2 turns",
-        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+2回合內可使用「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
-        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+2턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes, réduit la résistance feu, glace, foudre, eau, vent et terre d'un ennemi et permet de lancer OmniFeu V, OmniGlace V, OmniFoudre V, OmniEau V, OmniVent V, OmniPierre V pendant 2 tours",
-        "Fügt einem Gegner teilweise direkten magischen Schaden zu und reduziert seine Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und ermöglicht Feuga V, Eisga V, Blitzga V, Aquaga V, Aeroga V und Steinga V für 2 Runden.",
-        "Daño que ignora parcialmente la DEF de un enemigo, reduce su resistencia al fuego, hielo, rayo, agua, viento y tierra, y aprende Piedra++ V, Aqua++ V, Aero++ V, Piro++ V, Hielo++ V y Electro++ V durante 2 turnos",
-        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan Firaga V, Blizzaga V, Thundaga V, Waterga V, Aeroga V, dan Stonga V selama 2 giliran",
-        "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aFiraga\u001a \u001aV\u001a,\u001a \u001aBlizzaga\u001a \u001aV\u001a,\u001a \u001aThundaga\u001a \u001aV\u001a,\u001a \u001aWaterga\u001a \u001aV\u001a,\u001a \u001aAeroga\u001a \u001aV\u001a \u001aและ\u001a \u001aStonega\u001a \u001aV\u001a \u001aได้\u001a \u001a2\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, and earth resistance for one enemy, and enable specific abilities for caster",
+        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+自身可使用特定能力",
+        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à un ennemi et réduit sa résistance au feu, à la glace, à la foudre, à l'eau, au vent et à la terre, et permet au lanceur d'utiliser des aptitudes spécifiques",
+        "Fügt teilweise direkten magischen Schaden zu und verringert Feuer-, Eis-, Blitz-, Wasser-, Wind- sowie Erdresistenz eines Gegners und ermöglicht dem Benutzer gewisse Fertigkeiten.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo y reduce su resistencia a fuego, hielo, rayo, agua, viento y tierra, y el usuario aprende determinadas habilidades",
+        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "211000807": [
-        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 3 turns",
-        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+3回合內可使用「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
-        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+3턴 동안 '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes, réduit la résistance feu, glace, foudre, eau, vent et terre d'un ennemi et permet de lancer OmniFeu V, OmniGlace V, OmniFoudre V, OmniEau V, OmniVent V, OmniPierre V pendant 3 tours",
-        "Fügt einem Gegner teilweise direkten magischen Schaden zu und reduziert seine Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und ermöglicht Feuga V, Eisga V, Blitzga V, Aquaga V, Aeroga V und Steinga V für 3 Runden.",
-        "Daño que ignora parcialmente la DEF de un enemigo, reduce su resistencia al fuego, hielo, rayo, agua, viento y tierra, y aprende Piedra++ V, Aqua++ V, Aero++ V, Piro++ V, Hielo++ V y Electro++ V durante 3 turnos",
-        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan Firaga V, Blizzaga V, Thundaga V, Waterga V, Aeroga V, dan Stonga V selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aFiraga\u001a \u001aV\u001a,\u001a \u001aBlizzaga\u001a \u001aV\u001a,\u001a \u001aThundaga\u001a \u001aV\u001a,\u001a \u001aWaterga\u001a \u001aV\u001a,\u001a \u001aAeroga\u001a \u001aV\u001a \u001aและ\u001a \u001aStonega\u001a \u001aV\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, and earth resistance for one enemy, and enable specific abilities for caster",
+        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+自身可使用特定能力",
+        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à un ennemi et réduit sa résistance au feu, à la glace, à la foudre, à l'eau, au vent et à la terre, et permet au lanceur d'utiliser des aptitudes spécifiques",
+        "Fügt teilweise direkten magischen Schaden zu und verringert Feuer-, Eis-, Blitz-, Wasser-, Wind- sowie Erdresistenz eines Gegners und ermöglicht dem Benutzer gewisse Fertigkeiten.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo y reduce su resistencia a fuego, hielo, rayo, agua, viento y tierra, y el usuario aprende determinadas habilidades",
+        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
+    ],
+    "211000827": [
+        "Deal light magic damage to one enemy",
+        "對1名敵人發動光屬性魔法攻擊",
+        "적 1명에게 빛속성 마법 피해",
+        "Inflige des dégâts magiques de lumière à un ennemi",
+        "Fügt einem Gegner magischen Lichtschaden zu.",
+        "Daño mágico de luz a un enemigo",
+        "Memberikan damage magic cahaya pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "211000905": [
         "Chance of instantly KO'ing all enemies or deal partial unmitigated damage to all enemies",
-        "對全體敵人施加致死一擊效果or發動無視部分防禦的攻擊",
+        "對全體敵人施加致死一擊效果或發動無視部分防禦的攻擊",
         "적 전체에 일정 확률로 즉사 부여 또는 일부 방어 무시 피해",
-        "Chance de mettre les ennemis KO instantanément ou inflige des dégâts en partie fixes à tous les ennemis",
+        "Confère une chance de mettre les ennemis KO instantanément ou inflige des dégâts en partie fixes à tous les ennemis",
         "Chance, alle Gegner sofort kampfunfähig zu machen oder allen Gegnern teilweise direkten Schaden zuzufügen.",
         "Probabilidad de K.O. instantáneo a todos los enemigos o de infligirles daño que ignora parcialmente la DEF",
         "Peluang untuk menyebabkan K.O. seketika atau memberikan damage yang menembus sebagian DEF pada semua musuh",
@@ -13671,9 +13681,9 @@
     ],
     "211000906": [
         "Chance of instantly KO'ing all enemies or deal partial unmitigated damage to all enemies",
-        "對全體敵人施加致死一擊效果or發動無視部分防禦的攻擊",
+        "對全體敵人施加致死一擊效果或發動無視部分防禦的攻擊",
         "적 전체에 일정 확률로 즉사 부여 또는 일부 방어 무시 피해",
-        "Chance de mettre les ennemis KO instantanément ou inflige des dégâts en partie fixes à tous les ennemis",
+        "Confère une chance de mettre les ennemis KO instantanément ou inflige des dégâts en partie fixes à tous les ennemis",
         "Chance, alle Gegner sofort kampfunfähig zu machen oder allen Gegnern teilweise direkten Schaden zuzufügen.",
         "Probabilidad de K.O. instantáneo a todos los enemigos o de infligirles daño que ignora parcialmente la DEF",
         "Peluang untuk menyebabkan K.O. seketika atau memberikan damage yang menembus sebagian DEF pada semua musuh",
@@ -13681,13 +13691,23 @@
     ],
     "211000907": [
         "Chance of instantly KO'ing all enemies or deal partial unmitigated damage to all enemies",
-        "對全體敵人施加致死一擊效果or發動無視部分防禦的攻擊",
+        "對全體敵人施加致死一擊效果或發動無視部分防禦的攻擊",
         "적 전체에 일정 확률로 즉사 부여 또는 일부 방어 무시 피해",
-        "Chance de mettre les ennemis KO instantanément ou inflige des dégâts en partie fixes à tous les ennemis",
+        "Confère une chance de mettre les ennemis KO instantanément ou inflige des dégâts en partie fixes à tous les ennemis",
         "Chance, alle Gegner sofort kampfunfähig zu machen oder allen Gegnern teilweise direkten Schaden zuzufügen.",
         "Probabilidad de K.O. instantáneo a todos los enemigos o de infligirles daño que ignora parcialmente la DEF",
         "Peluang untuk menyebabkan K.O. seketika atau memberikan damage yang menembus sebagian DEF pada semua musuh",
         "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aทันที\u001a \u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "211000927": [
+        "Chance of instantly KO'ing or damaging all enemies",
+        "一定機率對全體敵人施加致死一擊效果或傷害",
+        "적 전체에 피해 또는 일정 확률로 즉사 부여",
+        "Confère une chance d'infliger des dégâts ou un K.O. instantané à tous les ennemis",
+        "Chance, alle Gegner sofort auszuschalten oder allen Gegnern Schaden zuzufügen.",
+        "Probabilidad de dejar K.O. al instante a todos los enemigos o dañarlos",
+        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage pada semua musuh",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทันที\u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "211001004": [
         "Reduce damage taken for three turns, and boost DEF and SPR and gradually restore HP and MP for all allies while singing",
@@ -13808,6 +13828,26 @@
         "Daño a un enemigo y probabilidad de infligirle paro",
         "Memberikan damage dan peluang untuk memberikan status stop pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aและ\u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStop\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "211001507": [
+        "Remove some status effects, reduce ATK, DEF, MAG, SPR, and fire, ice, lightning, water, wind, and earth resistance, and damage all enemies",
+        "解除全體敵人的部分狀態數值效果+降低攻擊防禦魔力精神、火冰雷水風土屬性耐性+發動攻擊",
+        "적 전체의 일부 능력치 효과 해제+공격력, 방어력, 마력, 정신력과 불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+피해",
+        "Dissipe certains effets de statut de tous les ennemis, réduit leur ATT, leur DEF, leur MAGIE et leur PSY ainsi que leur résistance au feu, à la glace, à la foudre, à l'eau, au vent et à la terre, et leur inflige des dégâts",
+        "Entfernt einige Statuseffekte, verringert ANG, ABW, MAG, PSY sowie Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und fügt allen Gegnern Schaden zu.",
+        "Elimina algunos cambios de estado de todos los enemigos, reduce su ATQ, DEF, MAG y ESP y su resistencia a fuego, hielo, rayo, agua, viento y tierra, y les inflige daño",
+        "Menghilangkan beberapa efek perubahan status, mengurangi ATK, DEF, MAG, SPR, dan resistansi api, es, petir, air, angin, dan tanah, serta memberikan damage pada semua musuh",
+        "ยกเลิก\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aบางอย่าง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "211001517": [
+        "Damage one enemy, and boost ice and wind resistance and reduce physical and magic damage dealt by machina monsters for all allies",
+        "攻擊1名敵人+提高全體隊員的冰風屬性耐性+減少來自機械系魔物的物理、魔法傷害",
+        "적 1명에게 피해+아군 전체의 얼음과 바람속성 저항력 상승+기계형 마물에게 받는 물리, 마법 피해량 감소",
+        "Inflige des dégâts à un ennemi, augmente la résistance à la glace et au vent de tous les alliés et réduit les dégâts physiques et magiques que leur infligent les machines",
+        "Fügt einem Gegner Schaden zu und erhöht Eis- sowie Windresistenz und verringert von allen Verbündeten erlittenen physischen sowie magischen Schaden durch Maschinen.",
+        "Daña a un enemigo, y aumenta la resistencia a hielo y viento de todos los aliados y reduce el daño físico y mágico que les infligen las máquinas",
+        "Memberikan damage pada satu musuh, serta meningkatkan resistansi es dan angin, dan mengurangi damage fisik dan magic yang diterima semua teman dari jenis mesin",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aและ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aจาก\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a"
     ],
     "212000103": [
         "Damage all enemies",
@@ -23960,14 +24000,14 @@
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aและ\u001a \u001aATK\u001a \u001aของ\u001aตัวเอง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aใน\u001aค่าที่\u001aกำหนด\u001aแก่\u001aผู้ใช้\u001aใน\u001aเทิร์น\u001aถัดไป\u001a"
     ],
     "950000008": [
-        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, earth resistance for one enemy and enable quadruple chainspell, firaga V, blizzaga V, thundaga V, waterga V, aeroga V and stonega V for 3 turns",
-        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+3回合內可使用「IV連續魔」「大火焰V」「大暴雪V」「大雷電V」「大流水V」「大勁風V」「大落石V」",
-        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+3턴 동안 'IV연속마', '파이가V', '블리자가V', '선더가V', '워터가V, '에어로가V', '스톤가V' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes à un ennemi, réduit sa résistance au feu, à la glace, à la foudre, à l'eau, au vent et à la terre et permet de lancer Quadruple chaîne de sorts, OmniFeu V, OmniGlace V, OmniFoudre V, OmniEau V, OmniVent V, OmniPierre V pendant 3 tours",
-        "Fügt einem Gegner teilweise direkten magischen Schaden zu und verringert seine Feuer-, Eis-, Blitz-, Wasser-, Wind- und Erdresistenz und ermöglicht Vierfacher Ketterspruch, Feuga V, Eisga V, Blitzga V, Aquaga V, Aeroga V und Steinga V für 3 Runden.",
-        "Daño que ignora parcialmente la DEF de un enemigo, reduce su resistencia a fuego, hielo, rayo, agua, viento y tierra, y aprende Hechizo en cadena cuádruple, Piedra++ V, Aqua++ V, Aero++ V, Piro++ V, Hielo++ V y Electro++ V durante 3 turnos",
-        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan Quadruple Chainspell, Firaga V, Blizzaga V, Thundaga V, Waterga V, Aeroga V, dan Stonega V selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a \u001aและ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aChainspell\u001a \u001a4\u001a \u001aเท่า\u001a,\u001a \u001aFiraga\u001a \u001aV\u001a,\u001a \u001aBlizzaga\u001a \u001aV\u001a,\u001a \u001aThundaga\u001a \u001aV\u001a,\u001a \u001aWaterga\u001a \u001aV\u001a,\u001a \u001aAeroga\u001a \u001aV\u001a \u001aและ\u001a \u001aStonega\u001a \u001aV\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated magic damage and reduce fire, ice, lightning, water, wind, and earth resistance for one enemy, and enable specific abilities for caster",
+        "對1名敵人發動無視部分魔法防禦的攻擊+降低火冰雷水風土屬性耐性+自身可使用特定能力",
+        "적 1명에게 일부 마법 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅속성 저항력 감소+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts magiques en partie fixes à un ennemi et réduit sa résistance au feu, à la glace, à la foudre, à l'eau, au vent et à la terre, et permet au lanceur d'utiliser des aptitudes spécifiques",
+        "Fügt teilweise direkten magischen Schaden zu und verringert Feuer-, Eis-, Blitz-, Wasser-, Wind- sowie Erdresistenz eines Gegners und ermöglicht dem Benutzer gewisse Fertigkeiten.",
+        "Daño mágico que ignora parcialmente el ESP de un enemigo y reduce su resistencia a fuego, hielo, rayo, agua, viento y tierra, y el usuario aprende determinadas habilidades",
+        "Memberikan damage magic yang menembus sebagian SPR dan mengurangi resistansi api, es, petir, air, angin, dan tanah pada satu musuh, serta memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "950000009": [
         "Deal damage to one enemy, enable lunar basher and triple claws for one turn, boost own ATK, and caster can evade some physical attacks three times",
