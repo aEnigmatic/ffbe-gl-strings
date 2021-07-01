@@ -2759,6 +2759,16 @@
         "Selamat datang kembali! Ambil item-item berikut ini untuk merayakannya!",
         "ยินดีต้อนรับ\u001aกลับ\u001aสู่\u001aเกม\u001aนะ\u001a!\u001a \u001aนี่\u001aคือ\u001aของขวัญ\u001aสำหรับ\u001aฉลอง\u001aการ\u001aกลับมา\u001aของ\u001aคุณ\u001aไง\u001aคุ\u001aโปะ\u001a!\u001a"
     ],
+    "COMEBACK_LOGIN_MAIL_MSG_8": [
+        "Welcome back! Here are some items to celebrate your return, kupo!",
+        "歡迎回歸！為你準備了一些獎勵道具慶祝你的歸來！",
+        "다시 돌아온 걸 환영해! 컴백 기념 아이템을 선물할게!",
+        "Bon retour parmi nous ! Acceptez ces quelques objets pour fêter cela !",
+        "Willkommen zurück! Hier hast du ein paar Gegenstände, um deine Rückkehr zu feiern!",
+        "¡Cuánto tiempo! Aquí tienes algunos objetos para celebrar tu regreso!",
+        "Selamat datang kembali! Ambil item-item berikut ini untuk merayakannya!",
+        "ยินดีต้อนรับ\u001aกลับ\u001aสู่\u001aเกม\u001aนะ\u001a!\u001a \u001aนี่\u001aคือ\u001aของขวัญ\u001aสำหรับ\u001aฉลอง\u001aการ\u001aกลับมา\u001aของ\u001aคุณ\u001aไง\u001aคุ\u001aโปะ\u001a!\u001a"
+    ],
     "COMEBACK_LOGIN_MAIL_TITLE_1": [
         "Comeback Login Bonus",
         "回歸登入獎勵",
@@ -2820,6 +2830,16 @@
         "โบนัส\u001aล็อกอิน\u001aต้อนรับ\u001aกลับ\u001a"
     ],
     "COMEBACK_LOGIN_MAIL_TITLE_7": [
+        "Comeback Login Bonus",
+        "回歸登入獎勵",
+        "컴백 출석 보상",
+        "Bonus de connexion de retour",
+        "Comeback-Anmeldebonus",
+        "Bonificación de inicio de sesión de regreso al juego",
+        "Bonus Login Comeback",
+        "โบนัส\u001aล็อกอิน\u001aต้อนรับ\u001aกลับ\u001a"
+    ],
+    "COMEBACK_LOGIN_MAIL_TITLE_8": [
         "Comeback Login Bonus",
         "回歸登入獎勵",
         "컴백 출석 보상",
@@ -4130,6 +4150,16 @@
         "Recompensas de aventurero (junio) - Recompensa de nivel %s",
         "Hadiah Petualang (Juni) - Hadiah Tingkat %s",
         "ของรางวัล\u001aนักผจญภัย\u001a \u001a(\u001aมิถุนายน\u001a)\u001a \u001a-\u001a \u001aรางวัล\u001aระดับ\u001a %s\u001a"
+    ],
+    "EMBLEM_REWARD_TIER_MAIL_9000004": [
+        "Adventurer Rewards (July) - Tier %s Reward",
+        "冒險家報酬(7月) - 階級 %s 報酬",
+        "모험가 보상(7월) - 등급 %s 보상",
+        "Récompenses d'aventurier (Juillet) - Récompense du niveau %s",
+        "Abenteurer-Belohnungen (Juli) – Belohnung für Rang %s",
+        "Recompensas de aventurero (julio) - Recompensa de nivel %s",
+        "Hadiah Petualang (Juli) - Hadiah Tingkat %s",
+        "ของรางวัล\u001aนักผจญภัย\u001a \u001a(\u001aกรกฎาคม\u001a)\u001a \u001a-\u001a \u001aรางวัล\u001aระดับ\u001a %s\u001a"
     ],
     "EMBLEM_TAB_TIER": [
         "Adventurer Tier",
@@ -5560,6 +5590,26 @@
         "Recuperación de energía",
         "Pemulihan energi",
         "การฟื้นฟู\u001a \u001aNTG\u001a"
+    ],
+    "ERROR_SHORTAGE_TFA_ORB_MESSAGE": [
+        "You can fully recover <color=255:0:0>clash orbs</color> by using <param=num> lapis.<br>Proceed with recovery?",
+        "使用<param=num>個寶石可以<color=255:0:0>恢復所有對決寶珠</color>。<br>是否要恢復？",
+        "라피스를 <param=num>개 사용하여 <color=255:0:0>격돌의 구슬</color>을 모두 회복할 수 있습니다.<br>회복하시겠습니까?",
+        "Vous pouvez restaurer entièrement vos <color=255:0:0>Orbes de choc</color> en utilisant <param=num> lapis.<br>Procéder à la restauration ?",
+        "Du kannst <color=255:0:0>Kriegerjuwelen</color> mit <param=num> Lapis wiederherstellen.<br>Mit Wiederherstellung fortfahren?",
+        "Puedes recuperar todos tus <color=255:0:0>orbes de choque</color> usando <param=num> lapis.<br>¿Quieres continuar?",
+        "Kamu dapat memulihkan seluruh <color=255:0:0>orb pertentangan</color> dengan menggunakan <param=num> lapis.<br>Lanjutkan?",
+        "สามารถ\u001aเติม\u001a \u001a<color=255:0:0>\u001aลูกแก้ว\u001aปะทะ\u001a</color>\u001a \u001aทั้งหมด\u001aได้\u001aโดย\u001aใช้\u001a \u001a<param=num>\u001a \u001aLapis\u001a<br>\u001aจะ\u001aทำการ\u001aเติม\u001aหรือไม่\u001a?\u001a"
+    ],
+    "ERROR_SHORTAGE_TFA_ORB_TITLE": [
+        "Insufficient clash orbs.",
+        "對決寶珠不足",
+        "격돌의 구슬이 부족합니다.",
+        "Orbes de choc insuffisants",
+        "Nicht genug Kriegerjuwelen.",
+        "Orbes de choque insuficientes.",
+        "Orb pertentangan tidak cukup.",
+        "มี\u001aลูกแก้ว\u001aปะทะ\u001aไม่\u001aพอ\u001a"
     ],
     "ERROR_UNIT_OVER_CAP": [
         "Unit capacity reached",
@@ -10561,6 +10611,16 @@
         "Hadiah Ranking Raid",
         "รางวัล\u001aอันดับ\u001a \u001aRaid\u001a"
     ],
+    "LPS_TFA_REWARD_MST_TITLE": [
+        "Clash of Wills Ranking Rewards",
+        "意志對決排名報酬",
+        "의지의 격돌 랭킹 보상",
+        "Récompenses de classement du Choc des volontés",
+        "Krieg des Willens: Rangbelohnungen",
+        "Recompensas de clasificación de Choque de Voluntades",
+        "Hadiah Ranking Pertentangan Tekad",
+        "รางวัล\u001aอันดับ\u001a \u001aปะทะ\u001aจิตวิญญาณ\u001a"
+    ],
     "LUCKY_RED_PACKET_BUNDLE_DESC": [
         "Grab your lucky red packets this festive season while stocks last! One packet available daily, kupo!",
         "在這歡樂的春節中抓緊您的幸運紅包，每日限定，售完為止，庫啵！",
@@ -12841,6 +12901,136 @@
         "bulan",
         "เดือน\u001a"
     ],
+    "MORALE_BAR_SKILL_UNAVAILABLE": [
+        "Unavailable",
+        "無法使用",
+        "이용 불가",
+        "Indisponible",
+        "Nicht verfügbar",
+        "No disponible",
+        "Tidak Tersedia",
+        "ไม่\u001aสามารถ\u001aรับได้\u001a"
+    ],
+    "MORALE_CURRENT_VALUE": [
+        "Current Player Morale:",
+        "目前我方士氣：",
+        "현재 유저 사기:",
+        "Moral du joueur actuel :",
+        "Derzeitige Spielermoral:",
+        "Ánimo actual del jugador:",
+        "Moral Pemain Saat Ini:",
+        "กำลังใจ\u001aของ\u001aผู้\u001aเล่น\u001aใน\u001aตอนนี้\u001a:\u001a"
+    ],
+    "MORALE_DISCLAIMER": [
+        "*When certain conditions are met, the morale gauge will be adjusted accordingly.<br><color=255:255:0>REMINDER:</color> Changes to the morale gauge will not come into effect until after the end of the turn.",
+        "*當符合特定條件時，士氣槽便會因應調整。<br><color=255:255:0>注意：</color>對士氣槽造成的變動在回合結束時才會生效。",
+        "※ 특정 조건이 충족되면 그에 따라 사기 게이지가 조정됩니다.<br><color=255:255:0>주의:</color> 사기 게이지의 변경은 턴이 종료된 후에 적용됩니다.",
+        "* Lorsque certaines conditions sont remplies, la jauge de moral est ajustée en conséquence.<br><color=255:255:0>RAPPEL :</color> Les modifications de la jauge de moral n'entreront en vigueur qu'après la fin du tour.",
+        "* Das Erfüllen bestimmter Bedingungen beeinflusst die Moralleiste dementsprechend.<br><color=255:255:0>Hinweis:</color> Veränderungen an der Moralleiste treten erst ab Ende der Runde in Kraft.",
+        "*La barra de ánimo se irá ajustando conforme se cumplan ciertas condiciones.<br><color=255:255:0>AVISO:</color> Los cambios de la barra de ánimo no entrarán en efecto hasta que termine el turno.",
+        "*Bar moral akan disesuaikan apabila kondisi tertentu terpenuhi. <br><color=255:255:0>PERINGATAN:</color> Perubahan pada bar moral tidak akan diterapkan hingga akhir giliran.",
+        "*\u001aGauge\u001a \u001aกำลังใจ\u001aจะ\u001aเปลี่ยนแปลง\u001aหาก\u001aผู้\u001aเล่น\u001aบรรลุ\u001aตามเงื่อนไข\u001aที่\u001aกำหนด\u001a<br><color=255:255:0>\u001aระวัง\u001a:</color>\u001a \u001aการเปลี่ยนแปลง\u001aของ\u001a \u001aGauge\u001a \u001aกำลังใจ\u001aนั้น\u001aจะ\u001aส่งผล\u001aหลัง\u001aจบ\u001aเทิร์น\u001a"
+    ],
+    "MORALE_INFO_TITLE": [
+        "Morale Gauge",
+        "士氣槽",
+        "사기 게이지",
+        "Jauge de moral",
+        "Moralleiste",
+        "Barra de ánimo",
+        "Bar Moral",
+        "Gauge\u001a \u001aกำลังใจ\u001a"
+    ],
+    "MORALE_PASSIVE_EFFECT_CHANGE": [
+        "increased@reduced",
+        "提高@降低",
+        "상승@감소",
+        "augmentée@réduite",
+        "erhöht@verringert",
+        "↑@↓",
+        "bertambah@berkurang",
+        "เพิ่ม\u001a@ลด\u001a"
+    ],
+    "MORALE_PASSIVE_EFFECT_MONSTER": [
+        "Enemy:<blank>",
+        "敵方的：",
+        "적:<blank>",
+        "Ennemi :<blank>",
+        "Gegner:<blank>",
+        "Enemigo:<blank>",
+        "Musuh:<blank>",
+        "ศัตรู\u001a:<blank>\u001a"
+    ],
+    "MORALE_PASSIVE_EFFECT_PLAYER": [
+        "Player:<blank>",
+        "我方的：",
+        "유저:<blank>",
+        "Joueur :<blank>",
+        "Spieler:<blank>",
+        "Jugador:<blank>",
+        "Pemain:<blank>",
+        "ผู้\u001aเล่น\u001a:<blank>\u001a"
+    ],
+    "MORALE_PASSIVE_EFFECT_STATS": [
+        "ATK@DEF@MAG@SPR",
+        "攻擊@防禦@魔力@精神",
+        "공격@방어@마력@정신",
+        "ATT @DEF @MAGIE @PSY<blank>",
+        "ANG@ABW@MAG@PSY",
+        "ATQ@DEF@MAG@ESP",
+        "ATK@DEF@MAG@SPR",
+        "ATK\u001a@\u001aDEF\u001a@\u001aMAG\u001a@\u001aSPR\u001a"
+    ],
+    "MORALE_PASSIVE_EFFECT_TITLE": [
+        "Passives in Effect:",
+        "被動效果：",
+        "발동 중인 패시브 효과:",
+        "Effets passifs :",
+        "Derzeit aktive passive Fertigkeiten:",
+        "Pasivas en efecto:",
+        "Efek Pasif:",
+        "Passive\u001a \u001aที่\u001aส่งผล\u001aอยู่\u001a:\u001a"
+    ],
+    "MORALE_PASSIVE_TRIGGER_CONDITION": [
+        "Condition",
+        "條件",
+        "조건",
+        "Condition",
+        "Bedingung",
+        "Condición",
+        "Kondisi",
+        "เงื่อนไข\u001a"
+    ],
+    "MORALE_PASSIVE_TRIGGER_VALUE": [
+        "Effect on Morale",
+        "士氣變動值",
+        "사기 변화",
+        "Effet sur le moral",
+        "Effekt auf Moral",
+        "Efecto en el ánimo",
+        "Efek pada Moral",
+        "ผล\u001aที่\u001aมี\u001aต่อ\u001aกำลังใจ\u001a"
+    ],
+    "MORALE_SKILL_MONSTER": [
+        "Enemy Actions",
+        "敵方行動",
+        "적 행동",
+        "Actions de l'ennemi",
+        "Gegneraktionen",
+        "Acciones del enemigo",
+        "Aksi Musuh",
+        "ท่า\u001aของ\u001aศัตรู\u001a"
+    ],
+    "MORALE_SKILL_PLAYER": [
+        "Player Actions",
+        "我方行動",
+        "유저 행동",
+        "Actions du joueur",
+        "Spieleraktionen",
+        "Acciones del jugador",
+        "Aksi Pemain",
+        "ท่า\u001aของ\u001aผู้\u001aเล่น\u001a"
+    ],
     "MSG_ACTION_FAVORITE_UNIT": [
         "The process was canceled because the attempted process was performed on a protected unit.<br>To protect your data, the app will now close.",
         "處理過程中含有受保護的兵員，處理已被取消。<br>為保護資料，應用程式即將關閉。",
@@ -13500,6 +13690,46 @@
         "Has alcanzado el límite de intentos para esta misión.",
         "Kesempatan untuk melakukan quest yang dipilih telah habis.",
         "เกิน\u001aจำนวน\u001aครั้ง\u001aทำ\u001aเค\u001aวส\u001aสูงสุด\u001aที่\u001aกำหนด\u001aไว้\u001aแล้ว\u001a"
+    ],
+    "MSG_TFA_INVALID_GAMBIT_INFO": [
+        "Error: Invalid Option",
+        "錯誤：無效項目",
+        "오류: 유효하지 않은 옵션",
+        "Erreur : Option non valide",
+        "Fehler: Ungültige Option",
+        "Error: opción no válida",
+        "Kesalahan: Pengaturan Tidak Valid",
+        "มี\u001aเหตุ\u001aผิดพลาด\u001a:\u001a \u001aภารกิจ\u001aไม่\u001aถูกต้อง\u001a"
+    ],
+    "MSG_TFA_INVALID_LOD": [
+        "Error: Invalid Difficulty",
+        "錯誤：無效難易度",
+        "오류: 유효하지 않은 난이도",
+        "Erreur : Difficulté non valide",
+        "Fehler: Ungültiger Schwierigkeitsgrad",
+        "Error: dificultad no válida",
+        "Kesalahan: Tingkat Kesulitan Tidak Valid",
+        "มี\u001aเหตุ\u001aผิดพลาด\u001a:\u001a \u001aระดับ\u001aความ\u001aยาก\u001aไม่\u001aถูกต้อง\u001a"
+    ],
+    "MSG_TFA_INVALID_MISSION": [
+        "Error: Invalid Mission",
+        "錯誤：無效挑戰",
+        "오류: 유효하지 않은 미션",
+        "Erreur : Mission non valide",
+        "Fehler: Ungültige Mission",
+        "Error: misión no válida",
+        "Kesalahan: Misi Tidak Valid",
+        "มี\u001aเหตุ\u001aผิดพลาด\u001a:\u001a \u001aภารกิจ\u001aไม่\u001aถูกต้อง\u001a"
+    ],
+    "MSG_TFA_NO_OPE_INFO": [
+        "Error: Invalid Event",
+        "錯誤：無效活動",
+        "오류: 유효하지 않은 이벤트",
+        "Erreur : Événement non valide",
+        "Fehler: Ungültiges Ereignis",
+        "Error: evento no válido",
+        "Kesalahan: Event Tidak Valid",
+        "มี\u001aเหตุ\u001aผิดพลาด\u001a:\u001a \u001aอีเวนท์\u001aไม่\u001aถูกต้อง\u001a"
     ],
     "MSG_UNIT_CLASS_UP_TERM_OUT": [
         "The half cost campaign has already ended.",
@@ -24090,6 +24320,446 @@
         "¡El enemigo ataca primero!",
         "Musuh menyerang terlebih dahulu!",
         "ศัตรู\u001aเป็น\u001aฝ่าย\u001aโจมตี\u001aก่อน\u001a!\u001a"
+    ],
+    "TFA_ADJUST_LEVEL_DISCLAIMER": [
+        "*Level cannot be increased beyond current max level.",
+        "*等級無法高於當前最高等級。",
+        "※ 레벨은 현재 최대 레벨 이상으로 높일 수 없습니다.",
+        "* Le niveau ne peut être augmenté au-delà du niveau max. actuel.",
+        "* Die Stufe kann nicht über die derzeitige max. Stufe hinaus erhöht werden.",
+        "*No puede pasar del nivel máximo actual.",
+        "*Level tidak dapat ditingkatkan lebih dari level max saat ini.",
+        "*\u001aไม่\u001aสามารถ\u001aเพิ่ม\u001a \u001aLv\u001a.\u001a \u001aได้\u001aสูง\u001aกว่า\u001aจำนวน\u001a \u001aLv\u001a.\u001a \u001aสูงสุด\u001a"
+    ],
+    "TFA_ADJUST_LEVEL_HINT": [
+        "Scroll to adjust level",
+        "滑動以調整等級",
+        "스크롤하여 레벨 조정",
+        "Faire défiler pour<br>ajuster le niveau",
+        "Scrolle, um die<br>Stufe anzupassen",
+        "Desliza para ajustar el nivel",
+        "Geser untuk<br>menyesuaikan level",
+        "เลื่อน\u001aเพื่อ\u001aเปลี่ยน\u001a \u001aLv\u001a.\u001a"
+    ],
+    "TFA_BATTLE_RESULT_GRADE_AVERAGE": [
+        "Overall Rating",
+        "最終評等",
+        "종합 등급",
+        "Évaluation générale",
+        "Gesamtbewertung",
+        "Clasificación general",
+        "Rating Keseluruhan",
+        "ระดับ\u001aเรตติ้ง\u001aโดยรวม\u001a"
+    ],
+    "TFA_BEST_SCORE": [
+        "High Score",
+        "最高得分",
+        "하이 스코어",
+        "Meilleur score",
+        "Highscore",
+        "Récord",
+        "Skor Tertinggi",
+        "คะแนน\u001aสูงสุด\u001a"
+    ],
+    "TFA_BONUS_REWARD_DISCLAIMER": [
+        "Note: The above reward(s) willbe sent to your mailbox atthe end of the event.",
+        "備註：以上報酬將於活動結束後發送至收信箱。",
+        "※ 위 보상은 이벤트 종료 시 메시지함으로 지급될 예정입니다.",
+        "Remarque : Les récompenses ci-dessus seront envoyées dans votre boîte de réception à la fin de l'événement.",
+        "Anmerkung: Diese Belohnung(en) wird/werden am Ende des Ereignisses in deinen Posteingang gesendet.",
+        "Nota: Las recompensas de arriba se enviarán a tu buzón cuando termine el evento.",
+        "Catatan: Hadiah di atas akan dikirim ke kotak masukmu setelah event berakhir.",
+        "โปรดทราบ\u001a:\u001a \u001aของรางวัล\u001aข้างต้น\u001aจะ\u001aถูก\u001aส่ง\u001aไป\u001aที่\u001aกล่อง\u001aจดหมาย\u001aของ\u001aผู้\u001aเล่น\u001aหลังจาก\u001aอีเวนท์\u001aสิ้นสุดลง\u001a"
+    ],
+    "TFA_BONUS_REWARD_GET_CONFIRM": [
+        "Obtain this reward?",
+        "要獲得此報酬嗎？",
+        "이 보상을 획득하시겠습니까?",
+        "Obtenir cette récompense ?",
+        "Diese Belohnung erhalten?",
+        "¿Recibir esta recompensa?",
+        "Dapatkan hadiah ini?",
+        "ต้องการ\u001aรับรางวัล\u001aนี้\u001aหรือไม่\u001a?\u001a"
+    ],
+    "TFA_BONUS_REWARD_GIVEUP": [
+        "Give up on obtaining any of the new rewards?",
+        "是否放棄獲得任何全新報酬？",
+        "획득한 모든 신규 보상을 포기하시겠습니까?",
+        "Renoncer à obtenir une des nouvelles récompenses ?",
+        "Keine der neuen Belohnungen erhalten?",
+        "¿Quieres dejar de obtener nuevas recompensas?",
+        "Apakah kamu ingin berhenti mendapatkan hadiah baru?",
+        "ต้องการ\u001aยกเลิก\u001aการ\u001aรับ\u001aไอเทม\u001aใหม่\u001aทั้งหมด\u001aหรือไม่\u001a?\u001a"
+    ],
+    "TFA_BONUS_REWARD_LIST_DISCLAIMER_1": [
+        "Obtainable rewards varyper echelon. Drop rates depicted here represent the chanceof a reward showing as one of the threeobtainable options after clearingthe echelon.<br><br>*Drop rate bonuses from boss level and unit bonuses are not included. Please refer to the Obtainable Rewards page for applied rates.",
+        "可獲得報酬會根據各級別而有所不同。此處標示的出現機率為完成該級別後顯示於三項報酬中的機率。<br><br>*不包含來自BOSS等級或角色獎勵的出現機率獎勵。更多關於機率的詳情請見「可獲得報酬」頁面。",
+        "획득 가능한 보상은 단계마다 다릅니다. 여기에 표시된 드롭률은 단계를 완료한 후 획득 가능한 세 가지 보상 중 하나가 등장할 확률을 나타냅니다.<br><br>※ 보스 레벨 및 유닛 보너스를 통해 획득한 드롭률 보너스는 포함되지 않습니다. 적용되는 확률에 대한 자세한 내용은 '획득 가능한 보상' 페이지를 확인하세요.",
+        "Les récompenses pouvant être obtenues varientpar échelon. Les taux d'apparition présentés ici représentent les chancesqu'une récompense apparaisse comme l'une des troisoptions disponibles après avoir franchi un échelon.<br><br>* Les bonus de taux d'apparition provenant du niveau du boss et des bonus d'unité ne sont pas inclus. Veuillez vous reporter à la page des récompenses pouvant être obtenues pour connaître les taux appliqués.",
+        "Die Belohnungen, die du erhalten kannst, variieren je nach Staffel. Die hier angegebenen Dropwahrscheinlichkeiten stellen die Wahrscheinlichkeit dar, dass eine Belohnung nach Abschluss der Staffel als eine der drei erhältlichen Optionen erscheint.<br><br>* Die Dropwahrscheinlichkeits-Boni durch die Boss-Stufe und die Einheitenboni sind nicht mit einberechnet. Informationen zu diesen findest du unter der Seite mit den erhältlichen Belohnungen.",
+        "Las recompensas que se pueden obtener varían según la etapa. Las tasas de aparición que se muestran aquí representan la posibilidad de que la recompensa aparezca como una de las 3 opciones obtenibles al completar la etapa.<br><br>*No se incluyen las bonificaciones de tasas de aparición de los jefes de nivel y las bonificaciones de unidades. Dirígete a la página de recompensas obtenibles para ver las tasas de aparición que se aplican.",
+        "Hadiah yang dapat diperoleh berbeda-beda di setiap eselon. Probabilitas kemunculan yang ditampilkan melambangkan probabilitas suatu hadiah muncul sebagai salah satu pilihan dari 3 hadiah yang dapat diperoleh setelah kamu menyelesaikan eselon.<br><br>*Bonus probabilitas kemunculan dari level boss dan unit bonus tidak disertakan. Silakan lihat halaman Hadiah yang Dapat Diperoleh untuk keterangan lebih lanjut tentang probabilitas yang berlaku.",
+        "ของรางวัล\u001aที่\u001aสามารถ\u001aรับได้\u001aนั้น\u001aจะ\u001aแตก\u001aต่างกัน\u001aไป\u001aใน\u001aแต่ละ\u001aชั้น\u001a \u001aโดย\u001a \u001aDrop\u001a \u001aRate\u001a \u001aที่\u001aเห็น\u001aอยู่\u001aตรงนี้\u001aเป็น\u001aเพียงแค่\u001aโอกาส\u001aใน\u001aการ\u001aได้\u001aรับรางวัล\u001a \u001aที่\u001aถูก\u001aแสดง\u001aเป็นหนึ่ง\u001aใน\u001aสาม\u001aไอเทม\u001aที่\u001aสามารถ\u001aรับได้\u001aหลังจาก\u001aเคลียร์\u001aขั้น\u001aแล้ว\u001aเท่านั้น\u001a<br><br>*\u001aไม่\u001aรวม\u001aโบนัส\u001a \u001aDrop\u001a \u001aRate\u001a \u001aจาก\u001a \u001aLv\u001a.\u001a \u001aของ\u001aบอส\u001aและ\u001aโบนัส\u001aยู\u001aนิ\u001aท\u001a \u001aโปรด\u001aดู\u001aที่\u001aหน้า\u001aของรางวัล\u001aที่\u001aสามารถ\u001aรับได้\u001aเพื่อ\u001aตรวจสอบ\u001a \u001aRate\u001a \u001aที่\u001aมีผล\u001aใน\u001aเกม\u001aแล้ว\u001a"
+    ],
+    "TFA_BONUS_REWARD_LIST_DISCLAIMER_2": [
+        "Obtainable rewards varyper echelon. Drop rates depicted here represent the chanceof a reward showing as one of the threeobtainable options after clearingthe echelon.",
+        "可獲得報酬會根據各級別而有所不同。此處標示的出現機率為完成該級別後顯示於三項報酬中的機率。",
+        "획득 가능한 보상은 단계마다 다릅니다. 여기에 표시된 드롭률은 단계를 완료한 후 획득 가능한 세 가지 보상 중 하나가 등장할 확률을 나타냅니다.",
+        "Les récompenses pouvant être obtenues varientselon l'échelon. Les taux d'apparition présentés ici représentent les chancesqu'une récompense apparaisse parmi les troisoptions accessibles quand un échelon est franchi.",
+        "Die Belohnungen, die du erhalten kannst, variieren je nach Staffel. Die hier wiedergegebenen Dropwahrscheinlichkeiten stellen die Wahrscheinlichkeit dar, dass eine Belohnung nach Abschluss der Staffel als eine der drei erhältlichen Optionen erscheint.",
+        "Las recompensas que se pueden obtener varían según la etapa. Las tasas de aparición que se muestran aquí representan la posibilidad de que la recompensa aparezca como una de las 3 opciones obtenibles al completar la etapa.",
+        "Hadiah yang dapat diperoleh berbeda-beda di setiap eselon. Probabilitas kemunculan yang ditampilkan melambangkan probabilitas suatu hadiah muncul sebagai salah satu pilihan dari 3 hadiah yang dapat diperoleh setelah kamu menyelesaikan eselon.",
+        "ของรางวัล\u001aที่\u001aสามารถ\u001aรับได้\u001aนั้น\u001aจะ\u001aแตก\u001aต่างกัน\u001aไป\u001aใน\u001aแต่ละ\u001aชั้น\u001a \u001aโดย\u001a \u001aDrop\u001a \u001aRate\u001a \u001aที่\u001aเห็น\u001aอยู่\u001aตรงนี้\u001aเป็น\u001aเพียงแค่\u001aโอกาส\u001aใน\u001aการ\u001aได้\u001aรับรางวัล\u001a \u001aที่\u001aถูก\u001aแสดง\u001aเป็นหนึ่ง\u001aใน\u001aสาม\u001aไอเทม\u001aที่\u001aสามารถ\u001aรับได้\u001aหลังจาก\u001aเคลียร์\u001aขั้น\u001aแล้ว\u001aเท่านั้น\u001a"
+    ],
+    "TFA_BONUS_REWARD_MAX_REACHED": [
+        "You cannot obtain any new rewards as you have already reached the maximum number allowed.<br>What would you like to do?",
+        "由於已達數量上限，因此無法獲得任何全新報酬。<br>要怎麼做呢？",
+        "보관 가능한 보상의 수가 최대치에 도달하여 신규 보상을 획득할 수 없습니다.<br>어떻게 하시겠습니까?",
+        "Vous ne pouvez pas obtenir de nouvelles récompenses car vous avez déjà atteint le nombre maximal autorisé.<br>Que voulez-vous faire ?",
+        "Derzeit ist es dir nicht möglich, neue Belohnungen zu erhalten, da du die maximal zugelassene Anzahl bereits erreicht hast.<br>Wie möchtest du vorgehen?",
+        "No puedes obtener recompensas nuevas porque ya has alcanzado el máximo permitido.<br>¿Qué quieres hacer?",
+        "Kamu tidak dapat lagi memperoleh hadiah baru karena batas maksimum hadiah telah tercapai.<br>Apa yang ingin kamu lakukan?",
+        "ไม่\u001aสามารถ\u001aรับ\u001aของรางวัล\u001aใหม่\u001aได้\u001aเนื่องจาก\u001aถึง\u001aจำนวน\u001aสูงสุด\u001aที่\u001aสามารถ\u001aรับได้\u001aแล้ว\u001a<br>\u001aต้องการ\u001aทำ\u001aอย่างไร\u001a?\u001a"
+    ],
+    "TFA_BONUS_REWARD_OBTAINED": [
+        "Rewards Obtained",
+        "獲得報酬",
+        "획득한 보상",
+        "Récompenses obtenues",
+        "Belohnungen erhalten.",
+        "Recompensas obtenidas",
+        "Hadiah yang Diperoleh",
+        "รางวัล\u001aที่\u001aได้รับ\u001a"
+    ],
+    "TFA_BONUS_REWARD_REMOVE_CONFIRM": [
+        "Discard this reward?",
+        "要放棄此報酬嗎？",
+        "이 보상을 포기하시겠습니까?",
+        "Jeter cette récompense ?",
+        "Diese Belohnung verwerfen?",
+        "¿Descartar esta recompensa?",
+        "Buang hadiah ini?",
+        "ต้องการ\u001aทิ้ง\u001aรางวัล\u001aนี้\u001aหรือไม่\u001a?\u001a"
+    ],
+    "TFA_BONUS_REWARD_REMOVE_NOTICE": [
+        "You are about to discard one ofthe rewards you have obtained.<br>Pleaseselect which reward you wantto discard.",
+        "你將放棄其中一項報酬。<br>請選擇你欲放棄的報酬。",
+        "획득한 보상을 하나 포기합니다.<br>포기할 보상을 선택해 주십시오.",
+        "Vous êtes sur le point de jeter l'une desrécompenses que vous avez obtenues.<br>Veuillezsélectionner la récompense que vous voulezjeter.",
+        "Du bist dabei, eine der erhaltenen Belohnungen zu verwerfen.<br>Wähle die Belohnung aus, die du verwerfen möchtest.",
+        "Vas a descartar una de las recompensas que has obtenido.<br>Selecciona la recompensa que quieras descartar.",
+        "Kamu akan membuang salah satu hadiah yang telah kamu peroleh.<br>Silakan pilih hadiah yang ingin kamu buang.",
+        "คุณ\u001aกำลังจะ\u001aทิ้ง\u001aของรางวัล\u001aที่\u001aได้รับ\u001aแล้ว\u001a<br>\u001aโปรด\u001aเลือก\u001aของรางวัล\u001aที่\u001aต้องการ\u001aทื้ง\u001a"
+    ],
+    "TFA_BONUS_REWARD_RULE": [
+        "You can only keep one of the new rewards that you have obtained. Tap the reward you wish to keep.",
+        "僅可保留一項已獲得的全新報酬。點擊欲保留的報酬。",
+        "획득한 신규 보상 중 하나만 보관할 수 있습니다. 보관하고 싶은 보상을 선택해 주십시오.",
+        "Vous ne pouvez conserver qu'une seule des nouvelles récompenses que vous avez obtenues. Appuyez sur la récompense que vous souhaitez conserver.",
+        "Du kannst nur eine der Belohnungen behalten, die du erhalten hast. Tippe auf die Belohnung, die du behalten möchtest.",
+        "Solo puedes quedarte con una de las recompensas que obtengas. Toca la que quieras recibir.",
+        "Kamu hanya dapat mempertahankan salah satu dari hadiah baru yang telah kamu peroleh. Sentuh hadiah yang ingin kamu pertahankan.",
+        "สามารถ\u001aเลือก\u001aเก็บ\u001aรางวัล\u001aได้\u001aเพียงแค่\u001aชิ้น\u001aเดียว\u001aเท่านั้น\u001aจาก\u001aรางวัล\u001aใหม่\u001aที่\u001aได้รับ\u001aทั้งหมด\u001aแตะ\u001aเพื่อ\u001aเลือก\u001aรางวัล\u001aที่\u001aต้องการ\u001a"
+    ],
+    "TFA_BONUS_REWARD_TITLE_1": [
+        "Available Rewards",
+        "報酬一覽",
+        "이용 가능한 보상",
+        "Récompenses disponibles",
+        "Verfügbare Belohnungen",
+        "Recompensas disponibles",
+        "Hadiah yang Tersedia",
+        "ของรางวัล\u001aที่\u001aมี\u001a"
+    ],
+    "TFA_BONUS_REWARD_TITLE_2": [
+        "Obtainable Rewards",
+        "可獲得報酬",
+        "획득 가능한 보상",
+        "Récompenses pouvant être obtenues",
+        "Erhältliche Belohnungen",
+        "Recompensas obtenibles",
+        "Hadiah yang Dapat Diperoleh",
+        "ของรางวัล\u001aที่\u001aสามารถ\u001aรับได้\u001a"
+    ],
+    "TFA_BOSS_LEVEL": [
+        "Echelon <param=boss_tier> Level <param=boss_level>",
+        "級別 <param=boss_tier> Lv. <param=boss_level>",
+        "단계 <param=boss_tier> 레벨 <param=boss_level>",
+        "Échelon <param=boss_tier> Niveau <param=boss_level>",
+        "Staffel <param=boss_tier> Stufe <param=boss_level>",
+        "Etapa <param=boss_tier> Nivel <param=boss_level>",
+        "Eselon <param=boss_tier> Level <param=boss_level>",
+        "ขั้น\u001a \u001a<param=boss_tier>\u001a \u001aLv\u001a.\u001a \u001a<param=boss_level>\u001a"
+    ],
+    "TFA_CURRENT_BOSS_LEVEL": [
+        "Current Boss Level",
+        "當前BOSS等級",
+        "현재 보스 레벨",
+        "Niveau du boss actuel",
+        "Derzeitige Boss-Stufe",
+        "Nivel de jefe actual",
+        "Level Boss Saat Ini",
+        "Lv\u001a.\u001a \u001aของ\u001aบอส\u001aใน\u001aปัจจุบัน\u001a"
+    ],
+    "TFA_DIFFICULTY_ADJUSTMENT": [
+        "Difficulty",
+        "難易度",
+        "난이도",
+        "Difficulté",
+        "Schwierigkeitsgrad",
+        "Dificultad",
+        "Tingkat Kesulitan",
+        "ระดับ\u001aความ\u001aยาก\u001a"
+    ],
+    "TFA_EVENT_ENDED": [
+        "Event Ended",
+        "活動結束",
+        "이벤트 종료",
+        "Événement terminé",
+        "Ereignis ist vorbei",
+        "Evento finalizado",
+        "Event Berakhir",
+        "อีเวนท์\u001aสิ้นสุด\u001aแล้ว\u001a"
+    ],
+    "TFA_EXPERT_GAMBIT": [
+        "Challenge Options",
+        "挑戰項目",
+        "도전 옵션",
+        "Options de défi",
+        "Herausforderungsoptionen",
+        "Trucos",
+        "Pengaturan Tantangan",
+        "ตั้งค่า\u001aการ\u001aท้าทาย\u001a"
+    ],
+    "TFA_GET_REWARD_OBTAINED_REWARD_EMPTY": [
+        "Unavailable",
+        "無法使用",
+        "이용 불가",
+        "Indisponible",
+        "Nicht verfügbar",
+        "No disponible",
+        "Tidak Tersedia",
+        "ไม่\u001aสามารถ\u001aรับได้\u001a"
+    ],
+    "TFA_MANAGE_PARTY_BUTTON": [
+        "Manage Party",
+        "編輯隊伍",
+        "파티 편성",
+        "Gérer le groupe",
+        "Gruppe verwalten",
+        "Formar grupo",
+        "Atur Tim",
+        "จัด\u001aทีม\u001a"
+    ],
+    "TFA_MAX_LEVEL": [
+        "Max Level: <param=num>",
+        "Lv.MAX：<param=num>",
+        "최대 레벨: <param=num>",
+        "Niveau max. : <param=num>",
+        "Max. Stufe: <param=num>",
+        "Nivel máx.: <param=num>",
+        "Level Max: <param=num>",
+        "Lv\u001a.\u001a \u001aสูงสุด\u001a:\u001a \u001a<param=num>\u001a"
+    ],
+    "TFA_MISSION_INFO": [
+        "Mission Info<br>(E: <param=boss_tier> - Lvl: <param=boss_level>)",
+        "任務情報<br>(級別：<param=boss_tier> - Lv.：<param=boss_level>)",
+        "미션 정보<br>(단계: <param=boss_tier> - 레벨: <param=boss_level>)",
+        "Infos de mission<br>(Éch.<param=boss_tier> - Niv. <param=boss_level>)",
+        "Missionsinformationen<br>(Staffel: <param=boss_tier> - St.: <param=boss_level>)",
+        "Información de misión<br>(E: <param=boss_tier> - Nv: <param=boss_level>)",
+        "Info Misi<br>(E: <param=boss_tier> - Lv: <param=boss_level>)",
+        "ข้อมูล\u001aภารกิจ\u001a \u001a(\u001aขั้น\u001a:\u001a \u001a<param=boss_tier>\u001a \u001a-\u001a \u001aLv\u001a.:\u001a \u001a<param=boss_level>)\u001a"
+    ],
+    "TFA_NEXT_LEVEL": [
+        "Boss Level",
+        "BOSS等級",
+        "보스 레벨",
+        "Niveau du boss",
+        "Boss-Stufe",
+        "Nivel de jefe",
+        "Level Boss",
+        "Lv\u001a.\u001a \u001aบอส\u001a"
+    ],
+    "TFA_NOT_ENOUGH_POINTS": [
+        "Insufficient points",
+        "點數不足",
+        "포인트 부족",
+        "Points insuffisants",
+        "Nicht genug Punkte",
+        "Puntos insuficientes",
+        "Poin tidak cukup.",
+        "มี\u001a \u001aPt\u001a.\u001a \u001aไม่\u001aพอ\u001a"
+    ],
+    "TFA_ORB_RECHARGE_TIMER": [
+        "Recharges in %s",
+        "%s內恢復",
+        "재충전까지 %s",
+        "Restauration dans %s",
+        "In %s wieder nutzbar",
+        "Se recarga en %s",
+        "Terisi ulang dalam %s",
+        "เติม\u001aลูกแก้ว\u001aใน\u001a %s\u001a"
+    ],
+    "TFA_PREVIOUS_GRADE": [
+        "Highest Rating Obtained:",
+        "獲得最高評等：",
+        "획득한 최고 등급:",
+        "Défiler pour ajuster le niv :",
+        "Erreichte Höchstwertung:",
+        "Mejor clasificación:",
+        "Perolehan Rating Tertinggi:",
+        "เรตติ้ง\u001aสูงสุด\u001aที่\u001aได้รับ\u001a:\u001a"
+    ],
+    "TFA_RANKING_BOSS_LEVEL": [
+        "(E: <param=boss_tier> - Lvl: <param=boss_level>)",
+        "(級別：<param=boss_tier> - Lv.：<param=boss_level>)",
+        "(단계: <param=boss_tier> - 레벨: <param=boss_level>)",
+        "(Éch. <param=boss_tier> - Niv. <param=boss_level>)",
+        "(Staffel: <param=boss_tier> - St: <param=boss_level>)",
+        "(E: <param=boss_tier> - Nv: <param=boss_level>)",
+        "(E: <param=boss_tier> - Lv: <param=boss_level>)",
+        "(\u001aขั้น\u001a:\u001a \u001a<param=boss_tier>\u001a \u001a-\u001a \u001aLv\u001a.:\u001a \u001a<param=boss_level>)\u001a"
+    ],
+    "TFA_RANKING_CRITERIA_EXG": [
+        "Challenge Bonus",
+        "挑戰獎勵",
+        "도전 보너스",
+        "Bonus de défi",
+        "Herausforderungsbonus",
+        "Bonif. truco",
+        "Bonus Tantangan",
+        "โบนัส\u001aการ\u001aท้าทาย\u001a"
+    ],
+    "TFA_RANKING_CRITERIA_TMOD": [
+        "Echelon and Level Bonus",
+        "級別/Lv.獎勵",
+        "단계/레벨 보너스",
+        "Bonus d'échelon et de niveau",
+        "Staffel- und Stufenbonus",
+        "Bonif. etapa y nivel",
+        "Bonus Eselon dan Level",
+        "โบนัส\u001a \u001aLv\u001a.\u001a \u001aและ\u001aขั้น\u001a"
+    ],
+    "TFA_RANKING_EXPERT_GAMBIT": [
+        "Challenge Options Selected",
+        "所選挑戰項目",
+        "선택한 도전 옵션",
+        "Options de défi choisies",
+        "Ausgewählte Herausforderungsoptionen",
+        "Trucos seleccionados",
+        "Pilihan Tantangan yang Ditetapkan",
+        "ค่า\u001aการ\u001aท้าทาย\u001aที่\u001aเลือก\u001a"
+    ],
+    "TFA_RANKING_GAMBITS_USED": [
+        "Challenge Options Selected",
+        "所選挑戰項目",
+        "선택한 도전 옵션",
+        "Options de défi choisies",
+        "Ausgewählte Herausforderungsoptionen",
+        "Trucos seleccionados",
+        "Pilihan Tantangan yang Ditetapkan",
+        "ค่า\u001aการ\u001aท้าทาย\u001aที่\u001aเลือก\u001a"
+    ],
+    "TFA_RANKING_GRADE": [
+        "Rating",
+        "評等",
+        "등급",
+        "Évaluation",
+        "Bewertung",
+        "Clasificación",
+        "Rating",
+        "เรตติ้ง\u001a"
+    ],
+    "TFA_RANKING_NO_RECORD": [
+        "No record available.",
+        "無法獲取任何記錄",
+        "기록 이용 불가",
+        "Aucune donnée disponible.",
+        "Kein Rekord vorhanden.",
+        "No hay datos disponibles.",
+        "Tidak ada rekor yang tersedia.",
+        "ไม่\u001aพบ\u001aบันทึก\u001aข้อมูล\u001a"
+    ],
+    "TFA_RANKING_PLAYER_RANK": [
+        "Player Rank: #<param=num>",
+        "玩家RANK：#<param=num>",
+        "유저 랭크: #<param=num>",
+        "Rang de joueur : #<param=num>",
+        "Spieler-Rang: #<param=num>",
+        "Rango de jugador: #<param=num>",
+        "Rank Pemain: #<param=num>",
+        "ระดับ\u001aของ\u001aผู้\u001aเล่น\u001a:\u001a \u001a#<param=num>\u001a"
+    ],
+    "TFA_RANKING_TOTAL_SCORE_BONUS": [
+        "Score Bonus",
+        "分數獎勵",
+        "스코어 보너스",
+        "Bonus de score",
+        "Gesamtpunktzahl-Bonus",
+        "Bonif. puntuación",
+        "Bonus Skor",
+        "โบนัส\u001aคะแนน\u001a"
+    ],
+    "TFA_REQUIRES_TIER": [
+        "Echelon <param=num> required",
+        "須達到級別<param=num>",
+        "단계 <param=num> 필요",
+        "Échelon <param=num> requis",
+        "Staffel <param=num> benötigt",
+        "Requiere etapa <param=num>",
+        "Eselon <param=num> diperlukan",
+        "ต้อง\u001aถึงขั้น\u001a \u001a<param=num>\u001a"
+    ],
+    "TFA_SCORING_SUMMARY": [
+        "Scoring",
+        "評分",
+        "스코어 정보",
+        "Score",
+        "Punktzahl",
+        "Puntuación",
+        "Skor",
+        "คะแนน\u001a"
+    ],
+    "TFA_TIER": [
+        "Echelon",
+        "級別",
+        "단계",
+        "Échelon",
+        "Staffel",
+        "Etapa",
+        "Eselon",
+        "ขั้น\u001a"
+    ],
+    "TFA_TOTAL_DROP_BONUS": [
+        "Total Drop Rate Bonus",
+        "合計掉落機率獎勵",
+        "총 드롭률 보너스",
+        "Total des bonus des taux d'apparition",
+        "Gesamtdropwahrscheinlichkeits-Bonus",
+        "Bonificación de tasa de aparición",
+        "Bonus Probabilitas Kemunculan Total",
+        "โบนัส\u001a \u001aDrop\u001a \u001aRate\u001a \u001aทั้งหมด\u001a"
+    ],
+    "TFA_TOTAL_SCORE_BONUS": [
+        "Total Score Bonus",
+        "合計分數獎勵",
+        "총 스코어 보너스",
+        "Total des bonus de score",
+        "Gesamtpunktzahl-Bonus",
+        "Bonificación de puntuación total",
+        "Bonus Skor Total",
+        "โบนัส\u001aคะแนน\u001aทั้งหมด\u001a"
+    ],
+    "TFA_USED_GAMBIT_POINT": [
+        "Applied",
+        "已使用",
+        "적용 횟수",
+        "Activée(s)",
+        "Angewandt",
+        "Aplicado",
+        "Diterapkan",
+        "ใช้\u001a"
     ],
     "THIRD_ANNIVERSARY_REWARD_LOGIN_MAIL_MESSAGE": [
         "Celebrating 3 years of FFBE by awarding our players Anniversary Follow-Up Tickets based on the player's total login days!",
