@@ -139,6 +139,26 @@
         "Meningkatkan DEF dan SPR",
         "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a"
     ],
+    "30210001": [
+        "Boosts ATK (200%)",
+        "提高攻擊(200%)",
+        "공격력 상승(200%)",
+        "Augmente l'ATT (200 %)",
+        "Erhöht ANG (200%).",
+        "Aumenta el ATQ (un 200%)",
+        "Meningkatkan ATK (200%)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a200%)\u001a"
+    ],
+    "30210002": [
+        "Boosts ATK (250%)<br>Boosts LB damage (100%)",
+        "提高攻擊(250%)<br>提高極限技的傷害(100%)",
+        "공격력 상승(250%)<br>LB 피해량 상승(100%)",
+        "Augmente l'ATT (250 %)<br>Augmente les dégâts de la limite (100 %)",
+        "Erhöht ANG (250%)<br>Erhöht Schaden durch Limitrausch (100%)",
+        "Aumenta el ATQ (un 250%)<br>Aumenta el daño del EL (un 100%)",
+        "Meningkatkan ATK (250%)<br>Meningkatkan damage LB (100%)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a250%)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a(\u001a100%)\u001a"
+    ],
     "100050001": [
         null,
         null,
@@ -840,24 +860,24 @@
         "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a14\u001a)<br>\u001aคืนชีพ\u001aและ\u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "102101001": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "<blank>\u001a"
+        "Consumes remaining MP to deal light magic damage to one enemy (30%)",
+        "消耗剩下的MP對1名敵人發動光屬性魔法攻擊(30%)",
+        "남은 MP를 소비하여 적 1명에게 빛속성 마법 피해(30%)",
+        "Consomme les PM restants pour infliger des dégâts magiques de lumière à un ennemi (30 %)",
+        "Verbraucht verbleibende MP, um einem Gegner magischen Lichtschaden zuzufügen (30%).",
+        "Consume los PM restantes para infligir daño mágico de luz a un enemigo (un 30%)",
+        "Menggunakan MP yang tersisa untuk memberikan damage magic cahaya pada satu musuh (30%)",
+        "ใช้\u001a \u001aMP\u001a \u001aที่\u001aเหลือ\u001aเพื่อ\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a(\u001a30%)\u001a"
     ],
     "102101002": [
-        "Targets all enemies",
-        "對象範圍變為全體敵人",
-        "대상 범위 적 전체로 확대",
-        "Cible tous les ennemis",
-        "Greift alle Gegner an",
-        "Ataca a todos los enemigos",
-        "Mengubah target menjadi semua musuh",
-        "โจมตี\u001aใส่\u001aศัตรู\u001aทั้งหมด\u001a"
+        "Consumes remaining MP to deal light magic damage to all enemies (60%)",
+        "消耗剩下的MP對全體敵人發動光屬性魔法攻擊(60%)",
+        "남은 MP를 소비하여 적 전체에 빛속성 마법 피해(60%)",
+        "Consomme les PM restants pour infliger des dégâts magiques de lumière à tous les ennemis (60 %)",
+        "Verbraucht verbleibende MP, um allen Gegnern magischen Lichtschaden zuzufügen (60%).",
+        "Consume los PM restantes para infligir daño mágico de luz a todos los enemigos (un 60%)",
+        "Menggunakan MP yang tersisa untuk memberikan damage magic cahaya pada semua musuh (60%)",
+        "ใช้\u001a \u001aMP\u001a \u001aที่\u001aเหลือ\u001aเพื่อ\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a(\u001a60%)\u001a"
     ],
     "200060001": [
         null,
@@ -31839,6 +31859,246 @@
         "Memberikan damage magic cahaya (4500%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a<br>(\u001a4500%)\u001a"
     ],
+    "300001383": [
+        "Boosts dark resistance (60%)",
+        "提高暗屬性耐性(60%)",
+        "어둠속성 저항력 상승(60%)",
+        "Augmente la résistance aux ténèbres (60 %)",
+        "Erhöht Dunkelresistenz (60%).",
+        "Aumenta la resistencia a la oscuridad (un 60%)",
+        "Meningkatkan resistansi kegelapan (60%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300001384": [
+        "Boosts dark resistance (70%)",
+        "提高暗屬性耐性(70%)",
+        "어둠속성 저항력 상승(70%)",
+        "Augmente la résistance aux ténèbres (70 %)",
+        "Erhöht Dunkelresistenz (70%).",
+        "Aumenta la resistencia a la oscuridad (un 70%)",
+        "Meningkatkan resistansi kegelapan (70%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a(\u001a70%)\u001a"
+    ],
+    "300001385": [
+        "Boosts dark resistance (80%)",
+        "提高暗屬性耐性(80%)",
+        "어둠속성 저항력 상승(80%)",
+        "Augmente la résistance aux ténèbres (80 %)",
+        "Erhöht Dunkelresistenz (80%).",
+        "Aumenta la resistencia a la oscuridad (un 80%)",
+        "Meningkatkan resistansi kegelapan (80%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a(\u001a80%)\u001a"
+    ],
+    "300001386": [
+        "Boosts dark resistance (90%)",
+        "提高暗屬性耐性(90%)",
+        "어둠속성 저항력 상승(90%)",
+        "Augmente la résistance aux ténèbres (90 %)",
+        "Erhöht Dunkelresistenz (90%).",
+        "Aumenta la resistencia a la oscuridad (un 90%)",
+        "Meningkatkan resistansi kegelapan (90%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a(\u001a90%)\u001a"
+    ],
+    "300001387": [
+        "Deals fire magic damage (5600%)",
+        "發動火屬性魔法攻擊(5600%)",
+        "불속성 마법 피해(5600%)",
+        "Inflige des dégâts magiques de feu (5600 %)",
+        "Fügt magischen Feuerschaden zu (5600%).",
+        "Inflige daño mágico de fuego (un 5600%)",
+        "Memberikan damage magic api (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a5600%)\u001a"
+    ],
+    "300001388": [
+        "Deals fire magic damage (6000%)",
+        "發動火屬性魔法攻擊(6000%)",
+        "불속성 마법 피해(6000%)",
+        "Inflige des dégâts magiques de feu (6000 %)",
+        "Fügt magischen Feuerschaden zu (6000%).",
+        "Inflige daño mágico de fuego (un 6000%)",
+        "Memberikan damage magic api (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300001389": [
+        "Deals fire magic damage (6400%)",
+        "發動火屬性魔法攻擊(6400%)",
+        "불속성 마법 피해(6400%)",
+        "Inflige des dégâts magiques de feu (6400 %)",
+        "Fügt magischen Feuerschaden zu (6400%).",
+        "Inflige daño mágico de fuego (un 6400%)",
+        "Memberikan damage magic api (6400%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6400%)\u001a"
+    ],
+    "300001390": [
+        "Deals fire magic damage (6800%)",
+        "發動火屬性魔法攻擊(6800%)",
+        "불속성 마법 피해(6800%)",
+        "Inflige des dégâts magiques de feu (6800 %)",
+        "Fügt magischen Feuerschaden zu (6800%).",
+        "Inflige daño mágico de fuego (un 6800%)",
+        "Memberikan damage magic api (6800%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6800%)\u001a"
+    ],
+    "300001391": [
+        "Boosts ice resistance (60%)",
+        "提高冰屬性耐性(60%)",
+        "얼음속성 저항력 상승(60%)",
+        "Augmente la résistance à la glace (60 %)",
+        "Erhöht Eisresistenz (60%).",
+        "Aumenta la resistencia al hielo (un 60%)",
+        "Meningkatkan resistansi es (60%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300001392": [
+        "Boosts ice resistance (70%)",
+        "提高冰屬性耐性(70%)",
+        "얼음속성 저항력 상승(70%)",
+        "Augmente la résistance à la glace (70 %)",
+        "Erhöht Eisresistenz (70%).",
+        "Aumenta la resistencia al hielo (un 70%)",
+        "Meningkatkan resistansi es (70%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a70%)\u001a"
+    ],
+    "300001393": [
+        "Boosts ice resistance (80%)",
+        "提高冰屬性耐性(80%)",
+        "얼음속성 저항력 상승(80%)",
+        "Augmente la résistance à la glace (80 %)",
+        "Erhöht Eisresistenz (80%).",
+        "Aumenta la resistencia al hielo (un 80%)",
+        "Meningkatkan resistansi es (80%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a80%)\u001a"
+    ],
+    "300001394": [
+        "Boosts ice resistance (90%)",
+        "提高冰屬性耐性(90%)",
+        "얼음속성 저항력 상승(90%)",
+        "Augmente la résistance à la glace (90 %)",
+        "Erhöht Eisresistenz (90%).",
+        "Aumenta la resistencia al hielo (un 90%)",
+        "Meningkatkan resistansi es (90%)",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a90%)\u001a"
+    ],
+    "300001415": [
+        "Deals lightning damage (7300%)",
+        "發動雷屬性攻擊(7300%)",
+        "번개속성 피해(7300%)",
+        "Inflige des dégâts de foudre (7300 %)",
+        "Fügt Blitzschaden zu (7300%).",
+        "Inflige daño de rayo (un 7300%)",
+        "Memberikan damage petir (7300%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a7300%)\u001a"
+    ],
+    "300001416": [
+        "Deals lightning damage (7600%)",
+        "發動雷屬性攻擊(7600%)",
+        "번개속성 피해(7600%)",
+        "Inflige des dégâts de foudre (7600 %)",
+        "Fügt Blitzschaden zu (7600%).",
+        "Inflige daño de rayo (un 7600%)",
+        "Memberikan damage petir (7600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a7600%)\u001a"
+    ],
+    "300001417": [
+        "Deals lightning damage (7900%)",
+        "發動雷屬性攻擊(7900%)",
+        "번개속성 피해(7900%)",
+        "Inflige des dégâts de foudre (7900 %)",
+        "Fügt Blitzschaden zu (7900%).",
+        "Inflige daño de rayo (un 7900%)",
+        "Memberikan damage petir (7900%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a7900%)\u001a"
+    ],
+    "300001418": [
+        "Deals lightning damage (8200%)",
+        "發動雷屬性攻擊(8200%)",
+        "번개속성 피해(8200%)",
+        "Inflige des dégâts de foudre (8200 %)",
+        "Fügt Blitzschaden zu (8200%).",
+        "Inflige daño de rayo (un 8200%)",
+        "Memberikan damage petir (8200%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a8200%)\u001a"
+    ],
+    "300001419": [
+        "Deals earth damage (6600%)",
+        "發動土屬性攻擊(6600%)",
+        "땅속성 피해(6600%)",
+        "Inflige des dégâts de terre (6600 %)",
+        "Fügt Erdschaden zu (6600%).",
+        "Inflige daño de tierra (un 6600%)",
+        "Memberikan damage tanah (6600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a6600%)\u001a"
+    ],
+    "300001420": [
+        "Deals earth damage (6900%)",
+        "發動土屬性攻擊(6900%)",
+        "땅속성 피해(6900%)",
+        "Inflige des dégâts de terre (6900 %)",
+        "Fügt Erdschaden zu (6900%).",
+        "Inflige daño de tierra (un 6900%)",
+        "Memberikan damage tanah (6900%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a6900%)\u001a"
+    ],
+    "300001421": [
+        "Deals earth damage (7200%)",
+        "發動土屬性攻擊(7200%)",
+        "땅속성 피해(7200%)",
+        "Inflige des dégâts de terre (7200 %)",
+        "Fügt Erdschaden zu (7200%).",
+        "Inflige daño de tierra (un 7200%)",
+        "Memberikan damage tanah (7200%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a7200%)\u001a"
+    ],
+    "300001422": [
+        "Deals earth damage (7500%)",
+        "發動土屬性攻擊(7500%)",
+        "땅속성 피해(7500%)",
+        "Inflige des dégâts de terre (7500 %)",
+        "Fügt Erdschaden zu (7500%).",
+        "Inflige daño de tierra (un 7500%)",
+        "Memberikan damage tanah (7500%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a7500%)\u001a"
+    ],
+    "300001423": [
+        "Deals wind damage (6600%)",
+        "發動風屬性攻擊(6600%)",
+        "바람속성 피해(6600%)",
+        "Inflige des dégâts de vent (6600 %)",
+        "Fügt Windschaden zu (6600%).",
+        "Inflige daño de viento (un 6600%)",
+        "Memberikan damage angin (6600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a6600%)\u001a"
+    ],
+    "300001424": [
+        "Deals wind damage (6900%)",
+        "發動風屬性攻擊(6900%)",
+        "바람속성 피해(6900%)",
+        "Inflige des dégâts de vent (6900 %)",
+        "Fügt Windschaden zu (6900%).",
+        "Inflige daño de viento (un 6900%)",
+        "Memberikan damage angin (6900%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a6900%)\u001a"
+    ],
+    "300001425": [
+        "Deals wind damage (7200%)",
+        "發動風屬性攻擊(7200%)",
+        "바람속성 피해(7200%)",
+        "Inflige des dégâts de vent (7200 %)",
+        "Fügt Windschaden zu (7200%).",
+        "Inflige daño de viento (un 7200%)",
+        "Memberikan damage angin (7200%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a7200%)\u001a"
+    ],
+    "300001426": [
+        "Deals wind damage (7500%)",
+        "發動風屬性攻擊(7500%)",
+        "바람속성 피해(7500%)",
+        "Inflige des dégâts de vent (7500 %)",
+        "Fügt Windschaden zu (7500%).",
+        "Inflige daño de viento (un 7500%)",
+        "Memberikan damage angin (7500%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a7500%)\u001a"
+    ],
     "300001443": [
         "Boosts fire, lightning, and water resistance (60%)",
         "提高火雷水屬性耐性(60%)",
@@ -31984,7 +32244,7 @@
         "提高魔力(200%)",
         "마력 상승(200%)",
         "Augmente la MAGIE (200 %)",
-        "Erhöht MAG (200%)",
+        "Erhöht MAG (200%).",
         "Aumenta la MAG (un 200%)",
         "Meningkatkan MAG (200%)",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a(\u001a200%)\u001a"
