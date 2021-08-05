@@ -12129,6 +12129,16 @@
         "Memberikan damage pada satu musuh, serta memberikan damage dan mengurangi resistansi api pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aและ\u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001aทั้งหมด\u001a"
     ],
+    "207002127": [
+        "Chance of temporarily guarding allies against physical damage, and reduce damage taken and reduce physical damage dealt by beasts and machina monsters for all allies",
+        "暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊+減少對全體隊員的傷害+減少來自獸機械系魔物的物理傷害",
+        "일시적으로 일정 확률 아군을 향한 물리 공격을 '방어' 상태로 대신 받음+아군 전체가 받는 피해량 감소+야수와 기계형 마물에게 받는 물리 피해량 감소",
+        "Confère une chance de protéger temporairement les alliés contre les attaques physiques, réduit les dégâts subis par tous les alliés et réduit les dégâts physiques que leur infligent les bêtes et les machines",
+        "Chance, Verbündete vorübergehend gegen physischen Schaden zu verteidigen, und verringert erlittenen Schaden und verringert erlittenen physischen Schaden aller Verbündeten durch Bestien und Maschinen.",
+        "Probabilidad de proteger temporalmente a un aliado aleatorio contra daño físico, y reduce el daño que reciben todos los aliados y el daño físico que les infligen las bestias y las máquinas",
+        "Peluang bagi diri sendiri untuk melindungi semua teman dari serangan fisik untuk sementara waktu, serta mengurangi damage yang diterima dan mengurangi damage fisik yang diterima semua teman dari jenis makhluk buas dan mesin",
+        "มีโอกาส\u001aป้องกัน\u001aและ\u001aรับ\u001aความเสียหาย\u001aกายภาพ\u001aแทน\u001aสมาชิก\u001aใน\u001aทีม\u001aเป็นเวลา\u001aชั่วคราว\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aจาก\u001aศัตรู\u001aชนิด\u001aอสูร\u001aและ\u001aจักรกล\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001a"
+    ],
     "207002207": [
         "Restore HP, cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and revive and fully restore all allies, and activate I'll take care of 'em! and I'll show you what I can do next turn",
         "恢復全體隊員的HP+治療中毒失明睡眠沉默麻痺混亂生病石化狀態+從無法戰鬥狀態中完全復活+下一回合發動「交給我吧！」「得讓你見識一下我的厲害」",
@@ -12168,6 +12178,56 @@
         "Reduce la resistencia a puños de un enemigo, le inflige daño de agua y aumenta el daño con cada uso",
         "Mengurangi resistansi terhadap senjata tinju, serta memberikan damage air pada satu musuh dan meningkatkan damage apabila digunakan secara beruntun",
         "ลด\u001aพลัง\u001aต้านทาน\u001aสนับมือ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001aและ\u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+    ],
+    "207002407": [
+        "Reduce resistance to katanas, DEF, and dark resistance for all enemies, boost LB damage for caster, and deal dark damage to all enemies",
+        "降低全體敵人對刀的耐性+降低防禦+降低暗屬性耐性+提高自身極限技的傷害+對全體敵人發動暗屬性攻擊",
+        "적 전체의 도 저항력 감소+방어력과 어둠속성 저항력 감소+자신의 LB 피해량 상승+적 전체에 어둠속성 피해",
+        "Réduit la résistance aux katanas de tous les ennemis, réduit leur DEF, augmente les dégâts de la limite du lanceur, et inflige des dégâts de ténèbres à tous les ennemis",
+        "Verringert Resistenz aller Gegner gegen Katanas, verringert deren ABW sowie Dunkelresistenz, erhöht Schaden durch Limitrausch des Benutzers und fügt allen Gegnern Dunkelschaden zu.",
+        "Reduce la resistencia a katanas, la DEF y la resistencia a la oscuridad de todos los enemigos, aumenta el daño del EL del usuario e inflige daño de oscuridad a todos los enemigos",
+        "Mengurangi resistansi terhadap katana, DEF, dan resistansi kegelapan pada semua musuh, meningkatkan damage LB diri sendiri, dan memberikan damage kegelapan pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aคาตา\u001aนะ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "207002417": [
+        "Reduce resistance to katanas and deal dark damage to one enemy, and power up with consecutive use",
+        "降低1名敵人對刀的耐性+發動暗屬性攻擊+連續使用時威力提升",
+        "적 1명의 도 저항력 감소+어둠속성 피해+연속 사용 시 위력 상승",
+        "Réduit la résistance aux katanas d'un ennemi et lui inflige des dégâts de ténèbres qui gagnent en puissance à chaque utilisation consécutive",
+        "Verringert Resistenz eines Gegners gegen Katanas und fügt einem Gegner Dunkelschaden zu und wird mit jeder Anwendung stärker.",
+        "Reduce la resistencia a katanas de un enemigo y le inflige daño de oscuridad, y aumenta el daño con cada uso",
+        "Mengurangi resistansi terhadap katana, serta memberikan damage kegelapan pada satu musuh dan meningkatkan damage apabila digunakan secara beruntun",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aคาตา\u001aนะ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+    ],
+    "207002505": [
+        "Damage all enemies, and boost SPR and activate barrier for all allies",
+        "攻擊全體敵人+提高全體隊員的精神+賦予屏障效果",
+        "적 전체에 피해+아군 전체의 정신력 상승+배리어 부여",
+        "Inflige des dégâts à tous les ennemis, augmente la PSY de tous les alliés et érige une barrière autour d'eux",
+        "Fügt allen Gegnern Schaden zu und erhöht PSY und aktiviert Barriere für alle Verbündeten.",
+        "Daña a todos los enemigos, aumenta el ESP de todos los aliados y les activa Barrera",
+        "Memberikan damage pada semua musuh, serta meningkatkan SPR dan mengaktifkan barier pada semua teman",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "207002506": [
+        "Damage all enemies, and boost SPR and activate barrier for all allies",
+        "攻擊全體敵人+提高全體隊員的精神+賦予屏障效果",
+        "적 전체에 피해+아군 전체의 정신력 상승+배리어 부여",
+        "Inflige des dégâts à tous les ennemis, augmente la PSY de tous les alliés et érige une barrière autour d'eux",
+        "Fügt allen Gegnern Schaden zu und erhöht PSY und aktiviert Barriere für alle Verbündeten.",
+        "Daña a todos los enemigos, aumenta el ESP de todos los aliados y les activa Barrera",
+        "Memberikan damage pada semua musuh, serta meningkatkan SPR dan mengaktifkan barier pada semua teman",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "207002507": [
+        "Damage all enemies, and boost SPR and activate barrier for all allies",
+        "攻擊全體敵人+提高全體隊員的精神+賦予屏障效果",
+        "적 전체에 피해+아군 전체의 정신력 상승+배리어 부여",
+        "Inflige des dégâts à tous les ennemis, augmente la PSY de tous les alliés et érige une barrière autour d'eux",
+        "Fügt allen Gegnern Schaden zu und erhöht PSY und aktiviert Barriere für alle Verbündeten.",
+        "Daña a todos los enemigos, aumenta el ESP de todos los aliados y les activa Barrera",
+        "Memberikan damage pada semua musuh, serta meningkatkan SPR dan mengaktifkan barier pada semua teman",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "208000105": [
         "Deal partial unmitigated damage to one enemy",
