@@ -6096,7 +6096,7 @@
         "報酬",
         "보상",
         "Récompenses",
-        "Prämien",
+        "Belohnungen",
         "Recompensas de logro",
         "Hadiah",
         "รางวัล\u001a"
@@ -15441,6 +15441,26 @@
         "Meningkatkan DEF dan SPR musuh sebanyak 75%",
         "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a75%"
     ],
+    "MST_GAMBIT_EXPLAIN_1006": [
+        "Boost enemy's DEF and SPR by 30%",
+        "提高30%敵人的防禦精神",
+        "적의 방어력과 정신력 30% 상승",
+        "Augmente la DEF et la PSY de l'ennemi de 30 %",
+        "Erhöht gegnerische ABW und PSY um 30%.",
+        "Aumenta la DEF y el ESP del enemigo un 30%",
+        "Meningkatkan DEF dan SPR musuh sebanyak 30%",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a30%"
+    ],
+    "MST_GAMBIT_EXPLAIN_1007": [
+        "Boost enemy's DEF and SPR by 75%",
+        "提高75%敵人的防禦精神",
+        "적의 방어력과 정신력 75% 상승",
+        "Augmente la DEF et la PSY de l'ennemi de 75 %",
+        "Erhöht gegnerische ABW und PSY um 75%.",
+        "Aumenta la DEF y el ESP del enemigo un 75%",
+        "Meningkatkan DEF dan SPR musuh sebanyak 75%",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a75%"
+    ],
     "MST_GAMBIT_EXPLAIN_2000": [
         "Boost enemy's elemental resistances (all) by 30%",
         "提高30%敵人的全屬性耐性",
@@ -15512,6 +15532,26 @@
         "DEF\u001a/\u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a+\u001a30%"
     ],
     "MST_GAMBIT_NAME_1005": [
+        "Enemy DEF/SPR +75%",
+        "敵人防禦/精神+75%",
+        "적 방어/정신+75%",
+        "DEF/PSY de l'ennemi +75 %",
+        "Gegnerische ABW/PSY +75%",
+        "DEF/ESP del enemigo +75%",
+        "DEF/SPR Musuh +75%",
+        "DEF\u001a/\u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a+\u001a75%"
+    ],
+    "MST_GAMBIT_NAME_1006": [
+        "Enemy DEF/SPR +30%",
+        "敵人防禦/精神+30%",
+        "적 방어/정신+30%",
+        "DEF/PSY de l'ennemi +30 %",
+        "Gegnerische ABW/PSY +30%",
+        "DEF/ESP del enemigo +30%",
+        "DEF/SPR Musuh +30%",
+        "DEF\u001a/\u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a+\u001a30%"
+    ],
+    "MST_GAMBIT_NAME_1007": [
         "Enemy DEF/SPR +75%",
         "敵人防禦/精神+75%",
         "적 방어/정신+75%",
@@ -15685,7 +15725,7 @@
         "[Both] Boost ATK, DEF, MAG, SPR or reduce damage taken for ally (Once per status effect per unit per turn)",
         "[雙方]提高隊員的攻擊防禦魔力精神或減少傷害(施加1種狀態效果每回合每位兵員採計1次)",
         "[모두] 아군의 공격력, 방어력, 마력, 정신력 상승 또는 아군이 받는 피해량 감소(1턴에 유닛당 능력치 효과 부여 시마다 1회)",
-        "[Joueur] Augmente l'ATT, la DEF, la MAGIE, la PSY ou réduit les dégâts subis par un allié (1 fois par effet de statut par unité par tour)",
+        "[Tous] Augmente l'ATT, la DEF, la MAGIE, la PSY ou réduit les dégâts subis par un allié (1 fois par effet de statut par unité par tour)",
         "[Beide] ANG, ABW, MAG oder PSY erhöht oder erlittenen Schaden eines Verbündeten verringert (einmal pro Statuseffekt pro Runde)",
         "[Ambos] Aumenta ATQ, DEF, MAG o ESP de un aliado o reduce el daño que recibe (una vez por cambio de estado por unidad por turno)",
         "[Kedua Pihak] Meningkatkan ATK, DEF, MAG, SPR atau mengurangi damage yang diterima teman (1 kali per efek perubahan status per unit per giliran)",
@@ -15712,6 +15752,16 @@
         "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aหรือ\u001a \u001aMP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aAbility\u001a \u001aที่\u001aใช้\u001aไป\u001a)\u001a"
     ],
     "MST_MORALE_IN_BATTLE_RULE_7": [
+        "[Both] Boost elemental resistance for ally (Once per status effect per unit per turn)",
+        "[雙方]提高隊員的屬性耐性(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 아군의 속성 저항력 상승(1턴에 유닛당 능력치 효과 부여 시마다 1회)",
+        "[Tous] Augmente la résistance élémentaire d'un allié (1 fois par effet de statut par unité par tour)",
+        "[Beide] Elementarresistenz eines Gegners erhöht (einmal pro Statuseffekt pro Einheit pro Runde)",
+        "[Ambos] Aumenta la resistencia elemental de un aliado (una vez por cambio de estado por unidad por turno)",
+        "[Kedua Pihak] Meningkatkan resistansi elemen pada teman (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "MST_MORALE_IN_BATTLE_RULE_8": [
         "[Both] Boost resistance to status ailment (Once per status effect per unit per turn)",
         "[雙方]提高隊員的異常狀態耐性(施加1種狀態效果每回合每位兵員採計1次)",
         "[모두] 상태이상 저항력 상승(1턴에 유닛당 상태이상 부여 시마다 1회)",

@@ -5154,7 +5154,7 @@
         "攻擊全體敵人+3回合內減少對全體隊員的傷害",
         "적 전체에 피해+3턴 동안 아군 전체가 받는 피해량 감소",
         "Inflige des dégâts à tous les ennemis et réduit les dégâts subis par tous les alliés pendant trois tours",
-        "Fügt allen Gegnern Schaden zu und verringert 3 Runden lang von Verb. erlittenen Schaden.",
+        "Fügt allen Gegnern Schaden zu und verringert 3 Runden lang von Verbündeten erlittenen Schaden.",
         "Daña a todos los enemigos y reduce el daño que reciben todos los aliados durante 3 turnos",
         "Memberikan damage pada semua musuh dan mengurangi damage yang diterima semua teman selama 3 giliran",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aใน\u001a \u001a3\u001a \u001aเทิร์น\u001a"
@@ -5164,7 +5164,7 @@
         "攻擊全體敵人+3回合內減少對全體隊員的傷害",
         "적 전체에 피해+3턴 동안 아군 전체가 받는 피해량 감소",
         "Inflige des dégâts à tous les ennemis et réduit les dégâts subis par tous les alliés pendant trois tours",
-        "Fügt allen Gegnern Schaden zu und verringert 3 Runden lang von Verb. erlittenen Schaden.",
+        "Fügt allen Gegnern Schaden zu und verringert 3 Runden lang von Verbündeten erlittenen Schaden.",
         "Daña a todos los enemigos y reduce el daño que reciben todos los aliados durante 3 turnos",
         "Memberikan damage pada semua musuh dan mengurangi damage yang diterima semua teman selama 3 giliran",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aใน\u001a \u001a3\u001a \u001aเทิร์น\u001a"
@@ -5174,10 +5174,20 @@
         "攻擊全體敵人+3回合內減少對全體隊員的傷害",
         "적 전체에 피해+3턴 동안 아군 전체가 받는 피해량 감소",
         "Inflige des dégâts à tous les ennemis et réduit les dégâts subis par tous les alliés pendant trois tours",
-        "Fügt allen Gegnern Schaden zu und verringert 3 Runden lang von Verb. erlittenen Schaden.",
+        "Fügt allen Gegnern Schaden zu und verringert 3 Runden lang von Verbündeten erlittenen Schaden.",
         "Daña a todos los enemigos y reduce el daño que reciben todos los aliados durante 3 turnos",
         "Memberikan damage pada semua musuh dan mengurangi damage yang diterima semua teman selama 3 giliran",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aลด\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001aใน\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+    ],
+    "100017927": [
+        "Deal earth damage to one enemy and activate area effect",
+        "對1名敵人發動土屬性攻擊+施展區域效果",
+        "적 1명에게 땅속성 피해+범위 효과 발동",
+        "Inflige des dégâts de terre à un ennemi et active un effet de zone",
+        "Fügt einem Gegner Erdschaden zu und aktiviert Gebietseffekt.",
+        "Daño de tierra a un enemigo y activa un efecto de zona",
+        "Memberikan damage tanah pada satu musuh dan mengaktifkan efek area",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
     ],
     "100018004": [
         "Damage and reduce DEF for all enemies",
@@ -23518,6 +23528,26 @@
         "Aumenta el ATQ, la MAG y el daño del EL de todos los aliados, y pueden evadir algunos ataques físicos 5 veces",
         "Meningkatkan ATK dan MAG, meningkatkan damage LB, dan memungkinkan semua teman untuk menghindari beberapa serangan fisik 5 kali",
         "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aMAG\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aสามารถ\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001aได้\u001a \u001a5\u001a \u001aครั้ง\u001a"
+    ],
+    "401011907": [
+        "Inflict berserk status on the caster and damage all enemies two times",
+        "對自身施加狂暴效果+攻擊全體敵人2次",
+        "자신에게 광폭화 부여+적 전체에 2회 피해",
+        "Inflige furie au lanceur et inflige des dégâts à tous les ennemis à 2 reprises",
+        "Erteilt dem Benutzer Berserker und fügt allen Gegnern zweimal Schaden zu.",
+        "Inflige locura al usuario y daña a todos los enemigos 2 veces",
+        "Memberikan status berserk pada diri sendiri dan memberikan damage 2 kali pada semua musuh",
+        "ทำให้\u001aผู้ใช้\u001aติด\u001aสถานะ\u001a \u001aBerserk\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a2\u001a \u001aครั้ง\u001a"
+    ],
+    "401011917": [
+        "Boost LB damage for caster, and reduce accuracy of some physical attacks, deal damage that powers up with consecutive use, and deal morale-based damage to one enemy",
+        "提高自身極限技的傷害+降低1名敵人部分物理攻擊的命中率+發動連續使用時威力提升的攻擊+發動受士氣影響的攻擊",
+        "자신의 LB 피해량 상승+적 1명의 일부 물리 공격 명중률 감소+피해+연속 사용 시 위력 상승+사기 기반 피해",
+        "Augmente les dégâts de la limite du lanceur, réduit la précision de certaines attaques physiques d'un ennemi, lui inflige des dégâts qui gagnent en puissance à chaque utilisation consécutive, et lui inflige des dégâts dépendant du moral",
+        "Erhöht Schaden durch Limitrausch des Benutzers, verringert die Genauigkeit einiger physischer Angriffe, fügt Schaden zu, der mit jeder Anwendung stärker wird, und fügt einem Gegner moralbasierten Schaden zu.",
+        "Aumenta el daño del EL del usuario un 200%, reduce la precisión de algunos ataques físicos, inflige daño a un enemigo y aumenta el daño con cada uso, y le inflige daño en función del ánimo",
+        "Meningkatkan damage LB diri sendiri, serta mengurangi akurasi beberapa serangan fisik, dan memberikan damage dengan peningkatan damage apabila digunakan secara beruntun dan damage berdasarkan moral pada satu musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aลด\u001aความแม่นยำ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001a \u001a+ \u001aสร้าง\u001aความเสียหาย\u001aที่จะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aเพิ่มขึ้น\u001aตาม\u001aค่า\u001aกำลังใจ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "900000017": [
         "Deal partial unmitigated magic damage and reduce SPR for one enemy",
