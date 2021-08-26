@@ -25122,7 +25122,7 @@
     "172940": [
         "White Dragon's Protection",
         "白龍的守護",
-        "백룡의 긍지",
+        "백룡의 수호",
         "Protection du dragon blanc",
         "Schutz des Weißdrachen",
         "Protección del dragón blanco",
@@ -84203,8 +84203,8 @@
         "Veritas' armor is filled with power!",
         "維利亞斯的鎧甲充滿了力量！",
         "베리어스의 갑옷에 힘이 넘친다!",
-        "L'armure des Veritas regorge de puissance !",
-        "Rüstung der Veritas ist mit Macht erfüllt!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
         "¡La armadura del Veritas rebosa de poder!",
         "Armor Veritas dipenuhi oleh kekuatan!",
         "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
@@ -84214,7 +84214,7 @@
         "維利亞斯的鎧甲充斥著鬥氣！",
         "베리어스의 갑옷으로부터 투지가 치솟고 있다!",
         "L'esprit combatif a été galvanisé par l'armure des Veritas !",
-        "Kampfgeist hat sich durch Rüstung der Veritas erhöht!",
+        "Kampfgeist hat sich durch Veritas' Rüstung erhöht!",
         "¡La armadura del Veritas aumenta el espíritu combativo!",
         "Semangat bertarung mereka telah meningkat karena armor Veritas!",
         "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aทำให้\u001aพลัง\u001aรบ\u001aเพิ่มขึ้น\u001a!\u001a"
@@ -129947,7 +129947,7 @@
         "Hüter Buffones Feuer-, Blitz- und Erdresistenz haben sich erhöht!",
         "¡La resistencia a fuego, rayo y tierra de el Guardián Bufone ha aumentado!",
         "Resistansi api, petir, dan tanah Penjaga Buffon telah meningkat!",
-        "พลัง\u001aต้าน\u001aธาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aสายฟ้า\u001aและ\u001aดิน\u001aของ\u001a \u001aBuffon\u001a \u001aตัวตลก\u001aผู้พิทักษ์\u001aเพิ่มขึ้น\u001aแล้ว\u001a!\u001a"
+        "พลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aสายฟ้า\u001aและ\u001aดิน\u001aของ\u001a \u001aBuffon\u001a \u001aตัวตลก\u001aผู้พิทักษ์\u001aเพิ่มขึ้น\u001aแล้ว\u001a!\u001a"
     ],
     "221731": [
         "The intense battle continues...!",
@@ -130008,6 +130008,846 @@
         "Sable justiciero",
         "Zantetsuken",
         "ดาบ\u001aสะบั้น\u001aโลหะ\u001a"
+    ],
+    "221737": [
+        "Wind Physical Attack",
+        "風之攻擊",
+        "바람의 공격",
+        "Attaque physique de vent",
+        "Physischer Windangriff",
+        "Ataque físico de viento",
+        "Serangan Fisik Angin",
+        "โจมตี\u001aกายภาพ\u001aธาตุ\u001aลม\u001a"
+    ],
+    "221738": [
+        "Wind Magic Attack",
+        "風之魔擊",
+        "바람의 마격",
+        "Attaque magique de vent",
+        "Magischer Windangriff",
+        "Ataque mágico de viento",
+        "Serangan Magic Angin",
+        "โจมตี\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a"
+    ],
+    "221739": [
+        "Aeroga",
+        "大勁風",
+        "에어로가",
+        "Vent X",
+        "Aeroga",
+        "Aero++",
+        "Aeroga",
+        "Aeroga\u001a"
+    ],
+    "221740": [
+        "Total Wind Ruin",
+        "風之摧毀",
+        "바람의 대붕괴",
+        "Grand cataclysme de vent",
+        "Totale Windzerstörung",
+        "Ruina total de viento",
+        "Kehancuran Angin Total",
+        "ถล่ม\u001aวาตะ\u001aแหลกลาญ\u001a"
+    ],
+    "221741": [
+        "Total Wind Ruin",
+        "風之摧毀",
+        "바람의 대붕괴",
+        "Grand cataclysme de vent",
+        "Totale Windzerstörung",
+        "Ruina total de viento",
+        "Kehancuran Angin Total",
+        "ถล่ม\u001aวาตะ\u001aแหลกลาญ\u001a"
+    ],
+    "221742": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Dunkelmacht verdichtet sich!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
+    ],
+    "221743": [
+        "Veritas' armor is filled with power!",
+        "維利亞斯的鎧甲充滿了力量！",
+        "베리어스의 갑옷에 힘이 넘친다!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
+        "¡La armadura del Veritas rebosa de poder!",
+        "Armor Veritas dipenuhi oleh kekuatan!",
+        "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
+    ],
+    "221744": [
+        "Your allies' DEF decreased through the power of darkness!",
+        "由於暗之力的加持，我方的防禦下降了！",
+        "검은 힘으로 아군의 방어력이 감소했다!",
+        "Le pouvoir des ténèbres baisse la DEF des alliés !",
+        "ABW deiner Verbündeten wurde durch Dunkelmacht verringert!",
+        "La oscuridad reduce la DEF de tus aliados",
+        "Kekuatan kegelapan menurunkan DEF teman-temanmu!",
+        "สมาชิก\u001aใน\u001aทีม\u001aถูก\u001aพลัง\u001aความมืด\u001aลด\u001a \u001aDEF\u001a!\u001a"
+    ],
+    "221745": [
+        "Cruel Punishment",
+        "無慈悲天刑",
+        "무자비한 천벌",
+        "Punition cruelle",
+        "Grausame Bestrafung",
+        "Castigo sin piedad",
+        "Hukuman Mutlak dari Langit",
+        "ลงโทษ\u001aไร้\u001aเมตตา\u001a"
+    ],
+    "221746": [
+        "Spineshatter Dive 0",
+        "破碎衝零式",
+        "척추 강타 0식",
+        "Piqué brise-échine style 0",
+        "Wirbelsprenger 0",
+        "Rompespaldas 0",
+        "Spineshatter Dive 0",
+        "ดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001a0\u001a"
+    ],
+    "221747": [
+        "Water Physical Attack",
+        "水之攻擊",
+        "물의 공격",
+        "Attaque physique d'eau",
+        "Physischer Wasserangriff",
+        "Ataque físico de agua",
+        "Serangan Fisik Air",
+        "โจมตี\u001aกายภาพ\u001aธาตุ\u001aน้ำ\u001a"
+    ],
+    "221748": [
+        "Water Magic Attack",
+        "水之魔擊",
+        "물의 마격",
+        "Attaque magique d'eau",
+        "Magischer Wasserangriff",
+        "Ataque mágico de agua",
+        "Serangan Magic Air",
+        "โจมตี\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a"
+    ],
+    "221749": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "221750": [
+        "Total Water Ruin",
+        "水之摧毀",
+        "물의 대붕괴",
+        "Grand cataclysme d'eau",
+        "Totale Wasserzerstörung",
+        "Ruina total de agua",
+        "Kehancuran Air Total",
+        "ถล่ม\u001aวารี\u001aแหลกลาญ\u001a"
+    ],
+    "221751": [
+        "Total Water Ruin",
+        "水之摧毀",
+        "물의 대붕괴",
+        "Grand cataclysme d'eau",
+        "Totale Wasserzerstörung",
+        "Ruina total de agua",
+        "Kehancuran Air Total",
+        "ถล่ม\u001aวารี\u001aแหลกลาญ\u001a"
+    ],
+    "221752": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Dunkelmacht verdichtet sich!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
+    ],
+    "221753": [
+        "Veritas' armor is filled with power!",
+        "維利亞斯的鎧甲充滿了力量！",
+        "베리어스의 갑옷에 힘이 넘친다!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
+        "¡La armadura del Veritas rebosa de poder!",
+        "Armor Veritas dipenuhi oleh kekuatan!",
+        "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
+    ],
+    "221754": [
+        "Your allies' SPR decreased through the power of darkness!",
+        "由於暗之力的加持，我方的精神下降了！",
+        "검은 힘으로 아군의 정신력이 감소했다!",
+        "Le pouvoir des ténèbres baisse la PSY des alliés !",
+        "PSY deiner Verbündeten wurde durch Dunkelmacht verringert!",
+        "La oscuridad reduce el ESP de tus aliados",
+        "Kekuatan kegelapan menurunkan SPR teman-temanmu!",
+        "สมาชิก\u001aใน\u001aทีม\u001aถูก\u001aพลัง\u001aความมืด\u001aลด\u001a \u001aSPR\u001a!\u001a"
+    ],
+    "221755": [
+        "Aquatic Retribution",
+        "華麗水罰",
+        "화려한 물고문",
+        "Châtiment aquatique",
+        "Aquatische Vergeltung",
+        "Retribución marina",
+        "Pembalasan Akuatik",
+        "สมุทร\u001aลงทัณฑ์\u001a"
+    ],
+    "221756": [
+        "Deadly Murk",
+        "死之濁流",
+        "죽음의 탁류",
+        "Courant mortel",
+        "Tödliche Schlammflut",
+        "Oscuridad mortífera",
+        "Air Keruh Pembawa Maut",
+        "ธาร\u001aโคลน\u001aมรณะ\u001a"
+    ],
+    "221757": [
+        "Earth Physical Attack",
+        "土之攻擊",
+        "땅의 공격",
+        "Attaque physique de terre",
+        "Physischer Erdangriff",
+        "Ataque físico de tierra",
+        "Serangan Fisik Tanah",
+        "โจมตี\u001aกายภาพ\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "221758": [
+        "Earth Magic Attack",
+        "土之魔擊",
+        "땅의 마격",
+        "Attaque magique de terre",
+        "Magischer Erdangriff",
+        "Ataque mágico de tierra",
+        "Serangan Magic Tanah",
+        "โจมตี\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "221759": [
+        "Stonga",
+        "大落石",
+        "스톤가",
+        "Terre X",
+        "Terraga",
+        "Piedra++",
+        "Stonga",
+        "Stonga\u001a"
+    ],
+    "221760": [
+        "Total Earth Ruin",
+        "土之摧毀",
+        "땅의 대붕괴",
+        "Grand cataclysme de terre",
+        "Totale Erdzerstörung",
+        "Ruina total de tierra",
+        "Kehancuran Tanah Total",
+        "ถล่ม\u001aปฐพี\u001aแหลกลาญ\u001a"
+    ],
+    "221761": [
+        "Total Earth Ruin",
+        "土之摧毀",
+        "땅의 대붕괴",
+        "Grand cataclysme de terre",
+        "Totale Erdzerstörung",
+        "Ruina total de tierra",
+        "Kehancuran Tanah Total",
+        "ถล่ม\u001aปฐพี\u001aแหลกลาญ\u001a"
+    ],
+    "221762": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Dunkelmacht verdichtet sich!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
+    ],
+    "221763": [
+        "Veritas' armor is filled with power!",
+        "維利亞斯的鎧甲充滿了力量！",
+        "베리어스의 갑옷에 힘이 넘친다!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
+        "¡La armadura del Veritas rebosa de poder!",
+        "Armor Veritas dipenuhi oleh kekuatan!",
+        "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
+    ],
+    "221764": [
+        "Your allies' MAG decreased through the power of shadow!",
+        "由於暗之力的加持，我方的魔力下降了！",
+        "검은 힘으로 아군의 마력이 감소했다!",
+        "Le pouvoir des ténèbres baisse la MAGIE des alliés !",
+        "MAG deiner Verbündeten wurde durch Dunkelmacht verringert!",
+        "La oscuridad reduce la MAG de tus aliados",
+        "Kekuatan kegelapan menurunkan MAG teman-temanmu!",
+        "สมาชิก\u001aใน\u001aทีม\u001aถูก\u001aพลัง\u001aความมืด\u001aลด\u001aค่า\u001a \u001aMAG\u001a!\u001a"
+    ],
+    "221765": [
+        "Earth Crush",
+        "大地碎衝",
+        "어스 크러시",
+        "Écrasement de Gaïa",
+        "Planetenvernichtung",
+        "Choque terrestre",
+        "Earth Crush",
+        "พสุธา\u001aบดขยี้\u001a"
+    ],
+    "221766": [
+        "Crag Wall",
+        "峭崖之壁",
+        "바위 장벽",
+        "Mur escarpé",
+        "Felswand",
+        "Muro de peñascos",
+        "Dinding Batu",
+        "กำแพง\u001aหิน\u001aผา\u001a"
+    ],
+    "221767": [
+        "Fire Physical Attack",
+        "火之攻擊",
+        "불의 공격",
+        "Attaque physique de feu",
+        "Physischer Feuerangriff",
+        "Ataque físico de fuego",
+        "Serangan Fisik Api",
+        "โจมตี\u001aกายภาพ\u001aธาตุ\u001aไฟ\u001a"
+    ],
+    "221768": [
+        "Fire Magic Attack",
+        "火之魔擊",
+        "불의 마격",
+        "Attaque magique de feu",
+        "Magischer Feuerangriff",
+        "Ataque mágico de fuego",
+        "Serangan Magic Api",
+        "โจมตี\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a"
+    ],
+    "221769": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Feu X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "221770": [
+        "Total Fire Ruin",
+        "火之摧毀",
+        "불의 대붕괴",
+        "Grand cataclysme de feu",
+        "Totale Feuerzerstörung",
+        "Ruina total de fuego",
+        "Kehancuran Api Total",
+        "ถล่ม\u001aอัคคี\u001aแหลกลาญ\u001a"
+    ],
+    "221771": [
+        "Total Fire Ruin",
+        "火之摧毀",
+        "불의 대붕괴",
+        "Grand cataclysme de feu",
+        "Totale Feuerzerstörung",
+        "Ruina total de fuego",
+        "Kehancuran Api Total",
+        "ถล่ม\u001aอัคคี\u001aแหลกลาญ\u001a"
+    ],
+    "221772": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Dunkelmacht verdichtet sich!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
+    ],
+    "221773": [
+        "Veritas' armor is filled with power!",
+        "維利亞斯的鎧甲充滿了力量！",
+        "베리어스의 갑옷에 힘이 넘친다!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
+        "¡La armadura del Veritas rebosa de poder!",
+        "Armor Veritas dipenuhi oleh kekuatan!",
+        "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
+    ],
+    "221774": [
+        "Your allies' ATK decreased through the power of shadow!",
+        "由於暗之力的加持，我方的攻擊下降了！",
+        "검은 힘으로 아군의 공격력이 감소했다!",
+        "Le pouvoir des ténèbres baisse l'ATT des alliés !",
+        "ANG deiner Verbündeten wurde durch Dunkelmacht verringert!",
+        "La oscuridad reduce el ATQ de tus aliados",
+        "Kekuatan kegelapan menurunkan ATK teman-temanmu!",
+        "สมาชิก\u001aใน\u001aทีม\u001aถูก\u001aพลัง\u001aความมืด\u001aลด\u001aค่า\u001a \u001aATK\u001a!\u001a"
+    ],
+    "221775": [
+        "Burning Hellfire",
+        "狂猛獄炎",
+        "맹렬한 지옥불",
+        "Feu de l'enfer",
+        "Tosendes Inferno",
+        "Tormenta infernal",
+        "Api Neraka Membara",
+        "Burning\u001a \u001aHellfire\u001a"
+    ],
+    "221776": [
+        "Call for the Strong",
+        "呼喊強者",
+        "강자를 부르는 외침",
+        "Appel des puissants",
+        "Ruf nach den Starken",
+        "Llamada para los fuertes",
+        "Panggilan untuk yang Terkuat",
+        "เรียกหา\u001aผู้\u001aแข็งแกร่ง\u001a"
+    ],
+    "221777": [
+        "Light Physical Attack",
+        "光之攻擊",
+        "빛의 공격",
+        "Attaque physique de lumière",
+        "Physischer Lichtangriff",
+        "Ataque físico de luz",
+        "Serangan Fisik Cahaya",
+        "โจมตี\u001aกายภาพ\u001aธาตุ\u001aแสง\u001a"
+    ],
+    "221778": [
+        "Light Magic Attack",
+        "光之魔擊",
+        "빛의 마격",
+        "Attaque magique de lumière",
+        "Magischer Lichtangriff",
+        "Ataque mágico de luz",
+        "Serangan Magic Cahaya",
+        "โจมตี\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a"
+    ],
+    "221779": [
+        "Banishga",
+        "強放逐",
+        "배니시가",
+        "Bannissement X",
+        "Exkommunikation",
+        "Tenue++",
+        "Banishga",
+        "Banishga\u001a"
+    ],
+    "221780": [
+        "Total Light Ruin",
+        "光之摧毀",
+        "빛의 대붕괴",
+        "Grand cataclysme de lumière",
+        "Totale Lichtzerstörung",
+        "Ruina total de luz",
+        "Kehancuran Cahaya Total",
+        "ถล่ม\u001aแสง\u001aแหลกลาญ\u001a"
+    ],
+    "221781": [
+        "Total Light Ruin",
+        "光之摧毀",
+        "빛의 대붕괴",
+        "Grand cataclysme de lumière",
+        "Totale Lichtzerstörung",
+        "Ruina total de luz",
+        "Kehancuran Cahaya Total",
+        "ถล่ม\u001aแสง\u001aแหลกลาญ\u001a"
+    ],
+    "221782": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Dunkelmacht verdichtet sich!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
+    ],
+    "221783": [
+        "Veritas' armor is filled with power!",
+        "維利亞斯的鎧甲充滿了力量！",
+        "베리어스의 갑옷에 힘이 넘친다!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
+        "¡La armadura del Veritas rebosa de poder!",
+        "Armor Veritas dipenuhi oleh kekuatan!",
+        "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
+    ],
+    "221784": [
+        "Your allies' MAG decreased through the power of shadow!",
+        "由於暗之力的加持，我方的魔力下降了！",
+        "검은 힘으로 아군의 마력이 감소했다!",
+        "Le pouvoir des ténèbres baisse la MAGIE des alliés !",
+        "MAG deiner Verbündeten wurde durch Dunkelmacht verringert!",
+        "La oscuridad reduce la MAG de tus aliados",
+        "Kekuatan kegelapan menurunkan MAG teman-temanmu!",
+        "สมาชิก\u001aใน\u001aทีม\u001aถูก\u001aพลัง\u001aความมืด\u001aลด\u001aค่า\u001a \u001aMAG\u001a!\u001a"
+    ],
+    "221785": [
+        "Dawn of Judgment",
+        "裁決曉光",
+        "심판의 새벽빛",
+        "Aube du jugement",
+        "Urteilsdämmerung",
+        "Amanecer de justicia",
+        "Awal dari Penghakiman",
+        "รุ่งอรุณ\u001aแห่ง\u001aการ\u001aตัดสิน\u001a"
+    ],
+    "221786": [
+        "Erasing Aura",
+        "滅消氣場",
+        "오라 지우기",
+        "Aura nullificatrice",
+        "Auslöschende Aura",
+        "Aura de erradicación",
+        "Eliminasi",
+        "รัศมี\u001aลบ\u001aเลือนหาย\u001a"
+    ],
+    "221787": [
+        "Dark Physical Attack",
+        "暗之攻擊",
+        "어둠의 공격",
+        "Attaque physique de ténèbres",
+        "Physischer Dunkelangriff",
+        "Ataque físico de oscuridad",
+        "Serangan Fisik Kegelapan",
+        "โจมตี\u001aกายภาพ\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "221788": [
+        "Dark Magic Attack",
+        "暗之魔擊",
+        "어둠의 마격",
+        "Attaque magique de ténèbres",
+        "Magischer Dunkelangriff",
+        "Ataque mágico de oscuridad",
+        "Serangan Magic Kegelapan",
+        "โจมตี\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "221789": [
+        "Darkga",
+        "大暗黑",
+        "다크가",
+        "Ténèbres X",
+        "Nega",
+        "Sombra++",
+        "Darkga",
+        "Darkga\u001a"
+    ],
+    "221790": [
+        "Total Dark Ruin",
+        "暗之摧毀",
+        "어둠의 대붕괴",
+        "Grand cataclysme de ténèbres",
+        "Totale Dunkelzerstörung",
+        "Ruina total de oscuridad",
+        "Kehancuran Kegelapan Total",
+        "ถล่ม\u001aความมืด\u001aแหลกลาญ\u001a"
+    ],
+    "221791": [
+        "Total Dark Ruin",
+        "暗之摧毀",
+        "어둠의 대붕괴",
+        "Grand cataclysme de ténèbres",
+        "Totale Dunkelzerstörung",
+        "Ruina total de oscuridad",
+        "Kehancuran Kegelapan Total",
+        "ถล่ม\u001aความมืด\u001aแหลกลาญ\u001a"
+    ],
+    "221792": [
+        "Focusing the power of shadow!",
+        "暗之力開始集中！",
+        "검은 힘이 모이고 있다!",
+        "Canalisation du pouvoir des ténèbres !",
+        "Dunkelmacht verdichtet sich!",
+        "¡Está concentrando el poder tenebroso!",
+        "Kekuatan kegelapan berkumpul!",
+        "รวบรวม\u001aพลัง\u001aเงา\u001a!\u001a"
+    ],
+    "221793": [
+        "Veritas' armor is filled with power!",
+        "維利亞斯的鎧甲充滿了力量！",
+        "베리어스의 갑옷에 힘이 넘친다!",
+        "L'armure du Veritas regorge de puissance !",
+        "Veritas' Rüstung ist mit Macht erfüllt!",
+        "¡La armadura del Veritas rebosa de poder!",
+        "Armor Veritas dipenuhi oleh kekuatan!",
+        "เกราะ\u001aของ\u001a \u001aVeritas\u001a \u001aเต็มไปด้วย\u001aพลัง\u001a!\u001a"
+    ],
+    "221794": [
+        "Your allies' ATK and MAG decreased through the power of shadow!",
+        "由於暗之力的加持，我方的攻擊・魔力下降了！",
+        "검은 힘으로 아군의 공격력과 마력이 감소했다!",
+        "Le pouvoir des ténèbres baisse l'ATT et la MAGIE des alliés !",
+        "ANG und MAG deiner Verbündeten wurden durch Dunkelmacht verringert!",
+        "La oscuridad reduce el ATQ y la MAG de tus aliados",
+        "Kekuatan kegelapan menurunkan ATK dan MAG teman-temanmu!",
+        "สมาชิก\u001aใน\u001aทีม\u001aถูก\u001aพลัง\u001aความมืด\u001aลด\u001aค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a!\u001a"
+    ],
+    "221795": [
+        "Seal of Conviction",
+        "斷罪刻印",
+        "단죄의 각인",
+        "Sceau de conviction",
+        "Siegel der Verdammnis",
+        "Sello penitente",
+        "Segel Pengadilan",
+        "ตรา\u001aพิพากษา\u001a"
+    ],
+    "221796": [
+        "Dual Slash",
+        "二連斬",
+        "이연참",
+        "Double entaille",
+        "Doppelschnitt",
+        "Cuchillada doble",
+        "Tebasan Ganda",
+        "Dual\u001a \u001aSlash\u001a"
+    ],
+    "221797": [
+        "Darkga",
+        "大暗黑",
+        "다크가",
+        "Ténèbres X",
+        "Nega",
+        "Sombra++",
+        "Darkga",
+        "Darkga\u001a"
+    ],
+    "221798": [
+        "Graviga",
+        "強重力",
+        "그라비가",
+        "Gravité X",
+        "Graviga",
+        "Gravedad++",
+        "Graviga",
+        "Graviga\u001a"
+    ],
+    "221799": [
+        "Bioga",
+        "劇毒化",
+        "바이오가",
+        "Toxine X",
+        "Bioga",
+        "Bio++",
+        "Bioga",
+        "Bioga\u001a"
+    ],
+    "221800": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "221801": [
+        "Darkstar",
+        "黑暗之星",
+        "다크 스타",
+        "Astre ténébreux",
+        "Dunkler Stern",
+        "Noche cerrada",
+        "Darkstar",
+        "Darkstar\u001a"
+    ],
+    "221802": [
+        "Death",
+        "致死一擊",
+        "데스",
+        "Mort",
+        "Exitus",
+        "Muerte",
+        "Death",
+        "Death\u001a"
+    ],
+    "221803": [
+        "Dark Shot",
+        "黑暗射擊",
+        "어둠의 사격",
+        "Tir obscur",
+        "Dunkler Schuss",
+        "Golpe oscuro",
+        "Dark Shot",
+        "Dark\u001a \u001aShot\u001a"
+    ],
+    "221804": [
+        "Venomous Bite",
+        "毒咬",
+        "베놈 바이트",
+        "Contamination",
+        "Venenum",
+        "Plaga",
+        "Gigitan Racun",
+        "Blight\u001a"
+    ],
+    "221805": [
+        "Time Suspension",
+        "時間停止",
+        "시간 정지",
+        "Suspension temporelle",
+        "Zeitunterbrechung",
+        "Pausa temporal",
+        "Pemberhenti Waktu",
+        "หยุด\u001aเวลา\u001a"
+    ],
+    "221806": [
+        "Bewildering Chaos",
+        "惑亂混沌",
+        "혹란의 재앙",
+        "Chaos accablant",
+        "Bestürzendes Unheil",
+        "Caos desconcertante",
+        "Bewildering Chaos",
+        "ความ\u001aอลหม่าน\u001aสับสน\u001a"
+    ],
+    "221807": [
+        "Phantasmic Chaos",
+        "幻影混沌",
+        "환영의 재앙",
+        "Chaos illusoire",
+        "Illusorisches Unheil",
+        "Caos ilusorio",
+        "Phantasmic Chaos",
+        "ความ\u001aอลหม่าน\u001aสับสน\u001aมายา\u001a"
+    ],
+    "221808": [
+        "Darkness is gathering",
+        "黑暗開始聚集",
+        "어둠이 차오르기 시작했다",
+        "Les ténèbres se rassemblent...",
+        "Die Dunkelheit sammelt sich.",
+        "La oscuridad se concentra",
+        "Kegelapan mulai berkumpul",
+        "ความมืด\u001aเริ่ม\u001aรวมตัว\u001a"
+    ],
+    "221809": [
+        "Darkness is descending",
+        "黑暗即將充滿",
+        "어둠이 차오르고 있다",
+        "Les ténèbres s'abattent...",
+        "Die Dunkelheit sinkt herab.",
+        "La oscuridad desciende",
+        "Kegelapan mulai bersatu untuk menjadi utuh",
+        "ความมืด\u001aครอบงำ\u001a"
+    ],
+    "221810": [
+        "Evil Devourer",
+        "邪惡吞噬",
+        "포식의 악마",
+        "Dévoreur du mal",
+        "Teuflischer Verschlinger",
+        "Devoramaldad",
+        "Evil Devourer",
+        "Evil\u001a \u001aDevourer\u001a"
+    ],
+    "221811": [
+        "Darkness is permeating",
+        "黑暗充滿了",
+        "어둠이 차올랐다",
+        "Les ténèbres se répandent...",
+        "Die Dunkelheit breitet sich aus.",
+        "La oscuridad permea",
+        "Kegelapan telah menjadi utuh",
+        "ความมืด\u001aแพร่กระจาย\u001a"
+    ],
+    "221812": [
+        "Malefic Ruin",
+        "破滅的凶星",
+        "파멸의 흉성",
+        "Ruine maléfique",
+        "Verhängnisvolles Gestirn",
+        "Ruina maléfica",
+        "Malefic Ruin",
+        "ความพินาศ\u001aชั่วร้าย\u001a"
+    ],
+    "221813": [
+        "Paradox Field",
+        "悖論領域",
+        "역설의 영역",
+        "Champ paradoxal",
+        "Paradoxfeld",
+        "Campo paradójico",
+        "Paradox Field",
+        "Paradox\u001a \u001aField\u001a"
+    ],
+    "221814": [
+        "Darkness is seething",
+        "黑暗聚集",
+        "어둠이 가득 찼다",
+        "Les ténèbres bourdonnent...",
+        "Die Dunkelheit brodelt.",
+        "La oscuridad se inquieta",
+        "Kegelapan semakin menguat",
+        "ความมืด\u001aเต็ม\u001aพลัง\u001a"
+    ],
+    "221815": [
+        "Light has cast away the darkness!",
+        "光芒驅散了黑暗！",
+        "빛이 어둠을 물리쳤다!",
+        "La lumière a banni les ténèbres !",
+        "Licht hat die Dunkelheit vertrieben!",
+        "¡La luz expulsa a la oscuridad!",
+        "Cahaya telah menghapus kegelapan!",
+        "แสงสว่าง\u001aกำจัด\u001aความมืด\u001a!\u001a"
+    ],
+    "221816": [
+        "Mark of the Night",
+        "暗夜烙印",
+        "암야의 낙인",
+        "Marque de la nuit",
+        "Brandmal der Nacht",
+        "Marca de la noche",
+        "Tanda Kegelapan Malam",
+        "สัญลักษณ์\u001aแห่ง\u001aราตรี\u001a"
+    ],
+    "221817": [
+        "Abyssal Providence",
+        "深淵之理",
+        "심연의 섭리",
+        "Providence abyssale",
+        "Abgründige Fügung",
+        "Providencia abisal",
+        "Abyssal Providence",
+        "การ\u001aคุ้มครอง\u001aของ\u001aห้วง\u001aเหว\u001a"
+    ],
+    "221818": [
+        "Blinding Dark Fog",
+        "黑暗迷霧",
+        "암흑의 흑무",
+        "Brouillard des ténèbres aveuglantes",
+        "Schwarzer Dunkelnebel",
+        "Niebla negra cegadora",
+        "Asap Gelap Membutakan",
+        "หมอก\u001aมืดมน\u001a"
+    ],
+    "221819": [
+        "Immobilizing Green Mist",
+        "麻痺青霧",
+        "비수의 청무",
+        "Brume verte paralysante",
+        "Lähmender grüner Nebel",
+        "Niebla verde inmovilizadora",
+        "Kabut Hijau Melumpuhkan",
+        "หมอก\u001aเขียว\u001aหยุด\u001aการขยับ\u001a"
+    ],
+    "221820": [
+        "It's recoiling from the light!",
+        "對方畏光！",
+        "빛이 꺾이고 있다!",
+        "L'ennemi recule devant la lumière !",
+        "Es weicht vor dem Licht zurück!",
+        "¡La luz le hace recular!",
+        "Ia takut terhadap cahaya!",
+        "แสงสว่าง\u001aทำให้\u001aศัตรู\u001aผงะ\u001a!\u001a"
     ],
     "221821": [
         "Mark 98 Rotary Cannons",
@@ -130488,6 +131328,36 @@
         "Llave dorada",
         "Kunci Bengkel Emas",
         "ประแจ\u001aทองคำ\u001a"
+    ],
+    "221923": [
+        "Fira",
+        "中火焰",
+        "파이라",
+        "Brasier +",
+        "Feura",
+        "Piro+",
+        "Fira",
+        "Fira\u001a"
+    ],
+    "221924": [
+        "Southern Cross",
+        "南十字星",
+        "남십자성",
+        "Croix antarctique",
+        "Kreuz des Südens",
+        "Cruz del Sur",
+        "Salib Selatan",
+        "กางเขน\u001aดาว\u001aใต้\u001a"
+    ],
+    "221925": [
+        "Flare",
+        "核爆",
+        "플레어",
+        "Atomnium",
+        "Flamme",
+        "Fulgor",
+        "Flare",
+        "Flare\u001a"
     ],
     "900000": [
         "Death Declaration",
@@ -138846,7 +139716,7 @@
         "Kyros concentre son énergie dans ses poings.",
         "Kyros sammelt Energie in seinen Fäusten.",
         "Kyros acumula energía en sus puños.",
-        "Kyros mengumpulkan energi di kepalan tangannya",
+        "Kyros mengumpulkan energi di kepalan tangannya.",
         "Kyros\u001a \u001aกำลัง\u001aรวม\u001aพลัง\u001aไป\u001aที่\u001aกำปั้น\u001a"
     ],
     "900884": [
@@ -138866,7 +139736,7 @@
         "Kyros se rapproche du groupe.",
         "Kyros kommt auf die Gruppe zu.",
         "Kyros se acerca al grupo.",
-        "Kyros mendekati tim",
+        "Kyros mendekati tim.",
         "Kyros\u001a \u001aกำลัง\u001aเข้า\u001aประชิด\u001aทีม\u001aของ\u001aคุณ\u001a!\u001a"
     ],
     "900886": [
@@ -138886,7 +139756,7 @@
         "Kyros se rapproche du groupe en concentrant son énergie.",
         "Kyros sammelt Energie und kommt auf die Gruppe zu!",
         "¡Kyros acumula energía y se acerca al grupo!",
-        "Kyros mengumpulkan energi dan mendekati tim.",
+        "Kyros mengumpulkan energi dan mendekati tim!",
         "Kyros\u001a \u001aรวม\u001aพลัง\u001aและ\u001aเข้า\u001aประชิด\u001aทีม\u001aของ\u001aคุณ\u001a!\u001a"
     ],
     "900888": [
