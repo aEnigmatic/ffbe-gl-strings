@@ -5083,9 +5083,9 @@
         "Boost own ATK, DEF, MAG and SPR at the beginning of battle or after being revived, boost ATK when equipped with a sword, and boost HP and ATK when equipped with clothes (Not stackable)",
         "戰鬥開始時和從無法戰鬥狀態中復活時提高自身的攻擊防禦魔力精神+裝備劍時提高攻擊+裝備衣服時提高HP攻擊[無法重複裝備]",
         "전투 시작 시 및 전투불능 상태에서 회복했을 때 자신의 공격력, 방어력, 마력, 정신력 상승+검 장착 시 공격력 상승+옷 장착 시 HP와 공격력 상승 (중복 장착 불가)",
-        "Augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur au début du combat ou après avoir ressuscité. Augmente l'ATT lorsqu'une épée est équipée et augmente les PV et l'ATT lorsque des vêtements sont équipés (Non cumulable)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY du lanceur au début du combat ou après avoir ranimé, augmente son ATT quand une épée est équipée et augmente ses PV et son ATT quand des vêtements sont équipés (Non cumulable)",
         "Erhöht ANG, ABW, MAG und PSY des Benutzers zu Beginn eines Kampfes oder nach Wiederbelebung, erhöht ANG wenn mit einem Schwert ausgerüstet und erhöht LP und ANG wenn mit Kleidung ausgerüstet (Nicht stapelbar).",
-        "Aumenta ATQ, DEF, MAG y ESP del usuario al comienzo del combate o tras revivir, aumenta el ATQ al llevar espada y aumenta la VIT y el ATQ al llevar ropa (no acumulable)",
+        "Aumenta ATQ, DEF, MAG y ESP del usuario al inicio del combate o tras revivir, aumenta el ATQ al llevar espada y aumenta la VIT y el ATQ al llevar ropa (no acumulable)",
         "Meningkatkan ATK, DEF, MAG, dan SPR diri sendiri di awal battle atau setelah dihidupkan kembali, meningkatkan ATK ketika pedang digunakan, serta meningkatkan HP dan ATK ketika pakaian digunakan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aให้\u001aตัวเอง\u001aใน\u001aช่วง\u001aเริ่มต้น\u001aการต่อสู้\u001aหรือ\u001aหลัง\u001aการ\u001aคืนชีพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aดาบ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aATK\u001a \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aสวม\u001aชุด\u001aผ้า\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
@@ -6724,7 +6724,7 @@
         "提高30%HP攻擊+每回合增加極限技槽+裝備短劍時提高30%攻擊[無法重複裝備]",
         "HP와 공격력 30% 상승+매 턴마다 LB 게이지 증가+단검 장착 시 공격력 30% 상승 (중복 장착 불가)",
         "Augmente les PV et l'ATT de 30 %, remplit la jauge de limite à chaque tour, et augmente l'ATT de 30 % quand une épée courte est équipée (Non cumulable)",
-        "Erhöht LP sowie ANG um 30%, füllt jede Runde Limitrausch und erhöht ANG um 30%, wenn mit einem Kurzschwert ausgerüstet (Nicht stapelbar).",
+        "Erhöht LP sowie ANG um 30%, füllt jede Runde Limitmeter und erhöht ANG um 30%, wenn mit einem Kurzschwert ausgerüstet (nicht stapelbar).",
         "Aumenta la VIT y el ATQ un 30%, rellena la barra de EL cada turno, y aumenta el ATQ otro 30% al llevar espada corta (no acumulable)",
         "Meningkatkan HP dan ATK sebanyak 30%, mengisi bar LB setiap giliran, dan meningkatkan ATK sebanyak 30% ketika pedang pendek digunakan (Tidak dapat ditumpuk)",
         "เพิ่ม\u001a \u001aHP\u001a \u001aและ\u001a \u001aATK\u001a \u001a30% + เติม LB Gauge\u001a \u001aใน\u001aทุก\u001aเทิร์น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a30% \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aดาบสั้น\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
@@ -8888,6 +8888,16 @@
         "Anula confusión, aumenta la resistencia al agua un 30% y la barra de EL se rellena un 100% más rápido (no acumulable)",
         "Menihilkan status confuse, meningkatkan resistansi air sebanyak 30%, dan meningkatkan kecepatan pengisian bar LB sebanyak 100% (Tidak dapat ditumpuk)",
         "ยกเลิก\u001aสถานะ\u001a \u001aConfuse\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001a \u001a30% + เพิ่มค่า Fill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001a100% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504241540": [
+        "Boost ATK by 50%, and boost physical and magic damage against demons and avian monsters by 40% (Not stackable)",
+        "提高50%攻擊+物理、魔法攻擊時提高40%對惡魔鳥系魔物的傷害[無法重複裝備]",
+        "공격력 50% 상승+물리, 마법 공격 시 악마와 조류형 마물에게 부여하는 피해량 40% 상승 (중복 장착 불가)",
+        "Augmente l'ATT de 50 %, et augmente les dégâts physiques et magiques infligés aux démons et aux oiseaux de 40 % (non cumulable)",
+        "Erhöht ANG um 50% und erhöht physischen sowie magischen Schaden gegen Dämonen und Vogelmonster um 40% (nicht stapelbar).",
+        "Aumenta el ATQ un 50% y el daño físico y mágico contra demonios y aves un 40% (no acumulable)",
+        "Meningkatkan ATK sebanyak 50%, serta meningkatkan damage fisik dan magic terhadap jenis demon dan makhluk bersayap sebanyak 40% (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001aและ\u001aสัตว์ปีก\u001a \u001a40% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504241542": [
         "Boost MP and SPR by 40% and boost physical and magic damage against aquatic monsters by 50% (Not stackable)",
