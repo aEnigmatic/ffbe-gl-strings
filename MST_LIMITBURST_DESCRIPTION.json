@@ -10413,7 +10413,7 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Schaden, ein Ziel",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -16803,8 +16803,8 @@
         "Deal light damage and drain HP from all enemies",
         "對全體敵人發動光屬性攻擊+吸收HP",
         "적 전체에 빛속성 피해+HP 흡수",
-        "Dégâts de lumière et aspire les PV de tous les ennemis",
-        "Lichtschaden und LP stehlen, alle Ziele",
+        "Inflige des dégâts de lumière et absorbe les PV de tous les ennemis",
+        "Fügt allen Gegnern Lichtschaden zu und stiehlt deren LP.",
         "Daño de luz a todos los enemigos y les absorbe VIT",
         "Memberikan damage cahaya dan menyerap HP semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aดูด\u001aค่า\u001a \u001aHP\u001a \u001aจาก\u001aศัตรู\u001aทุกราย\u001a"
@@ -16813,8 +16813,8 @@
         "Deal light damage and drain HP from all enemies",
         "對全體敵人發動光屬性攻擊+吸收HP",
         "적 전체에 빛속성 피해+HP 흡수",
-        "Dégâts de lumière et aspire les PV de tous les ennemis",
-        "Lichtschaden und LP stehlen, alle Ziele",
+        "Inflige des dégâts de lumière et absorbe les PV de tous les ennemis",
+        "Fügt allen Gegnern Lichtschaden zu und stiehlt deren LP.",
         "Daño de luz a todos los enemigos y les absorbe VIT",
         "Memberikan damage cahaya dan menyerap HP semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aดูด\u001aค่า\u001a \u001aHP\u001a \u001aจาก\u001aศัตรู\u001aทุกราย\u001a"
@@ -16824,16 +16824,26 @@
         "對全體敵人發動光屬性攻擊+吸收HP",
         "적 전체에 빛속성 피해+HP 흡수",
         "Dégâts de lumière et aspire les PV de tous les ennemis",
-        "Lichtschaden und LP stehlen, alle Ziele",
+        "Fügt allen Gegnern Lichtschaden zu und stiehlt deren LP.",
         "Inflige daño de luz y drena la VIT de todos los enemigos",
         "Memberikan damage cahaya dan menyerap HP semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aและ\u001aดูด\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "254000227": [
+        "Reduce lightning resistance for one enemy, boost lightning damage of LB, abilities, and magic, and physical damage against stone and machina monsters for caster, and deal partial unmitigated lightning damage to one enemy",
+        "降低1名敵人的雷屬性耐性+提高自身雷屬性「極限技、能力、魔法」的傷害+物理攻擊時提高對岩石機械系魔物的傷害+對1名敵人發動無視部分防禦的雷屬性攻擊",
+        "적 1명의 번개속성 저항력 감소+자신의 번개속성 LB, 어빌리티, 마법 피해량 상승+물리 공격 시 암석과 기계형 마물에게 부여하는 피해량 상승+적 1명에게 번개속성 일부 방어 무시 피해",
+        "Réduit la résistance à la foudre d'un ennemi, augmente les dégâts de foudre de la limite, des aptitudes et des sorts ainsi que les dégâts physiques infligés aux monstres de pierre et aux machines du lanceur et inflige des dégâts de foudre en partie fixes à un ennemi",
+        "Verringert Blitzresistenz eines Gegners, erhöht Blitzschaden durch Limitrausch, Fertigkeiten und Magie sowie physischen Schaden des Benutzers gegen Steinmonster und Maschinen und fügt einem Gegner teilweise direkten Blitzschaden zu.",
+        "Reduce la resistencia al rayo de un enemigo, aumenta el daño de rayo del EL, las habilidades y la magia del usuario y su daño físico contra pétreos y máquinas, e inflige daño de rayo que ignora parcialmente la DEF de un enemigo",
+        "Mengurangi resistansi petir pada satu musuh, meningkatkan damage petir pada LB, ability, dan magic, dan meningkatkan damage fisik diri sendiri terhadap jenis batu dan mesin, serta memberikan damage petir yang menembus sebagian DEF pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aศิลา\u001aและ\u001aจักรกล\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "254000304": [
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Schaden, ein Ziel",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -16843,7 +16853,7 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Schaden, ein Ziel",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -16853,7 +16863,7 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Schaden, ein Ziel",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -17249,6 +17259,16 @@
         "Memberikan damage yang menembus sebagian DEF, serta mengurangi ATK dan MAG satu musuh",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "254001827": [
+        "Reduce fire resistance for one enemy, reduce DEF, boost physical damage against plants and machina monsters, and boost damage of certain abilities for caster, and deal fire damage to one enemy",
+        "降低1名敵人的火屬性耐性+降低自身的防禦+物理攻擊時提高對植物機械系魔物的傷害+提高特定能力的傷害+對1名敵人發動火屬性攻擊",
+        "적 1명의 불속성 저항력 감소+방어력 감소+자신에게 물리 공격 시 식물과 기계형 마물에 대한 피해량 상승 효과 부여+특정 어빌리티의 피해량 상승+적 1명에게 불속성 피해",
+        "Réduit la résistance au feu d'un ennemi, réduit la DEF du lanceur, augmente les dégâts physiques qu'il inflige aux plantes et aux machines, augmente les dégâts de certaines de ses aptitudes et inflige des dégâts de feu à un ennemi",
+        "Verringert Feuerresistenz eines Gegners und verringert ABW, erhöht physischen Schaden gegen Pflanzen und Maschinen und erhöht Schaden bestimmter Fertigkeiten des Benutzers und fügt einem Gegner Feuerschaden zu.",
+        "Reduce la resistencia al fuego de un enemigo, reduce la DEF del usuario, aumenta su daño físico contra plantoides y máquinas y el daño de determinadas habilidades, e inflige daño de fuego a un enemigo",
+        "Mengurangi resistansi api pada satu musuh, mengurangi DEF, dan meningkatkan damage fisik diri sendiri terhadap jenis tumbuhan dan mesin, meningkatkan damage ability tertentu, dan memberikan damage api pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aพืช\u001aและ\u001aจักรกล\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "254001905": [
         "Reduce ice resistance and deal ice damage to all enemies, and boost own ATK and MAG",
         "降低全體敵人的冰屬性耐性+發動冰屬性攻擊+提高自身的攻擊魔力",
@@ -17338,6 +17358,26 @@
         "Aumenta el ATQ del usuario, reduce ATQ, DEF, MAG y ESP de todos los enemigos, y aprende Estocada triple durante 5 turnos",
         "Meningkatkan ATK diri sendiri, mengurangi ATK, DEF, MAG, SPR, dan memberikan damage semua musuh, serta memungkinkan penggunaan Bolt Rapiers Triple Strike selama 5 giliran",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aของ\u001aตัวเอง\u001a,\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aBolt\u001a \u001aRapiers\u001a \u001aTriple\u001a \u001aStrike\u001a \u001aได้\u001a \u001a5\u001a \u001aเทิร์น\u001a"
+    ],
+    "254002207": [
+        "Reduce ice resistance for all enemies, boost ice damage of LB, abilities, and magic and LB damage for caster, and deal ice damage to all enemies",
+        "降低全體敵人的冰屬性耐性+提高自身冰屬性「極限技、能力、魔法」的傷害+提高極限技的傷害+對全體敵人發動冰屬性攻擊",
+        "적 전체의 얼음속성 저항력 감소+자신의 얼음속성 LB, 어빌리티, 마법 피해량 상승+LB 피해량 상승+적 전체에 얼음속성 피해",
+        "Réduit la résistance à la glace de tous les ennemis, augmente les dégâts de glace de la limite, des aptitudes et des sorts ainsi que les dégâts de la limite du lanceur et inflige des dégâts de glace à tous les ennemis",
+        "Verringert Eisresistenz aller Gegner, erhöht Eisschaden durch Limitrausch, Fertigkeiten, Magie sowie Schaden durch Limitrausch des Benutzers und fügt allen Gegnern Eisschaden zu.",
+        "Reduce la resistencia al hielo de todos los enemigos, aumenta el daño de hielo del EL, las habilidades y la magia del usuario y el daño de su EL, e inflige daño de hielo a todos los enemigos",
+        "Mengurangi resistansi es pada semua musuh, meningkatkan damage es pada LB, ability, dan magic, dan meningkatkan damage LB diri sendiri, serta memberikan damage es pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "254002217": [
+        "Reduce ice resistance for one enemy, boost ice damage of LB, abilities, and magic, and physical damage against humans and machina monsters for caster, and deal ice damage to one enemy",
+        "降低1名敵人的冰屬性耐性+提高自身冰屬性「極限技、能力、魔法」的傷害+物理攻擊時提高對人機械系魔物的傷害+對1名敵人發動冰屬性攻擊",
+        "적 1명의 얼음속성 저항력 감소+자신의 얼음속성 LB, 어빌리티, 마법 피해량 상승+물리 공격 시 인간과 기계형 마물에게 부여하는 피해량 상승+적 1명에게 얼음속성 피해",
+        "Réduit la résistance à la glace d'un ennemi, augmente les dégâts de glace de la limite, des aptitudes et des sorts ainsi que les dégâts physiques infligés aux humains et aux machines du lanceur et inflige des dégâts de glace à un ennemi",
+        "Verringert Eisresistenz eines Gegners, erhöht Eisschaden durch Limitrausch, Fertigkeiten und Magie sowie physischen Schaden des Benutzers gegen Menschen und Maschinen und fügt einem Gegner Eisschaden zu.",
+        "Reduce la resistencia al hielo de un enemigo, aumenta el daño de hielo del EL, las habilidades y la magia del usuario y su daño físico contra humanos y máquinas, e inflige daño de hielo a un enemigo",
+        "Mengurangi resistansi es pada satu musuh, meningkatkan damage es pada LB, ability, dan magic, dan meningkatkan damage fisik diri sendiri terhadap jenis manusia dan mesin, serta memberikan damage es pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aจักรกล\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "255000104": [
         "Damage and reduce all elemental resistance for all enemies",
@@ -24274,7 +24314,7 @@
         "對1名敵人發動無視部分防禦的攻擊",
         "적 1명에게 일부 방어 무시 피해",
         "Dégâts en partie fixes sur un ennemi",
-        "Teilweise direkter Schaden, ein Ziel",
+        "Fügt einem Gegner teilweise direkten Schaden zu.",
         "Daño que ignora parcialmente la DEF de un enemigo",
         "Memberikan damage yang menembus sebagian DEF pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
