@@ -1019,6 +1019,26 @@
         "Meningkatkan daya absorbsi (sedang)",
         "เพิ่มปริมาณ\u001aที่\u001aดูดกลืน\u001a \u001a(\u001aปานกลาง\u001a)\u001a"
     ],
+    "200300001": [
+        "Chance of instantly KO'ing (70%)<br>Deals damage (1400%)",
+        "一定機率造成致死一擊效果(70%)<br>發動攻擊(1400%)",
+        "일정 확률로 즉사 부여(70%)<br>피해(1400%)",
+        "Confère une chance d'infliger K.O. instantané (70 %)<br>Inflige des dégâts (1400 %)",
+        "Chance, sofort kampfunfähig zu machen (70%).<br>Fügt Schaden zu (1400%).",
+        "Probabilidad de infligir K.O. instantáneo (un 70%)<br>Inflige daño (un 1400%)",
+        "Peluang untuk menyebabkan K.O. seketika (70%)<br>Memberikan damage (1400%)",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a(\u001a70%)<br>\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a1400%)\u001a"
+    ],
+    "200300002": [
+        "Chance of instantly KO'ing (100%)<br>Deals damage (3200%)",
+        "一定機率造成致死一擊效果(100%)<br>發動攻擊(3200%)",
+        "일정 확률로 즉사 부여(100%)<br>피해(3200%)",
+        "Confère une chance d'infliger K.O. instantané (100 %)<br>Inflige des dégâts (3200 %)",
+        "Chance, sofort kampfunfähig zu machen (100%).<br>Fügt Schaden zu (3200%).",
+        "Probabilidad de infligir K.O. instantáneo (un 100%)<br>Inflige daño (un 3200%)",
+        "Peluang untuk menyebabkan K.O. seketika (100%)<br>Memberikan damage (3200%)",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a(\u001a100%)<br>\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a3200%)\u001a"
+    ],
     "200310001": [
         null,
         null,
@@ -1058,6 +1078,36 @@
         "Aumenta el daño (bastante)",
         "Meningkatkan damage (sedang)",
         "เพิ่มค่า\u001aความเสียหาย\u001a \u001a(\u001aปานกลาง\u001a)\u001a"
+    ],
+    "200440001": [
+        "Deals damage (800%)",
+        "發動攻擊(800%)",
+        "피해(800%)",
+        "Inflige des dégâts (800 %)",
+        "Fügt Schaden zu (800%).",
+        "Inflige daño (un 800%)",
+        "Memberikan damage (800%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a800%)\u001a"
+    ],
+    "200440002": [
+        "Deals damage (2400%)",
+        "發動攻擊(2400%)",
+        "피해(2400%)",
+        "Inflige des dégâts (2400 %)",
+        "Fügt Schaden zu (2400%).",
+        "Inflige daño (un 2400%)",
+        "Memberikan damage (2400%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a2400%)\u001a"
+    ],
+    "200440003": [
+        "Deals damage (4800%)",
+        "發動攻擊(4800%)",
+        "피해(4800%)",
+        "Inflige des dégâts (4800 %)",
+        "Fügt Schaden zu (4800%).",
+        "Inflige daño (un 4800%)",
+        "Memberikan damage (4800%)",
+        "สร้าง\u001aความเสียหาย\u001a \u001a(\u001a4800%)\u001a"
     ],
     "200450001": [
         null,
@@ -3305,7 +3355,7 @@
         "소비 MP 변화(60)<br>일부 마법 방어 무시 피해(2500%)<br>공격 당 히트 수 변화(1)",
         "Modifie les PM consommés (60)<br>Inflige des dégâts magiques en partie fixes (2500 %)<br>Modifie le nombre de coups par attaque (à 1)",
         "Ändert MP-Verbrauch (60).<br>Fügt teilweise direkten magischen Schaden zu (2500%).<br>Ändert Trefferzahl pro Angriff (1).",
-        "Cambia el consumo de PM (a 60)<br>Inflige daño mágico que ignora parcialmente el ESP (un 2500%)<br>Cambia el número de golpes por ataque (a 1)",
+        "Cambia el consumo de PM (a 60)<br>Inflige daño mágico que ignora parcialmente el ESP (un 2500%)<br>Cambia el número de golpes por ataque<br>(a 1)",
         "Mengubah jumlah konsumsi MP (60)<br>Memberikan damage magic yang menembus sebagian SPR (2500%)<br>Menambah jumlah hit per serangan (menjadi 1)",
         "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a60\u001a)<br>\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a(\u001a2500%)<br>\u001aเพิ่มจำนวน\u001aครั้ง\u001aที่\u001aโจมตี\u001aได้\u001aต่อ\u001aการ\u001aโจมตี\u001a \u001a(\u001aเป็น\u001a \u001a1\u001a)\u001a"
     ],
@@ -3315,7 +3365,7 @@
         "소비 MP 변화(45)<br>일부 마법 방어 무시 피해(4000%)<br>공격 당 히트 수 변화(1)",
         "Modifie les PM consommés (45)<br>Inflige des dégâts magiques en partie fixes (4000 %)<br>Modifie le nombre de coups par attaque (à 1)",
         "Ändert MP-Verbrauch (45).<br>Fügt teilweise direkten magischen Schaden zu (4000%).<br>Ändert Trefferzahl pro Angriff (1).",
-        "Cambia el consumo de PM (a 45)<br>Inflige daño mágico que ignora parcialmente el ESP (un 4000%)<br>Cambia el número de golpes por ataque (a 1)",
+        "Cambia el consumo de PM (a 45)<br>Inflige daño mágico que ignora parcialmente el ESP (un 4000%)<br>Cambia el número de golpes por ataque<br>(a 1)",
         "Mengubah jumlah konsumsi MP (45)<br>Memberikan damage magic yang menembus sebagian SPR (4000%)<br>Menambah jumlah hit per serangan (menjadi 1)",
         "เปลี่ยน\u001aค่า\u001a \u001aMP\u001a \u001aที่\u001aใช้\u001a \u001a(\u001a45\u001a)<br>\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a(\u001a4000%)<br>\u001aเพิ่มจำนวน\u001aครั้ง\u001aที่\u001aโจมตี\u001aได้\u001aต่อ\u001aการ\u001aโจมตี\u001a \u001a(\u001aเป็น\u001a \u001a1\u001a)\u001a"
     ],
@@ -19499,6 +19549,66 @@
         "Meningkatkan damage ability Jump (75%)",
         "เพิ่มค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aโจมตี\u001aแบบ\u001aกระโดด\u001a \u001a(\u001a75%)\u001a"
     ],
+    "235887001": [
+        "Boosts damage of certain abilities (sword agitato: 1500%)",
+        "提高特定能力的傷害(劍之促音：1500%)",
+        "특정 어빌리티의 피해량 상승(검의 아지타토: 1500%)",
+        "Augmente les dégâts de certaines aptitudes (Agitato d'épée : 1500 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Schwert-Agitato: 1500%).",
+        "Aumenta el daño de determinadas habilidades (Espada agitato: un 1500%)",
+        "Meningkatkan damage ability tertentu (Agitato Pedang: 1500%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aเร่ง\u001aจังหวะ\u001aแห่ง\u001aเพ\u001aลงดาบ\u001a:\u001a \u001a1500%)\u001a"
+    ],
+    "235887002": [
+        "Boosts damage of certain abilities (sword agitato: 6000%)",
+        "提高特定能力的傷害(劍之促音：6000%)",
+        "특정 어빌리티의 피해량 상승(검의 아지타토: 6000%)",
+        "Augmente les dégâts de certaines aptitudes (Agitato d'épée : 6000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten (Schwert-Agitato: 6000%).",
+        "Aumenta el daño de determinadas habilidades (Espada agitato: un 6000%)",
+        "Meningkatkan damage ability tertentu (Agitato Pedang: 6000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aเร่ง\u001aจังหวะ\u001aแห่ง\u001aเพ\u001aลงดาบ\u001a:\u001a \u001a6000%)\u001a"
+    ],
+    "235888001": [
+        "Boosts physical damage against machina monsters (50%)<br>Boosts damage of certain abilities (sword agitato: 1750%)",
+        "物理攻擊時提高對機械系魔物的傷害(50%)<br>提高特定能力的傷害(劍之促音：1750%)",
+        "물리 공격 시 기계형 마물에게 부여하는 피해량 상승(50%)<br>특정 어빌리티의 피해량 상승(검의 아지타토: 1750%)",
+        "Augmente les dégâts physiques infligés aux machines (50 %)<br>Augmente les dégâts de certaines aptitudes (Agitato d'épée : 1750 %)",
+        "Erhöht physischen Schaden gegen Maschinen (50%).<br>Erhöht Schaden bestimmter Fertigkeiten (Schwert-Agitato: 1750%).",
+        "Aumenta el daño físico contra máquinas (un 50%)<br>Aumenta el daño de determinadas habilidades (Espada agitato: un 1750%)",
+        "Meningkatkan damage fisik terhadap jenis mesin (50%)<br>Meningkatkan damage ability tertentu (Agitato Pedang: 1750%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a(\u001a50%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aเร่ง\u001aจังหวะ\u001aแห่ง\u001aเพ\u001aลงดาบ\u001a:\u001a \u001a1750%)\u001a"
+    ],
+    "235888002": [
+        "Boosts physical damage against machina monsters (75%)<br>Boosts damage of certain abilities (sword agitato: 5000%)",
+        "物理攻擊時提高對機械系魔物的傷害(75%)<br>提高特定能力的傷害(劍之促音：5000%)",
+        "물리 공격 시 기계형 마물에게 부여하는 피해량 상승(75%)<br>특정 어빌리티의 피해량 상승(검의 아지타토: 5000%)",
+        "Augmente les dégâts physiques infligés aux machines (75 %)<br>Augmente les dégâts de certaines aptitudes (Agitato d'épée : 5000 %)",
+        "Erhöht physischen Schaden gegen Maschinen (75%).<br>Erhöht Schaden bestimmter Fertigkeiten (Schwert-Agitato: 5000%).",
+        "Aumenta el daño físico contra máquinas (un 75%)<br>Aumenta el daño de determinadas habilidades (Espada agitato: un 5000%)",
+        "Meningkatkan damage fisik terhadap jenis mesin (75%)<br>Meningkatkan damage ability tertentu (Agitato Pedang: 5000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a(\u001a75%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aเร่ง\u001aจังหวะ\u001aแห่ง\u001aเพ\u001aลงดาบ\u001a:\u001a \u001a5000%)\u001a"
+    ],
+    "235889001": [
+        "Boosts physical damage against reapers (50%)<br>Boosts damage of certain abilities (sword agitato: 1750%)",
+        "物理攻擊時提高對死靈系魔物的傷害(50%)<br>提高特定能力的傷害(劍之促音：1750%)",
+        "물리 공격 시 사령형 마물에게 부여하는 피해량 상승(50%)<br>특정 어빌리티의 피해량 상승(검의 아지타토: 1750%)",
+        "Augmente les dégâts physiques infligés aux morts-vivants (50 %)<br>Augmente les dégâts de certaines aptitudes (Agitato d'épée : 1750 %)",
+        "Erhöht physischen Schaden gegen Untote (50%).<br>Erhöht Schaden bestimmter Fertigkeiten (Schwert-Agitato: 1750%).",
+        "Aumenta el daño físico contra muertos vivientes (un 50%)<br>Aumenta el daño de determinadas habilidades (Espada agitato: un 1750%)",
+        "Meningkatkan damage fisik terhadap jenis makhluk halus (50%)<br>Meningkatkan damage ability tertentu (Agitato Pedang: 1750%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a(\u001a50%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aเร่ง\u001aจังหวะ\u001aแห่ง\u001aเพ\u001aลงดาบ\u001a:\u001a \u001a1750%)\u001a"
+    ],
+    "235889002": [
+        "Boosts physical damage against reapers (75%)<br>Boosts damage of certain abilities (sword agitato: 5000%)",
+        "物理攻擊時提高對死靈系魔物的傷害(75%)<br>提高特定能力的傷害(劍之促音：5000%)",
+        "물리 공격 시 사령형 마물에게 부여하는 피해량 상승(75%)<br>특정 어빌리티의 피해량 상승(검의 아지타토: 5000%)",
+        "Augmente les dégâts physiques infligés aux morts-vivants (75 %)<br>Augmente les dégâts de certaines aptitudes (Agitato d'épée : 5000 %)",
+        "Erhöht physischen Schaden gegen Untote (75%).<br>Erhöht Schaden bestimmter Fertigkeiten (Schwert-Agitato: 5000%).",
+        "Aumenta el daño físico contra muertos vivientes (un 75%)<br>Aumenta el daño de determinadas habilidades (Espada agitato: un 5000%)",
+        "Meningkatkan damage fisik terhadap jenis makhluk halus (75%)<br>Meningkatkan damage ability tertentu (Agitato Pedang: 5000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001areapers\u001a \u001a(\u001a75%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aเร่ง\u001aจังหวะ\u001aแห่ง\u001aเพ\u001aลงดาบ\u001a:\u001a \u001a5000%)\u001a"
+    ],
     "238103001": [
         "Activates area effect:<br>Boosts fire physical and fire magic damage (25%)<br>Boosts ice physical and ice magic damage (25%)<br>Boosts lightning physical and lightning magic damage (25%)",
         "施展區域效果：<br>提高火屬性物理、魔法傷害(25%)<br>提高冰屬性物理、魔法傷害(25%)<br>提高雷屬性物理、魔法傷害(25%)",
@@ -33518,6 +33628,326 @@
         "Aumenta la precisión de algunos ataques físicos (un 45%)<br>Rellena la barra de EL (en 550)",
         "Meningkatkan akurasi beberapa serangan fisik (45%)<br>Mengisi bar LB (550)",
         "เพิ่ม\u001aความแม่นยำ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001a \u001a(\u001a45%)<br>เติม LB Gauge\u001a \u001a(\u001a550\u001a)\u001a"
+    ],
+    "300001543": [
+        "Deals light magic damage (5600%)",
+        "發動光屬性魔法攻擊(5600%)",
+        "빛속성 마법 피해(5600%)",
+        "Inflige des dégâts magiques de lumière (5600 %)",
+        "Erhöht magischen Lichtschaden (5600%).",
+        "Inflige daño mágico de luz (un 5600%)",
+        "Memberikan damage magic cahaya (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a<br>(\u001a5600%)\u001a"
+    ],
+    "300001544": [
+        "Deals light magic damage (6000%)",
+        "發動光屬性魔法攻擊(6000%)",
+        "빛속성 마법 피해(6000%)",
+        "Inflige des dégâts magiques de lumière (6000 %)",
+        "Erhöht magischen Lichtschaden (6000%).",
+        "Inflige daño mágico de luz (un 6000%)",
+        "Memberikan damage magic cahaya (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a<br>(\u001a6000%)\u001a"
+    ],
+    "300001545": [
+        "Deals light magic damage (6400%)",
+        "發動光屬性魔法攻擊(6400%)",
+        "빛속성 마법 피해(6400%)",
+        "Inflige des dégâts magiques de lumière (6400 %)",
+        "Erhöht magischen Lichtschaden (6400%).",
+        "Inflige daño mágico de luz (un 6400%)",
+        "Memberikan damage magic cahaya (6400%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a<br>(\u001a6400%)\u001a"
+    ],
+    "300001546": [
+        "Deals light magic damage (6800%)",
+        "發動光屬性魔法攻擊(6800%)",
+        "빛속성 마법 피해(6800%)",
+        "Inflige des dégâts magiques de lumière (6800 %)",
+        "Erhöht magischen Lichtschaden (6800%).",
+        "Inflige daño mágico de luz (un 6800%)",
+        "Memberikan damage magic cahaya (6800%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a<br>(\u001a6800%)\u001a"
+    ],
+    "300001547": [
+        "Deals water magic damage (5600%)",
+        "發動水屬性魔法攻擊(5600%)",
+        "물속성 마법 피해(5600%)",
+        "Inflige des dégâts magiques d'eau (5600 %)",
+        "Erhöht magischen Wasserschaden (5600%).",
+        "Inflige daño mágico de agua (un 5600%)",
+        "Memberikan damage magic air (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a<br>(\u001a5600%)\u001a"
+    ],
+    "300001548": [
+        "Deals water magic damage (6000%)",
+        "發動水屬性魔法攻擊(6000%)",
+        "물속성 마법 피해(6000%)",
+        "Inflige des dégâts magiques d'eau (6000 %)",
+        "Erhöht magischen Wasserschaden (6000%).",
+        "Inflige daño mágico de agua (un 6000%)",
+        "Memberikan damage magic air (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a<br>(\u001a6000%)\u001a"
+    ],
+    "300001549": [
+        "Deals water magic damage (6400%)",
+        "發動水屬性魔法攻擊(6400%)",
+        "물속성 마법 피해(6400%)",
+        "Inflige des dégâts magiques d'eau (6400 %)",
+        "Erhöht magischen Wasserschaden (6400%).",
+        "Inflige daño mágico de agua (un 6400%)",
+        "Memberikan damage magic air (6400%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a<br>(\u001a6400%)\u001a"
+    ],
+    "300001550": [
+        "Deals water magic damage (6800%)",
+        "發動水屬性魔法攻擊(6800%)",
+        "물속성 마법 피해(6800%)",
+        "Inflige des dégâts magiques d'eau (6800 %)",
+        "Erhöht magischen Wasserschaden (6800%).",
+        "Inflige daño mágico de agua (un 6800%)",
+        "Memberikan damage magic air (6800%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a<br>(\u001a6800%)\u001a"
+    ],
+    "300001551": [
+        "Deals dark damage (5600%)",
+        "發動暗屬性攻擊(5600%)",
+        "어둠속성 피해(5600%)",
+        "Inflige des dégâts de ténèbres (5600 %)",
+        "Fügt Dunkelschaden zu (5600%).",
+        "Inflige daño de oscuridad (un 5600%)",
+        "Memberikan damage kegelapan (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a(<color=0:255:0>\u001a5600%</color>)\u001a"
+    ],
+    "300001552": [
+        "Deals dark damage (6000%)",
+        "發動暗屬性攻擊(6000%)",
+        "어둠속성 피해(6000%)",
+        "Inflige des dégâts de ténèbres (6000 %)",
+        "Fügt Dunkelschaden zu (6000%).",
+        "Inflige daño de oscuridad (un 6000%)",
+        "Memberikan damage kegelapan (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a(<color=0:255:0>\u001a6000%</color>)\u001a"
+    ],
+    "300001553": [
+        "Deals dark damage (6400%)",
+        "發動暗屬性攻擊(6400%)",
+        "어둠속성 피해(6400%)",
+        "Inflige des dégâts de ténèbres (6400 %)",
+        "Fügt Dunkelschaden zu (6400%).",
+        "Inflige daño de oscuridad (un 6400%)",
+        "Memberikan damage kegelapan (6400%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a(<color=0:255:0>\u001a6400%</color>)\u001a"
+    ],
+    "300001554": [
+        "Deals dark damage (6800%)",
+        "發動暗屬性攻擊(6800%)",
+        "어둠속성 피해(6800%)",
+        "Inflige des dégâts de ténèbres (6800 %)",
+        "Fügt Dunkelschaden zu (6800%).",
+        "Inflige daño de oscuridad (un 6800%)",
+        "Memberikan damage kegelapan (6800%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001a \u001a(<color=0:255:0>\u001a6800%</color>)\u001a"
+    ],
+    "300001555": [
+        "Fills LB gauge (2000)",
+        "增加極限技槽(2000)",
+        "LB 게이지 증가(2000)",
+        "Remplit la jauge de limite (2000)",
+        "Füllt Limitmeter (2000).",
+        "Rellena la barra de EL (2000)",
+        "Mengisi bar LB (2000)",
+        "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a2000\u001a)\u001a"
+    ],
+    "300001556": [
+        "Fills LB gauge (2500)",
+        "增加極限技槽(2500)",
+        "LB 게이지 증가(2500)",
+        "Remplit la jauge de limite (2500)",
+        "Füllt Limitmeter (2500).",
+        "Rellena la barra de EL (2500)",
+        "Mengisi bar LB (2500)",
+        "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a2500\u001a)\u001a"
+    ],
+    "300001557": [
+        "Fills LB gauge (3000)",
+        "增加極限技槽(3000)",
+        "LB 게이지 증가(3000)",
+        "Remplit la jauge de limite (3000)",
+        "Füllt Limitmeter (3000).",
+        "Rellena la barra de EL (3000)",
+        "Mengisi bar LB (3000)",
+        "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a3000\u001a)\u001a"
+    ],
+    "300001558": [
+        "Fills LB gauge (3500)",
+        "增加極限技槽(3500)",
+        "LB 게이지 증가(3500)",
+        "Remplit la jauge de limite (3500)",
+        "Füllt Limitmeter (3500).",
+        "Rellena la barra de EL (3500)",
+        "Mengisi bar LB (3500)",
+        "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a3500\u001a)\u001a"
+    ],
+    "300001559": [
+        "Boosts ATK (200)",
+        "提高攻擊(200)",
+        "공격력 상승(200)",
+        "Augmente l'ATT (200)",
+        "Erhöht ANG (200).",
+        "Aumenta el ATQ (en 200)",
+        "Meningkatkan ATK (200)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a200\u001a)\u001a"
+    ],
+    "300001560": [
+        "Boosts ATK (400)",
+        "提高攻擊(400)",
+        "공격력 상승(400)",
+        "Augmente l'ATT (400)",
+        "Erhöht ANG (400).",
+        "Aumenta el ATQ (en 400)",
+        "Meningkatkan ATK (400)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a400\u001a)\u001a"
+    ],
+    "300001561": [
+        "Boosts ATK (600)",
+        "提高攻擊(600)",
+        "공격력 상승(600)",
+        "Augmente l'ATT (600)",
+        "Erhöht ANG (600).",
+        "Aumenta el ATQ (en 600)",
+        "Meningkatkan ATK (600)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a600\u001a)\u001a"
+    ],
+    "300001562": [
+        "Boosts ATK (800)",
+        "提高攻擊(800)",
+        "공격력 상승(800)",
+        "Augmente l'ATT (800)",
+        "Erhöht ANG (800).",
+        "Aumenta el ATQ (en 800)",
+        "Meningkatkan ATK (800)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a(\u001a800\u001a)\u001a"
+    ],
+    "300001563": [
+        "Reduces damage taken (55% ~ 65%)",
+        "減少傷害(55% ~ 65%)",
+        "피해량 감소(55% ~ 65%)",
+        "Réduit les dégâts subis (55 % ~ 65 %)",
+        "Verringert erlittenen Schaden (55% - 65%).",
+        "Reduce el daño recibido (55% ~ 65%)",
+        "Mengurangi damage yang diterima (55% ~ 65%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a(\u001a55% \u001a~\u001a \u001a65%)\u001a"
+    ],
+    "300001564": [
+        "Reduces damage taken (55% ~ 70%)",
+        "減少傷害(55% ~ 70%)",
+        "피해량 감소(55% ~ 70%)",
+        "Réduit les dégâts subis (55 % ~ 70 %)",
+        "Verringert erlittenen Schaden (55% - 70%).",
+        "Reduce el daño recibido (55% ~ 70%)",
+        "Mengurangi damage yang diterima (55% ~ 70%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a(\u001a55% \u001a~\u001a \u001a70%)\u001a"
+    ],
+    "300001565": [
+        "Reduces damage taken (60% ~ 70%)",
+        "減少傷害(60% ~ 70%)",
+        "피해량 감소(60% ~ 70%)",
+        "Réduit les dégâts subis (60 % ~ 70 %)",
+        "Verringert erlittenen Schaden (60% - 70%).",
+        "Reduce el daño recibido (60% ~ 70%)",
+        "Mengurangi damage yang diterima (60% ~ 70%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a(\u001a60% \u001a~\u001a \u001a70%)\u001a"
+    ],
+    "300001566": [
+        "Reduces damage taken (60% ~ 75%)",
+        "減少傷害(60% ~ 75%)",
+        "피해량 감소(60% ~ 75%)",
+        "Réduit les dégâts subis (60 % ~ 75 %)",
+        "Verringert erlittenen Schaden (60% - 75%).",
+        "Reduce el daño recibido (60% ~ 75%)",
+        "Mengurangi damage yang diterima (60% ~ 75%)",
+        "ลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a(\u001a60% \u001a~\u001a \u001a75%)\u001a"
+    ],
+    "300001567": [
+        "Deals earth damage (5600%)",
+        "發動土屬性攻擊(5600%)",
+        "땅속성 피해(5600%)",
+        "Inflige des dégâts de terre (5600 %)",
+        "Fügt Erdschaden zu (5600%).",
+        "Inflige daño de tierra (un 5600%)",
+        "Memberikan damage tanah (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a5600%)\u001a"
+    ],
+    "300001568": [
+        "Deals earth damage (6000%)",
+        "發動土屬性攻擊(6000%)",
+        "땅속성 피해(6000%)",
+        "Inflige des dégâts de terre (6000 %)",
+        "Fügt Erdschaden zu (6000%).",
+        "Inflige daño de tierra (un 6000%)",
+        "Memberikan damage tanah (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300001569": [
+        "Deals earth damage (6400%)",
+        "發動土屬性攻擊(6400%)",
+        "땅속성 피해(6400%)",
+        "Inflige des dégâts de terre (6400 %)",
+        "Fügt Erdschaden zu (6400%).",
+        "Inflige daño de tierra (un 6400%)",
+        "Memberikan damage tanah (6400%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a6400%)\u001a"
+    ],
+    "300001570": [
+        "Deals earth damage (6800%)",
+        "發動土屬性攻擊(6800%)",
+        "땅속성 피해(6800%)",
+        "Inflige des dégâts de terre (6800 %)",
+        "Fügt Erdschaden zu (6800%).",
+        "Inflige daño de tierra (un 6800%)",
+        "Memberikan damage tanah (6800%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001a \u001a(\u001a6800%)\u001a"
+    ],
+    "300001571": [
+        "Boosts HP (20%)",
+        "提高HP(20%)",
+        "HP 상승(20%)",
+        "Augmente les PV (20 %)",
+        "Erhöht LP (20%).",
+        "Aumenta la VIT (un 20%)",
+        "Meningkatkan HP (20%)",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a(\u001a20%)\u001a"
+    ],
+    "300001572": [
+        "Boosts HP (40%)",
+        "提高HP(40%)",
+        "HP 상승(40%)",
+        "Augmente les PV (40 %)",
+        "Erhöht LP (40%).",
+        "Aumenta la VIT (un 40%)",
+        "Meningkatkan HP (40%)",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a(\u001a40%)\u001a"
+    ],
+    "300001573": [
+        "Boosts HP (60%)",
+        "提高HP(60%)",
+        "HP 상승(60%)",
+        "Augmente les PV (60 %)",
+        "Erhöht LP (60%).",
+        "Aumenta la VIT (un 60%)",
+        "Meningkatkan HP (60%)",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a(\u001a60%)\u001a"
+    ],
+    "300001574": [
+        "Boosts HP (80%)",
+        "提高HP(80%)",
+        "HP 상승(80%)",
+        "Augmente les PV (80 %)",
+        "Erhöht LP (80%).",
+        "Aumenta la VIT (un 80%)",
+        "Meningkatkan HP (80%)",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a(\u001a80%)\u001a"
     ],
     "301301001": [
         null,
