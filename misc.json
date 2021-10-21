@@ -16251,6 +16251,16 @@
         "[Musuh] Unit pemain K.O.",
         "[\u001aฝ่าย\u001aศัตรู\u001a]\u001a \u001aยู\u001aนิ\u001aท\u001aของ\u001aผู้\u001aเล่น\u001aถูก\u001a \u001aKO\u001a"
     ],
+    "MST_MORALE_IN_BATTLE_RULE_10": [
+        "[Both] Boost resistance to status ailment (Once per status effect per unit per turn)",
+        "[雙方]提高隊員的異常狀態耐性(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 상태이상 저항력 상승(1턴에 유닛당 상태이상마다 1회)",
+        "[Tous] Augmente la résistance aux altérations d'état (1 fois par effet de statut par unité par tour)",
+        "[Beide] Erhöht Resistenz gegen Zustandsveränderungen (einmal pro Statuseffekt pro Einheit pro Runde).",
+        "[Ambos] Aumenta la resistencia a estados alterados (una vez por cambio de estado, por unidad y por turno)",
+        "[Kedua Pihak] Memberikan resistansi status abnormal (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001aผิดปกติ\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
     "MST_MORALE_IN_BATTLE_RULE_2": [
         "[Player] Attack enemy's weakness (Once per ability cast)",
         "[我方]以敵人的弱點屬性進行攻擊(每次施放能力採計1次)",
@@ -25345,10 +25355,10 @@
         "Scroll to adjust level",
         "滑動以調整等級",
         "스크롤하여 레벨 조정",
-        "Faire défiler pour<br>ajuster le niveau",
-        "Scrolle, um die<br>Stufe anzupassen",
+        "Faire défiler pour ajuster le niveau",
+        "Scrolle, um die Stufe anzupassen",
         "Desliza para ajustar el nivel",
-        "Geser untuk<br>menyesuaikan level",
+        "Geser untuk menyesuaikan level",
         "เลื่อน\u001aเพื่อ\u001aเปลี่ยน\u001a \u001aLv\u001a.\u001a"
     ],
     "TFA_BATTLE_RESULT_GRADE_AVERAGE": [
@@ -27437,7 +27447,7 @@
         "<color=183:193:221>재사용 대기 시간: </color><param=braveshift_cool_time>턴",
         "<color=183:193:221>Tps de récupération :</color><param=braveshift_cool_time> tour(s)",
         "<color=183:193:221>Abklingdauer: </color><param=braveshift_cool_time> Runde(n)",
-        "<color=183:193:221>Tiempo de espera: </color><param=braveshift_cool_time> turno(s)",
+        "<color=183:193:221>T. espera: </color><param=braveshift_cool_time> turno(s)",
         "<color=183:193:221>Jeda waktu: </color><param=braveshift_cool_time> giliran",
         "<color=183:193:221>\u001aคู\u001aลดา\u001aวน\u001a์:\u001a \u001a</color><param=braveshift_cool_time>\u001a \u001aเทิร์น\u001a"
     ],
@@ -27446,30 +27456,30 @@
         "<color=255:255:0>EX覺醒+1</color>時BRAVE SHIFT解放。",
         "브레이브 시프트는 <color=255:255:0>EX 각성+1</color>에서 개방됩니다.",
         "Forme extrême débloquée à <color=255:255:0>EX +1</color>.",
-        "Heldenwandel wird freigeschaltet auf <color=255:255:0>EX +1</color>.",
+        "Heldenwandel ab <color=255:255:0>EX +1</color>.",
         "La forma Brave se desbloquea en <color=255:255:0>EX +1</color>.",
         "Brave Shift dibuka di <color=255:255:0>EX +1</color>.",
-        "ปลด\u001aล็อค\u001a \u001aBrave\u001a \u001aShift\u001a \u001aที่\u001aระดับ\u001a \u001a<color=255:255:0>\u001aEX\u001a \u001a+\u001a1\u001a</color>\u001a"
+        "ปลด\u001aล็อค\u001a \u001aBrave\u001a \u001aShift\u001a \u001aที่\u001a \u001a<color=255:255:0>\u001aEX\u001a \u001a+\u001a1\u001a</color>\u001a"
     ],
     "UNIT_MENU_BRAVESHIFT_RELEASE_TYPE_MANUAL": [
         "<color=183:193:221><param=braveshift_release_turn> turn(s) remaining</color> until Brave Shift available",
         "<color=183:193:221><param=braveshift_release_turn>回合後</color>可以進入BRAVE SHIFT狀態",
         "<color=183:193:221>지속: </color><param=braveshift_release_turn>턴(임의)",
-        "<color=183:193:221><param=braveshift_release_turn></color> tour(s) restant(s) avant de pouvoir utiliser la forme extrême",
+        "Forme extrême (disponible) dans <color=183:193:221><param=braveshift_release_turn> tour(s)</color>",
         "<color=183:193:221><param=braveshift_release_turn> Runde(n)</color> bis Heldenwandel verfügbar wird",
-        "<color=183:193:221>Queda(n) </color><param=braveshift_release_turn> turno(s) para poder usar la forma Brave",
-        "<color=183:193:221>Tersisa <param=braveshift_release_turn> giliran</color> hingga Brave Shift tersedia",
-        "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a</color><param=braveshift_release_turn>\u001a \u001aเทิร์น\u001aจนกว่า\u001aใช้\u001a \u001aBrave\u001a \u001aShift\u001a \u001aได้\u001a"
+        "<color=183:193:221></color><param=braveshift_release_turn> turno(s) para poder usar la forma Brave",
+        "Tersisa <color=183:193:221><param=braveshift_release_turn> giliran</color> hingga Brave Shift tersedia",
+        "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a<param=braveshift_release_turn>\u001a \u001aเทิร์น</color>\u001a \u001aจนกว่า\u001aใช้\u001a \u001aBrave\u001a \u001aShift\u001a \u001aได้\u001a"
     ],
     "UNIT_MENU_BRAVESHIFT_RELEASE_TYPE_TURN": [
         "<color=183:193:221><param=braveshift_release_turn> turn(s) remaining</color> until forced Brave Shift",
         "<color=183:193:221><param=braveshift_release_turn>回合後</color>強制進入BRAVE SHIFT狀態",
         "<color=183:193:221>지속: </color><param=braveshift_release_turn>턴(강제)",
-        "<color=183:193:221><param=braveshift_release_turn></color> tour(s) restant(s) avant changement de forme (forcé)",
+        "Forme extrême (forcé) dans <color=183:193:221><param=braveshift_release_turn> tour(s)</color>",
         "<color=183:193:221><param=braveshift_release_turn> Runde(n)</color> bis zum Heldenwandel",
-        "<color=183:193:221>Queda(n) </color><param=braveshift_release_turn> turno(s) para pasar a forma Brave",
-        "<color=183:193:221>Tersisa <param=braveshift_release_turn> giliran</color> untuk berubah ke bentuk Brave Shift",
-        "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a</color><param=braveshift_release_turn>\u001a \u001aเทิร์น\u001aจนกว่า\u001aบังคับใช้\u001a \u001aBrave\u001a \u001aShift\u001a"
+        "<color=183:193:221></color><param=braveshift_release_turn> turno(s) para pasar a forma Brave",
+        "Tersisa <color=183:193:221><param=braveshift_release_turn> giliran</color> hingga Brave Shift terpicu",
+        "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a<param=braveshift_release_turn>\u001a \u001aเทิร์น</color>\u001a \u001aจนกว่า\u001aบังคับใช้\u001a \u001aBrave\u001a \u001aShift\u001a"
     ],
     "UNIT_MENU_NVX_ERROR_EXLV_SHORTAGE": [
         "Super Limit Burst unlocked at <color=255:255:0>EX +1</color>.",
