@@ -4219,7 +4219,7 @@
         "Schalte Benachrichtigungen zum Daten-Download EIN, oder stelle sie so ein, dass sie nur dann angezeigt werden, wenn die herunterzuladenen Daten einen gewissen Grenzwert überschreiten.",
         "Activa las notificaciones de descarga de datos o haz que solo aparezcan cuando los datos a descargar rebasen cierto límite.",
         "Nonaktifkan pemberitahuan download data, atau atur agar pemberitahuan muncul hanya ketika data yang akan didownload melebihi batas tertentu.",
-        "ปิด\u001aการ\u001aแจ้ง\u001aการ\u001aดาวน์โหลด\u001aข้อมูล\u001aลง\u001a \u001aหรือ\u001aตั้งค่า\u001aให้\u001aข้อความ\u001aปรากฎ\u001aเฉพาะ\u001aในกรณีที่\u001aข้อมูล\u001aที่จะ\u001aดาวน์โหลด\u001aมี\u001aขนาด\u001aเกิน\u001aเกณฑ์\u001aที่\u001aกำหนด\u001a"
+        "เปิด\u001aการ\u001aแจ้ง\u001aการ\u001aดาวน์โหลด\u001aข้อมูล\u001aลง\u001a \u001aหรือ\u001aตั้งค่า\u001aให้\u001aข้อความ\u001aปรากฎ\u001aเฉพาะ\u001aในกรณีที่\u001aข้อมูล\u001aที่จะ\u001aดาวน์โหลด\u001aมี\u001aขนาด\u001aเกิน\u001aเกณฑ์\u001aที่\u001aกำหนด\u001a"
     ],
     "DLC_SCREENSIZE_DATA_NOTIFICATION": [
         "Data Download Notifications",
@@ -7916,7 +7916,7 @@
         "好友",
         "친구",
         "Amis",
-        "Freund",
+        "Freunde",
         "Amigo",
         "Teman",
         "เพื่อน\u001a"
@@ -8796,7 +8796,7 @@
         "離<color=255:255:0>免費召喚</color>還有<color=255:255:0><param=num></color>次",
         "<color=255:255:0>무료 소환</color>까지 앞으로 <color=255:255:0><param=num></color>회",
         "<color=255:255:0>Invocation gratuite</color> après <color=255:255:0><param=num></color> invocations",
-        "<color=255:255:0>Kostenlose Beschwörung</color> nach <color=255:255:0><param=num></color> Beschwörungen",
+        "Nach <color=255:255:0><param=num></color> Beschwörung(en) <color=255:255:0>einmal kostenlos!</color>",
         "<color=255:255:0>Invocación gratuita</color> tras <color=255:255:0><param=num></color> invocaciones",
         "<color=255:255:0>Summon gratis</color> setelah <color=255:255:0><param=num></color> summon",
         "<color=255:255:0>\u001aสามารถ\u001aซัม\u001aม่อน\u001aได้\u001aฟรี\u001a/\u001acolor\u001a>\u001a \u001aหลังจาก\u001aซัม\u001aม่อน\u001a  \u001a\u001a \u001aหลังจาก\u001aซัม\u001aม่อน\u001a  \u001a<color=255:255:0><param=num></color>\u001a \u001aครั้ง\u001a"
@@ -9356,7 +9356,7 @@
         "沒有可領取的禮物",
         "받을 선물이 없습니다.",
         "Pas de cadeaux à recevoir pour le moment.",
-        "Zur Zeit keine Geschenke zu erhalten.",
+        "Zurzeit keine Geschenke zu erhalten.",
         "No hay ningún regalo obtenible en este momento.",
         "Tidak ada kado yang dapat diterima.",
         "ไม่\u001aมี\u001aของขวัญ\u001aให้\u001aรับ\u001aใน\u001aตอนนี้\u001a"
@@ -11674,9 +11674,9 @@
     "MENUSETTING_BATTLE_02": [
         "* Display performance may be improved",
         "※畫面頓卡的時候，關閉效果",
-        "※ 연출을 비표시로 전환하면",
+        "※ 연출을 비표시로 전환하면 로딩 속도를 개선할 수 있습니다.",
         "*Les performances d'affichage peuvent être améliorées",
-        "* Ausblenden von Effekten kann evtl.",
+        "* Ausblenden von Effekten kann evtl. die Anzeigequalität verbessern.",
         "* Se puede mejorar la calidad gráfica",
         "* Beberapa efek dapat disembunyikan untuk meningkatkan performa.",
         "*\u001a \u001aรายละเอียด\u001aการ\u001aแสดงผล\u001aอาจจะ\u001aดีขึ้น\u001aกว่า\u001aเดิม\u001aได้\u001a"
@@ -12476,7 +12476,7 @@
         "可以變更<color=255:255:0>獲得兵員時</color>的稀有度保護設定。<br>※<color=255:255:0>合成</color>和<color=255:255:0>販售專用兵員</color><br>不在保護設定範圍內。",
         "<color=255:255:0>유닛 획득 시</color> 레어도에 따라 보호 설정을 변경할 수 있습니다.<br>※<color=255:255:0>합성</color>이나 <color=255:255:0>판매 전용 유닛</color>은 보호 설정에<br>포함되지 않습니다.",
         "La protection des unités en fonction de leur rareté peut être activée au moment de <color=255:0:0>l'obtention de l'unité</color>.<br>* Les <color=255:0:0>unités de soutien</color> et celles <color=255:0:0>en promotion</color> ne sont pas incluses.",
-        "Von der Seltenheit abhängige Schutzeinstellungen können bei<color=255:0:0> Empfang der Einheit</color>.<br> festgelegt werden.* <color=255:0:0>Verstärker</color> und <color=255:0:0>Einheiten im Angebot</color> sind nicht enthalten.",
+        "Von der Seltenheit abhängige Schutzeinstellungen können bei<color=255:0:0> Empfang der Einheit</color> festgelegt werden.<br>* <color=255:0:0>Verstärker</color> und <color=255:0:0>Einheiten im Angebot</color> sind nicht enthalten.",
         "Puedes seleccionar las unidades que quieres proteger según su rareza <color=255:0:0>al recibirlas</color>.<br>*No se incluyen las unidades <color=255:0:0>en venta</color> y de <color=255:0:0>mejora</color>.",
         "Kamu dapat memasang pengaman berdasarkan tingkat kelangkaan ketika <color=255:0:0> unit diterima</color>.<br>* Tidak termasuk unit <color=255:0:0>penguat</color> dan unit <color=255:0:0>untuk dijual</color>.",
         "คุณ\u001aสามารถ\u001aตั้งค่า\u001a \u001aAuto\u001a \u001aProtect\u001a \u001aให้\u001aกับ\u001aยู\u001aนิ\u001aท\u001aตาม\u001aระดับ\u001aความ\u001a \u001aRare\u001a \u001aได้\u001aเมื่อ\u001a<color=255:0:0>\u001a \u001aคุณ\u001aได้รับ\u001aยู\u001aนิ\u001aท\u001aนั้น\u001a</color>.<br>*\u001aทั้งนี้\u001a \u001a<color=255:0:0>\u001aยู\u001aนิ\u001aท\u001aเสริม\u001aพลัง\u001a</color>\u001a \u001aและ\u001a \u001a<color=255:0:0>\u001aยู\u001aนิ\u001aท\u001aสำหรับ\u001aขาย\u001a</color>\u001a \u001aจะ\u001aไม่\u001aสามารถ\u001aทำการ\u001aตั้งค่า\u001aใน\u001aส่วน\u001aนี้\u001aได้\u001a"
@@ -12556,7 +12556,7 @@
         "獲得兵員時自動移轉至保管庫",
         "유닛 획득 시 자동으로 보관함으로 이동",
         "Transfert automatique des unités obtenues dans la réserve",
-        "Erhaltene Einheiten werden automatisch zu den Reserven transferiert.",
+        "Autom. Transfer erhaltener Einheiten zu Reserven",
         "Transferencia automática de unidades obtenidas a la reserva",
         "Pindahkan unit yang diperoleh ke penyimpanan secara otomatis",
         "ย้าย\u001aยู\u001aนิ\u001aท\u001aที่\u001aได้รับ\u001aไป\u001aที่\u001aคลัง\u001aโดยอัตโนมัติ\u001a"
@@ -19676,7 +19676,7 @@
         "是否確定要從<color=255:255:0><param=login_service></color>登出？執行此動作將會從您的帳號中登出（維持綁定狀態）",
         "<color=255:255:0><param=login_service></color>에서 로그아웃하시겠습니까?이 작업을 수행하면 계정에서 로그아웃됩니다. (연동 상태는 유지됩니다.)",
         "Voulez-vous vraiment vous déconnecter de <color=255:255:0><param=login_service></color> ?Vous serez déconnectés de votre compte. (Dans le cas d'un réseau social, celui-ci sera toujours associé à votre compte.)",
-        "Willst du dich wirklich von <color=255:255:0><param=login_service></color> abmelden?Dies wird dich aus deinem Account abmelden (der Verknüpfungsstatus bleibt erhalten).",
+        "Willst du dich wirklich von <color=255:255:0><param=login_service></color> abmelden? Dies wird dich aus deinem Account abmelden (der Verknüpfungsstatus bleibt erhalten).",
         "¿Seguro que quieres cerrar sesión de <color=255:255:0><param=login_service></color>?Esta acción cerrará la sesión de tu cuenta (el estado de vinculación no cambiará).",
         "Apakah kamu ingin logout dari <color=255:255:0><param=login_service></color>? Dengan ini, kamu akan keluar dari akunmu (Kaitan akun tidak akan terputus)",
         "แน่ใจ\u001aหรือไม่\u001aว่า\u001aคุณ\u001aต้องการ\u001a \u001aLog\u001a \u001aout\u001a \u001aจาก\u001a \u001a<color=255:255:0><param=login_service></color>?\u001a   \u001aหาก\u001aทำ\u001aเช่นนี้\u001a \u001aคุณ\u001aจะ\u001a \u001aLog\u001a \u001aout\u001a \u001aออกจาก\u001aบัญชี\u001aผู้ใช้\u001aของ\u001aคุณ\u001a \u001a(\u001aแต่\u001aสถานะ\u001aผูก\u001aบัญชี\u001aผู้\u001aเล่น\u001aยัง\u001aคงอยู่\u001a)\"\u001a"
@@ -25276,7 +25276,7 @@
         "可交換",
         "교환 가능",
         "Échanges disponibles",
-        "Verfügbaren Tauschoptionen",
+        "Verfügbare Tauschoptionen",
         "Intercambios disponibles",
         "Penukaran yang Tersedia",
         "สามารถ\u001aแลกเปลี่ยน\u001aได้\u001a"
@@ -28086,7 +28086,7 @@
         "<color=255:255:0>警告</color>",
         "<color=255:255:0>경고</color>",
         "<color=255:255:0>Attention</color>",
-        "<color=255:255:0>Warning</color>",
+        "<color=255:255:0>Warnung</color>",
         "<color=255:255:0>Aviso</color>",
         "<color=255:255:0>Peringatan</color>",
         "<color=255:255:0>\u001aคำเตือน\u001a</color>\u001a"
