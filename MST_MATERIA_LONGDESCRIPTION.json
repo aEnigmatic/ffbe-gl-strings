@@ -1102,7 +1102,7 @@
     "504101040": [
         "Boost physical damage inflicted on humans. Not stackable.",
         "物理攻擊時提高對人系的傷害。[無法重複裝備]",
-        "물리 공격 시 인간형 마물에게 부여하는 피해량이 상승합니다 (중복 장착 불가)",
+        "물리 공격 시 인간형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
         "Augmente les dégâts physiques sur les humains. Non cumulable.",
         "Erhöht den phsysischen Schaden gegen Menschen. Nicht stapelbar.",
         "Aumenta el daño físico infligido contra humanos. No acumulable.",
@@ -1152,7 +1152,7 @@
     "504101090": [
         "Boost physical damage inflicted on avian monsters. Not stackable.",
         "物理攻擊時提高對鳥系的傷害。[無法重複裝備]",
-        "물리 공격 시 조류형 마물에게 부여하는 피해량이 상승합니다 (중복 장착 불가)",
+        "물리 공격 시 조류형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
         "Augmente les dégâts physiques sur les oiseaux. Non cumulable.",
         "Erhöht den physischen Schaden gegen Vogelmonster. Nicht stapelbar.",
         "Aumenta el daño físico infligido contra pájaros. No acumulable.",
@@ -5851,7 +5851,7 @@
     ],
     "504230010": [
         "Boosts ATK by 40% when equipped with a sword, katana, or spear, boosts physical and magic damage against humans, and enables or not to [B]e. Not stackable.",
-        "裝備劍刀長槍時提高40%攻擊，物理魔法攻擊時提高對人系魔物的傷害，可使用「or not to [B]e」。[無法重複裝備]",
+        "裝備劍刀長槍時提高40%攻擊，物理、魔法攻擊時提高對人系魔物的傷害，可使用「or not to [B]e」。[無法重複裝備]",
         "검, 도 또는 창 장착 시 공격력이 40% 상승하고, 물리, 마법 공격 시 인간형 마물에게 부여하는 피해량이 상승하며, 'or not to (B)e'를 사용할 수 있게 됩니다. (중복 장착 불가)",
         "Augmente l'ATT de 40 % quand une épée, un katana ou une lance est équipé, augmente les dégâts magiques et physiques contre les humains et permet d'activer « Plan [B] ». Non cumulable.",
         "Erhöht ANG um 40% wenn mit einem Schwert, Katana oder Speer ausgerüstet, erhöht physischen und magischen Schaden gegen Menschen und ermöglicht or not to [B]e . Nicht stapelbar.",
@@ -5861,7 +5861,7 @@
     ],
     "504230013": [
         "Boosts ATK by 80% when equipped with a large sword and physical and magic damage against machina monsters. Not stackable.",
-        "裝備大劍時提高80%攻擊，物理魔法攻擊時提高對機械系魔物的傷害。[無法重複裝備]",
+        "裝備大劍時提高80%攻擊，物理、魔法攻擊時提高對機械系魔物的傷害。[無法重複裝備]",
         "대검 장착 시 공격력이 80% 상승하고, 물리, 마법 공격 시 기계형 마물에게 부여하는 피해량이 상승합니다. (중복 장착 불가)",
         "Augmente l'ATT de 80 % quand une épée longue est équipée, et les dégâts physiques et magiques contre les machines. Non cumulable.",
         "Erhöht ANG um 80% wenn mit Großschwert ausgerüstet und erhöht physischen und magischen Schaden gegen Maschinen. Nicht stapelbar.",
@@ -6538,6 +6538,16 @@
         "Aumenta el ATQ un 40% y aumenta el daño del EL.",
         "Meningkatkan ATK sebanyak 40% dan meningkatkan damage limit burst.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001a40% \u001aและ\u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a"
+    ],
+    "504232281": [
+        "Boosts MAG by 70%, nullifies charm, and boosts equipment MAG by 50% when a single weapon is equipped in both hands. Not stackable.",
+        "提高70%魔力，以及魅惑無效，並且雙手只裝備1把武器時武具魔力提升50%。[無法重複裝備]",
+        "마력이 70% 상승하고, 매혹을 무효화하며, 양손의 장비가 무기 1개일 경우 장비의 마력이 50% 상승합니다.(중복 장착 불가)",
+        "Augmente la MAGIE de 70 %, annule charme et augmente la MAGIE de l'équipement de 50 % quand une arme est tenue avec les deux mains. Non cumulable.",
+        "Erhöht MAG um 70%, annulliert Bezaubern und erhöht Ausrüstung-MAG um 50%, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta la MAG un 70%, anula embrujo, y aumenta la MAG del equipo un 50% al llevar una sola arma en ambas manos. No acumulable.",
+        "Meningkatkan MAG sebanyak 70%, menihilkan status charm, dan meningkatkan MAG perlengkapan sebanyak 50% ketika 1 senjata digunakan dengan kedua tangan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a70% + ยกเลิกสถานะ Charm\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aMAG\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a50% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504232401": [
         "Adds chance of evading some physical attacks and nullifies stone.",
@@ -8738,6 +8748,66 @@
         "Aumenta el daño físico contra acuáticos un 50%. No acumulable.",
         "Meningkatkan damage fisik terhadap jenis makhluk perairan sebanyak 50%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001a \u001a50% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504240721": [
+        "Boosts ATK by 80% and LB damage by 75%. Not stackable.",
+        "提高80%攻擊，以及提高75%極限技的傷害。[無法重複裝備]",
+        "공격력이 80% 상승하고, LB 피해량이 75% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT de 80 % et les dégâts de la limite de 75 %. Non cumulable.",
+        "Erhöht ANG um 80% und Schaden durch Limitrausch um 75%. Nicht stapelbar.",
+        "Aumenta el ATQ un 80% y el daño del EL un 75%. No acumulable.",
+        "Meningkatkan ATK sebanyak 80% dan meningkatkan damage LB sebanyak 75%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a80% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504240727": [
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 10%.",
+        "提高10%HPMP攻擊防禦魔力精神。",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 10% 상승합니다.",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 10 %.",
+        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 10%.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 10%.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 10%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a10%"
+    ],
+    "504240728": [
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 15%.",
+        "提高15%HPMP攻擊防禦魔力精神。",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 15% 상승합니다.",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 15 %.",
+        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 15%.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 15%.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 15%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a15%"
+    ],
+    "504240729": [
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 25%.",
+        "提高25%HPMP攻擊防禦魔力精神。",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 25% 상승합니다.",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 25 %.",
+        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 25%.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 25%.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 25%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a25%"
+    ],
+    "504240730": [
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 30%.",
+        "提高30%HPMP攻擊防禦魔力精神。",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 30% 상승합니다.",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 30 %.",
+        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 30%.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 30%.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 30%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a30%"
+    ],
+    "504240731": [
+        "Boosts HP, MP, ATK, DEF, MAG, and SPR by 50%.",
+        "提高50%HPMP攻擊防禦魔力精神。",
+        "HP, MP, 공격력, 방어력, 마력, 정신력이 50% 상승합니다.",
+        "Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et la PSY de 50 %.",
+        "Erhöht LP, MP, ANG, ABW, MAG sowie PSY um 50%.",
+        "Aumenta VIT, PM, ATQ, DEF, MAG y ESP un 50%.",
+        "Meningkatkan HP, MP, ATK, DEF, MAG, dan SPR sebanyak 50%.",
+        "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a,\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a50%"
     ],
     "504240733": [
         "Boosts ATK and MAG by 40% and boosts magic damage against avian monsters by 75%. Not stackable.",
