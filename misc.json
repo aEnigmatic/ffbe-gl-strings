@@ -920,14 +920,14 @@
         "สมาชิก\u001aทีม\u001aเดียวกัน\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "ABILITY_DETAIL_TARGET_WITHOUT_OWN_SOLO_DF": [
-        "Single Ally",
-        "1名隊員",
-        "아군 1명",
-        "Un allié",
-        "Ein Verbündeter",
-        "Un aliado",
-        "Satu teman",
-        "สมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+        "single ally (except caster)",
+        "1名隊員(除自身以外)",
+        "아군 1명(자신 제외)",
+        "un allié (sauf le lanceur)",
+        "ein Verbündeter (außer Benutzer)",
+        "un aliado (excepto el usuario)",
+        "satu teman (kecuali diri sendiri)",
+        "สมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a \u001a(\u001aยกเว้น\u001aผู้ใช้\u001a)\u001a"
     ],
     "ABILITY_DETAIL_TRIBE_LIST": [
         "Beast@Avian@Aquatic@Demon@Human@Machina@Dragon@Fairy@Insect@Stone@Plant@Reaper",
@@ -1288,6 +1288,16 @@
         "Hay una nueva versión de la aplicación disponible.",
         "Versi app yang baru telah tersedia.",
         "เวอร์ชั่น\u001aใหม่\u001aของ\u001aแอพ\u001aนี้\u001aมา\u001aแล้ว\u001a"
+    ],
+    "AREA": [
+        "Area",
+        "區域",
+        "구역",
+        "Zone",
+        "Gebiet",
+        "Zona",
+        "Area",
+        "Area\u001a"
     ],
     "ARENA_ARENA_MAX_ENERGY": [
         "Your Arena Orbs are already full.",
@@ -2029,6 +2039,66 @@
         "*Sentuh unit untuk melihat detail. Sentuh dan tahan unit di layar battle untuk melihat statusnya saat ini.",
         "*\u001a \u001aแตะ\u001aยู\u001aนิ\u001aท\u001aเพื่อ\u001aดู\u001aรายละเอียด\u001a \u001aแตะ\u001aยู\u001aนิ\u001aทบ\u001aท\u001aหน้าจอ\u001aการต่อสู้\u001aค้าง\u001aไว้\u001aเพื่อ\u001aดู\u001aสเตตัส\u001aใน\u001aปัจจุบัน\u001a"
     ],
+    "BATTLE_REPEAT_INFO_ABILITY_SEPARATOR": [
+        "→",
+        "→",
+        "→",
+        "→",
+        "→",
+        "→",
+        "→",
+        "→\u001a"
+    ],
+    "BATTLE_REPEAT_INFO_ACTION_FRAME": [
+        "Start Frame: <param=frame_num>",
+        "開始行動影格：<param=frame_num>",
+        "행동 시작 프레임: <param=frame_num>",
+        "Image de départ : <param=frame_num>",
+        "Startbild: <param=frame_num>",
+        "Inicio de imágenes: <param=frame_num>",
+        "Frame Dimulai: <param=frame_num>",
+        "เฟรม\u001aเริ่มต้น\u001a:\u001a \u001a<param=frame_num>\u001a"
+    ],
+    "BATTLE_REPEAT_INFO_ACTION_NONE": [
+        "None",
+        "無",
+        "없음",
+        "Aucun",
+        "Nichts",
+        "Nada",
+        "Tidak Ada",
+        "ไม่\u001aมี\u001a"
+    ],
+    "BATTLE_REPEAT_INFO_GUARD": [
+        "Guard",
+        "防禦",
+        "방어",
+        "Défense",
+        "Verteidigen",
+        "Proteger",
+        "Berlindung",
+        "ป้องกัน\u001a"
+    ],
+    "BATTLE_REPEAT_INFO_NORMAL_ATTACK": [
+        "Attack",
+        "普通攻擊",
+        "공격",
+        "Attaque",
+        "Angreifen",
+        "Atacar",
+        "Serang",
+        "โจมตี\u001a"
+    ],
+    "BATTLE_REPEAT_INFO_TITLE_CAPTION": [
+        "Repeat Details",
+        "再次執行資訊",
+        "반복 정보",
+        "Détails pour<br>\"Répéter\"",
+        "Details zum<br>Wiederholen",
+        "Detalles de<br>repetición",
+        "Detail Ulangi",
+        "รายละเอียด\u001a<br>\u001aการทวน\u001aซ้ำ\u001a"
+    ],
     "BATTLE_TEXT_BRAVE_SHIFT_COOL_TIME": [
         "Brave Shift available in <color=255:255:0><param=shift_turn></color> turns",
         "BRAVE SHIFT可發動剩餘<color=255:255:0><param=shift_turn></color>回合",
@@ -2078,6 +2148,26 @@
         "SEL usado",
         "Penggunaan SLB",
         "SLB\u001a \u001aที่\u001aใช้\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_LIMIT_COOL_TIME": [
+        "Activation in <color=255:255:0><param=slb_ct></color> turns",
+        "可發動回合：<color=255:255:0><param=slb_ct></color>回合",
+        "발동 가능 턴: <color=255:255:0><param=slb_ct></color>턴",
+        "Activation dans <color=255:255:0><param=slb_ct></color> tour(s)",
+        "Aktiviert in <color=255:255:0><param=slb_ct></color> Runden",
+        "Se activa en <color=255:255:0><param=slb_ct></color> turno(s)",
+        "Aktif dalam <color=255:255:0><param=slb_ct></color> giliran",
+        "ใช้งาน\u001aใน\u001a \u001a<color=255:255:0><param=slb_ct></color>\u001a \u001aเทิร์น\u001a"
+    ],
+    "BATTLE_TEXT_BRAVE_SHIFT_LIMIT_COOL_TIME2": [
+        "Activation in <color=255:255:0><param=slb_ct></color> turns after Super Limit Burst",
+        "可發動回合：超級極限技使用後<color=255:255:0><param=slb_ct></color>回合",
+        "발동 가능 턴: SLB 사용 후 <color=255:255:0><param=slb_ct></color>턴",
+        "Activation dans <color=255:255:0><param=slb_ct></color> tour(s) après utilisation de la Super limite",
+        "Aktiviert in <color=255:255:0><param=slb_ct></color> Runden nach Super-Limitrausch",
+        "Se activa en <color=255:255:0><param=slb_ct></color> turno(s) tras el Superestallido Límite",
+        "Aktif dalam <color=255:255:0><param=slb_ct></color> giliran setelah Super Limit Burst",
+        "ใช้งาน\u001aใน\u001a \u001a<color=255:255:0><param=slb_ct></color>\u001a \u001aเทิร์น\u001aหลังจาก\u001a \u001aSuper\u001a \u001aLimit\u001a \u001aBurst\u001a"
     ],
     "BATTLE_TEXT_BRAVE_SHIFT_NOW_MANUAL_RELEASE": [
         "Brave Shift deactivation available in <color=255:255:0><param=shift_turn></color> turns",
@@ -6215,7 +6305,7 @@
         "Advance tokens held",
         "進擊令牌持有數",
         "진행 토큰 보유량",
-        "Jetons avancés possédés",
+        "Jetons d'avancée possédés",
         "Fortschritts-Abzeichen in Besitz",
         "Monedas de avance en mano",
         "Jumlah jam pasir akselerasi",
@@ -6235,7 +6325,7 @@
         "Use %d Advance Tokens to accelerate expedition by %d hr(s)?",
         "要使用 %d 進擊令牌提升遠征速度 %d 小時嗎？",
         "진행 토큰 %d개를 사용하여 탐험 시간을 %d시간 단축하시겠습니까?",
-        "Utiliser %d jetons avancés pour accélérer l'expédition de %d hr(s) ?",
+        "Utiliser %d jetons d'avancée pour accélérer l'expédition de %d hr(s) ?",
         "Nutze %d Fortschritts-Abzeichen, um die Expedition um %d Stunde(n) zu beschleunigen?",
         "¿Quieres usar %d monedas de avance para acelerar la expedición %d hora (s)?",
         "Gunakan %d jam pasir akselerasi untuk mempercepat ekspedisi sebanyak %d jam?",
@@ -11722,14 +11812,14 @@
         "ชื่อ\u001aเพื่อนร่วมทาง\u001a"
     ],
     "MENUSETTING_BATTLE_REPEAT_MODE": [
-        "Repeat",
-        "再次執行",
-        "반복 기능",
-        "Répéter",
-        "Wiederholen",
-        "Repetir",
-        "Ulangi",
-        "ทวน\u001aซ้ำ\u001a"
+        "Repeat Type",
+        "再次執行類型",
+        "반복 유형",
+        "Type pour \"Répéter\"",
+        "Typ des Wiederholens",
+        "Tipo de repetición",
+        "Tipe Ulangi",
+        "ชนิด\u001aการทวน\u001aซ้ำ\u001a"
     ],
     "MENUSETTING_BATTLE_REPEAT_VARIABLE_INTERVAL_FRAME": [
         "<param=frame>Frame Interval",
@@ -13875,7 +13965,7 @@
         "Invalid advance token detected.",
         "檢測出錯誤的進擊令牌。",
         "진행 토큰",
-        "Jeton avancé invalide détecté.",
+        "Jeton d'avancée invalide détecté.",
         "Ungültiges Fortschritts-Abzeichen erkannt.",
         "Moneda de avance inválida detectada.",
         "Jam pasir akselerasi yang tidak valid terdeteksi.",
@@ -16281,6 +16371,16 @@
         "Selesaikan panel untuk mendapatkan hadiah spektakuler, kupo!",
         "เคลียร์\u001aแต่ละ\u001aกระดาน\u001aเพื่อ\u001aรับ\u001aของรางวัล\u001aสุด\u001aพิเศษ\u001aมากมาย\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
     ],
+    "MST_PANEL_QUEST_MOOGLE_TEXT_102": [
+        "Complete panels to obtain fabulous rewards, kupo!",
+        "完成格子來獲得豪華報酬，庫啵！",
+        "패널을 완성하고 엄청난 보상들을 획득쿠포!",
+        "Complétez les tableaux pour obtenir de fabuleuses récompenses, kupo !",
+        "Schließe die Kacheln ab, um tolle Belohnungen zu erhalten, kupo!",
+        "¡Completa los bingos para obtener recompensas fabulosas, kupó!",
+        "Selesaikan panel untuk mendapatkan hadiah spektakuler, kupo!",
+        "เคลียร์\u001aแต่ละ\u001aกระดาน\u001aเพื่อ\u001aรับ\u001aของรางวัล\u001aสุด\u001aพิเศษ\u001aมากมาย\u001a \u001aคุ\u001aโปะ\u001a!\u001a"
+    ],
     "MST_PANEL_QUEST_SCHEDULE_DES_100": [
         "Start your adventure by clearing these quests!",
         "完成這些任務來開啟你的冒險旅程！",
@@ -16301,6 +16401,16 @@
         "Ayo rayakan peringatan 5 tahun FFBE dengan menyelesaikan quest ini!",
         "มา\u001aฉลอง\u001aครบรอบ\u001a \u001a5\u001a \u001aปี\u001a \u001aFFBE\u001a \u001aด้วย\u001aการ\u001aเคลียร์\u001aเค\u001aวส\u001aเหล่านี้\u001a!\u001a"
     ],
+    "MST_PANEL_QUEST_SCHEDULE_DES_102": [
+        "Start your adventure by clearing these quests!",
+        "完成這些任務來開啟你的冒險旅程！",
+        "이 퀘스트들을 완료하여 모험을 시작하세요!",
+        "Commencez votre aventure du bon pied et complétez ces quêtes !",
+        "Starte dein Abenteuer, indem du diese Aufträge abschließt!",
+        "¡Comienza tu aventura completando estas misiones!",
+        "Mulailah petualanganmu dengan menuntaskan quest-quest ini!",
+        "เริ่ม\u001aการผจญภัย\u001aของ\u001aคุณ\u001aด้วย\u001aการ\u001aเคลียร์\u001aเค\u001aวส\u001aเหล่านี้\u001a!\u001a"
+    ],
     "MST_PANEL_QUEST_SCHEDULE_NAME_100": [
         "Rookie Panel Quest",
         "新手賓果任務",
@@ -16320,6 +16430,16 @@
         "Misiones de bingo del 5.º aniversario",
         "Quest Panel Peringatan 5 Tahun",
         "เค\u001aวส\u001aกระดาน\u001aฉลอง\u001aครบรอบ\u001a \u001a5\u001a \u001aปี\u001a"
+    ],
+    "MST_PANEL_QUEST_SCHEDULE_NAME_102": [
+        "Rookie Panel Quest",
+        "新手賓果任務",
+        "초보자 패널 퀘스트",
+        "Quête à tableau de débutant",
+        "Kachelaufträge für Neulinge",
+        "Misiones de bingo de principiante",
+        "Quest Panel Pemula",
+        "เค\u001aวส\u001aกระดาน\u001aผู้\u001aเล่น\u001aใหม่\u001a"
     ],
     "MST_QUEST_DISP_NAME_3000001": [
         "??? (Felicitas Town)",
@@ -19901,6 +20021,16 @@
         "Hadiah Pencapaian Rank %s",
         "รางวัล\u001aถึง\u001a \u001aRank\u001a %s\u001a!\u001a"
     ],
+    "RARE_STAR": [
+        "★",
+        "★",
+        "★",
+        "★",
+        "★",
+        "★",
+        "★",
+        "★\u001a"
+    ],
     "RARITY": [
         "Rarity",
         "稀有度",
@@ -21021,6 +21151,26 @@
         "Tidak ada quest yang tersedia di peta dunia saat ini.<br>Quest yang tersedia dapat dibuka dengan melanjutkan cerita.",
         "ใน\u001aตอนนี้\u001aยัง\u001aไม่\u001aมี\u001aเค\u001aวส\u001aให้\u001aเข้า\u001aเล่น\u001aได้\u001aเหลืออยู่\u001aบน\u001a \u001aWorld\u001a \u001aMap\u001a<br>\u001aคุณ\u001aสามารถ\u001aปลด\u001aล็อค\u001aเค\u001aวส\u001aสำหรับ\u001aเล่น\u001aเพิ่มเติม\u001aได้\u001aโดย\u001aการ\u001aเดิน\u001aเนื้อเรื่อง\u001aต่อให้\u001aลึก\u001aขึ้น\u001a"
     ],
+    "SEASON_EVENT_PASS_REWARD_MAIL_MSG": [
+        "We would like to present you with the following reward for having reached the targeted points during the event.",
+        "在活動期間達成目標點數，以下為獎勵報酬。",
+        "이벤트 기간 중 획득한 포인트에 대한 보상을 아래와 같이 지급해 드립니다.",
+        "Nous vous accordons les récompenses suivantes pour avoir remporté un certain nombre de points au cours de l'événement.",
+        "Für das Erreichen der erforderlichen Punktzahl während des Ereignisses möchten wir dir die folgende Belohnung überreichen.",
+        "Te enviamos los siguientes objetos como recompensa por conseguir el objetivo de puntos en el evento.",
+        "Hadiah berikut akan diberikan atas keberhasilanmu mencapai sejumlah poin selama event.",
+        "เรา\u001aขอ\u001aมอบ\u001aของรางวัล\u001aต่อไปนี้\u001aให้\u001aคุณ\u001a \u001aเนื่องใน\u001aโอกาส\u001aที่\u001aคุณ\u001aได้\u001a \u001aPoint\u001a \u001aครบ\u001aตามที่\u001aกำหนด\u001aใน\u001aช่วง\u001aอีเวนท์\u001a"
+    ],
+    "SEASON_EVENT_PASS_REWARD_MAIL_TITLE": [
+        "Fortuna Pass Rewards",
+        "命運通行證報酬",
+        "행운 패스 보상",
+        "Récompenses du passe de fortune",
+        "Fortuna-Passbelohnungen",
+        "Recompensas de pase de fortuna",
+        "Hadiah Tiket Fortuna",
+        "รางวัล\u001aบัตร\u001aผ่าน\u001a \u001aFortuna\u001a"
+    ],
     "SEASON_EVENT_REWARD_MAIL_MSG": [
         "We would like to present you with the following reward for having reached the targeted points during the event.",
         "在活動期間達成目標點數，以下為獎勵報酬。",
@@ -21260,6 +21410,16 @@
         "Código de serie recibido.",
         "Kode seri telah diterima.",
         "ได้รับ\u001a \u001aSerial\u001a \u001aCode\u001a \u001aแล้ว\u001a"
+    ],
+    "SEX": [
+        "Gender",
+        "性別",
+        "성별",
+        "Genre",
+        "Geschlecht",
+        "Género",
+        "Gender",
+        "เพศ\u001a"
     ],
     "SG_ACHIEVEMENTS": [
         "Achievements",
@@ -24211,6 +24371,36 @@
         "Peningkatan Parameter",
         "เพิ่มค่า\u001aสเตตัส\u001a"
     ],
+    "SP_CLASSUP_REWARD_BRAVE_SHIFT_TYPE_LIMIT": [
+        "Unlock Super Limit Burst",
+        "解放超級極限技",
+        "슈퍼 리미트 버스트 개방",
+        "Débloquer la Super limite",
+        "Super-Limitrausch freischalten",
+        "Desbloquear Superestallido Límite",
+        "Buka Super Limit Burst",
+        "ปลด\u001aล็อค\u001a \u001aSuper\u001a \u001aLimit\u001a \u001aBurst\u001a"
+    ],
+    "SP_CLASSUP_REWARD_BRAVE_SHIFT_TYPE_ROLE": [
+        "Unlock Role Shift",
+        "解放職能切換",
+        "롤 시프트 개방",
+        "Débloquer le Changement de classe",
+        "Rollenwechsel freischalten",
+        "Desbloquear cambio de rol",
+        "Buka Role Shift",
+        "ปลด\u001aล็อค\u001a \u001aRole\u001a \u001aShift\u001a"
+    ],
+    "SP_CLASSUP_REWARD_BRAVE_SHIFT_TYPE_TRANCE": [
+        "Unlock Trance Mode",
+        "解放入神模式",
+        "트랜스 모드 개방",
+        "Débloquer la Transe",
+        "Trance freischalten",
+        "Desbloquear modo trance",
+        "Buka Mode Trance",
+        "ปลด\u001aล็อค\u001aโหมด\u001a \u001aTrance\u001a"
+    ],
     "SP_CLASSUP_REWARD_EMBLEM": [
         "<param=emblem_name> Emblem x <param=emblem_num>",
         "<param=emblem_name> 徽章 x <param=emblem_num>",
@@ -25301,6 +25491,36 @@
         "Skor Tertinggi",
         "คะแนน\u001aสูงสุด\u001a"
     ],
+    "TFA_BLACKLISTED_PERMANENT": [
+        "You are permanently blacklisted.<br><br>You are unable to receive rewards and your score will also not be recorded or ranked.<br><br>For any inquiries, please contact customer support.",
+        "您已被永久列入黑名單。您無法獲得報酬，且分數與排名將不會計入本活動。<br><br>如有任何疑問，敬請聯繫客服團隊。",
+        "영구적으로 블랙리스트에 등재되었습니다.<br><br>보상은 수령할 수 없으며, 귀하의 스코어와 랭킹은 기록되지 않습니다.<br><br>문의가 있으신 경우 고객지원으로 연락 주시기 바랍니다.",
+        "Vous avez été définitivement exclu de l'événement. Vous ne pouvez plus recevoir de récompenses et votre score ne pourra plus être enregistré ni classé.<br><br>Pour toute question, veuillez contacter l'assistance du jeu.",
+        "Du wirst dauerhaft vom Ereignis ausgeschlossen.<br><br>Du kannst keine Belohnungen erhalten und dein Punktestand wird weder aufgezeichnet noch mit einem Rang bewertet.<br><br>Bei Fragen wende dich bitte an den Kundenservice.",
+        "Se te ha expulsado de forma permanente.<br><br>Tu puntuación no se registrará en la clasificación<br><br>Si tienes dudas, ponte en contacto con el servicio de ayuda de juego.",
+        "Anda telah diidentifikasi sebagai pemain yang melakukan aktivitas tidak sah secara permanen. Anda tidak akan dapat menerima hadiah. Selain itu, skor Anda tidak akan dicatat dan disertakan dalam ranking.<br><br>Harap hubungi kami melalui dukungan pelanggan apabila Anda memiliki pertanyaan.",
+        "คุณ\u001aถูก\u001aระบุ\u001aไว้\u001aว่า\u001aเป็น\u001aผู้\u001aเล่น\u001aที่\u001aมี\u001aพฤติกรรม\u001aเป็นปัญหา\u001aภายใน\u001aเกม\u001aเป็นการ\u001aถาวร\u001a \u001aคุณ\u001aจะ\u001aไม่\u001aได้รับ\u001aของรางวัล\u001aและ\u001aคะแนน\u001aที่\u001aคุณ\u001aได้\u001aจะ\u001aไม่\u001aถูก\u001aบันทึก\u001aและ\u001aจัดอันดับ\u001a<br><br>\u001aหาก\u001aมี\u001aคำถาม\u001aเพิ่มเติม\u001a \u001aโปรด\u001aติดต่อ\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aของ\u001aเรา\u001a"
+    ],
+    "TFA_BLACKLISTED_TEMPORARY": [
+        "You have been blacklisted temporarily. You are unable to receive rewards and your score will not be recorded or ranked for this season.<br><br>Further violations may result in permanent blacklisting from the event.<br><br>For any inquiries, please contact customer support.",
+        "您已被暫時列入黑名單。您無法獲得報酬，且分數與排名將不會計入本次活動。<br><br>若您再次進行違規行為，將永久無法參與此活動。<br><br>如有任何疑問，敬請聯繫客服團隊。",
+        "일시적으로 블랙리스트에 등재되었습니다. 이번 시즌에는 보상을 수령할 수 없으며, 귀하의 스코어와 랭킹은 기록되지 않습니다.<br><br>또 다른 부정행위가 신고될 경우 해당 이벤트에 더 이상 참여할 수 없습니다.<br><br>문의가 있으신 경우 고객지원으로 연락 주시기 바랍니다.",
+        "Vous avez été temporairement exclu de l'événement. Vous ne pouvez pas recevoir de récompenses et votre score ne sera pas enregistré ni classé pour cette saison.<br><br>Des violations supplémentaires peuvent entraîner une exclusion définitive de l'événement.<br><br>Pour toute question, veuillez contacter le service client.",
+        "Du wirst vorrübergehend vom Ereignis ausgeschlossen. Du kannst keine Belohnungen erhalten und dein Punktestand wird diese Saison weder aufgezeichnet noch mit einem Rang bewertet.<br><br>Weitere Verstöße können zu einem permanenten Ausschluss von dem Ereignis führen.<br><br>Bei Fragen wende dich bitte an den Kundenservice.",
+        "Se te ha expulsado de forma temporal. Tu puntuación no se registrará en la clasificación de esta temporada.<br><br>Si vuelves a cometer otra infracción, cabe la posibilidad de que tu expulsión del evento sea permanente.<br><br>Si tienes dudas, ponte en contacto con el servicio de ayuda del juego.",
+        "Anda telah diidentifikasi sebagai pemain yang melakukan aktivitas tidak sah untuk sementara waktu. Anda tidak akan dapat menerima hadiah. Selain itu, skor Anda tidak akan dicatat dan disertakan dalam ranking season ini.<br><br>Apabila Anda dilaporkan sekali lagi, Anda tidak akan dapat berpartisipasi dalam event ini.<br><br>Harap hubungi kami melalui dukungan pelanggan apabila Anda memiliki pertanyaan.",
+        "คุณ\u001aถูก\u001aระบุ\u001aไว้\u001aว่า\u001aเป็น\u001aผู้\u001aเล่น\u001aที่\u001aมี\u001aพฤติกรรม\u001aเป็นปัญหา\u001aภายใน\u001aเกม\u001aเป็นการชั่วคราว\u001a \u001aคุณ\u001aจะ\u001aไม่\u001aได้รับ\u001aของรางวัล\u001aและ\u001aคะแนน\u001aที่\u001aคุณ\u001aได้\u001aจะ\u001aไม่\u001aถูก\u001aบันทึก\u001aและ\u001aจัดอันดับ\u001aตลอด\u001aรอบ\u001aฤดูกาล\u001aนี้\u001a<br><br>\u001aหาก\u001aมี\u001aการ\u001aรายงาน\u001aว่า\u001aคุณ\u001aดำเนินการ\u001aเล่น\u001aเกม\u001aด้วย\u001aวิธีการ\u001aไม่\u001aเหมาะสม\u001aอีกครั้ง\u001a \u001aคุณ\u001aจะ\u001aไม่\u001aสามารถ\u001aเข้าร่วม\u001aอีเวนท์\u001aได้\u001aอีก\u001aเลย\u001a<br><br>\u001aหาก\u001aมี\u001aคำถาม\u001aเพิ่มเติม\u001a \u001aโปรด\u001aติดต่อ\u001aฝ่าย\u001aบริการ\u001aลูกค้า\u001aของ\u001aเรา\u001a"
+    ],
+    "TFA_BONUS_REWARD_BUY_PASS_IN_SHOP": [
+        "Players who have purchased a Fortuna Pass may keep an additional fortuna reward. Proceed to the bundle shop?",
+        "購買命運通行證後，玩家可額外多保留1項命運報酬。是否前往禮包商店？",
+        "행운 패스를 구매하신 유저분들께서는 추가 행운 보상을 보관할 수 있습니다. 세트상품 상점으로 이동하시겠습니까?",
+        "Les joueurs qui ont acheté un passe de fortune peuvent conserver une récompense de fortune supplémentaire. Rejoindre la boutique de lots ?",
+        "Spieler, die einen Fortuna-Pass gekauft haben, können eine zusätzliche Fortuna-Belohnung behalten. Weiter zum Paketladen?",
+        "Los jugadores que hayan comprado un pase de fortuna podrán conservar una recompensa de fortuna adicional. ¿Quieres ir a la tienda de lotes?",
+        "Para pemain yang telah membeli Tiket Fortuna",
+        "ผู้\u001aเล่น\u001aที่\u001aซื้อ\u001aบัตร\u001aผ่าน\u001a \u001aFortuna\u001a \u001aจะ\u001aสามารถ\u001aเก็บ\u001aรางวัล\u001a \u001aFortuna\u001a \u001aเพิ่มเติม\u001aได้\u001aด้วย\u001a \u001aต้องการ\u001aไป\u001aที่\u001aร้าน\u001aแพ็คเกจ\u001aหรือไม่\u001a?\u001a"
+    ],
     "TFA_BONUS_REWARD_DISCLAIMER": [
         "Note: The above reward(s) willbe sent to your mailbox atthe end of the event.",
         "備註：以上報酬將於活動結束後發送至收信箱。",
@@ -25490,6 +25710,16 @@
         "Evento finalizado",
         "Event Berakhir",
         "อีเวนท์\u001aสิ้นสุด\u001aแล้ว\u001a"
+    ],
+    "TFA_EVENT_PASS_HINT": [
+        "Purchase a Fortuna Pass in the bundle shop!",
+        "在禮包商店購買命運通行證！",
+        "세트상품 상점에서 행운 패스를 구매하세요!",
+        "Achetez un passe de fortune dans la boutique de lots !",
+        "Kauf einen Fortuna-Pass im Paketladen!",
+        "¡Compra un pase de fortuna en la tienda de lotes!",
+        "Ayo beli Tiket Fortuna di toko paket!",
+        "ซื้อ\u001aบัตร\u001aผ่าน\u001a \u001aFortuna\u001a \u001aได้ที่\u001aร้าน\u001aแพ็คเกจ\u001a!\u001a"
     ],
     "TFA_EXPERT_GAMBIT": [
         "Challenge Options",
@@ -25811,6 +26041,16 @@
         "Menghapus dan mendownload ulang data dapat mengatasi masalah yang disebabkan oleh data yang rusak.<br><br><br><br><color=255:255:0>Game ini akan mendownload ulang semua data setelah pemeriksaan awal. </color><br><br><br><br>Lanjutkan?",
         "ในกรณีที่\u001aข้อมูล\u001aที่\u001aดาวน์โหลด\u001aเสียหาย\u001a \u001aจน\u001aส่งผลให้เกิด\u001aปัญหา\u001aใน\u001aการ\u001aเล่น\u001aเกม\u001aนั้น\u001a  \u001aปัญหา\u001aดังกล่าว\u001aอาจ\u001aแก้ไข\u001aได้\u001aด้วย\u001aการ\u001aลบ\u001aข้อมูล\u001aที่\u001aดาวน์โหลด\u001aมา\u001aทิ้ง\u001a \u001aแล้ว\u001aดำเนินการ\u001aดาวน์โหลด\u001aใหม่\u001a \u001a<br><br><br><br><color=255:255:0>\u001a \u001aระบบ\u001aจะ\u001aดาวน์โหลด\u001aข้อมูล\u001aซ้ำ\u001aหลังจากที่\u001aตรวจ\u001aไฟล์\u001aตอน\u001aเปิด\u001aเกม\u001aแล้ว\u001a \u001a</color><br><br><br><br>\u001aคุณ\u001aต้องการ\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
     ],
+    "TITLE_DELETE_MAP_DATA": [
+        "Deleting downloadable content for events will free up your device's memory.<br><br><br><br><color=255:255:0>The game will redownload any content needed for future events.</color><br><br><br><br>Proceed?",
+        "刪除活動的可下載資料內容將可釋放你的裝置記憶體。<br><br><br><br><color=255:255:0>日後若有需要，將會再次下載活動所需的資料內容。</color><br><br><br><br>Proceed?",
+        "다운로드 가능한 이벤트 데이터를 삭제하면 기기의 메모리가 확보됩니다.<br><br><br><br><color=255:255:0>추후 이벤트에 필요한 모든 콘텐츠는 게임에서 다시 다운로드됩니다.</color><br><br><br><br>진행하시겠습니까?",
+        "La suppression du contenu téléchargeable pour les événements libérera de la mémoire sur votre appareil.<br><br><br><br><br><color=255:255:0>Le jeu retéléchargera tout contenu nécessaire pour les événements futurs.</color><br><br><br><br>Continuer ?",
+        "Durch das Löschen von herunterladbaren Inhalten für Ereignisse kannst du den Speicherplatz deines Gerätes leeren.<br><br><br><color=255:255:0>Das Spiel wird alle Inhalte, die für zukünftige Ereignisse benötigt werden, erneut herunterladen.</color><br><br><br><br>Fortfahren?",
+        "Borrar contenido descargable para eventos liberará memoria de tu dispositivo.<br><br><br><br><color=255:255:0>El juego volverá a descargar cualquier contenido necesario para eventos futuros.</color><br><br><br><br>¿Continuar?",
+        "Menghapus konten yang dapat didownload untuk event akan mengosongkan memori perangkatmu.<br><br><br><br><color=255:255:0>Game akan mendownload kembali semua konten yang diperlukan untuk event yang akan datang.</color><br><br><br><br>Lanjutkan?",
+        "การ\u001aลบ\u001aข้อมูล\u001aอีเวนท์\u001aที่\u001aถูก\u001aดาวน์โหลด\u001aแล้ว\u001aนั้น\u001aจะ\u001aเพิ่ม\u001aพื้นที่\u001aใน\u001aอุปกรณ์\u001aของ\u001aคุณ\u001a<br><br><br><br><color=255:255:0>\u001aตัว\u001aเกม\u001aจะ\u001aดาวน์โหลด\u001aข้อมูล\u001aที่\u001aจำเป็น\u001aอีกครั้ง\u001aสำหรับ\u001aอีเวนท์\u001aในอนาคต\u001a</color><br><br><br><br>\u001aดำเนินการ\u001aต่อ\u001aเลย\u001aหรือไม่\u001a?\u001a"
+    ],
     "TITLE_INFO": [
         "Info",
         "情報",
@@ -25830,6 +26070,16 @@
         "Restaurar",
         "Pulihkan",
         "กู้\u001aกลับ\u001a"
+    ],
+    "TITLE_REDOWNLOAD": [
+        "Re-Download Data",
+        "重新下載資料",
+        "데이터 다시 받기",
+        "Retélécharger les données",
+        "Daten erneut herunterladen",
+        "Redescargar datos",
+        "Re-Download Data",
+        "ดาวน์โหลด\u001aข้อมูล\u001aอีกครั้ง\u001a"
     ],
     "TITLE_SQMK": [
         "Square Enix Market",
@@ -26112,14 +26362,14 @@
         "ขาย\u001aไอเทม\u001a"
     ],
     "TOWN_STORE_BOUGHT_CONFIRM": [
-        "You can buy <case=lower><color=255:255:0><param=item_name></color></case> for <case=lower><color=255:255:0><param=gil></color></case>.<br>Proceed?",
-        "以<color=255:255:0><param=gil></color>購買<color=255:255:0><param=item_name></color>。要購買嗎？",
+        "You can buy <color=255:255:0><param=item_name></color> for <color=255:255:0><param=count> gil</color>.<br>Proceed?",
+        "以<color=255:255:0><param=count>Gil</color>購買<color=255:255:0><param=item_name></color>。要購買嗎？",
         "<color=255:255:0><param=item_name></color>(을)를 <color=255:255:0><param=gil></color>로 구매합니다. <br>진행하시겠습니까?",
-        "Voulez-vous acheter : <color=255:255:0><param=item_name></color> pour <color=255:255:0><param=gil></color>",
-        "Du kannst <color=255:255:0><param=item_name></color> kaufen für <color=255:255:0><param=gil></color>.<br>Fortfahren?",
-        "¿Quieres comprar <color=255:255:0><param=item_name></color> por <color=255:255:0><param=gil></color>?",
-        "Kamu dapat membeli <case=lower><color=255:255:0><param=item_name></color></case> dengan <case=lower><color=255:255:0><param=gil></color></case>.<br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aซื้อ\u001aไอเทม\u001a \u001a<case=lower><color=255:255:0><param=item_name></color></case>\u001a \u001aใน\u001aราคา\u001a \u001a<case=lower><color=255:255:0><param=gil></color></case><br>\u001aดำเนินการ\u001aต่อ\u001aเลย\u001aหรือไม่\u001a?\u001a"
+        "Voulez-vous acheter <color=255:255:0><param=item_name</color> pour <color=255:255:0><param=count> gil(s)</color> ?",
+        "Du kannst <color=255:255:0><param=item_name></color> kaufen für <color=255:255:0><param=count> Gil</color>.<br>Fortfahren?",
+        "Puedes comprar <color=255:255:0><param=item_name></color> por <color=255:255:0><param=count> guil(es)</color>. ¿Continuar?",
+        "Kamu dapat membeli <case=lower><color=255:255:0><param=item_name></color></case> dengan <case=lower><color=255:255:0><param=count> gil</color></case>.<br>Lanjutkan?",
+        "คุณ\u001aสามารถ\u001aซื้อ\u001aไอเทม\u001a \u001a<color=255:255:0><param=item_name></color>\u001a \u001aใน\u001aราคา\u001a \u001a<color=255:255:0><param=count>\u001a \u001aGil\u001a</color><br>\u001aดำเนินการ\u001aต่อ\u001aเลย\u001aหรือไม่\u001a?\u001a"
     ],
     "TOWN_STORE_BOUGHT_RESULT": [
         "You spent <param=gil> to buy: <param=item_name>",
@@ -27730,6 +27980,36 @@
         "<color=255:255:0>Materiales que excederán el valor de maestro fiel máximo</color> han sido incluídos.<br>Todos valores sobre el límite <color=255:255:0>serán borrados</color>. ¿Quieres continuar con la fusión?",
         "<color=255:255:0>Material yang akan melebihi batas nilai trust maksimum</color> telah disertakan. <br>Semua nilai yang kelebihan <color=255:255:0>akan hilang</color>. Lanjutkan?",
         "<color=255:255:0>\u001aมี\u001aวัตถุดิบ\u001aที่จะ\u001aส่งผล\u001aให้\u001aค่า\u001a \u001aTrust\u001a \u001aเลย\u001aโควต้า\u001aสูงสุด\u001a \u001a</color>\u001a \u001aรวม\u001aอยู่\u001aด้วย\u001a<br>\u001aค่าที่\u001aเกิน\u001aโควต้า\u001aสูงสุด\u001aทั้งหมด\u001a<color=255:255:0>\u001aจะ\u001aถูก\u001aลบทิ้ง\u001aไป\u001a</color>.\u001a \u001aดำเนินการ\u001aรวม\u001aร่าง\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+    ],
+    "UNIT_MIX_GET_BRAVE_SHIFT_TYPE_LIMIT": [
+        "Super Limit Burst unlocked!",
+        "解放超級極限技！",
+        "슈퍼 리미트 버스트 개방!",
+        "Super limite débloquée !",
+        "Super-Limitrausch freigeschaltet!",
+        "¡Superestallido Límite desbloqueado!",
+        "Super Limit Burst terbuka!",
+        "ปลด\u001aล็อค\u001a \u001aSuper\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aแล้ว\u001a!\u001a"
+    ],
+    "UNIT_MIX_GET_BRAVE_SHIFT_TYPE_ROLE": [
+        "Role Shift unlocked!",
+        "解放職能切換！",
+        "롤 시프트 개방!",
+        "Changement de classe débloqué !",
+        "Rollenwechsel freigeschaltet!",
+        "¡Cambio de rol desbloqueado!",
+        "Role Shift terbuka!",
+        "ปลด\u001aล็อค\u001a \u001aRole\u001a \u001aShift\u001a \u001aแล้ว\u001a!\u001a"
+    ],
+    "UNIT_MIX_GET_BRAVE_SHIFT_TYPE_TRANCE": [
+        "Trance Mode unlocked!",
+        "解放入神模式！",
+        "트랜스 모드 개방!",
+        "Transe débloquée !",
+        "Trance freigeschaltet!",
+        "¡Modo trance desbloqueado!",
+        "Mode Trance terbuka!",
+        "ปลด\u001aล็อค\u001aโหมด\u001a \u001aTrance\u001a \u001aแล้ว\u001a!\u001a"
     ],
     "UNIT_MIX_GET_SPECIAL_REWARD": [
         "Received a special bonus.<br>Rewards will be sent to your message box.",
