@@ -3765,7 +3765,7 @@
         "물리, 마법 공격 시 조류형 마물에게 부여하는 피해량이 75% 상승합니다.(중복 장착 불가)",
         "Augmente les dégâts physiques et magiques infligés aux oiseaux de 75 %. Non cumulable.",
         "Erhöht physischen sowie magischen Schaden gegen Vogelmonster um 75%. Nicht stapelbar.",
-        "Aumenta el daño físico contra aves un 75%. No acumulable.",
+        "Aumenta el daño físico y mágico contra aves un 75%. No acumulable.",
         "Meningkatkan damage fisik dan magic terhadap jenis makhluk bersayap sebanyak 75%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
@@ -6672,7 +6672,7 @@
     "504232700": [
         "Boosts ATK and water resistance by 30%, fills LB gauge every turn, and boosts equipment ATK when a single weapon is equipped in both hands. Not stackable.",
         "提高30%攻擊、水屬性耐性，每回合增加極限技槽，雙手只裝備1把武器時武具攻擊提升。[無法重複裝備]",
-        "공격력과 물속성 저항력이 30% 상승하고, 매 턴마다 LB 게이지 증가하며, 양손의 장비가 무기 1개일 경우 장비의 공격력이 상승합니다. (중복 장착 불가)",
+        "공격력과 물속성 저항력이 30% 상승하고, 매 턴마다 LB 게이지가 증가하며, 양손의 장비가 무기 1개일 경우 장비의 공격력이 상승합니다. (중복 장착 불가)",
         "Augmente l'ATT et la résistance à l'eau de 30 %, remplit la jauge de limite à chaque tour, et augmente l'ATT de l'équipement quand une arme est tenue avec les deux mains. Non cumulable",
         "Erhöht ANG und Wasserresistenz um 30%, füllt jede Runde Limitmeter und erhöht Ausrüstung-ANG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
         "Aumenta el ATQ y la resistencia al agua 30%, rellena la barra de EL cada turno, y aumenta el ATQ del equipo al llevar una sola arma en ambas manos. No acumulable.",
@@ -9078,6 +9078,106 @@
         "Aumenta la MAG del equipo un 200% al llevar una sola arma en ambas manos. No acumulable.",
         "Meningkatkan MAG perlengkapan sebanyak 200% ketika 1 senjata digunakan dengan kedua tangan. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a200% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504241941": [
+        "Boosts ATK by 30%.",
+        "提高30%攻擊。",
+        "공격력이 30% 상승합니다.",
+        "Augmente l'ATT de 30 %.",
+        "Erhöht ANG um 30%.",
+        "Aumenta el ATQ un 30%.",
+        "Meningkatkan ATK sebanyak 30%.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a30%"
+    ],
+    "504241942": [
+        "Boosts DEF by 30%.",
+        "提高30%防禦。",
+        "방어력이 30% 상승합니다.",
+        "Augmente la DEF de 30 %.",
+        "Erhöht ABW um 30%.",
+        "Aumenta la DEF un 30%.",
+        "Meningkatkan DEF sebanyak 30%.",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001a30%"
+    ],
+    "504241943": [
+        "Boosts MAG by 30%.",
+        "提高30%魔力。",
+        "마력이 30% 상승합니다.",
+        "Augmente la MAGIE de 30 %.",
+        "Erhöht MAG um 30%.",
+        "Aumenta la MAG un 30%.",
+        "Meningkatkan MAG sebanyak 30%.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a30%"
+    ],
+    "504241944": [
+        "Boosts SPR by 30%.",
+        "提高30%精神。",
+        "정신력이 30% 상승합니다.",
+        "Augmente la PSY de 30 %.",
+        "Erhöht PSY um 30%.",
+        "Aumenta el ESP un 30%.",
+        "Meningkatkan SPR sebanyak 30%.",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001a30%"
+    ],
+    "504242200": [
+        "Boosts evocation damage by 30% and boosts damage for various chains by 100%.",
+        "提高30%召喚魔法的威力，以及提高100%各種CHAIN的傷害上限。",
+        "소환마법 사용 시 피해량이 30% 상승하고, 각종 체인 피해량이 100% 상승합니다.",
+        "Augmente les dégâts d'appel de 30 % et augmente les dégâts pour divers combos de 100 %",
+        "Erhöht Rufen-Schaden um 30% und erhöht Schaden verschiedener Ketten um 100%.",
+        "Aumenta el daño de evocación un 30% y el daño límite de varios combos un 100%.",
+        "Meningkatkan damage summon sebanyak 30% dan meningkatkan damage dalam berbagai combo sebanyak 100%.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001a30% + เพิ่มค่าความเสียหายของ Chain\u001a \u001aต่างๆ\u001a \u001a100%"
+    ],
+    "504242218": [
+        "Boosts ATK by 60% and increases chance of being targeted by 30%. Not stackable.",
+        "提高60%攻擊，以及30%機率容易被敵人攻擊。[無法重複裝備]",
+        "공격력이 60% 상승하고, 적의 공격 대상이 될 확률이 30% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT de 60 % et augmente les chances d'être pris pour cible de 30 %. Non cumulable.",
+        "Erhöht ANG um 60% und erhöht Chance, zum Ziel einiger Angriffe zu werden, um 30%. Nicht stapelbar.",
+        "Aumenta el ATQ un 60% y la probabilidad de ser atacado un 30%. No acumulable.",
+        "Meningkatkan ATK sebanyak 60% dan meningkatkan peluang menjadi target musuh sebanyak 30%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a60% \u001a+\u001a \u001aเพิ่ม\u001aโอกาส\u001aตกเป็น\u001aเป้าหมาย\u001aถูก\u001aโจมตี\u001a \u001a30% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504242300": [
+        "Boosts ATK by 80% and parameters when setting an esper by 50%. Not stackable.",
+        "提高80%攻擊，以及提高50%設定幻獸時反映在兵員身上的狀態數值。[無法重複裝備]",
+        "공격력이 80% 상승하고, 환수 장착 시 반영되는 능력치가 50% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT de 80% et augmente les caractéristiques de 50 % quand une chimère est attribuée. Non cumulable.",
+        "Erhöht ANG um 80% und erhöht Werte beim Festlegen eines Espers um 50%. Nicht stapelbar.",
+        "Aumenta el ATQ un 80% y aumenta los parámetros un 50% al vincular un esper. No acumulable.",
+        "Meningkatkan ATK sebanyak 80% dan parameter sebanyak 50% ketika esper dipasang. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a80% + เพิ่มค่าสเตตัสที่ถูกเพิ่มเมื่อติดตั้ง Esper\u001a \u001a50% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504242302": [
+        "Deals water magic damage three times to one enemy.",
+        "對1名敵人發動3次水屬性魔法攻擊。",
+        "적 1명에게 3회 물속성 마법 피해를 입힙니다.",
+        "Inflige des dégâts magiques d'eau 3 fois à un ennemi",
+        "Fügt einem Gegner dreimal magischen Wasserschaden zu.",
+        "Daño mágico de agua a un enemigo 3 veces.",
+        "Memberikan damage magic air 3 kali pada satu musuh.",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a3\u001a \u001aครั้ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "504242304": [
+        "Boosts ATK by 50% and physical damage against fairies by 50%. Jecht only. Not stackable.",
+        "提高50%攻擊，以及物理攻擊時提高50%對精靈系魔物的傷害。(傑克特專屬)[無法重複裝備]",
+        "공격력이 50% 상승하고, 물리 공격 시 정령형 마물에게 부여하는 피해량이 50% 상승합니다.(젝트 전용)(중복 장착 불가)",
+        "Augmente l'ATT et les dégâts physiques infligés aux esprits de 50 %. Jecht uniquement. Non cumulable.",
+        "Erhöht ANG um 50% und physischen Schaden gegen Feen um 50%. Nur Jekkt. Nicht stapelbar.",
+        "Aumenta el ATQ un 50% y el daño físico contra espíritus un 50%. Solo Jecht. No acumulable.",
+        "Meningkatkan ATK sebanyak 50% dan meningkatkan damage fisik terhadap jenis peri sebanyak 50%. Khusus Jecht. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% + เพิ่มค่าความเสียหายทางกายภาพเมื่อโจมตีศัตรูชนิดแฟรี่ 50% (Jecht\u001a \u001aเท่านั้น\u001a)\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504242305": [
+        "Boosts SPR by 50% and magic damage against fairies by 50%. High Summoner Braska only. Not stackable.",
+        "提高50%精神，以及魔法攻擊時提高50%對精靈系魔物的傷害。(大召喚士布拉斯卡專屬)[無法重複裝備]",
+        "정신력이 50% 상승하고, 마법 공격 시 정령형 마물에게 부여하는 피해량이 50% 상승합니다.(대소환사 브라스카 전용)(중복 장착 불가)",
+        "Augmente la PSY et les dégâts magiques infligés aux esprits de 50 %. Grand Invokeur Braska uniquement. Non cumulable.",
+        "Erhöht PSY um 50% und magischen Schaden gegen Feen um 50%. Nur Hohes Medium Braska. Nicht stapelbar.",
+        "Aumenta el ESP un 50% y el daño físico contra espíritus un 50%. Solo Alto invocador Braska. No acumulable.",
+        "Meningkatkan SPR sebanyak 50% dan meningkatkan damage magic terhadap jenis peri sebanyak 50%. Khusus Summoner Agung Braska. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001a50% + เพิ่มค่าความเสียหายพลังเวทย์เมื่อโจมตีศัตรูชนิดแฟรี่ 50% (มหาผู้อัญเชิญ Braska\u001a \u001aเท่านั้น\u001a)\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",

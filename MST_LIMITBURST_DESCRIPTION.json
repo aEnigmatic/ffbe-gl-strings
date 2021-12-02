@@ -3753,8 +3753,8 @@
         "Damage all enemies",
         "攻擊全體敵人",
         "적 전체에 피해",
-        "Dégâts sur tous les ennemis",
-        "Schaden, alle Ziele",
+        "Inflige des dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos",
         "Memberikan damage pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
@@ -3763,8 +3763,8 @@
         "Damage all enemies",
         "攻擊全體敵人",
         "적 전체에 피해",
-        "Dégâts sur tous les ennemis",
-        "Schaden, alle Ziele",
+        "Inflige des dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
         "Daña a todos los enemigos",
         "Memberikan damage pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
@@ -13623,7 +13623,7 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Fügt einem Gegner Schaden zu.",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -13633,7 +13633,7 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Fügt einem Gegner Schaden zu.",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -13643,7 +13643,7 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
+        "Inflige des dégâts à un ennemi",
         "Fügt einem Gegner Schaden zu.",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
@@ -13653,11 +13653,21 @@
         "Damage one enemy",
         "攻擊1名敵人",
         "적 1명에게 피해",
-        "Dégâts sur un ennemi",
-        "Schaden, ein Ziel",
+        "Inflige des dégâts à un ennemi",
+        "Fügt einem Gegner Schaden zu.",
         "Daña a un enemigo",
         "Memberikan damage pada satu musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "210000307": [
+        "Reduce DEF, SPR, and fire, ice, lightning, water, wind, earth, light, and dark resistance for one enemy, boost physical and magic damage against avian monsters for caster, and damage one enemy",
+        "降低1名敵人的防禦精神+降低火冰雷水風土光暗屬性耐性+賦予自身物理、魔法攻擊時提高對鳥系魔物傷害的效果+攻擊1名敵人",
+        "적 1명의 방어력, 정신력과 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소+자신에게 물리, 마법 공격 시 조류형 마물에 대한 피해량 상승 효과 부여+적 1명에게 피해",
+        "Réduit la DEF et la PSY, ainsi que la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres d'un ennemi, augmente les dégâts physiques et magiques infligés aux oiseaux par le lanceur, et inflige des dégâts à un ennemi",
+        "Verringert ABW, PSY sowie Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz eines Gegners, erhöht physischen und magischen Schaden des Benutzers gegen Vogelmonster und fügt einem Gegner Schaden zu.",
+        "Reduce la DEF, el ESP y la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad de un enemigo, aumenta el daño físico y mágico del usuario contra aves, y daña a un enemigo",
+        "Mengurangi DEF, SPR, dan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan pada satu musuh, meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk bersayap, serta memberikan damage pada satu musuh",
+        "ลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์ปีก\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "210000405": [
         "Deal partial unmitigated magic damage to all enemies",
@@ -13840,34 +13850,74 @@
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001aโดย\u001aมีโอกาส\u001a \u001aKO\u001a \u001aทันที\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aไว้\u001a"
     ],
     "210001005": [
-        "Damage all enemies and enable triple quickstrike for three turns",
-        "攻擊全體敵人+3回合內可使用「速攻×3」",
-        "적 전체에 피해+3턴 동안 '속공x3' 사용 가능",
-        "Inflige des dégâts à tous les ennemis et permet d'utiliser Triple choc pendant trois tours",
-        "Fügt allen Gegnern Schaden zu und ermöglicht drei Runden lang Tripel-Schnellattacke.",
-        "Daña a todos los enemigos y aprende Golpe rápido triple durante 3 turnos",
-        "Memberikan damage pada semua musuh dan memungkinkan penggunaan Triple Quickstrike selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเปิด\u001aใช้งาน\u001a \u001aTriple\u001a \u001aQuickstrike\u001a \u001aได้\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Damage all enemies and enable certain abilities for caster",
+        "攻擊全體敵人+自身可使用特定能力",
+        "적 전체에 피해+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts à tous les ennemis et permet au lanceur d'utiliser certaines aptitudes",
+        "Fügt allen Gegnern Schaden zu und ermöglicht bestimmte Fertigkeiten für Benutzer.",
+        "Daña a todos los enemigos y el usuario aprende determinadas habilidades",
+        "Memberikan damage padda semua musuh dan memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "210001006": [
-        "Damage all enemies and enable triple quickstrike for three turns",
-        "攻擊全體敵人+3回合內可使用「速攻×3」",
-        "적 전체에 피해+3턴 동안 '속공x3' 사용 가능",
-        "Inflige des dégâts à tous les ennemis et permet d'utiliser Triple choc pendant trois tours",
-        "Fügt allen Gegnern Schaden zu und ermöglicht drei Runden lang Tripel-Schnellattacke.",
-        "Daña a todos los enemigos y aprende Golpe rápido triple durante 3 turnos",
-        "Memberikan damage pada semua musuh dan memungkinkan penggunaan Triple Quickstrike selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเปิด\u001aใช้งาน\u001a \u001aTriple\u001a \u001aQuickstrike\u001a \u001aได้\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Damage all enemies and enable certain abilities for caster",
+        "攻擊全體敵人+自身可使用特定能力",
+        "적 전체에 피해+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts à tous les ennemis et permet au lanceur d'utiliser certaines aptitudes",
+        "Fügt allen Gegnern Schaden zu und ermöglicht bestimmte Fertigkeiten für Benutzer.",
+        "Daña a todos los enemigos y el usuario aprende determinadas habilidades",
+        "Memberikan damage padda semua musuh dan memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "210001007": [
-        "Damage all enemies and enable triple quickstrike for three turns",
-        "攻擊全體敵人+3回合內可使用「速攻×3」",
-        "적 전체에 피해+3턴 동안 '속공x3' 사용 가능",
-        "Inflige des dégâts à tous les ennemis et permet d'utiliser Triple choc pendant trois tours",
-        "Fügt allen Gegnern Schaden zu und ermöglicht drei Runden lang Tripel-Schnellattacke.",
-        "Daña a todos los enemigos y aprende Golpe rápido triple durante 3 turnos",
-        "Memberikan damage pada semua musuh dan memungkinkan penggunaan Triple Quickstrike selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเปิด\u001aใช้งาน\u001a \u001aTriple\u001a \u001aQuickstrike\u001a \u001aได้\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Damage all enemies and enable certain abilities for caster",
+        "攻擊全體敵人+自身可使用特定能力",
+        "적 전체에 피해+자신이 특정 어빌리티 사용 가능",
+        "Inflige des dégâts à tous les ennemis et permet au lanceur d'utiliser certaines aptitudes",
+        "Fügt allen Gegnern Schaden zu und ermöglicht bestimmte Fertigkeiten für Benutzer.",
+        "Daña a todos los enemigos y el usuario aprende determinadas habilidades",
+        "Memberikan damage padda semua musuh dan memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
+    ],
+    "210001027": [
+        "Boost physical damage against humans and fairies for caster and damage one enemy",
+        "賦予自身物理攻擊時提高對人精靈系魔物傷害的效果+攻擊1名敵人",
+        "자신에게 물리 공격 시 인간과 정령형 마물에 대한 피해량 상승 효과 부여+적 1명에게 피해",
+        "Augmente les dégâts physiques infligés aux humains et aux esprits par le lanceur et inflige des dégâts à un ennemi",
+        "Erhöht physischen Schaden des Benutzers gegen Menschen und Feen und fügt einem Gegner Schaden zu.",
+        "Aumenta el daño físico del usuario contra humanos y espíritus y daña a un enemigo",
+        "Meningkatkan damage fisik diri sendiri terhadap jenis manusia dan peri, serta memberikan damage pada satu musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aแฟรี่\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "210001105": [
+        "Deal lightning evocation damage to all enemies and activate area effect",
+        "對全體敵人發動雷屬性召喚魔法+施展區域效果",
+        "적 전체에 번개속성 소환마법 피해+범위 효과 발동",
+        "Inflige des dégâts d'appel de foudre à tous les ennemis et active un effet de zone",
+        "Fügt allen Gegnern Blitz-Rufen-Schaden zu und aktiviert Gebietseffekt.",
+        "Daño de evocación de rayo a todos los enemigos y activa un efecto de zona",
+        "Memberikan damage summon petir pada semua musuh dan mengaktifkan efek area",
+        "สร้าง\u001aความเสียหาย\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
+    ],
+    "210001106": [
+        "Deal lightning evocation damage to all enemies and activate area effect",
+        "對全體敵人發動雷屬性召喚魔法+施展區域效果",
+        "적 전체에 번개속성 소환마법 피해+범위 효과 발동",
+        "Inflige des dégâts d'appel de foudre à tous les ennemis et active un effet de zone",
+        "Fügt allen Gegnern Blitz-Rufen-Schaden zu und aktiviert Gebietseffekt.",
+        "Daño de evocación de rayo a todos los enemigos y activa un efecto de zona",
+        "Memberikan damage summon petir pada semua musuh dan mengaktifkan efek area",
+        "สร้าง\u001aความเสียหาย\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
+    ],
+    "210001107": [
+        "Deal lightning evocation damage to all enemies and activate area effect",
+        "對全體敵人發動雷屬性召喚魔法+施展區域效果",
+        "적 전체에 번개속성 소환마법 피해+범위 효과 발동",
+        "Inflige des dégâts d'appel de foudre à tous les ennemis et active un effet de zone",
+        "Fügt allen Gegnern Blitz-Rufen-Schaden zu und aktiviert Gebietseffekt.",
+        "Daño de evocación de rayo a todos los enemigos y activa un efecto de zona",
+        "Memberikan damage summon petir pada semua musuh dan mengaktifkan efek area",
+        "สร้าง\u001aความเสียหาย\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
     ],
     "210001503": [
         "Boost ATK and LB gauge fill rate for all allies, and temporarily add chance of counterattacking when an ally receives a physical attack",
@@ -13930,34 +13980,44 @@
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aSummon\u001a \u001aGauge\u001a"
     ],
     "210001805": [
-        "Deal partial unmitigated damage to all enemies and enable triple quickstrike for three turns",
-        "對全體敵人發動無視部分防禦的攻擊+3回合內可使用「速攻×3」",
-        "적 전체에 일부 방어 무시 피해+3턴 동안 '속공x3' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et permet d'utiliser Triple choc pendant 3 tours",
-        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht für drei Runden Tripel-Schnellattacke.",
-        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende Golpe rápido triple durante 3 turnos",
-        "Memberikan damage yang menembus sebagian DEF pada semua musuh dan memungkinkan penggunaan Triple Quickstrike selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aTriple\u001a \u001aQuickstrike\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated damage to all enemies",
+        "對全體敵人發動無視部分防禦的攻擊",
+        "적 전체에 일부 방어 무시 피해",
+        "Inflige des dégâts en partie fixes à tous les ennemis",
+        "Fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos",
+        "Memberikan damage yang menembus sebagian DEF pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "210001806": [
-        "Deal partial unmitigated damage to all enemies and enable triple quickstrike and physical training for three turns",
-        "對全體敵人發動無視部分防禦的攻擊+3回合內可使用「速攻×3」「肉體鍛煉」",
-        "적 전체에 일부 방어 무시 피해+3턴 동안 '속공x3'과 '피지컬 트레이닝' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et permet d'utiliser Triple choc et Conditionnement physique pendant 3 tours",
-        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht für drei Runden Tripel-Schnellattacke und Angiffstraining.",
-        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende Golpe rápido triple y Entrenamiento físico durante 3 turnos",
-        "Memberikan damage yang menembus sebagian DEF pada semua musuh, serta memungkinkan penggunaan Triple Quickstrike dan Pelatihan Fisik selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aTriple\u001a \u001aQuickstrike\u001a \u001aและ\u001a \u001aฝึกฝน\u001aทางกายภาพ\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated damage to all enemies and enable certain abilities",
+        "對全體敵人發動無視部分防禦的攻擊+可使用特定能力",
+        "적 전체에 일부 방어 무시 피해+특정 어빌리티 사용 가능",
+        "Inflige des dégâts en partie fixes à tous les ennemis et permet d'utiliser certaines aptitudes",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht bestimmte Fertigkeiten.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende determinadas habilidades",
+        "Memberikan damage yang menembus sebagian DEF pada semua musuh dan memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "210001807": [
-        "Deal partial unmitigated damage to all enemies and enable triple quickstrike, physical training, and blitz spirit for three turns",
-        "對全體敵人發動無視部分防禦的攻擊+3回合內可使用「速攻×3」「肉體鍛煉」",
-        "적 전체에 일부 방어 무시 피해+3턴 동안 '속공x3', '피지컬 트레이닝', '블리츠볼 정신' 사용 가능",
-        "Inflige des dégâts magiques en partie fixes à tous les ennemis, et permet d'utiliser Triple choc, Conditionnement physique et Esprit du blitzball pendant 3 tours",
-        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht für drei Runden Tripel-Schnellattacke, Angriffstraining und Geist des Blitzball-Asses.",
-        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende Golpe rápido triple, Entrenamiento físico y Espíritu del blitzbol durante 3 turnos",
-        "Memberikan damage yang menembus sebagian DEF pada semua musuh, serta memungkinkan penggunaan Triple Quickstrike, Pelatihan Fisik, dan Blitz Spirit selama 3 giliran",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้งาน\u001a \u001aTriple\u001a \u001aQuickstrike\u001a,\u001a \u001aฝึกฝน\u001aทางกายภาพ\u001a \u001aและ\u001a \u001aBlitz\u001a \u001aSpirit\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Deal partial unmitigated damage to all enemies and enable certain abilities",
+        "對全體敵人發動無視部分防禦的攻擊+可使用特定能力",
+        "적 전체에 일부 방어 무시 피해+특정 어빌리티 사용 가능",
+        "Inflige des dégâts en partie fixes à tous les ennemis et permet d'utiliser certaines aptitudes",
+        "Fügt allen Gegnern teilweise direkten Schaden zu und ermöglicht bestimmte Fertigkeiten.",
+        "Daño que ignora parcialmente la DEF de todos los enemigos, y aprende determinadas habilidades",
+        "Memberikan damage yang menembus sebagian DEF pada semua musuh dan memungkinkan penggunaan ability tertentu",
+        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
+    ],
+    "210001827": [
+        "Reduce water and light resistance and DEF for all enemies, boost physical damage against beasts and fairies for caster, and deal partial unmitigated damage to all enemies",
+        "降低全體敵人的水光屬性耐性、防禦+賦予自身物理攻擊時提高對獸精靈系魔物傷害的效果+對全體敵人發動無視部分防禦的攻擊",
+        "적 전체의 물과 빛속성 저항력 감소+방어력 감소+자신에게 물리 공격 시 야수와 정령형 마물에 대한 피해량 상승 효과 부여+적 전체에 일부 방어 무시 피해",
+        "Réduit la résistance à l'eau et à la lumière, ainsi que la DEF de tous les ennemis, augmente les dégâts physiques infligés aux bêtes et aux esprits par le lanceur, et inflige des dégâts en partie fixes à tous les ennemis",
+        "Verringert Wasser- und Lichtresistenz aller Gegner sowie deren ABW, erhöht physischen Schaden des Benutzers gegen Bestien und Feen und fügt allen Gegnern teilweise direkten Schaden zu.",
+        "Reduce la resistencia a agua y luz y la DEF de todos los enemigos, aumenta el daño físico del usuario contra bestias y espíritus, e inflige daño que ignora parcialmente la DEF de todos los enemigos",
+        "Mengurangi resistansi air dan cahaya, dan DEF semua musuh, meningkatkan damage fisik diri sendiri terhadap jenis makhluk buas dan peri, serta memberikan damage yang menembus sebagian DEF pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aและ\u001aแสง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aของ\u001aศัตรู\u001aทุกราย\u001a,\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001aและ\u001aแฟรี่\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "210001904": [
         "Damage all enemies and fill evocation gauge",
@@ -13988,6 +14048,66 @@
         "Daña a todos los enemigos y rellena la barra de invocación",
         "Memberikan damage pada semua musuh dan mengisi bar summon",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aSummon\u001a \u001aGauge\u001a"
+    ],
+    "210002107": [
+        "Boost physical and magic damage against reapers and damage of certain LBs for all allies, and deal light magic damage to all enemies",
+        "賦予全體隊員物理、魔法攻擊時提高對死靈系魔物傷害的效果+提高特定極限技的傷害+對全體敵人發動光屬性魔法攻擊",
+        "아군 전체에 물리, 마법 공격 시 사령형 마물에 대한 피해량 상승 효과 부여+특정 LB 피해량 상승+적 전체에 빛속성 마법 피해",
+        "Augmente les dégâts physiques et magiques infligés aux morts-vivants par tous les alliés, augmente les dégâts de certaines limites, et inflige des dégâts magiques de lumière à tous les ennemis",
+        "Erhöht physischen und magischen Schaden aller Verbündeten gegen Untote, erhöht deren Schaden durch bestimmte Limiträusche und fügt allen Gegnern magischen Lichtschaden zu.",
+        "Aumenta el daño físico y mágico contra muertos vivientes de todos los aliados y aumenta el daño de determinados EL, e inflige daño mágico de luz a todos los enemigos",
+        "Meningkatkan damage fisik dan magic terhadap jenis makhluk halus, dan meningkatkan damage LB tertentu pada semua teman, serta memberikan damage magic cahaya pada semua musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "210002117": [
+        "Deal light evocation damage to one enemy",
+        "對1名敵人發動光屬性召喚魔法",
+        "적 1명에게 빛속성 소환마법 피해",
+        "Inflige des dégâts d'appel de lumière à un ennemi",
+        "Fügt einem Gegner Licht-Rufen-Schaden zu.",
+        "Daño de evocación de luz a un enemigo",
+        "Memberikan damage summon cahaya pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "210002207": [
+        "Damage all enemies, and activate barrier, reduce damage taken, fill LB gauge, and restore HP every turn for all allies",
+        "攻擊全體敵人+賦予全體隊員屏障效果+減少傷害+增加極限技槽+每回合恢復HP",
+        "적 전체에 피해+아군 전체에 배리어 부여+피해량 감소+LB 게이지 증가+매 턴마다 HP 회복",
+        "Inflige des dégâts à tous les ennemis, érige une barrière autour de tous les alliés, réduit les dégâts qu'ils subissent, remplit leur jauge de limite, et restaure leurs PV à chaque tour",
+        "Fügt allen Gegnern Schaden zu, aktiviert Barrieren aller Verbündeten, verringert deren erlittenen Schaden, deren Limitmeter füllt sich und regeneriert jede Runde deren LP.",
+        "Daña a todos los enemigos, activa Barrera a todos los aliados, reduce el daño que reciben, rellena su barra de EL, y les recupera VIT cada turno",
+        "Memberikan damage pada semua musuh, serta mengaktifkan barier, mengurangi damage yang diterima, mengisi bar LB, dan memulihkan HP semua teman setiap giliran",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aทุก\u001aเทิร์น\u001a"
+    ],
+    "210002217": [
+        "Damage all enemies, and activate barrier, reduce damage taken, fill LB gauge, and restore HP every turn for all allies",
+        "攻擊全體敵人+賦予全體隊員屏障效果+減少傷害+增加極限技槽+每回合恢復HP",
+        "적 전체에 피해+아군 전체에 배리어 부여+피해량 감소+LB 게이지 증가+매 턴마다 HP 회복",
+        "Inflige des dégâts à tous les ennemis, érige une barrière autour de tous les alliés, réduit les dégâts qu'ils subissent, remplit leur jauge de limite, et restaure leurs PV à chaque tour",
+        "Fügt allen Gegnern Schaden zu, aktiviert Barrieren aller Verbündeten, verringert deren erlittenen Schaden, deren Limitmeter füllt sich und regeneriert jede Runde deren LP.",
+        "Daña a todos los enemigos, activa Barrera a todos los aliados, reduce el daño que reciben, rellena su barra de EL, y les recupera VIT cada turno",
+        "Memberikan damage pada semua musuh, serta mengaktifkan barier, mengurangi damage yang diterima, mengisi bar LB, dan memulihkan HP semua teman setiap giliran",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001a+\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aทุก\u001aเทิร์น\u001a"
+    ],
+    "210002307": [
+        "Reduce DEF and wind resistance for one enemy, boost LB damage for caster, and deal wind damage to one enemy",
+        "降低1名敵人的防禦、風屬性耐性+提高自身極限技的傷害+對1名敵人發動風屬性攻擊",
+        "적 1명의 방어력과 바람속성 저항력 감소+자신의 LB 피해량 상승+적 1명에게 바람속성 피해",
+        "Réduit la DEF et la résistance au vent d'un ennemi, augmente les dégâts de la limite du lanceur, et inflige des dégâts de vent à un ennemi",
+        "Verringert ABW und Windresistenz eines Gegners, erhöht Schaden des Benutzers durch Limitrausch und fügt einem Gegner Windschaden zu.",
+        "Reduce la DEF y la resistencia al viento de un enemigo, aumenta el daño del EL del usuario e inflige daño de viento a un enemigo",
+        "Mengurangi DEF dan resistansi angin pada satu musuh, meningkatkan damage LB diri sendiri, dan memberikan damage angin pada satu musuh",
+        "ลด\u001aค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "210002317": [
+        "Reduce DEF and resistance to katanas for one enemy, boost physical and magic damage against plants and fairies for caster, and deal wind damage to one enemy",
+        "降低1名敵人的防禦+降低對刀的耐性+賦予自身物理、魔法攻擊時提高對植物精靈系魔物傷害的效果+對1名敵人發動風屬性攻擊",
+        "적 1명의 방어력과 도 저항력 감소+자신에게 물리, 마법 공격 시 식물과 정령형 마물에 대한 피해량 상승 효과 부여+적 1명에게 바람속성 피해",
+        "Réduit la DEF et la résistance aux katanas d'un ennemi, augmente les dégâts physiques et magiques infligés aux plantes et aux esprits par le lanceur, et inflige des dégâts de vent à un ennemi",
+        "Verringert ABW eines Gegners und dessen Resistenz gegen Katanas, erhöht physischen sowie magischen Schaden des Benutzers gegen Pflanzenmonster und Feen und fügt einem Gegner Windschaden zu.",
+        "Reduce la DEF y la resistencia a katanas de un enemigo, aumenta el daño físico y mágico del usuario contra plantoides y espíritus e inflige daño de viento a un enemigo",
+        "Mengurangi DEF dan resistansi katana pada satu musuh, meningkatkan damage fisik dan magic diri sendiri terhadap jenis tumbuhan dan peri, serta memberikan damage angin pada satu musuh",
+        "ลด\u001aค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aคาตา\u001aนะ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aพืช\u001aและ\u001aแฟรี่\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "211000103": [
         "Deal fire and lightning damage to all enemies",
@@ -23660,14 +23780,14 @@
         "เพิ่ม\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001aและ\u001aเพิ่ม\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aบางอย่าง\u001a"
     ],
     "401010007": [
-        "Damage all enemies, and remove ATK, DEF, MAG, and SPR reductions, boost ATK, DEF, MAG, and SPR, and boost fire, ice, lightning, water, wind, earth, light, and dark resistance for all allies",
-        "攻擊全體敵人+解除降低攻擊防禦魔力精神的效果+提高全體隊員的攻擊防禦魔力精神、火冰雷水風土光暗屬性耐性",
-        "적 전체에 피해+아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+공격력, 방어력, 마력, 정신력과 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승",
-        "Inflige des dégâts à tous les ennemis, annule les réductions de l'ATT, de la DEF, de la MAGIE et de la PSY. Augmente la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres pour tous les alliés",
-        "Fügt allen Gegnern Schaden zu, entfernt alle ANG-, ABW-, MAG- und PSY-Verringerungen und erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz aller Verbündeten.",
-        "Daña a todos los enemigos, elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, aumenta su ATQ, DEF, MAG y ESP y su resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad",
-        "Memberikan damage pada semua musuh, serta menghilangkan efek pengurangan ATK, DEF, MAG, SPR, dan meningkatkan ATK, DEF, MAG, SPR, resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan pada semua teman",
-        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aยกเลิก\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+        "Damage all enemies, and remove ATK, DEF, MAG, and SPR reductions and stop and charm, boost ATK, DEF, MAG, and SPR, and boost fire, ice, lightning, water, wind, earth, light, and dark resistance for all allies",
+        "攻擊全體敵人+解除全體隊員降低攻擊防禦魔力精神、停止魅惑效果+提高攻擊防禦魔力精神、火冰雷水風土光暗屬性耐性",
+        "적 전체에 피해+아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+스톱과 매혹 해제+공격력, 방어력, 마력, 정신력과 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승",
+        "Inflige des dégâts à tous les ennemis, dissipe les malus d'ATT, de DEF, de MAGIE et de PSY ainsi que stop et charme pour tous les alliés, augmente leur ATT, leur DEF, leur MAGIE et leur PSY, et augmente leur résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres",
+        "Fügt allen Gegnern Schaden zu, entfernt ANG-, ABW-, MAG- und PSY-Verringerungen sowie Stopp und Bezaubern von allen Verbündeten, erhöht deren ANG, ABW, MAG und PSY und deren Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz.",
+        "Daña a todos los enemigos, elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, les elimina paro y embrujo, y aumenta su ATQ, DEF, MAG y ESP y su resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad",
+        "Memberikan damage pada semua musuh, serta menghilangkan efek pengurangan ATK, DEF, MAG, SPR, dan status stop dan charm, dan meningkatkan ATK, DEF, MAG, SPR, dan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan pada semua teman",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aยกเลิก\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aยกเลิก\u001aสถานะ\u001a \u001aStop\u001a \u001aและ\u001a \u001aCharm\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "401010017": [
         "Damage all enemies, boost physical and magic damage against humans and machina monsters, and boost LB damage for all allies, and boost damage of certain abilities to self",
@@ -25098,5 +25218,35 @@
         "Reduce ATQ, DEF, MAG y ESP de todos los enemigos, les inflige daño que ignora parcialmente su DEF y les inflige daño poco a poco",
         "Mengurangi ATK, DEF, MAG, dan SPR, serta memberikan damage yang menembus sebagian DEF dan damage secara bertahap pada semua musuh",
         "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aต่อเนื่อง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "950000031": [
+        "Boost LB damage, deal morale-based damage to all enemies, and boost damage of certain abilities",
+        "提高極限技的傷害+對全體敵人發動受士氣影響的攻擊+提高特定能力的傷害",
+        "LB 피해량 상승+적 전체에 사기 기반 피해+특정 어빌리티의 피해량 상승",
+        "Augmente les dégâts de la limite, inflige des dégâts dépendant du moral à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "Erhöht Schaden durch Limitrausch, fügt allen Gegnern moralbasierten Schaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "Aumenta el daño del EL, inflige daño en función del ánimo a todos los enemigos y aumenta el daño de determinadas habilidades",
+        "Meningkatkan damage LB diri sendiri, memberikan damage berdasarkan moral pada semua musuh, dan meningkatkan damage ability tertentu",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aที่\u001aเพิ่มขึ้น\u001aตาม\u001aค่า\u001aกำลังใจ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "950000032": [
+        "Boost ATK, DEF, MAG, and SPR for all allies, damage all enemies, and remove ATK, DEF, MAG, and SPR reductions and stop and charm and boost fire, ice, lightning, water, wind, earth, light, and dark resistance for all allies",
+        "提高全體隊員的攻擊防禦魔力精神+攻擊全體敵人+解除全體隊員降低攻擊防禦魔力精神、停止魅惑效果+提高火冰雷水風土光暗屬性耐性",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 상승+적 전체에 피해+아군 전체의 공격력, 방어력, 마력, 정신력 감소 효과 해제+스톱과 매혹 해제+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, inflige des dégâts à tous les ennemis, dissipe les malus d'ATT, de DEF, de MAGIE et de PSY ainsi que stop et charme pour tous les alliés, et augmente leur résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière et aux ténèbres",
+        "Erhöht ANG, ABW, MAG sowie PSY aller Verbündeten, fügt allen Gegnern Schaden zu, entfernt ANG-, ABW-, MAG- und PSY-Verringerungen sowie Stopp und Bezaubern von allen Verbündeten und erhöht deren Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz.",
+        "Aumenta ATQ, DEF, MAG y ESP de todos los aliados, daña a todos los enemigos, elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados, les elimina paro y embrujo y aumenta su resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad",
+        "Meningkatkan ATK, DEF, MAG, dan SPR semua teman, memberikan damage pada semua musuh, serta menghilangkan efek pengurangan ATK, DEF, MAG, SPR, dan status stop dan charm, dan meningkatkan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan pada semua teman",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aยกเลิก\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aยกเลิก\u001aสถานะ\u001a \u001aStop\u001a \u001aและ\u001a \u001aCharm\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "950000033": [
+        "Boost physical and magic damage against humans and machina monsters and boost LB damage for all allies, and damage all enemies",
+        "賦予全體隊員物理、魔法攻擊時提高對人機械系魔物傷害的效果+提高極限技的傷害+攻擊全體敵人",
+        "아군 전체에 물리, 마법 공격 시 인간과 기계형 마물에 대한 피해량 상승 효과 부여+LB 피해량 상승+적 전체에 피해",
+        "Augmente les dégâts physiques et magiques infligés aux humains et aux machines par tous les alliés, augmente les dégâts de leur limite, et inflige des dégâts à tous les ennemis",
+        "Erhöht physischen und magischen Schaden aller Verbündeten gegen Menschen und Maschinen, erhöht deren Schaden durch Limitrausch und fügt allen Gegnern Schaden zu.",
+        "Aumenta el daño físico y mágico contra humanos y máquinas de todos los aliados y aumenta el daño de su EL, y daña a todos los enemigos",
+        "Meningkatkan damage fisik dan magic terhadap jenis manusia dan mesin, dan meningkatkan damage LB semua teman, serta memberikan damage pada semua musuh",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aจักรกล\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ]
 }

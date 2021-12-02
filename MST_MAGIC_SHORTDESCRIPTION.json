@@ -224,7 +224,7 @@
         "治療1名隊員的生病狀態",
         "아군 1명의 질병 회복",
         "Guérit un allié de maladie",
-        "Heilt Virus, ein Verb.",
+        "Heilt Virus für einen Verbündeten.",
         "Cura enfermedad a un aliado",
         "Menyembuhkan status disease pada satu teman",
         "รักษาการ\u001aติด\u001aสถานะ\u001a \u001aDisease\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
@@ -674,7 +674,7 @@
         "吸收1名敵人的HP",
         "적 1명의 HP 흡수",
         "Aspire les PV d'un ennemi",
-        "Stiehlt LP, ein Ziel",
+        "Stiehlt LP von einem Gegner.",
         "Absorbe VIT de un enemigo",
         "Menyerap HP satu musuh",
         "ดูด\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
@@ -1804,7 +1804,7 @@
         "提高全體隊員火屬性耐性的數值",
         "아군 전체의 불속성 저항력 상승",
         "Augmente la résistance au feu de tous les alliés",
-        "Feuerres. hoch, alle Verb.",
+        "Erhöht Feuerresistenz aller Verbündeten.",
         "Aumenta la resistencia al fuego de todos los aliados",
         "Meningkatkan resistansi api pada semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -1824,7 +1824,7 @@
         "提高全體隊員雷屬性耐性的數值",
         "아군 전체의 번개속성 저항력 상승",
         "Augmente la résistance à la foudre de tous les alliés",
-        "Blitzres. hoch, alle Verb.",
+        "Erhöht Blitzresistenz aller Verbündeten.",
         "Aumenta la resistencia al rayo de todos los aliados",
         "Meningkatkan resistansi petir pada semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -1978,6 +1978,26 @@
         "Aumenta la resistencia a veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra de todos los aliados",
         "Meningkatkan resistansi status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify pada semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a,\u001a \u001aDisease\u001a \u001aและ\u001a \u001aStone\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "30600": [
+        "Add lightning element to physical attack and boost lightning damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予雷屬性+提高雷屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 번개속성 부여+번개속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément foudre aux attaques physiques de tous les alliés, et augmente les dégâts de foudre de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Blitzelement hinzu und erhöht deren Blitzschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento rayo a los ataques físicos de todos los aliados y aumenta el daño de rayo de sus EL, habilidades y magia",
+        "Menambahkan elemen petir pada serangan fisik, serta meningkatkan damage petir pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aสายฟ้า\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "30640": [
+        "Add light element to physical attack and boost light damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予光屬性+提高光屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 빛속성 부여+빛속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément lumière aux attaques physiques de tous les alliés, et augmente les dégâts de lumière de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Lichtelement hinzu und erhöht deren Lichtschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento luz a los ataques físicos de todos los aliados y aumenta el daño de luz de sus EL, habilidades y magia",
+        "Menambahkan elemen cahaya pada serangan fisik, serta meningkatkan damage cahaya pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aแสง\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "40010": [
         "Restore HP and gradually restore HP for all allies",
