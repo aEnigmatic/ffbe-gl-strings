@@ -2560,14 +2560,14 @@
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504207410": [
-        "Boosts ATK when equipped with a large sword. Not stackable.",
-        "裝備大劍時，提高攻擊。[無法重複裝備]",
-        "대검을 장착하면 공격력이 상승합니다. (중복 장착 불가)",
-        "Augmente l'ATT lorsqu'une longue épée est équipée. Non cumulable.",
-        "Erhöht ANG, wenn mit Langschwert ausgerüstet. Nicht stapelbar.",
-        "Aumenta el ATQ al llevar espada grande. No acumulable.",
-        "Meningkatkan ATK ketika pedang besar digunakan. Tidak dapak ditumpuk.",
-        "เพิ่มค่า\u001a \u001aATK\u001a \u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aถือ\u001aดาบ\u001aใหญ่\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+        "Boosts ATK, DEF, MAG, and SPR by 50% when equipped with a large sword. Not stackable.",
+        "裝備大劍時提高50%攻擊防禦魔力精神。[無法重複裝備]",
+        "대검 장착 시 공격력, 방어력, 마력, 정신력이 50% 상승합니다. (중복 장착 불가)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de 50 % quand une épée longue est équipée. Non cumulable.",
+        "Erhöht ANG, ABW, MAG und PSY um 50%, wenn mit einem Großschwert ausgerüstet. Nicht stapelbar.",
+        "Aumenta ATQ, DEF, MAG y ESP un 50% al llevar espada grande. No acumulable.",
+        "Meningkatkan ATK, DEF, MAG, dan SPR sebanyak 50% ketika pedang besar digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a50% \u001aเมื่อ\u001aติดตั้ง\u001aดาบ\u001aใหญ่\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504207510": [
         "Damages and reduces ATK, DEF, MAG and SPR for all enemies. Vargas only.",
@@ -4268,6 +4268,16 @@
         "Aumenta la VIT, los PM y la resistencia a la oscuridad un 5%.",
         "Meningkatkan HP, MP, dan resistansi kegelapan sebanyak 5%.",
         "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a \u001aและ\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a5%"
+    ],
+    "504224880": [
+        "Boosts physical and magic damage against stone monsters by 75%. Not stackable.",
+        "物理、魔法攻擊時提高75%對岩石系魔物的傷害。[無法重複裝備]",
+        "물리, 마법 공격 시 암석형 마물에게 부여하는 피해량이 75% 상승합니다.(중복 장착 불가)",
+        "Augmente les dégâts physiques et magiques infligés aux monstres de pierre de 75 %. Non cumulable.",
+        "Erhöht physischen sowie magischen Schaden gegen Steinmonster um 75%. Nicht stapelbar.",
+        "Aumenta el daño físico y mágico contra pétreos un 75%. No acumulable.",
+        "Meningkatkan damage fisik dan magic terhadap jenis batu sebanyak 75%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aศิลา\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504224890": [
         "Boosts physical and magic damage against insects. Not stackable.",
@@ -9238,6 +9248,76 @@
         "Aumenta la resistencia a rayo, agua, viento y tierra un 20%, y rellena la barra de EL en 400 cada turno.",
         "Meningkatkan resistansi petir, air, angin, dan tanah sebanyak 20%, serta mengisi bar LB sebanyak 400 setiap giliran.",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001aและ\u001aดิน\u001a \u001a20% + เติม LB Gauge\u001a \u001a400\u001a \u001aทุก\u001aเทิร์น\u001a"
+    ],
+    "504242451": [
+        "(One use every 4 turns) Boosts damage of certain LBs, ATK, and LB damage, and fills LB gauge for caster. Attacker units only.",
+        "【每4回合可使用1次】提高自身特定極限技的傷害，以及提高攻擊，並且提高極限技的傷害，再增加極限技槽。(攻擊型兵員專屬)",
+        "[4턴에 1회 사용 가능] 자신의 특정 LB의 피해량이 상승하고, 공격력이 상승하며, LB 피해량이 상승하고 LB 게이지가 증가합니다.(물리 공격 유닛 한정)",
+        "(Une fois tous les 4 tours) Augmente les dégâts de certaines limites du lanceur, augmente son ATT et les dégâts de sa limite, et remplit sa jauge de limite. Attaquants physiques uniquement.",
+        "(Einmal in 4 Runden) Erhöht Schaden des Benutzers durch bestimmte Limiträusche, dessen ANG, dessen Schaden durch Limitrausch und füllt dessen Limitmeter. Nur Angreifer-Einheiten.",
+        "(Un uso cada 4 turnos) Aumenta el daño de determinados EL del usuario, su ATQ, el daño de su EL y rellena su barra de EL. Solo para unidades atacantes.",
+        "(1 kali penggunaan setiap 4 giliran) Meningkatkan damage LB tertentu, meningkatkan ATK, meningkatkan damage LB, dan mengisi bar LB diri sendiri. Khusus unit attacker.",
+        "(\u001aใช้ได้\u001a \u001a1\u001a \u001aครั้ง\u001aทุก\u001a \u001a4\u001a \u001aเทิร์น)\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aที่\u001aกำหนด\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aผู้ใช้\u001a \u001a(\u001aยู\u001aนิ\u001aทสา\u001aย\u001aโจมตี\u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504242462": [
+        "(One use every 5 turns) Reduces ATK, DEF, MAG, SPR, and earth resistance for all enemies. Breaker units only.",
+        "【每5回合可使用1次】降低全體敵人的攻擊防禦魔力精神、土屬性耐性。(妨害型兵員專屬)",
+        "[5턴에 1회 사용 가능] 적 전체의 공격력, 방어력, 마력, 정신력과 땅속성 저항력이 감소합니다.(방해 유닛 한정)",
+        "(Une fois tous les 5 tours) Réduit l'ATT, la DEF, la MAGIE, la PSY et la résistance à la terre de tous les ennemis (unités \"Briseur\" uniquement)",
+        "(Einmal in 5 Runden) Verringert ANG, ABW, MAG, PSY und Erdresistenz aller Gegner. Nur Brecher-Einheiten.",
+        "(Un uso cada 5 turnos) Reduce ATQ, DEF, MAG y ESP de todos los enemigos y reduce su resistencia a la tierra. Solo para unidades obstructoras.",
+        "(1 kali penggunaan setiap 5 giliran) Mengurangi ATK, DEF, MAG, SPR, dan resistansi tanah pada semua musuh. Khusus unit breaker.",
+        "(\u001aใช้ได้\u001a \u001a1\u001a \u001aครั้ง\u001aทุก\u001a \u001a5\u001a \u001aเทิร์น)\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a(\u001aยู\u001aนิ\u001aทสา\u001aย\u001aทำลายล้าง\u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504242540": [
+        "Boosts MAG and SPR by 50%, parameters of espers evoked by 30%, and evocation damage by 25%. Not stackable.",
+        "提高50%魔力精神，以及發動召喚魔法時提高30%幻獸狀態，並且提高25%召喚魔法的威力。[無法重複裝備]",
+        "마력과 정신력이 50% 상승하고, 소환마법 사용 시 환수 능력치가 30% 상승하며, 소환마법 사용 시 피해량이 25% 상승합니다.(중복 장착 불가)",
+        "Augmente la MAGIE et la PSY de 50 %, les caractéristiques des chimères appelées de 30 % et les dégâts d'appel de 25 %. Non cumulable.",
+        "Erhöht MAG und PSY um 50%, Werte gerufener Esper um 30% und Rufen-Schaden um 25%. Nicht stapelbar.",
+        "Aumenta la MAG y el ESP un 50%, los parámetros de los espers evocados un 30% y el daño de evocación un 25%. No acumulable.",
+        "Meningkatkan MAG dan SPR sebanyak 50%, dan parameter esper yang dipanggil sebanyak 30%, serta meningkatkan damage summon sebanyak 25%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a50% + เพิ่มค่าสเตตัสของ Esper\u001a \u001aที่\u001aถูก\u001aซัม\u001aม่อน\u001a \u001a30% + เพิ่มค่าความเสียหายจากการซัมม่อน Esper\u001a \u001a25% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504242543": [
+        "Boosts ATK by 50% and physical and magic damage against beasts and plants by 40%. Not stackable.",
+        "提高50%攻擊，以及物理、魔法攻擊時提高40%對獸植物系魔物的傷害。[無法重複裝備]",
+        "공격력이 50% 상승하고, 물리, 마법 공격 시 야수와 식물형 마물에게 부여하는 피해량이 40% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT de 50 % et les dégâts physiques et magiques infligés aux bêtes et aux plantes de 40 %. Non cumulable.",
+        "Erhöht ANG um 50% und erhöht physischen sowie magischen Schaden gegen Bestien und Pflanzenmonster um 40%. Nicht stapelbar.",
+        "Aumenta el ATQ un 50% y el daño físico y mágico contra bestias y plantoides un 40%. No acumulable.",
+        "Meningkatkan ATK sebanyak 50%, serta meningkatkan damage fisik dan magic terhadap jenis makhluk buas dan tumbuhan sebanyak 40%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001aและ\u001aพืช\u001a \u001a40% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504242545": [
+        "Boosts physical and magic damage against fairies by 50% and ATK and DEF by 50%. Galuf and Warrior of Dawn Galuf only. Not stackable.",
+        "物理、魔法攻擊時提高50%對精靈系魔物的傷害，以及提高50%攻擊防禦。(加拉夫、曉之四戰士加拉夫專屬)[無法重複裝備]",
+        "물리, 마법 공격 시 정령형 마물에게 부여하는 피해량이 50% 상승하고, 공격력과 방어력이 50% 상승합니다.(가라프, 새벽의 전사 가라프 전용)(중복 장착 불가)",
+        "Augmente les dégâts physiques et magiques infligés aux esprits de 50 % et augmente l'ATT et la DEF de 50 %. Galuf et Galuf, guerrier de l'aube uniquement. Non cumulable.",
+        "Erhöht physischen sowie magischen Schaden gegen Feen um 50% und ANG sowie ABW um 50%. Nur Galuf und Krieger der Morgendämmerung Galuf. Nicht stapelbar.",
+        "Aumenta el daño físico y mágico contra espíritus un 50% y el ATQ y la DEF un 50%. Solo Galuf y Guerrero del Alba Galuf. No acumulable.",
+        "Meningkatkan damage fisik dan magic terhadap jenis peri sebanyak 50%, serta meningkatkan ATK dan DEF sebanyak 50%. Khusus Galuf dan Kesatria Sinar Fajar Galuf. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a \u001a50% + ATK\u001a \u001aและ\u001a \u001aDEF\u001a \u001a50% (Galuf\u001a \u001aและ\u001a \u001aGaluf\u001a \u001aนักรบ\u001aแห่ง\u001aรุ่งอรุณ\u001a \u001aเท่านั้น\u001a)\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504242546": [
+        "Boosts physical and magic damage against fairies by 25%.",
+        "物理、魔法攻擊時提高25%對精靈系魔物的傷害。",
+        "물리, 마법 공격 시 정령형 마물에게 부여하는 피해량이 25% 상승합니다.",
+        "Augmente les dégâts physiques et magiques infligés aux esprits de 25 %.",
+        "Erhöht physischen sowie magischen Schaden gegen Feen um 25%.",
+        "Aumenta el daño físico y mágico contra espíritus un 25%.",
+        "Meningkatkan damage fisik dan magic terhadap jenis peri sebanyak 25%.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a \u001a25%"
+    ],
+    "504242548": [
+        "Boosts ATK and MAG by 40% and physical and magic damage against reapers by 75%. Not stackable.",
+        "提高40%攻擊魔力，以及物理攻擊時提高75%對死靈系魔物的傷害。[無法重複裝備]",
+        "공격력과 마력이 40% 상승하고, 물리, 마법 공격 시 사령형 마물에게 부여하는 피해량이 75% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 40 % et augmente les dégâts physiques et magiques infligés aux morts-vivants de 75 %. Non cumulable.",
+        "Erhöht ANG und MAG um 40% und erhöht physischen sowie magischen Schaden gegen Untote um 75%. Nicht stapelbar.",
+        "Aumenta el ATQ y la MAG un 40% y el daño físico y mágico contra muertos vivientes un 75%. No acumulable.",
+        "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik dan magic terhadap jenis makhluk halus sebanyak 75%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",
