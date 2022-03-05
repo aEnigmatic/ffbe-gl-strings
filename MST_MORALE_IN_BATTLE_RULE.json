@@ -1,0 +1,112 @@
+{
+    "1": [
+        "[Enemy] Player unit is KO'ed",
+        "[敵方]我方兵員陷入無法戰鬥狀態",
+        "[적] 유저의 유닛이 전투불능 상태에 빠짐",
+        "[Ennemi] Une unité du joueur est KO",
+        "[Gegner] Einheit des Spielers wurde besiegt.",
+        "[Enemigo] La unidad del jugador está K.O.",
+        "[Musuh] Unit pemain K.O.",
+        "[\u001aฝ่าย\u001aศัตรู\u001a]\u001a \u001aยู\u001aนิ\u001aท\u001aของ\u001aผู้\u001aเล่น\u001aถูก\u001a \u001aKO\u001a"
+    ],
+    "2": [
+        "[Player] Attack enemy's weakness (Once per ability cast)",
+        "[我方]以敵人的弱點屬性進行攻擊(每次施放能力採計1次)",
+        "[유저] 적의 약점 공격(어빌리티 사용 시마다 1회)",
+        "[Joueur] Attaque le point faible d'un ennemi (1 fois par aptitude lancée)",
+        "[Spieler] Schwäche des Gegners angegriffen (einmal pro Fertigkeitswirken)",
+        "[Jugador] Ataca la debilidad del enemigo (una vez por habilidad)",
+        "[Pemain] Menyerang kelemahan pemain (1 kali per penggunaan ability)",
+        "[\u001aฝ่าย\u001aผู้\u001aเล่น\u001a]\u001a \u001aโจมตี\u001aจุดอ่อน\u001aของ\u001aศัตรู\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aAbility\u001a \u001aที่\u001aใช้\u001aไป\u001a)\u001a"
+    ],
+    "3": [
+        "[Both] Inflict enemy with status ailment (Once per ailment per turn)",
+        "[雙方]對敵人施加異常狀態效果(施加1種異常狀態每回合採計1次)",
+        "[모두] 적에게 상태이상 부여(1턴에 상태이상 부여 시마다 1회)",
+        "[Tous] Inflige une altération d'état à un ennemi (1 fois par altération par tour)",
+        "[Beide] Gegner Statusveränderung zugefügt (einmal pro Statusveränderung pro Runde)",
+        "[Ambos] Inflige un estado alterado al enemigo (una vez por estado por turno)",
+        "[Kedua Pihak] Memberikan status abnormal pada musuh (1 kali per status abnormal per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aทำให้\u001aฝ่ายตรงข้าม\u001aติด\u001aสถานะ\u001aผิดปกติ\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aจำนวน\u001aสถานะ\u001aผิดปกติ\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "4": [
+        "[Both] Boost ATK, DEF, MAG, SPR or reduce damage taken for ally (Once per status effect per unit per turn)",
+        "[雙方]提高隊員的攻擊防禦魔力精神或減少傷害(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 아군의 공격력, 방어력, 마력, 정신력 상승 또는 아군이 받는 피해량 감소(1턴에 유닛당 능력치 효과 부여 시마다 1회)",
+        "[Tous] Augmente l'ATT, la DEF, la MAGIE, la PSY ou réduit les dégâts subis par un allié (1 fois par effet de statut par unité par tour)",
+        "[Beide] ANG, ABW, MAG oder PSY erhöht oder erlittenen Schaden eines Verbündeten verringert (einmal pro Statuseffekt pro Runde)",
+        "[Ambos] Aumenta ATQ, DEF, MAG o ESP de un aliado o reduce el daño que recibe (una vez por cambio de estado por unidad por turno)",
+        "[Kedua Pihak] Meningkatkan ATK, DEF, MAG, SPR atau mengurangi damage yang diterima teman (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a,\u001a \u001aSPR\u001a \u001aหรือ\u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aได้รับ\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "5": [
+        "[Both] Reduce ATK, DEF, MAG, or SPR for enemy (Once per status effect per unit per turn)",
+        "[雙方]降低1名敵人的攻擊防禦魔力精神(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 적의 공격력, 방어력, 마력 또는 정신력 감소(1턴에 유닛당 능력치 효과 부여 시마다 1회)",
+        "[Tous] Réduit l'ATT, la DEF, la MAGIE ou la PSY d'un ennemi (1 fois par effet de statut par unité par tour)",
+        "[Beide] ANG, ABW, MAG oder PSY eines Gegners verringert (einmal pro Statuseffekt pro Runde)",
+        "[Ambos] Reduce ATQ, DEF, MAG o ESP del enemigo (una vez por cambio de estado por unidad por turno)",
+        "[Kedua Pihak] Mengurangi ATK, DEF, MAG, atau SPR musuh (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aศัตรู\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "6": [
+        "[Both] Restore HP or MP for ally (Once per ability cast)",
+        "[雙方]恢復隊員的HPMP(每次施放能力採計1次)",
+        "[모두] 아군의 HP 또는 MP 회복(어빌리티 사용 시마다 1회)",
+        "[Tous] Restaure les PV ou les PM d'un allié (1 fois par aptitude lancée)",
+        "[Beide] LP oder MP eines Verbündeten wiederhergestellt (einmal pro Fertigkeitswirken)",
+        "[Ambos] Recupera VIT y PM de un aliado (una vez por habilidad)",
+        "[Kedua Pihak] Memulihkan HP atau MP teman (1 kali per penggunaan ability)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aหรือ\u001a \u001aMP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aAbility\u001a \u001aที่\u001aใช้\u001aไป\u001a)\u001a"
+    ],
+    "7": [
+        "[Both] Boost elemental resistance for ally (Once per status effect per unit per turn)",
+        "[雙方]提高隊員的屬性耐性(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 아군의 속성 저항력 상승(1턴에 유닛당 능력치 효과 부여 시마다 1회)",
+        "[Tous] Augmente la résistance élémentaire d'un allié (1 fois par effet de statut par unité par tour)",
+        "[Beide] Elementarresistenz eines Gegners erhöht (einmal pro Statuseffekt pro Einheit pro Runde)",
+        "[Ambos] Aumenta la resistencia elemental de un aliado (una vez por cambio de estado por unidad por turno)",
+        "[Kedua Pihak] Meningkatkan resistansi elemen pada teman (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "8": [
+        "[Both] Boost resistance to status ailment (Once per status effect per unit per turn)",
+        "[雙方]提高隊員的異常狀態耐性(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 상태이상 저항력 상승(1턴에 유닛당 상태이상 부여 시마다 1회)",
+        "[Tous] Augmente la résistance aux altérations d'état (1 fois par effet de statut par unité par tour)",
+        "[Beide] Erhöht Resistenz gegen Zustandsveränderungen (einmal pro Statuseffekt pro Einheit pro Runde).",
+        "[Ambos] Aumenta la resistencia a estados alterados (una vez por estado alterado por unidad por turno)",
+        "[Kedua Pihak] Meningkatkan resistansi status abnormal (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aผล\u001aทาง\u001aสถานะ\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "9": [
+        "[Player] Inflict enemy with blind (Once per turn)",
+        "[我方]對敵人施加失明效果(每回合採計1次)",
+        "[유저] 적에게 암흑 부여(턴당 1회)",
+        "[Joueur] Inflige cécité à l'ennemi (1 fois par tour)",
+        "[Spieler] Fügt dem Gegner Blind zu (einmal pro Runde).",
+        "[Jugador] Inflige ceguera al enemigo (una vez por turno)",
+        "[Pemain] Memberikan status blind pada musuh (1 kali per giliran)",
+        "[\u001aฝ่าย\u001aผู้\u001aเล่น\u001a]\u001a \u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aBlind\u001a \u001a(\u001a1\u001a \u001aครั้ง\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "10": [
+        "[Both] Boost resistance to status ailment (Once per status effect per unit per turn)",
+        "[雙方]提高隊員的異常狀態耐性(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 상태이상 저항력 상승(1턴에 유닛당 상태이상마다 1회)",
+        "[Tous] Augmente la résistance aux altérations d'état (1 fois par effet de statut par unité par tour)",
+        "[Beide] Erhöht Resistenz gegen Zustandsveränderungen (einmal pro Statuseffekt pro Einheit pro Runde).",
+        "[Ambos] Aumenta la resistencia a estados alterados (una vez por cambio de estado, por unidad y por turno)",
+        "[Kedua Pihak] Memberikan resistansi status abnormal (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001aผิดปกติ\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ],
+    "11": [
+        "[Both] Boost resistance to reductions to ATK, DEF, MAG, or SPR for ally (Once per status effect per unit per turn)",
+        "[雙方]提高全體隊員降低攻擊防禦魔力精神的耐性(施加1種狀態效果每回合每位兵員採計1次)",
+        "[모두] 아군의 공격력, 방어력, 마력, 정신력 감소 저항력 상승(1턴에 유닛당 능력치 효과 부여 시마다 1회)",
+        "[Les deux] Augmente la résistance aux malus d'ATT, de DEF, de MAGIE et de PSY d'un allié (1 fois par effet de statut par unité par tour)",
+        "[Beide] Erhöht Resistenz eines Verbündeten gegen ANG-, ABW-, MAG- und PSY-Verringerungen (einmal pro Statuseffekt pro Einheit pro Runde).",
+        "[Ambos] Aumenta la resistencia a las reducciones de ATQ, DEF, MAG o ESP de un aliado (una vez por cambio de estado por unidad por turno)",
+        "[Kedua Pihak] Meningkatkan resistansi efek pengurangan ATK, DEF, MAG, dan SPR teman (1 kali per efek perubahan status per unit per giliran)",
+        "[\u001aทั้งสองฝ่าย\u001a]\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aการ\u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aหรือ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a(\u001aหนึ่ง\u001aครั้ง\u001aต่อ\u001aหนึ่ง\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aต่อ\u001aยู\u001aนิ\u001aท\u001aต่อ\u001aเทิร์น)\u001a"
+    ]
+}
