@@ -449,6 +449,16 @@
         "Memberikan damage kegelapan pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "504020470": [
+        "Deal dark magic damage to all enemies",
+        "對全體敵人發動暗屬性魔法攻擊",
+        "적 전체에 어둠속성 마법 피해",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu.",
+        "Daño mágico de oscuridad a todos los enemigos",
+        "Memberikan damage magic kegelapan pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "504030010": [
         "Chance of putting one enemy to sleep",
         "一定機率對1名敵人施加睡眠效果",
@@ -1419,6 +1429,16 @@
         "Memberikan damage pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "504200500": [
+        "Temporarily increase chance of being targeted and reduce damage taken (Tank and Magic Tank units only)",
+        "暫時性容易被敵人攻擊+減少傷害(物防型、魔防型兵員專屬)",
+        "일시적으로 적의 공격 대상이 될 확률 상승+피해량 감소(물리 방어, 마법 방어 유닛 한정)",
+        "Augmente temporairement les chances d'être pris pour cible et réduit les dégâts subis (unités \"Tank\" et \"Tank magique\" uniquement)",
+        "Erhöht vorübergehend Chance des Benutzers, zum Ziel zu werden und verringert dessen erlittenen Schaden. (Nur Tank- und Magie-Tank-Einheiten.)",
+        "Aumenta temporalmente la probabilidad de ser atacado y reduce el daño recibido (solo unidades de tipo tanque y tanque mágico)",
+        "Meningkatkan peluang menjadi target musuh dan mengurangi damage yang diterima diri sendiri untuk sementara waktu (Khusus unit tank dan magic tank)",
+        "เพิ่ม\u001aโอกาส\u001aตกเป็น\u001aเป้าหมาย\u001aถูก\u001aโจมตี\u001aเป็นเวลา\u001aชั่วคราว\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aได้รับ\u001a \u001a(\u001aยู\u001aนิ\u001aทสา\u001aย\u001aป้องกัน\u001aและ\u001aสาย\u001aป้องกัน\u001aเวทย์\u001aเท่านั้น\u001a)\u001a"
+    ],
     "504200510": [
         "Deal fire damage to one enemy",
         "對1名敵人發動火屬性攻擊",
@@ -2283,8 +2303,8 @@
         "Add chance of evading physical attacks and boost ATK by 30%",
         "一定機率閃避物理攻擊+提高30%攻擊",
         "일정 확률로 일부 물리 공격 회피+공격력 30% 상승",
-        "Chance d'esquiver les attaques physiques et augmente l'ATT de 30%",
-        "Chance auf Ausweichen vor ph. Angr. und erhöht ANG um 30%.",
+        "Confère une chance d'esquiver les attaques physiques et augmente l'ATT de 30 %",
+        "Chance auf Ausweichen vor physischen Angriffen und erhöht ANG um 30%.",
         "Posibilita esquivar ataques físicos y aumenta el ATQ un 30%",
         "Meningkatkan peluang untuk menghindari beberapa serangan fisik dan meningkatkan ATK sebanyak 30%",
         "เพิ่ม\u001aโอกาส\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกาย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a \u001a30%"
@@ -9498,6 +9518,16 @@
         "Aumenta el ATQ y la MAG un 40% y el daño físico y mágico contra máquinas un 75% (no acumulable)",
         "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik dan magic terhadap jenis mesin sebanyak 75% (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243190": [
+        "Deal fire magic damage three times to one enemy",
+        "對1名敵人發動3次火屬性魔法攻擊",
+        "적 1명에게 3회 불속성 마법 피해",
+        "Inflige des dégâts magiques de feu 3 fois à un ennemi",
+        "Fügt einem Gegner dreimal magischen Feuerschaden zu.",
+        "Daño mágico de fuego a un enemigo 3 veces",
+        "Memberikan damage magic api 3 kali pada satu musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a3\u001a \u001aครั้ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "504400110": [
         "Halve chance of encounters",

@@ -103,7 +103,7 @@
         "Cure poison, blind, sleep, silence, paralysis, and confusion for one ally",
         "治療1名隊員的中毒失明睡眠沉默麻痺混亂狀態",
         "아군 1명의 독, 암흑, 수면, 침묵, 마비, 혼란 회복",
-        "Soigne poison, cécité, sommeil, silence, paralysie, et confusion d'un allié",
+        "Guérit poison, cécité, sommeil, silence, paralysie et confusion pour un allié",
         "Heilt einen Verbündeten von Gift, Blind, Schlaf, Stille, Lähmung und Konfus.",
         "Elimina veneno, ceguera, sueño, silencio, parálisis y confusión de un aliado",
         "Menyembuhkan status poison, blind, sleep, silence, paralyze, dan confuse pada satu teman",
@@ -525,6 +525,56 @@
         "아군 1명의 HP 서서히 회복",
         "Restaure progressivement les PV d'un allié à chaque tour",
         "Stellt jede Runde LP wieder her.",
+        "Recupera poco a poco VIT de un aliado",
+        "Memulihkan HP satu teman secara bertahap",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10406": [
+        "Gradually restore HP for one ally",
+        "持續恢復1名隊員的HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié à chaque tour",
+        "Regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera poco a poco VIT de un aliado",
+        "Memulihkan HP satu teman secara bertahap",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10407": [
+        "Gradually restore HP for one ally",
+        "持續恢復1名隊員的HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié à chaque tour",
+        "Regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera poco a poco VIT de un aliado",
+        "Memulihkan HP satu teman secara bertahap",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10408": [
+        "Gradually restore HP for one ally",
+        "持續恢復1名隊員的HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié à chaque tour",
+        "Regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera poco a poco VIT de un aliado",
+        "Memulihkan HP satu teman secara bertahap",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10409": [
+        "Gradually restore HP for one ally",
+        "持續恢復1名隊員的HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié à chaque tour",
+        "Regeneriert allmählich LP für einen Verbündeten.",
+        "Recupera poco a poco VIT de un aliado",
+        "Memulihkan HP satu teman secara bertahap",
+        "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "10410": [
+        "Gradually restore HP for one ally",
+        "持續恢復1名隊員的HP",
+        "아군 1명의 HP 서서히 회복",
+        "Restaure progressivement les PV d'un allié à chaque tour",
+        "Regeneriert allmählich LP für einen Verbündeten.",
         "Recupera poco a poco VIT de un aliado",
         "Memulihkan HP satu teman secara bertahap",
         "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
@@ -983,8 +1033,8 @@
         "Deal dark damage to all enemies",
         "對全體敵人發動暗屬性攻擊",
         "적 전체에 어둠속성 피해",
-        "Dégâts de ténèbres sur tous les ennemis",
-        "Dunkelschaden, alle Ziele",
+        "Inflige des dégâts de ténèbres à tous les ennemis",
+        "Fügt allen Gegnern Dunkelschaden zu.",
         "Daño de oscuridad a todos los enemigos",
         "Memberikan damage kegelapan pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
@@ -1989,6 +2039,16 @@
         "Menambahkan elemen petir pada serangan fisik, serta meningkatkan damage petir pada LB, ability, dan magic semua teman",
         "เพิ่ม\u001aพลัง\u001aธาตุ\u001aสายฟ้า\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
+    "30630": [
+        "Add earth element to physical attack and boost earth damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予土屬性+提高土屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 땅속성 부여+땅속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément terre aux attaques physiques de tous les alliés et augmente les dégâts de terre de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Erdelement hinzu, erhöht deren Erdschaden durch Limitrausch, Fertigkeiten und Magie.",
+        "Añade elemento tierra a los ataques físicos de todos los aliados y aumenta el daño de tierra de sus EL, habilidades y magia",
+        "Menambahkan elemen tanah pada serangan fisik, serta meningkatkan damage tanah pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aดิน\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+    ],
     "30640": [
         "Add light element to physical attack and boost light damage of LB, abilities, and magic for all allies",
         "將全體隊員的物理攻擊賦予光屬性+提高光屬性「極限技、能力、魔法」的傷害",
@@ -1998,6 +2058,16 @@
         "Añade elemento luz a los ataques físicos de todos los aliados y aumenta el daño de luz de sus EL, habilidades y magia",
         "Menambahkan elemen cahaya pada serangan fisik, serta meningkatkan damage cahaya pada LB, ability, dan magic semua teman",
         "เพิ่ม\u001aพลัง\u001aธาตุ\u001aแสง\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "30650": [
+        "Add dark element to physical attack and boost dark damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予暗屬性+提高暗屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 어둠속성 부여+어둠속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément ténèbres aux attaques physiques de tous les alliés et augmente les dégâts de ténèbres de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Dunkelelement hinzu und erhöht deren Dunkelschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento oscuridad a los ataques físicos de todos los aliados y aumenta el daño de oscuridad de sus EL, habilidades y magia",
+        "Menambahkan elemen kegelapan pada serangan fisik, serta meningkatkan damage kegelapan pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aมืด\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "40010": [
         "Restore HP and gradually restore HP for all allies",
@@ -3178,6 +3248,36 @@
         "Daño mágico de hielo a todos los enemigos",
         "Memberikan damage magic es pada semua musuh",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "70486": [
+        "Deal dark magic damage to all enemies",
+        "對全體敵人發動暗屬性魔法攻擊",
+        "적 전체에 어둠속성 마법 피해",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu.",
+        "Daño mágico de oscuridad a todos los enemigos",
+        "Memberikan damage magic kegelapan pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "70487": [
+        "Deal dark magic damage to all enemies",
+        "對全體敵人發動暗屬性魔法攻擊",
+        "적 전체에 어둠속성 마법 피해",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu.",
+        "Daño mágico de oscuridad a todos los enemigos",
+        "Memberikan damage magic kegelapan pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "70488": [
+        "Deal dark magic damage to all enemies",
+        "對全體敵人發動暗屬性魔法攻擊",
+        "적 전체에 어둠속성 마법 피해",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis",
+        "Fügt allen Gegnern magischen Dunkelschaden zu.",
+        "Daño mágico de oscuridad a todos los enemigos",
+        "Memberikan damage magic kegelapan pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "91000": [
         "Gradually restore HP for one ally",
