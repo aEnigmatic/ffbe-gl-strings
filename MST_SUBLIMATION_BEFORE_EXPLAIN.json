@@ -1794,7 +1794,7 @@
         "發動火屬性魔法攻擊(7000%)<br>降低火水屬性耐性(100%)",
         "불속성 마법 피해(7000%)<br>불과 물속성 저항력 감소(100%)",
         "Inflige des dégâts magiques de feu<br>(7000 %)<br>Réduit la résistance au feu et à l'eau<br>(100 %)",
-        "Fügt magischen Feuerschaden zu (7000%).<br>Verringert Feuer- und Wasserresistenz<br>(100%).",
+        "Fügt magischen Feuerschaden zu<br>(7000%).<br>Verringert Feuer- und Wasserresistenz<br>(100%).",
         "Daño mágico de fuego (un 7000%)<br>Reduce la resistencia a fuego y agua (un 100%)",
         "Memberikan damage magic api<br>(7000%)<br>Mengurangi resistansi api dan air (100%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a<br>(\u001a7000%)<br>ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aและ\u001aน้ำ\u001a \u001a(\u001a100%)\u001a"
@@ -1804,7 +1804,7 @@
         "發動火屬性魔法攻擊(10000%)<br>降低火水屬性耐性(120%)",
         "불속성 마법 피해(10000%)<br>불과 물속성 저항력 감소(120%)",
         "Inflige des dégâts magiques de feu<br>(10 000 %)<br>Réduit la résistance au feu et à l'eau<br>(120 %)",
-        "Fügt magischen Feuerschaden zu (10000%).<br>Verringert Feuer- und Wasserresistenz<br>(120%).",
+        "Fügt magischen Feuerschaden zu<br>(10000%).<br>Verringert Feuer- und Wasserresistenz<br>(120%).",
         "Daño mágico de fuego (un 10000%)<br>Reduce la resistencia a fuego y agua (un 120%)",
         "Memberikan damage magic api<br>(10000%)<br>Mengurangi resistansi api dan air (120%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a<br>(\u001a10000%)<br>ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aและ\u001aน้ำ\u001a \u001a(\u001a120%)\u001a"
@@ -18898,6 +18898,36 @@
         "Aumenta el daño de determinados EL (un 11000%)<br>Aumenta la MAG (un 250%, hasta un 250%)",
         "Meningkatkan damage LB tertentu (11000%)<br>Meningkatkan MAG (250%, hingga 250%)",
         "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001a11000%)<br>เพิ่มค่า MAG\u001a \u001a(\u001a250%,\u001a \u001aสูงสุด\u001a \u001a250%)\u001a"
+    ],
+    "237104001": [
+        "Boosts physical damage against demons, humans, plants, and stone monsters (25%)",
+        "物理攻擊時提高25%對惡魔人植物岩石系魔物的傷害",
+        "물리 공격 시 악마, 인간, 식물, 암석형 마물에게 부여하는 피해량 상승(25%)",
+        "Augmente les dégâts physiques infligés aux démons, aux humains, aux plantes et aux monstres de pierre (25 %)",
+        "Erhöht physischen Schaden gegen Dämonen, Menschen, Pflanzen und Steinmonster (25%).",
+        "Aumenta el daño físico contra demonios, humanos, plantoides y pétreos (un 25%)",
+        "Meningkatkan damage fisik terhadap jenis demon, manusia, tumbuhan dan batu (25%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a,\u001a \u001aมนุษย์\u001a,\u001a \u001aพืช\u001aและ\u001aศิลา\u001a \u001a(\u001a25%)\u001a"
+    ],
+    "237104002": [
+        "Boosts ATK (500)<br>Boosts physical damage against demons, humans, plants, and stone monsters (50%)<br>Changes LB effects:<br><br>Reduces resistance to swords, short swords, staves, rods, axes, spears, and fists (15%)<br>Deals damage<br>Boosts damage when used consecutively (5500%)<br>Boosts damage of certain abilities (2000%)",
+        "提高攻擊(500)<br>物理攻擊時提高對惡魔人植物岩石系魔物的傷害(50%)<br>極限技效果變化<br>降低對劍短劍手杖魔棒斧長槍格鬥武器的耐性(15%)<br>發動攻擊<br>連續使用時威力提升(5500%)<br>提高特定能力的傷害(2000%)",
+        "공격력 상승(500)<br>물리 공격 시 악마, 인간, 식물, 암석형 마물에게 부여하는 피해량 상승(50%)<br>LB 효과 변화:<br><br>검, 단검, 지팡이, 홀장, 도끼, 창, 격투무기 저항력 감소(15%)<br>피해<br>연속 사용 시 피해량 상승(5500%)<br>특정 어빌리티의 피해량 상승(2000%)",
+        "Augmente l'ATT (500)<br>Augmente les dégâts physiques infligés aux démons, aux humains, aux plantes et aux monstres de pierre (50 %)<br>Modifie les effets de la limite :<br><br>Réduit la résistance aux épées, aux épées courtes, aux bâtons, aux sceptres, aux haches, aux lances et aux poings (15 %)<br>Inflige des dégâts<br>Augmente les dégâts à chaque utilisation consécutive (5500 %)<br>Augmente les dégâts de certaines aptitudes (2000 %)",
+        "Erhöht ANG (500).<br>Erhöht physischen Schaden gegen Dämonen, Menschen, Pflanzen sowie Steinmonster (50%).<br>Ändert Limitrauscheffekte:<br><br>Verringert Resistenz gegen Schwerter, Kurzschwerter, Stäbe, Ruten, Äxte, Speere und Fäuste (15%).<br>Fügt Schaden zu.<br>Schaden wird mit jeder Anwendung stärker (5500%).<br>Erhöht Schaden bestimmter Fertigkeiten (2000%).",
+        "Aumenta el ATQ (en 500)<br>Aumenta el daño físico contra demonios, humanos, plantoides y pétreos (un 50%)<br>Cambia los efectos del EL:<br><br>Reduce la resistencia a espadas, espadas cortas, bastones, varas, hachas, lanzas y puños (un 15%)<br>Inflige daño<br>Aumenta el daño con cada uso (un 5500%)<br>Aumenta el daño de determinadas habilidades (un 2000%)",
+        "Meningkatkan ATK (500)<br>Meningkatkan damage fisik terhadap jenis demon, manusia, tumbuhan dan batu (50%)<br>Mengubah efek LB:<br><br>Mengurangi resistansi pedang, pedang pendek, staff, tongkat, kapak, tombak, dan senjata tinju (15%)<br>Memberikan damage<br>Meningkatkan damage dengan penggunaan beruntun (5500%)<br>Meningkatkan damage ability tertentu (2000%)",
+        "เพิ่ม\u001a \u001aATK\u001a \u001a(\u001a500\u001a)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a,\u001a \u001aมนุษย์\u001a,\u001a \u001aพืช\u001aและ\u001aศิลา\u001a \u001a(\u001a50%)<br>เปลี่ยนผลของ LB:<br><br>ลดพลังต้านทานดาบ, ดาบสั้น, ไม้เท้า, คทา, ขวาน, หอกและสนับมือ (15%)<br>สร้างความเสียหาย<br>ค่าความเสียหายจะเพิ่มขึ้นเมื่อใช้งานต่อเนื่อง (5500%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001a2000%)\u001a"
+    ],
+    "237104003": [
+        "Boosts ATK (1000)<br>Boosts physical damage against demons, humans, plants, and stone monsters (75%)<br>Changes LB effects:<br><br>Reduces resistance to swords, short swords, staves, rods, axes, spears, and fists (20%)<br>Deals damage<br>Boosts damage when used consecutively (7000%)<br>Boosts damage of certain abilities (3500%)",
+        "提高攻擊(1000)<br>物理攻擊時提高對惡魔人植物岩石系魔物的傷害(75%)<br>極限技效果變化<br>降低對劍短劍手杖魔棒斧長槍格鬥武器的耐性(20%)<br>發動攻擊<br>連續使用時威力提升(7000%)<br>提高特定能力的傷害(3500%)",
+        "공격력 상승(1000)<br>물리 공격 시 악마, 인간, 식물, 암석형 마물에게 부여하는 피해량 상승(75%)<br>LB 효과 변화:<br><br>검, 단검, 지팡이, 홀장, 도끼, 창, 격투무기 저항력 감소(20%)<br>피해<br>연속 사용 시 피해량 상승(7000%)<br>특정 어빌리티의 피해량 상승(3500%)",
+        "Augmente l'ATT (1000)<br>Augmente les dégâts physiques infligés aux démons, aux humains, aux plantes et aux monstres de pierre (75 %)<br>Modifie les effets de la limite :<br><br>Réduit la résistance aux épées, aux épées courtes, aux bâtons, aux sceptres, aux haches, aux lances et aux poings (20 %)<br>Inflige des dégâts<br>Augmente les dégâts à chaque utilisation consécutive (7000 %)<br>Augmente les dégâts de certaines aptitudes (3500 %)",
+        "Erhöht ANG (1000).<br>Erhöht physischen Schaden gegen Dämonen, Menschen, Pflanzen sowie Steinmonster (75%).<br>Ändert Limitrauscheffekte:<br><br>Verringert Resistenz gegen Schwerter, Kurzschwerter, Stäbe, Ruten, Äxte, Speere und Fäuste (20%).<br>Fügt Schaden zu.<br>Schaden wird mit jeder Anwendung stärker (7000%).<br>Erhöht Schaden bestimmter Fertigkeiten (3500%).",
+        "Aumenta el ATQ (en 1000)<br>Aumenta el daño físico contra demonios, humanos, plantoides y pétreos (un 75%)<br>Cambia los efectos del EL:<br><br>Reduce la resistencia a espadas, espadas cortas, bastones, varas, hachas, lanzas y puños (un 20%)<br>Inflige daño<br>Aumenta el daño con cada uso (un 7000%)<br>Aumenta el daño de determinadas habilidades (un 3500%)",
+        "Meningkatkan ATK (1000)<br>Meningkatkan damage fisik terhadap jenis demon, manusia, tumbuhan dan batu (75%)<br>Mengubah efek LB:<br><br>Mengurangi resistansi pedang, pedang pendek, staff, tongkat, kapak, tombak, dan senjata tinju (20%)<br>Memberikan damage<br>Meningkatkan damage dengan penggunaan beruntun (7000%)<br>Meningkatkan damage ability tertentu (3500%)",
+        "เพิ่ม\u001a \u001aATK\u001a \u001a(\u001a1000\u001a)<br>\u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a,\u001a \u001aมนุษย์\u001a,\u001a \u001aพืช\u001aและ\u001aศิลา\u001a \u001a(\u001a75%)<br>เปลี่ยนผลของ LB:<br><br>ลดพลังต้านทานดาบ, ดาบสั้น, ไม้เท้า, คทา, ขวาน, หอกและสนับมือ (20%)<br>สร้างความเสียหาย<br>ค่าความเสียหายจะเพิ่มขึ้นเมื่อใช้งานต่อเนื่อง (7000%)<br>เพิ่มค่าความเสียหายของ Ability\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001a3500%)\u001a"
     ],
     "237494001": [
         "(One use every 12 turns) Consume own LB gauge to damage all enemies (35000%) and boost damage of certain abilities",
@@ -36328,6 +36358,46 @@
         "Inflige daño de fuego (un 6400%)",
         "Memberikan damage api (6400%)",
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001a \u001a(\u001a6400%)\u001a"
+    ],
+    "300001915": [
+        "Boosts light damage of LB, abilities, and magic (10%)",
+        "提高光屬性「極限技、能力、魔法」的傷害(10%)",
+        "빛속성 LB, 어빌리티, 마법 피해량 상승(10%)",
+        "Augmente les dégâts de lumière de la limite, des aptitudes et des sorts (10 %)",
+        "Erhöht Lichtschaden durch Limitrausch, Fertigkeiten und Magie (10%).",
+        "Aumenta el daño de luz de EL, habilidades y magia (un 10%)",
+        "Meningkatkan damage cahaya pada LB, ability, dan magic (10%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a10%)\u001a"
+    ],
+    "300001916": [
+        "Boosts light damage of LB, abilities, and magic (15%)",
+        "提高光屬性「極限技、能力、魔法」的傷害(15%)",
+        "빛속성 LB, 어빌리티, 마법 피해량 상승(15%)",
+        "Augmente les dégâts de lumière de la limite, des aptitudes et des sorts (15 %)",
+        "Erhöht Lichtschaden durch Limitrausch, Fertigkeiten und Magie (15%).",
+        "Aumenta el daño de luz de EL, habilidades y magia (un 15%)",
+        "Meningkatkan damage cahaya pada LB, ability, dan magic (15%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a15%)\u001a"
+    ],
+    "300001917": [
+        "Boosts light damage of LB, abilities, and magic (20%)",
+        "提高光屬性「極限技、能力、魔法」的傷害(20%)",
+        "빛속성 LB, 어빌리티, 마법 피해량 상승(20%)",
+        "Augmente les dégâts de lumière de la limite, des aptitudes et des sorts (20 %)",
+        "Erhöht Lichtschaden durch Limitrausch, Fertigkeiten und Magie (20%).",
+        "Aumenta el daño de luz de EL, habilidades y magia (un 20%)",
+        "Meningkatkan damage cahaya pada LB, ability, dan magic (20%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a20%)\u001a"
+    ],
+    "300001918": [
+        "Boosts light damage of LB, abilities, and magic (25%)",
+        "提高光屬性「極限技、能力、魔法」的傷害(25%)",
+        "빛속성 LB, 어빌리티, 마법 피해량 상승(25%)",
+        "Augmente les dégâts de lumière de la limite, des aptitudes et des sorts (25 %)",
+        "Erhöht Lichtschaden durch Limitrausch, Fertigkeiten und Magie (25%).",
+        "Aumenta el daño de luz de EL, habilidades y magia (un 25%)",
+        "Meningkatkan damage cahaya pada LB, ability, dan magic (25%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a(\u001a25%)\u001a"
     ],
     "301301001": [
         null,
