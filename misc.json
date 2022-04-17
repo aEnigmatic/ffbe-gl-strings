@@ -1019,6 +1019,16 @@
         "pedang pendek@pedang@pedang besar@katana@staff@tongkat@busur@kapak@palu@tombak@instrumen@cambuk@senjata lempar@senapan@gada@senjata pukul",
         "ดาบสั้น\u001a@\u001aดาบ\u001a@\u001aดาบ\u001aใหญ่\u001a@\u001aดาบ\u001aคาตา\u001aนะ\u001a@\u001aไม้เท้า\u001a@\u001aคทา\u001a@\u001aธนู\u001a@\u001aขวาน\u001a@\u001aค้อน\u001a@\u001aหอก\u001a@\u001aเครื่องดนตรี\u001a@\u001aแส้\u001a@\u001aอาวุธ\u001aขว้าง\u001a@\u001aปืน\u001a@\u001aตะบอง\u001a@\u001aสนับมือ\u001a"
     ],
+    "ABILITY_DETAIL_WEAPON_LIST_WEAK_INFO": [
+        "Short Sword@Sword@Large Sword@Katana@Staff@Rod@Bow@Axe@Hammer@Spear@Instrument@Whip@Throwing Weapon@Gun@Mace@Fist",
+        "短劍@劍@大劍@刀@手杖@魔棒@弓@斧@鎚子@長槍@樂器@鞭@投擲武器@火槍@權杖@格鬥武器",
+        "단검@검@대검@도@지팡이@홀장@활@도끼@망치@창@악기@채찍@투척무기@총@메이스@격투무기",
+        "épée(s) courte(s)@épée(s)@épée(s) longue(s)@katana(s)@bâton(s)@sceptre(s)@arc(s)@hache(s)@marteau(x)@Lance@instrument(s)@fouet(s)@arme(s) de jet@arme(s) à feu@masse(s)@poing(s)",
+        "Kurzschwert(er)@Schwert(er)@Großschwert(er)@Katana(s)@Stab/Stäbe@Rute(n)@Bogen/Bögen@Axt/Äxte@Hammer/Hämmer@Speer(e)@Instrument(e)@Peitsche(n)@Wurfwaffe(n)@Schusswaffe(n)@Keule(n)@Faust/Fäuste",
+        "espada corta@espada(s)@espada grande@katana@bastón@vara@arco@hacha@martillo@lanza@un instrumento@látigo@arma arrojadiza@pistola@maza@puños",
+        "pedang pendek@pedang@pedang besar@katana@staff@tongkat@busur@kapak@palu@tombak@instrumen@cambuk@senjata lempar@senapan@gada@senjata pukul",
+        "ดาบสั้น\u001a@\u001aดาบ\u001a@\u001aดาบ\u001aใหญ่\u001a@\u001aดาบ\u001aคาตา\u001aนะ\u001a@\u001aไม้เท้า\u001a@\u001aคทา\u001a@\u001aธนู\u001a@\u001aขวาน\u001a@\u001aค้อน\u001a@\u001aหอก\u001a@\u001aเครื่องดนตรี\u001a@\u001aแส้\u001a@\u001aอาวุธ\u001aขว้าง\u001a@\u001aปืน\u001a@\u001aตะบอง\u001a@\u001aสนับมือ\u001a"
+    ],
     "ABILITY_NOTHING": [
         "No usable abilities to display.",
         "沒有可使用的特殊",
@@ -20871,6 +20881,16 @@
         "Terima kasih telah bermain!<br>Sebagai ungkapan terima kasih, kami telah mengirim 100 lapis<br>ke kotak masukmu.",
         "ขอ\u001aขอบคุณ\u001aอย่าง\u001aสูง\u001aที่\u001aคุณ\u001aมา\u001aเล่น\u001aเกม\u001aนี้\u001a!<br>\u001a \u001aเรา\u001aขอ\u001aส่ง\u001a \u001aLapis\u001a \u001aแทน\u001aคำขอบคุณ\u001a \u001a100\u001a \u001aเม็ด\u001a<br>\u001aไป\u001aยัง\u001aกล่อง\u001aข้อความ\u001aของ\u001aคุณ\u001a"
     ],
+    "REWARD_OW_ERROR_TEXT": [
+        "There are no tasks that could be completed. Please try again later.",
+        "沒有可完成的項目，請於稍後再試。",
+        "완료할 수 있는 작업이 없습니다. 나중에 다시 시도해 주십시오.",
+        "Aucune tâche ne peut être complétée. Veuillez réessayer plus tard.",
+        "Zurzeit gibt es keine Aufträge, die abgeschlossen werden können. Bitte versuche es später noch einmal.",
+        "No hay tareas que puedan completarse. Inténtalo de nuevo más tarde.",
+        "Tidak ada tugas yang dapat diselesaikan. Silakan coba lagi nanti.",
+        "ไม่\u001aมี\u001aภารกิจ\u001aที่\u001aสามารถ\u001aเคลียร์\u001aได้\u001aตอนนี้\u001a \u001aโปรด\u001aลองดู\u001aอีกครั้ง\u001aใน\u001aภายหลัง\u001a"
+    ],
     "REWARD_OW_FREE_LAPIS": [
         "Free lapis!",
         "免費寶石！",
@@ -28372,14 +28392,14 @@
         "ยู\u001aนิ\u001aท\u001a \u001a<param=title>\u001a"
     ],
     "UNIT_RULE_ROLE": [
-        "Breaker Units",
-        "妨害兵員",
-        "방해 유닛",
-        "Unités \"Briseur\"",
-        "Brecher-Einheit",
-        "Unidades obstructoras",
-        "Unit Breaker",
-        "ยู\u001aนิ\u001aทสา\u001aย\u001aทำลายล้าง\u001a"
+        "<param=role> Units",
+        "<param=role>兵員",
+        "<param=role> 유닛",
+        "Unités \"<param=role>\"",
+        "<param=role>-Einheit",
+        "Unidades de tipo <param=role>",
+        "Unit <param=role>",
+        "ยู\u001aนิ\u001aท<param=role>\u001a"
     ],
     "UNIT_SELECT": [
         "Select Units",

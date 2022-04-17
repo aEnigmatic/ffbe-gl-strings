@@ -4164,7 +4164,7 @@
         "對全體敵人發動無視部分魔法防禦的攻擊+下一回合提高1次自身魔法傷害",
         "적 전체에 일부 마법 방어 무시 피해+다음 턴에 자신의 마법 피해량 1회 상승",
         "Inflige des dégâts magiques en partie fixes à tous les ennemis et augmente une fois les dégâts magiques du lanceur au tour suivant",
-        "Fügt allen Gegnern teilweise direkten mag. Schaden zu und erhöht eigenen mag. Schaden in der folgenden Runde.",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und erhöht einmal magischen Schaden des Benutzers in der folgenden Runde.",
         "Daño que ignora parcialmente la DEF de todos los enemigos y aumenta el daño mágico del usuario al turno siguiente",
         "Memberikan damage magic yang menembus sebagian SPR pada semua musuh dan meningkatkan damage magic diri sendiri 1 kali pada giliran berikutnya",
         "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aจาก\u001aพลัง\u001aเวทย์\u001aของ\u001aตัวเอง\u001a \u001a1\u001a \u001aครั้ง\u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
@@ -4174,20 +4174,30 @@
         "對全體敵人發動無視部分魔法防禦的攻擊+下一回合提高1次自身魔法傷害",
         "적 전체에 일부 마법 방어 무시 피해+다음 턴에 자신의 마법 피해량 1회 상승",
         "Inflige des dégâts magiques en partie fixes à tous les ennemis et augmente une fois les dégâts magiques du lanceur au tour suivant",
-        "Fügt allen Gegnern teilweise direkten mag. Schaden zu und erhöht eigenen mag. Schaden in der folgenden Runde.",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und erhöht einmal magischen Schaden des Benutzers in der folgenden Runde.",
         "Daño que ignora parcialmente la DEF de todos los enemigos y aumenta el daño mágico del usuario al turno siguiente",
         "Memberikan damage magic yang menembus sebagian SPR pada semua musuh dan meningkatkan damage magic diri sendiri 1 kali pada giliran berikutnya",
         "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aจาก\u001aพลัง\u001aเวทย์\u001aของ\u001aตัวเอง\u001a \u001a1\u001a \u001aครั้ง\u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
     ],
     "100014007": [
-        "Deal partial unmitigated magic damage to all enemies, and boost own magic damage once next turn",
-        "對全體敵人發動無視部分魔法防禦的攻擊+下一回合提高1次自身魔法傷害",
-        "적 전체에 일부 마법 방어 무시 피해+다음 턴에 자신의 마법 공격 피해량 1회 상승",
-        "Inflige des dégâts magiques en partie fixes à tous les ennemis et augmente une fois les dégâts magiques du lanceur au tour suivant",
-        "Fügt allen Gegnern teilweise direkten magischen Schaden zu und erhöht magischen Schaden des Benutzers ein Mal in der folgenden Runde.",
-        "Daño mágico que ignora parcialmente la DEF de todos los enemigos y aumenta el daño mágico del usuario una vez al turno siguiente",
-        "Memberikan damage magic yang menembus sebagian SPR pada semua musuh dan meningkatkan damage magic diri sendiri 1 kali pada giliran berikutnya",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aให้\u001aตัวเอง\u001a \u001a1\u001a \u001aครั้ง\u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+        "Deal partial unmitigated magic damage to all enemies, boost ATK, DEF, MAG, and SPR for all allies, and boost own magic damage once next turn",
+        "對全體敵人發動無視部分魔法防禦的攻擊+提高全體隊員的攻擊防禦魔力精神+下一回合提高1次自身魔法傷害",
+        "적 전체에 일부 마법 방어 무시 피해+아군 전체의 공격력, 방어력, 마력, 정신력 상승+다음 턴에 자신의 마법 피해량 1회 상승",
+        "Inflige des dégâts magiques en partie fixes à tous les ennemis, augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, et augmente les dégâts magiques du lanceur au tour suivant",
+        "Fügt allen Gegnern teilweise direkten magischen Schaden zu, erhöht ANG, ABW, MAG und PSY aller Verbündeten und erhöht einmal magischen Schaden des Benutzers in der folgenden Runde.",
+        "Daño mágico que ignora parcialmente el ESP de todos los enemigos, aumenta ATQ, DEF, MAG y ESP de todos los aliados y aumenta el daño mágico del usuario una vez al turno siguiente",
+        "Memberikan damage magic yang menembus sebagian SPR pada semua musuh, meningkatkan ATK, DEF, MAG, dan SPR semua teman, serta meningkatkan damage magic diri sendiri 1 kali pada giliran berikutnya",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a,\u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aของ\u001aตัวเอง\u001aใน\u001aเทิร์น\u001aต่อไป\u001a"
+    ],
+    "100014027": [
+        "Reduce ice resistance for one enemy, boost ice damage of LB, abilities, and magic and boost magic damage against aquatic monsters and demons for caster, and deal partial unmitigated ice magic damage to one enemy",
+        "降低1名敵人的冰屬性耐性+提高自身冰屬性「極限技、能力、魔法」的傷害+魔法攻擊時提高對水生惡魔系魔物的傷害+對1名敵人發動冰屬性無視部分防禦的魔法攻擊",
+        "적 1명의 얼음속성 저항력 감소+자신의 얼음속성 LB, 어빌리티, 마법 피해량 상승+마법 공격 시 수중과 악마형 마물에게 부여하는 피해량 상승+적 1명에게 얼음속성 일부 마법 방어 무시 피해",
+        "Réduit la résistance à la glace d'un ennemi, augmente les dégâts de glace de la limite, des aptitudes et des sorts du lanceur, augmente les dégâts magiques qu'il inflige aux monstres aquatiques et aux démons, et inflige des dégâts magiques de glace en partie fixes à un ennemi",
+        "Verringert Eisresistenz eines Gegners, erhöht Eisschaden durch Limitrausch, Fertigkeiten sowie Magie, erhöht magischen Schaden des Benutzers gegen Wassermonster sowie Dämonen und fügt einem Gegner teilweise direkten magischen Eisschaden zu.",
+        "Reduce la resistencia al hielo de un enemigo, aumenta el daño de hielo de EL, habilidades y magia del usuario, aumenta su daño mágico contra acuáticos y demonios e inflige daño mágico de hielo que ignora parcialmente el ESP de un enemigo",
+        "Mengurangi resistansi es pada satu musuh, meningkatkan damage es pada LB, ability, dan magic, dan meningkatkan damage magic diri sendiri terhadap jenis makhluk perairan dan demon, serta memberikan damage magic es yang menembus sebagian SPR pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aสัตว์น้ำ\u001aและ\u001aปีศาจ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aได้\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "100014104": [
         "Deal wind damage to all enemies and boost wind resistance for all allies",
@@ -9038,6 +9048,46 @@
         "Reduce la resistencia a arcos de todos los enemigos y aumenta ATQ, DEF, MAG y ESP de todos los aliados, el daño de sus EL y el daño de luz de sus EL, habilidades y magia",
         "Mengurangi resistansi busur pada semua musuh, serta meningkatkan ATK, DEF, MAG, dan SPR, meningkatkan damage LB, dan meningkatkan damage cahaya pada LB, ability, dan magic semua teman",
         "ลด\u001aพลัง\u001aต้านทาน\u001aธนู\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100038207": [
+        "Reduce water resistance for all enemies, boost LB damage for caster, deal water magic damage to all enemies, and boost damage of certain abilities for all allies",
+        "降低全體敵人的水屬性耐性+提高自身極限技的傷害+對全體敵人發動水屬性魔法攻擊+提高全體隊員特定能力的傷害",
+        "적 전체의 물속성 저항력 감소+자신의 LB 피해량 상승+적 전체에 물속성 마법 피해+아군 전체의 특정 어빌리티의 피해량 상승",
+        "Réduit la résistance à l'eau de tous les ennemis, augmente les dégâts de la limite du lanceur, inflige des dégâts magiques d'eau à tous les ennemis et augmente les dégâts de certaines aptitudes de tous les alliés",
+        "Verringert Wasserresistenz aller Gegner, erhöht Schaden des Benutzers durch Limitrausch, fügt allen Gegnern magischen Wasserschaden zu und erhöht Schaden bestimmter Fertigkeiten aller Verbündeten.",
+        "Reduce la resistencia al agua de todos los enemigos, aumenta el daño del EL del usuario, inflige daño mágico de agua a todos los enemigos y aumenta el daño de determinadas habilidades de todos los aliados",
+        "Mengurangi resistansi air pada semua musuh, meningkatkan damage LB pada diri sendiri, memberikan damage magic air pada semua musuh, dan meningkatkan damage ability tertentu pada semua teman",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100038217": [
+        "Boost damage of certain abilities for one ally except self, boost damage of certain abilities for caster, reduce water resistance and deal water magic damage to all enemies, and boost damage of certain abilities for all allies",
+        "提高除自身以外1名隊員特定能力的傷害+提高自身特定能力的傷害+降低全體敵人水屬性耐性+發動水屬性魔法攻擊+提高全體隊員特定能力的傷害",
+        "자신을 제외한 아군 1명의 특정 어빌리티의 피해량 상승+자신의 특정 어빌리티의 피해량 상승+적 전체의 물속성 저항력 감소+물속성 마법 피해+아군 전체의 특정 어빌리티의 피해량 상승",
+        "Augmente les dégâts de certaines aptitudes d'un allié sauf le lanceur, augmente les dégâts de certaines aptitudes du lanceur, réduit la résistance à l'eau de tous les ennemis, leur inflige des dégâts magiques d'eau, et augmente les dégâts de certaines aptitudes pour tous les alliés",
+        "Erhöht Schaden bestimmter Fertigkeiten für einen Verbündeten außer Benutzer, erhöht Schaden bestimmter Fertigkeiten des Benutzers, verringert Wasserresistenz aller Gegner, fügt diesen magischen Wasserschaden zu und erhöht Schaden bestimmter Fertigkeiten aller Verbündeten.",
+        "Aumenta el daño de determinadas habilidades de un aliado excepto el usuario, aumenta el daño de determinadas habilidades del usuario, reduce la resistencia al agua de todos los enemigos y les inflige daño mágico de agua, y aumenta el daño de determinadas habilidades de todos los aliados",
+        "Meningkatkan damage ability tertentu pada satu teman kecuali diri sendiri, meningkatkan damage ability tertentu pada diri sendiri, mengurangi resistansi air dan memberikan damage magic air pada semua musuh, serta meningkatkan damage ability tertentu pada semua teman",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aยกเว้น\u001aตัวเอง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100038307": [
+        "Reduce lightning resistance for all enemies, boost LB damage for caster, deal lightning magic damage to all enemies, and boost damage of certain abilities for all allies",
+        "降低全體敵人的雷屬性耐性+提高自身極限技的傷害+對全體敵人發動雷屬性魔法攻擊+提高全體隊員特定能力的傷害",
+        "적 전체의 번개속성 저항력 감소+자신의 LB 피해량 상승+적 전체에 번개속성 마법 피해+아군 전체의 특정 어빌리티의 피해량 상승",
+        "Réduit la résistance à la foudre de tous les ennemis, augmente les dégâts de la limite du lanceur, inflige des dégâts magiques de foudre à tous les ennemis et augmente les dégâts de certaines aptitudes de tous les alliés",
+        "Verringert Blitzresistenz aller Gegner, erhöht Schaden des Benutzers durch Limitrausch, fügt allen Gegnern magischen Blitzschaden zu und erhöht Schaden bestimmter Fertigkeiten aller Verbündeten.",
+        "Reduce la resistencia al rayo de todos los enemigos, aumenta el daño del EL del usuario, inflige daño mágico de rayo a todos los enemigos y aumenta el daño de determinadas habilidades de todos los aliados",
+        "Mengurangi resistansi petir pada semua musuh, meningkatkan damage LB pada diri sendiri, memberikan damage magic petir pada semua musuh, dan meningkatkan damage ability tertentu pada semua teman",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100038317": [
+        "Boost damage of certain abilities for one ally except self, boost damage of certain abilities for caster, reduce lightning resistance and deal lightning magic damage to all enemies, and boost damage of certain abilities for all allies",
+        "提高除自身以外1名隊員特定能力的傷害+提高自身特定能力的傷害+降低全體敵人雷屬性耐性+發動雷屬性魔法攻擊+提高全體隊員特定能力的傷害",
+        "자신을 제외한 아군 1명의 특정 어빌리티의 피해량 상승+자신의 특정 어빌리티의 피해량 상승+적 전체의 번개속성 저항력 감소+번개속성 마법 피해+아군 전체의 특정 어빌리티의 피해량 상승",
+        "Augmente les dégâts de certaines aptitudes d'un allié sauf le lanceur, augmente les dégâts de certaines aptitudes du lanceur, réduit la résistance à la foudre de tous les ennemis, leur inflige des dégâts magiques de foudre, et augmente les dégâts de certaines aptitudes pour tous les alliés",
+        "Erhöht Schaden bestimmter Fertigkeiten für einen Verbündeten außer Benutzer, erhöht Schaden bestimmter Fertigkeiten des Benutzers, verringert Blitzresistenz aller Gegner, fügt diesen magischen Blitzschaden zu und erhöht Schaden bestimmter Fertigkeiten aller Verbündeten.",
+        "Aumenta el daño de determinadas habilidades de un aliado excepto el usuario, aumenta el daño de determinadas habilidades del usuario, reduce la resistencia al rayo de todos los enemigos y les inflige daño mágico de rayo, y aumenta el daño de determinadas habilidades de todos los aliados",
+        "Meningkatkan damage ability tertentu pada satu teman kecuali diri sendiri, meningkatkan damage ability tertentu pada diri sendiri, mengurangi resistansi petir dan memberikan damage magic petir pada semua musuh, serta meningkatkan damage ability tertentu pada semua teman",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aยกเว้น\u001aตัวเอง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "201000104": [
         "Deal light damage to all enemies",
