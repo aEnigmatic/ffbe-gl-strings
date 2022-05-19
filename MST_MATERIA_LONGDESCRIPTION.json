@@ -4834,7 +4834,7 @@
         "提高50%HP、30%防禦，HP低於一定量時提高防禦。[無法重複裝備]",
         "HP가 50%, 방어력이 30% 상승하고, HP가 일정량 이하일 때 방어력이 상승합니다. (중복 장착 불가)",
         "Augmente les PV de 50%, la DEF de 30% et augmente la DEF quand les PV tombent en dessous d'un certain seuil. Non cumulable.",
-        "Erhöht LP um 50% und ABW um 30% und erhöht ABW wenn die LP unter einen gewissen Wert fallen. (nicht stapelbar).",
+        "Erhöht LP um 50%, erhöht ABW um 30% und erhöht ABW, wenn LP unter einem bestimmten Wert liegen. Nicht stapelbar.",
         "Aumenta la VIT un 50% y la DEF un 30%, y aumenta la DEF cuando la VIT cae por debajo de cierto nivel. No acumulable.",
         "Meningkatkan HP sebanyak 50% dan DEF sebanyak 30%, serta meningkatkan DEF ketika HP kurang dari batas tertentu. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aHP\u001a \u001a50% + เพิ่มค่า DEF\u001a \u001a30% + เพิ่มค่า DEF\u001a \u001aเมื่อ\u001a \u001aHP\u001a \u001aต่ำกว่า\u001aที่\u001aกำหนด\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
@@ -7597,7 +7597,7 @@
         "Erhöht ANG um 50% und erhöht Ausrüstung-ANG, wenn eine einzige Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
         "Aumenta el ATQ un 50%, y aumenta el ATQ del equipo al llevar una sola arma en ambas manos. No acumulable.",
         "Meningkatkan ATK sebanyak 50% dan meningkatkan ATK perlengkapan ketika 2 senjata satu tangan digunakan. Tidak dapat ditumpuk.",
-        "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% + เพิ่มค่า ATK\u001a \u001aอุปกรณ์\u001aเมื่อ\u001aยู\u001aนิ\u001aท\u001aใช้\u001aมือ\u001aทั้งสอง\u001aข้าง\u001aถือ\u001aอาวุธ\u001aเล่ม\u001aเดียว\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% + เพิ่มค่า ATK\u001a \u001aอุปกรณ์\u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504235503": [
         "Boosts ATK by 70% and lightning resistance by 60%, and boosts equipment ATK when armed with two one-handed weapons. Not stackable.",
@@ -9638,6 +9638,36 @@
         "Aumenta el daño físico y mágico contra espíritus un 50% y aumenta el ATQ y la MAG un 30%. No acumulable.",
         "Meningkatkan damage fisik dan magic terhadap jenis peri sebanyak 50%, serta meningkatkan ATK dan MAG sebanyak 30%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a \u001a50% + เพิ่มค่า ATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a30% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243382": [
+        "Boosts HP by 50%, and boosts physical and magic damage against beasts and humans by 75% when equipped with a sword. Not stackable.",
+        "提高50%HP，以及裝備劍時提高75%對獸人系魔物的物理、魔法攻擊傷害。(無法重複裝備)",
+        "HP가 50% 상승하고, 검 장착 시 야수와 인간형 마물에게 부여하는 물리, 마법 피해량이 75% 상승합니다.(중복 장착 불가)",
+        "Augmente les PV de 50 %, et augmente les dégâts physiques et magiques infligés aux bêtes et aux humains de 75 % quand une épée est équipée. Non cumulable.",
+        "Erhöht LP um 50% und erhöht physischen sowie magischen Schaden gegen Bestien und Menschen um 75%, wenn mit einem Schwert ausgerüstet. Nicht stapelbar.",
+        "Aumenta la VIT un 50%, y aumenta el daño físico y mágico contra bestias y humanos un 75% al llevar espada. No acumulable.",
+        "Meningkatkan HP sebanyak 50%, serta meningkatkan damage fisik dan magic terhadap jenis makhluk buas dan manusia sebanyak 75% ketika pedang digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aHP\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001aและ\u001aมนุษย์\u001a \u001a75% \u001aเมื่อ\u001aติดตั้ง\u001aดาบ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243402": [
+        "Boosts damage of certain abilities, and boosts physical and magic damage against insects and plants by 50% when equipped with a sword or rod. Not stackable.",
+        "提高特定能力的傷害，以及裝備劍魔棒時提高50%對蟲植物系魔物的物理、魔法攻擊傷害。[無法重複裝備]",
+        "특정 어빌리티의 피해량이 상승하고, 검 또는 홀장 장착 시 곤충과 식물형 마물에게 부여하는 물리, 마법 피해량이 50% 상승합니다.(중복 장착 불가)",
+        "Augmente les dégâts de certaines aptitudes, et augmente les dégâts physiques et magiques infligés aux insectes et aux plantes de 50 % quand une épée ou un sceptre est équipé. Non cumulable.",
+        "Erhöht Schaden bestimmter Fertigkeiten und erhöht physischen sowie magischen Schaden gegen Insekten und Pflanzen um 50%, wenn mit einem Schwert oder einer Rute ausgerüstet. Nicht stapelbar.",
+        "Aumenta el daño de determinadas habilidades, y aumenta el daño físico y mágico contra insectos y plantoides un 50% al llevar espada o vara. No acumulable.",
+        "Meningkatkan damage ability tertentu, serta meningkatkan damage fisik dan magic terhadap jenis serangga dan tumbuhan sebanyak 50% ketika pedang atau tongkat digunakan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aแมลง\u001aและ\u001aพืช\u001a \u001a50% \u001aเมื่อ\u001aติดตั้ง\u001aดาบ\u001aหรือ\u001aคทา\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243403": [
+        "Boosts ATK and DEF by 500 and boosts physical and magic damage against beasts, demons, humans, dragons, fairies, insects, plants, reapers, and avian, aquatic, machina, and stone monsters by 50%. FFI units only. Not stackable.",
+        "提高500攻擊防禦，以及物理、魔法攻擊時提高50%對獸惡魔人龍精靈蟲植物死靈鳥水生機械岩石系魔物的傷害。(FFI兵員專屬)[無法重複裝備]",
+        "공격력과 방어력이 500 상승하고, 물리, 마법 공격 시 야수, 악마, 인간, 드래곤, 정령, 곤충, 식물, 사령, 조류, 수중, 기계, 암석형 마물에게 부여하는 피해량이 50% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT et la DEF de 500 et augmente les dégâts physiques et magiques infligés aux bêtes, aux démons, aux humains, aux dragons, aux esprits, aux insectes, aux plantes, aux morts-vivants, aux oiseaux, aux monstres aquatiques, aux machines et aux monstres de pierre de 50 %. Unités de FFI uniquement. Non cumulable.",
+        "Erhöht ANG sowie ABW um 500 und erhöht physischen sowie magischen Schaden gegen Bestien, Dämonen, Menschen, Drachen, Feen, Insekten, Pflanzen, Untote, Vogelmonster, Wassermonster, Maschinen und Steinmonster um 50%. Nur FFI-Einheiten. Nicht stapelbar.",
+        "Aumenta el ATQ y la DEF en 500 y el daño físico y mágico contra bestias, demonios, humanos, dragones, espíritus, insectos, plantoides, muertos vivientes, aves, acuáticos, máquinas y pétreos un 50%. Solo unidades de FFI. No acumulable.",
+        "Meningkatkan ATK dan DEF sebanyak 500, serta meningkatkan damage fisik dan magic terhadap jenis makhluk buas, demon, manusia, naga, peri, serangga, tumbuhan, makhluk halus, makhluk bersayap, makhluk perairan, mesin, dan batu sebanyak 50%. Khusus unit FFI. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aDEF\u001a \u001a500\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001a,\u001a \u001aปีศาจ\u001a,\u001a \u001aมนุษย์\u001a,\u001a \u001aมังกร\u001a,\u001a \u001aแฟรี\u001a,\u001a \u001aแมลง\u001a,\u001a \u001aพืช\u001a,\u001a \u001aภูตผี\u001a,\u001a \u001aสัตว์ปีก\u001a,\u001a \u001aสัตว์น้ำ\u001a,\u001a \u001aจักรกล\u001aและ\u001aศิลา\u001a \u001a50% (ยูนิท FFI\u001a \u001aเท่านั้น\u001a)\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",

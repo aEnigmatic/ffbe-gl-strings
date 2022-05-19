@@ -4581,6 +4581,26 @@
         "Selesaikan <param=num> quest dalam <param=dungeonname>",
         "เคลียร์\u001a \u001a<param=num>\u001a \u001aเค\u001aวส\u001aใน\u001a \u001a<param=eventname>\u001a"
     ],
+    "EMBLEM_MILESTONE_MISSION_1": [
+        "Clear <param=num> quest(s) in <param=areaname> > <param=dungeonname> > <param=missionname>!",
+        "在<param=areaname> > <param=dungeonname> > <param=missionname>中完成<param=num>個任務！",
+        "<param=areaname> > <param=dungeonname> > <param=missionname>에서 퀘스트를 <param=num>회 완료하세요!",
+        "Terminez <param=num> quête(s) dans \"<param=areaname>\" > \"<param=dungeonname>\" > \"<param=missionname>\" !",
+        "Schließe <param=num> Auftrag/Aufträge in \"<param=areaname>\" > \"<param=dungeonname>\" > \"<param=missionname>\" ab!",
+        "¡Completa <param=num> misión/misiones en <param=areaname> > <param=dungeonname> > <param=missionname>!",
+        "Selesaikan <param=num> quest dalam <param=areaname> > <param=dungeonname> > <param=missionname>!",
+        "เคลียร์\u001a \u001a<param=num>\u001a \u001aเค\u001aวส\u001aใน\u001a \u001a<param=areaname>\u001a \u001a>\u001a \u001a\u001a \u001a<param=dungeonname>\u001a \u001a>\u001a \u001a\u001a \u001a<param=missionname>!\u001a \u001a"
+    ],
+    "EMBLEM_MILESTONE_MISSION_2": [
+        "Clear <param=num> quest(s) in <param=areaname> > <param=missionname>!",
+        "在<param=areaname> > <param=missionname>中完成<param=num>個任務！",
+        "<param=areaname> > <param=missionname>에서 퀘스트를 <param=num>회 완료하세요!",
+        "Terminez <param=num> quête(s) dans \"<param=areaname>\" > \"<param=missionname>\" !",
+        "Schließe <param=num> Auftrag/Aufträge in \"<param=areaname>\" > \"<param=missionname>\" ab!",
+        "¡Completa <param=num> misión/misiones en <param=areaname> > <param=missionname>!",
+        "Selesaikan <param=num> quest dalam <param=areaname> > <param=missionname>!",
+        "เคลียร์\u001a \u001a<param=num>\u001a \u001aเค\u001aวส\u001aใน\u001a \u001a<param=areaname>\u001a \u001a>\u001a \u001a\u001a \u001a<param=missionname>!\u001a"
+    ],
     "EMBLEM_MILESTONE_PROGRESS": [
         "Progress: %s/%s",
         "進度：%s/%s",
@@ -4642,14 +4662,14 @@
         "ตรา\u001aนักผจญภัย\u001a"
     ],
     "EMBLEM_REWARD_MILESTONE": [
-        "Weekly Adventurer Crests Reward",
-        "每週冒險家紋章報酬",
-        "주간 모험가 엠블럼 보상",
-        "Récompense des emblèmes d'aventurier hebdomadaires",
-        "Wöchentliche Abenteurer-Wappen-Belohnung",
-        "Recompensa de emblemas de aventurero semanales",
-        "Hadiah Lencana Petualang Mingguan",
-        "ของรางวัล\u001aตรา\u001aนักผจญภัย\u001aรายสัปดาห์\u001a"
+        "Adventurer Crests Reward",
+        "冒險家紋章報酬",
+        "모험가 엠블럼 보상",
+        "Récompense des emblèmes d'aventurier",
+        "Abenteurer-Wappen-Belohnung",
+        "Recompensa de emblemas de aventurero",
+        "Hadiah Lencana Petualang",
+        "รางวัล\u001aตรา\u001aนักผจญภัย\u001a"
     ],
     "EMBLEM_REWARD_TIER": [
         "Adventurer Tier <param=num> Reward",
@@ -4671,6 +4691,16 @@
         "Hadiah Tingkat Petualang %s",
         "ของรางวัล\u001aนักผจญภัย\u001aระดับ\u001a %s\u001a"
     ],
+    "EMBLEM_STORY_LOCK": [
+        "Proceed further in the main story to unlock.",
+        "繼續進行主線以解鎖任務。",
+        "개방하시려면 메인 스토리를 더 진행하세요.",
+        "Avancez dans l'histoire principale pour débloquer la quête.",
+        "Schreite in der Hauptstory voran, um den Auftrag freizuschalten.",
+        "Avanza más en la historia principal para desbloquearlos.",
+        "Lanjutkan cerita utama lebih jauh untuk membukanya.",
+        "เล่น\u001aเนื้อเรื่อง\u001aหลัก\u001aไป\u001aให้ได้\u001aไกล\u001aกว่า\u001aนี้\u001aเพื่อ\u001aปลด\u001aล็อค\u001a"
+    ],
     "EMBLEM_TAB_TIER": [
         "Adventurer Tier",
         "冒險家階級",
@@ -4682,14 +4712,14 @@
         "ระดับ\u001aนักผจญภัย\u001a"
     ],
     "EMBLEM_TAB_WEEKLY": [
-        "Weekly Adventurer Crests",
-        "每週冒險家紋章",
-        "주간 모험가 엠블럼",
-        "Emblèmes d'aventurier hebdomadaires",
-        "Wöchentliche Abenteurer-Wappen",
-        "Emblemas de aventurero semanales",
-        "Lencana Petualang Mingguan",
-        "ตรา\u001aนักผจญภัย\u001aรายสัปดาห์\u001a"
+        "Adventurer Crests",
+        "冒險家紋章",
+        "모험가 엠블럼",
+        "Emblèmes d'aventurier",
+        "Abenteurer-Wappen",
+        "Emblemas de aventurero",
+        "Lencana Petualang",
+        "ตรา\u001aนักผจญภัย\u001a"
     ],
     "EMPTY_ITEM_FRAME": [
         "Empty",
@@ -5560,6 +5590,16 @@
         "<blank>o<blank>",
         "<blank>atau<blank>",
         "<blank>\u001aหรือ\u001a<blank>\u001a"
+    ],
+    "EQUIP_NG_RULE_UNMATCH": [
+        "Equipment requirements not met.",
+        "裝備條件不符",
+        "장착 조건을 충족하지 못했습니다.",
+        "Conditions d'équipement non remplies.",
+        "Ausrüstungsvoraussetzungen wurden nicht erfüllt.",
+        "No se cumplen los requisitos de equipo.",
+        "Ketentuan perlengkapan belum terpenuhi.",
+        "อุปกรณ์\u001aไม่\u001aตรง\u001aกับ\u001aที่\u001aกำหนด\u001a"
     ],
     "EQUIP_NG_SEX_UNMATCH": [
         "Certain gender only.",
@@ -30070,6 +30110,16 @@
         "orbes mejoraequipo",
         "orb penguatan perlengkapan",
         "ลูกแก้ว\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001a"
+    ],
+    "sgSHOP_CLASH_ORB": [
+        "Clash of Will orbs",
+        "意志對決寶珠",
+        "의지의 격돌 구슬",
+        "Orbes du Choc des volontés",
+        "Krieg des Willens-Juwelen",
+        "Orbes de Choque de Voluntades",
+        "Orb Pertentangan Tekad",
+        "ลูกแก้ว\u001aปะทะ\u001aจิตวิญญาณ\u001a"
     ],
     "sgSHOP_ERROR_ORB_RECOVERY": [
         "Your %s are at full capacity",
