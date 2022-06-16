@@ -600,14 +600,14 @@
         "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20030": [
-        "Deal lightning damage to one enemy",
-        "對1名敵人發動雷屬性攻擊",
-        "적 1명에게 번개속성 피해",
-        "Inflige des dégâts de foudre à un ennemi",
-        "Fügt einem Gegner Blitzschaden zu.",
-        "Daño de rayo a un enemigo",
-        "Memberikan damage petir pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal lightning magic damage and reduce lightning resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動雷屬性魔法攻擊+降低雷屬性耐性+增加自身的極限技槽",
+        "적 1명에게 번개속성 마법 피해+번개속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de foudre à un ennemi et réduit sa résistance à la foudre, et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Blitzschaden zu, verringert dessen Blitzresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de rayo a un enemigo y reduce su resistencia al rayo, y rellena la barra de EL del usuario",
+        "Memberikan damage magic petir dan mengurangi resistansi petir pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20040": [
         "Deal water damage to one enemy",
@@ -1379,6 +1379,16 @@
         "Memberikan damage magic tanah pada semua musuh dan meningkatkan damage apabila digunakan secara beruntun",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
     ],
+    "20870": [
+        "Reduce ATK, DEF, MAG, and SPR, and chance of inflicting disease on all enemies",
+        "降低全體敵人的攻擊防禦魔力精神+一定機率施加生病效果",
+        "적 전체의 공격력, 방어력, 마력, 정신력 감소+일정 확률로 질병 부여",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY et chance d'infliger maladie à tous les ennemis",
+        "Verringert ANG, ABW, MAG sowie PSY aller Gegner und Chance, diesen Virus zuzufügen.",
+        "Reduce ATQ, DEF, MAG y ESP de todos los enemigos y probabilidad de infligirles enfermedad",
+        "Mengurangi ATK, DEF, MAG, dan SPR, serta peluang untuk memberikan status disease pada semua musuh",
+        "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aทุกราย\u001aติด\u001aสถานะ\u001a \u001aDisease\u001a"
+    ],
     "30010": [
         "Chance of putting one enemy to sleep",
         "一定機率對1名敵人施加睡眠效果",
@@ -1554,7 +1564,7 @@
         "一定機率對1名敵人施加沉默效果",
         "일정 확률로 적 1명에게 침묵 부여",
         "Confère une chance d'infliger silence à un ennemi",
-        "Chance auf Stille, ein Ziel",
+        "Chance, einem Gegner Stille zuzufügen.",
         "Probabilidad de infligir silencio a un enemigo",
         "Peluang untuk memberikan status silence pada satu musuh",
         "มีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aSilence\u001a \u001a1\u001a \u001aราย\u001a"
@@ -3728,6 +3738,36 @@
         "Rellena la barra de EL de todos los aliados",
         "Mengisi bar LB semua teman",
         "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "70537": [
+        "Deal lightning magic damage and reduce lightning resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動雷屬性魔法攻擊+降低雷屬性耐性+增加自身的極限技槽",
+        "적 1명에게 번개속성 마법 피해+번개속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de foudre à un ennemi et réduit sa résistance à la foudre, et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Blitzschaden zu, verringert dessen Blitzresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de rayo a un enemigo y reduce su resistencia al rayo, y rellena la barra de EL del usuario",
+        "Memberikan damage magic petir dan mengurangi resistansi petir pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
+    ],
+    "70538": [
+        "Deal lightning magic damage and reduce lightning resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動雷屬性魔法攻擊+降低雷屬性耐性+增加自身的極限技槽",
+        "적 1명에게 번개속성 마법 피해+번개속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de foudre à un ennemi et réduit sa résistance à la foudre, et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Blitzschaden zu, verringert dessen Blitzresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de rayo a un enemigo y reduce su resistencia al rayo, y rellena la barra de EL del usuario",
+        "Memberikan damage magic petir dan mengurangi resistansi petir pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
+    ],
+    "70539": [
+        "Deal lightning magic damage and reduce lightning resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動雷屬性魔法攻擊+降低雷屬性耐性+增加自身的極限技槽",
+        "적 1명에게 번개속성 마법 피해+번개속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de foudre à un ennemi et réduit sa résistance à la foudre, et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Blitzschaden zu, verringert dessen Blitzresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de rayo a un enemigo y reduce su resistencia al rayo, y rellena la barra de EL del usuario",
+        "Memberikan damage magic petir dan mengurangi resistansi petir pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "91000": [
         "Gradually restore HP for one ally",
