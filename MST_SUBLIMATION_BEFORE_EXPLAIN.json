@@ -67,7 +67,7 @@
         "Fügt magischen Eisschaden zu (3500%).",
         "Inflige daño mágico de hielo (un 3500%)",
         "Memberikan damage magic es (3500%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a3500%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a<br>(\u001a3500%)\u001a"
     ],
     "20300002": [
         "Deals ice magic damage (4500%)",
@@ -77,7 +77,7 @@
         "Fügt magischen Eisschaden zu (4500%).",
         "Inflige daño mágico de hielo (un 4500%)",
         "Memberikan damage magic es (4500%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a4500%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a<br>(\u001a4500%)\u001a"
     ],
     "20300003": [
         "Deals ice magic damage (6500%)",
@@ -87,7 +87,7 @@
         "Fügt magischen Eisschaden zu (6500%).",
         "Inflige daño mágico de hielo (un 6500%)",
         "Memberikan damage magic es (6500%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a6500%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a<br>(\u001a6500%)\u001a"
     ],
     "20310001": [
         "Deals lightning magic damage (3500%)",
@@ -118,6 +118,26 @@
         "Inflige daño mágico de rayo (un 6500%)",
         "Memberikan damage magic petir (6500%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a(\u001a6500%)\u001a"
+    ],
+    "20330001": [
+        "Deals wind magic damage (3500%)",
+        "發動風屬性魔法攻擊 (3500%)",
+        "바람속성 마법 피해(3500%)",
+        "Inflige des dégâts magiques de vent (3500 %)",
+        "Fügt magischen Windschaden zu<br>(3500%).",
+        "Inflige daño mágico de viento (un 3500%)",
+        "Memberikan damage magic angin<br>(3500%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a<br>(\u001a3500%)\u001a"
+    ],
+    "20330002": [
+        "Deals wind magic damage (4500%)",
+        "發動風屬性魔法攻擊 (4500%)",
+        "바람속성 마법 피해(4500%)",
+        "Inflige des dégâts magiques de vent (4500 %)",
+        "Fügt magischen Windschaden zu<br>(4500%).",
+        "Inflige daño mágico de viento (un 4500%)",
+        "Memberikan damage magic angin<br>(4500%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a<br>(\u001a4500%)\u001a"
     ],
     "20370001": [
         "Deals lightning magic damage (2400%)<br>Reduces lightning resistance (100%)",
@@ -1066,8 +1086,8 @@
         "Inflige des dégâts magiques de glace (1000 %)",
         "Fügt magischen Eisschaden zu<br>(1000%).",
         "Inflige daño mágico de hielo (un 1000%)",
-        "Memberikan damage magic es (1000%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a1000%)\u001a"
+        "Memberikan damage magic es<br>(1000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a<br>(\u001a1000%)\u001a"
     ],
     "200901002": [
         "Deals ice magic damage (2000%)",
@@ -1076,8 +1096,8 @@
         "Inflige des dégâts magiques de glace (2000 %)",
         "Fügt magischen Eisschaden zu<br>(2000%).",
         "Inflige daño mágico de hielo (un 2000%)",
-        "Memberikan damage magic es (2000%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a2000%)\u001a"
+        "Memberikan damage magic es<br>(2000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a<br>(\u001a2000%)\u001a"
     ],
     "200901003": [
         "Deals ice magic damage (3000%)",
@@ -1086,7 +1106,7 @@
         "Inflige des dégâts magiques de glace (3000 %)",
         "Fügt magischen Eisschaden zu<br>(3000%).",
         "Inflige daño mágico de hielo (un 3000%)",
-        "Memberikan damage magic es (3000%)",
+        "Memberikan damage magic es<br>(3000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a3000%)\u001a"
     ],
     "201001001": [
@@ -1146,7 +1166,7 @@
         "Inflige des dégâts magiques d'eau (1000 %)",
         "Fügt magischen Wasserschaden zu<br>(1000%).",
         "Inflige daño mágico de agua (un 1000%)",
-        "Memberikan damage magic air (1000%)",
+        "Memberikan damage magic air<br>(1000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a1000%)\u001a"
     ],
     "201101002": [
@@ -1156,7 +1176,7 @@
         "Inflige des dégâts magiques d'eau (2000 %)",
         "Fügt magischen Wasserschaden zu<br>(2000%).",
         "Inflige daño mágico de agua (un 2000%)",
-        "Memberikan damage magic air (2000%)",
+        "Memberikan damage magic air<br>(2000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a2000%)\u001a"
     ],
     "201101003": [
@@ -1166,7 +1186,7 @@
         "Inflige des dégâts magiques d'eau (3000 %)",
         "Fügt magischen Wasserschaden zu<br>(3000%).",
         "Inflige daño mágico de agua (un 3000%)",
-        "Memberikan damage magic air (3000%)",
+        "Memberikan damage magic air<br>(3000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a(\u001a3000%)\u001a"
     ],
     "201170001": [
@@ -1196,8 +1216,8 @@
         "Inflige des dégâts magiques de vent (1000 %)",
         "Fügt magischen Windschaden zu<br>(1000%).",
         "Inflige daño mágico de viento (un 1000%)",
-        "Memberikan damage magic angin (1000%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a(\u001a1000%)\u001a"
+        "Memberikan damage magic angin<br>(1000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a<br>(\u001a1000%)\u001a"
     ],
     "201201002": [
         "Deals wind magic damage (2000%)",
@@ -1206,8 +1226,8 @@
         "Inflige des dégâts magiques de vent (2000 %)",
         "Fügt magischen Windschaden zu<br>(2000%).",
         "Inflige daño mágico de viento (un 2000%)",
-        "Memberikan damage magic angin (2000%)",
-        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a(\u001a2000%)\u001a"
+        "Memberikan damage magic angin<br>(2000%)",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a<br>(\u001a2000%)\u001a"
     ],
     "201201003": [
         "Deals wind magic damage (3000%)",
@@ -1216,7 +1236,7 @@
         "Inflige des dégâts magiques de vent (3000 %)",
         "Fügt magischen Windschaden zu<br>(3000%).",
         "Inflige daño mágico de viento (un 3000%)",
-        "Memberikan damage magic angin (3000%)",
+        "Memberikan damage magic angin<br>(3000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a(\u001a3000%)\u001a"
     ],
     "201301001": [
@@ -1226,7 +1246,7 @@
         "Inflige des dégâts magiques de terre (1000 %)",
         "Fügt magischen Erdschaden zu<br>(1000%).",
         "Inflige daño mágico de tierra (un 1000%)",
-        "Memberikan damage magic tanah (1000%)",
+        "Memberikan damage magic tanah<br>(1000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a \u001a(\u001a1000%)\u001a"
     ],
     "201301002": [
@@ -1236,7 +1256,7 @@
         "Inflige des dégâts magiques de terre (2000 %)",
         "Fügt magischen Erdschaden zu<br>(2000%).",
         "Inflige daño mágico de tierra (un 2000%)",
-        "Memberikan damage magic tanah (2000%)",
+        "Memberikan damage magic tanah<br>(2000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a \u001a(\u001a2000%)\u001a"
     ],
     "201301003": [
@@ -1246,7 +1266,7 @@
         "Inflige des dégâts magiques de terre (3000 %)",
         "Fügt magischen Erdschaden zu<br>(3000%).",
         "Inflige daño mágico de tierra (un 3000%)",
-        "Memberikan damage magic tanah (3000%)",
+        "Memberikan damage magic tanah<br>(3000%)",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a \u001a(\u001a3000%)\u001a"
     ],
     "201450001": [
@@ -1270,24 +1290,24 @@
         "เพิ่มค่า\u001aความเสียหาย\u001a \u001a(\u001aปานกลาง\u001a)\u001a"
     ],
     "201670001": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "<blank>\u001a"
+        "Boosts ATK, DEF, MAG, and SPR (50%) when equipped with a katana",
+        "裝備刀時提高攻擊防禦魔力精神 (50%)",
+        "도 장착 시 공격력, 방어력, 마력, 정신력 상승(50%)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY (50 %) quand un katana est équipé",
+        "Erhöht ANG, ABW, MAG sowie PSY<br>(50%), wenn mit einem Katana ausgerüstet.",
+        "Aumenta ATQ, DEF, MAG y ESP (un 50%) al llevar katana",
+        "Meningkatkan ATK, DEF, MAG, dan SPR (50%) ketika katana digunakan",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a(\u001a50%)\u001a \u001aเมื่อ\u001aติดตั้ง\u001aคาตา\u001aนะ\u001a"
     ],
     "201670002": [
-        "Boosts ATK increase (high)",
-        "提高攻擊增加量(大)",
-        "공격력 상승량 상승(대)",
-        "Amplifie l'augmentation de l'ATT (beaucoup)",
-        "Steigert ANG-Erhöhung (hoch)",
-        "Mayor aumento de ATQ (mucho)",
-        "Menambah jumlah peningkatan ATK (besar)",
-        "เพิ่มจำนวน\u001a \u001aATK\u001a \u001aที่\u001aถูก\u001aเพิ่ม\u001a \u001a(\u001aสูง\u001a)\u001a"
+        "Boosts ATK, DEF, MAG, and SPR (80%) when equipped with a katana",
+        "裝備刀時提高攻擊防禦魔力精神 (80%)",
+        "도 장착 시 공격력, 방어력, 마력, 정신력 상승(80%)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY (80 %) quand un katana est équipé",
+        "Erhöht ANG, ABW, MAG sowie PSY<br>(80%), wenn mit einem Katana ausgerüstet.",
+        "Aumenta ATQ, DEF, MAG y ESP (un 80%) al llevar katana",
+        "Meningkatkan ATK, DEF, MAG, dan SPR (80%) ketika katana digunakan",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a(\u001a80%)\u001a \u001aเมื่อ\u001aติดตั้ง\u001aคาตา\u001aนะ\u001a"
     ],
     "201880001": [
         null,
@@ -1507,7 +1527,7 @@
         "Fügt magischen Windschaden zu (2000%).",
         "Inflige daño mágico de viento (un 2000%)",
         "Memberikan damage magic angin (2000%)",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a2000%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a<br>(\u001a2000%)\u001a"
     ],
     "202401002": [
         "Deals wind magic damage (3000%)",
@@ -1517,7 +1537,7 @@
         "Fügt magischen Windschaden zu (3000%).",
         "Inflige daño mágico de viento (un 3000%)",
         "Memberikan damage magic angin (3000%)",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a3000%)\u001a"
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a<br>(\u001a3000%)\u001a"
     ],
     "202401003": [
         "Deals wind magic damage (4000%)",
@@ -18898,6 +18918,26 @@
         "Aumenta el daño de ataques de salto (un 75%)",
         "Meningkatkan damage ability Jump (75%)",
         "เพิ่มค่า\u001aความเสียหาย\u001aจาก\u001aการ\u001aโจมตี\u001aแบบ\u001aกระโดด\u001a \u001a(\u001a75%)\u001a"
+    ],
+    "234701001": [
+        "Restores MP (40)<br>Boosts LB gauge fill rate (150%)",
+        "恢復MP (40)<br>提高極限技石對極限技槽的增加量 (150%)",
+        "MP 회복(40)<br>LB 게이지 효율 상승(150%)",
+        "Restaure les PM (40)<br>Augmente le taux de remplissage de la jauge de limite (150 %)",
+        "Regeneriert MP<br>(40).<br>Limitmeter füllt sich schneller<br>(150%).",
+        "Recupera PM (40)<br>La barra de EL se rellena más rápido (un 150%)",
+        "Memulihkan MP (40)<br>Meningkatkan kecepatan pengisian bar LB (150%)",
+        "ฟื้นฟู\u001a \u001aMP\u001a \u001a(\u001a40\u001a)<br>\u001aเพิ่มค่า\u001a \u001aFill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a150%)\u001a"
+    ],
+    "234701002": [
+        "Restores MP (120)<br>Boosts LB gauge fill rate (150%)",
+        "恢復MP (120)<br>提高極限技石對極限技槽的增加量 (150%)",
+        "MP 회복(120)<br>LB 게이지 효율 상승(150%)",
+        "Restaure les PM (120)<br>Augmente le taux de remplissage de la jauge de limite (150 %)",
+        "Regeneriert MP<br>(120).<br>Limitmeter füllt sich schneller<br>(150%).",
+        "Recupera PM (120)<br>La barra de EL se rellena más rápido (un 150%)",
+        "Memulihkan MP (120)<br>Meningkatkan kecepatan pengisian bar LB (150%)",
+        "ฟื้นฟู\u001a \u001aMP\u001a \u001a(\u001a120\u001a)<br>\u001aเพิ่มค่า\u001a \u001aFill\u001a \u001aRate\u001a \u001aของ\u001a \u001aLB\u001a \u001aGauge\u001a \u001a(\u001a150%)\u001a"
     ],
     "235887001": [
         "Boosts damage of certain abilities (sword agitato: 1500%)",
@@ -37818,6 +37858,246 @@
         "Aumenta el daño físico y mágico contra bestias, demonios, humanos, dragones, espíritus, insectos, plantoides, muertos vivientes, aves, acuáticos, máquinas y pétreos (un 80%)",
         "Meningkatkan damage fisik dan magic terhadap jenis makhluk buas, demon, manusia, naga, peri, serangga, tumbuhan, makhluk halus, makhluk bersayap, makhluk perairan, mesin, dan batu (80%)",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001a,\u001a \u001aปีศาจ\u001a,\u001a \u001aมนุษย์\u001a,\u001a \u001aมังกร\u001a,\u001a \u001aแฟรี\u001a,\u001a \u001aแมลง\u001a,\u001a \u001aพืช\u001a,\u001a \u001aภูตผี\u001a,\u001a \u001aสัตว์ปีก\u001a,\u001a \u001aสัตว์น้ำ\u001a,\u001a \u001aจักรกล\u001aและ\u001aศิลา\u001a \u001a(\u001a80%)\u001a"
+    ],
+    "300002051": [
+        "Deals ice damage (4800%)",
+        "發動冰屬性攻擊 (4800%)",
+        "얼음속성 피해(4800%)",
+        "Inflige des dégâts de glace (4800 %)",
+        "Fügt Eisschaden zu<br>(4800%).",
+        "Inflige daño de hielo (un 4800%)",
+        "Memberikan damage es (4800%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a4800%)\u001a"
+    ],
+    "300002052": [
+        "Deals ice damage (5200%)",
+        "發動冰屬性攻擊 (5200%)",
+        "얼음속성 피해(5200%)",
+        "Inflige des dégâts de glace (5200 %)",
+        "Fügt Eisschaden zu<br>(5200%).",
+        "Inflige daño de hielo (un 5200%)",
+        "Memberikan damage es (5200%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a5200%)\u001a"
+    ],
+    "300002053": [
+        "Deals ice damage (5600%)",
+        "發動冰屬性攻擊 (5600%)",
+        "얼음속성 피해(5600%)",
+        "Inflige des dégâts de glace (5600 %)",
+        "Fügt Eisschaden zu<br>(5600%).",
+        "Inflige daño de hielo (un 5600%)",
+        "Memberikan damage es (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a5600%)\u001a"
+    ],
+    "300002054": [
+        "Deals ice damage (6000%)",
+        "發動冰屬性攻擊 (6000%)",
+        "얼음속성 피해(6000%)",
+        "Inflige des dégâts de glace (6000 %)",
+        "Fügt Eisschaden zu<br>(6000%).",
+        "Inflige daño de hielo (un 6000%)",
+        "Memberikan damage es (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300002055": [
+        "Deals boosted damage against machina monsters (6000%)<br>Deals damage (6000%)",
+        "發動提高對機械系魔物傷害的攻擊 (6000%)<br>發動攻擊 (6000%)",
+        "기계형 마물에게 피해량 상승 피해(6000%)<br>피해(6000%)",
+        "Inflige des dégâts accrus contre les machines (6000 %)<br>Inflige des dégâts (6000 %)",
+        "Fügt Maschinen erhöhten Schaden zu<br>(6000%).<br>Fügt Schaden zu<br>(6000%).",
+        "Inflige daño aumentado contra máquinas (un 6000%)<br>Inflige daño (un 6000%)",
+        "Memberikan damage yang ditingkatkan terhadap jenis mesin (6000%)<br>Memberikan damage (6000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a(\u001a6000%)<br>\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300002056": [
+        "Deals boosted damage against machina monsters (7000%)<br>Deals damage (7000%)",
+        "發動提高對機械系魔物傷害的攻擊 (7000%)<br>發動攻擊 (7000%)",
+        "기계형 마물에게 피해량 상승 피해(7000%)<br>피해(7000%)",
+        "Inflige des dégâts accrus contre les machines (7000 %)<br>Inflige des dégâts (7000 %)",
+        "Fügt Maschinen erhöhten Schaden zu<br>(7000%).<br>Fügt Schaden zu<br>(7000%).",
+        "Inflige daño aumentado contra máquinas (un 7000%)<br>Inflige daño (un 7000%)",
+        "Memberikan damage yang ditingkatkan terhadap jenis mesin (7000%)<br>Memberikan damage (7000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a(\u001a7000%)<br>\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a7000%)\u001a"
+    ],
+    "300002057": [
+        "Deals boosted damage against machina monsters (8000%)<br>Deals damage (8000%)",
+        "發動提高對機械系魔物傷害的攻擊 (8000%)<br>發動攻擊 (8000%)",
+        "기계형 마물에게 피해량 상승 피해(8000%)<br>피해(8000%)",
+        "Inflige des dégâts accrus contre les machines (8000 %)<br>Inflige des dégâts (8000 %)",
+        "Fügt Maschinen erhöhten Schaden zu<br>(8000%).<br>Fügt Schaden zu<br>(8000%).",
+        "Inflige daño aumentado contra máquinas (un 8000%)<br>Inflige daño (un 8000%)",
+        "Memberikan damage yang ditingkatkan terhadap jenis mesin (8000%)<br>Memberikan damage (8000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a(\u001a8000%)<br>\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a8000%)\u001a"
+    ],
+    "300002058": [
+        "Deals boosted damage against machina monsters (9000%)<br>Deals damage (9000%)",
+        "發動提高對機械系魔物傷害的攻擊 (9000%)<br>發動攻擊 (9000%)",
+        "기계형 마물에게 피해량 상승 피해(9000%)<br>피해(9000%)",
+        "Inflige des dégâts accrus contre les machines (9000 %)<br>Inflige des dégâts (9000 %)",
+        "Fügt Maschinen erhöhten Schaden zu<br>(9000%).<br>Fügt Schaden zu<br>(9000%).",
+        "Inflige daño aumentado contra máquinas (un 9000%)<br>Inflige daño (un 9000%)",
+        "Memberikan damage yang ditingkatkan terhadap jenis mesin (9000%)<br>Memberikan damage (9000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a(\u001a9000%)<br>\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a9000%)\u001a"
+    ],
+    "300002059": [
+        "Deals ice hybrid damage (16000/16000%)",
+        "發動冰屬性混合攻擊 (16000/16000%)",
+        "얼음속성 하이브리드 피해(16000/16000%)",
+        "Inflige des dégâts hybrides de glace<br>(16 000/16 000 %)",
+        "Fügt hybriden Eisschaden zu<br>(16000/16000%).",
+        "Inflige daño híbrido de hielo (16000/16000%)",
+        "Memberikan damage hybrid es (16000/16000%)",
+        "ความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแบบ\u001aผสมผสาน\u001a<br>(\u001a16000\u001a/\u001a16000%)\u001a"
+    ],
+    "300002060": [
+        "Deals ice hybrid damage (17000/17000%)",
+        "發動冰屬性混合攻擊 (17000/17000%)",
+        "얼음속성 하이브리드 피해(17000/17000%)",
+        "Inflige des dégâts hybrides de glace<br>(17 000/17 000 %)",
+        "Fügt hybriden Eisschaden zu<br>(17000/17000%).",
+        "Inflige daño híbrido de hielo (17000/17000%)",
+        "Memberikan damage hybrid es (17000/17000%)",
+        "ความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแบบ\u001aผสมผสาน\u001a<br>(\u001a17000\u001a/\u001a17000%)\u001a"
+    ],
+    "300002061": [
+        "Deals ice hybrid damage (18000/18000%)",
+        "發動冰屬性混合攻擊 (18000/18000%)",
+        "얼음속성 하이브리드 피해(18000/18000%)",
+        "Inflige des dégâts hybrides de glace<br>(18 000/18 000 %)",
+        "Fügt hybriden Eisschaden zu<br>(18000/18000%).",
+        "Inflige daño híbrido de hielo (18000/18000%)",
+        "Memberikan damage hybrid es (18000/18000%)",
+        "ความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแบบ\u001aผสมผสาน\u001a<br>(\u001a18000\u001a/\u001a18000%)\u001a"
+    ],
+    "300002062": [
+        "Deals ice hybrid damage (19000/19000%)",
+        "發動冰屬性混合攻擊 (19000/19000%)",
+        "얼음속성 하이브리드 피해(19000/19000%)",
+        "Inflige des dégâts hybrides de glace<br>(19 000/19 000 %)",
+        "Fügt hybriden Eisschaden zu<br>(19000/19000%).",
+        "Inflige daño híbrido de hielo (19000/19000%)",
+        "Memberikan damage hybrid es (19000/19000%)",
+        "ความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแบบ\u001aผสมผสาน\u001a<br>(\u001a19000\u001a/\u001a19000%)\u001a"
+    ],
+    "300002063": [
+        "Deals wind damage (4800%)",
+        "發動風屬性攻擊(4800%)",
+        "바람속성 피해(4800%)",
+        "Inflige des dégâts de vent (4800 %)",
+        "Fügt Windschaden zu<br>(4800%).",
+        "Inflige daño de viento (un 4800%)",
+        "Memberikan damage angin (4800%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a4800%)\u001a"
+    ],
+    "300002064": [
+        "Deals wind damage (5200%)",
+        "發動風屬性攻擊(5200%)",
+        "바람속성 피해(5200%)",
+        "Inflige des dégâts de vent (5200 %)",
+        "Fügt Windschaden zu<br>(5200%).",
+        "Inflige daño de viento (un 5200%)",
+        "Memberikan damage angin (5200%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a5200%)\u001a"
+    ],
+    "300002065": [
+        "Deals wind damage (5600%)",
+        "發動風屬性攻擊(5600%)",
+        "바람속성 피해(5600%)",
+        "Inflige des dégâts de vent (5600 %)",
+        "Fügt Windschaden zu<br>(5600%).",
+        "Inflige daño de viento (un 5600%)",
+        "Memberikan damage angin (5600%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a5600%)\u001a"
+    ],
+    "300002066": [
+        "Deals wind damage (6000%)",
+        "發動風屬性攻擊(6000%)",
+        "바람속성 피해(6000%)",
+        "Inflige des dégâts de vent (6000 %)",
+        "Fügt Windschaden zu<br>(6000%).",
+        "Inflige daño de viento (un 6000%)",
+        "Memberikan damage angin (6000%)",
+        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300002067": [
+        "Jumps and deals damage (5000%)",
+        "進行落下攻擊 (5000%)",
+        "점프 후 피해(5000%)",
+        "Saute et inflige des dégâts (5000 %)",
+        "Springt in die Luft und fügt Schaden zu<br>(5000%).",
+        "Salta e inflige daño (un 5000%)",
+        "Melompat ke udara, lalu memberikan damage (5000%)",
+        "กระโดด\u001aและ\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a5000%)\u001a"
+    ],
+    "300002068": [
+        "Jumps and deals damage (6000%)",
+        "進行落下攻擊 (6000%)",
+        "점프 후 피해(6000%)",
+        "Saute et inflige des dégâts (6000 %)",
+        "Springt in die Luft und fügt Schaden zu<br>(6000%)",
+        "Salta e inflige daño (un 6000%)",
+        "Melompat ke udara, lalu memberikan damage (6000%)",
+        "กระโดด\u001aและ\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a6000%)\u001a"
+    ],
+    "300002069": [
+        "Jumps and deals damage (7000%)",
+        "進行落下攻擊 (7000%)",
+        "점프 후 피해(7000%)",
+        "Saute et inflige des dégâts (7000 %)",
+        "Springt in die Luft und fügt Schaden zu<br>(7000%)",
+        "Salta e inflige daño (un 7000%)",
+        "Melompat ke udara, lalu memberikan damage (7000%)",
+        "กระโดด\u001aและ\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a7000%)\u001a"
+    ],
+    "300002070": [
+        "Jumps and deals damage (8000%)",
+        "進行落下攻擊 (8000%)",
+        "점프 후 피해(8000%)",
+        "Saute et inflige des dégâts (8000 %)",
+        "Springt in die Luft und fügt Schaden zu<br>(8000%).",
+        "Salta e inflige daño (un 8000%)",
+        "Melompat ke udara, lalu memberikan damage (8000%)",
+        "กระโดด\u001aและ\u001aสร้าง\u001aความเสียหาย\u001a \u001a(\u001a8000%)\u001a"
+    ],
+    "300002071": [
+        "Boosts damage of certain abilities (spineshatter dive 0+, true spineshatter dive 0: 6000%)",
+        "提高特定能力的傷害 (破碎衝零式·改、真破碎衝零式：6000%)",
+        "특정 어빌리티의 피해량 상승(개량형 척추 강타 0식, 진 척추 강타 0식: 6000%)",
+        "Augmente les dégâts de certaines aptitudes<br>(Piqué brise-échine style 0 +, Piqué brise-échine style 0 véritable : 6000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten<br>(Wirbelsprenger 0+, Wahrer Wirbelsprenger 0: 6000%).",
+        "Aumenta el daño de determinadas habilidades (Rompespaldas 0+, Rompespaldas 0 mortal: un 6000%)",
+        "Meningkatkan damage ability tertentu (Spineshatter Dive 0+, True Spineshatter Dive 0: 6000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001a0\u001a+,\u001a \u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001aท่า\u001aที่\u001aศูนย์\u001aที่\u001aแท้จริง\u001a:\u001a \u001a6000%)\u001a"
+    ],
+    "300002072": [
+        "Boosts damage of certain abilities (spineshatter dive 0+, true spineshatter dive 0: 7000%)",
+        "提高特定能力的傷害 (破碎衝零式·改、真破碎衝零式：7000%)",
+        "특정 어빌리티의 피해량 상승(개량형 척추 강타 0식, 진 척추 강타 0식: 7000%)",
+        "Augmente les dégâts de certaines aptitudes<br>(Piqué brise-échine style 0 +, Piqué brise-échine style 0 véritable : 7000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten<br>(Wirbelsprenger 0+, Wahrer Wirbelsprenger 0: 7000%).",
+        "Aumenta el daño de determinadas habilidades (Rompespaldas 0+, Rompespaldas 0 mortal: un 7000%)",
+        "Meningkatkan damage ability tertentu (Spineshatter Dive 0+, True Spineshatter Dive 0: 7000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001a0\u001a+,\u001a \u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001aท่า\u001aที่\u001aศูนย์\u001aที่\u001aแท้จริง\u001a:\u001a \u001a7000%)\u001a"
+    ],
+    "300002073": [
+        "Boosts damage of certain abilities (spineshatter dive 0+, true spineshatter dive 0: 8000%)",
+        "提高特定能力的傷害 (破碎衝零式·改、真破碎衝零式：8000%)",
+        "특정 어빌리티의 피해량 상승(개량형 척추 강타 0식, 진 척추 강타 0식: 8000%)",
+        "Augmente les dégâts de certaines aptitudes<br>(Piqué brise-échine style 0 +, Piqué brise-échine style 0 véritable : 8000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten<br>(Wirbelsprenger 0+, Wahrer Wirbelsprenger 0: 8000%).",
+        "Aumenta el daño de determinadas habilidades (Rompespaldas 0+, Rompespaldas 0 mortal: un 8000%)",
+        "Meningkatkan damage ability tertentu (Spineshatter Dive 0+, True Spineshatter Dive 0: 8000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001a0\u001a+,\u001a \u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001aท่า\u001aที่\u001aศูนย์\u001aที่\u001aแท้จริง\u001a:\u001a \u001a8000%)\u001a"
+    ],
+    "300002074": [
+        "Boosts damage of certain abilities (spineshatter dive 0+, true spineshatter dive 0: 9000%)",
+        "提高特定能力的傷害 (破碎衝零式·改、真破碎衝零式：9000%)",
+        "특정 어빌리티의 피해량 상승(개량형 척추 강타 0식, 진 척추 강타 0식: 9000%)",
+        "Augmente les dégâts de certaines aptitudes<br>(Piqué brise-échine style 0 +, Piqué brise-échine style 0 véritable : 9000 %)",
+        "Erhöht Schaden bestimmter Fertigkeiten<br>(Wirbelsprenger 0+, Wahrer Wirbelsprenger 0: 9000%).",
+        "Aumenta el daño de determinadas habilidades (Rompespaldas 0+, Rompespaldas 0 mortal: un 9000%)",
+        "Meningkatkan damage ability tertentu (Spineshatter Dive 0+, True Spineshatter Dive 0: 9000%)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a(\u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001a0\u001a+,\u001a \u001aดำ\u001aดิ่ง\u001aทะลวง\u001aสันหลัง\u001a \u001aท่า\u001aที่\u001aศูนย์\u001aที่\u001aแท้จริง\u001a:\u001a \u001a9000%)\u001a"
     ],
     "300002132": [
         "Deals earth magic damage (5000%)",
