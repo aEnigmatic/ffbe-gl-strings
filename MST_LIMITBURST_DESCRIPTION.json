@@ -9099,6 +9099,26 @@
         "Meningkatkan damage ability tertentu pada satu teman kecuali diri sendiri, meningkatkan damage ability tertentu pada diri sendiri, mengurangi resistansi petir dan memberikan damage magic petir pada semua musuh, serta meningkatkan damage ability tertentu pada semua teman",
         "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aยกเว้น\u001aตัวเอง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
+    "100038407": [
+        "Reduce ice resistance and damage one enemy",
+        "降低1名敵人的冰屬性耐性+發動攻擊",
+        "적 1명의 얼음속성 저항력 감소+피해",
+        "Réduit la résistance à la glace d'un ennemi et lui inflige des dégâts",
+        "Verringert Eisresistenz eines Gegners und fügt diesem Schaden zu.",
+        "Reduce la resistencia al hielo de un enemigo y lo daña",
+        "Mengurangi resistansi es dan memberikan damage pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100038417": [
+        "Reduce ice resistance and damage one enemy",
+        "降低1名敵人的冰屬性耐性+發動攻擊",
+        "적 1명의 얼음속성 저항력 감소+피해",
+        "Réduit la résistance à la glace d'un ennemi et lui inflige des dégâts",
+        "Verringert Eisresistenz eines Gegners und fügt diesem Schaden zu.",
+        "Reduce la resistencia al hielo de un enemigo y lo daña",
+        "Mengurangi resistansi es dan memberikan damage pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
     "100038607": [
         "Reduce resistance to large swords, DEF, and light resistance for all enemies, boost LB damage for caster, and deal light damage to all enemies",
         "降低全體敵人對大劍的耐性+降低防禦、光屬性耐性+提高自身極限技的傷害+對全體敵人發動光屬性攻擊",
@@ -9218,6 +9238,46 @@
         "Reduce la resistencia a látigos de todos los enemigos, aumenta ATQ, DEF, MAG, ESP y el daño del EL de todos los aliados y aumenta el daño de oscuridad de sus EL, habilidades y magia",
         "Mengurangi resistansi cambuk pada semua musuh, serta meningkatkan ATK, DEF, MAG, dan SPR, meningkatkan damage LB, dan meningkatkan damage kegelapan pada LB, ability, dan magic semua teman",
         "ลด\u001aพลัง\u001aต้านทาน\u001aแส้\u001aของ\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100039507": [
+        "Reduce wind resistance and resistance to maces for one enemy, boost LB damage for caster, deal wind magic damage to one enemy, and reduce own SPR and boost MAG for next attack and power up with consecutive use",
+        "降低1名敵人的風屬性耐性+降低對權杖的耐性+提高自身極限技的傷害+對1名敵人發動風屬性魔法攻擊+降低自身的精神+提高下次攻擊的魔力+連續使用時威力提升",
+        "적 1명의 바람속성 저항력 감소+메이스 저항력 감소+자신의 LB 피해량 상승+적 1명에게 바람속성 마법 피해+자신의 정신력 감소+다음 공격 시 마력 상승+연속 사용 시 위력 상승",
+        "Réduit la résistance au vent et la résistance aux masses d'un ennemi, augmente les dégâts de la limite du lanceur, inflige des dégâts magiques de vent à un ennemi, réduit la PSY du lanceur et augmente sa MAGIE pour sa prochaine attaque, et gagne en puissance à chaque utilisation consécutive",
+        "Verringert Windresistenz eines Gegners sowie dessen Resistenz gegen Kolben, erhöht Schaden des Benutzers durch Limitrausch, fügt einem Gegner magischen Windschaden zu, verringert PSY des Benutzers, erhöht dessen MAG für den nächsten Angriff und wird mit jeder Anwendung stärker.",
+        "Reduce la resistencia al viento y a mazas de un enemigo, aumenta el daño del El del usuario, inflige daño mágico de viento a un enemigo, reduce el ESP del usuario, aumenta su MAG al siguiente ataque y aumenta el daño con cada uso",
+        "Mengurangi resistansi angin dan dan resistansi gada pada satu musuh, meningkatkan damage LB pada diri sendiri, memberikan damage magic angin pada satu musuh, serta mengurangi SPR diri sendiri dan meningkatkan MAG serangan berikutnya, dan meningkatkan damage apabila digunakan secara beruntun",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aตะบอง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aSPR\u001a \u001aของ\u001aตัวเอง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aMAG\u001a \u001aสำหรับ\u001aการ\u001aโจมตี\u001aครั้ง\u001aต่อไป\u001aและ\u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+    ],
+    "100039517": [
+        "Reduce wind resistance and resistance to maces for one enemy, boost magic damage against plants and stone monsters for caster, and deal wind magic damage with boosted damage against plants and wind magic damage to one enemy",
+        "降低1名敵人的風屬性耐性+降低對權杖的耐性+賦予自身魔法攻擊時提高對植物岩石系魔物傷害的效果+對1名敵人發動提高對植物系魔物傷害的風屬性魔法攻擊+發動風屬性魔法攻擊",
+        "적 1명의 바람속성 저항력 감소+메이스 저항력 감소+자신에게 마법 공격 시 식물과 암석형 마물에 대한 피해량 상승 효과 부여+적 1명에게 바람속성 마법 피해, 식물형 마물에게 피해량 상승+바람속성 마법 피해",
+        "Réduit la résistance au vent et la résistance aux masses d'un ennemi, augmente les dégâts magiques du lanceur infligés aux plantes et aux monstres de pierre, inflige des dégâts magiques de vent avec augmentation des dégâts infligés aux plantes à un ennemi, et lui inflige des dégâts magiques de vent",
+        "Verringert Windresistenz eines Gegners sowie dessen Resistenz gegen Kolben, erhöht magischen Schaden des Benutzers gegen Pflanzen sowie Steinmonster, fügt einem Gegner magischen Windschaden zu, der für Pflanzen erhöht ist, und fügt einem Gegner magischen Windschaden zu.",
+        "Reduce la resistencia al viento y a mazas de un enemigo, aumenta el daño mágico del usuario contra plantoides y pétreos, inflige daño mágico de viento a un enemigo y mayor daño contra plantoides, y le inflige daño mágico de viento",
+        "Mengurangi resistansi angin dan dan resistansi gada pada satu musuh, meningkatkan damage magic diri sendiri terhadap jenis tumbuhan dan batu, serta memberikan damage magic angin dengan peningkatan damage terhadap jenis tumbuhan dan damage magic angin pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aตะบอง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aพืช\u001aและ\u001aศิลา\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aและ\u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aพืช\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100039607": [
+        "Reduce earth resistance and resistance to throwing weapons for one enemy, boost LB damage for caster, deal earth magic damage to one enemy, and reduce own SPR and boost MAG for next attack and power up with consecutive use",
+        "降低1名敵人的土屬性耐性+降低對投擲武器的耐性+提高自身極限技的傷害+對1名敵人發動土屬性魔法攻擊+降低自身的精神+提高下次攻擊的魔力+連續使用時威力提升",
+        "적 1명의 땅속성 저항력 감소+투척무기 저항력 감소+자신의 LB 피해량 상승+적 1명에게 땅속성 마법 피해+자신의 정신력 감소+다음 공격 시 마력 상승+연속 사용 시 위력 상승",
+        "Réduit la résistance à la terre et la résistance aux armes de jet d'un ennemi, augmente les dégâts de la limite du lanceur, inflige des dégâts magiques de terre à un ennemi, réduit la PSY du lanceur et augmente sa MAGIE pour sa prochaine attaque, et gagne en puissance à chaque utilisation consécutive",
+        "Verringert Erdresistenz eines Gegners sowie dessen Resistenz gegen Wurfwaffen, erhöht Schaden des Benutzers durch Limitrausch, fügt einem Gegner magischen Erdschaden zu, verringert PSY des Benutzers, erhöht dessen MAG für den nächsten Angriff und wird mit jeder Anwendung stärker.",
+        "Reduce la resistencia a la tierra y a armas arrojadizas de un enemigo, aumenta el daño del EL del usuario, inflige daño mágico de tierra a un enemigo, reduce el ESP del usuario, aumenta su MAG al siguiente ataque y aumenta el daño con cada uso",
+        "Mengurangi resistansi tanah dan dan resistansi senjata lempar pada satu musuh, meningkatkan damage LB pada diri sendiri, memberikan damage magic tanah pada satu musuh, serta mengurangi SPR diri sendiri dan meningkatkan MAG serangan berikutnya, dan meningkatkan damage apabila digunakan secara beruntun",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aอาวุธ\u001aขว้าง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aSPR\u001a \u001aของ\u001aตัวเอง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aMAG\u001a \u001aสำหรับ\u001aการ\u001aโจมตี\u001aครั้ง\u001aต่อไป\u001aและ\u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+    ],
+    "100039617": [
+        "Reduce earth resistance and resistance to throwing weapons and deal earth magic damage with boosted damage against reapers and earth magic damage to one enemy",
+        "降低1名敵人的土屬性耐性+降低對投擲武器的耐性+發動提高對死靈系魔物傷害的土屬性魔法攻擊+發動土屬性魔法攻擊",
+        "적 1명의 땅속성 저항력 감소+투척무기 저항력 감소+땅속성 마법 피해, 사령형 마물에게 피해량 상승+땅속성 마법 피해",
+        "Réduit la résistance à la terre et la résistance aux armes de jet d'un ennemi, lui inflige des dégâts magiques de terre avec augmentation des dégâts infligés aux morts-vivants et lui inflige des dégâts magiques de terre",
+        "Verringert Erdresistenz eines Gegners sowie dessen Resistenz gegen Wurfwaffen, fügt einem Gegner magischen Erdschaden zu, der für Untote erhöht ist, und fügt einem Gegner magischen Erdschaden zu.",
+        "Reduce la resistencia a la tierra y a armas arrojadizas de un enemigo, le inflige daño mágico de tierra y mayor daño contra muertos vivientes, y le inflige daño mágico de tierra",
+        "Mengurangi resistansi tanah dan dan resistansi senjata lempar, serta memberikan damage magic tanah dengan peningkatan damage terhadap jenis makhluk halus dan damage magic tanah pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aอาวุธ\u001aขว้าง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aและ\u001aเพิ่มค่า\u001aความเสียหาย\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "201000104": [
         "Deal light damage to all enemies",
