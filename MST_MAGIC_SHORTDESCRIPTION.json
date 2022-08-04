@@ -4,7 +4,7 @@
         "查看1名敵人的情報",
         "적 1명의 정보 확인",
         "Affiche les caractéristiques d'un ennemi",
-        "Informationen über einen Gegner ansehen",
+        "Informationen über einen Gegner ansehen.",
         "Mira la información de un enemigo",
         "Melihat informasi satu musuh",
         "ดู\u001aข้อมูล\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
@@ -580,24 +580,24 @@
         "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "20010": [
-        "Deal fire damage to one enemy",
-        "對1名敵人發動火屬性攻擊",
-        "적 1명에게 불속성 피해",
-        "Inflige des dégâts de feu à un ennemi",
-        "Fügt einem Gegner Feuerschaden zu.",
-        "Daño de fuego a un enemigo",
-        "Memberikan damage api pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal fire magic damage and reduce fire resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動火屬性魔法攻擊+降低火屬性耐性+增加自身的極限技槽",
+        "적 1명에게 불속성 마법 피해+불속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de feu à un ennemi, réduit sa résistance au feu et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Feuerschaden zu, verringert dessen Feuerresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de fuego a un enemigo y reduce su resistencia al fuego, y rellena la barra de EL del usuario",
+        "Memberikan damage magic api dan mengurangi resistansi api pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20020": [
-        "Deal ice damage to one enemy",
-        "對1名敵人發動冰屬性攻擊",
-        "적 1명에게 얼음속성 피해",
-        "Inflige des dégâts de glace à un ennemi",
-        "Fügt einem Gegner Eisschaden zu.",
-        "Daño de hielo a un enemigo",
-        "Memberikan damage es pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal ice magic damage and reduce ice resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動冰屬性魔法攻擊+降低冰屬性耐性+增加自身的極限技槽",
+        "적 1명에게 얼음속성 마법 피해+얼음속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de glace à un ennemi, réduit sa résistance à la glace et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Eisschaden zu, verringert dessen Eisresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de hielo a un enemigo y reduce su resistencia al hielo, y rellena la barra de EL del usuario",
+        "Memberikan damage magic es dan mengurangi resistansi es pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20030": [
         "Deal lightning magic damage and reduce lightning resistance for one enemy, and fill own LB gauge",
@@ -610,34 +610,34 @@
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20040": [
-        "Deal water damage to one enemy",
-        "對1名敵人發動水屬性攻擊",
-        "적 1명에게 물속성 피해",
-        "Inflige des dégâts d'eau à un ennemi",
-        "Fügt einem Gegner Wasserschaden zu.",
-        "Daño de agua a un enemigo",
-        "Memberikan damage air pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal water magic damage and reduce water resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動水屬性魔法攻擊+降低水屬性耐性+增加自身的極限技槽",
+        "적 1명에게 물속성 마법 피해+물속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques d'eau à un ennemi, réduit sa résistance à l'eau et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Wasserschaden zu, verringert dessen Wasserresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de agua a un enemigo y reduce su resistencia al agua, y rellena la barra de EL del usuario",
+        "Memberikan damage magic air dan mengurangi resistansi air pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20050": [
-        "Deal wind damage to one enemy",
-        "對1名敵人發動風屬性攻擊",
-        "적 1명에게 바람속성 피해",
-        "Inflige des dégâts de vent à un ennemi",
-        "Fügt einem Gegner Windschaden zu.",
-        "Daño de viento a un enemigo",
-        "Memberikan damage angin pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal wind magic damage and reduce wind resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動風屬性魔法攻擊+降低風屬性耐性+增加自身的極限技槽",
+        "적 1명에게 바람속성 마법 피해+바람속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de vent à un ennemi, réduit sa résistance au vent et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Windschaden zu, verringert dessen Windresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de viento a un enemigo y reduce su resistencia al viento, y rellena la barra de EL del usuario",
+        "Memberikan damage magic angin dan mengurangi resistansi angin pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aลม\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20060": [
-        "Deal earth damage to one enemy",
-        "對1名敵人發動土屬性攻擊",
-        "적 1명에게 땅속성 피해",
-        "Inflige des dégâts de terre à un ennemi",
-        "Fügt einem Gegner Erdschaden zu.",
-        "Daño de tierra a un enemigo",
-        "Memberikan damage tanah pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal earth magic damage and reduce earth resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動土屬性魔法攻擊+降低土屬性耐性+增加自身的極限技槽",
+        "적 1명에게 땅속성 마법 피해+땅속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de terre à un ennemi, réduit sa résistance à la terre et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Erdschaden zu, verringert dessen Erdresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de tierra a un enemigo y reduce su resistencia a la tierra, y rellena la barra de EL del usuario",
+        "Memberikan damage magic tanah dan mengurangi resistansi tanah pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20070": [
         "Deal dark magic damage and gradual magic damage, and chance of poisoning one enemy",
@@ -1020,14 +1020,14 @@
         "สร้าง\u001aความเสียหาย\u001aด้วย\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aให้\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "20450": [
-        "Deal dark damage to one enemy",
-        "對1名敵人發動暗屬性攻擊",
-        "적 1명에게 어둠속성 피해",
-        "Dégâts de ténèbres sur un ennemi",
-        "Fügt einem Gegner Dunkelschaden zu.",
-        "Daño de oscuridad a un enemigo",
-        "Memberikan damage kegelapan pada satu musuh",
-        "สร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+        "Deal dark magic damage and reduce dark resistance for one enemy, and fill own LB gauge",
+        "對1名敵人發動暗屬性魔法攻擊+降低暗屬性耐性+增加自身的極限技槽",
+        "적 1명에게 어둠속성 마법 피해+어둠속성 저항력 감소+자신의 LB 게이지 증가",
+        "Inflige des dégâts magiques de ténèbres à un ennemi, réduit sa résistance aux ténèbres et remplit la jauge de limite du lanceur",
+        "Fügt einem Gegner magischen Dunkelschaden zu, verringert dessen Dunkelresistenz und füllt Limitmeter des Benutzers.",
+        "Daño mágico de oscuridad a un enemigo y reduce su resistencia a la oscuridad, y rellena la barra de EL del usuario",
+        "Memberikan damage magic kegelapan dan mengurangi resistansi kegelapan pada satu musuh, serta mengisi bar LB diri sendiri",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
     ],
     "20460": [
         "Deal dark magic damage to all enemies",
@@ -1388,6 +1388,16 @@
         "Reduce ATQ, DEF, MAG y ESP de todos los enemigos y probabilidad de infligirles enfermedad",
         "Mengurangi ATK, DEF, MAG, dan SPR, serta peluang untuk memberikan status disease pada semua musuh",
         "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aทุกราย\u001aติด\u001aสถานะ\u001a \u001aDisease\u001a"
+    ],
+    "20880": [
+        "Activate barrier and boost resistance to disease for one ally",
+        "賦予1名隊員屏障效果+提高生病耐性",
+        "아군 1명에게 배리어 부여+질병 저항력 상승",
+        "Érige une barrière autour d'un allié et augmente sa résistance à maladie",
+        "Aktiviert Barriere für einen Verbündeten und erhöht dessen Resistenz gegen Virus.",
+        "Activa Barrera a un aliado y aumenta su resistencia a enfermedad",
+        "Mengaktifkan barier dan meningkatkan resistansi status disease pada satu teman",
+        "กาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aDisease\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "30010": [
         "Chance of putting one enemy to sleep",
@@ -2089,6 +2099,16 @@
         "Menambahkan elemen kegelapan pada serangan fisik, serta meningkatkan damage kegelapan pada LB, ability, dan magic semua teman",
         "เพิ่ม\u001aพลัง\u001aธาตุ\u001aมืด\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "30660": [
+        "Add fire element to physical attack and boost fire damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予火屬性+提高火屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 불속성 부여+불속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément feu aux attaques physiques de tous les alliés et augmente les dégâts de feu de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Feuerelement hinzu und erhöht deren Feuerschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento fuego a los ataques físicos de todos los aliados y aumenta el daño de fuego de sus EL, habilidades y magia",
+        "Menambahkan elemen api pada serangan fisik, serta meningkatkan damage api pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aไฟ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
     "30670": [
         "Add ice element to physical attack and boost ice damage of LB, abilities, and magic for all allies",
         "將全體隊員的物理攻擊賦予冰屬性+提高冰屬性「極限技、能力、魔法」的傷害",
@@ -2108,6 +2128,16 @@
         "Añade elemento oscuridad a los ataques físicos de todos los aliados y aumenta el daño de oscuridad de sus EL, habilidades y magia",
         "Menambahkan elemen kegelapan pada serangan fisik, serta meningkatkan damage kegelapan pada LB, ability, dan magic semua teman",
         "เพิ่ม\u001aพลัง\u001aธาตุ\u001aมืด\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "30731": [
+        "Add fire element to physical attack and boost fire damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予火屬性+提高火屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 불속성 부여+불속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément feu aux attaques physiques de tous les alliés et augmente les dégâts de feu de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Feuerelement hinzu und erhöht deren Feuerschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento fuego a los ataques físicos de todos los aliados y aumenta el daño de fuego de sus EL, habilidades y magia",
+        "Menambahkan elemen api pada serangan fisik, serta meningkatkan damage api pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aไฟ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "30740": [
         "Activate barrier for all allies",
@@ -3799,6 +3829,16 @@
         "Mengisi bar LB semua teman",
         "เติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
+    "70526": [
+        "Boost SPR, reduce magic damage taken, and reduce damage taken for all allies",
+        "提高全體隊員的精神+減少魔法傷害+減少傷害",
+        "아군 전체의 정신력 상승+마법 피해량 감소+피해량 감소",
+        "Augmente la PSY de tous les alliés, réduit les dégâts magiques qu'ils subissent et réduit les dégâts qu'ils subissent",
+        "Erhöht PSY aller Verbündeten, verringert deren erlitten magischen Schaden und verringert deren erlittenen Schaden.",
+        "Aumenta el ESP de todos los aliados, reduce el daño mágico que reciben y reduce el daño que reciben",
+        "Meningkatkan SPR, serta mengurangi damage magic dan damage yang diterima semua teman",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001a"
+    ],
     "70527": [
         "Deal earth magic damage to all enemies",
         "對全體敵人發動土屬性魔法攻擊",
@@ -3868,6 +3908,26 @@
         "Daño mágico de rayo a un enemigo y reduce su resistencia al rayo, y rellena la barra de EL del usuario",
         "Memberikan damage magic petir dan mengurangi resistansi petir pada satu musuh, serta mengisi bar LB diri sendiri",
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aตัวเอง\u001a"
+    ],
+    "70540": [
+        "Activate barrier and boost resistance to disease for one ally",
+        "賦予1名隊員屏障效果+提高生病耐性",
+        "아군 1명에게 배리어 부여+질병 저항력 상승",
+        "Érige une barrière autour d'un allié et augmente sa résistance à maladie",
+        "Aktiviert Barriere für einen Verbündeten und erhöht dessen Resistenz gegen Virus.",
+        "Activa Barrera a un aliado y aumenta su resistencia a enfermedad",
+        "Mengaktifkan barier dan meningkatkan resistansi status disease pada satu teman",
+        "กาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aDisease\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "70541": [
+        "Activate barrier and boost resistance to disease for one ally",
+        "賦予1名隊員屏障效果+提高生病耐性",
+        "아군 1명에게 배리어 부여+질병 저항력 상승",
+        "Érige une barrière autour d'un allié et augmente sa résistance à maladie",
+        "Aktiviert Barriere für einen Verbündeten und erhöht dessen Resistenz gegen Virus.",
+        "Activa Barrera a un aliado y aumenta su resistencia a enfermedad",
+        "Mengaktifkan barier dan meningkatkan resistansi status disease pada satu teman",
+        "กาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aDisease\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "91000": [
         "Gradually restore HP for one ally",
