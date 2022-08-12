@@ -394,7 +394,7 @@
         "解除全體隊員的攻擊降低效果",
         "아군 전체의 공격력 감소 효과 해제",
         "Retire la réduction de l'ATT à tous les alliés",
-        "Entfernt ANG-Verringerung für alle Verb.",
+        "Entfernt ANG-Verringerung für alle Verbündeten.",
         "Elimina la reducción de ATQ a todos los aliados",
         "Menghilangkan efek pengurangan ATK dari semua teman",
         "ยกเลิก\u001aการถู\u001aกลด\u001aค่า\u001a \u001aATK\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -414,7 +414,7 @@
         "解除全體隊員的防禦降低效果",
         "아군 전체의 방어력 감소 효과 해제",
         "Retire la réduction de la DEF à tous les alliés",
-        "Entfernt ABW-Verringerung für alle Verb.",
+        "Entfernt ABW-Verringerung für alle Verbündeten.",
         "Elimina la reducción de DEF a todos los aliados",
         "Menghilangkan efek pengurangan DEF dari semua teman",
         "ยกเลิก\u001aการถู\u001aกลด\u001aค่า\u001a \u001aDEF\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -433,8 +433,8 @@
         "Remove MAG reduction for all allies",
         "解除全體隊員的魔力降低效果",
         "아군 전체의 마력 감소 효과 해제",
-        "Retire la réduction de le la MAGIE à tous les alliés",
-        "Entfernt MAG-Verringerung für alle Verb.",
+        "Retire la réduction de la MAGIE à tous les alliés",
+        "Entfernt MAG-Verringerung für alle Verbündeten.",
         "Elimina la reducción de MAG a todos los aliados",
         "Menghilangkan efek pengurangan MAG dari semua teman",
         "ยกเลิก\u001aการถู\u001aกลด\u001aค่า\u001a \u001aMAG\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -454,7 +454,7 @@
         "解除全體隊員的精神降低效果",
         "아군 전체의 정신력 감소 효과 해제",
         "Retire la réduction de la PSY à tous les alliés",
-        "Entfernt PSY-Verringerung für alle Verb.",
+        "Entfernt PSY-Verringerung für alle Verbündeten.",
         "Elimina la reducción de ESP a todos los aliados",
         "Menghilangkan efek pengurangan SPR dari semua teman",
         "ยกเลิก\u001aการถู\u001aกลด\u001aค่า\u001a \u001aSPR\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
@@ -2069,6 +2069,16 @@
         "Menambahkan elemen petir pada serangan fisik, serta meningkatkan damage petir pada LB, ability, dan magic semua teman",
         "เพิ่ม\u001aพลัง\u001aธาตุ\u001aสายฟ้า\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
+    "30610": [
+        "Add water element to physical attack and boost water damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予水屬性+提高水屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 물속성 부여+물속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément eau aux attaques physiques de tous les alliés et augmente les dégâts d'eau de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Wasserelement hinzu und erhöht deren Wasserschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento agua a los ataques físicos de todos los aliados y aumenta el daño de agua de sus EL, habilidades y magia",
+        "Menambahkan elemen air pada serangan fisik, serta meningkatkan damage air pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aน้ำ\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
     "30630": [
         "Add earth element to physical attack and boost earth damage of LB, abilities, and magic for all allies",
         "將全體隊員的物理攻擊賦予土屬性+提高土屬性「極限技、能力、魔法」的傷害",
@@ -3170,6 +3180,16 @@
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70453": [
+        "Deal water magic damage to all enemies",
+        "對全體敵人發動水屬性魔法攻擊",
+        "적 전체에 물속성 마법 피해",
+        "Inflige des dégâts magiques d'eau à tous les ennemis",
+        "Fügt allen Gegnern magischen Wasserschaden zu.",
+        "Daño mágico de agua a todos los enemigos",
+        "Memberikan damage magic air pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "70454": [
         "Deal water magic damage to all enemies",
         "對全體敵人發動水屬性魔法攻擊",
         "적 전체에 물속성 마법 피해",
