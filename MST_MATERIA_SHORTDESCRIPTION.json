@@ -3714,7 +3714,7 @@
         "提高15%HPMP+發動召喚魔法時提高10%幻獸狀態",
         "HP와 MP 15% 상승+소환마법 사용 시 환수 능력치 10% 상승",
         "Augmente les PV et les PM de 15% et augmente les caractéristiques des chimères de 10%",
-        "Erhöht LP und MP um 15% und erhöht die Werte gerufener Esper um 10%",
+        "Erhöht LP sowie MP um 15% und erhöht die Werte gerufener Esper um 10%.",
         "Aumenta VIT y PM un 15%, potencia a espers invocados un 10%",
         "Meningkatkan HP dan MP sebanyak 15%, serta parameter esper yang dipanggil sebanyak 10%",
         "เพิ่มค่า\u001a \u001aHP\u001a \u001aและ\u001a \u001aMP\u001a \u001a15% + เพิ่มค่าสเตตัสของ Esper\u001a \u001aที่\u001aเรียก\u001aมา\u001a \u001a10%"
@@ -10118,6 +10118,116 @@
         "Aumenta el ATQ un 50%, y aumenta el ATQ del equipo un 150% al llevar una sola arma en ambas manos (no acumulable)",
         "Meningkatkan ATK sebanyak 50% dan meningkatkan ATK perlengkapan sebanyak 150% ketika 1 senjata digunakan dengan kedua tangan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001a50% + เพิ่มค่า ATK\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a150% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243710": [
+        "(One use every 5 turns) Boost damage of certain LBs for caster (Not stackable)",
+        "【每5回合可使用1次】提高自身特定極限技的傷害[無法重複裝備]",
+        "[5턴에 1회 사용 가능] 자신의 특정 LB의 피해량 상승(중복 장착 불가)",
+        "(Une fois tous les 5 tours) Augmente les dégâts de certaines limites du lanceur (non cumulable)",
+        "(Einmal in 5 Runden) Erhöht Schaden des Benutzers durch bestimmte Limiträusche (nicht stapelbar).",
+        "(Un uso cada 5 turnos) Aumenta el daño de determinados EL del usuario (no acumulable)",
+        "(1 kali penggunaan setiap 5 giliran) Meningkatkan damage LB tertentu pada diri sendiri (Tidak dapat ditumpuk)",
+        "(\u001aใช้ได้\u001a \u001a1\u001a \u001aครั้ง\u001aทุก\u001a \u001a5\u001a \u001aเทิร์น)\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243737": [
+        "Boost LB damage by 10%, and boost equipment ATK, DEF, MAG, and SPR by 10% when a single weapon is equipped in one or both hands (FFX and FFX-2 units only)",
+        "提高10%極限技的傷害+只裝備1把武器時武具攻擊防禦魔力精神提升10%(FFX、FFX-2兵員專屬)",
+        "LB 피해량 10% 상승+한손 또는 양손에 무기 1개 장착 시 장비의 공격력, 방어력, 마력, 정신력 10% 상승(FFX, FFX-2 유닛 전용)",
+        "Augmente les dégâts de la limite de 10 %, et augmente l'ATT, la DEF, la MAGIE et la PSY de l'équipement de 10 % quand une seule arme est équipée dans une ou les deux mains (unités de FFX et FFX-2 uniquement)",
+        "Erhöht Schaden durch Limitrausch um 10% und erhöht Ausrüstung-ANG, -ABW, -MAG sowie -PSY um 10%, wenn eine einzelne Waffe in einer oder beiden Händen ausgerüstet ist (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño del EL un 10%, y aumenta ATQ, DEF, MAG y ESP del equipo un 10% al llevar una sola arma en una o ambas manos (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage LB sebanyak 10%, serta meningkatkan ATK, DEF, MAG, dan SPR perlengkapan sebanyak 10% ketika 1 senjata digunakan dengan satu tangan atau kedua tangan (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a10% + เพิ่มค่า ATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a10% เมื่อติดตั้งอาวุธ 1 ชิ้นในมือเดียวหรือสองมือ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243738": [
+        "Boost LB damage by 15%, and boost equipment ATK, DEF, MAG, and SPR by 15% when a single weapon is equipped in one or both hands (FFX and FFX-2 units only)",
+        "提高15%極限技的傷害+只裝備1把武器時武具攻擊防禦魔力精神提升15%(FFX、FFX-2兵員專屬)",
+        "LB 피해량 15% 상승+한손 또는 양손에 무기 1개 장착 시 장비의 공격력, 방어력, 마력, 정신력 15% 상승(FFX, FFX-2 유닛 전용)",
+        "Augmente les dégâts de la limite de 15 %, et augmente l'ATT, la DEF, la MAGIE et la PSY de l'équipement de 15 % quand une seule arme est équipée dans une ou les deux mains (unités de FFX et FFX-2 uniquement)",
+        "Erhöht Schaden durch Limitrausch um 15% und erhöht Ausrüstung-ANG, -ABW, -MAG sowie -PSY um 15%, wenn eine einzelne Waffe in einer oder beiden Händen ausgerüstet ist (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño del EL un 15%, y aumenta ATQ, DEF, MAG y ESP del equipo un 15% al llevar una sola arma en una o ambas manos (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage LB sebanyak 15%, serta meningkatkan ATK, DEF, MAG, dan SPR perlengkapan sebanyak 15% ketika 1 senjata digunakan dengan satu tangan atau kedua tangan (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a15% + เพิ่มค่า ATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a15% เมื่อติดตั้งอาวุธ 1 ชิ้นในมือเดียวหรือสองมือ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243739": [
+        "Boost LB damage by 25%, and boost equipment ATK, DEF, MAG, and SPR by 25% when a single weapon is equipped in one or both hands (FFX and FFX-2 units only)",
+        "提高25%極限技的傷害+只裝備1把武器時武具攻擊防禦魔力精神提升25%(FFX、FFX-2兵員專屬)",
+        "LB 피해량 25% 상승+한손 또는 양손에 무기 1개 장착 시 장비의 공격력, 방어력, 마력, 정신력 25% 상승(FFX, FFX-2 유닛 전용)",
+        "Augmente les dégâts de la limite de 25 %, et augmente l'ATT, la DEF, la MAGIE et la PSY de l'équipement de 25 % quand une seule arme est équipée dans une ou les deux mains (unités de FFX et FFX-2 uniquement)",
+        "Erhöht Schaden durch Limitrausch um 25% und erhöht Ausrüstung-ANG, -ABW, -MAG sowie -PSY um 25%, wenn eine einzelne Waffe in einer oder beiden Händen ausgerüstet ist (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño del EL un 25%, y aumenta ATQ, DEF, MAG y ESP del equipo un 25% al llevar una sola arma en una o ambas manos (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage LB sebanyak 25%, serta meningkatkan ATK, DEF, MAG, dan SPR perlengkapan sebanyak 25% ketika 1 senjata digunakan dengan satu tangan atau kedua tangan (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a25% + เพิ่มค่า ATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a25% เมื่อติดตั้งอาวุธ 1 ชิ้นในมือเดียวหรือสองมือ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243740": [
+        "Boost LB damage by 30%, and boost equipment ATK, DEF, MAG, and SPR by 30% when a single weapon is equipped in one or both hands (FFX and FFX-2 units only)",
+        "提高30%極限技的傷害+只裝備1把武器時武具攻擊防禦魔力精神提升30%(FFX、FFX-2兵員專屬)",
+        "LB 피해량 30% 상승+한손 또는 양손에 무기 1개 장착 시 장비의 공격력, 방어력, 마력, 정신력 30% 상승(FFX, FFX-2 유닛 전용)",
+        "Augmente les dégâts de la limite de 30 %, et augmente l'ATT, la DEF, la MAGIE et la PSY de l'équipement de 30 % quand une seule arme est équipée dans une ou les deux mains (unités de FFX et FFX-2 uniquement)",
+        "Erhöht Schaden durch Limitrausch um 30% und erhöht Ausrüstung-ANG, -ABW, -MAG sowie -PSY um 30%, wenn eine einzelne Waffe in einer oder beiden Händen ausgerüstet ist (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño del EL un 30%, y aumenta ATQ, DEF, MAG y ESP del equipo un 30% al llevar una sola arma en una o ambas manos (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage LB sebanyak 30%, serta meningkatkan ATK, DEF, MAG, dan SPR perlengkapan sebanyak 30% ketika 1 senjata digunakan dengan satu tangan atau kedua tangan (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a30% + เพิ่มค่า ATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a30% เมื่อติดตั้งอาวุธ 1 ชิ้นในมือเดียวหรือสองมือ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243741": [
+        "Boost LB damage by 50%, and boost equipment ATK, DEF, MAG, and SPR by 50% when a single weapon is equipped in one or both hands (FFX and FFX-2 units only)",
+        "提高50%極限技的傷害+只裝備1把武器時武具攻擊防禦魔力精神提升50%(FFX、FFX-2兵員專屬)",
+        "LB 피해량 50% 상승+한손 또는 양손에 무기 1개 장착 시 장비의 공격력, 방어력, 마력, 정신력 50% 상승(FFX, FFX-2 유닛 전용)",
+        "Augmente les dégâts de la limite de 50 %, et augmente l'ATT, la DEF, la MAGIE et la PSY de l'équipement de 50 % quand une seule arme est équipée dans une ou les deux mains (unités de FFX et FFX-2 uniquement)",
+        "Erhöht Schaden durch Limitrausch um 50% und erhöht Ausrüstung-ANG, -ABW, -MAG sowie -PSY um 50%, wenn eine einzelne Waffe in einer oder beiden Händen ausgerüstet ist (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño del EL un 50%, y aumenta ATQ, DEF, MAG y ESP del equipo un 50% al llevar una sola arma en una o ambas manos (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage LB sebanyak 50%, serta meningkatkan ATK, DEF, MAG, dan SPR perlengkapan sebanyak 50% ketika 1 senjata digunakan dengan satu tangan atau kedua tangan (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a50% + เพิ่มค่า ATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a50% เมื่อติดตั้งอาวุธ 1 ชิ้นในมือเดียวหรือสองมือ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243742": [
+        "Boost physical and magic damage against reapers by 30% for caster at the beginning of battle (FFX and FFX-2 units only)",
+        "戰鬥開始時賦予自身物理、魔法攻擊時提高30%對死靈系魔物傷害的效果(FFX、FFX-2兵員專屬)",
+        "전투 시작 시 자신에게 물리, 마법 공격 시 사령형 마물에 대한 피해량 30% 상승 효과 부여(FFX, FFX-2 유닛 전용)",
+        "Augmente de 30 % les dégâts physiques et magiques infligés aux morts-vivants par le lanceur au début du combat (unités de FFX et FFX-2 uniquement)",
+        "Erhöht zu Beginn des Kampfes physischen und magischen Schaden des Benutzers gegen Untote um 30% (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño físico y mágico del usuario contra muertos vivientes un 30% al inicio del combate (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk halus sebanyak 30% di awal battle (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a30% เมื่อเริ่มต้นการต่อสู้ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243743": [
+        "Boost physical and magic damage against reapers by 50% for caster at the beginning of battle (FFX and FFX-2 units only)",
+        "戰鬥開始時賦予自身物理、魔法攻擊時提高50%對死靈系魔物傷害的效果(FFX、FFX-2兵員專屬)",
+        "전투 시작 시 자신에게 물리, 마법 공격 시 사령형 마물에 대한 피해량 50% 상승 효과 부여(FFX, FFX-2 유닛 전용)",
+        "Augmente de 50 % les dégâts physiques et magiques infligés aux morts-vivants par le lanceur au début du combat (unités de FFX et FFX-2 uniquement)",
+        "Erhöht zu Beginn des Kampfes physischen und magischen Schaden des Benutzers gegen Untote um 50% (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño físico y mágico del usuario contra muertos vivientes un 50% al inicio del combate (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk halus sebanyak 50% di awal battle (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a50% เมื่อเริ่มต้นการต่อสู้ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243744": [
+        "Boost physical and magic damage against reapers by 75% for caster at the beginning of battle (FFX and FFX-2 units only)",
+        "戰鬥開始時賦予自身物理、魔法攻擊時提高75%對死靈系魔物傷害的效果(FFX、FFX-2兵員專屬)",
+        "전투 시작 시 자신에게 물리, 마법 공격 시 사령형 마물에 대한 피해량 75% 상승 효과 부여(FFX, FFX-2 유닛 전용)",
+        "Augmente de 75 % les dégâts physiques et magiques infligés aux morts-vivants par le lanceur au début du combat (unités de FFX et FFX-2 uniquement)",
+        "Erhöht zu Beginn des Kampfes physischen und magischen Schaden des Benutzers gegen Untote um 75% (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño físico y mágico del usuario contra muertos vivientes un 75% al inicio del combate (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk halus sebanyak 75% di awal battle (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a75% เมื่อเริ่มต้นการต่อสู้ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243745": [
+        "Boost physical and magic damage against reapers by 100% for caster at the beginning of battle (FFX and FFX-2 units only)",
+        "戰鬥開始時賦予自身物理、魔法攻擊時提高100%對死靈系魔物傷害的效果(FFX、FFX-2兵員專屬)",
+        "전투 시작 시 자신에게 물리, 마법 공격 시 사령형 마물에 대한 피해량 100% 상승 효과 부여(FFX, FFX-2 유닛 전용)",
+        "Augmente de 100 % les dégâts physiques et magiques infligés aux morts-vivants par le lanceur au début du combat (unités de FFX et FFX-2 uniquement)",
+        "Erhöht zu Beginn des Kampfes physischen und magischen Schaden des Benutzers gegen Untote um 100% (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño físico y mágico del usuario contra muertos vivientes un 100% al inicio del combate (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk halus sebanyak 100% di awal battle (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a100% เมื่อเริ่มต้นการต่อสู้ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
+    ],
+    "504243746": [
+        "Boost physical and magic damage against reapers by 180% for caster at the beginning of battle (FFX and FFX-2 units only)",
+        "戰鬥開始時賦予自身物理、魔法攻擊時提高180%對死靈系魔物傷害的效果(FFX、FFX-2兵員專屬)",
+        "전투 시작 시 자신에게 물리, 마법 공격 시 사령형 마물에 대한 피해량 180% 상승 효과 부여(FFX, FFX-2 유닛 전용)",
+        "Augmente de 180 % les dégâts physiques et magiques infligés aux morts-vivants par le lanceur au début du combat (unités de FFX et FFX-2 uniquement)",
+        "Erhöht zu Beginn des Kampfes physischen und magischen Schaden des Benutzers gegen Untote um 180% (nur FFX- und FFX-2-Einheiten).",
+        "Aumenta el daño físico y mágico del usuario contra muertos vivientes un 180% al inicio del combate (solo unidades de FFX y FFX-2)",
+        "Meningkatkan damage fisik dan magic diri sendiri terhadap jenis makhluk halus sebanyak 180% di awal battle (Khusus unit FFX dan FFX-2)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aผู้ใช้\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aภูตผี\u001a \u001a180% เมื่อเริ่มต้นการต่อสู้ (ยูนิท FFX\u001a \u001aและ\u001a \u001aFFX-\u001a2\u001a \u001aเท่านั้น\u001a)\u001a"
     ],
     "504400110": [
         "Halve chance of encounters",
