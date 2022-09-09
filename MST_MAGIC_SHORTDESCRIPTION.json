@@ -714,7 +714,7 @@
         "對1名敵人造成現有HP1/2的傷害",
         "적 1명에게 현재 HP의 1/2 피해",
         "Inflige des dégâts à un ennemi équivalents à 1/2 de ses PV actuels",
-        "Halbiert LP, ein Ziel",
+        "Fügt einem Gegner Schaden in Höhe der Hälfte seiner derzeitigen LP zu.",
         "Reduce a la mitad la VIT de un enemigo",
         "Mengurangi 1/2 HP satu musuh",
         "สร้าง\u001aความเสียหาย\u001aให้\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001aลดลง\u001a \u001a1\u001a/\u001a2\u001a"
@@ -2618,6 +2618,46 @@
         "Aumenta la resistencia a fuego, hielo y rayo de todos los enemigos y aliados",
         "Meningkatkan resistansi api, es, dan petir pada semua musuh dan teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001aและ\u001aสายฟ้า\u001aของ\u001aศัตรู\u001aและ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "40450": [
+        "Restore HP and gradually restore HP for all allies",
+        "恢復全體隊員的HP+持續恢復HP",
+        "아군 전체의 HP 회복+HP 서서히 회복",
+        "Restaure les PV de tous les alliés et restaure progressivement leurs PV",
+        "Regeneriert LP und regeneriert allmählich LP für alle Verbündeten.",
+        "Recupera VIT de todos los aliados y les recupera VIT poco a poco",
+        "Memulihkan HP dan memulihkan HP semua teman secara bertahap",
+        "ฟื้นฟู\u001a \u001aHP\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "40460": [
+        "Chance of inflicting poison, blind, sleep or silence on all enemies",
+        "一定機率對全體敵人施加中毒失明睡眠沉默效果",
+        "적 전체에 일정 확률로 독, 암흑, 수면, 침묵 부여",
+        "Confère une chance d'infliger poison, cécité, sommeil ou silence à tous les ennemis",
+        "Chance allen Gegnern Gift, Blind, Schlaf oder Stille zuzufügen.",
+        "Probabilidad de infligir veneno, ceguera, sueño, silencio y enfermedad a todos los enemigos",
+        "Peluang untuk memberikan status poison, blind, sleep, atau silence pada semua musuh",
+        "มีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a \u001aหรือ\u001a \u001aSilence\u001a \u001aทุกราย\u001a"
+    ],
+    "40470": [
+        "Boost DEF, SPR, and fire, lightning, and water resistance and reduce damage taken by all allies",
+        "提高全體隊員的防禦精神、火雷水屬性耐性+減少傷害",
+        "아군 전체의 방어력, 정신력과 불, 번개, 물속성 저항력 상승+아군 전체가 받는 피해량 감소",
+        "Augmente la DEF, la PSY et la résistance au feu, à la foudre et à l'eau de tous les alliés et réduit les dégâts qu'ils subissent",
+        "Erhöht ABW sowie PSY aller Verbündeten, erhöht deren Feuer-, Blitz- sowie Wasserresistenz und verringert deren erlittenen Schaden.",
+        "Aumenta la DEF, el ESP y la resistencia a fuego, rayo y agua de todos los aliados y reduce el daño que reciben",
+        "Meningkatkan DEF, SPR, resistansi api, petir, dan air, serta mengurangi damage yang diterima semua teman",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aสายฟ้า\u001aและ\u001aน้ำ\u001a \u001aและ\u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aได้รับ\u001a"
+    ],
+    "40480": [
+        "Chance of inflicting stone on all enemies",
+        "一定機率對全體敵人施加石化效果",
+        "적 전체에 일정 확률로 석화 부여",
+        "Confère une chance d'infliger pétrification à tous les ennemis",
+        "Chance, allen Gegnern Stein zuzufügen.",
+        "Probabilidad de infligir piedra a todos los enemigos",
+        "Peluang untuk memberikan status petrify pada semua musuh",
+        "มีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStone\u001a \u001aทุกราย\u001a"
     ],
     "70010": [
         "Deal lightning magic damage to all enemies",

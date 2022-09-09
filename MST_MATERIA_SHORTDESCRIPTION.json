@@ -324,7 +324,7 @@
         "對1名敵人造成現有HP1/2的傷害",
         "적 1명에게 현재 HP의 1/2 피해",
         "Inflige des dégâts à un ennemi équivalents à 1/2 de ses PV actuels",
-        "Halbiert LP, ein Ziel",
+        "Fügt einem Gegner Schaden in Höhe der Hälfte seiner derzeitigen LP zu.",
         "Inflige daño a un enemigo equivalente a la mitad de su VIT actual",
         "Mengurangi 1/2 HP satu musuh",
         "สร้าง\u001aความเสียหาย\u001aให้\u001aค่า\u001a \u001aHP\u001a \u001aของ\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001aลดลง\u001a \u001a1\u001a/\u001a2\u001a"
@@ -1070,11 +1070,11 @@
         "ยู\u001aนิ\u001aทสา\u001aมา\u001aรถ\u001aถือ\u001aโล่\u001aหนัก\u001aได้\u001a"
     ],
     "504101000": [
-        "Boost physical damage against plants (Not stackable)",
+        "Boost physical damage against plants by 50% (Not stackable)",
         "物理攻擊時提高對植物系魔物的傷害[無法重複裝備]",
         "물리 공격 시 식물형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
         "Augmente les dégâts physiques infligés aux plantes (non cumulable)",
-        "Mehr physischer Schaden gegen Pflanzenmonster (Nicht stapelbar)",
+        "Erhöht physischen Schaden gegen Pflanzen (nicht stapelbar).",
         "Aumenta el daño infligido contra monstruos vegetales (no acumulable)",
         "Meningkatkan damage fisik terhadap jenis tumbuhan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aพืช\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aได้\u001a)\u001a"
@@ -4160,11 +4160,11 @@
         "เพิ่มค่า\u001a \u001aHP\u001a,\u001a \u001aMP\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a,\u001a \u001aSPR\u001a \u001a+\u001a \u001aทำให้\u001aตัวเอง\u001aติด\u001aสถานะ\u001a \u001aSleep\u001a"
     ],
     "504222190": [
-        "Boost physical and magic damage dealt to plants (Not stackable)",
+        "Boost physical and magic damage against plants by 75% (Not stackable)",
         "物理、魔法攻擊時提高對植物系魔物的傷害 [無法重複裝備]",
         "물리, 마법 공격 시 식물형 마물에게 부여하는 피해량 상승 (중복 장착 불가)",
         "Augmente les dégâts magiques et physiques infligés aux monstres de type plante (non cumulable)",
-        "Erhöht physischen und magischen Schaden gegenüber Pflanzenmonstern (Nicht stapelbar).",
+        "Erhöht physischen und magischen Schaden gegen Pflanzen (nicht stapelbar).",
         "Aumenta el daño físico y mágico contra plantas (no acumulable)",
         "Meningkatkan damage fisik dan magic terhadap jenis tumbuhan (Tidak dapat ditumpuk)",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aพืช\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
@@ -10029,6 +10029,16 @@
         "(3 kali penggunaan per battle) Memberikan damage magic api dan mengurangi resistansi api pada semua musuh",
         "(\u001aใช้ได้\u001a \u001a3\u001a \u001aครั้ง\u001aต่อ\u001aการต่อสู้\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aไฟ\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aของ\u001aศัตรู\u001aทุกราย\u001a"
     ],
+    "504243608": [
+        "Boost ATK and MAG by 40% and physical and magic damage against beasts by 75% (Not stackable)",
+        "提高40%攻擊魔力+物理、魔法攻擊時提高75%對獸系魔物的傷害[無法重複裝備]",
+        "공격력과 마력 40% 상승+물리, 마법 공격 시 야수형 마물에게 부여하는 피해량 75% 상승(중복 장착 불가)",
+        "Augmente l'ATT et la MAGIE de 40 % et les dégâts physiques et magiques infligés aux bêtes de 75 % (non cumulable)",
+        "Erhöht ANG sowie MAG um 40% und erhöht physischen sowie magischen Schaden gegen Bestien um 75% (nicht stapelbar).",
+        "Aumenta el ATQ y la MAG un 40% y el daño físico y mágico contra bestias un 75% (no acumulable)",
+        "Meningkatkan ATK dan MAG sebanyak 40%, serta meningkatkan damage fisik dan magic terhadap jenis makhluk buas sebanyak 75% (Tidak dapat ditumpuk)",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a40% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aอสูร\u001a \u001a75% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
     "504243610": [
         "Boost physical and magic damage against plants by 50% (Not stackable)",
         "物理、魔法攻擊時提高50%對植物系魔物的傷害[無法重複裝備]",
@@ -10128,6 +10138,26 @@
         "(Un uso cada 5 turnos) Aumenta el daño de determinados EL del usuario (no acumulable)",
         "(1 kali penggunaan setiap 5 giliran) Meningkatkan damage LB tertentu pada diri sendiri (Tidak dapat ditumpuk)",
         "(\u001aใช้ได้\u001a \u001a1\u001a \u001aครั้ง\u001aทุก\u001a \u001a5\u001a \u001aเทิร์น)\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243713": [
+        "Boost physical and magic damage against demons by 50% (Not stackable)",
+        "物理、魔法攻擊時提高50%對惡魔系魔物的傷害[無法重複裝備]",
+        "물리, 마법 공격 시 악마형 마물에게 부여하는 피해량 50% 상승(중복 장착 불가)",
+        "Augmente les dégâts physiques et magiques infligés aux démons de 50 % (non cumulable)",
+        "Erhöht physischen und magischen Schaden gegen Dämonen um 50% (nicht stapelbar).",
+        "Aumenta el daño físico y mágico contra demonios un 50% (no acumulable)",
+        "Meningkatkan damage fisik dan magic terhadap jenis demon sebanyak 50% (Tidak dapat dihukum)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a \u001a50% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504243714": [
+        "Boost physical and magic damage against dragons by 50% and ATK and MAG by 30% (Not stackable)",
+        "物理、魔法攻擊時提高50%對龍系魔物的傷害+提高30%攻擊魔力[無法重複裝備]",
+        "물리, 마법 공격 시 드래곤형 마물에게 부여하는 피해량 50% 상승+공격력과 마력 30% 상승(중복 장착 불가)",
+        "Augmente les dégâts physiques et magiques infligés aux dragons de 50 % et augmente l'ATT et la MAGIE de 30 % (non cumulable)",
+        "Erhöht physischen sowie magischen Schaden gegen Drachen um 50% und erhöht ANG sowie MAG um 30% (nicht stapelbar).",
+        "Aumenta el daño físico y mágico contra dragones un 50% y el ATQ y la MAG un 30% (no acumulable)",
+        "Meningkatkan damage fisik dan magic terhadap jenis naga sebanyak 50%, serta meningkatkan ATK dan MAG sebanyak 30% (Tidak dapat dihukum)",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมังกร\u001a \u001a50% + ATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a30% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504243737": [
         "Boost LB damage by 10%, and boost equipment ATK, DEF, MAG, and SPR by 10% when a single weapon is equipped in one or both hands (FFX and FFX-2 units only)",
