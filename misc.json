@@ -3447,7 +3447,7 @@
         "NEIN",
         "NO",
         "TIDAK",
-        "NO\u001a"
+        "ไม่\u001a"
     ],
     "COMMON_BUTTON_LABEL_OK": [
         "OK",
@@ -3467,7 +3467,7 @@
         "JA",
         "SÍ",
         "YA",
-        "YES\u001a"
+        "ใช่\u001a"
     ],
     "COMMON_LIST": [
         "List",
@@ -3623,7 +3623,7 @@
         "Craft",
         "製作",
         "제작실",
-        "Fabriquer",
+        "Artisanat",
         "Herstellen",
         "Elaboración",
         "Kerajinan",
@@ -6556,7 +6556,7 @@
         "古代遺產達成報酬",
         "유물 달성 보상",
         "Récompenses de succès (reliques)",
-        "Relikterfolgsbelohnungen",
+        "Relikterfolgs-<br>belohnungen",
         "Logros de reliquias de recompensa",
         "Hadiah Pencapaian Relik",
         "รางวัล\u001aความสำเร็จ\u001aด้าน\u001aวัตถุ\u001aโบราณ\u001a"
@@ -8578,7 +8578,7 @@
         "Partager",
         "Teilen",
         "Compartir",
-        "BAGIKAN",
+        "Bagikan",
         "Share\u001a"
     ],
     "FRIEND_TOP_LIST": [
@@ -8926,8 +8926,8 @@
         "1日1次寶石減半！",
         "1일 1회 50% 할인!",
         "Moitié prix 1 fois par jour !",
-        "Einmal am Tag zum halben Preis!",
-        "¡A mitad de precio una vez al día!",
+        "Einmal am Tag halber Preis!",
+        "¡A mitad de precio 1 vez/día!",
         "1/2 harga sehari sekali!",
         "ครึ่ง\u001aราคา\u001aรายวัน\u001a!\u001a"
     ],
@@ -10587,7 +10587,7 @@
         "트러스트 코인 상점",
         "Boutique d'échange de jetons de confiance",
         "Treuemünze-Tauschladen",
-        "Tienda de intercambio de monedas fieles",
+        "Intercambio de monedas fieles",
         "Toko Penukaran Koin Trust",
         "เหรียญ\u001a \u001aTrust\u001a"
     ],
@@ -19697,7 +19697,7 @@
         "영구 교환 상점",
         "Boutiques d'échange permanentes",
         "Dauerhafte Tauschläden",
-        "Tiendas de intercambio permanentes",
+        "Intercambio permanente",
         "Toko Penukaran Permanen",
         "ร้าน\u001aแลกเปลี่ยน\u001aถาวร\u001a"
     ],
@@ -20593,7 +20593,7 @@
     ],
     "RANKING_RANK": [
         "No. %s",
-        "%s名",
+        "第%s名",
         "%s위",
         "N° %s",
         "Nr. %s",
@@ -20843,7 +20843,7 @@
     ],
     "RB_RANKING_LIST_RANK": [
         "Place %s",
-        "%s名",
+        "第%s名",
         "%s위",
         "Place %s",
         "Platz %s",
@@ -20863,7 +20863,7 @@
     ],
     "RB_RANKING_RANK": [
         "Place %s",
-        "%s名",
+        "第%s名",
         "%s위",
         "Place %s",
         "Platz %s",
@@ -21033,7 +21033,7 @@
     ],
     "RB_RULE_INFO_RANK_RANGE": [
         "%d to $d place",
-        "%d 〜 %d 名",
+        "第%d 〜 %d名",
         "%d ~ %d위",
         "%d place sur %d",
         "%d bis zum $d Platz",
@@ -21522,14 +21522,14 @@
         "โบนัส\u001aยู\u001aนิ\u001aท\u001a \u001aEX\u001a"
     ],
     "RESULT_FOOTER_BTN_REMATCH": [
-        "Repeat Quest",
+        "(New Companion)",
         "再次挑戰",
         "재전투",
-        "Répéter la quête",
-        "Auftrag wiederholen",
-        "Repetir misión",
-        "Ulangi Quest",
-        "เล่น\u001aเค\u001aวส\u001aอีกครั้ง\u001a"
+        "(Nouveau partenaire)",
+        "(Neuer Begleiter)",
+        "(Nuevo compañero)",
+        "(Partner Baru)",
+        "(\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aร่วมทาง\u001a)\u001a"
     ],
     "RESULT_FOOTER_BTN_RESTART": [
         "Depart",
@@ -21542,14 +21542,14 @@
         "ออกเดินทาง\u001a"
     ],
     "RESULT_FOOTER_BTN_SELECT_HELPER": [
-        "Select Companion",
+        "Repeat",
         "選擇同行者",
         "동행자를 선택하여",
-        "Sélection de partenaire",
-        "Begleiter wählen",
-        "Seleccionar compañero",
-        "Pilih Partner",
-        "เลือก\u001aเพื่อนร่วมทาง\u001a"
+        "Répéter",
+        "Wiederholen",
+        "Repetir",
+        "Ulangi",
+        "เล่น\u001aอีกครั้ง\u001a"
     ],
     "RESULT_FRIEND_FULL": [
         "Friend List Full",
@@ -24967,7 +24967,7 @@
         "코인 교환 상점",
         "Boutiques d'échange de jeton",
         "Münztausch-Läden",
-        "Tiendas de intercambio de monedas",
+        "Intercambio de monedas",
         "Toko Penukaran Koin",
         "ร้าน\u001aแลกเปลี่ยน\u001aเหรียญ\u001a"
     ],
@@ -25147,7 +25147,7 @@
         "의지의 격돌 교환 상점",
         "Boutiques d'échange \"Choc des volontés\"",
         "Krieg des Willens-Tauschläden",
-        "Tiendas de intercambio de Choque de Voluntades",
+        "Choque de Voluntades",
         "Toko Penukaran Pertentangan Tekad",
         "ร้าน\u001aแลกเปลี่ยน\u001aปะทะ\u001aจิตวิญญาณ\u001a"
     ],
@@ -25156,7 +25156,7 @@
         "恢復體力",
         "체력 회복",
         "Récupération d'endurance",
-        "Energiewiederherstellung",
+        "Energiewieder-<br>herstellung",
         "Recuperación de energía",
         "Pemulihan Energi",
         "ฟื้นฟู\u001a \u001aNRG\u001a"
@@ -25458,7 +25458,7 @@
         "Une fois convertie en matériau d'éveil, <color=255:255:0>une unité est définitivement perdue</color>. La confiance absolue et la super confiance absolue accumulées avant la conversion seront perdues.",
         "Wenn eine Einheit einmal zu Erweckungsmaterial konvertiert wurde, <color=255:255:0>kann sie nicht mehr zu ihrer vorherigen Gestalt zurückkehren.</color>.<br>Wahre-Treue- und Super-Treue-Werte vor der Konvertierung werden nicht übernommen.",
         "Una vez convertida, <color=255:255:0>la unidad no podrá volver a su estado original</color>.<br>No se transferirán la maestría fiel y supermaestría fiel de antes de la conversión.",
-        "Setelah unit dikonversi menjadi material kebangkitan, <color=255:255:0>unit tersebut tidak dapat dikembalikan ke keadaan semula</color>.Trust master dan super trust master dari sebelum konversi tidak akan diperoleh.",
+        "Setelah unit dikonversi menjadi material kebangkitan, <color=255:255:0>unit tersebut tidak dapat dikembalikan ke keadaan semula</color>. Trust master dan super trust master dari sebelum konversi tidak akan diperoleh.",
         "เมื่อ\u001aถูก\u001aแปลง\u001aสภาพ\u001aเป็น\u001aวัตถุดิบ\u001aเสริม\u001aพลัง\u001aแล้ว\u001a \u001a<color=255:255:0>\u001aยู\u001aนิ\u001aท\u001aจะ\u001aไม่\u001aสามารถ\u001aกลับคืน\u001aร่าง\u001aเดิม\u001aได้\u001aอีก\u001a</color>\u001a \u001aและ\u001aจะ\u001aไม่\u001aสามารถ\u001aใช้\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aและ\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMastery\u001a \u001aจา\u001aกร่าง\u001aก่อน\u001aการ\u001aแปลง\u001aสภาพ\u001aได้\u001a"
     ],
     "SP_CLASSUP_CONVERSION_PIECE_TRANS_CONFIRM_EX_LV_LIMITED": [
@@ -28957,7 +28957,7 @@
         "NV",
         "NV",
         "NV",
-        "Nv.",
+        "NV",
         "NV",
         "NV\u001a"
     ],
@@ -28967,7 +28967,7 @@
         "NV EX 각성+1",
         "NV EX +1",
         "NV EX +1",
-        "Nv. EX +1",
+        "NV EX +1",
         "NV EX +1",
         "NV\u001a \u001aEX\u001a \u001a+\u001a1\u001a"
     ],
@@ -28977,7 +28977,7 @@
         "NV EX 각성+2",
         "NV EX +2",
         "NV EX +2",
-        "Nv. EX +2",
+        "NV EX +2",
         "NV EX +2",
         "NV\u001a \u001aEX\u001a \u001a+\u001a2\u001a"
     ],
@@ -28987,7 +28987,7 @@
         "NV EX 각성+3",
         "NV EX +3",
         "NV EX +3",
-        "Nv. EX +3",
+        "NV EX +3",
         "NV EX +3",
         "NV\u001a \u001aEX\u001a \u001a+\u001a3\u001a"
     ],
@@ -29766,7 +29766,7 @@
         "進度",
         "진척도",
         "Progression",
-        "Fortschritt",
+        "Fortschr.",
         "Progreso",
         "Kemajuan",
         "ความคืบหน้า\u001a"
@@ -32899,6 +32899,6 @@
         "Raubzugjuwelen",
         "orbes de Banda",
         "orb raid",
-        "ลููก\u001aแก้ว\u001a \u001aRaid\u001a"
+        "ลูกแก้ว\u001a \u001aRaid\u001a"
     ]
 }
