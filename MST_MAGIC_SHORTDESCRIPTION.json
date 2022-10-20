@@ -579,6 +579,26 @@
         "Memulihkan HP satu teman secara bertahap",
         "ค่อยๆ\u001a \u001aฟื้นฟู\u001a \u001aHP\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "10500": [
+        "Revive all KO'd allies",
+        "使全體隊員從無法戰鬥狀態中完全復活",
+        "아군 전체의 전투불능 상태 회복",
+        "Ranime tous les alliés KO",
+        "Belebt alle kampfunfähigen Verbündeten wieder.",
+        "Revive a todos los aliados K.O.",
+        "Menghidupkan kembali semua teman yang telah K.O.",
+        "คืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001aที่\u001aถูก\u001a \u001aKO\u001a"
+    ],
+    "10510": [
+        "Automatically revive all allies one time",
+        "賦予全體隊員自動復活1次的效果",
+        "아군 전체에 전투불능 상태를 1회 자동 회복하는 효과 부여",
+        "Permet de ranimer automatiquement tous les alliés 1 fois",
+        "Belebt alle Verbündeten automatisch einmal wieder.",
+        "Revive automáticamente a todos los aliados una vez",
+        "Menghidupkan kembali semua teman secara otomatis 1 kali",
+        "คืนชีพ\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a \u001a1\u001a \u001aครั้ง\u001aโดยอัตโนมัติ\u001a"
+    ],
     "20010": [
         "Deal fire magic damage and reduce fire resistance for one enemy, and fill own LB gauge",
         "對1名敵人發動火屬性魔法攻擊+降低火屬性耐性+增加自身的極限技槽",
@@ -2148,6 +2168,16 @@
         "Añade elemento tierra a los ataques físicos de todos los aliados y aumenta el daño de tierra de sus EL, habilidades y magia",
         "Menambahkan elemen tanah pada serangan fisik, serta meningkatkan damage tanah pada LB, ability, dan magic semua teman",
         "เพิ่ม\u001aพลัง\u001aธาตุ\u001aดิน\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aดิน\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "30720": [
+        "Add light element to physical attack and boost light damage of LB, abilities, and magic for all allies",
+        "將全體隊員的物理攻擊賦予光屬性+提高光屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 물리 공격에 빛속성 부여+빛속성 LB, 어빌리티, 마법 피해량 상승",
+        "Ajoute l'élément lumière aux attaques physiques de tous les alliés, et augmente les dégâts de lumière de leur limite, de leurs aptitudes et de leurs sorts",
+        "Fügt physischem Angriff aller Verbündeten Lichtelement hinzu und erhöht deren Lichtschaden durch Limitrausch, Fertigkeiten sowie Magie.",
+        "Añade elemento luz a los ataques físicos de todos los aliados y aumenta el daño de luz de sus EL, habilidades y magia",
+        "Menambahkan elemen cahaya pada serangan fisik, serta meningkatkan damage cahaya pada LB, ability, dan magic semua teman",
+        "เพิ่ม\u001aพลัง\u001aธาตุ\u001aแสง\u001aใน\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aแสง\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
     "30730": [
         "Add dark element to physical attack and boost dark damage of LB, abilities, and magic for all allies",
@@ -4088,6 +4118,36 @@
         "Activa Barrera a un aliado y aumenta su resistencia a enfermedad",
         "Mengaktifkan barier dan meningkatkan resistansi status disease pada satu teman",
         "กาง\u001aบาเรีย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aสถานะ\u001a \u001aDisease\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "70544": [
+        "Deal dark magic damage and gradual dark magic damage and chance of poisoning all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+持續發動暗屬性魔法攻擊+一定機率施加中毒效果",
+        "적 전체에 어둠속성 마법 피해+서서히 어둠속성 마법 피해+일정 확률로 독 부여",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis, leur inflige progressivement des dégâts magiques de ténèbres, et confère une chance de leur infliger poison",
+        "Fügt allen Gegnern magischen Dunkelschaden zu, fügt diesen allmählichen magischen Dunkelschaden zu und Chance, diesen Gift zuzufügen.",
+        "Daño mágico de oscuridad a todos los enemigos, les inflige daño mágico de oscuridad poco a poco y probabilidad de infligirles veneno",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta peluang untuk memberikan status poison pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
+    ],
+    "70545": [
+        "Deal dark magic damage and gradual dark magic damage and chance of poisoning all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+持續發動暗屬性魔法攻擊+一定機率施加中毒效果",
+        "적 전체에 어둠속성 마법 피해+서서히 어둠속성 마법 피해+일정 확률로 독 부여",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis, leur inflige progressivement des dégâts magiques de ténèbres, et confère une chance de leur infliger poison",
+        "Fügt allen Gegnern magischen Dunkelschaden zu, fügt diesen allmählichen magischen Dunkelschaden zu und Chance, diesen Gift zuzufügen.",
+        "Daño mágico de oscuridad a todos los enemigos, les inflige daño mágico de oscuridad poco a poco y probabilidad de infligirles veneno",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta peluang untuk memberikan status poison pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
+    ],
+    "70546": [
+        "Deal dark magic damage and gradual dark magic damage and chance of poisoning all enemies",
+        "對全體敵人發動暗屬性魔法攻擊+持續發動暗屬性魔法攻擊+一定機率施加中毒效果",
+        "적 전체에 어둠속성 마법 피해+서서히 어둠속성 마법 피해+일정 확률로 독 부여",
+        "Inflige des dégâts magiques de ténèbres à tous les ennemis, leur inflige progressivement des dégâts magiques de ténèbres, et confère une chance de leur infliger poison",
+        "Fügt allen Gegnern magischen Dunkelschaden zu, fügt diesen allmählichen magischen Dunkelschaden zu und Chance, diesen Gift zuzufügen.",
+        "Daño mágico de oscuridad a todos los enemigos, les inflige daño mágico de oscuridad poco a poco y probabilidad de infligirles veneno",
+        "Memberikan damage magic kegelapan dan damage magic kegelapan secara bertahap, serta peluang untuk memberikan status poison pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aมืด\u001a \u001a+\u001a \u001aมีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a \u001aทุกราย\u001a"
     ],
     "91000": [
         "Gradually restore HP for one ally",
