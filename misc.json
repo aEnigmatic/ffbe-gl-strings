@@ -3380,14 +3380,14 @@
         "ลูกแก้ว\u001aโคล\u001aอสเซียม\u001aมี\u001aไม่\u001aพอ\u001a"
     ],
     "CLSM_SHORTAGE_ORB_HEAL_TEXT": [
-        "You can use <param=coin> lapis<br>to restore <color=255:0:0><param=healOrb_num> orbs.<br>Restore orbs?",
-        "使用<param=coin>寶石<br>可以恢復<color=255:0:0><param=healOrb_num>個寶珠。<br>是否要恢復？",
-        "라피스를 <param=coin>개 사용하여<br><color=255:0:0>구슬을 <param=healOrb_num>개 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
-        "You pouvez utiliser des <param=coin> lapis<br>pour restaurer vos <color=255:0:0><param=healOrb_num> orbes.<br>Restaurer vos orbes ?",
-        "Du kannst <color=255:0:0><param=healOrb_num> Juwelen </color> mit <param=coin> Lapis auffüllen. Jetzt Juwelen auffüllen?",
-        "Puedes usar <param=coin> lapis<br>para restaurar <color=255:0:0><param=healOrb_num> orbes.<br>¿Quieres restaurar orbes?",
-        "Kamu dapat menggunakan <param=coin> lapis<br>untuk memulihkan <color=255:0:0><param=healOrb_num> orb.<br>Pulihkan orb?",
-        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a \u001a<param=num>\u001a \u001aเม็ด\u001a \u001aเพื่อ\u001aเติม\u001a<color=255:0:0>\u001aลูกแก้ว\u001aจำนวน\u001a \u001a<param=healOrb_num>\u001a \u001aลูก\u001a</color><br>\u001a \u001aต้องการ\u001aเติม\u001aลูกแก้ว\u001aหรือไม่\u001a?\u001a"
+        "<center>You can use <param=coin> lapis<br>to restore <color=255:0:0><param=healOrb_num> orbs.<br>Restore orbs?</center>",
+        "<center>您可使用<param=coin>寶石<br>恢復<color=255:0:0><param=healOrb_num>個寶珠。<br>是否恢復？</center>",
+        "<center>라피스를 <param=coin>개 사용하여 <br><color=255:255:0>구슬을 <param=healOrb_num>개 회복</color>할 수 있습니다.<br>회복하시겠습니까?</center>",
+        "<center>Vous pouvez utiliser <param=coin> des lapis<br>pour récupérer <color=255:0:0><param=healOrb_num> orbes.<br>Récupérer les orbes ?</center>",
+        "<center>Du kannst <color=255:0:0><param=healOrb_num> Juwelen</color> mit <param=coin> Lapis auffüllen.<br>Jetzt Juwelen auffüllen?</center>",
+        "<center>Puedes usar <param=coin> lapis<br>para recuperar <color=255:0:0><param=healOrb_num> orbes.<br>¿Recuperar orbes?</center>",
+        "<center>Kamu dapat menggunakan <param=coin> lapis<br>untuk memulihkan <color=255:0:0><param=healOrb_num> orb.<br>Pulihkan orb?</center>",
+        "<center>\u001aสามารถ\u001aใช้\u001a \u001a<param=coin>\u001a \u001aLapis\u001a<br>\u001aเพื่อ\u001aฟื้นฟู\u001a \u001a<color=255:0:0><param=healOrb_num>\u001a \u001aลูกแก้ว\u001aได้\u001a<br>\u001aฟื้นฟู\u001aลูกแก้ว\u001aหรือไม่\u001a?</center>\u001a"
     ],
     "CLSM_SHORTAGE_ORB_HEAL_TITLE": [
         "Insufficient Colosseum Orbs",
@@ -3412,7 +3412,7 @@
     "COLOSSEUM_VS_CPU_END_TEXT": [
         "This class ends Colosseum battles.<br>* This screen will not be visible to users. <br>Yes = Victory, No = Defeat",
         "競技場戰鬥結束通訊類<br>※此畫面用戶看不到<br>是＝勝利　否＝敗北",
-        "투기장 전투 종료 통신 클래스<br>※ 이 화면은 유저에게 보이지 않습니다.<br>예=승리 처리 아니오=패배 처리FREIND_ID_NOT_FOUND^Invalid friend ID entered.\"",
+        "투기장 전투 종료 통신 클래스<br>※ 이 화면은 유저에게 보이지 않습니다.<br>예=승리 처리 아니오=패배 처리\nFREIND_ID_NOT_FOUND^Invalid friend ID entered.\"",
         "Cette classe met fin aux combats du Colisée.<br>(Cet écran ne sera pas visible par les utilisateurs.)<br>Oui = Victoire, Non = Défaite",
         "„Diese Klasse beendet Kolosseumskämpfe.<br>* Dieser Bildschirm ist nicht für andere Nutzer sichtbar. <br>Ja = Sieg, Nein = Niederlage“",
         "Esta clase finaliza las batallas de Coliseo.<br>* Esta pantalla no estará disponible para otros usuarios. <br>Sí = Victoria, No = Derrota",
@@ -3570,14 +3570,14 @@
         "Continue\u001a \u001aไหม\u001a?\u001a"
     ],
     "CONTINUE_MSG": [
-        "You can use <param=use_lapis_num> lapis to revive all your units.",
-        "使用<param=use_lapis_num>個寶石<br>可復活全部兵員",
-        "라피스를 <param=use_lapis_num>개 사용하여<br>모든 유닛을 부활시킵니다.",
-        "Vous pouvez utiliser <param=use_lapis_num> lapis pour ranimer toutes vos unités.",
-        "Du kannst <param=use_lapis_num> Lapis verwenden, um all deine Einheiten wiederzubeleben.",
-        "Puedes revivir a todas tus unidades usando <param=use_lapis_num> lapis.",
-        "Kamu dapat menggunakan <param=use_lapis_num> lapis untuk menghidupkan kembali semua unitmu.",
-        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a \u001a<param=use_lapis_num>\u001a \u001aเม็ด\u001aเพื่อ\u001aคืนชีพ\u001aยู\u001aนิ\u001aท\u001aทั้งหมด\u001a"
+        "<center>You can use <param=use_lapis_num> lapis to revive all your units.</center>",
+        "<center>您可使用<param=use_lapis_num>寶石復活全體兵員。</center>",
+        "<center>라피스를 <param=use_lapis_num>개 사용하여<br>모든 유닛을 부활시킵니다.</center>",
+        "<center>Vous pouvez utiliser <param=use_lapis_num> lapis pour ranimer toutes vos unités.</center>",
+        "<center>Du kannst <param=use_lapis_num> Lapis verwenden, um all deine Einheiten wiederzubeleben.</center>",
+        "<center>Puedes usar <param=use_lapis_num> lapis para revivir a todas tus unidades.</center>",
+        "<center>Kamu dapat menggunakan <param=use_lapis_num> lapis untuk menghidupkan kembali semua unitmu.</center>",
+        "<center>\u001aสามารถ\u001aใช้\u001a \u001a<param=use_lapis_num>\u001a \u001aLapis\u001a \u001aเพื่อ\u001aคืนชีพ\u001aยู\u001aนิ\u001aท\u001aทุกราย\u001aของ\u001aคุณ\u001aได้\u001a</center>\u001a"
     ],
     "COPPER_CHEST_OF_ABUNDANCE_BUNDLE_DESC": [
         "An unbelievable once in a lifetime 1,000% value offer! Grab itwhile it lasts!",
@@ -6232,14 +6232,14 @@
         "NRG\u001a \u001aไม่\u001aเพียงพอ\u001a"
     ],
     "ERROR_SHORTAGE_AP_USE_LAPIS": [
-        "You can use <param=num> lapis to <color=255:0:0>fully restore your energy</color>.",
-        "使用<param=num>個寶石<br>可以將<color=255:0:0>體力完全恢復</color>。",
-        "라피스를 <param=num>개 사용하여<br><color=255:0:0>체력을 모두 회복</color>할 수 있습니다.",
-        "Vous pouvez utiliser <param=num> lapis pour <color=255:0:0>restaurer votre endurance</color>.",
-        "Du kannst <param=num> Lapis nutzen, um <color=255:0:0>deine Energie aufzufüllen</color>.",
-        "Puedes usar <param=num> lapis para <color=255:0:0>recuperar tu energía</color>.",
-        "Kamu dapat menggunakan <param=num> lapis untuk <color=255:0:0>memulihkan seluruh energimu</color>.",
-        "คุณ\u001aสามารถ\u001aใช้\u001a \u001aLapis\u001a \u001aจำนวน\u001a \u001a<param=num>\u001a \u001aเม็ด\u001aเพื่อ\u001a \u001a<color=255:0:0>\u001aเติม\u001a \u001aNRG\u001a \u001aจน\u001aเต็ม\u001aได้\u001a</color>.\u001a"
+        "<center>You can use <param=num> lapis to <color=255:0:0>fully restore your energy</color>.</center>",
+        "<center>您可使用<param=num>寶石來<color=255:0:0>完全恢復體力</color>。</center>",
+        "<center>라피스를 <param=num>개 사용하여<br><color=255:255:0>체력을 최대로 회복</color>할 수 있습니다.<br>회복하시겠습니까?</center>",
+        "<center>Vous pouvez dépenser <param=num> lapis pour <color=255:0:0>restaurer entièrement votre endurance</color>.</center>",
+        "<center>Du kannst <param=num> Lapis nutzen, um <color=255:0:0>deine gesamte Energie aufzufüllen</color>.</center>",
+        "<center>Puedes usar <param=num> lapis para <color=255:0:0>recuperar tu energía al máximo</color>.</center>",
+        "<center>Kamu dapat menggunakan <param=num> lapis untuk memulihkan seluruh <color=255:0:0>energi</color>mu.<br>Lanjutkan?</center>",
+        "<center>\u001aคุณ\u001aสามารถ\u001aใช้\u001a \u001a<param=num>\u001a \u001aLapis\u001a \u001aเพื่อ\u001a \u001a<color=255:0:0>\u001aฟื้นฟู\u001a \u001aNRG\u001a \u001aของ\u001aคุณ\u001aเต็มที่\u001a</color>\u001a \u001aได้\u001a</center>\u001a"
     ],
     "ERROR_SHORTAGE_EQUIP_GROW_ORB_BUY_LAPIS": [
         "You do not have enough lapis.<br>Purchase lapis?",
@@ -6252,14 +6252,14 @@
         "คุณ\u001aมี\u001a \u001aLapis\u001a \u001aไม่\u001aเพียงพอ\u001a.<br>\u001aต้องการ\u001aซื้อ\u001a \u001aLapis\u001a \u001aเพิ่ม\u001aหรือไม่\u001a?\u001a"
     ],
     "ERROR_SHORTAGE_EQUIP_GROW_ORB_MESSAGE": [
-        "You can fully recover <color=255:0:0>equipment enhancement orbs</color> by using <param=num> lapis.<br>Proceed with recovery?",
-        "使用<param=num>寶石，可以<color=255:255:0>完全恢復活動寶珠</color>。<br>是否要恢復？",
-        "라피스를 <param=num>개 사용하여 <color=255:255:0>이벤트 구슬을 모두 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
-        "Vous pouvez entièrement récupérer vos <color=255:0:0>orbes d'amélioration d'équipement</color> en utilisant <param=num> lapis.<br>Continuer ?",
-        "Du kannst <color=255:0:0>Juwelen zur Ausrüstungsverbesserung</color> mit <param=num> Lapis wiederherstellen.<br>Mit Wiederherstellung fortfahren?",
-        "Puedes recuperar todos los <color=255:0:0>orbes mejoraequipos</color> usando<param=num> lapis.<br>¿Quieres recuperarlos?",
-        "Kamu dapat memulihkan seluruh <color=255:0:0>orb penguatan perlengkapan</color> dengan menggunakan <param=num> lapis.<br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aเติม\u001a \u001a<color=255:0:0>\u001aลูกแก้ว\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001a</color>\u001aได้\u001aโดย\u001aใช้\u001a \u001aLapis\u001a \u001a<param=num>\u001aเม็ด\u001a<br>\u001a \u001aเติม\u001aลูกแก้ว\u001aเลย\u001aหรือไม่\u001a?\u001a"
+        "<center>You can fully recover <color=255:0:0>equipment enhancement orbs</color> by using <param=num> lapis.<br>Proceed with recovery?</center>",
+        "<center>您可使用<param=num>寶石來完全恢復<color=255:0:0>裝備強化寶珠</color>。<br>是否恢復？</center>",
+        "<center>라피스를 <param=num>개 사용하여<br><color=255:255:0>이벤트 구슬</color>을 모두 회복할 수 있습니다.<br>회복하시겠습니까?</center>",
+        "<center>Vous pouvez restaurer entièrement vos <color=255:0:0>orbes d'amélioration d'équipement</color> en utilisant <param=num> lapis.<br>Procéder à la restauration ?</center>",
+        "<center>Du kannst <color=255:0:0>Juwelen zur Ausrüstungsverbesserung</color> mit <param=num> Lapis vollständig wiederherstellen.<br>Mit Wiederherstellung fortfahren?</center>",
+        "<center>Puedes recuperar por completo los <color=255:0:0>orbes mejoraequipo</color> usando <param=num> lapis.<br>¿Continúas con la recuperación?</center>",
+        "<center>Kamu dapat menggunakan <param=num> lapis untuk memulihkan seluruh <color=255:0:0>orb penguatan perlengkapan</color>mu.<br>Lanjutkan?</center>",
+        "<center>\u001aคุณ\u001aสามารถ\u001aฟื้นฟู\u001a \u001a<color=255:0:0>\u001aลูกแก้ว\u001aเสริม\u001aพลัง\u001aอุปกรณ์\u001a</color>\u001a \u001aเต็มที่\u001aได้\u001aโดย\u001aใช้\u001a \u001a<param=num>\u001a \u001aLapis\u001a<br>\u001aต้อง\u001aการฟื้นฟู\u001aหรือไม่\u001a?</center>\u001a"
     ],
     "ERROR_SHORTAGE_EQUIP_GROW_ORB_RECOVERY_MESSAGE": [
         "Use lapis or an item to recover equipment enhancement orbs?",
@@ -6302,14 +6302,14 @@
         "คุณ\u001aมี\u001a \u001aLapis\u001a \u001aไม่\u001aเพียงพอ\u001a<br>\u001aต้องการ\u001aซื้อ\u001aเพ\u001aิ่้ม\u001aหรือไม่\u001a?\u001a"
     ],
     "ERROR_SHORTAGE_EVENT_ORB_MESSAGE": [
-        "You can fully recover <color=255:0:0>raid orbs</color> by using <param=num> lapis.<br>Proceed with recovery?",
-        "使用<param=num>個寶石可以<color=255:0:0>恢復所有共鬥寶珠</color>。<br>是否要恢復？",
-        "라피스를 <param=num>개 사용하여 <color=255:0:0>레이드 구슬을 모두 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
-        "Vous pouvez entièrement récupérer vos <color=255:0:0>orbes de raid</color> en utilisant <param=num> lapis.<br>Continuer ?",
-        "Du kannst <color=255:0:0>Raubzugjuwelen</color> mit <param=num> Lapis wiederherstellen.<br>Mit Wiederherstellung fortfahren?",
-        "Puedes recuperar <color=255:0:0>orbes de banda</color> utilizando <param=num> lapis.<br>¿Continuas con la recuperación?",
-        "Kamu dapat memulihkan seluruh <color=255:0:0>orb raid</color> dengan menggunakan <param=num> lapis.<br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aเก็บ\u001a \u001a<color=255:0:0>\u001a \u001aลูกแก้ว\u001a \u001aRaid\u001a \u001aคืน\u001aจน\u001aเต็ม\u001aได้\u001a</color>\u001aโดย\u001aใช้\u001a \u001aLapis\u001a \u001a<param=num>\u001a \u001aเม็ด\u001a.<br>\u001a \u001aต้องการ\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+        "<center>You can fully recover <color=255:0:0>raid orbs</color> by using <param=num> lapis.<br>Proceed with recovery?</center>",
+        "<center>您可使用<param=num>寶石來完全恢復<color=255:0:0>共鬥寶珠</color>。<br>是否恢復？</center>",
+        "<center>라피스를 <param=num>개 사용하여<br><color=255:255:0>레이드 구슬</color>을 모두 회복할 수 있습니다.<br>회복하시겠습니까?</center>",
+        "<center>Vous pouvez restaurer entièrement vos <color=255:0:0>orbes de raid</color> en utilisant <param=num> lapis.<br>Procéder à la restauration ?</center>",
+        "<center>Du kannst <color=255:0:0>Raubzugjuwelen</color> mit <param=num> Lapis vollständig wiederherstellen.<br>Mit Wiederherstellung fortfahren?</center>",
+        "<center>Puedes recuperar por completo los <color=255:0:0>orbes de banda</color> usando <param=num> lapis.<br>¿Continúas con la recuperación?</center>",
+        "<center>Kamu dapat menggunakan <param=num> lapis untuk memulihkan seluruh <color=255:0:0>orb raid</color>-mu.<br>Lanjutkan?</center>",
+        "<center>\u001aคุณ\u001aสามารถ\u001aฟื้นฟู\u001a \u001a<color=255:0:0>\u001aลูกแก้ว\u001a \u001aRaid\u001a</color>\u001a \u001aเต็มที่\u001aได้\u001aโดย\u001aใช้\u001a \u001a<param=num>\u001a \u001aLapis\u001a<br>\u001aต้อง\u001aการฟื้นฟู\u001aหรือไม่\u001a?</center>\u001a"
     ],
     "ERROR_SHORTAGE_EVENT_ORB_TITLE": [
         "Insufficient raid orbs",
@@ -8731,6 +8731,16 @@
         "Limited Time Only!",
         "Limited\u001a \u001aTime\u001a \u001aOnly\u001a!\u001a"
     ],
+    "GACHA_CONF_END_PERIOD": [
+        "The event period has already ended.",
+        "此活動期間已經結束。",
+        "해당 상품의 이벤트 기간이 종료되었습니다.",
+        "Cet événement est terminé.",
+        "Der Ereigniszeitraum ist bereits beendet.",
+        "El periodo de evento ha finalizado.",
+        "Periode event telah berakhir.",
+        "ระยะเวลา\u001aอีเวนท์\u001aจบ\u001aลง\u001aแล้ว\u001a"
+    ],
     "GACHA_CONF_HAVE_FRIEND_POINT": [
         "Friend points: <param=num> pt",
         "持有羈絆點數：<param=num>pt",
@@ -9350,6 +9360,16 @@
         "Se necesitan <param=cost> tíckets seleccionadores de 5★ para intercambiar la unidad <color=255:255:0><param=unit_name></color>.",
         "Kamu memerlukan <param=cost> Tiket Summon Pilihan ★5 untuk ditukarkan dengan <color=255:255:0><param=unit_name></color>.",
         "คุณ\u001aต้อง\u001aมี\u001aตั๋ว\u001a \u001aSelect\u001a \u001aSummon\u001a \u001a5\u001a★\u001a \u001aจำนวน\u001a<param=cost>\u001a \u001aใบ\u001aเพื่อ\u001aนำ\u001aไป\u001aแลก\u001a \u001a<color=255:255:0><param=unit_name></color>.\u001a"
+    ],
+    "GACHA_STEP_COUNT": [
+        "Step",
+        "STEP",
+        "STEP",
+        "Palier",
+        "Stufe",
+        "Paso",
+        "Tingkat",
+        "Step\u001a"
     ],
     "GACHA_STEP_UP_LIMIT_OVER": [
         "Summon limit has been reached. No more summons can be performed.",
@@ -10251,6 +10271,26 @@
         "Matikan BGM KV",
         "ปิด\u001a \u001aBGM\u001a \u001aของ\u001a \u001aVC\u001a"
     ],
+    "HOME_ORB_NUM_SLASH": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/\u001a"
+    ],
+    "HOME_ORB_RECOVER_LATER": [
+        "remaining",
+        "剩下",
+        "앞으로",
+        "restant(s)",
+        "verbleiben.",
+        "Queda(n)",
+        "tersisa",
+        "เหลือ\u001a"
+    ],
     "HOUR": [
         "h",
         "小時",
@@ -10330,6 +10370,16 @@
         "Actualizado: <param=date>",
         "Diperbarui: <param=date>",
         "ข้อมูล\u001aล่าสุด\u001aเมื่อ\u001a:\u001a"
+    ],
+    "INFO_NOT_ALLOWED_EX_LINK": [
+        "This link cannot be accessed before logging in.<br>Please log in and then try accessing the link again.",
+        "僅能在登入後進入此連結。<br>請登入後再重新嘗試進入連結。",
+        "해당 링크는 로그인 전에 접속할 수 없습니다.<br>로그인 후 다시 링크에 접속해 주세요.",
+        "Ce lien n'est accessible qu'une fois connecté.<br>Connectez-vous et réessayez d'accéder au lien.",
+        "Zugriff auf diesen Link ist erst nach Anmeldung möglich.<br>Bitte melde dich an und versuche dann erneut auf den Link zuzugreifen.",
+        "No se puede acceder a este enlace sin iniciar sesión.<br>Inicia sesión e inténtalo de nuevo.",
+        "Tautan ini tidak dapat diakses sebelum login.<br>Silakan login dan cobalah akses tautan tersebut sekali lagi.",
+        "จำเป็นต้อง\u001aล็อกอิน\u001aก่อน\u001aเปิด\u001aลิงค์\u001aนี้\u001a<br>\u001aโปรด\u001aล็อกอิน\u001aและ\u001aลอง\u001aเปิด\u001aลิงค์\u001aนี้\u001aอีกครั้ง\u001a"
     ],
     "INFO_SERVER_TIME_LABEL": [
         "Server time: <param=day_of_week> <param=month>/<param=day>, <param=hour>:<param=min>:<param=sec> PST",
@@ -10990,6 +11040,26 @@
         "Lapis",
         "Lapis",
         "Lapis\u001a"
+    ],
+    "LAPIS_ACT_ON_SPECIFIED_COMMERCIAL_TRANSACTIONS1": [
+        "*Lapis will be consumed immediately.<br>*Items will be obtained immediately.<br>*Transaction cannot be cancelled.",
+        "*寶石會被立即消耗。<br>*會立即獲得道具。<br>*交易無法取消。",
+        "* 라피스를 바로 소비합니다.<br>* 상품을 바로 지급합니다.<br>* 취소는 불가능합니다.",
+        "* Les lapis seront consommés immédiatement.<br>* Les objets seront obtenus immédiatement.<br> * La transaction ne peut pas être annulée.",
+        "* Lapis werden sofort verbraucht.<br>* Gegenstände werden sofort erhalten.<br>* Transaktion kann nicht abgebrochen werden.",
+        "*Los lapis se consumirán inmediatamente.<br>*Los objetos se obtendrán inmediatamente.<br>*La transacción no se puede cancelar.",
+        "*Lapis akan segera digunakan.<br>*Item akan segera diperoleh.<br>*Transaksi tidak dapat dibatalkan.",
+        "*\u001aLapis\u001a \u001aจะ\u001aถูก\u001aใช้\u001aโดยทันที\u001a<br>*\u001aจะ\u001aได้รับ\u001aไอเทม\u001aทันที\u001a<br>*\u001aไม่\u001aสามารถ\u001aยกเลิก\u001aการ\u001aดำเนินการ\u001aได้\u001a"
+    ],
+    "LAPIS_ACT_ON_SPECIFIED_COMMERCIAL_TRANSACTIONS2": [
+        "*Lapis will be consumed immediately.<br>*Effects will be obtained immediately.<br>*Transaction cannot be cancelled.",
+        "*寶石會被立即消耗。<br>*會立即賦予效果。<br>*交易無法取消。",
+        "* 라피스를 바로 소비합니다.<br>* 효과는 바로 반영됩니다.<br>* 취소는 불가능합니다.",
+        "* Les lapis seront consommés immédiatement.<br>* Les effets seront obtenus immédiatement.<br> * La transaction ne peut pas être annulée.",
+        "* Lapis werden sofort verbraucht.<br>* Effekte werden sofort erhalten.<br>* Transaktion kann nicht abgebrochen werden.",
+        "*Los lapis se consumirán inmediatamente.<br>*Los efectos se obtendrán inmediatamente.<br>*La transacción no se puede cancelar.",
+        "*Lapis akan segera digunakan.<br>*Efek akan segera diperoleh.<br>*Transaksi tidak dapat dibatalkan.",
+        "*\u001aLapis\u001a \u001aจะ\u001aถูก\u001aใช้\u001aโดยทันที\u001a<br>*\u001aจะ\u001aส่งผล\u001aทันที\u001a<br>*\u001aไม่\u001aสามารถ\u001aยกเลิก\u001aการ\u001aดำเนินการ\u001aได้\u001a"
     ],
     "LB_EXP_OBTAINED_MESSAGE": [
         "LB EXP Obtained",
@@ -13231,6 +13301,26 @@
         "Atur suara, efek battle, dsb.",
         "ปรับ\u001aเสียง\u001a \u001aเอฟเฟกต์\u001aใน\u001aการต่อสู้\u001a \u001aฯลฯ\u001a"
     ],
+    "MENUTOP_SYSTEM_CONFIRM_DELETE_ACCOUNT": [
+        "After pressing <color=255:255:0>Delete Account</color>, <color=255:0:0>no data will be able to be recovered,</color> including player data and payment data.<br>*Your <color=255:255:0>transfer code</color> will also become<color=255:0:0>invalid.</color><br>*Please e-mail customer service regarding issues after your account has been deleted.",
+        "點擊<color=255:255:0>刪除帳號</color>後， <color=255:0:0>將無法復原</color>包含玩家資料及付款資料在內的全部資料。<br>*您的<color=255:255:0>繼承代碼</color> 也將無法繼續<color=255:0:0>使用。</color><br>*在帳號刪除後若有任何疑問，請透過電子郵件聯絡客服。",
+        "<color=255:255:0>계정을 삭제</color>할 경우, 과금 정보 및 플레이 데이터를 포함한 <color=255:0:0>모든 데이터의 복원이 불가능합니다.</color><br>* <color=255:255:0>데이터 이전 코드</color> 또한 <color=255:0:0>무효</color> 처리됩니다.<br>* 계정 삭제 이후 발생하는 오류에 대한 문의는 고객지원으로 이메일을 보내주시기 바랍니다.",
+        "Après avoir appuyé sur <color=255:255:0>Supprimer le compte</color>, <color=255:0:0>aucune donnée ne pourra être récupérée,</color> incluant les données du joueur et de paiement.<br>* Votre <color=255:255:0>code de transfert</color> sera également <color=255:0:0>invalide.</color><br>* Veuillez contacter notre service d'assistance par e-mail pour tout problème une fois votre compte supprimé.",
+        "Nachdem <color=255:255:0>Konto löschen</color> betätigt wurde, <color=255:0:0>können keine Daten wiederhergestellt werden,</color> einschließlich Spieler- und Zahlungsdaten.<br>* Dein <color=255:255:0>Übertragungscode</color> wird ebenfalls <color=255:0:0>ungültig.</color><br>* Bitte kontaktiere bei Problemen nach Löschung deines Kontos den Kundenservice per E-Mail.",
+        "Tras pulsar en <color=255:255:0>Eliminar cuenta</color>, <color=255:0:0>no se podrán recuperar los datos,</color> incluyendo los datos del jugador y los datos de pagos.<br>*Tu <color=255:255:0>código de transferencia</color> también quedará <color=255:0:0>invalidado.</color><br>*Si tienes problemas tras haber eliminado tu cuenta, ponte en contacto por correo electrónico con el servicio de atención al cliente.",
+        "Setelah menekan <color=255:255:0>Hapus Akun</color>, <color=255:0:0>data tidak akan dapat dipulihkan,</color> termasuk data pemain dan data pembayaran.<br>*<color=255:255:0>Kode transfer</color> juga <color=255:0:0>tidak akan valid.</color><br>*Silakan hubungi layanan pelanggan melalui e-mail apabila terjadi permasalahan setelah akun dihapus.",
+        "หลังจาก\u001aกดปุ่ม\u001a \u001a<color=255:255:0>ลบ\u001aบัญชี\u001a</color>\u001a \u001aแล้ว\u001a \u001a<color=255:0:0>\u001aผู้\u001aเล่น\u001aจะ\u001aไม่\u001aสามารถ\u001aกู้\u001aคืน\u001aข้อมูล\u001aใดๆ\u001a \u001aได้\u001aอีก\u001a</color>\u001a \u001aซึ่ง\u001aรวมไปถึง\u001aข้อมูล\u001aผู้\u001aเล่น\u001aและ\u001aข้อมูล\u001aการซื้อขาย\u001aด้วย\u001a<br>*<color=255:255:0>\u001aโค้ด\u001aย้าย\u001aบัญชี\u001a</color>\u001a \u001aของ\u001aคุณ\u001aก็\u001aจะ\u001a \u001a<color=255:0:0>\u001aไม่\u001aสามารถ\u001aใช้ได้\u001a</color>\u001a \u001aด้วย\u001a<br>*\u001aโปรด\u001aส่ง\u001aอีเมล\u001aไป\u001aยัง\u001aทีมงาน\u001aบริการ\u001aลูกค้า\u001aหาก\u001aเกิด\u001aปัญหา\u001aหลังจากที่\u001aได้\u001aลบ\u001aบัญชี\u001aแล้ว\u001a"
+    ],
+    "MENUTOP_SYSTEM_CONFIRM_DELETE_ACCOUNT_TITLE": [
+        "<color=255:0:0>[Caution]</color>",
+        "<color=255:0:0>【注意】</color>",
+        "<color=255:0:0>[주의사항]</color>",
+        "<color=255:0:0>[Attention]</color>",
+        "<color=255:0:0>[Achtung]</color>",
+        "<color=255:0:0>[Aviso]</color>",
+        "<color=255:0:0>[Peringatan]</color>",
+        "<color=255:0:0>[\u001aระวัง\u001a]</color>\u001a"
+    ],
     "MENUTOP_SYSTEM_CONTACT": [
         "Customer Support",
         "諮詢",
@@ -13250,6 +13340,16 @@
         "Comprobar ID de la consulta",
         "ID Hubungi Kami",
         "ตรวจ\u001a \u001aID\u001a \u001aติดต่อสอบถาม\u001a"
+    ],
+    "MENUTOP_SYSTEM_DELETE_ACCOUNT": [
+        "Delete Account",
+        "刪除帳號",
+        "계정 삭제",
+        "Supprimer le compte",
+        "Konto löschen",
+        "Eliminar cuenta",
+        "Hapus Akun",
+        "ลบ\u001aบัญชี\u001a"
     ],
     "MENUTOP_SYSTEM_HELP": [
         "How to Play",
@@ -14291,6 +14391,16 @@
         "Proses telah dibatalkan karena proses tersebut dilakukan pada unit yang dikunci.<br>Untuk melindungi data, aplikasi akan ditutup.",
         "ยกเลิก\u001aการ\u001aดำเนินการ\u001aเนื่องจาก\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aถูก\u001aตั้งค่า\u001aปกป้อง\u001aอยู่\u001a<br>\u001aแอพพลิเคชั่น\u001aจะ\u001aปิด\u001aตัว\u001aลง\u001aเพื่อ\u001aคุ้มครอง\u001aข้อมูล\u001aของ\u001aคุณ\u001a"
     ],
+    "MSG_ACTION_FAVORITE_VISION_CARD": [
+        "The process was canceled because the attempted process was performed on a protected vision card.",
+        "由於處理對象為受保護的幻兵卡，因此處理已被取消。",
+        "일부 보호 상태의 비전 카드가 시도한 프로세스에 포함되었습니다.<br>데이터 보호를 위해 앱을 일단 종료합니다.",
+        "L'opération a été annulée car il s'agit d'un atout-vision protégé.<br>Afin de protéger vos données, l'application va se fermer.",
+        "Der Vorgang wurde abgebrochen, da der versuchte Vorgang an einer geschützten Visionskarte durchgeführt wurde.",
+        "Se ha cancelado el proceso porque se ha intentado realizar con una carta de visión protegida.<br>La aplicación se cerrará para proteger tus datos.",
+        "Proses telah dibatalkan karena proses tersebut dilakukan pada kartu vision yang dikunci.",
+        "ยกเลิก\u001aการ\u001aดำเนินการ\u001aนี้\u001aเนื่องจาก\u001aดำเนินการ\u001aกับ\u001aการ์ด\u001a \u001aVision\u001a \u001aที่\u001aถูก\u001aตั้งค่า\u001aปกป้อง\u001aอยู่\u001a"
+    ],
     "MSG_ALREADY_CLAIMED_REWARD": [
         "The reward has already been claimed.",
         "已獲得此報酬。",
@@ -14300,6 +14410,16 @@
         "Esta recompensa ya ha sido recibida.",
         "Hadiah telah diambil.",
         "ของรางวัล\u001aถู\u001aกรับ\u001aไป\u001aแล้ว\u001a"
+    ],
+    "MSG_ALREADY_USER_DELETED": [
+        "User data has been deleted.",
+        "使用者資料已消除。",
+        "유저 데이터가 삭제되었습니다.",
+        "Données utilisateur supprimées.",
+        "Nutzerdaten wurden gelöscht.",
+        "Datos de usuario borrados.",
+        "Data pengguna telah dihapus.",
+        "ข้อมูล\u001aของ\u001aผู้\u001aเล่น\u001aถู\u001aกลบ\u001aแล้ว\u001a"
     ],
     "MSG_ARENA_ORB_FULL": [
         "Already at maximum arena orbs.",
@@ -14320,6 +14440,16 @@
         "No se puede subir el nivel del equipo mientras se mejora. Espera a que termine la mejora para subirlo de nivel.",
         "Perlengkapan tidak dapat ditingkatkan ketika sedang diperkuat. Silakan tingkatkan perlengkapan tersebut setelah penguatan selesai.",
         "อุปกรณ์\u001aที่อยู่\u001aระหว่าง\u001aการ\u001aเสริม\u001aพลัง\u001aนั้น\u001aจะ\u001aไม่\u001aสามารถ\u001aอัพเกรด\u001aได้\u001a \u001aกรุณา\u001aดำเนินการ\u001aอัพเกรด\u001aหลังจากที่\u001aการ\u001aเสริม\u001aพลัง\u001aเสร็จสิ้น\u001aลง\u001aแล้ว\u001a"
+    ],
+    "MSG_BEAST_BOARD_PIECE_LOCKED": [
+        "This node on the esper board is locked.",
+        "幻獸育成板的面板尚未解鎖。",
+        "환수 보드의 피스가 잠겨 있습니다.",
+        "Cette case du tableau des chimères est verrouillée.",
+        "Dieses Feld auf der Esper-Liste ist gesperrt.",
+        "Esta casilla de la tabla de esper está bloqueada.",
+        "Panel papan esper ini terkunci.",
+        "โหนด\u001aส่วน\u001aนี้\u001aของ\u001aกระดาน\u001a \u001aEsper\u001a \u001aถูก\u001aล็อค\u001aอยู่\u001a"
     ],
     "MSG_BUNDLE_PENDING_PURCHASE": [
         "Your purchase is being processed.",
@@ -14360,6 +14490,16 @@
         "No se puede usar el atuendo.",
         "Skin ini tidak dapat digunakan.",
         "ไม่\u001aสามารถ\u001aใช้\u001aส\u001aกิน\u001aนี้\u001aได้\u001a"
+    ],
+    "MSG_EVENT_END_OF_PERIOD": [
+        "The event has already ended.",
+        "此活動期間已結束。",
+        "해당 이벤트는 종료되었습니다.",
+        "L'événement est terminé.",
+        "Das Ereignis ist bereits beendet.",
+        "El evento ya ha terminado.",
+        "Event telah berakhir.",
+        "อีเวนท์\u001aจบ\u001aลง\u001aแล้ว\u001a"
     ],
     "MSG_EXPEDITION_ACHIEVEMENT_MESSAGE": [
         "You have been awarded the following items:",
@@ -14620,6 +14760,16 @@
         "No tienes suficientes reliquias para recibir esta recompensa.",
         "Kamu tidak mempunyai cukup relik untuk mengambil hadiah ini.",
         "คุณ\u001aมี\u001aวัตถุ\u001aโบราณ\u001aไม่\u001aเพียง\u001aพอที่จะ\u001aขอรับ\u001aของรางวัล\u001a"
+    ],
+    "MSG_INVALID_SESSION_ID": [
+        "User data could not be obtained.",
+        "無法取得使用者資料。",
+        "유저 데이터를 불러오지 못했습니다.",
+        "Les données de l'utilisateur n'ont pas pu être récupérées.",
+        "Nutzerdaten konnten nicht abgerufen werden.",
+        "No se han podido obtener los datos de usuario.",
+        "Data pengguna tidak dapat diperoleh.",
+        "ไม่\u001aสามารถ\u001aโหลด\u001aข้อมูล\u001aของ\u001aผู้\u001aเล่น\u001aได้\u001a"
     ],
     "MSG_INVALID_UNITS_DEPLOYED": [
         "Invalid units selected.",
@@ -23161,6 +23311,16 @@
         "Jumat",
         "วัน\u001aศุกร์\u001a"
     ],
+    "SG_DAY_FRI_SF": [
+        "F",
+        "五",
+        "금",
+        "Ven",
+        "Fr",
+        "Vie",
+        "Sab",
+        "ศ.\u001a"
+    ],
     "SG_DAY_MON": [
         "Monday",
         "星期一",
@@ -23170,6 +23330,16 @@
         "Lunes",
         "Senin",
         "วัน\u001aจันทร์\u001a"
+    ],
+    "SG_DAY_MON_SF": [
+        "M",
+        "一",
+        "월",
+        "Lun",
+        "Mo",
+        "Lun",
+        "Sel",
+        "จ.\u001a"
     ],
     "SG_DAY_SAT": [
         "Saturday",
@@ -23181,6 +23351,16 @@
         "Sabtu",
         "วัน\u001aเสาร์\u001a"
     ],
+    "SG_DAY_SAT_SF": [
+        "S",
+        "六",
+        "토",
+        "Sam",
+        "Sa",
+        "Sáb",
+        "Min",
+        "ส.\u001a"
+    ],
     "SG_DAY_SUN": [
         "Sunday",
         "星期日",
@@ -23190,6 +23370,16 @@
         "Domingo",
         "Minggu",
         "วันอาทิตย์\u001a"
+    ],
+    "SG_DAY_SUN_SF": [
+        "Su",
+        "日",
+        "일",
+        "Dim",
+        "So",
+        "Dom",
+        "Sen",
+        "อา\u001a.\u001a"
     ],
     "SG_DAY_THU": [
         "Thursday",
@@ -23201,6 +23391,16 @@
         "Kamis",
         "วัน\u001aพฤหัส\u001a"
     ],
+    "SG_DAY_THU_SF": [
+        "Th",
+        "四",
+        "목",
+        "Jeu",
+        "Do",
+        "Jue",
+        "Jum",
+        "พฤ.\u001a"
+    ],
     "SG_DAY_TUE": [
         "Tuesday",
         "星期二",
@@ -23211,6 +23411,16 @@
         "Selasa",
         "วัน\u001aอังคาร\u001a"
     ],
+    "SG_DAY_TUE_SF": [
+        "T",
+        "二",
+        "화",
+        "Mar",
+        "Di",
+        "Mar",
+        "Rab",
+        "อ.\u001a"
+    ],
     "SG_DAY_WED": [
         "Wednesday",
         "星期三",
@@ -23220,6 +23430,16 @@
         "Miércoles",
         "Rabu",
         "วัน\u001aพุธ\u001a"
+    ],
+    "SG_DAY_WED_SF": [
+        "W",
+        "三",
+        "수",
+        "Mer",
+        "Mi",
+        "Mié",
+        "Kam",
+        "พ.\u001a"
     ],
     "SG_DELETE_ACCOUNT_WARN_MESSAGE": [
         "Deleted accounts cannot be restored. Any unused in-game currency cannot be used after an account is deleted. Do you want to send an account deletion request?",
@@ -24812,14 +25032,14 @@
         "NRG\u001a \u001aของ\u001aคุณ\u001aเต็ม\u001aอยู่\u001a"
     ],
     "SHOP_EXCHANGE_CONFIRM": [
-        "You can exchange <param=num> <case=lower><param=lapis></case> for <br><case=lower><param=target></case>. Proceed?",
-        "可以用<param=num>個<param=lapis>與<param=target>進行交換。<br>是否要交換？",
-        "<param=lapis><param=num>개와 <param=target>(을)를 교환할 수 있습니다.<br>교환하시겠습니까?",
-        "Vous pouvez échanger <param=num> <param=lapis> contre <param=target>. Continuer ?",
-        "Du kannst <param=num> <param=lapis> für <param=target> tauschen. Fortfahren?",
-        "Puedes intercambiar <param=num> <param=lapis> por <param=target>. ¿Continuar?",
-        "Kamu dapat menukarkan <param=num> <case=lower><param=lapis></case> dengan <case=lower><param=target></case>. Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aแลกเปลี่ยน\u001a \u001aLapis\u001a \u001aจำนวน\u001a \u001a<param=num>\u001a \u001a<case=lower><param=lapis></case>\u001a \u001aไป\u001aเป็น\u001a \u001a<case=lower><param=target></case>\u001aได้\u001a \u001aดำเนินการ\u001aแลกเปลี่ยน\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+        "<center>You can exchange <param=num> <case=lower><param=lapis></case> for <br><case=lower><param=target></case>. Proceed?</center>",
+        "<center>您可使用<param=num>個<case=lower><param=lapis></case>交換<br><case=lower><param=target></case>。是否繼續？</center>",
+        "<center><case=lower><param=lapis></case><param=num>개와 <case=lower><param=target></case>을(를)<br>교환할 수 있습니다.<br>진행하시겠습니까?</center>",
+        "<center>Vous pouvez échanger <param=num> <case=lower><param=lapis></case> contre <br><case=lower><param=target></case>. Continuer ?</center>",
+        "<center>Du kannst <param=num> <case=lower><param=lapis></case> gegen <br><case=lower><param=target></case> eintauschen. Fortfahren?</center>",
+        "<center>Puedes intercambiar <param=num> <case=lower><param=lapis></case> por <br><case=lower><param=target></case>. ¿Continuar?</center>",
+        "<center>Kamu dapat menukarkan <param=num> <case=lower><param=lapis></case> dengan <br><case=lower><param=target></case>. Lanjutkan?</center>",
+        "<center>\u001aคุณ\u001aสามารถ\u001aแลก\u001a<param=num>\u001a \u001a<case=lower><param=Lapis></case>\u001a \u001aเพื่อ\u001aรับ\u001a \u001a<br><case=lower><param=target>\u001a \u001aได้\u001a</case>\u001a \u001aต้องการ\u001aดำเนินการ\u001aต่อไป\u001aหรือไม่\u001a?</center>\u001a"
     ],
     "SHOP_EXCHANGE_CONFIRM_TITLE": [
         "Exchange",
@@ -24842,14 +25062,14 @@
         "เพิ่ม\u001aโควต้า\u001a"
     ],
     "SHOP_EXTENSION_CONFIRM": [
-        "Increase your <color=255:0:0><case=lower><param=unit></case> limit</color> by<br><color=255:255:0><param=add> slots</color> for <color=255:0:0><param=num></color> lapis?",
-        "使用<color=255:0:0><param=num>個</color>寶石將<br><color=255:0:0><param=unit>的最大持有欄</color>擴張<color=255:255:0><param=add>欄</color>。<br>是否擴張？",
-        "라피스 <color=255:0:0><param=num>개</color>를 사용하여<br><color=255:0:0><param=unit>의 최대 보유 칸</color>을 <color=255:255:0><param=add>칸</color> 확장합니다.<br>진행하시겠습니까?",
-        "Augmentez votre limite de/d'<color=255:0:0><param=unit></color> de <br><color=255:255:0><param=add> cases</color> pour <color=255:0:0><param=num></color> lapis?",
-        "Das <color=255:0:0><param=unit></case>-Limit</color> um<br><color=255:255:0><param=add> Slots</color> für <color=255:0:0><param=num></color> Lapis erweitern?",
-        "¿Aumentar tu <color=255:0:0><case=lower><param=unit></case> límite</color> en<br><color=255:255:0><param=add> ranuras</color> con <color=255:0:0><param=num></color> lapis?",
-        "Perluas <color=255:0:0>batas <case=lower><param=unit></case> </color> sebanyak<br><color=255:255:0><param=add> slot</color> dengan <color=255:0:0><param=num></color> lapis?",
-        "คุณ\u001aต้องการ\u001aเพิ่ม\u001aขีดจำกัด\u001aการ\u001aถือครอง\u001a<color=255:0:0><case=lower><param=unit></case>\u001aสูงสุด\u001a</color>\u001aไป\u001aอีก\u001a<br><color=255:255:0><param=add>\u001a \u001aช่อง\u001aเก็บ\u001a</color>\u001a \u001aโดย\u001aใช้\u001a \u001aLapis\u001a \u001a<color=255:0:0><param=num></color>\u001a \u001aเม็ด\u001aหรือไม่\u001a?\u001a"
+        "<center>Increase your <color=255:0:0><case=lower><param=unit></case> limit</color> by<br><color=255:255:0><param=add> slots</color> for <color=255:0:0><param=num></color> lapis?</center>",
+        "<center>是否使用<color=255:0:0><param=num></color>寶石將您的<color=255:0:0><case=lower><param=unit></case>持有欄位數</color>提升<br><color=255:255:0><param=add>個欄位</color>？</center>",
+        "<center>라피스 <color=255:255:0><param=num>개</color>를 사용하여<br><color=255:255:0><case=lower><param=unit></case>의 최대 보유 칸</color>을 <color=255:255:0><param=add>칸</color> 확장합니다.<br>진행하시겠습니까?</center>",
+        "<center>Augmenter votre <color=255:0:0><case=lower><param=unit></case> limite</color> d'<br><color=255:255:0><param=add> emplacements</color> contre <color=255:0:0><param=num></color> lapis ?</center>",
+        "<center>Das <color=255:0:0><case=lower><param=unit></case>-Limit</color> um<br><color=255:255:0><param=add> Slots</color> für <color=255:0:0><param=num></color> Lapis erweitern?</center>",
+        "<center>¿Quieres aumentar tu <color=255:0:0><case=lower><param=unit></case> límite</color> en<br><color=255:255:0><param=add> ranuras</color> por <color=255:0:0><param=num></color> lapis?</center>",
+        "<center>Tingkatkan batas <color=255:0:0><case=lower><param=unit></case>mu</color> sebanyak<br><color=255:255:0><param=add> slot</color> dengan <color=255:0:0><param=num></color> lapis?</center>",
+        "<center>\u001aเพิ่มจำนวน\u001a \u001a<color=255:0:0><case=lower><param=unit></case>\u001a \u001aสูงสุด\u001a</color><br><color=255:255:0><param=add>\u001a \u001aช่อง\u001a</color>\u001a \u001aโดย\u001aใช้\u001a \u001a<color=255:0:0><param=num></color>\u001a \u001aLapis\u001a \u001aหรือไม่\u001a?</center>\u001a"
     ],
     "SHOP_EXTENSION_CONFIRM_FRAME": [
         "<param=now> → <color=255:255:0><param=next> slots</color>",
@@ -25172,14 +25392,14 @@
         "ฟื้นฟู\u001a \u001aNRG\u001a"
     ],
     "SHOP_STAMINA_RECOVERY_CONFIRM": [
-        "Spend <param=num> <case=lower><param=lapis></case> to recover your energy by <color=255:0:0>its maximum value</color>?",
-        "可以用<param=num>個<param=lapis><color=255:0:0>恢復體力最大值量</color>的體力。<br>是否要恢復？",
-        "<param=lapis> <param=num>개를 사용하여<br><color=255:0:0>체력을 모두 회복</color>할 수 있습니다.<br>회복하시겠습니까?",
-        "Dépenser <param=num> <param=lapis> pour récupérer la <color=255:0:0>totalité</color> de votre endurance ?",
-        "<param=num> <param=lapis> verwenden, um deine Energie auf <color=255:0:0>ihren Maximalwert wiederherzustellen</color>?",
-        "¿Usar <param=num> <param=lapis> para recuperar tu energía <color=255:0:0>al máximo</color>?",
-        "Gunakan <param=num> <case=lower><param=lapis></case> untuk memulihkan energimu <color=255:0:0>hingga maksimum</color>?",
-        "คุณ\u001aจะ\u001aใช้\u001a \u001aLapis\u001a \u001aจำนวน\u001a \u001a<param=num>\u001a \u001a<case=lower><param=lapis></case>\u001aเม็ด\u001aเพื่อ\u001aเติม\u001aระดับ\u001a \u001aNRG\u001a \u001a<color=255:0:0>จน\u001aเต็ม\u001aค่าสูงสุด\u001aหรือไม่\u001a</color>?\u001a"
+        "<center>Spend <param=num> <case=lower><param=lapis></case> to recover your energy by <color=255:0:0>its maximum value</color>?</center>",
+        "<center>是否使用<param=num><case=lower><param=lapis></case>將您的體力恢復至<color=255:0:0>最大值</color>？</center>",
+        "<center><case=lower><param=lapis></case>을(를) <param=num>개 사용하여<br><color=255:255:0>체력을 최대로 회복</color>할 수 있습니다.<br>회복하시겠습니까?</center>",
+        "<center>Dépenser <param=num> <case=lower><param=lapis></case> pour restaurer votre endurance <color=255:0:0>à son niveau maximum</color> ?</center>",
+        "<center><param=num> <case=lower><param=lapis></case> verwenden, um deine Energie auf <color=255:0:0>ihren Maximalwert wiederherzustellen</color>?</center>",
+        "<center>¿Quieres usar <param=num> <case=lower><param=lapis></case> para recuperar tu energía <color=255:0:0>al máximo</color>?</center>",
+        "<center>Gunakan <param=num> <case=lower><param=lapis></case> untuk memulihkan <color=255:0:0>seluruh</color> energimu?</center>",
+        "<center>\u001aใช้\u001a \u001a<param=num>\u001a \u001a<case=lower><param=Lapis></case>\u001a \u001aเพื่อ\u001aฟิ้น\u001aฟู\u001a \u001aNRG\u001a \u001a<color=255:0:0>\u001aเต็มที่\u001a</color>\u001a \u001aหรือไม่\u001a?</center>\u001a"
     ],
     "SHOP_STAMINA_RECOVERY_ITEM": [
         "You can recover <color=255:255:0><param=recover> energy by using <color=255:255:0><param=num> energy recovery item(s). Proceed with recovery?",
@@ -25951,6 +26171,56 @@
         "HP",
         "HP\u001a"
     ],
+    "SUMMON_BEAST_BOARD_LOCK_PIECE_OPEN_CONFIRM_CAUTION_1": [
+        "Materials will be consumed to unlock the panel. Proceed?",
+        "將消耗素材解鎖面板。是否繼續？",
+        "재료를 소비하여 패널을 개방합니다. 진행하시겠습니까?",
+        "Les matériaux seront consommés pour débloquer le tableau. Continuer ?",
+        "Materialien werden verbraucht, um die Kachel freizuschalten. Fortfahren?",
+        "Se usarán materiales para desbloquear la casilla. ¿Continuar?",
+        "Material akan digunakan untuk membuka panel. Lanjutkan?",
+        "วัตถุดิบ\u001aจะ\u001aถูก\u001aใช้\u001aไป\u001aเพื่อ\u001aปลด\u001aล็อค\u001aกระดาน\u001a \u001aต้องการ\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+    ],
+    "SUMMON_BEAST_BOARD_LOCK_PIECE_OPEN_CONFIRM_CAUTION_2": [
+        "SP can be consumed after unlocking to learn the ability.",
+        "解鎖後可消耗SP學習能力。",
+        "개방 후 SP를 소비하여 어빌리티를 습득할 수 있습니다.",
+        "Des PC peuvent être consommés après le déblocage pour apprendre l'aptitude.",
+        "SP können verbraucht werden, nachdem das Erlernen der Fertigkeit freigeschaltet wurde.",
+        "Tras el desbloqueo, se pueden usar PAC para aprender la habilidad.",
+        "PS dapat digunakan setelah membuka panel untuk mempelajari ability.",
+        "สามารถ\u001aใช้\u001a \u001aSP\u001a \u001aเพื่อ\u001aเรียนรู้\u001a \u001aAbility\u001a \u001aได้\u001aหลังจากที่\u001aปลด\u001aล็อค\u001aแล้ว\u001a"
+    ],
+    "SUMMON_BEAST_BOARD_LOCK_PIECE_OPEN_CONFIRM_MATERIAL_TITLE": [
+        "Unlock Material",
+        "解鎖素材",
+        "개방 재료",
+        "Matériaux de déblocage",
+        "Freischaltungsmaterial",
+        "Material de desbloqueo",
+        "Buka Material",
+        "ปลด\u001aล็อค\u001aวัตถุดิบ\u001a"
+    ],
+    "SUMMON_BEAST_BOARD_LOCK_PIECE_OPEN_LAST_CONFIRM_ANNOUNCE": [
+        "Materials will be consumed to unlock the panel.",
+        "將消耗素材解鎖面板。",
+        "재료를 소비하여 패널을 개방합니다.",
+        "Les matériaux seront consommés pour débloquer le tableau.",
+        "Materialien werden verbraucht, um die Kachel freizuschalten.",
+        "Se consumirán materiales para desbloquear la casilla.",
+        "Material akan digunakan untuk membuka panel.",
+        "วัตถุดิบ\u001aจะ\u001aถูก\u001aใช้\u001aไป\u001aเพื่อ\u001aปลด\u001aล็อค\u001aกระดาน\u001a \u001aต้องการ\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+    ],
+    "SUMMON_BEAST_BOARD_LOCK_PIECE_OPEN_LAST_CONFIRM_TITLE": [
+        "Confirm Unlock",
+        "確認解鎖",
+        "개방 확인",
+        "Confirmer le déblocage",
+        "Freischalten bestätigen",
+        "Confirmar desbloqueo",
+        "Konfirmasi Buka",
+        "ยืนยัน\u001aการปลด\u001aล็อค\u001a"
+    ],
     "SUMMON_BEAST_BOARD_MAG": [
         "MAG",
         "魔力",
@@ -26332,14 +26602,14 @@
         "บอร์ด\u001aการ\u001aฝึก\u001a \u001aEsper\u001a \u001aได้รับ\u001aการ\u001aรี\u001aเซ็ท\u001aแล้ว\u001a<br>\u001aSP\u001a \u001aทั้งหมด\u001aถูก\u001aคืน\u001aมา\u001aให้\u001aคุณ\u001aแล้ว\u001a<br><br>\u001aคุณ\u001aสามารถ\u001aดำเนินการ\u001aฝึก\u001a \u001aEsper\u001a \u001aใหม่\u001aได้\u001aใน\u001aตอนนี้\u001a"
     ],
     "SUMMON_BEAST_SP_RESET_EXPLANE_MESSAGE": [
-        "You can use <color=255:255:0>lapis</color> to <color=255:255:0>completely reset the SP used</color> to train your espers.<br>*Reset <color=255:255:0>SP will be added to your total.</color><br>Proceed with reset?",
-        "使用<color=255:255:0>寶石</color>，可將幻獸成長時<br>花費ＳＰ獲得的<color=255:255:0>板，全數<br>重置</color>，並再次<br>進行育成。<br>※重置部分的<color=255:255:0>ＳＰ將全數<br>歸還</color>至持有欄。<br> <br>確定要重置育成板嗎？",
-        "<color=255:255:0>라피스</color>를 사용하여 환수 성장에서<br>SP를 소비하여 획득한<color=255:255:0> 패널을 모두<br>초기화</color>하여 처음부터 다시<br>육성할 수 있습니다.<br>※초기화한 모든 SP는<color=255:255:0> 보유 칸으로<br>반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
-        "Vous pouvez utiliser <color=255:255:0>des lapis</color> pour<br><color=255:255:0>réinitialiser complètement les PC utilisés </color><br>pour entraîner vos chimères.<br><color=255:255:0>*Les PC réinitialisés seront ajoutés<br>à votre total.</color><br>Voulez-vous lancer la réinitialisation ?",
-        "Du kannst <color=255:255:0>Lapis</color> einsetzen,<br><color=255:255:0>um die verbrauchten SP komplett zurückzusetzen,</color><br>um deine Esper zu trainieren.<br>*Zurücksetzen der <color=255:255:0>wird dem Gesamtbetrag hinzugefügt<br>.</color><br>Mit Zurücksetzen fortfahren?",
-        "Puedes usar <color=255:255:0>lapis</color> para <br><color=255:255:0>restablecer completamente los PA que has usado</color><br> entrenando a tus espers.<br>*Los PA restablecidos <color=255:255:0>se  añadirán<br>a tu total.</color><br>¿Quieres restablecer los PA?",
-        "Kamu dapat menggunakan <color=255:255:0>lapis</color> untuk<br><color=255:255:0>mereset seluruh PS yang telah digunakan</color><br>untuk melatih espermu.<br>*<color=255:255:0>PS yang direset akan ditambahkan<br>ke dalam jumlah total PS yang kamu miliki.</color><br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aใช้\u001a \u001a<color=255:255:0>\u001aLapis\u001a</color>\u001a \u001aใน\u001aการ\u001a<br><color=255:255:0>\u001a \u001aรี\u001aเซ็ท\u001aค่า\u001a \u001aSP\u001a \u001aทั้งหมด\u001aที่\u001aใช้\u001aไป\u001aใน\u001aการ\u001a</color><br>\u001aฝึก\u001a \u001aEsper\u001a \u001aของ\u001aคุณ\u001a<br>*\u001aทั้งนี้\u001a \u001a<color=255:255:0>\u001aค่า\u001a \u001aSP\u001a \u001aที่\u001aถู\u001aกรี\u001aเซ็ท\u001a \u001aจะ\u001aถู\u001aกรวม\u001aเข้ากับ\u001a<br>\u001aSP\u001a \u001aที่\u001aคุณ\u001aมี\u001aอยู่\u001a</color><br>\u001aดำเนินการ\u001aรี\u001aเซ็ท\u001aต่อไป\u001aเลย\u001aหรือไม่\u001a?\u001a"
+        "You can use <color=255:255:0>lapis</color> to <color=255:255:0>completely reset the SP used</color> to train your espers.<br>*Reset <color=255:255:0>SP will be added to your total.</color><br><br><color=255:0:0>*Panels unlocked using <param=item_name>will remain unlocked.</color><br> <br>Proceed with reset?",
+        "您可使用<color=255:255:0>寶石</color>將育成幻獸<color=255:255:0>所使用的SP完全重置</color>。<br>*將重新獲得<color=255:255:0>所有重置的SP。</color><br><br><color=255:0:0>*使用<param=item_name>解鎖的面板將維持解鎖狀態。</color><br> <br>是否重置？",
+        "<color=255:255:0>라피스</color>를 사용하여, 환수 성장에서 SP를 소비하여 획득한 <color=255:255:0>패널을 모두 초기화</color>하고 처음부터 다시 육성할 수 있습니다.<br>* 초기화한 모든 <color=255:255:0>SP는 보유 칸으로 반환</color>됩니다.<br> <br><color=255:0:0>* '<param=item_name>'을(를) 소비하여 개방한 패널의 개방 상태는 유지됩니다.</color><br> <br>육성 보드를 초기화하시겠습니까?",
+        "Vous pouvez utiliser des <color=255:255:0>lapis</color> pour <color=255:255:0>réinitialiser complètement les PC utilisés</color> pour entraîner vos chimères.<br><color=255:255:0>* Les PC réinitialisés seront ajoutés à votre total.</color><br><br><color=255:0:0>* Les tableaux débloqués en utilisant <param=item_name>resteront débloqués.</color><br> <br>Voulez-vous lancer la réinitialisation ?",
+        "Du kannst <color=255:255:0>Lapis</color> einsetzen,<br><color=255:255:0>um die verbrauchten SP komplett zurückzusetzen</color><br>und deine Esper zu trainieren.<br>* Zurückgesetzte <color=255:255:0>SP werden dem Gesamtbetrag hinzugefügt.</color><br><br><color=255:0:0>* Kacheln, die mit <param=item_name> freigeschaltet wurden, bleiben freigeschaltet.</color><br> <br>Mit Zurücksetzen fortfahren?",
+        "Puedes usar <color=255:255:0>lapis</color> para <color=255:255:0>restablecer todos los PAC usados</color> para entrenar a tus espers.<br>*Los <color=255:255:0>PAC restablecidos se añadirán a tu total.</color><br><br><color=255:0:0>*Las casillas desbloqueadas mediante <param=item_name> seguirán desbloqueadas.</color><br> <br>¿Continúas con el restablecimiento?",
+        "Dengan menggunakan <color=255:255:0>lapis</color>, kamu dapat <color=255:255:0>mereset papan latihan esper</color> dan memulihkan seluruh PS yang telah digunakan agar kamu dapat melatih kembali espermu.<br>*PS yang direset <color=255:255:0>akan ditambahkan ke total yang kamu miliki.</color><br><br><color=255:0:0>*Panel yang dibuka dengan <param=item_name> akan tetap terbuka.</color><br> <br>Lanjutkan?",
+        "คุณ\u001aสามารถ\u001aใช้\u001a \u001a<color=255:255:0>\u001aLapis\u001a</color>\u001a \u001aเพื่อ\u001a \u001a<color=255:255:0>\u001aรีเซ็ต\u001a \u001aSP\u001a \u001aทั้งหมด\u001aที่\u001aใช้\u001a</color>\u001a \u001aใน\u001aการ\u001aฝึก\u001a \u001aEsper\u001a \u001aได้\u001a<br>*<color=255:255:0>\u001aSP\u001a \u001aที่\u001aถูก\u001aรีเซ็ต\u001aนั้น\u001aจะ\u001aส่งกลับ\u001aไป\u001aใน\u001a \u001aSP\u001a \u001aโดยรวม\u001a</color><br><br><color=255:0:0>*\u001aกระดาน\u001aที่\u001aถูก\u001aปลด\u001aล็อค\u001aโดย\u001a \u001a<param=item_name>\u001a \u001aจะ\u001aยัง\u001aถูก\u001aปลด\u001aล็อค\u001aอยู่\u001a</color><br>\u001a \u001a<br>\u001aต้องการ\u001aรีเซ็ต\u001aหรือไม่\u001a?\u001a"
     ],
     "SUMMON_BEAST_SP_RESET_EXPLANE_TITLE": [
         "<center>Training board reset<br><param=beast_name>",
@@ -26362,14 +26632,14 @@
         "คุณ\u001aสามารถ\u001aรี\u001aเซ็ท\u001aบอร์ด\u001aการ\u001aฝึก\u001a \u001aEsper\u001a \u001a<color=255:255:0>\u001aโดย\u001aไม่ต้อง\u001aใช้\u001a \u001aLapis\u001a \u001aแต่อย่างใด\u001a</color>.<br>\u001aดำเนินการ\u001aต่อ\u001aเลย\u001aหรือไม่\u001a?\u001a"
     ],
     "SUMMON_BEAST_SP_RESET_FREE_EXPLANE_MESSAGE": [
-        "<color=255:255:0>Free for the first time</color>, you can <color=255:255:0>reset an esper's training board</color> and return spent SP so that you can retrain your esper.<br>*Reset <color=255:255:0>SP will be added to your total.</color><br>Proceed with reset?",
-        "<color=255:255:0>首次無需花費寶石，</color>可將幻獸成長時<br>花費ＳＰ獲得的<color=255:255:0>板，全數<br>重置</color>，並再次<br>進行育成。<br>※重置部分的<color=255:255:0>ＳＰ將全數<br>歸還</color>至持有欄。<br> <br>確定要重置育成板嗎？",
-        "<color=255:255:0>첫 초기화 시 라피스를 소모하지 않고</color><br>환수 성장에서 SP를 소모하여<br>획득한 <color=255:255:0>패널을 모두<br>초기화</color>한 뒤<br>처음부터 다시 육성할 수 있습니다.<br>※초기화한 모든 SP는<br><color=255:255:0> 보유 칸으로 반환</color>됩니다.<br> <br>육성 보드를 초기화하시겠습니까?",
-        "Vous pouvez <color=255:255:0>réinitialiser le panneau d'entraînement</color> d'une chimère <color=255:255:0>gratuitement la première fois</color> et récupérer les PC dépensés afin de pouvoir l'entraîner à nouveau.<br>*Les<color=255:255:0> PC réinitialisés seront ajoutés<br>à votre total.</color><br>Voulez-vous continuer ?",
-        "<color=255:255:0>Beim ersten Mal kostenlos</color>. Du kannst <color=255:255:0>die Trainingsliste eines Espers zurücksetzen</color>und verbrauchte SP wiederherstellen, um deine Esper erneut zu trainieren.<br>*Zurücksetzen <color=255:255:0>der SP wird dem Gesamtbetrag hinzugefügt<br>.</color><br>Mit Zurücksetzen fortfahren?",
-        "<color=255:255:0>Como la primera vez es gratis,</color> puedes <br><color=255:255:0>reiniciar completamente el tablero de entrenamiento de tu esper</color><br>y recuperar todos los PA ya usados para entrenarlo de nuevo.<br>*Los PA restablecidos <color=255:255:0>se  añadirán<br>a tu total.</color><br>¿Quieres restablecer los PA?",
-        "Kamu dapat <color=255:255:0>papan pelatuhan esper</color> secara <color=255:255:0>gratis untuk pertama kali</color> dan mengembalikan PS yang telah kamu gunakan untuk melatih kembali espermu.<br>*<color=255:255:0>PS yang direset akan ditambahkan<br>ke dalam jumlah total PS yang kamu miliki.</color><br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001a<color=255:255:0>\u001aรี\u001aเซ็ท\u001aบอร์ด\u001aการ\u001aฝึก\u001a \u001aEsper\u001a \u001a</color>\u001a \u001aได้\u001a<color=255:255:0>\u001aฟรี\u001aเฉพาะ\u001aใน\u001aหน\u001aแรก\u001a</color>\u001a \u001aและ\u001aคุณ\u001aจะ\u001aได้รับ\u001aค่า\u001a \u001aSP\u001a \u001aที่\u001aใช้\u001aไป\u001aคืน\u001aมา\u001a \u001aเพื่อ\u001aนำ\u001aไป\u001aฝึก\u001a \u001aEsper\u001a \u001aใหม่\u001a<br>*\u001aทั้งนี้\u001a \u001a<color=255:255:0>\u001a \u001aค่า\u001a \u001aSP\u001a \u001aที่\u001aถู\u001aกรี\u001aเซ็ท\u001aจะ\u001aถูก\u001aเพิ่ม\u001aให้\u001aกับ\u001a<br>\u001a \u001aSP\u001a \u001aทั้งหมด\u001aที่\u001aคุณ\u001aมี\u001aอยู่\u001a</color><br>\u001aดำเนินการ\u001aรี\u001aเซ็ท\u001aเลย\u001aหรือไม่\u001a?\u001a"
+        "<color=255:255:0>Free for the first time</color>, you can <color=255:255:0>reset an esper's training board</color> and return spent SP so that you can retrain your esper.<br>*Reset <color=255:255:0>SP will be added to your total.</color><br><br><color=255:0:0>*Panels unlocked using <param=item_name>will remain unlocked.</color><br>Proceed with reset?",
+        "<color=255:255:0>首次進行時可免費</color><color=255:255:0>重置幻獸的育成版</color>，並重新獲得已使用的SP來重新育成幻獸。<br>*將重新獲得<color=255:255:0>所有重置的SP。</color><br><br><color=255:0:0>*使用<param=item_name>解鎖的面板將維持解鎖狀態。</color><br>是否重置？",
+        "<color=255:255:0>첫 초기화 시에는 라피스를 소비하지 않고</color> 환수 성장에서 SP를 소비하여 획득한 <color=255:255:0>패널을 모두 초기화</color>하여 처음부터 다시 육성할 수 있습니다.<br>* 초기화한 모든 <color=255:255:0>SP는 보유 칸으로 반환</color>됩니다.<br> <br><color=255:0:0>* '<param=item_name>'을(를) 소비하여 개방한 패널의 개방 상태는 유지됩니다.</color><br> <br>육성 보드를 초기화하시겠습니까?",
+        "<color=255:255:0>La première fois étant gratuite</color>, vous pouvez <color=255:255:0>réinitialiser le tableau d'entraînement de vos chimères</color> et récupérer vos PC dépensés afin d'entraîner à nouveaux votre chimère.<br><color=255:255:0>* Les PC réinitialisés seront ajoutés à votre total.</color><br><br><color=255:0:0>* Les panneaux débloqués en utilisant <param=item_name>resteront débloqués.</color><br>Voulez-vous lancer la réinitialisation ?",
+        "<color=255:255:0>Beim ersten Mal kostenlos</color>. Du kannst <color=255:255:0>die Trainingsliste eines Espers zurücksetzen</color> und verbrauchte SP wiederherstellen, um deine Esper erneut zu trainieren.<br>* Zurückgesetzte <color=255:255:0>SP werden dem Gesamtbetrag hinzugefügt.</color><br><br><color=255:0:0>* Kacheln, die mit <param=item_name> freigeschaltet wurden, bleiben freigeschaltet.</color><br>Mit Zurücksetzen fortfahren?",
+        "<color=255:255:0>La primera vez es gratis.</color> Puedes <color=255:255:0>restablecer la tabla de entrenamiento de un esper</color> y recuperar los PAC gastados para volver a entrenar a tu esper.<br>*Los <color=255:255:0>PAC restablecidos se añadirán a tu total.</color><br><br><color=255:0:0>*Las casillas desbloqueadas mediante <param=item_name> seguirán desbloqueadas.</color><br>¿Continúas con el restablecimiento?",
+        "<color=255:255:0>Gratis untuk pertama kali</color>, kamu dapat <color=255:255:0>mereset papan latihan esper</color> dan memulihkan seluruh PS yang telah digunakan agar kamu dapat melatih kembali espermu.<br>*PS yang direset <color=255:255:0>akan ditambahkan ke total yang kamu miliki.</color><br><br><color=255:0:0>*Panel yang dibuka dengan <param=item_name> akan tetap terbuka.</color><br> <br>Lanjutkan?",
+        "<color=255:255:0>(\u001aรีเซ็ต\u001aครั้งแรก\u001aฟรี\u001a)</color>\u001a \u001aคุณ\u001aจะ\u001aสามารถ\u001a \u001a<color=255:255:0>\u001aรีเซ็ต\u001aกระดาน\u001aฝึก\u001a \u001aEsper\u001a \u001aได้\u001a</color>\u001a \u001aและ\u001aจะ\u001aได้รับ\u001a \u001aSP\u001a \u001aกลับคืน\u001aเพื่อ\u001aทำการ\u001aฝึก\u001a \u001aEsper\u001a \u001aอีกครั้ง\u001a<br>*<color=255:255:0>\u001aSP\u001a \u001aที่\u001aถูก\u001aรีเซ็ต\u001aนั้น\u001aจะ\u001aส่งกลับ\u001aไป\u001aใน\u001a \u001aSP\u001a \u001aโดยรวม\u001a</color><br><br><color=255:0:0>*\u001aกระดาน\u001aที่\u001aถูก\u001aปลดล็อก\u001aโดย\u001a \u001a<param=item_name>\u001a \u001aจะ\u001aยัง\u001aถูก\u001aปลด\u001aล็อค\u001aอยู่\u001a</color><br>\u001aต้องการ\u001aรีเซ็ต\u001aหรือไม่\u001a?\u001a"
     ],
     "SUMMON_BEAST_SP_RESET_FREE_EXPLANE_TITLE": [
         "<center>Training Board Reset (<color=255:255:0>First time free</color>) <br><param=beast_name>",
@@ -28471,6 +28741,76 @@
         "Total",
         "รวม\u001a"
     ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_ANNOUNCE": [
+        "<param=use_num> Master's Crown(s) will be used to awaken the ability.",
+        "使用<param=use_num>個大師王冠覺醒能力。",
+        "마스터 크라운을 <param=use_num>개 사용하여<br>어빌리티를 각성합니다.",
+        "<param=use_num> couronne(s) de maître sera (seront) utilisée(s) pour éveiller l'aptitude.",
+        "<param=use_num> Meisterkrone(n) wird/werden verwendet, um die Fertigkeit zu erwecken.",
+        "Se usará(n) <param=use_num> corona(s) de maestro para despertar la habilidad.",
+        "<param=use_num> mahkota sang master akan digunakan untuk membangkitkan ability.",
+        "จะ\u001aใช้\u001aมงกุฎ\u001aเป็นผู้ใหญ่\u001a \u001a<param=use_num>\u001a \u001aชิ้น\u001aใน\u001aการปลุก\u001aพลัง\u001a \u001aAbility\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_CAUTION": [
+        "*If unit-fixed crowns are held, they will be consumed first.",
+        "*若持有兵員固有王冠，將優先消耗該王冠。",
+        "* 유닛 고유 크라운을 보유한 경우 고유 크라운을 먼저 사용합니다.",
+        "* Si vous possédez des couronnes de maître spécifiques à l'unité, elles seront consommées en premier.",
+        "* Falls sich einheitenspezifische Meisterkronen im Besitz befinden, werden diese zuerst aufgebraucht.",
+        "*Se usarán primero las coronas de maestro de unidad fija en posesión.",
+        "*Apabila terdapat mahkota sang master spesifik unit, mahkota sang master tersebut akan digunakan terlebih dahulu.",
+        "*\u001aจะ\u001aใช้\u001aมงกุฎ\u001aเป็นผู้ใหญ่\u001aเฉพาะ\u001aยู\u001aนิ\u001aท\u001aก่อน\u001aหาก\u001aมี\u001aมงกุฎ\u001aประเภท\u001aนั้น\u001aอยู่\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_DECIDE_BUTTON_LABEL": [
+        "Awaken",
+        "覺醒",
+        "각성",
+        "Éveiller",
+        "Erwecken",
+        "Despertar",
+        "Bangkitkan",
+        "ปลุก\u001aพลัง\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_POSSESSION_NUM": [
+        "Number Held",
+        "持有數",
+        "보유 수",
+        "En possession",
+        "Anzahl im Besitz",
+        "En mano",
+        "Dimiliki",
+        "จำนวน\u001aที่\u001aมี\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_SLASH": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_TITLE": [
+        "Master's Crown Confirmation",
+        "確認使用大師王冠",
+        "마스터 크라운 사용 확인",
+        "Confirmation d'utilisation de couronne(s) de maître",
+        "Meisterkrone bestätigen",
+        "Confirmación de coronas de maestro",
+        "Konfirmasi Mahkota sang Master",
+        "ยืนยัน\u001aการ\u001aใช้\u001aมงกุฎ\u001aเป็นผู้ใหญ่\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_CONFIRM_USE_NUM": [
+        "Number Used",
+        "使用數",
+        "사용 수",
+        "Quantité utilisée",
+        "Verwendet",
+        "N.º usado",
+        "Digunakan",
+        "จำนวน\u001aที่\u001aใช้\u001a"
+    ],
     "UNIT_ENHANCE_ABILITY_CLASSUP_SUBHEADER_TITLE": [
         "Select Ability Awakening",
         "選擇能力覺醒",
@@ -28480,6 +28820,26 @@
         "Seleccionar despertar de habilidad",
         "Pilih Kebangkitan Ability",
         "เลือก\u001a \u001aAbility\u001a \u001aปลุก\u001aพลัง\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_CLASSUP_UNIQUE_MASTER_CROWN_MARK": [
+        "( )",
+        "（）",
+        "( )",
+        "( )",
+        "( )",
+        "( )",
+        "( )",
+        "(\u001a \u001a)\u001a"
+    ],
+    "UNIT_ENHANCE_ABILITY_POSSESSION_MATERIAL_TITLE": [
+        "Materials Held",
+        "持有素材",
+        "보유 재료 목록",
+        "Matériaux en possession",
+        "Materialien im Besitz",
+        "Materiales en mano",
+        "Material",
+        "วัตถุดิบ\u001aที่\u001aมี\u001a"
     ],
     "UNIT_ENHANCE_CLASSUP_BUTTON_DESC_ABILITY_CLASSUP": [
         "Boost and change ability effects!",
@@ -29012,14 +29372,14 @@
         "แต้ม\u001aแห่ง\u001aการ\u001aบรรลุ\u001a"
     ],
     "UNIT_ENHANCE_MIX_EXLV_REMOVE_DESCRIPTION": [
-        "*Over-level units will be returned to the mailbox according to the number of over-levels reverted.",
-        "*EXLv. UP兵員將按照其EXLv.提升次數，歸還至收信箱中。",
-        "*해제되는 EX 레벨 UP 수만큼 EX 레벨 UP 유닛이 메시지함으로 반환됩니다.",
-        "* Les unités en extra niveaux seront renvoyées dans la boîte de réception selon le nombre d'extra niveaux rénitialisés.",
-        "* Einheiten mit Stufenüberschreitung werden entsprechend der Anzahl an zurückgesetzten Stufenüberschreitungen an den Posteingang zurückgeschickt.",
-        "*Las unidades que sobrepasen el nivel máximo se devolverán al buzón según el número de niveles extra revertidos.",
-        "*Unit yang memiliki extra level akan dikembalikan ke kotak masuk sesuai dengan jumlah extra level yang dikembalikan.",
-        "*\u001aยู\u001aนิ\u001aท\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aจะ\u001aถูก\u001aส่งคืน\u001aไป\u001aทาง\u001aกล่อง\u001aจดหมาย\u001aตาม\u001aจำนวน\u001a \u001aLv\u001a.\u001a \u001aที่\u001aเกิน\u001aมา\u001a"
+        "*Over-level units will be returned to the mailbox according to the number of over-levels reverted.<br>However, fixed-unit materials will not be returned, and over-levels will be retained.",
+        "*EXLv. UP兵員將按照其EXLv.提升次數，歸還至收信箱中。<br>然而，固有兵員素材不會退回，EXLv.也將維持原樣。",
+        "* 해제되는 EX 레벨 UP 수만큼<br>EX 레벨 UP 유닛이 메시지함으로 반환됩니다.<br>　<br>그러나 유닛 고유의 EX 레벨 UP 유닛은<br>사용한 수만큼 반환되지 않고, EX 레벨도 유지됩니다.",
+        "* Les unités en extra niveaux seront renvoyées dans la boîte de réception selon le nombre d'extra niveaux rénitialisés.<br>Cependant, les matériaux spécifiques à une unité ainsi que les extra niveaux seront perdus.",
+        "* Einheiten mit Stufenüberschreitung werden entsprechend der Anzahl an zurückgesetzten Stufenüberschreitungen an den Posteingang zurückgeschickt.<br>Einheitenspezifische Materialien werden jedoch nicht erstattet und Stufenüberschreitungen bleiben erhalten.",
+        "*Las unidades que sobrepasen el nivel máximo se devolverán al buzón según el número de niveles extra revertidos.<br>Sin embargo, los materiales de unidad fija no se devolverán, y los niveles extra se mantendrán.",
+        "*Unit yang memiliki extra level akan dikembalikan ke kotak masuk sesuai dengan jumlah extra level yang dikembalikan. <br>Namun, material spesifik unit tidak akan dikembalikan dan extra level tidak akan hilang.",
+        "*\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aนั้น\u001aจะ\u001aถูก\u001aส่งกลับ\u001aไป\u001aที่\u001aกล่อง\u001aจดหมาย\u001aตาม\u001aจำนวน\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aที่\u001aถูก\u001aย้อนกลับ\u001a<br>\u001aแต่\u001aผู้\u001aเล่น\u001aจะ\u001aไม่\u001aได้รับ\u001aวัตถุดิบ\u001aเฉพาะ\u001aยู\u001aนิ\u001aทก\u001aลับ\u001aคืน\u001a \u001aและ\u001aยู\u001aนิ\u001aท\u001aนั้น\u001aจะ\u001aยังคง\u001aมี\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aอยู่\u001a"
     ],
     "UNIT_ENHANCE_MIX_EXLV_REMOVE_SUBTITLE1": [
         "Consume",
@@ -29320,6 +29680,26 @@
         "Mejorar PM",
         "Perkuat MP",
         "เสริม\u001aพลัง\u001a \u001aMP\u001a"
+    ],
+    "UNIT_ENHANCE_STATUSUP_CONSUME_ONLY_UNIT_UNIQUE_POINTS": [
+        "Enhance unit using points from unit-specific materials only",
+        "僅使用來自兵員特有素材的點數強化兵員",
+        "유닛 고유 재료의 포인트만 사용해 유닛 강화",
+        "Améliorer une unité en utilisant uniquement des points de matériaux spécifiques à cette unité",
+        "Einheit nur mit Punkten von einheitenspezifischen Materialien verbessern",
+        "Mejorar unidad usando solo puntos de materiales específicos de unidad",
+        "Perkuat unit hanya dengan poin dari material spesifik unit",
+        "ปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001aโดย\u001aใช้\u001a \u001aPt\u001a.\u001a \u001aจาก\u001aวัตถุดิบ\u001aเฉพาะ\u001aยู\u001aนิ\u001aท\u001aเท่านั้น\u001a"
+    ],
+    "UNIT_ENHANCE_STATUSUP_CONSUME_UNIT_UNIQUE_POINTS_PREFERRED": [
+        "(Points from unit-specific materials will be consumed first.)",
+        "(將會優先消耗來自兵員特有素材的點數。)",
+        "(유닛 고유 강화 포인트를 먼저 소비합니다)",
+        "(Les points de matériaux spécifiques à une unité seront consommés en premier.)",
+        "(Punkte von einheitenspezifischen Materialien werden zuerst aufgebraucht.)",
+        "(Se consumirán primero los puntos de materiales específicos de unidad)",
+        "(Poin dari material spesifik unit akan digunakan terlebih dahulu.)",
+        "(\u001aจะ\u001aใช้\u001a \u001aPt\u001a.\u001a \u001aจาก\u001aวัตถุดิบ\u001aเฉพาะ\u001aยู\u001aนิ\u001aท\u001aก่อน\u001a)\u001a"
     ],
     "UNIT_ENHANCE_STATUSUP_LB_EXP_TITLE1": [
         "SKILL",
@@ -30571,6 +30951,16 @@
         "<color=255:255:0>Unit yang memiliki extra level</color> telah disertakan. Apabila unit ini digabungkan, unit penguat yang digunakan untuk melampaui batas level unit ini akan hilang. Lanjutkan?<br>*Unit penguat yang digunakan untuk melampaui batas level unit standar dapat dipulihkan kembali dengan menggabungkan unit tertentu yang memiliki reset extra level dengan unit standar utama.",
         "<color=255:255:0>\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aมี\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aขีด\u001a</color>\u001a \u001aอยู่\u001aใน\u001aกลุ่ม\u001aยู\u001aนิ\u001aท\u001aที่\u001aเลือก\u001a \u001aและ\u001aยู\u001aนิ\u001aท\u001aเสริม\u001aพลัง\u001aที่\u001aใช้\u001aเพื่อ\u001aเพิ่ม\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aขีด\u001aให้\u001aยู\u001aนิ\u001aทราย\u001aนี้\u001aจะ\u001aหาย\u001aไป\u001aเมื่อ\u001aรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aนี้\u001a \u001aต้องการ\u001aดำเนินการ\u001aต่อไป\u001aหรือไม่\u001a?<br>*\u001aผู้\u001aเล่น\u001aจะ\u001aสามารถ\u001aกู้\u001aคืน\u001aยู\u001aนิ\u001aท\u001aเสริม\u001aพลัง\u001aที่\u001aใช้\u001aเพิ่ม\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aขีด\u001aให้\u001aยู\u001aนิ\u001aท\u001aธรรมดา\u001aได้\u001aโดยรวม\u001aร่าง\u001aยู\u001aนิ\u001aท\u001aรีเซ็ต\u001aการ\u001aเพิ่ม\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aขีด\u001aที่\u001aกำหนด\u001aกับ\u001aยู\u001aนิ\u001aท\u001aหลัก\u001a"
     ],
+    "UNIT_MIX_CONFIRM_MATERIAL_EX_LV_UNLOCK": [
+        "Protection will be removed from your held Eraser Gigantuar and over-level will be removed.<br>Proceed?",
+        "將解除仙人掌橡皮擦的鎖定，並解除EXLv.。<br>是否繼續？",
+        "보유 중인 이레이저 사보텐더의 잠금을 해제하고<br>EX 레벨을 해제합니다. 진행하시겠습니까?",
+        "La protection sera retirée des effaceurs pampinators dans votre inventaire et les extra niveaux seront perdus.<br>Continuer ?",
+        "Entfernt Schutz von diesem Löschkaktorius und entfernt Stufenüberschreitung.<br>Fortfahren?",
+        "Se eliminará la protección de tu gigantilio borrador y nivel extra.<br>¿Continuar?",
+        "Pengaman akan dihilangkan dari Penghapus Gigantuar yang kamu miliki dan extra level akan dihilangkan.<br>Lanjutkan?",
+        "การ\u001aตั้งค่า\u001aปกป้อง\u001aจะ\u001aถูก\u001aถอน\u001aออกจาก\u001a \u001aGigantuar\u001a \u001aลบล้าง\u001a \u001aและ\u001aจะ\u001aถอน\u001aการ\u001aเพิ่ม\u001a \u001aLv\u001a.\u001a \u001aเกิน\u001aออก\u001aด้วย\u001a<br>\u001aต้องการ\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+    ],
     "UNIT_MIX_CONFIRM_MATERIAL_MASTER_CARD": [
         "<color=255:255:0>A unit using a(n) <param=item_name></color> has been included. If fused, this will result in the loss of the <param=item_name>. Proceed anyway?<br>*The <param=item_name> can be removed by accessing the Vision Card menu under Items.",
         "素材兵員中包含<color=255:255:0>裝備<param=item_name>的兵員</color>。若要進行合成將遺失<param=item_name>，是否繼續？<br>※可於道具畫面＞幻兵卡來解除<param=item_name>。",
@@ -31641,15 +32031,25 @@
         "Status",
         "ค่า\u001aสเตตัส\u001a"
     ],
+    "UNIT_STATUS_DETAIL_TRIBE_SUB_TITLE": [
+        "(Phys/Mag/Boost)",
+        "(物理/魔法/極限突破)",
+        "(물리/마법/돌파)",
+        "(Phys./Mag./Aug.)",
+        "(Phys/Mag/Erhöhung)",
+        "(Fís./Mág./Aum.)",
+        "(Fis./Mag./Ting.)",
+        "(\u001aกาย\u001a/\u001aเวทย์\u001a/\u001aเสริม\u001a)\u001a"
+    ],
     "UNIT_STATUS_DETAIL_TRIBE_TITLE": [
-        "Damage Boosts (Physical/Magic)",
-        "種族傷害提高倍率（物理/魔法）",
-        "종족 피해량 상승 배율(물리/마법)",
-        "Augmentation des dégâts (Physique/Magique)",
-        "Schadenserhöhungen (Physisch/Magisch)",
-        "Aumentos de daño (físico/mágico)",
-        "Peningkatan Damage (Fisik/Magic)",
-        "เพิ่มค่า\u001aความเสียหาย\u001a \u001a(\u001aทางกายภาพ\u001a/\u001aพลัง\u001aเวทย์\u001a)\u001a"
+        "Damage Boosts to Enemy Type",
+        "敵人種族傷害提升倍率",
+        "종족 피해량 상승 배율",
+        "Augmentation des dégâts infligés à un type d'ennemi",
+        "Schadenserhöhung gegen Gegnertyp(en)",
+        "Aumentos de daño contra tipo de enemigo",
+        "Peningkatan Damage terhadap Jenis  Musuh",
+        "ค่า\u001aความเสียหาย\u001aที่\u001aเพิ่ม\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aที่\u001aกำหนด\u001a"
     ],
     "UNIT_TOP": [
         "Manage Party",
@@ -31941,6 +32341,16 @@
         "Peningkatan Kecepatan Pengisian LB",
         "เพิ่ม\u001a \u001aLB\u001a \u001aFill\u001a \u001aRate\u001a"
     ],
+    "USDP_POPUP_LIMIT_LABEL": [
+        "Limit Break",
+        "極限突破",
+        "한계 돌파",
+        "Limite",
+        "Limitbruch",
+        "Rompeparámetros",
+        "Limit Break",
+        "Limit\u001a \u001aBreak\u001a"
+    ],
     "USDP_POPUP_MAGIC_EVA": [
         "Magic Evasion Rate",
         "閃避魔法攻擊的機率",
@@ -32010,6 +32420,16 @@
         "Físico",
         "Fisik",
         "กายภาพ\u001a"
+    ],
+    "USDP_POPUP_PROVOKE": [
+        "Provoke",
+        "挑釁",
+        "도발",
+        "Provoquer",
+        "Provozieren",
+        "Provocación",
+        "Provokasi",
+        "ยั่วโมโห\u001a"
     ],
     "USDP_POPUP_SPR_DOWN": [
         "SPR Reduction",
@@ -32690,6 +33110,26 @@
         "Cofre de oro del guerrero",
         "Gold Chest of Warriors",
         "Gold\u001a \u001aChest\u001a \u001aof\u001a \u001aWarriors\u001a"
+    ],
+    "WEB_EVENT_REWARD_MAIL_MESSAGE": [
+        "You have received the following rewards.",
+        "您已收到下列報酬。",
+        "보상으로 아래와 같은 아이템을 지급합니다.",
+        "Vous avez reçu les récompenses suivantes.",
+        "Du hast die folgenden Belohnungen erhalten.",
+        "Has recibido las siguientes recompensas.",
+        "Kamu telah menerima hadiah berikut.",
+        "คุณ\u001aจะ\u001aได้รับ\u001aของรางวัล\u001aดังต่อไปนี้\u001a"
+    ],
+    "WEB_EVENT_REWARD_MAIL_TITLE": [
+        "Reward for %s %s times achieved",
+        "達成 %s %s 次報酬",
+        "%s %s회 달성 보상",
+        "Récompense pour %s %s réussites",
+        "Belohnung für %s %s Mal erlangt",
+        "Recompensa por %s %s vez/veces",
+        "Hadiah atas pencapaian %s %s kali",
+        "ของรางวัล\u001aจาก\u001aการ\u001aเคลียร์\u001a %s\u001a %s\u001a \u001aครั้ง\u001a"
     ],
     "WORLD_MAP": [
         "World Map",
