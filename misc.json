@@ -13958,7 +13958,7 @@
         "<color=255:255:0>END consommée en cas de défaite</color>",
         "<color=255:255:0>Energie wird bei Niederlage verbraucht</color>",
         "<color=255:255:0>Energía consumida al perder</color>",
-        "<color=255:255:0>Energi yang dikonsumsi apabila kamu kalah</color>",
+        "<color=255:255:0>Energi akan dikonsumsi apabila kamu kalah</color>",
         "<color=255:255:0>\u001aจะ\u001aเสีย\u001a \u001aNRG\u001a \u001aหาก\u001aแพ้\u001a</color>\u001a"
     ],
     "MISSION_LOSE_STAMINA_BACK_ANNOUNCE_END": [
@@ -17470,6 +17470,16 @@
         "Rareza: <color=255:255:0>Unidades NeoVisión</color>",
         "Tingkat Kelangkaan: <color=255:255:0>Unit Neo Vision</color>",
         "ระดับ\u001a \u001aRare\u001a:\u001a \u001a<color=255:255:0>\u001aยู\u001aนิ\u001aท\u001a \u001aNeo\u001a \u001aVision\u001a</color>\u001a"
+    ],
+    "MST_RULE_UNIT_DES_4035": [
+        "FFXI<br><br>*Unit categories can be confirmed via the Category Filter tab.<br>*Certain units may not fall under any category.",
+        "FFXI<br><br>※兵員類別可於類別篩選分頁中確認。<br>※某些特定兵員可能不屬於任何類別。",
+        "FFXI<br><br>※ 카테고리 해당 유닛은 정렬 필터의 카테고리 필터를 통해 확인해 주세요.<br>※ 일부 유닛은 카테고리에 해당하지 않습니다.",
+        "FFXI<br><br>* Vous pouvez confirmer la/les catégorie(s) de l'unité grâce au filtre \"Catégorie\".<br>* Certaines unités sont susceptibles de n'appartenir à aucune catégorie.",
+        "FFXI<br><br>* Einheitenkategorien können über den Reiter \"Kategorienfilter\" eingesehen werden.<br>* Bestimmte Einheiten gehören keiner Kategorie an.",
+        "FFXI<br><br>*Se pueden confirmar las categorías de las unidades en la pestaña Filtro por categorías.<br>*Puede que algunas unidades no pertenezcan a ninguna categoría.",
+        "FFXI<br><br>*Kategori unit dalam dilihat dari tab Filter Kategori.<br>*Unit tertentu mungkin tidak termasuk dalam kategori mana pun.",
+        "FFXI\u001a<br><br>*\u001aตรวจสอบ\u001aประเภท\u001aยู\u001aนิ\u001aท\u001aได้ที่\u001aแท็บ\u001aตัว\u001aกรอง\u001aประเภท\u001a<br>*\u001aยู\u001aนิ\u001aท\u001aบางราย\u001aอาจ\u001aไม่\u001aได้\u001aสังกัด\u001aใน\u001aประเภท\u001aใดๆ\u001a \u001aทั้งสิ้น\u001a"
     ],
     "MST_SEASON_EVENT_DESCRIPTION_9990": [
         "Parameter Boost Test",
@@ -27896,7 +27906,7 @@
         "以<param=point>交換了<param=item_name>。",
         "<param=item_name>(을)를 <param=point>와 교환했습니다.",
         "Vous avez échangé<br><param=item_name> contre <param=point>",
-        "Du tauschtest <param=point>gegen:<br><param=item_name>",
+        "<param=point> wurde gegen <param=item_name> eingetauscht.",
         "Has intercambiado <param=point>por:<br><param=item_name>",
         "Kamu telah menukarkan <param=point>dengan: <param=item_name>",
         "คุณ\u001aนำ\u001a \u001a<param=point>\u001aไป\u001aแลก\u001a:\u001a \u001a<param=item_name>\u001a"
