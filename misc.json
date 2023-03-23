@@ -449,6 +449,16 @@
         "Barisan Depan",
         "แถวหน้า\u001a"
     ],
+    "ABILITY_DETAIL_RANGE_LEADER_SKILL": [
+        "Affects units from specific categories",
+        "套用兵員類別",
+        "대상 카테고리 유닛",
+        "Affecte les unités de catégories spécifiques",
+        "Wirkt sich auf Einheiten bestimmter Kategorien aus.",
+        "Afecta a unidades de categorías específicas",
+        "Memengaruhi unit dari kategori tertentu",
+        "มีผลต่อ\u001aยู\u001aนิ\u001aท\u001aใน\u001aประเภท\u001aที่\u001aกำหนด\u001a"
+    ],
     "ABILITY_DETAIL_RANGE_MIDDLE": [
         "Middle Level",
         "中段",
@@ -1698,6 +1708,16 @@
         "Coliseo",
         "Koloseum",
         "บันทึก\u001aผลงาน\u001aโคล\u001aอสเซียม\u001a"
+    ],
+    "AWARD_ARCHIVE_SUB_TITLE_EVENT": [
+        "Event Results",
+        "活動結果",
+        "이벤트 결과",
+        "Résultats de l'événement",
+        "Ereignis-Ergebnisse",
+        "Resultados de evento",
+        "Hasil Event",
+        "ผลลัพธ์\u001aอีเวนท์\u001a"
     ],
     "AWARD_ARCHIVE_SUB_TITLE_QUEST": [
         "Quest",
@@ -3148,6 +3168,26 @@
         null,
         null,
         "<blank>\u001a"
+    ],
+    "CATEGORY_FILTER_RADIO_BUTTON_AND": [
+        "All of the Selected",
+        "符合全部",
+        "모두 포함",
+        "Toute la sélection",
+        "Alle der Ausgewählten",
+        "Todas las seleccionadas",
+        "Semua yang Dipilih",
+        "รวม\u001aทุกสิ่ง\u001aที่\u001aเลือก\u001a"
+    ],
+    "CATEGORY_FILTER_RADIO_BUTTON_OR": [
+        "Any of the Selected",
+        "符合任一",
+        "일부 포함",
+        "Un élément de la sélection",
+        "Eine der Ausgewählten",
+        "Cualquiera de las seleccionadas",
+        "Salah Satu yang Dipilih",
+        "รวม\u001aสิ่ง\u001aที่\u001aเลือก\u001aอย่างใดอย่างหนึ่ง\u001a"
     ],
     "CBT_CLOSE_FUNCTION": [
         "This feature is not available during the closed beta period.",
@@ -5710,6 +5750,16 @@
         "<blank>o<blank>",
         "<blank>atau<blank>",
         "<blank>\u001aหรือ\u001a<blank>\u001a"
+    ],
+    "EQUIP_NG_RULE_BAN": [
+        "Equipment not permitted.",
+        "此為禁止裝備。",
+        "금지 장비입니다.",
+        "Équipement non autorisé.",
+        "Nicht zugelassene Ausrüstung.",
+        "Equipo no permitido.",
+        "Perlengkapan dilarang.",
+        "ไม่\u001aอนุญาต\u001aให้\u001aใช้\u001aอุปกรณ์\u001a"
     ],
     "EQUIP_NG_RULE_UNMATCH": [
         "Equipment requirements not met.",
@@ -13841,6 +13891,36 @@
         "Kondisi belum terpenuhi.<br>Silakan periksa <color=255:255:0>kondisi</color> sekali lagi dan <color=255:255:0>ubah timmu</color>.",
         "สภาพ\u001aยัง\u001aไม่\u001aเป็นไป\u001aตามเงื่อนไข\u001a<br>\u001aกรุณา\u001aอ่าน\u001aข้อมูล\u001aเกี่ยวกับ\u001a \u001a<color=255:255:0>\u001aเงื่อนไข\u001a</color>\u001a \u001aและ\u001a \u001a<color=255:255:0>\u001aปรับเปลี่ยน\u001aทีม\u001aของ\u001aคุณ\u001a</color>.\u001a"
     ],
+    "MISSION_COND_DESCRIPTION_ADD_F": [
+        "Requirements necessary to challenge this quest are not met.<br>Please confirm the <color=255:255:0>requirements</color> and change the selected <color=255:255:0>companion</color>.",
+        "未滿足挑戰任務所需條件。<br>請確認<color=255:255:0>條件</color>並變更<color=255:255:0>同行者</color>。",
+        "조건을 충족하지 못했습니다.<br><color=255:255:0>조건</color>을 확인하여 <color=255:255:0>동행자</color>를 변경하십시오.",
+        "Vous ne remplissez pas les conditions nécessaires pour participer à cette quête.<br>Veuillez consulter les <color=255:255:0>conditions</color> et changez de <color=255:255:0>partenaire</color>.",
+        "Die Voraussetzungen für die Aufnahme dieses Auftrags wurden nicht erfüllt.<br>Bitte sieh dir die <color=255:255:0>Voraussetzungen</color> noch einmal an und ändere deinen ausgewählten <color=255:255:0>Begleiter</color>.",
+        "No cumples los requisitos necesarios para jugar a esta misión.<br>Confirma los <color=255:255:0>requisitos</color> y cambia el <color=255:255:0>compañero</color> seleccionado.",
+        "Ketentuan yang diperlukan untuk menantang quest ini tidak terpenuhi.<br>Silakan konfirmasi <color=255:255:0>ketentuan</color> yang diperlukan dan ubah <color=255:255:0>partner</color> yang dipilih.",
+        "ยัง\u001aไม่\u001aครบ\u001aตามเงื่อนไข\u001aใน\u001aการ\u001aเข้า\u001aท้าทาย\u001aใน\u001aเค\u001aวส\u001aนี้\u001a<br>\u001aโปรด\u001aยืนยัน\u001aรายละเอียด\u001a \u001a<color=255:255:0>\u001aเงื่อนไข\u001a</color>\u001aที่\u001aกำหนด\u001a \u001aและ\u001aเปลี่ยน\u001a<color=255:255:0>\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001a</color>\u001aที่\u001aคุณ\u001aเลือก\u001a"
+    ],
+    "MISSION_COND_INFO_ADD_F": [
+        "*Filter for restricted units currently ON",
+        "※限制出擊兵員篩選使用中",
+        "※ 유닛 출격 제한용 필터 사용 중",
+        "* Le filtre de restriction des unités est actuellement ACTIF",
+        "* Der Filter für die Einheitenbeschränkung ist derzeit AKTIV",
+        "*El filtro para unidades restringidas está ACTIVO",
+        "*Filter untuk unit terbatas saat ini diaktifkan",
+        "*\u001aตัว\u001aกรอง\u001aสำหรับ\u001aจำกัด\u001aยู\u001aนิ\u001aท\u001aกำลัง\u001aเปิด\u001aอยู่\u001a"
+    ],
+    "MISSION_COND_ORDER_CATEGORY": [
+        "Specified Category",
+        "指定類別",
+        "지정 카테고리",
+        "Catégorie choisie",
+        "Spezifizierte Kategorie",
+        "Categoría especificada",
+        "Kategori Spesifik",
+        "ประเภท\u001aที่\u001aกำหนด\u001a"
+    ],
     "MISSION_COND_ORDER_UNIT": [
         "[Set Units]",
         "【指定兵員】",
@@ -13871,6 +13951,26 @@
         "[Kondisi]",
         "[\u001aเงื่อนไข\u001a]\u001a"
     ],
+    "MISSION_COND_SUPPLEMENT_1": [
+        "*The selected companion must be one of the designated units.",
+        "※所選的同行者也必須符合任務所需條件。",
+        "※ 동행자 또한 지정 유닛으로 편성해야 합니다.",
+        "* Le partenaire sélectionné doit être l'une des unités choisies.",
+        "* Der ausgewählte Begleiter muss einer der spezifizierten Einheiten sein.",
+        "*El compañero seleccionado debe ser una de las unidades designadas.",
+        "*Partner yang dipilih harus merupakan salah satu unit yang ditunjuk.",
+        "*\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001aที่\u001aเลือก\u001aไว้\u001aต้อง\u001aเป็นหนึ่ง\u001aใน\u001aยู\u001aนิ\u001aท\u001aที่\u001aกำหนด\u001a"
+    ],
+    "MISSION_COND_SUPPLEMENT_2": [
+        "*If no companion is deemed necessary, please select \"Depart without companion\" at the bottom of the companion selection screen.",
+        "※若不需要同行者，請點選選擇同行者畫面最下方的「無同行者並出發」按鈕",
+        "※ 동행자를 편성하지 않을 경우, 동행자 선택 화면 맨 아래의 <br>'동행자 없이 출발'을 선택하세요.",
+        "* S'il n'est pas nécessaire d'amener un partenaire, veuillez sélectionner \"Commencer sans partenaire\" au bas de l'écran de sélection des partenaires.",
+        "* Wenn du der Meinung bist, dass du keinen Begleiter benötigst, wähle einfach \"Ohne Begleiter aufbrechen\" am unteren Bildschirmrand des Bildschirms \"Begleiter wählen\".",
+        "*Si consideras que no necesitas compañero, selecciona \"Partir sin compañero\" al final de la pantalla de selección de compañero.",
+        "*Apabila partner tidak diperlukan, silakan pilih \"Pergi tanpa partner\" di bagian bawah layar pemilihan partner.",
+        "*\u001aหาก\u001aไม่\u001aจำเป็นต้อง\u001aใช้\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001a \u001aโปรด\u001aเลือก\u001a \u001a\"\u001aออกเดินทาง\u001aโดย\u001aไม่\u001aมี\u001aเพื่อนร่วมทาง\u001a\"\u001a \u001aที่\u001aด้านล่าง\u001aของ\u001aหน้าจอ\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001a"
+    ],
     "MISSION_COND_TITLE": [
         "Unit Limited Quest",
         "兵員限制任務",
@@ -13880,6 +13980,16 @@
         "Misión con unidades restringidas",
         "Quest Unit Terbatas",
         "เค\u001aวส\u001aเฉพาะ\u001aยู\u001aนิ\u001aท\u001a"
+    ],
+    "MISSION_COND_TITLE_ADD_F": [
+        "Unit-Restricted Quest - Companion Allowed",
+        "兵員限制任務/允許同行者",
+        "유닛 제한 퀘스트/동행자 있음",
+        "Quête avec restriction d'unités - Partenaires autorisés",
+        "Einheitenbeschränkter Auftrag – Begleiter erlaubt",
+        "Misión con restricción de unidades - Compañero permitido",
+        "Quest Unit Terbatas - Penggunaan Partner Diperbolehkan",
+        "เค\u001aวส\u001aจำกัด\u001aยู\u001aนิ\u001aท\u001a \u001a-\u001a \u001aอนุญาต\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001a"
     ],
     "MISSION_EQUIP_GROW_GIVEUP_CONFIRM": [
         "The selected equipment will return to the state it was before enhancement. By giving up, you will lose all <br><color=255:0:0>abilities</color> you have obtained via enhancement. Do you wish to proceed?",
@@ -13981,6 +14091,16 @@
         "(",
         "(\u001a"
     ],
+    "MISSION_LOSE_STAMINA_BACK_MSG": [
+        "<color=255:255:0>(%s NRG consumed if defeated)</color>",
+        "<color=255:255:0>(敗北時消耗 %s 體力)</color>",
+        "<color=255:255:0>( 패배 시 체력 소비량 %s )</color>",
+        "<color=255:255:0>(%s d'END consommée en cas de défaite)</color>",
+        "<color=255:255:0>(verbraucht %s Energie bei Niederlage)</color>",
+        "<color=255:255:0>(Energía consumida al ser derrotado: %s )</color>",
+        "<color=255:255:0>(%s energi akan dikonsumsi apabila kamu kalah)</color>",
+        "<color=255:255:0>(% ของ NRG\u001a \u001aที่\u001aใช้\u001aไป\u001aหาก\u001aพ่ายแพ้\u001a)</color>\u001a"
+    ],
     "MISSION_NEED_EP_IS_NOT_ENOUGH": [
         "Insufficient event points",
         "獲得之活動點數不足。",
@@ -14030,6 +14150,326 @@
         "Lapis x 100",
         "Lapis x 100",
         "Lapis\u001a \u001ax\u001a \u001a100\u001a"
+    ],
+    "MISSION_REPEAT_CONF_BTN_LABEL1": [
+        "End Autoplay",
+        "結束連刷",
+        "자동 반복 종료",
+        "Fin du mode boucle",
+        "Beende Autoplay",
+        "Terminar autojuego",
+        "Akhiri Autoplay",
+        "จบ\u001aการ\u001aเล่น\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_CONF_BTN_LABEL2": [
+        "Begin Autoplay",
+        "開始連刷",
+        "바로 시작",
+        "Commencer le mode boucle",
+        "Starte Autoplay",
+        "Empezar autojuego",
+        "Mulai Autoplay",
+        "เริ่ม\u001aการ\u001aเล่น\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_CONF_DESC": [
+        "Quest will begin after <color=255:255:0><param=wait_timer></color> seconds. Tap \"End Autoplay\" to finish autoplay and confirm rewards.",
+        "任務將在<color=255:255:0><param=wait_timer></color>秒後開始。點擊「連刷終止」可以結束連刷並確認所獲得的報酬。",
+        "퀘스트 시작까지 <color=255:255:0><param=wait_timer></color>초 남았습니다.<br>자동 반복 종료를 선택하면 자동 반복을 중단하고 보상을 확인할 수 있습니다.",
+        "La quête commencera après <color=255:255:0><param=wait_timer></color>secondes. Cliquez sur \"Fin du mode boucle\" pour mettre fin au mode boucle et obtenir les récompenses.",
+        "Auftrag beginnt in <color=255:255:0><param=wait_timer></color> Sekunden. Tippe auf \"Beende Autoplay\", um Autoplay zu beenden und die Belohnungen einzusehen.",
+        "La misión empezará en <color=255:255:0><param=wait_timer></color> segundos. Toca \"Terminar autojuego\" para finalizar el autojuego y confirmar las recompensas.",
+        "Quest akan dimulai setelah <color=255:255:0><param=wait_timer></color> detik. Sentuh \"Akhiri Autoplay\" untuk mengakhiri autoplay dan mengkonfirmasi hadiah.",
+        "เค\u001aวส\u001aจะ\u001aเริ่ม\u001aใน\u001aอีก\u001a \u001a<color=255:255:0><param=wait_timer></color>\u001a \u001aวินาที\u001a  \u001aแตะ\u001a \u001a\"จบ\u001aการ\u001aเล่น\u001aอัตโนมัติ\u001a\"\u001a \u001aเพื่อ\u001aให้การ\u001aเล่น\u001aอัตโนมัติ\u001aสิ้นสุดลง\u001aและ\u001aตรวจสอบ\u001aของรางวัล\u001a"
+    ],
+    "MISSION_REPEAT_CONF_TITLE": [
+        "Confirm Autoplay",
+        "連刷確認",
+        "자동 반복 확인",
+        "Confirmer mode boucle",
+        "Autoplay bestätigen",
+        "Confirmar autojuego",
+        "Konfirmasi Autoplay",
+        "ยืนยัน\u001aการ\u001aเล่น\u001aแบบ\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_END_CAUSE_COMMON": [
+        "Press OK to advance to the results screen.",
+        "點選OK按鈕以進入結算畫面。",
+        "OK 버튼을 누르면 결과 화면으로 이동합니다.",
+        "Appuyez sur OK pour aller à l'écran des résultats.",
+        "Tippe OK, um zum Ergebnisbildschirm zu gelangen.",
+        "Toca OK para avanzar a la pantalla de resultados.",
+        "Tekan OK untuk melanjutkan ke layar hasil.",
+        "กด\u001a \u001aOK\u001a \u001aเพื่อ\u001aข้าม\u001aไป\u001aที่\u001aหน้าจอ\u001aผลลัพธ์\u001a"
+    ],
+    "MISSION_REPEAT_END_CAUSE_ITEMOVER": [
+        "No more items can be held.<br>",
+        "持有道具數已達到上限。<br>",
+        "아이템 보유 수 한도에 도달했습니다.<br>",
+        "Le nombre d'ojets a atteint sa limite.<br>",
+        "Die maximale Anzahl an Gegenständen, die sich in deinem Besitz befinden können, wurde erreicht.<br><br>",
+        "Se ha alcanzado el límite de objetos.<br>",
+        "Batas item telah tercapai.<br>",
+        "ไม่\u001aสามารถ\u001aเพิ่ม\u001aไอเทม\u001aได้\u001aมากกว่า\u001aนี้\u001aแล้ว\u001a<br>\u001a"
+    ],
+    "MISSION_REPEAT_END_CAUSE_LIMITOVER": [
+        "The number of attempts has reached the limit for the chosen quest. <br>",
+        "所選的任務已達到挑戰次數上限。<br>",
+        "해당 퀘스트의 최대 도전 횟수에 도달했습니다.<br>",
+        "Le nombre de tentatives est arrivé à sa limite sur cette quête.<br>",
+        "Die maximale Versuchsanzahl für den ausgewählten Auftrag wurde erreicht.<br>",
+        "Se ha alcanzado el límite de intentos de la misión elegida. <br>",
+        "Kamu telah mencapai batas kesempatan maksimal untuk quest yang dipilih. <br>",
+        "จำนวน\u001aครั้ง\u001aการ\u001aเข้า\u001aเล่น\u001aเค\u001aวส\u001aที่\u001aเลือก\u001aถึง\u001aจำนวน\u001aสูงสุด\u001aแล้ว\u001a<br>\u001a"
+    ],
+    "MISSION_REPEAT_END_CAUSE_NOTENOUGH_ITEM": [
+        "Insufficient items for the chosen quest.<br>",
+        "挑戰所需道具不足。<br>",
+        "도전에 필요한 아이템이 부족합니다.<br>",
+        "Pas assez d'objets pour cette quête.<br>",
+        "Nicht genug Gegenstände für den ausgewählten Auftrag.<br>",
+        "Objetos insuficientes para la misión elegida.<br>",
+        "Item yang diperlukan tidak cukup untuk quest yang dipilih.<br>",
+        "ไอเทม\u001aจำเป็น\u001aสำหรับ\u001aเค\u001aวส\u001aที่\u001aเลือก\u001aมี\u001aไม่\u001aพอ\u001a<br>\u001a"
+    ],
+    "MISSION_REPEAT_END_CAUSE_STAMINA": [
+        "Insufficient energy.<br>",
+        "體力不足。<br>",
+        "체력이 부족합니다.<br>",
+        "Votre endurance est insuffisante.<br>",
+        "Nicht genug Energie.<br>",
+        "Energía insuficiente.<br>",
+        "Energi tidak cukup.<br>",
+        "NRG\u001a \u001aไม่\u001aพอ\u001a<br>\u001a"
+    ],
+    "MISSION_REPEAT_END_CAUSE_UNITOVER": [
+        "No more units can be held.<br>",
+        "持有兵員數已達到上限。<br>",
+        "유닛 보유 수 한도에 도달했습니다.<br>",
+        "Le nombre d'unités a atteint sa limite.<br>",
+        "Die maximale Anzahl an Einheiten, die sich in deinem Besitz befinden können, wurde erreicht.<br>",
+        "Se ha alcanzado el límite de unidades.<br>",
+        "Batas unit telah tercapai.<br>",
+        "ไม่\u001aสามารถ\u001aเพิ่ม\u001aยู\u001aนิ\u001aท\u001aได้\u001aมากกว่า\u001aนี้\u001aแล้ว\u001a<br>\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_BASIC_DESC": [
+        "When this setting is turned on, quests will be cleared using the AUTO or REPEAT functions. The party will also automatically depart again on the same quest.",
+        "當設定為「ON」時，會以「自動攻擊」或「再次執行」完成任務，並在完成後再次出發進行相同任務。",
+        "ON으로 설정 시 퀘스트를 AUTO 또는 반복으로 완료하며, 완료 후 같은 퀘스트에 자동으로 다시 출발합니다.",
+        "Lorsque ce paramètre est activé, les quêtes seront terminées en utilisant les fonctions AUTO ou RÉPÉTER. Le groupe repartira aussi automatiquement pour la même quête.",
+        "Wenn diese Einstellung aktiviert ist, werden Aufträge mithilfe der Funktionen \"AUTO\" oder \"WIEDERHOLEN\" absolviert. Die Gruppe wird zudem automatisch erneut zum selben Auftrag aufbrechen.",
+        "Cuando este ajuste esté activado, las misiones se completarán con las funciones AUTOMÁTICO o REPETIR. El grupo también partirá de nuevo automáticamente en la misma misión.",
+        "Apabila pengaturan ini diaktifkan, quest akan diselesaikan dengan menggunakan fungsi AUTO atau ULANGI. Tim juga akan berangkat lagi di quest yang sama secara otomatis.",
+        "เมื่อ\u001aเปิด\u001aการ\u001aตั้งค่า\u001aนี้\u001a \u001aเค\u001aวส\u001aจะ\u001aถูก\u001aเคลียร์\u001aด้วย\u001aฟังก์ชัน\u001a \u001aAUTO\u001a \u001aหรือ\u001a \u001aREPEAT\u001a \u001aและ\u001aทีม\u001aของ\u001aผู้\u001aเล่น\u001aจะ\u001aออกเดินทาง\u001aโดยอัตโนมัติ\u001aอีกครั้ง\u001aใน\u001aเค\u001aวส\u001aเดียวกัน\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_BASIC_TITLE": [
+        "General Settings",
+        "基本設定",
+        "기본 설정",
+        "Paramètres généraux",
+        "Allgemeine Einstellungen",
+        "Ajustes generales",
+        "Pengaturan Umum",
+        "การ\u001aตั้งค่า\u001aพื้นฐาน\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_BTN_LABEL_OFF": [
+        "OFF",
+        "OFF",
+        "OFF",
+        "Désactiver",
+        "AUS",
+        "NO",
+        "OFF",
+        "OFF\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_BTN_LABEL_ON": [
+        "ON",
+        "ON",
+        "ON",
+        "Activer",
+        "AN",
+        "SÍ",
+        "ON",
+        "ON\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_CNT_DESC": [
+        "Set the number of times to auto-clear the quest.",
+        "僅會以設定的次數連刷任務。",
+        "설정한 횟수만큼 퀘스트를 반복합니다.",
+        "Sélectionnez le nombre de boucles pour l'autocomplétion de la quête.",
+        "Lege fest, wie oft der Auftrag automatisch absolviert werden soll.",
+        "Fija el número de veces que quieras autocompletar la misión.",
+        "Tetapkan berapa kali quest ingin diselesaikan secara otomatis.",
+        "ตั้งค่า\u001aจำนวน\u001aครั้ง\u001aใน\u001aการ\u001aเคลียร์\u001aเค\u001aวส\u001aแบบ\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_CNT_LABEL": [
+        "Times",
+        "次",
+        "회",
+        "Boucles",
+        "Mal",
+        "veces",
+        "Kali",
+        "ครั้ง\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_CNT_TITLE": [
+        "Autoplay Duration",
+        "連刷次數",
+        "자동 반복 횟수",
+        "Durée du mode boucle",
+        "Autoplay-Dauer",
+        "Duración del autojuego",
+        "Durasi Autoplay",
+        "ระยะ\u001aเวลาเล่น\u001aแบบ\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_ITEM_DESC": [
+        "Selected items will be used automatically when available energy is not sufficient.",
+        "體力不足時會自動使用所選道具。",
+        "체력이 부족할 경우 선택한 아이템을 자동으로 사용합니다.",
+        "Les éléments sélectionnés seront utilisés automatiquement lorsque l'endurance disponible n'est pas suffisante.",
+        "Die ausgewählten Gegenstände werden automatisch verwendet, wenn die vorhandene Energie nicht ausreicht.",
+        "Los objetos seleccionados se usarán automáticamente cuando no quede suficiente energía.",
+        "Item yang dipilih akan digunakan secara otomatis ketika energi yang tersisa tidak cukup.",
+        "ไอเทม\u001aที่\u001aเลือก\u001aไว้\u001aจะ\u001aถูก\u001aใช้\u001aโดยอัตโนมัติ\u001aเมื่อ\u001aมีค่า\u001a \u001aNRG\u001a \u001aไม่\u001aเพียงพอ\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_ITEM_MULTI": [
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_ITEM_TITLE": [
+        "Autoplay Energy Settings",
+        "連刷時的體力恢復藥設定",
+        "반복 시 체력 회복약 설정",
+        "Paramètres d'endurance pour le mode boucle",
+        "Energie-Einstellungen in Autoplay",
+        "Ajustes de energía del autojuego",
+        "Pengaturan Energi Autoplay",
+        "ตั้งค่า\u001a \u001aNRG\u001a \u001aสำหรับ\u001aเล่น\u001aแบบ\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_REIN_BTN_LABEL1": [
+        "Select a random companion from all tabs.",
+        "隨機選擇同行者",
+        "모든 탭에서 무작위로 동행자 데려가기",
+        "Sélectionner un partenaire au hasard parmi tous les onglets.",
+        "Wähle aus allen Reitern einen beliebigen Begleiter aus.",
+        "Elige un compañero al azar de entre todas las pestañas.",
+        "Pilih partner secara acak dari semua tab.",
+        "เลือก\u001aเพื่อนร่วมทาง\u001aแบบ\u001aสุ่ม\u001aจาก\u001aทุก\u001aแท็บ\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_REIN_BTN_LABEL2": [
+        "Select no companion.",
+        "不選擇同行者",
+        "동행자를 데려가지 않음",
+        "Ne pas sélectionner de partenaire.",
+        "Keinen Begleiter auswählen.",
+        "Partir sin compañero.",
+        "Berangkat tanpa partner.",
+        "เลือก\u001aไม่\u001aใช้\u001aเพื่อนร่วมทาง\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_REIN_BTN_LABEL3": [
+        "Prioritize companion units that receive a bonus.",
+        "優先選擇BONUS兵員",
+        "보너스 대상 유닛을 우선적으로 데려가기",
+        "Donner la priorité aux partenaires disposant d'un bonus.",
+        "Priorisiere Begleitereinheiten, die einen Bonus erhalten.",
+        "Priorizar unidades compañero que reciban bonificación.",
+        "Utamakan unit partner yang menerima bonus.",
+        "เน้น\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001aที่\u001aได้\u001aโบนัส\u001aก่อน\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_REIN_BTN_LABEL4": [
+        "Prioritize companion units of friends.",
+        "優先選擇好友",
+        "친구를 우선적으로 데려가기",
+        "Donner la priorité aux unités amis.",
+        "Priorisiere Begleitereinheiten deiner Freunde.",
+        "Priorizar unidades compañero de amigos.",
+        "Utamakan unit partner teman.",
+        "เน้น\u001aเลือก\u001aยู\u001aนิ\u001aท\u001aเพื่อนร่วมทาง\u001aของ\u001aเพื่อน\u001aก่อน\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_REIN_DESC": [
+        "Choose companion settings when departing.",
+        "出發時可進行同行者設定變更。",
+        "출발 시 동행자 설정을 선택하세요.",
+        "Vous pouvez changer les paramètres de partenaire avant de commencer une quête.",
+        "Lege beim Aufbruch Einstellungen für deine Begleiter fest.",
+        "Elige los ajustes del compañero antes de partir.",
+        "Tetapkan pengaturan partner sebelum berangkat.",
+        "เลือก\u001aการ\u001aตั้งค่า\u001aเพื่อนร่วมทาง\u001aเมื่อ\u001aออกเดินทาง\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_REIN_TITLE": [
+        "Companion Settings",
+        "同行者設定",
+        "동행자 설정",
+        "Paramètres de partenaire",
+        "Begleitereinstellungen",
+        "Ajustes de compañero",
+        "Pengaturan Partner",
+        "ตั้งค่า\u001aเพื่อนร่วมทาง\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_TITLE": [
+        "Autoplay Settings",
+        "連刷設定",
+        "자동 반복 설정",
+        "Paramètres de boucle",
+        "Autoplay-Einstellungen",
+        "Ajustes de autojuego",
+        "Pengaturan Autoplay",
+        "การ\u001aตั้งค่า\u001aเล่น\u001aแบบ\u001aอัตโนมัติ\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_TYPE_BTN_LABEL1": [
+        "Autoplay on Repeat",
+        "以「再次執行」進行連刷",
+        "반복을 사용해 자동 반복",
+        "Mode boucle (Répéter)",
+        "Autoplay (Wiederholen)",
+        "Autojuego en Repetir",
+        "Autoplay dengan Ulangi",
+        "เล่น\u001aแบบ\u001aอัตโนมัติ\u001aด้วย\u001aฟังก์ชัน\u001a \u001aREPEAT\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_TYPE_BTN_LABEL2": [
+        "Autoplay on Auto",
+        "以「自動攻擊」進行連刷",
+        "AUTO로 자동 반복",
+        "Mode boucle (Auto)",
+        "Autoplay (Auto)",
+        "Autojuego en Automático",
+        "Autoplay dengan Auto",
+        "เล่น\u001aแบบ\u001aอัตโนมัติ\u001aด้วย\u001aฟังก์ชัน\u001a \u001aAUTO\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_TYPE_DESC1": [
+        "The quest will be replayed according to the chosen method.",
+        "任務會以所選方式進行連刷。",
+        "설정한 방법으로 퀘스트를 자동 반복합니다.",
+        "La quête sera rejouée selon la méthode choisie.",
+        "Der Auftrag wird entsprechend der ausgewählten Methode erneut gespielt.",
+        "Repetirás la misión de acuerdo al método que hayas elegido.",
+        "Quest akan dimainkan ulang berdasarkan metode yang dipilih.",
+        "เค\u001aวส\u001aจะ\u001aถูก\u001aเล่น\u001aซ้ำ\u001aอีกครั้ง\u001aตาม\u001aวิธี\u001aที่\u001aเลือก\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_TYPE_DESC2": [
+        "*Units without repeat information will use normal attacks.",
+        "※若未設定再次執行指令時，會使用普通攻擊。",
+        "※ 반복 정보가 없는 유닛은 일반 공격을 사용합니다.",
+        "* Les unités sans information de répétition utiliseront des attaques normales.",
+        "* Einheiten ohne Wiederholungsinformation verwenden normale Angriffe.",
+        "*Las unidades sin información en Repetir usarán ataques normales.",
+        "*Unit tanpa informasi Ulangi akan menggunakan serangan normal.",
+        "*\u001aยู\u001aนิ\u001aท\u001aที่\u001aไม่\u001aมี\u001aข้อมูล\u001aสำหรับ\u001aการ\u001aเล่น\u001aซ้ำ\u001aจะ\u001aใช้\u001aท่า\u001aโจมตี\u001aปกติ\u001aแทน\u001a"
+    ],
+    "MISSION_REPEAT_SETTING_TYPE_TITLE": [
+        "Autoplay Method",
+        "連刷方式",
+        "자동 반복 방법",
+        "Méthode de boucle",
+        "Autoplay-Methode",
+        "Método de autojuego",
+        "Metode Autoplay",
+        "วิธี\u001aเล่น\u001aแบบ\u001aอัตโนมัติ\u001a"
     ],
     "MISSION_REQUIRE_ITEM_CONFIRM_USE": [
         "Use an item and begin the quest?",
@@ -15171,6 +15611,16 @@
         "Kesempatan untuk melakukan quest yang dipilih telah habis.",
         "เกิน\u001aจำนวน\u001aครั้ง\u001aทำ\u001aเค\u001aวส\u001aสูงสุด\u001aที่\u001aกำหนด\u001aไว้\u001aแล้ว\u001a"
     ],
+    "MSG_SP_DUNGEON_NO_LIMITED_PASS": [
+        "Requirements necessary to challenge this quest are not met.",
+        "未滿足挑戰此任務所需條件。",
+        "대상 미션의 도전 조건을 충족하지 못했습니다.",
+        "Les conditions nécessaires pour participer à cette quête ne sont pas remplies.",
+        "Die Voraussetzungen für die Aufnahme dieses Auftrags wurden nicht erfüllt.",
+        "No reúnes los requisitos necesarios para jugar a esta misión.",
+        "Ketentuan yang diperlukan untuk menantang quest ini tidak terpenuhi.",
+        "ยัง\u001aไม่\u001aบรรลุ\u001aตามเงื่อนไข\u001aสำหรับ\u001aการ\u001aเข้า\u001aท้าทาย\u001aเค\u001aวส\u001aนี้\u001a"
+    ],
     "MSG_TFA_INVALID_GAMBIT_INFO": [
         "Error: Invalid Option",
         "錯誤：無效項目",
@@ -15981,6 +16431,76 @@
         "Total Kemenangan",
         "จำนวน\u001aครั้ง\u001aที่\u001aชนะ\u001a"
     ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_ALL_CLEAR_COUNT": [
+        "Cleared All Dark Visions Areas:",
+        "暗黑幻境ALL AREA CLEAR完成次數：",
+        "다크 비전 모든 구역 완료 횟수:",
+        "Terminez toutes les zones des Visions obscures :",
+        "Alle Gebiete von Dunkle Visionen abgeschlossen:",
+        "Veces completadas todas las zonas de Visiones Oscuras:",
+        "Total Penyelesaian Semua Area Dark Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aเคลียร์\u001a \u001aDark\u001a \u001aVisions\u001a \u001aครบ\u001aทุก\u001aพื้นที่\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_BEST_RANK": [
+        "Highest Dark Visions Rank:",
+        "暗黑幻境最高排名：",
+        "다크 비전 최고 순위:",
+        "Meilleur rang dans les Visions obscures :",
+        "Höchster Rang in Dunkle Visionen:",
+        "Rango de Visiones Oscuras más alto:",
+        "Rank Dark Visions Tertinggi:",
+        "อันดับ\u001aสูงสุด\u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_ENTRY_COUNT": [
+        "Total Dark Visions Entries:",
+        "暗黑幻境參加次數：",
+        "다크 비전 참가 횟수:",
+        "Nombre de participation aux événements Visions obscures :",
+        "Anzahl aller Teilnahmen an Dunkle Visionen:",
+        "Total de veces que has participado en Visiones Oscuras:",
+        "Total Partisipasi dalam Dark Visions:",
+        "จำนวน\u001aครั้ง\u001aทั้งหมด\u001aที่\u001aเข้า\u001aเล่น\u001a \u001aDark\u001a \u001aVisions\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_RANK_101TH_1000TH": [
+        "Ranked 101st - 1000th Place in Dark Visions:",
+        "暗黑幻境獲獎次數(第101~1000名)：",
+        "다크 비전 입상 횟수(101～1000위):",
+        "Rang entre 101 et 1000 dans un événement \"Visions obscures\" :",
+        "Platz 101–1000 bei Dunkle Visionen:",
+        "Clasificado entre el puesto 101 y 1000 en Visiones Oscuras:",
+        "Jumlah Peringkat 101 - 1.000 dalam Ranking Dark Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a101\u001a-\u001a1000\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a"
+    ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_RANK_11TH_100TH": [
+        "Ranked 11th - 100th Place in Dark Visions:",
+        "暗黑幻境獲獎次數(第11~100名)：",
+        "다크 비전 입상 횟수(11～100위):",
+        "Rang entre 11 et 100 dans un événement \"Visions obscures\" :",
+        "Platz 11–100 bei Dunkle Visionen:",
+        "Clasificado entre el puesto 11 y 100 en Visiones Oscuras:",
+        "Jumlah Peringkat 11 - 100 dalam Ranking Dark Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a11\u001a-\u001a100\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a"
+    ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_RANK_1ST": [
+        "Ranked 1st Place in Dark Visions:",
+        "暗黑幻境獲獎次數(第1名)：",
+        "다크 비전 입상 횟수(1위):",
+        "Rang 1 dans un événement \"Visions obscures\" :",
+        "Platz 1 bei Dunkle Visionen:",
+        "Clasificado en el 1.er puesto en Visiones Oscuras:",
+        "Jumlah Peringkat 1 dalam Ranking Dark Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a1\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a"
+    ],
+    "MST_ARCHIVE_NAME_DARK_VISIONS_RANK_2ND_10TH": [
+        "Ranked 2nd - 10th Place in Dark Visions:",
+        "暗黑幻境獲獎次數(第2~10名)：",
+        "다크 비전 입상 횟수(2~10위):",
+        "Rang entre 2 et 10 dans un événement \"Visions obscures\" :",
+        "Platz 2–10 bei Dunkle Visionen:",
+        "Clasificado entre el puesto 2 y 10 en Visiones Oscuras:",
+        "Jumlah Peringkat 2 - 10 dalam Ranking Dark Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001aที่\u001a \u001a2\u001a-\u001a10\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a"
+    ],
     "MST_ARCHIVE_NAME_DMG_RANK_CNT": [
         "Total Damage Ranking Participations",
         "傷害排名參戰次數",
@@ -16220,6 +16740,66 @@
         "Máximo de Combos Centella en un turno",
         "Spark Combo Terbesar dalam Satu Giliran",
         "Spark\u001a \u001aสูงสุด\u001aใน\u001a \u001a1\u001a \u001aเทิร์น\u001a"
+    ],
+    "MST_ARCHIVE_NAME_ROYAL_DARK_VISIONS_BEST_RANK": [
+        "Highest Dark Visions Abyss Rank:",
+        "暗黑幻境深淵最高排名：",
+        "다크 비전 어비스 최고 순위:",
+        "Meilleur rang dans les Abysses des Visions obscures :",
+        "Höchster Rang in Dunkle Visionen – Abgrund:",
+        "Rango del Abismo de Visiones Oscuras más alto:",
+        "Rank Dark Visions Maut Tertinggi:",
+        "อันดับ\u001aสูงสุด\u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_ROYAL_DARK_VISIONS_ENTRY_COUNT": [
+        "Total Dark Visions Abyss Entries:",
+        "暗黑幻境深淵參加次數：",
+        "다크 비전 어비스 참가 횟수:",
+        "Nombre de participation aux événements des Abysses des Visions obscures :",
+        "Anzahl aller Teilnahmen an Dunkle Visionen – Abgrund:",
+        "Total de veces que has participado en el Abismo de Visiones Oscuras:",
+        "Total Partisipasi dalam Dark Visions Maut:",
+        "จำนวน\u001aครั้ง\u001aทั้งหมด\u001aที่\u001aเข้า\u001aเล่น\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_ROYAL_DARK_VISIONS_RANK_101TH_1000TH": [
+        "Ranked 101st - 1000th Place in Dark Visions Abyss:",
+        "暗黑幻境深淵獲獎次數(第101~1000名)：",
+        "다크 비전 어비스 입상 횟수(101～1000위):",
+        "Rang entre 101 et 1000 dans un événement \"Abysses des Visions obscures\" :",
+        "Platz 101–1000 bei Dunkle Visionen – Abgrund:",
+        "Clasificado entre el puesto 101 y 1000 en el Abismo de Visiones Oscuras:",
+        "Jumlah Peringkat 101 - 1.000 dalam Ranking Dark Visions Maut:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a101\u001a-\u001a1000\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_ROYAL_DARK_VISIONS_RANK_11TH_100TH": [
+        "Ranked 11th - 100th Place in Dark Visions Abyss:",
+        "暗黑幻境深淵獲獎次數(第11~100名)：",
+        "다크 비전 어비스 입상 횟수(11～100위):",
+        "Rang entre 11 et 100 dans un événement \"Abysses des Visions obscures\" :",
+        "Platz 11–100 bei Dunkle Visionen – Abgrund:",
+        "Clasificado entre el puesto 11 y 100 en el Abismo de Visiones Oscuras:",
+        "Jumlah Peringkat 11 - 100 dalam Ranking Dark Visions Maut:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a11\u001a-\u001a100\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_ROYAL_DARK_VISIONS_RANK_1ST": [
+        "Ranked 1st Place in Dark Visions Abyss:",
+        "暗黑幻境深淵獲獎次數(第1名)：",
+        "다크 비전 어비스 입상 횟수(1위):",
+        "Rang 1 dans un événement \"Abysses des Visions obscures\" :",
+        "Platz 1 bei Dunkle Visionen – Abgrund:",
+        "Clasificado en el 1.er puesto en el Abismo de Visiones Oscuras:",
+        "Jumlah Peringkat 1 dalam Ranking Dark Visions Maut:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a1\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_ROYAL_DARK_VISIONS_RANK_2ND_10TH": [
+        "Ranked 2nd - 10th Place in Dark Visions Abyss:",
+        "暗黑幻境深淵獲獎次數(第2~10名)：",
+        "다크 비전 어비스 입상 횟수(2 ~ 10위):",
+        "Rang entre 2 et 10 dans un événement \"Abysses des Visions obscures\" :",
+        "Platz 2–10 bei Dunkle Visionen – Abgrund:",
+        "Clasificado entre el puesto 2 y 10 en el Abismo de Visiones Oscuras:",
+        "Jumlah Peringkat 2 - 10 dalam Ranking Dark Visions Maut:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001aที่\u001a \u001a2\u001a-\u001a10\u001a \u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a:\u001a"
     ],
     "MST_ARCHIVE_NAME_TOTAL_ABILITY_DICT": [
         "Total Abilities Archived",
@@ -16730,6 +17310,66 @@
         "Cartas de visión fusionadas",
         "Total Kartu Vision yang Digabungkan",
         "จำนวน\u001aครั้ง\u001aที่รวม\u001aร่าง\u001aการ์ด\u001a \u001aVision\u001a"
+    ],
+    "MST_ARCHIVE_NAME_VISIONS_WORLD_BEST_RANK": [
+        "Highest World of Visions Rank:",
+        "幻影世界最高排名：",
+        "월드 오브 비전 최고 순위:",
+        "Meilleur rang dans le Monde des visions :",
+        "Höchster Rang in Welt der Visionen:",
+        "Rango de Mundo de Visiones más alto:",
+        "Rank World of Visions Tertinggi:",
+        "อันดับ\u001aสูงสุด\u001aใน\u001aโลก\u001aแห่ง\u001a \u001aVision\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_VISIONS_WORLD_ENTRY_COUNT": [
+        "Total World of Visions Entries:",
+        "幻影世界參加次數：",
+        "월드 오브 비전 참가 횟수:",
+        "Nombre de participation aux événements Monde des visions :",
+        "Anzahl aller Teilnahmen an Welt der Visionen:",
+        "Total de veces que has participado en Mundo de Visiones:",
+        "Total Partisipasi dalam World of Visions:",
+        "จำนวน\u001aครั้ง\u001aทั้งหมด\u001aที่\u001aเข้า\u001aเล่น\u001aโลก\u001aแห่ง\u001a \u001aVision\u001a:\u001a"
+    ],
+    "MST_ARCHIVE_NAME_VISIONS_WORLD_RANK_101TH_1000TH": [
+        "Ranked 101st - 1000th Place in World of Visions:",
+        "幻影世界獲獎次數(第101~1000名)：",
+        "월드 오브 비전 입상 횟수(101～1000위):",
+        "Rang entre 101 et 1000 dans un événement \"Monde des visions\" :",
+        "Platz 101–1000 bei Welt der Visionen:",
+        "Clasificado entre el puesto 101 y 1000 en Mundo de Visiones:",
+        "Jumlah Peringkat 101 - 1.000 dalam Ranking World of Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a101\u001a-\u001a1000\u001a \u001aใน\u001aโลก\u001aแห่ง\u001a \u001aVision\u001a"
+    ],
+    "MST_ARCHIVE_NAME_VISIONS_WORLD_RANK_11TH_100TH": [
+        "Ranked 11th - 100th Place in World of Visions:",
+        "幻影世界獲獎次數(第11~100名)：",
+        "월드 오브 비전 입상 횟수(11～100위):",
+        "Rang entre 11 et 100 dans un événement \"Monde des visions\" :",
+        "Platz 11–100 bei Welt der Visionen:",
+        "Clasificado entre el puesto 11 y 100 en Mundo de Visiones:",
+        "Jumlah Peringkat 11 - 100 dalam Ranking World of Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a11\u001a-\u001a100\u001a \u001aใน\u001aโลก\u001aแห่ง\u001a \u001aVision\u001a"
+    ],
+    "MST_ARCHIVE_NAME_VISIONS_WORLD_RANK_1ST": [
+        "Ranked 1st Place in World of Visions:",
+        "幻影世界獲獎次數(第1名)：",
+        "월드 오브 비전 입상 횟수(1위):",
+        "Rang 1 dans un événement \"Monde des visions\" :",
+        "Platz 1 bei Welt der Visionen:",
+        "Clasificado en el 1.er puesto en Mundo de Visiones:",
+        "Jumlah Peringkat 1 dalam Ranking World of Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001a \u001a1\u001a \u001aใน\u001aโลก\u001aแห่ง\u001a \u001aVision\u001a"
+    ],
+    "MST_ARCHIVE_NAME_VISIONS_WORLD_RANK_2ND_10TH": [
+        "Ranked 2nd - 10th Place in World of Visions:",
+        "幻影世界獲獎次數(第2~10名)：",
+        "월드 오브 비전 입상 횟수(2~10위):",
+        "Rang entre 2 et 10 dans un événement \"Monde des visions\" :",
+        "Platz 2–10 bei Welt der Visionen:",
+        "Clasificado entre el puesto 2 y 10 en Mundo de Visiones:",
+        "Jumlah Peringkat 2 - 10 dalam Ranking World of Visions:",
+        "จำนวน\u001aครั้ง\u001aที่\u001aได้\u001aอันดับ\u001aที่\u001a \u001a2\u001a-\u001a10\u001a \u001aใน\u001aโลก\u001aแห่ง\u001a \u001aVision\u001a"
     ],
     "MST_AWARD_TYPE_1": [
         "Achievements",
@@ -17470,6 +18110,16 @@
         "Rareza: <color=255:255:0>Unidades NeoVisión</color>",
         "Tingkat Kelangkaan: <color=255:255:0>Unit Neo Vision</color>",
         "ระดับ\u001a \u001aRare\u001a:\u001a \u001a<color=255:255:0>\u001aยู\u001aนิ\u001aท\u001a \u001aNeo\u001a \u001aVision\u001a</color>\u001a"
+    ],
+    "MST_RULE_UNIT_DES_4031": [
+        "Anniversary (JP)<br><br>*Applicable to Neo Vision units and certain 7★ units only.<br>*Unit categories can be confirmed via the Category Filter tab.",
+        "週年紀念(JP)<br><br>※僅適用於NV兵員及特定★7兵員。<br>※兵員類別可於類別篩選分頁中確認。",
+        "기념일 유닛(JP)<br>※ 카테고리는 네오 비전과 일부 ★7 유닛만 해당합니다.<br>※ 카테고리 해당 유닛은 정렬 필터의 카테고리 필터를 통해 확인해 주세요.",
+        "Anniversaire (JP)<br><br>* Applicable uniquement aux unités néo-vision et à certaines unités 7★.<br>* Vous pouvez vérifier la catégorie d'une unité par le biais du filtre des catégories.",
+        "Jubiläum (JP)<br><br>* Betrifft nur Neo-Vision-Einheiten und bestimmte 7★-Einheiten.<br>* Einheitenkategorien können über den Reiter \"Kategorienfilter\" eingesehen werden.",
+        "Aniversario (JP)<br><br>*Solo aplicable a unidades NeoVisión y algunas unidades de 7★.<br>*Se pueden confirmar las categorías de las unidades en la pestaña Filtro por categorías.",
+        "Peringatan (JP)<br><br>*Hanya berlaku untuk unit Neo Vision dan unit ★7 tertentu.<br>*Kategori unit dalam dilihat dari tab Filter Kategori.",
+        "ครบรอบ\u001a \u001a(\u001aJP\u001a)<br><br>*\u001aมีผล\u001aเฉพาะ\u001aยู\u001aนิ\u001aท\u001a \u001aNeo\u001a \u001aVision\u001a \u001aและ\u001aยู\u001aนิ\u001aท\u001a \u001a7\u001a★\u001a \u001aที่\u001aกำหนด\u001a<br>*\u001aตรวจสอบ\u001aประเภท\u001aยู\u001aนิ\u001aท\u001aได้ที่\u001aแท็บ\u001aตัว\u001aกรอง\u001aประเภท\u001a"
     ],
     "MST_RULE_UNIT_DES_4035": [
         "FFXI<br><br>*Unit categories can be confirmed via the Category Filter tab.<br>*Certain units may not fall under any category.",
@@ -19311,6 +19961,16 @@
         "Tidak Tersedia",
         "เข้า\u001aเล่น\u001aไม่\u001aได้\u001a"
     ],
+    "PARADE_DUNGEON_NOT_SCORE_TEXT": [
+        "Outside scoring period",
+        "非計入分數期間",
+        "스코어 반영 기간이 아닙니다",
+        "Hors période de calcul de score.",
+        "Außerhalb des Bewertungszeitraums",
+        "Fuera del periodo de puntuación",
+        "Di luar periode kalkulasi skor",
+        "นอก\u001aช่วง\u001aคิด\u001aคะแนน\u001a"
+    ],
     "PARADE_DUNGEON_OPEN_TEXT": [
         "Unlocked",
         "開放",
@@ -19341,6 +20001,16 @@
         "Periode Kalkulasi:",
         "ช่วง\u001aคำนวณ\u001aผล\u001a:\u001a"
     ],
+    "PARADE_DUNGEON_ROYAL_LOCK_TEXT": [
+        "Cannot Participate",
+        "無法參加",
+        "참가 대상이 아닙니다",
+        "Ne peut pas participer",
+        "Du kannst nicht teilnehmen.",
+        "No se puede participar",
+        "Tidak Dapat Berpartipasi",
+        "ไม่\u001aสามารถ\u001aเข้าร่วม\u001aได้\u001a"
+    ],
     "PARADE_LOCKED_GATE": [
         "This event can be accessed from Rank <param=rank> and above.",
         "RANK <param=rank> 以上可進入此活動。",
@@ -19350,6 +20020,36 @@
         "Se puede acceder a este evento a partir del rango <param=rank> o superior.",
         "Event ini dapat diakses dari Rank <param=rank> atau lebih.",
         "การ\u001aเข้า\u001aเล่น\u001aอีเวนท์\u001aนี้\u001aจะ\u001aต้อง\u001aมี\u001a \u001aRank\u001a \u001aตั้งแต่\u001a \u001a<param=rank>\u001a \u001aขึ้นไป\u001a"
+    ],
+    "PARADE_MISSION_COND_ORDER_EQUIP": [
+        "Specified Equipment/Abilities/Vision Cards",
+        "指定裝備/能力/幻兵卡",
+        "지정 장비/어빌리티/비전 카드",
+        "Équipement(s)/Aptitude(s)/Atout-vision(s) choisi(s)",
+        "Spezifizierte Ausrüstung/Fertigkeiten/Visionskarten",
+        "Equipo/Habilidades/Cartas de visión designado/as",
+        "Perlengkapan/Ability/Kartu Vision Spesifik",
+        "อุปกรณ์\u001a/\u001aAbility\u001a/\u001aการ์ด\u001a \u001aVision\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "PARADE_MISSION_COND_ORDER_PARTY_EQUIP": [
+        "Currently Equipped Specified Equipment/Abilities/Vision Cards",
+        "裝備中的指定裝備/能力/幻兵卡",
+        "편성 중인 지정 장비/어빌리티/비전 카드",
+        "Équipement(s)/Aptitude(s)/Atout-vision(s) choisi(s) et équipé(s)",
+        "Spezifizierte Ausrüstung/Fertigkeiten/Visionskarten, die derzeit ausgerüstet sind",
+        "Equipo/Habilidades/Cartas de visión designado/as equipado/as actualmente",
+        "Perlengkapan/Ability/Kartu Vision Spesifik Sedang Digunakan",
+        "อุปกรณ์\u001a/\u001aAbility\u001a/\u001aการ์ด\u001a \u001aVision\u001a \u001aที่\u001aติด\u001aตั้งอยู่\u001a"
+    ],
+    "PARADE_MISSION_COND_ORDER_PARTY_UNIT": [
+        "Specified Unit(s) in Party",
+        "隊伍中的指定兵員",
+        "편성 중인 지정 유닛",
+        "Unité(s) choisie(s) dans le groupe",
+        "Spezifizierte Einheit(en) in der Gruppe",
+        "Unidad(es) designada(s) en el grupo",
+        "Unit Spesifik dalam Tim",
+        "ยู\u001aนิ\u001aท\u001aที่\u001aกำหนด\u001aภายใน\u001aทีม\u001a"
     ],
     "PARADE_MISSION_PAST_RESULT": [
         "High Score",
@@ -19381,6 +20081,26 @@
         "Kelemahan",
         "จุดอ่อน\u001a"
     ],
+    "PARADE_NOT_SCORE_CONFIRM_TEXT": [
+        "Results are being calculated. Scores received at this time will not be reflected in the final ranking.",
+        "結果統計中，本次分數將不會被計入。",
+        "집계 중/결과 발표 기간이므로 스코어에는 반영되지 않습니다.",
+        "Les résultats sont en cours de calcul. Les scores reçus en ce moment ne seront pas pris en compte dans le classement final.",
+        "Ergebnisse werden berechnet. Zurzeit eingehende Punktestände haben keinen Einfluss auf die finalen Rangliste.",
+        "Se están calculando los resultados. Las puntuaciones recibidas ahora no afectarán a la clasificación final.",
+        "Hasil sedang dikalkulasi. Skor yang diterima saat ini tidak akan memengaruhi ranking terakhir.",
+        "ระบบ\u001aกำลัง\u001aคำนวณ\u001aผลลัพธ์\u001a \u001aอนึ่ง\u001a \u001aคะแนน\u001aที่\u001aได้รับ\u001aในเวลานี้\u001aจะ\u001aไม่\u001aมีผล\u001aใน\u001a \u001aRanking\u001a \u001aครั้งสุดท้าย\u001a"
+    ],
+    "PARADE_NOT_SCORE_START_TEXT": [
+        "Score Currently Unviewable",
+        "目前無法查看分數",
+        "스코어 반영 기간이 아닙니다",
+        "Score indisponible actuellement",
+        "Punktzahl derzeit nicht einsehbar",
+        "No se puede ver la puntuación en este momento",
+        "Skor Saat Ini Tidak Dapat Dilihat",
+        "ขณะนี้\u001aไม่\u001aสามารถ\u001aดู\u001aคะแนน\u001aได้\u001a"
+    ],
     "PARADE_PARTY_EDIT_CONFIRM_PARTY_COPY": [
         "<param=deck_name> has been copied.",
         "<param=deck_name>的隊伍資訊已複製。",
@@ -19402,24 +20122,24 @@
         "จะ\u001aบันทึก\u001aทับ\u001aข้อมูล\u001aทีม\u001aที่\u001aมี\u001aอยู่แล้ว\u001a \u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
     ],
     "PARADE_PARTY_ELEMENT_UP_DARK": [
-        "Boost <color=222:5:5>dark</color> damage by 20%",
-        "提高20%<color=222:5:5>暗屬性</color>傷害",
+        "Boost <color=205:71:255>dark</color> damage by 20%",
+        "提高20%<color=205:71:255>暗屬性</color>傷害",
         "<color=205:71:255>어둠속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>ténèbres</color> de 20 %",
-        "Erhöht <color=222:5:5>Dunkel</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>oscuridad</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>kegelapan</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aมืด\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts de <color=205:71:255>ténèbres</color> de 20 %",
+        "Erhöht <color=205:71:255>Dunkel</color>schaden um 20%.",
+        "Aumenta el daño de <color=205:71:255>oscuridad</color> un 20%",
+        "Meningkatkan damage <color=205:71:255>kegelapan</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=205:71:255>\u001aมืด\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_EARTH": [
-        "Boost <color=222:5:5>earth</color> damage by 20%",
-        "提高20%<color=222:5:5>土屬性</color>傷害",
+        "Boost <color=237:188:116>earth</color> damage by 20%",
+        "提高20%<color=237:188:116>土屬性</color>傷害",
         "<color=237:188:116>땅속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>terre</color> de 20 %",
-        "Erhöht <color=222:5:5>Erd</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>tierra</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>tanah</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aดิน\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts de <color=237:188:116>terre</color> de 20 %",
+        "Erhöht <color=237:188:116>Erd</color>schaden um 20%.",
+        "Aumenta el daño de <color=237:188:116>tierra</color> un 20%",
+        "Meningkatkan damage <color=237:188:116>tanah</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=237:188:116>\u001aดิน\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_FIRE": [
         "Boost <color=222:5:5>fire</color> damage by 20%",
@@ -19429,57 +20149,57 @@
         "Erhöht <color=222:5:5>Feuer</color>schaden um 20%.",
         "Aumenta el daño de <color=222:5:5>fuego</color> un 20%",
         "Meningkatkan damage <color=222:5:5>api</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aไฟ\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=222:5:5>\u001aไฟ\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_ICE": [
-        "Boost <color=222:5:5>ice</color> damage by 20%",
-        "提高20%<color=222:5:5>冰屬性</color>傷害",
+        "Boost <color=163:188:245>ice</color> damage by 20%",
+        "提高20%<color=163:188:245>冰屬性</color>傷害",
         "<color=163:188:245>얼음속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>glace</color> de 20 %",
-        "Erhöht <color=222:5:5>Eis</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>hielo</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>es</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aน้ำแข็ง\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts de <color=163:188:245>glace</color> de 20 %",
+        "Erhöht <color=163:188:245>Eis</color>schaden um 20%.",
+        "Aumenta el daño de <color=163:188:245>hielo</color> un 20%",
+        "Meningkatkan damage <color=163:188:245>es</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=163:188:245>\u001aน้ำแข็ง\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_LIGHT": [
-        "Boost <color=222:5:5>light</color> damage by 20%",
-        "提高20%<color=222:5:5>光屬性</color>傷害",
+        "Boost <color=199:199:199>light</color> damage by 20%",
+        "提高20%<color=199:199:199>光屬性</color>傷害",
         "<color=199:199:199>빛속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>lumière</color> de 20 %",
-        "Erhöht <color=222:5:5>Licht</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>luz</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>cahaya</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aแสง\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts de <color=199:199:199>lumière</color> de 20 %",
+        "Erhöht <color=199:199:199>Licht</color>schaden um 20%.",
+        "Aumenta el daño de <color=199:199:199>luz</color> un 20%",
+        "Meningkatkan damage <color=199:199:199>cahaya</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=199:199:199>\u001aแสง\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_THUNDER": [
-        "Boost <color=222:5:5>lightning</color> damage by 20%",
-        "提高20%<color=222:5:5>雷屬性</color>傷害",
+        "Boost <color=252:255:0>lightning</color> damage by 20%",
+        "提高20%<color=252:255:0>雷屬性</color>傷害",
         "<color=252:255:0>번개속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>foudre</color> de 20 %",
-        "Erhöht <color=222:5:5>Blitz</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>rayo</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>petir</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aสายฟ้า\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts de <color=252:255:0>foudre</color> de 20 %",
+        "Erhöht <color=252:255:0>Blitz</color>schaden um 20%.",
+        "Aumenta el daño de <color=252:255:0>rayo</color> un 20%",
+        "Meningkatkan damage <color=252:255:0>petir</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a \u001a<color=252:255:0>\u001aสายฟ้า\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_WATER": [
-        "Boost <color=222:5:5>water</color> damage by 20%",
-        "提高20%<color=222:5:5>水屬性</color>傷害",
+        "Boost <color=176:255:255>water</color> damage by 20%",
+        "提高20%<color=176:255:255>水屬性</color>傷害",
         "<color=176:255:255>물속성</color> 피해량 20% 상승",
-        "Augmente les dégâts d'<color=222:5:5>eau</color> de 20 %",
-        "Erhöht <color=222:5:5>Wasser</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>agua</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>air</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aน้ำ\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts d'<color=176:255:255>eau</color> de 20 %",
+        "Erhöht <color=176:255:255>Wasser</color>schaden um 20%.",
+        "Aumenta el daño de <color=176:255:255>agua</color> un 20%",
+        "Meningkatkan damage <color=176:255:255>air</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=176:255:255>\u001aน้ำ\u001a</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_WIND": [
-        "Boost <color=222:5:5>wind</color> damage by 20%",
-        "提高20%<color=222:5:5>風屬性</color>傷害",
+        "Boost <color=102:230:58>wind</color> damage by 20%",
+        "提高20%<color=102:230:58>風屬性</color>傷害",
         "<color=102:230:58>바람속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>vent</color> de 20 %",
-        "Erhöht <color=222:5:5>Wind</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>viento</color> un 20%",
-        "Meningkatkan damage <color=222:5:5>angin</color> sebanyak 20%",
-        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>ลม</color>\u001a \u001aขึ้น\u001a \u001a20%"
+        "Augmente les dégâts de <color=102:230:58>vent</color> de 20 %",
+        "Erhöht <color=102:230:58>Wind</color>schaden um 20%.",
+        "Aumenta el daño de <color=102:230:58>viento</color> un 20%",
+        "Meningkatkan damage <color=102:230:58>angin</color> sebanyak 20%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a \u001a<color=102:230:58>ลม</color>\u001a \u001a20%"
     ],
     "PARADE_PARTY_REGISTER_SLOT_LIST_LOAD_SUB_HEADER": [
         "Load a Party (Dark Visions)",
@@ -19540,6 +20260,16 @@
         "KO",
         "KO",
         "KO\u001a"
+    ],
+    "PARADE_RADAR_CHART_ELM_DEF": [
+        "DEF",
+        "DEF",
+        "DEF",
+        "DEF",
+        "ABW",
+        "DEF",
+        "DEF",
+        "DEF\u001a"
     ],
     "PARADE_RADAR_CHART_LB": [
         "LB",
@@ -19660,6 +20390,46 @@
         "Clasificación de unidades populares",
         "Ranking Unit Populer",
         "ระดับ\u001aยู\u001aนิ\u001aท\u001aยอดนิยม\u001a"
+    ],
+    "PARADE_WINNING_HIGHEST_RANKING": [
+        "Highest Ranking",
+        "過去最高排名",
+        "과거 최고 순위",
+        "Meilleur classement",
+        "Höchster Rang",
+        "Clasificación más alta",
+        "Ranking Tertinggi",
+        "Ranking\u001a \u001aสูงสุด\u001a"
+    ],
+    "PARADE_WINNING_LAST_TIME_RANKING": [
+        "Previous Ranking",
+        "前次排名",
+        "지난 순위",
+        "Classement précédent",
+        "Vorheriger Rang",
+        "Clasificación anterior",
+        "Ranking Sebelumnya",
+        "Ranking\u001a \u001aครั้งก่อน\u001a"
+    ],
+    "PARADE_WINNING_SCORE": [
+        "SCORE",
+        "SCORE",
+        "SCORE",
+        "SCORE",
+        "PUNKTZAHL",
+        "PUNTUACIÓN",
+        "SKOR",
+        "คะแนน\u001a"
+    ],
+    "PARADE_WINNING_THIS_TIME_RANKING": [
+        "Current Ranking",
+        "本次排名",
+        "이번 순위",
+        "Classement actuel",
+        "Derzeitiger Rang",
+        "Clasificación actual",
+        "Ranking Saat Ini",
+        "Ranking\u001a \u001aปัจจุบัน\u001a"
     ],
     "PARTY_REGISTER_SLOT_CONFIRM_LOAD_CAPTION": [
         "Would you like to load the party from <color=255:255:0><param=slotname></color> into <param=deckname>?",
@@ -22171,6 +22941,46 @@
         "???",
         "???\u001a"
     ],
+    "ROYAL_PARADE_ENTRY_CONFIRM_TEXT": [
+        "Only users who have met the following conditions may participate:<br><color=255:165:0>Place within the top 1000 during the relevant Dark Visions event.</color>",
+        "此活動只有滿足以下條件的使用者才能夠參加：<br><color=255:165:0>在特定的暗黑幻境中進入前1000名。</color>",
+        "해당 이벤트는 아래 조건을 충족하는 유저에 한해 참가할 수 있습니다.<br><color=255:165:0>조건:<br>대상 다크 비전에서 1,000위 이내 입상</color>",
+        "Seuls les utilisateurs ayant rempli les conditions suivantes peuvent participer :<br><color=255:165:0>Terminer dans le Top 1000 pendant l'événement des Visions obscures correspondant.</color>",
+        "Nur Spieler, die die folgenden Bedingungen erfüllen, dürfen an diesem Ereignis teilnehmen:<br><color=255:165:0>Erreiche im entsprechenden Dunkle Visionen-Ereignis eine Platzierung unter den Top 1000.</color>",
+        "Only users who have met the following conditions may participate:<br><color=255:165:0>Place within the top 1000 during the relevant Dark Visions event.</color>",
+        "Pengguna hanya dapat berpartisipasi apabila kondisi berikut terpenuhi:<br><color=255:165:0>Berada dalam peringkat 1.000 teratas selama event Dark Visions yang terkait.</color>",
+        "ผู้\u001aเล่น\u001aที่\u001aเข้าร่วม\u001aได้\u001aจะ\u001aต้อง\u001aเป็นไป\u001aตามเงื่อนไข\u001aดังต่อไปนี้\u001aเท่านั้น\u001a:<br><color=255:165:0>\u001aอยู่\u001aภายใน\u001a \u001a1000\u001a \u001aอันดับ\u001aแรก\u001aของ\u001aอีเวนท์\u001a \u001aDark\u001a \u001aVisions\u001a \u001aที่\u001aกำหนด\u001a</color>\u001a"
+    ],
+    "ROYAL_PARADE_ENTRY_CONFIRM_TITLE": [
+        "Entry-Restricted Event",
+        "有參加限制的活動",
+        "참가 제한 이벤트",
+        "Événement à entrée limitée",
+        "Teilnahmebeschränktes Ereignis",
+        "Evento de participación limitada",
+        "Event Partisipasi Terbatas",
+        "อีเวนท์\u001aจำกัด\u001aการ\u001aเข้าร่วม\u001a"
+    ],
+    "ROYAL_PARADE_MSG": [
+        "Congratulations! As a result of your superlative performance in Dark Visions, you are hereby invited to Dark Visions Abyss.",
+        "恭喜您！因為您在暗黑幻境中的優異表現，您被邀請至暗黑幻境深淵。",
+        "축하합니다! 다크 비전에서 상위에 입상하여 다크 비전 어비스로 초대합니다.",
+        "Félicitations ! En raison de votre performance exceptionnelle dans les Visions obscures, vous êtes invité à participer aux Visions obscures - Abysses.",
+        "Herzlichen Glückwunsch! Aufgrund deiner herausragenden Leistung bei Dunkle Visionen laden wir dich hiermit zu \"Dunkle Visionen – Abgrund\" ein.",
+        "¡Enhorabuena! Lo has hecho excepcionalmente bien en Visiones Oscuras y, por lo tanto, quedas invitado al Abismo de Visiones Oscuras.",
+        "Selamat! Kamu telah diundang untuk berpartisipasi dalam Dark Visions Maut atas performamu yang luar biasa dalam Dark Visions.",
+        "ยินดี\u001aด้วย\u001a!\u001a \u001aเนื่องจาก\u001aคุณ\u001aมี\u001aผลงาน\u001aอัน\u001aเยี่ยมยอด\u001aใน\u001a \u001aDark\u001a \u001aVisions\u001a \u001aเรา\u001aจึง\u001aขอ\u001aเชิญ\u001aคุณ\u001aเข้า\u001aเล่น\u001a \u001aDark\u001a \u001aVisions\u001a \u001aAbyss\u001a"
+    ],
+    "ROYAL_PARADE_TITLE": [
+        "Dark Visions Abyss Invitation",
+        "暗黑幻境深淵的邀請函",
+        "다크 비전 어비스 초대장",
+        "Invitation pour les Visions obscures - Abysses",
+        "Einladung zu Dunkle Visionen – Abgrund",
+        "Invitación al Abismo de Visiones Oscuras",
+        "Undangan ke Dark Visions Maut",
+        "คำเชิญ\u001aเข้า\u001aเล่น\u001a \u001aDark\u001a \u001aVIsions\u001a \u001aAbyss\u001a"
+    ],
     "Reroll_Error_Msg": [
         "(Re)summon limit reached. No more summon attempts available.",
         "(重置)召喚已達上限。無法再次進行召喚。",
@@ -22310,6 +23120,166 @@
         "Pergamino del vigor",
         "Scroll of Vigor",
         "Scroll\u001a \u001aof\u001a \u001aVigor\u001a"
+    ],
+    "SEAL": [
+        "Chamber of Seals",
+        "封印之間",
+        "봉인의 틈",
+        "Chambre des sceaux",
+        "Kammer der Siegel",
+        "Cámara de los Sellos",
+        "Ruang Segel",
+        "ห้องโถง\u001aแห่ง\u001aตรา\u001aผนึก\u001a"
+    ],
+    "SEAL_REQUIRED_ITEM_COUNT": [
+        "<param=item_name> x1",
+        "<param=item_name> x1",
+        "<param=item_name> x 1",
+        "<param=item_name> x1",
+        "<param=item_name> x1",
+        "<param=item_name> x1",
+        "<param=item_name> x1",
+        "<param=item_name>\u001a \u001ax\u001a1\u001a"
+    ],
+    "SEAL_TAB_NAME_1": [
+        "Enhancement",
+        "強化",
+        "강화",
+        "Amélioration",
+        "Verbesserung",
+        "Mejora",
+        "Penguatan",
+        "เสริม\u001aพลัง\u001a"
+    ],
+    "SEAL_TAB_NAME_2": [
+        "Units",
+        "兵員",
+        "유닛",
+        "Unités",
+        "Einheiten",
+        "Unidades",
+        "Unit",
+        "ยู\u001aนิ\u001aท\u001a"
+    ],
+    "SEAL_TAB_NAME_3": [
+        "Equipment",
+        "裝備",
+        "장비",
+        "Équipement",
+        "Ausrüstung",
+        "Equipo",
+        "Perlengkapan",
+        "อุปกรณ์\u001a"
+    ],
+    "SEAL_TAB_NAME_4": [
+        "Story",
+        "劇情",
+        "스토리",
+        "Histoire",
+        "Story",
+        "Historia",
+        "Cerita",
+        "เนื้อเรื่อง\u001a"
+    ],
+    "SEAL_TAB_NAME_5": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<blank>\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_GUIDE_CAUTION_NG": [
+        "Insufficient items.",
+        "道具不足。",
+        "아이템이 부족합니다.",
+        "Pas assez d'objets.",
+        "Nicht genug Gegenstände.",
+        "Objetos insuficientes.",
+        "Item tidak cukup.",
+        "มี\u001aไอเทม\u001aไม่\u001aพอ\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_GUIDE_CAUTION_OK": [
+        "Use an item and proceed with the quest?",
+        "使用道具來進行任務嗎？",
+        "아이템을 사용하여 퀘스트에 출발하시겠습니까?",
+        "Utiliser un objet et lancer la quête ?",
+        "Gegenstand benutzen und mit dem Auftrag fortfahren?",
+        "¿Usar un objeto y partir a la misión?",
+        "Apakah kamu mau menggunakan item tersebut dan memulai quest?",
+        "จะ\u001aใช้\u001aไอเทม\u001aและ\u001aเข้า\u001aทำ\u001aเค\u001aวส\u001aต่อไป\u001aหรือไม่\u001a?\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_GUIDE_LINE_1": [
+        "To proceed,",
+        "要進行此任務",
+        "해당 퀘스트를 진행하려면",
+        "Pour continuer,",
+        "Um fortfahren zu können,",
+        "Para continuar,",
+        "Untuk melanjutkan,",
+        "หาก\u001aต้องการ\u001aไป\u001aต่อ\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_GUIDE_LINE_2": [
+        "both energy and the applicable item are needed.",
+        "需要消耗體力和專用道具。",
+        "체력과 별도로 전용 아이템이 필요합니다.",
+        "l'endurance et l'objet adapté sont nécessaires.",
+        "werden Energie und der anwendbare Gegenstand benötigt.",
+        "se necesita tanto energía como el objeto aplicable.",
+        "energi dan item spesial diperlukan.",
+        "จะ\u001aต้อง\u001aใช้\u001aทั้ง\u001a \u001aNRG\u001a \u001aและ\u001aไอเทม\u001aเฉพาะ\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_POSSESSION_COUNT": [
+        "Number Possessed:",
+        "持有數量：",
+        "보유 수:",
+        "En votre possession :",
+        "Im Besitz:",
+        "En posesión:",
+        "Dimiliki:",
+        "จำนวน\u001aที่\u001aมี\u001a:\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_SLASH": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_START": [
+        "Depart",
+        "出發",
+        "출발",
+        "Commencer",
+        "Aufbrechen",
+        "Partir",
+        "Berangkat",
+        "ออกเดินทาง\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_TITLE": [
+        "Confirm item use",
+        "確認使用道具",
+        "아이템 사용 확인",
+        "Confirmer l'utilisation de l'objet",
+        "Gegenstandsgebrauch bestätigen",
+        "Confirmar uso de objeto",
+        "Konfirmasi Penggunaan Item",
+        "ยืนยัน\u001aการ\u001aใช้\u001aไอเทม\u001a"
+    ],
+    "SEAL_USE_ITEM_CONFIRM_USE_COUNT": [
+        "Number Used:",
+        "使用數量：",
+        "사용 수:",
+        "En cours d'utilisation",
+        "Verwendet:",
+        "En uso:",
+        "Digunakan:",
+        "จำนวน\u001aที่\u001aใช้แล้ว\u001a:\u001a"
     ],
     "SEARCH_ITEM_MISSION_NOTHING": [
         "There are currently no available quests on the world map.<br>Available quests can be unlocked by advancing the story.",
@@ -26101,6 +27071,16 @@
         "Hadiah Bonus",
         "รางวัล\u001aโบนัส\u001a"
     ],
+    "SUB_CATEGORY_UNIT_LIST_DONOT_MOVE_UNIT_DETAIL_ANNOUNCE": [
+        "Unit details cannot be confirmed from this screen.",
+        "此畫面無法確認兵員的詳細資料",
+        "이 화면에서는 각 유닛 상세 정보를 확인할 수 없습니다.",
+        "Les détails de l'unité ne sont pas consultables depuis cet écran.",
+        "Einheitendetails können nicht über diesen Bildschirm eingesehen werden.",
+        "No se pueden confirmar los detalles de unidad desde esta pantalla.",
+        "Detail unit tidak dapat dikonfirmasi dari layar ini.",
+        "ไม่\u001aสามารถ\u001aตรวจ\u001aยืนยัน\u001aรายละเอียด\u001aยู\u001aนิ\u001aท\u001aได้\u001aจาก\u001aหน้าจอ\u001aนี้\u001a"
+    ],
     "SUGGEST": [
         "Share",
         "分享",
@@ -27899,17 +28879,17 @@
         "Du kannst <color=255:255:0><param=point></color> gegen <color=255:255:0><param=item_name></color> tauschen.<br>Fortfahren?",
         "¿Quieres intercambiar <color=255:255:0><param=item_name></color> por <color=255:255:0><param=point></color></color>?",
         "Kamu dapat menukarkan <color=255:255:0><param=point></color> dengan <case=lower><color=255:255:0><param=item_name></color></case>.<br>Lanjutkan?",
-        "คุณ\u001aสามารถ\u001aแลกเปลี่ยน\u001a \u001a<color=255:255:0><param=point></color>\u001a \u001aกับ\u001a<case=lower><color=255:255:0><param=item_name></color></case>\u001aได้\u001a<br>\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
+        "คุณ\u001aสามารถ\u001aแลกเปลี่ยน\u001a \u001a<color=255:255:0><param=point></color>\u001a \u001aเป็น\u001a<case=lower><color=255:255:0><param=item_name></color></case>\u001aได้\u001a<br>\u001aดำเนินการ\u001aต่อ\u001aหรือไม่\u001a?\u001a"
     ],
     "TOWN_STORE_TRADE_RESULT": [
-        "You exchanged <param=point>for: <param=item_name>",
+        "You exchanged <param=point> for: <param=item_name>",
         "以<param=point>交換了<param=item_name>。",
         "<param=item_name>(을)를 <param=point>와 교환했습니다.",
         "Vous avez échangé<br><param=item_name> contre <param=point>",
         "<param=point> wurde gegen <param=item_name> eingetauscht.",
         "Has intercambiado <param=point>por:<br><param=item_name>",
         "Kamu telah menukarkan <param=point>dengan: <param=item_name>",
-        "คุณ\u001aนำ\u001a \u001a<param=point>\u001aไป\u001aแลก\u001a:\u001a \u001a<param=item_name>\u001a"
+        "คุณ\u001aแลก\u001a \u001a<param=point>\u001a \u001aเป็น\u001a<param=item_name>\u001a \u001aแล้ว\u001a"
     ],
     "TOWN_STRONGBOX_CLOSE": [
         "Chest unlockable with <case=lower><param=item_name></case>",
@@ -28710,6 +29690,26 @@
         "Base",
         "Dasar",
         "ระดับ\u001aพื้นฐาน\u001a"
+    ],
+    "UNIT_DETAIL_CATEGORY_DISABLE_MOVE_SUB_CATEGORY_UNIT_LIST_SCENE": [
+        "The lists of category units are not accessible from this screen.",
+        "無法從此畫面移動至持有兵員一覽",
+        "이 화면에서는 카테고리 해당 유닛 목록으로 이동할 수 없습니다.",
+        "La liste d'unité à catégorie n'est pas accessible depuis cet écran.",
+        "Die Liste der Kategorie-Einheiten ist über diesen Bildschirm nicht zugänglich.",
+        "No se puede acceder a la lista de categorías de unidades desde esta pantalla.",
+        "Daftar kategori unit tidak dapat diakses dari layar ini.",
+        "ไม่\u001aสามารถ\u001aเข้า\u001aดู\u001aรายการ\u001aประเภท\u001aยู\u001aนิ\u001aท\u001aได้\u001aจาก\u001aหน้าจอ\u001aนี้\u001a"
+    ],
+    "UNIT_DETAIL_CATEGORY_NOTHING": [
+        "This unit does not belong to any category.",
+        "此兵員不屬於任何類別",
+        "해당 유닛은 카테고리가 없습니다.",
+        "Cette unité n'appartient à aucune catégorie.",
+        "Diese Einheit gehört keiner Kategorie an.",
+        "Esta unidad no pertenece a ninguna categoría.",
+        "Unit ini tidak termasuk dalam kategori mana pun.",
+        "ยู\u001aนิ\u001aท\u001aนี้\u001aไม่\u001aจัด\u001aอยู่\u001aใน\u001aประเภท\u001aใดๆ\u001a \u001aทั้งสิ้น\u001a"
     ],
     "UNIT_DETAIL_EQUIP": [
         "Equipment",
@@ -30611,6 +31611,16 @@
         "Ability Potensial",
         "Ability\u001a \u001aแฝง\u001a"
     ],
+    "UNIT_LEADER_SKILL_INVOCATION_CATEGORY": [
+        "Unit Category",
+        "發動兵員類別",
+        "발동 유닛 카테고리",
+        "Catégorie d'unité",
+        "Einheitenkategorie",
+        "Categorías de unidades",
+        "Kategori Unit",
+        "ประเภท\u001aยู\u001aนิ\u001aท\u001a"
+    ],
     "UNIT_LIBRARY_NOTHING": [
         "No units can be displayed.",
         "沒有可以顯示的兵員",
@@ -31591,6 +32601,16 @@
         "Peningkatan Damage Fisik terhadap Jenis Musuh",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001a"
     ],
+    "UNIT_SORT_LEADER_SKILL": [
+        "Leader Skill",
+        "隊長技能",
+        "리더 스킬",
+        "Compétence de chef",
+        "Anführer-Talent",
+        "Técnica de líder",
+        "Skill Leader",
+        "สกิล\u001aผู้นำ\u001a"
+    ],
     "UNIT_SORT_MAGIC_LV_BLACK": [
         "Black Magic level",
         "黑魔法等級",
@@ -31940,6 +32960,16 @@
         "Nº",
         "No.",
         "No\u001a.\u001a"
+    ],
+    "UNIT_SORT_TYPE_QUEST_BONUS": [
+        "BONUS",
+        "BONUS",
+        "BONUS",
+        "BONUS",
+        "BONUS",
+        "BONIFICACIÓN",
+        "BONUS",
+        "BONUS\u001a"
     ],
     "UNIT_SORT_TYPE_RARE": [
         "Rarity",
