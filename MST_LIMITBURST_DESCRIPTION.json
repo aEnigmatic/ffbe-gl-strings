@@ -8473,7 +8473,7 @@
         "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, restore MP, and boost fire, lightning, earth, and light resistance for all allies, revive all KO'd allies, and automatically revive all allies one time",
         "治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+恢復MP+提高火雷土光屬性耐性+從無法戰鬥狀態中復活+賦予自動復活1次的效果",
         "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+MP 회복+불, 번개, 땅, 빛속성 저항력 상승+전투불능 상태 회복+전투불능 상태를 1회 자동 회복하는 효과 부여",
-        "Guérit poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés, restaure leurs PM, augmente leur résistance au feu, à la foudre, à la terre et à la lumière, ranime tous les alliés KO et ranime automatiquement tous les alliés une fois",
+        "Guérit poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés, restaure leurs PM, augmente leur résistance au feu, à la foudre, à la terre et à la lumière, ranime tous les alliés K.O. et ranime automatiquement tous les alliés une fois.",
         "Heilt Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein, regeneriert MP und erhöht Feuer-, Blitz-, Erd- und Lichtresistenz aller Verbündeten, belebt alle kampfunfähigen Verbündeten wieder und belebt alle kampfunfähigen Verbündeten einmal automatisch wieder.",
         "Cura veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra de todos los aliados, les recupera PM, aumenta su resistencia a fuego, rayo, tierra y luz, revive a todos los aliados K.O., y revive automáticamente a todos los aliados una vez",
         "Menyembuhkan status poison, blind, sleep, silence, paralyze, confuse, disease, dan petrify, memulihkan MP, meningkatkan resistansi api, petir, tanah, dan cahaya, dan menghidupkan kembali semua teman secara otomatis 1 kali, serta menghidupkan kembali semua teman yang telah K.O.",
@@ -9548,6 +9548,66 @@
         "Reduce la resistencia a espadas grandes de un enemigo, le inflige daño de oscuridad y aumenta el daño con cada uso",
         "Mengurangi resistansi pedang besar, serta memberikan damage kegelapan pada satu musuh dan meningkatkan damage apabila digunakan secara beruntun",
         "ลด\u001aพลัง\u001aต้านทาน\u001aดาบ\u001aใหญ่\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
+    ],
+    "100040707": [
+        "Reduce fire and ice resistance and DEF and deal damage to all enemies",
+        "降低全體敵人的火冰屬性耐性、防禦+發動攻擊",
+        "적 전체의 불, 얼음속성 저항력과 방어력 감소+피해",
+        "Réduit la résistance au feu et à la glace de tous les ennemis, réduit leur DEF et leur inflige des dégâts",
+        "Verringert Feuer- und Eisresistenz sowie ABW aller Gegner und fügt diesen Schaden zu.",
+        "Reduce la resistencia a fuego y hielo y la DEF de todos los enemigos y los daña",
+        "Mengurangi resistansi api dan es, dan DEF, serta memberikan damage pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aและ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100040717": [
+        "Reduce fire and ice resistance and DEF and SPR and deal damage to all enemies",
+        "降低全體敵人的火冰屬性耐性、防禦精神+發動攻擊",
+        "적 전체의 불, 얼음속성 저항력과 방어력, 정신력 감소+피해",
+        "Réduit la résistance au feu et à la glace de tous les ennemis, réduit leur DEF et leur PSY, et leur inflige des dégâts",
+        "Verringert Feuer- und Eisresistenz aller Gegner, verringert deren ABW und PSY und fügt diesen Schaden zu.",
+        "Reduce la resistencia a fuego y hielo, la DEF y el ESP de todos los enemigos y los daña",
+        "Mengurangi resistansi api dan es, dan DEF dan SPR, serta memberikan damage pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001aและ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100040807": [
+        "Reduce ice resistance and resistance to katanas and deal ice damage to one enemy",
+        "降低1名敵人的冰屬性耐性+降低對刀的耐性+發動冰屬性攻擊",
+        "적 1명의 얼음속성 저항력 감소+도 저항력 감소+얼음속성 피해",
+        "Réduit la résistance à la glace et la résistance aux katanas d'un ennemi, et lui inflige des dégâts de glace",
+        "Verringert Eisresistenz eines Gegners sowie dessen Resistenz gegen Katanas und fügt diesem Eisschaden zu.",
+        "Reduce la resistencia al hielo y a katanas de un enemigo y le inflige daño de hielo",
+        "Mengurangi resistansi es dan resistansi katana, serta memberikan damage es pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aคาตา\u001aนะ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100040817": [
+        "Reduce ice resistance and resistance to guns and deal ice magic damage to one enemy",
+        "降低1名敵人的冰屬性耐性+降低對火槍的耐性+發動冰屬性魔法攻擊",
+        "적 1명의 얼음속성 저항력 감소+총 저항력 감소+얼음속성 마법 피해",
+        "Réduit la résistance à la glace et la résistance aux pistolets d'un ennemi et lui inflige des dégâts magiques de glace",
+        "Verringert Eisresistenz eines Gegners sowie dessen Resistenz gegen Schusswaffen und fügt diesem magischen Eisschaden zu.",
+        "Reduce la resistencia al hielo y a armas de fuego de un enemigo y le inflige daño mágico de hielo",
+        "Mengurangi resistansi es dan resistansi senapan, serta memberikan damage es pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100040907": [
+        "Reduce earth resistance and resistance to guns and deal earth magic damage to one enemy",
+        "降低1名敵人的土屬性耐性+降低對火槍的耐性+發動土屬性魔法攻擊",
+        "적 1명의 땅속성 저항력 감소+총 저항력 감소+땅속성 마법 피해",
+        "Réduit la résistance à la terre et la résistance aux pistolets d'un ennemi et lui inflige des dégâts magiques de terre",
+        "Verringert Erdresistenz eines Gegners sowie dessen Resistenz gegen Schusswaffen und fügt diesem magischen Erdschaden zu.",
+        "Reduce la resistencia a la tierra y a armas de fuego de un enemigo y le inflige daño mágico de tierra",
+        "Mengurangi resistansi tanah dan resistansi senapan, serta memberikan damage magic tanah pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100040917": [
+        "Reduce earth resistance and resistance to guns and deal earth magic damage to one enemy",
+        "降低1名敵人的土屬性耐性+降低對火槍的耐性+發動土屬性魔法攻擊",
+        "적 1명의 땅속성 저항력 감소+총 저항력 감소+땅속성 마법 피해",
+        "Réduit la résistance à la terre et la résistance aux pistolets d'un ennemi et lui inflige des dégâts magiques de terre",
+        "Verringert Erdresistenz eines Gegners sowie dessen Resistenz gegen Schusswaffen und fügt diesem magischen Erdschaden zu.",
+        "Reduce la resistencia a la tierra y a armas de fuego de un enemigo y le inflige daño mágico de tierra",
+        "Mengurangi resistansi tanah dan resistansi senapan, serta memberikan damage magic tanah pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "100041407": [
         "Deal earth damage to all enemies, and boost earth damage of LB, abilities, and magic, ATK, and damage of certain abilities for caster",
@@ -27928,6 +27988,36 @@
         "Aumenta la MAG del usuario, el daño de oscuridad de sus EL, habilidades y magia y el daño de determinadas habilidades, y activa un efecto de zona",
         "Meningkatkan MAG, dan meningkatkan damage kegelapan pada LB, ability, dan magic diri sendiri, serta meningkatkan damage ability tertentu",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
+    ],
+    "900000443": [
+        "(Tag-Team Attack) Deal fire damage to all enemies, and boost damage of certain abilities",
+        "【TAG聯合攻擊】對全體敵人發動火屬性攻擊+提高特定能力的傷害",
+        "[태그 어택] 적 전체에 불속성 피해+특정 어빌리티의 피해량 상승",
+        "(Attaque combo duo) Inflige des dégâts de feu à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "(Kombo-Angriff) Fügt allen Gegnern Feuerschaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "(Ataque a dúo) Daño de fuego a todos los enemigos y aumenta el daño de determinadas habilidades",
+        "(Serangan Tag-Team) Memberikan damage api pada semua musuh dan meningkatkan damage ability tertentu",
+        "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "900000444": [
+        "(Tag-Team Attack) Deal fire damage to all enemies, and boost damage of certain abilities",
+        "【TAG聯合攻擊】對全體敵人發動火屬性攻擊+提高特定能力的傷害",
+        "[태그 어택] 적 전체에 불속성 피해+특정 어빌리티의 피해량 상승",
+        "(Attaque combo duo) Inflige des dégâts de feu à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "(Kombo-Angriff) Fügt allen Gegnern Feuerschaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "(Ataque a dúo) Daño de fuego a todos los enemigos y aumenta el daño de determinadas habilidades",
+        "(Serangan Tag-Team) Memberikan damage api pada semua musuh dan meningkatkan damage ability tertentu",
+        "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "900000445": [
+        "(Tag-Team Attack) Deal fire damage to all enemies, and boost damage of certain abilities",
+        "【TAG聯合攻擊】對全體敵人發動火屬性攻擊+提高特定能力的傷害",
+        "[태그 어택] 적 전체에 불속성 피해+특정 어빌리티의 피해량 상승",
+        "(Attaque combo duo) Inflige des dégâts de feu à tous les ennemis, et augmente les dégâts de certaines aptitudes",
+        "(Kombo-Angriff) Fügt allen Gegnern Feuerschaden zu und erhöht Schaden bestimmter Fertigkeiten.",
+        "(Ataque a dúo) Daño de fuego a todos los enemigos y aumenta el daño de determinadas habilidades",
+        "(Serangan Tag-Team) Memberikan damage api pada semua musuh dan meningkatkan damage ability tertentu",
+        "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aไฟ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
     ],
     "900000450": [
         "Remove some status effects, reduce ATK, DEF, MAG, SPR, and fire, ice, lightning, water, wind, and earth resistance, and damage all enemies",
