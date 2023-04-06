@@ -8520,14 +8520,14 @@
         "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "100033007": [
-        "(Tag-Team Attack) Deal dark damage to all enemies, and enable power of chaos (Dark Fina & Sol) for three turns for caster",
-        "【TAG聯合攻擊】對全體敵人發動暗屬性攻擊+賦予自身3回合內可使用「混沌之力(魔人菲娜&索菲拉)」的效果",
-        "[태그 어택] 적 전체에 어둠속성 피해+3턴 동안 자신이 '혼돈의 힘(마인 피나&솔)' 사용 가능",
-        "(Attaque combo duo) Inflige des dégâts de ténèbres à tous les ennemis, et permet d'utiliser Pouvoir du chaos (Fina obscure et Sol) pendant 3 tours pour le lanceur",
-        "(Kombo-Angriff) Fügt allen Gegnern Dunkelschaden zu und ermöglicht Benutzer drei Runden lang Macht des Chaos (Dunkel-Fina & Sol).",
-        "(Ataque a dúo) Inflige daño de oscuridad a todos los enemigos y el usuario aprende Poder del caos (Fina oscura y Solfuego) durante 3 turnos",
-        "(Serangan Tag-Team) Memberikan damage kegelapan pada semua musuh dan memungkinkan penggunaan Kekuatan Malapetaka (Dark Fina & Sol) selama 3 giliran",
-        "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aพลัง\u001aมิคสัญญี\u001a \u001a(\u001aFina\u001a \u001aร่าง\u001aมาร\u001a \u001a&\u001a \u001aSol\u001a)\u001a \u001aได้\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "(Tag-Team Attack) Deal dark magic damage to all enemies, and enable certain abilities for caster",
+        "【TAG聯合攻擊】對全體敵人發動暗屬性魔法攻擊+自身可使用特定能力",
+        "[태그 어택] 적 전체에 어둠속성 마법 피해+자신이 특정 어빌리티 사용 가능",
+        "(Attaque combo duo) Inflige des dégâts magiques de ténèbres à tous les ennemis, et permet au lanceur d'utiliser certaines aptitudes",
+        "(Kombo-Angriff) Fügt allen Gegnern magischen Dunkelschaden zu und ermöglicht dem Benutzer bestimmte Fertigkeiten.",
+        "(Ataque a dúo) Daño mágico de oscuridad a todos los enemigos y el usuario aprende determinadas habilidades",
+        "(Serangan Tag-Team) Memberikan damage kegelapan pada semua musuh dan memungkinkan penggunaan ability tertentu",
+        "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aมืด\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "100033017": [
         "Reduce earth resistance and deal earth damage to one enemy",
@@ -9608,6 +9608,46 @@
         "Reduce la resistencia a la tierra y a armas de fuego de un enemigo y le inflige daño mágico de tierra",
         "Mengurangi resistansi tanah dan resistansi senapan, serta memberikan damage magic tanah pada satu musuh",
         "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100041007": [
+        "Reduce ice resistance and deal ice damage to one enemy",
+        "降低1名敵人的冰屬性耐性+發動冰屬性攻擊",
+        "적 1명의 얼음속성 저항력 감소+얼음속성 피해",
+        "Réduit la résistance à la glace d'un ennemi et lui inflige des dégâts de glace",
+        "Verringert Eisresistenz eines Gegners und fügt diesem Schaden zu.",
+        "Reduce la resistencia al hielo de un enemigo y le inflige daño de hielo",
+        "Mengurangi resistansi es dan memberikan damage es pada satu musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "100041017": [
+        "Reduce resistance to katanas and ice resistance and deal ice damage to all enemies",
+        "降低全體敵人對刀的耐性+降低冰屬性耐性+發動冰屬性攻擊",
+        "적 전체의 도 저항력 감소+얼음속성 저항력 감소+얼음속성 피해",
+        "Réduit la résistance aux katanas et la résistance à la glace de tous les ennemis et leur inflige des dégâts de glace",
+        "Verringert Resistenz aller Gegner gegen Katanas sowie deren Eisresistenz und fügt diesen Eisschaden zu.",
+        "Reduce la resistencia a katanas y al hielo de todos los enemigos y les inflige daño de hielo",
+        "Mengurangi resistansi katana dan resistansi es, serta memberikan damage es pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aคาตา\u001aนะ\u001aและ\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำแข็ง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำแข็ง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "100041107": [
+        "Boost ATK, DEF, MAG, and SPR, LB damage, and lightning damage of LB, abilities, and magic for all allies",
+        "提高全體隊員的攻擊防禦魔力精神+提高極限技傷害+提高雷屬性「極限技、能力、魔法」的傷害",
+        "아군 전체의 공격력, 방어력, 마력, 정신력 상승+LB 피해량 상승+번개속성 LB, 어빌리티, 마법 피해량 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés, et augmente les dégâts de leur limite et les dégâts de foudre de leur limite, de leurs aptitudes et de leurs sorts",
+        "Erhöht ANG, ABW, MAG sowie PSY aller Verbündeten und erhöht deren Schaden durch Limitrausch sowie deren Blitzschaden durch Limitrausch, Fertigkeiten und Magie.",
+        "Aumenta ATQ, DEF, MAG, ESP, el daño del EL y el daño de rayo de EL, habilidades y magia de todos los aliados",
+        "Meningkatkan ATK, DEF, MAG, dan SPR, meningkatkan damage LB, serta meningkatkan damage petir pada LB, ability, dan magic semua teman",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001a \u001aLB\u001a  \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001aสายฟ้า\u001aของ\u001a \u001aLB\u001a,\u001a \u001aAbility\u001a \u001aและ\u001aพลัง\u001aเวทย์\u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+    ],
+    "100041117": [
+        "Reduce resistance to bows and deal lightning magic damage to all enemies",
+        "降低全體敵人對弓的耐性+發動雷屬性魔法攻擊",
+        "적 전체의 활 저항력 감소+번개속성 마법 피해",
+        "Réduit la résistance aux arcs de tous les ennemis et leur inflige des dégâts magiques de foudre",
+        "Verringert Resistenz aller Gegner gegen Bögen und fügt diesen magischen Blitzschaden zu.",
+        "Reduce la resistencia a arcos de todos los enemigos y les inflige daño mágico de rayo",
+        "Mengurangi resistansi busur dan memberikan damage magic petir pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธนู\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aสายฟ้า\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "100041407": [
         "Deal earth damage to all enemies, and boost earth damage of LB, abilities, and magic, ATK, and damage of certain abilities for caster",
