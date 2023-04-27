@@ -5599,7 +5599,7 @@
         "Exklusiv für equip_cond",
         "Exclusivo de equip_cond",
         "Khusus equip_cond",
-        "อุปกรณ์\u001aติดตั้ง\u001aได้\u001aเฉพาะ\u001aกับ\u001a<case=lower>\u001aequip_cond\u001a</case>\u001aเท่านั้น\u001a"
+        "อุปกรณ์\u001aติดตั้ง\u001aได้\u001aเฉพาะ\u001aกับ\u001a \u001a<case=lower>\u001aequip_cond\u001a</case>\u001a \u001aเท่านั้น\u001a"
     ],
     "EQUIP_ITEM_COND_MAN": [
         "Males",
@@ -18161,6 +18161,16 @@
         "FFXI<br><br>*Kategori unit dalam dilihat dari tab Filter Kategori.<br>*Unit tertentu mungkin tidak termasuk dalam kategori mana pun.",
         "FFXI\u001a<br><br>*\u001aตรวจสอบ\u001aประเภท\u001aยู\u001aนิ\u001aท\u001aได้ที่\u001aแท็บ\u001aตัว\u001aกรอง\u001aประเภท\u001a<br>*\u001aยู\u001aนิ\u001aท\u001aบางราย\u001aอาจ\u001aไม่\u001aได้\u001aสังกัด\u001aใน\u001aประเภท\u001aใดๆ\u001a \u001aทั้งสิ้น\u001a"
     ],
+    "MST_RULE_UNIT_DES_4037": [
+        "FFVII<br><br>*Unit categories can be confirmed via the Category Filter tab.<br>*Certain units may not fall under any category.",
+        "FFVII<br><br>※兵員類別可於類別篩選分頁中確認。<br>※某些特定兵員可能不屬於任何類別。",
+        "FFVII<br><br>※ 카테고리 해당 유닛은 정렬 필터의 카테고리 필터를 통해 확인해 주세요.<br>※ 일부 유닛은 카테고리에 해당하지 않습니다.",
+        "FFVII<br><br>* La catégorie d'une unité peut être vérifiée à l'aide du bouton \"Catégorie\" dans l'onglet \"Filtre\"<br>* Certaines unités peuvent n’appartenir à aucune catégorie.",
+        "FFVII<br><br>* Einheitenkategorien können über den Reiter \"Kategorienfilter\" eingesehen werden.<br>* Bestimmte Einheiten gehören keiner Kategorie an.",
+        "FFVII<br><br>*Se pueden confirmar las categorías de las unidades en la pestaña Filtro por categorías.<br>*Puede que algunas unidades no pertenezcan a ninguna categoría.",
+        "FFVII<br><br>*Kategori unit dalam dilihat dari tab Filter Kategori.<br>*Unit tertentu mungkin tidak termasuk dalam kategori mana pun.",
+        "FFVII\u001a<br><br>*\u001aตรวจสอบ\u001aประเภท\u001aยู\u001aนิ\u001aท\u001aได้ที่\u001aแท็บ\u001aตัว\u001aกรอง\u001aประเภท\u001a<br>*\u001aยู\u001aนิ\u001aท\u001aบางราย\u001aอาจ\u001aไม่\u001aได้\u001aสังกัด\u001aใน\u001aประเภท\u001aใดๆ\u001a \u001aทั้งสิ้น\u001a"
+    ],
     "MST_SEASON_EVENT_DESCRIPTION_9990": [
         "Parameter Boost Test",
         "狀態特效測試",
@@ -27121,6 +27131,16 @@
         "Bagikan",
         "Share\u001a"
     ],
+    "SUMALLY_REWARD_MAIL_MSG_MAX": [
+        "This is the reward for reaching ranking %s in \"%s\"! The following items are now yours.",
+        "恭喜在「%s」中到達%s名！發送以下物品做為報酬。",
+        "'%s'에서 %s 랭크에 도달했습니다.<br>보상으로 다음의 아이템을 지급합니다.",
+        "Voici les récompenses que vous avez reçues pour avoir atteint le rang %s dans \"%s\" !.<br>Vous recevez donc les objets suivants.",
+        "Hier ist die Belohnung für das Erreichen von Rang %s in \"%s\"! Die folgenden Gegenstände gehören jetzt dir.",
+        "¡Esta es la recompensa por alcanzar el rango %s en \"%s\"! Los siguientes objetos son tuyos.",
+        "Ini adalah hadiah atas pencapaian ranking %s dalam \"%s\"! Item berikut akan diberikan sebagai hadiah.",
+        "นี่\u001aคือ\u001aรางวัล\u001aจาก\u001aการ\u001aไป\u001aถึง\u001aอันดับ\u001a %s\u001a \u001aใน\u001a \u001a\"%s\u001a\"!\u001a \u001aไอเทม\u001aดังต่อไปนี้\u001aเป็น\u001aของ\u001aคุณ\u001aแล้ว\u001a"
+    ],
     "SUMMER_SALE_BUNDLE_DESC": [
         "Summon more units this summer with this 75% off summer sale bundle!",
         "利用這個25折的夏季特惠禮包，召喚更多兵員！",
@@ -29856,7 +29876,7 @@
         "使用數",
         "사용 수",
         "Quantité utilisée",
-        "Verwendet",
+        "Verw.<br>Anzahl",
         "N.º usado",
         "Digunakan",
         "จำนวน\u001aที่\u001aใช้\u001a"
