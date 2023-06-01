@@ -14340,34 +14340,54 @@
         "ลด\u001aค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a+\u001a \u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001aและ\u001aมืด\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001aได้\u001a"
     ],
     "208000505": [
-        "Chance of instantly KO'ing or damaging all enemies",
-        "一定機率對全體敵人施加致死一擊效果或傷害",
-        "적 전체에 피해 또는 일정 확률로 즉사 부여",
-        "Confère une chance d'infliger des dégâts ou un KO instantané à tous les ennemis",
-        "Chance, alle Gegner sofort auszuschalten oder allen Gegnern Schaden zuzufügen.",
-        "Probabilidad de dejar K.O. al instante a todos los enemigos o dañarlos",
-        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage pada semua musuh",
-        "มีโอกาส\u001aสุ่ม\u001aผล\u001a \u001aKO\u001a \u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001aทันที\u001a"
+        "Chance of instantly KO'ing or dealing magic damage to all enemies",
+        "一定機率對全體敵人施加致死一擊效果或發動魔法攻擊",
+        "적 전체에 마법 피해 또는 일정 확률로 즉사 부여",
+        "Confère une chance d'infliger un K.O. instantané à tous les ennemis ou de leur infliger des dégâts magiques",
+        "Chance, alle Gegner sofort kampfunfähig zu machen oder diesen magischen Schaden zuzufügen.",
+        "K.O. instantáneo a todos los enemigos o les inflige daño mágico",
+        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage magic pada semua musuh",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aทันที\u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "208000506": [
-        "Chance of instantly KO'ing or damaging all enemies, and enable slot - water and slot - quake for three turns",
-        "一定機率對全體敵人施加致死一擊效果或傷害+3回合內可使用「老虎機・流水」「老虎機・地槌」",
-        "적 전체에 피해 또는 일정 확률로 즉사 부여+3턴 동안 '슬롯·워터'와 '슬롯·퀘이크' 사용 가능",
-        "Confère une chance d'infliger des dégâts ou un KO instantané à tous les ennemis et permet d'utiliser Jackpot - H2o et Jackpot - Quake pendant 3 tours",
-        "Chance, alle Gegner sofort kampfunfähig zu machen oder ihnen Schaden zuzufügen, und ermöglicht drei Runden lang Tombola - Aqua und Tombola - Beben.",
-        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aprende Ruleta - Aqua y Ruleta - Seísmo durante 3 turnos",
-        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage pada semua musuh, serta memungkinkan penggunaan Slot - Water dan Slot - Quake selama 3 giliran",
-        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aในทันที\u001a \u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001aแก่\u001aศัตรู\u001aทุกราย\u001aแทน\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001a'\u001aSlot\u001a \u001a-\u001a \u001aWater\u001a'\u001a \u001aและ\u001a \u001a'\u001aSlot\u001a \u001a-\u001a \u001aQuake\u001a'\u001a \u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Chance of instantly KO'ing or dealing magic damage to all enemies, and enable certain abilities for caster",
+        "一定機率對全體敵人施加致死一擊效果或發動魔法攻擊+自身可使用特定能力",
+        "적 전체에 마법 피해 또는 일정 확률로 즉사 부여+자신이 특정 어빌리티 사용 가능",
+        "Confère une chance d'infliger un K.O. instantané à tous les ennemis ou de leur infliger des dégâts magiques, et permet au lanceur d'utiliser certaines aptitudes",
+        "Chance, alle Gegner sofort kampfunfähig zu machen oder diesen magischen Schaden zuzufügen, und ermöglicht dem Benutzer bestimmte Fertigkeiten.",
+        "K.O. instantáneo a todos los enemigos o les inflige daño mágico, y el usuario aprende determinadas habilidades",
+        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage magic pada semua musuh dan memungkinkan penggunaan ability tertentu",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aทันที\u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้งาน\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
     ],
     "208000507": [
-        "Chance of instantly KO'ing or damaging all enemies, and enable slot - water and slot - quake for three turns",
-        "一定機率對全體敵人施加致死一擊效果或傷害+3回合內可使用「老虎機・流水」「老虎機・地槌」",
-        "적 전체에 피해 또는 일정 확률로 즉사 부여+3턴 동안 '슬롯·워터'와 '슬롯·퀘이크' 사용 가능",
-        "Confère une chance d'infliger des dégâts ou un KO instantané à tous les ennemis et permet d'utiliser Jackpot - H2o et Jackpot - Quake pendant 3 tours",
-        "Chance, alle Gegner sofort kampfunfähig zu machen oder ihnen Schaden zuzufügen, und ermöglicht drei Runden lang Tombola - Aqua und Tombola - Beben.",
-        "Probabilidad de dejar K.O. al instante a todos los enemigos o infligirles daño, y aprende Ruleta - Aqua y Ruleta - Seísmo durante 3 turnos",
-        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage pada semua musuh, serta memungkinkan penggunaan Slot - Water dan Slot - Quake selama 3 giliran",
-        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aในทันที\u001a \u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001aแก่\u001aศัตรู\u001aทุกราย\u001aแทน\u001a \u001a+\u001a \u001aสามารถ\u001aใช้\u001a \u001aAbility\u001a \u001a'\u001aSlot\u001a \u001a-\u001a \u001aWater\u001a'\u001a \u001aและ\u001a \u001a'\u001aSlot\u001a \u001a-\u001a \u001aQuake\u001a'\u001a \u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a"
+        "Chance of instantly KO'ing or dealing magic damage to all enemies, and enable certain abilities for caster",
+        "一定機率對全體敵人施加致死一擊效果或發動魔法攻擊+自身可使用特定能力",
+        "적 전체에 마법 피해 또는 일정 확률로 즉사 부여+자신이 특정 어빌리티 사용 가능",
+        "Confère une chance d'infliger un K.O. instantané à tous les ennemis ou de leur infliger des dégâts magiques, et permet au lanceur d'utiliser certaines aptitudes",
+        "Chance, alle Gegner sofort kampfunfähig zu machen oder diesen magischen Schaden zuzufügen, und ermöglicht dem Benutzer bestimmte Fertigkeiten.",
+        "K.O. instantáneo a todos los enemigos o les inflige daño mágico, y el usuario aprende determinadas habilidades",
+        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage magic pada semua musuh dan memungkinkan penggunaan ability tertentu",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aทันที\u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้งาน\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "208000517": [
+        "Chance of instantly KO'ing or dealing magic damage to all enemies, and enable certain abilities for caster",
+        "一定機率對全體敵人施加致死一擊效果或發動魔法攻擊+自身可使用特定能力",
+        "적 전체에 마법 피해 또는 일정 확률로 즉사 부여+자신이 특정 어빌리티 사용 가능",
+        "Confère une chance d'infliger un K.O. instantané à tous les ennemis ou de leur infliger des dégâts magiques, et permet au lanceur d'utiliser certaines aptitudes",
+        "Chance, alle Gegner sofort kampfunfähig zu machen oder diesen magischen Schaden zuzufügen, und ermöglicht dem Benutzer bestimmte Fertigkeiten.",
+        "K.O. instantáneo a todos los enemigos o les inflige daño mágico, y el usuario aprende determinadas habilidades",
+        "Peluang untuk menyebabkan K.O. seketika atau memberikan damage magic pada semua musuh dan memungkinkan penggunaan ability tertentu",
+        "มีโอกาส\u001a \u001aKO\u001a \u001aศัตรู\u001aทุกราย\u001aทันที\u001aหรือ\u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aผู้ใช้\u001aสามารถ\u001aใช้งาน\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+    ],
+    "208000527": [
+        "Reduce resistance to fists, deal light magic damage with boosted damage against machina monsters, and deal light magic damage to all enemies",
+        "降低全體敵人對格鬥武器的耐性+發動提高對機械系魔物傷害的光屬性魔法攻擊+發動光屬性魔法攻擊",
+        "적 전체의 격투무기 저항력 감소+빛속성 마법 피해, 기계형 마물에게 피해량 상승+빛속성 마법 피해",
+        "Réduit la résistance aux poings, inflige des dégâts magiques de lumière avec augmentation des dégâts sur les machines, et inflige des dégâts magiques de lumière à tous les ennemis",
+        "Verringert Resistenz aller Gegner gegen Fäuste, fügt diesen magischen Lichtschaden zu, der für Maschinen erhöht ist, und fügt diesen magischen Lichtschaden zu.",
+        "Reduce la resistencia a puños de todos los enemigos, les inflige daño mágico de luz y mayor daño contra máquinas, y les inflige daño mágico de luz",
+        "Mengurangi resistansi senjata tinju, memberikan damage magic cahaya dengan peningkatan damage terhadap jenis mesin, dan memberikan damage magic cahaya pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aสนับมือ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aพร้อม\u001aค่า\u001aความเสียหาย\u001aที่\u001aเพิ่มขึ้น\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aจักรกล\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "208000605": [
         "Damage one enemy and enable triple shot (FFVIII) for one turn",
@@ -14550,24 +14570,24 @@
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aSPR\u001a \u001aของ\u001aตัวเอง\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aMAG\u001a \u001aสำหรับ\u001aการ\u001aโจมตี\u001aครั้ง\u001aต่อไป\u001a \u001a+\u001a \u001aค่า\u001aความเสียหาย\u001aจะ\u001aเพิ่มขึ้น\u001aเมื่อ\u001aใช้งาน\u001aต่อเนื่อง\u001a"
     ],
     "208002207": [
-        "Reduce resistance to guns, DEF, SPR, and water resistance, and deal water damage to all enemies",
-        "降低全體敵人對火槍的耐性+降低防禦精神、水屬性耐性+發動水屬性攻擊",
-        "적 전체의 총 저항력 감소+방어력, 정신력과 물속성 저항력 감소+물속성 피해",
-        "Réduit la résistance aux pistolets, la DEF, la PSY et la résistance à l'eau de tous les ennemis, et leur inflige des dégâts d'eau",
-        "Verringert Resistenz aller Gegner gegen Schusswaffen, ABW, PSY sowie Wasserresistenz und fügt diesen Wasserschaden zu.",
-        "Reduce la resistencia a armas de fuego, la DEF, el ESP y la resistencia al agua de todos los enemigos y les inflige daño de agua",
-        "Mengurangi resistansi senapan, DEF, SPR, dan resistansi air, serta memberikan damage air pada semua musuh",
-        "ลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a,\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Reduce resistance to guns, DEF, SPR, and water and light resistance, and deal water damage to all enemies",
+        "降低全體敵人對火槍的耐性+降低防禦精神、水光屬性耐性+發動水屬性攻擊",
+        "적 전체의 총 저항력 감소+방어력, 정신력과 물, 빛속성 저항력 감소+물속성 피해",
+        "Réduit la résistance aux pistolets, la DEF, la PSY et la résistance à l'eau et à la lumière de tous les ennemis, et leur inflige des dégâts d'eau",
+        "Verringert Resistenz aller Gegner gegen Schusswaffen, deren ABW, PSY sowie Wasser- und Lichtresistenz und fügt diesen Wasserschaden zu.",
+        "Reduce la resistencia a armas de fuego, la DEF, el ESP y la resistencia a agua y luz de todos los enemigos y les inflige daño de agua",
+        "Mengurangi resistansi senapan, DEF, SPR, resistansi air dan cahaya, serta memberikan damage air pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a,\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aและ\u001aแสง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "208002217": [
-        "Reduce resistance to guns, ATK, DEF, MAG, SPR, and water resistance, and deal water damage to all enemies",
-        "降低全體敵人對火槍的耐性+降低攻擊防禦魔力精神、水屬性耐性+發動水屬性攻擊",
-        "적 전체의 총 저항력 감소+공격력, 방어력, 마력, 정신력과 물속성 저항력 감소+물속성 피해",
-        "Réduit la résistance aux pistolets, l'ATT, la DEF, la MAGIE, la PSY et la résistance à l'eau de tous les ennemis, et leur inflige des dégâts d'eau",
-        "Verringert Resistenz aller Gegner gegen Schusswaffen, ANG, ABW, MAG, PSY sowie Wasserresistenz und fügt diesen Wasserschaden zu.",
-        "Reduce la resistencia a armas de fuego, ATQ, DEF, MAG, ESP y la resistencia al agua de todos los enemigos y les inflige daño de agua",
-        "Mengurangi resistansi senapan, ATK, DEF, MAG, SPR, dan resistansi air, serta memberikan damage air pada semua musuh",
-        "ลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Reduce resistance to guns, ATK, DEF, MAG, SPR, and water and light resistance, and deal water damage to all enemies",
+        "降低全體敵人對火槍的耐性+降低攻擊防禦魔力精神、水光屬性耐性+發動水屬性攻擊",
+        "적 전체의 총 저항력 감소+공격력, 방어력, 마력, 정신력과 물, 빛속성 저항력 감소+물속성 피해",
+        "Réduit la résistance aux pistolets, l'ATT, la DEF, la MAGIE, la PSY et la résistance à l'eau et à la lumière, et inflige des dégâts d'eau à tous les ennemis",
+        "Verringert Resistenz aller Gegner gegen Schusswaffen, deren ANG, ABW, MAG, PSY sowie Wasser- und Lichtresistenz und fügt diesen Wasserschaden zu.",
+        "Reduce la resistencia a armas de fuego, ATQ, DEF, MAG, ESP y la resistencia a agua y luz de todos los enemigos y les inflige daño de agua",
+        "Mengurangi resistansi senapan, ATK, DEF, MAG, SPR, resistansi air dan cahaya, serta memberikan damage air pada semua musuh",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aปืน\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a,\u001a \u001aSPR\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001aและ\u001aแสง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "208002307": [
         "(Tag-Team Attack) Reduce damage taken by caster, and deal water damage to all enemies",
@@ -14588,6 +14608,46 @@
         "(Ataque a dúo) Reduce el daño que recibe el usuario e inflige daño de agua a todos los enemigos",
         "(Serangan Tag-Team) Mengurangi damage yang diterima diri sendiri dan memberikan damage air pada semua musuh",
         "(\u001aการ\u001aโจมตี\u001a \u001aTag-Team\u001a)\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001aที่\u001aผู้ใช้\u001aได้รับ\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aธาตุ\u001aน้ำ\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "208002507": [
+        "Boost ATK and LB damage for caster, and reduce DEF and resistance to large swords and damage one enemy",
+        "提高自身的攻擊+提高極限技的傷害+降低1名敵人的防禦+降低對大劍的耐性+發動攻擊",
+        "자신의 공격력 상승+LB 피해량 상승+적 1명의 방어력 감소+대검 저항력 감소+피해",
+        "Augmente l'ATT et les dégâts de la limite du lanceur, et réduit la DEF et la résistance aux épées longues d'un ennemi et lui inflige des dégâts",
+        "Erhöht ANG des Benutzers sowie dessen Schaden durch Limitrausch, verringert ABW eines Gegners sowie dessen Resistenz gegen Großschwerter und fügt diesem Schaden zu.",
+        "Aumenta el ATQ y el daño del EL del usuario, reduce la DEF y la resistencia a espadas grandes de un enemigo y lo daña",
+        "Meningkatkan ATK dan meningkatkan damage LB diri sendiri, serta mengurangi DEF dan resistansi pedang besar, dan memberikan damage pada satu musuh",
+        "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001aค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001aของ\u001aผู้ใช้\u001a \u001a+\u001a \u001aลด\u001aค่า\u001a \u001aDEF\u001a \u001aและ\u001aพลัง\u001aต้านทาน\u001aดาบ\u001aใหญ่\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "208002517": [
+        "Damage all enemies",
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Inflige des dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos",
+        "Memberikan damage pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+    ],
+    "208002607": [
+        "Reduce resistance to whips and light resistance, and deal light evocation damage to all enemies and activate area effect",
+        "降低全體敵人對鞭的耐性+降低光屬性耐性+發動光屬性召喚魔法+施展區域效果",
+        "적 전체의 채찍 저항력 감소+빛속성 저항력 감소+빛속성 소환마법 피해+범위 효과 발동",
+        "Réduit la résistance aux fouets et à la lumière de tous les ennemis et leur inflige des dégâts d'appel de lumière, et active un effet de zone",
+        "Verringert Resistenz aller Gegner gegen Peitschen sowie deren Lichtresistenz, fügt diesen Licht-Rufen-Schaden zu und aktiviert Gebietseffekt.",
+        "Reduce la resistencia a látigos y a la luz de todos los enemigos, les inflige daño de evocación de luz y activa un efecto de zona",
+        "Mengurangi resistansi cambuk dan resistansi cahaya, memberikan damage summon cahaya pada semua musuh, dan mengaktifkan efek area",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aแส้\u001a \u001a+\u001a \u001aลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aสร้าง\u001aความเสียหาย\u001aจาก\u001aการ\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aใช้งาน\u001a \u001aArea\u001a \u001aEffect\u001a"
+    ],
+    "208002617": [
+        "Deal light evocation damage to all enemies",
+        "對全體敵人發動光屬性召喚魔法",
+        "적 전체에 빛속성 소환마법 피해",
+        "Inflige des dégâts d'appel de lumière à tous les ennemis",
+        "Fügt allen Gegnern Licht-Rufen-Schaden zu.",
+        "Daño de evocación de luz a todos los enemigos",
+        "Memberikan damage cahaya pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aจาก\u001aการ\u001aซัม\u001aม่อน\u001a \u001aEsper\u001a \u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "208002707": [
         "Boost ATK, water damage of LB, abilities, and magic, and damage of certain abilities, and enable certain abilities for caster",
