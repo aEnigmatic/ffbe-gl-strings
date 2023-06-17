@@ -2550,14 +2550,14 @@
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aโจมตี\u001aให้\u001aตัวเอง\u001aใน\u001aเทิร์น\u001aต่อไป\u001a \u001a(\u001aสำหรับ\u001a \u001aKing\u001a \u001aใช้\u001aเท่านั้น\u001a)\u001a"
     ],
     "504206750": [
-        "Boosts DEF and SPR by 20%.",
-        "提高20%防禦精神。",
-        "방어력과 정신력이 20% 상승합니다.",
-        "Augmente la DEF et la PSY de 20%",
-        "Erhöht ABW und PSY um 20%.",
-        "Aumenta la DEF y el ESP un 20%",
-        "Meningkatkan DEF dan SPR sebanyak 20%.",
-        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a20%"
+        "Boosts MP by 30% and DEF and SPR by 40%.",
+        "提高30%MP、40%防禦精神。",
+        "MP가 30%, 방어력과 정신력이 40% 상승합니다.",
+        "Augmente les PM de 30 % et la DEF et la PSY de 40 %",
+        "Erhöht MP um 30% sowie ABW und PSY um 40%.",
+        "Aumenta los PM un 30% y la DEF y el ESP un 40%.",
+        "Meningkatkan MP sebanyak 30%, serta DEF dan SPR sebanyak 40%.",
+        "เพิ่มค่า\u001a \u001aMP\u001a \u001a30% + เพิ่มค่า DEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a40%"
     ],
     "504206840": [
         "Boosts MP by 10% and SPR by 5%.",
@@ -7447,7 +7447,7 @@
         "Erhöht Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz um 25%.",
         "Aumenta la resistencia a fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad un 25%.",
         "Meningkatkan resistansi api, es, petir, air, angin, tanah, cahaya, dan kegelapan sebanyak 25%.",
-        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aแสง\u001a \u001aและ\u001aมืด\u001a \u001a25%"
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001a,\u001a \u001aน้ำ\u001a,\u001a \u001aลม\u001a,\u001a \u001aดิน\u001a,\u001a \u001aแสง\u001a \u001aและ\u001aมืด\u001a \u001a25%"
     ],
     "504234755": [
         "Boosts HP by 20% and parameters when setting an esper by 100%.",
@@ -10798,6 +10798,26 @@
         "Aumenta la MAG un 50% y el daño físico y mágico contra espíritus un 50%. No acumulable.",
         "Meningkatkan MAG sebanyak 50%, serta meningkatkan damage fisik dan magic terhadap jenis peri sebanyak 50%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aแฟรี่\u001a \u001a50\u001a % \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504244375": [
+        "Boosts MAG by 50%, and boosts physical and magic damage against demons by 50%. Not stackable.",
+        "提高50%魔力，以及物理、魔法攻擊時提高50%對惡魔系魔物的傷害。[無法重複裝備]",
+        "마력이 50% 상승하고, 물리, 마법 공격 시 악마형 마물에게 부여하는 피해량이 50% 상승합니다.(중복 장착 불가)",
+        "Augmente la MAGIE de 50 % et augmente les dégâts physiques et magiques infligés aux démons de 50 %. Non cumulable.",
+        "Erhöht MAG um 50% und erhöht physischen sowie magischen Schaden gegen Dämonen um 50%. Nicht stapelbar.",
+        "Aumenta la MAG un 50% y el daño físico y mágico contra demonios un 50%. No acumulable.",
+        "Meningkatkan MAG sebanyak 50%, serta meningkatkan damage fisik dan magic terhadap jenis demon sebanyak 50%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aปีศาจ\u001a \u001a50% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "504244378": [
+        "Boosts fire, ice, lightning, and water resistance by 20%, and boosts parameters when setting an esper by 200%. Not stackable.",
+        "提高20%火冰雷水屬性耐性，並且提高200%設定幻獸時反映在兵員身上的狀態數值。[無法重複裝備]",
+        "불, 얼음, 번개, 물속성 저항력이 20% 상승하고, 환수 장착 시 반영되는 능력치가 200% 상승합니다.(중복 장착 불가)",
+        "Augmente la résistance au feu, à la glace, à la foudre et à l'eau de 20 %, et augmente les caractéristiques lorsqu'une chimère est attribuée de 200 %. Non cumulable.",
+        "Erhöht Feuer-, Eis-, Blitz- sowie Wasserresistenz um 20% und erhöht Werte beim Festlegen eines Espers um 200%. Nicht stapelbar.",
+        "Aumenta la resistencia a fuego, hielo, rayo y agua un 20%, y los parámetros un 200% al vincular un esper. No acumulable.",
+        "Meningkatkan resistansi api, es, petir, dan air sebanyak 20%, serta parameter sebanyak 200% ketika esper dipasang. Tidak dapat ditumpuk.",
+        "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a,\u001a \u001aน้ำแข็ง\u001a,\u001a \u001aสายฟ้า\u001aและ\u001aน้ำ\u001a \u001a20% + เพิ่มค่าสเตตัสเมื่อทำการติดตั้ง Esper\u001a \u001a200% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504400110": [
         "Halves chances of any encounters.",
@@ -14798,6 +14818,16 @@
         "Aumenta el ATQ y la MAG un 25% y el daño físico y mágico contra humanos y demonios un 50%. No acumulable.",
         "Meningkatkan ATK dan MAG sebanyak 25%, serta meningkatkan damage fisik dan magic terhadap jenis manusia dan demon sebanyak 50%. Tidak dapat ditumpuk.",
         "เพิ่มค่า\u001a \u001aATK\u001a \u001aและ\u001a \u001aMAG\u001a \u001a25% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aมนุษย์\u001aและ\u001aปีศาจ\u001a \u001a50% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000226": [
+        "Boosts DEF and SPR by 30%, and 10% chance of evading some physical attacks.",
+        "提高30%防禦精神，並且10%機率閃避部分物理攻擊。",
+        "방어력과 정신력이 30% 상승하고, 10% 확률로 일부 물리 공격을 회피합니다.",
+        "Augmente la DEF et la PSY de 30 %, et confère 10 % de chances d'esquiver certaines attaques physiques.",
+        "Erhöht ABW sowie PSY um 30% und 10% Chance, einigen physischen Angriffen auszuweichen.",
+        "Aumenta la DEF y el ESP un 30%, y 10% de probabilidad de evadir algunos ataques físicos.",
+        "Meningkatkan DEF dan SPR sebanyak 30%, serta meningkatkan peluang untuk menghindari beberapa serangan fisik sebanyak 10%",
+        "เพิ่มค่า\u001a \u001aDEF\u001a \u001aและ\u001a \u001aSPR\u001a \u001a30% \u001a+\u001a \u001aมีโอกาส\u001aหลบ\u001aการ\u001aโจมตี\u001aทางกายภาพ\u001aบางส่วน\u001a \u001a10%"
     ],
     "1500000227": [
         "Boosts physical and magic damage against beasts, dragons, insects, and avian monsters by 50%. Not stackable.",
