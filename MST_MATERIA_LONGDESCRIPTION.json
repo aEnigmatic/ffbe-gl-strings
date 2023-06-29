@@ -5640,14 +5640,14 @@
         "เพิ่มค่า\u001a \u001aMAG\u001a \u001a30% + ลดค่า MP ในการใช้ Ability\u001a \u001a10%"
     ],
     "504229234": [
-        "Boosts equipment MAG when a single weapon is equipped in both hands.",
-        "雙手只裝備1把武器時武具魔力提升",
-        "양손의 장비가 무기 1개일 경우 장비의 마력이 상승합니다.",
-        "Augmente la MAGIE de l'équipement quand une arme est tenue avec les deux mains.",
-        "Erhöht Ausrüstung-MAG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist.",
-        "Aumenta la MAG del equipo al llevar una sola arma en ambas manos",
-        "Meningkatkan MAG perlengkapan ketika 1 senjata digunakan dengan kedua tangan.",
-        "เพิ่มค่า\u001a \u001aMAG\u001a \u001aของ\u001aอุปกรณ์\u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a"
+        "Boosts equipment MAG when a single weapon is equipped in both hands. Not stackable.",
+        "雙手只裝備1把武器時武具魔力提升。[無法重複裝備]",
+        "양손의 장비가 무기 1개일 경우 장비의 마력이 상승합니다.(중복 장착 불가)",
+        "Augmente la MAGIE de l'équipement quand une arme est tenue avec les deux mains. Non cumulable.",
+        "Erhöht Ausrüstung-MAG, wenn eine einzelne Waffe in beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta la MAG del equipo al llevar una sola arma en ambas manos. No acumulable.",
+        "Meningkatkan MAG perlengkapan ketika 1 senjata digunakan dengan kedua tangan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aMAG\u001a \u001aของ\u001aอุปกรณ์\u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ],
     "504229341": [
         "Boosts ATK and MAG by 40%, and boosts equipment ATK and MAG when armed with two one-handed weapons. Not stackable.",
@@ -14848,5 +14848,25 @@
         "Aumenta la probabilidad de ser atacado un 100%. No acumulable.",
         "Meningkatkan peluang menjadi target musuh sebanyak 100%. Tidak dapat ditumpuk.",
         "เพิ่ม\u001aโอกาส\u001aใน\u001aการ\u001aตกเป็น\u001aเป้าหมาย\u001aการ\u001aโจมตี\u001aของ\u001aศัตรู\u001a \u001a100% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000229": [
+        "Boosts SPR by 50%, boosts SPR by 50% when equipped with a large sword, boosts equipment SPR by 50% when armed with two one-handed weapons, and boosts equipment SPR by 50% when a single weapon is equipped in one or both hands. Not stackable.",
+        "提高50%精神，並且裝備大劍時提高50%精神，以及裝備2把單手武器時武具精神提升50%，還有只裝備1把武器時武具精神提升50%。[無法重複裝備]",
+        "정신력이 50% 상승하고, 대검 장착 시 정신력이 50% 상승하며, 한손용 무기 2개 장착 시 장비의 정신력이 50% 상승하고, 한손 또는 양손에 무기 1개 장착 시 장비의 정신력이 50% 상승합니다.(중복 장착 불가)",
+        "Augmente la PSY de 50 %, augmente la PSY de 50 %  quand une épée longue est équipée, augmente la PSY de l'équipement de 50 % quand deux armes à une main sont équipées, et augmente la PSY de l'équipement de 50 % quand une arme est équipée dans une ou les deux mains. Non cumulable.",
+        "Erhöht PSY um 50%, erhöht PSY um 50%, wenn mit einem Großschwert ausgerüstet, erhöht Ausrüstung-PSY um 50%, wenn mit zwei Einhandwaffen ausgerüstet und erhöht Ausrüstung-PSY um 50%, wenn eine einzelne Waffe in einer oder beiden Händen ausgerüstet ist. Nicht stapelbar.",
+        "Aumenta el ESP un 50% y otro 50% extra al llevar espada grande, y aumenta el ESP del equipo un 50% al llevar 2 armas de una sola mano o una sola arma en una o ambas manos. No acumulable.",
+        "Meningkatkan SPR sebanyak 50%, meningkatkan SPR sebanyak 50% ketika pedang besar digunakan, meningkatkan SPR perlengkapan sebanyak 50% ketika 2 senjata satu tangan digunakan, dan meningkatkan SPR perlengkapan sebanyak 50% ketika 1 senjata digunakan dengan satu tangan atau kedua tangan. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aSPR\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001a50% \u001aเมื่อ\u001aติดตั้ง\u001aดาบ\u001aใหญ่\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a50% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001aสำหรับ\u001aถือ\u001aมือ\u001aเดียว\u001a \u001a2\u001a \u001aชิ้น\u001a \u001a+\u001a \u001aเพิ่มค่า\u001a \u001aSPR\u001a \u001aของ\u001aอุปกรณ์\u001a \u001a50% \u001aเมื่อ\u001aติดตั้ง\u001aอาวุธ\u001a \u001a1\u001a \u001aชิ้น\u001aใน\u001aมือ\u001aเดียว\u001aหรือ\u001aสอง\u001aมือ\u001a \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
+    ],
+    "1500000230": [
+        "Boosts ATK, DEF, MAG, and SPR by 50%, LB damage by 100%, and light resistance by 80%. Not stackable.",
+        "提高50%攻擊防禦魔力精神，並且提高100%極限技的傷害，以及提高80%光屬性耐性。[無法重複裝備]",
+        "공격력, 방어력, 마력, 정신력이 50% 상승하고, LB 피해량이 100% 상승하며, 빛속성 저항력이 80% 상승합니다.(중복 장착 불가)",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de 50 %, les dégâts de la limite de 100 % et la résistance à la lumière de 80 %. Non cumulable.",
+        "Erhöht ANG, ABW, MAG und PSY um 50%, Schaden durch Limitrausch um 100% und Lichtresistenz um 80%. Nicht stapelbar.",
+        "Aumenta ATQ, DEF, MAG y ESP un 50%, el daño del EL un 100% y la resistencia a la luz un 80%. No acumulable.",
+        "Meningkatkan ATK, DEF, MAG, dan SPR sebanyak 50%, meningkatkan damage limit burst sebanyak 100%, dan resistansi cahaya sebanyak 80%. Tidak dapat ditumpuk.",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a50% \u001a+\u001a \u001aเพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a100% \u001a+\u001a \u001aเพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aแสง\u001a \u001a80% \u001a(ผล\u001aที่เกิด\u001aไม่\u001aสามารถ\u001aทับซ้อน\u001aกัน\u001aได้\u001a)\u001a"
     ]
 }
