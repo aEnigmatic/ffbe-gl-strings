@@ -270,14 +270,14 @@
         "คืนชีพ\u001aและ\u001aฟื้นฟู\u001aค่า\u001a \u001aHP\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001aจน\u001aเต็ม\u001a"
     ],
     "10190": [
-        "Cure poison, blind, sleep, silence, paralysis, and confusion for all allies",
-        "治療全體隊員的中毒失明睡眠沉默麻痺混亂狀態",
-        "아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란 회복",
-        "Soigne poison, cécité, sommeil, silence, paralysie, et confusion pour tous les alliés",
-        "Heilt Gift, Blind, Schlaf, Stille, Lähmung und Konfus für alle Verbündeten.",
-        "Cura veneno, ceguera, sueño, silencio, parálisis y confusión de todos los aliados",
-        "Menyembuhkan status poison, blind, sleep, silence, paralyze, dan confuse pada semua teman",
-        "รักษาการ\u001aติด\u001aสถานะ\u001a \u001aPoison\u001a,\u001a \u001aBlind\u001a,\u001a \u001aSleep\u001a,\u001a \u001aSilence\u001a,\u001a \u001aParalyze\u001a,\u001a \u001aConfuse\u001a \u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+        "Apply recovery effects",
+        "適用恢復效果",
+        "회복 효과 적용",
+        "Attribue des effets curatifs",
+        "Verleiht regenerierende Effekte.",
+        "Aplica efectos de recuperación",
+        "Memberikan efek pemulihan",
+        "ใช้\u001a \u001aEffect\u001a \u001aประเภท\u001aฟื้นฟู\u001a"
     ],
     "10200": [
         "Remove some status effects from all enemies",
@@ -2299,6 +2299,16 @@
         "Meningkatkan resistansi air, mengurangi damage, damage fisik, dan magic damage yang diterima, serta mengisi bar LB semua teman",
         "เพิ่ม\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aน้ำ\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aความเสียหาย\u001a,\u001a \u001aความเสียหาย\u001aกายภาพ\u001aและ\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aที่\u001aได้รับ\u001a \u001a+\u001a \u001aเติม\u001a \u001aLB\u001a \u001aGauge\u001a \u001aของ\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
     ],
+    "30790": [
+        "Refer to long description for full details",
+        "請查閱完整敘述以了解詳細內容",
+        "자세한 내용은 상세 설명을 확인하세요",
+        "Veuillez consulter la description longue pour plus de détails",
+        "Genauere Informationen findest du in den ausführlichen Beschreibungen.",
+        "Consulta la descripción detallada para ver toda la información",
+        "Silakan lihat tulisan deskripsi panjang untuk keterangan utuhnya",
+        "โปรด\u001aดู\u001aรายละเอียด\u001aทั้งหมด\u001aที่\u001aคำอธิบาย\u001aแบบ\u001aยาว\u001a"
+    ],
     "30800": [
         "Refer to long description for full details",
         "請查閱完整敘述以了解詳細內容",
@@ -2350,14 +2360,14 @@
         "สร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001a \u001a+\u001a \u001aค่อยๆ\u001a \u001aสร้าง\u001aความเสียหาย\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aแสง\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a"
     ],
     "40030": [
-        "Boost DEF and SPR, reduce physical and magic damage taken for three turns, and activate barrier for all allies",
-        "提高全體隊員的防禦精神+3回合內減少物理、魔法傷害+賦予屏障效果",
-        "아군 전체의 방어력과 정신력 상승+3턴 동안 물리, 마법 피해량 감소+배리어 부여",
-        "Augmente la DEF et la PSY, réduit les dégâts physiques et magiques reçus pendant 3 tours, et érige une barrière pour tous les alliés",
-        "Erhöht ABW und PSY, verringert drei Runden lang erlittenen physischen und magischen Schaden und aktiviert Barriere für alle Verbündeten.",
-        "Aumenta la DEF y el ESP de todos los aliados, reduce el daño físico y mágico que reciben durante 3 turnos, y les activa Barrera",
-        "Meningkatkan DEF dan SPR, mengurangi damage yang diterima selama 3 giliran, serta mengaktifkan barier pada semua teman",
-        "เพิ่ม\u001a \u001aDEF\u001a,\u001a \u001aSPR\u001a \u001a+ลด\u001aค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aทาง\u001aเวทมนตร์\u001aที่\u001aได้รับ\u001aเป็นเวลา\u001a \u001a3\u001a \u001aเทิร์น\u001a \u001a+\u001a \u001aกาง\u001aบาเรีย\u001aให้\u001aสมาชิก\u001aใน\u001aทีม\u001aทุกราย\u001a"
+        "Apply tanking effects",
+        "適用格擋效果",
+        "방어 효과 적용",
+        "Attribue des effets de tank",
+        "Verleiht Tank-Effekte.",
+        "Aplica efectos de tanque",
+        "Memberikan efek perlindungan",
+        "ใช้\u001a \u001aEffect\u001a \u001aประเภท\u001a \u001aTank\u001a"
     ],
     "40040": [
         "Cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies",
@@ -2400,44 +2410,44 @@
         "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001aโดย\u001aให้\u001aค่า\u001a \u001aHP\u001a \u001aลดลง\u001a \u001a1\u001a/\u001a4\u001a"
     ],
     "40080": [
-        "Automatically revive an ally one time",
-        "賦予1名隊員自動復活1次的效果",
-        "아군 1명에게 전투불능 상태를 1회 자동 회복하는 효과 부여",
-        "Ranime un allié automatiquement une fois",
-        "Belebt einen Verbündeten einmal automatisch wieder.",
-        "Revive automáticamente a un aliado una vez",
-        "Menghidupkan kembali satu teman secara otomatis 1 kali",
-        "คืนชีพ\u001aสมาชิก\u001aใน\u001aทีม\u001aโดยอัตโนมัติ\u001a \u001a1\u001a \u001aราย\u001aเป็นเวลา\u001a \u001a1\u001a \u001aครั้ง\u001a"
+        "Apply recovery effects",
+        "適用恢復效果",
+        "회복 효과 적용",
+        "Attribue des effets curatifs",
+        "Verleiht regenerierende Effekte.",
+        "Aplica efectos de recuperación",
+        "Memberikan efek pemulihan",
+        "ใช้\u001a \u001aEffect\u001a \u001aประเภท\u001aฟื้นฟู\u001a"
     ],
     "40090": [
-        "Deal partial unmitigated magic damage to one enemy, and boost damage of certain abilities",
-        "對1名敵人發動無視部分魔法防禦的攻擊+提高特定能力的傷害",
-        "적 1명에게 일부 마법 방어 무시 피해+특정 어빌리티의 피해량 상승",
-        "Inflige des dégâts en partie fixes à un ennemi, et augmente les dégâts de certaines aptitudes",
-        "Fügt einem Gegner teilweise direkten magischen Schaden zu und erhöht Schaden einiger Fertigkeiten.",
-        "Daño mágico que ignora parcialmente el ESP de un enemigo y aumenta el daño de determinadas habilidades",
-        "Memberikan damage magic yang menembus SPR pada satu musuh dan meningkatkan damage ability tertentu",
-        "สร้าง\u001aความเสียหาย\u001aทาง\u001aพลัง\u001aเวทย์\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aเพิ่ม\u001aความเสียหาย\u001aของ\u001a \u001aAbility\u001a \u001aที่\u001aกำหนด\u001a"
+        "Damage one enemy, and other effects",
+        "攻擊1名敵人+其他效果",
+        "적 1명에게 피해+기타 효과",
+        "Inflige des dégâts à un ennemi ainsi que d'autres effets",
+        "Fügt einem Gegner Schaden zu und verleiht andere Effekte.",
+        "Daña a un enemigo y otorga otros efectos",
+        "Memberikan damage pada satu musuh dan efek lainnya",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001a \u001a1\u001a \u001aราย\u001a \u001a+\u001a \u001aEffect\u001a \u001aอื่น\u001a"
     ],
     "40100": [
-        "Deal partial unmitigated wind magic damage two times and reduce wind resistance for all enemies",
-        "對全體敵人發動2次風屬性無視部分魔法防禦的攻擊+降低風屬性耐性",
-        "적 전체에 2회 바람속성 일부 마법 방어 무시 피해+바람속성 저항력 감소",
-        "Inflige des dégâts magiques de vent en partie fixes à 2 reprises à tous les ennemis et réduit leur résistance au vent",
-        "Fügt allen Gegnern zweimal teilweise direkten magischen Windschaden zu und verringert ihre Windresistenz.",
-        "Daño mágico de viento que ignora parcialmente el ESP de todos los enemigos 2 veces y reduce su resistencia al viento",
-        "Memberikan damage magic angin yang menembus SPR 2 kali dan mengurangi resistansi angin pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aด้วย\u001aธาตุ\u001aลม\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Damage all enemies, and other effects",
+        "攻擊全體敵人+其他效果",
+        "적 전체에 피해+기타 효과",
+        "Inflige des dégâts à tous les ennemis ainsi que d'autres effets",
+        "Fügt allen Gegnern Schaden zu und verleiht andere Effekte.",
+        "Daña a todos los enemigos y otorga otros efectos",
+        "Memberikan damage pada semua musuh dan efek lainnya",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aEffect\u001a \u001aอื่น\u001a"
     ],
     "40110": [
-        "Deal partial unmitigated earth magic damage two times and reduce earth resistance for all enemies",
-        "對全體敵人發動2次土屬性無視部分魔法防禦的攻擊+降低土屬性耐性",
-        "적 전체에 2회 땅속성 일부 마법 방어 무시 피해+땅속성 저항력 감소",
-        "Inflige des dégâts magiques de terre en partie fixes à 2 reprises à tous les ennemis et réduit leur résistance à la terre",
-        "Fügt allen Gegnern zweimal teilweise direkten magischen Erdschaden zu und verringert ihre Erdresistenz.",
-        "Daño mágico de tierra que ignora parcialmente el ESP de todos los enemigos 2 veces y reduce su resistencia a la tierra",
-        "Memberikan damage magic tanah yang menembus SPR 2 kali dan mengurangi resistansi tanah pada semua musuh",
-        "สร้าง\u001aความเสียหาย\u001aที่\u001aทะลุ\u001aการป้องกัน\u001aบางส่วน\u001aด้วย\u001aธาตุ\u001aดิน\u001a \u001a2\u001a \u001aครั้ง\u001a \u001a+\u001a \u001aลด\u001aค่า\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aดิน\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
+        "Damage all enemies, and other effects",
+        "攻擊全體敵人+其他效果",
+        "적 전체에 피해+기타 효과",
+        "Inflige des dégâts à tous les ennemis ainsi que d'autres effets",
+        "Fügt allen Gegnern Schaden zu und verleiht andere Effekte.",
+        "Daña a todos los enemigos y otorga otros efectos",
+        "Memberikan damage pada semua musuh dan efek lainnya",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a \u001a+\u001a \u001aEffect\u001a \u001aอื่น\u001a"
     ],
     "40120": [
         "Chance of inflicting poison, blind, sleep, silence, paralysis, confusion, disease, or stone on all enemies",
@@ -2788,6 +2798,26 @@
         "Probabilidad de infligir piedra a todos los enemigos",
         "Peluang untuk memberikan status petrify pada semua musuh",
         "มีโอกาส\u001aทำให้\u001aศัตรู\u001aติด\u001aสถานะ\u001a \u001aStone\u001a \u001aทุกราย\u001a"
+    ],
+    "40490": [
+        "Refer to long description for full details",
+        "請查閱完整敘述以了解詳細內容",
+        "자세한 내용은 상세 설명을 확인하세요",
+        "Veuillez consulter la description longue pour plus de détails",
+        "Genauere Informationen findest du in den ausführlichen Beschreibungen.",
+        "Consulta la descripción detallada para ver toda la información",
+        "Silakan lihat tulisan deskripsi panjang untuk keterangan utuhnya",
+        "โปรด\u001aดู\u001aรายละเอียด\u001aทั้งหมด\u001aที่\u001aคำอธิบาย\u001aแบบ\u001aยาว\u001a"
+    ],
+    "40500": [
+        "Damage all enemies",
+        "攻擊全體敵人",
+        "적 전체에 피해",
+        "Inflige des dégâts à tous les ennemis",
+        "Fügt allen Gegnern Schaden zu.",
+        "Daña a todos los enemigos",
+        "Memberikan damage pada semua musuh",
+        "สร้าง\u001aความเสียหาย\u001aแก่\u001aศัตรู\u001aทุกราย\u001a"
     ],
     "70010": [
         "Deal lightning magic damage to all enemies",
