@@ -4341,6 +4341,36 @@
         "Data diperbarui.",
         "ข้อมูล\u001aได้รับ\u001aการ\u001aอัพเดท\u001aแล้ว\u001a"
     ],
+    "DATE": [
+        "<param=month>/<param=day>/<param=year>",
+        "<param=year>/<param=month>/<param=day>",
+        "<param=year>/<param=month>/<param=day>",
+        "<param=day>/<param=month>/<param=year>",
+        "<param=day>.<param=month>.<param=year>",
+        "<param=day>/<param=month>/<param=year>",
+        "<param=day>/<param=month>/<param=year>",
+        "<param=day>/<param=month>/<param=year>\u001a"
+    ],
+    "DATE_TIME_HM": [
+        "<param=month>/<param=day>/<param=year> <param=hour>:<param=minute>",
+        "<param=year>/<param=month>/<param=day> <param=hour>:<param=minute>",
+        "<param=year>/<param=month>/<param=day> <param=hour>:<param=minute>",
+        "<param=day>/<param=month>/<param=year> <param=hour>:<param=minute>",
+        "<param=day>.<param=month>.<param=year> <param=hour>:<param=minute>",
+        "<param=day>/<param=month>/<param=year> <param=hour>:<param=minute>",
+        "<param=day>/<param=month>/<param=year> <param=hour>:<param=minute>",
+        "<param=day>/<param=month>/<param=year>\u001a \u001a<param=hour>:<param=minute>\u001a"
+    ],
+    "DATE_TIME_HMS": [
+        "<param=month>/<param=day>/<param=year> <param=hour>:<param=minute>:<param=second>",
+        "<param=year>/<param=month>/<param=day> <param=hour>:<param=minute>:<param=second>",
+        "<param=year>/<param=month>/<param=day> <param=hour>:<param=minute>:<param=second>",
+        "<param=day>/<param=month>/<param=year> <param=hour>:<param=minute>:<param=second>",
+        "<param=day>.<param=month>.<param=year> <param=hour>:<param=minute>:<param=second>",
+        "<param=day>/<param=month>/<param=year> <param=hour>:<param=minute>:<param=second>",
+        "<param=day>/<param=month>/<param=year> <param=hour>:<param=minute>:<param=second>",
+        "<param=day>/<param=month>/<param=year>\u001a \u001a<param=hour>:<param=minute>:<param=second>\u001a"
+    ],
     "DAY": [
         "d",
         "日",
@@ -11532,14 +11562,14 @@
         "<blank>\u001a"
     ],
     "LINK_SHARING_MESSAGE": [
-        "FFBE 7th Anniversary campaigns now on! Log in now to get 14,000 lapis and over 70 FREE summons! YouTube URL : https://sqex.to/79bdw　#FFBEWW",
-        "FFBE7週年慶祝活動登場！立即登入獲得14,000寶石和超過70次的免費召喚！ YouTube 連結：https://sqex.to/79bdw　#FFBEWW",
-        "FFBE 7주년 캠페인 진행 중! 지금 로그인해 14,000 라피스와 70회 이상의 무료 소환 기회를 획득하세요! YouTube URL : https://sqex.to/79bdw　#FFBEWW",
-        "Campagnes du 7e anniversaire de FFBE en cours ! Connectez-vous dès maintenant pour obtenir 14 000 lapis et plus de 70 invocations GRATUITES ! YouTube URL : https://sqex.to/79bdw　#FFBEWW",
-        "Kampagnen zum 7. Jubiläum von FFBE laufen!Melde dich jetzt an und erhalte 14.000 Lapis und über 70 KOSTENLOSE Beschwörungen!YouTube URL: https://sqex.to/79bdw     #FFBEWW",
-        "¡Campañas del 7.º aniversario de FFBE en curso! ¡Inicia sesión ahora para conseguir 14000 lapis y 70 invocaciones GRATUITAS! Enlace de YouTube: https://sqex.to/79bdw　#FFBEWW",
-        "Kampanye Peringatan 7 Tahun FFBE sedang berlangsung! Ayo login sekarang untuk mendapatkan 14.000 lapis dan lakukan lebih dari summon 70 GRATIS! YouTube URL : https://sqex.to/79bdw　#FFBEWW",
-        "แคมเปญ\u001a \u001aFFBE\u001a \u001aครบรอบ\u001a \u001a7\u001a \u001aปี\u001aมา\u001aแล้ว\u001a!\u001a \u001aล็อกอิน\u001aตอนนี้\u001aเพื่อ\u001aรับ\u001a  \u001a14,000\u001a \u001aLapis\u001a \u001aพร้อม\u001aซัม\u001aม่อน\u001aฟรี\u001aกว่า\u001a \u001a70\u001a \u001aรายการ\u001a!\u001a \u001aYouTube\u001a \u001aURL\u001a \u001a:\u001a \u001ahttps\u001a://\u001asqex\u001a.\u001ato\u001a/\u001a79\u001abdw\u001a　#\u001aFFBEWW\u001a"
+        "Play FINAL FANTASY BRAVE EXVIUS now! https://goo.gl/d7oqyw",
+        "快來體驗FINAL FANTASY BRAVE EXVIUS吧！ https://goo.gl/d7oqyw",
+        "FINAL FANTASY BRAVE EXVIUS 플레이하러 가기! https://goo.gl/d7oqyw",
+        "Jouez à FINAL FANTASY  BRAVE EXVIUS dès maintenant ! https://goo.gl/d7oqyw",
+        "Jetzt FINAL FANTASY BRAVE EXVIUS spielen! https://goo.gl/d7oqyw",
+        "¡Únete y juega a FINAL FANTASY BRAVE EXVIUS ahora! https://goo.gl/d7oqyw",
+        "Ayo mainkan FINAL FANTASY BRAVE EXVIUS sekarang! https://goo.gl/d7oqyw",
+        "เล่น\u001a \u001aFINAL\u001a \u001aFANTASY\u001a \u001aBRAVE\u001a \u001aEXVIUS\u001a \u001aเลย\u001aตอนนี้\u001a!\u001a \u001ahttps\u001a://\u001agoo\u001a.\u001agl\u001a/\u001ad\u001a7\u001aoqyw\u001a"
     ],
     "LOCAL_NOTIFICATION_FINISHED_EXPLORE_TEXT": [
         "The exploration party has returned!",
