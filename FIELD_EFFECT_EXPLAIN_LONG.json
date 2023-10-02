@@ -539,6 +539,36 @@
         "Meningkatkan ATK, DEF, MAG, dan SPR sebanyak 5%",
         "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a \u001a5%"
     ],
+    "100000069": [
+        "Boost ATK, DEF, MAG, and SPR",
+        "提高攻擊防禦魔力精神",
+        "공격력, 방어력, 마력, 정신력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY",
+        "Erhöht ANG, ABW, MAG und PSY.",
+        "Aumenta ATQ, DEF, MAG y ESP",
+        "Boost ATK, DEF, MAG, and SPR",
+        "Boost\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a,\u001a \u001aand\u001a \u001aSPR\u001a"
+    ],
+    "100000070": [
+        "Reduce ATK, DEF, MAG, and SPR",
+        "降低攻擊防禦魔力精神",
+        "공격력, 방어력, 마력, 정신력 감소",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY",
+        "Verringert ANG, ABW, MAG und PSY.",
+        "Reduce ATQ, DEF, MAG y ESP",
+        "Reduce ATK, DEF, MAG, and SPR",
+        "Reduce\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a,\u001a \u001aand\u001a \u001aSPR\u001a"
+    ],
+    "100000071": [
+        "Reduce fire and lightning resistance by 50%",
+        "降低50%火類屬性耐性",
+        "불과 번개속성 저항력 50% 감소",
+        "Réduit la résistance au feu et à la foudre de 50 %",
+        "Verringert Feuer- und Blitzresistenz um 50%.",
+        "Reduce la resistencia a fuego y rayo un 50%",
+        "Reduce fire and lightning resistance by 50%",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a \u001aและ\u001aสายฟ้า\u001a \u001a50%"
+    ],
     "200000001": [
         "Boost fire physical and magic damage by 25%",
         "提高25%火屬性物理、魔法傷害",
@@ -2089,6 +2119,16 @@
         "Mengurangi resistansi angin sebanyak 50%",
         "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001a \u001a50%"
     ],
+    "200000183": [
+        "Boost water physical and magic damage by 35%",
+        "提高35%水屬性物理、魔法攻擊的傷害",
+        "물속성 물리, 마법 피해량 35% 상승",
+        "Augmente les dégâts physiques et magiques d'eau de 35 %",
+        "Erhöht physischen und magischen Wasserschaden um 35%.",
+        "Aumenta el daño físico y mágico de agua un 35%",
+        "Meningkatkan damage fisik dan magic air sebanyak 35%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a \u001a35%"
+    ],
     "200000184": [
         "Boost LB damage by 50%",
         "提高50%極限技的傷害",
@@ -2228,6 +2268,66 @@
         "Aumenta el daño físico y mágico de tierra un 35%",
         "Meningkatkan damage fisik dan magic tanah sebanyak 35%",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a \u001a35%"
+    ],
+    "200000198": [
+        "Reduce dark resistance by 40%",
+        "降低40%暗屬性耐性",
+        "어둠속성 저항력 40% 감소",
+        "Réduit la résistance aux ténèbres de 40 %",
+        "Verringert Dunkelresistenz um 40%.",
+        "Reduce la resistencia a la oscuridad un 40%",
+        "Mengurangi resistansi kegelapan sebanyak 40%",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a40%"
+    ],
+    "200000199": [
+        "Reduce dark resistance by 30%",
+        "降低30%暗屬性耐性",
+        "어둠속성 저항력 30% 감소",
+        "Réduit la résistance aux ténèbres de 30 %",
+        "Verringert Dunkelresistenz um 30%.",
+        "Reduce la resistencia a la oscuridad un 30%",
+        "Mengurangi resistansi kegelapan sebanyak 30%",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a \u001a30%"
+    ],
+    "200000202": [
+        "Boost LB damage by 100%",
+        "提高100%極限技的傷害",
+        "LB 피해량 100% 상승",
+        "Augmente les dégâts de la limite de 100 %",
+        "Erhöht Schaden durch Limitrausch um 100%.",
+        "Aumenta el daño del EL un 100%",
+        "Meningkatkan damage LB sebanyak 100%",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a \u001a100%"
+    ],
+    "200000204": [
+        "Restore MP by 150",
+        "恢復150MP",
+        "MP 150 회복",
+        "Restaure les PM de 150",
+        "Regeneriert MP um 150.",
+        "Recupera PM en 150",
+        "Restore MP by 150",
+        "Restore\u001a \u001aMP\u001a \u001aby\u001a \u001a150\u001a"
+    ],
+    "200000205": [
+        "Boost ATK, DEF, MAG, and SPR by 100%",
+        "提高100%攻擊防禦魔力精神",
+        "공격력, 방어력, 마력, 정신력 100% 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY de 100 %",
+        "Erhöht ANG, ABW, MAG und PSY um 100%.",
+        "Aumenta ATQ, DEF, MAG y ESP un 100%",
+        "Boost ATK, DEF, MAG, and SPR by 100%",
+        "Boost\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a,\u001a \u001aand\u001a \u001aSPR\u001a \u001aby\u001a \u001a100%"
+    ],
+    "200000214": [
+        "Boost light physical and magic damage by 40%",
+        "提高40%光屬性物理、魔法攻擊的傷害",
+        "빛속성 물리, 마법 피해량 40% 상승",
+        "Augmente les dégâts physiques et magiques de lumière de 40 %",
+        "Erhöht physischen und magischen Lichtschaden um 40%.",
+        "Aumenta el daño físico y mágico de luz un 40%",
+        "Boost light physical and magic damage by 40%",
+        "Boost\u001a \u001alight\u001a \u001aphysical\u001a \u001aand\u001a \u001amagic\u001a \u001adamage\u001a \u001aby\u001a \u001a40%"
     ],
     "900000001": [
         "Boost DEF and SPR by 100%",

@@ -539,6 +539,36 @@
         "Meningkatkan ATK, DEF, MAG, dan SPR",
         "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a"
     ],
+    "100000069": [
+        "Boost ATK, DEF, MAG, and SPR",
+        "提高攻擊防禦魔力精神",
+        "공격력, 방어력, 마력, 정신력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY",
+        "Erhöht ANG, ABW, MAG und PSY.",
+        "Aumenta ATQ, DEF, MAG y ESP",
+        "Meningkatkan ATK, DEF, MAG, dan SPR",
+        "เพิ่มค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a"
+    ],
+    "100000070": [
+        "Reduce ATK, DEF, MAG, and SPR",
+        "降低攻擊防禦魔力精神",
+        "공격력, 방어력, 마력, 정신력 감소",
+        "Réduit l'ATT, la DEF, la MAGIE et la PSY",
+        "Verringert ANG, ABW, MAG und PSY.",
+        "Reduce ATQ, DEF, MAG y ESP",
+        "Mengurangi ATK, DEF, MAG, dan SPR",
+        "ลด\u001aค่า\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a \u001aและ\u001a \u001aSPR\u001a"
+    ],
+    "100000071": [
+        "Reduce fire and lightning resistance",
+        "降低火雷屬性耐性",
+        "불과 번개속성 저항력 감소",
+        "Réduit la résistance au feu et à la foudre",
+        "Verringert Feuer- und Blitzresistenz.",
+        "Reduce la resistencia a fuego y rayo",
+        "Reduce fire and lightning resistance",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aไฟ\u001a \u001aและ\u001aสายฟ้า\u001a"
+    ],
     "200000001": [
         "Boost fire physical and magic damage",
         "提高火屬性物理、魔法傷害",
@@ -2089,6 +2119,16 @@
         "Mengurangi resistansi angin",
         "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aลม\u001a"
     ],
+    "200000183": [
+        "Boost water physical and magic damage",
+        "提高水屬性物理、魔法攻擊的傷害",
+        "물속성 물리, 마법 피해량 상승",
+        "Augmente les dégâts physiques et magiques d'eau",
+        "Erhöht physischen und magischen Wasserschaden.",
+        "Aumenta el daño físico y mágico de agua",
+        "Meningkatkan damage fisik dan magic air",
+        "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aน้ำ\u001a"
+    ],
     "200000184": [
         "Boost LB damage",
         "提高極限技的傷害",
@@ -2228,6 +2268,66 @@
         "Aumenta el daño físico y mágico de tierra",
         "Meningkatkan damage fisik dan magic tanah",
         "เพิ่มค่า\u001aความเสียหาย\u001aทางกายภาพ\u001aและ\u001aพลัง\u001aเวทย์\u001aธาตุ\u001aดิน\u001a"
+    ],
+    "200000198": [
+        "Reduce dark resistance",
+        "降低暗屬性耐性",
+        "어둠속성 저항력 감소",
+        "Réduit la résistance aux ténèbres",
+        "Verringert Dunkelresistenz.",
+        "Reduce la resistencia a la oscuridad",
+        "Mengurangi resistansi kegelapan",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "200000199": [
+        "Reduce dark resistance",
+        "降低暗屬性耐性",
+        "어둠속성 저항력 감소",
+        "Réduit la résistance aux ténèbres",
+        "Verringert Dunkelresistenz.",
+        "Reduce la resistencia a la oscuridad",
+        "Mengurangi resistansi kegelapan",
+        "ลด\u001aพลัง\u001aต้านทาน\u001aธาตุ\u001aมืด\u001a"
+    ],
+    "200000202": [
+        "Boost LB damage",
+        "提高極限技的傷害",
+        "LB 피해량 상승",
+        "Augmente les dégâts de la limite",
+        "Erhöht Schaden durch Limitrausch.",
+        "Aumenta el daño del EL",
+        "Meningkatkan damage LB",
+        "เพิ่มค่า\u001aความเสียหาย\u001aของ\u001a \u001aLB\u001a"
+    ],
+    "200000204": [
+        "Restore MP",
+        "恢復MP",
+        "MP 회복",
+        "Restaure les PM",
+        "Regeneriert MP.",
+        "Recupera PM",
+        "Restore MP",
+        "Restore\u001a \u001aMP\u001a"
+    ],
+    "200000205": [
+        "Boost ATK, DEF, MAG, and SPR",
+        "提高攻擊防禦魔力精神",
+        "공격력, 방어력, 마력, 정신력 상승",
+        "Augmente l'ATT, la DEF, la MAGIE et la PSY",
+        "Erhöht ANG, ABW, MAG und PSY.",
+        "Aumenta ATQ, DEF, MAG y ESP",
+        "Boost ATK, DEF, MAG, and SPR",
+        "Boost\u001a \u001aATK\u001a,\u001a \u001aDEF\u001a,\u001a \u001aMAG\u001a,\u001a \u001aand\u001a \u001aSPR\u001a"
+    ],
+    "200000214": [
+        "Boost light physical and magic damage",
+        "提高光屬性物理、魔法攻擊的傷害",
+        "빛속성 물리, 마법 피해량 상승",
+        "Augmente les dégâts physiques et magiques de lumière",
+        "Erhöht physischen und magischen Lichtschaden.",
+        "Aumenta el daño físico y mágico de luz",
+        "Boost light physical and magic damage",
+        "Boost\u001a \u001alight\u001a \u001aphysical\u001a \u001aand\u001a \u001amagic\u001a \u001adamage\u001a"
     ],
     "900000001": [
         "Boost DEF and SPR",
