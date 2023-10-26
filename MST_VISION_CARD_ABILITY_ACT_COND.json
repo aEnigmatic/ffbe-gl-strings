@@ -490,14 +490,14 @@
         "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aท\u001a \u001aFFII\u001a"
     ],
     "203000101": [
-        "Requirement: FFIII Unit",
-        "發動條件：《FFIII》兵員",
-        "발동 조건: FFIII 유닛",
-        "Conditions : unité de FFIII",
-        "Voraussetzung: FFIII-Einheit",
+        "Requirement: FFIII Category Unit",
+        "發動條件：「FFIII」類別兵員",
+        "발동 조건: FFIII 카테고리 유닛",
+        "Condition : unité de la catégorie FFIII",
+        "Voraussetzung: FFIII (Kategorie)-Einheit",
         "Requisito: unidad de FFIII",
-        "Ketentuan: Unit FFIII",
-        "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aท\u001a \u001aFFIII\u001a"
+        "Requirement: FFIII Category Unit",
+        "Requirement\u001a:\u001a \u001aFFIII\u001a \u001aCategory\u001a \u001aUnit\u001a"
     ],
     "203000201": [
         "Requirement: FFIII Unit",
@@ -730,7 +730,7 @@
         "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aท\u001a \u001aFFVII\u001a"
     ],
     "207001301": [
-        "Condition(s): Physical Tanks only",
+        "Requirement: Physical Tank Unit",
         "發動條件：物防型兵員專屬",
         "발동 조건: 물리 방어 유닛",
         "Condition : Unité \"Tank physique\"",
@@ -1110,14 +1110,14 @@
         "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aท\u001a \u001aFMA\u001a \u001aบรา\u001aเธอ\u001aร์ฮูด\u001a"
     ],
     "339000101": [
-        "Condition(s): Physical Tanks only",
-        "發動條件：物防型兵員專屬",
+        "Requirement: Physical Tank Unit",
+        "發動條件：物防型兵員",
         "발동 조건: 물리 방어 유닛",
         "Condition : Unité \"Tank physique\"",
-        "Bedingung(en): nur Physische Tanks",
+        "Voraussetzung: Physische Tank-Einheit",
         "Requisito: unidad de tipo tanque físico",
         "Ketentuan: Unit Tank",
-        "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aทสา\u001aย\u001aป้องกัน\u001aทางกายภาพ\u001aเท่านั้น\u001a"
+        "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aทสา\u001aย\u001aป้องกัน\u001aทางกายภาพ\u001a"
     ],
     "339000201": [
         "Requirement: WOTV FFBE category unit",
@@ -1298,5 +1298,15 @@
         "Requisito: unidad de Choque de Voluntades",
         "Ketentuan: Unit Kategori Pertentangan Tekad",
         "เงื่อนไข\u001a:\u001a \u001aยู\u001aนิ\u001aท\u001aประเภท\u001aปะทะ\u001aจิตวิญญาณ\u001a"
+    ],
+    "401009101": [
+        "Requirement: Guardian of the Underworld Chow",
+        "發動條件：『冥界守護犬球球』",
+        "발동 조건: 저승의 수호자 챠우",
+        "Condition : Chow, gardien des âmes",
+        "Voraussetzung: Wächter der Unterwelt Chow",
+        "Requisito: Chow, guardián del Inframundo",
+        "Requirement: Guardian of the Underworld Chow",
+        "Requirement\u001a:\u001a \u001aGuardian\u001a \u001aof\u001a \u001athe\u001a \u001aUnderworld\u001a \u001aChow\u001a"
     ]
 }

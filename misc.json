@@ -209,6 +209,16 @@
         "Ability yang Dapat Dijadikan Combo:",
         "Ability\u001a \u001aที่\u001aทำ\u001a \u001aChain\u001a \u001aได้\u001a"
     ],
+    "ABILITY_DETAIL_AND": [
+        "&",
+        "和",
+        "&",
+        "et",
+        "und",
+        "y",
+        "&",
+        "\u001a&\u001a \u001a"
+    ],
     "ABILITY_DETAIL_ATKTYPE_LIST": [
         "Physical@Magic@Hybrid@Other",
         "物理@魔法@混合@其他",
@@ -389,6 +399,16 @@
         "Tergantung dari unit",
         "เปลี่ยนแปลง\u001aตาม\u001aยู\u001aนิ\u001aท\u001aที่\u001aใช้งาน\u001a"
     ],
+    "ABILITY_DETAIL_LEFT_SQUARE_BRACKET": [
+        "[",
+        "[",
+        "[",
+        "[",
+        "(",
+        "[",
+        "[",
+        "[\u001a"
+    ],
     "ABILITY_DETAIL_LIMIT_OWNER": [
         "Limited",
         "專屬",
@@ -448,6 +468,16 @@
         "Sin efecto<blank>",
         "Tidak Ada Efek<blank>",
         "ไม่\u001aมีผล\u001a<blank>\u001a"
+    ],
+    "ABILITY_DETAIL_OR": [
+        "or",
+        "或",
+        "또는",
+        "ou",
+        "oder",
+        "o",
+        "or",
+        "\u001aor\u001a \u001a"
     ],
     "ABILITY_DETAIL_RANGE_ALL": [
         "all",
@@ -538,6 +568,16 @@
         "Arriba",
         "Level Atas",
         "ชั้นบน\u001a"
+    ],
+    "ABILITY_DETAIL_RIGHT_SQUARE_BRACKET": [
+        "]",
+        "]",
+        "]",
+        "]",
+        ")",
+        "]",
+        "]",
+        "]\u001a"
     ],
     "ABILITY_DETAIL_SHIELD_LIST": [
         "Light Shield@Heavy Shield",
@@ -2429,6 +2469,26 @@
         "(Magic)",
         "(\u001aพลัง\u001aเวทย์\u001a)\u001a"
     ],
+    "BATTLE_TEXT_LABEL_MONSTER_ELEM_RESIST_INFO": [
+        "Monster Elemental Resistance",
+        "魔物屬性耐性",
+        "몬스터 속성 저항력 정보",
+        "Résistance(s) élémentaire(s) du monstre",
+        "Elementarresistenz von Monstern",
+        "Resistencia elemental de monstruo",
+        "Monster Elemental Resistance",
+        "Monster\u001a \u001aElemental\u001a \u001aResistance\u001a"
+    ],
+    "BATTLE_TEXT_LABEL_MONSTER_WEAPON_RESIST_INFO": [
+        "Weapon Resistance",
+        "武器耐性",
+        "무기 저항력 정보",
+        "Résistance(s) de l'arme",
+        "Waffenresistenz",
+        "Resistencia de arma",
+        "Weapon Resistance",
+        "Weapon\u001a \u001aResistance\u001a"
+    ],
     "BATTLE_TEXT_LABEL_PHYSICAL": [
         "(Physical)",
         "(物)",
@@ -2438,6 +2498,26 @@
         "(físico)",
         "(Fisik)",
         "(\u001aกายภาพ\u001a)\u001a"
+    ],
+    "BATTLE_TEXT_LABEL_UNIT_BUFF_DEBUFF_INFO": [
+        "Unit Status Effects",
+        "兵員強化/弱化資訊",
+        "유닛 능력치 효과 정보",
+        "Effets de statuts d'unité",
+        "Statuseffekte von Einheiten",
+        "Efectos de unidad",
+        "Unit Status Effects",
+        "Unit\u001a \u001aStatus\u001a \u001aEffects\u001a"
+    ],
+    "BATTLE_TEXT_LABEL_UNIT_STATUS_BONUS": [
+        "Parameter Bonus",
+        "狀態數值加成",
+        "능력치 보너스",
+        "Bonus de paramètres",
+        "Wertebonus",
+        "Bonificación de parámetros",
+        "Parameter Bonus",
+        "Parameter\u001a \u001aBonus\u001a"
     ],
     "BATTLE_TEXT_MND_DOWN_VALUE": [
         "SPR Reduction",
@@ -12581,6 +12661,16 @@
         "Efek Brave Shift",
         "เอฟ\u001aเฟค\u001a \u001aBrave\u001a \u001aShift\u001a"
     ],
+    "MENUSETTING_BATTLE_BUFF_DEBUFF_DISP": [
+        "Unit Status Effect Display",
+        "顯示兵員強化/弱化資訊畫面",
+        "유닛 능력치 효과 정보 화면 표시",
+        "Montrer les effets de statut de l'unité",
+        "Anzeige des Statuseffekts von Einheiten",
+        "Mostrar efectos de unidad",
+        "Unit Status Effect Display",
+        "Unit\u001a \u001aStatus\u001a \u001aEffect\u001a \u001aDisplay\u001a"
+    ],
     "MENUSETTING_BATTLE_BURST": [
         "Limit Burst Details",
         "極限技詳細顯示",
@@ -12590,6 +12680,16 @@
         "Mostrar detalles del Estallido Límite",
         "Efek Limit Burst",
         "รายละเอียด\u001a \u001aLimit\u001a \u001aBurst\u001a"
+    ],
+    "MENUSETTING_BATTLE_CHAIN_DMG_LIMIT": [
+        "Chain Damage Multiplier Display",
+        "顯示CHAIN傷害倍率",
+        "CHAIN 시 피해량 배율 표시",
+        "Montrer le multiplicateur des dégâts de combo",
+        "Anzeige des Multiplikators von Kettenschäden",
+        "Mostrar multiplicador de daño de combo",
+        "Chain Damage Multiplier Display",
+        "Chain\u001a \u001aDamage\u001a \u001aMultiplier\u001a \u001aDisplay\u001a"
     ],
     "MENUSETTING_BATTLE_EFFECT": [
         "Background Effects",
@@ -12680,6 +12780,16 @@
         "Efectos de batalla",
         "Efek Battle",
         "ตั้งค่า\u001aฉาก\u001aต่อสู้\u001a"
+    ],
+    "MENUSETTING_BATTLE_TOTAL_DAMAGE": [
+        "Total Damage Display",
+        "顯示累計傷害",
+        "총 피해량 표시",
+        "Affichage du total des dégâts",
+        "Gesamtschaden-Anzeige",
+        "Mostrar daño total",
+        "Total Damage Display",
+        "Total\u001a \u001aDamage\u001a \u001aDisplay\u001a"
     ],
     "MENUSETTING_DELETE_DATA": [
         "Delete data",
@@ -19681,6 +19791,16 @@
         "Jumlah yang Tidak Dimiliki",
         "ไม่\u001aมี\u001a"
     ],
+    "NO_ADS_NOTICE": [
+        "There are no ads available at the moment, please check back later.",
+        "目前無可觀看的廣告，請稍後再試。",
+        "현재 시청 가능한 광고가 없으니 나중에 다시 확인해 주세요.",
+        "Aucune annonce publicitaire n'est disponible pour le moment. Revenez plus tard !",
+        "Zurzeit sind keine Ads verfügbar. Bitte schau später nochmal herein!",
+        "No hay más anuncios disponibles de momento. Vuelve más tarde.",
+        "Tidak ada iklan yang tersedia saat ini, silakan periksa lagi nanti.",
+        "ยัง\u001aไม่\u001aมี\u001aวิดีโอ\u001aโฆษณา\u001aให้\u001aรับ\u001aชม\u001aใน\u001aตอนนี้\u001a \u001aโปรด\u001aเช็ค\u001aอีกครั้ง\u001aใน\u001aภายหลัง\u001a"
+    ],
     "NV_CLASS_UP_REWARD_MAIL_MSG": [
         "A super trust moogle has been rewarded for awakening to EX Level %s (EX +%s).",
         "EX覺醒值 %s (EX +%s) 之特別獎勵為1個超級信賴度莫古利。",
@@ -20262,84 +20382,84 @@
         "จะ\u001aบันทึก\u001aทับ\u001aข้อมูล\u001aทีม\u001aที่\u001aมี\u001aอยู่แล้ว\u001a \u001aต้องการ\u001aทำ\u001aหรือไม่\u001a?\u001a"
     ],
     "PARADE_PARTY_ELEMENT_UP_DARK": [
-        "Boost <color=205:71:255>dark</color> damage by 20%",
-        "提高20%<color=205:71:255>暗屬性</color>傷害",
-        "<color=205:71:255>어둠속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=205:71:255>ténèbres</color> de 20 %",
-        "Erhöht <color=205:71:255>Dunkel</color>schaden um 20%.",
-        "Aumenta el daño de <color=205:71:255>oscuridad</color> un 20%",
-        "Meningkatkan damage <color=205:71:255>kegelapan</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=205:71:255>\u001aมืด\u001a</color>\u001a \u001a20%"
+        "Boost <color=205:71:255>dark</color> damage by 10%",
+        "提高10%<color=205:71:255>闇屬性</color><br>的傷害",
+        "<color=205:71:255>어둠속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=205:71:255>ténèbres</color> de 10 %",
+        "Erhöht <color=205:71:255>Dunkel</color>schaden um 10%.",
+        "Aumenta el daño de <color=205:71:255>oscuridad</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>kegelapan</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aมืด\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_EARTH": [
-        "Boost <color=237:188:116>earth</color> damage by 20%",
-        "提高20%<color=237:188:116>土屬性</color>傷害",
-        "<color=237:188:116>땅속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=237:188:116>terre</color> de 20 %",
-        "Erhöht <color=237:188:116>Erd</color>schaden um 20%.",
-        "Aumenta el daño de <color=237:188:116>tierra</color> un 20%",
-        "Meningkatkan damage <color=237:188:116>tanah</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=237:188:116>\u001aดิน\u001a</color>\u001a \u001a20%"
+        "Boost <color=237:188:116>earth</color> damage by 10%",
+        "提高10%<color=237:188:116>土屬性</color><br>的傷害",
+        "<color=237:188:116>땅속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=237:188:116>terre</color> de 10 %",
+        "Erhöht <color=237:188:116>Erd</color>schaden um 10%.",
+        "Aumenta el daño de <color=237:188:116>tierra</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>tanah</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aดิน\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_FIRE": [
-        "Boost <color=222:5:5>fire</color> damage by 20%",
-        "提高20%<color=222:5:5>火屬性</color>傷害",
-        "<color=222:5:5>불속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=222:5:5>feu</color> de 20 %",
-        "Erhöht <color=222:5:5>Feuer</color>schaden um 20%.",
-        "Aumenta el daño de <color=222:5:5>fuego</color> un 20%",
+        "Boost <color=222:5:5>fire</color> damage by 10%",
+        "提高10%<color=222:5:5>火屬性</color><br>的傷害",
+        "<color=222:5:5>불속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=222:5:5>feu</color> de 10 %",
+        "Erhöht <color=222:5:5>Feuer</color>schaden um 10%.",
+        "Aumenta el daño de <color=222:5:5>fuego</color> un 10%",
         "Meningkatkan damage <color=222:5:5>api</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=222:5:5>\u001aไฟ\u001a</color>\u001a \u001a20%"
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aไฟ\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_ICE": [
-        "Boost <color=163:188:245>ice</color> damage by 20%",
-        "提高20%<color=163:188:245>冰屬性</color>傷害",
-        "<color=163:188:245>얼음속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=163:188:245>glace</color> de 20 %",
-        "Erhöht <color=163:188:245>Eis</color>schaden um 20%.",
-        "Aumenta el daño de <color=163:188:245>hielo</color> un 20%",
-        "Meningkatkan damage <color=163:188:245>es</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=163:188:245>\u001aน้ำแข็ง\u001a</color>\u001a \u001a20%"
+        "Boost <color=163:188:245>ice</color> damage by 10%",
+        "提高10%<color=163:188:245>氷屬性</color><br>的傷害",
+        "<color=163:188:245>얼음속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=163:188:245>glace</color> de 10 %",
+        "Erhöht <color=163:188:245>Eis</color>schaden um 10%.",
+        "Aumenta el daño de <color=163:188:245>hielo</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>es</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aน้ำแข็ง\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_LIGHT": [
-        "Boost <color=199:199:199>light</color> damage by 20%",
-        "提高20%<color=199:199:199>光屬性</color>傷害",
-        "<color=199:199:199>빛속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=199:199:199>lumière</color> de 20 %",
-        "Erhöht <color=199:199:199>Licht</color>schaden um 20%.",
-        "Aumenta el daño de <color=199:199:199>luz</color> un 20%",
-        "Meningkatkan damage <color=199:199:199>cahaya</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=199:199:199>\u001aแสง\u001a</color>\u001a \u001a20%"
+        "Boost <color=199:199:199>light</color> damage by 10%",
+        "提高10%<color=199:199:199>光屬性</color><br>的傷害",
+        "<color=199:199:199>빛속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=199:199:199>lumière</color> de 10 %",
+        "Erhöht <color=199:199:199>Licht</color>schaden um 10%.",
+        "Aumenta el daño de <color=199:199:199>luz</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>cahaya</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aแสง\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_THUNDER": [
-        "Boost <color=252:255:0>lightning</color> damage by 20%",
-        "提高20%<color=252:255:0>雷屬性</color>傷害",
-        "<color=252:255:0>번개속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=252:255:0>foudre</color> de 20 %",
-        "Erhöht <color=252:255:0>Blitz</color>schaden um 20%.",
-        "Aumenta el daño de <color=252:255:0>rayo</color> un 20%",
-        "Meningkatkan damage <color=252:255:0>petir</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a \u001a<color=252:255:0>\u001aสายฟ้า\u001a</color>\u001a \u001a20%"
+        "Boost <color=252:255:0>lightning</color> damage by 10%",
+        "提高10%<color=252:255:0>雷屬性</color><br>的傷害",
+        "<color=252:255:0>번개속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=252:255:0>foudre</color> de 10 %",
+        "Erhöht <color=252:255:0>Blitz</color>schaden um 10%.",
+        "Aumenta el daño de <color=252:255:0>rayo</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>petir</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aสายฟ้า\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_WATER": [
-        "Boost <color=176:255:255>water</color> damage by 20%",
-        "提高20%<color=176:255:255>水屬性</color>傷害",
-        "<color=176:255:255>물속성</color> 피해량 20% 상승",
-        "Augmente les dégâts d'<color=176:255:255>eau</color> de 20 %",
-        "Erhöht <color=176:255:255>Wasser</color>schaden um 20%.",
-        "Aumenta el daño de <color=176:255:255>agua</color> un 20%",
-        "Meningkatkan damage <color=176:255:255>air</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a<color=176:255:255>\u001aน้ำ\u001a</color>\u001a \u001a20%"
+        "Boost <color=176:255:255>water</color> damage by 10%",
+        "提高10%<color=176:255:255>水屬性</color><br>的傷害",
+        "<color=176:255:255>물속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts d'<color=176:255:255>eau</color> de 10 %",
+        "Erhöht <color=176:255:255>Wasser</color>schaden um 10%.",
+        "Aumenta el daño de <color=176:255:255>agua</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>air</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>\u001aน้ำ\u001a</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_ELEMENT_UP_WIND": [
-        "Boost <color=102:230:58>wind</color> damage by 20%",
-        "提高20%<color=102:230:58>風屬性</color>傷害",
-        "<color=102:230:58>바람속성</color> 피해량 20% 상승",
-        "Augmente les dégâts de <color=102:230:58>vent</color> de 20 %",
-        "Erhöht <color=102:230:58>Wind</color>schaden um 20%.",
-        "Aumenta el daño de <color=102:230:58>viento</color> un 20%",
-        "Meningkatkan damage <color=102:230:58>angin</color> sebanyak 20%",
-        "เพิ่มค่า\u001aความเสียหาย\u001aธาตุ\u001a \u001a<color=102:230:58>ลม</color>\u001a \u001a20%"
+        "Boost <color=102:230:58>wind</color> damage by 10%",
+        "提高10%<color=102:230:58>風屬性</color><br>的傷害",
+        "<color=102:230:58>바람속성</color><br>피해량 10% 상승",
+        "Augmente les dégâts de <color=102:230:58>vent</color> de 10 %",
+        "Erhöht <color=102:230:58>Wind</color>schaden um 10%.",
+        "Aumenta el daño de <color=102:230:58>viento</color> un 10%",
+        "Meningkatkan damage <color=222:5:5>angin</color> sebanyak 20%",
+        "เพิ่ม\u001aความเสียหาย\u001aด้วย\u001aธาตุ\u001a \u001a<color=222:5:5>ลม</color>\u001a \u001aขึ้น\u001a \u001a20%"
     ],
     "PARADE_PARTY_REGISTER_SLOT_LIST_LOAD_SUB_HEADER": [
         "Load a Party (Dark Visions)",
@@ -23392,12 +23512,12 @@
         "เสริม\u001aพลัง\u001a"
     ],
     "SEAL_TAB_NAME_5": [
-        "Chaos",
-        "Chaos",
-        "Chaos",
-        "Chaos",
-        "Chaos",
-        "Chaos",
+        "Awakening",
+        "覺醒",
+        "각성",
+        "Éveil",
+        "Erwecken",
+        "Despertar",
         "Chaos",
         "Chaos\u001a"
     ],
@@ -26810,6 +26930,146 @@
         "Misiones",
         "Quest",
         "เค\u001aวส\u001a"
+    ],
+    "SP_CHALLENGE_TOP_ACHIEVEMENT": [
+        "Completion:",
+        "完成度：",
+        "달성도",
+        "Progression :",
+        "Fortschritt:",
+        "Progreso:",
+        "Completion:",
+        "Completion\u001a:\u001a \u001a"
+    ],
+    "SP_CHALLENGE_TOP_COMPLETE": [
+        "Quest complete!",
+        "任務完成！",
+        "퀘스트 완료!",
+        "Quête terminée !",
+        "Auftrag abgeschlossen!",
+        "¡Misión completada!",
+        "Quest complete!",
+        "Quest\u001a \u001acomplete\u001a!\u001a"
+    ],
+    "SP_CHALLENGE_TOP_NO_MISSION": [
+        "There are no quests available.",
+        "沒有進行中的任務。",
+        "개최 중인 퀘스트가 없습니다.",
+        "Aucune quête disponible.",
+        "Es stehen keine Aufträge zur Verfügung.",
+        "No hay misiones disponibles.",
+        "There are no quests available.",
+        "There\u001a \u001aare\u001a \u001ano\u001a \u001aquests\u001a \u001aavailable\u001a.\u001a"
+    ],
+    "SP_CHALLENGE_TOP_PERIOD_DAYS": [
+        "<color=255:255:0><param=challenge_rest></color> Days",
+        "<color=255:255:0><param=challenge_rest></color>日",
+        "<color=255:255:0><param=challenge_rest></color>일",
+        "<color=255:255:0><param=challenge_rest></color> jour(s)",
+        "<color=255:255:0><param=challenge_rest></color> Tag(e)",
+        "<color=255:255:0><param=challenge_rest></color> días",
+        "<color=255:255:0><param=challenge_rest></color> Days",
+        "<color=255:255:0><param=challenge_rest></color>\u001a \u001aDays\u001a"
+    ],
+    "SP_CHALLENGE_TOP_PERIOD_HOURS": [
+        "<color=255:255:0><param=challenge_rest></color> Hours",
+        "<color=255:255:0><param=challenge_rest></color>小時",
+        "<color=255:255:0><param=challenge_rest></color>시간",
+        "<color=255:255:0><param=challenge_rest></color> heure(s)",
+        "<color=255:255:0><param=challenge_rest></color> Stunde(n)",
+        "<color=255:255:0><param=challenge_rest></color> horas",
+        "<color=255:255:0><param=challenge_rest></color> Hours",
+        "<color=255:255:0><param=challenge_rest></color>\u001a \u001aHours\u001a"
+    ],
+    "SP_CHALLENGE_TOP_PERIOD_MINITUS": [
+        "<color=255:255:0><param=challenge_rest></color> Minutes",
+        "<color=255:255:0><param=challenge_rest></color>分",
+        "<color=255:255:0><param=challenge_rest></color>분",
+        "<color=255:255:0><param=challenge_rest></color> minute(s)",
+        "<color=255:255:0><param=challenge_rest></color> Minute(n)",
+        "<color=255:255:0><param=challenge_rest></color> minutos",
+        "<color=255:255:0><param=challenge_rest></color> Minutes",
+        "<color=255:255:0><param=challenge_rest></color>\u001a \u001aMinutes\u001a"
+    ],
+    "SP_CHALLENGE_TOP_PERIOD_PREFIX": [
+        "Time remaining:",
+        "剩餘時間：",
+        "완료까지 앞으로",
+        "Reste :",
+        "Verbleibende Zeit:",
+        "Tiempo restante:",
+        "Time remaining:",
+        "Time\u001a \u001aremaining\u001a:\u001a \u001a"
+    ],
+    "SP_CHALLENGE_TOP_RECIEVE_ALL": [
+        "Receive All",
+        "一併領取",
+        "일괄 수령",
+        "Tout recevoir",
+        "Alle erhalten",
+        "Recibir todo",
+        "Receive All",
+        "Receive\u001a \u001aAll\u001a"
+    ],
+    "SP_CHALLENGE_TOP_RESULT_MSG": [
+        "You have received the quest rewards.",
+        "已領取任務完成報酬。",
+        "퀘스트 보상을 수령했습니다.",
+        "Vous avez reçu les récompenses de quête.",
+        "Du hast die Auftragsbelohnungen erhalten.",
+        "Has recibido las recompensas de misión.",
+        "You have received the quest rewards.",
+        "You\u001a \u001ahave\u001a \u001areceived\u001a \u001athe\u001a \u001aquest\u001a \u001arewards\u001a.\u001a"
+    ],
+    "SP_CHALLENGE_TOP_RESULT_TITLE": [
+        "Receive All Rewards",
+        "報酬一併領取",
+        "보상 일괄 수령",
+        "Recevoir toutes les récompenses",
+        "Alle Belohnungen erhalten",
+        "Recibir todas las recompensas",
+        "Receive All Rewards",
+        "Receive\u001a \u001aAll\u001a \u001aRewards\u001a"
+    ],
+    "SP_CHALLENGE_TOP_SLASH": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/\u001a"
+    ],
+    "SP_CHALLENGE_TOP_TAB_EVENT": [
+        "Event",
+        "活動",
+        "이벤트",
+        "Événement",
+        "Ereignis",
+        "Evento",
+        "Event",
+        "Event\u001a"
+    ],
+    "SP_CHALLENGE_TOP_TAB_PERMANENT": [
+        "Permanent",
+        "常設",
+        "상설",
+        "Permanent",
+        "Permanent",
+        "Permanente",
+        "Permanent",
+        "Permanent\u001a"
+    ],
+    "SP_CHALLENGE_TOP_TAB_REGULAR": [
+        "Periodic",
+        "定期",
+        "정기",
+        "Périodique",
+        "Periodisch",
+        "Periódico",
+        "Periodic",
+        "Periodic\u001a"
     ],
     "SP_CLASSUP_CONFIRM": [
         "The following materials will be used to awaken the unit. Proceed?",
