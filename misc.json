@@ -3389,6 +3389,16 @@
         "Hadiah penyelesaian akan dikirim ke kotak masukmu.",
         "รางวัล\u001aบรรลุเป้าหมาย\u001aจะ\u001aถูก\u001aส่ง\u001aไป\u001aยัง\u001aกล่อง\u001aข้อความ\u001aของ\u001aคุณ\u001a"
     ],
+    "CLASS_UP": [
+        "Awakening",
+        "覺醒",
+        null,
+        null,
+        null,
+        null,
+        "Awakening",
+        "Awakening\u001a"
+    ],
     "CLOSE_PARENTHESIS": [
         ")",
         "】",
@@ -5803,7 +5813,7 @@
     ],
     "EQUIP_ITEM_SKILL_LIMIT_OWNER_FORMAT": [
         "Equipped to unit_name:<blank>",
-        "unit_name裝備時：",
+        "兵員裝備中：",
         "unit_name 장착 시:<blank>",
         "Équipé(e) à : unit_name<blank>",
         "Ausgerüstet für unit_name:<blank>",
@@ -5870,6 +5880,26 @@
         "No equipable.",
         "Tidak dapat digunakan.",
         "ไม่\u001aสามารถ\u001aติดตั้ง\u001aได้\u001a"
+    ],
+    "EQUIP_NG_EQUIP_SLOT_TYPE_EX_ABILITY": [
+        "Only EX abilities can be equipped.",
+        "僅能裝備EX能力",
+        null,
+        null,
+        null,
+        null,
+        "Only EX abilities can be equipped.",
+        "Only\u001a \u001aEX\u001a \u001aabilities\u001a \u001acan\u001a \u001abe\u001a \u001aequipped\u001a.\u001a"
+    ],
+    "EQUIP_NG_EQUIP_SLOT_TYPE_NORMAL_ABILITY": [
+        "Only standard abilities can be equipped.",
+        "僅能裝備一般能力",
+        null,
+        null,
+        null,
+        null,
+        "Only standard abilities can be equipped.",
+        "Only\u001a \u001astandard\u001a \u001aabilities\u001a \u001acan\u001a \u001abe\u001a \u001aequipped\u001a.\u001a"
     ],
     "EQUIP_NG_EXPEDITION": [
         "Unit in expedition",
@@ -8341,6 +8371,116 @@
         "Spesifik Unit",
         "เจาะจง\u001aยู\u001aนิ\u001aท\u001a"
     ],
+    "FRAGMENT_CONVERSION_CONFIRM_TXT_1": [
+        "Unit(s) will be converted to materials.",
+        "將兵員變換為素材",
+        null,
+        null,
+        null,
+        null,
+        "Unit(s) will be converted to materials.",
+        "Unit\u001a(\u001as\u001a)\u001a \u001awill\u001a \u001abe\u001a \u001aconverted\u001a \u001ato\u001a \u001amaterials\u001a.\u001a"
+    ],
+    "FRAGMENT_CONVERSION_DONE": [
+        "Unit has been converted.",
+        "已完成兵員變換",
+        null,
+        null,
+        null,
+        null,
+        "Unit has been converted.",
+        "Unit\u001a \u001ahas\u001a \u001abeen\u001a \u001aconverted\u001a.\u001a"
+    ],
+    "FRAGMENT_CONVERSION_EX_UNIT_CONFIRM_TEXT": [
+        "<size=20>An <color=255:255:0>over-leveled unit</color> has been selected. <color=255:255:0>The over-leveled unit will be lost</color> upon conversion. *Over-level materials can be regained by fusing with the appropriate unit.</size>",
+        "<size=20>已選擇<color=255:255:0>EXLv. UP兵員</color>。若將其進行變換，將無法歸還<color=255:255:0>使用於EXLv. UP的強化兵員，<br>是否繼續？<br><size=14>※可以透過專用的解除兵員來歸還使用於EXLv. UP的強化兵員。</size>",
+        null,
+        null,
+        null,
+        null,
+        "<size=20>An <color=255:255:0>over-leveled unit</color> has been selected. <color=255:255:0>The over-leveled unit will be lost</color> upon conversion. *Over-level materials can be regained by fusing with the appropriate unit.</size>",
+        "<size=20>\u001aAn\u001a \u001a<color=255:255:0>\u001aover-leveled\u001a \u001aunit\u001a</color>\u001a \u001ahas\u001a \u001abeen\u001a \u001aselected\u001a.\u001a \u001a<color=255:255:0>\u001aThe\u001a \u001aover-leveled\u001a \u001aunit\u001a \u001awill\u001a \u001abe\u001a \u001alost\u001a</color>\u001a \u001aupon\u001a \u001aconversion\u001a.\u001a \u001a*\u001aOver-level\u001a \u001amaterials\u001a \u001acan\u001a \u001abe\u001a \u001aregained\u001a \u001aby\u001a \u001afusing\u001a \u001awith\u001a \u001athe\u001a \u001aappropriate\u001a \u001aunit\u001a.</size>\u001a"
+    ],
+    "FRAGMENT_CONVERSION_GENERAL_CONFIRM_AGAIN_TXT": [
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color><br>Do you wish to proceed?",
+        "<size=20>將兵員變換為素材。<br>確認變換後，<color=255:255:0>就無法恢復成兵員了。</color><br>確定要進行變換嗎？",
+        null,
+        null,
+        null,
+        null,
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color><br>Do you wish to proceed?",
+        "<size=20>\u001aUnit\u001a(\u001as\u001a)\u001a \u001awill\u001a \u001abe\u001a \u001aconverted\u001a \u001ato\u001a \u001amaterials\u001a.<br><color=255:255:0>\u001aThis\u001a \u001acannot\u001a \u001abe\u001a \u001aundone\u001a.</color><br>\u001aDo\u001a \u001ayou\u001a \u001awish\u001a \u001ato\u001a \u001aproceed\u001a?\u001a"
+    ],
+    "FRAGMENT_CONVERSION_GENERAL_CONFIRM_TXT": [
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color></size>",
+        "<size=20>將兵員變換為素材。<br>確認變換後，<color=255:255:0>就無法恢復成兵員了。</color></size>",
+        null,
+        null,
+        null,
+        null,
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color></size>",
+        "<size=20>\u001aUnit\u001a(\u001as\u001a)\u001a \u001awill\u001a \u001abe\u001a \u001aconverted\u001a \u001ato\u001a \u001amaterials\u001a.<br><color=255:255:0>\u001aThis\u001a \u001acannot\u001a \u001abe\u001a \u001aundone\u001a.</color></size>\u001a"
+    ],
+    "FRAGMENT_CONVERSION_MASTERCARD_CONFIRM_TEXT": [
+        "A unit equipped with a <color=255:255:0>Master's Card</color> has been selected. The <color=255:255:0>Master's Card</color> will be lost upon conversion. *The Master's Card can be removed from the vision card tab on the equipment screen.",
+        "<size=20>已選擇<color=255:255:0>裝備大師卡的兵員</color>。<br>若將其進行變換，<color=255:255:0>將會失去大師卡，</color><br>是否繼續？<br><size=14>※能夠經由道具畫面＞幻兵卡來解除裝備大師卡。</size>",
+        null,
+        null,
+        null,
+        null,
+        "A unit equipped with a <color=255:255:0>Master's Card</color> has been selected. The <color=255:255:0>Master's Card</color> will be lost upon conversion. *The Master's Card can be removed from the vision card tab on the equipment screen.",
+        "A\u001a \u001aunit\u001a \u001aequipped\u001a \u001awith\u001a \u001aa\u001a \u001a<color=255:255:0>\u001aMaster\u001a'\u001as\u001a \u001aCard\u001a</color>\u001a \u001ahas\u001a \u001abeen\u001a \u001aselected\u001a.\u001a \u001aThe\u001a \u001a<color=255:255:0>\u001aMaster\u001a'\u001as\u001a \u001aCard\u001a</color>\u001a \u001awill\u001a \u001abe\u001a \u001alost\u001a \u001aupon\u001a \u001aconversion\u001a.\u001a \u001a*\u001aThe\u001a \u001aMaster\u001a'\u001as\u001a \u001aCard\u001a \u001acan\u001a \u001abe\u001a \u001aremoved\u001a \u001afrom\u001a \u001athe\u001a \u001avision\u001a \u001acard\u001a \u001atab\u001a \u001aon\u001a \u001athe\u001a \u001aequipment\u001a \u001ascreen\u001a.\u001a"
+    ],
+    "FRAGMENT_CONVERSION_NUM_UNITS_SELECTED": [
+        "Units Selected",
+        "所選兵員數量",
+        null,
+        null,
+        null,
+        null,
+        "Units Selected",
+        "Units\u001a \u001aSelected\u001a"
+    ],
+    "FRAGMENT_CONVERSION_REWARD": [
+        "Conversion Rewards",
+        "碎片變換報酬",
+        null,
+        null,
+        null,
+        null,
+        "Conversion Rewards",
+        "Conversion\u001a \u001aRewards\u001a"
+    ],
+    "FRAGMENT_CONVERSION_SHINY_CONFIRM_TXT": [
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color></size><br><size=14>(If the unit to be converted has not obtained its trust master reward, you can obtain a <color=255:255:0>Prism Moogle</color> containing its trust.)",
+        "<size=20>將兵員變換為素材。<br>確認變換後，<color=255:255:0>就無法恢復成兵員了。</color></center><size=14>（如果變換前該兵員尚未獲得信賴度滿點報酬時，將會獲得繼承信賴度滿點報酬的<color=255:255:0>信賴度莫古利（原晶）</color>）",
+        null,
+        null,
+        null,
+        null,
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color></size><br><size=14>(If the unit to be converted has not obtained its trust master reward, you can obtain a <color=255:255:0>Prism Moogle</color> containing its trust.)",
+        "<size=20>\u001aUnit\u001a(\u001as\u001a)\u001a \u001awill\u001a \u001abe\u001a \u001aconverted\u001a \u001ato\u001a \u001amaterials\u001a.<br><color=255:255:0>\u001aThis\u001a \u001acannot\u001a \u001abe\u001a \u001aundone\u001a.</color></size><br><size=14>(\u001aIf\u001a \u001athe\u001a \u001aunit\u001a \u001ato\u001a \u001abe\u001a \u001aconverted\u001a \u001ahas\u001a \u001anot\u001a \u001aobtained\u001a \u001aits\u001a \u001atrust\u001a \u001amaster\u001a \u001areward\u001a,\u001a \u001ayou\u001a \u001acan\u001a \u001aobtain\u001a \u001aa\u001a \u001a<color=255:255:0>\u001aPrism\u001a \u001aMoogle\u001a</color>\u001a \u001acontaining\u001a \u001aits\u001a \u001atrust\u001a.)\u001a"
+    ],
+    "FRAGMENT_CONVERSION_TITLE": [
+        "Bulk Fragment Conversion",
+        "碎片一併變換確認",
+        null,
+        null,
+        null,
+        null,
+        "Bulk Fragment Conversion",
+        "Bulk\u001a \u001aFragment\u001a \u001aConversion\u001a"
+    ],
+    "FRAGMENT_CONVERSION_TRUST_CONFIRM_TXT": [
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color></size><br><size=14>(Trust Mastery and Super Trust Mastery will not me maintained upon conversion.)</size>",
+        "<size=20>將兵員變換為素材。<br>確認變換後，<color=255:255:0>就無法恢復成兵員了。</color></center><size=14>（不會繼承變換前兵員所獲得的信賴度值、超級信賴度值。）</size>",
+        null,
+        null,
+        null,
+        null,
+        "<size=20>Unit(s) will be converted to materials.<br><color=255:255:0>This cannot be undone.</color></size><br><size=14>(Trust Mastery and Super Trust Mastery will not me maintained upon conversion.)</size>",
+        "<size=20>\u001aUnit\u001a(\u001as\u001a)\u001a \u001awill\u001a \u001abe\u001a \u001aconverted\u001a \u001ato\u001a \u001amaterials\u001a.<br><color=255:255:0>\u001aThis\u001a \u001acannot\u001a \u001abe\u001a \u001aundone\u001a.</color></size><br><size=14>(\u001aTrust\u001a \u001aMastery\u001a \u001aand\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMastery\u001a \u001awill\u001a \u001anot\u001a \u001ame\u001a \u001amaintained\u001a \u001aupon\u001a \u001aconversion\u001a.)</size>\u001a"
+    ],
     "FREIND_ID_NOT_FOUND": [
         "Invalid friend ID entered.",
         "好友ID錯誤",
@@ -9261,9 +9401,19 @@
         "Tidak ada summon yang tersedia.",
         "ไม่\u001aมี\u001aซัม\u001aม่อน\u001aใด\u001aเปิด\u001aบริการ\u001aอยู่\u001a"
     ],
+    "GACHA_NVP_UNIT_DETAIL_NOTICE": [
+        "Unit is at Neo Vision+/Max Lvl/Max Limit Burst Lvl/EX +3.",
+        "兵員為Neo Vision+、Lv.MAX、EX覺醒+3、極限技Lv.MAX的狀態。",
+        null,
+        null,
+        null,
+        null,
+        "Unit is at Neo Vision+/Max Lvl/Max Limit Burst Lvl/EX +3.",
+        "Unit\u001a \u001ais\u001a \u001aat\u001a \u001aNeo\u001a \u001aVision\u001a+/\u001aMax\u001a \u001aLvl\u001a/\u001aMax\u001a \u001aLimit\u001a \u001aBurst\u001a \u001aLvl\u001a/\u001aEX\u001a \u001a+\u001a3.\u001a"
+    ],
     "GACHA_NV_UNIT_DETAIL_NOTICE": [
         "Neo Vision is at max level and EX +3, with max level limit burst.",
-        "Neo Vision/Lv.MAX/極限技Lv.MAX/EX覺醒+3的狀態。",
+        "Neo Vision為Lv.MAX、EX覺醒+3、極限技Lv.MAX的狀態。",
         "네오 비전/레벨 최대치/리미트 버스트 레벨 최대치/EX 각성+3 상태입니다.",
         "L'unité Néo-vision est au niveau max. et EX +3, et sa limite est au niveau max.",
         "Neo-Vision ist auf max. Stufe und EX +3, mit Limitrausch auf max. Stufe",
@@ -10550,6 +10700,16 @@
         "Cómo obtener: <param=reward>",
         "Cara untuk Memperoleh: <param=reward>",
         "วิธีการ\u001aรับ\u001aของ\u001a:\u001a \u001a<param=reward>\u001a"
+    ],
+    "HOW_TO_GET": [
+        "How to obtain:",
+        "獲取方式：",
+        null,
+        null,
+        null,
+        null,
+        "How to obtain:",
+        "How\u001a \u001ato\u001a \u001aobtain\u001a:\u001a"
     ],
     "HOW_TO_PLAY": [
         "How to Play",
@@ -12550,6 +12710,16 @@
         "¿Cambiar el nombre de jugador?",
         "Ganti Nama Pemain?",
         "ต้องการ\u001aเปลี่ยน\u001aชื่อ\u001aผู้\u001aเล่น\u001aไหม\u001a?\u001a"
+    ],
+    "MENUPLAYERINFO_COPY_ID": [
+        "Player ID copied to clipboard",
+        "玩家ID已複製至剪貼簿",
+        null,
+        null,
+        null,
+        null,
+        "Player ID copied to clipboard",
+        "Player\u001a \u001aID\u001a \u001acopied\u001a \u001ato\u001a \u001aclipboard\u001a"
     ],
     "MENUPLAYERINFO_RANK": [
         "RANK",
@@ -17341,6 +17511,16 @@
         "Total Monster yang Ditemukan",
         "มอนสเตอร์\u001aที่\u001aบันทึก\u001aทั้งหมด\u001a"
     ],
+    "MST_ARCHIVE_NAME_TOTAL_NV_PLUS_UNIT_CLASS_UP": [
+        "Total NV+ Awakenings Performed",
+        "兵員NV+覺醒次數",
+        null,
+        null,
+        null,
+        null,
+        "Total NV+ Awakenings Performed",
+        "Total\u001a \u001aNV\u001a+\u001a \u001aAwakenings\u001a \u001aPerformed\u001a"
+    ],
     "MST_ARCHIVE_NAME_TOTAL_NV_UNIT_CLASS_UP": [
         "Total EX Awakenings Performed",
         "兵員EX覺醒次數",
@@ -17348,8 +17528,8 @@
         "Total des éveils EX effectués",
         "Durchgeführtes EX-Erwecken",
         "Despertares EX realizados",
-        "Total Kebangkitan EX yang Dilakukan",
-        "จำนวน\u001aครั้ง\u001aที่\u001aปลุก\u001aพลัง\u001a \u001aEX\u001a"
+        "Total EX Awakenings Performed",
+        "Total\u001a \u001aEX\u001a \u001aAwakenings\u001a \u001aPerformed\u001a"
     ],
     "MST_ARCHIVE_NAME_TOTAL_NV_UNIT_GET_CNT": [
         "Total NV Units Obtained",
@@ -25951,6 +26131,26 @@
         "Lihat",
         "ดู\u001a"
     ],
+    "SHINY_FRAGMENT_CONVERSION_REWARD": [
+        "Conversion Rewards",
+        "輝源變換報酬",
+        null,
+        null,
+        null,
+        null,
+        "Conversion Rewards",
+        "Conversion\u001a \u001aRewards\u001a"
+    ],
+    "SHINY_FRAGMENT_CONVERSION_TITLE": [
+        "Bulk Prism Conversion",
+        "輝源一併變換確認",
+        null,
+        null,
+        null,
+        null,
+        "Bulk Prism Conversion",
+        "Bulk\u001a \u001aPrism\u001a \u001aConversion\u001a"
+    ],
     "SHOP": [
         "Shop",
         "商店",
@@ -26022,14 +26222,24 @@
         "โปรด\u001aยืนยัน\u001aอายุ\u001a"
     ],
     "SHOP_AGE_CHECK_TEXT": [
-        "Your monthly spending limit will be determined by your age. Please enter your correct birthdate. <br><br><color=255:0:0>* You will only be able to enter your birthdate once.</color>",
-        "如想購買虛擬貨幣，需要登記出生年月。<br>根據年齡的不同1個月內可購買的金額也會有所不同。<br>請填寫正確的出生年月。<br><br><color=255:0:0>※出生年月登記完畢後將不能更改。</color>",
+        "Registration of year and month of birth required to purchase lapis.<br>There is a fixed limit on monetary transactions per month depending on age.<br>Please enter your correct year and month of birth.",
+        "如需購買寶石，則必須登錄出生年月。<br>會依照年齡限制每月能夠購買的金額。<br>請務必填入正確的出生年月。",
         "가상 화폐를 구입하려면 생년월일을 등록해야 합니다.<br>연령에 따라 1개월 내에 구매할 수 있는 금액이 정해져 있습니다.<br>정확한 생년월일을 등록하십시오.<br><br><color=255:0:0>※한 번 등록한 생년월일은 변경할 수 없습니다.</color>",
         "Votre limite de dépense mensuelle sera déterminée par votre âge. Veuillez entrer votre véritable date de naissance.<br><br><color=255:0:0>Attention : vous ne pourrez entrer votre date de naissance qu'une seule fois.</color>",
         "Deine monatliche Ausgabenbegrenzung wird durch dein Alter festgelegt. Bitte gib ein korrektes Geburtsdatum ein. <br><br><color=255:0:0>* Du kannst dein Geburtsdatum nur einmal eingeben.</color>",
         "La cantidad máxima de dinero que puedes gastar dependerá de tu edad. Escribe tu fecha de nacimiento correcta.<br><br><color=255:0:0>*Solo podrás escribir tu fecha de nacimiento una vez.</color>",
         "Batas pembelian bulananmu akan ditentukan dari tanggal lahirmu. Dimohon untuk memasukkan tanggal lahirmu yang sebenarnya. <br><br><color=255:0:0>* Kamu hanya dapat memasukkan tanggal lahirmu sekali.</color>",
         "โปรด\u001aกรอก\u001aเดือน\u001aและ\u001aปีเกิด\u001aของ\u001aคุณ\u001aให้\u001aถูกต้อง\u001a \u001aอายุ\u001aของ\u001aคุณ\u001aจะ\u001aเป็น\u001aปัจจัย\u001aกำหนด\u001aวงเงิน\u001aที่\u001aคุณ\u001aใช้จ่าย\u001aได้\u001aใน\u001aแต่ละ\u001aเดือน\u001a \u001a<br><br><color=255:0:0>*\u001a \u001aวันเกิด\u001aที่\u001aลงทะเบียน\u001aไป\u001aแล้ว\u001aไม่\u001aสามารถ\u001aเปลี่ยน\u001aได้\u001a</color>\u001a"
+    ],
+    "SHOP_AGE_CHECK_TEXT2": [
+        "<color=255:128:128>*Year and month of birth cannot be changed once registered.</color>",
+        "<color=255:128:128>*出生年月一經登錄就無法再次修改。</color>",
+        null,
+        null,
+        null,
+        null,
+        "<color=255:128:128>*Year and month of birth cannot be changed once registered.</color>",
+        "<color=255:128:128>*\u001aYear\u001a \u001aand\u001a \u001amonth\u001a \u001aof\u001a \u001abirth\u001a \u001acannot\u001a \u001abe\u001a \u001achanged\u001a \u001aonce\u001a \u001aregistered\u001a.</color>\u001a"
     ],
     "SHOP_AGE_CHECK_TITLE": [
         "Confirm Birthdate",
@@ -26050,6 +26260,16 @@
         "¿Confirmar <param=month>/<param=year> como tu mes y año de nacimiento?",
         "Masukkan bulan <param=month> dan tahun <param=year> sebagai bulan dan tahun lahirmu?",
         "คุณ\u001aระบุ\u001aว่า\u001aคุณ\u001aเกิด\u001aเมื่อ\u001a<param=month>/<param=year>\u001a \u001aหรือไม่\u001a?\u001a"
+    ],
+    "SHOP_AGE_CONFIRM_TEXT": [
+        "There is a fixed limit on monetary transactions per month depending on age.<br>Age is calculated on a monthly basis from the month proceeding the month indicated in the registered year and month of birth.<br>Minors require the permission of a legal guardian (parents, etc.) to make purchases.",
+        "會依照年齡限制每月能夠購買的金額。<br>年齡以月為單位計算。實際年齡計算方式以生日當月為基準。<br>未成年人進行購買時需要法定代理人(如雙親等)的同意。",
+        null,
+        null,
+        null,
+        null,
+        "There is a fixed limit on monetary transactions per month depending on age.<br>Age is calculated on a monthly basis from the month proceeding the month indicated in the registered year and month of birth.<br>Minors require the permission of a legal guardian (parents, etc.) to make purchases.",
+        "There\u001a \u001ais\u001a \u001aa\u001a \u001afixed\u001a \u001alimit\u001a \u001aon\u001a \u001amonetary\u001a \u001atransactions\u001a \u001aper\u001a \u001amonth\u001a \u001adepending\u001a \u001aon\u001a \u001aage\u001a.<br>\u001aAge\u001a \u001ais\u001a \u001acalculated\u001a \u001aon\u001a \u001aa\u001a \u001amonthly\u001a \u001abasis\u001a \u001afrom\u001a \u001athe\u001a \u001amonth\u001a \u001aproceeding\u001a \u001athe\u001a \u001amonth\u001a \u001aindicated\u001a \u001ain\u001a \u001athe\u001a \u001aregistered\u001a \u001ayear\u001a \u001aand\u001a \u001amonth\u001a \u001aof\u001a \u001abirth\u001a.<br>\u001aMinors\u001a \u001arequire\u001a \u001athe\u001a \u001apermission\u001a \u001aof\u001a \u001aa\u001a \u001alegal\u001a \u001aguardian\u001a \u001a(\u001aparents\u001a,\u001a \u001aetc\u001a.)\u001a \u001ato\u001a \u001amake\u001a \u001apurchases\u001a.\u001a"
     ],
     "SHOP_AGE_EMPTY_MONTH": [
         "You have not entered your month of birth.",
@@ -26150,6 +26370,16 @@
         "Compra lapis",
         "Lapis yang dibeli:",
         "ซื้อ\u001a \u001aLapis\u001a"
+    ],
+    "SHOP_BUYGIL_SHOP": [
+        "Purchase with gil",
+        "使用GIL購買",
+        null,
+        null,
+        null,
+        null,
+        "Purchase with gil",
+        "Purchase\u001a \u001awith\u001a \u001agil\u001a"
     ],
     "SHOP_BUY_GIL": [
         "You can purchase <param=add> <param=gil>.",
@@ -26771,6 +27001,16 @@
         "Dapatkan bonus poin EX!",
         "รับ\u001a \u001aEX\u001a \u001aPt\u001a.\u001a \u001aโบนัส\u001a!\u001a"
     ],
+    "SHOP_TOP_GILLSHOP_INFO": [
+        "★2 - 6 Awakening materials available for purchase!",
+        "★2～6覺醒素材販售中！",
+        null,
+        null,
+        null,
+        null,
+        "★2 - 6 Awakening materials available for purchase!",
+        "★\u001a2\u001a \u001a-\u001a \u001a6\u001a \u001aAwakening\u001a \u001amaterials\u001a \u001aavailable\u001a \u001afor\u001a \u001apurchase\u001a!\u001a"
+    ],
     "SHOP_TOP_LAPIS_HAVE": [
         "Lapis in Possession",
         "持有寶石",
@@ -26830,6 +27070,16 @@
         "Ninguno",
         "Tidak ada",
         "ไม่\u001aมี\u001a"
+    ],
+    "SLASH": [
+        "/",
+        "/",
+        null,
+        null,
+        null,
+        null,
+        "/",
+        "/\u001a"
     ],
     "SORT_STATUS_TYPE": [
         "Parameter Priority",
@@ -27050,6 +27300,16 @@
         "/",
         "/",
         "/\u001a"
+    ],
+    "SP_CHALLENGE_TOP_TAB_BEGINNER": [
+        "Rookie Quests",
+        "新手任務",
+        null,
+        null,
+        null,
+        null,
+        "Rookie Quests",
+        "Rookie\u001a \u001aQuests\u001a"
     ],
     "SP_CHALLENGE_TOP_TAB_EVENT": [
         "Event",
@@ -28991,6 +29251,16 @@
         "Celebrating 3 years of FFBE by awarding our players Anniversary Follow-Up Tickets based on the player's rank!",
         "Celebrating\u001a \u001a3\u001a \u001ayears\u001a \u001aof\u001a \u001aFFBE\u001a \u001aby\u001a \u001aawarding\u001a \u001aour\u001a \u001aplayers\u001a \u001aAnniversary\u001a \u001aFollow-Up\u001a \u001aTickets\u001a \u001abased\u001a \u001aon\u001a \u001athe\u001a \u001aplayer\u001a'\u001as\u001a \u001arank\u001a!\u001a"
     ],
+    "THREE_DOT_LEADER": [
+        "...",
+        "…",
+        null,
+        null,
+        null,
+        null,
+        "...",
+        "...\u001a"
+    ],
     "TITLE_CONFIRM_APP_EXIT": [
         "Exit the game?",
         "是否要<br>結束應用程式？",
@@ -29963,7 +30233,7 @@
     ],
     "UNIT_BRAVESHIFT_NOT_RELEASE": [
         "Brave Shift is unlocked at <color=255:255:0>EX +1</color>.",
-        "BRAVE SHIFT會在<color=255:255:0>EX覺醒+1</color>時解放。",
+        "BRAVE SHIFT在<color=255:255:0>EX覺醒+1</color>時解放。",
         "브레이브 시프트는 <color=255:255:0>EX 각성+1</color>에서 개방됩니다.",
         "La forme extrême se débloque au niveau <color=255:255:0>EX +1</color>.",
         "Heldenwandel wird ab <color=255:255:0>EX +1</color> freigeschaltet.",
@@ -30231,6 +30501,56 @@
         "perlengkapan",
         "อุปกรณ์\u001a"
     ],
+    "UNIT_DETAIL_EQUIP_COPY_CONF": [
+        "<center>Copy equipment and abilities from before/after brave shift?<br><size=19>*Current equipment will be overwritten.</size></center>",
+        "<center>要複製BRAVE SHIFT前/後的裝備及能力嗎？<br><size=19>※現有的裝備會被覆蓋。</size></center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Copy equipment and abilities from before/after brave shift?<br><size=19>*Current equipment will be overwritten.</size></center>",
+        "<center>\u001aCopy\u001a \u001aequipment\u001a \u001aand\u001a \u001aabilities\u001a \u001afrom\u001a \u001abefore\u001a/\u001aafter\u001a \u001abrave\u001a \u001ashift\u001a?<br><size=19>*\u001aCurrent\u001a \u001aequipment\u001a \u001awill\u001a \u001abe\u001a \u001aoverwritten\u001a.</size></center>\u001a"
+    ],
+    "UNIT_DETAIL_EQUIP_COPY_RESULT_BTN_OK": [
+        "OK",
+        "OK",
+        null,
+        null,
+        null,
+        null,
+        "OK",
+        "OK\u001a"
+    ],
+    "UNIT_DETAIL_EQUIP_COPY_RESULT_DOT": [
+        "-",
+        "・",
+        null,
+        null,
+        null,
+        null,
+        "-",
+        "-\u001a"
+    ],
+    "UNIT_DETAIL_EQUIP_COPY_RESULT_MSG": [
+        "Because the equipment conditions have not been met, the following equipment has been removed.",
+        "由於未滿足裝備條件，已解除下列裝備。",
+        null,
+        null,
+        null,
+        null,
+        "Because the equipment conditions have not been met, the following equipment has been removed.",
+        "Because\u001a \u001athe\u001a \u001aequipment\u001a \u001aconditions\u001a \u001ahave\u001a \u001anot\u001a \u001abeen\u001a \u001amet\u001a,\u001a \u001athe\u001a \u001afollowing\u001a \u001aequipment\u001a \u001ahas\u001a \u001abeen\u001a \u001aremoved\u001a.\u001a"
+    ],
+    "UNIT_DETAIL_EQUIP_COPY_RESULT_TITLE": [
+        "Confirm Equipment",
+        "裝備確認",
+        null,
+        null,
+        null,
+        null,
+        "Confirm Equipment",
+        "Confirm\u001a \u001aEquipment\u001a"
+    ],
     "UNIT_DETAIL_FRIENDLV": [
         "Friend lvl Bonus",
         "好友Lv  BONUS",
@@ -30421,6 +30741,16 @@
         "Tingkatkan parameter dan pelajari ability baru!",
         "เสริม\u001aค่า\u001aสเตตัส\u001aและ\u001aเรียนรู้\u001a \u001aAbility\u001a \u001aใหม่\u001a!\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_BUTTON_DESC_EX_CLASSUP": [
+        "Unlock Brave Shift and obtain vision cards!",
+        "BRAVE SHIFT解放<br>並獲得幻兵卡！",
+        null,
+        null,
+        null,
+        null,
+        "Unlock Brave Shift and obtain vision cards!",
+        "Unlock\u001a \u001aBrave\u001a \u001aShift\u001a \u001aand\u001a \u001aobtain\u001a \u001avision\u001a \u001acards\u001a!\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_BUTTON_DESC_LV_LIMIT_UP": [
         "Make your favorite units even stronger!",
         "強化您最喜愛的兵員們吧！",
@@ -30491,6 +30821,16 @@
         "Bangkitkan Unit",
         "ปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_BUTTON_TITLE_EX_CLASSUP": [
+        "EX Awakening",
+        "進行EX覺醒",
+        null,
+        null,
+        null,
+        null,
+        "EX Awakening",
+        "EX\u001a \u001aAwakening\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_BUTTON_TITLE_LV_LIMIT_REMOVE": [
         "Over-Lvl Reset",
         "EXLv. 解除",
@@ -30530,6 +30870,26 @@
         "Obtener recompensa maestro fiel",
         "Dapatkan Hadiah Trust Master",
         "รับรางวัล\u001a \u001aTrust\u001a \u001aMaster\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_CLASSUP_EXEC_BUTTON_LABEL": [
+        "Awaken",
+        "進行覺醒",
+        null,
+        null,
+        null,
+        null,
+        "Awaken",
+        "Awaken\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_CLASSUP_MATERIAL_LABEL": [
+        "Awakening Materials",
+        "覺醒素材",
+        null,
+        null,
+        null,
+        null,
+        "Awakening Materials",
+        "Awakening\u001a \u001aMaterials\u001a"
     ],
     "UNIT_ENHANCE_CLASSUP_CONFIRM_INSUFF_MATS": [
         "Insufficient awakening materials",
@@ -30601,6 +30961,16 @@
         "Pilih",
         "เลือก\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_EX_CLASSUP_SUBHEADER_TITLE": [
+        "EX Awakening",
+        "EX覺醒",
+        null,
+        null,
+        null,
+        null,
+        "EX Awakening",
+        "EX\u001a \u001aAwakening\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_GET_SUPERTRUSTMASTER_SUBHEADER_TITLE": [
         "Obtain STMR",
         "獲得超級信賴度滿點報酬",
@@ -30651,6 +31021,16 @@
         "Material Kebangkitan",
         "วัตถุดิบ\u001aปลุก\u001aพลัง\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_MATERIAL_UNIQUE_PRISM": [
+        "Unit Prism",
+        "兵員輝源",
+        null,
+        null,
+        null,
+        null,
+        "Unit Prism",
+        "Unit\u001a \u001aPrism\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_MAX_CLASSUP_BUTTON_LABEL": [
         "Awaken to Max",
         "覺醒至MAX",
@@ -30670,6 +31050,56 @@
         "Despertar unidad/Obtener recompensas",
         "Bangkitkan Unit/Dapatkan Hadiah",
         "ปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท/\u001aรับ\u001aของรางวัล\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_POWERUP_EXEC_BUTTON_LABEL": [
+        "Enhance",
+        "強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhance",
+        "Enhance\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_POWERUP_MATERIAL_LABEL": [
+        "Materials",
+        "強化素材",
+        null,
+        null,
+        null,
+        null,
+        "Materials",
+        "Materials\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_EX_CLASSUP_TITLE": [
+        "EX Awakening Reward",
+        "EX覺醒報酬",
+        null,
+        null,
+        null,
+        null,
+        "EX Awakening Reward",
+        "EX\u001a \u001aAwakening\u001a \u001aReward\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_ABILITY": [
+        "Ability Obtained",
+        "獲得能力",
+        null,
+        null,
+        null,
+        null,
+        "Ability Obtained",
+        "Ability\u001a \u001aObtained\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_AWAKENING_ABILITY": [
+        "Awakening Ability Obtained",
+        "獲得覺醒解放能力",
+        null,
+        null,
+        null,
+        null,
+        "Awakening Ability Obtained",
+        "Awakening\u001a \u001aAbility\u001a \u001aObtained\u001a"
     ],
     "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_EMBLEM": [
         "Obtain Emblem",
@@ -30711,6 +31141,36 @@
         "Pelajari Ability EX (EX+3)",
         "เรียนรู้\u001a \u001aAbility\u001a \u001aEX\u001a \u001a(\u001aEX\u001a \u001a+\u001a3\u001a)\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_EX_ABILITY": [
+        "EX Ability Obtained",
+        "獲得EX能力",
+        null,
+        null,
+        null,
+        null,
+        "EX Ability Obtained",
+        "EX\u001a \u001aAbility\u001a \u001aObtained\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_EX_CLASSUP_CONFIRM": [
+        "EX awakening will be performed.",
+        "將進行兵員EX覺醒。<br>是否進行EX覺醒？",
+        null,
+        null,
+        null,
+        null,
+        "EX awakening will be performed.",
+        "EX\u001a \u001aawakening\u001a \u001awill\u001a \u001abe\u001a \u001aperformed\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_EX_CLASSUP_LACK_CONFIRM": [
+        "Insufficient awakening materials",
+        "強化素材不足",
+        null,
+        null,
+        null,
+        null,
+        "Insufficient awakening materials",
+        "Insufficient\u001a \u001aawakening\u001a \u001amaterials\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NV0": [
         "Learn Brave Ability",
         "習得勇氣能力",
@@ -30720,6 +31180,36 @@
         "Aprender habilidad Brave",
         "Pelajari Ability Brave",
         "เรียนรู้\u001a \u001aAbility\u001a \u001aBrave\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NVP_EX_ABILITY": [
+        "EX Ability Unlocked",
+        "EX能力專用欄位 解放",
+        null,
+        null,
+        null,
+        null,
+        "EX Ability Unlocked",
+        "EX\u001a \u001aAbility\u001a \u001aUnlocked\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NVP_LB_LV": [
+        "Max LB Lvl Increased",
+        "LB Lv.上限解放",
+        null,
+        null,
+        null,
+        null,
+        "Max LB Lvl Increased",
+        "Max\u001a \u001aLB\u001a \u001aLvl\u001a \u001aIncreased\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NVP_LV": [
+        "Base Max Lvl Increased",
+        "基礎Lv上限解放",
+        null,
+        null,
+        null,
+        null,
+        "Base Max Lvl Increased",
+        "Base\u001a \u001aMax\u001a \u001aLvl\u001a \u001aIncreased\u001a"
     ],
     "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NVSHIFT_BRAVE": [
         "Unlock Brave Shift",
@@ -30781,6 +31271,26 @@
         "Dapatkan Super Trust Moogle Spesifik Unit",
         "รับ\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMoogle\u001a \u001aเฉพาะ\u001aยู\u001aนิ\u001aท\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_UNIT_CLASSUP_CONFIRM": [
+        "Unit awakening will be performed.<br>Proceed?",
+        "將進行兵員覺醒。<br>是否進行覺醒？",
+        null,
+        null,
+        null,
+        null,
+        "Unit awakening will be performed.<br>Proceed?",
+        "Unit\u001a \u001aawakening\u001a \u001awill\u001a \u001abe\u001a \u001aperformed\u001a.<br>\u001aProceed\u001a?\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_UNIT_CLASSUP_LACK_CONFIRM": [
+        "Insufficient awakening materials",
+        "覺醒素材不足",
+        null,
+        null,
+        null,
+        null,
+        "Insufficient awakening materials",
+        "Insufficient\u001a \u001aawakening\u001a \u001amaterials\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_VISIONCARD": [
         "Obtain Vision Card",
         "獲得幻兵卡",
@@ -30791,6 +31301,16 @@
         "Dapatkan Kartu Vision",
         "รับ\u001aการ์ด\u001a \u001aVision\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_UNIT_CLASSUP_TITLE": [
+        "Unit Awakening Reward",
+        "兵員覺醒報酬",
+        null,
+        null,
+        null,
+        null,
+        "Unit Awakening Reward",
+        "Unit\u001a \u001aAwakening\u001a \u001aReward\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_SUBHEADER_TITLE": [
         "Awaken Unit",
         "覺醒兵員",
@@ -30800,6 +31320,16 @@
         "Despertar unidad",
         "Bangkitkan Unit",
         "ปลุก\u001aพลัง\u001aยู\u001aนิ\u001aท\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_UNIT_CLASSUP_SUBHEADER_TITLE": [
+        "Awaken Unit",
+        "兵員覺醒",
+        null,
+        null,
+        null,
+        null,
+        "Awaken Unit",
+        "Awaken\u001a \u001aUnit\u001a"
     ],
     "UNIT_ENHANCE_COMMON_DICTIONARY_NO": [
         "No.",
@@ -30881,6 +31411,126 @@
         "★7",
         "7\u001a★\u001a"
     ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR2_EX1": [
+        "EX +1",
+        "EX +1",
+        null,
+        null,
+        null,
+        null,
+        "EX +1",
+        "EX\u001a \u001a+\u001a1\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR2_EX2": [
+        "EX +2",
+        "EX +2",
+        null,
+        null,
+        null,
+        null,
+        "EX +2",
+        "EX\u001a \u001a+\u001a2\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR2_EX3": [
+        "EX+3",
+        "EX +3",
+        null,
+        null,
+        null,
+        null,
+        "EX+3",
+        "EX\u001a+\u001a3\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR_EX0": [
+        "EX",
+        "EX",
+        null,
+        null,
+        null,
+        null,
+        "EX",
+        "EX\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR_EX1": [
+        "EX +1",
+        "EX +1",
+        null,
+        null,
+        null,
+        null,
+        "EX +1",
+        "EX\u001a \u001a+\u001a1\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR_EX2": [
+        "EX +2",
+        "EX +2",
+        null,
+        null,
+        null,
+        null,
+        "EX +2",
+        "EX\u001a \u001a+\u001a2\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_ABBR_EX3": [
+        "EX+3",
+        "EX +3",
+        null,
+        null,
+        null,
+        null,
+        "EX+3",
+        "EX\u001a+\u001a3\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_EX0": [
+        "EX",
+        "EX",
+        null,
+        null,
+        null,
+        null,
+        "EX",
+        "EX\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_EX1": [
+        "EX +1",
+        "EX+1",
+        null,
+        null,
+        null,
+        null,
+        "EX +1",
+        "EX\u001a \u001a+\u001a1\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_EX2": [
+        "EX +2",
+        "EX+2",
+        null,
+        null,
+        null,
+        null,
+        "EX +2",
+        "EX\u001a \u001a+\u001a2\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_EX3": [
+        "EX+3",
+        "EX+3",
+        null,
+        null,
+        null,
+        null,
+        "EX+3",
+        "EX\u001a+\u001a3\u001a"
+    ],
+    "UNIT_ENHANCE_COMMON_RARITY_NV": [
+        "NV",
+        "NV",
+        null,
+        null,
+        null,
+        null,
+        "NV",
+        "NV\u001a"
+    ],
     "UNIT_ENHANCE_COMMON_RARITY_NV0": [
         "NV",
         "NV",
@@ -30921,6 +31571,16 @@
         "NV EX +3",
         "NV\u001a \u001aEX\u001a \u001a+\u001a3\u001a"
     ],
+    "UNIT_ENHANCE_COMMON_RARITY_NVP": [
+        "NV+",
+        "NV+",
+        null,
+        null,
+        null,
+        null,
+        "NV+",
+        "NV\u001a+\u001a"
+    ],
     "UNIT_ENHANCE_ENLIGHTENMENT_WINDOW_TITLE": [
         "Enlightenment Points",
         "啟蒙點數",
@@ -30930,6 +31590,476 @@
         "Punto(s) de ilustración",
         "Poin Iluminasi",
         "แต้ม\u001aแห่ง\u001aการ\u001aบรรลุ\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_ADD_STATUS1": [
+        "(+",
+        "（+",
+        null,
+        null,
+        null,
+        null,
+        "(+",
+        "(+\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_ADD_STATUS2": [
+        ")",
+        "）",
+        null,
+        null,
+        null,
+        null,
+        ")",
+        ")\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_ANNOTATION1": [
+        "Trust Mastery and Super Trust Mastery will not me maintained upon conversion.",
+        "不會繼承變換前兵員所獲得的信賴度值、超級信賴度值。",
+        null,
+        null,
+        null,
+        null,
+        "Trust Mastery and Super Trust Mastery will not me maintained upon conversion.",
+        "Trust\u001a \u001aMastery\u001a \u001aand\u001a \u001aSuper\u001a \u001aTrust\u001a \u001aMastery\u001a \u001awill\u001a \u001anot\u001a \u001ame\u001a \u001amaintained\u001a \u001aupon\u001a \u001aconversion\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_ANNOTATION2": [
+        "A unit with <color=255:255:0><param=item_name></color> equipped has been selected. <param=item_name> will be lost upon conversion. *<param=item_name> can be removed by tapping the vision card on the equipment screen.",
+        "包含<color=255:255:0>裝備<param=item_name>的兵員</color>。確認變換後將會遺失<param=item_name>。<br>※能夠經由道具畫面＞幻兵卡來解除<param=item_name>。",
+        null,
+        null,
+        null,
+        null,
+        "A unit with <color=255:255:0><param=item_name></color> equipped has been selected. <param=item_name> will be lost upon conversion. *<param=item_name> can be removed by tapping the vision card on the equipment screen.",
+        "A\u001a \u001aunit\u001a \u001awith\u001a \u001a<color=255:255:0><param=item_name></color>\u001a \u001aequipped\u001a \u001ahas\u001a \u001abeen\u001a \u001aselected\u001a.\u001a \u001a<param=item_name>\u001a \u001awill\u001a \u001abe\u001a \u001alost\u001a \u001aupon\u001a \u001aconversion\u001a.\u001a \u001a*<param=item_name>\u001a \u001acan\u001a \u001abe\u001a \u001aremoved\u001a \u001aby\u001a \u001atapping\u001a \u001athe\u001a \u001avision\u001a \u001acard\u001a \u001aon\u001a \u001athe\u001a \u001aequipment\u001a \u001ascreen\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_ANNOTATION3": [
+        "An <color=255:255:0>over-leveled unit</color> has been selected. <color=255:255:0>The over-leveled unit will be lost</color> upon conversion. *Over-level materials can be regained by fusing with the appropriate unit.",
+        "包含<color=255:255:0>EXLv. UP兵員</color>。確認變換後，<color=255:255:0>將無法歸還使用於EXLv. UP的強化兵員。</color><br>※可以透過專用的解除兵員來歸還使用於EXLv. UP的強化兵員。",
+        null,
+        null,
+        null,
+        null,
+        "An <color=255:255:0>over-leveled unit</color> has been selected. <color=255:255:0>The over-leveled unit will be lost</color> upon conversion. *Over-level materials can be regained by fusing with the appropriate unit.",
+        "An\u001a \u001a<color=255:255:0>\u001aover-leveled\u001a \u001aunit\u001a</color>\u001a \u001ahas\u001a \u001abeen\u001a \u001aselected\u001a.\u001a \u001a<color=255:255:0>\u001aThe\u001a \u001aover-leveled\u001a \u001aunit\u001a \u001awill\u001a \u001abe\u001a \u001alost\u001a</color>\u001a \u001aupon\u001a \u001aconversion\u001a.\u001a \u001a*\u001aOver-level\u001a \u001amaterials\u001a \u001acan\u001a \u001abe\u001a \u001aregained\u001a \u001aby\u001a \u001afusing\u001a \u001awith\u001a \u001athe\u001a \u001aappropriate\u001a \u001aunit\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_ANNOTATION_END": [
+        ")",
+        "）",
+        null,
+        null,
+        null,
+        null,
+        ")",
+        ")\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_ANNOTATION_PERIOD": [
+        ".",
+        "。",
+        null,
+        null,
+        null,
+        null,
+        ".",
+        ".\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_ANNOTATION_START": [
+        "(",
+        "（",
+        null,
+        null,
+        null,
+        null,
+        "(",
+        "(\u001a \u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_CANCEL": [
+        "Cancel",
+        "取消",
+        null,
+        null,
+        null,
+        null,
+        "Cancel",
+        "Cancel\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_MSG1": [
+        "<center>Unit will be converted into a material.<br>After conversion,<color=255:255:0> units cannot be restored.</color></center>",
+        "<center>將兵員變換為素材。<br>確認變換後，<color=255:255:0>就無法恢復成兵員了。</color></center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Unit will be converted into a material.<br>After conversion,<color=255:255:0> units cannot be restored.</color></center>",
+        "<center>\u001aUnit\u001a \u001awill\u001a \u001abe\u001a \u001aconverted\u001a \u001ainto\u001a \u001aa\u001a \u001amaterial\u001a.<br>\u001aAfter\u001a \u001aconversion\u001a,<color=255:255:0>\u001a \u001aunits\u001a \u001acannot\u001a \u001abe\u001a \u001arestored\u001a.</color></center>\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_OK": [
+        "Convert",
+        "變換",
+        null,
+        null,
+        null,
+        null,
+        "Convert",
+        "Convert\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_CONV_TITLE": [
+        "Confirm Unit Conversion",
+        "兵員變換確認",
+        null,
+        null,
+        null,
+        null,
+        "Confirm Unit Conversion",
+        "Confirm\u001a \u001aUnit\u001a \u001aConversion\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_ENHANCE_ABILITY": [
+        "Ability Awakening",
+        "能力強化",
+        null,
+        null,
+        null,
+        null,
+        "Ability Awakening",
+        "Ability\u001a \u001aAwakening\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_ENHANCE_ABILITY_EXPLAIN": [
+        "Awakening level increased.",
+        "覺醒上限值+1",
+        null,
+        null,
+        null,
+        null,
+        "Awakening level increased.",
+        "Awakening\u001a \u001alevel\u001a \u001aincreased\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_EXE": [
+        "Enhancement",
+        "強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhancement",
+        "Enhancement\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_GET_STATUS": [
+        "Parameter Increase",
+        "狀態數值提升",
+        null,
+        null,
+        null,
+        null,
+        "Parameter Increase",
+        "Parameter\u001a \u001aIncrease\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_LEARN_ABILITY": [
+        "Learn Ability",
+        "習得能力",
+        null,
+        null,
+        null,
+        null,
+        "Learn Ability",
+        "Learn\u001a \u001aAbility\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_MATERIAL": [
+        "EX Bonus Material",
+        "EX額外強化素材",
+        null,
+        null,
+        null,
+        null,
+        "EX Bonus Material",
+        "EX\u001a \u001aBonus\u001a \u001aMaterial\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_MP_NONE": [
+        "-",
+        "-",
+        null,
+        null,
+        null,
+        null,
+        "-",
+        "-\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_M_CONF_CANCEL": [
+        "Cancel",
+        "取消",
+        null,
+        null,
+        null,
+        null,
+        "Cancel",
+        "Cancel\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_M_CONF_MSG1": [
+        "Enhancement will be performed the selected number of times.",
+        "依照設定的次數進行一併強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhancement will be performed the selected number of times.",
+        "Enhancement\u001a \u001awill\u001a \u001abe\u001a \u001aperformed\u001a \u001athe\u001a \u001aselected\u001a \u001anumber\u001a \u001aof\u001a \u001atimes\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_M_CONF_MSG2": [
+        "Perform enhancement?",
+        "確定要進行強化嗎？",
+        null,
+        null,
+        null,
+        null,
+        "Perform enhancement?",
+        "Perform\u001a \u001aenhancement\u001a?\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_M_CONF_OK": [
+        "Enhance",
+        "強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhance",
+        "Enhance\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_M_CONF_TITLE": [
+        "Confirm Enhancement",
+        "強化確認",
+        null,
+        null,
+        null,
+        null,
+        "Confirm Enhancement",
+        "Confirm\u001a \u001aEnhancement\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_NOTENOUGH_EXLV": [
+        "EX Level is insufficient.",
+        "EX覺醒值不足。",
+        null,
+        null,
+        null,
+        null,
+        "EX Level is insufficient.",
+        "EX\u001a \u001aLevel\u001a \u001ais\u001a \u001ainsufficient\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_NOTICE_CONVERT": [
+        "Unit has been converted.",
+        "已完成兵員變換",
+        null,
+        null,
+        null,
+        null,
+        "Unit has been converted.",
+        "Unit\u001a \u001ahas\u001a \u001abeen\u001a \u001aconverted\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_NOTICE_EXE": [
+        "Enhancement",
+        "已進行強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhancement",
+        "Enhancement\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_NOTICE_MST_RELEASE": [
+        "EX Bonus has been unlocked.",
+        "EX額外強化解放",
+        null,
+        null,
+        null,
+        null,
+        "EX Bonus has been unlocked.",
+        "EX\u001a \u001aBonus\u001a \u001ahas\u001a \u001abeen\u001a \u001aunlocked\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_NOTICE_MST_STEPUP": [
+        "Step-up has been unlocked.",
+        "STEP解放",
+        null,
+        null,
+        null,
+        null,
+        "Step-up has been unlocked.",
+        "Step-up\u001a \u001ahas\u001a \u001abeen\u001a \u001aunlocked\u001a.\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_ATK": [
+        "ATK",
+        "攻擊",
+        null,
+        null,
+        null,
+        null,
+        "ATK",
+        "ATK\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_DEF": [
+        "DEF",
+        "防禦",
+        null,
+        null,
+        null,
+        null,
+        "DEF",
+        "DEF\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_ENHANCE_ABILITY": [
+        "Enhanced Abilities",
+        "強化的能力",
+        null,
+        null,
+        null,
+        null,
+        "Enhanced Abilities",
+        "Enhanced\u001a \u001aAbilities\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_GET_ABILITY": [
+        "Obtained Abilities",
+        "獲得的能力",
+        null,
+        null,
+        null,
+        null,
+        "Obtained Abilities",
+        "Obtained\u001a \u001aAbilities\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_HP": [
+        "HP",
+        "HP",
+        null,
+        null,
+        null,
+        null,
+        "HP",
+        "HP\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_INTL": [
+        "MAG",
+        "魔力",
+        null,
+        null,
+        null,
+        null,
+        "MAG",
+        "MAG\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_MND": [
+        "SPR",
+        "精神",
+        null,
+        null,
+        null,
+        null,
+        "SPR",
+        "SPR\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_MP": [
+        "MP",
+        "MP",
+        null,
+        null,
+        null,
+        null,
+        "MP",
+        "MP\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_OK": [
+        "OK",
+        "OK",
+        null,
+        null,
+        null,
+        null,
+        "OK",
+        "OK\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_STATUS": [
+        "Parameter Increase",
+        "狀態數值提升",
+        null,
+        null,
+        null,
+        null,
+        "Parameter Increase",
+        "Parameter\u001a \u001aIncrease\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_RESULT_TITLE": [
+        "Bulk Enhancement Result",
+        "一併強化結果",
+        null,
+        null,
+        null,
+        null,
+        "Bulk Enhancement Result",
+        "Bulk\u001a \u001aEnhancement\u001a \u001aResult\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_SLASH": [
+        "/",
+        "/",
+        null,
+        null,
+        null,
+        null,
+        "/",
+        "/\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_SUBHEADER_TITLE": [
+        "EX Bonus",
+        "EX額外強化",
+        null,
+        null,
+        null,
+        null,
+        "EX Bonus",
+        "EX\u001a \u001aBonus\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_S_CONF_CANCEL": [
+        "Cancel",
+        "取消",
+        null,
+        null,
+        null,
+        null,
+        "Cancel",
+        "Cancel\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_S_CONF_MSG": [
+        "Perform enhancement?",
+        "將進行兵員強化。<br>是否進行強化？",
+        null,
+        null,
+        null,
+        null,
+        "Perform enhancement?",
+        "Perform\u001a \u001aenhancement\u001a?\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_S_CONF_OK": [
+        "Enhance",
+        "強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhance",
+        "Enhance\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_S_CONF_TITLE": [
+        "Confirm Enhancement",
+        "強化確認",
+        null,
+        null,
+        null,
+        null,
+        "Confirm Enhancement",
+        "Confirm\u001a \u001aEnhancement\u001a"
+    ],
+    "UNIT_ENHANCE_EXBONUS_TRANCATE_STR": [
+        "...",
+        "…",
+        null,
+        null,
+        null,
+        null,
+        "...",
+        "...\u001a"
     ],
     "UNIT_ENHANCE_MIX_EXLV_REMOVE_DESCRIPTION": [
         "*Over-level units will be returned to the mailbox according to the number of over-levels reverted.<br>However, fixed-unit materials will not be returned, and over-levels will be retained.",
@@ -30962,14 +32092,34 @@
         "รีเซ็ต\u001a"
     ],
     "UNIT_ENHANCE_MIX_EXLV_REMOVE_TITLE": [
-        "Reset Unit to Lvl <param=maxlv>",
-        "將兵員重置為Lv.<param=maxlv>",
+        "Reset Unit's Maximum Level",
+        "將兵員的EXLv.重置為0",
         "유닛 레벨을 <param=maxlv>(으)로 되돌립니다",
         "Réinitialiser unité au niveau <param=maxlv>",
         "Einheit zu St. <param=maxlv> zurücksetzen",
         "Reiniciar unidad a nv. <param=maxlv>",
         "Reset Unit ke Lv. <param=maxlv>",
         "รีเซ็ต\u001aยู\u001aนิ\u001aทก\u001aลับ\u001aสู่\u001a \u001aLv\u001a.\u001a \u001a<param=maxlv>\u001a"
+    ],
+    "UNIT_ENHANCE_MIX_MATERIAL_EXLV_UP": [
+        "Over-level Material",
+        "EXLv. UP素材",
+        null,
+        null,
+        null,
+        null,
+        "Over-level Material",
+        "Over-level\u001a \u001aMaterial\u001a"
+    ],
+    "UNIT_ENHANCE_MIX_MATERIAL_SUPER_TRUST_MASTER": [
+        "Super Trust Master Materials",
+        "超級信賴度滿點素材",
+        null,
+        null,
+        null,
+        null,
+        "Super Trust Master Materials",
+        "Super\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aMaterials\u001a"
     ],
     "UNIT_ENHANCE_MIX_MATERIAL_TITLE": [
         "Usable Materials",
@@ -30980,6 +32130,16 @@
         "Materiales utilizables",
         "Material yang Dapat Digunakan",
         "วัตถุดิบ\u001aที่\u001aใช้ได้\u001a"
+    ],
+    "UNIT_ENHANCE_MIX_MATERIAL_TRUST_MASTER": [
+        "Trust Master Materials",
+        "信賴度滿點素材",
+        null,
+        null,
+        null,
+        null,
+        "Trust Master Materials",
+        "Trust\u001a \u001aMaster\u001a \u001aMaterials\u001a"
     ],
     "UNIT_ENHANCE_MIX_MATERIAL_ZERO": [
         "There are no usable materials.",
@@ -31051,6 +32211,26 @@
         "Konfirmasi Penguatan Sekaligus",
         "ยืนยัน\u001aการ\u001aเสริม\u001aพลัง\u001aกลุ่ม\u001a"
     ],
+    "UNIT_ENHANCE_STATUSUP_ALL_SELECT_UNIQUE_POINT_TEXT1": [
+        "(Fixed unit materials will be consumed firstl)",
+        "(將會優先消耗來自兵員特有的素材。)",
+        null,
+        null,
+        null,
+        null,
+        "(Fixed unit materials will be consumed firstl)",
+        "(\u001aFixed\u001a \u001aunit\u001a \u001amaterials\u001a \u001awill\u001a \u001abe\u001a \u001aconsumed\u001a \u001afirstl\u001a)\u001a"
+    ],
+    "UNIT_ENHANCE_STATUSUP_ALL_SELECT_UNIQUE_POINT_TEXT2": [
+        "Only enhance using fixed unit materials.",
+        "僅使用來自兵員特有素材來強化兵員",
+        null,
+        null,
+        null,
+        null,
+        "Only enhance using fixed unit materials.",
+        "Only\u001a \u001aenhance\u001a \u001ausing\u001a \u001afixed\u001a \u001aunit\u001a \u001amaterials\u001a.\u001a"
+    ],
     "UNIT_ENHANCE_STATUSUP_BUTTON_LABEL": [
         "Enhance",
         "強化",
@@ -31080,6 +32260,16 @@
         "Mejorar ATQ",
         "Tingkatkan ATK",
         "เสริม\u001aพลัง\u001a \u001aATK\u001a"
+    ],
+    "UNIT_ENHANCE_STATUSUP_BUTTON_LABEL_DECIDE": [
+        "Confirm",
+        "確定",
+        null,
+        null,
+        null,
+        null,
+        "Confirm",
+        "Confirm\u001a"
     ],
     "UNIT_ENHANCE_STATUSUP_BUTTON_LABEL_DEF": [
         "Enhance DEF",
@@ -31321,6 +32511,16 @@
         "EXP Saat Ini:",
         "EXP\u001a \u001aที่\u001aมี\u001a:\u001a"
     ],
+    "UNIT_ENHANCE_STATUSUP_POSSESSION_LB_TITLE": [
+        "LB EXP:",
+        "當前熟練度：",
+        null,
+        null,
+        null,
+        null,
+        "LB EXP:",
+        "LB\u001a \u001aEXP\u001a:\u001a"
+    ],
     "UNIT_ENHANCE_STATUSUP_POSSESSION_MATERIAL_TITLE": [
         "Materials:",
         "持有素材：",
@@ -31471,6 +32671,16 @@
         "DEF",
         "DEF\u001a"
     ],
+    "UNIT_ENHANCE_STATUS_WINDOW_EXLV": [
+        "EX Lvl.",
+        "EXLv.",
+        null,
+        null,
+        null,
+        null,
+        "EX Lvl.",
+        "EX\u001a \u001aLvl\u001a.\u001a"
+    ],
     "UNIT_ENHANCE_STATUS_WINDOW_HP": [
         "HP",
         "HP",
@@ -31530,6 +32740,46 @@
         "PM",
         "MP",
         "MP\u001a"
+    ],
+    "UNIT_ENHANCE_TABNAME_ABILITY": [
+        "Ability",
+        "能力",
+        null,
+        null,
+        null,
+        null,
+        "Ability",
+        "Ability\u001a"
+    ],
+    "UNIT_ENHANCE_TABNAME_CLASS_UP": [
+        "Awaken Unit/Obtain",
+        "覺醒/報酬",
+        null,
+        null,
+        null,
+        null,
+        "Awaken Unit/Obtain",
+        "Awaken\u001a \u001aUnit\u001a/\u001aObtain\u001a"
+    ],
+    "UNIT_ENHANCE_TABNAME_EXBONUS": [
+        "EX Bonus",
+        "EX額外強化",
+        null,
+        null,
+        null,
+        null,
+        "EX Bonus",
+        "EX\u001a \u001aBonus\u001a"
+    ],
+    "UNIT_ENHANCE_TABNAME_STATSU_UP": [
+        "Enhancement",
+        "強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhancement",
+        "Enhancement\u001a"
     ],
     "UNIT_ENHANCE_TRANSFORM_POINT_BUTTON": [
         "Convert",
@@ -31991,6 +33241,16 @@
         "Lengkapi unit lain",
         "ใส่\u001aจาก\u001aยู\u001aนิ\u001aทราย\u001aอื่น\u001a"
     ],
+    "UNIT_EX3_SPECIAL_REWARD": [
+        "EX +3 Awakening Reward",
+        "EX+3特別報酬",
+        null,
+        null,
+        null,
+        null,
+        "EX +3 Awakening Reward",
+        "EX\u001a \u001a+\u001a3\u001a \u001aAwakening\u001a \u001aReward\u001a"
+    ],
     "UNIT_EXCHANGE_BALANCE": [
         "Currently held",
         "現在的持有數",
@@ -32243,7 +33503,7 @@
     ],
     "UNIT_MENU_BRAVESHIFT_ERROR_EXLV_SHORTAGE": [
         "Brave Shift unlocked at <color=255:255:0>EX +1</color>.",
-        "<color=255:255:0>EX覺醒+1</color>時BRAVE SHIFT解放。",
+        "BRAVE SHIFT在<color=255:255:0>EX覺醒+1</color>時解放。",
         "브레이브 시프트는 <color=255:255:0>EX 각성+1</color>에서 개방됩니다.",
         "Forme extrême débloquée à <color=255:255:0>EX +1</color>.",
         "Heldenwandel ab <color=255:255:0>EX +1</color>.",
@@ -32272,8 +33532,8 @@
         "<color=183:193:221>\u001aเหลือ\u001aอีก\u001a \u001a<param=braveshift_release_turn>\u001a \u001aเทิร์น</color>\u001a \u001aจนกว่า\u001aบังคับใช้\u001a \u001aBrave\u001a \u001aShift\u001a"
     ],
     "UNIT_MENU_NVX_ERROR_EXLV_SHORTAGE": [
-        "Super Limit Burst unlocked at <color=255:255:0>EX +1</color>.",
-        "<color=255:255:0>EX覺醒+1</color>時解放超級極限技。",
+        "Super Limit Burst unlocked at <color=255:255:0>EX+1</color>.",
+        "超級極限技在<color=255:255:0>EX覺醒+1</color>時解放。",
         "슈퍼 리미트 버스트는 <color=255:255:0>EX 각성+1</color>에서 개방됩니다.",
         "Super limite déblocable à <color=255:255:0>EX +1</color>.",
         "Super-Limitrausch wird freigeschaltet auf <color=255:255:0>EX +1</color>.",
@@ -33043,13 +34303,23 @@
     ],
     "UNIT_SKILL_NG_EX_LV": [
         "Acquired at EX +<param=ex_lv>.",
-        "EX覺醒+<param=ex_lv>可習得",
+        "EX覺醒+<param=ex_lv>時解鎖",
         "EX 각성+<param=ex_lv>에서 개방",
         "Disponible à EX +<param=ex_lv>.",
         "Erhalten mit EX +<param=ex_lv>.",
         "Se consigue con EX +<param=ex_lv>.",
         "Didapatkan pada EX +<param=ex_lv>.",
         "ได้รับ\u001aเมื่อ\u001aปลุก\u001aพลัง\u001aถึง\u001a \u001aEX\u001a+<param=ex_lv>\u001a"
+    ],
+    "UNIT_SKILL_NG_NVP": [
+        "Unlocked upon NV+ Awakening",
+        "NV+覺醒時解放",
+        null,
+        null,
+        null,
+        null,
+        "Unlocked upon NV+ Awakening",
+        "Unlocked\u001a \u001aupon\u001a \u001aNV\u001a+\u001a \u001aAwakening\u001a"
     ],
     "UNIT_SKILL_SWITCH_INVALID": [
         "Unlocked when conditions are met",
@@ -33381,6 +34651,16 @@
         "DEF",
         "DEF\u001a"
     ],
+    "UNIT_SORT_TYPE_EXLV": [
+        "EX Lvl",
+        "EXLv.",
+        null,
+        null,
+        null,
+        null,
+        "EX Lvl",
+        "EX\u001a \u001aLvl\u001a"
+    ],
     "UNIT_SORT_TYPE_EXPD_BONUS": [
         "Success rate",
         "成功率",
@@ -33601,6 +34881,46 @@
         "Tipe Unit",
         "ประเภท\u001aยู\u001aนิ\u001aท\u001a"
     ],
+    "UNIT_STATUS_DETAIL_EQUIP": [
+        "Equipment",
+        "裝備",
+        null,
+        null,
+        null,
+        null,
+        "Equipment",
+        "Equipment\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_EQUIP_BEAST": [
+        "Espers",
+        "幻獸",
+        null,
+        null,
+        null,
+        null,
+        "Espers",
+        "Espers\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_EQUIP_FRIEND": [
+        "<center>Friend Level<br>Bonus</center>",
+        "<center>好友Lv<br>獎勵</center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Friend Level<br>Bonus</center>",
+        "<center>\u001aFriend\u001a \u001aLevel\u001a<br>\u001aBonus\u001a</center>\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_EQUIP_ONE": [
+        "<center>Equipment Multiplier<br>1 Weapon</center>",
+        "<center>裝備倍率<br>1個武器</center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Equipment Multiplier<br>1 Weapon</center>",
+        "<center>\u001aEquipment\u001a \u001aMultiplier\u001a<br>\u001a1\u001a \u001aWeapon\u001a</center>\u001a"
+    ],
     "UNIT_STATUS_DETAIL_EQUIP_TITLE": [
         "Equipment",
         "裝備",
@@ -33611,6 +34931,156 @@
         "Perlengkapan",
         "อุปกรณ์\u001a"
     ],
+    "UNIT_STATUS_DETAIL_EQUIP_TWO": [
+        "<center>Equipment Multiplier<br>2 Weapons</center>",
+        "<center>裝備倍率<br>2個武器</center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Equipment Multiplier<br>2 Weapons</center>",
+        "<center>\u001aEquipment\u001a \u001aMultiplier\u001a<br>\u001a2\u001a \u001aWeapons\u001a</center>\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_PER": [
+        "%",
+        "%",
+        null,
+        null,
+        null,
+        null,
+        "%",
+        "%"
+    ],
+    "UNIT_STATUS_DETAIL_PLUS": [
+        "+",
+        "+",
+        null,
+        null,
+        null,
+        null,
+        "+",
+        "+\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_RETURN": [
+        "Back",
+        "返回",
+        null,
+        null,
+        null,
+        null,
+        "Back",
+        "Back\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_SLASH": [
+        "/",
+        "/",
+        null,
+        null,
+        null,
+        null,
+        "/",
+        "/\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_ABILITY": [
+        "Ability Multiplier",
+        "能力倍率",
+        null,
+        null,
+        null,
+        null,
+        "Ability Multiplier",
+        "Ability\u001a \u001aMultiplier\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_BASE": [
+        "<center>Base<br>(Excluding Overlvl)</center>",
+        "<center>基礎<br>(包含EXLv)</center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Base<br>(Excluding Overlvl)</center>",
+        "<center>\u001aBase\u001a<br>(\u001aExcluding\u001a \u001aOverlvl\u001a)</center>\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_EXBONUS": [
+        "<center>EX<br>Bonus</center>",
+        "<center>EX<br>額外強化</center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>EX<br>Bonus</center>",
+        "<center>\u001aEX\u001a<br>\u001aBonus\u001a</center>\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_EXT": [
+        "Stat Boost",
+        "極限突破",
+        null,
+        null,
+        null,
+        null,
+        "Stat Boost",
+        "Stat\u001a \u001aBoost\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_NAME_ATK": [
+        "ATK",
+        "攻擊",
+        null,
+        null,
+        null,
+        null,
+        "ATK",
+        "ATK\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_NAME_DEF": [
+        "DEF",
+        "防禦",
+        null,
+        null,
+        null,
+        null,
+        "DEF",
+        "DEF\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_NAME_HP": [
+        "HP",
+        "HP",
+        null,
+        null,
+        null,
+        null,
+        "HP",
+        "HP\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_NAME_INTL": [
+        "MAG",
+        "魔力",
+        null,
+        null,
+        null,
+        null,
+        "MAG",
+        "MAG\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_NAME_MND": [
+        "SPR",
+        "精神",
+        null,
+        null,
+        null,
+        null,
+        "SPR",
+        "SPR\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_NAME_MP": [
+        "MP",
+        "MP",
+        null,
+        null,
+        null,
+        null,
+        "MP",
+        "MP\u001a"
+    ],
     "UNIT_STATUS_DETAIL_STATUS_TITLE": [
         "Status",
         "狀態數值",
@@ -33620,6 +35090,146 @@
         "Parámetros",
         "Status",
         "ค่า\u001aสเตตัส\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_TITLE_NEW": [
+        "Unit Details",
+        "兵員詳情",
+        null,
+        null,
+        null,
+        null,
+        "Unit Details",
+        "Unit\u001a \u001aDetails\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_STATUS_VC": [
+        "<center>Vision<br>Card</center>",
+        "<center>幻兵<br>卡</center>",
+        null,
+        null,
+        null,
+        null,
+        "<center>Vision<br>Card</center>",
+        "<center>\u001aVision\u001a<br>\u001aCard\u001a</center>\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_AQUA": [
+        "Aquatic",
+        "水生系",
+        null,
+        null,
+        null,
+        null,
+        "Aquatic",
+        "Aquatic\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_BEAST": [
+        "Beast",
+        "獸系",
+        null,
+        null,
+        null,
+        null,
+        "Beast",
+        "Beast\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_BIRD": [
+        "Avian",
+        "鳥系",
+        null,
+        null,
+        null,
+        null,
+        "Avian",
+        "Avian\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_DEMON": [
+        "Demon",
+        "惡魔系",
+        null,
+        null,
+        null,
+        null,
+        "Demon",
+        "Demon\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_DRAGON": [
+        "Dragon",
+        "龍系",
+        null,
+        null,
+        null,
+        null,
+        "Dragon",
+        "Dragon\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_GHOST": [
+        "Reaper",
+        "死靈系",
+        null,
+        null,
+        null,
+        null,
+        "Reaper",
+        "Reaper\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_HUMAN": [
+        "Human",
+        "人系",
+        null,
+        null,
+        null,
+        null,
+        "Human",
+        "Human\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_INSECT": [
+        "Insect",
+        "蟲系",
+        null,
+        null,
+        null,
+        null,
+        "Insect",
+        "Insect\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_MACHINE": [
+        "Machina",
+        "機械系",
+        null,
+        null,
+        null,
+        null,
+        "Machina",
+        "Machina\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_PLANT": [
+        "Plant",
+        "植物系",
+        null,
+        null,
+        null,
+        null,
+        "Plant",
+        "Plant\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_SPRIT": [
+        "Fairy",
+        "精靈系",
+        null,
+        null,
+        null,
+        null,
+        "Fairy",
+        "Fairy\u001a"
+    ],
+    "UNIT_STATUS_DETAIL_TRIBE_STONE": [
+        "Stone",
+        "岩石系",
+        null,
+        null,
+        null,
+        null,
+        "Stone",
+        "Stone\u001a"
     ],
     "UNIT_STATUS_DETAIL_TRIBE_SUB_TITLE": [
         "(Phys/Mag/Boost)",
@@ -33640,6 +35250,16 @@
         "Aumentos de daño contra tipo de enemigo",
         "Peningkatan Damage terhadap Jenis  Musuh",
         "ค่า\u001aความเสียหาย\u001aที่\u001aเพิ่ม\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aที่\u001aกำหนด\u001a"
+    ],
+    "UNIT_SUPER_TRUST_MASTER_REWARD": [
+        "Super Trust Master Reward",
+        "超級信賴度滿點報酬",
+        null,
+        null,
+        null,
+        null,
+        "Super Trust Master Reward",
+        "Super\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aReward\u001a"
     ],
     "UNIT_TOP": [
         "Manage Party",
@@ -33680,6 +35300,16 @@
         "Fusión por lotes",
         "Gabungkan Sekaligus",
         "รวม\u001aร่าง\u001aกลุ่ม\u001a"
+    ],
+    "UNIT_TRUST_MASTER_REWARD": [
+        "Trust Master Reward",
+        "信賴度滿點報酬",
+        null,
+        null,
+        null,
+        null,
+        "Trust Master Reward",
+        "Trust\u001a \u001aMaster\u001a \u001aReward\u001a"
     ],
     "UNTIL": [
         "Until: <param=month>/<param=day>/<param=year> <param=hour>:<param=minute>",
@@ -34240,6 +35870,46 @@
         "Mostrar",
         "Pajang",
         "จัดแสดง\u001a"
+    ],
+    "VISION_CARD_DETAIL_DECO_BTN_TEXT": [
+        "Display",
+        "裝飾於首頁",
+        null,
+        null,
+        null,
+        null,
+        "Display",
+        "Display\u001a"
+    ],
+    "VISION_CARD_DETAIL_EQUIP_BTN_TEXT": [
+        "Equip",
+        "裝備",
+        null,
+        null,
+        null,
+        null,
+        "Equip",
+        "Equip\u001a"
+    ],
+    "VISION_CARD_DETAIL_POWER_UP_BTN_TEXT": [
+        "Enhance",
+        "強化",
+        null,
+        null,
+        null,
+        null,
+        "Enhance",
+        "Enhance\u001a"
+    ],
+    "VISION_CARD_DETAIL_UNDECO_BTN_TEXT": [
+        "Remove from Display",
+        "從首頁卸除",
+        null,
+        null,
+        null,
+        null,
+        "Remove from Display",
+        "Remove\u001a \u001afrom\u001a \u001aDisplay\u001a"
     ],
     "VISION_CARD_EQUIP_BTN": [
         "Equip",
