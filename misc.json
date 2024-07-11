@@ -139,6 +139,26 @@
         "Pemberian Hadiah Kunci Perayaan Tujuh Keberuntungan",
         "แจก\u001aกุญแจ\u001aฉลอง\u001aครบรอบ\u001a \u001a7\u001a \u001aปี\u001a"
     ],
+    "2024_TOTAL_LOGIN_TICKET_MESSAGE": [
+        "Thank you for the love and support throughout the years!",
+        "感謝各位多年來的喜愛與支持！",
+        "수년간 보내주신 사랑과 성원에 감사드립니다!",
+        "Merci pour votre passion et votre soutien continus chaque année !",
+        "Danke für eure Begeisterung und eure Treue über all die Jahre!",
+        "¡Gracias por vuestro apoyo incondicional a lo largo de los años!",
+        "Terima kasih atas bantuan dan dukungannya selama ini!",
+        "ขอ\u001aขอบคุณ\u001aที่\u001aคอย\u001aสนับสนุน\u001aเกม\u001aมา\u001aตลอด\u001aหลาย\u001aปี\u001aที่ผ่านมา\u001a!\u001a"
+    ],
+    "2024_TOTAL_LOGIN_TICKET_TITLE": [
+        "Player Appreciation Ticket Summon Campaign",
+        "玩家感謝召喚券召喚活動",
+        "플레이어 감사 티켓 소환 캠페인",
+        "Campagne d'invocation à ticket de remerciements des joueurs",
+        "Treuebelohnungskartenbeschwörung-Kampagne",
+        "Campaña de invocación de tícket de agradecimiento al jugador",
+        "Kampanye Summon Tiket Apresiasi Pemain",
+        "แคมเปญ\u001aซัม\u001aม่อน\u001aตั๋ว\u001aขอบคุณ\u001aผู้\u001aเล่น\u001a"
+    ],
     "ABILITY": [
         "Ability",
         "能力",
@@ -479,6 +499,16 @@
         "or",
         "\u001aor\u001a \u001a"
     ],
+    "ABILITY_DETAIL_OVER_DRIVE": [
+        "Overdrive",
+        "超頻驅動",
+        null,
+        null,
+        null,
+        null,
+        "Overdrive",
+        "Overdrive\u001a"
+    ],
     "ABILITY_DETAIL_RANGE_ALL": [
         "all",
         "全體",
@@ -618,6 +648,16 @@
         "[MAGIA]",
         "[MAGIC]<blank>",
         "[\u001aพลัง\u001aเวทย์\u001a]<blank>\u001a"
+    ],
+    "ABILITY_DETAIL_SKILL_CATEGORY_OD": [
+        "[OD]",
+        "[OD]",
+        null,
+        null,
+        null,
+        null,
+        "[OD]",
+        "[\u001aOD\u001a]\u001a"
     ],
     "ABILITY_DETAIL_SKILL_CATEGORY_PASSIVE": [
         "[Passive Ability]<blank>",
@@ -789,6 +829,16 @@
         "Satu musuh/teman",
         "ศัตรู\u001a/\u001aสมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
     ],
+    "ABILITY_DETAIL_TARGET_CATEGORY": [
+        "Target Category",
+        "特定類別",
+        null,
+        null,
+        null,
+        null,
+        "Target Category",
+        "Target\u001a \u001aCategory\u001a"
+    ],
     "ABILITY_DETAIL_TARGET_MY_PARTY": [
         "Ally",
         "隊員",
@@ -868,6 +918,16 @@
         "Un aliado",
         "Satu teman",
         "สมาชิก\u001aใน\u001aทีม\u001a \u001a1\u001a \u001aราย\u001a"
+    ],
+    "ABILITY_DETAIL_TARGET_NVP_UNIT": [
+        "*Applicable to NV+ units",
+        "※以NV+兵員為目標",
+        null,
+        null,
+        null,
+        null,
+        "*Applicable to NV+ units",
+        "*\u001aApplicable\u001a \u001ato\u001a \u001aNV\u001a+\u001a \u001aunits\u001a"
     ],
     "ABILITY_DETAIL_TARGET_OTHER_PARTY": [
         "Enemy",
@@ -2342,22 +2402,22 @@
     "BATTLE_TEXT_BRAVE_SHIFT_LIMIT_COOL_TIME": [
         "Activation in <color=255:255:0><param=slb_ct></color> turn(s)",
         "可發動回合：<color=255:255:0><param=slb_ct></color>回合",
-        "발동 가능 턴: <color=255:255:0><param=slb_ct></color>턴",
-        "Activation dans <color=255:255:0><param=slb_ct></color> tour(s)",
-        "Aktiviert in <color=255:255:0><param=slb_ct></color> Runde(n)",
-        "Se activa en <color=255:255:0><param=slb_ct></color> turno(s)",
-        "Aktif dalam <color=255:255:0><param=slb_ct></color> giliran",
-        "ใช้งาน\u001aใน\u001a \u001a<color=255:255:0><param=slb_ct></color>\u001a \u001aเทิร์น\u001a"
+        null,
+        null,
+        null,
+        null,
+        "Activation in <color=255:255:0><param=slb_ct></color> turn(s)",
+        "Activation\u001a \u001ain\u001a \u001a<color=255:255:0><param=slb_ct></color>\u001a \u001aturn\u001a(\u001as\u001a)\u001a"
     ],
     "BATTLE_TEXT_BRAVE_SHIFT_LIMIT_COOL_TIME2": [
         "Activation in <color=255:255:0><param=slb_ct></color> turn(s) after Super Limit Burst",
         "可發動回合：超級極限技使用後<color=255:255:0><param=slb_ct></color>回合",
-        "발동 가능 턴: SLB 사용 후 <color=255:255:0><param=slb_ct></color>턴",
-        "Activation dans <color=255:255:0><param=slb_ct></color> tour(s) après utilisation de la Super limite",
-        "Aktiviert in <color=255:255:0><param=slb_ct></color> Runde(n) nach Super-Limitrausch",
-        "Se activa en <color=255:255:0><param=slb_ct></color> turno(s) tras el Superestallido Límite",
-        "Aktif dalam <color=255:255:0><param=slb_ct></color> giliran setelah Super Limit Burst",
-        "ใช้งาน\u001aใน\u001a \u001a<color=255:255:0><param=slb_ct></color>\u001a \u001aเทิร์น\u001aหลังจาก\u001a \u001aSuper\u001a \u001aLimit\u001a \u001aBurst\u001a"
+        null,
+        null,
+        null,
+        null,
+        "Activation in <color=255:255:0><param=slb_ct></color> turn(s) after Super Limit Burst",
+        "Activation\u001a \u001ain\u001a \u001a<color=255:255:0><param=slb_ct></color>\u001a \u001aturn\u001a(\u001as\u001a)\u001a \u001aafter\u001a \u001aSuper\u001a \u001aLimit\u001a \u001aBurst\u001a"
     ],
     "BATTLE_TEXT_BRAVE_SHIFT_NOW_MANUAL_RELEASE": [
         "Brave Shift deactivation available in <color=255:255:0><param=shift_turn></color> turns",
@@ -3588,6 +3648,16 @@
         "Coliseo",
         "Koloseum",
         "โคล\u001aอสเซียม\u001a"
+    ],
+    "COLON": [
+        ":",
+        "：",
+        null,
+        null,
+        null,
+        null,
+        ":",
+        ":\u001a \u001a"
     ],
     "COLOSSEUM_VS_CPU_END_TEXT": [
         "This class ends Colosseum battles.<br>* This screen will not be visible to users. <br>Yes = Victory, No = Defeat",
@@ -5810,6 +5880,26 @@
         "Vacío",
         "Kosong",
         "ว่างเปล่า\u001a"
+    ],
+    "EQUIP_ITEM_LIMIT_OWNER_EQUIP": [
+        "Equipped:",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Equipped:",
+        "Equipped\u001a:\u001a"
+    ],
+    "EQUIP_ITEM_LIMIT_OWNER_UNIT_EQUIP": [
+        "Equipped to unit_name:<blank>",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Equipped to unit_name:<blank>",
+        "Equipped\u001a \u001ato\u001a \u001aunit_name\u001a:<blank>\u001a"
     ],
     "EQUIP_ITEM_SKILL_LIMIT_OWNER_FORMAT": [
         "Equipped to unit_name:<blank>",
@@ -10321,6 +10411,16 @@
         "Gagal masuk ke Google.",
         "การ\u001aลงชื่อ\u001aเข้า\u001aใช้\u001a \u001aGoogle\u001a \u001aล้มเหลว\u001a"
     ],
+    "GROWING": [
+        "Awakenable",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Awakenable",
+        "Awakenable\u001a"
+    ],
     "General_Popup_Guide_Event": [
         "Events",
         "活動",
@@ -11461,6 +11561,16 @@
         "*Lapis akan segera digunakan.<br>*Efek akan segera diperoleh.<br>*Transaksi tidak dapat dibatalkan.",
         "*\u001aLapis\u001a \u001aจะ\u001aถูก\u001aใช้\u001aโดยทันที\u001a<br>*\u001aจะ\u001aส่งผล\u001aทันที\u001a<br>*\u001aไม่\u001aสามารถ\u001aยกเลิก\u001aการ\u001aดำเนินการ\u001aได้\u001a"
     ],
+    "LATER": [
+        "remaining",
+        "還有",
+        null,
+        null,
+        null,
+        null,
+        "remaining",
+        "remaining\u001a"
+    ],
     "LB_EXP_OBTAINED_MESSAGE": [
         "LB EXP Obtained",
         "已獲得極限技經驗值",
@@ -11670,6 +11780,16 @@
         "Magia",
         "Magic",
         "ใช้\u001aพลัง\u001aเวทย์\u001a"
+    ],
+    "LIBRARY_UNIT_ANIME_OVER_DRIVE": [
+        "OD",
+        "OD",
+        null,
+        null,
+        null,
+        null,
+        "OD",
+        "OD\u001a"
     ],
     "LIBRARY_UNIT_ANIME_PLAYING": [
         "Play",
@@ -13592,14 +13712,14 @@
         "ยู\u001aนิ\u001aท\u001aระดับ\u001a<color=255:0:0><param=rare>\u001a \u001a★</color>\u001a \u001aและ\u001aยู\u001aนิ\u001aท\u001aที่\u001aสามารถ\u001aปลุก\u001aพลัง\u001aเป็น\u001aระดับ\u001a \u001a<color=255:0:0><param=rare>★\u001a \u001a</color>\u001a \u001aนั้น\u001aจะ\u001aได้รับ\u001a \u001aAuto\u001a \u001aProtect\u001aเมื่อ\u001aผู้\u001aเล่น\u001aได้รับ\u001aยู\u001aนิ\u001aท<br>*\u001a \u001aคุณ\u001aสามารถ\u001aการ\u001a \u001aAuto\u001a \u001aProtect\u001a \u001aยู\u001aนิ\u001aท\u001aเมื่อไร\u001aก็ได้\u001a \u001aด้วย\u001aการ\u001aเข้าไป\u001aที่\u001aหน้าจอ\u001aข้อมูล\u001aยู\u001aนิ\u001aท<br><br>\u001aคุณ\u001aต้องการ\u001aตั้งค่า\u001a \u001aAuto\u001a \u001aProtect\u001a \u001aยู\u001aนิ\u001aท\u001aหรือไม่\u001a?\u001a"
     ],
     "MENUSETTING_UNITPROTECT_DETAIL_01": [
-        "Protection settings depending on rarity can be set for when a<color=255:0:0> unit is received</color>.<br>* <color=255:0:0>Enhancer</color> and <color=255:0:0>for sale</color> units are not included.",
-        "可以變更<color=255:255:0>獲得兵員時</color>的稀有度保護設定。<br>※<color=255:255:0>合成</color>和<color=255:255:0>販售專用兵員</color><br>不在保護設定範圍內。",
-        "<color=255:255:0>유닛 획득 시</color> 레어도에 따라 보호 설정을 변경할 수 있습니다.<br>※<color=255:255:0>합성</color>이나 <color=255:255:0>판매 전용 유닛</color>은 보호 설정에<br>포함되지 않습니다.",
-        "La protection des unités en fonction de leur rareté peut être activée au moment de <color=255:0:0>l'obtention de l'unité</color>.<br>* Les <color=255:0:0>unités de soutien</color> et celles <color=255:0:0>en promotion</color> ne sont pas incluses.",
-        "Von der Seltenheit abhängige Schutzeinstellungen können bei<color=255:0:0> Empfang der Einheit</color> festgelegt werden.<br>* <color=255:0:0>Verstärker</color> und <color=255:0:0>Einheiten im Angebot</color> sind nicht enthalten.",
-        "Puedes seleccionar las unidades que quieres proteger según su rareza <color=255:0:0>al recibirlas</color>.<br>*No se incluyen las unidades <color=255:0:0>en venta</color> y de <color=255:0:0>mejora</color>.",
-        "Kamu dapat memasang pengaman berdasarkan tingkat kelangkaan ketika <color=255:0:0> unit diterima</color>.<br>* Tidak termasuk unit <color=255:0:0>penguat</color> dan unit <color=255:0:0>untuk dijual</color>.",
-        "คุณ\u001aสามารถ\u001aตั้งค่า\u001a \u001aAuto\u001a \u001aProtect\u001a \u001aให้\u001aกับ\u001aยู\u001aนิ\u001aท\u001aตาม\u001aระดับ\u001aความ\u001a \u001aRare\u001a \u001aได้\u001aเมื่อ\u001a<color=255:0:0>\u001a \u001aคุณ\u001aได้รับ\u001aยู\u001aนิ\u001aท\u001aนั้น\u001a</color>.<br>*\u001aทั้งนี้\u001a \u001a<color=255:0:0>\u001aยู\u001aนิ\u001aท\u001aเสริม\u001aพลัง\u001a</color>\u001a \u001aและ\u001a \u001a<color=255:0:0>\u001aยู\u001aนิ\u001aท\u001aสำหรับ\u001aขาย\u001a</color>\u001a \u001aจะ\u001aไม่\u001aสามารถ\u001aทำการ\u001aตั้งค่า\u001aใน\u001aส่วน\u001aนี้\u001aได้\u001a"
+        "Protection settings can be set for when a<color=255:0:0> unit is obtained via summon, mail, or exchange.</color>.<br>* <color=255:0:0>Enhancer</color> and <color=255:0:0>for sale</color> units are not included.",
+        "可以變更從<color=255:255:0>召喚、收信箱、交換</color>中獲得兵員時的保護設定。<br>※<color=255:255:0>合成</color>和<color=255:255:0>販售專用兵員</color><br>不在保護設定範圍內。",
+        null,
+        null,
+        null,
+        null,
+        "Protection settings can be set for when a<color=255:0:0> unit is obtained via summon, mail, or exchange.</color>.<br>* <color=255:0:0>Enhancer</color> and <color=255:0:0>for sale</color> units are not included.",
+        "Protection\u001a \u001asettings\u001a \u001acan\u001a \u001abe\u001a \u001aset\u001a \u001afor\u001a \u001awhen\u001a \u001aa\u001a<color=255:0:0>\u001a \u001aunit\u001a \u001ais\u001a \u001aobtained\u001a \u001avia\u001a \u001asummon\u001a,\u001a \u001amail\u001a,\u001a \u001aor\u001a \u001aexchange\u001a.</color>.<br>*\u001a \u001a<color=255:0:0>\u001aEnhancer\u001a</color>\u001a \u001aand\u001a \u001a<color=255:0:0>\u001afor\u001a \u001asale\u001a</color>\u001a \u001aunits\u001a \u001aare\u001a \u001anot\u001a \u001aincluded\u001a.\u001a"
     ],
     "MENUSETTING_UNITPROTECT_DETAIL_02": [
         "Unit reception Protection (multi-select)",
@@ -20131,6 +20251,286 @@
         "Penggunaan unit unik:",
         "ยู\u001aนิ\u001aท\u001aเฉพาะที่\u001aได้\u001aใช้\u001aไป\u001a:\u001a"
     ],
+    "OD_BUFF_LIST_COUNT": [
+        "Actions until activation: <color=255:240:0><param=od_count></color> remaining",
+        "離能夠發動超頻驅動還有：<color=255:240:0><param=od_count></color>次",
+        null,
+        null,
+        null,
+        null,
+        "Actions until activation: <color=255:240:0><param=od_count></color> remaining",
+        "Actions\u001a \u001auntil\u001a \u001aactivation\u001a:\u001a \u001a<color=255:240:0><param=od_count></color>\u001a \u001aremaining\u001a"
+    ],
+    "OD_BUFF_LIST_LIMIT_OVER": [
+        "<color=255:0:0>Not counting actions</color>: Activation limited reached",
+        "<color=255:0:0>無法進行計數</color>：超過發動次數限制",
+        null,
+        null,
+        null,
+        null,
+        "<color=255:0:0>Not counting actions</color>: Activation limited reached",
+        "<color=255:0:0>\u001aNot\u001a \u001acounting\u001a \u001aactions\u001a</color>:\u001a \u001aActivation\u001a \u001alimited\u001a \u001areached\u001a"
+    ],
+    "OD_BUFF_LIST_USABLE": [
+        "Overdrive available: (<color=255:240:0><param=od_count></color> action(s))",
+        "可發動超頻驅動：(<color=255:240:0><param=od_count></color>次)",
+        null,
+        null,
+        null,
+        null,
+        "Overdrive available: (<color=255:240:0><param=od_count></color> action(s))",
+        "Overdrive\u001a \u001aavailable\u001a:\u001a \u001a(<color=255:240:0><param=od_count></color>\u001a \u001aaction\u001a(\u001as\u001a))\u001a"
+    ],
+    "OD_BUFF_LIST_USED": [
+        "<color=255:165:0>Restarting action count in</color>: One turn",
+        "<color=255:165:0>重新開始計數條件</color>：下回合",
+        null,
+        null,
+        null,
+        null,
+        "<color=255:165:0>Restarting action count in</color>: One turn",
+        "<color=255:165:0>\u001aRestarting\u001a \u001aaction\u001a \u001acount\u001a \u001ain\u001a</color>:\u001a \u001aOne\u001a \u001aturn\u001a"
+    ],
+    "OD_EXPLAIN_LONG_ANNOTAION": [
+        "<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>",
+        "<size=20><color=255:255:0>*\u001aOverdrive\u001a \u001aeffects\u001a \u001astack\u001a \u001awith\u001a \u001athose\u001a \u001aof\u001a \u001aother\u001a \u001aabilities\u001a.</color><br><color=195:195:195>*\u001aEffects\u001a \u001aonly\u001a \u001aapply\u001a \u001ato\u001a \u001aunits\u001a \u001aof\u001a \u001athe\u001a \u001aspecified\u001a \u001acategory\u001a.<br>*\u001aEffects\u001a \u001ado\u001a \u001anot\u001a \u001astack\u001a \u001aif\u001a \u001aunits\u001a \u001abelong\u001a \u001ato\u001a \u001amore\u001a \u001athan\u001a \u001a1\u001a \u001aspecified\u001a \u001acategory\u001a.<br>*\u001aIf\u001a \u001amultiple\u001a \u001aoverdrives\u001a \u001aare\u001a \u001aactive\u001a,\u001a \u001athe\u001a \u001astrongest\u001a \u001aeffect\u001a \u001ais\u001a \u001aapplied\u001a.</size></color>\u001a"
+    ],
+    "OD_EXPLAIN_LONG_COND": [
+        "Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest",
+        "Actions\u001a \u001acan\u001a \u001abe\u001a \u001aperformed\u001a \u001aafter\u001a \u001aactivation\u001a.<br>\u001a \u001a<br>[\u001aActivation\u001a \u001aCondition\u001a]<br>\u001aPerform\u001a \u001a<color=255:255:0><param=od_count></color>\u001a \u001aactions\u001a \u001ausing\u001a \u001a<br>[<param=od_cetegory>]\u001a \u001acategory\u001a \u001aunits\u001a<br>\u001aUsable\u001a \u001a<color=255:255:0><param=od_limit></color>\u001a \u001atime\u001a(\u001as\u001a)\u001a \u001aper\u001a \u001aquest\u001a"
+    ],
+    "OD_EXPLAIN_LONG_COND_ANNOTAION": [
+        "<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>",
+        "<color=195:195:195><size=20>*\u001aAction\u001a \u001acount\u001a \u001aincreases\u001a \u001aby\u001a \u001a1\u001a \u001awhen\u001a \u001aunit\u001a \u001aof\u001a \u001athe\u001a \u001aspecified\u001a \u001acategory\u001a \u001ais\u001a \u001atapped\u001a.</size></color>\u001a"
+    ],
+    "OD_EXPLAIN_LONG_TARGET_UNIT": [
+        "Target Category Units",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Target Category Units",
+        "Target\u001a \u001aCategory\u001a \u001aUnits\u001a"
+    ],
+    "OD_EXPLAIN_SHORT_PREFIX_E": [
+        "units]^ units]",
+        "units]^」類別兵員】\nOD_EXPLAIN_SHORT_REPLACE_TARGET^All allies: ^全體隊員：\nOD_EXPLAIN_LONG_ANNOTAION^<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>^<size=20><color=255:255:0>※超頻驅動能夠與其他的能力效果相疊加</color><br><color=195:195:195>※效果僅適用於擁有特定類別的兵員<br>※就算兵員擁有超過1個特定類別，超頻驅動的效果也不會重複疊加<br>※發動多個超頻驅動時，會以效果數值較高的能力為優先</size></color>\nOD_EXPLAIN_LONG_COND_ANNOTAION^<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>^<color=195:195:195><size=20>※點選特定類別的兵員面板時會增加1次行動計數</size></color>\nOD_EXPLAIN_LONG_COND^Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest^發動後仍可行動<br> <br>【發動條件】<br>擁有「<param=od_cetegory>」類別的兵員行動<color=255:255:0><param=od_count></color>次<br>1次任務中可使用<color=255:255:0><param=od_limit></color>次。\nOD_EXPLAIN_LONG_TARGET_UNIT^Target Category Units^特定類別兵員\nOD_USE_CONF_TITLE^Confirm Activation^發動確認\nOD_USE_CONF_CATEGORY_UNIT^Category Units in Possession^擁有特定類別的兵員\nOD_USE_CONF_CATEGORY^Target Category^特定類別\nOD_USE_CONF_LIMIT^Uses Available^發動次數限制\nOD_USE_CONF_NUM^Time(s)^次\nOD_USE_CONF_REST^Remaining^還有\nOD_USE_CONF_MSG^Activate overdrive?^要發動超頻驅動嗎？\nOD_USE_CONF_ANNOTATION^*Actions can be performed after activation.^※發動後不會結束行動，仍可進行操作\nOD_USE_CONF_EXE^Activate^發動\nOD_USE_CONF_CANCEL^Cancel^取消\nBUFF_DESC_300^Boosts ATK.^攻擊狀態上升。\nBUFF_DESC_301^Boosts DEF.^防禦狀態上升。\nBUFF_DESC_302^Boosts MAG.^魔力狀態上升。\nBUFF_DESC_303^Boosts SPR.^精神狀態上升。\nBUFF_DESC_304^Lowers ATK.^攻擊狀態下降。\nBUFF_DESC_305^Lowers DEF.^防禦狀態下降。\nBUFF_DESC_306^Lowers MAG.^魔力狀態下降。\nBUFF_DESC_307^Lowers SPR.^精神狀態下降。\nBUFF_DESC_308^Boosts physical damage against beasts.^種族物理特攻 獸。\nBUFF_DESC_309^Boosts physical damage against avian monsters.^種族物理特攻 鳥。\nBUFF_DESC_310^Boosts physical damage against aquatic monsters.^種族物理特攻 水生。\nBUFF_DESC_311^Boosts physical damage against demons.^種族物理特攻 惡魔。\nBUFF_DESC_312^Boosts physical damage against humans.^種族物理特攻 人。\nBUFF_DESC_313^Boosts physical damage against machina.^種族物理特攻 機械。\nBUFF_DESC_314^Boosts physical damage against dragons.^種族物理特攻 龍。\nBUFF_DESC_315^Boosts physical damage against fairies.^種族物理特攻 精靈。\nBUFF_DESC_316^Boosts physical damage against insects.^種族物理特攻 蟲。\nBUFF_DESC_317^Boosts physical damage against stone monsters.^種族物理特攻 岩石。\nBUFF_DESC_318^Boosts physical damage against plant monsters.^種族物理特攻 植物。\nBUFF_DESC_319^Boosts physical damage against reapers.^種族物理特攻 死靈。\nBUFF_DESC_320^Boosts magic damage against beasts.^種族魔法特攻 獸。\nBUFF_DESC_321^Boosts magic damage against avian monsters.^種族魔法特攻 鳥。\nBUFF_DESC_322^Boosts magic damage against aquatic monsters.^種族魔法特攻 水生。\nBUFF_DESC_323^Boosts magic damage against demons.^種族魔法特攻 惡魔。\nBUFF_DESC_324^Boosts magic damage against humans.^種族魔法特攻 人。\nBUFF_DESC_325^Boosts magic damage against machina.^種族魔法特攻 機械。\nBUFF_DESC_326^Boosts magic damage against dragons.^種族魔法特攻 龍。\nBUFF_DESC_327^Boosts magic damage against fairies.^種族魔法特攻 精靈。\nBUFF_DESC_328^Boosts magic damage against insects.^種族魔法特攻 蟲。\nBUFF_DESC_329^Boosts magic damage against stone monsters.^種族魔法特攻 岩石。\nBUFF_DESC_330^Boosts magic damage against plant monsters.^種族魔法特攻 植物。\nBUFF_DESC_331^Boosts magic damage against reapers.^種族魔法特攻 死靈。\nBUFF_DESC_332^Boosts fire physical damage.^提高火屬性物理攻擊的傷害。\nBUFF_DESC_333^Boosts ice physical damage.^提高冰屬性物理攻擊的傷害。\nBUFF_DESC_334^Boosts lightning physical damage.^提高雷屬性物理攻擊的傷害。\nBUFF_DESC_335^Boosts water physical damage.^提高水屬性物理攻擊的傷害。\nBUFF_DESC_336^Boosts wind physical damage.^提高風屬性物理攻擊的傷害。\nBUFF_DESC_337^Boosts earth physical damage.^提高土屬性物理攻擊的傷害。\nBUFF_DESC_338^Boosts light physical damage.^提高光屬性物理攻擊的傷害。\nBUFF_DESC_339^Boosts dark physical damage.^提高暗屬性物理攻擊的傷害。\nBUFF_DESC_340^Boosts fire magic damage.^提高火屬性魔法攻擊的傷害。\nBUFF_DESC_341^Boosts ice magic damage.^提高冰屬性魔法攻擊的傷害。\nBUFF_DESC_342^Boosts lightning magic damage.^提高雷屬性魔法攻擊的傷害。\nBUFF_DESC_343^Boosts water magic damage.^提高水屬性魔法攻擊的傷害。\nBUFF_DESC_344^Boosts wind magic damage.^提高風屬性魔法攻擊的傷害。\nBUFF_DESC_345^Boosts earth magic damage.^提高土屬性魔法攻擊的傷害。\nBUFF_DESC_346^Boosts light magic damage.^提高光屬性魔法攻擊的傷害。\nBUFF_DESC_347^Boosts dark magic damage.^提高暗屬性魔法攻擊的傷害。\nREST^Left: ^剩餘\nGROWING^Awakenable^育成\nEQUIP_ITEM_LIMIT_OWNER_UNIT_EQUIP^Equipped to unit_name:<blank>^兵員裝備中：\nEQUIP_ITEM_LIMIT_OWNER_EQUIP^Equipped:^裝備時：\nSEARCH_ITEM_MISSION_NOTHING_ANNOTATION^<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.^<br> <br>※部分素材僅可透過次元夾縫內的任務獲得。<br>※部分特別素材有機會在「製作」完成時以一定機率獲得。\nEMBLEM_REWARD_TIER_MAIL_9910004^Adventurer Rewards (FFXVI) - Tier %s Reward^冒險家報酬(FFXVI) - 階級 %s 報酬",
+        "units]^\nOD_EXPLAIN_SHORT_REPLACE_TARGET^All allies: ^\nOD_EXPLAIN_LONG_ANNOTAION^<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>^\nOD_EXPLAIN_LONG_COND_ANNOTAION^<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>^\nOD_EXPLAIN_LONG_COND^Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest^\nOD_EXPLAIN_LONG_TARGET_UNIT^Target Category Units^\nOD_USE_CONF_TITLE^Confirm Activation^\nOD_USE_CONF_CATEGORY_UNIT^Category Units in Possession^\nOD_USE_CONF_CATEGORY^Target Category^\nOD_USE_CONF_LIMIT^Uses Available^\nOD_USE_CONF_NUM^Time(s)^\nOD_USE_CONF_REST^Remaining^\nOD_USE_CONF_MSG^Activate overdrive?^\nOD_USE_CONF_ANNOTATION^*Actions can be performed after activation.^\nOD_USE_CONF_EXE^Activate^\nOD_USE_CONF_CANCEL^Cancel^\nBUFF_DESC_300^Boosts ATK.^\nBUFF_DESC_301^Boosts DEF.^\nBUFF_DESC_302^Boosts MAG.^\nBUFF_DESC_303^Boosts SPR.^\nBUFF_DESC_304^Lowers ATK.^\nBUFF_DESC_305^Lowers DEF.^\nBUFF_DESC_306^Lowers MAG.^\nBUFF_DESC_307^Lowers SPR.^\nBUFF_DESC_308^Boosts physical damage against beasts.^\nBUFF_DESC_309^Boosts physical damage against avian monsters.^\nBUFF_DESC_310^Boosts physical damage against aquatic monsters.^\nBUFF_DESC_311^Boosts physical damage against demons.^\nBUFF_DESC_312^Boosts physical damage against humans.^\nBUFF_DESC_313^Boosts physical damage against machina.^\nBUFF_DESC_314^Boosts physical damage against dragons.^\nBUFF_DESC_315^Boosts physical damage against fairies.^\nBUFF_DESC_316^Boosts physical damage against insects.^\nBUFF_DESC_317^Boosts physical damage against stone monsters.^\nBUFF_DESC_318^Boosts physical damage against plant monsters.^\nBUFF_DESC_319^Boosts physical damage against reapers.^\nBUFF_DESC_320^Boosts magic damage against beasts.^\nBUFF_DESC_321^Boosts magic damage against avian monsters.^\nBUFF_DESC_322^Boosts magic damage against aquatic monsters.^\nBUFF_DESC_323^Boosts magic damage against demons.^\nBUFF_DESC_324^Boosts magic damage against humans.^\nBUFF_DESC_325^Boosts magic damage against machina.^\nBUFF_DESC_326^Boosts magic damage against dragons.^\nBUFF_DESC_327^Boosts magic damage against fairies.^\nBUFF_DESC_328^Boosts magic damage against insects.^\nBUFF_DESC_329^Boosts magic damage against stone monsters.^\nBUFF_DESC_330^Boosts magic damage against plant monsters.^\nBUFF_DESC_331^Boosts magic damage against reapers.^\nBUFF_DESC_332^Boosts fire physical damage.^\nBUFF_DESC_333^Boosts ice physical damage.^\nBUFF_DESC_334^Boosts lightning physical damage.^\nBUFF_DESC_335^Boosts water physical damage.^\nBUFF_DESC_336^Boosts wind physical damage.^\nBUFF_DESC_337^Boosts earth physical damage.^\nBUFF_DESC_338^Boosts light physical damage.^\nBUFF_DESC_339^Boosts dark physical damage.^\nBUFF_DESC_340^Boosts fire magic damage.^\nBUFF_DESC_341^Boosts ice magic damage.^\nBUFF_DESC_342^Boosts lightning magic damage.^\nBUFF_DESC_343^Boosts water magic damage.^\nBUFF_DESC_344^Boosts wind magic damage.^\nBUFF_DESC_345^Boosts earth magic damage.^\nBUFF_DESC_346^Boosts light magic damage.^\nBUFF_DESC_347^Boosts dark magic damage.^\nREST^Left: ^\nGROWING^Awakenable^\nEQUIP_ITEM_LIMIT_OWNER_UNIT_EQUIP^Equipped to unit_name:<blank>^\nEQUIP_ITEM_LIMIT_OWNER_EQUIP^Equipped:^\nSEARCH_ITEM_MISSION_NOTHING_ANNOTATION^<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.^\nEMBLEM_REWARD_TIER_MAIL_9910004^Adventurer Rewards (FFXVI) - Tier %s Reward^",
+        "units]^\nOD_EXPLAIN_SHORT_REPLACE_TARGET^All allies: ^\nOD_EXPLAIN_LONG_ANNOTAION^<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>^\nOD_EXPLAIN_LONG_COND_ANNOTAION^<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>^\nOD_EXPLAIN_LONG_COND^Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest^\nOD_EXPLAIN_LONG_TARGET_UNIT^Target Category Units^\nOD_USE_CONF_TITLE^Confirm Activation^\nOD_USE_CONF_CATEGORY_UNIT^Category Units in Possession^\nOD_USE_CONF_CATEGORY^Target Category^\nOD_USE_CONF_LIMIT^Uses Available^\nOD_USE_CONF_NUM^Time(s)^\nOD_USE_CONF_REST^Remaining^\nOD_USE_CONF_MSG^Activate overdrive?^\nOD_USE_CONF_ANNOTATION^*Actions can be performed after activation.^\nOD_USE_CONF_EXE^Activate^\nOD_USE_CONF_CANCEL^Cancel^\nBUFF_DESC_300^Boosts ATK.^\nBUFF_DESC_301^Boosts DEF.^\nBUFF_DESC_302^Boosts MAG.^\nBUFF_DESC_303^Boosts SPR.^\nBUFF_DESC_304^Lowers ATK.^\nBUFF_DESC_305^Lowers DEF.^\nBUFF_DESC_306^Lowers MAG.^\nBUFF_DESC_307^Lowers SPR.^\nBUFF_DESC_308^Boosts physical damage against beasts.^\nBUFF_DESC_309^Boosts physical damage against avian monsters.^\nBUFF_DESC_310^Boosts physical damage against aquatic monsters.^\nBUFF_DESC_311^Boosts physical damage against demons.^\nBUFF_DESC_312^Boosts physical damage against humans.^\nBUFF_DESC_313^Boosts physical damage against machina.^\nBUFF_DESC_314^Boosts physical damage against dragons.^\nBUFF_DESC_315^Boosts physical damage against fairies.^\nBUFF_DESC_316^Boosts physical damage against insects.^\nBUFF_DESC_317^Boosts physical damage against stone monsters.^\nBUFF_DESC_318^Boosts physical damage against plant monsters.^\nBUFF_DESC_319^Boosts physical damage against reapers.^\nBUFF_DESC_320^Boosts magic damage against beasts.^\nBUFF_DESC_321^Boosts magic damage against avian monsters.^\nBUFF_DESC_322^Boosts magic damage against aquatic monsters.^\nBUFF_DESC_323^Boosts magic damage against demons.^\nBUFF_DESC_324^Boosts magic damage against humans.^\nBUFF_DESC_325^Boosts magic damage against machina.^\nBUFF_DESC_326^Boosts magic damage against dragons.^\nBUFF_DESC_327^Boosts magic damage against fairies.^\nBUFF_DESC_328^Boosts magic damage against insects.^\nBUFF_DESC_329^Boosts magic damage against stone monsters.^\nBUFF_DESC_330^Boosts magic damage against plant monsters.^\nBUFF_DESC_331^Boosts magic damage against reapers.^\nBUFF_DESC_332^Boosts fire physical damage.^\nBUFF_DESC_333^Boosts ice physical damage.^\nBUFF_DESC_334^Boosts lightning physical damage.^\nBUFF_DESC_335^Boosts water physical damage.^\nBUFF_DESC_336^Boosts wind physical damage.^\nBUFF_DESC_337^Boosts earth physical damage.^\nBUFF_DESC_338^Boosts light physical damage.^\nBUFF_DESC_339^Boosts dark physical damage.^\nBUFF_DESC_340^Boosts fire magic damage.^\nBUFF_DESC_341^Boosts ice magic damage.^\nBUFF_DESC_342^Boosts lightning magic damage.^\nBUFF_DESC_343^Boosts water magic damage.^\nBUFF_DESC_344^Boosts wind magic damage.^\nBUFF_DESC_345^Boosts earth magic damage.^\nBUFF_DESC_346^Boosts light magic damage.^\nBUFF_DESC_347^Boosts dark magic damage.^\nREST^Left: ^\nGROWING^Awakenable^\nEQUIP_ITEM_LIMIT_OWNER_UNIT_EQUIP^Equipped to unit_name:<blank>^\nEQUIP_ITEM_LIMIT_OWNER_EQUIP^Equipped:^\nSEARCH_ITEM_MISSION_NOTHING_ANNOTATION^<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.^\nEMBLEM_REWARD_TIER_MAIL_9910004^Adventurer Rewards (FFXVI) - Tier %s Reward^",
+        "units]^\nOD_EXPLAIN_SHORT_REPLACE_TARGET^All allies: ^\nOD_EXPLAIN_LONG_ANNOTAION^<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>^\nOD_EXPLAIN_LONG_COND_ANNOTAION^<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>^\nOD_EXPLAIN_LONG_COND^Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest^\nOD_EXPLAIN_LONG_TARGET_UNIT^Target Category Units^\nOD_USE_CONF_TITLE^Confirm Activation^\nOD_USE_CONF_CATEGORY_UNIT^Category Units in Possession^\nOD_USE_CONF_CATEGORY^Target Category^\nOD_USE_CONF_LIMIT^Uses Available^\nOD_USE_CONF_NUM^Time(s)^\nOD_USE_CONF_REST^Remaining^\nOD_USE_CONF_MSG^Activate overdrive?^\nOD_USE_CONF_ANNOTATION^*Actions can be performed after activation.^\nOD_USE_CONF_EXE^Activate^\nOD_USE_CONF_CANCEL^Cancel^\nBUFF_DESC_300^Boosts ATK.^\nBUFF_DESC_301^Boosts DEF.^\nBUFF_DESC_302^Boosts MAG.^\nBUFF_DESC_303^Boosts SPR.^\nBUFF_DESC_304^Lowers ATK.^\nBUFF_DESC_305^Lowers DEF.^\nBUFF_DESC_306^Lowers MAG.^\nBUFF_DESC_307^Lowers SPR.^\nBUFF_DESC_308^Boosts physical damage against beasts.^\nBUFF_DESC_309^Boosts physical damage against avian monsters.^\nBUFF_DESC_310^Boosts physical damage against aquatic monsters.^\nBUFF_DESC_311^Boosts physical damage against demons.^\nBUFF_DESC_312^Boosts physical damage against humans.^\nBUFF_DESC_313^Boosts physical damage against machina.^\nBUFF_DESC_314^Boosts physical damage against dragons.^\nBUFF_DESC_315^Boosts physical damage against fairies.^\nBUFF_DESC_316^Boosts physical damage against insects.^\nBUFF_DESC_317^Boosts physical damage against stone monsters.^\nBUFF_DESC_318^Boosts physical damage against plant monsters.^\nBUFF_DESC_319^Boosts physical damage against reapers.^\nBUFF_DESC_320^Boosts magic damage against beasts.^\nBUFF_DESC_321^Boosts magic damage against avian monsters.^\nBUFF_DESC_322^Boosts magic damage against aquatic monsters.^\nBUFF_DESC_323^Boosts magic damage against demons.^\nBUFF_DESC_324^Boosts magic damage against humans.^\nBUFF_DESC_325^Boosts magic damage against machina.^\nBUFF_DESC_326^Boosts magic damage against dragons.^\nBUFF_DESC_327^Boosts magic damage against fairies.^\nBUFF_DESC_328^Boosts magic damage against insects.^\nBUFF_DESC_329^Boosts magic damage against stone monsters.^\nBUFF_DESC_330^Boosts magic damage against plant monsters.^\nBUFF_DESC_331^Boosts magic damage against reapers.^\nBUFF_DESC_332^Boosts fire physical damage.^\nBUFF_DESC_333^Boosts ice physical damage.^\nBUFF_DESC_334^Boosts lightning physical damage.^\nBUFF_DESC_335^Boosts water physical damage.^\nBUFF_DESC_336^Boosts wind physical damage.^\nBUFF_DESC_337^Boosts earth physical damage.^\nBUFF_DESC_338^Boosts light physical damage.^\nBUFF_DESC_339^Boosts dark physical damage.^\nBUFF_DESC_340^Boosts fire magic damage.^\nBUFF_DESC_341^Boosts ice magic damage.^\nBUFF_DESC_342^Boosts lightning magic damage.^\nBUFF_DESC_343^Boosts water magic damage.^\nBUFF_DESC_344^Boosts wind magic damage.^\nBUFF_DESC_345^Boosts earth magic damage.^\nBUFF_DESC_346^Boosts light magic damage.^\nBUFF_DESC_347^Boosts dark magic damage.^\nREST^Left: ^\nGROWING^Awakenable^\nEQUIP_ITEM_LIMIT_OWNER_UNIT_EQUIP^Equipped to unit_name:<blank>^\nEQUIP_ITEM_LIMIT_OWNER_EQUIP^Equipped:^\nSEARCH_ITEM_MISSION_NOTHING_ANNOTATION^<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.^\nEMBLEM_REWARD_TIER_MAIL_9910004^Adventurer Rewards (FFXVI) - Tier %s Reward^",
+        "units]^\nOD_EXPLAIN_SHORT_REPLACE_TARGET^All allies: ^\nOD_EXPLAIN_LONG_ANNOTAION^<size=20><color=255:255:0>*Overdrive effects stack with those of other abilities.</color><br><color=195:195:195>*Effects only apply to units of the specified category.<br>*Effects do not stack if units belong to more than 1 specified category.<br>*If multiple overdrives are active, the strongest effect is applied.</size></color>^\nOD_EXPLAIN_LONG_COND_ANNOTAION^<color=195:195:195><size=20>*Action count increases by 1 when unit of the specified category is tapped.</size></color>^\nOD_EXPLAIN_LONG_COND^Actions can be performed after activation.<br> <br>[Activation Condition]<br>Perform <color=255:255:0><param=od_count></color> actions using <br>[<param=od_cetegory>] category units<br>Usable <color=255:255:0><param=od_limit></color> time(s) per quest^\nOD_EXPLAIN_LONG_TARGET_UNIT^Target Category Units^\nOD_USE_CONF_TITLE^Confirm Activation^\nOD_USE_CONF_CATEGORY_UNIT^Category Units in Possession^\nOD_USE_CONF_CATEGORY^Target Category^\nOD_USE_CONF_LIMIT^Uses Available^\nOD_USE_CONF_NUM^Time(s)^\nOD_USE_CONF_REST^Remaining^\nOD_USE_CONF_MSG^Activate overdrive?^\nOD_USE_CONF_ANNOTATION^*Actions can be performed after activation.^\nOD_USE_CONF_EXE^Activate^\nOD_USE_CONF_CANCEL^Cancel^\nBUFF_DESC_300^Boosts ATK.^\nBUFF_DESC_301^Boosts DEF.^\nBUFF_DESC_302^Boosts MAG.^\nBUFF_DESC_303^Boosts SPR.^\nBUFF_DESC_304^Lowers ATK.^\nBUFF_DESC_305^Lowers DEF.^\nBUFF_DESC_306^Lowers MAG.^\nBUFF_DESC_307^Lowers SPR.^\nBUFF_DESC_308^Boosts physical damage against beasts.^\nBUFF_DESC_309^Boosts physical damage against avian monsters.^\nBUFF_DESC_310^Boosts physical damage against aquatic monsters.^\nBUFF_DESC_311^Boosts physical damage against demons.^\nBUFF_DESC_312^Boosts physical damage against humans.^\nBUFF_DESC_313^Boosts physical damage against machina.^\nBUFF_DESC_314^Boosts physical damage against dragons.^\nBUFF_DESC_315^Boosts physical damage against fairies.^\nBUFF_DESC_316^Boosts physical damage against insects.^\nBUFF_DESC_317^Boosts physical damage against stone monsters.^\nBUFF_DESC_318^Boosts physical damage against plant monsters.^\nBUFF_DESC_319^Boosts physical damage against reapers.^\nBUFF_DESC_320^Boosts magic damage against beasts.^\nBUFF_DESC_321^Boosts magic damage against avian monsters.^\nBUFF_DESC_322^Boosts magic damage against aquatic monsters.^\nBUFF_DESC_323^Boosts magic damage against demons.^\nBUFF_DESC_324^Boosts magic damage against humans.^\nBUFF_DESC_325^Boosts magic damage against machina.^\nBUFF_DESC_326^Boosts magic damage against dragons.^\nBUFF_DESC_327^Boosts magic damage against fairies.^\nBUFF_DESC_328^Boosts magic damage against insects.^\nBUFF_DESC_329^Boosts magic damage against stone monsters.^\nBUFF_DESC_330^Boosts magic damage against plant monsters.^\nBUFF_DESC_331^Boosts magic damage against reapers.^\nBUFF_DESC_332^Boosts fire physical damage.^\nBUFF_DESC_333^Boosts ice physical damage.^\nBUFF_DESC_334^Boosts lightning physical damage.^\nBUFF_DESC_335^Boosts water physical damage.^\nBUFF_DESC_336^Boosts wind physical damage.^\nBUFF_DESC_337^Boosts earth physical damage.^\nBUFF_DESC_338^Boosts light physical damage.^\nBUFF_DESC_339^Boosts dark physical damage.^\nBUFF_DESC_340^Boosts fire magic damage.^\nBUFF_DESC_341^Boosts ice magic damage.^\nBUFF_DESC_342^Boosts lightning magic damage.^\nBUFF_DESC_343^Boosts water magic damage.^\nBUFF_DESC_344^Boosts wind magic damage.^\nBUFF_DESC_345^Boosts earth magic damage.^\nBUFF_DESC_346^Boosts light magic damage.^\nBUFF_DESC_347^Boosts dark magic damage.^\nREST^Left: ^\nGROWING^Awakenable^\nEQUIP_ITEM_LIMIT_OWNER_UNIT_EQUIP^Equipped to unit_name:<blank>^\nEQUIP_ITEM_LIMIT_OWNER_EQUIP^Equipped:^\nSEARCH_ITEM_MISSION_NOTHING_ANNOTATION^<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.^\nEMBLEM_REWARD_TIER_MAIL_9910004^Adventurer Rewards (FFXVI) - Tier %s Reward^",
+        "units]^ units]",
+        "units]^\u001a \u001aunits\u001a]\u001a"
+    ],
+    "OD_EXPLAIN_SHORT_PREFIX_S": [
+        "[\"",
+        "【「",
+        null,
+        null,
+        null,
+        null,
+        "[\"",
+        "[\"\u001a"
+    ],
+    "OD_EXPLAIN_SHORT_REPLACE_TARGET": [
+        "All allies:",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "All allies:",
+        "All\u001a \u001aallies\u001a:\u001a \u001a"
+    ],
+    "OD_EXPLAIN_SHORT_SUFFIX": [
+        "[OD]",
+        "【OD】",
+        null,
+        null,
+        null,
+        null,
+        "[OD]",
+        "[\u001aOD\u001a]\u001a"
+    ],
+    "OD_FRAME_OBJ_COUNT": [
+        "Actions needed: <color=255:240:0><param=od_count></color> action(s)",
+        "發動所需行動次數：<color=255:240:0><param=od_count></color>次",
+        null,
+        null,
+        null,
+        null,
+        "Actions needed: <color=255:240:0><param=od_count></color> action(s)",
+        "Actions\u001a \u001aneeded\u001a:\u001a \u001a<color=255:240:0><param=od_count></color>\u001a \u001aaction\u001a(\u001as\u001a)\u001a"
+    ],
+    "OD_FRAME_OBJ_LIMIT": [
+        "Activation limit: <color=255:240:0><param=od_limit></color> time(s)",
+        "發動次數限制：<color=255:240:0><param=od_limit></color>次",
+        null,
+        null,
+        null,
+        null,
+        "Activation limit: <color=255:240:0><param=od_limit></color> time(s)",
+        "Activation\u001a \u001alimit\u001a:\u001a \u001a<color=255:240:0><param=od_limit></color>\u001a \u001atime\u001a(\u001as\u001a)\u001a"
+    ],
+    "OD_FRAME_OBJ_LIMIT_OVER": [
+        "<color=255:0:0>Not tallying actions</color>: Activation limit reached",
+        "<color=255:0:0>無法進行計數</color>：超過發動次數限制",
+        null,
+        null,
+        null,
+        null,
+        "<color=255:0:0>Not tallying actions</color>: Activation limit reached",
+        "<color=255:0:0>\u001aNot\u001a \u001atallying\u001a \u001aactions\u001a</color>:\u001a \u001aActivation\u001a \u001alimit\u001a \u001areached\u001a"
+    ],
+    "OD_FRAME_OBJ_USABLE": [
+        "Overdrive available: (<color=255:240:0><param=od_count></color> action(s))",
+        "可發動超頻驅動：(<color=255:240:0><param=od_count></color>次)",
+        null,
+        null,
+        null,
+        null,
+        "Overdrive available: (<color=255:240:0><param=od_count></color> action(s))",
+        "Overdrive\u001a \u001aavailable\u001a:\u001a \u001a(<color=255:240:0><param=od_count></color>\u001a \u001aaction\u001a(\u001as\u001a))\u001a"
+    ],
+    "OD_FRAME_OBJ_USED": [
+        "<color=255:165:0>Restarting action tally in</color>: One turn",
+        "<color=255:165:0>重新開始計數條件</color>：下回合",
+        null,
+        null,
+        null,
+        null,
+        "<color=255:165:0>Restarting action tally in</color>: One turn",
+        "<color=255:165:0>\u001aRestarting\u001a \u001aaction\u001a \u001atally\u001a \u001ain\u001a</color>:\u001a \u001aOne\u001a \u001aturn\u001a"
+    ],
+    "OD_SKILL_FRAME_OBJ_COST_SLASH": [
+        "/",
+        "/",
+        null,
+        null,
+        null,
+        null,
+        "/",
+        "/\u001a"
+    ],
+    "OD_USE_CONF_ANNOTATION": [
+        "*Actions can be performed after activation.",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "*Actions can be performed after activation.",
+        "*\u001aActions\u001a \u001acan\u001a \u001abe\u001a \u001aperformed\u001a \u001aafter\u001a \u001aactivation\u001a.\u001a"
+    ],
+    "OD_USE_CONF_CANCEL": [
+        "Cancel",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Cancel",
+        "Cancel\u001a"
+    ],
+    "OD_USE_CONF_CATEGORY": [
+        "Target Category",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Target Category",
+        "Target\u001a \u001aCategory\u001a"
+    ],
+    "OD_USE_CONF_CATEGORY_UNIT": [
+        "Category Units in Possession",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Category Units in Possession",
+        "Category\u001a \u001aUnits\u001a \u001ain\u001a \u001aPossession\u001a"
+    ],
+    "OD_USE_CONF_EXE": [
+        "Activate",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Activate",
+        "Activate\u001a"
+    ],
+    "OD_USE_CONF_LIMIT": [
+        "Uses Available",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Uses Available",
+        "Uses\u001a \u001aAvailable\u001a"
+    ],
+    "OD_USE_CONF_MSG": [
+        "Activate overdrive?",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Activate overdrive?",
+        "Activate\u001a \u001aoverdrive\u001a?\u001a"
+    ],
+    "OD_USE_CONF_NUM": [
+        "Time(s)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Time(s)",
+        "Time\u001a(\u001as\u001a)\u001a"
+    ],
+    "OD_USE_CONF_REST": [
+        "Remaining",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Remaining",
+        "Remaining\u001a"
+    ],
+    "OD_USE_CONF_TITLE": [
+        "Confirm Activation",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Confirm Activation",
+        "Confirm\u001a \u001aActivation\u001a"
+    ],
     "ONCE_A_DAY": [
         "Once a Day",
         "1日1次限定",
@@ -22801,6 +23201,16 @@
         "Resistansi Status",
         "ค่า\u001aต้านทาน\u001aสถานะ\u001aผิดปกติ\u001a"
     ],
+    "REST": [
+        "Left:",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Left:",
+        "Left\u001a:\u001a \u001a"
+    ],
     "RESTART_EQUIP_GROW_CONFIRM_TEXT": [
         "There is interrupted equipment enhancement quest data.<br>Resume quest?",
         "有武具強化活動的任務中斷情報。<br>是否要繼續任務？",
@@ -23820,6 +24230,26 @@
         "No hay misiones disponibles en el mapa del mundo en estos momentos.<br>Se pueden desbloquear al avanzar en la historia.",
         "Tidak ada quest yang tersedia di peta dunia saat ini.<br>Quest yang tersedia dapat dibuka dengan melanjutkan cerita.",
         "ใน\u001aตอนนี้\u001aยัง\u001aไม่\u001aมี\u001aเค\u001aวส\u001aให้\u001aเข้า\u001aเล่น\u001aได้\u001aเหลืออยู่\u001aบน\u001a \u001aWorld\u001a \u001aMap\u001a<br>\u001aคุณ\u001aสามารถ\u001aปลด\u001aล็อค\u001aเค\u001aวส\u001aสำหรับ\u001aเล่น\u001aเพิ่มเติม\u001aได้\u001aโดย\u001aการ\u001aเดิน\u001aเนื้อเรื่อง\u001aต่อให้\u001aลึก\u001aขึ้น\u001a"
+    ],
+    "SEARCH_ITEM_MISSION_NOTHING_ANNOTATION": [
+        "<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "<br><br>*Some items are only obtainable in the Dimensional Vortex.<br>*Certain special items have a chance of being obtained when crafting.",
+        "<br><br>*\u001aSome\u001a \u001aitems\u001a \u001aare\u001a \u001aonly\u001a \u001aobtainable\u001a \u001ain\u001a \u001athe\u001a \u001aDimensional\u001a \u001aVortex\u001a.<br>*\u001aCertain\u001a \u001aspecial\u001a \u001aitems\u001a \u001ahave\u001a \u001aa\u001a \u001achance\u001a \u001aof\u001a \u001abeing\u001a \u001aobtained\u001a \u001awhen\u001a \u001acrafting\u001a.\u001a"
+    ],
+    "SEARCH_ITEM_MISSION_NOTHING_GATE": [
+        "Currently, there are no quests available for the selected material.<br>*The material can be obtained when the quest is rerun.",
+        "現在沒有能夠獲得指定素材的任務<br>※指定任務復刻時便能夠獲得。",
+        null,
+        null,
+        null,
+        null,
+        "Currently, there are no quests available for the selected material.<br>*The material can be obtained when the quest is rerun.",
+        "Currently\u001a,\u001a \u001athere\u001a \u001aare\u001a \u001ano\u001a \u001aquests\u001a \u001aavailable\u001a \u001afor\u001a \u001athe\u001a \u001aselected\u001a \u001amaterial\u001a.<br>*\u001aThe\u001a \u001amaterial\u001a \u001acan\u001a \u001abe\u001a \u001aobtained\u001a \u001awhen\u001a \u001athe\u001a \u001aquest\u001a \u001ais\u001a \u001arerun\u001a.\u001a"
     ],
     "SEASON_EVENT_PASS_REWARD_MAIL_MSG": [
         "We would like to present you with the following reward for having reached the targeted points during the event.",
@@ -30981,6 +31411,16 @@
         "EX Awakening",
         "EX\u001a \u001aAwakening\u001a"
     ],
+    "UNIT_ENHANCE_CLASSUP_GET_QUEST_BUTTON_LABEL": [
+        "Obtained through quest",
+        "任務中獲得",
+        null,
+        null,
+        null,
+        null,
+        "Obtained through quest",
+        "Obtained\u001a \u001athrough\u001a \u001aquest\u001a"
+    ],
     "UNIT_ENHANCE_CLASSUP_GET_SUPERTRUSTMASTER_SUBHEADER_TITLE": [
         "Obtain STMR",
         "獲得超級信賴度滿點報酬",
@@ -31230,6 +31670,16 @@
         "Desbloquear Estallido Límite",
         "Buka Brave Shift",
         "ปลด\u001aล็อค\u001a \u001aBrave\u001a \u001aShift\u001a"
+    ],
+    "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NVSHIFT_DRIVE": [
+        "Drive Shift enhanced",
+        "驅動切換強化",
+        null,
+        null,
+        null,
+        null,
+        "Drive Shift enhanced",
+        "Drive\u001a \u001aShift\u001a \u001aenhanced\u001a"
     ],
     "UNIT_ENHANCE_CLASSUP_REWARD_TEXT_NVSHIFT_LIMIT": [
         "Unlock Super Limit Burst",
@@ -33441,6 +33891,16 @@
         "Tidak ada unit yang dapat ditampilkan.",
         "ไม่\u001aมี\u001aยู\u001aนิ\u001aท\u001aที่\u001aสามารถ\u001aแสดง\u001aได้\u001a"
     ],
+    "UNIT_LIMIT_BURST": [
+        "Limit Burst",
+        "極限技",
+        null,
+        null,
+        null,
+        null,
+        "Limit Burst",
+        "Limit\u001a \u001aBurst\u001a"
+    ],
     "UNIT_LIST": [
         "View Units",
         "兵員一覽",
@@ -33921,6 +34381,16 @@
         "<color=255:255:0>Material yang akan melebihi batas nilai trust maksimum</color> telah disertakan. <br>Semua nilai yang kelebihan <color=255:255:0>akan hilang</color>. Lanjutkan?",
         "<color=255:255:0>\u001aมี\u001aวัตถุดิบ\u001aที่จะ\u001aส่งผล\u001aให้\u001aค่า\u001a \u001aTrust\u001a \u001aเลย\u001aโควต้า\u001aสูงสุด\u001a \u001a</color>\u001a \u001aรวม\u001aอยู่\u001aด้วย\u001a<br>\u001aค่าที่\u001aเกิน\u001aโควต้า\u001aสูงสุด\u001aทั้งหมด\u001a<color=255:255:0>\u001aจะ\u001aถูก\u001aลบทิ้ง\u001aไป\u001a</color>.\u001a \u001aดำเนินการ\u001aรวม\u001aร่าง\u001aต่อ\u001aหรือไม่\u001a?\u001a"
     ],
+    "UNIT_MIX_GET_BRAVE_SHIFT_TYPE_DRIVE": [
+        "Overdrive enhanced!",
+        "超頻驅動強化！",
+        null,
+        null,
+        null,
+        null,
+        "Overdrive enhanced!",
+        "Overdrive\u001a \u001aenhanced\u001a!\u001a"
+    ],
     "UNIT_MIX_GET_BRAVE_SHIFT_TYPE_LIMIT": [
         "Super Limit Burst unlocked!",
         "解放超級極限技！",
@@ -34150,6 +34620,16 @@
         "Seleccionar todas las unidades",
         "Pilih Semua Unit",
         "เลือก\u001aยู\u001aนิ\u001aท\u001aทั้งหมด\u001a"
+    ],
+    "UNIT_OVER_DRIVE": [
+        "Overdrive",
+        "超頻驅動",
+        null,
+        null,
+        null,
+        null,
+        "Overdrive",
+        "Overdrive\u001a"
     ],
     "UNIT_PARTY_UNIT_SELECT": [
         "Select All Units",
@@ -35261,6 +35741,16 @@
         "Peningkatan Damage terhadap Jenis  Musuh",
         "ค่า\u001aความเสียหาย\u001aที่\u001aเพิ่ม\u001aเมื่อ\u001aโจมตี\u001aศัตรู\u001aชนิด\u001aที่\u001aกำหนด\u001a"
     ],
+    "UNIT_SUPER_LIMIT_BURST": [
+        "Super Limit Burst",
+        "超級極限技",
+        null,
+        null,
+        null,
+        null,
+        "Super Limit Burst",
+        "Super\u001a \u001aLimit\u001a \u001aBurst\u001a"
+    ],
     "UNIT_SUPER_TRUST_MASTER_REWARD": [
         "Super Trust Master Reward",
         "超級信賴度滿點報酬",
@@ -35270,6 +35760,16 @@
         null,
         "Super Trust Master Reward",
         "Super\u001a \u001aTrust\u001a \u001aMaster\u001a \u001aReward\u001a"
+    ],
+    "UNIT_TARGET_CATEGORY": [
+        "Target Category:",
+        "特定類別：",
+        null,
+        null,
+        null,
+        null,
+        "Target Category:",
+        "Target\u001a \u001aCategory\u001a:\u001a"
     ],
     "UNIT_TOP": [
         "Manage Party",
